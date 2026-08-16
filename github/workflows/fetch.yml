@@ -1,0 +1,41 @@
+name: Haber Tarama
+
+on:
+  schedule:
+    # Her 10 dakikada bir çalışır (UTC zamanına göre).
+    # Daha sık/seyrek istersen bu satırı değiştir: https://crontab.guru
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}  # Actions sekmesinden manuel tetiklemek için
+
+permissions:
+  contents: write
+
+concurrency:
+  group: haber-tarama
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu çek
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıkları yükle
+        run: pip install -r requirements.txt
+
+      - name: Haberleri tara
+        run: python fetch_news.py
+
+      - name: Değişiklikleri commit'le
+        run: |
+          git config user.name "haber-izleyici-bot"
+          git config user.email "actions@github.com"
+          git add data/news.json
+          git diff --quiet --cached || git commit -m "Haberler güncellendi ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          git push

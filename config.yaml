@@ -20,6 +20,8 @@ sources:
     url: "https://www.sozcu.com.tr/feeds-son-dakika"
   - name: "Evrensel"
     url: "https://www.evrensel.net/rss/haber.xml"
+  - name: "Bir Gün"
+    url: "https://www.birgun.net/rss/home" 
 
   # NOT: DHA (Demirören Haber Ajansı) herkese açık ücretsiz bir RSS sunmuyor,
   # abonelik ile şifreli/özel bir URL veriyor. Aboneliğin varsa aşağıya

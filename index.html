@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Haber İzleyici</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #171a21;
+    --card-hover: #1e222b;
+    --text: #e6e8eb;
+    --muted: #8b93a1;
+    --accent: #ff4d4d;
+    --accent-soft: rgba(255,77,77,0.12);
+    --border: #2a2e37;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+  }
+  header h1 {
+    margin: 0 0 4px 0;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  header .meta {
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .controls {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+  }
+  .controls input[type="text"] {
+    flex: 1;
+    min-width: 200px;
+    padding: 9px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--text);
+    font-size: 14px;
+  }
+  .controls select, .controls button {
+    padding: 9px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    color: var(--text);
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .controls button.active, .controls select:focus, .controls input:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+  .toggle-match {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 9px 12px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    font-size: 14px;
+  }
+  main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 24px 60px;
+  }
+  .item {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    transition: background 0.15s;
+  }
+  .item:hover {
+    background: var(--card-hover);
+  }
+  .item.matched {
+    border-color: var(--accent);
+    background: linear-gradient(180deg, var(--accent-soft), var(--card) 40%);
+  }
+  .item-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+    gap: 10px;
+  }
+  .source-tag {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .time-tag {
+    font-size: 12px;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .item a.title-link {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+  .item a.title-link:hover {
+    color: var(--accent);
+  }
+  .summary {
+    color: var(--muted);
+    font-size: 14px;
+    margin-top: 6px;
+    line-height: 1.5;
+  }
+  .badges {
+    margin-top: 8px;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+  .badge {
+    font-size: 11px;
+    background: var(--accent);
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-weight: 600;
+  }
+  .empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 60px 20px;
+  }
+  .stats {
+    color: var(--muted);
+    font-size: 13px;
+    margin-bottom: 14px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📰 Haber İzleyici</h1>
+  <div class="meta" id="lastUpdated">Yükleniyor...</div>
+  <div class="controls">
+    <input type="text" id="searchBox" placeholder="Başlık/özet içinde ara...">
+    <select id="sourceFilter">
+      <option value="">Tüm kaynaklar</option>
+    </select>
+    <button id="matchOnlyBtn" class="toggle-match">🎯 Sadece eşleşenler</button>
+  </div>
+</header>
+
+<main>
+  <div class="stats" id="stats"></div>
+  <div id="list"></div>
+</main>
+
+<script>
+let allItems = [];
+let showMatchOnly = false;
+
+function timeAgo(isoString) {
+  const now = new Date();
+  const then = new Date(isoString);
+  const diffMs = now - then;
+  const mins = Math.floor(diffMs / 60000);
+  if (mins < 1) return "az önce";
+  if (mins < 60) return `${mins} dk önce`;
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return `${hours} sa önce`;
+  const days = Math.floor(hours / 24);
+  return `${days} gün önce`;
+}
+
+function render() {
+  const search = document.getElementById('searchBox').value.trim().toLowerCase();
+  const sourceFilter = document.getElementById('sourceFilter').value;
+
+  let filtered = allItems.filter(item => {
+    if (showMatchOnly && !item.matched) return false;
+    if (sourceFilter && item.source !== sourceFilter) return false;
+    if (search) {
+      const haystack = (item.title + ' ' + item.summary).toLowerCase();
+      if (!haystack.includes(search)) return false;
+    }
+    return true;
+  });
+
+  document.getElementById('stats').textContent =
+    `${filtered.length} haber gösteriliyor (toplam ${allItems.length})`;
+
+  const listEl = document.getElementById('list');
+  if (filtered.length === 0) {
+    listEl.innerHTML = '<div class="empty">Gösterilecek haber yok.</div>';
+    return;
+  }
+
+  listEl.innerHTML = filtered.map(item => `
+    <div class="item ${item.matched ? 'matched' : ''}">
+      <div class="item-top">
+        <span class="source-tag">${escapeHtml(item.source)}</span>
+        <span class="time-tag">${timeAgo(item.published)}</span>
+      </div>
+      <a class="title-link" href="${escapeHtml(item.link)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>
+      ${item.summary ? `<div class="summary">${escapeHtml(item.summary)}</div>` : ''}
+      ${item.matched && item.matched_keywords.length ? `
+        <div class="badges">
+          ${item.matched_keywords.map(kw => `<span class="badge">${escapeHtml(kw)}</span>`).join('')}
+        </div>` : ''}
+    </div>
+  `).join('');
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+async function loadData() {
+  try {
+    const res = await fetch('data/news.json?t=' + Date.now());
+    const data = await res.json();
+    allItems = data.items || [];
+
+    const sources = [...new Set(allItems.map(i => i.source))].sort();
+    const sourceSelect = document.getElementById('sourceFilter');
+    const currentVal = sourceSelect.value;
+    sourceSelect.innerHTML = '<option value="">Tüm kaynaklar</option>' +
+      sources.map(s => `<option value="${escapeHtml(s)}">${escapeHtml(s)}</option>`).join('');
+    sourceSelect.value = currentVal;
+
+    const updated = new Date(data.last_updated);
+    document.getElementById('lastUpdated').textContent =
+      `Son güncelleme: ${updated.toLocaleString('tr-TR')} · ${data.new_items_this_run || 0} yeni haber (son taramada)`;
+
+    render();
+  } catch (e) {
+    document.getElementById('lastUpdated').textContent = 'Veri yüklenemedi. data/news.json henüz oluşmamış olabilir.';
+    console.error(e);
+  }
+}
+
+document.getElementById('searchBox').addEventListener('input', render);
+document.getElementById('sourceFilter').addEventListener('change', render);
+document.getElementById('matchOnlyBtn').addEventListener('click', (e) => {
+  showMatchOnly = !showMatchOnly;
+  e.target.classList.toggle('active', showMatchOnly);
+  e.target.style.background = showMatchOnly ? 'var(--accent)' : 'var(--card)';
+  render();
+});
+
+loadData();
+setInterval(loadData, 60000); // her dakika veriyi tazele
+</script>
+
+</body>
+</html>

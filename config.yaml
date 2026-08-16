@@ -1,0 +1,36 @@
+# Haber İzleyici Ayarları
+# ------------------------
+# sources: izlenecek RSS kaynakları. İstediğin kadar ekleyip çıkarabilirsin.
+# keywords: bu kelimelerden biri başlık veya özette geçerse "eşleşme" olarak işaretlenir.
+#           Büyük/küçük harf duyarlı değildir. Boş bırakırsan tüm haberler gösterilir.
+# max_items_per_source: her kaynaktan en fazla kaç haber çekilsin (performans için)
+
+sources:
+  - name: "Habertürk"
+    url: "https://www.haberturk.com/rss"
+  - name: "Anadolu Ajansı (Güncel)"
+    url: "https://www.aa.com.tr/tr/rss/default?cat=guncel"
+  - name: "Cumhuriyet"
+    url: "https://www.cumhuriyet.com.tr/rss/son_dakika.xml"
+  - name: "T24"
+    url: "https://t24.com.tr/rss/haberler"
+  - name: "Türkiye Gazetesi"
+    url: "https://www.turkiyegazetesi.com.tr/feed"
+  - name: "Sözcü"
+    url: "https://www.sozcu.com.tr/feeds-son-dakika"
+  - name: "Evrensel"
+    url: "https://www.evrensel.net/rss/haber.xml"
+
+  # NOT: DHA (Demirören Haber Ajansı) herkese açık ücretsiz bir RSS sunmuyor,
+  # abonelik ile şifreli/özel bir URL veriyor. Aboneliğin varsa aşağıya
+  # kendi özel RSS linkini ekleyebilirsin, örnek:
+  # - name: "DHA"
+  #   url: "https://www.dha.com.tr/RSS_URL_BURAYA"
+
+keywords:
+  # Örnek: buraya takip etmek istediğin isim, kurum, olay gibi kelimeleri yaz.
+  # Örnek: "deprem", "seçim", "bakanlık", "Merkez Bankası"
+  - "örnek kelime 1"
+  - "örnek kelime 2"
+
+max_items_per_source: 30

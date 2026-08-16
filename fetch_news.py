@@ -12,12 +12,24 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import feedparser
+import requests
 import yaml
 
 ROOT = Path(__file__).parent
 CONFIG_PATH = ROOT / "config.yaml"
 DATA_PATH = ROOT / "data" / "news.json"
 MAX_STORED_ITEMS = 500  # dosyanın şişmemesi için tutulan toplam haber sayısı üst sınırı
+
+# Bazı haber siteleri, tarayıcı gibi görünmeyen (User-Agent'sız) isteklere
+# 403 Forbidden ile cevap veriyor. Gerçek bir tarayıcı gibi görünmek için:
+REQUEST_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+}
+REQUEST_TIMEOUT = 15  # saniye
 
 
 def load_config():
@@ -67,9 +79,13 @@ def fetch_source(source, keywords, max_items):
     url = source["url"]
     items = []
     try:
-        feed = feedparser.parse(url)
-        if feed.bozo and not feed.entries:
-            print(f"[UYARI] '{name}' kaynağı okunamadı: {feed.bozo_exception}")
+        response = requests.get(url, headers=REQUEST_HEADERS, timeout=REQUEST_TIMEOUT)
+        response.raise_for_status()
+        feed = feedparser.parse(response.content)
+
+        if not feed.entries:
+            reason = feed.bozo_exception if feed.bozo else "besleme boş döndü"
+            print(f"[UYARI] '{name}' kaynağında hiç haber bulunamadı: {reason}")
             return items
 
         for entry in feed.entries[:max_items]:
@@ -91,8 +107,10 @@ def fetch_source(source, keywords, max_items):
                 "matched_keywords": hits,
                 "fetched_at": datetime.now(timezone.utc).isoformat(),
             })
+    except requests.exceptions.RequestException as e:
+        print(f"[HATA] '{name}' kaynağına bağlanılamadı: {e}")
     except Exception as e:
-        print(f"[HATA] '{name}' kaynağı çekilirken sorun oluştu: {e}")
+        print(f"[HATA] '{name}' kaynağı çekilirken beklenmeyen bir sorun oluştu: {e}")
 
     return items
 

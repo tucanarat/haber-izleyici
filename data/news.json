@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T21:50:43.000021+00:00",
+  "last_updated": "2026-08-18T21:55:35.997818+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 23,
   "items": [
+    {
+      "id": "2b4c475e061f56c0",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Muğla'da yolcu otobüsü ile tırın çarpıştığı kazada ölü sayısı 4'e yükseldi",
+      "summary": "Muğla'nın Milas ilçesinde yolcu otobüsü ile tırın çarpışması sonucu ağır yaralanan polis memuru Mehmet Arif Şefkatlı'nın hayatını kaybetmesiyle kazada ölenlerin sayısı 4'e yükseldi.",
+      "link": "https://www.aa.com.tr/tr/gundem/muglada-yolcu-otobusu-ile-tirin-carpistigi-kazada-olu-sayisi-4e-yukseldi/4031120",
+      "published": "2026-08-18T21:51:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T21:55:32.666228+00:00"
+    },
+    {
+      "id": "339956b59839ed69",
+      "source": "Cumhuriyet",
+      "title": "Seyir halindeki araç alev aldı",
+      "summary": "Ankara'nın Polatlı ilçesinde seyir halindeki bir otomobilde çıkan yangın, itfaiye ekiplerinin müdahalesiyle söndürüldü. Yangında araç kullanılamaz hale gelirken, olayla ilgili inceleme başlatıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/seyir-halindeki-arac-alev-aldi-2530312",
+      "published": "2026-08-18T21:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T21:55:32.987283+00:00"
+    },
     {
       "id": "d95c852e71f66508",
       "source": "Cumhuriyet",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T12:15:44.668521+00:00"
-    },
-    {
-      "id": "ba95be4282392257",
-      "source": "Türkiye Gazetesi",
-      "title": "\"Netanyahu sıkışınca Cumhurbaşkanımıza saldırıyor\"",
-      "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, İsrail Başbakanı Netanyahu'nun, Cumhurbaşkanı Recep Tayyip Erdoğan'ı hedef almasına tepki göstererek, \"Bu insanlık düşmanı şebeke İsrail’in iç siyasetinde sıkıştıkça Sayın Cumhurbaşkanımıza saldırıyor. Bunun sebebi, Sayın Cumhurbaşkanımızın bu katliam şebekesine karşı “insanlık ittifakı”nın en kararlı duruşuna sahip olmasındandır. Netan",
-      "link": "https://www.turkiyegazetesi.com.tr/politika/omer-celikten-netanyahuya-sert-tepki-sikistikca-cumhurbaskanimiza-saldiriyor-1810012",
-      "published": "2026-08-18T12:07:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T12:10:37.480358+00:00"
-    },
-    {
-      "id": "ba9d5a0ec9e42496",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Trump, Hürmüz Boğazı'nı \"ABD toprağı\" olarak gösteren bir görsel paylaştı",
-      "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın \"ABD toprağı\" olarak gösterildiği bir harita paylaştı.",
-      "link": "https://www.aa.com.tr/tr/dunya/trump-hurmuz-bogazini-abd-topragi-olarak-gosteren-bir-gorsel-paylasti/4030560",
-      "published": "2026-08-18T12:07:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T12:10:35.274337+00:00"
     }
   ]
 }

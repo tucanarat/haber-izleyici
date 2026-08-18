@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-18T13:01:16.908467+00:00",
+  "last_updated": "2026-08-18T13:05:32.241545+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 19,
+  "new_items_this_run": 3,
   "items": [
+    {
+      "id": "9b909dfc3d8d51ed",
+      "source": "Türkiye Gazetesi",
+      "title": "10 YIL SONRA FLAŞ GELİŞME!",
+      "summary": "7 Eylül 2016'da hayatını kaybeden eski bakan Arif Ahmet Denizolgun şüpheli ölümünde flaş bir gelişme yaşandı. Denizolgun için feth-i kabir kararı verildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/10-yil-once-olmustu-eski-bakan-arif-ahmet-denizolgun-icin-feth-i-kabir-karari-1810030",
+      "published": "2026-08-18T13:03:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:05:31.607616+00:00"
+    },
     {
       "id": "dd344be0f645d8bd",
       "source": "Cumhuriyet",
@@ -347,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T12:45:38.877214+00:00"
+    },
+    {
+      "id": "bad557c7d96dd128",
+      "source": "Cumhuriyet",
+      "title": "Mustafa Bozbey, CHP'den istifa ettiğini açıkladı! Cumhuriyet sordu: Yoluna nasıl devam edecek?",
+      "summary": "Bursa Büyükşehir Belediye Başkanı Mustafa Bozbey, CHP'den istifa ettiğini açıkladı. Bozbey, “Hakkımdaki hukuki sürecin hiçbir siyasi hesabın gölgesinde kalmasını istemiyorum” diyerek kararını sorumluluk duygusuyla aldığını belirtti.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/mustafa-bozbey-chp-den-istifa-ettigini-acikladi-2530136",
+      "published": "2026-08-18T12:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:05:29.993587+00:00"
     },
     {
       "id": "ab150dae302d379a",
@@ -2989,6 +3011,17 @@
       "fetched_at": "2026-08-18T10:47:06.045780+00:00"
     },
     {
+      "id": "39482220da669ed5",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Çitlekçi halka arz geliriyle 2030'da 99 mağazaya ulaşmayı hedefliyor",
+      "summary": "Çitlekçi Mağazacılık Gıda AŞ CFO'su Kazım Altındağ, \"Halka arzdan elde ettiğimiz 2,7 milyar liranın tamamını yatırıma dönüştürerek büyüme hızımızı daha da artırmak istiyoruz.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/citlekci-halka-arz-geliriyle-2030da-99-magazaya-ulasmayi-hedefliyor/4030368",
+      "published": "2026-08-18T09:55:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:05:29.745624+00:00"
+    },
+    {
       "id": "e06dd6c950fc577c",
       "source": "Cumhuriyet",
       "title": "TMMOB Maden Mühendisleri Odası'ndan, Yıldızlar SSS Holding çağrısı: 'Ruhsatlarını iptal edin'",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-16T07:45:02.765839+00:00"
-    },
-    {
-      "id": "96414f0034ab41c1",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Türkiye Görme Engelliler B1 Erkek Futbol Takımı, Avrupa Şampiyonası'nda mücadele edecek",
-      "summary": "Türkiye Görme Engelliler B1 Futbol Erkek Takımı, Fransa'da yarın başlayacak IBSA B1 Avrupa Şampiyonası'nda mücadele edecek.",
-      "link": "https://www.aa.com.tr/tr/spor/turkiye-gorme-engelliler-b1-erkek-futbol-takimi-avrupa-sampiyonasinda-mucadele-edecek/4028551",
-      "published": "2026-08-16T06:27:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.581772+00:00"
-    },
-    {
-      "id": "6d572ffce6437b92",
-      "source": "Cumhuriyet",
-      "title": "Beşiktaş - Eyüpspor maçı ne zaman, saat kaçta, hangi kanalda? Şifresiz mi?",
-      "summary": "Beşiktaş, Süper Lig'in ilk haftasında Eyüpspor ile karşılaşacak. Zorlu mücadele 21:30'da başlayacak.",
-      "link": "https://www.cumhuriyet.com.tr/spor/besiktas-eyupspor-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2529431",
-      "published": "2026-08-16T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.818688+00:00"
-    },
-    {
-      "id": "ab7598fb367b3f14",
-      "source": "Cumhuriyet",
-      "title": "SDG’nin Kobani sorumlusu Erdoğan ve Bahçeli'yi övdü, 'YPG-SDG’nin feshini birkaç gün içinde duyuracağız' dedi",
-      "summary": "SDG'nin Kobani sorumlusu Mahmut Berxwedan, Şam'daki HTŞ yönetimiyle askeri sorunların yüzde 99 oranında aşıldığını belirterek, \"Birkaç gün içerisinde YPG-SDG'nin feshini duyuracağız. Özerk yönetim yapısı da ortadan kalkacak\" dedi. AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan ve MHP lideri Devlet Bahçeli'yi de öven Berxwedan \"Erdoğan ve Bahçeli’nin üstlendiği misyon gerçek bir vatansever sorumluluğu v",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/sdg-nin-kobani-sorumlusu-erdogan-ve-bahceli-yi-ovdu-ypg-sdg-nin-feshini-birkac-gun-icinde-duyuracagiz-dedi-2529433",
-      "published": "2026-08-16T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.818728+00:00"
     }
   ]
 }

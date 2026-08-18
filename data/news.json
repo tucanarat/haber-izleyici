@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-18T13:15:40.198895+00:00",
+  "last_updated": "2026-08-18T13:20:41.837167+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 12,
+  "new_items_this_run": 3,
   "items": [
     {
       "id": "9ed6c09ff6a62f15",
@@ -52,6 +52,17 @@
       "fetched_at": "2026-08-18T13:15:39.267718+00:00"
     },
     {
+      "id": "e65faa6701dfc9cb",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Türkiye, FIBA'nın Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" zirvede",
+      "summary": "Türkiye, FIBA 2027 Basketbol Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" ilk sıradaki yerini korudu.",
+      "link": "https://www.aa.com.tr/tr/spor/turkiye-fibanin-dunya-kupasi-avrupa-elemeleri-guc-siralamasinda-zirvede/4030629",
+      "published": "2026-08-18T13:08:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:20:38.066173+00:00"
+    },
+    {
       "id": "cb5ee3531f5a43dc",
       "source": "Evrensel",
       "title": "Ankara'da ittifak görüşmeleri hızlandı",
@@ -72,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T13:10:39.590699+00:00"
+    },
+    {
+      "id": "80b2d201e039fd37",
+      "source": "Cumhuriyet",
+      "title": "Son Dakika... Süleymancıların lideri Arif Ahmet Denizolgun’un mezarı açılacak",
+      "summary": "Son dakika haberi... Süleymancıların lideri, eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un şüpheli ölümüyle ilgili yürütülen soruşturmada kritik bir gelişme yaşandı. Bakırköy Cumhuriyet Başsavcılığının talebi üzerine Denizolgun hakkında feth-i kabir kararı verildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-suleymancilarin-lideri-arif-ahmet-denizolgun-un-mezari-acilacak-2530155",
+      "published": "2026-08-18T13:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:20:38.357444+00:00"
     },
     {
       "id": "0c426edd28776c3c",
@@ -138,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T13:05:31.607616+00:00"
+    },
+    {
+      "id": "e8cf3c6b9bcf1770",
+      "source": "Türkiye Gazetesi",
+      "title": "GULYABANİ GİBİ ORTAYA ÇIKIYOR",
+      "summary": "Sakarya’nın Adapazarı ilçesinde Evren Mahallesi sakinleri, yaklaşık 6 aydır gece saatlerinde evlere taş atan, lazer tutarak mahalleliyi rahatsız eden ve güvenlik kameralarını taşlayarak devre dışı bırakan kimliği belirsiz kişiyi yakalamak için geceleri nöbet tutuyor. Vatandaşların defalarca peşine düştüğü şahıs, son kovalamacada bir mahalle sakininin bacağına taş isabet ederek yaralanmasına da ned",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/gulyabaniyi-aratmayan-olay-mahalleli-uykuyu-unuttu-gece-ortaya-cikip-evleri-tasliyor-1810029",
+      "published": "2026-08-18T13:02:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:20:40.714547+00:00"
     },
     {
       "id": "52a3e53335601ef4",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-16T07:45:01.818552+00:00"
-    },
-    {
-      "id": "0d43885572b15249",
-      "source": "Türkiye Gazetesi",
-      "title": "Arda Turan, Necip Uysal'a veda etti",
-      "summary": "Arda Turan, Beşiktaş’ın Eyüpspor maçı öncesi veda töreni düzenlenecek Necip Uysal için duygusal bir mesaj paylaşırken, tecrübeli futbolcuya “Türk gençliğine örnek olacak bir hikayenin kahramanı oldun” sözleriyle veda etti.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/arda-turan-duygu-dolu-sozlerle-veda-etti-1809514",
-      "published": "2026-08-16T06:50:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:02.482372+00:00"
-    },
-    {
-      "id": "493637d4b9af77c5",
-      "source": "Cumhuriyet",
-      "title": "AKOM gün gün açıkladı: İstanbul'da bu hafta hava nasıl olacak?",
-      "summary": "İstanbul Büyükşehir Belediyesi (İBB) AKOM, İstanbul ve yurdun kuzey bölgelerinin Balkanlar üzerinden gelen serin havanın etkisi altına girdiğini duyurdu. Kentte poyrazın aralıklarla fırtına şeklinde esmesi beklenirken sıcaklıkların mevsim normallerinin altına düşeceği bildirildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/akom-gun-gun-acikladi-istanbul-da-bu-hafta-hava-nasil-olacak-2529437",
-      "published": "2026-08-16T06:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.818584+00:00"
-    },
-    {
-      "id": "8ff5578d8089caf6",
-      "source": "Türkiye Gazetesi",
-      "title": "Evlada adanmış bir ömür! 26 yıllık sevgi yürekleri ısıttı: Herkes ‘Örnek baba’ dedi, O ‘Allah’ın emaneti’",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/evlada-adanmis-bir-omur-26-yillik-sevgi-yurekleri-isitti-herkes-ornek-baba-dedi-o-all-1809513",
-      "published": "2026-08-16T06:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:02.482395+00:00"
     }
   ]
 }

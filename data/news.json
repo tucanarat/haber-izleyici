@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T16:15:44.345769+00:00",
+  "last_updated": "2026-08-18T16:20:47.296563+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 33,
   "items": [
+    {
+      "id": "74ff0463135dfb6d",
+      "source": "Türkiye Gazetesi",
+      "title": "Kritik operasyon! Süheyl Nedim Abbas yakalandı",
+      "summary": "Suriye İç Güvenlik Güçleri, devrik rejimin tümgenerali Süheyl Nedim Abbas'ı yakaladı. Abbas'ın, çeşitli illerde Suriyelilere yönelik askeri operasyonlara katıldığı ve ihlallerde bulunduğu öne sürüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/suheyl-nedim-abbas-yakalandi-hakkinda-agir-suclamalar-var-1810062",
+      "published": "2026-08-18T16:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T16:20:46.546633+00:00"
+    },
     {
       "id": "aa98977aaa8d2b23",
       "source": "Cumhuriyet",
@@ -72,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T16:05:34.950302+00:00"
+    },
+    {
+      "id": "4176c9a5fe862583",
+      "source": "Sözcü",
+      "title": "ultrAslan lideri Muzaffer Şirin'in uyuşturucu testi pozitif çıktı",
+      "summary": "ultrAslan lideri Muzaffer Şirin'in uyuşturucu testi pozitif çıktı",
+      "link": "https://www.sozcu.com.tr/muzaffer-sirin-in-uyusturucu-testi-cikti-p350548",
+      "published": "2026-08-18T16:00:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T16:20:46.916933+00:00"
     },
     {
       "id": "26d1ccfbb325c320",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T10:47:06.398789+00:00"
-    },
-    {
-      "id": "53ec0fad1766ce11",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Borsa İstanbul'da gong Çitlekçi için çaldı",
-      "summary": "Halka arz sürecini tamamlayan Çitlekçi Mağazacılık Gıda AŞ, Borsa İstanbul'da düzenlenen gong töreniyle \"CITAS\" koduyla işlem görmeye başladı.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-citlekci-icin-caldi/4030348",
-      "published": "2026-08-18T09:42:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:03.569627+00:00"
-    },
-    {
-      "id": "0b3b9e1e31f05abd",
-      "source": "Cumhuriyet",
-      "title": "Sabahat Akkiraz kimdir, kaç yaşında, nereli? Sanatçı Sabahat Akkiraz'ın hayatı ve kariyeri",
-      "summary": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Hacıbektaş’taki etkinlikte Sabahat Akkiraz’ın sahneye çıkmasıyla alandan ayrıldı, dinletinin ardından protokoldeki yerine döndü. Bu tavır Akkiraz’a yönelik protesto olarak yorumlanırken sanatçı, “Benim deyişlerim herkese nasip olmaz” sözleriyle tepki gösterdi. Peki, Sabahat Akkiraz kimdir, kaç yaşında, nereli? Sanatçı Sabahat Akkiraz'ın hayatı ve kar",
-      "link": "https://www.cumhuriyet.com.tr/yasam/sabahat-akkiraz-kimdir-kac-yasinda-nereli-sanatci-sabahat-akkiraz-in-hayati-ve-kariyeri-2530065",
-      "published": "2026-08-18T09:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:03.870223+00:00"
     }
   ]
 }

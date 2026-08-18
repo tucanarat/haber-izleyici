@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-08-18T14:10:41.798352+00:00",
+  "last_updated": "2026-08-18T14:15:41.748717+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 5,
+  "new_items_this_run": 10,
   "items": [
+    {
+      "id": "129ebc27f9746131",
+      "source": "Cumhuriyet",
+      "title": "Yeni iddialar iPhone 18 Pro Max modelinde özel bir kamera sistemini ortaya koyuyor",
+      "summary": "Yeni ortaya çıkan bazı bilgilere göre iPhone 18 Pro Max modelinde yer alacak kamera sistemi değişken diyaframa sahip olacak. Bu sayede yakınlaştırma performansı da iyileşecek.",
+      "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yeni-iddialar-iphone-18-pro-max-modelinde-ozel-bir-kamera-sistemini-ortaya-koyuyor-2530182",
+      "published": "2026-08-18T14:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T14:15:38.660215+00:00"
+    },
+    {
+      "id": "0b0b44f73622a5a0",
+      "source": "Cumhuriyet",
+      "title": "780 bin TL değerinde! Kuyucak'ta 'taklit zeytinyağı' ele geçirildi",
+      "summary": "Aydın'ın Kuyucak ilçesinde jandarma ekiplerinin gerçekleştirdiği operasyonda, piyasaya sürülmek üzere taşındığı değerlendirilen 4 bin 780 litre taklit ve tağşiş zeytinyağı ele geçirildi. Ürünlerin piyasa değerinin yaklaşık 780 bin 400 TL olduğu belirlendi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/780-bin-tl-degerinde-kuyucak-ta-taklit-zeytinyagi-ele-gecirildi-2530181",
+      "published": "2026-08-18T14:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T14:15:38.660255+00:00"
+    },
+    {
+      "id": "28ec7d861b6c60b6",
+      "source": "Türkiye Gazetesi",
+      "title": "Türkiye krizinde S-400 için sürpriz seçenekler masada: ABD basını BAE ve imha planını yazdı!",
+      "summary": "ABD merkezli yayın organı Semafor, Türkiye’nin F-35 programına yeniden katılımı ve S-400 krizinin aşılması için Washington ve Ankara hatlarında görüşülen esnek formülleri yazdı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/turkiye-krizinde-s-400-icin-surpriz-secenekler-masada-abd-basini-bae-ve-imha-planini-1810044",
+      "published": "2026-08-18T14:13:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T14:15:40.910229+00:00"
+    },
+    {
+      "id": "6875be19dbd80482",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Dışişleri Bakanlığı: Ebu Zuhur Askeri Hava Üssü’ne İsrail tarafından düzenlenen hava saldırısını kınıyoruz",
+      "summary": "Dışişleri Bakanlığından, \"Suriye’nin İdlip kırsalındaki Ebu Zuhur Askeri Hava Üssü’ne sabaha karşı İsrail tarafından düzenlenen hava saldırılarını güçlü şekilde kınıyoruz.\" açıklaması yapıldı.",
+      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-ebu-zuhur-askeri-hava-ussu-ne-israil-tarafindan-duzenlenen-hava-saldirisini-kiniyoruz/4030722",
+      "published": "2026-08-18T14:12:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T14:15:38.182187+00:00"
+    },
+    {
+      "id": "725a834f82e05e54",
+      "source": "Cumhuriyet",
+      "title": "Zihinsel esneklik eğitimiyle beyin yapısı değişiyor: Stresle mücadelede yeni tıp yöntemi",
+      "summary": "Illinois Urbana-Champaign Üniversitesi araştırmacıları, 5 haftalık zihinsel egzersiz eğitimiyle beynin stres odaklarını yeniden yapılandırmayı başardı. Çalışma, odaklanmış dikkat ve bilişsel değerlendirme tekniklerinin beynin sınırlarını değiştirerek duygusal dayanıklılığı artırdığını belgeledi.",
+      "link": "https://www.cumhuriyet.com.tr/yasam/zihinsel-esneklik-egitimiyle-beyin-yapisi-degisiyor-stresle-mucadelede-yeni-tip-yontemi-2530180",
+      "published": "2026-08-18T14:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T14:15:38.660290+00:00"
+    },
     {
       "id": "e6d309cab9caef67",
       "source": "Türkiye Gazetesi",
@@ -666,6 +721,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T13:15:39.771873+00:00"
+    },
+    {
+      "id": "b81faaff3714ab9f",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Yunanistan'da birçok bölgede orman yangınları çıktı",
+      "summary": "Yunanistan'ın Eğriboz ve Korfu adaları ile Thiva ve Meriç ilinde orman yangınları çıktığı belirtildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-bircok-bolgede-orman-yanginlari-cikti/4030627",
+      "published": "2026-08-18T13:06:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T14:15:38.182465+00:00"
     },
     {
       "id": "49c1117ad99312bf",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T13:15:33.654780+00:00"
-    },
-    {
-      "id": "005ac731457471ba",
-      "source": "Sözcü",
-      "title": "Cesedi 10 yıl derin dondurucuda sakladılar! 3 ilde operasyon yapıldı, 13 kişi tutuklandı",
-      "summary": "Cesedi 10 yıl derin dondurucuda sakladılar! 3 ilde operasyon yapıldı, 13 kişi tutuklandı",
-      "link": "https://www.sozcu.com.tr/cesedi-10-yil-derin-dondurucuda-sakladilar-3-ilde-operasyon-yapildi-13-kisi-tutuklandi-p350282",
-      "published": "2026-08-17T20:34:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:06.045902+00:00"
-    },
-    {
-      "id": "b6d583eaf90bd508",
-      "source": "Sözcü",
-      "title": "AKP'li Leyla Şahin Usta trafik kazası geçirdi, hastaneye kaldırıldı",
-      "summary": "AKP'li Leyla Şahin Usta trafik kazası geçirdi, hastaneye kaldırıldı",
-      "link": "https://www.sozcu.com.tr/akpli-leyla-sahin-usta-trafik-kazasi-gecirdi-hastaneye-kaldirildi-p350237",
-      "published": "2026-08-17T15:21:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:06.045940+00:00"
-    },
-    {
-      "id": "2f530576e89d61d7",
-      "source": "Sözcü",
-      "title": "SON DAKİKA... Emekli Amiral Türker Ertürk'e tutuklama talebi",
-      "summary": "SON DAKİKA... Emekli Amiral Türker Ertürk'e tutuklama talebi",
-      "link": "https://www.sozcu.com.tr/son-dakika-emekli-amiral-turker-erturk-e-sorusturma-p350025",
-      "published": "2026-08-17T15:14:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:06.046058+00:00"
-    },
-    {
-      "id": "ff0837c56940d765",
-      "source": "Sözcü",
-      "title": "Boşanma sürecindeki eşini darbeden polis memuru o ifadeler sonrası tahliye edildi",
-      "summary": "Boşanma sürecindeki eşini darbeden polis memuru o ifadeler sonrası tahliye edildi",
-      "link": "https://www.sozcu.com.tr/bosanma-davasi-acan-esini-darbeden-polis-memuru-tahliye-edildi-p350225",
-      "published": "2026-08-17T14:44:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:06.045963+00:00"
-    },
-    {
-      "id": "3c21cbc2bbb56f1a",
-      "source": "Sözcü",
-      "title": "YHT biletlerine zam: Ankara-İstanbul fiyatı 990 TL oldu",
-      "summary": "YHT biletlerine zam: Ankara-İstanbul fiyatı 990 TL oldu",
-      "link": "https://www.sozcu.com.tr/yht-biletlerine-zam-ankaraistanbul-fiyati-990-tl-oldu-p350028",
-      "published": "2026-08-17T14:00:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:06.046040+00:00"
-    },
-    {
-      "id": "cd5091f359fe8798",
-      "source": "Sözcü",
-      "title": "CANLI | İBB davasında ikinci celse başladı: İmamoğlu'nun savunması alınacak",
-      "summary": "CANLI | İBB davasında ikinci celse başladı: İmamoğlu'nun savunması alınacak",
-      "link": "https://www.sozcu.com.tr/canli-veya-ibb-davasinda-ikinci-celse-basladi-imamoglu-icin-savunma-hakki-talebi-p350131",
-      "published": "2026-08-17T12:44:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:06.046004+00:00"
     }
   ]
 }

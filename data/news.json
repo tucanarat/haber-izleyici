@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-08-18T13:35:38.435883+00:00",
+  "last_updated": "2026-08-18T13:40:44.368011+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 5,
+  "new_items_this_run": 4,
   "items": [
+    {
+      "id": "ce6055c3352cff7d",
+      "source": "Türkiye Gazetesi",
+      "title": "Yangın ahıra sıçradı: 53 büyükbaş hayvan telef oldu",
+      "summary": "Samsun Atakum'daki parke tesisinde lambadan çıkan kıvılcımlar nedeniyle yangın çıktı. Kısa sürede bitişikteki ahıra sıçrayan alevler sonucu 53 büyükbaş hayvan telef oldu. İtfaiye ekiplerinin müdahalesiyle söndürülen yangınla ilgili inceleme başlatıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/yangin-ahira-sicradi-53-buyukbas-hayvan-telef-oldu-1810036",
+      "published": "2026-08-18T13:37:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:40:43.780444+00:00"
+    },
+    {
+      "id": "ad6a773cff222b8e",
+      "source": "Cumhuriyet",
+      "title": "Şile'de denizde kaybolan kişinin cesedi bulundu",
+      "summary": "Şile'de 2 önce denizde kaybolan Abdurrahman Muhammadoğlu'nun cesedi (54) sahil güvenlik ekipleri tarafından suda bulundu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/sile-de-denizde-kaybolan-kisinin-cesedi-bulundu-2530166",
+      "published": "2026-08-18T13:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:40:40.003464+00:00"
+    },
+    {
+      "id": "ace554e6fbf75bfd",
+      "source": "Cumhuriyet",
+      "title": "İsrail sınırın öte yanını vurdu, AKP Sözcüsü Ömer Çelik 'uluslararası toplum tepkiyi beraber vermeli' dedi",
+      "summary": "AKP Sözcüsü Ömer Çelik, İsrail'in Suriye'nin Türkiye sınırına yakın bölgesinde hava saldırısı düzenlemesine karşılık \"Buna karşı tüm uluslararası toplum beraber tepki vermelidir\" dedi.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/israil-sinirin-ote-yanini-vurdu-akp-sozcusu-omer-celik-uluslararasi-toplum-tepkiyi-beraber-vermeli-dedi-2530165",
+      "published": "2026-08-18T13:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:40:40.003504+00:00"
+    },
+    {
+      "id": "9b58046976400341",
+      "source": "Cumhuriyet",
+      "title": "12 Dev Adam, FIBA'nın güç sıralamasında zirvede",
+      "summary": "FIBA 2027 Basketbol Dünya Kupası Elemeleri'nde ilk turu namağlup tamamlayan A Milli Erkek Basketbol Takımı, güncellenen güç sıralamasında ilk sıradaki yerini korudu.",
+      "link": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-fiba-nin-guc-siralamasinda-zirvede-2530163",
+      "published": "2026-08-18T13:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T13:40:40.003533+00:00"
+    },
     {
       "id": "7cf733ad5953c36f",
       "source": "Türkiye Gazetesi",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-16T07:45:01.818258+00:00"
-    },
-    {
-      "id": "8388508266c3250f",
-      "source": "Cumhuriyet",
-      "title": "Masumiyet Müzesi'nin Füsun'u Eylül Lize Kandemir trafik denetiminde alkollü yakalandı: Ehliyetine el konuldu",
-      "summary": "İstanbul Sarıyer'de yapılan rutin trafik denetiminde 1,10 promil alkollü olduğu tespit edilen ünlü oyuncu Eylül Lize Kandemir'in ehliyetine el konuldu. Polis merkezine sevk edilen Kandemir hakkında idari para cezası uygulanırken adli ve idari işlem başlatıldı.",
-      "link": "https://www.cumhuriyet.com.tr/magazin/masumiyet-muzesi-nin-fusun-u-eylul-lize-kandemir-trafik-denetiminde-alkollu-yakalandi-ehliyetine-el-konuldu-2529448",
-      "published": "2026-08-16T07:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.818290+00:00"
-    },
-    {
-      "id": "bf08bff81a546d63",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "ASO, Ankara'da düzenlenen NATO zirvesine ilişkin rapor hazırladı",
-      "summary": "Ankara Sanayi Odası, NATO'nun savunma üretimi ve tedarik yapısında öngörülen dönüşümün Ankara sanayisi için oluşturduğu fırsatları, rekabet koşullarını ve riskleri analiz eden kapsamlı bir rapor yayımladı.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/aso-ankarada-duzenlenen-nato-zirvesine-iliskin-rapor-hazirladi/4028579",
-      "published": "2026-08-16T07:18:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.581595+00:00"
-    },
-    {
-      "id": "9865bb6230e781e2",
-      "source": "Evrensel",
-      "title": "Alihan Kuriş ve Başaran Aksu üç gün aynı hücrede kaldı: 'Artık ben de solcuyum' demiş",
-      "summary": "Madencilerin eyleminde gözaltına alınan Bağımsız Maden-İş örgütlenme uzmanı Başaran Aksu, Süleymancıların lideri Alihan Kuriş ile 3 gün aynı hücrede kaldığını açıkladı. Aksu, Kuriş için \"Müritleri ona hücrede bile bir peygamber gibi davranıyor\" dedi.",
-      "link": "https://www.evrensel.net/haber/5996543/alihan-kuris-ve-basaran-aksu-uc-gun-ayni-hucrede-kaldi-artik-ben-de-solcuyum-demis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-16T07:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:02.765693+00:00"
-    },
-    {
-      "id": "cfb66fd7dd0a6239",
-      "source": "Cumhuriyet",
-      "title": "16 Ağustos 2026 bugün hangi yollar kapalı olacak, alternatif güzergahlar neler? İstanbul trafiğe kapatılacak yollar listesi...",
-      "summary": "İstanbul'da 16 Ağustos Pazar günü gerçekleştirilen 2026 Uluslararası Asya ve Avrupa Triatlon Şampiyonası kapsamında ulaşımda geçici düzenlemeler yapıldı. Peki, 16 Ağustos 2026 bugün hangi yollar kapalı olacak, alternatif güzergahlar neler?",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/16-agustos-2026-bugun-hangi-yollar-kapali-olacak-alternatif-guzergahlar-neler-istanbul-trafige-kapatilacak-yollar-listesi-2529445",
-      "published": "2026-08-16T07:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.818322+00:00"
     }
   ]
 }

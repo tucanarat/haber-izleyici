@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-18T23:45:40.870790+00:00",
+  "last_updated": "2026-08-18T23:50:37.397419+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 12,
+  "new_items_this_run": 13,
   "items": [
+    {
+      "id": "2865e27032d96a80",
+      "source": "Türkiye Gazetesi",
+      "title": "GÖZLER EKİM MGK'SINDA!",
+      "summary": "Çerçeve Yasanın yürürlüğe girmesiyle birlikte Cumhurbaşkanlığı bünyesinde kurulacak Takip ve Koordinasyon Kurulu faaliyete geçiyor. Meclis’teki komisyon için ise Numan Kurtulmuş siyasi partilere yazı gönderecek.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/terorsuz-turkiyede-yeni-surec-basliyor-kulliyeye-kritik-gorev-ilk-toplanti-24-agustos-1810110",
+      "published": "2026-08-18T23:47:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T23:50:36.969169+00:00"
+    },
     {
       "id": "e5d1da22d005c5ee",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T12:50:37.866071+00:00"
-    },
-    {
-      "id": "748d9c80f6448dee",
-      "source": "Cumhuriyet",
-      "title": "Kartlı harcamalarda temmuz rekoru: Temassız ödemede tarihi eşik aşıldı",
-      "summary": "Bankalararası Kart Merkezi'nin açıkladığı verilere göre kartlı ödemeler toplam tutar ve işlem adedi bazında büyümesini sürdürdü. Toplam kart sayısı yükselirken harcama hacmindeki artışa kredi ve banka kartları öncülük etti; internet ve temassız ödemelerdeki güçlü seyir ise varlığını korudu.",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/kartli-harcamalarda-temmuz-rekoru-temassiz-odemede-tarihi-esik-asildi-2530140",
-      "published": "2026-08-18T12:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T12:50:37.866114+00:00"
     }
   ]
 }

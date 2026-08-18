@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T19:50:43.751490+00:00",
+  "last_updated": "2026-08-18T19:55:35.732055+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 33,
   "items": [
+    {
+      "id": "fba7d4cebdc3fe5a",
+      "source": "Sözcü",
+      "title": "Gazeteci Rasim Ozan Kütahyalı tahliye edildi",
+      "summary": "Gazeteci Rasim Ozan Kütahyalı tahliye edildi",
+      "link": "https://www.sozcu.com.tr/rasim-ozan-kutahyali-tahliye-karari-p350604",
+      "published": "2026-08-18T19:52:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T19:55:35.360007+00:00"
+    },
     {
       "id": "ef5c231ff4422d38",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T11:57:46.499746+00:00"
-    },
-    {
-      "id": "bd0ffb60bd3698bd",
-      "source": "Cumhuriyet",
-      "title": "Emniyet Genel Müdürlüğü, boğulma riskine ilişkin uyarıda bulundu",
-      "summary": "Boğulma vakaları nedeniyle bir açıklama yayımlayan EGM, \"Akıntı, dip dalgası ve panik gibi etkenler, boğulma vakalarında ciddi risk oluşturuyor\" uyarısında bulundu ve dikkat edilmesi gereken kuralları sıraladı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/emniyet-genel-mudurlugu-bogulma-riskine-iliskin-uyarida-bulundu-2530101",
-      "published": "2026-08-18T11:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T11:38:51.997314+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-18T12:25:32.381847+00:00",
+  "last_updated": "2026-08-18T12:30:51.781731+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 6,
+  "new_items_this_run": 3,
   "items": [
+    {
+      "id": "dc06acfd101fa93e",
+      "source": "Evrensel",
+      "title": "Yeni Partili Kanko'dan ekonomi politikalarına tepki : \"Bir ayda faize ödenen para, yıllık tarım desteğinin iki katı\"",
+      "summary": "Yeni Parti Milletvekili Mühip Kanko, temmuz ayı bütçe verileri üzerinden iktidarın ekonomi politikalarını eleştirdi. Faize ödenen 325,9 milyar liranın yıllık tarım desteğinin iki katı olduğunu belirten Kanko, üretimin desteklenmesine işaret etti.",
+      "link": "https://www.evrensel.net/haber/5996821/yeni-partili-kankodan-ekonomi-politikalarina-tepki-bir-ayda-faize-odenen-para-yillik-tarim-desteginin-iki-kati?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-18T12:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T12:30:51.408512+00:00"
+    },
     {
       "id": "d9390bda5ac84bf0",
       "source": "Cumhuriyet",
@@ -74,6 +85,17 @@
       "fetched_at": "2026-08-18T12:25:29.765758+00:00"
     },
     {
+      "id": "8990c78eb434d124",
+      "source": "Evrensel",
+      "title": "Galatasaray'a Bruno Fernandes'ten kötü haber: Sözleşme görüşmelerine başladı",
+      "summary": "Galatasaray'ın kadrosuna katmak istediği Manchester United kaptanı Bruno Fernandes için İngiliz kulübü harekete geçti. United yönetiminin Fernandes’i satmayı düşünmediği belirtildi.",
+      "link": "https://www.evrensel.net/haber/5996819/galatasaraya-bruno-fernandesten-kotu-haber-sozlesme-gorusmelerine-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-18T12:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T12:30:51.408541+00:00"
+    },
+    {
       "id": "f64a134caa582fcc",
       "source": "Türkiye Gazetesi",
       "title": "15 MİLYON EUROLUK PAZARLIK!",
@@ -94,6 +116,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T12:20:38.862379+00:00"
+    },
+    {
+      "id": "68e535757ba1256b",
+      "source": "Evrensel",
+      "title": "İBV'den açıklama: İsmail Beşikci İstanbul’a nakledildi",
+      "summary": "Yaklaşık 10 aydır Diyarbakır’da tedavi gören İsmail Beşikci, sağlık değerlerinin normale dönmesiyle birlikte 15 Ağustos itibarıyla İstanbul’a nakledildi.",
+      "link": "https://www.evrensel.net/haber/5996820/ibvden-aciklama-ismail-besikci-istanbula-nakledildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-18T12:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T12:30:51.408561+00:00"
     },
     {
       "id": "f1f798886eccc528",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-16T07:45:02.766506+00:00"
-    },
-    {
-      "id": "af54adb8cbfd09c5",
-      "source": "Habertürk",
-      "title": "ÖTV düzenlemesi Resmi Gazete'de",
-      "summary": "Akaryakıt fiyatlarını yakından takip eden milyonlarca sürücü, yeni ÖTV düzenlemesinin pompaya nasıl yansıyacağını araştırmaya başladı. Özel Tüketim Vergisi tutarlarına ilişkin yeni karar Resmi Gazete'de yayımlandı. Kararla birlikte belirli akaryakıt ürünlerinde litre başına uygulanacak ÖTV tutarları dönemsel olarak yeniden belirlendi. Yeni düzenlemede ağustos ayından başlayarak yıl sonuna kadar fa",
-      "link": "https://www.haberturk.com/son-dakika-karar-resmi-gazete-de-motorine-indirimi-mi-geldi-akaryakit-otv-tutari-ne-kadar-oldu-motorin-fiyati-dusecek-mi-3905220",
-      "published": "2026-08-15T20:21:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:44:59.286608+00:00"
-    },
-    {
-      "id": "e7d6edeb99bc97fd",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "TBMM Başkanı Kurtulmuş: Bu memlekette artık ne ayrılıkçı söze ne de ayrımcılık sözlerine yer yoktur",
-      "summary": "TBMM Başkanı Kurtulmuş, Terörsüz Türkiye sürecine ilişkin, \"Bu memlekette artık ne ayrılıkçı söze ne de ayrımcılık sözlerine yer yoktur.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-bu-memlekette-artik-ne-ayrilikci-soze-ne-de-ayrimcilik-sozlerine-yer-yoktur/4028485",
-      "published": "2026-08-15T20:08:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.582140+00:00"
-    },
-    {
-      "id": "df75924587e868b9",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İstanbul'da 17. Milli İrade Buluşması \"Terörsüz Türkiye\" programı düzenlendi",
-      "summary": "TGTV ve Milli İrade Platformu tarafından \"Terörsüz Türkiye\" temasıyla MÜSİAD'ın Bakırköy'deki merkezinde 17. Milli İrade Buluşması düzenlendi.",
-      "link": "https://www.aa.com.tr/tr/gundem/istanbulda-17-milli-irade-bulusmasi-terorsuz-turkiye-programi-duzenlendi/4028483",
-      "published": "2026-08-15T20:06:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-16T07:45:01.581972+00:00"
     }
   ]
 }

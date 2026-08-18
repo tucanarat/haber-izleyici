@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-08-18T16:50:41.855010+00:00",
+  "last_updated": "2026-08-18T16:55:47.095163+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 36,
+  "new_items_this_run": 35,
   "items": [
+    {
+      "id": "864e203a2533a5c9",
+      "source": "Cumhuriyet",
+      "title": "Eski antrenörü Rus futbolcuyu anlattı: 'Aleksey Batrakov için kolay olmayacak...'",
+      "summary": "Süper Lig ekibi Galatasaray'ın kadrosuna katmaya hazırlandığı 21 yaşındaki Rus orta saha Aleksey Batrakov'un eski antrenörü Andrey Nagibin, basın mensuplarına açıklamalarda bulundu.",
+      "link": "https://www.cumhuriyet.com.tr/spor/eski-antrenoru-rus-futbolcuyu-anlatti-aleksey-batrakov-icin-kolay-olmayacak-2530224",
+      "published": "2026-08-18T16:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T16:55:39.155244+00:00"
+    },
+    {
+      "id": "d56bfa8eddfba806",
+      "source": "Türkiye Gazetesi",
+      "title": "Rodri transferi resmen duyuruldu",
+      "summary": "İspanya LaLiga devi Barcelona, Manchester City'den yıldız orta saha oyuncusu Rodri'yi kadrosuna kattığını açıkladı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/rodri-transferi-resmen-duyuruldu-1810067",
+      "published": "2026-08-18T16:49:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T16:55:45.226565+00:00"
+    },
     {
       "id": "1de7fcef76815957",
       "source": "Anadolu Ajansı (Güncel)",
@@ -28,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T16:50:38.126093+00:00"
+    },
+    {
+      "id": "2925510f922de22b",
+      "source": "Evrensel",
+      "title": "Yeni Parti Milletvekili Melih Meriç'e bıçaklı saldırı",
+      "summary": "Yeni Parti Antep Milletvekili Melih Meriç'e bıçaklı saldırı düzenlendi. Hastaneye kaldırılan Meriç tedavi altına alındı.",
+      "link": "https://www.evrensel.net/haber/5996859/yeni-parti-milletvekili-melih-merice-bicakli-saldiri?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-18T16:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T16:55:46.383570+00:00"
     },
     {
       "id": "7929737c74347ff6",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T10:47:03.869945+00:00"
-    },
-    {
-      "id": "ccf227face3e3e98",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Gazzeli bebekler, nefes almak için ihtiyaç duydukları oksijenden dahi mahrum bırakılıyor",
-      "summary": "İsrail'in ateşkese rağmen saldırılarını sürdürdüğü Gazze Şeridi'nde oksijen istasyonlarının çoğunun hizmet dışı kalması, bölgedeki hastaları, özellikle de yenidoğan bebekleri ölümle yaşam arasında bir savaşa sürüklüyor.",
-      "link": "https://www.aa.com.tr/tr/dunya/gazzeli-bebekler-nefes-almak-icin-ihtiyac-duyduklari-oksijenden-dahi-mahrum-birakiliyor/4030380",
-      "published": "2026-08-18T10:00:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:03.569550+00:00"
-    },
-    {
-      "id": "ac129d9b70fbff3c",
-      "source": "Bir Gün",
-      "title": "Giresun'da selde kaybolan 2 kişiden birinin cesedine ulaşıldı",
-      "summary": "Giresun'un Keşap ilçesinde 13 Ağustos'ta, araçlarının sel sularına kapılması sonucu kaybolan 2 kişiden 1'inin cesedine ulaşıldı. Adli Tıp Kurumu'nda yapılan incelemede cesedin 16 yaşındaki Muhammet Abdullah Hakkıoğlu'na ait olduğu belirlendi. Arama çalışmaları 5’inci günde sürüyor.",
-      "link": "https://www.birgun.net/haber/giresun-da-selde-kaybolan-2-kisiden-birinin-cesedine-ulasildi-729892",
-      "published": "2026-08-18T10:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T11:04:05.910557+00:00"
-    },
-    {
-      "id": "869f6cef48e694c2",
-      "source": "Cumhuriyet",
-      "title": "DEM Partili Tayip Temel: 700-800 kişi hariç herkes çıkıyor cezaevinden'",
-      "summary": "DEM Parti Eş Genel Başkan Yardımcısı Tayip Temel, 'çerçeve yasa'yla birlikte Selahattin Demirtaş ve Figen Yüksekdağ'ın da aralarında bulunduğu binlerce kişinin tahliye olacağını belirterek, “700-800 kişi hariç herkes çıkıyor cezaevinden” dedi.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/dem-partili-tayip-temel-700-800-kisi-haric-herkes-cikiyor-cezaevinden-2530073",
-      "published": "2026-08-18T10:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:03.869974+00:00"
     }
   ]
 }

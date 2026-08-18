@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-18T18:40:44.645840+00:00",
+  "last_updated": "2026-08-18T18:45:43.832963+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 36,
+  "new_items_this_run": 35,
   "items": [
+    {
+      "id": "819bd3e3a059790e",
+      "source": "Türkiye Gazetesi",
+      "title": "TRABZON'DA İHA PANİĞİ!",
+      "summary": "Trabzon’un Arsin ilçesinde İlçe Emniyet Müdürlüğü yakınında bulunan araçların üzerine insansız hava aracı düştü. İHA’nın patlaması sonucu 3 araçta maddi hasar meydana geldi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/trabzonda-iha-panigi-araclarin-uzerine-dusup-patladi-1810073",
+      "published": "2026-08-18T18:42:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T18:45:43.187252+00:00"
+    },
     {
       "id": "59fbd362a4cf006f",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T11:04:05.649530+00:00"
-    },
-    {
-      "id": "b7672805cfea5163",
-      "source": "Türkiye Gazetesi",
-      "title": "HAVALANIP KARŞI ŞERİDE GEÇTİ",
-      "summary": "Konya-Afyonkarahisar karayolunda bir seyir halindeyken kayan bir araçtan kopan parçalar yola savruldu. Arkasından gelen başka bir araç parçalardan kaçmak isterken kontrolü kaybedip karşı şeride geçip 2 araçla feci şekilde çarpıştı. Kazada 2 kişi hayatını kaybetti.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/havalanip-karsi-seride-gecti-konyadaki-akil-almaz-kazada-2-kisi-hayatini-kaybetti-1809988",
-      "published": "2026-08-18T10:42:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T10:47:05.877793+00:00"
     }
   ]
 }

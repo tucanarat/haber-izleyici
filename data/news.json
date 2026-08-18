@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-18T23:30:55.440702+00:00",
+  "last_updated": "2026-08-18T23:35:30.866411+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 12,
+  "new_items_this_run": 13,
   "items": [
+    {
+      "id": "e5d1da22d005c5ee",
+      "source": "Türkiye Gazetesi",
+      "title": "\"TALEPTE BULUNMAYACAĞIZ\"",
+      "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, Trendyol Süper Lig’in 2. haftasında oynanacak Konyaspor karşılaşması için herhangi bir erteleme talebinde bulunmadıklarını belirterek, \"Biz kendimize olan güvenimiz ve inancımızla Konya maçına da çıkıp o maçı kazanırız, hemen arkasından Lyon'a da gideriz, turumuzu geçeriz\" diye konuştu. Asensio tezahüratları hakkında da konuşan Çetin, \"Taraftarımız şunu bilm",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/oguz-cetinden-erteleme-transfer-ve-asensio-aciklamasi-1810120",
+      "published": "2026-08-18T23:32:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-18T23:35:30.205169+00:00"
+    },
     {
       "id": "a3f89cad853e7913",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T12:50:37.866114+00:00"
-    },
-    {
-      "id": "15d29d4e23aa1db1",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 19 Ağustos Çarşamba Yengeç Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 19 Ağustos Çarşamba Yengeç Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/yengec-burcu/gunluk-burc-yorumlari-19-agustos-carsamba-yengec-burcu-yorumu-2530142",
-      "published": "2026-08-18T12:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T12:50:37.866140+00:00"
     }
   ]
 }

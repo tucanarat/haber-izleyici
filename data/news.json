@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-08-19T02:50:45.133322+00:00",
+  "last_updated": "2026-08-19T02:55:37.399699+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 13,
+  "new_items_this_run": 14,
   "items": [
+    {
+      "id": "0a730db0126856c5",
+      "source": "Türkiye Gazetesi",
+      "title": "Deprem felaketi yaşamışlardı! ABD'den bir istekleri var",
+      "summary": "Kolombiya Cumhurbaşkanı Abelardo de la Espriella, ABD Dışişleri Bakanı Marco Rubio ile yaptığı telefon görüşmesinde deprem nedeniyle ülkesine uygulanan ek gümrük vergilerinin geçici olarak askıya alınmasını talep etti.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/deprem-felaketi-yasamislardi-abdden-bir-istekleri-var-1810122",
+      "published": "2026-08-19T02:51:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T02:55:36.767848+00:00"
+    },
+    {
+      "id": "691b98c75bb80802",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kolombiya, deprem nedeniyle ABD’den ek gümrük vergilerini askıya almasını istedi",
+      "summary": "Kolombiya Cumhurbaşkanı Abelardo de la Espriella, ABD Dışişleri Bakanı Marco Rubio ile yaptığı telefon görüşmesinde, deprem nedeniyle ülkesine uygulanan ek gümrük vergilerinin geçici olarak askıya alınmasını istedi.",
+      "link": "https://www.aa.com.tr/tr/dunya/kolombiya-deprem-nedeniyle-abd-den-ek-gumruk-vergilerini-askiya-almasini-istedi/4031161",
+      "published": "2026-08-19T02:50:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T02:55:33.846842+00:00"
+    },
     {
       "id": "168a8d0dc5721aa0",
       "source": "Türkiye Gazetesi",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T14:01:01.436376+00:00"
-    },
-    {
-      "id": "dd8552164be1b7e8",
-      "source": "Habertürk",
-      "title": "Trump: ABD, İran'la aktif görüşme içinde değil",
-      "summary": "ABD Başkanı Donald Trump, İran'la devam eden veya planlanmış bir görüşmenin olmadığını söyledi. Trump, Hürmüz Boğazı'nın açık ve faaliyette olduğunu da öne sürdü.",
-      "link": "https://www.haberturk.com/son-dakika-abd-baskani-trump-abd-iran-la-aktif-gorusme-icinde-degil-3906479",
-      "published": "2026-08-18T13:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T13:55:31.915350+00:00"
-    },
-    {
-      "id": "476f4fe767505ac2",
-      "source": "Cumhuriyet",
-      "title": "Metropoll Temmuz 2026 anketi: Seçmen siyasette hangi duyguları hissediyor?",
-      "summary": "Metropoll Araştırma'nın Temmuz 2026 anketine göre yurttaşların siyasi gelişmeler karşısındaki en baskın duygusu yüzde 33,6 ile \"kaygı ve endişe\" oldu. \"Umut\" diyenlerin oranı ise yüzde 10,6'da kaldı.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/metropoll-temmuz-2026-anketi-secmen-siyasette-hangi-duygulari-hissediyor-2530167",
-      "published": "2026-08-18T13:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T13:50:38.597626+00:00"
     }
   ]
 }

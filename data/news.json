@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-19T02:55:37.399699+00:00",
+  "last_updated": "2026-08-19T03:00:59.828424+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 14,
+  "new_items_this_run": 13,
   "items": [
+    {
+      "id": "de37ad83f0ebbe38",
+      "source": "Türkiye Gazetesi",
+      "title": "Kastamonu'da karı kocanın feci sonu!",
+      "summary": "Kastamonu'da Cihan Ergün'ün kullandığı otomobil, tıra çarptı. Meydana gelen kazada Cihan Ergün olay yerinde hayatını kaybederken, eşi Seyhan Ergün de kaldırıldığı hastanede kurtarılamadı.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/kastamonuda-feci-kaza-tir-ile-otomobil-carpisti-kari-koca-hayatini-kaybetti-1810123",
+      "published": "2026-08-19T02:57:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T03:00:58.927762+00:00"
+    },
     {
       "id": "0a730db0126856c5",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T13:50:41.239879+00:00"
-    },
-    {
-      "id": "b332996bc211e62b",
-      "source": "Bir Gün",
-      "title": "Batı Nil virüsü: Kuzey Makedonya'da 4 kişi yaşamını yitirdi",
-      "summary": "Kuzey Makedonya'da Batı Nil virüsü nedeniyle 4 kişinin hayatını kaybettiği açıklandı. Ülkede 5'i yoğun bakımda olmak üzere 20 hastanın tedavisi ise sürüyor.",
-      "link": "https://www.birgun.net/haber/bati-nil-virusu-kuzey-makedonya-da-4-kisi-yasamini-yitirdi-729949",
-      "published": "2026-08-18T13:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:01:01.436376+00:00"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-08-19T00:40:44.031635+00:00",
+  "last_updated": "2026-08-19T00:45:41.592540+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 12,
+  "new_items_this_run": 13,
   "items": [
+    {
+      "id": "b9a53905f68d3c96",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail ordusundan işgal altındaki Batı Şeria'nın çeşitli bölgelerine baskın",
+      "summary": "İsrail ordusunun, işgal altındaki Batı Şeria'nın çeşitli bölgelerine baskınlar düzenlediği bildirildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusundan-isgal-altindaki-bati-serianin-cesitli-bolgelerine-baskin/4031146",
+      "published": "2026-08-19T00:36:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T00:45:37.727863+00:00"
+    },
+    {
+      "id": "fa057111fcc88871",
+      "source": "Habertürk",
+      "title": "Şanlıurfa'da iki otomobil çarpıştı: 3 ölü, 2 yaralı",
+      "summary": "Şanlıurfa Birecik'te iki otomobilin çarpışması sonucu 3 kişi hayatını kaybetti, 2 kişi yaralandı",
+      "link": "https://www.haberturk.com/sanliurfa-da-iki-otomobil-carpisti-3-olu-2-yarali-3906573",
+      "published": "2026-08-19T00:34:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T00:45:34.418793+00:00"
+    },
     {
       "id": "14f5ea542cd67949",
       "source": "Türkiye Gazetesi",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T13:10:39.878444+00:00"
-    },
-    {
-      "id": "cd4d9b086f20b410",
-      "source": "Türkiye Gazetesi",
-      "title": "FETH-İ KABİR KARARI VERİLDİ!",
-      "summary": "8 Eylül 2016'da hayatını kaybeden eski bakan Arif Ahmet Denizolgun şüpheli ölümünde flaş bir gelişme yaşandı. Denizolgun için feth-i kabir kararı verildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/10-yil-once-olmustu-eski-bakan-arif-ahmet-denizolgun-icin-feth-i-kabir-karari-1810030",
-      "published": "2026-08-18T13:03:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T13:10:42.766398+00:00"
-    },
-    {
-      "id": "9b909dfc3d8d51ed",
-      "source": "Türkiye Gazetesi",
-      "title": "10 YIL SONRA FLAŞ GELİŞME!",
-      "summary": "7 Eylül 2016'da hayatını kaybeden eski bakan Arif Ahmet Denizolgun şüpheli ölümünde flaş bir gelişme yaşandı. Denizolgun için feth-i kabir kararı verildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/10-yil-once-olmustu-eski-bakan-arif-ahmet-denizolgun-icin-feth-i-kabir-karari-1810030",
-      "published": "2026-08-18T13:03:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T13:05:31.607616+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-19T05:20:38.384266+00:00",
+  "last_updated": "2026-08-19T05:25:38.724238+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 15,
+  "new_items_this_run": 12,
   "items": [
+    {
+      "id": "8ddc557527576c9f",
+      "source": "Türkiye Gazetesi",
+      "title": "İŞ İNSANININ İHANETİ BELGELENDİ",
+      "summary": "Bir kripto borsasının Hukuk İşleri Başkanı ve Yönetim Kurulu Üyesi olan avukat Ayça Ö.’nün eşini aldattığı iddiasıyla açılan davada, otel kayıtları ve güvenlik kamerası görüntüleri dosyaya girdi. Eşi tarafından 50 milyon liralık manevi tazminat ve velayet talebiyle açılan davada mahkeme, Ayça Ö.'nün aylık 35 bin lira tedbir nafakası ödemesine karar verdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/kocasi-adim-adim-iz-surdu-ihanet-ortaya-cikti-50-milyonluk-bosanma-davasi-1810132",
+      "published": "2026-08-19T05:21:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T05:25:37.516783+00:00"
+    },
     {
       "id": "6d533ba30a369785",
       "source": "Habertürk",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T14:25:34.627345+00:00"
-    },
-    {
-      "id": "cadac34624a4ffbd",
-      "source": "Türkiye Gazetesi",
-      "title": "Güllü iddianamesi kabul edildi! İlk duruşma 1 Ekim'de",
-      "summary": "Son dakika... \"Şarkıcı Güllü\" cinayetinde mahkeme iddianameyi kabul etti. İlk duruşma 1 Ekim'de yapılacak.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/gullu-iddianamesi-kabul-edildi-ilk-durusma-1-ekimde-1810048",
-      "published": "2026-08-18T14:19:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:25:36.531903+00:00"
     }
   ]
 }

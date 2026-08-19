@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-19T03:45:45.441328+00:00",
+  "last_updated": "2026-08-19T03:50:39.249225+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 16,
+  "new_items_this_run": 15,
   "items": [
+    {
+      "id": "4364dab65217ef88",
+      "source": "Türkiye Gazetesi",
+      "title": "FURKAN VAKFI'NA OPERASYON!",
+      "summary": "Adana'da Furkan Vakfı Başkanı Alparslan Kuytul'a yönelik şafak vakti operasyon yapıldı. Kuytul'un evinin önüne çok sayıda polis ekibi sevk edilirken, evde arama yapıldığı öğrenildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/furkan-vakfina-operasyon-alparslan-kuytulun-evinde-arama-yapildi-1810126",
+      "published": "2026-08-19T03:43:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T03:50:38.725944+00:00"
+    },
     {
       "id": "895b9eec36b0d430",
       "source": "Türkiye Gazetesi",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T03:40:42.215829+00:00"
+    },
+    {
+      "id": "c92840621e97f9ba",
+      "source": "Evrensel",
+      "title": "Sıcaklık sürüyor, yağmur geliyor: Meteoroloji'den Akdeniz, Karadeniz ve Doğu Anadolu'ya sağanak uyarısı",
+      "summary": "Yurt genelinde sıcaklıklar mevsim normallerinde seyretmeye devam ederken, Meteoroloji birçok bölge için sağanak uyarısında bulundu. İstanbul, Ankara ve İzmir'de hava açık geçerken, bazı illerde şemsiyeler açılacak.",
+      "link": "https://www.evrensel.net/haber/5996884/sicaklik-suruyor-yagmur-geliyor-meteorolojiden-akdeniz-karadeniz-ve-dogu-anadoluya-saganak-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-19T03:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T03:50:38.969571+00:00"
     },
     {
       "id": "ce59c1ac0e22d20e",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T14:00:57.683731+00:00"
-    },
-    {
-      "id": "3600bee565722076",
-      "source": "Cumhuriyet",
-      "title": "Z kuşağının yapay zeka kullanım alışkanlıklarına ilişkin araştırma",
-      "summary": "Kaspersky, Z kuşağının yapay zeka kullanım alışkanlıklarını içeren araştırmasının sonuçlarını paylaştı.",
-      "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/z-kusaginin-yapay-zeka-kullanim-aliskanliklarina-iliskin-arastirma-2530176",
-      "published": "2026-08-18T13:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:00:57.683763+00:00"
-    },
-    {
-      "id": "91f81961fd82cc9c",
-      "source": "Bir Gün",
-      "title": "Altında yükseliş",
-      "summary": "Altının kilogram fiyatı 6 milyon 757 bin liraya yükseldi. Standart altının kilogram fiyatı dün günü 6 milyon 737 bin 601 liradan tamamlamıştı.",
-      "link": "https://www.birgun.net/haber/altinda-yukselis-729951",
-      "published": "2026-08-18T13:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:01:01.436308+00:00"
     }
   ]
 }

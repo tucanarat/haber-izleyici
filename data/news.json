@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-08-19T07:10:45.090733+00:00",
+  "last_updated": "2026-08-19T07:15:39.264074+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 25,
+  "new_items_this_run": 21,
   "items": [
+    {
+      "id": "ca6bab69f8f00e3b",
+      "source": "Cumhuriyet",
+      "title": "Çantasında 31 bin 320 uyuşturucu hapla yakalandı",
+      "summary": "İzmir'in Bornova ilçesinde çantasında 31 bin 320 adet ecstasy bulunan şüpheli yakalanıp tutuklandı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/cantasinda-31-bin-320-uyusturucu-hapla-yakalandi-2530363",
+      "published": "2026-08-19T07:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T07:15:36.198253+00:00"
+    },
+    {
+      "id": "899c8d4a75095654",
+      "source": "Cumhuriyet",
+      "title": "1 kişi ölmüştü... Adana'daki 'yan bakma' cinayetinde yeni gelişme",
+      "summary": "Merkez Yüreğir ilçesinde \"yan bakma\" tartışması nedeniyle çıkan kavgada 1 kişiyi bıçaklayarak öldüren zanlı tutuklandı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/1-kisi-olmustu-adana-daki-yan-bakma-cinayetinde-yeni-gelisme-2530362",
+      "published": "2026-08-19T07:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T07:15:36.198285+00:00"
+    },
+    {
+      "id": "6cd135b5584831f9",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "\"Nemrut Kalderası Milli Parkı\" ilan edildi",
+      "summary": "Bitlis'in Tatvan, Ahlat ve Güroymak ilçeleri sınırlarında bulunan alanın \"Nemrut Kalderası Milli Parkı\" ilan edilmesine karar verildi.",
+      "link": "https://www.aa.com.tr/tr/gundem/nemrut-kalderasi-milli-parki-ilan-edildi/4031253",
+      "published": "2026-08-19T07:14:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T07:15:35.790621+00:00"
+    },
+    {
+      "id": "e56b7b008ad2e437",
+      "source": "Cumhuriyet",
+      "title": "Financial Times'tan endişe verici rapor: 'Tahran, savaşı Avrupa’ya taşıyabilir...'",
+      "summary": "İngiliz Financial Times gazetesinin İranlı kaynaklara dayandırdığını iddia ettiği rapora göre, Tahran, ABD Başkanı Donald Trump’ın savaşı yeniden tırmandırması halinde Avrupa’daki Amerikan askeri hedeflerini vurma seçeneğini değerlendiriyor.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/financial-times-tan-endise-verici-rapor-tahran-savasi-avrupa-ya-tasiyabilir-2530361",
+      "published": "2026-08-19T07:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T07:15:36.198317+00:00"
+    },
+    {
+      "id": "0766616c43ed1dad",
+      "source": "Türkiye Gazetesi",
+      "title": "TÜİK açıkladı! Türkiye'de işsiz sayısı 84 bin kişi azaldı",
+      "summary": "TÜİK, 2026 yılının ikinci çeyreğine ilişkin işgücü istatistiklerini açıkladı. İşsizlik oranı yüzde 7,9’a gerilerken, işsiz sayısı 2 milyon 799 bin kişi oldu.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/tuik-acikladi-turkiyede-issiz-sayisi-84-bin-kisi-azaldi-1810162",
+      "published": "2026-08-19T07:12:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T07:15:38.172027+00:00"
+    },
+    {
+      "id": "478be26c10b72212",
+      "source": "Türkiye Gazetesi",
+      "title": "Kanal İstanbul'a adım adım! 250 tonluk dev operasyon",
+      "summary": "Kanal İstanbul projesi kapsamında yapımına başlanan Sazlıbosna Köprüsü inşaatında 250 tonluk dev tabliye kaldırma operasyonu yapılıyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/kanal-istanbul-projesi-adim-adim-ilerliyor-250-tonluk-dev-operasyon-1810161",
+      "published": "2026-08-19T07:11:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T07:15:38.172061+00:00"
+    },
     {
       "id": "068d1bced030a444",
       "source": "Türkiye Gazetesi",
@@ -138,6 +204,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T07:00:59.377353+00:00"
+    },
+    {
+      "id": "0a7be7cc01e4b982",
+      "source": "Türkiye Gazetesi",
+      "title": "TARİHİ YALI SATIŞA ÇIKTI",
+      "summary": "2008 yılında hayatını kaybeden iş adamı Faruk Yalçın'ın mirasından geriye kalan son gayrimenkul de çocukları tarafından satışa çıkarıldı. Yalçın'ın uzun yıllar hayatını sürdürdüğü Kanlıca'daki tarihi Yağcı Hacı Şefik Bey Yalısı, mirasçıları tarafından satışa sunuldu. Yalının değeri dudak uçuklattı.",
+      "link": "https://www.turkiyegazetesi.com.tr/magazin/kanlicadaki-tarihi-yali-satisa-cikti-sureyya-yalcinin-babasi-faruk-yalcinin-mirasi-ic-1810156",
+      "published": "2026-08-19T06:56:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T07:15:38.172222+00:00"
     },
     {
       "id": "370bcd0e3590836c",
@@ -3979,6 +4056,17 @@
       "fetched_at": "2026-08-18T21:20:37.075656+00:00"
     },
     {
+      "id": "e73417f31d410097",
+      "source": "Habertürk",
+      "title": "TRT 1 frekans ayarı bilgileri",
+      "summary": "TRT 1 frekans bilgileri, Türksat uydularında gerçekleştirilen değişikliğin ardından izleyicilerin gündeminde yer alıyor. Türksat 3A'dan Türksat 4A'ya geçiş yapılmasıyla birlikte bazı televizyon kanallarının frekanslarında değişikliğe gidildi. Özellikle Fenerbahçe-Lyon maçını TRT 1 ekranlarından kesintisiz ve şifresiz izlemek isteyen futbolseverler, yeni TRT 1 frekans ayarlarını araştırmaya başladı",
+      "link": "https://www.haberturk.com/trt-1-frekans-bilgileri-yeni-4a-turksat-2026-turksat-4a-trt-1-uydu-frekans-ayari-nasil-nereden-yapilir-3906512",
+      "published": "2026-08-18T21:09:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T07:15:33.774073+00:00"
+    },
+    {
       "id": "e2d9586b34e6baae",
       "source": "Cumhuriyet",
       "title": "ABD Büyükelçisi Barrack: ‘Türkiye, İsrail’in Suriye saldırısı konusunda uyarılmadı’",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T17:45:36.668550+00:00"
-    },
-    {
-      "id": "1e9a0838e8a5ccf2",
-      "source": "Habertürk",
-      "title": "Fenerbahçe-Lyon maçı ne zaman, saat kaçta?",
-      "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde lig aşamasına kalabilmek için kritik bir sınava çıkıyor. Sarı-lacivertli ekip, play-off turu ilk maçında Fransız temsilcisi Lyon'u konuk ediyor. Avrupa'da yoluna devam etmek isteyen Fenerbahçe, taraftarının desteğiyle ilk maçtan avantajlı bir sonuç almayı hedefliyor. Fenerbahçe-Lyon maçının tarihi, maç saati ve canlı yayınlanacağı kanal merak konusu oldu. Peki",
-      "link": "https://www.haberturk.com/fenerbahce-lyon-maci-ne-zaman-saat-kacta-sampiyonlar-ligi-fenerbahce-lyon-maci-hangi-kanalda-3906507",
-      "published": "2026-08-18T17:31:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T17:45:36.668669+00:00"
-    },
-    {
-      "id": "d16c9be020aafd68",
-      "source": "Cumhuriyet",
-      "title": "Uyuşturucu bağımlısı oğlunu öldüren baba tutuklandı",
-      "summary": "İzmir’in Gaziemir ilçesinde B.K., uyuşturucu bağımlısı olduğu öne sürülen 21 yaşındaki oğlu Furkan Kaya’yı tüfekle vurarak öldürdü. Olayın ardından polise teslim olan baba, çıkarıldığı mahkemece tutuklandı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/uyusturucu-bagimlisi-oglunu-olduren-baba-tutuklandi-2530231",
-      "published": "2026-08-18T17:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T17:30:48.339613+00:00"
-    },
-    {
-      "id": "833ba3da20bc813d",
-      "source": "Bir Gün",
-      "title": "Grup Ekin'in solisti Metin Turan tahliye edildi",
-      "summary": "25 yıldır tutuklu bulunan Grup Ekin'in solisti ve yazar Metin Turan tahliye edildi. Tahliyesi Avukat İsmail Topkaya tarafından duyuruldu. Turan'ın iki gözünde de görme kaybı bulunuyor.",
-      "link": "https://www.birgun.net/haber/grup-ekin-in-solisti-metin-turan-tahliye-edildi-729973",
-      "published": "2026-08-18T17:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T18:05:35.463373+00:00"
-    },
-    {
-      "id": "a79c5941a864201b",
-      "source": "Türkiye Gazetesi",
-      "title": "Komşu ülkeden Türk şirketlere 'yatırım' çağrısı!",
-      "summary": "Türkiye ile Irak arasında son dönemde gelişen ilişkiler sonrası Bağdat yönetiminden Türk yatırımcılara dikkat çeken bir çağrı geldi. Irak Başbakanı Ali Falih ez-Zeydi, Türk şirketlerin ülkesinde fırsatları kaçırmaması gerektiğini belirtti.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/komsu-ulkeden-turk-yatirimcilara-cagri-firsati-kacirmayin-1810069",
-      "published": "2026-08-18T17:25:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T17:30:51.366673+00:00"
-    },
-    {
-      "id": "c06760a23a2f2a12",
-      "source": "Türkiye Gazetesi",
-      "title": "ABD, İran savaşı sonrası dümeni kıracak mı?",
-      "summary": "ABD, İran'la savaşın ardından Basra Körfezi’ndeki askeri varlığını azaltmayı tartışıyor. Aylar süren saldırılarda ağır hasar gören üslerin geleceğinin masada olduğu, CENTCOM’un da desteğiyle bölgedeki 40 bin asker ve askeri altyapının daha batıya kaydırılmasının değerlendirildiği öne sürüldü.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/iran-savasinin-ardindan-korfezde-yeni-donem-mi-baslayacak-abd-birliklerini-cekecek-id-1810068",
-      "published": "2026-08-18T17:23:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T17:30:51.366714+00:00"
-    },
-    {
-      "id": "c06760a23a2f2a12",
-      "source": "Türkiye Gazetesi",
-      "title": "ABD, İran savaşı sonrası dümeni kıracak mı?",
-      "summary": "ABD, İran'la savaşın ardından Basra Körfezi’ndeki askeri varlığını azaltmayı tartışıyor. Aylar süren saldırılarda ağır hasar gören üslerin geleceğinin masada olduğu, CENTCOM’un da desteğiyle bölgedeki 40 bin asker ve askeri altyapının daha batıya kaydırılmasının değerlendirildiği öne sürüldü.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/iran-savasinin-ardindan-korfezde-yeni-donem-mi-baslayacak-abd-birliklerini-cekecek-id-1810068",
-      "published": "2026-08-18T17:23:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T17:30:51.366748+00:00"
-    },
-    {
-      "id": "e39e9b176090e22f",
-      "source": "Bir Gün",
-      "title": "Washington Post'un iddiası: İran savaşı sona erince ABD Körfez'deki askeri varlığını azaltacak",
-      "summary": "Washington Post gazetesinin konuyla ilgili yetkililer ve diğer uzmanlar dahil 8 kaynağa dayandırdığı haberine göre, Pentagon, Körfez'deki askeri varlığını azaltmayı değerlendiriyor.",
-      "link": "https://www.birgun.net/haber/washington-post-un-iddiasi-iran-savasi-sona-erince-abd-korfez-deki-askeri-varligini-azaltacak-729972",
-      "published": "2026-08-18T17:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T18:05:35.463402+00:00"
-    },
-    {
-      "id": "6fcf7519fc7e82d9",
-      "source": "Evrensel",
-      "title": "Barcelona, Manchester City'den Rodri'yi transfer etti: 60 milyon avro bonservis ve 15 milyon avro bonus",
-      "summary": "Barcelona, Manchester City’nin 30 yaşındaki İspanyol yıldızı Rodri'yi kadrosuna kattığını resmen açıkladı. Katalan ekibi, uzun süredir gündeminde olan başarılı futbolcu için 60 milyon avro bonservis ve 15 milyon avro bonus ödeyecek.",
-      "link": "https://www.evrensel.net/haber/5996862/barcelona-manchester-cityden-rodriyi-transfer-etti-60-milyon-avro-bonservis-ve-15-milyon-avro-bonus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-18T17:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T17:40:43.159676+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-19T02:45:38.700607+00:00",
+  "last_updated": "2026-08-19T02:50:45.133322+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 12,
+  "new_items_this_run": 13,
   "items": [
+    {
+      "id": "168a8d0dc5721aa0",
+      "source": "Türkiye Gazetesi",
+      "title": "ADLİ KONTROLLE SERBEST!",
+      "summary": "'Halk sağlığını bozma' ve 'suçtan kaynaklanan mal varlığı değerlerini aklama' suçlarından gözaltına alınan Yeni Parti Milletvekili Cemal Enginyurt'un oğlu Alptürk Enginyurt, çıkarıldığı hakimlikçe imza atma ve yurt dışına çıkış yasağı şeklindeki adli kontrol şartıyla serbest bırakıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/gozaltina-alinmisti-cemal-enginyurtun-oglu-alpturk-enginyurt-hakkinda-karar-1810121",
+      "published": "2026-08-19T02:43:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T02:50:44.048110+00:00"
+    },
     {
       "id": "b23b81feeccd66bf",
       "source": "Bir Gün",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T13:50:38.597626+00:00"
-    },
-    {
-      "id": "7762e5d4c4d9cb43",
-      "source": "Cumhuriyet",
-      "title": "Trump’tan Hürmüz çıkışı: ‘ABD toprağı’ haritasını paylaştı",
-      "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı'nın \"ABD toprağı\" olarak gösterildiği bir harita paylaştı.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-hurmuz-cikisi-abd-topragi-haritasini-paylasti-2530170",
-      "published": "2026-08-18T13:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T13:45:36.720653+00:00"
     }
   ]
 }

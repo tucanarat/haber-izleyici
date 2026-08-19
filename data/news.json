@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-19T05:40:41.347924+00:00",
+  "last_updated": "2026-08-19T05:45:41.109722+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 14,
+  "new_items_this_run": 15,
   "items": [
+    {
+      "id": "d366cc661c05b9ba",
+      "source": "Türkiye Gazetesi",
+      "title": "O SÖZLERİ YENİDEN GÜNDEMDE!",
+      "summary": "Adana'da terör operasyonunda gözaltına alınan Furkan Vakfı Kurucu Başkanı Alparslan Kuytul'un Cumhurbaşkanı Recep Tayyip Erdoğan için \"Kalemi kırıldı\" dediği görüntüler yeniden gündem oldu.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/alparslan-kuytul-cumhurbaskani-erdogani-da-tehdit-etmisti-1810134",
+      "published": "2026-08-19T05:37:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T05:45:40.160595+00:00"
+    },
     {
       "id": "4c882bddf7452bd1",
       "source": "Türkiye Gazetesi",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T05:40:40.120092+00:00"
+    },
+    {
+      "id": "638893973930c1e1",
+      "source": "Bir Gün",
+      "title": "Güvenpark’ta polis müdahalesi: Şehit yakınları ve gaziler alandan çıkarıldı",
+      "summary": "Ankara’da eşit özlük hakları talebiyle Güvenpark’ta 38 gündür oturma eylemi yapan er şehit yakınları ve er gazilere polis sabah saatlerinde müdahale etti. Eylemciler alandan çıkarılarak Bilkent Gazi Uyum Evi’ne götürülürken Güvenpark polis bariyerleriyle kapatıldı.",
+      "link": "https://www.birgun.net/haber/guvenparkta-polis-mudahalesi-sehit-yakinlari-ve-gaziler-alandan-cikarildi-730022",
+      "published": "2026-08-19T05:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T05:45:41.107445+00:00"
     },
     {
       "id": "d9ed31ae5a754860",
@@ -39,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T05:35:33.559345+00:00"
+    },
+    {
+      "id": "3f5735ec22631621",
+      "source": "Bir Gün",
+      "title": "BM’den çarpıcı rapor: Yardım çalışanları en çok Gazze’de öldürüldü",
+      "summary": "Birleşmiş Milletler, 2025’te insani yardım çalışanlarına yönelik şiddetin rekor seviyeye ulaştığını açıkladı. 350 yardım çalışanının yaşamını yitirdiği yıl boyunca 322 kişi yaralandı, 235 kişi kaçırıldı. Gazze, 186 yardım çalışanının öldürülmesiyle üst üste üçüncü kez dünyanın en ölümcül bölgesi oldu.",
+      "link": "https://www.birgun.net/haber/bmden-carpici-rapor-yardim-calisanlari-en-cok-gazzede-olduruldu-730021",
+      "published": "2026-08-19T05:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T05:45:41.107478+00:00"
     },
     {
       "id": "8ddc557527576c9f",
@@ -391,6 +424,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T04:01:00.315919+00:00"
+    },
+    {
+      "id": "395f9a7a23dde684",
+      "source": "Bir Gün",
+      "title": "Furkan Vakfı'na operasyon: Alparslan Kuytul ve eşi dahil çok sayıda kişi gözaltına alındı",
+      "summary": "Adana’da Furkan Vakfı Kurucu Başkanı Alparslan Kuytul’un evine polis operasyonu düzenlendi. Kuytul ve eşi Semra Kuytul gözaltına alınırken, evde arama başlatıldı. Cumhurbaşkanı Başdanışmanı Oktay Saral Kuytul’a “Senin de suyun yeterince ısındı, sıra sana da gelecek” sözleriyle tepki göstermişti.",
+      "link": "https://www.birgun.net/haber/furkan-vakfi-na-operasyon-alparslan-kuytul-ve-esi-dahil-cok-sayida-kisi-gozaltina-alindi-730012",
+      "published": "2026-08-19T03:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T05:45:41.107668+00:00"
     },
     {
       "id": "1cb77b2c8e4b39dd",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T14:45:35.069168+00:00"
-    },
-    {
-      "id": "74e10b3fcd88fc6d",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Suriye'nin Deyrizor ilinde devrik rejimden kalma \"birkaç ton nükleer madde\" bulundu",
-      "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Mariano Grossi, Suriye'nin Deyrizor ilinde devrik Beşşar Esed rejimi döneminden kalan \"birkaç ton nükleer madde\" bulunduğunu, bu alanın denetçilerine açıldığını duyurdu.",
-      "link": "https://www.aa.com.tr/tr/dunya/suriyenin-deyrizor-ilinde-devrik-rejimden-kalma-birkac-ton-nukleer-madde-bulundu/4030760",
-      "published": "2026-08-18T14:30:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T15:00:59.363802+00:00"
-    },
-    {
-      "id": "f538fc256bd584a8",
-      "source": "Cumhuriyet",
-      "title": "Zeynel Emre, YENİ Parti'nin üye sayısını açıkladı: Kaç belediye katıldı?",
-      "summary": "YENİ Parti Sözcüsü Zeynel Emre, partiye üye olan kişi sayısının 300 bini aştığını açıkladı. Emre, toplam 236 belediyenin de YENİ Parti'ye katıldığını duyurdu.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/zeynel-emre-yeni-parti-nin-uye-sayisini-acikladi-kac-belediye-katildi-2530189",
-      "published": "2026-08-18T14:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:30:48.252392+00:00"
-    },
-    {
-      "id": "f5f87280a9787587",
-      "source": "Bir Gün",
-      "title": "BİSAM açıkladı: Açlık sınırı 37 bin TL'yi aştı!",
-      "summary": "BİSAM'un raporuna göre, dört kişilik bir ailenin sağlıklı ve dengeli beslenmesi için aylık yapması gereken harcama tutarı ağustos ayı için 37 bin 203 liraya yükseldi. Yoksulluk sınırı ise 122 bin 217 TL oldu.",
-      "link": "https://www.birgun.net/haber/bisam-acikladi-aclik-siniri-37-bin-tl-yi-asti-729959",
-      "published": "2026-08-18T14:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T15:01:06.508185+00:00"
-    },
-    {
-      "id": "34609fa3b4defc68",
-      "source": "Türkiye Gazetesi",
-      "title": "Suriye'deki askeri üs vurulmuştu! Ankara uyardı",
-      "summary": "Dışişleri Bakanlığı, İsrail’in İdlib kırsalındaki Ebu Zuhur Askeri Hava Üssü’nü hedef alan hava saldırılarını kınayarak, Tel Aviv yönetiminin Suriye’nin egemenliğini ve toprak bütünlüğünü ihlal eden eylemlerine son verilmesi için uluslararası topluma çağrıda bulundu.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/suriyedeki-askeri-us-vurulmustu-disisleri-bakanligindan-israile-tokat-gibi-aciklama-1810049",
-      "published": "2026-08-18T14:28:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T15:05:31.956065+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T04:05:40.720679+00:00",
+  "last_updated": "2026-08-19T04:10:48.219617+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 14,
   "items": [
+    {
+      "id": "54f0c254762fe0af",
+      "source": "Habertürk",
+      "title": "Esnaf kavgası kanlı bitti: 1 ölü, 1 yaralı",
+      "summary": "İstanbul Fatih'te komşu iki esnaf arasında çıkan kavgada 1 kişi pompalı tüfekle vurularak hayatını kaybetti, 1 kişi de yaralandı. Olayla ilgili bir şüpheli gözaltına alındı",
+      "link": "https://www.haberturk.com/fatih-te-esnaf-kavgasi-kanli-bitti-1-olu-1-yarali-3906577",
+      "published": "2026-08-19T04:01:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T04:10:41.647824+00:00"
+    },
     {
       "id": "88de33abbe5df74c",
       "source": "Evrensel",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T04:05:40.301529+00:00"
+    },
+    {
+      "id": "a42f231997054865",
+      "source": "Habertürk",
+      "title": "Adana'da Furkan Vakfı'na operasyon",
+      "summary": "Adana'da Furkan Vakfı Başkanı Alparslan Kuytul'a yönelik polis ekipleri tarafından şafak vakti operasyon düzenlendi. Evinin önüne çok sayıda polis ekibi sevk edilirken, evde arama yapıldığı öğrenildi",
+      "link": "https://www.haberturk.com/adana-da-furkan-vakfi-na-yonelik-operasyon-3906575",
+      "published": "2026-08-19T03:53:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T04:10:41.647846+00:00"
     },
     {
       "id": "e033a5daab85d6da",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T14:05:30.467046+00:00"
-    },
-    {
-      "id": "ba881a1acac8b588",
-      "source": "Evrensel",
-      "title": "Başaran Aksu ve Gökay Çakır adli kontrolle serbest bırakıldı: İmza verecekler",
-      "summary": "'Ev hapsi' talebiyle mahkemeye sevk edilen Bağımsız Maden-İş Genel Başkanı Gökay Çakır ile sendikanın örgütlenme uzmanı Başaran Aksu, imza vermelerine yönelik adli kontrolle serbest bırakıldı.",
-      "link": "https://www.evrensel.net/haber/5996845/basaran-aksu-ve-gokay-cakir-adli-kontrolle-serbest-birakildi-imza-verecekler?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-18T14:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T15:20:45.334665+00:00"
-    },
-    {
-      "id": "92ffa68662e4e872",
-      "source": "Evrensel",
-      "title": "Başaran Aksu ve Gökay Çakır için 'ev hapsi' talebi",
-      "summary": "Bağımsız Maden İş Genel Başkanı Gökay Çakır ile sendikanın örgütlenme uzmanı Başaran Aksu, 'ev hapsi' talebiyle mahkemeye sevk edildi.",
-      "link": "https://www.evrensel.net/haber/5996845/basaran-aksu-ve-gokay-cakir-icin-ev-hapsi-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-18T14:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:20:56.594929+00:00"
     }
   ]
 }

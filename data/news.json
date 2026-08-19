@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-19T03:35:46.923344+00:00",
+  "last_updated": "2026-08-19T03:40:43.077810+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 12,
+  "new_items_this_run": 13,
   "items": [
+    {
+      "id": "895b9eec36b0d430",
+      "source": "Türkiye Gazetesi",
+      "title": "SALDIRGAN YAKALANDI",
+      "summary": "Gaziantep’te Yeni Parti Milletvekili Melih Meriç, CHP eski Oğuzeli İlçe Başkanı S.A.K. tarafından bıçaklı saldırıya uğrayarak yaralandı. Olayla ilgili şüpheli S.A.K.'nin de aralarında bulunduğu 5 kişi gözaltına alınırken, soruşturma sürüyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/yeni-parti-milletvekili-melih-merici-bicaklayan-saldirgan-yakalandi-1810125",
+      "published": "2026-08-19T03:37:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T03:40:42.215829+00:00"
+    },
     {
       "id": "ce59c1ac0e22d20e",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T13:55:38.275691+00:00"
-    },
-    {
-      "id": "3ee0c14c0148e6d6",
-      "source": "Cumhuriyet",
-      "title": "Somer Sivrioğlu ayrılık kararını duyurdu: İstanbul’daki restoranını kapattı",
-      "summary": "Şef Somer Sivrioğlu, beş yıl önce İstanbul’da açtığı Efendy restoranını kapatarak markayı doğduğu şehir Sydney’e taşıma kararı aldı. Restoranın İstanbul’daki son servisi 16 Ağustos’ta yapıldı.",
-      "link": "https://www.cumhuriyet.com.tr/yasam/somer-sivrioglu-ayrilik-kararini-duyurdu-istanbul-daki-restoranini-kapatti-2530173",
-      "published": "2026-08-18T13:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T13:55:35.899160+00:00"
     }
   ]
 }

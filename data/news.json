@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-19T04:25:31.326104+00:00",
+  "last_updated": "2026-08-19T04:30:48.027455+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 11,
+  "new_items_this_run": 16,
   "items": [
+    {
+      "id": "4acbb0773e5a2369",
+      "source": "Bir Gün",
+      "title": "Arz endişesi büyüyor: Petrol 91 doları aştı",
+      "summary": "Petrol fiyatları, Hürmüz Boğazı’na ilişkin ABD ve İran’dan gelen çelişkili açıklamaların arz endişelerini artırmasıyla yükselişini dördüncü güne taşıdı. Brent petrol 91,28 dolara, ABD ham petrolü WTI ise 85,31 dolara çıktı.",
+      "link": "https://www.birgun.net/haber/arz-endisesi-buyuyor-petrol-91-dolari-asti-730016",
+      "published": "2026-08-19T04:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T04:30:48.024678+00:00"
+    },
     {
       "id": "202af3d8385d7c8d",
       "source": "Cumhuriyet",
@@ -52,6 +63,17 @@
       "fetched_at": "2026-08-19T04:20:37.224284+00:00"
     },
     {
+      "id": "69b315283862ad0a",
+      "source": "Bir Gün",
+      "title": "İngiltere'de salmonella salgını: 207 kişi hastalandı, 1 kişi öldü",
+      "summary": "İngiltere’de salmonella salgını büyüyor. Ülke genelinde 207 kişi hastalanırken 1 kişi yaşamını yitirdi, en az 34 kişi hastanede tedavi gördü. Soruşturmada yerli yumurta ve kümes hayvanları kaynak dışı bırakılırken, ithal yumurtalar mercek altına alındı.",
+      "link": "https://www.birgun.net/haber/ingiltere-de-salmonella-salgini-207-kisi-hastalandi-1-kisi-oldu-730015",
+      "published": "2026-08-19T04:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T04:30:48.024719+00:00"
+    },
+    {
       "id": "54f0c254762fe0af",
       "source": "Habertürk",
       "title": "Esnaf kavgası kanlı bitti: 1 ölü, 1 yaralı",
@@ -61,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T04:10:41.647824+00:00"
+    },
+    {
+      "id": "a4d4889e211ff486",
+      "source": "Bir Gün",
+      "title": "Resmi Gazete yayımladı: Nemrut Kalderası 'milli park' ilan edildi",
+      "summary": "Bitlis’in Tatvan, Ahlat ve Güroymak ilçeleri sınırlarında yer alan Nemrut Kalderası, Cumhurbaşkanı Kararı’yla milli park ilan edildi. Karar Resmî Gazete’de yayımlanırken, bölgenin doğal zenginliklerinin korunması için yaklaşık iki yıldır yürütülen çalışma tamamlandı.",
+      "link": "https://www.birgun.net/haber/resmi-gazete-yayimladi-nemrut-kalderasi-milli-park-ilan-edildi-730014",
+      "published": "2026-08-19T04:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T04:30:48.024753+00:00"
     },
     {
       "id": "d5885fa5e0253b91",
@@ -85,6 +118,17 @@
       "fetched_at": "2026-08-19T04:05:40.301529+00:00"
     },
     {
+      "id": "3d11d15e89256144",
+      "source": "Bir Gün",
+      "title": "Fatih’te esnaflar arasında silahlı kavga: 1 ölü, 1 yaralı",
+      "summary": "Fatih’te komşu iki esnaf arasında çıkan tartışma silahlı kavgaya dönüştü. Pompalı tüfekle açılan ateş sonucu 1 kişi yaşamını yitirdi, 1 kişi yaralandı. Polis, olayla ilgili bir şüpheliyi gözaltına alırken soruşturma başlatıldı.",
+      "link": "https://www.birgun.net/haber/fatihte-esnaflar-arasinda-silahli-kavga-1-olu-1-yarali-730013",
+      "published": "2026-08-19T03:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T04:30:48.024783+00:00"
+    },
+    {
       "id": "a42f231997054865",
       "source": "Habertürk",
       "title": "Adana'da Furkan Vakfı'na operasyon",
@@ -105,6 +149,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T04:01:00.315919+00:00"
+    },
+    {
+      "id": "1cb77b2c8e4b39dd",
+      "source": "Bir Gün",
+      "title": "Furkan Vakfı'na yönelik operasyon: Alparslan Kuytul ve eşi gözaltına alındı",
+      "summary": "Adana’da Furkan Vakfı Kurucu Başkanı Alparslan Kuytul’un evine polis operasyonu düzenlendi. Kuytul ve eşi Semra Kuytul gözaltına alınırken, evde arama başlatıldı. Cumhurbaşkanı Başdanışmanı Oktay Saral, kısa süre önce Kuytul’a “Senin de suyun yeterince ısındı, sıra sana da gelecek” sözleriyle tepki göstermişti.",
+      "link": "https://www.birgun.net/haber/furkan-vakfi-na-yonelik-operasyon-alparslan-kuytul-ve-esi-gozaltina-alindi-730012",
+      "published": "2026-08-19T03:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T04:30:48.024819+00:00"
     },
     {
       "id": "30f1a05f735ed1ed",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T14:25:34.219729+00:00"
-    },
-    {
-      "id": "6875be19dbd80482",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Dışişleri Bakanlığı: Ebu Zuhur Askeri Hava Üssü’ne İsrail tarafından düzenlenen hava saldırısını kınıyoruz",
-      "summary": "Dışişleri Bakanlığından, \"Suriye’nin İdlip kırsalındaki Ebu Zuhur Askeri Hava Üssü’ne sabaha karşı İsrail tarafından düzenlenen hava saldırılarını güçlü şekilde kınıyoruz.\" açıklaması yapıldı.",
-      "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-ebu-zuhur-askeri-hava-ussu-ne-israil-tarafindan-duzenlenen-hava-saldirisini-kiniyoruz/4030722",
-      "published": "2026-08-18T14:12:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:15:38.182187+00:00"
-    },
-    {
-      "id": "725a834f82e05e54",
-      "source": "Cumhuriyet",
-      "title": "Zihinsel esneklik eğitimiyle beyin yapısı değişiyor: Stresle mücadelede yeni tıp yöntemi",
-      "summary": "Illinois Urbana-Champaign Üniversitesi araştırmacıları, 5 haftalık zihinsel egzersiz eğitimiyle beynin stres odaklarını yeniden yapılandırmayı başardı. Çalışma, odaklanmış dikkat ve bilişsel değerlendirme tekniklerinin beynin sınırlarını değiştirerek duygusal dayanıklılığı artırdığını belgeledi.",
-      "link": "https://www.cumhuriyet.com.tr/yasam/zihinsel-esneklik-egitimiyle-beyin-yapisi-degisiyor-stresle-mucadelede-yeni-tip-yontemi-2530180",
-      "published": "2026-08-18T14:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:15:38.660290+00:00"
-    },
-    {
-      "id": "e414cc566c1203fe",
-      "source": "Türkiye Gazetesi",
-      "title": "HER CÜMLESİ MİDE BULANDIRIYOR",
-      "summary": "Antalya'da plajdaki kadınları çeken 2 şahıs, tesettürlülere yönelik hakaret ve küfürlerde bulundu. Görenlerin tepkisini çeken videoda şahıslardan biri, \"Adam şalvarıyla denize girdi, kadın demeye bin şahit. Ninja gibi geziyorlar. Suriye mi burası, Suudi Arabistan mı? Midemi bulandırıyorlar ya! Kedi-köpek bile yeri kazıyor. Bunlarda o bile yok\" dedi. Şahıslar hakkında harekete geçilmesi bekleniyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/antalyada-skandal-video-plajdaki-tesetturlu-kadinlari-cekip-kufur-ettiler-ninja-gibi-1810043",
-      "published": "2026-08-18T14:07:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:20:55.507790+00:00"
-    },
-    {
-      "id": "e6d309cab9caef67",
-      "source": "Türkiye Gazetesi",
-      "title": "ANTALYA'DA SKANDAL VİDEO!",
-      "summary": "Sosyal medyada yayınlanan bir videoda, tesettürlü kadınlara yönelik ağır hakaretler yer aldı. Antalya'da plajdaki kadınları çeken şahıslar, \"Göçmen mi dedim ama Türkçe konuşuyorlar. AKP'liler gelmeyin kardeşim denize falan. Oturun evinizde kılın namazınızı\" dedi. Video tepki çekerken şahıslar hakkında harekete geçilmesi bekleniyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/antalyada-skandal-video-plajdaki-tesetturlu-kadinlari-cekip-kufur-ettiler-ninja-gibi-1810043",
-      "published": "2026-08-18T14:07:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:10:40.664165+00:00"
-    },
-    {
-      "id": "b413f27cbe81ba01",
-      "source": "Evrensel",
-      "title": "Çanakkale'de kamyon bariyere çarptı: 2 kişi hayatını kaybetti",
-      "summary": "Çanakkale’nin Lapseki ilçesinde bir kamyonun 1915 Çanakkale Köprüsü bağlantı yolu ayrımındaki bariyere çarpması sonucu 2 kişi yaşamını yitirdi. Kazada kamyon sürücüsü Arif Silleli ile Afganistan uyruklu yolcu Zekrullah Khodayar hayatını kaybetti.",
-      "link": "https://www.evrensel.net/haber/5996847/canakkalede-kamyon-bariyere-carpti-2-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-18T14:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T14:20:56.594907+00:00"
     }
   ]
 }

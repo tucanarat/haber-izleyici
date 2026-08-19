@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-08-19T09:05:40.383748+00:00",
+  "last_updated": "2026-08-19T09:10:40.462233+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 25,
+  "new_items_this_run": 21,
   "items": [
+    {
+      "id": "8826af5fb75e3ebe",
+      "source": "Cumhuriyet",
+      "title": "Temizlediği kamyonun yanında ölü bulundu",
+      "summary": "Antalya'da çalıştığı beton pompası kamyonunu temizleyeceğini ve yakınlarına bu nedenle eve geç geleceğini söyleyen Ali Serttaş (31) sabah mesai arkadaşları tarafından aracın yanında ölü bulundu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/temizledigi-kamyonun-yaninda-olu-bulundu-2530417",
+      "published": "2026-08-19T09:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T09:10:37.970339+00:00"
+    },
+    {
+      "id": "e751e7b973e9df26",
+      "source": "Cumhuriyet",
+      "title": "CNN: \"Trump, İran görüşmelerini durdurma emri verdi\"",
+      "summary": "CNN International kanalının haberine göre ABD Başkanı Donald Trump, salı günü üst düzey temsilcilerine İran ile görüşmeleri durdurma talimatı verdi.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/cnn-trump-iran-gorusmelerini-durdurma-emri-verdi-2530416",
+      "published": "2026-08-19T09:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T09:10:37.970373+00:00"
+    },
+    {
+      "id": "300a9048c680a5e8",
+      "source": "Türkiye Gazetesi",
+      "title": "ŞARJDA TARİHİ REKOR!",
+      "summary": "Türkiye'de elektrikli araç kullanımının son zamanlarda hızlı artış göstermesi elektrik tüketimi verilerine de yansıdı. Enerji Piyasası Düzenleme Kurumundan (EPDK) alınan bilgiye göre, elektrikli otomobillerin şarj edilmesi için temmuzda toplam 89 bin 947 megavatsaat elektrik tüketilerek tüm zamanların rekoru kırıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/sarjda-tarihi-rekor-elektrikli-araclarin-temmuz-ayi-enerji-tuketimi-tum-zamanlari-ast-1810207",
+      "published": "2026-08-19T09:05:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T09:10:40.049847+00:00"
+    },
+    {
+      "id": "9347921ce38e8413",
+      "source": "Cumhuriyet",
+      "title": "Köpeklerden sonra şimdi de kediler hedefte: Toplatılmalarını istediler!",
+      "summary": "Sosyal medyada köpeklerin hedef alınmasının ardından, sıra şimdi de kedilere geldi... \"Başıboş Köpek Tehlikesi\" isimli X hesabı, kedileri hedef gösterdi, \"kamusal alandan\" toplatılmalarını istedi. Öte yandan X'te \"Başıboş Kedi Sorunu\" isimli bir hesap da açıldı. Söz konusu paylaşıma tepki yağdı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/kopeklerden-sonra-simdi-de-kediler-hedefte-toplatilmalarini-istediler-2530415",
+      "published": "2026-08-19T09:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-19T09:10:37.970409+00:00"
+    },
     {
       "id": "7932a0372a3a5196",
       "source": "Anadolu Ajansı (Güncel)",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-18T23:50:36.969169+00:00"
-    },
-    {
-      "id": "e0997190e0c2a639",
-      "source": "Habertürk",
-      "title": "Ankara'da 5 eğlence mekanına operasyon: 24 gözaltı",
-      "summary": "Ankara Cumhuriyet Başsavcılığı, Çankaya’da faaliyet gösteren 5 eğlence mekanına yönelik insan ticareti, göçmen kaçakçılığı ve fuhşa teşvik soruşturması kapsamında 24 şüphelinin gözaltına alındığını açıkladı",
-      "link": "https://www.haberturk.com/ankara-da-5-eglence-mekanina-operasyon-24-gozalti-3906572",
-      "published": "2026-08-18T23:41:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T23:55:26.900611+00:00"
-    },
-    {
-      "id": "e5d1da22d005c5ee",
-      "source": "Türkiye Gazetesi",
-      "title": "\"TALEPTE BULUNMAYACAĞIZ\"",
-      "summary": "Fenerbahçe Futbol Direktörü Oğuz Çetin, Trendyol Süper Lig’in 2. haftasında oynanacak Konyaspor karşılaşması için herhangi bir erteleme talebinde bulunmadıklarını belirterek, \"Biz kendimize olan güvenimiz ve inancımızla Konya maçına da çıkıp o maçı kazanırız, hemen arkasından Lyon'a da gideriz, turumuzu geçeriz\" diye konuştu. Asensio tezahüratları hakkında da konuşan Çetin, \"Taraftarımız şunu bilm",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/oguz-cetinden-erteleme-transfer-ve-asensio-aciklamasi-1810120",
-      "published": "2026-08-18T23:32:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T23:35:30.205169+00:00"
-    },
-    {
-      "id": "a3f89cad853e7913",
-      "source": "Türkiye Gazetesi",
-      "title": "Çetelere terör muamelesi!",
-      "summary": "Yeni nesil yapıların klasik mafya modellerinden oldukça farklı olduğunu vurgulayan İçişleri Bakanı Mustafa Çiftçi, TEM birimlerinin de sahaya indiğini açıklayarak “Yalnızca suçu işleyen kişiyi değil, örgütü yöneten ve ayakta tutan yapının tamamını hedef alacağız” dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/cetelere-teror-muamelesi-klasik-asayis-yaklasimi-bitti-devletin-butun-gucu-kullanilac-1810096",
-      "published": "2026-08-18T23:16:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T23:20:40.162027+00:00"
-    },
-    {
-      "id": "bdaee6c9f17fe0af",
-      "source": "Türkiye Gazetesi",
-      "title": "BATAKLIĞI TEM KURUTACAK",
-      "summary": "Yeni nesil yapıların klasik mafya modellerinden oldukça farklı olduğunu vurgulayan İçişleri Bakanı Mustafa Çiftçi, TEM birimlerinin de sahaya indiğini açıklayarak “Yalnızca suçu işleyen kişiyi değil, örgütü yöneten ve ayakta tutan yapının tamamını hedef alacağız” dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/cetelere-teror-muamelesi-klasik-asayis-yaklasimi-bitti-devletin-butun-gucu-kullanilac-1810096",
-      "published": "2026-08-18T23:16:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-18T23:20:40.162070+00:00"
     }
   ]
 }

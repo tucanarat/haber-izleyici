@@ -1,12 +1,133 @@
 {
-  "last_updated": "2026-08-20T09:11:05.270968+00:00",
+  "last_updated": "2026-08-20T09:16:03.880612+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 600,
+  "new_items_this_run": 589,
   "items": [
+    {
+      "id": "c862bb34f0a344fa",
+      "source": "LOG",
+      "title": "Claude Code eğer istenirse artık yanıtlarını daha kısa ve öz verebiliyor",
+      "summary": "Anthropic tarafından geliştirilen Claude Code, istenmesi halinde artık yanıtlarını daha kısa ve öz verebiliyor. Bunun için popüler kodlama aracına “Concise” adlı bir çıktı stili eklenmiş durumda. Bu stil seçildiğinde sistem önce sonucu sunuyor, bunu yaparken yanıtlarını kısa tutuyor ve tüm ayrıntıları yalnızca kullanıcı istediğinde aktarıyor. Şirketin, “Bu özelliği /config → Output style yolundan ",
+      "link": "https://www.log.com.tr/claude-code-eger-istenirse-artik-yanitlarini-daha-kisa-ve-oz-verebiliyor/",
+      "published": "2026-08-20T09:15:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:59.095500+00:00"
+    },
+    {
+      "id": "9818106664035635",
+      "source": "Yeni Şafak",
+      "title": "Sivas'taki bu mağara gizemini koruyor: İmranlı'daki 400 metrelik mağara ziyaretçilerin ilgi odağı oldu",
+      "summary": "Sivas’ın İmranlı ilçesinde bir köyde bulunan mağara, doğal yapısı ve gizemli görüntüsüyle köylülerin ve ziyaretçilerin ilgisini çekiyor. Mağara, yıllardır gizemini korumaya devam ediyor.",
+      "link": "https://www.yenisafak.com/galeri/gundem/sivastaki-bu-magara-gizemini-koruyor-imranlidaki-400-metrelik-magara-ziyaretcilerin-ilgi-odagi-oldu-4849549",
+      "published": "2026-08-20T09:14:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:43.365696+00:00"
+    },
+    {
+      "id": "1bba89df29e974f0",
+      "source": "Cumhuriyet",
+      "title": "Amasya'nın tescilli çiçek bamyası altın değerinde: Kilosu bin 400 TL'den satılıyor",
+      "summary": "Amasya'nın ‘tescilli sarı altını' çiçek bamyası altından daha kolay satılıyor. Taşova ilçesinde halkın en büyük geçim kaynağı coğrafi işaret tescilli çiçek bamyası gece, gündüz alıcı bulabiliyor.",
+      "link": "https://www.cumhuriyet.com.tr/yasam/amasya-nin-tescilli-cicek-bamyasi-altin-degerinde-kilosu-bin-400-tl-den-satiliyor-2530747",
+      "published": "2026-08-20T09:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:36.350491+00:00"
+    },
+    {
+      "id": "a737c8531ccb586b",
+      "source": "Akşam",
+      "title": "Bolu'da korkutan kaza! Caminin imam odasına girerek durabildi",
+      "summary": "Bolu'nun Sağlık Mahallesi'nde kontrolden çıkarak önce park halindeki bir araca çarpan, ardından yaklaşık 100 metre ilerleyip Sağlık Mahallesi Cuma Pazarı Yanı Camisi'nin imam odası duvarına toslayarak durabilen otomobildeki 2 kişi yaralanarak İzzet Baysal Devlet Hastanesi'ne kaldırıldı.",
+      "link": "https://www.aksam.com.tr/yasam/boluda-korkutan-kaza-caminin-imam-odasina-girerek-durabildi/haber-1692021",
+      "published": "2026-08-20T09:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:42.155377+00:00"
+    },
+    {
+      "id": "efc128bdc438e938",
+      "source": "Karar",
+      "title": "Ahmetcan Kaplan'ın yeni takımı belli oldu",
+      "summary": "Trabzonspor altyapısından yetişen deneyimli savuma Ahmetcan Kaplan'ın yeni takımı belli oldu. Deneyimli savunma oyuncusu NEC Nijmegen ile 4 yıllık sözleşme imzaladı.",
+      "link": "https://www.karar.com/spor-haberleri/ahmetcan-kaplanin-yeni-takimi-belli-oldu-2066834",
+      "published": "2026-08-20T09:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:44.741534+00:00"
+    },
+    {
+      "id": "d0e565e35557f602",
+      "source": "Millî Gazete",
+      "title": "Noah Sadiki Kimdir, Kaç Yaşında ve Nereli? Galatasaray’a Transfer Olacak mı?",
+      "summary": "Galatasaray’ın transfer gündemine İngiltere Premier Lig ekiplerinden Sunderland’da forma giyen Noah Sadiki’nin girdiği öne sürüldü. İngiliz basınında yer alan iddiaya göre sarı-kırmızılılar, 21 yaşındaki orta saha oyuncusunun durumunu yakından takip ediyor. Peki, Noah Sadiki kimdir, kaç yaşında, nereli, hangi takımlarda oynadı ve Galatasaray’a transfer olacak mı?",
+      "link": "https://www.milligazete.com.tr/noah-sadiki-kimdir-kac-yasinda-ve-nereli-galatasaraya-transfer-olacak-mi",
+      "published": "2026-08-20T09:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:46.634015+00:00"
+    },
+    {
+      "id": "283e1e533209396a",
+      "source": "Diken",
+      "title": "Türkiye'nin dış borç stoku 539 milyar dolar",
+      "summary": "Türkiye'nin dış borç stoku 539 milyar dolar 20.08.2026 Diken Türkiye'nin toplam brüt dış borç stoku, yılın ikinci çeyreğinde bir önceki çeyreğe göre yüzde 3,5 artarak 539 milyar dolara yükseldi. The post Türkiye'nin dış borç stoku 539 milyar dolar appeared first on #site_linkat 20.08.2026 .",
+      "link": "https://www.diken.com.tr/turkiyenin-dis-borc-stoku-539-milyar-dolar/?utm_source=rss&utm_medium=rss&utm_campaign=turkiyenin-dis-borc-stoku-539-milyar-dolar",
+      "published": "2026-08-20T09:11:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:48.447272+00:00"
+    },
+    {
+      "id": "ff13f9d6debf3d55",
+      "source": "Evrensel",
+      "title": "Beyoğlu'nda tramvay raydan çıktı",
+      "summary": "İstanbul'da Kabataş-Bağcılar Tramvay Hattı'nda Kabataş seferini yapan tramvay Fındıklı istasyonu yakınlarında raydan çıkarak Bağcılar istikametine giden rayların üzerine geçti. Seferler Fındıklı-Bağcılar istasyonları arasında yapılıyor.",
+      "link": "https://www.evrensel.net/haber/5997071/beyoglunda-tramvay-raydan-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T09:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:39.450181+00:00"
+    },
+    {
+      "id": "04c84b4beeb79d02",
+      "source": "Milliyet",
+      "title": "Ankara’da fuhuş ve göçmen kaçakçılığı operasyonu: 44 şüpheli yakalandı",
+      "summary": "HABER MERKEZİ- Adalet Bakanı Akın Gürlek, Ankara’da fuhuş, insan ticareti ve göçmen kaçakçılığı suçlarına yönelik yürütülen soruşturmalar kapsamında gerçekleştirilen operasyonlara ilişkin açıklama yaptı. Bakan Gürlek'in açıklamaları şöyle; \"Başkentimizin huzurunu, güvenliğini ve toplumsal düzenini bozan; kadınların çaresizliğini istismar eden, insan ticareti ve fuhuş üzerinden haksız kazanç sağlay",
+      "link": "https://www.milliyet.com.tr/gundem/ankarada-fuhus-ve-insan-ticareti-operasyonu-44-supheli-yakalandi-7644915",
+      "published": "2026-08-20T09:10:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:41.275172+00:00"
+    },
+    {
+      "id": "959aa2e64a312010",
+      "source": "Ekonomim",
+      "title": "Beyoğlu'nda tramvay raydan çıktı: Seferlerde aksama yaşanıyor",
+      "summary": "T1 Kabataş-Bağcılar Tramvay Hattı&#039;nda sefer yapan tramvayın raydan çıkması nedeniyle seferlerde aksama yaşanıyor.",
+      "link": "https://www.ekonomim.com/gundem/beyoglunda-tramvay-raydan-cikti-seferlerde-aksama-yasaniyor-haberi-913244",
+      "published": "2026-08-20T09:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:55.522982+00:00"
+    },
+    {
+      "id": "845bd2e4d8eb8070",
+      "source": "Ekonomim",
+      "title": "KAPIŞ KAPIŞ GİDECEK: EV TEMİZLİĞİNDE İŞLERİ KOLAYLAŞTIRAN O ÜRÜN BİM’E GELİYOR! (BİM 21-27 AĞUSTOS)",
+      "summary": "BİM market, yeni aktüel kataloğunda ev işlerine hız ve pratiklik katacak büyük bir fırsatı duyurdu. Uzun süreli kullanım ömrü ve zahmetsiz sıkma mekanizmasıyla bilinen Vileda Spino Ultra temizlik seti, bu hafta BİM raflarında satışa sunuluyor. Evinizin her köşesinde dip köşe temizlik yapmayı kolaylaştıran bu set, bütçeyi sarsmayacak bir ödeme kolaylığıyla geliyor. Kampanya kapsamında tüketiciler, ",
+      "link": "https://www.ekonomim.com/foto-galeri/aktuel/kapis-kapis-gidecek-ev-temizliginde-isleri-kolaylastiran-o-urun-bime-geliyor-bim-21-27-agustos-s1-galeri-913247",
+      "published": "2026-08-20T09:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:55.523047+00:00"
+    },
     {
       "id": "2815dc11dd36644a",
       "source": "DonanımHaber",
@@ -61,6 +182,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T09:10:48.072233+00:00"
+    },
+    {
+      "id": "9d0d0263da587a36",
+      "source": "Ekonomim",
+      "title": "YKS yerleştirme sonuçları açıklandı: Yaklaşık 50 bin kişi tekrar üniversiteli oldu",
+      "summary": "Yükseköğretim Kurumları Sınavı (2026-YKS) yerleştirmelerinde, daha önce bir yükseköğretim programından mezun olmuş 48 bin 895 aday üniversiteye yeniden yerleşmeyi başardı.",
+      "link": "https://www.ekonomim.com/gundem/yks-yerlestirme-sonuclari-aciklandi-yaklasik-50-bin-kisi-tekrar-universiteli-oldu-haberi-913246",
+      "published": "2026-08-20T09:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:55.523081+00:00"
     },
     {
       "id": "3674bed7830cf5af",
@@ -160,6 +292,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T09:10:45.249093+00:00"
+    },
+    {
+      "id": "462df6a5b6b03dcb",
+      "source": "Ekonomim",
+      "title": "Su Ürünleri OTB’de altyapı ve elektrik ihalesi yapıldı",
+      "summary": "Adana Karataş Tarıma Dayalı İhtisas Su Ürünleri Organize Tarım Bölgesinde (OTB) altyapı ve elektrik dağıtım şebekesi ile ilgili sözleşme imzalanarak sahada fiziki uygulama sürecine adım atıldı. Adana Valisi Mustafa Yavuz, projenin Türkiye ve Avrupa ölçeğinde stratejik bir öneme sahip olduğunu söyledi.",
+      "link": "https://www.ekonomim.com/sehirler/su-urunleri-otbde-altyapi-ve-elektrik-ihalesi-yapildi-haberi-913243",
+      "published": "2026-08-20T09:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:55.523119+00:00"
     },
     {
       "id": "f7b7f969eeded3b8",
@@ -404,6 +547,17 @@
       "fetched_at": "2026-08-20T09:05:42.421387+00:00"
     },
     {
+      "id": "22e6c2cf6eb424ab",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Grönland'da eriyen buzullar balinalara yeni yaşam alanları açıyor",
+      "summary": "Grönland'da iklim değişikliğinin etkisiyle denizlerin ısınması ve buz örtüsünün azalmasının, daha önce bölgeye nadiren ulaşabilen büyük balina türlerine yeni yaşam alanları açtığı ve deniz ekosisteminde önemli değişimlere neden olduğu belirlendi.",
+      "link": "https://www.aa.com.tr/tr/dunya/gronlandda-eriyen-buzullar-balinalara-yeni-yasam-alanlari-aciyor/4032525",
+      "published": "2026-08-20T09:02:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:35.869915+00:00"
+    },
+    {
       "id": "79176313f1cc114c",
       "source": "Gazete Pencere",
       "title": "Gençlerbirliği, Cheikh Niasse'yi transfer etti",
@@ -602,6 +756,39 @@
       "fetched_at": "2026-08-20T09:00:56.385379+00:00"
     },
     {
+      "id": "b432c27d3bd26ce6",
+      "source": "Sabah",
+      "title": "SON DAKİKA... MSB: İsrail bölgesel istikrarsızlığı derinleştiriyor",
+      "summary": "SON DAKİKA... Milli Savunma Bakanlığı'nın basın bilgilendirme toplantısı Teknofest mavi Vatan kapsamında Gölcük’te TCG Koçhisar gemisinde yapıldı. Toplantının gündeminde Orta Doğu'daki gelişmeler ve İsrail'in... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/08/20/son-dakika-msb-israil-bolgesel-istikrarsizligi-derinlestiriyor",
+      "published": "2026-08-20T08:59:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:41.728667+00:00"
+    },
+    {
+      "id": "51581045a0aad1cf",
+      "source": "Evrensel",
+      "title": "Kuzey Almanya'da liman işçileri uyarı grevine çıktı",
+      "summary": "Kuzey Almanya limanlarındaki TİS görüşmelerinde uzlaşma çıkmayınca ver.di sendikası öncülüğünde 12 bin işçi 24 saatlik uyarı grevine gitti. İşverenlerin teklifini yetersiz bulan işçiler, Hamburg başta olmak üzere birçok limanda iş bıraktı.",
+      "link": "https://www.evrensel.net/haber/5997069/kuzey-almanyada-liman-iscileri-uyari-grevine-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:39.450222+00:00"
+    },
+    {
+      "id": "820ef93caf0ae649",
+      "source": "Aydınlık",
+      "title": "MSB'den İsrail'e Suriye tepkisi: 'Pervasız saldırılara son verilmeli'",
+      "summary": "Milli Savunma Bakanlığı, haftalık basın bilgilendirme toplantısında terörle mücadele ve hudut güvenliğinden bölgesel gelişmelere, İsrail’in Suriye’ye yönelik saldırılarından Ege’deki gelişmelere kadar gündemdeki başlıklara ilişkin açıklamalarda bulundu.",
+      "link": "https://www.aydinlik.com.tr/haber/msbden-israile-suriye-tepkisi-pervasiz-saldirilara-son-verilmeli-587249",
+      "published": "2026-08-20T08:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:46.475286+00:00"
+    },
+    {
       "id": "5f5c05a63012892e",
       "source": "Millî Gazete",
       "title": "Öğrenciler dikkat: Google'dan bedava Gemini fırsatı",
@@ -655,6 +842,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T09:05:31.380847+00:00"
+    },
+    {
+      "id": "8fa99e5eda940855",
+      "source": "Evrensel",
+      "title": "Ankara'da direnen maden işçilerine Kocaeli'den destek: “Bu mücadele bütün emekçilerin mücadelesidir”",
+      "summary": "Haklarının ödenmesi için Enerji ve Tabii Kaynaklar Bakanlığı önünde direnen maden işçileriyle dayanışma amacıyla Kocaeli'de açıklama yapıldı. Açıklamada, “Bu mücadele bütün emekçilerin mücadelesidir” denildi.",
+      "link": "https://www.evrensel.net/haber/5997068/ankarada-direnen-maden-iscilerine-kocaeliden-destek-bu-mucadele-butun-emekcilerin-mucadelesidir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:39.450279+00:00"
+    },
+    {
+      "id": "6091942ddb16d46c",
+      "source": "Evrensel",
+      "title": "Sakarya'da Emniyet şantiyesinde işçiler üç aydır maaşlarını alamıyor: “Çocuğumun bezini alamadım”",
+      "summary": "Sakarya İl Emniyet Müdürlüğü hizmet binası inşaatında çalışan işçiler, yaklaşık üç aydır ücretlerinin ödenmediğini belirterek şantiye içindeki eylemlerini sürdürüyor",
+      "link": "https://www.evrensel.net/haber/5997072/sakaryada-emniyet-santiyesinde-isciler-uc-aydir-maaslarini-alamiyor-cocugumun-bezini-alamadim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:39.450315+00:00"
     },
     {
       "id": "d02b7b3aca084a84",
@@ -721,6 +930,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T09:00:56.679958+00:00"
+    },
+    {
+      "id": "83f4efc55ed214c2",
+      "source": "Evrensel",
+      "title": "Eğitim-İş'ten öğretmenlere yönelik kılık kıyafet düzenlemesine tepki: Denetlenmesi gereken öğretmenin kıyafeti değil, bakanlık politikalarıdır",
+      "summary": "Eğitim-İş Genel Başkanı Kadem Özbay, MEB’in öğretmenlere yönelik kılık-kıyafet düzenlemesine tepki göstererek; “Eğitimde denetlenmesi gereken öğretmenin kıyafeti değil, bakanlığın politikalarıdır. Öğretmen ne giyeceğini, sorumluluğunu bilir\" dedi.",
+      "link": "https://www.evrensel.net/haber/5997067/egitim-is-ten-ogretmenlere-yonelik-kilik-kiyafet-duzenlemesine-tepki-denetlenmesi-gereken-ogretmenin-kiyafeti-degil-bakanlik-politikalaridir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:39.450347+00:00"
     },
     {
       "id": "95527c7854e13f6c",
@@ -1119,6 +1339,17 @@
       "fetched_at": "2026-08-20T09:05:59.524249+00:00"
     },
     {
+      "id": "b9e4decbb107626a",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kadın ve erkek boks milli takımlarının hedefi Akdeniz Oyunları'nda zirve",
+      "summary": "Kadın ve erkek boks milli takımları, 20. Akdeniz Oyunları'ndan altın madalyalarla dönmeyi hedefliyor.",
+      "link": "https://www.aa.com.tr/tr/spor/kadin-ve-erkek-boks-milli-takimlarinin-hedefi-akdeniz-oyunlarinda-zirve/4032508",
+      "published": "2026-08-20T08:51:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:35.869942+00:00"
+    },
+    {
       "id": "5dfdc5329696730d",
       "source": "Gazete Pencere",
       "title": "İBB Davası'nda savcının tutuklama talebi ikinci kez reddedildi",
@@ -1128,6 +1359,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:55:34.689324+00:00"
+    },
+    {
+      "id": "054f7f2c97ec458b",
+      "source": "Evrensel",
+      "title": "Yeni Sayaca Mahallesi bentonit madenine karşı çıkıyor",
+      "summary": "Ordu Ulubey Yeni Sayaca'da STK'lar, bentonit madeni için verilen \"ÇED gerekli değildir\" kararının mahkemece iptal edilmesine ve çevre şartları değişmemesine rağmen şirketin yeni bir Proje Tanıtım Dosyası (PTD) ile tekrar başvurduğunu açıkladı.",
+      "link": "https://www.evrensel.net/haber/5997070/yeni-sayaca-mahallesi-bentonit-madenine-karsi-cikiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:39.450377+00:00"
     },
     {
       "id": "abff1e07af90d931",
@@ -1713,6 +1955,17 @@
       "fetched_at": "2026-08-20T08:45:48.439280+00:00"
     },
     {
+      "id": "b5218f892bd80d13",
+      "source": "Independent Türkçe",
+      "title": "Beka paradigmasının eleştirisi: Devleti korumak mı, toplumu yaşatmak mı? (9)",
+      "summary": "Modern Türkiye'nin siyasal ve hukuksal tartışmalarında en sık başvurulan kavramlardan biri \"beka\" kavramıdır. Gündelik siyasetten anayasa tartışmalarına, güvenlik politikalarından eğitim sistemine kadar uzanan geniş bir alanda bu kavramın izlerine rastlamak mümkündür. Bir reform önerisi gündeme geldiğinde, bir hak talebi dile getirildiğinde veya yeni bir siyasal açılım tartışıldığında çoğu zaman i",
+      "link": "https://www.indyturk.com/node/781466/t%C3%BCrki%CC%87yeden-sesler/beka-paradigmas%C4%B1n%C4%B1n-ele%C5%9Ftirisi-devleti-korumak-m%C4%B1-toplumu-ya%C5%9Fatmak-m%C4%B1",
+      "published": "2026-08-20T08:43:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:52.508764+00:00"
+    },
+    {
       "id": "97fe4176aa8fd0f6",
       "source": "Halk TV",
       "title": "Türkiye'nin dış borcu belli oldu",
@@ -2030,6 +2283,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:40:55.907190+00:00"
+    },
+    {
+      "id": "5da2c87c9dcda5b4",
+      "source": "Hürriyet",
+      "title": "İçişleri Bakanı Çiftçi duyurdu: ALO 199’da görüntülü görüşme dönemi başladı",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, ALO 199 Çağrı Merkezi'ne yapay zekâ teknolojilerinin entegre edildiğini ve işitme ile konuşma engelli vatandaşlar için görüntülü görüşme uygulamasının devreye alındığını açıkladı.",
+      "link": "https://www.hurriyet.com.tr/gundem/icisleri-bakani-ciftci-duyurdu-alo-199da-goruntulu-gorusme-donemi-basladi-43279203",
+      "published": "2026-08-20T08:38:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:40.464676+00:00"
     },
     {
       "id": "564c7d34f82c61fa",
@@ -3229,6 +3493,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:21:06.004644+00:00"
+    },
+    {
+      "id": "68ba1e7aad6ba32a",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Milli voleybolcu Hande Baladın, Avrupa Şampiyonası'nda taraftar desteğine güveniyor",
+      "summary": "A Milli Kadın Voleybol Takımı'nın tecrübeli smaçörü ve Red Bull sporcusu Hande Baladın, son şampiyon olarak mücadele edecekleri Avrupa Şampiyonası'nın oluşturduğu baskı ve stresi taraftar desteğiyle avantaja çevirmek istediklerini söyledi.",
+      "link": "https://www.aa.com.tr/tr/spor/milli-voleybolcu-hande-baladin-avrupa-sampiyonasinda-taraftar-destegine-guveniyor/4032462",
+      "published": "2026-08-20T08:18:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T09:15:35.869876+00:00"
     },
     {
       "id": "67fb9c051ec00bab",
@@ -5231,281 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T07:55:33.505520+00:00"
-    },
-    {
-      "id": "f2985acff6aa774e",
-      "source": "Aydınlık",
-      "title": "İsrail haddini aştı! Savunma Bakanı Katz Cumhurbaşkanı Erdoğan'ı hedef aldı",
-      "summary": "İsrail Savunma Bakanı Israel Katz, Cumhurbaşkanı Recep Tayyip Erdoğan&#039;ı hedef alarak Türkiye&#039;yi Suriye&#039;de &quot;tehlikeli maceralara&quot; sürüklemekle suçladı. Eski İsrail Başbakanı Ehud Barak ise Netanyahu yönetiminin Türkiye ile gerilimi tırmandırmasını &quot;pervasız ve aptalca&quot; olarak nitelendirdi.",
-      "link": "https://www.aydinlik.com.tr/haber/israil-haddini-asti-savunma-bakani-katz-cumhurbaskani-erdogani-hedef-aldi-587238",
-      "published": "2026-08-20T07:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:55:44.707455+00:00"
-    },
-    {
-      "id": "7865c315331e4e5d",
-      "source": "Halk TV",
-      "title": "Çalışanların sağlık raporları internete düştü! Otomotiv şirketine 500 bin lira ceza",
-      "summary": "KVKK, siber saldırıya uğrayan otomotiv sistemleri üreticisi şirkete gerekli teknik ve idari güvenlik önlemlerini almadığı gerekçesiyle 500 bin TL para cezası uyguladı. Kararda üçüncü taraf hizmet sağlayıcı sorumluluğuna dikkat çekildi.",
-      "link": "https://halktv.com.tr/turkiye/calisanlarin-saglik-raporlari-internete-dustu-otomotiv-sirketine-500-bin-lira-ceza-1049965h",
-      "published": "2026-08-20T07:48:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:54.956512+00:00"
-    },
-    {
-      "id": "f6f01ad3b8fd30e4",
-      "source": "Yeniçağ",
-      "title": "Çin'de kredi faiz oranları belli oldu",
-      "summary": "Çin&#039;de gösterge faiz olarak işlev gören 1 ve 5 yıllık kredi faiz oranlarında (LPR) değişiklik olmadı.",
-      "link": "https://www.yenicaggazetesi.com/cinde-kredi-faiz-oranlari-belli-oldu-1063712h.htm",
-      "published": "2026-08-20T07:48:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:52.202336+00:00"
-    },
-    {
-      "id": "b6178a4ee617d8ef",
-      "source": "Bir Gün",
-      "title": "Çılgın Sayısal Loto 19 Ağustos 2026 Sonuçları Açıklandı! Milli Piyango Çekiliş Sonuçları Sorgulama Ekranı | 19 Ağustos 2026 Çılgın Sayısal çekiliş sonuçları",
-      "summary": "Çılgın Sayısal Loto 19 Ağustos 2026 sonuçları sorgulama ekranı çekilişin canlı yayınlanmasının ardından erişime açıldı. Sisal Şans tarafından noter huzurunda gerçekleştirilen Çılgın Sayısal çekilişi Milli Piyango'ya ait olan YouTube kanalında naklen yayınlandı. 19 Ağustos Çılgın Sayısal çekilişinde 6 bilen çıkarken 574 milyon TL'lik büyük ikramiye sahibini bulamadı. Çılgın Sayısal Loto çekilişi so",
-      "link": "https://www.birgun.net/haber/cilgin-sayisal-loto-19-agustos-2026-sonuclari-aciklandi-milli-piyango-cekilis-sonuclari-sorgulama-ekrani-19-agustos-2026-cilgin-sayisal-cekilis-sonuclari-730241",
-      "published": "2026-08-20T07:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T09:05:34.893609+00:00"
-    },
-    {
-      "id": "00538314a4045b49",
-      "source": "Evrensel",
-      "title": "İran Devrim Muhafızları: Yeni savaşta “daha yıkıcı silahlar” kullanacağız",
-      "summary": "İran Devrim Muhafızları Sözcüsü Hüseyin Muhibbi, olası yeni bir savaşta İran’ın önceki çatışmalarda kullandıklarından farklı, daha gelişmiş ve yıkıcı silahlarla karşılık vereceğini söyledi.",
-      "link": "https://www.evrensel.net/haber/5997050/iran-devrim-muhafizlari-yeni-savasta-daha-yikici-silahlar-kullanacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T07:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:00:53.884182+00:00"
-    },
-    {
-      "id": "ef80c3bfb89b42e0",
-      "source": "Akşam",
-      "title": "Sevdam Karadeniz dizisi ne zaman başlayacak? Dizinin konusu ne, oyuncuları kimler?",
-      "summary": "Yeni yayın döneminde izleyiciyle buluşmaya hazırlanan Sevdam Karadeniz dizisinin yayın tarihi, konusu ve oyuncu kadrosu merak ediliyor. Çekimleri Trabzon'un Maçka ilçesinde gerçekleştirilen yapımın ilk tanıtımı yayımlandı. Peki, Sevdam Karadeniz dizisi ne zaman başlayacak? Dizinin konusu ne, oyuncuları kimler? İşte ayrıntılar...",
-      "link": "https://www.aksam.com.tr/trend/sevdam-karadeniz-dizisi-ne-zaman-baslayacak-dizinin-konusu-ne-oyunculari-kimler/haber-1691989",
-      "published": "2026-08-20T07:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:50.331931+00:00"
-    },
-    {
-      "id": "7da8a1370d654d73",
-      "source": "Gazete Pencere",
-      "title": "Balıkesir'deki orman yangını 2'nci gününde!",
-      "summary": "Balıkesir'in Sındırgı ilçesinde kamyonda çıkıp, ormana sıçrayan yangına müdahale 2’nci gününde kontrol altına alındı. Ekiplerin bölgedeki soğutma çalışması devam ediyor.",
-      "link": "https://www.gazetepencere.com/gundem/balikesirdeki-orman-yangini-2nci-gununde-712514h",
-      "published": "2026-08-20T07:46:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:54.075819+00:00"
-    },
-    {
-      "id": "a81ad1a041f7c3f2",
-      "source": "Yeni Şafak",
-      "title": "Okullara 30 bin güvenlik görevlisi alımı ne zaman? Başvurular nereden nasıl yapılacak, şartları neler?",
-      "summary": "Yeni eğitim öğretim yılı öncesi okullarda güvenlik tedbirleri artırılıyor. 81 ilde toplam 30 bin kişinin görevlendirilmesine yönelik hazırlıkta gözler başvuru takvimine çevrildi. Adaylar “Okullara 30 bin kişilik güvenlik görevlisi alımı ne zaman başlayacak, kimler başvurabilecek?” sorularına yanıt ararken, başvuru şartları ve il bazındaki kontenjanlar da merak konusu oldu.",
-      "link": "https://www.yenisafak.com/galeri/gundem/okullara-30-bin-guvenlik-gorevlisi-alimi-ne-zaman-basvurular-nereden-nasil-yapilacak-sartlari-neler-4849511",
-      "published": "2026-08-20T07:46:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:50.523126+00:00"
-    },
-    {
-      "id": "a8a116fd789cc3f7",
-      "source": "Independent Türkçe",
-      "title": "ABD, Gazze planında kararlı: \"200 milyon dolarlık fon ayrıldı\"",
-      "summary": "ABD yönetimi, Gazze'de kurulacak Uluslararası İstikrar Gücü (ISF) için 206 milyon dolar fon ayıracak. Reuters, ABD Dışişleri Bakanlığı'nın Kongre'ye gönderdiği 30 Temmuz tarihli iki bildiriyi inceledi. Bildirilerde, 200 milyon doların ISF'nin teçhizatı, altyapısı, araçları ve operasyonel masrafları için kullanılmasının planlandığı belirtiliyor. 6 milyon dolarlık kaynaksa ISF'yi desteklemek üzere A",
-      "link": "https://www.indyturk.com/node/781462/d%C3%BCnya/abd-gazze-plan%C4%B1nda-kararl%C4%B1-200-milyon-dolarl%C4%B1k-fon-ayr%C4%B1ld%C4%B1",
-      "published": "2026-08-20T07:46:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:15:47.495305+00:00"
-    },
-    {
-      "id": "f9f85f4e362062b2",
-      "source": "Bir Gün",
-      "title": "TÜİK açıkladı: Yurt dışı üretici fiyatları temmuzda yüzde 29,67 arttı",
-      "summary": "TÜİK verilerine göre Yurt Dışı Üretici Fiyat Endeksi (YD-ÜFE), temmuzda aylık yüzde 2,51, yıllık yüzde 29,67 arttı. Ana sanayi gruplarında en yüksek yıllık artış yüzde 77,63 ile enerjide gerçekleşti.",
-      "link": "https://www.birgun.net/haber/tuik-acikladi-yurt-disi-uretici-fiyatlari-temmuzda-yuzde-29-67-artti-730235",
-      "published": "2026-08-20T07:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:05:36.255919+00:00"
-    },
-    {
-      "id": "b5a5e6fb98db4dab",
-      "source": "Akşam",
-      "title": "Kuytulcuların et skandalı yeniden gündemde! Fakirin rızkını gasp edip satmışlar",
-      "summary": "Vatandaşların dinî duygularını sömürerek topladıkları Kurban etlerini ihtiyaç sahiplerine dağıtmak yerine ticari amaçla sucuk yaptırıp satan ve nitelikli dolandırıcılıktan mal varlığı aklamaya kadar bir dizi suçla itham edilen \"Kuytulcular\" yapılanmasına yönelik 6 ilde düzenlenen şafak operasyonunda, Alparslan Kuytul ve eşi Semra Kuytul'un da aralarında bulunduğu 32 şüpheli gözaltına alındı.",
-      "link": "https://www.aksam.com.tr/guncel/kuytulcularin-et-skandali-yeniden-gundemde-fakirin-rizkini-gasp-edip-satmislar/haber-1691988",
-      "published": "2026-08-20T07:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:50.331999+00:00"
-    },
-    {
-      "id": "067a72c133f7ddad",
-      "source": "Halk TV",
-      "title": "Son Dakika | Balıkesir'deki orman yangını 2 günde kontrol altına alındı",
-      "summary": "Balıkesir&#039;in Sındırgı ilçesinde kamyonda çıkıp, ormana sıçrayan yangın 2. gününde kontrol altına alındı.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-balikesirdeki-orman-yangini-2-gunde-kontrol-altina-alindi-1049963h",
-      "published": "2026-08-20T07:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:54.956549+00:00"
-    },
-    {
-      "id": "8708834712cf4df5",
-      "source": "Halk TV",
-      "title": "Öcalan'a statü! \"Silahsızlanma ve Siyasallaşma Alt Kurulu\"nda görev alacağı duyuruldu",
-      "summary": "DEM Parti İmralı Heyeti üyesi ve Van Milletvekili Pervin Buldan, süreç yasasının ardından kurulan &quot;Silahsızlanma ve Siyasallaşma&quot; isimli alt kurulda Öcalan&#039;ın da yer alacağını duyurdu. Buldan, &quot;Sayın Öcalan gelişleri organize de edecek&quot; dedi.",
-      "link": "https://halktv.com.tr/turkiye/ocalana-statu-silahsizlanma-ve-siyasallasma-alt-kurulunda-gorev-alacagi-duyuruldu-1049964h",
-      "published": "2026-08-20T07:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:54.956588+00:00"
-    },
-    {
-      "id": "ab633baae172042c",
-      "source": "Serbestiyet",
-      "title": "Neden Enkaz Altında Kaldık? (3): Depremde binalardan önce imar planları çöktü!",
-      "summary": "Bir binanın deprem riski ve güvenliği, temel kazısı yapıldığında başlamaz. O binanın nereye yapılacağına, arsanın hangi amaçla kullanılacağına, kaç kat ve ne yoğunlukta yapılaşmaya izin verileceğine karar verildiği anda başlar. Bilimsel veriyi plan kararına dönüştüremeyen; üst ölçekli planları parsel parsel delen, imar yetkisini rant dağıtma aracına çeviren bir düzende, “depreme dirençli kent” söz",
-      "link": "https://serbestiyet.com/gunun-yazilari/neden-enkaz-altinda-kaldik-3-depremde-binalardan-once-imar-planlari-coktu-246666/",
-      "published": "2026-08-20T07:45:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:59.010445+00:00"
-    },
-    {
-      "id": "929876c32d8fc372",
-      "source": "Yeniçağ",
-      "title": "Yakınları haber alamayınca eve girdi: 60 yaşındaki adam ölü bulundu",
-      "summary": "Karaman’da kendisinden haber alamayan yakınlarının evine gittiği 60 yaşındaki Ramazan Bozkurt ölü bulundu. Yaklaşık 5 gün önce hayatını kaybettiği tahmin edilen Bozkurt’un kesin ölüm nedeni yapılacak otopsiyle belirlenecek.",
-      "link": "https://www.yenicaggazetesi.com/yakinlari-haber-alamayinca-eve-girdi-60-yasindaki-adam-olu-bulundu-1063711h.htm",
-      "published": "2026-08-20T07:45:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:45:47.155636+00:00"
-    },
-    {
-      "id": "f379d3e63365c1da",
-      "source": "Halk TV",
-      "title": "Havai fişek evi yaktı: Ressamın sergi hazırlığındaki tabloları kül oldu! İşte o görüntüler",
-      "summary": "Beyoğlu&#039;nda ateşlenen havai fişek, bir daireye girerek yangına neden oldu. Yangında ressam Murat Melih Özen&#039;in yıllardır hazırladığı ve sergiye çıkarmayı planladığı tablolar kül oldu. Fişeğin ateşlendiği anlara ait görüntüler ortaya çıktı.",
-      "link": "https://halktv.com.tr/turkiye/havai-fisek-evi-yakti-ressamin-sergi-hazirligindaki-tablolari-kul-oldu-iste-o-goruntuler-1049962h",
-      "published": "2026-08-20T07:45:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:45:49.495731+00:00"
-    },
-    {
-      "id": "9078985d56ac8170",
-      "source": "Evrensel",
-      "title": "Üzüm üreticileri anlattı, vekil dinledi: 'Babam 30 dönüm bağ ile 7 çocuğa baktı, biz 2 çocuğa bakamıyoruz'",
-      "summary": "Yeni Parti Manisa Milletvekili Bekir Başevirgen, Ahmetli’de TMO’nun taban fiyat açıklamamasına ve yüksek girdi maliyetlerine tepki gösteren üzüm üreticilerini ziyaret etti. Çiftçiler, \"En az 120-150 lira bandında fiyat açıklanmalı\" dedi.",
-      "link": "https://www.evrensel.net/haber/5997053/uzum-ureticileri-anlatti-vekil-dinledi-babam-30-donum-bag-ile-7-cocuga-bakti-biz-2-cocuga-bakamiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T07:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:15:39.565864+00:00"
-    },
-    {
-      "id": "c1cb09e5fee26847",
-      "source": "Yeniçağ",
-      "title": "Dünyanın en iyi forvetleri belli oldu: ESPN'nin listesinde Osimhen de var",
-      "summary": "ESPN dünyanın en iyi forvetlerini sıraladı. Galatasaray’ın yıldız forveti Osimhen’de listede.",
-      "link": "https://www.yenicaggazetesi.com/dunyanin-en-iyi-forvetleri-belli-oldu-espnnin-listesinde-osimhen-de-var-1063537h.htm",
-      "published": "2026-08-20T07:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:45:47.155696+00:00"
-    },
-    {
-      "id": "ee7f05fd947a192f",
-      "source": "Halk TV",
-      "title": "40 bin aletin çıktığı 86 bin yıllık mağarada insan kalıntısı aranacak",
-      "summary": "Çanakkale&#039;deki İnkaya Mağarası&#039;nda 40 bin çakmak taşı bulunmasına rağmen hiç organik kalıntıya rastlanmaması bilim insanlarını harekete geçirdi. Ankara Üniversitesi ekibi gizemi çözmek için e-DNA analizine başlıyor.",
-      "link": "https://halktv.com.tr/turkiye/40-bin-aletin-ciktigi-86-bin-yillik-magarada-insan-kalintisi-aranacak-1049961h",
-      "published": "2026-08-20T07:44:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:45:49.495774+00:00"
-    },
-    {
-      "id": "ef523b43837fcc49",
-      "source": "Evrensel",
-      "title": "Orta Afrika Cumhuriyeti'nde altın madeni çöktü: Hayatını kaybeden işçilerin sayısı 107'ye yükseldi",
-      "summary": "Orta Afrika Cumhuriyeti'nde dün altın madeninde meydana gelen göçükte hayatını kaybeden işçilerin sayısı 107'ye yükseldi. Çok sayıda işçinin göçük altında olduğu bölgede arama kurtarma çalışmaları sürüyor.",
-      "link": "https://www.evrensel.net/haber/5997049/orta-afrika-cumhuriyeti-nde-altin-madeni-coktu-hayatini-kaybeden-iscilerin-sayisi-107-ye-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T07:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:30:47.932283+00:00"
-    },
-    {
-      "id": "76c45c81fdea3846",
-      "source": "Bir Gün",
-      "title": "Özgür Özel’in ilk saha çalışmasının adresi belli oldu",
-      "summary": "YENİ Parti'de 24 Temmuz'daki kuruluşun ardından ilk saha çalışmasının yapılacağı adresler duyuruldu. Buna göre, YENİ Parti Genel Başkanı Özgür Özel’in 21 Ağustos Cuma günü Trabzon, 22 Ağustos Cumartesi günü Rize’de olacağı açıklandı.",
-      "link": "https://www.birgun.net/haber/ozgur-ozelin-ilk-saha-calismasinin-adresi-belli-oldu-730233",
-      "published": "2026-08-20T07:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:05:36.255947+00:00"
-    },
-    {
-      "id": "8facf9f42f08f56d",
-      "source": "Evrensel",
-      "title": "Orta Afrika Cumhuriyeti'nde altın madeni çöktü: Hayatını kaybeden işçilerin sayısı 107'ye yükseldi",
-      "summary": "Orta Afrika Cumhuriyeti'nde dün altın madeninde meydana gelen göçükte hayatını kaybeden işçilerin sayısı 107'ye yükseldi. Çok sayıda işçinin göçük altında olduğu bölgede arama kurtarma çalışmaları sürüyor.",
-      "link": "https://www.evrensel.net/haber/5997049/orta-afrika-cumhuriyetinde-altin-madeni-coktu-hayatini-kaybeden-iscilerin-sayisi-107ye-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T07:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:00:53.884223+00:00"
-    },
-    {
-      "id": "1ddd5922f8b858cc",
-      "source": "Akşam",
-      "title": "\"İlk Öğretmenim Ailem\" mobil uygulaması 2 milyonun üzerinde aileye rehberlik etti",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, ebeveynlere çocukların eğitimi, gelişimi ve aile içi iletişim konularında rehberlik eden \"İlk Öğretmenim Ailem\" mobil uygulamasının, hizmete başladığı Nisan 2025'ten bu yana 2 milyon 2 bin aile tarafından kullanılmaya başlandığını bildirdi.",
-      "link": "https://www.aksam.com.tr/egitim/ilk-ogretmenim-ailem-mobil-uygulamasi-2-milyonun-uzerinde-aileye-rehberlik-etti/haber-1691987",
-      "published": "2026-08-20T07:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:45:44.549683+00:00"
-    },
-    {
-      "id": "2947adc43b0c0824",
-      "source": "Star",
-      "title": "Selin ardından acı bekleyiş! Kayıplardan birine ait olabilecek ceset bulundu",
-      "summary": "Giresun'da 13 Ağustos'taki sel felaketinin ardından sürdürülen arama çalışmalarında kayıp vatandaşlardan birine ait olabileceği değerlendirilen bir ceset bulundu.",
-      "link": "https://www.star.com.tr/yasam/selin-ardindan-aci-bekleyis-kayiplardan-birine-ait-olabilecek-ceset-bulundu-haber-2034947/",
-      "published": "2026-08-20T07:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:45:46.126754+00:00"
-    },
-    {
-      "id": "b32a79a15ec9ccd4",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "\"İlk Öğretmenim Ailem\" mobil uygulaması 2 milyonun üzerinde aileye rehberlik etti",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, \"İlk Öğretmenim Ailem\" mobil uygulamasının, hizmete başladığı Nisan 2025'ten bu yana 2 milyon 2 bin aile tarafından kullanılmaya başlandığını bildirdi.",
-      "link": "https://www.aa.com.tr/tr/gundem/ilk-ogretmenim-ailem-mobil-uygulamasi-2-milyonun-uzerinde-aileye-rehberlik-etti/4032398",
-      "published": "2026-08-20T07:43:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:50:42.001083+00:00"
     }
   ]
 }

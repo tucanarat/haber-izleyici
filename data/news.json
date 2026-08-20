@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T22:16:07.470898+00:00",
+  "last_updated": "2026-08-20T22:21:01.707258+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,39 @@
   "total_items": 500,
   "new_items_this_run": 598,
   "items": [
+    {
+      "id": "a82f20622dee254c",
+      "source": "Akşam",
+      "title": "Nefes almadan bir aksiyon filmi seyrettik",
+      "summary": "",
+      "link": "https://www.aksam.com.tr/yazarlar/nefes-almadan-bir-aksiyon-filmi-seyrettik/haber-1692179",
+      "published": "2026-08-20T22:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:43.625282+00:00"
+    },
+    {
+      "id": "ded5e47140999533",
+      "source": "Yeniçağ",
+      "title": "Çorum’da motosiklet kazası",
+      "summary": "Çorum’da motosikletle otomobilin çarpışması sonucu bir kişi yaralandı.",
+      "link": "https://www.yenicaggazetesi.com/corumda-motosiklet-kazasi-1063990h.htm",
+      "published": "2026-08-20T22:17:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:45.498116+00:00"
+    },
+    {
+      "id": "b89d642ce82252c5",
+      "source": "Akşam",
+      "title": "Oh be! Kartal yolu yarıladı",
+      "summary": "Güney Koreli 6'da kafayla avladı, 12'de Murillo arka direkte işi bitirdi. Rıdvan 2 asistle parladı. Beşiktaş ilk 45'i farklı bitirebilirdi. 59'da Orkun penaltıyla 3-0 yaptı, 72'de Trossard sakatlandı... Kartal tura pençe attı.",
+      "link": "https://www.aksam.com.tr/spor/oh-be-kartal-yolu-yariladi/haber-1692178",
+      "published": "2026-08-20T22:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:43.625323+00:00"
+    },
     {
       "id": "46c54d17affc72b1",
       "source": "Millî Gazete",
@@ -17,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T22:15:50.169808+00:00"
+    },
+    {
+      "id": "f97d5d6749a4dcd6",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail'de Ben Gurion Havalimanı'nda grev nedeniyle aksaklıkların devam ettiği belirtildi",
+      "summary": "İsrail'de, çalışanların iş bırakması nedeniyle uçuşların durdurulduğu ve bir süre sonra tekrar başlatıldığı Tel Aviv'deki Ben Gurion Havalimanı'nda aksaklıkların devam ettiği bildirildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/israilde-ben-gurion-havalimaninda-grev-nedeniyle-aksakliklarin-devam-ettigi-belirtildi/4033368",
+      "published": "2026-08-20T22:12:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:38.304773+00:00"
     },
     {
       "id": "78378dfba3fbb1d2",
@@ -316,6 +360,17 @@
       "fetched_at": "2026-08-20T22:05:35.720233+00:00"
     },
     {
+      "id": "050dbb2207ebf1b1",
+      "source": "Bir Gün",
+      "title": "Kadın gazetecilere cinsiyetçi sözlere tepki: “Mesleki onur hedef alınamaz”",
+      "summary": "Muğlaspor Teknik Direktörü Yalçın Koşukavak’ın basın toplantısında kadın gazetecilere yönelik kullandığı cinsiyetçi ifadeler tepki çekti. Menteşe Kadın Platformu ile Muğla Barosu Kadın Hakları ve Toplumsal Cinsiyet Eşitliği Komisyonu, Koşukavak’ı kadın gazetecilerden özür dilemeye, kulüp yönetimini ise sorumluluk almaya çağırdı.",
+      "link": "https://www.birgun.net/haber/kadin-gazetecilere-cinsiyetci-sozlere-tepki-mesleki-onur-hedef-alinamaz-730371",
+      "published": "2026-08-20T21:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:41.834879+00:00"
+    },
+    {
       "id": "a4c926d39c9eb6ac",
       "source": "Yeniçağ",
       "title": "Otomobiller çarpıştı: Çok sayıda yaralı",
@@ -446,6 +501,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T21:40:46.319633+00:00"
+    },
+    {
+      "id": "c1cdd7fd72120cc1",
+      "source": "Bir Gün",
+      "title": "Otomobil, 50 metre yükseklikten dere yatağına düştü: 1 ölü, 1 yaralı",
+      "summary": "Osmaniye’de sürücüsünün kontrolünü kaybettiği otomobil, yaklaşık 50 metre yükseklikten dereye yatağına yuvarlandı. Kazada, otomobildeki Halil İbrahim Deprem hayatını kaybederken, 1 kişi de yaralandı.",
+      "link": "https://www.birgun.net/haber/otomobil-50-metre-yukseklikten-dere-yatagina-dustu-1-olu-1-yarali-730370",
+      "published": "2026-08-20T21:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:41.834919+00:00"
     },
     {
       "id": "47670adfbd273867",
@@ -732,6 +798,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T22:05:31.808397+00:00"
+    },
+    {
+      "id": "2996e5607ae52c18",
+      "source": "Bir Gün",
+      "title": "Peru'da 6,7 büyüklüğünde deprem",
+      "summary": "ABD Jeolojik Araştırmalar Merkezi (USGS), Peru'da merkez üssü Apurimac bölgesindeki Upahuacho'nun 38 kilometre kuzeybatısı olan 6, 7 büyüklüğünde bir deprem meydana geldiğini duyurdu. Peru Jeofizik Enstitüsü (IGP) ise depremin büyüklüğünün 7,2 olduğunu bildirdi.",
+      "link": "https://www.birgun.net/haber/peru-da-6-7-buyuklugunde-deprem-730367",
+      "published": "2026-08-20T21:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:41.834951+00:00"
     },
     {
       "id": "365aa85cf14dd518",
@@ -1205,6 +1282,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T21:05:38.416291+00:00"
+    },
+    {
+      "id": "cd1a6e6e16e05971",
+      "source": "Karar",
+      "title": "Kelepir pazarına düşen vekillerin ahlak sorunu",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/mehmet-ocaktan/kelepire-dusen-vekillerin-ahlak-sorunu-1608902",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:44.881360+00:00"
     },
     {
       "id": "ec839e02893cb0bd",
@@ -1931,6 +2019,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T21:01:06.057922+00:00"
+    },
+    {
+      "id": "70c3130b707ccfd7",
+      "source": "Bir Gün",
+      "title": "Aziz İhsan Aktaş: Beyanlarım değersizleştirmeye çalışıldı",
+      "summary": "İstanbul 33. Ağır Ceza Mahkemesi’nce Silivri’deki Marmara Kapalı Cezaevi’ne inşa edilen yeni duruşma salonunda gerçekleştirilen İBB Davası’nın 68’inci duruşmasında savunma yapan Aziz İhsan Aktaş, \"Etkin pişmanlık kapsamındaki beyanlarımı değersizleştirmek ve gerçeğin üzerini örtmek amacıyla yapılan yayınlar sonucunda hakkımda gerçeği yansıtmayan bir kanaat oluşturmaya çalışılmıştır\" dedi.",
+      "link": "https://www.birgun.net/haber/aziz-ihsan-aktas-beyanlarim-degersizlestirmeye-calisildi-730354",
+      "published": "2026-08-20T20:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T22:20:41.834989+00:00"
     },
     {
       "id": "cd38c7d6baba81b0",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T18:31:00.331231+00:00"
-    },
-    {
-      "id": "db5c6e3aea27056c",
-      "source": "Yeni Yaşam",
-      "title": "Akpınar ve Tekin anıldı: Barış için elimizden geleni yapmalıyız",
-      "summary": "Artûklû&#8217;da Ali Akpınar ve Qoser&#8217;de Süleyman Tekin, mezarları başında düzenlenen anmada konuşan Süleyman Tekin’in annesi Gurbet Tekin, &#8216;Barış için elimizden gelenin fazlasını yapmalıyız&#8217; dedi Mêrdîn’de farklı tarihlerde yaşamlarını yitiren Ali Akpınar ile Süleyman Tekin (Mazlum Tori), Mezopotamya Yakınlarını Kaybedenlerle Yardımlaşma ve Dayanışma Derneği (MEBYA-DER) öncülüğü",
-      "link": "https://yeniyasamgazetesi9.com/akpinar-ve-tekin-anildi-baris-icin-elimizden-geleni-yapmaliyiz/",
-      "published": "2026-08-20T18:24:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:25:42.652405+00:00"
-    },
-    {
-      "id": "26c4b061a778586f",
-      "source": "Türkiye Gazetesi",
-      "title": "Gram altında 'dip' ve 'zirve' rakamı verildi! Uzman isimden yıl sonu için çarpıcı tahmin",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/gram-altinda-dip-ve-zirve-rakami-verildi-uzman-isimden-yil-sonu-icin-carpici-tahmin-1810559",
-      "published": "2026-08-20T18:24:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:30:49.338131+00:00"
-    },
-    {
-      "id": "26c4b061a778586f",
-      "source": "Türkiye Gazetesi",
-      "title": "Gram altında 'dip' ve 'zirve' rakamı verildi! Uzman isimden yıl sonu için çarpıcı tahmin",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/gram-altinda-dip-ve-zirve-rakami-verildi-uzman-isimden-yil-sonu-icin-carpici-tahmin-1810559",
-      "published": "2026-08-20T18:24:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:30:49.338151+00:00"
-    },
-    {
-      "id": "0b74eee11bf4d009",
-      "source": "Türkiye Gazetesi",
-      "title": "İŞTE DİP VE ZİRVE RAKAMLARI",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/gram-altinda-dip-ve-zirve-rakami-verildi-uzman-isimden-yil-sonu-icin-carpici-tahmin-1810559",
-      "published": "2026-08-20T18:24:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:30:49.338165+00:00"
-    },
-    {
-      "id": "917da4bc6fb6bc92",
-      "source": "Türkiye Gazetesi",
-      "title": "DEĞERİ 10 BİN EURO!",
-      "summary": "Avusturya'nın başkenti Viyana'da 2023 yılında kaybolan yaklaşık 10 bin euro değerindeki saatin izine yaklaşık 3 yıl sonra İstanbul'da rastlandı. Seri numarası üzerinden çalıntı veri tabanına kaydedilen saatin Beşiktaş'taki yetkili teknik servise getirildiği ortaya çıktı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/viyanadan-istanbula-uzanan-gizem-3-yil-sonra-ortaya-cikti-degeri-10-bin-euro-1810558",
-      "published": "2026-08-20T18:23:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:30:49.338189+00:00"
-    },
-    {
-      "id": "373a3ef76d2c3793",
-      "source": "Yeni Şafak",
-      "title": "'Türk Tarih Kurumu Mobil Tırı' Ardahan'da kitapseverlerle buluştu",
-      "summary": "\"Her Eve Bir Tarih Kitabı\" sloganıyla yola çıkan Türk Tarih Kurumunun mobil satış mağaza tırı, Ardahan'da kitapseverlerle buluştu.",
-      "link": "https://www.yenisafak.com/galeri/gundem/turk-tarih-kurumu-mobil-tiri-ardahanda-kitapseverlerle-bulustu-4849706",
-      "published": "2026-08-20T18:22:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:25:35.213883+00:00"
-    },
-    {
-      "id": "471423d5c0cf9e25",
-      "source": "Yeni Şafak",
-      "title": "Konya'da bilim ve teknoloji şöleni",
-      "summary": "Konya'da 100 bin metrekarelik alanda düzenlenen 11. Konya Bilim Festivali'nin ilk gününde ziyaretçiler yoğunluk oluşturdu. Konya Bilim Merkezi'nde gerçekleştirilen organizasyonda, bilimsel etkinlik ve gösteriler, uygulamalı atölyeler, yarışmalar, simülatörler ve dijital deneyim alanları yer alıyor. Savunma sanayisi ürünlerinin de yer aldığı yaklaşık 100 bin metrekarelik alanda düzenlenen festivald",
-      "link": "https://www.yenisafak.com/video/gundem/konyada-bilim-ve-teknoloji-soleni-4849705",
-      "published": "2026-08-20T18:22:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:25:35.213963+00:00"
-    },
-    {
-      "id": "38c822b191184f34",
-      "source": "Yeniçağ",
-      "title": "AK Partili Çorum Belediye Başkanı kaza yaptı: Manifest çıkışıyla gündeme gelmişti",
-      "summary": "Çorum Belediye Başkanı Halil İbrahim Aşgın’ın içinde bulunduğu belediyeye ait Togg marka cip, bir iş yeri açılışına giderken zincirleme trafik kazasına karıştı. Kazada Aşgın ve beraberindekiler yara almazken, 4 araçta maddi hasar oluştu.",
-      "link": "https://www.yenicaggazetesi.com/ak-partili-corum-belediye-baskani-kaza-yapti-manifest-cikisiyla-gundeme-gelmisti-1063940h.htm",
-      "published": "2026-08-20T18:21:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:25:36.553853+00:00"
-    },
-    {
-      "id": "cdf5a326273181bf",
-      "source": "Ekonomim",
-      "title": "Çakırözer: YENİ Parti Türkiye İttifakı’nı yeniden oluşturacak",
-      "summary": "YENİ Parti Genel Başkan Yardımcısı ve Eskişehir Milletvekili Utku Çakırözer, Türkiye İttifakı’nı tekrar oluşturulacağını belirterek &quot;Her gün başka bir operasyona uyanıyor Türkiye ama ne olursa olsun millet artık bu iktidarı değiştirmeyi kafasına koydu. Burada YENİ Parti olarak bize düşen milletin gönlüne nasıl gireceğini, milletin derdine nasıl çare olacağını millete aktarmak lazım.&quot; ded",
-      "link": "https://www.ekonomim.com/gundem/cakirozer-yeni-parti-turkiye-ittifakini-yeniden-olusturacak-haberi-913353",
-      "published": "2026-08-20T18:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:25:44.008434+00:00"
     }
   ]
 }

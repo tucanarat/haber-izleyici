@@ -1,12 +1,254 @@
 {
-  "last_updated": "2026-08-20T08:41:04.273363+00:00",
+  "last_updated": "2026-08-20T08:46:03.164417+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 589,
+  "new_items_this_run": 594,
   "items": [
+    {
+      "id": "5b6e8fc16b4f898e",
+      "source": "CNBC-e",
+      "title": "Bitcoin'de sert yükseliş sürüyor: Kritik eşik kırıldı, ralli hızlandı",
+      "summary": "Bitcoin, günlük yükselişini yüzde 3'ün üzerine taşıyarak 71.500 dolar seviyesini aştı. Spot ETF'lere yönelen kurumsal para ve vadeli piyasalardaki short pozisyon tasfiyeleri yükselişi hızlandırırken Ethereum da yüzde 1'e yakın artışla 2.270 doların üzerine çıktı.",
+      "link": "https://www.cnbce.com/kripto/bitcoinde-sert-yukselis-suruyor-kritik-esik-kirildi-ralli-hizlandi-h35461",
+      "published": "2026-08-20T08:45:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:55.749067+00:00"
+    },
+    {
+      "id": "2797abd61f63b5d6",
+      "source": "LOG",
+      "title": "Google, eğitime yönelik yeni yapay zeka altyapıları duyurdu",
+      "summary": "Google bugün doğrudan eğitim sürecine odaklanan yeni yapay zeka altyapıları duyurdu. Doğal sesli iletişim sunan Gemini Live altyapısına derinlemesine araştırma imkanı sağlayan Deep Research&#8217;ü entegre eden şirket, Gemini&#8217;a ayrıca doğrudan eğitim odaklı bir &#8220;öğrenci merkezi&#8221; ekledi. Bu bölümde hem öğrenmeye hem de çalışmaya yönelik Gemini özellikleri bir araya getiriliyor. Şi",
+      "link": "https://www.log.com.tr/google-egitime-yonelik-yeni-yapay-zeka-altyapilari-duyurdu/",
+      "published": "2026-08-20T08:45:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:58.999320+00:00"
+    },
+    {
+      "id": "0ebc7e7fa344a8d9",
+      "source": "Gazete Pencere",
+      "title": "Galatasaraylara yeni transferden kötü haber: Drone saldırısı rötarı!",
+      "summary": "Galatasaray'ın yeni transferi Batrokov'un uçağı dorne saldırıları nedeniyle güvenlik engeline takıldı.",
+      "link": "https://www.gazetepencere.com/spor/galatasaraylara-yeni-transferden-kotu-haber-drone-saldirisi-rotari-712522h",
+      "published": "2026-08-20T08:45:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:47.832347+00:00"
+    },
+    {
+      "id": "e9dd78f979ad2973",
+      "source": "Yeni Şafak",
+      "title": "Belediye bahçesindeki silahlı saldırının nedeni belli oldu",
+      "summary": "Adıyaman Belediyesi Ek Hizmet Binası bahçesinde 3 kişinin yaralandığı silahlı saldırının, belediye çalışanlarının karıştığı maddi hasarlı trafik kazasının ardından çıkan tartışma nedeniyle meydana geldiği öğrenildi.",
+      "link": "https://www.yenisafak.com/gundem/belediye-bahcesindeki-silahli-saldirinin-nedeni-belli-oldu-4849532",
+      "published": "2026-08-20T08:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:44.158520+00:00"
+    },
+    {
+      "id": "7c27e1283041707d",
+      "source": "Star",
+      "title": "İstanbul'da tramvay raydan çıktı!",
+      "summary": "İstanbul'da tramvay raydan çıktı. Olay yerine itfaiye ve sağlık ekipleri sevk edildi, yolcular tahliye edildi.",
+      "link": "https://www.star.com.tr/guncel/istanbulda-tramvay-raydan-cikti-haber-2034962/",
+      "published": "2026-08-20T08:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:44.598601+00:00"
+    },
+    {
+      "id": "c5e3981665561abe",
+      "source": "Akşam",
+      "title": "İstanbul'da tramvay raydan çıktı, olay yerine itfaiye ve ambulans ekipleri sevk edildi",
+      "summary": "İstanbul'da tramvay raydan çıktı, olay yerine itfaiye ve ambulans ekipleri sevk edildi",
+      "link": "https://www.aksam.com.tr/guncel/beyoglunda-tramvay-raydan-cikti-olay-yerine-itfaiye-ve-ambulans-ekipleri-sevk-edildi/haber-1692010",
+      "published": "2026-08-20T08:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:42.837030+00:00"
+    },
+    {
+      "id": "472a40c7e84dc18c",
+      "source": "Star",
+      "title": "Kuşadası'na turist akını! Binlerce ziyaretçi limana ayak bastı",
+      "summary": "Aydın'ın Kuşadası ilçesine yanaşan 2 kruvaziyerle 8 bin 200 turist geldi.",
+      "link": "https://www.star.com.tr/turizm/kusadasina-turist-akini-binlerce-ziyaretci-limana-ayak-basti-haber-2034961/",
+      "published": "2026-08-20T08:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:44.598633+00:00"
+    },
+    {
+      "id": "034eb68124a23dc1",
+      "source": "DonanımHaber",
+      "title": "Onay verildi: Robotlar insanlardan kan alacak",
+      "summary": "FDA, insan müdahalesi olmadan kan alabilen Aletta adlı robotik cihazı onayladı. Sistem damar bulup kan alma işleminin büyük bölümünü otomatik olarak gerçekleştiriyor.",
+      "link": "https://www.donanimhaber.com/onay-verildi-robotlar-insanlardan-kan-alacak--209517",
+      "published": "2026-08-20T08:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:46:00.718083+00:00"
+    },
+    {
+      "id": "594f0a340e92412e",
+      "source": "Gerçek Gündem",
+      "title": "Özgür Özel Siyasi Rotayı Çizdi: İlk Saha Çalışması İçin Karadeniz Çıkarması",
+      "summary": "YENİ Parti’nin kuruluşunun ardından Genel Başkan Özgür Özel, ilk saha programı için rotayı Karadeniz’e çevirdi; 21 Ağustos Cuma günü Trabzon, 22 Ağustos Cumartesi günü ise Rize’de vatandaşla buluşacak.",
+      "link": "https://www.gercekgundem.com/guncel/ozgur-ozel-siyasi-rotayi-cizdi-ilk-saha-calismasi-icin-karadeniz-cikarmasi-577063",
+      "published": "2026-08-20T08:43:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:51.806861+00:00"
+    },
+    {
+      "id": "d41bd1e89121bd2c",
+      "source": "Halk TV",
+      "title": "NASA’nın kurtarma operasyonu başarısız oldu: 22 yıllık gözlemevi Dünya'ya düşecek",
+      "summary": "NASA’nın 22 yıllık Swift Gözlemevi’ni kurtarma planı, LINK uydusundaki kontrol sorunları nedeniyle iptal edildi. Gözlemevinin bu yıl Dünya atmosferine girerek yanması bekleniyor.",
+      "link": "https://halktv.com.tr/dunya/nasanin-kurtarma-operasyonu-basarisiz-oldu-22-yillik-gozlemevi-dunyaya-dusecek-1049980h",
+      "published": "2026-08-20T08:43:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:48.439280+00:00"
+    },
+    {
+      "id": "97fe4176aa8fd0f6",
+      "source": "Halk TV",
+      "title": "Türkiye'nin dış borcu belli oldu",
+      "summary": "Merkez Bankası&#039;nın açıkladığı verilere göre Türkiye’nin brüt dış borç stoku 539 milyar dolar oldu.",
+      "link": "https://halktv.com.tr/ekonomi/turkiyenin-dis-borcu-belli-oldu-1049979h",
+      "published": "2026-08-20T08:43:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:48.439315+00:00"
+    },
+    {
+      "id": "2b8d18ae785e0f1e",
+      "source": "Karar",
+      "title": "Şimşek’ten mazot fiyatı isyanı: Rafineri marjı 5 katına çıktı",
+      "summary": "Bakan Şimşek, küresel enerji piyasalarındaki arz sıkışıklığının mazot fiyatları üzerindeki baskıyı artırdığını belirtti. Ham petrol fiyatları savaş dönemindeki zirvelerin altında kalırken rafineri marjlarının tarihi seviyelere çıktığını söyleyen Şimşek, mazot-Brent marjının uzun dönem ortalamasının yaklaşık 5 katına ulaşarak varil başına 100 dolar civarında seyrettiğini açıkladı. Şimşek, eşel mobi",
+      "link": "https://www.karar.com/ekonomi-haberleri/simsekten-mazot-fiyati-isyani-rafineri-marji-5-katina-cikti-2066822",
+      "published": "2026-08-20T08:43:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:45.275209+00:00"
+    },
+    {
+      "id": "6f0b880e9a5367b7",
+      "source": "Cumhuriyet",
+      "title": "Erzurumspor maçı 11'i netleşiyor... Okan Buruk'tan Wilfried Singo kararı",
+      "summary": "Galatasaray, Trendyol Süper Lig'in ikinci haftasında Erzurumspor Futbol Kulübü'ne konuk olacak. Teknik direktör Okan Buruk, karşılaşma öncesi sahaya süreceği 11’i belirlemeye çalışıyor.",
+      "link": "https://www.cumhuriyet.com.tr/spor/erzurumspor-maci-11-i-netlesiyor-okan-buruk-tan-wilfried-singo-karari-2530730",
+      "published": "2026-08-20T08:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:38.109806+00:00"
+    },
+    {
+      "id": "f4a5ed7a00306f9f",
+      "source": "Cumhuriyet",
+      "title": "İstanbul'da özel öğrenci yurdu fiyatları belli oldu: İşte ilçe ilçe tam liste...",
+      "summary": "YKS yerleştirme sonuçlarının açıklanmasıyla birlikte İstanbul'da üniversite öğrencileri için barınma arayışı başladı. Özel yurt ücretleri oda kapasitesi ve ilçeye göre aylık 25 bin TL ile 76 bin TL arasında değişirken yüksek maliyetler nedeniyle öğrencilerin kiralık ev seçeneğine yöneldiği görülüyor.",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/istanbul-da-ozel-ogrenci-yurdu-fiyatlari-belli-oldu-iste-ilce-ilce-tam-liste-2530736",
+      "published": "2026-08-20T08:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:38.109857+00:00"
+    },
+    {
+      "id": "be9c47d7c2a924b7",
+      "source": "Akşam",
+      "title": "Kutlamalar 24 Ağustos'ta başlıyor! Başkan Erdoğan katılım gösterecek",
+      "summary": "Anadolu'nun kapılarını Türklere açan Malazgirt Zaferi'nin 955. yıl dönümü, 24-26 Ağustos tarihlerinde Malazgirt Meydan Muharebesi Tarihi Milli Parkı'nda düzenlenecek geleneksel spor gösterileri ve zafer yürüyüşüyle kutlanacak; Muş Valisi Avni Çakır tüm vatandaşları 26 Ağustos'ta Başkan Recep Tayyip Erdoğan'ın katılımıyla gerçekleşecek büyük şölene davet etti.",
+      "link": "https://www.aksam.com.tr/guncel/kutlamalar-24-agustosta-basliyor-baskan-erdogan-katilim-gosterecek/haber-1692009",
+      "published": "2026-08-20T08:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:42.837075+00:00"
+    },
+    {
+      "id": "e8525761d0d23027",
+      "source": "Yeni Akit",
+      "title": "3 hafta önce evlenmişti: 14 yaşındaki üvey oğlu uyurken öldürdü",
+      "summary": "Sakarya'nın Serdivan ilçesinde evinde uyurken 14 yaşındaki üvey oğlu tarafından tabancayla boynundan vurulan Serdivan Belediyesi personeli Aziz Dönmez, tedavi gördüğü hastanede hayatını kaybetti. Olay yerinden kaçan şüpheli polis tarafından yakalanırken, Dönmez'in 31 Temmuz'da evlendiği öğrenildi.",
+      "link": "https://www.yeniakit.com.tr/haber/3-hafta-once-evlenmisti-14-yasindaki-uvey-oglu-uyurken-oldurdu-2018460.html",
+      "published": "2026-08-20T08:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:44.977992+00:00"
+    },
+    {
+      "id": "a3bd8580821b6af7",
+      "source": "OdaTV",
+      "title": "Öcalan: Eskiden bağımsızlıkçıydık, artık cumhuriyetçiyiz",
+      "summary": "2 Ağustos tarihli İmralı görüşme notlarında Öcalan, PKK&#039;nın geçmişteki bağımsızlıkçı çizgisinden vazgeçtiğini belirterek, “Biz cumhuriyetle siz engelleseniz bile cumhuriyetçi olacağız” dedi. Öcalan, Özgür Özel’e de “özel selam” göndererek &quot;Demokrasinin yolu Silivri’den değil, İmralı’dan geçer&quot; dedi.",
+      "link": "https://www.odatv.com/siyaset/ocalan-eskiden-bagimsizlikciydik-artik-cumhuriyetciyiz-ozgur-ozele-cagri-120159426",
+      "published": "2026-08-20T08:42:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:48.048353+00:00"
+    },
+    {
+      "id": "9f4331ea1cb211be",
+      "source": "Karar",
+      "title": "Trabzonspor, Ferencvaros karşısında avantaj arıyor",
+      "summary": "Fatih Tekke yönetimindeki Trabzonspor, UEFA Avrupa Ligi play-off turunda bugün Macaristan'ın Ferencvaros takımını konuk edecek. Bordo-Mavili ekip, ikinci maç öncesinde avantaj yakalamayı hedefliyor.",
+      "link": "https://www.karar.com/spor-haberleri/trabzonspor-ferencvaros-karsisinda-avantaj-ariyor-2066821",
+      "published": "2026-08-20T08:42:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:45.275249+00:00"
+    },
+    {
+      "id": "81d4ddf8217606d6",
+      "source": "Akşam",
+      "title": "Büyük umutlarla gelmişti! Galatasaray genç yıldızını takımdan gönderiyor",
+      "summary": "Transfer sezonunda şimdiye kadar durgun bir dönem geçiren Galatasaray, genç yıldızına veda etmeye hazırlanıyor. Sarı-kırmızılıların geçen sezonunda devre arasında büyük umutlarla transfer ettiği başarılı orta saha, takımdan ayrılıyor. İşte o isim...",
+      "link": "https://www.aksam.com.tr/spor/buyuk-umutlarla-gelmisti-galatasaray-genc-yildizini-takimdan-gonderiyor/haber-1692008",
+      "published": "2026-08-20T08:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:42.837108+00:00"
+    },
+    {
+      "id": "c8cc14f42661f89b",
+      "source": "Yeniçağ",
+      "title": "Otomobil ağaca çarptı: 1 yaralı",
+      "summary": "Osmaniye&#039;nin Bahçe ilçesinde kontrolden çıkarak refüje çıkan otomobilin ağaca çarpması sonucu 1 kişi yaralandı.",
+      "link": "https://www.yenicaggazetesi.com/otomobil-agaca-carpti-1-yarali-1063742h.htm",
+      "published": "2026-08-20T08:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:45.914481+00:00"
+    },
+    {
+      "id": "2f0a22ad6d267ae3",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Aras Kuş Cenneti'nde 21 yıllık çalışmalarda 200 bininci kuş kayda alındı",
+      "summary": "Türkiye'nin doğusundaki en zengin kuş çeşitliliğine sahip alanlardan Aras Kuş Cenneti'nde 21 yıldır sürdürülen araştırmalarda 200 bininci kuş yakalanarak kayıt altına alındı.",
+      "link": "https://www.aa.com.tr/tr/gundem/aras-kus-cennetinde-21-yillik-calismalarda-200-bininci-kus-kayda-alindi/4032496",
+      "published": "2026-08-20T08:41:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:37.854704+00:00"
+    },
+    {
+      "id": "bdd6364740042a44",
+      "source": "Yeniçağ",
+      "title": "Dün en çok hangi saatte elektrik tüketildi? Türkiye Elektrik İletim AŞ açıkladı",
+      "summary": "Türkiye&#039;de dün günlük bazda 1 milyon 168 bin 919 megavatsaat elektrik üretildi, tüketim ise 1 milyon 145 bin 921 megavatsaat olarak açıklandı.",
+      "link": "https://www.yenicaggazetesi.com/dun-en-cok-hangi-saatte-elektrik-tuketildi-turkiye-elektrik-iletim-as-acikladi-1063741h.htm",
+      "published": "2026-08-20T08:40:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:45.914524+00:00"
+    },
     {
       "id": "d769c0918ee9ccd9",
       "source": "Karar",
@@ -17,6 +259,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:40:44.569212+00:00"
+    },
+    {
+      "id": "c2645521e8778da6",
+      "source": "Cumhuriyet",
+      "title": "Nicolas Raskin kimdir? Nicolas Raskin kaç yaşında, nereli? Nicolas Raskin hangi takımlarda oynadı?",
+      "summary": "Fenerbahçe'nin Rangers forması giyen 25 yaşındaki Belçikalı orta saha oyuncusu Nicolas Raskin'i transfer listesine dahil ettiği iddia edildi. Peki, Nicolas Raskin kimdir? Nicolas Raskin kaç yaşında, nereli? Nicolas Raskin hangi takımlarda oynadı?",
+      "link": "https://www.cumhuriyet.com.tr/spor/nicolas-raskin-kimdir-nicolas-raskin-kac-yasinda-nereli-nicolas-raskin-hangi-takimlarda-oynadi-2530735",
+      "published": "2026-08-20T08:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:38.109892+00:00"
+    },
+    {
+      "id": "0795a855821fef11",
+      "source": "Millî Gazete",
+      "title": "DASK'ta oran arttı, Sigortası konut sayısı azalmadı",
+      "summary": "Türkiye’de Zorunlu Deprem Sigortası bulunan konutların oranı son 6 yılda yüzde 53,8’den yüzde 58’e yükseldi. Ancak artan konut stoku nedeniyle DASK kapsamı dışında kalan konutların sayısı da yükseldi. Güncel verilere göre Türkiye’de 8 milyon 403 bin 912 konutun hâlâ DASK poliçesi bulunmuyor.",
+      "link": "https://www.milligazete.com.tr/daskta-oran-artti-sigortasi-konut-sayisi-azalmadi",
+      "published": "2026-08-20T08:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:47.525820+00:00"
     },
     {
       "id": "c756ff3b02695c23",
@@ -50,6 +314,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:40:48.295023+00:00"
+    },
+    {
+      "id": "a9251155843c0148",
+      "source": "Evrensel",
+      "title": "İran Dışişleri Bakan Yardımcısı Garibabadi: Askeri savaş sonuç vermedi; şimdi adını 'ekonomik savaş' koydular",
+      "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, ABD'nin İran'a yönelik askeri girişimlerinin sonuç vermediğini ifade ederek, \"Askeri savaş sonuç vermedi, şimdi bir sonraki yenilginin adını 'ekonomik savaş' koydular\" açıklamasını yaptı.",
+      "link": "https://www.evrensel.net/haber/5997063/iran-disisleri-bakan-yardimcisi-garibabadi-askeri-savas-sonuc-vermedi-simdi-adini-ekonomik-savas-koydular?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:40.991402+00:00"
     },
     {
       "id": "34aa207d6c1bf1e8",
@@ -259,6 +534,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:35:36.003224+00:00"
+    },
+    {
+      "id": "b657ee3cffb58ee3",
+      "source": "Evrensel",
+      "title": "İsrail Gazze'de son 24 saatte düzenlediği saldırılarda 10 Filistinliyi katletti",
+      "summary": "İsrail ordusunun Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 10 Filistinli hayatını kaybetti. Ateşkesin yürürlüğe girdiği 10 Ekim 2025'ten bu yana İsrail'in saldırılarında 1.283 kişi yaşamını yitirdi.",
+      "link": "https://www.evrensel.net/haber/5997061/israil-gazzede-son-24-saatte-duzenledigi-saldirilarda-10-filistinliyi-katletti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:40.991440+00:00"
     },
     {
       "id": "872405ae062047e7",
@@ -501,6 +787,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:30:52.567098+00:00"
+    },
+    {
+      "id": "10705e648ed07161",
+      "source": "Evrensel",
+      "title": "İsrail savaş uçakları, Suriye hava sahasını ihlal etti",
+      "summary": "İsrail savaş uçaklarının, Suriye'nin güneyindeki Dera ilinde hava sahasını ihlal ettiği bildirildi.",
+      "link": "https://www.evrensel.net/haber/5997060/israil-savas-ucaklari-suriye-hava-sahasini-ihlal-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:40.991467+00:00"
     },
     {
       "id": "66eb83f32d60e5f4",
@@ -974,6 +1271,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:25:35.510602+00:00"
+    },
+    {
+      "id": "9515f4c96f517c5a",
+      "source": "Evrensel",
+      "title": "Türkiye'de 10 aylık su yılı yağışları son 66 yılın zirvesinde",
+      "summary": "1 Ekim 2025-31 Temmuz 2026 dönemini kapsayan su yılının ilk 10 ayında yağışlar, normale kıyasla yüzde 30 artış göstererek son 66 yılın en yüksek seviyesine ulaştı.",
+      "link": "https://www.evrensel.net/haber/5997059/turkiyede-10-aylik-su-yili-yagislari-son-66-yilin-zirvesinde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:40.991497+00:00"
+    },
+    {
+      "id": "29a6f98d7c09628e",
+      "source": "Evrensel",
+      "title": "Isparta’da ulaşım zammına yurttaşlar tepki gösterdi: “İki adımlık yere 42 lira verilir mi?”",
+      "summary": "Isparta'da toplu taşımada kartlı biniş 40, kartsız biniş 42, öğrenci ücreti ise 28 liraya yükseldi. Zamma tepki gösteren yurttaşlar, artan ulaşım giderlerinin özellikle öğrencilerin bütçesini zorladığını söyledi.",
+      "link": "https://www.evrensel.net/haber/5997062/ispartada-ulasim-zammina-yurttaslar-tepki-gosterdi-iki-adimlik-yere-42-lira-verilir-mi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T08:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:40.991529+00:00"
     },
     {
       "id": "5dde73448a1c8343",
@@ -1502,6 +1821,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:15:44.640579+00:00"
+    },
+    {
+      "id": "47189422c2622566",
+      "source": "Yeniçağ",
+      "title": "Fenerbahçe’den Raskin hamlesi: İlk teklif yapıldı",
+      "summary": "Fenerbahçe, Rangers forması giyen 25 yaşındaki orta saha oyuncusu Nicolas Raskin’i transfer listesine ekledi. Orta sahada 6 ve 8 pozisyonlarında görev alabilen Raskin, Sarı-lacivertlilerin transfer hedefleri arasında.",
+      "link": "https://www.yenicaggazetesi.com/fenerbahceden-raskin-hamlesi-ilk-teklif-yapildi-1063727h.htm",
+      "published": "2026-08-20T08:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:45.914923+00:00"
     },
     {
       "id": "aee6e50f3454b05f",
@@ -2063,6 +2393,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:35:31.111437+00:00"
+    },
+    {
+      "id": "29352cefc21fb54d",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Tarım ve Orman Bakanlığı, tüketicinin korunması için 6 ayda 13,1 milyar lira harcadı",
+      "summary": "Tarım ve Orman Bakanlığı, yılın ilk yarısında gıda ve yem güvenilirliği ile bitki ve hayvan sağlığı gibi tüketicinin korunmasına yönelik faaliyetler için yaklaşık 13,1 milyar lira harcama yaptı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/tarim-ve-orman-bakanligi-tuketicinin-korunmasi-icin-6-ayda-13-1-milyar-lira-harcadi/4032431",
+      "published": "2026-08-20T08:03:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:45:37.854743+00:00"
     },
     {
       "id": "3b5cc4bf37e203d0",
@@ -5165,347 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T07:15:57.955181+00:00"
-    },
-    {
-      "id": "3e5dad9b752cac27",
-      "source": "Euronews Türkçe",
-      "title": "Spree, Ren ve Tuna'da nehir keyfi tartışıldı: İsviçre örnek oldu",
-      "summary": "Basel'de yüzücüler akşamları nehirde akıntıya kapılıp eve ulaşıyor. Almanya'daki birçok nehirde ise yüzmek yasak. Ren burada da akıyor; iki ülke bu nehre neden bu kadar farklı yaklaşıyor?",
-      "link": "http://tr.euronews.com/my-europe/2026/08/20/spree-ren-ve-tunada-nehir-keyfi-tartisildi-isvicre-ornek-oldu",
-      "published": "2026-08-20T07:13:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:21:06.004737+00:00"
-    },
-    {
-      "id": "6b6e6582d7758f0b",
-      "source": "Euronews Türkçe",
-      "title": "Spree, Ren ve Tuna'da nehirde yüzme tartışması: İsviçre örnek oldu",
-      "summary": "Basel'de yüzücüler akşamları kendilerini nehrin akıntısına bırakıp eve dönebiliyor. Almanya'da birçok nehirde yüzmek yasak; oysa Ren burada da akıyor. İki ülke bu konuya neden bu kadar farklı yaklaşıyor?",
-      "link": "http://tr.euronews.com/my-europe/2026/08/20/spree-ren-ve-tunada-nehirde-yuzme-tartismasi-isvicre-ornek-oldu",
-      "published": "2026-08-20T07:13:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:16:05.214420+00:00"
-    },
-    {
-      "id": "5611677d771ff56c",
-      "source": "Yeni Şafak",
-      "title": "Mardin'de ambulans ile otomobil çarpıştı",
-      "summary": "Mardin'in Kızıltepe ilçesinde ambulans ile otomobil çarpıştı. Olayda ölen ya da yaralanan olmazken araçlarda maddi hasar meydana geldi. Kaza, gece saatlerinde Tepebaşı Mahallesi'nde meydana geldi. Edinilen bilgiye göre otomobil ile ambulans çarpıştı. Kazada ölen ya da yaralanan olmazken araçlarda maddi hasar oluştu. Güvenlik güçleri kazayla ilgili inceleme başlattı.",
-      "link": "https://www.yenisafak.com/video/gundem/mardinde-ambulans-ile-otomobil-carpisti-4849502",
-      "published": "2026-08-20T07:13:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:44.957615+00:00"
-    },
-    {
-      "id": "37b196a5a1c2cf44",
-      "source": "Milliyet",
-      "title": "ABD'nin sır gibi sakladığı Hürmüz planı! 'Gizli koridor oluşturuldu'",
-      "summary": "Axios'un ismini vermeyen ABD'li yetkililere dayandırdığı haberine göre, birkaç haftadır devam eden operasyon kapsamında her gece 15 ila 20 petrol tankeri,HürmüzBoğazı'nın güney kanalından geçerek bölgeye giriş ve çıkış yapıyor. '10 MİLYON VARİL' ABD'li yetkililer, bu yollaHürmüzBoğazı'ndan günlük yaklaşık 10 milyon varil petrolün dünya enerji piyasalarına ulaştırıldığını öne sürdü. Bu miktarın sav",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-abdnin-sir-gibi-sakladigi-hurmuz-plani-gizli-koridor-olusturuldu-7644771",
-      "published": "2026-08-20T07:13:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:43.911349+00:00"
-    },
-    {
-      "id": "a144f8e471ec74bc",
-      "source": "Ekonomim",
-      "title": "Balıkesir'deki orman yangınında 2'nci gün: Yangın kontrol altına alındı",
-      "summary": "Balıkesir&#039;in Sındırgı ilçesinde orman dışı alanda başlayan yangın, ekiplerin yoğun müdahalesi sonucu kontrol altına alındı. Bölgede soğutma çalışmaları aralıksız sürdürülüyor.",
-      "link": "https://www.ekonomim.com/gundem/balikesirdeki-orman-yangininda-2nci-gun-ekiplerin-mudahalesi-suruyor-haberi-913211",
-      "published": "2026-08-20T07:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:55:53.403815+00:00"
-    },
-    {
-      "id": "5078b35f666d4243",
-      "source": "CNBC-e",
-      "title": "Türkiye'nin net uluslararası yatırım pozisyonu Haziran'da 402,6 milyar dolar açık verdi",
-      "summary": "TCMB verilerine göre Türkiye'nin net Uluslararası Yatırım Pozisyonu, 2026 yılı Haziran ayında bir önceki çeyrekteki 372,4 milyar dolarlık seviyeden 402,6 milyar dolara geriledi. Türkiye'nin yurt dışı varlıkları 404 milyar dolar, yükümlülükleri 806,7 milyar dolar oldu.",
-      "link": "https://www.cnbce.com/veriler/tcmb-acikladi-turkiyenin-net-uyp-acigi-son-8-yilin-en-yuksegine-ulasti-h35449",
-      "published": "2026-08-20T07:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:25:55.967829+00:00"
-    },
-    {
-      "id": "1886083fb5a0e571",
-      "source": "Aydınlık",
-      "title": "Galatasaray, Erzurumspor FK deplasmanına konuk olacak",
-      "summary": "Trendyol Süper Lig&#039;in ikinci haftasında son şampiyon Galatasaray, deplasmanda Erzurumspor FK&#039;ye konuk olacak. İlk haftada puan kaybı yaşayan iki ekibin mücadelesinde sarı-kırmızılılar, dış sahadaki mağlubiyet serisini bitirip sezonun ilk galibiyetini almayı hedefliyor.",
-      "link": "https://www.aydinlik.com.tr/haber/galatasaray-erzurumspor-fk-deplasmanina-konuk-olacak-587233",
-      "published": "2026-08-20T07:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:20:42.372497+00:00"
-    },
-    {
-      "id": "42fcf09f02a054c6",
-      "source": "Ekonomim",
-      "title": "Balıkesir'deki orman yangınında 2'nci gün: Ekiplerin müdahalesi sürüyor",
-      "summary": "Balıkesir&#039;in Sındırgı ilçesinde dün (19 Ağustos Çarşamba) başlayan orman yangınını söndürme çalışmaları yangının ikinci gününde sürüyor.",
-      "link": "https://www.ekonomim.com/gundem/balikesirdeki-orman-yangininda-2nci-gun-ekiplerin-mudahalesi-suruyor-haberi-913211",
-      "published": "2026-08-20T07:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:20:48.369577+00:00"
-    },
-    {
-      "id": "8802720faa37d309",
-      "source": "Türkiye Gazetesi",
-      "title": "Bursa'da trafik magandası kamerada! Çocukların oynadığı sokağa drift atarak girdi",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem-videolari/bursada-trafik-magandasi-kamerada-cocuklarin-oynadigi-sokaga-drift-atarak-girdi-1810405",
-      "published": "2026-08-20T07:12:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:41.743785+00:00"
-    },
-    {
-      "id": "a9ed0c0d7cd6b376",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Nemrut Kalderası'nın milli park statüsü bölge turizmine katkı sağlayacak",
-      "summary": "Bitlis Valisi Ahmet Karakaya, Tatvan, Ahlat ve Güroymak ilçeleri sınırlarında bulunan ve Cumhurbaşkanı Kararı ile \"milli park\" ilan edilen Nemrut Kalderası'nın bölge turizmine daha fazla katkı sağlayacağını söyledi.",
-      "link": "https://www.aa.com.tr/tr/gundem/nemrut-kalderasinin-milli-park-statusu-bolge-turizmine-katki-saglayacak/4032363",
-      "published": "2026-08-20T07:12:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:30:52.374691+00:00"
-    },
-    {
-      "id": "adba20cfb102d80d",
-      "source": "Habertürk",
-      "title": "Gram altın ne kadar oldu?",
-      "summary": "ABD Hazine Bakanlığı'nın uzun vadeli tahviller için geri alım operasyonlarını artırma kararı, küresel piyasalarda hareketliliğe neden oldu. Kararın ardından ABD'nin uzun vadeli tahvil faizleri gerilerken dolar endeksinde de düşüş görüldü. Bu gelişmeler, güvenli liman olarak öne çıkan altında güçlü bir yükseliş hareketini beraberinde getirdi. Ons altın kısa sürede 4.460 dolar seviyesini görürken gr",
-      "link": "https://www.haberturk.com/altin-neden-yukseliyor-gram-altin-yukselecek-mi-19-agustos-2026-cumhuriyet-ceyrek-altin-ve-gram-altin-ne-kadar-3906753",
-      "published": "2026-08-20T07:12:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:25:34.343298+00:00"
-    },
-    {
-      "id": "b700194568841ff9",
-      "source": "Habertürk",
-      "title": "Emekliye ÖTV'siz araç listesi",
-      "summary": "Emekliye ÖTV'siz araç düzenlemesi, otomobil sahibi olmak isteyenlerin gündemindeki yerini koruyor. TBMM'ye sunulan kanun teklifinin kapsamı ve hangi emeklilerin bu haktan yararlanabileceği merak ediliyor. Düzenlemenin yasalaşıp yasalaşmadığına ilişkin araştırmalar da son günlerde hız kazandı. Emekliler, ÖTV ödemeden araç satın alma imkanının ne zaman başlayacağını öğrenmek istiyor. Peki emekliye Ö",
-      "link": "https://www.haberturk.com/emekliye-otv-siz-arac-son-dakika-emeklilere-otv-siz-arac-sartlari-neler-meclis-te-kabul-edildi-mi-3906779",
-      "published": "2026-08-20T07:12:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:25:34.343111+00:00"
-    },
-    {
-      "id": "2bce6399975ff0b0",
-      "source": "Evrensel",
-      "title": "Depremde yıkılan Proton Apartmanı ek bilirkişi raporu: İmar İşleri Müdür yardımcıları için \"idari sorumludur\" denildi",
-      "summary": "Maraş’ta 64 kişinin yaşamını yitirdiği Proton Apartmanı'na ilişkin kamu görevlileri yönünden hazırlanan ek bilirkişi raporunda, İmar İşleri Müdür yardımcıları için \"idari sorumludur\" değerlendirmesi yapıldı.",
-      "link": "https://www.evrensel.net/haber/5997043/depremde-yikilan-proton-apartmani-ek-bilirkisi-raporu-imar-isleri-mudur-yardimcilari-icin-idari-sorumludur-denildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T07:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:30:55.875926+00:00"
-    },
-    {
-      "id": "6f3a85cb35733100",
-      "source": "Millî Gazete",
-      "title": "Adil bir seçim sistemi nasıl olmalı? Erbakan Hoca yıllarca hangi sistemi savundu? İşte çarpıcı ayrıntılar",
-      "summary": "Türkiye'nin yıllardır kanayan yarası olan seçim sistemi tartışmaları her dönem masaya yatırılsa da, \"temsilde adalet\" ilkesi hep rafa kalkıyor. Peki, Milli Görüş lideri Necmettin Erbakan yıllarca hangi sistemi savundu, mevcut yapıya hangi eleştirileri yöneltti?",
-      "link": "https://www.milligazete.com.tr/adil-bir-secim-sistemi-nasil-olmali-erbakan-hoca-yillarca-hangi-sistemi-savundu-iste-carpici-ayrintilar",
-      "published": "2026-08-20T07:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:20:42.874266+00:00"
-    },
-    {
-      "id": "39d9ca542a24fbd6",
-      "source": "Cumhuriyet",
-      "title": "Balıkesir'deki orman yangını 2'nci gününde: Söndürme çalışmaları sürüyor",
-      "summary": "Balıkesir'in Sındırgı ilçesinde kamyonda çıkıp, ormana sıçrayan yangına müdahale 2’nci gününde devam ediyor.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/balikesir-deki-orman-yangini-2-nci-gununde-sondurme-calismalari-suruyor-2530703",
-      "published": "2026-08-20T07:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:39.396108+00:00"
-    },
-    {
-      "id": "d4243dae3e756ba6",
-      "source": "Akşam",
-      "title": "Belediye binası önünde silahlı saldırı! Yaralılar var",
-      "summary": "Adıyaman Belediyesi Ek Hizmet Binası bahçesinde kimliği belirsiz şahıs ya da şahıslarca gerçekleştirilen silahlı saldırıda yaralanan 3 kişi Adıyaman Eğitim ve Araştırma Hastanesi'ne kaldırılırken, olay yerinden kaçan şüphelilerin yakalanması için polis ekipleri çalışma başlattı.",
-      "link": "https://www.aksam.com.tr/yasam/belediye-binasi-onunde-silahli-saldiri-yaralilar-var/haber-1691976",
-      "published": "2026-08-20T07:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:44.804911+00:00"
-    },
-    {
-      "id": "0451f51da920d103",
-      "source": "Karar",
-      "title": "Maç havası yangınla bitti: Stadyum yakınından atılan havai fişek ressamın evini yaktı",
-      "summary": "Beyoğlu’nda Kasımpaşa-Trabzonspor maçı sırasında stadyum yakınından atılan havai fişek 4’üncü kattaki daireye girerek yangın çıkardı; ressam Murat Melih Özen’in sergiye hazırladığı tabloları yandı. Olayın ardından gözaltına alınan suç kayıtlı 4 şüpheli adli kontrol şartıyla serbest bırakıldı.",
-      "link": "https://www.karar.com/sehir-haberleri/mac-havasi-yanginla-bitti-stadyum-yakinindan-atilan-havai-fisek-2066788",
-      "published": "2026-08-20T07:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:46.574144+00:00"
-    },
-    {
-      "id": "543850532ea94a3b",
-      "source": "Halk TV",
-      "title": "Ayçiçeğini tahtından etti: Trakya'da yılın kazandıran ürünü!",
-      "summary": "Trakya’da ayçiçeğine alternatif olarak ekilen kanolada bu yıl verim yüzleri güldürdü. Ekim alanı yüzde 100 artarken, dekar başına 400 kilogram civarında verim bekleniyor. Üretici ise kanolayı “yılın kazanan ürünü” olarak görüyor.",
-      "link": "https://halktv.com.tr/turkiye/aycicegini-tahtindan-etti-trakyada-yilin-kazandiran-urunu-1049949h",
-      "published": "2026-08-20T07:11:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:49.909349+00:00"
-    },
-    {
-      "id": "68c93e308405967e",
-      "source": "Serbestiyet",
-      "title": "Koordinatör Öcalan: “Öcalan, Silahsızlanma ve Siyasallaşma adlı alt kurulun başında olacak”",
-      "summary": "DEM İmralı Heyeti üyesi Pervin Buldan, Cevdet Yılmaz’ın başkanlığındaki kurula bağlı Silahsızlanma ve Siyasallaşma Kurulu’na Öcalan’ın başkanlık edeceğini açıkladı:“Geri dönüşlerin koordinasyonu buradan yönetilecek.” Koordinatör Öcalan: “Öcalan, Silahsızlanma ve Siyasallaşma adlı alt kurulun başında olacak” yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/cozum-sureci/koordinator-ocalan-ocalan-silahsizlanma-ve-siyasallasma-adli-alt-kurulun-basinda-olacak-246652/",
-      "published": "2026-08-20T07:11:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:53.431082+00:00"
-    },
-    {
-      "id": "6197e3041c0c2352",
-      "source": "Habertürk",
-      "title": "Yeni Parti İl Başkanı 'saldırı' ifadesi",
-      "summary": "Yeni Parti Gaziantep İl Başkanı Erhan Deniz Güngen’in, Milletvekili Melih Meriç’in bıçaklanmasının ardından yaptığı açıklama nedeniyle verdiği şüpheli ifadesi ortaya çıktı. Güngen, Keleş’in Meriç’le görüşmesi, aralarında husumet bulunup bulunmadığı ve herhangi bir makam talebi konusunda ise bilgisinin olmadığını belirtti",
-      "link": "https://www.haberturk.com/son-dakika-haberler-yeni-parti-il-baskani-gungenin-ifadesi-ortaya-cikti-3906851",
-      "published": "2026-08-20T07:11:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:25:34.343641+00:00"
-    },
-    {
-      "id": "4951b27db0d36b33",
-      "source": "Habertürk",
-      "title": "Motorine/benzine zam ya da indirim var mı?",
-      "summary": "Uluslararası petrol piyasasındaki hareketlilik ve döviz kurunda yaşanan dalgalanma, akaryakıt pompa fiyatlarını doğrudan etkiliyor. Bu sebeple araç sahipleri, akaryakıt istasyonlarına gitmeden önce ‘’Benzine ve motorine zam yada indirim var mı?’’ sorusuna yanıt arıyor. Akaryakıt fiyatları 20 Ağustos 2026 Perşembe günü için belli oldu. Peki, motorine (mazota) ve benzine zam ya da indirim var mı, ge",
-      "link": "https://www.haberturk.com/akaryakit-fiyatlari-20-agustos-2026-motorine-ve-benzine-zam-ya-da-indirim-var-mi-litresi-ne-kadar-istanbul-ankara-izmir-benzin-motorin-ve-lpg-fiyatlari-3906833",
-      "published": "2026-08-20T07:11:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:45:33.683003+00:00"
-    },
-    {
-      "id": "67cd232c2b0fd2c7",
-      "source": "Cumhuriyet",
-      "title": "TÜİK iki kritik veriyi açıkladı: Çiftçinin gübre, ihracatçının enerji maliyeti katlandı",
-      "summary": "Türkiye İstatistik Kurumu'nun açıkladığı verilere göre tarımsal girdi fiyatları haziranda aylık bazda gerilerken yıllık artışını sürdürdü. Yurtdışı üretici fiyat endeksi ise temmuzda enerji grubundaki yükselişin etkisiyle hem aylık hem yıllık bazda tırmandı.",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/tuik-iki-kritik-veriyi-acikladi-ciftcinin-gubre-ihracatcinin-enerji-maliyeti-katlandi-2530702",
-      "published": "2026-08-20T07:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:39.396147+00:00"
-    },
-    {
-      "id": "d73d31b4768c5c59",
-      "source": "Yeniçağ",
-      "title": "Erzurumspor FK, Trendyol Süper Lig’de karşılaşacağı Galatasaray ile ligde 5. kez rakip olacak.",
-      "summary": "Trendyol Süper Lig’in 2. haftasında Erzurumspor FK ile Galatasaray, yarın saat 21.30’da Kazım Karabekir Stadyumu’nda karşı karşıya gelecek. Sezonun ilk haftasında mavi-beyazlılar, deplasmanda karşılaştıkları Amed SK’ya 3-0 mağlup oldu. Sarı-kırmızılılar ise sahasında Çorum FK ile 2-2 berabere kaldı.",
-      "link": "https://www.yenicaggazetesi.com/erzurumspor-fk-trendyol-super-ligde-karsilasacagi-galatasaray-ile-ligde-5-kez-rakip-olacak-1063697h.htm",
-      "published": "2026-08-20T07:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:47.214546+00:00"
-    },
-    {
-      "id": "786188fa150ea710",
-      "source": "OdaTV",
-      "title": "Trabzonspor'da 'VİRA' krizi: Faaliyetleri durdurdu... Tribün liderinden açıklama",
-      "summary": "Trabzonspor tribünlerinde grupların “tek tribün” çatısı altında birleşmesi sonrası VİRA faaliyetlerini durdurdu. Tribün lideri Mehmet Fındıkçı, VİRA’nın kararını eleştirerek birlik sürecini savundu. Fındıkçı, “Bu tribün bir grupla var olmadı, bir grubun gidişiyle de yok olmaz” dedi.",
-      "link": "https://www.odatv.com/spor/trabzonspor-tribunlerinde-vira-krizi-faaliyetleri-durdurdu-120159405",
-      "published": "2026-08-20T07:10:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:49.391548+00:00"
-    },
-    {
-      "id": "be24a129265cdae2",
-      "source": "Karar",
-      "title": "Endonezya'daki depremde can kaybı 71'e yükseldi",
-      "summary": "Endonezya'nın Flores bölgesinde 15 Ağustos'ta meydana gelen 7,7 büyüklüğündeki depremde hayatını kaybedenlerin sayısı 71'e çıktı. Yetkililer, hasar gören altyapı ve devam eden toprak kaymaları nedeniyle bölgedeki arama-kurtarma ve insani yardım çalışmalarının sürdüğünü bildirdi.",
-      "link": "https://www.karar.com/dunya-haberleri/endonezyadaki-depremde-can-kaybi-71e-yukseldi-2066790",
-      "published": "2026-08-20T07:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:25:44.562321+00:00"
-    },
-    {
-      "id": "fe9b4c0d7938f2a1",
-      "source": "Finans Gündem",
-      "title": "AB ile vizesiz seyahat yolunda yeni dönem: Türkiye son 6 kriteri aşabilecek mi?",
-      "summary": "Türkiye, AB ile 13 yıldır süren vize serbestisi sürecindeki son 6 kriter için yeni bir çalışma başlattı. Kişisel veriler, terör yasası, EUROPOL iş birliği ve Geri Kabul Anlaşması gibi başlıkların tamamlanması hedefleniyor.",
-      "link": "https://www.finansingundemi.com/haber/ab-ile-vizesiz-seyahat-yolunda-yeni-donem-turkiye-son-6-kriteri-asabilecek-mi/1905574",
-      "published": "2026-08-20T07:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:20:49.845461+00:00"
-    },
-    {
-      "id": "812d36ef0aa78a75",
-      "source": "Akşam",
-      "title": "Yaşar Üniversitesi Öğretim Görevlisi alacak!",
-      "summary": "Yaşar Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım ilanı yayınlandı...",
-      "link": "https://www.aksam.com.tr/ekonomi/yasar-universitesi-ogretim-gorevlisi-alacak/haber-1691975",
-      "published": "2026-08-20T07:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:43.148419+00:00"
-    },
-    {
-      "id": "790c0fbda49354b7",
-      "source": "Akşam",
-      "title": "Survivor şampiyonu Hilmi Cem İntepe dünyaevine girdi!",
-      "summary": "Survivor yarışması şampiyonlarından Hilmi Cem İntepe, bir süredir görüştüğü Pırıl Atasever ile evlendi.",
-      "link": "https://www.aksam.com.tr/venus/survivor-sampiyonu-hilmi-cem-intepe-dunyaevine-girdi/haber-1691974",
-      "published": "2026-08-20T07:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:43.148446+00:00"
-    },
-    {
-      "id": "f1e4e9cd8fa61a7d",
-      "source": "Star",
-      "title": "ABD'de havada dehşet! Polis helikopteri uçakla çarpıştı: 1 ölü, 2 yaralı",
-      "summary": "ABD'nin Pensilvanya eyaletinde havaalanında polis helikopteri ile küçük uçak havada çarpıştı. Kazada küçük uçağın pilotu hayatını kaybederken, helikopterde bulunan 2 polis yaralandı.",
-      "link": "https://www.star.com.tr/dunya/abdde-havada-dehset-polis-helikopteri-ucakla-carpisti-1-olu-2-yarali-haber-2034939/",
-      "published": "2026-08-20T07:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:43.728263+00:00"
-    },
-    {
-      "id": "27979f52ada188a9",
-      "source": "Habertürk",
-      "title": "Türksat 4A kanal frekansları",
-      "summary": "Türksat 4A frekansları ve Türksat uydu ayarları, televizyon ve uydu alıcısında kanal kurulumu yapmak, eksik kanalları bulmak ve kanal listesini güncellemek isteyen kullanıcılar için önem taşıyor. Kurulum sırasında frekans, polarizasyon, sembol oranı ve diğer yayın parametrelerinin doğru girilmesi gerekiyor. Show TV, TRT 1, ATV, Kanal D, Star TV, NOW TV ve TV8 başta olmak üzere ulusal kanallar ile ",
-      "link": "https://www.haberturk.com/turksat-4a-kanal-frekanslari-2026-show-tv-trt-1-atv-kanal-d-star-tv-now-tv-tv8-turksat-4a-frekans-bilgileri-ve-uydu-ayarlari-3906222",
-      "published": "2026-08-20T07:09:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:25:34.343539+00:00"
-    },
-    {
-      "id": "94732d1817c482de",
-      "source": "OdaTV",
-      "title": "PKK silahlarına yeni envanter: TSK kullanacak, Hazine satabilecek",
-      "summary": "PKK’nın silah bırakmasının yanı sıra, örgütün elindeki silah ve mühimmatın başka yerlere taşınması ya da farklı örgütlere aktarılmasının önüne geçilmesi hedefleniyor. Teslim edilen silahlar tek tek kayıt altına alınacak, istihbarat verileriyle karşılaştırılacak ve üç kategoride değerlendirilecek.",
-      "link": "https://www.odatv.com/guncel/pkknin-teslim-edecegi-silahlar-icin-uc-asamali-plan-tsk-envanteri-geri-donusum-satis-120159404",
-      "published": "2026-08-20T07:09:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:49.391587+00:00"
     }
   ]
 }

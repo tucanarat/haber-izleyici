@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-20T03:46:02.540967+00:00",
+  "last_updated": "2026-08-20T03:50:58.203537+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 590,
+  "new_items_this_run": 588,
   "items": [
+    {
+      "id": "38aee2279b86cb70",
+      "source": "BBC News Türkçe",
+      "title": "Trump'tan, İran'a yardım eden ülkelere 'ekonomi' tehdidi",
+      "summary": "Bu durum, diplomatik veya askeri yollarla çatışmadan çıkışa dair hiçbir işaretin olmadığı, 60 günlük ateşkesin Pazartesi günü sona ermesinin ardından geldi.",
+      "link": "https://www.bbc.com/turkce/articles/cwymr2k11k3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-20T03:47:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T03:50:57.843612+00:00"
+    },
     {
       "id": "d47508ff81d62c0d",
       "source": "Yeni Akit",
@@ -699,6 +710,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T01:15:31.287504+00:00"
+    },
+    {
+      "id": "91abc0751ce709ff",
+      "source": "Cumhuriyet",
+      "title": "Korkuyla umut arasında...",
+      "summary": "Sakın yukarıdaki başlığa bakıp politik bir şeyler okuyacağınızı sanmayın!",
+      "link": "https://www.cumhuriyet.com.tr/yazarlar/zeynep-oral/korkuyla-umut-arasinda-2530654",
+      "published": "2026-08-20T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T03:50:35.476009+00:00"
     },
     {
       "id": "aff7624065cce0d9",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-19T20:41:00.378332+00:00"
-    },
-    {
-      "id": "13f4fa5750aa6875",
-      "source": "Akşam",
-      "title": "Pezeşkiyan'dan ABD'ye net mesaj: Müzakere asla teslimiyet anlamına gelmiyor",
-      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ile süren müzakere sürecinde ülkesinin gücünün zirvesinde olduğunu vurgulayarak \"Müzakere teslimiyet değildir\" dedi. Pezeşkiyan, Çin'i örnek gösterip ekonomik rekabet yoluyla kendini kanıtlama stratejisine dikkat çekti ve savaşın İran'ın hedefi olmadığını açıkça ilan etti.",
-      "link": "https://www.aksam.com.tr/dunya/pezeskiyandan-abdye-net-mesaj-muzakere-asla-teslimiyet-anlamina-gelmiyor/haber-1691893",
-      "published": "2026-08-19T20:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-19T20:35:41.696957+00:00"
-    },
-    {
-      "id": "f8b65e3ea53891f4",
-      "source": "Halk TV",
-      "title": "Türkiye’nin komşusunda yeni vaka ortaya çıktı: Virüs alarmı veriliyor!",
-      "summary": "Sivrisineklerle bulaşan Batı Nil virüsü Yunanistan’da yayılmaya devam ediyor. Ülkede yılbaşından 5 Ağustos’a kadar 65 vaka tespit edilirken, virüs nedeniyle 6 kişi hayatını kaybetti.",
-      "link": "https://halktv.com.tr/dunya/turkiyenin-komsusunda-yeni-vaka-ortaya-cikti-virus-alarmi-veriliyor-1049897h",
-      "published": "2026-08-19T20:35:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-19T20:35:45.974000+00:00"
     }
   ]
 }

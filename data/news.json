@@ -1,12 +1,287 @@
 {
-  "last_updated": "2026-08-20T21:01:23.915126+00:00",
+  "last_updated": "2026-08-20T21:05:56.277447+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 624,
+  "new_items_this_run": 597,
   "items": [
+    {
+      "id": "31136ab6abc28db3",
+      "source": "Ekonomim",
+      "title": "New York borsası günü düşüşle kapattı",
+      "summary": "ABD Hazine tahvillerindeki toparlanmanın tersine dönmesiyle New York borsası günü düşüşle tamamladı.",
+      "link": "https://www.ekonomim.com/ekonomi/new-york-borsasi-gunu-dususle-kapatti-haberi-913375",
+      "published": "2026-08-20T21:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:47.463805+00:00"
+    },
+    {
+      "id": "f097e640afbb60c5",
+      "source": "Cumhuriyet",
+      "title": "Gaziantep FK, Sontje Hansen'i renklerine bağladı!",
+      "summary": "Süper Lig ekibi Gaziantep FK, 24 yaşındaki Curaçaolu Sontje Hansen'i kadrosuna kattı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/gaziantep-fk-sontje-hansen-i-renklerine-bagladi-2530938",
+      "published": "2026-08-20T21:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938363+00:00"
+    },
+    {
+      "id": "7753b4ed5c66234d",
+      "source": "Star",
+      "title": "Sidny Cabral: Turu atlayacağımızı düşünüyorum",
+      "summary": "Sidny Lopes Cabral, Ferencvaros yenilgisine rağmen tur konusunda kendilerine güvendiklerini söyledi.",
+      "link": "https://www.star.com.tr/spor/sidny-cabral-turu-atlayacagimizi-dusunuyorum-haber-2035103/",
+      "published": "2026-08-20T21:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:37.384457+00:00"
+    },
+    {
+      "id": "2a154edfed3c201b",
+      "source": "Serbestiyet",
+      "title": "İsrail krizi tırmandırıyor: Netanyahu Türkiye gündemiyle güvenlik zirvesi topladı: “Kırmızı çizgi aşıldı”",
+      "summary": "İsrail’in Washington Büyükelçisi “Türkiye ile savaş peşinde değiliz. Ama kırmızı çizgi aşıldı” dedi.etanyahu, Türkiye ve Suriye gündemli güvenlik zirvesini topladı. İsrail krizi tırmandırıyor: Netanyahu Türkiye gündemiyle güvenlik zirvesi topladı: “Kırmızı çizgi aşıldı” yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
+      "link": "https://serbestiyet.com/haberler/israil-krizi-tirmandiriyor-netanyahu-turkiye-gundemiyle-guvenlik-zirvesi-topladi-kirmizi-cizgi-asildi-246702/",
+      "published": "2026-08-20T21:02:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:44.753180+00:00"
+    },
+    {
+      "id": "8cf0ac4a150ae00b",
+      "source": "Akşam",
+      "title": "ABD savaşı soğutma yoluna gitti... Vance: En etkili silahımız ekonomik baskı",
+      "summary": "ABD Başkan Yardımcısı JD Vance, İran ile savaşın \"yeni bir safhaya\" girdiğini ve an itibarıyla \"ellerindeki en etkili aracın ekonomik baskı olduğunu\" dile getirdi.",
+      "link": "https://www.aksam.com.tr/dunya/abd-savasi-sogutma-yoluna-gitti-vance-en-etkili-silahimiz-ekonomik-baski/haber-1692169",
+      "published": "2026-08-20T21:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:36.620662+00:00"
+    },
+    {
+      "id": "7f8baa432337415e",
+      "source": "Yeni Şafak",
+      "title": "Kış çilesi tarihe karışacak: Erzurum-Bingöl arasındaki yolculuk süresini kısaltacak tünelin yapımı sürüyor",
+      "summary": "Erzurum'u Bingöl'e bağlayacak ve iki kent arasındaki yolculuk süresini kısaltacak Çirişli Tüneli'nin yapımı sürüyor.",
+      "link": "https://www.yenisafak.com/galeri/gundem/erzurum-bingol-arasindaki-yolculuk-suresini-kisaltacak-cirisli-tuneli-ne-zaman-bitecek-tamamlanacak-acilis-ne-zaman-4849737",
+      "published": "2026-08-20T21:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:36.831337+00:00"
+    },
+    {
+      "id": "49a9b8ae6b77f1d4",
+      "source": "Karar",
+      "title": "Elektrikli araçlarda tarihi rekor kırıldı! Temmuz’da şarj tüketimi tavan yaptı",
+      "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK) verilerine göre elektrikli araçlarda tarihi rekor kırıldı. Açıklanan verilere göre Temmuz’da şarj tüketimi tavan yaptı.",
+      "link": "https://www.karar.com/ekonomi-haberleri/elektrikli-araclarda-tarihi-rekor-kirildi-temmuzda-sarj-tuketimi-2066969",
+      "published": "2026-08-20T21:01:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.416291+00:00"
+    },
+    {
+      "id": "ec839e02893cb0bd",
+      "source": "Cumhuriyet",
+      "title": "T.C. KEŞAN 2. ASLİYE HUKUK MAHKEMESİ",
+      "summary": "T.C. KEŞAN 2. ASLİYE HUKUK MAHKEMESİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kesan-2-asliye-hukuk-mahkemesi-2530931",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938390+00:00"
+    },
+    {
+      "id": "f383e8ee49a102c7",
+      "source": "Cumhuriyet",
+      "title": "T.C. KIRIKKALE 3. SULH HUKUK MAHKEMESİ",
+      "summary": "T.C. KIRIKKALE 3. SULH HUKUK MAHKEMESİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kirikkale-3-sulh-hukuk-mahkemesi-2530926",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938409+00:00"
+    },
+    {
+      "id": "c445f9a65e3f8d76",
+      "source": "Cumhuriyet",
+      "title": "T.C. MUDANYA AİLE MAHKEMESİ HAKİMLİĞİ",
+      "summary": "T.C. MUDANYA AİLE MAHKEMESİ HAKİMLİĞİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-mudanya-aile-mahkemesi-hakimligi-2530927",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938428+00:00"
+    },
+    {
+      "id": "1776907904797e66",
+      "source": "Cumhuriyet",
+      "title": "T.C.İSTANBUL ANADOLU 6. SULH HUKUK MAHKEMESİ",
+      "summary": "T.C.İSTANBUL ANADOLU 6. SULH HUKUK MAHKEMESİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-istanbul-anadolu-6-sulh-hukuk-mahkemesi-2530932",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938449+00:00"
+    },
+    {
+      "id": "08f3b35baab4a125",
+      "source": "Cumhuriyet",
+      "title": "T.C. İZMİR 11. ASLİYE HUKUK MAHKEMESİ",
+      "summary": "T.C. İZMİR 11. ASLİYE HUKUK MAHKEMESİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-izmir-11-asliye-hukuk-mahkemesi-2530933",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938477+00:00"
+    },
+    {
+      "id": "40f470d42704040e",
+      "source": "Cumhuriyet",
+      "title": "T.C. ÇEŞME 2. SULH HUKUK MAHKEMESİ HAKİMLİĞİ",
+      "summary": "T.C. ÇEŞME 2. SULH HUKUK MAHKEMESİ HAKİMLİĞİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-cesme-2-sulh-hukuk-mahkemesi-hakimligi-2530935",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938497+00:00"
+    },
+    {
+      "id": "1c2d98cd6bc8d800",
+      "source": "Cumhuriyet",
+      "title": "T.C. İSTANBUL 16. ASLİYE CEZA MAHKEMESİ",
+      "summary": "T.C. İSTANBUL 16. ASLİYE CEZA MAHKEMESİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-istanbul-16-asliye-ceza-mahkemesi-2530936",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938515+00:00"
+    },
+    {
+      "id": "641853aa88ae2198",
+      "source": "Cumhuriyet",
+      "title": "T.C. KAYSERİ BÖLGE ADLİYE MAHKEMESİ 5. HUKUK DAİRESİ BAŞKANLIĞI",
+      "summary": "T.C. KAYSERİ BÖLGE ADLİYE MAHKEMESİ 5. HUKUK DAİRESİ BAŞKANLIĞI",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kayseri-bolge-adliye-mahkemesi-5-hukuk-dairesi-baskanligi-2530937",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:30.938535+00:00"
+    },
+    {
+      "id": "f7556c1c134a826d",
+      "source": "Evrensel",
+      "title": "Evrensel'in Manşeti | Enflasyonda sınıf farkı",
+      "summary": "Otomotiv ve askeri sanayi gibi dev sektörlerde üretici enflasyonu yüzde 16 seviyesine inerken, işçi ve üretici köylünün enflasyonu yüzde 32'ye dayandı. Son üç yılda KOBİ, çiftçi ve vatandaşın takibe düşen borçları rekor seviyelere ulaştı.",
+      "link": "https://www.evrensel.net/haber/5997133/evrensel-in-manseti-enflasyonda-sinif-farki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:34.608152+00:00"
+    },
+    {
+      "id": "4ba1e113cf2b1bc5",
+      "source": "Yeniçağ",
+      "title": "Bu hafta şehrin nabzı nerede atıyor?",
+      "summary": "Sara AKGÜN yazdı: Bu hafta şehrin nabzı nerede atıyor?",
+      "link": "https://www.yenicaggazetesi.com/bu-hafta-sehrin-nabzi-nerede-atiyor-1063857h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919450+00:00"
+    },
+    {
+      "id": "3e2f3d9777b07327",
+      "source": "Yeniçağ",
+      "title": "‘Aşk ve Taht’ dizisi iddialı geliyor",
+      "summary": "Mehmet Şahincileroğlu yazdı: ‘Aşk ve Taht’ dizisi iddialı geliyor",
+      "link": "https://www.yenicaggazetesi.com/ask-ve-taht-dizisi-iddiali-geliyor-1063930h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919486+00:00"
+    },
+    {
+      "id": "b51350f9903e25cb",
+      "source": "Yeniçağ",
+      "title": "Kıbrıs’taki iki lider yeniden bir araya geliyor",
+      "summary": "Armağan KULOĞLU yazdı: Kıbrıs’taki iki lider yeniden bir araya geliyor",
+      "link": "https://www.yenicaggazetesi.com/kibristaki-iki-lider-yeniden-bir-araya-geliyor-1063931h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919507+00:00"
+    },
+    {
+      "id": "443a38b9265e544d",
+      "source": "Yeniçağ",
+      "title": "“Sıra sizin ananıza da gelecek!”",
+      "summary": "Arslan BULUT yazdı: “Sıra sizin ananıza da gelecek!”",
+      "link": "https://www.yenicaggazetesi.com/sira-sizin-ananiza-da-gelecek-1063932h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919528+00:00"
+    },
+    {
+      "id": "627b3760b044094a",
+      "source": "Yeniçağ",
+      "title": "Barışın tahammül sınırı",
+      "summary": "İnanç UYSAL yazdı: Barışın tahammül sınırı!",
+      "link": "https://www.yenicaggazetesi.com/barisin-tahammul-siniri-1063934h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919547+00:00"
+    },
+    {
+      "id": "43bc4372252eae85",
+      "source": "Yeniçağ",
+      "title": "Elon Musk haklıysa 2036’da bizi ne bekliyor?",
+      "summary": "Kağan KAYA yazdı: Elon Musk haklıysa 2036’da bizi ne bekliyor?",
+      "link": "https://www.yenicaggazetesi.com/elon-musk-hakliysa-2036da-bizi-ne-bekliyor-1063935h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919568+00:00"
+    },
+    {
+      "id": "b76f9dc06d2a2172",
+      "source": "Yeniçağ",
+      "title": "Doğrudan yatırımlar neden gelmiyor?",
+      "summary": "Murat Sururi ÖZBÜLBÜL yazdı: Doğrudan yatırımlar neden gelmiyor?",
+      "link": "https://www.yenicaggazetesi.com/dogrudan-yatirimlar-neden-gelmiyor-1063937h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919589+00:00"
+    },
+    {
+      "id": "527dba9d01218f2c",
+      "source": "Yeniçağ",
+      "title": "“Durun siz kardeşsiniz”",
+      "summary": "Nuri KAYIŞ yazdı: “Durun siz kardeşsiniz!”",
+      "link": "https://www.yenicaggazetesi.com/durun-siz-kardessiniz-1063938h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919608+00:00"
+    },
+    {
+      "id": "ddcd4f57814b1a83",
+      "source": "Yeniçağ",
+      "title": "Demedim mi ben size: “altın hikayesi yeni başladı” diye",
+      "summary": "Selçuk GEÇER yazdı: Demedim mi ben size: “altın hikayesi yeni başladı” diye",
+      "link": "https://www.yenicaggazetesi.com/demedim-mi-ben-size-altin-hikayesi-yeni-basladi-diye-1063939h.htm",
+      "published": "2026-08-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:38.919631+00:00"
+    },
     {
       "id": "da1a819d09bebb57",
       "source": "Karar",
@@ -160,6 +435,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T21:01:06.057873+00:00"
+    },
+    {
+      "id": "a0e9bf80f1015a31",
+      "source": "OdaTV",
+      "title": "Batrakov'un maliyeti belli oldu",
+      "summary": "Galatasaray, 21 yaşındaki Rus oyuncu Aleksey Batrakov ile 30 Haziran 2031&#039;e kadar anlaştı. Lokomotiv Moskova&#039;ya 25 milyon euro bonservis bedeli ödenecek.",
+      "link": "https://www.odatv.com/spor/batrakovun-maliyeti-belli-oldu-120159501",
+      "published": "2026-08-20T21:00:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:41.042832+00:00"
     },
     {
       "id": "36d0cf3a788bf7f7",
@@ -415,6 +701,17 @@
       "fetched_at": "2026-08-20T21:01:15.247487+00:00"
     },
     {
+      "id": "d59fe11406f9f8fe",
+      "source": "Milliyet",
+      "title": "Kocaeli sahilinde gizemli olay! 1 saat içinde 3 ceset bulunmuştu; kahreden gerçek ortaya çıktı",
+      "summary": "Darıca ilçesi sahilinde peş peşe kıyıya vuran cansız bedenlerle ilgili başlatılan soruşturma ve arama çalışmaları sürdürülüyor. Yapılan incelemeler sonucunda hayatını kaybeden kişilerin Muhammed Ali Sakar, Gülşah Sakar ve Belinay Sakar olduğu tespit edildi. Aynı aileden 3 kardeşin cenazesi, kesin ölüm nedenlerinin belirlenmesi amacıyla otopsi yapılmak üzere morga kaldırılırken, kayıp olduğu belirl",
+      "link": "https://www.milliyet.com.tr/gundem/kocaeli-sahilinde-gizemli-olay-1-saat-icinde-3-ceset-bulunmustu-kahreden-gercek-ortaya-cikti-7645325",
+      "published": "2026-08-20T20:59:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:35.913111+00:00"
+    },
+    {
       "id": "c0aeaf064f859d95",
       "source": "Diken",
       "title": "Batılı ülkelerden İsrail'in yasadışı yerleşim projesine kınama",
@@ -435,6 +732,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T21:01:06.057904+00:00"
+    },
+    {
+      "id": "91781e4036bf2a3d",
+      "source": "Finans Gündem",
+      "title": "ABD borsaları günü ekside tamamladı",
+      "summary": "New York borsası, ABD Hazine tahvillerindeki toparlanmanın tersine dönmesiyle günü düşüşle tamamladı.",
+      "link": "https://www.finansingundemi.com/haber/abd-borsalari-gunu-ekside-tamamladi/1905646",
+      "published": "2026-08-20T20:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:48.864370+00:00"
     },
     {
       "id": "396574b6b647b24f",
@@ -2602,6 +2910,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T19:15:44.542548+00:00"
+    },
+    {
+      "id": "1505a88b6c763cc3",
+      "source": "Habertürk",
+      "title": "UEFA ülke puanı sıralaması",
+      "summary": "Türkiye'nin UEFA ülke puanı sıralamasındaki mücadelesi 20 Ağustos Perşembe günü oynanacak kritik karşılaşmalarla devam ediyor. Avrupa kupalarında yoluna devam eden Fenerbahçe, Beşiktaş ve Trabzonspor'un alacağı sonuçlar Türkiye'nin sıralamadaki konumu açısından büyük önem taşıyor. Fenerbahçe, Şampiyonlar Ligi play-off turu ilk maçında Lyon ile 1-1 berabere kalarak ülke puanı yarışında Türkiye'nin ",
+      "link": "https://www.haberturk.com/uefa-ulke-puani-siralamasi-degisti-20-agustos-2026-uefa-ulke-puani-siralamasinda-turkiye-nin-kac-puani-var-kacinci-sirada-3907005",
+      "published": "2026-08-20T19:11:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T21:05:28.536886+00:00"
     },
     {
       "id": "d262a6acc57ef4c8",
@@ -5187,325 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T17:35:44.098983+00:00"
-    },
-    {
-      "id": "ea7c8bda470fba5d",
-      "source": "Türkiye Gazetesi",
-      "title": "ADETA CEZA YAĞDI",
-      "summary": "Afyonkarahisar'ın Dinar-Çay karayolunda geçtiğimiz günlerde yola dökülen boya, yağışın ardından asfalt üzerinde yayılarak yoldan geçen araçların mor renge boyanmasına neden oldu. Olayla ilgili soruşturma başlatılırken, iki firmaya toplam 20 milyon 980 bin 602 lira idari para cezası uygulandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/araclari-mora-boyayan-ihmalde-bakanlik-devrede-adeta-ceza-yagdi-1810550",
-      "published": "2026-08-20T17:29:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:35:32.938688+00:00"
-    },
-    {
-      "id": "c08797a617603b86",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Cumhurbaşkanı Erdoğan, Balıkesir'deki \"Kadın Buluşması\"na telefonla bağlandı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Balıkesir Kadın Kolları Başkanlığınca düzenlenen \"Kadın Buluşması\"na katılanlara telefonla seslendi.",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-balikesirdeki-kadin-bulusmasina-telefonla-baglandi/4033206",
-      "published": "2026-08-20T17:28:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T19:55:31.337358+00:00"
-    },
-    {
-      "id": "d84018d898dead7a",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Cumhurbaşkanı Erdoğan Balıkesir'deki \"Kadın Buluşması\"na telefonla bağlandı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Balıkesir Kadın Kolları Başkanlığınca düzenlenen \"Kadın Buluşması\"na katılanlara telefonla seslendi.",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-balikesirdeki-kadin-bulusmasina-telefonla-baglandi/4033206",
-      "published": "2026-08-20T17:28:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:45:35.916756+00:00"
-    },
-    {
-      "id": "c4c2e597f6dc7806",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Beşiktaş'ın Sırp golcüsü Vlahovic, Kauno Zalgiris karşısında ilk kez maç kadrosunda",
-      "summary": "Beşiktaş'ın yeni transferi Sırp golcü Dusan Vlahovic, Litvanya takımı Kauno Zalgiris ile oynanan UEFA Avrupa Ligi play-off turu birinci maçında ilk kez kadroda kendine yer buldu.",
-      "link": "https://www.aa.com.tr/tr/spor/besiktasin-sirp-golcusu-vlahovic-kauno-zalgiris-karsisinda-ilk-kez-mac-kadrosunda/4033205",
-      "published": "2026-08-20T17:28:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:50:40.243677+00:00"
-    },
-    {
-      "id": "d365912a8eaf9aa6",
-      "source": "Yeni Şafak",
-      "title": "İki yıl kesinleşmiş hapis cezası bulunan şahıs Muş'ta yakalandı",
-      "summary": "Muş’ta \"sarkıntılık yapmak suretiyle cinsel saldırı\" suçundan hakkında 2 yıl kesinleşmiş hapis cezası bulunan firari şahıs, polis ekiplerince düzenlenen operasyonla Kültür Mahallesi’nde yakalanarak adliyeye sevk edildi.",
-      "link": "https://www.yenisafak.com/gundem/iki-yil-kesinlesmis-hapis-cezasi-bulunan-sahis-musta-yakalandi-4849731",
-      "published": "2026-08-20T17:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:20:48.145230+00:00"
-    },
-    {
-      "id": "34b37ed9d9e8f456",
-      "source": "Karar",
-      "title": "ABD'den Katar'a 4,5 milyar dolarlık yakıt ikmal uçağı satışına onay",
-      "summary": "ABD Dışişleri Bakanlığı, Katar’a 4 adet KC-46A havada yakıt ikmal uçağı ve ilgili ekipmanların satışına onay verdi. Yaklaşık 4,5 milyar dolar değerindeki satış kapsamında uçakların yanı sıra 8 turbofan motoru, radar uyarı alıcıları ve lazer verici grupları da yer alıyor.",
-      "link": "https://www.karar.com/dunya-haberleri/abdden-katara-45-milyar-dolarlik-yakit-ikmal-ucagi-satisina-onay-2066943",
-      "published": "2026-08-20T17:27:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:30:52.077562+00:00"
-    },
-    {
-      "id": "0fdd93c16e378923",
-      "source": "Akşam",
-      "title": "Mohamed Salah ilk kez! Trabzon'da sahada...",
-      "summary": "Trabzonspor'un yeni süper yıldızı Mohamed Salah, bordo mavili formayla ilk kez seyircisi karşısına çıktı. UEFA Avrupa Ligi'ndeki Ferencvaros karşılaşmasına ilk 11'de başlayan Mısırlı futbolcu, ilk kez Trabzon'da görücüye çıktı.",
-      "link": "https://www.aksam.com.tr/spor/mohamed-salah-ilk-kez-trabzonda-sahada/haber-1692145",
-      "published": "2026-08-20T17:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:30:50.771029+00:00"
-    },
-    {
-      "id": "66441cc39e6f9c9a",
-      "source": "Evrensel",
-      "title": "Tur Macaristan'a kaldı: Trabzonspor 0 - 1 Ferencvaros",
-      "summary": "Play-off turunun ilk maçında Trabzonspor, Papara Park’ta Macar takımı Ferencvaros'u ağırladı. Karşılaşma Beşiktaş'ın 1-0 mağlubiyetiyle son buldu.",
-      "link": "https://www.evrensel.net/haber/5997152/tur-macaristan-a-kaldi-trabzonspor-0-1-ferencvaros?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T17:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T19:30:54.449130+00:00"
-    },
-    {
-      "id": "f33dd99555872dde",
-      "source": "Evrensel",
-      "title": "Trabzonspor-Ferencvaros maçı başladı: Bordo-mavililer Avrupa Ligi için mücadele ediyor",
-      "summary": "Play-off turunun ilk maçında Trabzonspor, Papara Park’ta Macar takımı Ferencvaros'u ağırlıyor.",
-      "link": "https://www.evrensel.net/haber/5997152/trabzonspor-ferencvaros-maci-basladi-bordo-mavililer-avrupa-ligi-icin-mucadele-ediyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T17:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:45:39.428077+00:00"
-    },
-    {
-      "id": "4968463c7000788e",
-      "source": "Karar",
-      "title": "Yola dökülen boyalar pahalıya patladı: İki firmaya rekor ceza kesildi",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Afyonkarahisar’ın Dinar-Çay Karayolu’nda yola boya dökerek çevre kirliliğine neden olduğu tespit edilen 2 firmaya toplam 20 milyon 980 bin 602 lira idari para cezası uygulandığını açıkladı.",
-      "link": "https://www.karar.com/guncel-haberler/yola-dokulen-boyalar-pahaliya-patladi-iki-firmaya-rekor-ceza-kesildi-2066942",
-      "published": "2026-08-20T17:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:30:52.077600+00:00"
-    },
-    {
-      "id": "b7f4ef4a2855a0ee",
-      "source": "DonanımHaber",
-      "title": "Teknoloji devlerine haber vergisi: Anlaşma yapmayan ödeme yapacak",
-      "summary": "Avustralya, yerel haber kuruluşlarıyla anlaşma yapmayan teknoloji devlerine reklam gelirleri üzerinden yüzde 2,5 yükümlülük getirdi. Düzenleme Meta, Google, TikTok ve LinkedIn’i kapsıyor.",
-      "link": "https://www.donanimhaber.com/teknoloji-devlerine-haber-vergisi-anlasma-yapmayan-odeme-yapacak--209545",
-      "published": "2026-08-20T17:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:31:10.947951+00:00"
-    },
-    {
-      "id": "9dc1934cca6f029b",
-      "source": "Milliyet",
-      "title": "Rusya'da yoğun İHA saldırısına uğramıştı! O gemi İstanbul Boğazı'ndan böyle geçti",
-      "summary": "Rusya Kerç Boğazı girişinde İnsansız Hava Aracı (İHA) saldırısına uğrayan 289 metre uzunluğundaki 'GREAT OCEAN' isimli gemi İstanbul Boğazı'ndan geçti. Geminin geçişi sırasında çift yönlü olarak geçici süreyle askıya alınan trafik yeniden açıldı. İlginizi Çekebilir Liberya bayraklı 289 metre uzunluğundaki gemi, 'GREAT OCEAN' yaklaşık 1 ay önce Rusya'daki Kerç Boğazı girişinde İnsansız Hava Aracı (",
-      "link": "https://www.milliyet.com.tr/dunya/rusyada-yogun-iha-saldirisina-ugramisti-o-gemi-istanbul-bogazindan-boyle-gecti-7645269",
-      "published": "2026-08-20T17:25:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:50:42.278225+00:00"
-    },
-    {
-      "id": "b73a5d2c7509638e",
-      "source": "Türkiye Gazetesi",
-      "title": "\"BAŞIMA BİR ŞEY GELİRSE...\"",
-      "summary": "Adana Cumhuriyet Başsavcılığının Alparslan Kuytul yapılanmasına yönelik soruşturmasında, yaklaşık 25 yıl yapı içerisinde aktif görev yaptığını belirten Mürsel Güler'in müşteki sıfatıyla verdiği ifade dosyaya girdi. Güler, eleştiren isimlerin tehdit edildiğini, sosyal medyada hedef gösterildiğini, itibarsızlaştırma kampanyaları yürütüldüğünü ve ayrılanlarla temasın kesilmesinin istendiğini öne sürd",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/yapilanmanin-25-yillik-eski-mensubu-konustu-basima-bir-sey-gelirse-sorumlusu-alparsla-1810549",
-      "published": "2026-08-20T17:25:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:30:48.194215+00:00"
-    },
-    {
-      "id": "873e74f2feacb620",
-      "source": "Millî Gazete",
-      "title": "Hürmüz’de \"sömürü\" koridoru! ABD’nin gizli oyunu ifşa oldu: Petrol gecenin karanlığında yağmalanıyor!",
-      "summary": "İslam coğrafyasının yer altı kaynaklarına göz diken emperyalist ABD'nin, Hürmüz Boğazı'nda yürüttüğü gizli operasyon deşifre oldu. Amerikan ordusunun, bölgedeki çatışmaları bahane ederek her gece milyonlarca varil petrolü gizli bir deniz koridorundan küresel pazarlara taşıdığı ortaya çıktı. İşte detaylar...",
-      "link": "https://www.milligazete.com.tr/hurmuzde-somuru-koridoru-abdnin-gizli-oyunu-ifsa-oldu-petrol-gecenin-karanliginda-yagmalaniyor",
-      "published": "2026-08-20T17:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:43.741687+00:00"
-    },
-    {
-      "id": "983cb83d765a8d7a",
-      "source": "Halk TV",
-      "title": "Kuytulculara ait dergiye 2. kez baskın: Polis ekipleri ablukaya aldı",
-      "summary": "Furkan Cemaati soruşturmasında yeni bir gelişme daha yaşandı. Koray Sarısaçlı’nın ifadesinde adı geçen Furkan Nesli Dergisi binasına 19 Ağustos’un ardından bugün TEM ve Narkotik ekiplerince 2. kez baskın yapılarak binada arama gerçekleştirildi.",
-      "link": "https://halktv.com.tr/turkiye/kuytulculara-ait-dergiye-2-kez-baskin-polis-ekipleri-ablukaya-aldi-1050079h",
-      "published": "2026-08-20T17:24:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:45.024144+00:00"
-    },
-    {
-      "id": "10e3c22d3bf00b1c",
-      "source": "OdaTV",
-      "title": "Tarihi Yarımada'daki dev orkinoslar ilgi odağı oldu",
-      "summary": "İstanbul Eminönü&#039;nde her gün balıkçı esnafının attığı balık parçalarıyla su yüzüne çıkan orkinoslar, vatandaşların ve turistlerin ilgisini çekiyor. Yaklaşık 2,5-3 metre uzunluğundaki balıklar, gün içerisinde sürü halinde Eminönü Köprüsü&#039;nün altında görülüyor.",
-      "link": "https://www.odatv.com/guncel/tarihi-yarimadadaki-dev-orkinoslar-ilgi-odagi-oldu-120159488",
-      "published": "2026-08-20T17:24:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:44.664632+00:00"
-    },
-    {
-      "id": "8fa674eda9d912e9",
-      "source": "Yeniçağ",
-      "title": "Eski Cumhurbaşkanının ayrıcalığı kaldırıldı: Yetkisi elinden alındı",
-      "summary": "Kazakistan Cumhurbaşkanı Tokayev, eski lider Nursultan Nazarbayev&#039;in ülkenin dış politikasına müdahale etmesine olanak tanıyan ömür boyu ayrıcalığını kaldıran kararnameyi imzaladı.",
-      "link": "https://www.yenicaggazetesi.com/eski-cumhurbaskaninin-ayricaligi-kaldirildi-yetkisi-elinden-alindi-1063922h.htm",
-      "published": "2026-08-20T17:24:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:42.842676+00:00"
-    },
-    {
-      "id": "c9318b1e2a1d12e7",
-      "source": "Halk TV",
-      "title": "Kuytulculara ait dergiye 2'nci kez baskın: Polis ekipleri ablukaya aldı",
-      "summary": "Furkan Cemaati soruşturmasında yeni bir gelişme daha yaşandı. Koray Sarısaçlı’nın ifadesinde adı geçen Furkan Nesli Dergisi binasına 19 Ağustos’un ardından bugün TEM ve Narkotik ekiplerince 2. kez baskın yapılarak binada arama gerçekleştirildi.",
-      "link": "https://halktv.com.tr/turkiye/kuytulculara-ait-dergiye-2-kez-baskin-polis-ekipleri-ablukaya-aldi-1050079h",
-      "published": "2026-08-20T17:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:35:38.338720+00:00"
-    },
-    {
-      "id": "06e1b351661fd175",
-      "source": "Cumhuriyet",
-      "title": "İHA saldırısına uğrayan gemi İstanbul Boğazı’ndan geçti",
-      "summary": "Kerç Boğazı girişinde yaklaşık 1 ay önce insansız hava araçlarının (İHA) saldırısına uğrayan 289 metre uzunluğundaki \"Great Ocean\" isimli gemi, Kıyı Emniyeti Genel Müdürlüğü’ne (KEGM) bağlı römorkörlerin refakatinde İstanbul Boğazı’ndan geçti. Geminin geçişi nedeniyle İstanbul Boğazı’ndaki gemi trafiği saat 14.40’ta çift yönlü olarak kapatıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/iha-saldirisina-ugrayan-gemi-istanbul-bogazi-ndan-gecti-2530883",
-      "published": "2026-08-20T17:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:34.402939+00:00"
-    },
-    {
-      "id": "b2f45637ef6a219e",
-      "source": "Ekonomim",
-      "title": "Avrupa borsaları, günü karışık seyirle kapattı",
-      "summary": "Artan petrol fiyatlarının etkisiyle Avrupa borsaları, günü karışık seyirle tamamladı.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-gunu-karisik-seyirle-kapatti-haberi-913345",
-      "published": "2026-08-20T17:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:50.955073+00:00"
-    },
-    {
-      "id": "af6c801200c8c5a0",
-      "source": "Yeniçağ",
-      "title": "PFDK'den Fenerbahçe Genel Sekreteri Mahmut Uslu'ya ceza",
-      "summary": "PFDK, Fenerbahçe Kulübü Genel Sekreteri Mahmut Uslu&#039;ya futbolun ve kurumların itibarını zedelemeye yönelik açıklamaları nedeniyle 15 gün hak mahrumiyeti ve 2,5 milyon lira para cezası verdi. Kurul ayrıca 7 Süper Lig kulübüne de çeşitli gerekçelerle para cezası uyguladı.",
-      "link": "https://www.yenicaggazetesi.com/pfdkden-fenerbahce-genel-sekreteri-mahmut-usluya-ceza-1063921h.htm",
-      "published": "2026-08-20T17:23:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:42.842713+00:00"
-    },
-    {
-      "id": "4d2dd2e73005b412",
-      "source": "OdaTV",
-      "title": "Seyir halindeki otomobilde yangın çıktı",
-      "summary": "Samsun&#039;da seyir halindeki plakasız otomobilin motor kısmında yangın çıktı. Sürücü, alevlerin yükselmesi üzerine aracı durdurup kendisini dışarı attı.",
-      "link": "https://www.odatv.com/guncel/seyir-halindeki-otomobilde-yangin-cikti-120159487",
-      "published": "2026-08-20T17:22:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:44.664657+00:00"
-    },
-    {
-      "id": "88681b6729ec58ea",
-      "source": "Ekonomim",
-      "title": "MasterChef zeytinyağlı enginar tarifi! Lokum gibi enginar nasıl yapılır, püf noktası nelerdir?",
-      "summary": "MasterChef Türkiye’nin yeni bölümünde takımlar haftanın ikinci dokunulmazlık oyununda karşı karşıya geliyor. Şeflerin bu haftaki konsepti ise Türk mutfağının vazgeçilmezi olan zeytinyağlılar olarak belirlendi. Gecenin en kritik ve beceri isteyen tabağı ise zeytinyağlı enginar oldu. Peki, MasterChef zeytinyağlı enginar nasıl yapılır? Zeytinyağlı enginar püf noktası nedir? Zeytinyağlı enginar tarifi",
-      "link": "https://www.ekonomim.com/foto-galeri/yasam/masterchef-zeytinyagli-enginar-tarifi-lokum-gibi-enginar-nasil-yapilir-puf-noktasi-nelerdir-s1-galeri-913347",
-      "published": "2026-08-20T17:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:35:44.099069+00:00"
-    },
-    {
-      "id": "64f9d5da2bd7b831",
-      "source": "Yeni Akit",
-      "title": "Yola boya döken 2 firmaya okkalı ceza",
-      "summary": "Afyonkarahisar'da yola boya döken 2 firmaya 20,9 milyon TL ceza kesildi.",
-      "link": "https://www.yeniakit.com.tr/haber/yola-boya-doken-2-firmaya-okkali-ceza-2018549.html",
-      "published": "2026-08-20T17:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:41.745395+00:00"
-    },
-    {
-      "id": "84520f68e91d5223",
-      "source": "Gazete Pencere",
-      "title": "Gıda fiyatları haftalık takip edilecek: Cevdet Yılmaz ön uyarı sistemini açıkladı",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, gıda fiyatlarının haftalık bazda takip edileceğini ve arz-talep gelişmelerinin ön uyarı sistemiyle izleneceğini açıkladı.",
-      "link": "https://www.gazetepencere.com/ekonomi/gida-fiyatlari-haftalik-takip-edilecek-cevdet-yilmaz-on-uyari-sistemini-acikladi-712594h",
-      "published": "2026-08-20T17:21:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:44.396237+00:00"
-    },
-    {
-      "id": "9bef56d7ffc5a4cc",
-      "source": "Star",
-      "title": "Vincenzo Italiano'dan ilk 11'de 3 değişiklik",
-      "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Kauno Zalgiris karşısında Eyüpspor maçının ilk 11'ine göre 3 değişiklik yaptı.",
-      "link": "https://www.star.com.tr/spor/vincenzo-italianodan-ilk-11de-3-degisiklik-haber-2035072/",
-      "published": "2026-08-20T17:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:25:41.353132+00:00"
-    },
-    {
-      "id": "6991bf823941ce3f",
-      "source": "Yeni Şafak",
-      "title": "DEM Partili Bakırhan'dan Yeni Parti liderine 'Terörsüz Türkiye' tepkisi: Ülkeyi yönetme iddiası zarar gördü",
-      "summary": "DEM Parti Eş Başkanı Tuncer Bakırhan, “Terörsüz Türkiye” yasasına yönelik tutumunu değerlendirdi. CHP’nin sürece verdiği desteği önemli bulan Bakırhan, Yeni Parti milletvekillerinin “hayır” oylarını ve tutumunu eleştirdi. Bakırhan, partinin meselede yaşadığı ayrışmanın ülkeyi yönetme iddiasına zarar verdiğini söyledi.",
-      "link": "https://www.yenisafak.com/gundem/dem-partili-bakirhandan-yeni-parti-liderine-terorsuz-turkiye-tepkisi-ulkeyi-yonetme-iddiasi-zarar-gordu-4849693",
-      "published": "2026-08-20T17:20:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T17:20:44.806911+00:00"
-    },
-    {
-      "id": "3d7808ee4dffea2f",
-      "source": "Evrensel",
-      "title": "İstanbul'da tur kapısı aralandı: Beşiktaş 3 - 0 Kauno Zalgiris",
-      "summary": "Beşiktaş, bugün evinde Litvanya'nın Kauno Zalgırıs takımını ağırladı. Karşılaşma siyah-beyazlı takımın 3-0 galibiyetiyle son buldu.",
-      "link": "https://www.evrensel.net/haber/5997151/istanbul-da-tur-kapisi-aralandi-besiktas-3-0-kauno-zalgiris?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T17:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T19:30:54.449153+00:00"
-    },
-    {
-      "id": "98631015ee1138ec",
-      "source": "Evrensel",
-      "title": "Beşiktaş-Kauno Zalgırıs maçı başladı",
-      "summary": "Beşiktaş, bugün evinde Litvanya'nın Kauno Zalgırıs takımını ağırlıyor. Siyah-beyazlı takımın gruplara kalmak için avantaj elde etmek istediği maçın ilk yarısı hareketli başladı.",
-      "link": "https://www.evrensel.net/haber/5997151/besiktas-kauno-zalgiris-maci-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-20T17:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T18:15:41.379216+00:00"
     }
   ]
 }

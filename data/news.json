@@ -1,12 +1,232 @@
 {
-  "last_updated": "2026-08-20T08:35:50.827124+00:00",
+  "last_updated": "2026-08-20T08:41:04.273363+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 588,
+  "new_items_this_run": 589,
   "items": [
+    {
+      "id": "d769c0918ee9ccd9",
+      "source": "Karar",
+      "title": "“Türkiye’ye çok müjdeli haber vereceğim” diyerek açıkladı! Bu yıl tezgahlar coşacak, fiyatlar uygun olacak",
+      "summary": "Eskişehir’de uzun yıllardır balıkçılık yapan Selahattin Arslanbenzer, “Türkiye’ye çok müjdeli haber vereceğim” diyerek bu yıl ki sezon beklentilerini açıkladı. Arslanbenzer’in açıklamalarına göre bu yıl tezgahlar coşacak, fiyatlar uygun olacak.",
+      "link": "https://www.karar.com/guncel-haberler/turkiyeye-cok-mujdeli-haber-verecegim-diyerek-acikladi-bu-yil-tezgahlar-2066820",
+      "published": "2026-08-20T08:40:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:44.569212+00:00"
+    },
+    {
+      "id": "c756ff3b02695c23",
+      "source": "Star",
+      "title": "Trabzonspor'un Avrupa özlemi sona eriyor! 721 gün sonra ilk maç",
+      "summary": "UEFA Avrupa Ligi play-off turu ilk maçında temsilcimiz Trabzonspor, Macaristan ekibi Ferencvaros'u bugün saat 20.00'de Papara Park'ta konuk edecek. Yeni transfer Mohamed Salah'ın ilk 11'de başlaması tahmin edilen karşılaşmada, bordo-mavililer 721 gün sonra ilk defa Avrupa kupalarında bir maç oynayacak. İşte detaylar...",
+      "link": "https://www.star.com.tr/spor/trabzonsporun-avrupa-ozlemi-sona-eriyor-721-gun-sonra-ilk-mac-haber-2034960/",
+      "published": "2026-08-20T08:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:43.742025+00:00"
+    },
+    {
+      "id": "ff3dc81cf1aad4f2",
+      "source": "DonanımHaber",
+      "title": "Samsung, Galaxy S26 FE tanıtım tarihini duyurdu",
+      "summary": "Galaxy S26 FE ne zaman çıkacak belli oldu! Samsung, 27 Ağustos'ta Galaxy Etkinliği düzenleyeceğini ve bu etkinlikte Galaxy S26 serisinin en yeni üyesinin tanıtılacağını açıkça belirtiyor.",
+      "link": "https://www.donanimhaber.com/samsung-galaxy-s26-fe-tanitim-tarihini-duyurdu--209514",
+      "published": "2026-08-20T08:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:41:01.146859+00:00"
+    },
+    {
+      "id": "783a03da32a1faf0",
+      "source": "Halk TV",
+      "title": "Kuytulculara soruşturmayı başlatan ifade ortaya çıktı",
+      "summary": "Kuytulculara yönelik soruşturmayı başlatan ifade ortaya çıktı. Koray Sarısaçlı, kaçırılıp işkence gördüğünü, zorla milyonlarca dolarlık senet imzalatıldığını ve kendisine “Alparslan Kuytul’dan talimat geldi” denildiğini öne sürdü.",
+      "link": "https://halktv.com.tr/siyaset/kuytulculara-sorusturmayi-baslatan-ifade-ortaya-cikti-1049978h",
+      "published": "2026-08-20T08:39:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:48.295023+00:00"
+    },
+    {
+      "id": "34aa207d6c1bf1e8",
+      "source": "Star",
+      "title": "Dolandırıcılar mercek altında! 8 ayda 667 zanlı yakalandı",
+      "summary": "İstanbul Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Dolandırıcılık Büro Amirliği ekipleri, 1 Ocak-17 Ağustos'ta yaptıkları titiz ve özverili çalışmaların sonucunda, vatandaşların farklı yöntemlerle dolandırılmaya çalışıldığı 1065 olayı aydınlatıp, buna ilişkin toplam 667 şüpheliyi gözaltına aldı.",
+      "link": "https://www.star.com.tr/guncel/dolandiricilar-mercek-altinda-8-ayda-667-zanli-yakalandi-haber-2034959/",
+      "published": "2026-08-20T08:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:43.742056+00:00"
+    },
+    {
+      "id": "109cc2553a9e5747",
+      "source": "CNBC-e",
+      "title": "Trabzon'da turistler o lezzeti arıyor: \"Salah'ın yediği o yemek neydi?\"",
+      "summary": "Muhammed Salah transferi ile sezona hızlı bir başlangıç yapan Trabzonspor, şehirde de yeni bir turist akınına yol açtı. Trabzon'a gelen birçok turist, Salahlı videodaki yemekleri restoranlarda aramaya başlarken kent mutfağının lezzetleri de ününe ün kattı.",
+      "link": "https://www.cnbce.com/spor-ekonomisi/trabzonda-turistler-o-lezzeti-ariyor-salahin-yedigi-o-yemek-neydi-h35460",
+      "published": "2026-08-20T08:38:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:55.907190+00:00"
+    },
+    {
+      "id": "564c7d34f82c61fa",
+      "source": "Karar",
+      "title": "Son dakika! İstanbul’da deprem hareketliliği sürüyor",
+      "summary": "Son dakika! İstanbul’da deprem hareketliliği devam ediyor. Adalar açıklarında 3,2 büyüklüğünde bir deprem daha meydana geldi.",
+      "link": "https://www.karar.com/guncel-haberler/son-dakika-istanbulda-deprem-hareketliligi-suruyor-2066819",
+      "published": "2026-08-20T08:38:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:44.569238+00:00"
+    },
+    {
+      "id": "ec25563aeafa3fdc",
+      "source": "Türkiye Gazetesi",
+      "title": "10 ilde 66 yıllık yağış rekoru!",
+      "summary": "Türkiye'de 1 Ekim 2025-31 Temmuz 2026 dönemini kapsayan 2026 su yılının 10 aylık döneminde yağışlar, normalinin yüzde 30, geçen yılın aynı döneminin yüzde 76 üzerinde gerçekleşerek son 66 yılın en yüksek seviyesine ulaştı. 10 ilde son 66 yılın en yüksek 10 aylık su yılı yağışı kaydedildi. En fazla yağış Rize'de, en az yağış ise Iğdır'da ölçüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/10-ilde-66-yillik-rekor-turkiyenin-yagis-karnesinde-zirvede-hangi-il-var-1810432",
+      "published": "2026-08-20T08:38:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:39.846188+00:00"
+    },
+    {
+      "id": "a2181227a59181db",
+      "source": "Türkiye Gazetesi",
+      "title": "Türkiye’nin yağış karnesinde 10 ilde 66 yıllık rekor!",
+      "summary": "Türkiye'de 1 Ekim 2025-31 Temmuz 2026 dönemini kapsayan 2026 su yılının 10 aylık döneminde yağışlar, normalinin yüzde 30, geçen yılın aynı döneminin yüzde 76 üzerinde gerçekleşerek son 66 yılın en yüksek seviyesine ulaştı. 10 ilde son 66 yılın en yüksek 10 aylık su yılı yağışı kaydedildi. En fazla yağış Rize'de, en az yağış ise Iğdır'da ölçüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/10-ilde-66-yillik-rekor-turkiyenin-yagis-karnesinde-zirvede-hangi-il-var-1810432",
+      "published": "2026-08-20T08:38:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:39.846223+00:00"
+    },
+    {
+      "id": "6e662e677119b4bd",
+      "source": "Akşam",
+      "title": "Son dakika: İstanbul'da deprem mi oldu? 20 Ağustos AFAD Kandilli son depremler listesi…",
+      "summary": "Deprem uygulamalarından İstanbul'da deprem olduğu yönünde uyarı gelmesiyle birlikte birçok vatandaş, sarsıntı yaşanıp yaşanmadığını merak etmeye başladı. Peki, İstanbul'da deprem mi oldu? İşte detaylar…",
+      "link": "https://www.aksam.com.tr/trend/son-dakika-istanbulda-deprem-mi-oldu-afad-kandilli-son-depremler-listesi/haber-1692007",
+      "published": "2026-08-20T08:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:42.857473+00:00"
+    },
+    {
+      "id": "ec7c1cb27d95e211",
+      "source": "Yeniçağ",
+      "title": "Brent petrol sabah saatlerinde 91,82 dolarda işlem kaydetti.",
+      "summary": "Brent petrolün varili uluslararası vadeli piyasalarda 91,82 dolardan işlem kaydetti.",
+      "link": "https://www.yenicaggazetesi.com/brent-petrol-sabah-saatlerinde-9182-dolarda-islem-kaydetti-1063739h.htm",
+      "published": "2026-08-20T08:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:45.137176+00:00"
+    },
+    {
+      "id": "352f7b2450d9d004",
+      "source": "Yeniçağ",
+      "title": "Trendyol Süper Lig’de yeni hafta başlıyor: İlk maç Erzurum’da",
+      "summary": "Trendyol Süper Lig’de ikinci hafta heyecanı yarın oynanacak karşılaşmayla başlayacak.",
+      "link": "https://www.yenicaggazetesi.com/trendyol-super-ligde-yeni-hafta-basliyor-ilk-mac-erzurumda-1063740h.htm",
+      "published": "2026-08-20T08:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:45.137203+00:00"
+    },
+    {
+      "id": "a2d6c15f5c79325c",
+      "source": "Milliyet",
+      "title": "Bakan Yumaklı: Edirne Çömlekköy Barajı sulaması yapım işinin sözleşmesi imzalandı",
+      "summary": "Yumaklı, yaptığı yazılı açıklamada Bakanlığın yatırımlarla \"Serhat Kent Edirne\"nin verimli topraklarını suyla buluşturan, vatandaşlara içme ve kullanma suyu temin eden, derelerdeki taşkın riskini azaltan projeleri hayata geçirmeyi sürdürdüğünü vurguladı. Bakanlık bünyesindeki Devlet Su İşleri (DSİ) Genel Müdürlüğünün Edirne'de su yapıları yatırımlarını son dönemde büyük ölçüde artırdığına dikkati ",
+      "link": "https://www.milliyet.com.tr/ekonomi/bakan-yumakli-edirne-comlekkoy-baraji-sulamasi-yapim-isinin-sozlesmesi-imzalandi-7644889",
+      "published": "2026-08-20T08:37:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:42.153127+00:00"
+    },
+    {
+      "id": "02483356bc1a06e4",
+      "source": "Akşam",
+      "title": "Bakan Şimşek'ten akaryakıt mesajı! \"Eşel mobil ile küresel şokun etkisini sınırladık\"",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, küresel enerji piyasalarında yaşanan olağanüstü süreç nedeniyle motorin fiyatları üzerinde baskının sürdüğünü belirterek, eşel mobil kapsamında atılan adımlarla küresel şokun vatandaşa yansımasının sınırlandırıldığını ifade etti.",
+      "link": "https://www.aksam.com.tr/ekonomi/bakan-simsekten-akaryakit-mesaji-esel-mobil-ile-kuresel-sokun-etkisini-sinirladik/haber-1692006",
+      "published": "2026-08-20T08:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:42.857505+00:00"
+    },
+    {
+      "id": "a2927a7026df4408",
+      "source": "Yeni Şafak",
+      "title": "Hafif ticari araçla motosikletin çarpışma anı kamerada",
+      "summary": "Antalya'nın Manavgat ilçesinde seyir halindeki Emir M.'nin kullandığı 07 BST 818 plakalı motosiklet4535 sokak kesişimine geldiğinde sokağa dönmek isteyen Abdullah K.'nın kullandığı 07 BYL 505 plakalı hafif ticari araç ile çarpıştı. Kazada yaralanan motosiklet sürücüsü ihbarla adrese gelen 112 sağlık ekibinin olay yerindeki ilk müdahalesinin ardından ambulansla hastaneye kaldırıldı. Kaza anı ise bi",
+      "link": "https://www.yenisafak.com/video/gundem/hafif-ticari-aracla-motosikletin-carpisma-ani-kamerada-4849529",
+      "published": "2026-08-20T08:36:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:43.101125+00:00"
+    },
+    {
+      "id": "3d5ba71803119de3",
+      "source": "Cumhuriyet",
+      "title": "Kasımpaşa-Trabzonspor maçında atılan havai fişek eve düştü: Ressamın yıllarca yaptığı tablolar yandı",
+      "summary": "İstanbul Beyoğlu'nda Kasımpaşa-Trabzonspor maçı oynandığı sırada stadyumun yakınlarından atılan havai fişek 5 katlı binanın 4’üncü katındaki daireye düştü. Evde çıkan yangında sergi açmaya hazırlanan ressam Murat Melih Özen’in (47) yıllardır yaptığı tablolar da yandı. Yangına ilişkin Beyoğlu Asayiş Büro ekiplerince gözaltına alınan 4 şüpheli adli kontrol şartıyla serbest bırakıldı. Fişeğin ateşlen",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/kasimpasa-trabzonspor-macinda-atilan-havai-fisek-eve-dustu-ressamin-yillarca-yaptigi-tablolar-yandi-2530734",
+      "published": "2026-08-20T08:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:37.686691+00:00"
+    },
+    {
+      "id": "ef00e585a5de7135",
+      "source": "Cumhuriyet",
+      "title": "Hayden Panettiere’in şüpheli ölümünde yeni detay: Şiddet gördüğü eski sevgilisi olay yerindeymiş",
+      "summary": "Ünlü oyuncu Hayden Panettiere’in evinde ölü bulunmasının ardından yürütülen soruşturmada, olay anında dairede daha önce kendisine şiddet uygulayan eski sevgilisi Brian Hickerson’ın da bulunduğu ortaya çıktı. İlk otopsi incelemesinde vücudunda travma izine rastlanmayan 36 yaşındaki oyuncunun kesin ölüm nedeni toksikoloji ve detaylı adli tıp raporunun ardından netlik kazanacak.",
+      "link": "https://www.cumhuriyet.com.tr/magazin/hayden-panettiere-in-supheli-olumunde-yeni-detay-siddet-gordugu-eski-sevgilisi-olay-yerindeymis-2530733",
+      "published": "2026-08-20T08:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:37.686728+00:00"
+    },
+    {
+      "id": "fcd8df71e7b450bf",
+      "source": "OdaTV",
+      "title": "Esad'ın generali Suriye'ye iade edildi",
+      "summary": "Eski Baas rejimi generali Adil İsa, Lübnan makamları tarafından Suriye&#039;ye iade edildi. İsa hakkında çok sayıda ağır suçlama bulunuyor.",
+      "link": "https://www.odatv.com/dunya/esadin-generali-suriyeye-iade-edildi-120159423",
+      "published": "2026-08-20T08:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:47.660258+00:00"
+    },
+    {
+      "id": "001b6843150d0f2e",
+      "source": "OdaTV",
+      "title": "Mourinho'dan Arda Güler kehaneti: Numarası değişebilir",
+      "summary": "Yaz dönemi transferlerini değerlendiren Real Madrid Teknik Direktörü Mourinho, Arda Güler hakkında da konuştu. Mourinho, Arda&#039;nın forma numarasının ileride değişebileceği öngörüsüne sahip olduğunu belirtti.",
+      "link": "https://www.odatv.com/spor/mourinhodan-arda-kehaneti-forma-numarasi-degisebilir-120159425",
+      "published": "2026-08-20T08:34:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:47.660284+00:00"
+    },
+    {
+      "id": "189ad59778b9f47f",
+      "source": "Gerçek Gündem",
+      "title": "Adalar Açıklarında Deprem Fırtınası: Gece Boyu Süren Sarsıntılar Büyük İstanbul Depremini Tetikler mi?",
+      "summary": "İstanbul Adalar açıklarında gece boyunca peş peşe kaydedilen 50’ye yakın mikro sarsıntı, megakentte büyük panik yarattı. AFAD&#039;ın verilerine göre en büyüğü 3.2 olan bu hareketlilik sonrası, Türkiye&#039;nin en önde gelen deprem bilimcileri &quot;Büyük Marmara Depremi kapıda mı?&quot; sorusuna yanıt aradı.",
+      "link": "https://www.gercekgundem.com/guncel/adalar-aciklarinda-deprem-firtinasi-gece-boyu-suren-sarsintilar-buyuk-istanbul-depremini-tetikler-mi-577062",
+      "published": "2026-08-20T08:34:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:52.647195+00:00"
+    },
     {
       "id": "6f84c5ea2f75d937",
       "source": "Yeniçağ",
@@ -39,6 +259,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:35:36.003224+00:00"
+    },
+    {
+      "id": "872405ae062047e7",
+      "source": "CNBC-e",
+      "title": "Bakan Şimşek'ten mazot fiyatları mesajı: Küresel şokun etkisi sınırlanıyor",
+      "summary": "Küresel petrol marjlarındaki rekor artışa değinen Hazine ve Maliye Bakanı Mehmet Şimşek, mazotta devreye alınan Eşel Mobil Adımı ile küresel şokun vatandaşa yansımasının sınırlandığını belirtti. Şimşek, önlemlerle bütçe disiplininin de korunduğunu vurguladı.",
+      "link": "https://www.cnbce.com/haberler/bakan-simsekten-mazot-fiyatlari-mesaji-kuresel-sokun-etkisi-sinirlaniyor-h35459",
+      "published": "2026-08-20T08:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:55.907220+00:00"
     },
     {
       "id": "e07aaab2bd5d93ea",
@@ -96,6 +327,17 @@
       "fetched_at": "2026-08-20T08:35:35.879818+00:00"
     },
     {
+      "id": "2e549fec439d8dee",
+      "source": "Türkiye Gazetesi",
+      "title": "Galatasaray'da Nelsson gelişmesi: İtalya'dan teklif",
+      "summary": "Sarı-kırmızılılarda teknik direktör Okan Buruk'un kadroda düşünmediği Danimarkalı stoper Victor Nelsson için İtalya'dan resmi transfer teklifi geldi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/galatasarayda-vctor-nelsson-gelismesi-italyadan-resmi-teklif-1810430",
+      "published": "2026-08-20T08:32:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:39.846243+00:00"
+    },
+    {
       "id": "0b0581e0e80151a5",
       "source": "Türkiye Gazetesi",
       "title": "Galatasaray'da Nelsson gelişmesi: İtalya'dan resmi teklif",
@@ -105,6 +347,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:35:33.537606+00:00"
+    },
+    {
+      "id": "a42f1f246054c5a5",
+      "source": "Akşam",
+      "title": "Manikür ve pedikürün 5 faydası! Hiç yaptırmayanlar…",
+      "summary": "Bakımlı el ve ayaklar sadece estetik bir görünüm sunmakla kalmıyor, aynı zamanda genel beden sağlığını da doğrudan etkiliyor. Uzmanlar, düzenli manikür ve pedikür yaptırmanın kan dolaşımından tırnak sağlığına kadar sunduğu 5 kritik faydayı açıkladı.",
+      "link": "https://www.aksam.com.tr/mor-papatya/manikurun-ve-pedikurun-5-faydasi-hic-yaptirmayanlar/haber-1692004",
+      "published": "2026-08-20T08:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:42.857556+00:00"
     },
     {
       "id": "16c8034f3d636850",
@@ -248,6 +501,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:30:52.567098+00:00"
+    },
+    {
+      "id": "66eb83f32d60e5f4",
+      "source": "Millî Gazete",
+      "title": "Türkiye'nin yeni nüfusu belli oldu: Neredeyse eşit!",
+      "summary": "TÜİK'in 2026 nüfus verilerinde ibre yukarı döndü. Yılın ilk altı ayında 228 binin üzerinde artışla 86 milyon 320 bin barajını aşan Türkiye'de, kadın ve erkek nüfusu arasındaki denge dikkat çekti.",
+      "link": "https://www.milligazete.com.tr/turkiyenin-yeni-nufusu-belli-oldu-neredeyse-esit",
+      "published": "2026-08-20T08:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:46.634480+00:00"
     },
     {
       "id": "9d6a8874ff27cb15",
@@ -578,6 +842,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:25:35.795810+00:00"
+    },
+    {
+      "id": "db4a939abeb09871",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Trabzonspor'un yıldız futbolcusu Salah'ın yer aldığı video kent mutfağına katkı sağladı",
+      "summary": "Trabzonspor Kulübü'nün yıldız futbolcu Muhammed Salah'ı renklerine bağlamasının ardından yayımladığı videoda yer alan yöresel lezzetler, kent mutfağının tanıtımında pay sahibi oldu.",
+      "link": "https://www.aa.com.tr/tr/kultur/trabzonsporun-yildiz-futbolcusu-salahin-yer-aldigi-video-kent-mutfagina-katki-sagladi/4032469",
+      "published": "2026-08-20T08:23:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:37.247486+00:00"
     },
     {
       "id": "b577ee4a40d2a4fa",
@@ -1645,6 +1920,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T08:05:40.715901+00:00"
+    },
+    {
+      "id": "134e9860b73c882c",
+      "source": "Hürriyet",
+      "title": "Diyarbakır'da kanlı pusu! Ağacın arkasında gizlenip kafedeki müşteriyi vurdu",
+      "summary": "Diyarbakır'ın Kayapınar ilçesinde kafe bahçesinde oturan M.G.'yi, ağacın arkasında gizlenerek tabancayla yaralayan H.A., tutuklandı.",
+      "link": "https://www.hurriyet.com.tr/gundem/diyarbakirda-kanli-pusu-agacin-arkasinda-gizlenip-kafedeki-musteriyi-vurdu-43279105",
+      "published": "2026-08-20T08:04:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-20T08:40:41.465347+00:00"
     },
     {
       "id": "a9ea5c6259fe4f91",
@@ -5220,292 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T07:15:49.391587+00:00"
-    },
-    {
-      "id": "72c85692281b8322",
-      "source": "Bir Gün",
-      "title": "Balıkesir'deki orman yangını 2'nci gününde kontrol altına alındı: Soğutma çalışmaları sürüyor",
-      "summary": "Balıkesir'in Sındırgı ilçesinde kamyonda çıkıp, ormana sıçrayan yangına müdahale 2’nci gününde kontrol altına alındı. Ekiplerin bölgedeki soğutma çalışması devam ediyor.",
-      "link": "https://www.birgun.net/haber/balikesir-deki-orman-yangini-2-nci-gununde-kontrol-altina-alindi-sogutma-calismalari-suruyor-730221",
-      "published": "2026-08-20T07:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T08:05:36.256288+00:00"
-    },
-    {
-      "id": "479b30edcfef9b10",
-      "source": "Cumhuriyet",
-      "title": "Şampiyonlar Ligi play-off eleme turunda ilk maçlar sona erdi",
-      "summary": "UEFA Şampiyonlar Ligi'nde play-off turu ilk maçları çarşamba günü oynanan 4 maçla sona erdi.",
-      "link": "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligi-play-off-eleme-turunda-ilk-maclar-sona-erdi-2530701",
-      "published": "2026-08-20T07:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:38.360353+00:00"
-    },
-    {
-      "id": "cca5e344772694c1",
-      "source": "Yeniçağ",
-      "title": "Bölgesel şantaj: Tehdidi Türkiye, hedefi Şam",
-      "summary": "İsrail Başbakanı Binyamin Netanyahu, Suriye’deki Ebu Zuhur Askeri Havaalanı’na düzenlenen saldırının Türkiye’ye yönelik bir mesaj olduğunu söyledi. Netanyahu’nun açıklamalarına Cumhurbaşkanlığı İletişim Başkanlığı sert tepki göstererek İsrail’in saldırılarını meşrulaştırmaya çalıştığını belirtti.",
-      "link": "https://www.yenicaggazetesi.com/bolgesel-santaj-tehdidi-turkiye-hedefi-sam-1063696h.htm",
-      "published": "2026-08-20T07:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:45.009660+00:00"
-    },
-    {
-      "id": "f2a7ef230bebf1e3",
-      "source": "Hürriyet",
-      "title": "Otomobile silahlı saldırı: Sürücü son anda kurtuldu! Daha önceden keşif yapmışlar",
-      "summary": "İstanbul Sultangazi'de motosikletli 2 şüpheli, daha önceden keşif yaptıkları öne sürülen sokakta otomobile silahlı saldırı düzenledi. Sürücünün son anda kurtulduğu saldırının ardından motosikletli şüpheliler olay yerinden kaçtı. Saldırı anları güvenlik kamerasına yansıdı.",
-      "link": "https://www.hurriyet.com.tr/gundem/otomobile-silahli-saldiri-surucu-son-anda-kurtuldu-daha-onceden-kesif-yapmislar-43279027",
-      "published": "2026-08-20T07:08:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:40:39.687585+00:00"
-    },
-    {
-      "id": "d1c74ada4b618ba2",
-      "source": "Karar",
-      "title": "Tarımsal girdi fiyatları yıllık yüzde 32,06 arttı",
-      "summary": "TÜİK verilerine göre Tarımsal Girdi Fiyat Endeksi (Tarım-GFE), Haziran 2026’da aylık yüzde 0,92 azalırken yıllık yüzde 32,06 arttı. Endeks, geçen yılın aralık ayına göre yüzde 16,92, 12 aylık ortalamalara göre yüzde 34,02 yükseldi. Tarımda kullanılan mal ve hizmetlerde yıllık artış yüzde 33,88 oldu. Alt gruplarda en yüksek yıllık artış yüzde 50,99 ile gübre ve toprak geliştiricilerde gerçekleşti.",
-      "link": "https://www.karar.com/ekonomi-haberleri/tarimsal-girdi-fiyatlari-yillik-yuzde-3206-artti-2066787",
-      "published": "2026-08-20T07:08:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:44.561121+00:00"
-    },
-    {
-      "id": "d178b7624af61e66",
-      "source": "CNBC-e",
-      "title": "ABD ekonomisi için kriz alarmı: Borç kapıya dayandı, iflaslar alarm veriyor...",
-      "summary": "ABD ekonomisi borsalardaki yükseliş ve güçlü büyüme görünümüyle dirençli kalsa da iflaslar, şirket tahvili risk primleri ve yapay zekâ yatırımlarına bağımlılık resesyon endişelerini artırıyor.",
-      "link": "https://www.cnbce.com/haberler/abd-ekonomisi-icin-kriz-alarmi-borc-kapiya-dayandi-iflaslar-alarm-veriyor-h35447",
-      "published": "2026-08-20T07:08:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:56.069148+00:00"
-    },
-    {
-      "id": "96a88d2a8c4e68cd",
-      "source": "Diken",
-      "title": "Borsa güne nasıl başladı? – 20 Ağustos 2026",
-      "summary": "Borsa güne nasıl başladı? – 20 Ağustos 2026 20.08.2026 Diken Borsa İstanbul’da BIST 100 endeksi, güne yüzde 0,07 artışla 14.469,07 puandan başladı. The post Borsa güne nasıl başladı? – 20 Ağustos 2026 appeared first on #site_linkat 20.08.2026 .",
-      "link": "https://www.diken.com.tr/borsa-gune-nasil-basladi-20-agustos-2026/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-gune-nasil-basladi-20-agustos-2026",
-      "published": "2026-08-20T07:08:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:47.723638+00:00"
-    },
-    {
-      "id": "ae74ca5bb61b709c",
-      "source": "Ekonomim",
-      "title": "Borsanın dev şirketleri için beklenen fiyatlar açıklandı. GLRMK, ULKER, TRGYO, BIOEN...",
-      "summary": "Borsa İstanbul’da işlem gören GLRMK, ULKER, TRGYO gibi dev hisseler dahil 9 şirketin hissesi için aracı kurumlar fiyat beklentilerini paylaştı.",
-      "link": "https://www.ekonomim.com/foto-galeri/aktuel/borsanin-dev-sirketleri-icin-beklenen-fiyatlar-aciklandi-araci-kurumlar-9-hisseye-yogunlasti-galeri-913209",
-      "published": "2026-08-20T07:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:31:10.665850+00:00"
-    },
-    {
-      "id": "a97b72b04644123e",
-      "source": "Cumhuriyet",
-      "title": "Münih’te polis 14 yaşındaki Türk vatandaşını vurdu",
-      "summary": "Almanya’nın Münih kentinde polis, elinde gerçek tabancadan ayırt edilmesi zor bir silah bulunan 14 yaşındaki öğrenciyi vurdu. Gövdesinden yaralanan öğrencinin sağlık durumunun stabil olduğu bildirildi.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/munih-te-polis-14-yasindaki-turk-vatandasini-vurdu-2530700",
-      "published": "2026-08-20T07:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:38.360382+00:00"
-    },
-    {
-      "id": "8e4f5d18318f5761",
-      "source": "Akşam",
-      "title": "Antalya Kepez'de icradan satılık tripleks mesken!",
-      "summary": "Antalya Kepez'de tripleks mesken icradan satışa sunuluyor...",
-      "link": "https://www.aksam.com.tr/ekonomi/antalya-kepezde-icradan-satilik-tripleks-mesken/haber-1691973",
-      "published": "2026-08-20T07:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:43.148462+00:00"
-    },
-    {
-      "id": "0bbf8d3f837f7bd1",
-      "source": "Ekonomim",
-      "title": "Asya borsaları pozitif seyrediyor",
-      "summary": "Asya borsaları, ABD Hazine Bakanlığının uzun vadeli tahvil geri alım operasyonlarının büyüklüğünü artırması ve teknoloji hisselerindeki yükselişlerin etkisiyle pozitif seyrediyor.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/asya-borsalari-pozitif-seyrediyor-haberi-913208",
-      "published": "2026-08-20T07:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:54.834074+00:00"
-    },
-    {
-      "id": "07e1d42f8341995c",
-      "source": "CNBC-e",
-      "title": "TÜİK verileri açıklandı: Tarımsal girdi maliyetlerinde aylık gerileme",
-      "summary": "TÜİK verilerine göre Tarımsal Girdi Fiyat Endeksi (Tarım-GFE) Haziran ayında bir önceki aya göre %0,92 geriledi. Yıllık bazdaki artış ise %32,06 olarak gerçekleşti. Üretim maliyetlerinde yıllık en yüksek artış %50,99 ile gübre ve toprak geliştiriciler grubunda kaydedildi.",
-      "link": "https://www.cnbce.com/tarim/tuik-verileri-aciklandi-tarimsal-girdi-maliyetlerinde-aylik-gerileme-h35446",
-      "published": "2026-08-20T07:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:56.069182+00:00"
-    },
-    {
-      "id": "ee64a45fbbd13061",
-      "source": "Milliyet",
-      "title": "Kasımpaşa-Trabzonspor maçı sırasında dehşet! Görüntüler ortaya çıktı, 4 kişi yakalandı",
-      "summary": "Olay, 15 Ağustos Cumartesi günü saat 20.30 sıralarında Beyoğlu Çatma Mescit Mahallesi’nde meydana geldi. Edinilen bilgiye göre, Kasımpaşa Recep Tayyip Erdoğan Stadyumu yakınında henüz belirlenemeyen bir noktadan havai fişek ateşlendi. Havai fişek, 5 katlı apartmanın 4’üncü katındaki boş dairenin camından içeri düştü. İşaret fişeği dairede yangın çıkmasına neden oldu. Evde çıkan yangında, sergi açm",
-      "link": "https://www.milliyet.com.tr/gundem/kasimpasa-trabzonspor-maci-sirasinda-dehset-goruntuler-ortaya-cikti-4-kisi-yakalandi-7644776",
-      "published": "2026-08-20T07:07:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:42.142890+00:00"
-    },
-    {
-      "id": "41afd029a2dfe9e4",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İran: ABD'nin \"Ekonomik D-Day operasyonu\" kendi krizini örtme çabası",
-      "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD Başkanı Donald Trump'ın İran'a yönelik açıkladığı \"Ekonomik D-Day operasyonu\"nun, Washington'un artan borç ve faiz maliyetlerinden kaynaklanan ekonomik krizini örtmeye yönelik bir girişim olduğunu savundu.",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-abdnin-ekonomik-d-day-operasyonu-kendi-krizini-ortme-cabasi/4032358",
-      "published": "2026-08-20T07:07:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:39.000181+00:00"
-    },
-    {
-      "id": "bf1e14a7a94ed0cf",
-      "source": "Yeni Şafak",
-      "title": "Akıllara durgunluk veren kaza kamerada: Sıfır araçlara dokunmadan kusursuz park etti",
-      "summary": "Brezilya'nın São Paulo eyaletinde yer alan Bauru kentinde, iki otomobilin karıştığı trafik kazası güvenlik kameralarına sıra dışı görüntülerle yansıdı. Cadde üzerinde seyir halindeki iki aracın çarpışması sonucu kontrolden çıkan otomobillerden biri, savrularak yol kenarında bulunan bir oto galerisine yöneldi. Hızla galeriye doğru savrulan araç, iş yerinin park alanına girdi. Kazanın en inanılmaz n",
-      "link": "https://www.yenisafak.com/video/gundem/akillara-durgunluk-veren-kaza-kamerada-sifir-araclara-dokunmadan-kusursuz-park-etti-4849500",
-      "published": "2026-08-20T07:07:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:43.312179+00:00"
-    },
-    {
-      "id": "a6fce977bb4dffd0",
-      "source": "BBC News Türkçe",
-      "title": "Prens Harry ve Meghan bu ayın sonunda İngiltere'ye dönüyor",
-      "summary": "Çiftin çocukları, 7 yaşındaki Prens Archie ve 5 yaşındaki Prenses Lilibet, Eylül ayında okula başlamak üzere kayıt yaptırdılar.",
-      "link": "https://www.bbc.com/turkce/articles/c4gv1vwgegzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-20T07:07:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:11:03.587629+00:00"
-    },
-    {
-      "id": "8cf2d536e53f43bc",
-      "source": "Karar",
-      "title": "Fındık hasadının bir gününü eğlenerek öğrendiler",
-      "summary": "Giresun Belediye Başkanı Fuat Köse, kreş öğrencileriyle birlikte fındık bahçesine girerek miniklerle fındık hasadı yaptı.",
-      "link": "https://www.karar.com/sehir-haberleri/findik-hasadinin-bir-gununu-eglenerek-ogrendiler-2066786",
-      "published": "2026-08-20T07:07:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:44.561151+00:00"
-    },
-    {
-      "id": "9393af31390d0fec",
-      "source": "CNBC-e",
-      "title": "Türkiye'nin brüt dış borç stoku ikinci çeyrekte 539 milyar dolara yükseldi",
-      "summary": "Türkiye'nin toplam brüt dış borç stoku, 2026'nın ikinci çeyreğinde bir önceki çeyreğe göre yüzde 3,5 artarak 539 milyar dolara çıktı. Özel sektörün dış borcu 318 milyar dolar, kamu sektörünün dış borcu ise 197,9 milyar dolar oldu.",
-      "link": "https://www.cnbce.com/veriler/turkiyenin-brut-dis-borc-stoku-ikinci-ceyrekte-539-milyar-dolara-yukseldi-h35445",
-      "published": "2026-08-20T07:07:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:56.069208+00:00"
-    },
-    {
-      "id": "e28e8dfaf7817176",
-      "source": "Akşam",
-      "title": "Ateşle oynayan Netanyahu'ya açık uyarı: Türkiye İran ve Esed Suriye'si'ne benzemez",
-      "summary": "İşgalci İsrail, Türkiye sınırına 70 kilometre mesafedeki Suriye üssünü hedef alırken, yapılan açıklamada \"Türkiye'nin konuşlanmasını engellemeliydik\" ifadeleriyle doğrudan Ankara hedef gösterildi. Eski İsrail Başbakanı Ehud Barak da Netanyahu yönetiminin Türkiye ile gerilimi tırmandırma hamlelerini \"pervasızca ve aptalca\" olarak nitelendirdi. Türkiye'nin 'ne İran ne de Esed Suriye'si' olduğunun al",
-      "link": "https://www.aksam.com.tr/dunya/atesle-oynayan-netanyahuya-acik-uyari-turkiye-iran-ve-esed-suriyesine-benzemez/haber-1691972",
-      "published": "2026-08-20T07:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:44.805022+00:00"
-    },
-    {
-      "id": "b19c50b2bca387e3",
-      "source": "Aydınlık",
-      "title": "İran Dışişleri Bakanı Erakçi: Trump'ın Ekonomik savaş ilanı ABD'nin kendi krizini örtme çabası",
-      "summary": "Abbas Erakçi, Washington yönetiminin ilan ettiği ezici ekonomik yaptırımların ABD&#039;nin devasa kamu borcu ve faiz maliyetlerinden kaynaklanan iç krizini perdelemeyi amaçladığını söyledi",
-      "link": "https://www.aydinlik.com.tr/haber/iran-disisleri-bakani-erakci-trumpin-ekonomik-savas-ilani-abdnin-kendi-krizini-ortme-cabasi-587232",
-      "published": "2026-08-20T07:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:48.145837+00:00"
-    },
-    {
-      "id": "221d2f298157f829",
-      "source": "Finans Gündem",
-      "title": "İran'dan abluka feryadı",
-      "summary": "İran Merkez Bankası Başkanı Himmeti, ABD ablukası nedeniyle diğer Körfez ülkeleri gibi petrol ihraç edemediklerini ve yaptırımlar nedeniyle yurt dışı finansal kaynaklarına da ulaşamadıklarını söyledi.",
-      "link": "https://www.finansingundemi.com/haber/irandan-abluka-feryadi/1905573",
-      "published": "2026-08-20T07:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:15:58.627507+00:00"
-    },
-    {
-      "id": "aeebb55cfe646865",
-      "source": "Akşam",
-      "title": "Ateşle oynayan Netanyahu'ya açık uyarı: Türkiye İran ve Esed Suriye'si'ne benzemez",
-      "summary": "İşgalci İsrail, Türkiye sınırına 70 kilometre mesafedeki Suriye üssünü hedef alırken, yapılan açıklamada \"Türkiye'nin konuşlanmasını engellemeliydik\" ifadeleriyle doğrudan Ankara hedef gösterildi. Eski İsrail Başbakanı Ehud Barak da Netanyahu yönetiminin Türkiye ile gerilimi tırmandırma hamlelerini \"pervasızca ve aptalca\" olarak nitelendirdi. Türkiye'nin 'ne İran ne de Esed Suriye'si' olduğunun al",
-      "link": "https://www.aksam.com.tr/dunya/israil-icinden-gazze-kasabina-acik-uyari-turkiye-ne-iran-ne-de-esed-suriyesine-benzer/haber-1691972",
-      "published": "2026-08-20T07:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:43.148501+00:00"
-    },
-    {
-      "id": "1c7a3b2383a0adf3",
-      "source": "Akşam",
-      "title": "Kocaeli İzmit'te icradan satılık bağımsız bölüm!",
-      "summary": "Kocaeli İzmit'te bağımsız bölüm icradan satışa sunuluyor...",
-      "link": "https://www.aksam.com.tr/ekonomi/kocaeli-izmitte-icradan-satilik-bagimsiz-bolum/haber-1691971",
-      "published": "2026-08-20T07:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:43.148517+00:00"
-    },
-    {
-      "id": "473e9ae35e67c088",
-      "source": "İklim Haber",
-      "title": "Türkiye’den Yunanistan’ın Ege’deki Enerji Hamlesine Tepki",
-      "summary": "Dışişleri Bakanlığı Sözcüsü Öncü Keçeli, Yunanistan&#8217;ın Ege Denizi&#8217;ni kapsayacak şekilde ilan ettiği &#8220;Yenilenebilir Enerji Kaynakları Özel Mekansal Çerçevesi&#8221; kararına yanıt verdi: &#8220;Aidiyeti uluslararası antlaşmalarla Yunanistan&#8217;a devredilmemiş coğrafi formasyonlar dahil, iki ülke arasındaki birbiriyle bağlantılı Ege sorunları bağlamında ülkemiz açısından herhang",
-      "link": "https://www.iklimhaber.org/turkiyeden-yunanistanin-egedeki-enerji-hamlesine-tepki/",
-      "published": "2026-08-20T07:06:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:11:02.625064+00:00"
-    },
-    {
-      "id": "aaa7955e410268bb",
-      "source": "Yeniçağ",
-      "title": "Sanayi ustaları kendilerine alıyor: İşte en sağlam, sıkıntısız otomatik şanzımanlı arabalar",
-      "summary": "Tüm otomatik şanzımanlar aynı sağlamlık düzeyine sahip değildir; aksine, bazı seriler çok yüksek kilometrelerde dahi hiçbir arıza çıkarmadan yola devam etmeleriyle bilinir. Peki, bu dayanıklı şanzımanlar hangileridir?",
-      "link": "https://www.yenicaggazetesi.com/sanayi-ustalari-kendilerine-aliyor-iste-en-saglam-sikintisiz-otomatik-sanzimanli-arabalar-1063695h.htm",
-      "published": "2026-08-20T07:06:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:10:45.009695+00:00"
-    },
-    {
-      "id": "7372ce78efe6fefc",
-      "source": "Halk TV",
-      "title": "YKS yerleştirme sonuçlarında çarpıcı tablo: 26 üniversitede o bölümü tek bir kişi bile seçmedi",
-      "summary": "YKS yerleştirme sonuçları açıklandı: Devlet üniversitelerinde doluluk yüzde 99.5 görünse de 204 bölüm tamamen boş kaldı. 26 üniversitede Fen Bilgisi Öğretmenliği’ne sıfır çekilirken, mühendisliklerde de kontenjanlar dolmadı. İşte tüm detaylar...",
-      "link": "https://halktv.com.tr/turkiye/yks-yerlestirme-sonuclarinda-carpici-tablo-26-universitede-o-bolumu-tek-bir-kisi-bile-secmedi-1049948h",
-      "published": "2026-08-20T07:05:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T07:05:42.094253+00:00"
     }
   ]
 }

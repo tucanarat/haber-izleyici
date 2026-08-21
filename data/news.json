@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-08-21T03:45:56.423787+00:00",
+  "last_updated": "2026-08-21T03:51:13.179972+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 575,
+  "new_items_this_run": 602,
   "items": [
+    {
+      "id": "7e92da64009b29b7",
+      "source": "Halk TV",
+      "title": "Milli takım şahane başladı: Böyle fark görülmedi!",
+      "summary": "Kadın Milli Takımımız şahane başladı. Maça öyle hızlı girdik ki, böyle fark görülmedi!",
+      "link": "https://halktv.com.tr/spor/milli-takim-sahane-basladi-boyle-fark-gorulmedi-1050129h",
+      "published": "2026-08-21T03:46:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T03:50:56.577376+00:00"
+    },
+    {
+      "id": "5db0f364d5ad0288",
+      "source": "OdaTV",
+      "title": "Ağrı'da bir garip olay: Parkta bulunan engelli genç adına şirket kurulmuş",
+      "summary": "Ağrı&#039;da 2018 yılında kaybolan 28 yaşındaki Muhammed Cengiz, ailesinin 7 yıl süren arayışının ardından İstanbul&#039;da bir parkta bulundu. Baba Seyfettin Cengiz, Muhammed&#039;in kayıp olduğu dönemde adına şirket ve fabrika kayıtları oluşturulduğunu iddia ederek yetkililerden soruşturma talep etti.",
+      "link": "https://www.odatv.com/guncel/agrida-bir-garip-olay-parkta-bulunan-engelli-genc-muhammed-cengiz-adina-sirket-kurulmus-120159512",
+      "published": "2026-08-21T03:45:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T03:50:56.332252+00:00"
+    },
     {
       "id": "6b5ca4842b66d107",
       "source": "Yeni Akit",
@@ -61,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-21T03:40:39.594327+00:00"
+    },
+    {
+      "id": "8f210e6487384d29",
+      "source": "Habertürk",
+      "title": "Çankırı'da 4,2 büyüklüğünde deprem",
+      "summary": "Çankırı'da merkez üssü Ilgaz ilçesi olan saat 05.06'da 4,2 büyüklüğünde deprem meydana geldi",
+      "link": "https://www.haberturk.com/cankiri-da-deprem-3907069",
+      "published": "2026-08-21T03:35:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T03:50:43.496237+00:00"
     },
     {
       "id": "d961e81cbc6462c4",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T20:20:59.980392+00:00"
-    },
-    {
-      "id": "9bd2e0d01baf1f65",
-      "source": "Türkiye Gazetesi",
-      "title": "Rıdvan Yılmaz: \"Bu başlangıç için biz de çok gururluyuz\"",
-      "summary": "UEFA Avrupa Ligi play-off turu ilk maçında sahasında Litvanya temsilcisi Kauno Zalgiris'i 3-0 mağlup eden Beşiktaş'ın sol beki Rıdvan Yılmaz, galibiyetten dolayı çok mutlu olduğunu belirtti.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/ridvan-yilmaz-bu-baslangic-icin-biz-de-cok-gururluyuz-1810587",
-      "published": "2026-08-20T20:18:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:20:43.396965+00:00"
-    },
-    {
-      "id": "751ed51a7ff99dfc",
-      "source": "Cumhuriyet",
-      "title": "YENİ Parti Berlin Birliği için çağrı heyeti görevlendirildi",
-      "summary": "Yeni Parti Genel Merkezi, Berlin’deki örgütlenme çalışmalarını yürütmek ve kuruluş sürecini tamamlamak amacıyla 10 kişilik Çağrı Heyeti görevlendirdi. Çağrı Heyetine iş insanı Remzi Kaplan başkanlık edecek. Heyet, 23 Ağustos’taki ilk toplantıyla Yeni Parti Berlin Birliği’nin kuruluş sürecini başlatacak.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-berlin-birligi-icin-cagri-heyeti-gorevlendirildi-2530918",
-      "published": "2026-08-20T20:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:20:40.994508+00:00"
-    },
-    {
-      "id": "85ccc12a8d2a410b",
-      "source": "Habertürk",
-      "title": "MasterChef kim kazandı?",
-      "summary": "MasterChef Türkiye'de heyecan yeni bölümde oynanan dokunulmazlık oyunuyla devam etti. Yarışmacılar, düello şeklinde gerçekleştirilen oyunda zeytinyağlılar konseptiyle en iyi tabağı hazırlamak için mücadele etti. Şeflerin değerlendirmeleri sonrasında bireysel dokunulmazlığı kazanan isim belli olacak. Peki MasterChef dokunulmazlık oyununu kim kazandı, 20 Ağustos Perşembe MasterChef eleme adayı kim o",
-      "link": "https://www.haberturk.com/masterchef-dokunulmazlik-oyunu-kim-kazandi-20-agustos-persembe-masterchef-eleme-adayi-kim-oldu-3907015",
-      "published": "2026-08-20T20:17:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:35:27.794511+00:00"
     }
   ]
 }

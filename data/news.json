@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-21T02:05:59.064233+00:00",
+  "last_updated": "2026-08-21T02:10:54.872876+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 588,
+  "new_items_this_run": 604,
   "items": [
     {
       "id": "78a8102d285f6a72",
@@ -360,6 +360,28 @@
       "fetched_at": "2026-08-21T02:01:06.327778+00:00"
     },
     {
+      "id": "073e5d71975d7275",
+      "source": "Habertürk",
+      "title": "Arkadaş kavgası cinayetle bitti",
+      "summary": "Kayseri'de bir evde iki arkadaş arasında çıkan tartışma kanlı bitti. Kavgaya dönüşen olayda bıçaklanan ev sahibi hayatını kaybetti. Şüpheli ise polis ekiplerince gözaltına alındı",
+      "link": "https://www.haberturk.com/kayseri-de-iki-arkadasin-kavgasi-cinayetle-bitti-3907066",
+      "published": "2026-08-21T01:58:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T02:10:33.209782+00:00"
+    },
+    {
+      "id": "c2f443cbccd3f48e",
+      "source": "Finans Gündem",
+      "title": "Çin, Güney Kore’yi bloklaşmadan uzak durmaya çağırdı",
+      "summary": "Çin Dışişleri Bakanı Vang Yi, Seul ziyaretinde Güney Kore’ye ABD ile Çin arasındaki rekabette taraf olmama ve dış politikada stratejik özerkliğini koruma çağrısı yaptı",
+      "link": "https://www.finansingundemi.com/haber/cin-guney-koreyi-bloklasmadan-uzak-durmaya-cagirdi/1905658",
+      "published": "2026-08-21T01:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T02:10:49.588653+00:00"
+    },
+    {
       "id": "16a11659a2c96639",
       "source": "OdaTV",
       "title": "Dini toplulukların maddi dönüşümü: Cemaatin mülkü değil mülkün cemaati",
@@ -369,6 +391,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-21T01:55:35.750935+00:00"
+    },
+    {
+      "id": "719c0420afa3b876",
+      "source": "Habertürk",
+      "title": "Ankara'da fuhuş operasyonu: 12 tutuklama",
+      "summary": "Ankara'da yapılan fuhuş operasyonunda gözaltı kararı verilen 18 şüpheliden 12'si tutuklandı",
+      "link": "https://www.haberturk.com/ankara-da-fuhus-operasyonu-12-tutuklama-3907065",
+      "published": "2026-08-21T01:50:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T02:10:33.209803+00:00"
     },
     {
       "id": "37c240c03fa9ebf5",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T19:55:31.631515+00:00"
-    },
-    {
-      "id": "5e9ec8d99a9f386f",
-      "source": "Habertürk",
-      "title": "Kuyuda göçük: Baba oğul kurtarıldı",
-      "summary": "Bartın’ın Kozcağız beldesinde su kuyusu açmak için çalışma yapan baba ve oğlu, meydana gelen göçükte toprak altında kaldı. Ekiplerin yaklaşık 2 saat süren çalışması sonucu kurtarılan Mustafa ve İzzet İnan’ın sağlık durumlarının iyi olduğu öğrenildi",
-      "link": "https://www.haberturk.com/bartinda-su-kuyusu-kazarken-toprak-altinda-kalan-iki-kisi-kurtarildi-3907034",
-      "published": "2026-08-20T19:50:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T19:55:28.559803+00:00"
-    },
-    {
-      "id": "762768a52e1ac56a",
-      "source": "DonanımHaber",
-      "title": "Mantarlar, Mars'ın verimsiz toprağını geleceğin tarlalarına dönüştürebilir",
-      "summary": "Mars'ta tarım yapmak kulağa bilim kurgu gibi gelebilir ancak bilim insanları bunun için şaşırtıcı bir çözüm bulmuş olabilir: Mantarlar! Araştırmada ortaya koyulan ihtimaller dikkat çekici.",
-      "link": "https://www.donanimhaber.com/mars-ta-tarimin-anahtari-mantarlar-olabilir--209549",
-      "published": "2026-08-20T19:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T19:51:01.743788+00:00"
-    },
-    {
-      "id": "65d39d5903cafa1d",
-      "source": "Euronews Türkçe",
-      "title": "Finlandiya'da çocuklarını IŞİD kontrolündeki bölgeye götüren anneye dava açıldı",
-      "summary": "Polisin ön soruşturmasına göre, şu anda Finlandiya'da yaşayan ve 40'lı yaşlarında olan bir kadın, çocuklarını 2014'te IŞİD kontrolündeki Suriye topraklarına götürdü.",
-      "link": "http://tr.euronews.com/my-europe/2026/08/20/finlandiyada-cocuklarini-isid-kontrolundeki-bolgeye-goturen-anneye-dava-acildi",
-      "published": "2026-08-20T19:49:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:01:25.730575+00:00"
     }
   ]
 }

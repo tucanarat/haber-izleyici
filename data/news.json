@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-21T01:31:07.692510+00:00",
+  "last_updated": "2026-08-21T01:36:10.484917+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 609,
+  "new_items_this_run": 608,
   "items": [
+    {
+      "id": "37c240c03fa9ebf5",
+      "source": "Halk TV",
+      "title": "Ankara'da günübirlik evlerde fuhuş denetimi: 12 tutuklama",
+      "summary": "Ankara&#039;da düzenlenen fuhuş operasyonunda gözaltına alınan 18 kişiden 12&#039;si tutuklandı, 2 kişi hakkında ev hapsi kararı uygulandı.",
+      "link": "https://halktv.com.tr/turkiye/ankarada-gunubirlik-evlerde-fuhus-denetimi-12-tutuklama-1050125h",
+      "published": "2026-08-21T01:34:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T01:35:56.460300+00:00"
+    },
     {
       "id": "910c970876f8511e",
       "source": "Anadolu Ajansı (Güncel)",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T19:45:39.027979+00:00"
-    },
-    {
-      "id": "2f5f540e9a975bc3",
-      "source": "Türkiye Gazetesi",
-      "title": "Galatasaray, Batrakov'un maliyetini açıkladı",
-      "summary": "Galatasaray, 5 yıllık sözleşme imzaladığı Rus futbolcu Aleksey Batrakov'un maliyetini KAP'a bildirdi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/galatasaray-batrakovun-maliyetini-acikladi-1810578",
-      "published": "2026-08-20T19:34:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T19:40:44.198628+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-21T23:51:01.239554+00:00",
+  "last_updated": "2026-08-21T23:56:06.477281+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 572,
+  "new_items_this_run": 571,
   "items": [
+    {
+      "id": "7ac314c7a0a6b39a",
+      "source": "OdaTV",
+      "title": "12 Dev Adam son topta kaybetti",
+      "summary": "A Milli Erkek Basketbol Takımı, DBB SuperCup yarı finalinde Hırvatistan’a 95-94 mağlup oldu. Mario Hezonja, son hücumda kaydettiği üçlükle Hırvatistan’a galibiyeti getirdi.",
+      "link": "https://www.odatv.com/spor/12-dev-adam-son-topta-kaybetti-120159630",
+      "published": "2026-08-21T23:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T23:55:48.180385+00:00"
+    },
     {
       "id": "b2ed0ca65e3e0cb5",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-21T18:45:52.455270+00:00"
-    },
-    {
-      "id": "795adad57860e377",
-      "source": "CNBC-e",
-      "title": "Trump kıyma fiyatları için düğmeye bastı: 300 bin tonluk ithalat kararı",
-      "summary": "ABD Başkanı Donald Trump, kıyma fiyatlarını düşürmek için 90 gün boyunca 300 bin tona kadar sığır etinin gümrük vergisiz ithal edilmesine izin verileceğini açıkladı. Trump, ithal etin piyasa fiyatının yüzde 25 altında satılacağını belirtti.",
-      "link": "https://www.cnbce.com/haberler/trump-kiyma-fiyatlari-icin-dugmeye-basti-300-bin-tonluk-ithalat-karari-h35584",
-      "published": "2026-08-21T18:39:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-21T18:40:47.041001+00:00"
     }
   ]
 }

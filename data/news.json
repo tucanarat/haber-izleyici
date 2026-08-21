@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T03:31:22.987418+00:00",
+  "last_updated": "2026-08-21T03:36:05.127425+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 602,
   "items": [
+    {
+      "id": "62f174a8e03c5a71",
+      "source": "Star",
+      "title": "Çankırı'da deprem",
+      "summary": "Çankırı'nın Ilgaz ilçesinde saat 05.06'da 4,2 büyüklüğünde deprem meydana geldi.",
+      "link": "https://www.star.com.tr/guncel/cankirida-deprem-haber-2035111/",
+      "published": "2026-08-21T03:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T03:35:41.192173+00:00"
+    },
+    {
+      "id": "3aa6ed082a78b7b9",
+      "source": "Yeni Akit",
+      "title": "Pakistan'dan ABD'ye Keşmir resti! Maslahatgüzarı bakanlığa çağırdı",
+      "summary": "ABD’nin Hindistan Büyükelçisi’nin Jammu ve Keşmir’i “Hindistan’ın bir parçası” olarak nitelendirmesi Pakistan’ı ayağa kaldırdı. İslamabad yönetimi, ABD maslahatgüzarını Dışişleri Bakanlığına çağırarak diplomatik nota verdi. Pakistan, Keşmir’in uluslararası alanda tanınmış bir ihtilaf bölgesi olduğunu vurguladı.",
+      "link": "https://www.yeniakit.com.tr/haber/pakistandan-abdye-kesmir-resti-maslahatguzari-bakanliga-cagirdi-2018595.html",
+      "published": "2026-08-21T03:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T03:35:41.622301+00:00"
+    },
     {
       "id": "b2f41b99af6b3023",
       "source": "ShiftDelete.Net",
@@ -28,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-21T03:31:22.199486+00:00"
+    },
+    {
+      "id": "b700194568841ff9",
+      "source": "Habertürk",
+      "title": "Emekliye ÖTV'siz araç listesi",
+      "summary": "Emekliye ÖTV'siz araç düzenlemesi, otomobil sahibi olmak isteyenlerin gündemindeki yerini koruyor. TBMM'ye sunulan kanun teklifinin kapsamı ve hangi emeklilerin bu haktan yararlanabileceği merak ediliyor. Düzenlemenin yasalaşıp yasalaşmadığına ilişkin araştırmalar da son günlerde hız kazandı. Emekliler, ÖTV ödemeden araç satın alma imkanının ne zaman başlayacağını öğrenmek istiyor. Peki emekliye Ö",
+      "link": "https://www.haberturk.com/emekliye-otv-siz-arac-son-dakika-emeklilere-otv-siz-arac-sartlari-neler-meclis-te-kabul-edildi-mi-3906779",
+      "published": "2026-08-21T03:26:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T03:35:32.057495+00:00"
     },
     {
       "id": "8b9369a043645760",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T20:15:50.690803+00:00"
-    },
-    {
-      "id": "5b7892dbd6792e6f",
-      "source": "Gazete Pencere",
-      "title": "Akademisyen Prof. Dr. Gülten Kazgan yaşamını yitirdi",
-      "summary": "İstanbul Üniversitesi İktisat Fakültesi'nin duayen akademisyenlerinden Prof. Dr. Gülten Kazgan 99 yaşında hayatını kaybetti.",
-      "link": "https://www.gazetepencere.com/gundem/akademisyen-prof-dr-gulten-kazgan-yasamini-yitirdi-712608h",
-      "published": "2026-08-20T20:10:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:10:42.575758+00:00"
-    },
-    {
-      "id": "3beff92ee4bfc333",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Gazze'de İsrail saldırıları sonucu yaralanan bir çocuk yaşamını yitirdi",
-      "summary": "İsrail'in ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda yaralanan bir çocuğun hayatını kaybettiği belirtildi.",
-      "link": "https://www.aa.com.tr/tr/dunya/gazzede-israil-saldirilari-sonucu-yaralanan-bir-cocuk-yasamini-yitirdi/4033320",
-      "published": "2026-08-20T20:10:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:15:39.127061+00:00"
-    },
-    {
-      "id": "4e87c1a725f996e0",
-      "source": "Akşam",
-      "title": "Kocaeli'nde panik anları: İtfaiyeciler alevlerle boğuşurken patlama yaşandı",
-      "summary": "Kocaeli'nin Darıca ilçesinde 4 katlı binada çıkan yangına müdahale esnasında yaşanan patlama paniğe neden oldu.",
-      "link": "https://www.aksam.com.tr/yasam/kocaelinde-panik-anlari-itfaiyeciler-alevlerle-bogusurken-patlama-yasandi/haber-1692166",
-      "published": "2026-08-20T20:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:10:39.482231+00:00"
     }
   ]
 }

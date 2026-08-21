@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-21T03:51:13.179972+00:00",
+  "last_updated": "2026-08-21T03:55:50.876865+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 602,
+  "new_items_this_run": 600,
   "items": [
+    {
+      "id": "06363646459c0c81",
+      "source": "Halk TV",
+      "title": "Kendi evinde bıçaklanarak öldürüldü",
+      "summary": "Kayseri&#039;nin Kocasinan ilçesinde bir apartman dairesinde çıkan bıçaklı kavgada ev sahibi 59 yaşındaki H.K. hayatını kaybetti. Olayla ilgili iki kişi gözaltına alındı.",
+      "link": "https://halktv.com.tr/turkiye/kendi-evinde-bicaklanarak-olduruldu-1050130h",
+      "published": "2026-08-21T03:53:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T03:55:34.426299+00:00"
+    },
     {
       "id": "7e92da64009b29b7",
       "source": "Halk TV",
@@ -3231,6 +3242,17 @@
       "fetched_at": "2026-08-20T21:40:43.152987+00:00"
     },
     {
+      "id": "85ccc12a8d2a410b",
+      "source": "Habertürk",
+      "title": "MasterChef kim kazandı?",
+      "summary": "MasterChef Türkiye'de heyecan yeni bölümde oynanan dokunulmazlık oyunuyla devam etti. Yarışmacılar, düello şeklinde gerçekleştirilen oyunda zeytinyağlılar konseptiyle en iyi tabağı hazırlamak için mücadele etti. Şeflerin değerlendirmeleri sonrasında bireysel dokunulmazlığı kazanan isim belli olacak. Peki MasterChef dokunulmazlık oyununu kim kazandı, 20 Ağustos Perşembe MasterChef eleme adayı kim o",
+      "link": "https://www.haberturk.com/masterchef-dokunulmazlik-oyunu-kim-kazandi-20-agustos-persembe-masterchef-eleme-adayi-kim-oldu-3907015",
+      "published": "2026-08-20T21:38:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-21T03:55:24.971476+00:00"
+    },
+    {
       "id": "4ea6cac8c788706a",
       "source": "Star",
       "title": "Batrakov: Galatasaray'a kupalar kazandırmak istiyorum",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-20T20:20:53.554627+00:00"
-    },
-    {
-      "id": "54b9a9c714712e2e",
-      "source": "Karar",
-      "title": "Android'i bırakıp iPhone'a geçme nedeni donanım değil tamamen yazılım",
-      "summary": "Pazar araştırma şirketi CIRP verileri, Android işletim sisteminden iPhone ekosistemine geçen kullanıcıların son model cihazlar yerine uygun fiyatlı ve eski nesil telefonlara yöneldiğini ortaya koydu. Yeni iPhone alıcılarının yüzde 12'sini oluşturan bu kitle, üst segment donanımlar yerine bütçe dostu seçenekleri ve iOS servislerini seçiyor.",
-      "link": "https://www.karar.com/teknoloji-haberleri/androidden-iphonea-gecenler-hangi-modeli-aliyor-butce-dostu-2066965",
-      "published": "2026-08-20T20:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:20:49.399751+00:00"
-    },
-    {
-      "id": "6e7a7448a907f5f9",
-      "source": "Ekonomim",
-      "title": "Prof. Dr. Gülten Kazgan hayatını kaybetti",
-      "summary": "İktisatçı ve yazar Prof. Dr. Gülten Kazgan 99 yaşında hayatını kaybetti.",
-      "link": "https://www.ekonomim.com/gundem/prof-dr-gulten-kazgan-hayatini-kaybetti-haberi-913365",
-      "published": "2026-08-20T20:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-20T20:20:59.980392+00:00"
     }
   ]
 }

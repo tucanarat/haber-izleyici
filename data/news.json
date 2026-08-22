@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-22T23:51:11.454831+00:00",
+  "last_updated": "2026-08-22T23:55:54.274372+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 622,
+  "new_items_this_run": 628,
   "items": [
+    {
+      "id": "f8e17d803ae49776",
+      "source": "Halk TV",
+      "title": "Son Dakika | Ege Denizi'nde deprem",
+      "summary": "Son dakika haberi... Ege Denizi&#039;nde On İki Adalar açıklarında 3.5 büyüklüğünde deprem meydana geldi.",
+      "link": "https://halktv.com.tr/turkiye/son-dakika-ege-denizinde-deprem-1050492h",
+      "published": "2026-08-22T23:54:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-22T23:55:40.347028+00:00"
+    },
     {
       "id": "3976fd558186aa43",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-22T19:25:34.418983+00:00"
-    },
-    {
-      "id": "d0c2470938e17d5a",
-      "source": "Halk TV",
-      "title": "Son Dakika | Kuytulcular operasyonunda yeni gelişme: 44 tutuklama talebi",
-      "summary": "Son dakika haberi... Furkan Vakfı&#039;na yönelik düzenlenen operasyonda, aralarında Alparslan Kuytul&#039;un da bulunduğu 56 kişi adliyeye sevk edilmişti. Savcılık ifadeleri tamamlanan şüphelilerden 44&#039;ü hakkında tutuklama talep edildi.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-kuytulcular-operasyonunda-yeni-gelisme-44-tutuklama-talebi-1050468h",
-      "published": "2026-08-22T19:22:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-22T19:25:36.744905+00:00"
     }
   ]
 }

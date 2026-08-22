@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-22T00:05:56.044821+00:00",
+  "last_updated": "2026-08-22T00:10:59.749441+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 574,
+  "new_items_this_run": 573,
   "items": [
+    {
+      "id": "fde1166e06225efd",
+      "source": "Finans Gündem",
+      "title": "Trump'a göre İran, ABD ile \"doğru anlaşmayı\" yapmaya hazır değil",
+      "summary": "ABD Başkanı Donald Trump, İran'a karşı askeri seçeneklerin halen masada olduğunu belirterek, \"İranlılar bir anlaşma yapmak istiyorlar, ancak doğru anlaşmayı yapmaya hazır değiller.\" ifadesini kullandı.",
+      "link": "https://www.finansingundemi.com/haber/trumpa-gore-iran-abd-ile-dogru-anlasmayi-yapmaya-hazir-degil/1905768",
+      "published": "2026-08-22T00:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-22T00:10:54.625676+00:00"
+    },
     {
       "id": "95734a75f7591f4a",
       "source": "Evrensel",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-21T18:45:56.857803+00:00"
-    },
-    {
-      "id": "64e8de5c7b2ded45",
-      "source": "Bianet",
-      "title": "Ankara/Çayırhan: Maden göçtü, 1 ölüm 4'ü ağır 12 yaralanma bildirildi",
-      "summary": "Ankara'daki Çayırhan Enerji İşletmesi sahasında meydana gelen maden kazasında işçi Erdi Kahveci öldü, 4'ü ağır, 12 işçi yaralandı. İlk belirlemelere göre ölüm ve yaralanmalara \"tavan çökmesinin oluşturduğu basınç nedeniyle işçilerin savrulması\" yol açtı.",
-      "link": "https://bianet.org/haber/ankara-cayirhan-maden-goctu-1-olum-4-u-agir-12-yaralanma-bildirildi-322716",
-      "published": "2026-08-21T18:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-21T22:10:52.343535+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-23T23:21:01.171829+00:00",
+  "last_updated": "2026-08-23T23:26:01.374156+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 627,
+  "new_items_this_run": 622,
   "items": [
+    {
+      "id": "e0d2fc08ae72f8d4",
+      "source": "Yeniçağ",
+      "title": "Sivas'ta korkutan kaza: Yolcu otobüsüyle otomobil çarpıştı",
+      "summary": "Sivas’ta yolcu otobüsü ile otomobilin karıştığı trafik kazasında 2 kişi hafif yaralandı.",
+      "link": "https://www.yenicaggazetesi.com/sivasta-korkutan-kaza-yolcu-otobusuyle-otomobil-carpisti-1064849h.htm",
+      "published": "2026-08-23T23:22:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-23T23:25:42.665842+00:00"
+    },
     {
       "id": "758f91c5fb7cae8a",
       "source": "Yeniçağ",
@@ -17,6 +28,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-23T23:20:46.270117+00:00"
+    },
+    {
+      "id": "8a346469aae6ab59",
+      "source": "Türkiye Gazetesi",
+      "title": "Putin fitili ateşledi: Bunu siz istediniz",
+      "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna’nın ülkesinin ekonomik ve endüstriyel bölgelerine yönelik saldırılarına sert tepki gösterdi. Putin “Kiev rejimi bu saldırılarla ekonomimize zarar vermeyi amaçladı. Ancak bunu yaparak Pandora’nın kutusunu kendi elleriyle açtı” ifadelerini kullandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/rus-lider-pandoranin-kutusu-acildi-putin-fitili-atesledi-bunu-siz-istediniz-1811191",
+      "published": "2026-08-23T23:19:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-23T23:25:36.586454+00:00"
+    },
+    {
+      "id": "8a346469aae6ab59",
+      "source": "Türkiye Gazetesi",
+      "title": "Putin fitili ateşledi: Bunu siz istediniz",
+      "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna’nın ülkesinin ekonomik ve endüstriyel bölgelerine yönelik saldırılarına sert tepki gösterdi. Putin “Kiev rejimi bu saldırılarla ekonomimize zarar vermeyi amaçladı. Ancak bunu yaparak Pandora’nın kutusunu kendi elleriyle açtı” ifadelerini kullandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/rus-lider-pandoranin-kutusu-acildi-putin-fitili-atesledi-bunu-siz-istediniz-1811191",
+      "published": "2026-08-23T23:19:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-23T23:25:36.586482+00:00"
     },
     {
       "id": "c28de95333acb858",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-23T19:01:02.830982+00:00"
-    },
-    {
-      "id": "b9617f23123eb388",
-      "source": "Halk TV",
-      "title": "Son Dakika | Ankara'da orman yangını: Yerleşim yerlerine yakın noktada yükselen alevler gökyüzünü kapladı",
-      "summary": "Son dakika haberi... Ankara&#039;nın Mamak ilçesinde orman yangını çıktı. Gökyüzünü aydınlatan alevleri kontrol altına almak için ekiplerin müdahalesi sürüyor.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-ankarada-orman-yangini-yerlesim-yerlerine-yakin-noktada-yukselen-alevler-gokyuzunu-kapladi-1050601h",
-      "published": "2026-08-23T18:53:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T18:55:39.971807+00:00"
-    },
-    {
-      "id": "a416e121c447b44e",
-      "source": "Türkiye Gazetesi",
-      "title": "1 hafta vadeli repo ihaleleri geri dönüyor",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası, 1 Mart 2026’da ara verdiği bir hafta vadeli repo ihalelerine yeniden başlama kararı aldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/6-ay-once-durdurulmustu-merkez-bankasi-duyurdu-1-hafta-vadeli-repo-ihaleleri-donuyor-1811149",
-      "published": "2026-08-23T18:53:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T19:00:57.682504+00:00"
-    },
-    {
-      "id": "fa8cf83add0eb297",
-      "source": "Türkiye Gazetesi",
-      "title": "REPO İHALELERİ YENİDEN DEVREDE",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası, 1 Mart 2026’da ara verdiği bir hafta vadeli repo ihalelerine yeniden başlama kararı aldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/6-ay-once-durdurulmustu-merkez-bankasi-duyurdu-1-hafta-vadeli-repo-ihaleleri-donuyor-1811149",
-      "published": "2026-08-23T18:53:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T19:00:57.682536+00:00"
     }
   ]
 }

@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-08-23T22:16:06.123171+00:00",
+  "last_updated": "2026-08-23T22:21:04.516089+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 604,
+  "new_items_this_run": 600,
   "items": [
+    {
+      "id": "638ed8d4a0dd25df",
+      "source": "Halk TV",
+      "title": "Diyarbakır'da plaza yangını: 3'ü itfaiye eri 5 kişi dumandan etkilendi",
+      "summary": "Diyarbakır&#039;da bir plazanın dış cephesinde çıkan yangın, üst katlar ve çatıya sıçradı. Yangında 3&#039;ü itfaiye eri olmak üzere 5 kişi dumandan etkilendi. Vali, yangının büyük oranda kontrol altına alındığını ve soğutma çalışmalarının sürdüğünü açıkladı.",
+      "link": "https://halktv.com.tr/turkiye/diyarbakirda-plaza-yangini-3u-itfaiye-eri-5-kisi-dumandan-etkilendi-1050615h",
+      "published": "2026-08-23T22:19:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-23T22:20:48.049240+00:00"
+    },
+    {
+      "id": "a357917fd5ebf362",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Diyarbakır'da bir plazada yangın çıktı",
+      "summary": "Diyarbakır'ın merkez Kayapınar ilçesinde bir plazada çıkan yangında 3'ü itfaiye eri 5 kişi dumandan etkilendi.",
+      "link": "https://www.aa.com.tr/tr/gundem/diyarbakirda-bir-plazada-yangin-cikti/4035369",
+      "published": "2026-08-23T22:17:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-23T22:20:36.885253+00:00"
+    },
+    {
+      "id": "e47d70deb983a181",
+      "source": "Gazete Pencere",
+      "title": "İş Bankası emeklilere yönelik Ağustos özel promosyonunu açıkladı",
+      "summary": "İş Bankası, Eylül ayı öncesinde emekli maaşını bankaya taşıyan veya maaşını halihazırda İş Bankası’ndan alan SGK emeklileri için yeni promosyon tutarlarını duyurdu.",
+      "link": "https://www.gazetepencere.com/gozden-kacmasin/is-bankasi-emeklilere-yonelik-agustos-ozel-promosyonunu-acikladi-712879h",
+      "published": "2026-08-23T22:16:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-23T22:20:47.365619+00:00"
+    },
     {
       "id": "738c4a6cb47cdee4",
       "source": "Yeniçağ",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-23T18:25:35.131545+00:00"
-    },
-    {
-      "id": "23dbe51e248875b5",
-      "source": "Türkiye Gazetesi",
-      "title": "Savunma sanayii için dikkat çeken sözler! \"Lüksümüz yok...\"",
-      "summary": "TEKNOFEST Mavi Vatan’ın kapanışında konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, savunma sanayiinin Türkiye’nin güvenliği ve bağımsız dış politikası açısından taşıdığı öneme dikkat çekti. Yılmaz, \"Hiç kimsenin merhametine güvenebileceğimiz bir dönemde değiliz. Böyle bir lüksümüz yok. Güçlü olmak zorundayız ama hem güçlü hem haklı olarak yolumuza devam edeceğiz\" ifadelerini kullandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/kimsenin-merhametine-guvenecek-donemde-degiliz-teknofestte-cevdet-yilmazin-sozleri-gu-1811146",
-      "published": "2026-08-23T18:17:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T18:20:44.437380+00:00"
-    },
-    {
-      "id": "e0a8786ddc72dc9b",
-      "source": "Akşam",
-      "title": "Slovenya'yı devirdik! Filenin Sultanları tam gaz...",
-      "summary": "CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası'nda Filenin Sultanları Slovenya'ya karşı 3-1'lik galibiyet elde etti ve turnuvada ikide iki yapmayı başardı.",
-      "link": "https://www.aksam.com.tr/spor/slovenyayi-devirdik-filenin-sultanlari-tam-gaz/haber-1692788",
-      "published": "2026-08-23T18:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T18:20:47.044018+00:00"
-    },
-    {
-      "id": "39c28fa8858dc744",
-      "source": "Habertürk",
-      "title": "Üniversite kayıt tarihleri",
-      "summary": "YKS yerleştirme sonuçlarının açıklanmasının ardından üniversite kayıtları için heyecanlı bekleyiş sona eriyor. Bir yükseköğretim programına yerleşen yüz binlerce aday, kayıt işlemlerinin nasıl yapılacağını araştırmaya başladı. Üniversite kayıtları hem elektronik ortamda hem de üniversitelerde yüz yüze gerçekleştirilecek. Adayların kayıt sürecinde istenen belgeleri hazırlayarak belirlenen tarihler ",
-      "link": "https://www.haberturk.com/universite-kayit-tarihleri-2026-2027-universite-kayitlari-basladi-mi-ne-zaman-basliyor-kayit-icin-gerekli-olan-belgeler-neler-3907570",
-      "published": "2026-08-23T18:16:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T18:25:29.464372+00:00"
     }
   ]
 }

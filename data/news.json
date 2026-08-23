@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-23T23:41:00.884651+00:00",
+  "last_updated": "2026-08-23T23:45:58.388799+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 626,
+  "new_items_this_run": 622,
   "items": [
+    {
+      "id": "a1d09eb6e76db0de",
+      "source": "Karar",
+      "title": "Telif davaları engel getirdi: ChatGPT bir gecede en sevilen özelliğini kapattı",
+      "summary": "Yapay zeka şirketi OpenAI, artan telif davaları ve hukuki baskılar nedeniyle ChatGPT'nin ünlü yazarların üslubunu doğrudan kopyalamasına yasak getirdi. Sistem artık Stephen King veya J.K. Rowling gibi isimlerin kalemini taklit etmek yerine, yalnızca edebi atmosferden beslenen özgün metinler oluşturuyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/yapay-zeka-yazarlari-taklit-edebilir-mi-chatgpt-roman-yazabilir-mi-2067492",
+      "published": "2026-08-23T23:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-23T23:45:42.010484+00:00"
+    },
     {
       "id": "8968a40138905011",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-23T19:10:35.167627+00:00"
-    },
-    {
-      "id": "c78c11b2f046ff43",
-      "source": "Akşam",
-      "title": "Beşiktaş'tan paylaşım: 2026/2027 sezonu başladı!",
-      "summary": "Süper Lig'de Beşiktaş, deplasmanda Alanyaspor ile karşı karşıya geldi. Siyah beyazlı kulüp, maçta yaşanan bir pozisyona tepki gösterdi.",
-      "link": "https://www.aksam.com.tr/spor/besiktastan-paylasim-20262027-sezonu-basladi/haber-1692793",
-      "published": "2026-08-23T18:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T19:00:59.635799+00:00"
     }
   ]
 }

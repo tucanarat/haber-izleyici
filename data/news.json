@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-08-24T19:05:59.988666+00:00",
+  "last_updated": "2026-08-24T19:11:08.376047+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 590,
+  "new_items_this_run": 587,
   "items": [
+    {
+      "id": "69d21291306c402c",
+      "source": "DonanımHaber",
+      "title": "İran bağlantılı hackerlar İngiltere’deki elektrik santralini devre dışı bıraktı",
+      "summary": "İran bağlantılı hackerlar, İngiltere’deki küçük bir elektrik santralini siber saldırıyla dört gün devre dışı bıraktı. Hükümet, ülkenin enerji sisteminin risk altında olmadığını açıkladı.",
+      "link": "https://www.donanimhaber.com/iranli-hackerlar-ingiltere-deki-elektrik-santraline-saldirdi--209684",
+      "published": "2026-08-24T19:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T19:11:05.304336+00:00"
+    },
+    {
+      "id": "e91a60445b57df3a",
+      "source": "Yeni Şafak",
+      "title": "Antalya'da klimadan çıkan yangında daire kullanılamaz hale geldi",
+      "summary": "Antalya Konyaaltı'nda bir apartmanın 3'üncü katında klimadan çıkan yangında ev kullanılamaz hale gelirken, dairede kimsenin olmaması sayesinde can kaybı yaşanmadı.",
+      "link": "https://www.yenisafak.com/gundem/antalyada-klimadan-cikan-yanginda-daire-kullanilamaz-hale-geldi-4850591",
+      "published": "2026-08-24T19:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T19:10:46.100753+00:00"
+    },
+    {
+      "id": "42881fc2dcd03074",
+      "source": "Star",
+      "title": "Cumhurbaşkanı Erdoğan'dan Mevlid Kandili mesajı",
+      "summary": "Cumhurbaşkanı Erdoğan, Mevlid Kandili'ni tebrik etti.",
+      "link": "https://www.star.com.tr/guncel/cumhurbaskani-erdogandan-mevlid-kandili-mesaji-haber-2035783/",
+      "published": "2026-08-24T19:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T19:10:46.546016+00:00"
+    },
+    {
+      "id": "aa2524e41524a2f1",
+      "source": "Cumhuriyet",
+      "title": "Netanyahu: 'İran oğullarımdan birine suikast girişiminde bulundu'",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu, İran’ın oğullarından birine suikast girişiminde bulunduğunu öne sürdü.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/netanyahu-iran-ogullarimdan-birine-suikast-girisiminde-bulundu-2532042",
+      "published": "2026-08-24T19:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T19:10:38.281985+00:00"
+    },
     {
       "id": "6fe4f91a7d36c34c",
       "source": "Halk TV",
@@ -28,6 +72,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T19:05:41.861177+00:00"
+    },
+    {
+      "id": "96f7934a8edb6e6b",
+      "source": "Türkiye Gazetesi",
+      "title": "Tedesco'nun Bologna'sı sezona kötü başladı",
+      "summary": "İtalya Serie A'nın ilk hafta maçında Domenico Tedesco yönetimindeki Bologna, konuk ettiği Lazio'ya 1-0 yenildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/tedesconun-bolognasi-sezona-kotu-basladi-1811354",
+      "published": "2026-08-24T19:04:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T19:10:40.715873+00:00"
     },
     {
       "id": "d2b9098ab18e14b1",
@@ -534,6 +589,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T18:45:41.604089+00:00"
+    },
+    {
+      "id": "f07f78ff57954d11",
+      "source": "Bianet",
+      "title": "Takip ve Deöerlendirme Kurulu 4 alt komisyon kurdu: Öcalan'a görevlendirme yolu açıldı",
+      "summary": "Milli Dayanışma ve Bütünleşme Koordinasyon Kurulu'nun ilk toplantısında kurduğu 4 alt komisyondan “Silahsızlanma ve Stratejik Koordinasyon Alt Komisyonu”nda resmen bildirilmemekle birlikte Abdullah Öcalan’ın görevlendirileceğine kesin gözüyle bakılıyor.",
+      "link": "https://bianet.org/haber/takip-ve-deoerlendirme-kurulu-4-alt-komisyon-kurdu-ocalan-a-gorevlendirme-yolu-acildi-322765",
+      "published": "2026-08-24T18:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T19:10:50.967368+00:00"
+    },
+    {
+      "id": "aa368447c1e413bd",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Mevlit Kandili dualarla idrak edildi",
+      "summary": "Türkiye genelinde vatandaşlar, Mevlit Kandili dolayısıyla birçok camide namaz kılıp dua etti.",
+      "link": "https://www.aa.com.tr/tr/gundem/mevlit-kandili-dualarla-idrak-edildi/4036244",
+      "published": "2026-08-24T18:41:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T19:10:37.805604+00:00"
     },
     {
       "id": "9b61e5afd8cbb446",
@@ -5429,83 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T15:40:44.222128+00:00"
-    },
-    {
-      "id": "a7d9daa4b8b811f7",
-      "source": "Finans Gündem",
-      "title": "Kuşadası'nda uyuşturucu operasyonu: 4 kişi tutuklandı",
-      "summary": "Aydın'ın Kuşadası ilçesinde düzenlenen uyuşturucu operasyonunda gözaltına alınan 12 şüpheliden 4'ü tutuklandı.",
-      "link": "https://www.finansingundemi.com/haber/kusadasinda-uyusturucu-operasyonu-4-kisi-tutuklandi/1905998",
-      "published": "2026-08-24T15:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T15:45:57.526128+00:00"
-    },
-    {
-      "id": "35a4fedeb3844ad9",
-      "source": "Millî Gazete",
-      "title": "ATM'lerde 10, 20 ve 50 TL Kalktı mı? Hangi Banknotlarla Para Çekilebiliyor?",
-      "summary": "Bankaların ATM'lerdeki sınırlı nakit kapasitesini daha verimli kullanmak amacıyla 100 ve 200 TL gibi yüksek kupürlü banknotlara ağırlık vermesi, özellikle 10, 20 ve 50 TL'lik banknotların gerektiği bazı para çekme işlemlerinin gerçekleştirilememesine yol açabiliyor. Ancak uygulamanın ATM'nin banknot stokuna ve bankanın tercihine göre değişebileceği belirtiliyor.",
-      "link": "https://www.milligazete.com.tr/atmlerde-10-20-ve-50-tl-kalkti-mi-hangi-banknotlarla-para-cekilebiliyor",
-      "published": "2026-08-24T15:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T15:40:45.295950+00:00"
-    },
-    {
-      "id": "cb24dc3bda6420e5",
-      "source": "Gazete Pencere",
-      "title": "Kademeli emeklilikte beklenen haber geldi: Dosya artık Erdoğan'ın önünde",
-      "summary": "Emeklilikte Adalet Derneği Başkanı Mihriban Uğurlu, Çalışma ve Sosyal Güvenlik Bakan Yardımcısı Ahmet Aydın ile görüştü. Kademeli emeklilik sorunundan Cumhurbaşkanı Erdoğan'ın haberinin olduğunu belirten Uğurlu, “Konu artık Cumhurbaşkanının önünde” dedi.",
-      "link": "https://www.gazetepencere.com/ekonomi/kademeli-emeklilikte-beklenen-haber-geldi-dosya-artik-erdoganin-onunde-713004h",
-      "published": "2026-08-24T15:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T15:40:45.522873+00:00"
-    },
-    {
-      "id": "224af60e8a629a0a",
-      "source": "Habertürk",
-      "title": "Mevlid Kandili’nde neler yapılır?",
-      "summary": "Peygamber Efendimiz Hz. Muhammed’in (s.a.v) dünyaya teşrif ettiği gece olarak kabul edilen Mevlid Kandili geldi çattı. Hicri takvime göre Rebiülevvel ayının 12. gününe denk gelen bu mübarek gece, 24 Ağustos Pazartesi günü idrak ediliyor. Mevlid Kandili’nin manevi atmosferini yaşamak ve bu özel geceyi ibadetlerle geçirmek isteyenler, “Mevlid Kandili gecesi yapılacaklar nelerdir?” sorusunun yanıtını",
-      "link": "https://www.haberturk.com/mevlid-kandilinde-ne-yapilir-2026-mevlid-kandili-gecesi-yapilacaklar-nelerdir-mevlid-kandili-gecesi-yapilmasi-gerekenler-3907669",
-      "published": "2026-08-24T15:35:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T15:50:39.260919+00:00"
-    },
-    {
-      "id": "09f01090accf43eb",
-      "source": "Millî Gazete",
-      "title": "Dünyanın en uzun ömürlü otomobilleri açıklandı! TOGG sürprizi",
-      "summary": "Küresel otomotiv dünyasında elektrikli araçların uzun vadeli kullanım performansına dair yapılan son araştırma, motor teknolojisi ve termal yönetimin önemini gözler önüne serdi.",
-      "link": "https://www.milligazete.com.tr/dunyanin-en-uzun-omurlu-otomobilleri-aciklandi-togg-surprizi",
-      "published": "2026-08-24T15:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T15:40:45.295979+00:00"
-    },
-    {
-      "id": "e4fe98e22aac181e",
-      "source": "Akşam",
-      "title": "Durdurulan araçtan 17 paket zehir döküldü: Tavana ve koltuğun altına saklamış",
-      "summary": "Küçükçekmece Atakent Mahallesi'nde şüphe üzerine durdurulan bir aracın tavanına ve sürücü koltuğunun altına gizlenmiş 15 paket marijuana ile 2 paket kokain ele geçirildi. Üzerinden binlerce lira ve döviz çıkan sürücü Ö.Y. tutuklanarak cezaevine gönderildi.",
-      "link": "https://www.aksam.com.tr/yasam/durdurulan-aractan-17-paket-zehir-dokuldu-tavana-ve-koltugun-altina-saklamis/haber-1693006",
-      "published": "2026-08-24T15:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T15:35:39.140187+00:00"
-    },
-    {
-      "id": "3a5eae798f8a0a72",
-      "source": "Habertürk",
-      "title": "TRT Spor yeni frekans ayarları",
-      "summary": "A Milli Kadın Voleybol Takımı, Avrupa Şampiyonası'nda yoluna devam ederken gözler Macaristan karşılaşmasına çevrildi. Filenin Sultanları'nın mücadele edeceği karşılaşmayı televizyondan takip etmek isteyen izleyiciler TRT Spor frekans bilgilerini araştırmaya başladı. Özellikle son dönemde yaşanan uydu değişiklikleri nedeniyle TRT kanallarında frekans güncellemesi gündeme geldi. TRT Spor'u televizyo",
-      "link": "https://www.haberturk.com/trt-spor-yeni-frekans-ayari-bilgileri-2026-turksat-4a-trt-spor-uydu-frekans-ayari-nasil-degistirilir-3907794",
-      "published": "2026-08-24T15:33:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T15:50:39.260682+00:00"
     }
   ]
 }

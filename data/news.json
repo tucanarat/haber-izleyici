@@ -1,12 +1,133 @@
 {
-  "last_updated": "2026-08-24T14:45:59.694090+00:00",
+  "last_updated": "2026-08-24T14:51:06.455009+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 579,
+  "new_items_this_run": 576,
   "items": [
+    {
+      "id": "d7105766a8a2658e",
+      "source": "Yeni Şafak",
+      "title": "İstanbul'da silahlı saldırı ve kundaklama olaylarına karışan çetelere operasyon: 5 gözaltı",
+      "summary": "İstanbul'da, 5 silahla ateş etme ve kundaklama olayına karıştıkları belirlenen 2 suç örgütüne yönelik operasyonlarda 5 şüpheli gözaltına alındı.",
+      "link": "https://www.yenisafak.com/gundem/istanbulda-silahli-saldiri-ve-kundaklama-olaylarina-karisan-cetelere-operasyon-5-gozalti-4850556",
+      "published": "2026-08-24T14:49:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:45.605455+00:00"
+    },
+    {
+      "id": "2f27afe3f1ded665",
+      "source": "Akşam",
+      "title": "Başkan Erdoğan, Litvanya Başbakanı Sinkevicius ile görüştü",
+      "summary": "Başkan Erdoğan, Litvanya Başbakanı Mindaugas Sinkevicius ile görüştü. Görüşmede ikili ilişkileri ile bölgesel ve küresel konular ele alındı.",
+      "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-litvanya-basbakani-sinkevicius-ile-gorustu/haber-1692995",
+      "published": "2026-08-24T14:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:44.651781+00:00"
+    },
+    {
+      "id": "6626c1199436093b",
+      "source": "Milliyet",
+      "title": "Cumhurbaşkanı Erdoğan'dan diplomasi trafiği",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın, Brezilya Devlet Başkanı Lula da Silva ile yaptığı telefon görüşmesinde, ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı. Cumhurbaşkanlığı İletişim Başkanlığının NSosyal hesabından yapılan açıklamada, liderlerin Türkiye-Brezilya ikili ilişkileri ile bölgesel ve küresel gelişmeleri görüşmede ele aldığı belirtildi. Cumhurbaşkanı Erdoğan'ın görüşme",
+      "link": "https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogan-brezilya-devlet-baskani-lula-da-silva-ile-telefonda-gorustu-7647386",
+      "published": "2026-08-24T14:48:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:44.135097+00:00"
+    },
+    {
+      "id": "349cd4a86409773c",
+      "source": "Türkiye Gazetesi",
+      "title": "Cumhurbaşkanı Erdoğan, Litvanya Başbakanı ile görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Litvanya Başbakanı Mindaugas Sinkevicius ile telefon görüşmesi gerçekleştirdi. Görüşmede Türkiye-Litvanya ilişkileri ile bölgesel ve küresel gelişmeler ele alınırken, savunma sanayii başta olmak üzere iki ülke arasındaki temasların artırılması mesajı verildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/cumhurbaskani-erdogan-litvanya-basbakani-ile-gorustu-masada-kritik-basliklar-1811324",
+      "published": "2026-08-24T14:48:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:41.843439+00:00"
+    },
+    {
+      "id": "5f5d59ce638f8f36",
+      "source": "Millî Gazete",
+      "title": "Regaip, Miraç ve Berat Kandili Ne Zaman, 2026-2027 Kandil Tarihleri Hangi Günlere Denk Geliyor?",
+      "summary": "Milyonlarca Müslümanın heyecanla beklediği üç ayların 2026-2027 dönemindeki başlangıç tarihleri belli oldu. Diyanet İşleri Başkanlığının dini günler takvimine göre Recep, Şaban ve Ramazan aylarını kapsayan manevi dönem Aralık 2026'da başlayacak ve 2027'de devam edecek. Peki, üç aylar ne zaman başlayacak, Recep ayı hangi gün, Ramazan ne zaman başlayacak? İşte merak edilen tarihler...",
+      "link": "https://www.milligazete.com.tr/regaip-mirac-ve-berat-kandili-ne-zaman-2026-2027-kandil-tarihleri-hangi-gunlere-denk-geliyor",
+      "published": "2026-08-24T14:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:49.263847+00:00"
+    },
+    {
+      "id": "db0a047e32bbda2a",
+      "source": "Halk TV",
+      "title": "YENİ Parti’den siyasi kriz vurgusu: Türk parası 7 yılda yüzde 89,07 eridi",
+      "summary": "YENİ Parti Milletvekili Sibel Suiçmez, OECD’nin 35 ülkelik araştırmasına göre Türk parasının 2019’dan bu yana yüzde 89,07 değer kaybettiğini belirterek, “ekonomik değil siyasi bir kriz” yaşandığını söyledi.",
+      "link": "https://halktv.com.tr/siyaset/yeni-partiden-siyasi-kriz-vurgusu-turk-parasi-7-yilda-yuzde-8907-eridi-1050786h",
+      "published": "2026-08-24T14:47:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:50.749233+00:00"
+    },
+    {
+      "id": "a1aa1984c4e99a1f",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "AK Parti Genel Başkan Yardımcısı Zorlu'dan Ahıska Türklerinin Ahlat'a yerleştirilmesine ilişkin paylaşım",
+      "summary": "AK Parti Genel Başkan Yardımcısı Zorlu, 371 Ahıska Türkü ailenin, Ahlat ilçesindeki yeni evlerine yerleştirilmesine ilişkin, \"Malazgirt Zaferi'nin 955. yıl dönümünde gerçekleşen böylesi bir kucaklaşma son derece anlamlıdır.\" ifadesini kullandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorludan-ahiska-turklerinin-ahlata-yerlestirilmesine-iliskin-paylasim/4036042",
+      "published": "2026-08-24T14:47:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:38.614352+00:00"
+    },
+    {
+      "id": "3e2d7be50506a8e5",
+      "source": "Gerçek Gündem",
+      "title": "Küresel Ticaret Savaşlarında Deprem! Trump Düğmeye Bastı, Gümrük Vergileri Yüzde 50’ye Çıkıyor",
+      "summary": "ABD Başkanı Trump, Kanada&#039;dan ithal edilen otomotiv ürünleri ve çeliğe yönelik gümrük vergilerinin yüzde 50&#039;ye yükseltileceğini ilan etti. Ticaret müzakerelerinin tıkanmasının ardından gelen bu hamleye Kanada Başbakanı Mark Carney, &quot;Bire bir karşılık vereceğiz&quot; restiyle yanıt verdi.",
+      "link": "https://www.gercekgundem.com/dunya/kuresel-ticaret-savaslarinda-deprem-trump-dugmeye-basti-gumruk-vergileri-yuzde-50ye-cikiyor-577331",
+      "published": "2026-08-24T14:46:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:55.268484+00:00"
+    },
+    {
+      "id": "0e99b84b578a8ac2",
+      "source": "Cumhuriyet",
+      "title": "Murat Boz'dan yıllar sonra gelen itiraf: 'Babama kalsa topçu oluyordum'",
+      "summary": "Beşiktaş’ın efsane isimlerinden Feyyaz Uçar’ın programına konuk olan ünlü şarkıcı Murat Boz, çocukluk hayalinin futbolcu olmak olduğunu ancak annesinin yönlendirmesiyle müziğe adım attığını söyledi. Müzik kariyerindeki kırılma noktasını anlatan Boz, uzun yıllar vokalistliğini yaptığı Tarkan’ın hayatındaki önemine de dikkat çekti.",
+      "link": "https://www.cumhuriyet.com.tr/magazin/murat-boz-dan-yillar-sonra-gelen-itiraf-babama-kalsa-topcu-oluyordum-2532005",
+      "published": "2026-08-24T14:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:39.046851+00:00"
+    },
+    {
+      "id": "bebb05c10d1a0946",
+      "source": "Gerçek Gündem",
+      "title": "Çiğli Belediye Başkanı Yıldız’ın Makam Aracına Saldırıda 2 Kişi Tutuklandı",
+      "summary": "İzmir&#039;de Çiğli Belediye Başkanı Onur Emrah Yıldız&#039;ın park halindeki makam aracına silahla ateş eden zanlı ile ona yardım ettiği değerlendirilen şüpheli tutuklandı.",
+      "link": "https://www.gercekgundem.com/guncel/cigli-belediye-baskani-yildizin-makam-aracina-saldirida-2-kisi-tutuklandi-577330",
+      "published": "2026-08-24T14:45:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:55.268539+00:00"
+    },
+    {
+      "id": "713f45e3271ca9aa",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "AA Araştırma Bursları'na başvurular 10 Ekim'e kadar uzatıldı",
+      "summary": "Anadolu Ajansı (AA) tarafından 23 Temmuz'da başlatılan ve kurumu konu edinen yüksek lisans ve doktora tez çalışmalarını desteklemek üzere yüksek lisans ve doktora öğrencilerine verilecek burslara başvurular 10 Ekim'e kadar uzatıldı.",
+      "link": "https://www.aa.com.tr/tr/kurumsal-haberler/aa-arastirma-burslarina-basvurular-10-ekime-kadar-uzatildi/4036040",
+      "published": "2026-08-24T14:45:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:38.614416+00:00"
+    },
     {
       "id": "5920b129b605eec0",
       "source": "Halk TV",
@@ -17,6 +138,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T14:45:47.082612+00:00"
+    },
+    {
+      "id": "ef6dd943e5c083b2",
+      "source": "Gerçek Gündem",
+      "title": "Altının Ateşi Yine Yükseldi! Gram Yeni Rekoru Gördü",
+      "summary": "Altın fiyatlarında haftanın ilk işlem gününde yükseliş sürüyor. Ons altın 4 bin 677 dolara, gram altın ise 7 bin 230 liraya çıkarak son dönemin en yüksek seviyelerini gördü.",
+      "link": "https://www.gercekgundem.com/ekonomi/altinin-atesi-yine-yukseldi-gram-yeni-rekoru-gordu-577329",
+      "published": "2026-08-24T14:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:55.268572+00:00"
+    },
+    {
+      "id": "fcb50de5bc171a65",
+      "source": "DonanımHaber",
+      "title": "Galaxy S26 FE'nin bir özelliği daha belli oldu: S25 FE ile aynı olacak",
+      "summary": "Samsung'un yeni Galaxy S26 FE modeli için önemli bir sertifika ortaya çıktı. Listeleme, telefonun hangi bataryayı ve şarj hızını kullanacağını doğruladı. İşte detaylar...",
+      "link": "https://www.donanimhaber.com/galaxy-s26-fe-nin-bir-ozelligi-daha-belli-oldu-s25-fe-ile-ayni--209669",
+      "published": "2026-08-24T14:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:51:04.136182+00:00"
     },
     {
       "id": "43352d8e8cadcca0",
@@ -39,6 +182,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T14:45:45.184972+00:00"
+    },
+    {
+      "id": "0e1d8942853f3454",
+      "source": "OdaTV",
+      "title": "Cumhurbaşkanı Erdoğan, Brezilya Devlet Başkanı Silva ile görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan&#039;ın Brezilya Devlet Başkanı Lula da Silva ile gerçekleştirdiği telefon görüşmesinde Türkiye-Brezilya ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
+      "link": "https://www.odatv.com/guncel/cumhurbaskani-recep-tayyip-erdogan-brezilya-devlet-baskani-lula-da-silva-ile-gorustu-120159969",
+      "published": "2026-08-24T14:44:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:50.214066+00:00"
+    },
+    {
+      "id": "8c8d1dae388081d1",
+      "source": "Türkiye Gazetesi",
+      "title": "\"MHK'YI GÖREVDEN ALIN!\"",
+      "summary": "Beşiktaş İkinci Başkanı Hakan Daltaban, Alanyaspor maçındaki hakem kararlarına tepki göstererek MHK için TFF'ye çağrıda bulundu. Hakem hatalarının kabul edilemeyecek seviyede olduğunu belirten Daltaban, MHK Başkanı Ferhat Gündoğdu'nun görevden alınması gerektiğini belirtti.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/besiktastan-tffye-cagri-mhkyi-gorevden-alin-1811323",
+      "published": "2026-08-24T14:44:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:41.843478+00:00"
     },
     {
       "id": "7613ae71362a9da2",
@@ -72,6 +237,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T14:45:46.727806+00:00"
+    },
+    {
+      "id": "bfc042ac1c595f22",
+      "source": "OdaTV",
+      "title": "14 bin lira için genci kaçırıp darp ettiler: Tutuklandılar",
+      "summary": "Samsun’un Canik ilçesinde 14 bin liralık borç nedeniyle zorla araca bindirdikleri genci ıssız bir yerde taşla kafasına vurularak darbeden 2 kişi, daha sonra hastanenin yakınına terk ederek kaçtı. Olayın ardından yakalanan 2 kişi tutuklandı.",
+      "link": "https://www.odatv.com/guncel/samsunda-14-bin-lira-icin-genci-kacirip-darp-eden-iki-kisi-tutuklandi-120159968",
+      "published": "2026-08-24T14:43:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:50.214105+00:00"
     },
     {
       "id": "c2778a2953c43217",
@@ -228,6 +404,17 @@
       "fetched_at": "2026-08-24T14:41:01.291874+00:00"
     },
     {
+      "id": "17a86c628c5d4afd",
+      "source": "Habertürk",
+      "title": "2 örgüte operasyon: 5 gözaltı",
+      "summary": "İstanbul'da 18-24 Ağustos'ta Bayrampaşa, Pendik, Küçükçekmece ve Esenyurt'ta meydana gelen 5 silahlı saldırı ve kundaklama olayının 2 suç örgütüyle bağlantılı olduğu belirlendi. Operasyonlarda 5 şüpheli gözaltına alınırken, adreslerde uzun namlulu tüfek, otomatik tabanca ve 120 fişek ele geçirildi",
+      "link": "https://www.haberturk.com/son-dakika-istanbul-da-2-suc-orgutune-yonelik-operasyonlarda-5-zanli-yakalandi-3907784",
+      "published": "2026-08-24T14:38:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:35.349947+00:00"
+    },
+    {
       "id": "b6bb84525103a1dd",
       "source": "CNBC-e",
       "title": "Hürmüz Boğazı'nda tansiyon yükseldi: İran tankerleri kara listeye aldı",
@@ -248,6 +435,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T14:45:46.899776+00:00"
+    },
+    {
+      "id": "be2b75af4213d569",
+      "source": "Türkiye Gazetesi",
+      "title": "Yolda telefona bakana para cezası geliyor!",
+      "summary": "İtalya'da karayolları kanununda yapılması planlanan yeni düzenlemeyle, karşıdan karşıya geçerken cep telefonuna bakarak yola odaklanmayan yayalara 75 avrodan başlayan para cezaları kesilmesi öngörülüyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/karsidan-karsiya-gecerken-telefona-bakana-para-cezasi-geliyor-1811321",
+      "published": "2026-08-24T14:37:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:41.843506+00:00"
     },
     {
       "id": "173d4710083524ee",
@@ -314,6 +512,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T14:35:37.279478+00:00"
+    },
+    {
+      "id": "55534e3a148fa2e5",
+      "source": "Evrensel",
+      "title": "Melek Otel işçilerinden BÜMED’e ziyaret: Mehmet Ulusoy’a karşı tutum almaya çağırıyoruz",
+      "summary": "Ödenmeyen 13 aylık ücretleri ve tazminatları için mücadele eden Melek Otel işçileri, otel patronu Mehmet Ulusoy’un mezunu olduğu BÜMED’e dilekçe sunarak dayanışmaya çağırdı.",
+      "link": "https://www.evrensel.net/haber/5997612/melek-otel-iscilerinden-bumede-ziyaret-mehmet-ulusoya-karsi-tutum-almaya-cagiriyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-24T14:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:42.446140+00:00"
     },
     {
       "id": "e88c7897b728d33b",
@@ -589,6 +798,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T14:30:57.498747+00:00"
+    },
+    {
+      "id": "d5b2d8451dbb3d36",
+      "source": "Aydınlık",
+      "title": "İran Cumhurbaşkanı Pezeşkiyan'dan milli birlik mesajı! 'Hilekar ve suçlu düşmanların oyunu...'",
+      "summary": "İran Cumhurbaşkanı Pezeşkiyan, yaptığı konuşmada ABD ve İsrail&#039;in ülkede ayrılık çabalarına karşı milli birlik mesajı verdi. Pezeşkiyan, milletinin hilekar, suçlu ve sömürücü düşmanların oyununa gelmeyecek bilinçte olduğunu belirtti",
+      "link": "https://www.aydinlik.com.tr/haber/iran-cumhurbaskani-pezeskiyandan-milli-birlik-mesaji-hilekar-ve-suclu-dusmanlarin-oyunu-587696",
+      "published": "2026-08-24T14:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:48.838446+00:00"
     },
     {
       "id": "854167fea7413568",
@@ -1095,6 +1315,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T14:20:44.187728+00:00"
+    },
+    {
+      "id": "300895556b6320ee",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kadın Milli Voleybol Takımı, Cezayir'i mağlup etti",
+      "summary": "20. Akdeniz Oyunları'nda (Taranto 2026) mücadele eden Kadın Milli Voleybol Takımı, B Grubu'ndaki 2. maçında Cezayir'i 3-0 yendi.",
+      "link": "https://www.aa.com.tr/tr/spor/kadin-milli-voleybol-takimi-cezayiri-maglup-etti/4035995",
+      "published": "2026-08-24T14:17:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T14:50:38.614384+00:00"
     },
     {
       "id": "d6574509775eff60",
@@ -5275,237 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T12:55:34.004311+00:00"
-    },
-    {
-      "id": "9b9c0c729b91c8c0",
-      "source": "Aydınlık",
-      "title": "71 ilde uyuşturucu tacirlerine operasyon: Yüzlerce tutuklama",
-      "summary": "İçişleri Bakanlığı, 71 ilde uyuşturucu satıcılarına yönelik gerçekleştirilen operasyonlarda 1.368 şüphelinin yakalandığını, 807 şüphelinin ise çıkarıldıkları mahkemece tutuklandığını duyurdu.",
-      "link": "https://www.aydinlik.com.tr/haber/71-ilde-uyusturucu-tacirlerine-operasyon-yuzlerce-tutuklama-587685",
-      "published": "2026-08-24T12:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:55:42.411478+00:00"
-    },
-    {
-      "id": "5e96364878a16ae5",
-      "source": "Halk TV",
-      "title": "Madencilerin hak nöbeti 15'inci günde: Bakanlık kapıları yine kapalı",
-      "summary": "Yıldızlar SSS Holding&#039;den aylardır maaş ve tazminatlarını alamayan madenciler, Ankara&#039;da 15&#039;inci günde de bakanlık önüne çıktı. 849 tapusu olan holding &quot;Param yok&quot; derken, 36 milyon liralık borca karşı hükümet sessizliğini koruyor.",
-      "link": "https://halktv.com.tr/turkiye/madencilerin-hak-nobeti-15inci-gunde-bakanlik-kapilari-yine-kapali-1050759h",
-      "published": "2026-08-24T12:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:55:43.637822+00:00"
-    },
-    {
-      "id": "678f207d9ddda480",
-      "source": "Independent Türkçe",
-      "title": "Trump'ın Beyaz Sarayı'ndaki ayrılıkların perde arkası",
-      "summary": "ABD Başkanı Donald Trump, ara seçimler yaklaşırken üst düzey ekibinden daha fazla kişinin ayrılmasına hazırlanıyor. Habere göre yönetimde daha önce görev yapmış bir yetkili, personelin \"durumun vahametini gördükleri\" için bir sonraki adımlarını değerlendirdiğini söyledi. Beyaz Saray Basın Sözcüsü Karoline Leavitt bu ay istifasını açıkladı ve Yasama İşleri Direktörü James Braid, Beyaz Saray Hukuk D",
-      "link": "https://www.indyturk.com/node/781608/d%C3%BCnya/trump%C4%B1n-beyaz-saray%C4%B1ndaki-ayr%C4%B1l%C4%B1klar%C4%B1n-perde-arkas%C4%B1",
-      "published": "2026-08-24T12:49:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T14:20:58.485623+00:00"
-    },
-    {
-      "id": "e6cbcf786af37efc",
-      "source": "Bir Gün",
-      "title": "Silah bırakma sürecini takip edecek Kurul, Cevdet Yılmaz başkanlığında toplandı",
-      "summary": "Süreç kapsamında oluşturulan ve PKK'nin silah bırakma sürecinin takibini yapacak Kurul'un ilk toplantısı Cumhurbaşkanı Yardımcısı Cevdet Yılmaz Başkanlığı'nda başladı. Kurulun ilk toplantısında ana gündemin PKK'nin fesih ve silah bırakma süreci olacağı belirtildi. Toplantıda alt kurulların ve Abdullah Öcalan'ın statüsünün de gündeme gelmesi bekleniyor.",
-      "link": "https://www.birgun.net/haber/silah-birakma-surecini-takip-edecek-kurul-cevdet-yilmaz-baskanliginda-toplandi-730926",
-      "published": "2026-08-24T12:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T13:15:42.220916+00:00"
-    },
-    {
-      "id": "25ff0c60dbee2db1",
-      "source": "Akşam",
-      "title": "Alanyaspor, Paulo Fernandes'i kiraladı",
-      "summary": "Trendyol Süper Lig ekiplerinden Alanyaspor, Yunanistan temsilcisi AEK'de forma giyen 28 yaşındaki kanat oyuncusu Paolo Fernandes'i sezon sonuna kadar kiralık olarak kadrosuna kattı.",
-      "link": "https://www.aksam.com.tr/spor/alanyaspor-paulo-fernandesi-kiraladi/haber-1692966",
-      "published": "2026-08-24T12:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:41.492508+00:00"
-    },
-    {
-      "id": "575bed34ac9c4f5e",
-      "source": "Gerçek Gündem",
-      "title": "Otoyollarda Dur-Kalk Dönemi Bitiyor: Bakan Uraloğlu Müjdeyi Verdi, Eski Gişeler Tek Tek Yıkılıyor",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, otoyollarda trafiği rahatlatacak dev adımı duyurdu. Ankara Akıncı Gişeleri dahil olmak üzere bugüne kadar 35 istasyon Serbest Geçiş Sistemi&#039;ne dönüştürülürken, yıl sonuna kadar 8 kritik noktada daha eski gişelerin yıkılacağı açıklandı.",
-      "link": "https://www.gercekgundem.com/guncel/otoyollarda-dur-kalk-donemi-bitiyor-bakan-uraloglu-mujdeyi-verdi-eski-giseler-tek-tek-yikiliyor-577321",
-      "published": "2026-08-24T12:48:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:55:48.764408+00:00"
-    },
-    {
-      "id": "28444cdd7f25c8da",
-      "source": "Aydınlık",
-      "title": "Kremlin: İngiltere, Ukrayna krizinin barış sürecini engellemek için düzenli adımlar atıyor",
-      "summary": "İngiltere&#039;nin, Rusya - Ukrayna ile ilgili tutumu Kremlin&#039;in tepkisini çekti. Kremlin Sözcüsü Dmitriy Peskov, “İngiltere, Ukrayna krizinin barış sürecini engellemek için düzenli şekilde adımlar atıyor” dedi.",
-      "link": "https://www.aydinlik.com.tr/haber/kremlin-ingiltere-ukrayna-krizinin-baris-surecini-engellemek-icin-duzenli-adimlar-atiyor-587689",
-      "published": "2026-08-24T12:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T13:15:49.390336+00:00"
-    },
-    {
-      "id": "a68e5c7f54e94f4c",
-      "source": "Yeniçağ",
-      "title": "Galatasaray-Göztepe maçının bilet fiyatları açıklandı",
-      "summary": "Süper Lig’in 3. haftasında oynanacak Galatasaray-Göztepe maçının bilet fiyatları açıklandı.",
-      "link": "https://www.yenicaggazetesi.com/galatasaray-goztepe-macinin-bilet-fiyatlari-aciklandi-1065022h.htm",
-      "published": "2026-08-24T12:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T13:01:06.020975+00:00"
-    },
-    {
-      "id": "b5be7263ab8b98ce",
-      "source": "Ekonomim",
-      "title": "Almanya'da aşırı sıcaklar ekonomiyi vurdu: Zarar 36 milyar Euro'yu buldu",
-      "summary": "Almanya&#039;da bu yıl etkili olan aşırı sıcak ve kuraklığın ülke ekonomisine faturası en az 36 milyar Euro oldu.",
-      "link": "https://www.ekonomim.com/dunya/almanyada-asiri-sicaklar-ekonomiyi-vurdu-zarar-36-milyar-euroyu-buldu-haberi-913966",
-      "published": "2026-08-24T12:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:51:05.421447+00:00"
-    },
-    {
-      "id": "e79a27fb228f5ba9",
-      "source": "Gazete Pencere",
-      "title": "Almanya'da iş insanlarından Başbakan Merz'e eleştiri: 'Lider profili ortaya koyamadı'",
-      "summary": "Almanya Orta Ölçekli İşletmeler Birliği, Başbakan Friedrich Merz’e koalisyon içinde daha güçlü ve kararlı liderlik çağrısı yaptı. Hükümetin belirsizlik yaratan iletişim politikası ve inovasyon teşviklerindeki durdurma kararı eleştirildi.",
-      "link": "https://www.gazetepencere.com/dis-haber/almanyada-is-insanlarindan-basbakan-merze-elestiri-lider-profili-ortaya-712989h",
-      "published": "2026-08-24T12:47:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:45.263761+00:00"
-    },
-    {
-      "id": "6fd08f1f3a9f87d9",
-      "source": "Yeniçağ",
-      "title": "ABD'nin yeni hamlesi İran'ın müttefiklerini vuracak",
-      "summary": "ABD, yeni yaptırım dalgası, yalnızca Tahran’ı değil; İran ile ticari ve finansal bağlarını koparmayan ülkeleri de doğrudan vuracak. ABD Hazine Bakanı Scott Bessent detayları aktardı.",
-      "link": "https://www.yenicaggazetesi.com/abdnin-yeni-hamlesi-iranin-muttefiklerini-vuracak-1065021h.htm",
-      "published": "2026-08-24T12:47:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:43.524925+00:00"
-    },
-    {
-      "id": "6294491b54268f1e",
-      "source": "Yeni Akit",
-      "title": "Kamera kayıtları mercek altında: Faciadan dönülen yangın inceleniyor",
-      "summary": "Diyarbakır'ın merkez Kayapınar ilçesinde dün gece 13 katlı bir plazada çıkan ve 3’ü itfaiye eri 5 kişinin dumandan etkilendiği yangının çıkış nedenini tespit etmek için incelemeler sürüyor.",
-      "link": "https://www.yeniakit.com.tr/haber/kamera-kayitlari-mercek-altinda-faciadan-donulen-yangin-inceleniyor-2019146.html",
-      "published": "2026-08-24T12:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:42.948185+00:00"
-    },
-    {
-      "id": "103fbc7c7621e34d",
-      "source": "Millî Gazete",
-      "title": "Özgü Delikanlı Kimdir, Kaç Yaşında ve Nereli? Özgü Delikanlı'nın Hayatı ve Biyografisi",
-      "summary": "Televizyon dünyasının genç oyuncuları arasında yer alan Özgü Delikanlı, yalnızca kamera karşısındaki performansıyla değil, Almanya'dan Türkiye'ye uzanan eğitim hayatıyla da dikkat çekiyor.",
-      "link": "https://www.milligazete.com.tr/ozgu-delikanli-kimdir-kac-yasinda-ve-nereli-ozgu-delikanlinin-hayati-ve-biyografisi",
-      "published": "2026-08-24T12:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:44.685965+00:00"
-    },
-    {
-      "id": "a9eda707a1a8b854",
-      "source": "Karar",
-      "title": "UEFA Başkanı'ndan Infantino’ya sert çıkış: Dünya Kupası planı Süper Lig’den bile kötü",
-      "summary": "UEFA Başkanı Ceferin, FIFA Başkanı Infantino’nun Dünya Kupası’nın ticari haklarının bir bölümünü özel yatırımcılara açmayı öngören ve tepkiler üzerine rafa kaldırılan planına sert tepki gösterdi. Ceferin, projeyi 2021’deki Avrupa Süper Ligi girişiminden “bile daha kötü” olarak nitelendirirken, Infantino’nun Mart ayında yeniden aday olması halinde karşısına bir rakip çıkacağını söyledi. Ceferin ise",
-      "link": "https://www.karar.com/spor-haberleri/uefa-baskanindan-infantinoya-sert-cikis-dunya-kupasi-plani-super-ligden-2067657",
-      "published": "2026-08-24T12:46:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:43.173189+00:00"
-    },
-    {
-      "id": "d649e9ad26f84f22",
-      "source": "Milliyet",
-      "title": "Gölcük’te klima tadilatı sırasında çökme! 2 usta yaralandı, bir kişi içeride mahsur kaldı",
-      "summary": "Olay, öğle saatlerinde Merkez Mahallesi 19 Mayıs Caddesi üzerinde bulunan Merkez İş Hanı'nda meydana geldi. İş hanının dış cephesinde klima montajı ve tadilat çalışması yürütüldüğü esnada henüz belirlenemeyen nedenle yapının sundurma kısmı çöktü. Yıkımla birlikte dış cephede çalışan 2 usta hafif yaralanırken, caddede kısa süreli panik yaşandı. BÜFEDE MAHSUR KALAN KİŞİYİ ZABITA ÇIKARDI Çökme sonucu",
-      "link": "https://www.milliyet.com.tr/gundem/golcukte-klima-tadilati-sirasinda-cokme-2-usta-yaralandi-bir-kisi-iceride-mahsur-kaldi-7647328",
-      "published": "2026-08-24T12:46:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:40.899572+00:00"
-    },
-    {
-      "id": "29ac7aea2f95ffe5",
-      "source": "Evrensel",
-      "title": "İnsanlar neden saçlarını koparır? Trikotillomani hakkında yeni araştırma",
-      "summary": "Heidelberg Üniversitesi tarafından yürütülen yeni bir araştırma, saç yolma hastalığının (trikotillomani) sadece kaygı ve stresten kaynaklanmadığını ortaya koydu. Bilim insanlarına göre saç yolma dürtüsünü en çok tetikleyen unsur 'can sıkıntısı'.",
-      "link": "https://www.evrensel.net/haber/5997599/insanlar-neden-saclarini-koparir-trikotillomani-hakkinda-yeni-arastirma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-24T12:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T13:20:41.822694+00:00"
-    },
-    {
-      "id": "f756bece280af6bf",
-      "source": "Türkiye Gazetesi",
-      "title": "Tarih verildi! Sıcaklık ne zaman düşecek?",
-      "summary": "Sıcaklık alarmı sonrasında havanın serinleyeceği tarih belli oldu. Hava Tahmin Uzmanı Fevzi Burak Tekin, “Yurdun bazı kesimlerinde sıcaklıklar cuma gününden itibaren azalacak” dedi. Tekin, gün gün hangi bölgelerde sağanak yağışın etkili olacağını da açıkladı. İşte son hava durumu…",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/tarih-verildi-afrika-sicagina-mola-hava-ne-zaman-serinleyecek-1811299",
-      "published": "2026-08-24T12:45:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:39.432083+00:00"
-    },
-    {
-      "id": "2c6efa7264c74dd8",
-      "source": "Türkiye Gazetesi",
-      "title": "METEOROLOJİ TARİH VERDİ!",
-      "summary": "Sıcaklık alarmı sonrasında havanın serinleyeceği tarih belli oldu. Hava Tahmin Uzmanı Fevzi Burak Tekin, “Yurdun bazı kesimlerinde sıcaklıklar cuma gününden itibaren azalacak” dedi. Tekin, gün gün hangi bölgelerde sağanak yağışın etkili olacağını da açıkladı. İşte son hava durumu…",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/tarih-verildi-afrika-sicagina-mola-hava-ne-zaman-serinleyecek-1811299",
-      "published": "2026-08-24T12:45:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:39.432121+00:00"
-    },
-    {
-      "id": "c60d0e2f3defa57d",
-      "source": "Habertürk",
-      "title": "Evden 100 kedi çıktı",
-      "summary": "Mersin’de “çöp ev” ihbarı üzerine adrese giden ekipler, ağır kokunun kaynağının evde sağlıksız koşullarda barındırılan yaklaşık 100 kedi olduğunu belirledi. Yabancı uyruklu bir kadın tarafından bakılan kediler, işlemlerin ardından Yenişehir Belediyesi Hayvan Bakımevi ve Rehabilitasyon Merkezi'ne teslim edildi.",
-      "link": "https://www.haberturk.com/son-dakika-haberler-mersinde-kokulardan-dolayi-ihbar-edilen-evden-100-kedi-cikti-3907759",
-      "published": "2026-08-24T12:45:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T13:00:54.199954+00:00"
-    },
-    {
-      "id": "9ef284d6659ef9da",
-      "source": "Türkiye Gazetesi",
-      "title": "Antalya'da yürekleri ısıtan olay: \"İçindeki para önemli değil, babamın emanetiydi\"",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem-videolari/antalyada-yurekleri-isitan-olay-icindeki-para-onemli-degil-babamin-emanetiydi-1811298",
-      "published": "2026-08-24T12:45:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T12:50:39.432146+00:00"
-    },
-    {
-      "id": "76b3bd9d41a3eda7",
-      "source": "Habertürk",
-      "title": "3 kardeşin esrarengiz ölümünde 2 ihtimal!",
-      "summary": "Kocaeli Darıca'da sahilde cansız bedenleri bulunan 3 kardeş ile ilgili soruşturma çok yönlü olarak devam ediyor. Tüm ihtimalleri göz önünde bulunduran polis, kardeşlerden birinin alkolün etkisiyle denize düştüğü, diğerlerinin de onu kurtarmak için suya girdiği ya da intihar etmiş olabileceklerini değerlendiriyor",
-      "link": "https://www.haberturk.com/son-dakika-sorusturma-suruyor-3-kardesin-esrarengiz-olumunde-2-ihtimal-3907748",
-      "published": "2026-08-24T12:44:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T14:00:56.375672+00:00"
     }
   ]
 }

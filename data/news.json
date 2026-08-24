@@ -1,12 +1,474 @@
 {
-  "last_updated": "2026-08-24T09:51:06.840528+00:00",
+  "last_updated": "2026-08-24T10:01:00.069544+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 563,
+  "new_items_this_run": 609,
   "items": [
+    {
+      "id": "5f2f55bd7b5c2e62",
+      "source": "ShiftDelete.Net",
+      "title": "vivo X500 Serisi Çok Yakında Geliyor",
+      "summary": "vivo X500 serisi Eylül ayında tanıtılıyor! Yeni Phantom 900 sensörü, ZEISS optikler ve profesyonel video yetenekleri hakkında tüm detaylar haberimizde.",
+      "link": "https://shiftdelete.net/vivo-x500-serisi-cok-yakinda-geliyor",
+      "published": "2026-08-24T10:00:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:56.377971+00:00"
+    },
+    {
+      "id": "5c5cc286f390e32d",
+      "source": "Gazete Pencere",
+      "title": "Zonguldak'ta işçilere saldıranlarla ilgili karar",
+      "summary": "Zonguldak'ta mevsimlik işçiler ile köyde yaşayan bir aile arasında yaşanan gerginlik sırasında gözaltına alınan 4 kişiden 1'i ifadesinin ardından serbest bırakıldı, 3 kişi hakkında adli kontrol tedbiri uygulandı.",
+      "link": "https://www.gazetepencere.com/gundem/zonguldakta-iscilere-saldiranlarla-ilgili-karar-712952h",
+      "published": "2026-08-24T10:00:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:41.747647+00:00"
+    },
+    {
+      "id": "13702bef8d9da35a",
+      "source": "Akşam",
+      "title": "Galatasaray'da santrfor ısrarı... Hedefte Ermedin Demirovic var",
+      "summary": "Mauro Icardi'nin ayrılığı sonrası santrfor mevkisine takviye yapmak isteyen Galatasaray çalışmalarını sürdürüyor. TRT Spor'un haberine göre; sarı-kırmızılılar, Stuttgart forması giyen Ermedin Demirovic için ikinci bir teklif yapmaya hazırlanıyor. İşte detaylar...",
+      "link": "https://www.aksam.com.tr/spor/galatasarayda-santrfor-israri-hedefte-ermedin-demirovic-var/haber-1692922",
+      "published": "2026-08-24T10:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:37.037085+00:00"
+    },
+    {
+      "id": "d437155b1c8c176b",
+      "source": "Akşam",
+      "title": "İsrail, Lübnan'da ateşkes dinlemedi: Saldırılarda 2 kişi hayatını kaybetti",
+      "summary": "İsrail ordusunun ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyine insansız hava aracıyla (İHA) düzenlediği saldırıda iki kişi yaşamını yitirdi.",
+      "link": "https://www.aksam.com.tr/dunya/israil-lubnanda-ateskes-dinlemedi-saldirilarda-2-kisi-hayatini-kaybetti/haber-1692921",
+      "published": "2026-08-24T10:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:37.037121+00:00"
+    },
+    {
+      "id": "304a03ecd7c99e03",
+      "source": "Yeniçağ",
+      "title": "Ankara kulislerini hareketlendiren iddia: İki vekilin adresi ne olacak?",
+      "summary": "Ankara kulislerinde seçim öncesi ittifak trafiği hız kazanırken, Meclis’teki dengeleri değiştirebilecek yeni bir iddia gündeme geldi. Yeni Yol Grubu’ndan Gelecek Partili iki milletvekilinin farklı partilere geçebileceği öne sürüldü. Selçuk Özdağ iddialarla ilgili YENİÇAĞ&#039;ın sorularını yanıtladı.",
+      "link": "https://www.yenicaggazetesi.com/ankara-kulislerini-hareketlendiren-iddia-iki-vekilin-adresi-ne-olacak-1064943h.htm",
+      "published": "2026-08-24T10:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:39.358056+00:00"
+    },
+    {
+      "id": "b05ab8957867d079",
+      "source": "Webrazzi",
+      "title": "Apple, 200'den fazla çalışanını işten çıkarıyor",
+      "summary": "2026'nın ilk yarısında teknoloji sektöründe yaşanan büyük çaplı işten çıkarmaları temmuz ayının ilk haftalarında sizlere aktarmıştık. Şimdi ise Apple'ın Siri ve Vision Pro ekiplerinde 200'den fazla ça...",
+      "link": "https://webrazzi.com/2026/08/24/apple-200den-fazla-calisanini-isten-cikariyor/",
+      "published": "2026-08-24T10:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:53.426470+00:00"
+    },
+    {
+      "id": "1d18fe4e540fb09d",
+      "source": "Yeniçağ",
+      "title": "Valilikten açıklama: Mevsimlik işçilere saldıran kişi tutuklandı",
+      "summary": "Mardin&#039;den çalışmak amacıyla Düzce&#039;nin Gümüşova ilçesine gelen mevsimlik tarım işçilerinin, bir kişinin saldırısına uğradığı iddiası üzerine Düzce Valiliği açıklama yaptı.",
+      "link": "https://www.yenicaggazetesi.com/valilikten-aciklama-mevsimlik-iscilere-saldiran-kisi-tutuklandi-1064951h.htm",
+      "published": "2026-08-24T09:59:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:39.358092+00:00"
+    },
+    {
+      "id": "3fb432040d713160",
+      "source": "Akşam",
+      "title": "Bakan Uraloğlu: Kara yollarında serbest geçiş başladı",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Ankara'nın Kahramankazan ilçesindeki Akıncı Gişeleri'nde Serbest Geçiş Sistemi'nin (SGS) devreye alınmasının ardından mevcut gişe adaları ve kanopilerin kaldırılması için çalışmaların devam ettiğini belirterek, çalışmalar süresince Akıncı Gişeleri'nden otoyola giriş ve çıkışların kontrollü yapıldığını bildirdi.",
+      "link": "https://www.aksam.com.tr/guncel/bakan-uraloglu-kara-yollarinda-serbest-gecis-basladi/haber-1692920",
+      "published": "2026-08-24T09:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:37.037157+00:00"
+    },
+    {
+      "id": "bfb3fe76dfde20c6",
+      "source": "Millî Gazete",
+      "title": "İstanbulluya uyku haram: Gece nem yüzde 91'i bulacak!",
+      "summary": "Afrika ve Basra üzerinden gelen sıcak hava dalgasıyla boğuşan megakentte, gece saatlerinde nem oranının yüzde 91'e kadar tırmanarak nefes almayı bile imkansız hale getireceği öngörülüyor.",
+      "link": "https://www.milligazete.com.tr/istanbulluya-uyku-haram-gece-nem-yuzde-91i-bulacak",
+      "published": "2026-08-24T09:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:41.052154+00:00"
+    },
+    {
+      "id": "5455d32495eff99f",
+      "source": "Yeniçağ",
+      "title": "Yenipazar’da 4 dönümlük alanda anız yangını",
+      "summary": "Bilecik’in Yenipazar ilçesine bağlı Katran köyü mevkiinde çıkan anız yangını, ekiplerin havadan ve karadan müdahalesiyle söndürüldü.",
+      "link": "https://www.yenicaggazetesi.com/yenipazarda-4-donumluk-alanda-aniz-yangini-1064950h.htm",
+      "published": "2026-08-24T09:58:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:39.358119+00:00"
+    },
+    {
+      "id": "c2047da0731efc5c",
+      "source": "CNBC-e",
+      "title": "Altın ve gümüşte tarihi ralli: Piyasalara 5 trilyon dolarlık güçlü sinyal",
+      "summary": "Altın ve gümüş fiyatlarında ağustos ayında dikkat çekici bir yükseliş yaşandı. İki değerli metalin fiyatlarındaki artış, toplam piyasa değerlerine yaklaşık 5 trilyon dolarlık katkı sağladı.",
+      "link": "https://www.cnbce.com/gumus/altin-ve-gumuste-tarihi-ralli-piyasalara-5-trilyon-dolarlik-guclu-sinyal-g35684",
+      "published": "2026-08-24T09:58:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:51.428954+00:00"
+    },
+    {
+      "id": "c2af2ac0ac25db99",
+      "source": "Cumhuriyet",
+      "title": "Kütahya'da tarlada yangın: 5 dekar alan zarar gördü",
+      "summary": "Kütahya'nın Hisarcık ilçesinde tarlada çıkan yangın, köylülerin ve ekiplerin hızlı müdahalesiyle söndürüldü. Yangında yaklaşık 5 dekar alan zarar gördü.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/kutahya-da-tarlada-yangin-5-dekar-alan-zarar-gordu-2531891",
+      "published": "2026-08-24T09:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.544506+00:00"
+    },
+    {
+      "id": "200f88b6f69de286",
+      "source": "Karar",
+      "title": "Merkezefendi’de Çocuklar Zafer Bayramı’nı resimlerle kutlayacak",
+      "summary": "Merkezefendi Belediyesi, 30 Ağustos Zafer Bayramı’nın coşkusunu çocuklarla birlikte yaşamak amacıyla anlamlı bir etkinlik düzenliyor.",
+      "link": "https://www.karar.com/sehir-haberleri/merkezefendide-cocuklar-zafer-bayramini-resimlerle-kutlayacak-2067608",
+      "published": "2026-08-24T09:57:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:38.672376+00:00"
+    },
+    {
+      "id": "cd9f9e1373015bd3",
+      "source": "Milliyet",
+      "title": "Çorum’da parkta buluştular! Tartıştığı kişiyi pompalı tüfekle sırtından vurdu",
+      "summary": "Olay, dün akşam Buharaevler Mahallesi’ndeki bir parkta meydana geldi. Aralarında anlaşmazlık bulunan S.A. ile L.C.S., konuşmak için parkta buluştu. Burada taraflar arasında tartışma çıktı. Tartışmanın büyümesi üzerine L.C.S., aracında bulunan pompalı tüfekle S.A.’ya ateş eti. Sırtından yaralanan S.A., yakındaki akaryakıt istasyonuna girdi. İhbar üzerine bölgeye polis ve sağlık ekipleri sevk edildi",
+      "link": "https://www.milliyet.com.tr/gundem/corumda-parkta-bulustular-tartistigi-kisiyi-pompali-tufekle-sirtindan-vurdu-7647196",
+      "published": "2026-08-24T09:57:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:36.040855+00:00"
+    },
+    {
+      "id": "3b373ead4090e86f",
+      "source": "Gazete Pencere",
+      "title": "Kademeli emeklilik gündem oldu: İşte son detaylar...",
+      "summary": "Kademeli emeklilik son dönemde yeniden gündeme gelmeye başladı. Mevcut sistemde düzenleme olursa pek çok şey değişecek. Peki kademeli emeklilik çıkacak mı, erken emeklilik için şartlar ne? İşte tüm detaylar...",
+      "link": "https://www.gazetepencere.com/gundem/kademeli-emeklilik-gundem-oldu-iste-son-detaylar-712951h",
+      "published": "2026-08-24T09:57:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:41.747683+00:00"
+    },
+    {
+      "id": "5c21e1ffe9f1130d",
+      "source": "Star",
+      "title": "Giannis Antetokounmpo'dan Milwaukee Bucks itirafı",
+      "summary": "Miami Heat'in Yunanlı yıldız oyuncusu Giannis Antetokounmpo, bir gün yeniden Milwaukee Bucks'a dönmek istediğini açıkladı.",
+      "link": "https://www.star.com.tr/spor/giannis-antetokounmpodan-milwaukee-bucks-itirafi-haber-2035707/",
+      "published": "2026-08-24T09:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:37.442391+00:00"
+    },
+    {
+      "id": "70939b1125e4ee05",
+      "source": "Cumhuriyet",
+      "title": "Eskişehir'de uyuşturucu operasyonu: 9 şüpheli adliyede",
+      "summary": "Eskişehir'de polis ekipleri, bir evde 53 bin 941 uyuşturucu hap ele geçirdikleri operasyonu genişleterek 8 şüpheliyi daha gözaltına aldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-uyusturucu-operasyonu-9-supheli-adliyede-2531890",
+      "published": "2026-08-24T09:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.544541+00:00"
+    },
+    {
+      "id": "3e3638f688c7754d",
+      "source": "Yeni Şafak",
+      "title": "Mersin’de ‘çöp ev’ ihbarından şaşkına çeviren görüntü: Adresten yaklaşık 100 kedi çıktı",
+      "summary": "Mersin’in Yenişehir ilçesinde çevreye kötü koku yayıldığı yönündeki ihbar üzerine bir eve giden ekipler, içeride yaklaşık 100 kediyle karşılaştı. Sağlıksız koşullarda tutulduğu belirlenen kediler koruma altına alındı.",
+      "link": "https://www.yenisafak.com/video/gundem/mersinde-cop-ev-ihbarindan-saskina-ceviren-goruntu-adresten-yaklasik-100-kedi-cikti-4850494",
+      "published": "2026-08-24T09:55:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:37.177865+00:00"
+    },
+    {
+      "id": "2296f9f000c5711b",
+      "source": "Karar",
+      "title": "Eskişehir Büyükşehir Spor Kulübü’nden masa tenisinde çifte başarı",
+      "summary": "Eskişehir Kulüpler Arası Gençler İl Birinciliği müsabakaları, 22-23 Ağustos 2026 tarihlerinde gerçekleştirildi. Turnuvaya Eskişehir Büyükşehir Spor Kulübü üç takımla katılırken, toplam 7 kulübün mücadele ettiği organizasyonda Büyükşehir Spor Kulübü sporcuları önemli bir başarıya imza attı.",
+      "link": "https://www.karar.com/sehir-haberleri/eskisehir-buyuksehir-spor-kulubunden-masa-tenisinde-cifte-basari-2067607",
+      "published": "2026-08-24T09:55:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:38.672418+00:00"
+    },
+    {
+      "id": "2fd5a63c26ac3bf2",
+      "source": "Türkiye Gazetesi",
+      "title": "Süper Lig’de kombine yarışı: 272 bin TL dev fark",
+      "summary": "Trendyol Süper Lig’de 2026-2027 sezonu öncesi kombine fiyatları belli oldu. Galatasaray ve Trabzonspor 275 bin TL ile zirveyi paylaşırken, en uygun kombine 3 bin TL ile Başakşehir’de kaldı. Fenerbahçe’de geçen sezona göre tavan fiyat düşerken, Eyüpspor kombine satışı yapmama kararı aldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/super-ligde-kombine-yarisi-en-pahali-275-bin-en-ucuz-3-bin-tl-1811265",
+      "published": "2026-08-24T09:54:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:34.083711+00:00"
+    },
+    {
+      "id": "9c6c6a7c2451fd81",
+      "source": "Türkiye Gazetesi",
+      "title": "Gaziantep milletvekilini bıçaklamıştı! Yeni Parti’den ihraç edildi",
+      "summary": "Yeni Parti Gaziantep Milletvekili Melih Meriç’i bıçakladıktan sonra tutuklanan Yeni Partili Seydi Ahmet Keleş, partiden ihraç edildi. İl Başkanlığından yapılan açıklamada “Söz konusu karar, parti tüzüğü, temel ilkeleri ve kurumsal sorumluluk anlayışı çerçevesinde alınmıştır” denildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/politika/gaziantep-milletvekilini-bicaklamisti-seydi-ahmet-keles-yeni-partiden-ihrac-edildi-1811264",
+      "published": "2026-08-24T09:54:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:34.083750+00:00"
+    },
+    {
+      "id": "b75c814f10bcd645",
+      "source": "Yeni Şafak",
+      "title": "2,4 milyar liralık yasa dışı bahis trafiği: 39 şüpheli yakalandı",
+      "summary": "Çankırı merkezli 19 ilde düzenlenen yasa dışı bahis operasyonlarında 39 şüpheli gözaltına alındı.",
+      "link": "https://www.yenisafak.com/gundem/24-milyar-liralik-yasa-disi-bahis-trafigi-39-supheli-yakalandi-4850493",
+      "published": "2026-08-24T09:54:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:37.177894+00:00"
+    },
+    {
+      "id": "1efc97d232e5f4b4",
+      "source": "Cumhuriyet",
+      "title": "Goldman Sachs'tan yeni dolar/TL tahmini: 12 aylık hedefte dev yükseliş",
+      "summary": "Goldman Sachs, Türk Lirası'ndaki değer kaybının son dönemde hızlanması ve zaman faktörünü dikkate alarak dolar/TL tahminlerini yukarı yönlü revize etti. Banka analistleri, dış denge üzerindeki baskılara ve yükselen seçim gürültüsüne dikkat çekerek Türk Lirası'nda daha hızlı değer kaybı riskinin ağır bastığını belirtti.",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/goldman-sachs-tan-yeni-dolar-tl-tahmini-12-aylik-hedefte-dev-yukselis-2531889",
+      "published": "2026-08-24T09:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.544587+00:00"
+    },
+    {
+      "id": "84e561fde53442b7",
+      "source": "Karar",
+      "title": "Mevsimlik tarım işçilerine saldırıda yeni gelişme: 3 kişiye adli kontrol",
+      "summary": "Zonguldak’ın Alaplı ilçesinde mevsimlik tarım işçilerine yönelik saldırıya ilişkin gözaltına alınan 4 kişiden 1’i ifadesinin ardından serbest bırakılırken, 3 kişi hakkında adli kontrol tedbiri uygulandı. Olayın ardından işçilerin aynı tarlada çalışmaya devam ettiği, 12 yıldır bölgeye fındık toplamaya geldikleri belirtildi.",
+      "link": "https://www.karar.com/guncel-haberler/mevsimlik-tarim-iscilerine-saldirida-yeni-gelisme-3-kisiye-adli-kontrol-2067606",
+      "published": "2026-08-24T09:53:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:38.672455+00:00"
+    },
+    {
+      "id": "57a89b3a1b31d966",
+      "source": "Türkiye Gazetesi",
+      "title": "Sivas'ta tehlikeli şov! Mahalle arasında drift atan sürücü kamerada",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem-videolari/sivasta-tehlikeli-sov-mahalle-arasinda-drift-atan-surucu-kamerada-1811263",
+      "published": "2026-08-24T09:53:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:34.083770+00:00"
+    },
+    {
+      "id": "f92e1925ab5e01dd",
+      "source": "Karar",
+      "title": "ASAT’tan 400 bin sayaç için yenileme seferberliği: İlk uygulama Alanya’da başladı",
+      "summary": "Antalya Su ve Atıksu İdaresi Genel Müdürlüğü (ASAT), damga süresi dolan su sayaçlarının yenilenmesi için Antalya genelinde kapsamlı bir çalışma başlattı. 400 bin su sayacının yenileneceği çalışmada; 300 bin sayaç merkez ilçelerde, 60 bin sayaç Alanya’da, 40 bin sayaç ise Manavgat’ta değiştirilecek.",
+      "link": "https://www.karar.com/sehir-haberleri/asattan-400-bin-sayac-icin-yenileme-seferberligi-ilk-uygulama-alanyada-2067605",
+      "published": "2026-08-24T09:53:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:38.672490+00:00"
+    },
+    {
+      "id": "143f2bb6a7eec3d4",
+      "source": "Cumhuriyet",
+      "title": "UEFA Başkanı Aleksander Ceferin'den FIFA kararı",
+      "summary": "UEFA Başkanı Aleksander Ceferin, FIFA Başkanlığı'na aday olmayacağını duyurdu.",
+      "link": "https://www.cumhuriyet.com.tr/spor/uefa-baskani-aleksander-ceferin-den-fifa-karari-2531888",
+      "published": "2026-08-24T09:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.544608+00:00"
+    },
+    {
+      "id": "9d8c8622a2d371f2",
+      "source": "Halk TV",
+      "title": "Gülbahar'ı karıştıran aile kavgası! Anne biri üvey biri öz evladıyla tekme tokat kavga etti",
+      "summary": "Şişli’de Dilek E. ve velayeti altındaki üvey kardeşi R.Ş.E okul kaydı için gerekli kimliği almak üzere anneleri Nurşen K.’nin evine gitti. R.Ş.E ile annesi arasında çıkan tartışmanın ardından sokağa inen Nurşen K. ile iki kardeş arasında kavga çıktı.",
+      "link": "https://halktv.com.tr/turkiye/gulbahari-karistiran-aile-kavgasi-anne-biri-uvey-biri-oz-evladiyla-tekme-tokat-kavga-etti-1050719h",
+      "published": "2026-08-24T09:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:42.455782+00:00"
+    },
+    {
+      "id": "2d22fadb2c6c6cca",
+      "source": "Independent Türkçe",
+      "title": "İran: ABD üslerini kullandıran ülkeler saldırgan eylemlere ortak oluyor",
+      "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, İran'a yönelik olası yeni bir saldırı halinde Avrupa ülkelerindeki ABD üslerinin hedef alınabileceğine ilişkin iddialara cevap vererek, İran'a yönelik saldırıların kaynağını hedef almanın Tahran'ın “yasal hakkı” olduğunu söyledi. İran devlet televizyonuna göre Bekayi, Dışişleri Bakanlığında düzenlediği haftalık basın toplantısında gündeme ilişkin sor",
+      "link": "https://www.indyturk.com/node/781596/haber/i%CC%87ran-abd-%C3%BCslerini-kulland%C4%B1ran-%C3%BClkeler-sald%C4%B1rgan-eylemlere-ortak-oluyor",
+      "published": "2026-08-24T09:52:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:47.321683+00:00"
+    },
+    {
+      "id": "5dfc4e8b23243da7",
+      "source": "Karar",
+      "title": "Uganda ve Burundi, Gazze’de uluslararası güce asker göndermeyi görüşüyor",
+      "summary": "Uganda ve Burundi’den üst düzey askeri yetkililerin, Gazze’de konuşlandırılması planlanan uluslararası istikrar gücüne asker gönderilmesine ilişkin görüşmeler yapmak üzere İsrail’i ziyaret ettiği bildirildi. Uganda’nın asker gönderme kararının ardından ayrıntılar üzerinde çalışıldığı, Burundi’nin ise sürece katılmaya ilgi gösterdiği belirtildi.",
+      "link": "https://www.karar.com/dunya-haberleri/uganda-ve-burundi-gazzede-uluslararasi-guce-asker-gondermeyi-gorusuyor-2067604",
+      "published": "2026-08-24T09:52:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:38.672527+00:00"
+    },
+    {
+      "id": "01fdd4611bfd093b",
+      "source": "Gerçek Gündem",
+      "title": "Macaristan'da Savaş Uçağı Kazası! Pilot Son Anda Kurtuldu",
+      "summary": "Macaristan&#039;a ait Gripen tipi savaş uçağı, Szolnok kenti yakınlarında düştü. Pilotun fırlatma koltuğunu kullanarak kurtulduğu kazada yaralanan olmazken, sivil altyapının da zarar görmediği bildirildi. Olayın nedeninin belirlenmesi için soruşturma başlatıldı.",
+      "link": "https://www.gercekgundem.com/dunya/macaristanda-savas-ucagi-kazasi-pilot-son-anda-kurtuldu-577306",
+      "published": "2026-08-24T09:52:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:47.598908+00:00"
+    },
+    {
+      "id": "f6f6577a5f19e1e0",
+      "source": "Cumhuriyet",
+      "title": "Şişli’de üvey ablasıyla birlikte annesini darbedip şikayetçi oldular",
+      "summary": "Şişli'de Dilek E. (42) ve velayeti kendisinde bulunan üvey kardeşi R.Ş.E. (13) okul kaydı için gerekli kimliği almak üzere anneleri Nurşen K.’nin (51) yaşadığı binaya gitti. Eve tek giden R.Ş.E. ile annesi arasında başlayan tartışmanın ardından sokağa inen Nurşen K. ile iki kardeş arasında tekme ve yumruklu kavga çıktı. Dilek E. ve R.Ş.E., kavgayı annelerinin başlattığını öne sürerek Nurşen K.’den",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/sisli-de-uvey-ablasiyla-birlikte-annesini-darbedip-sikayetci-oldular-2531887",
+      "published": "2026-08-24T09:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.544650+00:00"
+    },
+    {
+      "id": "6fd7b5e535bd9d7b",
+      "source": "Akşam",
+      "title": "Berber dükkanına silahlı saldırı! 2 kişi hayatını kaybetti",
+      "summary": "Manisa'nın Gölmarmara ilçesinde iş yerine düzenlenen silahlı saldırıda berber ile tıraş olan müşteri hayatını kaybetti.",
+      "link": "https://www.aksam.com.tr/guncel/berber-dukkanina-silahli-saldiri-2-kisi-hayatini-kaybetti/haber-1692919",
+      "published": "2026-08-24T09:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:37.037182+00:00"
+    },
+    {
+      "id": "ad0d7b0e5d3a6f76",
+      "source": "Star",
+      "title": "Aziz İhsan Aktaş davasında son sözler söylenecek! Karar duruşması başladı",
+      "summary": "Aziz İhsan Aktaş suç örgütüne yönelik, görevden uzaklaştırılan 7 belediye başkanının da aralarında yer aldığı 5'i tutuklu 200 sanığın yargılandığı davanın karar duruşması Marmara Cezaevi karşısındaki salonda başladı; duruşma savcısı önceki mütalaasını tekrarladığını bildirdi.",
+      "link": "https://www.star.com.tr/guncel/aziz-ihsan-aktas-davasinda-son-sozler-soylenecek-karar-durusmasi-basladi-haber-2035706/",
+      "published": "2026-08-24T09:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:37.442432+00:00"
+    },
+    {
+      "id": "385dd03104b0bb7b",
+      "source": "OdaTV",
+      "title": "Jack Daniel’s mirasçıları kavgaya tutuştu",
+      "summary": "Jack Daniel’s markasının sahibi Brown-Forman’da gerileyen mali sonuçlar ve 15 milyar dolarlık satın alma teklifi, şirketi altı kuşaktır kontrol eden Brown ailesini karşı karşıya getirdi. Yönetime başkaldıran iki mirasçı, şirketin geleceğine ilişkin önemli kararların aileden gizlendiğini savundu.",
+      "link": "https://www.odatv.com/ekonomi/is-dunyasi/jack-danielsin-sahibi-brown-formanda-15-milyar-dolarlik-aile-kavgasi-120159925",
+      "published": "2026-08-24T09:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:42.022403+00:00"
+    },
+    {
+      "id": "24709307cd070f9c",
+      "source": "Gazete Pencere",
+      "title": "Eski Merkez Bankası Başekonomisti faiz indirimi için tarihi verdi",
+      "summary": "TCMB, ara verdiği 1 hafta vadeli repo ihalelerine yeniden başlama kararı aldı. Eski Merkez Bankası Başekonomisti Prof. Dr. Hakan Kara faiz indirim sinyali dedi.",
+      "link": "https://www.gazetepencere.com/ekonomi/eski-merkez-bankasi-basekonomisti-faiz-indirimi-icin-tarihi-verdi-712950h",
+      "published": "2026-08-24T09:51:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:41.747711+00:00"
+    },
+    {
+      "id": "fe21438530e2f857",
+      "source": "Yeniçağ",
+      "title": "Kaymakam Yayabaşı, LGS’de başarı gösteren öğrencileri ödüllendirdi",
+      "summary": "Liselere Geçiş Sistemi (LGS) sınavında elde ettikleri başarıyla dikkat çeken öğrenciler, Söğüt Kaymakamı Murat Yayabaşı’yı makamında ziyaret etti.",
+      "link": "https://www.yenicaggazetesi.com/kaymakam-yayabasi-lgsde-basari-gosteren-ogrencileri-odullendirdi-1064949h.htm",
+      "published": "2026-08-24T09:51:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:39.358146+00:00"
+    },
+    {
+      "id": "43430e736e41e562",
+      "source": "Yeni Yaşam",
+      "title": "Wan’da özgürlük mücadelesinde yaşamını yitirenler için taziye",
+      "summary": "Wan&#8217;ın Artemêt ilçesinde özgürlük mücadelesinde yaşamını yitirenler için kurulan taziye başladı. Taziyeye çok sayıda kişi katılırken, yaşamını yitirenlerin aileleri de taziyede yer aldı Özgürlük mücadelesinde farklı tarihlerde ve farklı yerlerde yaşamını yitirenler anısına Wan&#8217;ın Artemêt (Edremit) ilçesi Selahattin Eyyübi Mahallesi’nde bulunan Mardan Davet Salonu&#8217;nda 3 günlük taz",
+      "link": "https://yeniyasamgazetesi9.com/wanda-ozgurluk-mucadelesinde-yasamini-yitirenler-icin-taziye/",
+      "published": "2026-08-24T09:50:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:48.011148+00:00"
+    },
+    {
+      "id": "843a5372e6ca1de7",
+      "source": "Cumhuriyet",
+      "title": "8 bin çocuğun yaz tatili Doğa Kampı'yla taçlandı",
+      "summary": "İstanbul Büyükşehir Belediyesi’nin (İBB) yaz tatilinde çocukları sporla ve doğayla buluşturduğu İBB Doğa Kampı sona erdi. İki ay boyunca yapılan kampta 8 bini aşkın çocuk bisikletten okçuluğa, oryantiringden doğada yaşam eğitimlerine birçok aktiviteye katıldı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/8-bin-cocugun-yaz-tatili-doga-kampi-yla-taclandi-2531886",
+      "published": "2026-08-24T09:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.544680+00:00"
+    },
+    {
+      "id": "3d240b89f43c4ee5",
+      "source": "Aydınlık",
+      "title": "Yüzlerce Amerikan askeri yaralı: Pentagon tam sayı veremiyor",
+      "summary": "İran karşısında ağır kayıplar veren ABD&#039;de, Savaş Bakanlığı&#039;nın açıklamasına göre savaşta yaralanan ABD&#039;li askerlerin sayısının en az 756&#039;ya yükseldiği bildirildi.",
+      "link": "https://www.aydinlik.com.tr/haber/yuzlerce-amerikan-askeri-yarali-pentagon-tam-sayi-veremiyor-587662",
+      "published": "2026-08-24T09:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:40.573469+00:00"
+    },
+    {
+      "id": "b651288d6e03ddd9",
+      "source": "OdaTV",
+      "title": "Sarhoşun aşk acısı kolorduyu yakıyordu... Alevler General Eşref Akıncı Kışlası'na dayandı, mühimmat depoları tehdit altında kaldı",
+      "summary": "Odatv, Ankara Mamak&#039;ta Hüseyingazi Türbe Yolu&#039;nda çıkan yangının perde arkasını araştırdı. Alevler 4. Kolordu&#039;ya kadar ilerledi, mühimmat depoları tehdit altında kaldı. Yangının altından alkollü piknik çıktı. Güvenlik güçleri ilk anda provokasyon şüphesini masaya yatırdı.",
+      "link": "https://www.odatv.com/guncel/ankara-mamakta-yanginin-nedeni-ortaya-cikti-sarhosun-ask-acisi-4-kolorduyu-yakiyordu-120159929",
+      "published": "2026-08-24T09:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:42.022448+00:00"
+    },
+    {
+      "id": "777694d3eee96371",
+      "source": "Ekonomim",
+      "title": "TCMB’nin repo ihalesinde faiz belli oldu",
+      "summary": "TCMB, yüzde 37 faizle 1 milyar TL’lik bir hafta vadeli repo ihalesi açtı. İhalede bileşik faiz yüzde 44,58 oldu.",
+      "link": "https://www.ekonomim.com/ekonomi/tcmbnin-repo-ihalesinde-faiz-belli-oldu-haberi-913924",
+      "published": "2026-08-24T09:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:49.956243+00:00"
+    },
     {
       "id": "8773e7b6da14b7bc",
       "source": "Gazete Pencere",
@@ -30,6 +492,17 @@
       "fetched_at": "2026-08-24T09:50:49.964152+00:00"
     },
     {
+      "id": "daf7447157fa46f9",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İran Dışişleri Bakanlığı Sözcüsü Bekayi,: ABD üslerini kullandıran ülkeler saldırgan eylemlere ortak oluyor",
+      "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, İran'a yönelik saldırı halinde Avrupa ülkelerindeki ABD üslerinin hedef alınabileceğine ilişkin iddialara cevap vererek, saldırıların kaynağını hedef almanın Tahran'ın “yasal hakkı” olduğunu söyledi.",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakanligi-sozcusu-bekayi-abd-uslerini-kullandiran-ulkeler-saldirgan-eylemlere-ortak-oluyor-/4035686",
+      "published": "2026-08-24T09:49:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.097846+00:00"
+    },
+    {
       "id": "a5cc5460c1b8089c",
       "source": "Halk TV",
       "title": "İsrail’in katılımı sonrası Eurovision’da ilk boykot: Gelecek yıl yarışmayacak",
@@ -39,6 +512,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T09:50:50.601538+00:00"
+    },
+    {
+      "id": "71f8fdba52896426",
+      "source": "OdaTV",
+      "title": "Alman piyanist Levi Schechtmann ilk Türkiye konserini verecek",
+      "summary": "Klasik müzik eserlerini modern ritimlerle buluşturan Alman piyanist ve besteci Levi Schechtmann, dünya turnesi kapsamında ilk kez Türkiye’de sahne alacak. LEVI.SCT, 28 Kasım’da Zorlu PSM Turkcell Platinum Sahnesi’nde müzikseverlerle buluşacak.",
+      "link": "https://www.odatv.com/guncel/levisct-istanbul-konseri-alman-piyanist-28-kasimda-zorlu-psmde-120159928",
+      "published": "2026-08-24T09:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:42.022479+00:00"
+    },
+    {
+      "id": "63792149f0ed273a",
+      "source": "Ekonomim",
+      "title": "İran'dan ABD üsleri için uyarı: Saldırının kaynağını hedef almak yasal hakkımız",
+      "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, İran&#039;a yönelik olası yeni bir saldırı halinde Avrupa ülkelerindeki ABD üslerinin hedef alınabileceğine ilişkin iddialara cevap vererek, İran&#039;a yönelik saldırıların kaynağını hedef almanın Tahran&#039;ın “yasal hakkı” olduğunu söyledi.",
+      "link": "https://www.ekonomim.com/gundem/irandan-abd-usleri-icin-uyari-saldirinin-kaynagini-hedef-almak-yasal-hakkimiz-haberi-913923",
+      "published": "2026-08-24T09:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:49.956286+00:00"
     },
     {
       "id": "bf49bda7f9e646ab",
@@ -162,6 +657,17 @@
       "fetched_at": "2026-08-24T09:45:38.527775+00:00"
     },
     {
+      "id": "68198f19144320ee",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kara yollarında serbest geçiş başladı, eski gişeler kaldırılıyor",
+      "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, Ankara'nın Kahramankazan ilçesindeki Akıncı Gişeleri'nde Serbest Geçiş Sistemi'nin (SGS) devreye alınmasının ardından mevcut gişe adaları ve kanopilerin kaldırılması için çalışmaların devam ettiğini belirtti.",
+      "link": "https://www.aa.com.tr/tr/gundem/kara-yollarinda-serbest-gecis-basladi-eski-giseler-kaldiriliyor/4035678",
+      "published": "2026-08-24T09:43:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.097904+00:00"
+    },
+    {
       "id": "70fcf5bb6dd5ed02",
       "source": "Milliyet",
       "title": "Aziz İhsan Aktaş suç örgütü davasında karar duruşması",
@@ -182,6 +688,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T09:46:07.241214+00:00"
+    },
+    {
+      "id": "5845c13da607aa77",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Brüksel'de son 4 günde 4 silahlı saldırı düzenlendi",
+      "summary": "Belçika'nın başkenti Brüksel'de son 4 günde 4 silahlı saldırı düzenlendi.",
+      "link": "https://www.aa.com.tr/tr/dunya/brukselde-son-4-gunde-4-silahli-saldiri-duzenlendi/4035677",
+      "published": "2026-08-24T09:43:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:31.097874+00:00"
     },
     {
       "id": "92071d0c81702435",
@@ -371,6 +888,17 @@
       "fetched_at": "2026-08-24T09:45:35.294861+00:00"
     },
     {
+      "id": "427a307b0e69df4f",
+      "source": "Evrensel",
+      "title": "Diyanet 2027 takvimini duyurdu: Ramazan ne zaman başlıyor?",
+      "summary": "2027 yılında ramazan ayının hangi tarihe denk geldiği belli oldu. Diyanetin açıkladığı takvime göre ilk sahur, ilk oruç ve bayram günleri netleşti.",
+      "link": "https://www.evrensel.net/haber/5997565/diyanet-2027-takvimini-duyurdu-ramazan-ne-zaman-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-24T09:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:34.515241+00:00"
+    },
+    {
       "id": "a261510b894d2411",
       "source": "Cumhuriyet",
       "title": "Sakarya'da erkek vahşeti... Boşanma aşamasındaki eşine ateş açıp yaralamıştı: Tutuklandı",
@@ -468,6 +996,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T09:40:45.688573+00:00"
+    },
+    {
+      "id": "c7424f90c0d10cd0",
+      "source": "Evrensel",
+      "title": "Balçova Belediye Başkanı Onur Yiğit göreve iade edildi",
+      "summary": "İçişleri Bakanlığı, yürütülen soruşturma kapsamında 3 Temmuz’da görevden uzaklaştırılan Balçova Belediye Başkanı Onur Yiğit’in görevine iade edildiğini açıkladı. Yiğit hakkındaki ev hapsi kararı 22 Ağustos’ta kaldırılmıştı.",
+      "link": "https://www.evrensel.net/haber/5997564/balcova-belediye-baskani-onur-yigit-goreve-iade-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-24T09:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:34.515278+00:00"
     },
     {
       "id": "6a6b52b67a875df7",
@@ -1075,6 +1614,17 @@
       "fetched_at": "2026-08-24T09:30:52.309876+00:00"
     },
     {
+      "id": "ea14f82c3d411721",
+      "source": "Sabah",
+      "title": "CHP'li Adıgüzel'den 'İmamoğlu' tepkisi: Siyaset değil, yalancılık! \"İBB davası boş değil, iddialara karşı tek cevap yok”",
+      "summary": "CHP Ordu Milletvekili Mustafa Adıgüzel, görevden uzaklaştırılan Ekrem İmamoğlu başta olmak üzere 53'ü tutuklu 414 sanıklı İBB davasının boş olmadığını savunarak, \"Daha iddianame yazılmadan 'dosya bomboş'... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/08/24/chpli-adiguzelden-imamoglu-tepkisi-siyaset-degil-yalancilik",
+      "published": "2026-08-24T09:25:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:36.481454+00:00"
+    },
+    {
       "id": "27c12772acb1cfa1",
       "source": "Karar",
       "title": "6 Şubat depremlerinin iki sembol eseri yeniden doğdu:Asırlık camiler Mevlid Kandili’nde kapılarını açıyor!",
@@ -1130,6 +1680,17 @@
       "fetched_at": "2026-08-24T09:25:31.054041+00:00"
     },
     {
+      "id": "097e9ca2b6b5c2a2",
+      "source": "Ekonomim",
+      "title": "90’larda çocuk ve genç olanlar bunları çok iyi hatırlayacak! Unutulmayan günler...",
+      "summary": "Atari salonlarından evlere giren oyun konsollarına, Tetris’ten Super Mario’ya, walkmanlerden kasetçilere, özel televizyonların değiştirdiği ekran alışkanlıklarından unutulmayan Türkçe şarkılara, ilk internet bağlantılarının çıkardığı modem sesinden IRC ve mIRC sohbet odalarına… 1990’lar, teknolojinin henüz hayatı ele geçirmediği ancak yeni bir dünyanın kapılarını araladığı yıllardı. İşte bir dönem",
+      "link": "https://www.ekonomim.com/foto-galeri/yasam/90larda-cocuk-ve-genc-olanlar-bunlari-cok-iyi-hatirlayacak-unutulmayan-gunler-s1-galeri-913925",
+      "published": "2026-08-24T09:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:49.956438+00:00"
+    },
+    {
       "id": "f3210a693ed908cb",
       "source": "Halk TV",
       "title": "15 kişilik göçmen teknesi battı: 11 can kaybı, 3 kişi kayıp",
@@ -1183,6 +1744,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T09:25:48.878249+00:00"
+    },
+    {
+      "id": "b8eaa9b4c2e37e6a",
+      "source": "Hürriyet",
+      "title": "Robert Koleji mezunu girişimciden yerli hayvancılığa genetik destek: Çiftliğinde ürettiği yerli spermaların satışına başladı",
+      "summary": "Robert Koleji ve Sabancı Üniversitesi mezunu Sinan Kolat, Kırklareli'nde kurduğu çiftlikte hayvan varlığını 3 bin 100 başa çıkararak Türkiye'nin örnek işletmelerinden biri haline getirdi. Ankara’daki Uluslararası Hayvancılık Araştırma ve Eğitim Merkezi ile ortaklaşa yerli boğa sperması üreten Kolat, sığır genetiğini geliştirmeyi amaçlayan proje kapsamında ilk satışlara başladıklarını belirtti.",
+      "link": "https://www.hurriyet.com.tr/gundem/robert-koleji-mezunu-girisimciden-yerli-hayvanciliga-genetik-destek-ciftliginde-urettigi-yerli-spermalarin-satisina-basladi-43283305",
+      "published": "2026-08-24T09:22:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:35.404864+00:00"
     },
     {
       "id": "039af99fb71687d6",
@@ -2107,6 +2679,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T09:05:36.827540+00:00"
+    },
+    {
+      "id": "5e63bdba482a53f6",
+      "source": "Hürriyet",
+      "title": "ABD ordusundan Pasifik'te bir tekneye saldırı: 2 kişi hayatını kaybetti",
+      "summary": "Doğu Pasifik’te operasyonlarını sürdüren ABD ordusu, uyuşturucu taşıdığı öne sürülen bir tekneyi vurdu. Saldırıda 2 kişinin yaşamını yitirdiği bildirildi.",
+      "link": "https://www.hurriyet.com.tr/dunya/abd-ordusundan-pasifikte-bir-tekneye-saldiri-2-kisi-hayatini-kaybetti-43283280",
+      "published": "2026-08-24T09:04:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:35.404824+00:00"
     },
     {
       "id": "99ba8c53cac1716c",
@@ -3284,6 +3867,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T08:50:41.561585+00:00"
+    },
+    {
+      "id": "4bf19987bef1891c",
+      "source": "Yeniçağ",
+      "title": "FAST kullanan herkesi ilgilendiriyor: Limitler 300 bin TL’ye yükseliyor",
+      "summary": "TCMB, FAST işlem tutar limitlerinde önemli bir değişikliğe gitti. 26 Ağustos 2026’dan itibaren bireysel para transferleri ile Ödeme İste işlemlerinde limit 100 bin TL’den 300 bin TL’ye yükselecek. FAST-TR Karekod iş yeri ödemelerinde de üst sınır 300 bin TL olacak.",
+      "link": "https://www.yenicaggazetesi.com/fast-kullanan-herkesi-ilgilendiriyor-limitler-300-bin-tlye-yukseliyor-1064924h.htm",
+      "published": "2026-08-24T08:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T10:00:39.358825+00:00"
     },
     {
       "id": "df739bc24cf0ccb5",
@@ -4912,600 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T08:25:36.159964+00:00"
-    },
-    {
-      "id": "bef75931967b6296",
-      "source": "Gerçek Gündem",
-      "title": "Özlem Gültekin'in Ölümünde Şüpheler Derinleşiyor! Erhan Çelik'ten Uyuşturucu ve Şantaj İddiası",
-      "summary": "İzmir&#039;deki kliniğinde cansız bedeni bulunan Op. Dr. Özlem Gültekin&#039;in şüpheli ölümüne ilişkin soruşturma dosyasına yeni iddialar girdi. Boşanma aşamasındaki Erhan Çelik, Gültekin&#039;in uyuşturucu nitelikteki ilaçlara bağımlı olduğunu öne sürerken, doktorun gizli görüntülerini 10 bin dolar karşılığında satmaya çalıştığı iddia edilen bir kişi tutuklandı.",
-      "link": "https://www.gercekgundem.com/gundem/ozlem-gultekinin-olumunde-supheler-derinlesiyor-erhan-celikten-uyusturucu-ve-santaj-iddiasi-577298",
-      "published": "2026-08-24T08:21:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:47.081208+00:00"
-    },
-    {
-      "id": "d492aedd98460728",
-      "source": "OdaTV",
-      "title": "20 yıllık hayatı bir gecede enkaz oldu: Geriye sadece elleri kaldı... İranlı müzisyenin savaşla imtihanı",
-      "summary": "İranlı kontrbas sanatçısı Parvaneh, bir ay içinde işini, evini ve 20 yıllık emeğiyle aldığı profesyonel enstrümanını kaybetti. Bombardımanın ardından otel odasında yaşayan müzisyen, “Benden alamadıkları tek şey ellerim” diyor.",
-      "link": "https://www.odatv.com/yasam/20-yillik-hayati-bir-gecede-enkaz-oldu-iranli-muzisyenin-savasla-imtihani-120159909",
-      "published": "2026-08-24T08:21:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:43.031661+00:00"
-    },
-    {
-      "id": "b38076830014976d",
-      "source": "Karar",
-      "title": "90.000 tonluk rekolte 30.000’e geriledi! Mersin’de yok yılı yaşanıyor",
-      "summary": "Mersin’in Mut ilçesinde üretilen meşhur beyaz incirde bu yıl 90.000 tonluk rekolte 30.000’e geriledi. Yok yılı yaşanan bölgede üretici endişeli.",
-      "link": "https://www.karar.com/guncel-haberler/90-000-tonluk-rekolte-30-000e-geriledi-mersinde-yok-yili-yasaniyor-2067567",
-      "published": "2026-08-24T08:21:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:40.547997+00:00"
-    },
-    {
-      "id": "0715a7598452e931",
-      "source": "Gazete Pencere",
-      "title": "Bir çocuk değişir, Türkiye gelişir: TEGV yeni gönüllülerini bekliyor",
-      "summary": "Türkiye Eğitim Gönüllüleri Vakfı’nda yeni dönem gönüllülük başvuruları başladı. 21 ildeki 50 etkinlik noktasında çocukların eğitimine destek vermek isteyen gönüllüler, bilişimden matematiğe farklı alanlarda çalışmalara katılabilecek.",
-      "link": "https://www.gazetepencere.com/yasam/bir-cocuk-degisir-turkiye-gelisir-tegv-yeni-gonullulerini-bekliyor-712921h",
-      "published": "2026-08-24T08:21:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:42.806724+00:00"
-    },
-    {
-      "id": "85a3f8570e3d98f2",
-      "source": "Star",
-      "title": "Pendikspor'da ayrılık: Mallik Wilks",
-      "summary": "Trendyol 1. Lig ekibi Pendikspor, İngiliz kanat oyuncusu Mallik Wilks ile yolların ayrıldığını duyurdu.",
-      "link": "https://www.star.com.tr/spor/pendiksporda-ayrilik-mallik-wilks-haber-2035687/",
-      "published": "2026-08-24T08:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:39.669682+00:00"
-    },
-    {
-      "id": "4cb631c02b7ac834",
-      "source": "CNBC-e",
-      "title": "OpenAI ve SpaceX yatırımları servetini 3'e katladı: Şimdi gözünü Los Angeles Lakers'a dikti",
-      "summary": "OpenAI ve SpaceX yatırımlarıyla servetini bir yılda 5,2 milyar dolardan 16,7 milyar dolara çıkaran Josh Kushner, şimdi NBA takımlarından Los Angeles Lakers'a yatırım yapmaya hazırlanıyor. Kushner'ın serveti, kardeşi Jared Kushner'ın servetinin yaklaşık 17 katına ulaştı.",
-      "link": "https://www.cnbce.com/haberler/openai-ve-spacex-yatirimlari-servetini-3e-katladi-simdi-gozunu-los-angeles-lakersa-dikti-h35675",
-      "published": "2026-08-24T08:20:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:50.368929+00:00"
-    },
-    {
-      "id": "de19a0ff6c0f9912",
-      "source": "Yeniçağ",
-      "title": "Olimpik Lyon-Fenerbahçe maçının hakemi belli oldu",
-      "summary": "Fenerbahçe&#039;nin UEFA Şampiyonlar Ligi play-off turunda Olimpik Lyon ile oynayacağı rövanş karşılaşmasında görev alacak hakem belli oldu.",
-      "link": "https://www.yenicaggazetesi.com/olimpik-lyon-fenerbahce-macinin-hakemi-belli-oldu-1064915h.htm",
-      "published": "2026-08-24T08:20:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:43.695079+00:00"
-    },
-    {
-      "id": "63cffaa5f26323f7",
-      "source": "Gerçek Gündem",
-      "title": "Ani Ören Yeri'nde Eşsiz Keşif! Üzerinde 6 Kez 'Hz. Muhammed' Yazıyor",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Mevlid Kandili gecesinde Ani Ören Yeri&#039;nden gelen büyüleyici bir keşfi paylaştı. Anadolu&#039;nun ilk Türk-İslam mezarlığında yapılan kazılarda, üzerinde kufi hatla 6 kez Hz. Muhammed yazan asırlık bir Selçuklu taşı gün yüzüne çıkarıldı.",
-      "link": "https://www.gercekgundem.com/kultur-sanat/ani-oren-yerinde-essiz-kesif-uzerinde-6-kez-hz-muhammed-yaziyor-577297",
-      "published": "2026-08-24T08:20:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:47.081245+00:00"
-    },
-    {
-      "id": "6fd02f19e2db7ec1",
-      "source": "Halk TV",
-      "title": "Milletvekili Melih Meriç'i bıçaklayan isim için karar verildi: YENİ Parti'den ihraç edildi",
-      "summary": "Gaziantep&#039;te YENİ Parti Milletvekili Melih Meriç&#039;i bıçaklayarak yaralayan Seydi Ahmet Keleş, partisinden kesin ihraç edildi. Keleş, “kasten öldürmeye teşebbüs” suçundan tutuklu bulunurken, Meriç&#039;in İstanbul&#039;daki tedavisi sürüyor.",
-      "link": "https://halktv.com.tr/turkiye/milletvekili-melih-merici-bicaklayan-isim-icin-karar-verildi-yeni-partiden-ihrac-edildi-1050693h",
-      "published": "2026-08-24T08:20:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:45.619012+00:00"
-    },
-    {
-      "id": "4c4c76a1c2ef87ec",
-      "source": "Aydınlık",
-      "title": "ABD’deki yangında 42 bin kişi için tahliye emri! Olağanüstü hal ilan edildi",
-      "summary": "ABD&#039;nin Nevada eyaletinde 60 kilometrekarelik alana yayılan ve kontrol altına alınamayan orman yangını nedeniyle 42 bin kişi için zorunlu tahliye emri verildi. Yangında 6 kişi yaralanırken, Nevada Valisi Joe Lombardo olağanüstü hal ilan ederek Ulusal Muhafızları görevlendirdi.",
-      "link": "https://www.aydinlik.com.tr/haber/abddeki-yanginda-42-bin-kisi-icin-tahliye-emri-olaganustu-hal-ilan-edildi-587648",
-      "published": "2026-08-24T08:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:42.221102+00:00"
-    },
-    {
-      "id": "ca9df98108915459",
-      "source": "Halk TV",
-      "title": "Selahattin Demirtaş: Ben Ankara'da görev almak istiyorum",
-      "summary": "Bağımsız milletvekili Kani Torun, üç ay önce tutuklu Selahattin Demirtaş ile görüştüğünü, Demirtaş&#039;ın &quot; Ben Ankara&#039;da görev almak istiyorum. Devletin üst görevleri nelerse benim hedefim bu artık&quot; dediğini aktardı.",
-      "link": "https://halktv.com.tr/turkiye/selahattin-demirtas-ben-ankarada-gorev-almak-istiyorum-1050694h",
-      "published": "2026-08-24T08:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:43.618540+00:00"
-    },
-    {
-      "id": "95ef44b34744495b",
-      "source": "Akşam",
-      "title": "Trafikte bunu yapan yandı! 7 ayda 487 bin tutanak tutuldu",
-      "summary": "Fahri trafik müfettişlerince 2026'nın ilk 7 ayında 487 bin 270 trafik kuralı ihlali tespit tutanağı düzenlenirken, seyir halinde cep telefonu veya benzeri haberleşme cihazlarının ele alınarak kullanılması ise ihlallerin en üst sırasında yer aldı.",
-      "link": "https://www.aksam.com.tr/trend/trafikte-bunu-yapan-yandi-7-ayda-487-bin-tutanak-tutuldu/haber-1692900",
-      "published": "2026-08-24T08:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:42.174678+00:00"
-    },
-    {
-      "id": "f215fdc2ffc2b5e6",
-      "source": "Star",
-      "title": "Rusya'dan Ukrayna'ya ağır suçlama: \"Özel çocuk merkezinde\" 3 çocuk öldü",
-      "summary": "Rusya'nın Çocuk Hakları Komiseri Mariya Lvova-Belova, Ukrayna'nın Krasnodar'a düzenlediği İHA saldırısında özel bir çocuk merkezinin vurulduğunu ve 3 çocuğun hayatını kaybettiğini bildirdi.",
-      "link": "https://www.star.com.tr/dunya/rusyadan-ukraynaya-agir-suclama-ozel-cocuk-merkezinde-3-cocuk-oldu-haber-2035686/",
-      "published": "2026-08-24T08:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:42.624185+00:00"
-    },
-    {
-      "id": "33f22db9f595ac30",
-      "source": "Aydınlık",
-      "title": "Kahramanmaraş okul saldırısında yeni gelişme",
-      "summary": "Kahramanmaraş&#039;ta İsa Aras Mersinli&#039;nin bir okula düzenlediği silahlı saldırıda yaşamını yitiren matematik öğretmeni Ayla Kara&#039;nın ailesi, saldırganın babası hakkında maddi ve manevi tazminat talebiyle dava açtı.",
-      "link": "https://www.aydinlik.com.tr/haber/kahramanmaras-okul-saldirisinda-yeni-gelisme-587646",
-      "published": "2026-08-24T08:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:44.473495+00:00"
-    },
-    {
-      "id": "ff3d7ce09f183aee",
-      "source": "Sabah",
-      "title": "Yargıtay'dan emsal karar! Dayak görüntüsünü kendi hesabından paylaşmıştı: 1 yıl 8 ay hapis cezası onandı",
-      "summary": "Yargıtay 12. Ceza Dairesi, dayak yediği görüntüleri sosyal medya hesabından paylaşan kişinin paylaşımlarını alarak kendi hesabından paylaşan sanığa \"verileri hukuka aykırı olarak verme veya ele geçirme\"... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/yargitaydan-emsal-karar-dayak-goruntusunu-kendi-hesabindan-paylasmisti-1-yil-8-ay-hapis-cezasi-onandi-7647358",
-      "published": "2026-08-24T08:19:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:45:42.787956+00:00"
-    },
-    {
-      "id": "26888b6a19f888fd",
-      "source": "Karar",
-      "title": "Sosyal medya çılgınlığı hayati tehlike saçıyor: Zayıflama iğnesi kullanırken bu 5 hataya sakın düşmeyin",
-      "summary": "Obezite tedavisinde 'mucize' olarak görülen GLP-1 grubu zayıflama iğnelerinin kulaktan dolma bilgilerle ve uzmansız kullanımı pankreas, safra kesesi ve tüm sindirim sisteminde ciddi hasarlara yol açabiliyor. İç Hastalıkları Uzmanı Dr. Ferhat Çetin, \"Bu ilaçlar vitamin veya gıda takviyesi değil; metabolizmayı ve hormon dengesini değiştiren güçlü tıbbi ajanlardır\" uyarısında bulunarak hayati kuralla",
-      "link": "https://www.karar.com/saglik-haberleri/sosyal-medya-cilginligi-hayati-tehlike-saciyor-zayiflama-ignesi-2067566",
-      "published": "2026-08-24T08:18:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:43.284398+00:00"
-    },
-    {
-      "id": "328d3a85a04abb2b",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Gazze ateşkesinde ikinci aşama neden hayata geçirilemiyor?",
-      "summary": "Netanyahu’nun, Trump’ın girişimlerine ve sınırlı baskısına rağmen meydan okuyucu tavrını sürdürmesi ve Gazze’de ateşkesin ikinci aşamasına geçişi engellemesi, sahadaki fiili durumu hukuki bir statüye dönüştürme arzusuna işaret etmektedir",
-      "link": "https://www.aa.com.tr/tr/analiz/gazze-ateskesinde-ikinci-asama-neden-hayata-gecirilemiyor/4035557",
-      "published": "2026-08-24T08:18:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:25:32.402528+00:00"
-    },
-    {
-      "id": "3c58ee55b9e73916",
-      "source": "Karar",
-      "title": "MEB'den 2026-2027 eğitim yılı için devrim gibi kararlar: Okullarda 4 yeni proje birden başlıyor",
-      "summary": "Milli Eğitim Bakanlığı (MEB), 2026-2027 eğitim-öğretim yılına dair yayımladığı yeni genelgeyle Türkiye genelindeki okullarda müfredatın ötesine geçerek 4 yeni dev projeyi hayata geçiriyor. Eylül ayında çalacak ders ziliyle birlikte başlayacak olan bu projeler; öğrencileri siber zorbalıktan korumayı, onlara günlük yaşam becerileri kazandırmayı, aile işbirliğini artırmayı ve okullarda sağlıklı besle",
-      "link": "https://www.karar.com/guncel-haberler/mebden-2026-2027-egitim-yili-icin-devrim-gibi-kararlar-okullarda-4-yeni-2067565",
-      "published": "2026-08-24T08:18:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:43.284453+00:00"
-    },
-    {
-      "id": "f05ead1960f554cf",
-      "source": "LOG",
-      "title": "Xiaomi Türkiye, eski cihazlar için e-Atık programını başlattı",
-      "summary": "Xiaomi Türkiye, bugün eski cihazlara yönelik olarak hazırlanan e-Atık programını duyurdu. Gelişme hakkında yapılan resmi açıklamada, &#8220;Tüm marka ve modellerde elektrikli ve elektronik cihazları kapsayan program sayesinde kullanılmayan, çalışmayan veya kullanım ömrünü tamamlamış cihazlar, geri dönüşüm sürecine dahil ediliyor. 31 Aralık 2026 tarihine kadar geçerli olacak E-Atık Programı, bu ala",
-      "link": "https://www.log.com.tr/xiaomi-turkiye-eski-cihazlar-icin-e-atik-programini-baslatti/",
-      "published": "2026-08-24T08:18:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:53.982832+00:00"
-    },
-    {
-      "id": "b5dd68f6f238cb3a",
-      "source": "Finans Gündem",
-      "title": "Tom Barack'ı zora sokan açıklama",
-      "summary": "ABD'li büyükelçi, İsrail'in Golan Tepelerini işgal ettiği şeklindeki açıklama sonrası 2019 kararı hatırlatılınca 'kem küm' etti. Barracak, \"Sözlerim BM'nin tutumuna onay değil. Tarihi süreci dile getirdim. ABD'nin 2019 kararında değişiklik yok\" dedi.",
-      "link": "https://www.finansingundemi.com/haber/tom-baracki-zora-sokan-aciklama/1905953",
-      "published": "2026-08-24T08:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:35:53.281190+00:00"
-    },
-    {
-      "id": "d96bf2739aecceb2",
-      "source": "Akşam",
-      "title": "Performansı göz doldurdu... Dünya Mohamed Salah'ı konuşuyor",
-      "summary": "Trabzonspor, Süper Lig'in 2. haftasında sahasında Başakşehir'i Mısırlı yıldızı Muhammed Salah'ın golleriyle 2-1 mağlup etti. Mısırlı yıldızın performansı ise Avrupa basınında geniş yer buldu. İşte detaylar...",
-      "link": "https://www.aksam.com.tr/spor/performansi-goz-doldurdu-dunya-mohamed-salahi-konusuyor/haber-1692899",
-      "published": "2026-08-24T08:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:42.174716+00:00"
-    },
-    {
-      "id": "9c3315ff620d0149",
-      "source": "Ekonomim",
-      "title": "YENİ Parti’de bıçaklı saldırı sonrası karar: Seydi Ahmet Keleş ihraç edildi",
-      "summary": "Gaziantep’te YENİ Parti Milletvekili Melih Meriç’i bıçaklayarak yaraladığı gerekçesiyle tutuklanan Seydi Ahmet Keleş, partisinden kesin ihraç edildi.",
-      "link": "https://www.ekonomim.com/gundem/yeni-partide-bicakli-saldiri-sonrasi-karar-seydi-ahmet-keles-ihrac-edildi-haberi-913905",
-      "published": "2026-08-24T08:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:50.863240+00:00"
-    },
-    {
-      "id": "12cd1667d01ef418",
-      "source": "Halk TV",
-      "title": "Acun Ilıcalı anında servet dökerek yüklü bir zam yaptı: Hemen imzalattı",
-      "summary": "Acun Ilıcalı sahibi olduğu Hull City&#039;nin Manchester United&#039;ı yenmesinin ardından anında yüklü bir zam yaptı. Hemen imzalattı.",
-      "link": "https://halktv.com.tr/spor/acun-ilicali-aninda-servet-dokerek-yuklu-bir-zam-yapti-hemen-imzalatti-1050692h",
-      "published": "2026-08-24T08:17:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:45.619052+00:00"
-    },
-    {
-      "id": "55de8a245d2a8c80",
-      "source": "Cumhuriyet",
-      "title": "Soruşturma başlatıldı: Plazadaki yangının boyutu, gün ağarınca ortaya çıktı",
-      "summary": "Diyarbakır'da 13 katlı bir plazada çıkan, 3'ü itfaiye eri 5 kişinin dumandan etkilendiği yangının boyutu, gün ağarınca ortaya çıktı. Binadaki son durum, dronla görüntülendi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/sorusturma-baslatildi-plazadaki-yanginin-boyutu-gun-agarinca-ortaya-cikti-2531844",
-      "published": "2026-08-24T08:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:36.025031+00:00"
-    },
-    {
-      "id": "5f524a15869d15a2",
-      "source": "Millî Gazete",
-      "title": "Dövizde tansiyon düşmüyor: Dolar 48, Euro 56 lirayı aştı",
-      "summary": "Türk lirasının döviz karşısındaki eriyişi yeni haftada da hız kesmeden devam ederken, İstanbul serbest piyasada dolar 48 lirayı, euro ise 56 lirayı geçerek güne kritik seviyelerin üzerinde başladı.",
-      "link": "https://www.milligazete.com.tr/dovizde-tansiyon-dusmuyor-dolar-48-euro-56-lirayi-asti",
-      "published": "2026-08-24T08:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:44.827888+00:00"
-    },
-    {
-      "id": "081622dca46ef435",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Milli para halterci Çağdaş Kaya, başarılarını dünya şampiyonluğuyla taçlandırmak istiyor",
-      "summary": "Kayseri'de doğuştan boy kısalığı bulunan 1 metre 36 santimetre boyundaki milli para halterci Çağdaş Kaya, bu yıl elde ettiği Avrupa ikinciliğinin ardından gözünü dünya şampiyonluğuna dikti.",
-      "link": "https://www.aa.com.tr/tr/spor/milli-para-halterci-cagdas-kaya-basarilarini-dunya-sampiyonluguyla-taclandirmak-istiyor/4035552",
-      "published": "2026-08-24T08:16:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:35.681685+00:00"
-    },
-    {
-      "id": "3b1eed49d06ccdb6",
-      "source": "Gerçek Gündem",
-      "title": "Kuriş Ailesinin Mal Varlığı Dudak Uçuklattı! 1.818 Tapu Hareketliliği, Yarış Atları, Lüks Araçlar...",
-      "summary": "&#039;Alihan Kuriş Suç Örgütü&#039;ne yönelik düzenlenen operasyonda Kuriş ve ailesinin mal varlığı inceleme altına alındı. MASAK raporunda, Kuriş ailesine üye 4 kişi üzerinden 1.818 tapu kaydı işlemi yapıldığı tespit edilirken, Alihan Kuriş&#039;in kullandığı lüks araçlarla sahip olduğu yarış atları da dikkat çekti.",
-      "link": "https://www.gercekgundem.com/guncel/kuris-ailesinin-mal-varligi-dudak-ucuklatti-1818-tapu-hareketliligi-yaris-atlari-luks-araclar-577296",
-      "published": "2026-08-24T08:16:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:49.213547+00:00"
-    },
-    {
-      "id": "0359c0843c9917a9",
-      "source": "Halk TV",
-      "title": "Afrika'nın en zengin 2. ülkesinde dev rezerv bulundu: Ülkeyi satın almak istiyorlar",
-      "summary": "Afrika&#039;nın en zengin ikinci ülkesi Mauritius, sınırlarını genişleterek kritik minerallerle dolu alanların sahibi oldu. Karar, ABD&#039;nin mahkeme kararı ile Mauritius&#039;a iade edilmesi gereken Chagos Adaları&#039;nı satın alacağı dedikoduları arasında geldi.",
-      "link": "https://halktv.com.tr/dunya/afrikanin-en-zengin-2-ulkesinde-dev-rezerv-bulundu-ulkeyi-satin-almak-istiyorlar-1050691h",
-      "published": "2026-08-24T08:16:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:45.619092+00:00"
-    },
-    {
-      "id": "19c97276c4a9d419",
-      "source": "Yeniçağ",
-      "title": "Night City'ye dönüş vakti netleşti: Cyberpunk: Edgerunners 2. sezonuyla geliyor",
-      "summary": "CD Projekt Red ve Studio Trigger iş birliğiyle hazırlanan fenomen anime dizisi Cyberpunk: Edgerunners, merakla beklenen 2. sezonuyla izleyici karşısına çıkmaya hazırlanıyor.",
-      "link": "https://www.yenicaggazetesi.com/night-cityye-donus-vakti-netlesti-cyberpunk-edgerunners-2-sezonuyla-geliyor-1064913h.htm",
-      "published": "2026-08-24T08:16:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:43.695123+00:00"
-    },
-    {
-      "id": "0e0c2fd135b5d68d",
-      "source": "Milliyet",
-      "title": "Milletvekilini bıçaklayan Keleş, Yeni Parti'den ihraç edildi",
-      "summary": "Olay, 18 Ağustos'ta Akkent Mahallesi’nde meydana geldi. Yeni Parti Gaziantep Milletvekili Melih Meriç ile CHP Oğuzeli İlçe Başkanlığı görevinden ve partisinden istifa edip, kurulan Yeni Parti'ye geçen Seydi Ahmet Keleş arasında tartışma çıktı. Tartışma kısa sürede kavgaya dönüştü. Kavga sırasında Seydi Ahmet Keleş, Meriç'i bıçaklayarak kaçtı. Çevredekilerin 112 Acil Çağrı Merkezi'ne ihbarı üzerine",
-      "link": "https://www.milliyet.com.tr/gundem/milletvekilini-bicaklayan-keles-yeni-partiden-ihrac-edildi-7647123",
-      "published": "2026-08-24T08:16:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:41.651900+00:00"
-    },
-    {
-      "id": "a34e7f44b1a739f3",
-      "source": "Yeniçağ",
-      "title": "Topuklu ayakkabı seçiminde zarafet ve konfor dengesi",
-      "summary": "Topuklu ayakkabılar, doğru seçildiğinde gardırobun havasını anında değiştirebilir. Davetlerden ofis kombinlerine kadar farklı stillere uyum sağlayan modeller, şıklığı tamamlar. Ancak seçim yaparken yalnızca tasarıma değil, kullanım amacına ve rahatlığa da dikkat etmek gerekir.",
-      "link": "https://www.yenicaggazetesi.com/topuklu-ayakkabi-seciminde-zarafet-ve-konfor-dengesi-1064912h.htm",
-      "published": "2026-08-24T08:16:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:43.695162+00:00"
-    },
-    {
-      "id": "18fae426175e6c95",
-      "source": "Yeniçağ",
-      "title": "Fatih Tekke \"Yıldız gelecek\" demişti, ismi belli oldu",
-      "summary": "Salah ve Fabinho yetmedi, Trabzonspor yeni forvet bombasını patlatmaya hazırlanıyor! Fatih Tekke&#039;nin işaret ettiği o dünya yıldızı için rota Almanya... Bordo-mavililer, Bundesliga devinden yıldız golcüyü satın alma opsiyonuyla kadroya katmak üzere düğmeye bastı.",
-      "link": "https://www.yenicaggazetesi.com/fatih-tekke-yildiz-gelecek-demisti-ismi-belli-oldu-1064914h.htm",
-      "published": "2026-08-24T08:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:40:47.915941+00:00"
-    },
-    {
-      "id": "6261d5ccfa3fde73",
-      "source": "Ekonomim",
-      "title": "TCMB'den repo adımı: Volkan Dükkancık'tan faiz indirim beklentisi ve detaylı borsa hisse analizleri",
-      "summary": "Nasıl Bir Ekonomi TV YouTube kanalında yayınlanan Piyasanın Pusulası programında, Pusula Yatırım Yatırım Danışmanlığı ve Strateji Direktörü Volkan Dükkancık, Türkiye Cumhuriyet Merkez Bankası’nın (TCMB) yaklaşık 6 ayın ardından repo ihalelerine geri dönüş kararını ve küresel piyasalardaki son gelişmeleri değerlendirdi. Kararın doğrudan bir faiz indirimi olmasa da normalleşmeyle birlikte faizlerin ",
-      "link": "https://www.ekonomim.com/finans/haberler/tcmbden-repo-adimi-volkan-dukkanciktan-faiz-indirim-beklentisi-ve-detayli-borsa-hisse-analizleri-haberi-913906",
-      "published": "2026-08-24T08:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:50.863305+00:00"
-    },
-    {
-      "id": "31b8ecf1acea4abf",
-      "source": "Karar",
-      "title": "Melih Meriç'i bıçaklamıştı: YENİ Parti'den 'Seydi Ahmet Keleş' kararı",
-      "summary": "YENİ Parti Gaziantep Milletvekili Melih Meriç’i bıçaklayarak yaraladığı gerekçesiyle tutuklanan Seydi Ahmet Keleş, partiden ihraç edildi. Saldırıda ağır yaralanan Meriç’in tedavisi ise İstanbul’da devam ediyor.",
-      "link": "https://www.karar.com/guncel-haberler/melih-merici-bicaklamisti-yeni-partiden-seydi-ahmet-keles-karari-2067564",
-      "published": "2026-08-24T08:15:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:47.292853+00:00"
-    },
-    {
-      "id": "3130520709d911df",
-      "source": "Diken",
-      "title": "Goldman Sachs dolar/lira tahminini yükseltti",
-      "summary": "Goldman Sachs dolar/lira tahminini yükseltti 24.08.2026 Diken ABD'li yatırım bankası Goldman Sachs, liradaki aylık değer kaybının hızlanmasını gerekçe göstererek dolar tahminlerini yukarı çekti. The post Goldman Sachs dolar/lira tahminini yükseltti appeared first on #site_linkat 24.08.2026 .",
-      "link": "https://www.diken.com.tr/goldman-sachs-dolar-lira-tahminini-yukseltti/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-dolar-lira-tahminini-yukseltti",
-      "published": "2026-08-24T08:15:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:51.244670+00:00"
-    },
-    {
-      "id": "704a458dff7dc23d",
-      "source": "İklim Haber",
-      "title": "Direnen Maden İşçileri: “Bakanlık Sözünü Tutmazsa Cumhurbaşkanlığı’na Yürüyeceğiz”",
-      "summary": "Doruk Madencilik ve Eti Gümüş işçilerinin Bakanlık önündeki direnişi 14. gününde devam ediyor. Görüşme talepleri yanıtsız kalan maden işçileri, salı gününe kadar sözlerin tutulmaması durumunda çarşamba günü Cumhurbaşkanlığı’na yürüyeceklerini duyurdu. Enerji Bakanlığı önündeki eylemlerinde 14. günü geride bırakan madenciler, salı gününe kadar sözlerin tutulmaması durumunda çarşamba günü Cumhurbaşk",
-      "link": "https://www.iklimhaber.org/direnen-maden-iscileri-bakanlik-sozunu-tutmazsa-cumhurbaskanligina-yuruyecegiz/",
-      "published": "2026-08-24T08:15:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:16:06.790977+00:00"
-    },
-    {
-      "id": "d3044cc91f8501c5",
-      "source": "Gazete Pencere",
-      "title": "Melih Meriç'i bıçaklayan Seydi Ahmet Keleş, YENİ Parti'den ihraç edildi",
-      "summary": "Gaziantep’te YENİ Parti Milletvekili Melih Meriç’i bıçaklayarak yaraladığı gerekçesiyle tutuklanan Seydi Ahmet Keleş, partisinden kesin ihraç edildi.",
-      "link": "https://www.gazetepencere.com/gundem/melih-merici-bicaklayan-seydi-ahmet-keles-yeni-partiden-ihrac-edildi-712920h",
-      "published": "2026-08-24T08:15:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:50.223875+00:00"
-    },
-    {
-      "id": "52beadadd260e5f8",
-      "source": "Hürriyet",
-      "title": "Milletvekili Melih Meriç'i bıçaklayan Seydi Ahmet Keleş Yeni Parti’den ihraç edildi",
-      "summary": "Gaziantep'te Yeni Parti Milletvekili Melih Meriç'i bıçaklayarak yaralayan ve 'kasten öldürmeye teşebbüs' suçundan tutuklanan Seydi Ahmet Keleş, partisinden kesin olarak ihraç edildi. Saldırıda ağır yaralanan ve tedavisi için ambulans uçakla İstanbul’a sevk edilen milletvekili Meriç'in sağlık durumunun ise iyiye gittiği belirtildi.",
-      "link": "https://www.hurriyet.com.tr/gundem/milletvekili-melih-merici-bicaklayan-seydi-ahmet-keles-yeni-partiden-ihrac-edildi-43283220",
-      "published": "2026-08-24T08:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:50:37.911513+00:00"
-    },
-    {
-      "id": "dbb4e412d50512ce",
-      "source": "Cumhuriyet",
-      "title": "Mevduat faizi oranları sil baştan: İşte banka banka 1 milyon TL'nin 32 günlük getirisi",
-      "summary": "Enflasyona karşı birikimlerini korumak isteyen yurttaşların en çok tercih ettiği yatırım araçlarından olan vadeli mevduat hesaplarında rakamlar güncellendi. 1 milyon TL'lik birikimin 32 günlük vade sonundaki net getirisi bankalara göre büyük farklılıklar göstererek 31 bin TL seviyelerini aşıyor. Finans piyasalarındaki son verilere göre Türkiye Finans, Hayat Finans, Türk Ticaret Bankası, DenizBank,",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/mevduat-faizi-oranlari-sil-bastan-iste-banka-banka-1-milyon-tl-nin-32-gunluk-getirisi-2531832",
-      "published": "2026-08-24T08:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:38.646697+00:00"
-    },
-    {
-      "id": "d678827051c453d4",
-      "source": "Yeniçağ",
-      "title": "The Pitt'in fragmanı geldi, yayın takvimi netleşti",
-      "summary": "Son dönemin en başarılı medikal dramalarından biri olarak öne çıkan The Pitt, yayınlanan 2. sezonunun ardından yerini sağlamlaştırmaya devam ediyor. HBO&#039;nun amiral gemisi yapımları arasında yer alan dizinin merakla beklenen 3. sezonuna ait ilk fragman paylaşıldı ve yayın tarihi resmen duyuruldu.",
-      "link": "https://www.yenicaggazetesi.com/ekranlarin-sevilen-dizisi-the-pitt-cephesinde-sicak-gelisme-beklenen-fragman-geldi-yayin-takvimi-netlesti-1064911h.htm",
-      "published": "2026-08-24T08:14:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:47.774438+00:00"
-    },
-    {
-      "id": "027a69c67b5f4cbd",
-      "source": "Milliyet",
-      "title": "Burdur’da Türk bayrağına silahlı saldırı! Av tüfeğiyle ateş açıldı",
-      "summary": "Kentte yamaç paraşütü sporcularının atlayış yaptığı Avşar Tepe'de 20 metrelik direğe asılı Türk bayrağına kimliği belirsiz kişi ya da kişiler tarafından av tüfeği ile ateş edilerek zarar verildi. TÜRK BAYRAĞINA TÜFEKLE ZARAR VERİLDİ Türkiye Hava Sporları Federasyonu İl Temsilcisi ve Burdur Yamaç Paraşütü Spor Kulübü Başkanı Fatih Kılıçaslan, önümüzdeki ay Burdur'da yapılacak Türkiye Yamaç Paraşütü",
-      "link": "https://www.milliyet.com.tr/gundem/burdurda-turk-bayragina-silahli-saldiri-av-tufegiyle-ates-acildi-7647126",
-      "published": "2026-08-24T08:14:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:41.651737+00:00"
-    },
-    {
-      "id": "523dc1dafd557ce2",
-      "source": "Bir Gün",
-      "title": "İsrail, Gazze ateşkesini 315 günde binlerce kez ihlal etti",
-      "summary": "Gazze’de ateşkesin yürürlüğe girmesinden bu yana 315 günde İsrail’in anlaşmayı 4 bin 379 kez ihlal ettiği bildirildi. İhlallerde 1286 Filistinli hayatını kaybederken, Gazze’ye ulaşması gereken yardımların yalnızca yüzde 35’i bölgeye girebildi.",
-      "link": "https://www.birgun.net/haber/israil-gazze-ateskesini-315-gunde-binlerce-kez-ihlal-etti-730861",
-      "published": "2026-08-24T08:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T09:15:41.795243+00:00"
-    },
-    {
-      "id": "03f4798db6427053",
-      "source": "Akşam",
-      "title": "Zelenski: Rusya'yı iradeyle yeniyoruz",
-      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, ülkenin bağımsızlığı için mücadele ettiklerini kaydederek, \"Biz, Rusya'yı iradeyle, teknolojiyle, dirençle, onurla, tüm bunlarla artık yeniyoruz.\" ifadesini kullandı.",
-      "link": "https://www.aksam.com.tr/dunya/zelenski-rusyayi-iradeyle-yeniyoruz/haber-1692898",
-      "published": "2026-08-24T08:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:44.271976+00:00"
-    },
-    {
-      "id": "6af993e8bea88f33",
-      "source": "Star",
-      "title": "Yargıtay'dan sosyal medya için emsal karar! Dayak görüntüsünü yayan sanık hapisten kurtulamadı",
-      "summary": "Sosyal medyada başkasına ait görüntüyü yeniden paylaşmak hapis cezasına yol açtı. Yargıtay 12. Ceza Dairesi, dayak görüntülerini kendi hesabından paylaşan sanığa verilen 1 yıl 8 aylık cezayı onadı.",
-      "link": "https://www.star.com.tr/guncel/yargitaydan-sosyal-medya-icin-emsal-karar-dayak-goruntusunu-yayan-sanik-hapisten-kurtulamadi-haber-2035685/",
-      "published": "2026-08-24T08:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:46.373253+00:00"
-    },
-    {
-      "id": "780aee8cd6273b0f",
-      "source": "Halk TV",
-      "title": "Kayyumdaki ilçede anket sonuçları ortaya çıktı! AKP'nin oyları eridi YENİ Parti zirveyi aldı",
-      "summary": "Kayyum yönetimindeki Türkiye&#039;nin en kalabalık ilçesi Esenyurt&#039;ta son anket sonuçları ortaya çıktı. Ankete göre AKP 6 puanlık sert düşüş yaşanırken, YENİ Parti zirveye oturdu.",
-      "link": "https://halktv.com.tr/turkiye/kayyumdaki-ilcede-anket-sonuclari-ortaya-cikti-akpnin-oylari-eridi-yeni-parti-zirveyi-aldi-1050690h",
-      "published": "2026-08-24T08:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:50.943612+00:00"
-    },
-    {
-      "id": "c49d0c204891fb90",
-      "source": "Gazete Pencere",
-      "title": "Enes Ünal gollerle geri döndü",
-      "summary": "Yeni takımı Getafe'de yeniden form yakalamayı hedefleyen Enes Ünal, üçüncü maçında ikinci golünü attı.",
-      "link": "https://www.gazetepencere.com/spor/enes-unal-gollerle-geri-dondu-712919h",
-      "published": "2026-08-24T08:13:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:50.223906+00:00"
-    },
-    {
-      "id": "35e0da2c44058e1e",
-      "source": "Euronews Türkçe",
-      "title": "Kuraklık: Fransız patates üreticileri rekor hasatta büyük düşüşten endişeli",
-      "summary": "Bu yıl Fransa’da patates hasadı son derece zor geçecek. Beş sıcak hava dalgası ve aylarca süren kuraklık sonrası üreticiler verimde sert düşüş bekliyor.",
-      "link": "http://tr.euronews.com/2026/08/24/kuraklik-fransiz-patates-ureticileri-rekor-hasatta-buyuk-dususten-endiseli",
-      "published": "2026-08-24T08:13:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:31:18.263830+00:00"
-    },
-    {
-      "id": "43df2c789f357c6b",
-      "source": "Yeniçağ",
-      "title": "12 gündür kayıp olarak aranan Alzheimer hastası ölü bulundu",
-      "summary": "Bolu’nun Mengen ilçesinde 12 gündür kendisinden haber alınamayan 69 yaşındaki Alzheimer hastası Necati Çelen, evine yaklaşık 2 kilometre uzaklıktaki dere yatağında ölü bulundu.",
-      "link": "https://www.yenicaggazetesi.com/12-gundur-kayip-olarak-aranan-alzheimer-hastasi-olu-bulundu-1064910h.htm",
-      "published": "2026-08-24T08:13:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:47.774478+00:00"
-    },
-    {
-      "id": "67f4abf6cca72e1f",
-      "source": "Bir Gün",
-      "title": "Casting agency supplying extras was not paid",
-      "summary": "A new twist in the extras scandal at the CHP ceremony. Confessions from İne, the owner of MERS Agency, who claims they have not been paid despite a month having passed since the event: “We agreed with Özkaş to send extras to the CHP. I was told on CNN Türk that payment would be made. I went on the programme and lied, but I was still not paid, as it was stated that the party had not made the paymen",
-      "link": "https://www.birgun.net/haber/casting-agency-supplying-extras-was-not-paid-730862",
-      "published": "2026-08-24T08:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T09:15:41.795287+00:00"
-    },
-    {
-      "id": "caf389785e9607fc",
-      "source": "Finans Gündem",
-      "title": "İkinci el otomobil fiyatlarında yeni düşüş beklentisi!",
-      "summary": "2026, araç satmak isteyenler için beklenen bir yıl olmadı. İkinci el otomobil fiyatları son 5 aydır aralıksız geriliyor. Peki, yıl sonuna kadar fiyatlarda ne kadar daha düşüş bekleniyor? İşte 2. el otomobil piyasasına ilişkin beklentiler ve detaylar...",
-      "link": "https://www.finansingundemi.com/haber/ikinci-el-otomobil-fiyatlarinda-yeni-dusus-beklentisi/1905952",
-      "published": "2026-08-24T08:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:20:52.141220+00:00"
-    },
-    {
-      "id": "1157bcdc3dc2d856",
-      "source": "Star",
-      "title": "Özlem Gültekin'in ölümünde yeni detay! Gizli görüntülerle şantaj iddiası",
-      "summary": "Doktor Özlem Gültekin'in ölümüyle ilgili soruşturma sürüyor. Gültekin'in madde kullanırken kaydedildiği iddia edilen gizli görüntülerinin 10 bin dolara eski eşine satılmaya çalışıldığı iddia edildi.",
-      "link": "https://www.star.com.tr/guncel/ozlem-gultekinin-olumunde-yeni-detay-gizli-goruntulerle-santaj-iddiasi-haber-2035684/",
-      "published": "2026-08-24T08:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:46.373290+00:00"
-    },
-    {
-      "id": "abdc9a73d56b6133",
-      "source": "DonanımHaber",
-      "title": "Çinli AliExpress’in duyulmayan seslerle kullanıcıları takip ettiği ortaya çıktı",
-      "summary": "AliExpress’in kullanıcı fark etmeden tarayıcıda gizlice ses işlemleri yaptığı ortaya çıktı. Sistem, cihazları tanımak için ses donanımı ve farklı donanım verilerinden yararlanıyor.",
-      "link": "https://www.donanimhaber.com/aliexpress-duyulmayan-seslerle-kullanicilari-takip-ediyor--209652",
-      "published": "2026-08-24T08:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:16:05.101680+00:00"
-    },
-    {
-      "id": "a28e276c6cde6b8d",
-      "source": "Yeniçağ",
-      "title": "TÜİK açıkladı: Konut piyasasında dikkat çeken değişim, yapı ruhsatlarında düşüş",
-      "summary": "Türkiye’de 2026 yılının ikinci çeyreğinde yapı ruhsatı verilen bina sayısı yüzde 2,0, daire sayısı yüzde 9,5 ve toplam yüzölçüm yüzde 7,4 azaldı. Buna karşın yapı kullanma izin belgesi verilen binaların yüzölçümü yüzde 5,8 arttı.",
-      "link": "https://www.yenicaggazetesi.com/tuik-acikladi-konut-piyasasinda-dikkat-ceken-degisim-yapi-ruhsatlarinda-dusus-1064909h.htm",
-      "published": "2026-08-24T08:12:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:47.774517+00:00"
-    },
-    {
-      "id": "4da68e690362e033",
-      "source": "Karar",
-      "title": "Konserve, salça, reçel, kuruluk… Güneşin bereketi kış sofralarına yansıyacak",
-      "summary": "Manisa’nın Sarıgöl ilçesinde ev hanımlarının kış hazırlığı için mesaisi başladı. Kış aylarında tüketilmek için bölgede yetişen ürünlerden çeşit çeşit konserve, salça, reçel, kuruluk yapılıyor.",
-      "link": "https://www.karar.com/sehir-haberleri/konserve-salca-recel-kuruluk-gunesin-bereketi-kis-sofralarina-yansiyacak-2067563",
-      "published": "2026-08-24T08:12:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T08:15:47.292893+00:00"
     }
   ]
 }

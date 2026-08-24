@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-24T23:15:56.280816+00:00",
+  "last_updated": "2026-08-24T23:21:03.259992+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 573,
+  "new_items_this_run": 599,
   "items": [
+    {
+      "id": "155e9f2506da5fa0",
+      "source": "Yeniçağ",
+      "title": "YENİÇAĞ Gazetesi: AZİZ İHSAN AKTAŞ DIŞINDA HERKESE CEZA YAĞMURU",
+      "summary": "YENİÇAĞ Gazetesi bugün, &#039;AZİZ İHSAN AKTAŞ DIŞINDA HERKESE CEZA YAĞMURU&#039; başlığıyla çıktı.",
+      "link": "https://www.yenicaggazetesi.com/yenicag-gazetesi-aziz-ihsan-aktas-disinda-herkese-ceza-yagmuru-1065162h.htm",
+      "published": "2026-08-24T23:20:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T23:20:44.941877+00:00"
+    },
     {
       "id": "39679c3bd572ed3f",
       "source": "Türkiye Gazetesi",
@@ -74,6 +85,17 @@
       "fetched_at": "2026-08-24T23:10:39.397711+00:00"
     },
     {
+      "id": "f8fbcd997e6ec386",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kolombiya Cumhurbaşkanı De la Espriella: Deprem bölgeleri yeniden inşa edilecek",
+      "summary": "BOGOTA (AA) - Kolombiya Cumhurbaşkanı Abelardo de la Espriella, ülkede 10 Ağustos'ta meydana gelen 7,4 büyüklüğündeki depremin ardından felaket bölgelerinin yeniden inşasına başlanılacağını duyurdu.",
+      "link": "https://www.aa.com.tr/tr/dunya/kolombiya-cumhurbaskani-de-la-espriella-deprem-bolgeleri-yeniden-insa-edilecek/4036356",
+      "published": "2026-08-24T23:07:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T23:20:36.693048+00:00"
+    },
+    {
       "id": "b4566a692aeb3c38",
       "source": "Finans Gündem",
       "title": "ABD’den İran'a tehdit: Gerekirse askeri saldırıya yeniden başlarız",
@@ -138,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T23:05:29.379497+00:00"
+    },
+    {
+      "id": "fa35b83329d278f9",
+      "source": "Evrensel",
+      "title": "İstanbul'da yasa dışı bahis reklamı operasyonu: Sosyal medya fenomeni 'Rıdvan abi' ve 3 kişi tutuklandı",
+      "summary": "İstanbul'da, yasa dışı bahis sitesinin reklamı için video içerikleri hazırlayıp sosyal medyada paylaştığı iddiasıyla gözaltına alınan aralarında sosyal medya fenomeni 'Rıdvan abi'nin de bulunduğu 4 şüpheli tutuklandı.",
+      "link": "https://www.evrensel.net/haber/5997667/istanbulda-yasa-disi-bahis-reklami-operasyonu-sosyal-medya-fenomeni-ridvan-abi-ve-3-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-24T23:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T23:20:40.024952+00:00"
     },
     {
       "id": "ad5486e6ef2314b1",
@@ -556,6 +589,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T22:41:06.993286+00:00"
+    },
+    {
+      "id": "5743c300cd292d14",
+      "source": "Evrensel",
+      "title": "ABD Savunma Bakanı Hegseth: Gerekirse İran'a yönelik saldırılara yeniden başlayabiliriz",
+      "summary": "ABD Savunma Bakanı Pete Hegseth, gerekirse ABD ordusunun İran'a yönelik saldırılara yeniden başlayabileceğini söyledi.",
+      "link": "https://www.evrensel.net/haber/5997666/abd-savunma-bakani-hegseth-gerekirse-iran-a-yonelik-saldirilara-yeniden-baslayabiliriz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-24T22:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T23:20:40.024988+00:00"
     },
     {
       "id": "77c816b96d6f2f4f",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T19:15:42.754884+00:00"
-    },
-    {
-      "id": "ffaf976ec234444e",
-      "source": "Evrensel",
-      "title": "Tekirdağ Büyükşehir Belediye Başkanı Yüceer, Yeni Parti'ye geçti",
-      "summary": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, CHP'den istifa ederek Yeni Parti'ye geçti.",
-      "link": "https://www.evrensel.net/haber/5997647/tekirdag-buyuksehir-belediye-baskani-yuceer-yeni-parti-ye-gecti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-24T19:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T20:15:39.331236+00:00"
-    },
-    {
-      "id": "69a3394fda2b6b55",
-      "source": "Evrensel",
-      "title": "Tekirdağ Büyükşehir Belediye Başkanı Yüceer, Yeni Parti'ye geçti",
-      "summary": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, CHP'den istifa ederek Yeni Parti'ye geçti.",
-      "link": "https://www.evrensel.net/haber/5997647/tekirdag-buyuksehir-belediye-baskani-yuceer-yeni-partiye-gecti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-24T19:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T19:15:41.355320+00:00"
-    },
-    {
-      "id": "69d21291306c402c",
-      "source": "DonanımHaber",
-      "title": "İran bağlantılı hackerlar İngiltere’deki elektrik santralini devre dışı bıraktı",
-      "summary": "İran bağlantılı hackerlar, İngiltere’deki küçük bir elektrik santralini siber saldırıyla dört gün devre dışı bıraktı. Hükümet, ülkenin enerji sisteminin risk altında olmadığını açıkladı.",
-      "link": "https://www.donanimhaber.com/iranli-hackerlar-ingiltere-deki-elektrik-santraline-saldirdi--209684",
-      "published": "2026-08-24T19:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T19:11:05.304336+00:00"
-    },
-    {
-      "id": "e91a60445b57df3a",
-      "source": "Yeni Şafak",
-      "title": "Antalya'da klimadan çıkan yangında daire kullanılamaz hale geldi",
-      "summary": "Antalya Konyaaltı'nda bir apartmanın 3'üncü katında klimadan çıkan yangında ev kullanılamaz hale gelirken, dairede kimsenin olmaması sayesinde can kaybı yaşanmadı.",
-      "link": "https://www.yenisafak.com/gundem/antalyada-klimadan-cikan-yanginda-daire-kullanilamaz-hale-geldi-4850591",
-      "published": "2026-08-24T19:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T19:10:46.100753+00:00"
     }
   ]
 }

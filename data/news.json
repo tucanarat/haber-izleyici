@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-08-24T22:01:24.399582+00:00",
+  "last_updated": "2026-08-24T22:06:13.460229+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 588,
+  "new_items_this_run": 575,
   "items": [
+    {
+      "id": "059ccc7fa0cbec5b",
+      "source": "Karar",
+      "title": "iPhone ve Mac modellerinde yeni dönem: Satın almak yerine kiralayın",
+      "summary": "Apple, kullanıcılarına cihaz satın alma zorunluluğu olmadan en yeni ürünleri deneyimleme fırsatı sunan Apple Upgrade programını ABD'de hayata geçirdi. Klarna ortaklığıyla yürütülen sistem; iPhone, iPad, Mac ve Apple Watch modellerini aylık esnek ödemelerle kiralama ve dönem sonunda yükseltme imkanı sağlıyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/iphone-kiralama-ucreti-ne-kadar-apple-upgrade-nedir-nasil-2067736",
+      "published": "2026-08-24T22:03:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:40.568208+00:00"
+    },
+    {
+      "id": "fa29534e7fece0b4",
+      "source": "Karar",
+      "title": "Selçuk İnan: Hak edilmiş bir galibiyetti",
+      "summary": "​​​​​​​Kocaelispor Teknik Direktörü Selçuk İnan, Amed Sportif Faaliyetler’i 2-0 mağlup ettikleri karşılaşmanın ardından galibiyeti yeşil-siyahlı taraftarlara armağan etti. İnan, transfer çalışmalarının sürdüğünü belirterek orta saha ve forvet için görüşmeler yaptıklarını açıkladı.",
+      "link": "https://www.karar.com/spor-haberleri/selcuk-inan-hak-edilmis-bir-galibiyetti-2067735",
+      "published": "2026-08-24T22:03:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:40.568249+00:00"
+    },
+    {
+      "id": "cefa72100da36586",
+      "source": "Akşam",
+      "title": "Silva derbisi",
+      "summary": "Sarı-Kırmızılılar, Borussia Dortmund forması giyen Fabio Silva için devreye girdi. 24 yaşındaki Portekizli golcü ile Trabzonspor da ilgileniyor.",
+      "link": "https://www.aksam.com.tr/spor/silva-derbisi/haber-1693058",
+      "published": "2026-08-24T22:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:37.762507+00:00"
+    },
+    {
+      "id": "1f5c9c5acf908ccf",
+      "source": "Yeni Akit",
+      "title": "Yasa dışı bahise darbe! Çok sayıda kişi tutuklandı",
+      "summary": "Çankırı merkezli yasa dışı bahis soruşturmasında hesaplarında 2 milyar 410 milyon lirayı aşan işlem hacmi belirlenen şüphelilere yönelik operasyonlarda gözaltına alınan 39 kişiden 31’i tutuklandı.",
+      "link": "https://www.yeniakit.com.tr/haber/yasa-disi-bahise-darbe-cok-sayida-kisi-tutuklandi-2019224.html",
+      "published": "2026-08-24T22:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:40.272021+00:00"
+    },
     {
       "id": "08959088b511e84b",
       "source": "Akşam",
@@ -63,6 +107,17 @@
       "fetched_at": "2026-08-24T22:01:01.766260+00:00"
     },
     {
+      "id": "50fea45719467d44",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Suluin Mağarası'nda 117 metre derinliğe ulaşılıp dalgıçlar için kılavuz hat çekildi",
+      "summary": "Antalya'nın Finike ilçesindeki Suluin Mağarası'nda gerçekleştirilen teknik dalışlarda 117 metre derinliğe ulaşıldı.",
+      "link": "https://www.aa.com.tr/tr/kultur/suluin-magarasinda-117-metre-derinlige-ulasilip-dalgiclar-icin-kilavuz-hat-cekildi-/4036345",
+      "published": "2026-08-24T21:55:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:31.367688+00:00"
+    },
+    {
       "id": "25cf5f23976223d7",
       "source": "Cumhuriyet",
       "title": "YENİ Parti'den üyelik çağrısı: Genel başkanı üyeler seçecek",
@@ -94,6 +149,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T21:55:36.126338+00:00"
+    },
+    {
+      "id": "8e208e9cd9cf26dc",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Lübnan'da savaş kalıntıları ve atıklardan yapılan dev \"plastik kalp\" Guinness'e aday",
+      "summary": "Ateşkese rağmen İsrail saldırılarının sürdüğü Lübnan, savaş kalıntıları ve geri dönüşüm malzemelerinden yapılan dünyanın en büyük \"plastik kalbi\" ile Guinness Rekorlar Kitabı'na girmeye hazırlanıyor.",
+      "link": "https://www.aa.com.tr/tr/dunya/lubnanda-savas-kalintilari-ve-atiklardan-yapilan-dev-plastik-kalp-guinnesse-aday/4036344",
+      "published": "2026-08-24T21:54:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:31.367726+00:00"
     },
     {
       "id": "580a03d8118b98a0",
@@ -171,6 +237,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T21:50:46.076058+00:00"
+    },
+    {
+      "id": "7f8151c65e25b7fd",
+      "source": "Habertürk",
+      "title": "Türkiye'den Fransa'ya karpuz getirtti",
+      "summary": "Saint-Tropez'de tatil yapan Ebru Yaşar, canı Diyarbakır karpuzu çekince Türkiye'den binlerce kilometre öteye özel olarak karpuz sipariş etti",
+      "link": "https://www.haberturk.com/ebru-yasar-turkiye-den-fransa-ya-karpuz-getirtti-3907845-magazin",
+      "published": "2026-08-24T21:48:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:27.459742+00:00"
     },
     {
       "id": "78aab6eda8155052",
@@ -910,6 +987,17 @@
       "fetched_at": "2026-08-24T21:15:48.070585+00:00"
     },
     {
+      "id": "224af60e8a629a0a",
+      "source": "Habertürk",
+      "title": "Mevlid Kandili’nde neler yapılır?",
+      "summary": "Peygamber Efendimiz Hz. Muhammed’in (s.a.v) dünyaya teşrif ettiği gece olarak kabul edilen Mevlid Kandili geldi çattı. Hicri takvime göre Rebiülevvel ayının 12. gününe denk gelen bu mübarek gece, 24 Ağustos Pazartesi günü idrak ediliyor. Mevlid Kandili’nin manevi atmosferini yaşamak ve bu özel geceyi ibadetlerle geçirmek isteyenler, “Mevlid Kandili gecesi yapılacaklar nelerdir?” sorusunun yanıtını",
+      "link": "https://www.haberturk.com/mevlid-kandilinde-ne-yapilir-2026-mevlid-kandili-gecesi-yapilacaklar-nelerdir-mevlid-kandili-gecesi-yapilmasi-gerekenler-3907669",
+      "published": "2026-08-24T21:10:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:27.459400+00:00"
+    },
+    {
       "id": "cbb8b7803e0df691",
       "source": "Kısa Dalga",
       "title": "Çizgi filmin altında Whatsapp hattı",
@@ -941,6 +1029,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T21:16:01.731675+00:00"
+    },
+    {
+      "id": "1df4fde86b1ac7c4",
+      "source": "Habertürk",
+      "title": "Bugün kandil mi, ne kandili?",
+      "summary": "Mevlid Kandili tarihi 2026 yaklaşırken ‘’Bugün kandil mi?’’ sorusu gündemde en çok araştırılan konulardan biri oldu. İslam alemi için büyük bir öneme sahip olan Mevlid Kandili, iki cihan güneşi alemlere rahmet olarak gönderilen Hz. Muhammed Mustafa'nın (s.a.v.) dünyaya gelişinin yıl dönümü olarak kutlanıyor. Hicri takvime göre Rebiülevvel ayının 12. gecesine denk gelen bu mübarek gecede milyonlarc",
+      "link": "https://www.haberturk.com/yarin-kandil-mi-ne-kandili-2026-mevlid-kandili-ne-zaman-hangi-gun-ayin-kacinda-mevlid-kandili-tarihi-2026-diyanet-dini-gunler-takvimi-ile-belli-oldu-3907439",
+      "published": "2026-08-24T21:08:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T22:05:27.459544+00:00"
     },
     {
       "id": "6d99905ff77b4966",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T18:31:04.648282+00:00"
-    },
-    {
-      "id": "8cf33d2f71f1f160",
-      "source": "Akşam",
-      "title": "Washington'dan Şam'a “liste” jesti: Suriye terör destekçileri arasından çıkarıldı",
-      "summary": "ABD Hazine Bakanlığı, Suriye'nin \"teröre destek veren ülkeler\" listesinden resmen çıkarıldığını bildirdi.",
-      "link": "https://www.aksam.com.tr/dunya/washingtondan-sama-liste-jesti-suriye-teror-destekcileri-arasindan-cikarildi/haber-1693028",
-      "published": "2026-08-24T18:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T18:31:03.217387+00:00"
-    },
-    {
-      "id": "c1638daabdcd9162",
-      "source": "Türkiye Gazetesi",
-      "title": "'RIDVAN ABİ' TUTUKLANDI",
-      "summary": "Fenomen Rıdvan Çelik’in sosyal medyada gündem olan kumarhane reklamı videosu hakkında İstanbul Cumhuriyet Başsavcılığı tarafından soruşturma başlatıldı. İncelemede dijital materyallerde suç unsurlarına rastlanırken, Çelik’in reklam çekimi öncesinde avukatına “Kaçak bahis reklamı yapmanın suçu nedir?” diye sorduğu belirlendi. Çelik, tutuklanarak cezaevine gönderildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/fenomen-ridvan-abi-icin-kritik-sorusturma-o-mesaj-ortaya-cikti-1811351",
-      "published": "2026-08-24T18:26:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T20:20:39.224292+00:00"
-    },
-    {
-      "id": "956ebe1a72611c3b",
-      "source": "Karar",
-      "title": "Trabzonspor, Fabinho'yu resmen açıkladı",
-      "summary": "Trabzonspor, Brezilyalı orta saha oyuncusu Fabinho'yu kadrosuna kattığını resmen açıkladı. Karadeniz ekibi, 32 yaşındaki orta alan oyuncusu ile 2 yıllık sözleşme imzaladı.",
-      "link": "https://www.karar.com/spor-haberleri/trabzonspor-fabinhoyu-resmen-acikladi-2067712",
-      "published": "2026-08-24T18:26:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T18:31:04.648305+00:00"
-    },
-    {
-      "id": "f8893b117df4298c",
-      "source": "Ekonomim",
-      "title": "İran'dan ABD'nin yaptırım tehditlerine yanıt: Ticari ortaklarımız açıklamaları ciddiye almadı",
-      "summary": "İran Meclis Başkanı Muhammed Bakır Galibaf, ABD’nin İran ve İran’la ekonomik iş birliği yapan ülkelere yönelik yaptırım tehditlerine yanıt verdi.",
-      "link": "https://www.ekonomim.com/dunya/irandan-abdnin-yaptirim-tehditlerine-yanit-ticari-ortaklarimiz-aciklamalari-ciddiye-almadi-haberi-914018",
-      "published": "2026-08-24T18:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T18:51:01.890220+00:00"
-    },
-    {
-      "id": "6bc64c8a7ece9cf4",
-      "source": "Aydınlık",
-      "title": "Dağ fare doğurdu! ABD'nin büyük gürlemesi fos çıktı",
-      "summary": "ABD Hazine Bakanlığı, İran&#039;a yönelik büyük (!) ekonomik mücadelesi kapsamında ülkeye yeni yaptırımlar uyguladı. Yaptırım listesinin ABD&#039;nin tehditlerinden uzak olduğu göze çarptı",
-      "link": "https://www.aydinlik.com.tr/haber/dag-fare-dogurdu-abdnin-buyuk-gurlemesi-fos-cikti-587718",
-      "published": "2026-08-24T18:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T18:40:49.514971+00:00"
-    },
-    {
-      "id": "bd30a5d14a2e8004",
-      "source": "Ekonomim",
-      "title": "Filenin Sultanları Macaristan'ı 3-0 yenerek 3'te 3 yaptı",
-      "summary": "A Milli Kadın Voleybol Takımı, Trendyol 2026 Avrupa Kadınlar Voleybol Şampiyonası A Grubu’ndaki üçüncü maçında Macaristan’ı 3-0 yenerek grupta 3’te 3 yaptı.",
-      "link": "https://www.ekonomim.com/spor/filenin-sultanlari-macaristani-3-0-yenerek-3te-3-yapti-haberi-914016",
-      "published": "2026-08-24T18:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T18:31:16.482233+00:00"
-    },
-    {
-      "id": "1f938ba6990e7596",
-      "source": "Karar",
-      "title": "Biberovic Fenerbahçe’ye veda etti",
-      "summary": "NBA ekiplerinden Dallas Mavericks’e transfer olan milli basketbolcu Tarık Biberovic, Fenerbahçe’ye veda etti. Sarı-lacivertli oyuncu, kulübü her zaman evi ve ailesi olarak göreceğini söyledi.",
-      "link": "https://www.karar.com/spor-haberleri/biberovic-fenerbahceye-veda-etti-2067711",
-      "published": "2026-08-24T18:25:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T18:25:38.367567+00:00"
-    },
-    {
-      "id": "ef0c5da7827b09ef",
-      "source": "Yeniçağ",
-      "title": "3 belediye başkanı daha CHP’den istifa etti",
-      "summary": "YENİ Parti&#039;ye katılması beklenen Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, CHP’den istifa ettiğini duyurdu. Yüceer’in ardından Çorlu, Şarköy ve Malkara belediye başkanları da CHP’den ayrıldı.",
-      "link": "https://www.yenicaggazetesi.com/3-belediye-baskani-daha-chpden-istifa-etti-1065108h.htm",
-      "published": "2026-08-24T18:24:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T18:25:39.017077+00:00"
-    },
-    {
-      "id": "747890c2811ea2e8",
-      "source": "Yeniçağ",
-      "title": "Aylık 1,1 milyon TL maaşla acil eleman aranıyor: Üniversite şartı yok",
-      "summary": "Kritik bir sektörde büyüyen personel açığı, şirketleri yeni arayışlara yöneltti. Üniversite diploması gerektirmeyen bu alanda tecrübeli çalışanların yıllık kazancı 300 bin doları aşabiliyor.",
-      "link": "https://www.yenicaggazetesi.com/aylik-11-milyon-tl-maasla-acil-eleman-araniyor-universite-sarti-yok-1065107h.htm",
-      "published": "2026-08-24T18:24:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T18:25:39.017108+00:00"
     }
   ]
 }

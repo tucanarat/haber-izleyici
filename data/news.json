@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-24T02:16:04.023064+00:00",
+  "last_updated": "2026-08-24T02:20:59.274701+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 628,
+  "new_items_this_run": 622,
   "items": [
+    {
+      "id": "585f1c0025bf4bd7",
+      "source": "Halk TV",
+      "title": "Jet ski köprü ayağına girdi: 1 ölü 1 yaralı",
+      "summary": "Düzce&#039;nin Akçakoca ilçesinde kontrolden çıkan jet skinin köprü ayağına çarpması sonucu sürücü Arif Yalçı hayatını kaybetti, arkasında yolcu olarak bulunan İlknur Y. ağır yaralandı.",
+      "link": "https://halktv.com.tr/turkiye/jet-ski-kopru-ayagina-girdi-1-olu-1-yarali-1050621h",
+      "published": "2026-08-24T02:18:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T02:20:46.656702+00:00"
+    },
     {
       "id": "1476b989c5174aee",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-23T21:05:34.260995+00:00"
-    },
-    {
-      "id": "59e0c7fcca2808a9",
-      "source": "Türkiye Gazetesi",
-      "title": "Ankara Mamak'ta korkutan yangın! Ekipler devrede",
-      "summary": "Ankara'nın Mamak ilçesinde ağaçlık alanda çıkan yangın geniş bir alana yayıldı. İtfaiye ekipleri, alevleri kontrol altına almak ve çevreye yayılmasını önlemek için çalışmalarını sürdürüyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/ankara-mamakta-korkutan-yangin-ekipler-devrede-1811157",
-      "published": "2026-08-23T19:50:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T19:55:34.921560+00:00"
     }
   ]
 }

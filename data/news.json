@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-24T02:46:27.414473+00:00",
+  "last_updated": "2026-08-24T02:50:58.608792+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 596,
+  "new_items_this_run": 622,
   "items": [
     {
       "id": "2df659da96181cc8",
@@ -1326,6 +1326,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-23T23:20:41.603826+00:00"
+    },
+    {
+      "id": "632a88dd193a2c87",
+      "source": "Karar",
+      "title": "Anthropic'te gizlilik krizi: Yapay zeka ile yapılan özel sohbetler, Google arama sonuçlarında çıkıyor",
+      "summary": "Yapay zeka devi Anthropic'in geliştirdiği Claude platformunda kullanıcıların paylaştığı özel konuşmalar, Google arama sonuçlarında ortaya çıkması kullanıcıları endişelendirdi. Reddit kullanıcılarının özel arama komutlarıyla keşfettiği gelişme, şirket belgelerinden sağlık verilerine kadar çok sayıda bilginin arama motoru dizinine açıldığını ortaya koydu.",
+      "link": "https://www.karar.com/teknoloji-haberleri/claude-sohbetleri-guvenli-mi-claude-verileri-google-arama-2067491",
+      "published": "2026-08-23T23:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T02:50:41.713899+00:00"
     },
     {
       "id": "0043e28767b971d9",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-23T19:55:38.447760+00:00"
-    },
-    {
-      "id": "00628d7c6f54f324",
-      "source": "Türkiye Gazetesi",
-      "title": "ALEVLER KONTROL ALTINDA",
-      "summary": "Ankara'nın Mamak ilçesinde ağaçlık alanda çıkan yangın geniş bir alana yayıldı. İtfaiye ekipleri, alevleri kontrol altına almak ve çevreye yayılmasını önlemek için çalışmalarını sürdürüyor. Ankara Valiliği, failin gözaltına alındığını açıkladı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/ankara-mamakta-korkutan-yangin-ekipler-devrede-1811157",
-      "published": "2026-08-23T19:50:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T22:10:38.895960+00:00"
     }
   ]
 }

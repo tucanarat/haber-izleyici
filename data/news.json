@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-24T02:31:04.520144+00:00",
+  "last_updated": "2026-08-24T02:35:48.056175+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 621,
+  "new_items_this_run": 592,
   "items": [
+    {
+      "id": "2df659da96181cc8",
+      "source": "BBC News Türkçe",
+      "title": "Boşanma, akıllı telefonlar ve kısıtlamalar: BBC, Taliban'ın Afganistan'ı nasıl yönettiğine tanıklık etti",
+      "summary": "Taliban'ın Afganistan'da iktidara geri dönüşünün üzerinden beş yıl geçti. BBC, iki yıl süren görüşmeler sonrası, grubun ülkeyi yeniden şekillendirme sürecinde üst düzey isimleri takip etti.",
+      "link": "https://www.bbc.com/turkce/articles/cq6d6ep2n86o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24T02:34:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-24T02:35:47.605198+00:00"
+    },
     {
       "id": "585f1c0025bf4bd7",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-23T22:10:38.895960+00:00"
-    },
-    {
-      "id": "c4ed2e58dc260b97",
-      "source": "Türkiye Gazetesi",
-      "title": "ANKARA'DA KORKUTAN YANGIN",
-      "summary": "Ankara'nın Mamak ilçesinde ağaçlık alanda çıkan yangın geniş bir alana yayıldı. İtfaiye ekipleri, alevleri kontrol altına almak ve çevreye yayılmasını önlemek için çalışmalarını sürdürüyor. Ankara Valiliği, failin gözaltına alındığını açıkladı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/ankara-mamakta-korkutan-yangin-ekipler-devrede-1811157",
-      "published": "2026-08-23T19:50:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-23T21:05:34.260995+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-25T02:41:01.817443+00:00",
+  "last_updated": "2026-08-25T02:46:07.841372+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 603,
+  "new_items_this_run": 574,
   "items": [
+    {
+      "id": "95a201716f7c158d",
+      "source": "Türkiye Gazetesi",
+      "title": "ÇETE KATLİAM YAPTI!",
+      "summary": "Haiti'nin başkenti Port-au-Prince'in doğusunda bir çete tarafından düzenlenen saldırılarda 43 kişi hayatını kaybetti.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/ulkenin-baskenti-kan-golune-dondu-cete-saldirisinda-43-kisi-olduruldu-1811402",
+      "published": "2026-08-25T02:42:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T02:45:42.535923+00:00"
+    },
     {
       "id": "ed3328e905fc8be2",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T20:20:39.889387+00:00"
-    },
-    {
-      "id": "e0395615cf99e678",
-      "source": "CNBC-e",
-      "title": "İran'dan ABD'ye yaptırım resti: \"Kimse ciddiye almıyor\"",
-      "summary": "İran Meclis Başkanı Muhammed Bakır Galibaf, ABD’nin İran ve İran’la ekonomik iş birliği yapan ülkelere yönelik yaptırım tehditlerinin etkisiz kalacağını savundu. Galibaf, İran’ın ticari ortaklarının Washington’ın açıklamalarını ciddiye almadığını söyledi.",
-      "link": "https://www.cnbce.com/dunya/irandan-abdye-yaptirim-resti-kimse-ciddiye-almiyor-h35721",
-      "published": "2026-08-24T20:09:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T20:11:02.102750+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-25T00:01:18.114150+00:00",
+  "last_updated": "2026-08-25T00:06:23.626882+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 608,
+  "new_items_this_run": 609,
   "items": [
+    {
+      "id": "16604b26cac0e4c9",
+      "source": "Karar",
+      "title": "Mac klavyesindeki tek tuşla ekrandaki tüm belgeleri yapay zekaya okutma özelliği geldi",
+      "summary": "Google, masaüstü bilgisayarlarda yapay zeka devrimi başlatıp macOS işletim sistemine özel Gemini uygulamasına sesle dikte ve ekran farkındalığı yeteneklerini kazandırdı. Kullanıcılar klavyedeki Fn tuşunu kullanarak ekrandaki belgeleri asistanla paylaşıyor, konuşma boşluklarından arındırılmış temiz metinler üretiyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/gemini-mac-uygulamasina-hangi-ozellikler-geldi-gemini-mac-sesli-2067746",
+      "published": "2026-08-25T00:01:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T00:06:04.601782+00:00"
+    },
     {
       "id": "f451009708bb32b0",
       "source": "OdaTV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T19:25:37.832764+00:00"
-    },
-    {
-      "id": "ce77c2a905c091f2",
-      "source": "Akşam",
-      "title": "Bunları da mı tanımıyorsun?",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/bunlari-da-mi-tanimiyorsun/haber-1693034",
-      "published": "2026-08-24T19:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T21:01:04.882168+00:00"
     }
   ]
 }

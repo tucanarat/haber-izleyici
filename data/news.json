@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-08-25T22:10:58.658574+00:00",
+  "last_updated": "2026-08-25T22:16:10.362705+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 593,
+  "new_items_this_run": 565,
   "items": [
+    {
+      "id": "e1b27ce291bbb463",
+      "source": "Akşam",
+      "title": "1 Milyon €‘yu izah edemedi",
+      "summary": "İBB yolsuzluk davasında yargılanan Ekrem İmamoğlu'nun babası Hasan İmamoğlu, Bodrum'da alınan lüks villa için elden ödenen paranın kaynağını açıklayamadı.",
+      "link": "https://www.aksam.com.tr/guncel/1-milyon-yu-izah-edemedi/haber-1693349",
+      "published": "2026-08-25T22:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:15:45.920511+00:00"
+    },
+    {
+      "id": "98f01c0ed4389ac2",
+      "source": "Karar",
+      "title": "Google Chrome tarayıcısında yapay zeka ile 2 yıllık güvenlik açığı 1 ayda kapatıldı",
+      "summary": "Siber güvenlik alanında yapay zeka devrimi başlatan Google, Chrome tarayıcısındaki açıkları tespit edip kapatma hızında tarihi bir rekor kırdı. Şirket, büyük dil modellerinin desteğiyle son iki sürümde 1.072 güvenlik açığını kapatıp iki yıllık toplam bilançoyu tek seferde geride bıraktı.",
+      "link": "https://www.karar.com/teknoloji-haberleri/google-chrome-neden-daha-guvenli-yapay-zeka-ile-1-072-acik-giderildi-2067985",
+      "published": "2026-08-25T22:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:15:50.154115+00:00"
+    },
+    {
+      "id": "9cc5586d9627f6ad",
+      "source": "Karar",
+      "title": "Spotify'da şarkıların altına hatıra bırakın: Seçenekler menüsünden not yazılabiliyor",
+      "summary": "Müzik kütüphanesini anılarla zenginleştiren Spotify, parçalara özel hatıra ve düşüncelerin yazılabileceği 'User Notes' yeniliğini başlattı. Dinleyiciler artık seçenekler menüsünü kullanarak şarkıların altına kişisel notlar düşüyor ve parçaları kendi dijital günlüklerine dönüştürüyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/spotify-sarkilara-nasil-not-eklenir-sarkilara-kisisel-not-ekleme-2067984",
+      "published": "2026-08-25T22:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:15:50.154198+00:00"
+    },
+    {
+      "id": "81ba04bf50a8e964",
+      "source": "OdaTV",
+      "title": "Kaplumbağayı ayağıyla ezen şüpheli gözaltına alındı",
+      "summary": "Zonguldak&#039;ın Karadeniz Ereğli ilçesinde yaklaşık 15 yıl önce çekildiği değerlendirilen ve bir kaplumbağanın öldürülmesine ilişkin görüntüler, sosyal medyada yeniden gündem oldu. Türkiye genelinde büyük tepki çeken görüntülerle ilgili yürütülen çalışma kapsamında şüpheli gözaltına alındı.",
+      "link": "https://www.odatv.com/guncel/kaplumbagayi-ayagiyla-ezen-supheli-gozaltina-alindi-120160157",
+      "published": "2026-08-25T22:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:15:53.982171+00:00"
+    },
+    {
+      "id": "5d0fe8282d7648fa",
+      "source": "CNBC-e",
+      "title": "SpaceX'ten dev yatırım: Louisiana'ya 100 milyar dolarlık uzay üssü kuruluyor",
+      "summary": "SpaceX, Louisiana'da 100 milyar dolarlık yatırımla \"Starbase, Louisiana\" adlı yeni bir uzay üssü kuracak. İnşaatın 2027'de başlaması ve ilk fırlatmanın 2029'da yapılması hedeflenirken, projenin 11 binden fazla istihdam yaratması bekleniyor.",
+      "link": "https://www.cnbce.com/teknoloji/spacexten-dev-yatirim-louisianaya-100-milyar-dolarlik-uzay-ussu-kuruluyor-h35807",
+      "published": "2026-08-25T22:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:16:02.313751+00:00"
+    },
+    {
+      "id": "6498e289815df7b0",
+      "source": "Ekonomim",
+      "title": "Suriye vatandaşlarının Türkiye seyahatlerinde yeni dönem",
+      "summary": "Suriye vatandaşlarına yönelik vize uygulamalarındaki &quot;hava yoluyla seyahat&quot; şartının kaldırıldığını ve artık geçerli vizelerin tüm kara hudut kapılarından girişlerde de kullanılabileceğini açıkladı.",
+      "link": "https://www.ekonomim.com/gundem/suriye-vatandaslarinin-turkiye-seyahatlerinde-yeni-donem-haberi-914263",
+      "published": "2026-08-25T22:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:16:01.241352+00:00"
+    },
     {
       "id": "af78616cdff1e667",
       "source": "Yeni Akit",
@@ -17,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T22:10:40.339136+00:00"
+    },
+    {
+      "id": "65992f838db4dce5",
+      "source": "Türkiye Gazetesi",
+      "title": "Şampiyonlar Ligi bileti alan 3 takım belli oldu",
+      "summary": "UEFA Şampiyonlar Ligi'nde Azerbaycan ekibi Sabah, Norveç'in Bodo/Glimt takımı ve Avusturya temsilcisi LASK, Devler Ligi'nde lig aşamasına kaldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/sampiyonlar-ligi-bileti-alan-3-takim-belli-oldu-1811632",
+      "published": "2026-08-25T22:08:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:15:42.494099+00:00"
     },
     {
       "id": "1dc63e6ae5c871e5",
@@ -116,6 +193,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T22:05:37.849442+00:00"
+    },
+    {
+      "id": "4db070eb3b9d9299",
+      "source": "Evrensel",
+      "title": "İran Hürmüz Boğazı ile ilgili Umman'la varılan anlaşmayı açıkladı: Geçiş koridoru 7 mil genişliğinde ve güney koridoru kapatıldı",
+      "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, Umman ile varılan anlaşmada Hürmüz Boğazı'ndaki taşıma güzergahının 7 mil genişliğinde olduğunu belirterek, güney koridorun kapatıldığını söyledi.",
+      "link": "https://www.evrensel.net/haber/5997817/iran-hurmuz-bogazi-ile-ilgili-ummanla-varilan-anlasmayi-acikladi-gecis-koridoru-7-mil-genisliginde-ve-guney-koridoru-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-25T22:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:15:43.305771+00:00"
     },
     {
       "id": "1f62ffeb554ff5ac",
@@ -1128,6 +1216,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T21:10:51.765471+00:00"
+    },
+    {
+      "id": "fb5fa90611dd131d",
+      "source": "Habertürk",
+      "title": "KYK burs ve kredi başvuruları başladı mı?",
+      "summary": "KYK burs başvuru tarihleri 2026-2027 eğitim öğretim yılının başlamasına kısa süre kala araştırılmaya başlandı. Maddi açıdan desteğe ihtiyaç duyan üniversite öğrencileri, KYK burs ve öğrenim kredisi başvurularının ne zaman başlayacağını ve bu yılki tutarın ne kadar olacağını merak ediyor. Gençlik ve Spor Bakanlığı Kredi ve Yurtlar Genel Müdürlüğü açıklamaları yakından takip ediliyor. Hem burs hem d",
+      "link": "https://www.haberturk.com/kyk-burs-ve-kredi-basvurulari-ne-zaman-basliyor-gsb-2026-2027-kyk-burs-ve-kredi-basvuru-tarihleri-aciklandi-mi-3907878",
+      "published": "2026-08-25T21:05:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T22:15:36.379013+00:00"
     },
     {
       "id": "0f8dd0bde30d5c81",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T18:51:06.025708+00:00"
-    },
-    {
-      "id": "d2ed6a12529f4923",
-      "source": "Aydınlık",
-      "title": "Suriye'de terör örgütü YPG/SDG feshedildi",
-      "summary": "Suriye&#039;de terör örgütü YPG/SDG&#039;nin feshedildiği duyuruldu.",
-      "link": "https://www.aydinlik.com.tr/haber/suriyede-teror-orgutu-ypgsdg-feshedildi-587815",
-      "published": "2026-08-25T18:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:55:41.053463+00:00"
-    },
-    {
-      "id": "d7635d9680aa6c19",
-      "source": "Halk TV",
-      "title": "Fenerbahçe'den Lyon maçına saatler kala kritik açıklama: Yasak geldi",
-      "summary": "Lyon&#039;a konuk olacak Fenerbahçe&#039;den taraftarlara uyarı geldi. Sarı-lacivertliler yerel makamların bazı bölge ve yerler için Fenerbahçe taraftarına yasak getirildiğini duyurdu.",
-      "link": "https://halktv.com.tr/spor/fenerbahceden-lyon-macina-saatler-kala-kritik-aciklama-yasak-geldi-1051027h",
-      "published": "2026-08-25T18:45:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:50:47.745883+00:00"
-    },
-    {
-      "id": "31e762fc5294d9e1",
-      "source": "Karar",
-      "title": "EuroLeague’de franchise dönemi",
-      "summary": "EuroLeague, 2027-28 sezonundan itibaren hayata geçirilmesi planlanan uzun vadeli franchise sistemi için 11 adayın ön kabul aşamasını geçtiğini açıkladı. Organizasyon, yeni yapıyla birlikte 8 kalıcı franchise vermeyi ve gelirleri önemli ölçüde artırmayı hedefliyor.",
-      "link": "https://www.karar.com/spor-haberleri/euroleaguede-franchise-donemi-2067968",
-      "published": "2026-08-25T18:45:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:50:46.012445+00:00"
-    },
-    {
-      "id": "3e19aee50000a998",
-      "source": "OdaTV",
-      "title": "Zeynep Yetgil Kamal’dan Akdeniz Oyunları’nda altın madalya",
-      "summary": "İtalya&#039;da düzenlenen 20. Akdeniz Oyunları&#039;nda milli güreşçi Zeynep Yetgil Kamal, kadınlar 53 kiloda altın madalya kazanarak Türkiye&#039;nin organizasyon tarihindeki 1000. madalyasına ulaştı.",
-      "link": "https://www.odatv.com/spor/zeynep-yetgil-kamaldan-akdeniz-oyunlarinda-altin-madalya-120160143",
-      "published": "2026-08-25T18:45:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:50:47.531387+00:00"
-    },
-    {
-      "id": "aefb21b5daaf9017",
-      "source": "Akşam",
-      "title": "Terör örgütü SDG/YPG feshedildi",
-      "summary": "Terör örgütü SDG/YPG elebaşı Mazlum Abdi, SDG Terör Örgütü'nün feshedildiğini ve tamamen Suriye ordusuna entegre edildiğini duyurdu.",
-      "link": "https://www.aksam.com.tr/dunya/teror-orgutu-sdgypg-feshedildi/haber-1693322",
-      "published": "2026-08-25T18:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:45:45.028516+00:00"
-    },
-    {
-      "id": "c5a2cdd419f4e081",
-      "source": "Yeni Şafak",
-      "title": "Sivas’ta traktör şarampole devrildi: Dört kişi yaralandı",
-      "summary": "Sivas’ın Suşehri ilçesinde kontrolden çıkarak şarampole devrilen traktörde bulunan dört kişi yaralandı.",
-      "link": "https://www.yenisafak.com/gundem/sivasta-traktor-sarampole-devrildi-dort-kisi-yaralandi-4850821",
-      "published": "2026-08-25T18:44:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:45:45.255208+00:00"
-    },
-    {
-      "id": "69295460f2b864cc",
-      "source": "Serbestiyet",
-      "title": "İmamoğlu davasında etkin pişman Ertan Yıldız ifade verdi:”Rahatsız olduğum şeyler oldu”",
-      "summary": "İBB Davası’nda İBB Meclis İştirakler Bağlı Kuruluşlar Komisyon Başkanı Ertan Yıldız, Ekrem İmamoğlu ile Beylikdüzü döneminde başlayan ilişkisini ve İBB'deki görevinden ayrılma sürecini anlattı. Yıldız, \"Ekrem İmamoğlu'nun cumhurbaşkanlığı yoluna gidene kadar eşlik etmek için yola çıktım. Ancak gördüm ki, bu yolda rahatsız olduğum, beni de kötü etkileyen şeyler oldu, ben de istifa ettim\" dedi. İmam",
-      "link": "https://serbestiyet.com/haberler/imamoglu-davasinda-etkin-pisman-ertan-yildiz-ifade-verdirahatsiz-oldugum-seyler-oldu-247065/",
-      "published": "2026-08-25T18:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:45:51.666426+00:00"
-    },
-    {
-      "id": "b25b18f71dde7621",
-      "source": "Yeni Şafak",
-      "title": "Tedavileri yapılan kuşlar Nemrut Kalderası'nda doğaya salındı",
-      "summary": "Van'da tedavileri tamamlanan iki kaya kartalı ile üç kızıl şahin ve güvercinler, Bitlis'in Tatvan ilçesindeki Nemrut Kalderası Milli Parkı'nda doğaya bırakıldı.",
-      "link": "https://www.yenisafak.com/galeri/gundem/tedavileri-yapilan-kuslar-nemrut-kalderasinda-dogaya-salindi-4850820",
-      "published": "2026-08-25T18:42:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:45:45.255243+00:00"
-    },
-    {
-      "id": "3245163a6fc06b88",
-      "source": "Habertürk",
-      "title": "Kademeli emeklilik çıkacak mı?",
-      "summary": "Kademeli emeklilik düzenlemesi, emeklilik yaşını bekleyen milyonlarca çalışanın gündemindeki yerini koruyor. Özellikle 8 Eylül 1999 sonrası sigorta girişi bulunan çalışanlar, mevcut emeklilik şartlarının değişip değişmeyeceğini araştırıyor. Emeklilikte Yaşa Takılanlar (EYT) düzenlemesinin ardından kapsam dışında kalan sigortalılar için yeni bir düzenleme yapılıp yapılmayacağı merak ediliyor. Sosya",
-      "link": "https://www.haberturk.com/kademeli-emeklilik-son-dakika-2026-kademeli-emeklilik-cikacak-mi-erken-emeklilik-sartlari-neler-3907824",
-      "published": "2026-08-25T18:42:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T19:00:57.701314+00:00"
     }
   ]
 }

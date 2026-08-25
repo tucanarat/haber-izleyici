@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-25T00:11:09.023943+00:00",
+  "last_updated": "2026-08-25T00:16:02.576651+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 608,
+  "new_items_this_run": 609,
   "items": [
+    {
+      "id": "0b892d49f202f527",
+      "source": "Türkiye Gazetesi",
+      "title": "Yaz sıcağında mantar alarmı!",
+      "summary": "Sıcak ve nemli hava, özellikle ayak parmak araları, kasık ve cilt kıvrımlarında mantar enfeksiyonlarına davetiye çıkarıyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/saglik/yaz-sicaginda-mantar-alarmi-1811376",
+      "published": "2026-08-25T00:09:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T00:15:38.843012+00:00"
+    },
     {
       "id": "16604b26cac0e4c9",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T19:30:59.422716+00:00"
-    },
-    {
-      "id": "90720784977a193c",
-      "source": "Millî Gazete",
-      "title": "Hayatta olup olmadığı tartışılıyordu... Mücteba Hameney'in katıldığı bir toplantı görüntülendi",
-      "summary": "ABD saldırısında ağır yaralandığı ileri sürülen İran'ın yeni dini lideri Mücteba Hameney'in günler sonra ilk kez görüntüleri ortaya çıktı.",
-      "link": "https://www.milligazete.com.tr/sehit-edildigi-iddia-edilmisti-mucteba-hameneyin-katildigi-bir-toplanti-goruntulendi",
-      "published": "2026-08-24T19:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T19:25:37.832764+00:00"
     }
   ]
 }

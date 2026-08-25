@@ -1,12 +1,177 @@
 {
-  "last_updated": "2026-08-25T18:51:06.433241+00:00",
+  "last_updated": "2026-08-25T18:55:56.454854+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 610,
+  "new_items_this_run": 590,
   "items": [
+    {
+      "id": "827f18771a2137ca",
+      "source": "Akşam",
+      "title": "Adıyaman'da 4.2 büyüklüğünde deprem",
+      "summary": "AFAD 4.2 büyüklüğündeki sarsıntıyı duyurdu",
+      "link": "https://www.aksam.com.tr/guncel/adiyamanda-42-buyuklugunde-deprem/haber-1693324",
+      "published": "2026-08-25T18:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:38.510746+00:00"
+    },
+    {
+      "id": "2181d7d84512d1bd",
+      "source": "Gazete Pencere",
+      "title": "AFAD duyurdu: Adıyaman’da peş peşe şiddetli deprem!",
+      "summary": "AFAD, Adıyaman’ın Sincik ilçesinde 4.2 büyüklüğünde deprem meydana geldiğini bildirdi.",
+      "link": "https://www.gazetepencere.com/gundem/afad-duyurdu-adiyamanda-pes-pese-siddetli-deprem-713168h",
+      "published": "2026-08-25T18:54:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:41.733675+00:00"
+    },
+    {
+      "id": "9d834787d4707f6c",
+      "source": "Cumhuriyet",
+      "title": "Son Dakika... Adıyaman Sincik'te peş peşe deprem",
+      "summary": "Son dakika haberi... Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Adıyaman'ın Sincik ilçesinde 3 dakika arayla 3.7 ve 4.2 büyüklüğünde iki deprem meydana geldiğini duyurdu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-adiyaman-sincik-te-pes-pese-deprem-2532343",
+      "published": "2026-08-25T18:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:33.982260+00:00"
+    },
+    {
+      "id": "49beacd94fc21a48",
+      "source": "Star",
+      "title": "Adıyaman'da 4,2 büyüklüğünde deprem",
+      "summary": "Adıyaman'da 4,2 büyüklüğünde deprem meydana geldi.",
+      "link": "https://www.star.com.tr/guncel/adiyamanda-42-buyuklugunde-deprem-haber-2035998/",
+      "published": "2026-08-25T18:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:39.118035+00:00"
+    },
+    {
+      "id": "27eb2a509f9c733a",
+      "source": "DonanımHaber",
+      "title": "MacBook Ultra yakında geliyor: İşte beklenen 5 yenilik",
+      "summary": "Apple'ın yeni MacBook Ultra modeli için yeni detaylar ortaya çıktı. Modelin OLED ekran, dokunmatik destek ve Dynamic Island benzeri tasarımla gelmesi bekleniyor.",
+      "link": "https://www.donanimhaber.com/macbook-ultra-yakinda-geliyor-iste-beklenen-5-yenilik--209735",
+      "published": "2026-08-25T18:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:54.094644+00:00"
+    },
+    {
+      "id": "a71434baf00d3313",
+      "source": "Yeni Şafak",
+      "title": "Otluk alandaki yangında meyve ağaçları zarar gördü",
+      "summary": "Eskişehir’de otluk alanda çıkan ve bahçeye sıçrayan yangında meyve fidanları zarar gördü. Alevler, itfaiye ekipleri ve vatandaşların müdahalesiyle söndürüldü.",
+      "link": "https://www.yenisafak.com/gundem/otluk-alandaki-yanginda-meyve-agaclari-zarar-gordu-4850824",
+      "published": "2026-08-25T18:53:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:38.741175+00:00"
+    },
+    {
+      "id": "ff2b04baca0aa45c",
+      "source": "Akşam",
+      "title": "Zeynep Yetgil Kamal'dan tarihi başarı!",
+      "summary": "Türkiye'nin Akdeniz Oyunları tarihindeki 1000. madalyası, milli güreşçi Zeynep Yetgil Kamal'dan geldi.",
+      "link": "https://www.aksam.com.tr/spor/zeynep-yetgil-kamaldan-tarihi-basari/haber-1693323",
+      "published": "2026-08-25T18:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:38.510777+00:00"
+    },
+    {
+      "id": "bb31d633f70bb0ae",
+      "source": "Yeniçağ",
+      "title": "Terör örgütü PKK/YPG feshedildi: Elebaşı Mazlum Abdi açıkladı",
+      "summary": "Terör örgütü SDG/YPG&#039;nin elebaşı Mazlum Abdi, SDG/YPG&#039;nin kendini feshettiğini duyurdu.",
+      "link": "https://www.yenicaggazetesi.com/teror-orgutu-pkkypg-feshedildi-elebasi-mazlum-abdi-acikladi-1065438h.htm",
+      "published": "2026-08-25T18:52:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:40.577343+00:00"
+    },
+    {
+      "id": "8f7bfc3a16ee86f4",
+      "source": "Türkiye Gazetesi",
+      "title": "Adıyaman'da peş peşe depremler!",
+      "summary": "Adıyaman'da merkez üssü Sincik ilçesi olan peş peşe depremler meydana geldi. AFAD, depremlerin büyüklüğünü 3.7 ve 4.2 olarak bildirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/adiyamanda-pes-pese-depremler-sincik-sallandi-afad-duyurdu-1811586",
+      "published": "2026-08-25T18:52:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:35.909204+00:00"
+    },
+    {
+      "id": "8f7bfc3a16ee86f4",
+      "source": "Türkiye Gazetesi",
+      "title": "Adıyaman'da peş peşe depremler!",
+      "summary": "Adıyaman'da merkez üssü Sincik ilçesi olan peş peşe depremler meydana geldi. AFAD, depremlerin büyüklüğünü 3.7 ve 4.2 olarak bildirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/adiyamanda-pes-pese-depremler-sincik-sallandi-afad-duyurdu-1811586",
+      "published": "2026-08-25T18:52:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:35.909256+00:00"
+    },
+    {
+      "id": "8f7bfc3a16ee86f4",
+      "source": "Türkiye Gazetesi",
+      "title": "Adıyaman'da peş peşe depremler!",
+      "summary": "Adıyaman'da merkez üssü Sincik ilçesi olan peş peşe depremler meydana geldi. AFAD, depremlerin büyüklüğünü 3.7 ve 4.2 olarak bildirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/adiyamanda-pes-pese-depremler-sincik-sallandi-afad-duyurdu-1811586",
+      "published": "2026-08-25T18:52:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:35.909286+00:00"
+    },
+    {
+      "id": "987ae57848113b83",
+      "source": "Milliyet",
+      "title": "SON DAKİKA | Adıyaman'da 4.2 büyüklüğünde korkutan deprem",
+      "summary": "Adıyaman'da 4.2 büyüklüğünde bir deprem oldu. Deprem yerin 7 kilometre derinliğinde oldu ve kısa süreli paniğe neden oldu. AFAD depremi sosyal medyadan böyle duyurdu; #DEPREM Büyüklük:4.2 (Mw) Yer:Sincik (Adıyaman) Tarih:2026-08-25 Saat:21:43:52 TSİ Enlem:38.1305 N Boylam:38.44433 E Derinlik:7 km Detay: https://t.co/XvmdPsW01j @afadbaskanlik @trthaber @anadoluajansi &mdash; AFAD Deprem (@DepremDai",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-adiyamanda-4-2-buyuklugunde-korkutan-deprem-7648276",
+      "published": "2026-08-25T18:52:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:37.674635+00:00"
+    },
+    {
+      "id": "bba62de35b6c643b",
+      "source": "Halk TV",
+      "title": "Son Dakika | Adıyaman'da peş peşe deprem",
+      "summary": "Son dakika haberi... Adıyaman&#039;da 3.7 büyüklüğünde ve 4.2 büyüklüğünde art arda 2 tane deprem meydan geldi.",
+      "link": "https://halktv.com.tr/turkiye/son-dakika-adiyamanda-pes-pese-deprem-1051028h",
+      "published": "2026-08-25T18:52:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:42.364563+00:00"
+    },
+    {
+      "id": "1451050ce509ea3e",
+      "source": "Yeniçağ",
+      "title": "Liverpool'a golü attı, Beşiktaş için kulübüne resti çekti",
+      "summary": "Premier Lig ekiplerinden Newcastle United forması giyen İngiliz orta saha oyuncusu Joe Willock&#039;un Beşiktaş&#039;a transfer olmak için kulübüne rest çektiği iddia edildi.",
+      "link": "https://www.yenicaggazetesi.com/liverpoola-golu-atti-besiktas-icin-kulubune-resti-cekti-1065437h.htm",
+      "published": "2026-08-25T18:52:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:40.577383+00:00"
+    },
+    {
+      "id": "6c341dc8822af67f",
+      "source": "Yeni Akit",
+      "title": "İran'dan bölgesel krizde telefon diplomasisi!",
+      "summary": "ABD'nin ve siyonist çetenin bölgedeki tehditleri sürerken İran Dışişleri Bakanı Abbas Erakçi, Pakistan Genelkurmay Başkanı Mareşal Asım Münir ve Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani ile ayrı ayrı kritik görüşmeler gerçekleştirdi.",
+      "link": "https://www.yeniakit.com.tr/haber/irandan-bolgesel-krizde-telefon-diplomasisi-erakci-pakistan-ve-katar-ile-masaya-oturdu-2019373.html",
+      "published": "2026-08-25T18:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:39.400457+00:00"
+    },
     {
       "id": "8318e988f1541803",
       "source": "Yeni Akit",
@@ -72,6 +237,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T18:51:06.025708+00:00"
+    },
+    {
+      "id": "d2ed6a12529f4923",
+      "source": "Aydınlık",
+      "title": "Suriye'de terör örgütü YPG/SDG feshedildi",
+      "summary": "Suriye&#039;de terör örgütü YPG/SDG&#039;nin feshedildiği duyuruldu.",
+      "link": "https://www.aydinlik.com.tr/haber/suriyede-teror-orgutu-ypgsdg-feshedildi-587815",
+      "published": "2026-08-25T18:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:41.053463+00:00"
     },
     {
       "id": "d7635d9680aa6c19",
@@ -171,6 +347,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T18:45:48.196921+00:00"
+    },
+    {
+      "id": "9b9fb7e43239f75a",
+      "source": "Evrensel",
+      "title": "Mazlum Abdi, SDG'nin feshedildiğini resmen duyurdu",
+      "summary": "SDG Genel Komutanı Mazlum Abdi, Şam'da düzenlediği basın toplantısıyla SDG'nin bağımsız bir askeri güç olarak varlığına son verdiğini ve Suriye ordusuna tam entegrasyonun sağlandığını resmen duyurdu.",
+      "link": "https://www.evrensel.net/haber/5997799/mazlum-abdi-sdgnin-feshedildigini-resmen-duyurdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-25T18:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:36.519531+00:00"
     },
     {
       "id": "7a786b0634c253e7",
@@ -875,6 +1062,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T18:15:49.960842+00:00"
+    },
+    {
+      "id": "7f241897d4ceff7e",
+      "source": "Karar",
+      "title": "Madencilere bir kez daha gözaltı: Aralarında Başaran Aksu da var",
+      "summary": "Başkent Ankara'da, aralarında Bağımsız Maden İş Örgütlenme Uzmanı Başaran Aksu'nun olduğu hak arayışındaki madenciler bir kez daha gözaltına alındı.",
+      "link": "https://www.karar.com/guncel-haberler/son-dakika-madencilere-bir-kez-daha-gozalti-aralarinda-basaran-aksu-da-2067961",
+      "published": "2026-08-25T18:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:40.115210+00:00"
     },
     {
       "id": "cce440ffb503db8f",
@@ -4562,6 +4760,17 @@
       "fetched_at": "2026-08-25T15:40:52.479373+00:00"
     },
     {
+      "id": "763ad8c2b87cef38",
+      "source": "Hürriyet",
+      "title": "Cem Küçük hakkında hazırlanan MASAK raporu ortaya çıktı...Raporda para hareketliliğine yer verildi",
+      "summary": "İSTANBUL Cumhuriyet Başsavcılığı'nca yürütülen soruşturma kapsamında Cem Küçük hakkında hazırlanan MASAK raporu ortaya çıktı. Raporda, Küçük’ün 2019-2026 yılları arasında hesaplarına 35 milyon 132 bin lira para girişi olduğu, bu tutarın 5 milyon 9 bin 300 liralık bölümünün 23 kişi ve şirketten geldiği, transfer açıklamalarının yetersiz olduğu ve söz konusu para hareketlerinin Küçük’ün mali profili",
+      "link": "https://www.hurriyet.com.tr/gundem/cem-kucuk-hakkinda-hazirlanan-masak-raporu-ortaya-cikti-raporda-para-hareketliligine-yer-verildi-43284897",
+      "published": "2026-08-25T15:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T18:55:37.223627+00:00"
+    },
+    {
       "id": "9c7538de94c52877",
       "source": "Star",
       "title": "Kocaelispor'a 18'lik orta saha",
@@ -5297,215 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T15:15:53.524681+00:00"
-    },
-    {
-      "id": "245a6b0bc11302d8",
-      "source": "Türkiye Gazetesi",
-      "title": "Beşiktaş'ta ayrılık: Sözleşmesi feshedildi",
-      "summary": "Beşiktaş, 26 yaşındaki defansif orta saha oyuncusu Jean Onana'nın sözleşmesinin feshedildiğini açıkladı. Siyah beyazlılara 2023 yazında Fransız ekibi Lens'ten transfer olan Kamerunlu oyuncu, Beşiktaş formasıyla yalnızca 16 maçta görev yaptı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/besiktasta-ayrilik-sozlesmesi-feshedildi-1811557",
-      "published": "2026-08-25T15:14:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:25:33.777178+00:00"
-    },
-    {
-      "id": "d448bde4b8a6ac3c",
-      "source": "Karar",
-      "title": "2026 Victoria's Secret Moda Gösterisi ne zaman, nereden izlenir? Canlı yayın tarihi ve podyum melekleri belli oldu!",
-      "summary": "Moda dünyasının merakla beklediği 2026 Victoria's Secret Moda Gösterisi, 18 Ekim Pazar gecesi New York'ta görkemli bir şovla düzenlenecek ve resmi dijital platformlar üzerinden canlı yayınlanacak. Bu yıl \"Angels Among Us\" projesiyle hayranlarını da podyuma taşıyarak bir ilke imza atacak olan tarihi defilenin Türkiye yayın saati, belgesel takvimi ve podyumda yürüyecek melek kadrosu netleşti.",
-      "link": "https://www.karar.com/hayat-haberleri/2026-victorias-secret-moda-gosterisi-ne-zaman-nereden-izlenir-canli-2067943",
-      "published": "2026-08-25T15:14:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:53.834664+00:00"
-    },
-    {
-      "id": "388eca5dedee30f9",
-      "source": "Yeniçağ",
-      "title": "Akşehir’de silahlı saldırı: 22 yaşındaki genç hayatını kaybetti",
-      "summary": "Akşehir’de alacak verecek meselesi nedeniyle çıktığı iddia edilen tartışma, silahlı saldırıya dönüştü. Olayda ağır yaralanan 22 yaşındaki İzzet Şarlakkaya, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen yaşamını yitirdi. Olayın şüphelisi H.A. ise çıkarıldığı mahkemece tutuklandı.",
-      "link": "https://www.yenicaggazetesi.com/aksehirde-silahli-saldiri-22-yasindaki-genc-hayatini-kaybetti-1065388h.htm",
-      "published": "2026-08-25T15:14:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:54.152836+00:00"
-    },
-    {
-      "id": "89fd970f37f1a839",
-      "source": "Akşam",
-      "title": "Beşiktaş ayrılığı açıkladı! Sözleşme feshedildi",
-      "summary": "Beşiktaş, Jean Onana'nın sözleşmesinin karşılıklı anlaşarak feshedildiğini KAP'a bildirdi.",
-      "link": "https://www.aksam.com.tr/spor/besiktas-ayriligi-acikladi-sozlesme-feshedildi/haber-1693299",
-      "published": "2026-08-25T15:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:52.596066+00:00"
-    },
-    {
-      "id": "c1dbbb57c3d132c4",
-      "source": "Sabah",
-      "title": "Bursa'daki orman yangını kısmen kontrol altına alındı",
-      "summary": "Bursa'nın Nilüfer ilçesinde çıkan orman yangını ihbar üzerine bölgeye sevk edilen itfaiye ekiplerinin müdahalesiyle kısmen kontrol altına alındı. Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/bursadaki-orman-yangini-kismen-kontrol-altina-alindi-7648137",
-      "published": "2026-08-25T15:13:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:52.321444+00:00"
-    },
-    {
-      "id": "c2b59c9201ab0145",
-      "source": "Habertürk",
-      "title": "CHP temyiz başvurusunu geri çekti",
-      "summary": "CHP kurultayına ilişkin davada davacıların avukatı, Ankara Bölge Adliye Mahkemesi 36. Hukuk Dairesi kararına yönelik temyiz başvurusundan feragat edildiğini bildirdi. Dilekçede, müvekkillerin talebi doğrultusunda başvurunun geri çekildiği belirtildi",
-      "link": "https://www.haberturk.com/chp-yonetimi-mutlak-butlan-davasinda-yaptigi-temyiz-basvurusunu-geri-cekti-3908046",
-      "published": "2026-08-25T15:13:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:25:29.198911+00:00"
-    },
-    {
-      "id": "c44bd02cf3968e0d",
-      "source": "Milliyet",
-      "title": "'İmamoğlu Çıkar Amaçlı Suç Örgütü' davası! Ertan Yıldız'dan çok konuşulacak ifade",
-      "summary": "\"İmamoğlu çıkar amaçlı suç örgütü\"ne ilişkin 53'ü tutuklu 414 sanığın yargılandığı davanın 69. duruşmasıdevam ediliyor.İstanbul 33. Ağır Ceza Mahkemesince, Marmara Kapalı Ceza İnfaz Kurumu karşısındaki salonda yapılan duruşmaya, tutuklanmalarının ardından görevlerinden uzaklaştırılan İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu ve Beylikdüzü Belediye Başkanı Mehmet Murat Çalık'ın da a",
-      "link": "https://www.milliyet.com.tr/gundem/son-dakika-imamoglu-cikar-amacli-suc-orgutu-davasi-ertan-yildizdan-cok-konusulacak-ifade-7648227",
-      "published": "2026-08-25T15:13:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:51.983517+00:00"
-    },
-    {
-      "id": "096bddc95c29c48c",
-      "source": "Yeniçağ",
-      "title": "Önce direğe sonra duvara çarptı: Çatalca’da facianın eşiğinden dönüldü",
-      "summary": "İstanbul Çatalca’da kontrolden çıkan bir kamyon, dehşet saçarak bir binanın duvarına çarparak durabildi. Çarpmanın şiddetiyle savrulan araç, yol kenarındaki bahçeye girdi.",
-      "link": "https://www.yenicaggazetesi.com/once-direge-sonra-duvara-carpti-catalcada-facianin-esiginden-donuldu-1065387h.htm",
-      "published": "2026-08-25T15:13:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:54.152876+00:00"
-    },
-    {
-      "id": "8303bb274dc9cfb9",
-      "source": "Türkiye Gazetesi",
-      "title": "Deodorant kutusu bomba gibi patladı: 2'si çocuk 3 yaralı",
-      "summary": "Küçükçekmece'de bir evde deodorant kutusunun henüz belirlenemeyen nedenle patlaması sonucu anne ve 2 çocuğu yaralandı. Patlamanın ardından evde yangın çıkarken, yaralılar hastaneye kaldırıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/deodorant-kutusu-bomba-gibi-patladi-2si-cocuk-3-yarali-1811556",
-      "published": "2026-08-25T15:12:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:50.342844+00:00"
-    },
-    {
-      "id": "7557f3d2bc0f994f",
-      "source": "Yeniçağ",
-      "title": "Teknoloji dünyasını sarsan zam kararı: Nvidia'nın hamlesi tüm planları altüst edecek",
-      "summary": "Nvidia, yapay zeka sunucu fiyatlarına yüzde 15&#039;ten fazla zam yapmaya hazırlanıyor. Yükselen bellek maliyetlerinin tetiklediği bu artışın, dev veri merkezi yatırımlarında milyonlarca dolarlık ek yük oluşturması bekleniyor.",
-      "link": "https://www.yenicaggazetesi.com/teknoloji-dunyasini-sarsan-zam-karari-nvidianin-hamlesi-tum-planlari-altust-edecek-1065386h.htm",
-      "published": "2026-08-25T15:12:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:54.152936+00:00"
-    },
-    {
-      "id": "3245163a6fc06b88",
-      "source": "Habertürk",
-      "title": "Kademeli emeklilik çıkacak mı?",
-      "summary": "Kademeli emeklilik düzenlemesi, emeklilik yaşını bekleyen milyonlarca çalışanın gündemindeki yerini koruyor. Özellikle 8 Eylül 1999 sonrası sigorta girişi bulunan çalışanlar, mevcut emeklilik şartlarının değişip değişmeyeceğini araştırıyor. Emeklilikte Yaşa Takılanlar (EYT) düzenlemesinin ardından kapsam dışında kalan sigortalılar için yeni bir düzenleme yapılıp yapılmayacağı merak ediliyor. Sosya",
-      "link": "https://www.haberturk.com/kademeli-emeklilik-son-dakika-2026-kademeli-emeklilik-cikacak-mi-erken-emeklilik-sartlari-neler-3907824",
-      "published": "2026-08-25T15:12:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:25:29.198575+00:00"
-    },
-    {
-      "id": "9d8795eb542fc0e7",
-      "source": "Sözcü",
-      "title": "Üsküdar seçimi yenilenecek! AKP itiraz etti; mahkeme 'seçimler tekrar' dedi",
-      "summary": "Üsküdar seçimi yenilenecek! AKP itiraz etti; mahkeme 'seçimler tekrar' dedi",
-      "link": "https://www.sozcu.com.tr/uskudar-belediyesinde-baskanvekilligi-secimi-yenilenecek-p352600",
-      "published": "2026-08-25T15:12:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T18:45:42.902153+00:00"
-    },
-    {
-      "id": "ed1ca9b3791090c0",
-      "source": "Milliyet",
-      "title": "Son dakika: Üsküdar Belediyesi'ndeki başkanlık seçimi yenilenecek",
-      "summary": "İstanbul 2. İdare Mahkemesi AK Parti’nin itirazı üzerine Üsküdar Belediyesi'ndeki başkanvekili seçimleriyle ilgili kararını verdi. Mahkeme, seçimlerin yenilenmesini kararlaştırdı. Son dakika... Trump: Hürmüz Boğazı'ndaki bütün mayınlar etkisiz hale getirildi Son dakika... Cumhurbaşkanı Erdoğan'dan Terörsüz Türkiye mesajı: Hedefe ulaştığımızda yeni bir dönemin kapıları açılacak",
-      "link": "https://www.milliyet.com.tr/gundem/son-dakika-uskudar-belediyesindeki-baskanlik-secimi-yenilenecek-7648232",
-      "published": "2026-08-25T15:12:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:51.982998+00:00"
-    },
-    {
-      "id": "05201fff745cc95c",
-      "source": "Gazete Pencere",
-      "title": "Yattıkları yerden 913 bin lira kazandılar! 60 gün boyunca yataktan kalkmadılar",
-      "summary": "Almanya'da yürütülen uzay araştırmasında 24 gönüllü, iki ay boyunca yataktan hiç kalkmadı. Deney sonucunda katılımcılar, 19 bin doların (913 bin lira) sahibi oldu.",
-      "link": "https://www.gazetepencere.com/dis-haber/yattiklari-yerden-913-bin-lira-kazandilar-60-gun-boyunca-yataktan-kalkmadilar-713153h",
-      "published": "2026-08-25T15:12:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:56.022216+00:00"
-    },
-    {
-      "id": "a52fad2b14d900f8",
-      "source": "Habertürk",
-      "title": "Türksat 4A uydu frekans ayarları",
-      "summary": "Türksat 4A üzerinden televizyon kanallarını takip eden izleyiciler, kanal listesindeki değişikliklerin ardından yeni uydu frekans ayarlarını araştırmaya başladı. Bazı televizyon ve uydu alıcılarında kanalların eski frekans bilgileriyle bulunamaması, manuel kanal arama işlemini yeniden gündeme getirdi. Show TV, TRT 1, ATV, Star TV, Kanal D, TV8, TV100 ve NOW TV gibi popüler kanalların frekans bilgi",
-      "link": "https://www.haberturk.com/turksat-4a-yeni-uydu-frekans-ayarlari-2026-turksat-4a-frekans-ayari-nasil-yapilir-show-tv-trt-1-atv-star-tv-kanal-d-tv8-tv100-now-tv-frekans-bilgileri-3907248",
-      "published": "2026-08-25T15:11:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:25:29.198860+00:00"
-    },
-    {
-      "id": "68f375a72f65578d",
-      "source": "Yeniçağ",
-      "title": "Barcelona Casado için 25 milyon Euro istiyor: Türkiye'den iki takım devrede",
-      "summary": "Barcelona&#039;da forma şansı bulmakta zorlanan 22 yaşındaki İspanyol ön libero Marc Casado&#039;nun satış ihtimali gündemdeki sıcaklığını korurken Türkiye&#039;den iki takımın transfer olasılığını artıştırdığı iddia edildi.",
-      "link": "https://www.yenicaggazetesi.com/barcelona-casado-icin-25-milyon-euro-istiyor-turkiyeden-iki-takim-devrede-1065385h.htm",
-      "published": "2026-08-25T15:11:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:54.152973+00:00"
-    },
-    {
-      "id": "30e56ffe6a2735a5",
-      "source": "Yeniçağ",
-      "title": "Bilgisayar kullanıcılarının çilesi son buluyor: Yeni güncellemeyle sistem performansına dev dokunuş",
-      "summary": "Windows 11&#039;in son deneysel sürümünde ortaya çıkan IntelligentCarveout özelliği, sistem belleğinin doğrudan ekran kartına ayrılmasına imkan tanıyacak. Yeni sistem özellikle yapay zeka ve grafik yüklerinde performansı artırmayı hedefliyor.",
-      "link": "https://www.yenicaggazetesi.com/bilgisayar-kullanicilarinin-cilesi-son-buluyor-yeni-guncellemeyle-sistem-performansina-dev-dokunus-1065384h.htm",
-      "published": "2026-08-25T15:11:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:54.153008+00:00"
-    },
-    {
-      "id": "427d75728763c621",
-      "source": "Akşam",
-      "title": "Üsküdar'da başkanvekilliği seçimine mahkeme freni",
-      "summary": "İstanbul 2. İdare Mahkemesi, Üsküdar Belediye Meclisi'nde Sibel Tan Çetinkaya'nın belediye başkan vekili olarak seçilmesine ilişkin kararın yürütmesini durdurdu. Mahkemenin kararıyla birlikte başkan vekilliği sürecine ilişkin hukuki süreç yeniden gündeme geldi.",
-      "link": "https://www.aksam.com.tr/guncel/uskudarda-baskanvekilligi-secimine-mahkeme-freni/haber-1693298",
-      "published": "2026-08-25T15:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T16:35:37.506524+00:00"
-    },
-    {
-      "id": "084f7b61f48525b1",
-      "source": "Cumhuriyet",
-      "title": "Almanya, Macaristan'ı set vermeden devirdi",
-      "summary": "Almanya, Trendyol 2026 CEV Kadınlar Avrupa Voleybol Şampiyonası A Grubu'ndaki üçüncü maçında Macaristan'ı 3-0 mağlup etti.",
-      "link": "https://www.cumhuriyet.com.tr/spor/almanya-macaristan-i-set-vermeden-devirdi-2532321",
-      "published": "2026-08-25T15:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T15:15:48.304505+00:00"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-08-25T03:31:06.051888+00:00",
+  "last_updated": "2026-08-25T03:35:52.102057+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 595,
+  "new_items_this_run": 594,
   "items": [
+    {
+      "id": "39390a8d4b627e3f",
+      "source": "BBC News Türkçe",
+      "title": "ABD Hazine Bakanı Bessent: 'İran'a en büyük ekonomik saldırıyı başlatıyoruz'",
+      "summary": "ABD Hazine Bakanı Scott Bessent, İran ve destekçilerine yönelik bir yaptırım açıkladı ve Tahran'ın \"şimdiye kadarki en büyük finansal saldırı\" altına alındığını söyledi.",
+      "link": "https://www.bbc.com/turkce/articles/cwymr2k11k3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25T03:34:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T03:35:51.576559+00:00"
+    },
+    {
+      "id": "91f53976bf1ead09",
+      "source": "Habertürk",
+      "title": "Yolcu otobüsü ile yakıt tankeri çarpıştı: 35 yaralı",
+      "summary": "Kayseri'nin merkez Melikgazi ilçesinde yolcu otobüsü ile benzin taşıyan tankerin çarpışması sonucu meydana gelen kazada 35 kişi yaralandı",
+      "link": "https://www.haberturk.com/kayseri-de-yolcu-otobusu-ile-yakit-tankeri-carpisti-35-yarali-3907855",
+      "published": "2026-08-25T03:31:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T03:35:26.346610+00:00"
+    },
     {
       "id": "f0cbe57079c59b9c",
       "source": "Sözcü",
@@ -39,6 +61,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T03:30:49.381764+00:00"
+    },
+    {
+      "id": "616fe74449a7d1a8",
+      "source": "Finans Gündem",
+      "title": "Yolcu otobüsü ile yakıt taşıyan tankerin çarpıştığı kazada 35 kişi yaralandı",
+      "summary": "Kayseri'nin Melikgazi ilçesinde yolcu otobüsü ile benzin taşıyan tankerin çarpışması sonucu meydana gelen kazada 35 kişi yaralandı.",
+      "link": "https://www.finansingundemi.com/haber/yolcu-otobusu-ile-yakit-tasiyan-tankerin-carpistigi-kazada-35-kisi-yaralandi/1906037",
+      "published": "2026-08-25T03:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T03:35:42.986171+00:00"
+    },
+    {
+      "id": "473351d5bd910822",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kayseri'de yolcu otobüsü ile yakıt taşıyan tankerin çarpıştığı kazada 35 kişi yaralandı",
+      "summary": "Kayseri'nin Melikgazi ilçesinde yolcu otobüsü ile benzin taşıyan tankerin çarpışması sonucu meydana gelen kazada 35 kişi yaralandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/kayseride-yolcu-otobusu-ile-yakit-tasiyan-tankerin-carpistigi-kazada-35-kisi-yaralandi-/4036379",
+      "published": "2026-08-25T03:15:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-25T03:35:28.376383+00:00"
     },
     {
       "id": "f29d6f549a92f327",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-24T21:15:51.958322+00:00"
-    },
-    {
-      "id": "4277b827d00e53af",
-      "source": "CNBC-e",
-      "title": "Tera Grubu’ndan halka açık şirkette yeni hamle: Zorunlu pay alım teklifi başvurusu",
-      "summary": "Tera Grubu’nun dolaylı bağlı ortaklığı DLT, PRZMA’da yönetim kontrolünü elde etti. Şirket, diğer ortaklara yönelik zorunlu pay alım teklifi için SPK’ya başvururken teklif fiyatı 23,50 TL olarak belirlendi.",
-      "link": "https://www.cnbce.com/borsa/tera-grubundan-halka-acik-sirkette-yeni-hamle-zorunlu-pay-alim-teklifi-basvurusu-h35722",
-      "published": "2026-08-24T20:23:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T20:25:43.052660+00:00"
-    },
-    {
-      "id": "e657cf94cd5fb951",
-      "source": "Türkiye Gazetesi",
-      "title": "ABD'den Suriye için kritik karar! Terör listesinden çıkarıldı",
-      "summary": "ABD, Suriye'yi \"terörü destekleyen ülkeler\" listesinden çıkarırken, Heyet Tahrir Şam'ın (HTŞ) bazı terör tanımlamalarındaki statüsünü de kaldırdı. ABD Dışişleri Bakanı Marco Rubio, kararın Suriye'ye özel sektör yatırımlarının önünü açacağını belirtti.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/abdden-suriye-icin-kritik-karar-teror-listesinden-cikarildi-1811379",
-      "published": "2026-08-24T20:23:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T20:30:52.415036+00:00"
-    },
-    {
-      "id": "eb29cac4d615d08a",
-      "source": "Yeni Şafak",
-      "title": "Aydın'da gelinsiz salon eğlencesi",
-      "summary": "Aydın'ın Nazilli ilçesinde nikahına bir gün kala evlenmekten vazgeçen gurbetçi damat Ali Akın, iptal edemediği düğün salonunda akrabalarıyla gelinsiz kutlama yaptı. Damatlığıyla misafirlerini kapıda karşılayan Akın, aşırı talepler ve son andaki tavırlar nedeniyle evlilik kararından vazgeçtiğini anlattı.",
-      "link": "https://www.yenisafak.com/video/gundem/aydinda-gelinsiz-salon-eglencesi-4850603",
-      "published": "2026-08-24T20:23:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T20:25:33.509521+00:00"
-    },
-    {
-      "id": "0d661f89456e6fc9",
-      "source": "CNBC-e",
-      "title": "Tera Grubu'ndan halka açık şirkette yeni hamle: Zorunlu pay alım teklifi başvurusu",
-      "summary": "Tera Grubu’nun dolaylı bağlı ortaklığı DLT, PRZMA’da yönetim kontrolünü elde etti. Şirket, diğer ortaklara yönelik zorunlu pay alım teklifi için SPK’ya başvururken teklif fiyatı 23,50 TL olarak belirlendi.",
-      "link": "https://www.cnbce.com/borsa/tera-grubundan-halka-acik-sirkette-yeni-hamle-zorunlu-pay-alim-teklifi-basvurusu-h35722",
-      "published": "2026-08-24T20:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-24T20:31:10.734611+00:00"
     }
   ]
 }

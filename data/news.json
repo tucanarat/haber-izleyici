@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-26T23:11:01.712321+00:00",
+  "last_updated": "2026-08-26T23:16:02.816445+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 584,
+  "new_items_this_run": 582,
   "items": [
+    {
+      "id": "3b226e921784ad93",
+      "source": "Türkiye Gazetesi",
+      "title": "Hareketle gelen omuz tıkırtısının sebebi ‘sırt nasırı’",
+      "summary": "Kürek kemiği çevresindeki tıkırtı, sırttaki şişlik ve omuz ağrısı, nadir görülen Elastofibroma Dorsi’nin belirtisi olabilir. Uzmanlar, özellikle 40 yaş üzerindeki kadınların bu şikâyetleri dikkate alması gerektiğini belirtiyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/saglik/hareketle-gelen-omuz-tikirtisinin-sebebi-sirt-nasiri-1811868",
+      "published": "2026-08-26T23:10:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-26T23:15:40.019431+00:00"
+    },
     {
       "id": "4f926bbe53d00acb",
       "source": "BBC News Türkçe",
@@ -237,6 +248,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T23:05:37.145722+00:00"
+    },
+    {
+      "id": "24fa6880c3790316",
+      "source": "Habertürk",
+      "title": "Nvidia'nın geliri yüzde 106 arttı",
+      "summary": "ABD'li çip üreticisi Nvidia'nın geliri, üç aylık dönemde yıllık bazda yüzde 106 artışla 96,2 milyar dolara yükselerek piyasa beklentilerinin üzerinde gerçekleşti",
+      "link": "https://www.haberturk.com/nvidia-nin-geliri-yuzde-106-artti-3908372-teknoloji",
+      "published": "2026-08-26T22:59:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-26T23:15:34.845509+00:00"
     },
     {
       "id": "5c612a828f50d233",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T21:01:01.412383+00:00"
-    },
-    {
-      "id": "8aee047e7d128fe6",
-      "source": "Evrensel",
-      "title": "Haluk Levent'in Instagram hesabına erişim engeli kararı",
-      "summary": "Ahbap Derneği soruşturması kapsamında tutuklanan sanatçı Haluk Levent’in Instagram hesabına \"milli güvenlik ve kamu düzeninin korunması\" gerekçesiyle erişim engeli getirildi.",
-      "link": "https://www.evrensel.net/haber/5997945/haluk-leventin-instagram-hesabina-erisim-engeli-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-26T19:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T20:00:59.876065+00:00"
-    },
-    {
-      "id": "dbce0e94a2edf441",
-      "source": "Ekonomim",
-      "title": "İran: ABD'nin yeni yaptırımları ekonomik terörizm",
-      "summary": "İran Dışişleri Bakanı Abbas Erakçi, “ABD’nin İran’a yönelik yeni ekonomik yaptırımları ekonomik terörizm operasyonu” dedi.",
-      "link": "https://www.ekonomim.com/dunya/iran-abdnin-yeni-yaptirimlari-ekonomik-terorizm-haberi-914500",
-      "published": "2026-08-26T19:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T19:45:49.561575+00:00"
     }
   ]
 }

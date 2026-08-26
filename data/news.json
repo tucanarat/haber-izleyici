@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-26T02:46:05.702852+00:00",
+  "last_updated": "2026-08-26T02:50:57.153670+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 576,
+  "new_items_this_run": 577,
   "items": [
+    {
+      "id": "987bfdce8d401b1a",
+      "source": "Sözcü",
+      "title": "Adıyaman'da art arda depremler",
+      "summary": "Adıyaman'da art arda depremler",
+      "link": "https://www.sozcu.com.tr/adiyamanda-art-arda-depremler-p352696",
+      "published": "2026-08-26T02:48:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-26T02:50:36.574959+00:00"
+    },
     {
       "id": "10f3982d68455209",
       "source": "Habertürk",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T20:20:37.773639+00:00"
-    },
-    {
-      "id": "f0b6bf8c22e69d22",
-      "source": "Gazete Pencere",
-      "title": "Kışlık domates kurutmanın püf noktası: Doğru saklanırsa 1 yıl dayanıyor",
-      "summary": "Kurutulmuş domates; kahvaltıdan salataya, makarnadan sıcak yemeklere kadar pek çok tarifte kullanılabiliyor.",
-      "link": "https://www.gazetepencere.com/gozden-kacmasin/kislik-domates-kurutmanin-puf-noktasi-dogru-saklanirsa-1-yil-dayaniyor-713171h",
-      "published": "2026-08-25T20:06:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T20:10:49.702622+00:00"
     }
   ]
 }

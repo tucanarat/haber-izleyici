@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-26T00:26:03.033361+00:00",
+  "last_updated": "2026-08-26T00:31:14.656947+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 594,
+  "new_items_this_run": 591,
   "items": [
+    {
+      "id": "93a5ea75bfcb558d",
+      "source": "OdaTV",
+      "title": "Belçika'da salmonella alarmı",
+      "summary": "Belçika&#039;da salmonella bakterisi bulaşan yumurtaları tüketen en az 306 kişi hastalandı.",
+      "link": "https://www.odatv.com/guncel/belcikada-salmonella-alarmi-120160167",
+      "published": "2026-08-26T00:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-26T00:30:57.408893+00:00"
+    },
     {
       "id": "9c5cd264d46f2bee",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T19:41:04.941749+00:00"
-    },
-    {
-      "id": "6861076cc9a18865",
-      "source": "Millî Gazete",
-      "title": "MasterChef Eyüp Can Kimdir, Kaç Yaşında, Nereli ve Ne İş Yapıyor? Evli mi, Çocuğu Var mı? Eyüp Can Güneş'in Eşi Kim?",
-      "summary": "MasterChef Eyüp Can kimdir, kaç yaşında, nereli? TV8 ekranlarında yayınlanan MasterChef Türkiye'nin 2026 sezonunda ana kadroya girmeyi başaran Eyüp Can Güneş, yöresel mutfaktaki iddiasının yanı sıra yarışmada yaşanan son gelişmelerle dikkatleri üzerine çekti. Şadi ile yaşadığı tartışmanın ardından hakkında yapılan araştırmalar hız kazanırken, 26 yaşındaki yarışmacının Şanlıurfa'dan MasterChef mutf",
-      "link": "https://www.milligazete.com.tr/masterchef-eyup-can-kimdir-kac-yasinda-nereli-ve-ne-is-yapiyor-evli-mi-cocugu-var-mi-eyup-can-gunesin-esi-kim",
-      "published": "2026-08-25T19:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T19:40:49.874127+00:00"
     }
   ]
 }

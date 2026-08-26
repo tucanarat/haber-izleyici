@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-26T01:05:53.122545+00:00",
+  "last_updated": "2026-08-26T01:11:03.561323+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 603,
+  "new_items_this_run": 585,
   "items": [
+    {
+      "id": "867ca37b58e1c952",
+      "source": "Halk TV",
+      "title": "Suriye vatandaşları için vizede yeni dönem",
+      "summary": "Türkiye&#039;nin Şam Büyükelçiliği, Suriye vatandaşlarına yönelik vize uygulamasında &quot;hava yoluyla seyahat&quot; şartını kaldırdı.",
+      "link": "https://halktv.com.tr/turkiye/suriye-vatandaslari-icin-vizede-yeni-donem-1051058h",
+      "published": "2026-08-26T01:07:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-26T01:10:49.010228+00:00"
+    },
     {
       "id": "67aa6e08aa428a22",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-25T20:01:16.187085+00:00"
-    },
-    {
-      "id": "60c79ae9ee3f5dc8",
-      "source": "Evrensel",
-      "title": "Country müzik efsanesi Dolly Parton hayatını kaybetti",
-      "summary": "ABD'li country müzik efsanesi Dolly Parton 80 yaşında hayatını kaybetti. Trump ülkede bayrakların yarıya indirilmesi talimatını verdi.",
-      "link": "https://www.evrensel.net/haber/5997805/country-muzik-efsanesi-dolly-parton-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-25T19:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-25T20:10:42.726386+00:00"
     }
   ]
 }

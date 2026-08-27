@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-27T01:51:02.459339+00:00",
+  "last_updated": "2026-08-27T01:56:05.447014+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 609,
+  "new_items_this_run": 608,
   "items": [
+    {
+      "id": "f3da0c6016b2c79d",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Cezayir'in doğusunda çıkan orman yangınlarında 12 kişi hayatını kaybetti",
+      "summary": "Cezayir'in doğusundaki vilayetlerde çıkan orman yangınlarında ilk belirlemelere göre 12 kişinin hayatını kaybettiği bildirildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/cezayirin-dogusunda-cikan-orman-yanginlarinda-12-kisi-hayatini-kaybetti/4038639",
+      "published": "2026-08-27T01:49:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T01:55:35.273016+00:00"
+    },
     {
       "id": "9f26f77f35619fba",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T20:50:41.686138+00:00"
-    },
-    {
-      "id": "ee50da27bea4b560",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İran'dan \"ABD'nin güç gösterisi için gönderdiği Lincoln uçak gemisi, şimdi tatile gidiyor\" yorumu",
-      "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD'ye ait USS Abraham Lincoln uçak gemisinin bölgeden ayrılmasını, \"güç gösterisinin sona ermesi olarak\" değerlendirdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/irandan-abdnin-guc-gosterisi-icin-gonderdigi-lincoln-ucak-gemisi-simdi-tatile-gidiyor-yorumu/4038587",
-      "published": "2026-08-26T20:45:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T20:50:34.793172+00:00"
     }
   ]
 }

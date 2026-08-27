@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-27T00:31:21.798091+00:00",
+  "last_updated": "2026-08-27T00:36:01.270980+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 602,
+  "new_items_this_run": 603,
   "items": [
+    {
+      "id": "e1356a2489b60513",
+      "source": "Karar",
+      "title": "Microsoft, milyonlarca kullanıcının sabrını taşıran sağ tık donmalarına sonunda neşter vuruyor",
+      "summary": "Windows 11 kullanıcılarının yıllardır yakındığı sağ tık menüsündeki hantallık, Microsoft'un hayata geçirdiği K2 projesiyle tarihe karışıyor. Geliştirilen yeni ve kompakt arayüz, sık kullanılan komutları öne çıkarıp gereksiz yüklemeleri önleyerek menü açılışını hızlandırıyor. Kullanıcılar menü öğelerini diledikleri gibi özelleştirip sıralayabiliyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/windows-11-sag-tik-menusu-neden-yavas-sag-tik-gecikmesi-nasil-2068236",
+      "published": "2026-08-27T00:32:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T00:35:42.995841+00:00"
+    },
     {
       "id": "1f07ec956831e22e",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T20:30:51.549302+00:00"
-    },
-    {
-      "id": "cdd7d7ff071e48e6",
-      "source": "Yeni Şafak",
-      "title": "Şanlıurfa’da serinlemek isteyen çocuk hayatını kaybetti",
-      "summary": "Şanlıurfa’nın Haliliye ilçesinde sulama kanalına giren 16 yaşındaki Mehmet Raşit Atay, bir süre sonra suda kayboldu. İhbar üzerine bölgeye sevk edilen ekiplerin gece dalışıyla yürüttüğü aramada Atay’ın cansız bedenine ulaşıldı.",
-      "link": "https://www.yenisafak.com/video/gundem/sanliurfada-serinlemek-isteyen-cocuk-hayatini-kaybetti-4851084",
-      "published": "2026-08-26T20:12:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T20:15:46.130254+00:00"
     }
   ]
 }

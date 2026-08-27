@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-27T02:16:11.620034+00:00",
+  "last_updated": "2026-08-27T02:21:00.749144+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 601,
+  "new_items_this_run": 602,
   "items": [
+    {
+      "id": "d0da5e5184f571a1",
+      "source": "BBC News Türkçe",
+      "title": "Beşiktaş Avrupa Ligi için Litvanya'ya çok avantajlı gidiyor",
+      "summary": "Beşiktaş, UEFA Avrupa Ligi'ne kalabilmek için bugün Litvanya'da Kauno Zalgiris ile karşılaşacak. Siyah Beyazlılar İstanbul'daki ilk maçı 3-0 kazanmıştı.",
+      "link": "https://www.bbc.com/turkce/articles/cly899d2l8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-27T02:18:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T02:21:00.090765+00:00"
+    },
     {
       "id": "92de62037ee70936",
       "source": "Halk TV",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-27T02:15:56.959818+00:00"
+    },
+    {
+      "id": "32f589a9cd962015",
+      "source": "Finans Gündem",
+      "title": "UKMTO: Hürmüz Boğazı'nda bir tanker gemisi vuruldu",
+      "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda bir tankerin kaynağı belirsiz bir mühimmatla hedef alındığını ve çıkan yangının söndürüldüğünü duyurdu.",
+      "link": "https://www.finansingundemi.com/haber/ukmto-hurmuz-bogazinda-bir-tanker-gemisi-vuruldu/1906281",
+      "published": "2026-08-27T02:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T02:20:54.790131+00:00"
     },
     {
       "id": "750d2be84f2f9819",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T21:01:18.129991+00:00"
-    },
-    {
-      "id": "9812cc3d73630920",
-      "source": "Habertürk",
-      "title": "Şampiyonlar Ligi kura çekimi ne zaman?",
-      "summary": "UEFA Şampiyonlar Ligi'nde 2026-2027 sezonu lig aşaması kura çekimi için heyecan başladı. Fenerbahçe, Şampiyonlar Ligi play-off turunda Lyon'u eleyerek lig aşamasına kalmayı başardı. Galatasaray ise doğrudan lig aşamasından başlayacağı organizasyonda kura çekiminde yer alacak. Avrupa'nın en prestijli futbol organizasyonunda mücadele edecek iki Türk temsilcisinin hangi rakiplerle eşleşeceği merak ko",
-      "link": "https://www.haberturk.com/uefa-sampiyonlar-ligi-kura-cekimi-ne-zaman-saat-kacta-ve-hangi-kanalda-yayinlanacak-fenerbahce-ve-galatasaray-rakipleri-kimler-3908355",
-      "published": "2026-08-26T20:55:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T21:10:49.369723+00:00"
-    },
-    {
-      "id": "fd6843f123ad805c",
-      "source": "Halk TV",
-      "title": "Diyarbakır'da erkek dehşeti: Kadını silahla katledip çocuğunu kaçırdı",
-      "summary": "Diyarbakır&#039;ın Yenişehir ilçesinde boşanma aşamasındaki eşiyle parkta buluşan E.A., kucağındaki çocuğu zorla almaya çalışırken direnen eşini silahla öldürdü. Ardından çocuğunu alarak kaçan erkek, polis tarafından yakalandı..",
-      "link": "https://halktv.com.tr/turkiye/diyarbakirda-erkek-dehseti-kadini-silahla-katledip-cocugunu-kacirdi-1051278h",
-      "published": "2026-08-26T20:54:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T20:55:42.712759+00:00"
     }
   ]
 }

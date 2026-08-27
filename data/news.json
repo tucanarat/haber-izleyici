@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-08-27T04:05:48.851690+00:00",
+  "last_updated": "2026-08-27T04:10:59.834333+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 625,
+  "new_items_this_run": 611,
   "items": [
+    {
+      "id": "b8f48d298bb9f58f",
+      "source": "Akşam",
+      "title": "3 otomobil alevlere teslim oldu! Oto galeride kundaklama şüphesi",
+      "summary": "Avcılar'da oto galeride gece yarısı korkutan yangın. Galeride bulunan 3 otomobil alevlere teslim olurken, itfaiyenin müdahalesiyle yangın büyümeden kontrol altına alındı. Polis, olayın kundaklama olabileceği ihtimali üzerinde duruyor.",
+      "link": "https://www.aksam.com.tr/guncel/3-otomobil-alevlere-teslim-oldu-oto-galeride-kundaklama-suphesi/haber-1693685",
+      "published": "2026-08-27T04:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T04:10:43.225627+00:00"
+    },
+    {
+      "id": "e9d23d4df7bec9fd",
+      "source": "Akşam",
+      "title": "Kitap değil servet! Özel okullarda ‘ek materyal' krizi",
+      "summary": "MEB'in ücretsiz kitap genelgesi özel okullarda ‘yayın paketi' kılıfına takıldı. Bazı okullarda set fiyatları 113 bin lirayı aşarken, 2022'de 8 bin TL olan kitap paketleri bu yıl 85 bin TL'den satışa sunuluyor.",
+      "link": "https://www.aksam.com.tr/guncel/kitap-degil-servet-ozel-okullarda-ek-materyal-krizi/haber-1693684",
+      "published": "2026-08-27T04:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T04:10:43.225665+00:00"
+    },
+    {
+      "id": "c71b828050ccff7c",
+      "source": "Star",
+      "title": "Panik anları! Köprüden nehre düştü",
+      "summary": "Adana'nın merkez Seyhan ilçesinde köprüden nehre düşen kişi, itfaiye ekiplerince kurtarıldıktan sonra hastaneye kaldırıldı.",
+      "link": "https://www.star.com.tr/guncel/panik-anlari-kopruden-nehre-dustu-haber-2036286/",
+      "published": "2026-08-27T04:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T04:10:43.528211+00:00"
+    },
     {
       "id": "5b3bbd14bc58c379",
       "source": "Akşam",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T21:15:57.778814+00:00"
-    },
-    {
-      "id": "3c426152c260095e",
-      "source": "Karar",
-      "title": "Cumhurbaşkanı bu sesi duymalı",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/ali-bayramoglu/cumhurbaskani-bu-sesi-duymali-1608963",
-      "published": "2026-08-26T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T22:55:41.104857+00:00"
-    },
-    {
-      "id": "d54acfc3937e1746",
-      "source": "Cumhuriyet",
-      "title": "T.C. KONYA 5. AİLE MAHKEMESİ",
-      "summary": "T.C. KONYA 5. AİLE MAHKEMESİ",
-      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-konya-5-aile-mahkemesi-2532682",
-      "published": "2026-08-26T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T22:00:54.924483+00:00"
-    },
-    {
-      "id": "b4ec4b74e6fd446d",
-      "source": "Cumhuriyet",
-      "title": "T.C. İSTANBUL ANADOLU GAYRİMENKUL SATIŞ İCRA DAİRESİ",
-      "summary": "T.C. İSTANBUL ANADOLU GAYRİMENKUL SATIŞ İCRA DAİRESİ",
-      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-istanbul-anadolu-gayrimenkul-satis-icra-dairesi-2532681",
-      "published": "2026-08-26T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T21:55:29.891563+00:00"
     }
   ]
 }

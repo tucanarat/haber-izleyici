@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-27T03:10:57.600996+00:00",
+  "last_updated": "2026-08-27T03:16:06.642119+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 604,
+  "new_items_this_run": 602,
   "items": [
+    {
+      "id": "d624bb60a99ca54e",
+      "source": "Yeniçağ",
+      "title": "Belçika'da yumurtalar marketlerden tek tek toplatılıyor: Ölümcül bakteri tespit edildi",
+      "summary": "Belçika genelinde zincir marketlerde satılan yumurtalarda salmonella bakterisi belirlendi. Anvers eyaletinin Geel kentindeki bir tesisten yayılan salgın nedeniyle en az 300 kişi hastalandı. Federal Gıda Güvenliği Ajansı (AFSCA), riskli yumurta kodlarını açıklayarak acil iade çağrısı yaptı.",
+      "link": "https://www.yenicaggazetesi.com/belcikada-yumurtalar-marketlerden-tek-tek-toplatiliyor-olumcul-bakteri-tespit-edildi-1065756h.htm",
+      "published": "2026-08-27T03:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T03:15:47.172919+00:00"
+    },
     {
       "id": "2643df793b2cad55",
       "source": "Yeniçağ",
@@ -28,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-27T03:10:42.464879+00:00"
+    },
+    {
+      "id": "e5d053c3469b0e07",
+      "source": "Habertürk",
+      "title": "Erzincan'da yangın: 8 ev küle döndü!",
+      "summary": "Erzincan Kemaliye'de çıkan yangında bitişik haldeki 8 müstakil ev kullanılamaz hale geldi. Alevler, itfaiye ekiplerinin 3 saatlik çalışması sonucu söndürüldü",
+      "link": "https://www.haberturk.com/erzincan-da-yangin-8-ev-kule-dondu-3908379",
+      "published": "2026-08-27T03:09:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T03:15:35.721838+00:00"
     },
     {
       "id": "9e60596dfeaa0f2f",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T21:01:11.626221+00:00"
-    },
-    {
-      "id": "22a1dabd34cdf243",
-      "source": "Ekonomim",
-      "title": "Satışlarını 117 milyara düşürdü kâr hedefini 15 milyara çıkardı",
-      "summary": "",
-      "link": "https://www.ekonomim.com/kose-yazisi/satislarini-117-milyara-dusurdu-kar-hedefini-15-milyara-cikardi/914497",
-      "published": "2026-08-26T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T21:01:11.626236+00:00"
-    },
-    {
-      "id": "0a3a1a7e6927bd6c",
-      "source": "Ekonomim",
-      "title": "‘Vicdanlı kapitalizm’e dönülemedi, ‘işçi sınıfı liberalizmi’ benimsenir mi?",
-      "summary": "",
-      "link": "https://www.ekonomim.com/kose-yazisi/vicdanli-kapitalizme-donulemedi-isci-sinifi-liberalizmi-benimsenir-mi/914502",
-      "published": "2026-08-26T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T21:01:11.626252+00:00"
     }
   ]
 }

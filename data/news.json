@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-27T01:11:18.687199+00:00",
+  "last_updated": "2026-08-27T01:16:05.189783+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 611,
+  "new_items_this_run": 610,
   "items": [
+    {
+      "id": "c2a64f3831e51f0c",
+      "source": "BBC News Türkçe",
+      "title": "Aralıklı orucun faydaları abartılıyor mu?",
+      "summary": "Aralıklı orucun işe yarayıp yaramadığını kanıtlamak, diğer tüm yaşam tarzı değişikliklerinde olduğu gibi son derece zor. Ancak yeni teknolojiler, neyin işe yaradığını ve neyin yaramadığını anlamamıza daha iyi yardımcı olabilir.",
+      "link": "https://www.bbc.com/turkce/articles/cj64274d534o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-27T01:13:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T01:16:04.710717+00:00"
+    },
     {
       "id": "005e2d1f3478e064",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T20:40:47.550170+00:00"
-    },
-    {
-      "id": "3ca348bd02d35228",
-      "source": "OdaTV",
-      "title": "Kucağında çocuğuyla eşinin silahlı saldırısına uğrayan kadın hayatını kaybetti",
-      "summary": "Diyarbakır&#039;ın Yenişehir ilçesinde kucağında çocuğu varken eşinin silahlı saldırısına uğrayan kadın hayatını kaybetti. Saldırı anı güvenlik kamerasına yansıdı.",
-      "link": "https://www.odatv.com/guncel/kucaginda-cocuguyla-esinin-silahli-saldirisina-ugrayan-kadin-hayatini-kaybetti-120160290",
-      "published": "2026-08-26T20:38:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T20:45:47.247820+00:00"
     }
   ]
 }

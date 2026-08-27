@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-08-27T00:20:58.415298+00:00",
+  "last_updated": "2026-08-27T00:26:01.180881+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 599,
+  "new_items_this_run": 602,
   "items": [
+    {
+      "id": "1f07ec956831e22e",
+      "source": "Türkiye Gazetesi",
+      "title": "Dijital dev Türkiye’ye geliyor!",
+      "summary": "Netflix, Disney ve Amazon’un ardından küresel bir dijital içerik platformu daha rotasını Türkiye’ye çevirdi. “İzlediğin kadar öde” modeliyle faaliyet gösteren MovieMe, 2027’de İstanbul ofisini açacak. Türkiye’yi “amiral gemisi” olarak tanımlayan şirket, 5 yılda en az 100 milyon liralık yatırım planlıyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/turk-dizi-ve-icerik-ureticileri-dijital-platformlari-cezbediyor-turkiye-bizim-amiral-1811877",
+      "published": "2026-08-27T00:23:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T00:25:36.184506+00:00"
+    },
+    {
+      "id": "1f07ec956831e22e",
+      "source": "Türkiye Gazetesi",
+      "title": "Dijital dev Türkiye’ye geliyor!",
+      "summary": "Netflix, Disney ve Amazon’un ardından küresel bir dijital içerik platformu daha rotasını Türkiye’ye çevirdi. “İzlediğin kadar öde” modeliyle faaliyet gösteren MovieMe, 2027’de İstanbul ofisini açacak. Türkiye’yi “amiral gemisi” olarak tanımlayan şirket, 5 yılda en az 100 milyon liralık yatırım planlıyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/turk-dizi-ve-icerik-ureticileri-dijital-platformlari-cezbediyor-turkiye-bizim-amiral-1811877",
+      "published": "2026-08-27T00:23:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T00:25:36.184552+00:00"
+    },
+    {
+      "id": "81363523fa34b6d4",
+      "source": "Karar",
+      "title": "Youtube, yapay zeka üretimi videoların reklam gelirini kaldırdı",
+      "summary": "Youtube, üretken yapay zeka ile seri halde hazırlanan ve 'AI slop' olarak bilinen kalitesiz videolara karşı gelir kapısını kapatıyor. Yeni dönemle birlikte; izleyiciye fayda sağlamayan kopyala-yapıştır yapımlar, reklam ve abonelik gelirlerinden mahrum kalıyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/yapay-zeka-ile-youtubedan-para-kazanmak-bitti-mi-tekrarlayan-ai-2068235",
+      "published": "2026-08-27T00:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-27T00:25:41.029590+00:00"
+    },
     {
       "id": "923437f78ef9d473",
       "source": "Yeniçağ",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-26T20:15:46.130254+00:00"
-    },
-    {
-      "id": "24e0287262fbc698",
-      "source": "CNBC-e",
-      "title": "Rusya-Ukrayna savaşında nükleer alarm: Putin için kritik iddia",
-      "summary": "Bloomberg, Kremlin'e yakın üç kaynağa dayandırdığı haberinde Rusya'nın Ukrayna'daki savaşta taktik nükleer silah kullanımını son çare olarak değerlendirebileceğini öne sürdü. Kaynaklar, barış görüşmelerinin çıkmaza girmesi halinde Moskova'nın konvansiyonel saldırıları da artırabileceğini belirtti.",
-      "link": "https://www.cnbce.com/haberler/rusya-ukrayna-savasinda-nukleer-alarm-putin-icin-kritik-iddia-h35883",
-      "published": "2026-08-26T20:11:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T20:15:59.532172+00:00"
-    },
-    {
-      "id": "06ecc04721da288b",
-      "source": "Cumhuriyet",
-      "title": "Almanya'da Frankfurt Havalimanı'nda çalışan 2 kişi sıtma nedeniyle öldü",
-      "summary": "Almanya'da Frankfurt Havalimanı'nda çalışan 2 kişinin sıtma nedeniyle hayatını kaybettiği bildirildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/almanya-da-frankfurt-havalimani-nda-calisan-2-kisi-sitma-nedeniyle-oldu-2532642",
-      "published": "2026-08-26T20:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T20:15:40.838691+00:00"
-    },
-    {
-      "id": "0afce2b7f09b0748",
-      "source": "Yeni Akit",
-      "title": "Türkiye'den başsağlığı mesajı",
-      "summary": "Türkiye, Nepal'de meydana gelen sel felaketi ve toprak kaymasında hayatını kaybedenler için başsağlığı mesajı yayımladı.",
-      "link": "https://www.yeniakit.com.tr/haber/turkiyeden-bassagligi-mesaji-2019570.html",
-      "published": "2026-08-26T20:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-26T20:15:47.186764+00:00"
     }
   ]
 }

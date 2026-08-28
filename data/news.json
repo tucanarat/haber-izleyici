@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-08-28T19:11:08.909890+00:00",
+  "last_updated": "2026-08-28T19:16:14.612794+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 612,
+  "new_items_this_run": 609,
   "items": [
+    {
+      "id": "0721c9acd89341fe",
+      "source": "Gazete Pencere",
+      "title": "Diş temizliğinde yeni teknoloji: Hava, su ve ince tozla çalışmakta",
+      "summary": "Diş taşı temizliği birçok kişinin düzenli olarak yaptırdığı işlemlerden biri. Ancak diş kliniklerinde kullanılan cihazlar da teknolojiyle birlikte değişiyor.",
+      "link": "https://www.gazetepencere.com/gozden-kacmasin/dis-temizliginde-yeni-teknoloji-hava-su-ve-ince-tozla-calismakta-713581h",
+      "published": "2026-08-28T19:13:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T19:15:53.235958+00:00"
+    },
+    {
+      "id": "e6bf5c7f4c347548",
+      "source": "Star",
+      "title": "Aston Villa, Nicolas Jackson'u kadrosuna kattı",
+      "summary": "İngiltere Premier Lig ekiplerinden Aston Villa, geçtiğimiz sezon kiralık olarak Bayern Münih forması giyen ve bonservisi Chelsea'de bulunan Nicolas Jackson'u renklerine bağladı.",
+      "link": "https://www.star.com.tr/spor/aston-villa-nicolas-jacksonu-kadrosuna-katti-haber-2036702/",
+      "published": "2026-08-28T19:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T19:15:49.164064+00:00"
+    },
     {
       "id": "a6de4727cd21e557",
       "source": "Akşam",
@@ -41,6 +63,17 @@
       "fetched_at": "2026-08-28T19:10:50.440246+00:00"
     },
     {
+      "id": "a2b27b7ea81f5243",
+      "source": "OdaTV",
+      "title": "Talisca'dan dikkat çeken paylaşım",
+      "summary": "Fenerbahçe’de yaz transfer döneminin hareketli günleri devam ederken Anderson Talisca&#039;dan dikkat çeken bir paylaşım geldi: “İnsanlar kullanılıp sonra atılacak tek kullanımlık eşyalar değildir.”",
+      "link": "https://www.odatv.com/spor/taliscadan-dikkat-ceken-paylasim-120160556",
+      "published": "2026-08-28T19:08:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T19:15:53.620538+00:00"
+    },
+    {
       "id": "e4bb9c4121a5d819",
       "source": "Türkiye Gazetesi",
       "title": "Uzmandan uyarı! Hafta sonu kuvvetli gelecek",
@@ -61,6 +94,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T19:10:48.067988+00:00"
+    },
+    {
+      "id": "274eb7cde8ba64e9",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Diyanet İşleri Başkanı Arpaguş: Gençlerimize yönelik çalışmalara özel bir önem atfediyoruz",
+      "summary": "Arpaguş, \"Gençlerimize yönelik çalışmalara özel bir önem atfediyoruz. Nesillerimizi Allah Resulü'nün ahlakıyla buluşturmaya çalışıyoruz. Onların zihin ve gönül dünyalarını Kur'an ve sünnetin rehberliğinde inşa etmeyi hedefliyoruz\" dedi.",
+      "link": "https://www.aa.com.tr/tr/gundem/diyanet-isleri-baskani-arpagus-genclerimize-yonelik-calismalara-ozel-bir-onem-atfediyoruz/4040602",
+      "published": "2026-08-28T19:07:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T19:15:40.459892+00:00"
+    },
+    {
+      "id": "cc7a921d58dc71df",
+      "source": "Gerçek Gündem",
+      "title": "Zeytinburnu'nda Tramvaylar Kafa Kafaya Çarpıştı: Yaralılar Var, Seferler durduruldu",
+      "summary": "İstanbul Zeytinburnu&#039;nda T1 Kabataş-Bağcılar Tramvay Hattı&#039;nda 2 tramvay kafa kafaya çarpıştı. Kazada 9 kişi yaralanırken, seferler geçici olarak Kabataş-Çapa ve Cevizlibağ-Bağcılar arasında yapılıyor.",
+      "link": "https://www.gercekgundem.com/guncel/zeytinburnunda-tramvaylar-kafa-kafaya-carpisti-yaralilar-var-seferler-durduruldu-577609",
+      "published": "2026-08-28T19:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T19:16:02.062092+00:00"
     },
     {
       "id": "2b928be30bf225db",
@@ -215,6 +270,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T19:01:03.451888+00:00"
+    },
+    {
+      "id": "5ad8dca1796c4b02",
+      "source": "Habertürk",
+      "title": "Trump’tan ABD Uzay Akademisi adımı",
+      "summary": "ABD Başkanı Donald Trump, ülkenin uzay çalışmalarını desteklemek amacıyla \"ABD Uzay Akademisi\" kurulacağını açıklarken, Ay görevleri ve uzay alanındaki yatırımların artırılacağını söyledi",
+      "link": "https://www.haberturk.com/abd-baskani-trump-uzay-calismalarini-gelistirmek-icin-yeni-akademi-kuracak-3908826",
+      "published": "2026-08-28T18:58:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T19:15:36.579404+00:00"
     },
     {
       "id": "e680ce556f950cdb",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T15:55:34.205032+00:00"
-    },
-    {
-      "id": "29bce778d8b14d96",
-      "source": "Yeniçağ",
-      "title": "16 ses, tek yürek: İstanbul’da genç kadınların eğitim desteği",
-      "summary": "İstanbul Vakfı, kente ilk kez gelen üniversiteli genç kadınlara barınma, eğitim, kitap ve uyum desteği sağlamak amacıyla Sen Oku Biz Yanındayız kampanyasını başlatıyor. Kampanya dayanışması Harbiye konserinde büyüyor.",
-      "link": "https://www.yenicaggazetesi.com/16-ses-tek-yurek-istanbulda-genc-kadinlarin-egitim-destegi-1066277h.htm",
-      "published": "2026-08-28T15:54:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T15:55:35.129181+00:00"
-    },
-    {
-      "id": "26e95c77ca5d6281",
-      "source": "Finans Gündem",
-      "title": "Bu hafta hangi yatırım aracı ne kazandırdı?",
-      "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda ortalama yüzde 0,87, altının gram fiyatı yüzde 1, dolar/TL yüzde 0,37 ve euro/TL yüzde 0,09 değer kazandı.",
-      "link": "https://www.finansingundemi.com/haber/bu-hafta-hangi-yatirim-araci-ne-kazandirdi/1906486",
-      "published": "2026-08-28T15:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T16:01:11.405299+00:00"
-    },
-    {
-      "id": "00ca3415c548a95a",
-      "source": "Gazete Pencere",
-      "title": "İstanbul'da otobüs kazası: 1 kişi öldü, 17 kişi yaralandı",
-      "summary": "Aniden şerit değiştiren bir otomobilden kaçmak için manevra yapan otobüs, bir sitenin duvarına çarptı. Kazada 1 kişi hayatını kaybetti.",
-      "link": "https://www.gazetepencere.com/gundem/istanbulda-otobus-kazasi-1-kisi-oldu-17-kisi-yaralandi-713562h",
-      "published": "2026-08-28T15:53:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T15:55:36.263578+00:00"
-    },
-    {
-      "id": "370a3afd640ecbdd",
-      "source": "Gazete Pencere",
-      "title": "İstanbul'da otobüs kazası: 2 kişi öldü, 16 kişi yaralandı",
-      "summary": "Aniden şerit değiştiren bir otomobilden kaçmak için manevra yapan otobüs, bir sitenin duvarına çarptı. Kazada 2 kişi hayatını kaybetti.",
-      "link": "https://www.gazetepencere.com/gundem/istanbulda-otobus-kazasi-1-kisi-oldu-17-kisi-yaralandi-713562h",
-      "published": "2026-08-28T15:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T18:01:06.567955+00:00"
-    },
-    {
-      "id": "f9bee374653dae47",
-      "source": "Cumhuriyet",
-      "title": "Özgür Özel’den Bakan Gürlek’e 'İBB davası' yanıtı: ‘Canlı yayın talebimiz ısrarla devam ediyor’",
-      "summary": "YENİ Parti Genel Başkanı Özgür Özel, Kocaeli’nin İzmit ilçesinde yaptığı konuşmada, \"Adalet Bakanı dün çıkmış, hiç ama utanmadan sıkılmadan, birkaç iftiracıyla Ekrem Başkan arasındaki polemiği, 'Görüyor musunuz? Şimdi zor durumda. Şimdi canlı yayın ister mi?' diyecek kadar hadsizleşti. Muhatabım o değil. Ama onu atayana, Recep Tayyip Erdoğan'a söylüyorum: Hadi, cesaretin varsa biz varız. Canlı yay",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-bakan-gurlek-e-ibb-davasi-yaniti-canli-yayin-talebimiz-israrla-devam-ediyor-2533198",
-      "published": "2026-08-28T15:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T15:55:29.445821+00:00"
-    },
-    {
-      "id": "dbf4441add06f0a1",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Bu hafta yatırım araçlarının performansı",
-      "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda ortalama yüzde 0,87, altının gram fiyatı yüzde 1, dolar/TL yüzde 0,37 ve avro/TL yüzde 0,09 değer kazandı.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4040424",
-      "published": "2026-08-28T15:52:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T15:55:29.150428+00:00"
     }
   ]
 }

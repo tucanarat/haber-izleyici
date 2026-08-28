@@ -1,12 +1,221 @@
 {
-  "last_updated": "2026-08-28T07:26:04.140499+00:00",
+  "last_updated": "2026-08-28T07:31:20.528751+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 588,
+  "new_items_this_run": 589,
   "items": [
+    {
+      "id": "2dc212c34765bbb4",
+      "source": "Gazete Pencere",
+      "title": "Erdoğan imzaladı: Son dönemin en büyük ihalesi",
+      "summary": "Cumhurbaşkanı Erdoğan, ihaleleri onayladı. Kemerburgaz'da sadece tek ihale 1 milyar 210 milyona verildi.",
+      "link": "https://www.gazetepencere.com/siyaset/erdogan-imzaladi-son-donemin-en-buyuk-ihalesi-713484h",
+      "published": "2026-08-28T07:30:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:01.600988+00:00"
+    },
+    {
+      "id": "fefdf243512dbe69",
+      "source": "Yeniçağ",
+      "title": "Borsa güne düşüşle başladı: BIST 100'de kritik seviyeler belli oldu",
+      "summary": "Borsa İstanbul’da BIST 100 endeksi, güne yüzde 0,22 düşüşle 14.543,70 puandan başladı. Küresel piyasalarda Fed Başkanı Kevin Warsh’un mesajları beklenirken, enflasyon baskıları ve Nvidia bilançosu sonrası oluşan temkinli görünüm yurt içi piyasada da etkili oldu.",
+      "link": "https://www.yenicaggazetesi.com/borsa-gune-dususle-basladi-bist-100de-kritik-seviyeler-belli-oldu-1066087h.htm",
+      "published": "2026-08-28T07:30:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:59.583570+00:00"
+    },
+    {
+      "id": "db0709336fd81d10",
+      "source": "ShiftDelete.Net",
+      "title": "Nokia 300 Charge: Uygun Fiyatlı Retro Telefon",
+      "summary": "Nokia 300 Charge, retro tasarımı ve uygun fiyatıyla dikkat çekiyor. Ancak 2G desteği nedeniyle ABD pazarında kullanılamayacak.",
+      "link": "https://shiftdelete.net/nokia-300-charge-retro-telefon",
+      "published": "2026-08-28T07:30:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:15.676670+00:00"
+    },
+    {
+      "id": "e988a0d9fc67c574",
+      "source": "Halk TV",
+      "title": "TFF harekete geçti: Kocaelispor'da stat depremi",
+      "summary": "Kocaelispor&#039;un Gaziantepspor ile oynayacağı maç öncesi TFF harekete geçti.",
+      "link": "https://halktv.com.tr/spor/tff-harekete-gecti-kocaelisporda-stat-depremi-1051580h",
+      "published": "2026-08-28T07:30:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:02.292558+00:00"
+    },
+    {
+      "id": "8cd1c5fb16c0667f",
+      "source": "Yeni Akit",
+      "title": "Rüşvetle anılan isimlerin dokunulmazlıkları kaldırılsın! Meclis’te de arınma",
+      "summary": "Ekrem imamoğlu-Özgür Özel ve ekibinin belediyeler üzerinden kurduğu rüşvet ağı trafiğini yöneten, milletvekili dokunulmazlıkları sebebiyle haklarında fezleke düzenlenen isimler için Meclis’in harekete geçerek temiz eller operasyonu başlatması istendi.",
+      "link": "https://www.yeniakit.com.tr/haber/rusvetle-anilan-isimlerin-dokunulmazliklari-kaldirilsin-mecliste-de-arinma-2019797.html",
+      "published": "2026-08-28T07:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:58.493337+00:00"
+    },
+    {
+      "id": "cdfe2ae5d0fb8fa1",
+      "source": "Millî Gazete",
+      "title": "Trump Putin’e kefil oldu: \"NATO topraklarına saldırmayacak!\"",
+      "summary": "CIA Direktörü John Ratcliffe'in gizli Moskova seferi ve nükleer savaş senaryolarının gölgesinde konuşan ABD Başkanı Trump'tan \"NATO'ya saldırı yok\" mesajı gelirken; Rusya'nın Ukrayna'da taktik nükleer silahlara başvurabileceği iddiaları dünyayı alarma geçirdi. İşte haberin detayları...",
+      "link": "https://www.milligazete.com.tr/trump-putine-kefil-oldu-nato-topraklarina-saldirmayacak",
+      "published": "2026-08-28T07:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:01.252515+00:00"
+    },
+    {
+      "id": "f990344290f075d9",
+      "source": "LOG",
+      "title": "ChatGPT’nin “geçici sohbet” altyapısına iki yeni özellik eklendi",
+      "summary": "ChatGPT için sunulan geçici sohbet özelliği, kullanıcı geri bildirimleri doğrultusunda yeni seçeneklerle genişletiliyor. Kullanıcılar artık geçici sohbetleri mevcut anıları, özel talimatları ve eklentileriyle kişiselleştirebiliyor. Ayrıca geçici sohbetler artık normal sohbetler gibi kaydedilebiliyor. OpenAI&#8217;ın açıklamasına göre geçici sohbetler yeni anılar oluşturmuyor ve kullanıcı kaydetmey",
+      "link": "https://www.log.com.tr/chatgptnin-gecici-sohbet-altyapisina-iki-yeni-ozellik-eklendi/",
+      "published": "2026-08-28T07:29:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:14.824212+00:00"
+    },
+    {
+      "id": "2fe517f556f84f93",
+      "source": "Gazete Pencere",
+      "title": "Milli Eğitim Bakanlığı açıkladı: Öğrencilerin okula uyum haftasında velilere idari izin",
+      "summary": "Milli Eğitim Bakanlığı, 2026-2027 eğitim öğretim yılı öncesinde okul öncesi, ilkokul 1. sınıf ve ortaokul 5. sınıf öğrencilerine yönelik uyum programının ayrıntılarını açıkladı. Kamuda çalışan ebeveynlerden biri, idari izin kullanabilecek.",
+      "link": "https://www.gazetepencere.com/gundem/milli-egitim-bakanligi-acikladi-ogrencilerin-okula-uyum-haftasinda-velilere-713483h",
+      "published": "2026-08-28T07:29:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:01.601073+00:00"
+    },
+    {
+      "id": "7fb1817ab050aec2",
+      "source": "Yeni Şafak",
+      "title": "Marmara'nın altında neler oluyor? Beklenen İstanbul depreminde ters köşe açıklama",
+      "summary": "Marmara Denizi'nde son dönemde artan sismik hareketlilikler olası büyük İstanbul depremi senaryolarını yeniden gündeme taşırken, Jeoloji Mühendisi Prof. Dr. Osman Bektaş'tan ezberleri bozan çok çarpıcı bir değerlendirme geldi. Herkesin korkuyla beklediği felaket ihtimaline karşı \"Marmara neden 7 büyüklüğünde bir deprem üretmiyor?\" sorusunu masaya yatıran uzman isim; deniz tabanındaki 8 kilometreli",
+      "link": "https://www.yenisafak.com/galeri/gundem/marmaranin-altinda-neler-oluyor-beklenen-istanbul-depreminde-ters-kose-aciklama-4851464",
+      "published": "2026-08-28T07:29:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:57.644858+00:00"
+    },
+    {
+      "id": "38dd080543d950cd",
+      "source": "Halk TV",
+      "title": "Murat Dalkılıç isyan etti! 'İlk defa cebimden para verdim'",
+      "summary": "Ünlü şarkıcı Murat Dalkılıç, müzik sektöründe artan maliyetlere isyan etti. Son bir yılda 30 konser verdiğini söyleyen Dalkılıç, “Para kazanmak yerine ilk defa cebimden para verdim” dedi.",
+      "link": "https://halktv.com.tr/magazin/murat-dalkilic-isyan-etti-ilk-defa-cebimden-para-verdim-1051579h",
+      "published": "2026-08-28T07:29:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:02.292599+00:00"
+    },
+    {
+      "id": "d46c9e04384d3890",
+      "source": "Yeni Yaşam",
+      "title": "AKP’li belediyenin kamu arazisi işgalini yurttaşlar yargıya taşıdı",
+      "summary": "AKP&#8217;li Panos Belediyesi&#8217;nin 558 sayılı mera parselini işgal etmesi ve kaçak yapı inşa edilmesine karşı yurttaşlar suç duyurusunda bulundu Agirî&#8217;nin Panos (Patnos) ilçesine bağlı Taşxûn (Taşkın) köyünde bulunan mera alanının işgal edilerek yapılaşmaya açılması yargıya taşındı. AKP&#8217;li Panos Belediyesi&#8217;nin merayı kişisel çıkar doğrultusunda kullandığını öne süren yurttaş",
+      "link": "https://yeniyasamgazetesi9.com/akpli-belediyenin-kamu-arazisi-isgalini-yurttaslar-yargiya-tasidi/",
+      "published": "2026-08-28T07:29:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:08.667667+00:00"
+    },
+    {
+      "id": "7f36aa87f5ae4966",
+      "source": "Cumhuriyet",
+      "title": "Gaziosmanpaşa'da katledilen Şerife Gezer'in annesi konuştu: 'Gonca gülümü soldurdular, başkalarının canı yanmasın'",
+      "summary": "Gaziosmanpaşa’da Hakan Sayacı (51) tarafından silahla öldürülen Şerife Gezer’in (41) abisi Hasan Hüseyin Gezer, kardeşinin daha önce saldırıya uğradığını ve Sayacı hakkında uzaklaştırma kararı verildiğini belirtti. Anne Sebahat Gezer ise, \"Benim ciğerimi yaktılar, gonca gülümü soldurdular. Başka genç kızların, başka kadınların canları yanmasın. Başka anneler ağlamasın benim gibi\" dedi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/gaziosmanpasa-da-katledilen-serife-gezer-in-annesi-konustu-gonca-gulumu-soldurdular-baskalarinin-cani-yanmasin-2533031",
+      "published": "2026-08-28T07:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:50.267503+00:00"
+    },
+    {
+      "id": "1582657a9974e60b",
+      "source": "CNBC-e",
+      "title": "Efsane Mercedes oyun dünyasında! Fortnite ve Rocket League'e geldi",
+      "summary": "Mercedes-Benz, 140. kuruluş yıl dönümünü Gamescom'da otomobil ve oyun dünyasını bir araya getirerek kutladı. Markanın ikonik modellerinden 190 E 2.5-16 Evolution II, Fortnite ve Rocket League'de oyuncularla buluştu.",
+      "link": "https://www.cnbce.com/sirket-haberleri/efsane-mercedes-oyun-dunyasinda-fortnite-ve-rocket-leaguee-geldi-h35997",
+      "published": "2026-08-28T07:28:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:11.919777+00:00"
+    },
+    {
+      "id": "9c48d8d3b5de465f",
+      "source": "Milliyet",
+      "title": "100 bin liralık vurgunda 'şeytana uyduk' savunması! 16 su saatini tek tek çaldılar",
+      "summary": "Olay, 8 Ağustos günü Sarıçam ilçesine bağlı Orhangazi Mahallesi Fatih Caddesi üzerindeki bir apartman inşaatında meydana geldi. Serkan K. (38) ve Ali K. (41) sabah 05.15 sıralarında sokakta gezdiği sırada bir apartman inşaatına girdi. Şüpheliler inşaatta 16 farklı dairenin su sayacı çalıp kaçıp kayıplara karıştı. Şüphelilerin inşaata giriş ve çıkışları anbean güvenlik kameralarına yansıdı. İnşaat'",
+      "link": "https://www.milliyet.com.tr/gundem/100-bin-liralik-vurgunda-seytana-uyduk-savunmasi-16-su-saatini-tek-tek-caldilar-7649865",
+      "published": "2026-08-28T07:28:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:56.401920+00:00"
+    },
+    {
+      "id": "f49c7b185a6d8426",
+      "source": "Yeni Yaşam",
+      "title": "‘Newala Qesaba hafıza merkezi olmalı’",
+      "summary": "Newala Qesaba’nın hafıza merkezi yapılması gerektiğini belirten ATK Uzmanı Ümit Biçer, Barış ve Demokratik Toplum Süreci’nde geçmişle yüzleşme çağrısı yaptı Sêrt’in (Siirt) Berwarî ilçesi güzergâhında bulunan Newala Qesaba’da (Kasaplar Deresi) yıllar önce çıkarılan insan kemiklerinin akıbetine hâlâ ulaşılamadı. Aileler cenazelerini almayı beklerken, toplu mezar alanı yol ve imar çalışmalarına açıl",
+      "link": "https://yeniyasamgazetesi9.com/newala-qesaba-hafiza-merkezi-olmali/",
+      "published": "2026-08-28T07:28:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:08.667715+00:00"
+    },
+    {
+      "id": "c854d8dc71981034",
+      "source": "Cumhuriyet",
+      "title": "Türk mutfağının vazgeçilmez lezzetlerinden: İmambayıldı tarifi",
+      "summary": "Zeytinyağında ağır ağır pişip pamuk gibi yumuşayan bütün patlıcanların; bol soğan, sarımsak, domates ve taze maydanozlu lezzet harcıyla doldurulduğu zeytinyağlı mutfağımızın efsanevi klasiğidir.",
+      "link": "https://www.cumhuriyet.com.tr/gurme/turk-mutfaginin-vazgecilmez-lezzetlerinden-imambayildi-tarifi-2533030",
+      "published": "2026-08-28T07:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:50.267544+00:00"
+    },
+    {
+      "id": "6b35399d5ab89799",
+      "source": "OdaTV",
+      "title": "Arjantin'in karanlık ismi ölü bulundu: İşkenceci 'Nazi' sırlarıyla gitti",
+      "summary": "Arjantin diktatörlüğünün işkence ve kayıplarla anılan merkezlerinden Pozo de Banfield’ın sorumlusu Juan Miguel Wolk 92 yaşında öldü. Yıllarca sahte ölüm belgesiyle adaletten kaçan Wolk, sırlarını da beraberinde götürdü.",
+      "link": "https://www.odatv.com/dunya/juan-miguel-wolk-hayatini-kaybetti-nedir-bu-kalemler-gecesi-120160220",
+      "published": "2026-08-28T07:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:01.847989+00:00"
+    },
+    {
+      "id": "d8e4755cd8c2a20b",
+      "source": "OdaTV",
+      "title": "Optimus Prime'ın sesi Peter Cullen hayatını kaybetti",
+      "summary": "Transformers serisinin ikonik karakteri Optimus Prime&#039;ı seslendiren Kanadalı oyuncu ve seslendirme sanatçısı Peter Cullen, 85 yaşında hayatını kaybetti.",
+      "link": "https://www.odatv.com/kultur-sanat/optimus-primein-sesi-peter-cullen-hayatini-kaybetti-120160473",
+      "published": "2026-08-28T07:27:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:01.848045+00:00"
+    },
+    {
+      "id": "c8fc516b184731db",
+      "source": "DonanımHaber",
+      "title": "Artan endişelerin ardından Meta, akıllı gözlüklerini daha güvenli hale getirdi",
+      "summary": "Meta, akıllı gözlüklerinde kayıt LED’inin kapatılarak gizlice çekim yapılmasını sağlayan açığı kapattı. Şirket ayrıca kayıt ışığının işlevini anlatan yeni bir kampanya başlattı.",
+      "link": "https://www.donanimhaber.com/meta-akilli-gozluklerini-daha-guvenli-hale-getirdi--209829",
+      "published": "2026-08-28T07:26:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:16.750995+00:00"
+    },
     {
       "id": "c01be728058245b2",
       "source": "Halk TV",
@@ -28,6 +237,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T07:26:03.080253+00:00"
+    },
+    {
+      "id": "883f66ca3374ae00",
+      "source": "Cumhuriyet",
+      "title": "Ekonomiye güven düşük seyretmeye devam ediyor: TÜİK ağustos verilerini açıkladı...",
+      "summary": "Ekonomik Güven Endeksi 100 puan eşiğini aşmasına rağmen tarihi ortalamalara kıyasla zayıf seyrini sürdürüyor. Tüketici ve reel kesimdeki sınırlı toparlanmalar genel tabloyu yukarı taşısa da, alt sektörlerdeki dalgalanmalar ve düşük seviyeler ekonomik görünüme ilişkin temkinli duruşun devam ettiğini gösteriyor.",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/ekonomiye-guven-dusuk-seyretmeye-devam-ediyor-tuik-agustos-verilerini-acikladi-2533029",
+      "published": "2026-08-28T07:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:50.267582+00:00"
+    },
+    {
+      "id": "d792830589f2bcb1",
+      "source": "Yeniçağ",
+      "title": "Zalgiris’in hocası Beşiktaşı yendiklerine inanamadı",
+      "summary": "UEFA Avrupa Ligi play-off turu rövanşında Beşiktaş&#039;ı 1-0 mağlup eden Litvanya temsilcisi Kauno Zalgiris&#039;te teknik direktör Zeljko Sopic, takımıyla gurur duyduğunu söyledi.",
+      "link": "https://www.yenicaggazetesi.com/zalgirisin-hocasi-besiktasi-yendiklerine-inanamadi-1066086h.htm",
+      "published": "2026-08-28T07:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:59.583610+00:00"
     },
     {
       "id": "46f0931aaaedabe9",
@@ -118,6 +349,28 @@
       "fetched_at": "2026-08-28T07:25:35.259042+00:00"
     },
     {
+      "id": "f153d0aeda709c46",
+      "source": "Bianet",
+      "title": "Kaset devri bitince su satmaya başladı",
+      "summary": "Şalvarı, kasketi ve kendine has tarzıyla Galata’nın simge isimlerinden biri olan Asım Deniz, yaklaşık 41 yıldır aynı sokakta.",
+      "link": "https://bianet.org/haber/kaset-devri-bitince-su-satmaya-basladi-322903",
+      "published": "2026-08-28T07:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:03.124732+00:00"
+    },
+    {
+      "id": "ee83e04c39a49753",
+      "source": "Ekonomim",
+      "title": "Hizmet ÜFE temmuzda aylık yüzde 3,94 arttı",
+      "summary": "Türkiye İstatistik Kurumu (TÜİK) verilerine göre Hizmet Üretici Fiyat Endeksi temmuz ayında bir önceki aya göre yüzde 3,94, geçen yılın aynı ayına göre ise yüzde 32,77 arttı. Aylık bazda en yüksek fiyat artışı idari ve destek hizmetlerinde görüldü.",
+      "link": "https://www.ekonomim.com/ekonomi/hizmet-ufe-temmuzda-aylik-yuzde-394-artti-haberi-914851",
+      "published": "2026-08-28T07:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:10.632098+00:00"
+    },
+    {
       "id": "1b8f84b10bbbc4e2",
       "source": "Yeni Akit",
       "title": "Ünlü şarkıcı Atiye’den gönülleri ısıtan değişim! Arapça öğrendi, Kur’an-ı Kerim okumaya başladı",
@@ -127,6 +380,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T07:25:40.809268+00:00"
+    },
+    {
+      "id": "781d0266c594e312",
+      "source": "Aydınlık",
+      "title": "Manifest'in kurucusu Tolga Akış hakkında yeni gelişme",
+      "summary": "Manifest grubunun yanı sıra Hypers ajansının kurucusu olan Tolga Akış, Emniyet&#039;teki işlemlerinin ardından adliyeye gönderildi.",
+      "link": "https://www.aydinlik.com.tr/haber/manifestin-kurucusu-tolga-akis-hakkinda-yeni-gelisme-588051",
+      "published": "2026-08-28T07:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:00.778973+00:00"
     },
     {
       "id": "e5b7d4d7d0e10f62",
@@ -184,6 +448,17 @@
       "fetched_at": "2026-08-28T07:25:50.314934+00:00"
     },
     {
+      "id": "214d16dc0f319aec",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Gaziantep FK, yarın Çaykur Rizespor'u konuk edecek",
+      "summary": "Gaziantep FK, Trendyol Süper Lig'in 3. haftasında yarın Çaykur Rizespor'u konuk edecek.",
+      "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-yarin-caykur-rizesporu-konuk-edecek/4039822",
+      "published": "2026-08-28T07:20:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:49.120691+00:00"
+    },
+    {
       "id": "08ddc414673e1437",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Toprak Razgatlıoğlu, MotoGP'de sezonun 13. yarışı için İspanya'da piste çıkacak",
@@ -237,6 +512,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T07:20:41.218264+00:00"
+    },
+    {
+      "id": "9838556b297dcf90",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kocaelispor, Süper Lig'de yarın TÜMOSAN Konyaspor'a konuk olacak",
+      "summary": "Kocaelispor, Trendyol Süper Lig'in 3. haftasında yarın deplasmanda TÜMOSAN Konyaspor'la karşılaşacak.",
+      "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-yarin-tumosan-konyaspora-konuk-olacak/4039819",
+      "published": "2026-08-28T07:19:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:49.120723+00:00"
     },
     {
       "id": "451c73922b4e339d",
@@ -358,6 +644,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T07:20:48.350061+00:00"
+    },
+    {
+      "id": "add64ffa01caf69f",
+      "source": "Sabah",
+      "title": "SON DAKİKA... Manifest grubu kurucusu Tolga Akış adliyeye sevk edildi",
+      "summary": "Kamuoyunda 'Manifest' olarak bilinen grubun kurucusu ve menajeri Tolga Akış emniyetteki işlemlerinin ardından adliyeye sevk edildi. Akış hakkında 'Müstehcenlik', 'Uyuşturucu madde kullanma' ve 'Suçtan... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/manifestin-kurucusu-tolga-akis-adliyeye-sevk-edildi-7649834",
+      "published": "2026-08-28T07:16:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:56.877933+00:00"
     },
     {
       "id": "6ada19c45036da6d",
@@ -1348,6 +1645,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T07:01:20.825787+00:00"
+    },
+    {
+      "id": "8e0551681faf8402",
+      "source": "Bianet",
+      "title": "Her cümleye GBT ve terbiye rejimi",
+      "summary": "Bir halkın ölülerini anmasını sabotaj sayan dil, o halka barış değil ancak zoraki bir unutuş teklif eder. Unutuş ise barış değil, en fazla, galibin mağluptan talep ettiği adaletsiz bir teslimiyet olabilir.",
+      "link": "https://bianet.org/yazi/her-cumleye-gbt-ve-terbiye-rejimi-322902",
+      "published": "2026-08-28T07:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:31:03.124769+00:00"
     },
     {
       "id": "bf1ebdda3b1e476c",
@@ -2448,6 +2756,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T06:45:40.391303+00:00"
+    },
+    {
+      "id": "126230e8aac8b1e3",
+      "source": "Yeni Şafak",
+      "title": "Konteyner kentten 200 bin liralık kablo çalan suç makineleri tutuklandı",
+      "summary": "Hatay’ın Antakya ilçesinde depremzedelerin kaldığı Osmanağa Konteyner Kent'te AFAD'a ait yaklaşık 200 bin TL değerindeki kabloları çalan ve adeta suç makinesi olan 7 hırsızlık şüphelisi, polisin operasyonuyla suçüstü yakalanarak çıkarıldıkları mahkemece tutuklandı. Hatay Emniyet Müdürlüğü ekiplerinin güvenlik kameralarını incelemesi sonucu kimlikleri tespit edilen ve toplamda onlarca hırsızlık ile",
+      "link": "https://www.yenisafak.com/video/gundem/konteyner-kentten-200-bin-liralik-kablo-calan-suc-makineleri-tutuklandi-4851454",
+      "published": "2026-08-28T06:42:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:57.645102+00:00"
     },
     {
       "id": "2b3ccc5fd9133f7d",
@@ -4067,6 +4386,17 @@
       "fetched_at": "2026-08-28T06:15:46.990124+00:00"
     },
     {
+      "id": "ac8c15a6792b289e",
+      "source": "Habertürk",
+      "title": "Boşanmak isteyen eşinin dükkanını yaktı!",
+      "summary": "Adana'nın Yüreğir ilçesinde, bir kişi kendisinden boşanmak isteyen eşinin gelinlikçi dükkanını benzin dökerek yaktı. Şüpheli koca yakalanarak gözaltına alındı",
+      "link": "https://www.haberturk.com/son-dakika-haberi-bosanmak-isteyen-esinin-gelinlikci-dukkanini-benzin-dokerek-atese-verdi-3908640",
+      "published": "2026-08-28T06:12:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T07:30:45.230727+00:00"
+    },
+    {
       "id": "ee72031b04b83920",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Küresel piyasalarda dikkatler Fed Başkanı Warsh'un Jackson Hole'da yapacağı konuşmaya çevrildi",
@@ -5176,336 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T05:50:43.426016+00:00"
-    },
-    {
-      "id": "dada0f181fccd389",
-      "source": "Star",
-      "title": "Darbe girişiminin kritik ismi Kemal Batmaz'ın kızı Esma Batmaz yakalandı",
-      "summary": "15 Temmuz FETÖ'cü darbe girişiminin kritik ismi Kemal Batmaz'ın kızı Esma Batmaz yakalandı.",
-      "link": "https://www.star.com.tr/guncel/kemal-batmazin-kizi-esma-batmaz-yakalandi-haber-2036534/",
-      "published": "2026-08-28T05:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:44.028154+00:00"
-    },
-    {
-      "id": "95a4bd1e233631fb",
-      "source": "Habertürk",
-      "title": "Türkiye-Polonya maçı ne zaman?",
-      "summary": "A Milli Kadın Voleybol Takımı, CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası A Grubu’ndaki dördüncü maçında Almanya'yı 3-1 mağlup etti. Bu sonuçla Türkiye, organizasyonda 4’te 4 yaparak adını son 16 turuna yazdırdı. Filenin Sultanları, grup aşamasındaki 5. ve son maçında Polonya ile karşı karşıya gelecek. A Milliler, Polonya karşısında da kazanarak Avrupa Şampiyonası’ndaki galibiyet seris",
-      "link": "https://www.haberturk.com/filenin-sultanlari-mac-programi-2026-turkiye-polonya-maci-ne-zaman-saat-kacta-turkiye-polonya-voleybol-maci-hangi-kanalda-3908474",
-      "published": "2026-08-28T05:48:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T07:20:32.423312+00:00"
-    },
-    {
-      "id": "6d4b50a72c4305ca",
-      "source": "Diken",
-      "title": "Bilal Meşe: Beşiktaş skoru koruma rahatlığıyla oynadı",
-      "summary": "Bilal Meşe: Beşiktaş skoru koruma rahatlığıyla oynadı 28.08.2026 Diken Beşiktaş skoru koruma rahatlığıyla oynadı... The post Bilal Meşe: Beşiktaş skoru koruma rahatlığıyla oynadı appeared first on #site_linkat 28.08.2026 .",
-      "link": "https://www.diken.com.tr/bilal-mese-besiktas-skoru-koruma-rahatligiyla-oynadi/?utm_source=rss&utm_medium=rss&utm_campaign=bilal-mese-besiktas-skoru-koruma-rahatligiyla-oynadi",
-      "published": "2026-08-28T05:48:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:47.388400+00:00"
-    },
-    {
-      "id": "5930f0c1ffbfa22b",
-      "source": "Yeniçağ",
-      "title": "Nepal'de sel bilançosu ağırlaşıyor: Ölü sayısı 469'a çıktı",
-      "summary": "Nepal&#039;in Çin sınırına yakın Rasuwa bölgesinde ve çevresinde meydana gelen selde yaşamını yitirenlerin sayısı 469&#039;a yükseldi.",
-      "link": "https://www.yenicaggazetesi.com/nepalde-sel-bilancosu-agirlasiyor-olu-sayisi-469a-cikti-1066065h.htm",
-      "published": "2026-08-28T05:48:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:45.095410+00:00"
-    },
-    {
-      "id": "03dce3b1d9826a5e",
-      "source": "Star",
-      "title": "Mustafa SABRİ BEŞER yazdı: Anyma'nın dijital cenneti ÆDEN derhal iptal edilmelidir!",
-      "summary": "Mustafa SABRİ BEŞER yazdı: Anyma'nın dijital cenneti ÆDEN derhal iptal edilmelidir!",
-      "link": "https://www.star.com.tr/guncel/mustafa-sabri-beser-yazdi-anymanin-dijital-cenneti-aeden-derhal-iptal-edilmelidir-haber-2036533/",
-      "published": "2026-08-28T05:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:44.028180+00:00"
-    },
-    {
-      "id": "c10617983b1847ac",
-      "source": "Serbestiyet",
-      "title": "Mazlum Abdi, artık Suriye Cumhurbaşkanı danışmanı…",
-      "summary": "Şara’dan atama kararnamesini yayınladı:“Sayın Mustafa Halil Abdi (Mazlum Abdi) Cumhurbaşkanlığı nezdinde danışman olarak atanmıştır” Mazlum Abdi, artık Suriye Cumhurbaşkanı danışmanı… yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/haberler/mazlum-abdi-artik-suriye-cumhurbaskani-danismani-247236/",
-      "published": "2026-08-28T05:47:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:50.976149+00:00"
-    },
-    {
-      "id": "d3447514e20010c6",
-      "source": "Evrensel",
-      "title": "Beykoz'da denize girmek 2 gün yasaklandı",
-      "summary": "Beykoz Kaymakamlığı, olumsuz hava ve deniz koşulları nedeniyle ilçenin Karadeniz kıyısındaki sahil, plaj ve koylarda 28 ve 29 Ağustos'ta denize girilmesini yasakladı.",
-      "link": "https://www.evrensel.net/haber/5998123/beykozda-denize-girmek-2-gun-yasaklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-08-28T05:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T06:01:00.254239+00:00"
-    },
-    {
-      "id": "7fed0d63c11f5f9d",
-      "source": "Diken",
-      "title": "Abdulkadir Selvi: Mansur Yavaş'ın bir planı var",
-      "summary": "Abdulkadir Selvi: Mansur Yavaş'ın bir planı var 28.08.2026 Diken Mansur Yavaş’ın bir planı var ama Ekrem İmamoğlu’nun da başka bir planı var. The post Abdulkadir Selvi: Mansur Yavaş'ın bir planı var appeared first on #site_linkat 28.08.2026 .",
-      "link": "https://www.diken.com.tr/abdulkadir-selvi-mansur-yavasin-bir-plani-var/?utm_source=rss&utm_medium=rss&utm_campaign=abdulkadir-selvi-mansur-yavasin-bir-plani-var",
-      "published": "2026-08-28T05:46:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T07:15:49.152133+00:00"
-    },
-    {
-      "id": "6e1f3a0a4dfaced7",
-      "source": "Diken",
-      "title": "Abdulkadir Selvi: Mansur Yavaş'ın bir planı",
-      "summary": "Abdulkadir Selvi: Mansur Yavaş'ın bir planı 28.08.2026 Diken Mansur Yavaş’ın bir planı var ama Ekrem İmamoğlu’nun da başka bir planı var. The post Abdulkadir Selvi: Mansur Yavaş'ın bir planı appeared first on #site_linkat 28.08.2026 .",
-      "link": "https://www.diken.com.tr/abdulkadir-selvi-mansur-yavasin-bir-plani/?utm_source=rss&utm_medium=rss&utm_campaign=abdulkadir-selvi-mansur-yavasin-bir-plani",
-      "published": "2026-08-28T05:46:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:47.388427+00:00"
-    },
-    {
-      "id": "17bdf222d72573ec",
-      "source": "Diken",
-      "title": "Figen Çalıkuşu: AİHM'in Osman Kavala kararı kesin ve ağır bir karar",
-      "summary": "Figen Çalıkuşu: AİHM'in Osman Kavala kararı kesin ve ağır bir karar 28.08.2026 Diken AİHM, AİHS’nin 18'inci maddesinden hak ihlali kararını sıklıkla vermez. “Devletler buna yeltenerek kendilerini imha etmez” diye düşünür. The post Figen Çalıkuşu: AİHM'in Osman Kavala kararı kesin ve ağır bir karar appeared first on #site_linkat 28.08.2026 .",
-      "link": "https://www.diken.com.tr/figen-calikusu-aihmin-osman-kavala-karari-kesin-ve-agir-bir-karar/?utm_source=rss&utm_medium=rss&utm_campaign=figen-calikusu-aihmin-osman-kavala-karari-kesin-ve-agir-bir-karar",
-      "published": "2026-08-28T05:46:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:47.388458+00:00"
-    },
-    {
-      "id": "df423aecd94ae227",
-      "source": "Euronews Türkçe",
-      "title": "GTA 6'nın fragmanı sızıntıların ardından Netflix'te yayınlandı",
-      "summary": "Rockstar Games, aylardır beklenen ve son günlerde internete sızan GTA 6 oyununun 26 dakikalık tanıtımını perşembe günü ilk kez Netflix üzerinden yayımladı.",
-      "link": "http://tr.euronews.com/next/2026/08/28/gta-6nin-fragmani-sizintilarin-ardindan-netflixte-yayinlandi",
-      "published": "2026-08-28T05:46:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:51:04.610615+00:00"
-    },
-    {
-      "id": "2ac52bbee6d4eddb",
-      "source": "Karar",
-      "title": "Taha Akgül, Rıza Kayaalp ve Namık Aliyev’den Bahçeli’ye ziyaret",
-      "summary": "Türkiye Güreş Federasyonu Başkanı Taha Akgül, milli güreşçi Rıza Kayaalp ve UWW Başkan Adayı Namık Aliyev ile birlikte MHP Genel Başkanı Devlet Bahçeli’yi ziyaret ederek güreş sporu üzerine görüş alışverişinde bulundu.",
-      "link": "https://www.karar.com/guncel-haberler/taha-akgul-riza-kayaalp-ve-namik-aliyevden-bahceliye-ziyaret-2068487",
-      "published": "2026-08-28T05:45:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:44.737903+00:00"
-    },
-    {
-      "id": "089ff3e0bd9ddf23",
-      "source": "Türkiye Gazetesi",
-      "title": "O İLLERDEKİ SON FİYATLAR!",
-      "summary": "Türkiye’de ortalama kiralar mayıstan ağustosa kadar geçen süreçte %11 civarında arttı. Evlenmeler, tayinler ve üniversiteli talebi piyasayı hareketlendirirken, ortalama kira 28 bin 402 TL olarak ölçüldü. Bu arada üniversiteli nüfusunun yoğun olduğu illerde özellikle 1+1 daireler için talep edilen ortalama kiralar da belli oldu. İşte rakamlar…",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/kiralara-tayin-ve-universite-ayari-iste-ogrenci-illerindeki-son-fiyatlar-1812141",
-      "published": "2026-08-28T05:45:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T06:00:59.635997+00:00"
-    },
-    {
-      "id": "771c1658242aaef0",
-      "source": "Türkiye Gazetesi",
-      "title": "ÖĞRENCİ İLLERİNDEKİ SON FİYATLAR",
-      "summary": "Türkiye’de ortalama kiralar mayıstan ağustosa kadar geçen süreçte %11 civarında arttı. Evlenmeler, tayinler ve üniversiteli talebi piyasayı hareketlendirirken, ortalama kira 28 bin 402 TL olarak ölçüldü. Bu arada üniversiteli nüfusunun yoğun olduğu illerde özellikle 1+1 dairler için talep edilen ortalama kiralar da belli oldu. İşte rakamlar…",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/kiralara-tayin-ve-universite-ayari-iste-ogrenci-illerindeki-son-fiyatlar-1812141",
-      "published": "2026-08-28T05:45:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:55:32.780382+00:00"
-    },
-    {
-      "id": "026e8804a90b3534",
-      "source": "Ekonomim",
-      "title": "Mevduat faizlerinde son durum: 1 milyon TL'nin 32 günlük getirisi ne kadar? İşte banka banka oranlar",
-      "summary": "Birikimlerini korumak ve tasarruflarını değerlendirmek isteyen vatandaşlar, vadeli mevduat hesaplarının güncel getirilerini yakından takip ediyor. Bankaların 32 günlük vadeli hesaplar için sunduğu faiz ve kâr payı oranları farklılık gösterirken, 1 milyon TL&#039;lik birikimin vade sonunda elde edeceği net kazanç da bankadan bankaya değişiyor. İşte 1 milyon TL&#039;nin banka banka aylık getirisi...",
-      "link": "https://www.ekonomim.com/foto-galeri/ekonomi/mevduat-faizlerinde-son-durum-1-milyon-tlnin-32-gunluk-getirisi-ne-kadar-iste-banka-banka-oranlar-galeri-914825",
-      "published": "2026-08-28T05:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:55.182948+00:00"
-    },
-    {
-      "id": "d9658c675458014d",
-      "source": "Star",
-      "title": "Yakup KÖSE yazdı: SDG'nin feshi ve İsrail sorununun çözülmesi",
-      "summary": "Yakup KÖSE yazdı: SDG'nin feshi ve İsrail sorununun çözülmesi",
-      "link": "https://www.star.com.tr/guncel/yakup-kose-yazdi-sdgnin-feshi-ve-israil-sorununun-cozulmesi-haber-2036532/",
-      "published": "2026-08-28T05:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:45:41.895184+00:00"
-    },
-    {
-      "id": "6a4a1d270b80d064",
-      "source": "Millî Gazete",
-      "title": "Mahmut Arıkan’ın açıklaması neden çok önemli? Saadet Lideri aslında ne demek istedi? İşte o ifadelerin perde arkasındaki gerçek",
-      "summary": "Saadet Partisi lideri, Doğu Anadolu Bölgesi’ni kapsayan geniş çaplı ziyaret programı dahilinde serhat illeri Kars, Ardahan ve Iğdır’da vatandaşlar ve kent dinamikleriyle buluştu.",
-      "link": "https://www.milligazete.com.tr/mahmut-arikanin-aciklamasi-neden-cok-onemli-saadet-lideri-aslinda-ne-demek-istedi-iste-o-ifadelerin-perde-arkasindaki-gercek",
-      "published": "2026-08-28T05:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:45:44.435328+00:00"
-    },
-    {
-      "id": "1b0c74c69b4b68d8",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Suriye diplomatik pasaportu sahiplerinin Türkiye ziyaretleri için vize muafiyeti kararı Resmi Gazete'de",
-      "summary": "Suriye diplomatik pasaportu sahiplerinin Türkiye ziyaretleri için vize muafiyeti hakkındaki Cumhurbaşkanı Kararı, Resmi Gazete'de yayımlandı.",
-      "link": "https://www.aa.com.tr/tr/gundem/suriye-diplomatik-pasaportu-sahiplerinin-turkiye-ziyaretleri-icin-vize-muafiyeti-karari-resmi-gazetede/4039739",
-      "published": "2026-08-28T05:44:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:50:38.625892+00:00"
-    },
-    {
-      "id": "0dfd910a94141aee",
-      "source": "Gazete Pencere",
-      "title": "PKK’nın İran kolu PJAK: Süreç bizi bağlamaz",
-      "summary": "Çerçeve Yasa’nın Meclis’ten geçmesinin ardından hızlanan süreç İran’da PJAK engeline takıldı. Örgüt, “PKK’nin feshi bizi bağlamaz” dedi. MSB ise Suriye’de SDG’nin feshinden memnuniyet duyduklarını açıkladı.",
-      "link": "https://www.gazetepencere.com/gundem/pkknin-iran-kolu-pjak-surec-bizi-baglamaz-713469h",
-      "published": "2026-08-28T05:44:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:45:45.078390+00:00"
-    },
-    {
-      "id": "de45657ab4cade5f",
-      "source": "Bir Gün",
-      "title": "Gökçek ailesinin serveti ortaya çıktı: Avrupa’da milyon euroluk gayrimenkul trafiği",
-      "summary": "Gazeteci Murat Ağırel’in gündeme getirdiği habere göre Melih Gökçek ailesinin Almanya’daki şirketi HAMAG üzerinden milyonlarca euroluk gayrimenkul alımları yaptığı öne sürüldü. Ailenin Düsseldorf’ta bina, Velbert’te AVM için anlaşmalar yaptığı aktarıldı.",
-      "link": "https://www.birgun.net/haber/gokcek-ailesinin-serveti-ortaya-cikti-avrupada-milyon-euroluk-gayrimenkul-trafigi-731543",
-      "published": "2026-08-28T05:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T06:15:42.215909+00:00"
-    },
-    {
-      "id": "d683e0408bc04a61",
-      "source": "Diken",
-      "title": "Murat Çelik: Psikologlar, insan ilişkilerinde 'kişisel sınırlar'ın önemine dikkat çekiyor",
-      "summary": "Murat Çelik: Psikologlar, insan ilişkilerinde 'kişisel sınırlar'ın önemine dikkat çekiyor 28.08.2026 Diken Psikologlar, sağlıklı insan ilişkilerinde ‘kişisel sınırlar’ın önemine dikkat çekiyor. The post Murat Çelik: Psikologlar, insan ilişkilerinde 'kişisel sınırlar'ın önemine dikkat çekiyor appeared first on #site_linkat 28.08.2026 .",
-      "link": "https://www.diken.com.tr/murat-celik-psikologlar-insan-iliskilerinde-kisisel-sinirlarin-onemine-dikkat-cekiyor/?utm_source=rss&utm_medium=rss&utm_campaign=murat-celik-psikologlar-insan-iliskilerinde-kisisel-sinirlarin-onemine-dikkat-cekiyor",
-      "published": "2026-08-28T05:43:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:45:45.967132+00:00"
-    },
-    {
-      "id": "1802be82906c610e",
-      "source": "Diken",
-      "title": "Taha Akyol: Putin bile Rusya'yı AİHS ve AİHM camiasından çıkarmadı",
-      "summary": "Taha Akyol: Putin bile Rusya'yı AİHS ve AİHM camiasından çıkarmadı 28.08.2026 Diken AİHM Büyük Dairesi'nin Osman Kavala hakkında ikinci defa verdiği ihlal kararına, Mehmet Uçum’un tepki göstermesine şaşırmadım. The post Taha Akyol: Putin bile Rusya'yı AİHS ve AİHM camiasından çıkarmadı appeared first on #site_linkat 28.08.2026 .",
-      "link": "https://www.diken.com.tr/taha-akyol-putin-bile-rusyayi-aihs-ve-aihm-camiasindan-cikarmadi/?utm_source=rss&utm_medium=rss&utm_campaign=taha-akyol-putin-bile-rusyayi-aihs-ve-aihm-camiasindan-cikarmadi",
-      "published": "2026-08-28T05:43:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:45:45.967164+00:00"
-    },
-    {
-      "id": "e0e1374ace866f21",
-      "source": "Euronews Türkçe",
-      "title": "Gözden kaçan başyapıtlar: Tüm zamanların en az değer verilen albümleri",
-      "summary": "Euronews Culture, çoğu zaman gözden kaçan ve hak ettiğinden çok daha az ilgi gören albümleri öne çıkarıyor.",
-      "link": "http://tr.euronews.com/kultur/2026/08/28/gozden-kacan-basyapitlar-tum-zamanlarin-en-az-deger-verilen-albumleri",
-      "published": "2026-08-28T05:42:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:51:04.610642+00:00"
-    },
-    {
-      "id": "622f6cc0608bd036",
-      "source": "Independent Türkçe",
-      "title": "CIA Direktörünün Moskova ziyareti, istihbarat katmanı ve Avrupa'nın masaya çağrılması",
-      "summary": "CIA Direktörü John Ratcliffe'in 25–26 Ağustos'ta Moskova'ya yaptığı kısa, ilan edilmemiş ziyaret, kamuoyunda \"NATO'ya saldırı uyarısı\" ve \"rutin istihbarat teması\" arasında sıkışmış bir haber olarak duruyor. İkisi de kısmen doğru; ikisi de yetersiz. Asıl mesele, silah ve para tartışmasının gerisinde kalan katmanın — muhabere, uydu, siber altyapı ve istihbarat paylaşımının — artık siyasi bir karar ",
-      "link": "https://www.indyturk.com/node/781761/t%C3%BCrki%CC%87yeden-sesler/cia-direkt%C3%B6r%C3%BCn%C3%BCn-moskova-ziyareti-istihbarat-katman%C4%B1-ve-avrupan%C4%B1n",
-      "published": "2026-08-28T05:41:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:55:46.808807+00:00"
-    },
-    {
-      "id": "8c48ad33ea5052cf",
-      "source": "Euronews Türkçe",
-      "title": "SDG lideri Mazlum Abdi, Suriye lideri eş-Şara'nın danışmanı olarak atandı",
-      "summary": "Suriye Devlet Başkanı Ahmed eş-Şara, SDG’nin feshedildiğini ve güçlerinin Suriye ordusuna katıldığını açıklayan Mazlum Abdi’yi Cumhurbaşkanlığı danışmanlığına getirdi.",
-      "link": "http://tr.euronews.com/2026/08/28/sdg-lideri-mazlum-abdi-suriye-lideri-es-saranin-danismani-olarak-atandi",
-      "published": "2026-08-28T05:41:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:51:04.610665+00:00"
-    },
-    {
-      "id": "b86fe3dd0643211f",
-      "source": "Halk TV",
-      "title": "SPK halka arzda şirketlere yeni şartlar getirdi",
-      "summary": "SPK, halka arz sıralamasında 15 milyar liralık devler, kamu kontrolündeki yapılar ve yerelde ilk olacaklar için öncelik sağlayan yeni kriterler getirdi.",
-      "link": "https://halktv.com.tr/ekonomi/spk-halka-arzda-sirketlere-yeni-sartlar-getirdi-1051548h",
-      "published": "2026-08-28T05:40:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:45:45.784732+00:00"
-    },
-    {
-      "id": "51376960781cf0e7",
-      "source": "OdaTV",
-      "title": "Türkiye'de alım gücü düşüyor, çok çalışıp az kazanıyoruz",
-      "summary": "Türkiye&#039;de yüksek enflasyon ve yaşam maliyeti alım gücünü düşürürken, 28.075 TL&#039;lik asgari ücret açlık sınırının altında kaldı. 583 dolar seviyesindeki asgari ücretle Türkiye, ILO&#039;nun 131 ülkeli listesinde 68. sıraya gerileyerek Irak ve Meksika&#039;nın gerisinde kaldı.",
-      "link": "https://www.odatv.com/ekonomi/turkiyede-alim-gucu-dusuyor-cok-calisip-az-kazaniyoruz-120160450",
-      "published": "2026-08-28T05:40:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:45:45.345179+00:00"
-    },
-    {
-      "id": "91507dbd0d2ab14f",
-      "source": "Diken",
-      "title": "Ömer Çetin: Salah gibi bir yıldız çırpınıp durdu ilk yarıda",
-      "summary": "Ömer Çetin: Salah gibi bir yıldız çırpınıp durdu ilk yarıda 28.08.2026 Diken Salah gibi bir yıldız çırpınıp durdu ilk yarıda. The post Ömer Çetin: Salah gibi bir yıldız çırpınıp durdu ilk yarıda appeared first on #site_linkat 28.08.2026 .",
-      "link": "https://www.diken.com.tr/omer-cetin-salah-gibi-bir-yildiz-cirpinip-durdu-ilk-yarida/?utm_source=rss&utm_medium=rss&utm_campaign=omer-cetin-salah-gibi-bir-yildiz-cirpinip-durdu-ilk-yarida",
-      "published": "2026-08-28T05:40:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:40:52.752971+00:00"
-    },
-    {
-      "id": "82264beb4987d967",
-      "source": "CNBC-e",
-      "title": "Hanehalkının altın tercihi hızlandı: Uzmanlardan dikkat çeken mesaj",
-      "summary": "Altın fiyatlarına ilişkin Cnbce.com’a değerlendirmelerde bulunan uzmanlar, yüksek kamu borçları ve faiz politikalarının altın fiyatları üzerindeki etkisini anlattı. Uzmanlar, ons altında 5.000 dolar seviyesinin kritik eşik olduğuna dikkat çekti.",
-      "link": "https://www.cnbce.com/gundem/hanehalkinin-altin-tercihi-hizlandi-uzmanlardan-dikkat-ceken-mesaj-g35980",
-      "published": "2026-08-28T05:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:45:53.907193+00:00"
-    },
-    {
-      "id": "1dc070d0af732fcd",
-      "source": "Ekonomim",
-      "title": "Borsa güne nasıl başlayacak? Piyasalarda Açılışa Doğru...",
-      "summary": "Anadolu Yatırım ile Piyasalarda Açılışa Doğru, hafta içi her sabah 08.45–09.15 arasında piyasaların açılışına yönelik en kritik verileri, beklentileri ve uzman yorumlarını ekrana taşıyor.",
-      "link": "https://www.youtube.com/watch?v=76U7Q41TyxI",
-      "published": "2026-08-28T05:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T05:41:08.308241+00:00"
     }
   ]
 }

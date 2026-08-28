@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-28T02:51:05.378101+00:00",
+  "last_updated": "2026-08-28T02:55:54.228719+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 582,
+  "new_items_this_run": 583,
   "items": [
+    {
+      "id": "ffbaa0d491a53caf",
+      "source": "Türkiye Gazetesi",
+      "title": "İSTANBUL'DA SAĞANAK ETKİSİ!",
+      "summary": "İstanbul'un bazı bölgelerinde gök gürültülü sağanak yağış etkisini gösterdi. Kuvvetli yağış ve yollarda oluşan su birikintileri sürücülere zor anlar yaşattı. Meteoroloji Genel Müdürlüğü'nden de 12 ile sarı kodlu uyarı yapıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/istanbul-yagmura-kavustu-gok-gurultulu-saganak-yagis-etkili-oldu-1812136",
+      "published": "2026-08-28T02:49:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T02:55:34.691426+00:00"
+    },
     {
       "id": "ad0890a77883f0fa",
       "source": "Halk TV",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T02:50:48.918210+00:00"
+    },
+    {
+      "id": "7faa987fe77870f6",
+      "source": "Euronews Türkçe",
+      "title": "MTG-I2 uydusu Ariane 6 ile fırlatıldı: Avrupa'nın yeni hava uydusu takımı tamamlandı",
+      "summary": "Fransız Guyanası’ndan fırlatılan MTG-I2, üçüncü nesil ilk üç Meteosat uydusunu tamamlıyor; 2,5 dakikada bir yüksek çözünürlüklü veri ve görüntü sağlayarak hava tahmini ile aşırı olaylara erken uyarıyı dönüştürüyor.",
+      "link": "http://tr.euronews.com/next/2026/08/28/mtg-i2-uydusu-ariane-6-ile-firlatildi-avrupanin-yeni-hava-uydusu-takimi-tamamlandi",
+      "published": "2026-08-28T02:47:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T02:55:54.227512+00:00"
     },
     {
       "id": "a257145eb4e74e3d",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-27T20:45:40.659352+00:00"
-    },
-    {
-      "id": "b6bea0635893fd94",
-      "source": "Karar",
-      "title": "İran müziğinin aykırı sesi evine döndü: Mohsen Namjoo 20 yıl sonra Tahran'da",
-      "summary": "İranlı şarkıcı, besteci ve müzisyen Mohsen Namjoo, yaklaşık 20 yıl sonra İran'a döndü. Yıllardır ABD'de yaşayan Namjoo, dönüş kararını “Artık gurbet yeter” sözleriyle açıklarken, Toronto, Washington ve New York'ta yapacağı konserleri de iptal etti. Namjoo'nun İran'daki geçmiş mahkûmiyetinin hukuki durumunun ne olacağı ise henüz bilinmiyor.",
-      "link": "https://www.karar.com/guncel-haberler/iran-muziginin-aykiri-sesi-evine-dondu-mohsen-namjoo-20-yil-sonra-2068458",
-      "published": "2026-08-27T20:38:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-27T20:40:46.978641+00:00"
-    },
-    {
-      "id": "1c5c47d9448db9d2",
-      "source": "Independent Türkçe",
-      "title": "Cevdet Yılmaz: Bölgemiz üzerindeki emperyalist oyunları teker teker bozuyoruz",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, çeşitli temaslarda bulunmak üzere geldiği Bingöl’de İl Özel İdaresi bünyesinde kapasitesi artırılan asfalt plentinin açılış törenine katıldı. Burada konuşan Yılmaz, yatırımın Bingöl’ün yol yapım ve bakım kapasitesini güçlendireceğini belirtti. Bingöl’de 325 köy ve 823 mezraya hizmet veren İl Özel İdaresinin 4 bin 757 kilometrelik yol ağından sorumlu olduğunu",
-      "link": "https://www.indyturk.com/node/781756/haber/cevdet-y%C4%B1lmaz-b%C3%B6lgemiz-%C3%BCzerindeki-emperyalist-oyunlar%C4%B1-teker-teker-bozuyoruz",
-      "published": "2026-08-27T20:38:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-27T20:40:56.135109+00:00"
     }
   ]
 }

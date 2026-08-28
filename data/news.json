@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T00:40:58.592636+00:00",
+  "last_updated": "2026-08-28T00:45:56.328963+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 594,
   "items": [
+    {
+      "id": "adc9050abdda2b6b",
+      "source": "BBC News Türkçe",
+      "title": "Trump, Ontario Gölü'nün adını Amerika Gölü olarak değiştirdi",
+      "summary": "Trump'ın bu adımı, ABD ve Kanada arasındaki ticaret görüşmelerinin geçen hafta sonu çökmesinin ardından geldi. Ülkelerin bu isim değişikliğini tanıma zorunluluğu yok.",
+      "link": "https://www.bbc.com/turkce/articles/cgk51g52zkro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-28T00:39:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T00:45:55.627929+00:00"
+    },
     {
       "id": "cdfe635029511dba",
       "source": "Anadolu Ajansı (Güncel)",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-27T20:01:06.408746+00:00"
-    },
-    {
-      "id": "d8e8be9924388811",
-      "source": "Halk TV",
-      "title": "AKP'nin 4 il başkanı atama ile değiştirildi",
-      "summary": "Cumhurbaşkanı ve AKP Genel Başkanı Erdoğan&#039;ın talimatı ile AKP&#039;nin Tunceli, Ardahan, Karaman ve Afyonkarahisar il başkanlıklarına yeni isimler atandı.",
-      "link": "https://halktv.com.tr/siyaset/akpnin-4-il-baskani-atama-ile-degistirildi-1051502h",
-      "published": "2026-08-27T19:58:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-27T20:01:06.857465+00:00"
     }
   ]
 }

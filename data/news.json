@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-08-28T16:01:19.107473+00:00",
+  "last_updated": "2026-08-28T16:05:59.550398+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 625,
+  "new_items_this_run": 620,
   "items": [
+    {
+      "id": "8c9dae115fd3d41e",
+      "source": "Akşam",
+      "title": "Katil İsrail ateşkese rağmen saldırılarına devam ediyor",
+      "summary": "Katil İsrail ordusunun Gazze Şeridi'nin kuzeyine ve güneyine düzenlediği saldırılarda, 3'ü aynı aileden 5 Filistinli hayatını kaybetti, 1 kişi yaralandı.",
+      "link": "https://www.aksam.com.tr/dunya/katil-israil-ateskese-ragmen-saldirilarina-devam-ediyor/haber-1694152",
+      "published": "2026-08-28T16:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:36.799866+00:00"
+    },
+    {
+      "id": "6aa572ffd104ed1b",
+      "source": "Yeni Akit",
+      "title": "İYİ Parti’de bir istifa daha! Belediye Başkanı Karakullukçu yolunu ayırdı",
+      "summary": "Sivas’ın Koyulhisar ilçesinde siyasi dengeleri etkileyebilecek bir gelişme yaşandı. İYİ Partili Belediye Başkanı Bora Karakullukçu, partisinden istifa ettiğini duyurdu. Kararını kendi isteği ve iradesiyle aldığını belirten Karakullukçu, belediye başkanlığı görevini ve Koyulhisar’a hizmet çalışmalarını aynı kararlılıkla sürdüreceğini açıkladı.",
+      "link": "https://www.yeniakit.com.tr/haber/iyi-partide-bir-istifa-daha-belediye-baskani-karakullukcu-yolunu-ayirdi-2019858.html",
+      "published": "2026-08-28T16:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:38.228805+00:00"
+    },
+    {
+      "id": "b9aca3788a94a25b",
+      "source": "Halk TV",
+      "title": "İsviçre’de gizlice evlenmişlerdi! Cezaevindeki Haluk Levent’in eşi kararını verdi",
+      "summary": "AHBAP soruşturması kapsamında tutuklu bulunan Haluk Levent’in 2018’de İsviçre’de evlendiği Nurdan Eriş’in boşanma kararı aldığı belirtildi. Eriş, evlilik boyunca kendisinden para istendiğini belirtirken, hukuki sürecin başlatıldığı öğrenildi.",
+      "link": "https://halktv.com.tr/turkiye/isvicrede-gizlice-evlenmislerdi-cezaevindeki-haluk-leventin-esi-kararini-verdi-1051706h",
+      "published": "2026-08-28T16:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:41.998899+00:00"
+    },
+    {
+      "id": "14989029c4183dd5",
+      "source": "Yeniçağ",
+      "title": "Galatasaray milli futbolcu ile tamasları sıkılaştırdı",
+      "summary": "Transfer döneminin son bölümünde kadro planlamasını sürdüren Galatasaray’da dikkat çeken bir hamle geldi. Sarı-kırmızılıların, genç oyuncuyu kiralık olarak kadrosuna katmak için kulübü ve futbolcu cephesiyle görüşmelerini artırdığı iddia edildi.",
+      "link": "https://www.yenicaggazetesi.com/galatasaray-milli-futbolcu-ile-tamaslari-sikilastirdi-1066279h.htm",
+      "published": "2026-08-28T16:02:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:39.080930+00:00"
+    },
+    {
+      "id": "15db9e0b80b2933d",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Barcelona'nın KKTC'de iptal ettiği kampa, Türk kulüpleri ile Milli Takım'ın hocaları gelecek",
+      "summary": "KKTC Başbakanı Ünal Üstel, İspanyol FC Barcelona Academy'nin yapmayı planladığı futbol eğitim kampını Rumların baskıları ile iptal etmesine karşın, Türk kulüpleri ile A Milli Futbol Takımı hocalarının aynı yerde çocuklarla buluşacağını ifade etti.",
+      "link": "https://www.aa.com.tr/tr/spor/barcelonanin-kktcde-iptal-ettigi-kampa-turk-kulupleri-ile-milli-takimin-hocalari-gelecek/4040438",
+      "published": "2026-08-28T16:02:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:31.764310+00:00"
+    },
+    {
+      "id": "01f5441d6086d16a",
+      "source": "Karar",
+      "title": "Mehmet Akif Ersoy’a “tahliye” vaadiyle para talebi: Biri avukat 4 kişi suçüstü yakalandı",
+      "summary": "Gazeteci Mehmet Akif Ersoy’un şikâyeti üzerine yürütülen soruşturmada, Ersoy’a “tahliye ve beraat kararı aldırma” vaadiyle yüksek miktarda para talep ettikleri öne sürülen biri avukat 4 şüpheli teknik takip sonucu suçüstü yakalandı. Şüphelilerin bir mekânda pazarlık yaptığı anlar ile polisin operasyonu güvenlik kamerası görüntülerine yansıdı.",
+      "link": "https://www.karar.com/guncel-haberler/mehmet-akif-ersoya-tahliye-vaadiyle-para-talebi-biri-avukat-4-kisi-2068668",
+      "published": "2026-08-28T16:02:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:38.582826+00:00"
+    },
     {
       "id": "265f393e2010b6c0",
       "source": "ShiftDelete.Net",
@@ -17,6 +83,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T16:01:13.853508+00:00"
+    },
+    {
+      "id": "867996affc79f7b3",
+      "source": "Bir Gün",
+      "title": "Samsunspor - Fenerbahçe Maçı Hangi Gün, Saat Kaçta ve Hangi Kanalda?",
+      "summary": "Samsunspor - Fenerbahçe maçı ne zaman, saat kaçta ve hangi kanalda yayınlanacak? Lyon’u 2-1 yenerek Şampiyonlar Ligi bileti alan Fenerbahçe, Avrupa’daki başarısını Süper Lig’e taşıyabilecek mi? Karşılaşmanın yayın, stat ve hakem bilgileri haberimizde.",
+      "link": "https://www.birgun.net/haber/samsunspor-fenerbahce-maci-hangi-gun-saat-kacta-ve-hangi-kanalda-731639",
+      "published": "2026-08-28T16:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:35.003486+00:00"
+    },
+    {
+      "id": "8a0d2dc59f58486c",
+      "source": "Aydınlık",
+      "title": "İETT otobüsü kaza yaptı! 1 kişi hayatını kaybetti",
+      "summary": "Zeytinburnu&#039;nda İETT otobüsü bir sitenin bahçe duvarına çarptı. Kazada 1 kişi hayatını kaybederken 17 kişi yaralandı",
+      "link": "https://www.aydinlik.com.tr/haber/iett-otobusu-kaza-yapti-1-kisi-hayatini-kaybetti-588118",
+      "published": "2026-08-28T15:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:40.231033+00:00"
     },
     {
       "id": "c7bc85b769f9ba23",
@@ -83,6 +171,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T16:00:56.021641+00:00"
+    },
+    {
+      "id": "2ce86593fb6bd9a9",
+      "source": "Ekonomim",
+      "title": "Şeker fiyatlarında dört haftada yüzde 25’lik yükseliş",
+      "summary": "Ham şeker vadeli işlemleri, Avrupa’da üretim görünümünün kötüleşmesi ve arzın daralacağı beklentileriyle üst üste dördüncü haftalık yükselişine yöneldi. Ham şeker fiyatları son dört haftada yaklaşık yüzde 25 yükseldi.",
+      "link": "https://www.ekonomim.com/emtia/seker-fiyatlarinda-dort-haftada-yuzde-25lik-yukselis-haberi-914937",
+      "published": "2026-08-28T15:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:48.672139+00:00"
     },
     {
       "id": "c05a8f8df4155fac",
@@ -4199,6 +4298,17 @@
       "fetched_at": "2026-08-28T14:10:41.863304+00:00"
     },
     {
+      "id": "35d8946ebd0304b1",
+      "source": "Cumhuriyet",
+      "title": "İstanbul Zeytinburnu'nda İETT otobüsü bahçe duvarına çarpmıştı... İBB duyurdu: 1 yolcu hayatını kaybetti",
+      "summary": "İstanbul Zeytinburnu’nda özel halk otobüsünün site duvarına çarpması sonucu meydana gelen kazada 1 yolcu hayatını kaybetti. İBB, İETT ve emniyet birimlerince kazaya ilişkin idari ve adli soruşturma başlatıldığını açıkladı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-istanbul-zeytinburnu-nda-iett-otobusu-sitenin-bahce-duvarina-carpti-yaralilar-var-2533176",
+      "published": "2026-08-28T14:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T16:05:32.038693+00:00"
+    },
+    {
       "id": "0d353727bb7984ea",
       "source": "Cumhuriyet",
       "title": "Son dakika... İstanbul Zeytinburnu'nda İETT otobüsü sitenin bahçe duvarına çarptı: Yaralılar var!",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T13:50:50.099616+00:00"
-    },
-    {
-      "id": "a7cd9e4472e178cf",
-      "source": "Yeniçağ",
-      "title": "\"Erdoğan vefat etti\" paylaşımı soruşturmasında Gazeteci İrem Delice tutuklandı",
-      "summary": "Aydın Denge Gazetesi&#039;nin sosyal medya hesabından &quot;Erdoğan vefat etti&quot; paylaşımın ardından başlatılan soruşturma kapsamında adli kontrolle serbest bırakılan gazeteci İrem Delice, Savcılığın itirazı üzerine tutuklandı.",
-      "link": "https://www.yenicaggazetesi.com/erdogan-vefat-etti-paylasimi-sorusturmasinda-gazeteci-irem-delice-tutuklandi-1066225h.htm",
-      "published": "2026-08-28T13:40:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:46.405403+00:00"
-    },
-    {
-      "id": "58f15ac2a197b779",
-      "source": "Gazete Pencere",
-      "title": "'Cumhurbaşkanlığı seçimlerinde kim önde' anketi: Mansur Yavaş'tan Erdoğan'a büyük fark",
-      "summary": "SER-AR Araştırma, Cumhurbaşkanlığı seçimi anketinin sonuçlarını paylaştı. Buna göre Mansur Yavaş, Erdoğan'a büyük bir fark atıyor. İşte sonuçlar...",
-      "link": "https://www.gazetepencere.com/siyaset/cumhurbaskanligi-secimlerinde-kim-onde-anketi-mansur-yavastan-erdogana-buyuk-713548h",
-      "published": "2026-08-28T13:39:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:48.740559+00:00"
-    },
-    {
-      "id": "f67aaf19bf88995c",
-      "source": "Cumhuriyet",
-      "title": "Mete Gazoz ve Dünya Yenihayat'tan gümüş madalya",
-      "summary": "Türkiye, 2026 Akdeniz Oyunları'nda okçuluk klasik yay karışık takım kategorisinde Mete Gazoz ve Dünya Yenihayat ile gümüş madalya kazandı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/mete-gazoz-ve-dunya-yenihayat-tan-gumus-madalya-2533166",
-      "published": "2026-08-28T13:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:45:35.727337+00:00"
-    },
-    {
-      "id": "93600239a8678315",
-      "source": "Yeniçağ",
-      "title": "Bilecik’te jandarmadan kaçak sigara operasyonu",
-      "summary": "Bilecik’in Pazaryeri ilçesinde jandarma ekiplerince düzenlenen operasyonda 4 bin 20 adet kaçak sigara ile 100 adet doldurulmuş makaron ele geçirildi.",
-      "link": "https://www.yenicaggazetesi.com/bilecikte-jandarmadan-kacak-sigara-operasyonu-1066224h.htm",
-      "published": "2026-08-28T13:38:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:46.405442+00:00"
-    },
-    {
-      "id": "122e1015b1d00186",
-      "source": "Milliyet",
-      "title": "Bakan Çiftçi: Üniformanın şerefi millete sadakatle korunur",
-      "summary": "İçişleri Bakanlığından yapılan açıklamaya göre, Çiftçi, Jandarma Genel Komutanlığının Şehit Orgeneral Eşref Bitlis Salonu'nda düzenlenen Jandarma Genel Komutanlığı 2026 Yılı Rütbe Terfi Töreni'ne katıldı. Burada konuşan Çiftçi, yeni rütbelerin personele, ailelere, Jandarma Teşkilatına ve millete hayırlı olmasını diledi. Çiftçi, jandarmayı güçlü kılanın, yüreğindeki cesareti aklındaki stratejiyle, ",
-      "link": "https://www.milliyet.com.tr/gundem/bakan-ciftci-uniformanin-serefi-millete-sadakatle-korunur-7650108",
-      "published": "2026-08-28T13:38:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:42.866673+00:00"
-    },
-    {
-      "id": "4cc08f01d024f744",
-      "source": "Akşam",
-      "title": "İsrail'in Gazze'ye yönelik saldırısında 4 kişi yaşamını yitirdi",
-      "summary": "İsrail ordusunun Gazze Şeridi'nin kuzeyine ve güneyine düzenlediği saldırılarda, 3'ü aynı aileden 4 Filistinli hayatını kaybetti, 1 kişi yaralandı.",
-      "link": "https://www.aksam.com.tr/dunya/israilin-gazzeye-yonelik-saldirisinda-4-kisi-yasamini-yitirdi/haber-1694132",
-      "published": "2026-08-28T13:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:44.270370+00:00"
-    },
-    {
-      "id": "4f4b560ac8d078ef",
-      "source": "Millî Gazete",
-      "title": "Tolga Akış Serveti Ne Kadar, Geliri Nereden Geliyor, Hangi Şirketleri Kurdu, Hypers Ne İş Yapıyor?",
-      "summary": "Manifest grubunun yapım ve menajerlik süreçlerindeki rolüyle geniş kitleler tarafından tanınmaya başlayan Tolga Akış'ın iş hayatı, grubun yükselişiyle birlikte yeniden merak konusu oldu.",
-      "link": "https://www.milligazete.com.tr/tolga-akis-serveti-ne-kadar-geliri-nereden-geliyor-hangi-sirketleri-kurdu-hypers-ne-is-yapiyor",
-      "published": "2026-08-28T13:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:48.063176+00:00"
-    },
-    {
-      "id": "5857a30756421459",
-      "source": "Halk TV",
-      "title": "Dolly Parton'ın 450 milyon dolarlık mirası sahipsiz kaldı",
-      "summary": "80 yaşında hayatını kaybeden Dolly Parton, müzikten eğlence sektörüne uzanan yaklaşık 450 milyon dolarlık bir imparatorluk bıraktı. Çocuğu bulunmayan yıldızın miras planı henüz açıklanmazken, dev servetin geleceği merak konusu oldu.",
-      "link": "https://halktv.com.tr/dunya/dolly-partonin-450-milyon-dolarlik-mirasi-sahipsiz-kaldi-1051679h",
-      "published": "2026-08-28T13:37:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:49.238834+00:00"
-    },
-    {
-      "id": "6b39f63cd7421c8e",
-      "source": "Karar",
-      "title": "Ünlü çanta markası Radley London kapanıyor mu? Yüzde 70 indirim ve mağaza tasfiyesi kararı geldi",
-      "summary": "Artan maliyetler ve düşen tüketici talebine direnemeyen İngiltere merkezli ünlü çanta ve aksesuar markası Radley London, ülkedeki 21 mağazasının tamamını ve e-ticaret sitesini kapatma kararı aldı. Kalan son stoklar için yüzde 70'e varan büyük tasfiye indirimleri başlatıldı.",
-      "link": "https://www.karar.com/guncel-haberler/unlu-canta-markasi-radley-london-kapaniyor-mu-yuzde-70-indirim-ve-2068641",
-      "published": "2026-08-28T13:37:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:45.772548+00:00"
-    },
-    {
-      "id": "5388c7e540ce49b9",
-      "source": "Yeniçağ",
-      "title": "Aydın Efeler’de zeytinlik alan yangını",
-      "summary": "Aydın’ın Efeler ilçesinde zeytinlik alanda çıkan yangın ekiplerin hızlı müdahalesiyle kısmen kontrol altına alındı. Bölgede söndürme ve soğutma çalışmaları devam ediyor.",
-      "link": "https://www.yenicaggazetesi.com/aydin-efelerde-zeytinlik-alan-yangini-1066223h.htm",
-      "published": "2026-08-28T13:37:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T13:40:46.405473+00:00"
     }
   ]
 }

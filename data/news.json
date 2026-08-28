@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T01:20:53.820107+00:00",
+  "last_updated": "2026-08-28T01:26:05.336250+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 596,
   "items": [
+    {
+      "id": "a36fbb768d1a5b3b",
+      "source": "Habertürk",
+      "title": "Samsun'da iki otomobil çarpıştı: 10 yaralı",
+      "summary": "Samsun Yakakent'te iki otomobilin çarpışması sonucu meydana gelen trafik kazasında 10 kişi yaralandı",
+      "link": "https://www.haberturk.com/samsun-da-iki-otomobil-carpisti-10-yarali-3908616",
+      "published": "2026-08-28T01:09:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-28T01:25:31.385456+00:00"
+    },
     {
       "id": "3789e89f93a2c004",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-27T20:20:46.731236+00:00"
-    },
-    {
-      "id": "ac32d63a21e589e1",
-      "source": "Ekonomim",
-      "title": "Trabzon Dünya Ticaret Merkezi’nde ihale 7 Eylül’de yapılacak",
-      "summary": "Trabzon Dünya Ticaret Merkezi arazisindeki tamamlanmayan mevcut yapıların ekonomiye kazandırılması amacıyla önemli bir adım atılıyor. 4 yıldızlı otel ve rezidans bloklarının yeniden projelendirilerek ofis ve işyerlerine dönüştürülmesi ve aynı kompleksin kuzey bölümünde yer alan Fuar ve Kongre Merkezi’nin tamamlanmasını kapsayan ihalenin 7 Eylül’de yapılacağı belirtildi.",
-      "link": "https://www.ekonomim.com/sehirler/trabzon-dunya-ticaret-merkezinde-ihale-7-eylulde-yapilacak-haberi-914773",
-      "published": "2026-08-27T20:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-27T20:20:57.481761+00:00"
     }
   ]
 }

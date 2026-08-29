@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-08-29T04:36:00.422966+00:00",
+  "last_updated": "2026-08-29T04:40:53.498784+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 624,
+  "new_items_this_run": 616,
   "items": [
+    {
+      "id": "7e0b3736fd932d73",
+      "source": "Akşam",
+      "title": "Bahşiş artık maaşa eklenecek",
+      "summary": "Yargıtay, restoran, kafe ve otel gibi işletmelerde çalışanlara verilen bahşişlerin ücret olarak kabul edilmesine karar verdi. Bu önemli karar, hem kıdem tazminatı hesaplamalarında değişikliğe yol açacak hem de çalışanların emeklilik maaşlarını olumlu etkileyecek.",
+      "link": "https://www.aksam.com.tr/yasam/bahsis-artik-maasa-eklenecek/haber-1694223",
+      "published": "2026-08-29T04:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-29T04:40:38.029894+00:00"
+    },
+    {
+      "id": "f8b313ab21a0d847",
+      "source": "Milliyet",
+      "title": "Son dakika...Eski CIA yetkilisinden Yunanistan’da deprem etkisi yaratacak sözler! 'Türklerden korkuyorlar, nereye kaçacaklarını bilmiyorlar'",
+      "summary": "MİLLİYET.COM.TR / Türkiye’nin Ege ve Doğu Akdeniz’de artan askeri ve siyasi ağırlığı, Yunanistan’ın güvenlik hesaplarının merkezinde yer almaya devam ediyor. Eski CIA yetkilisi John Kiriakou katıldığı bir yayında , Atina’nın İsrail’le perde arkasında süren iş birliğinin arkasındaki temel motivasyonlardan birinin Türkiye karşısındaki endişe olduğunu öne sürerek Yunanistan’ı sarsacak ifadeler kullan",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-eski-cia-yetkilisinden-yunanistanda-deprem-etkisi-yaratacak-sozler-turklerden-korkuyorlar-nereye-kacacaklarini-bilmiyorlar-7650345",
+      "published": "2026-08-29T04:39:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-29T04:40:37.477507+00:00"
+    },
+    {
+      "id": "b2529d424dd1f796",
+      "source": "Akşam",
+      "title": "Trafik kazasındaki psikolojik hasara 8 milyon TL",
+      "summary": "Konya'da kazada yaralanan Alanur Sır'da (12) kalıcı psikolojik hasarlar oluştuğu gerekçesiyle mahkeme, 8 milyon TL tazminat ödenmesine hükmetti.",
+      "link": "https://www.aksam.com.tr/yasam/trafik-kazasindaki-psikolojik-hasara-8-milyon-tl/haber-1694222",
+      "published": "2026-08-29T04:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-29T04:40:38.029927+00:00"
+    },
+    {
+      "id": "2a48f2845eded867",
+      "source": "Akşam",
+      "title": "Fethiye'de alev kapanı",
+      "summary": "Fethiye Huzurevi yakınındaki ormanlık alanda dün gece başlayan yangın, rüzgarın etkisiyle kısa sürede büyüdü. Huzurevi tahliye edildi, bazı evler alevlere teslim oldu.",
+      "link": "https://www.aksam.com.tr/yasam/fethiyede-alev-kapani/haber-1694221",
+      "published": "2026-08-29T04:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-29T04:40:38.029953+00:00"
+    },
+    {
+      "id": "d2fbbb7911266819",
+      "source": "Karar",
+      "title": "SPK'dan yatırım fonlarına kapsamlı düzenleme: Serbest fon ihracına sınırlama getirildi",
+      "summary": "Sermaye Piyasası Kurulu (SPK), Yatırım Fonlarına İlişkin Rehber'de yaptığı güncellemeyle portföy yönetim şirketlerinin ihraç edebileceği serbest fon sayısını portföy yöneticisi sayısı ile sınırlandırdı.",
+      "link": "https://www.karar.com/ekonomi-haberleri/spkdan-yatirim-fonlarina-kapsamli-duzenleme-serbest-fon-ihracina-2068707",
+      "published": "2026-08-29T04:35:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-29T04:40:39.007207+00:00"
+    },
     {
       "id": "15a5468a0c232c46",
       "source": "Akşam",
@@ -94,6 +149,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-29T04:30:49.128079+00:00"
+    },
+    {
+      "id": "da44fe98dc65cb84",
+      "source": "Habertürk",
+      "title": "Meteoroloji'den sağanak yağmur ve fırtına alarmı!",
+      "summary": "Meteoroloji'den yapılan son hava durumu tahminlerine göre; Marmara, Karadeniz, İç Anadolu, Doğu Anadolu, Akdeniz ile Güneydoğu Anadolu'nun batısı sağanak yağışların etkisi altında. Yağışların; Orta Karadeniz ve İç Anadolu'nun doğusunda kuvvetli olması bekleniyor. Diğer yandan Ege, Batı Akdeniz ve İç Anadolu'nun batısında kuvvetli poyraz, Doğu Anadolu'nun güneydoğu kesimlerinde kuvvetli lodos etkil",
+      "link": "https://www.haberturk.com/son-dakika-haberleri-meteoroloji-den-saganak-yagmur-ve-firtina-alarmi-bolge-bolge-son-tahminler-29-agustos-hava-durumu-3908857",
+      "published": "2026-08-29T04:27:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-29T04:40:31.451686+00:00"
     },
     {
       "id": "cb1ed6347ed52b16",
@@ -270,6 +336,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-29T04:20:48.123295+00:00"
+    },
+    {
+      "id": "a79eea7a237a0a33",
+      "source": "Evrensel",
+      "title": "İsrail ordusundan Batı Şeria'ya baskın: Biri çocuk 2 Filistinli yaralandı",
+      "summary": "İsrail ordusunun işgal altındaki Batı Şeria'nın El-Bire kentindeki el-Amari Mülteci Kampı'na düzenlediği baskında açılan ateş sonucu biri çocuk 2 Filistinli yaralandı.",
+      "link": "https://www.evrensel.net/haber/5998255/israil-ordusundan-bati-seriaya-baskin-biri-cocuk-2-filistinli-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-29T04:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-29T04:40:36.392918+00:00"
     },
     {
       "id": "99a2b23e10220d4d",
@@ -655,6 +732,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-29T04:35:36.096118+00:00"
+    },
+    {
+      "id": "6f203c6aeb262d63",
+      "source": "Evrensel",
+      "title": "Meteoroloji çok sayıda kent için uyardı: Kuvvetli sağanak ve fırtına geliyor (29.08.2026)",
+      "summary": "Meteoroloji, çok sayıda kent için kuvvetli yağış ve fırtına uyarısında bulundu. Bazı bölgelerde sağanağın şiddetini artırması beklenirken, rüzgarın hızının yer yer saatte 90 kilometreye ulaşacağı tahmin ediliyor.",
+      "link": "https://www.evrensel.net/haber/5998254/meteoroloji-cok-sayida-kent-icin-uyardi-kuvvetli-saganak-ve-firtina-geliyor-29-08-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-08-29T03:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-29T04:40:36.392956+00:00"
     },
     {
       "id": "896059c1d5c983fe",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-28T20:40:44.750433+00:00"
-    },
-    {
-      "id": "9c1d8de5894cb5a9",
-      "source": "DonanımHaber",
-      "title": "BİM marketler ve Yemeksepeti arasında dev iş birliği",
-      "summary": "BİM market müşterileri bundan böyle satın almak istedikleri ürünleri Yemeksepeti uygulaması üzerinden sipariş vererek kapılarına kadar getirtebilecekler. Uygulama pilot bölgelerde hayata geçti.",
-      "link": "https://www.donanimhaber.com/bim-artik-yemeksepeti-icerisinde--209857",
-      "published": "2026-08-28T20:38:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T20:46:02.804295+00:00"
-    },
-    {
-      "id": "7f19b57b3fcfda6c",
-      "source": "Akşam",
-      "title": "İETT'de kaza zinciri: Bir otobüs daha faciaya davetiye çıkardı",
-      "summary": "Zeytinburnu'nda meydana gelen İETT otobüsü kazasının ardından bu kez Sarıyer ilçesinde yağış nedeniyle kayganlaşan yolda kontrolden çıkan İETT otobüsü bariyerlere çarptı.",
-      "link": "https://www.aksam.com.tr/guncel/iettde-kaza-zinciri-bir-otobus-daha-faciaya-davetiye-cikardi/haber-1694186",
-      "published": "2026-08-28T20:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T20:40:44.750471+00:00"
-    },
-    {
-      "id": "3aeec1577230da4b",
-      "source": "Yeni Akit",
-      "title": "İETT'ye neler oluyor? Önce Zeytinburnu şimdi Sarıyer! Yürekler ağza geldi",
-      "summary": "Beceriksiz İBB'nin bünyesinde yer alan İETT, İstanbul'a kabus olmaya devam ediyor. Gün içerisinde Zeytinburnu'nda 2 kişinin hayatını kaybettiği İETT kazası sonrası akşam saatlerinde Sarıyer'de bir kaza meydana geldi.",
-      "link": "https://www.yeniakit.com.tr/haber/iettye-neler-oluyor-once-zeytinburnu-simdi-sariyer-yurekler-agza-geldi-2019889.html",
-      "published": "2026-08-28T20:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T20:40:45.446006+00:00"
-    },
-    {
-      "id": "7850ceb2129659b3",
-      "source": "Yeniçağ",
-      "title": "Selçuk Bayraktar siyasete girecek mi? 'Takoz koyarlarsa mücadele ederiz'",
-      "summary": "TEKNOFEST Yönetim Kurulu Başkanı Selçuk Bayraktar, katıldığı programda siyasete girip girmeyeceğine ilişkin kritik açıklamalarda bulundu. Bayraktar, milli projelerin önüne engel çıkarılması durumunda her türlü mücadeleyi vereceğini belirterek siyasete açık kapı bıraktı.",
-      "link": "https://www.yenicaggazetesi.com/selcuk-bayraktar-siyasete-girecek-mi-takoz-koyarlarsa-mucadele-ederiz-1066334h.htm",
-      "published": "2026-08-28T20:37:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T20:40:46.020369+00:00"
-    },
-    {
-      "id": "d8c8bfecf4498d2a",
-      "source": "Millî Gazete",
-      "title": "Kars'ta dolu ve sağanak hayatı olumsuz etkiledi",
-      "summary": "Kars'ın Akyaka ilçesinde aniden bastıran dolu ve şiddetli sağanak hayatı felç etti. Taşan dereler yolları göle çevirirken, sel sularına kapılan eşyalarını arayan vatandaşların çaresizliği yürekleri burktu.",
-      "link": "https://www.milligazete.com.tr/karsta-dolu-ve-saganak-hayati-olumsuz-etkiledi",
-      "published": "2026-08-28T20:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T21:55:40.163515+00:00"
-    },
-    {
-      "id": "f16cb852ef18b8e3",
-      "source": "Cumhuriyet",
-      "title": "Stuttgart'ı 5 golle devirdi: Bayern Münih'ten Bundesliga'ya farklı başlangıç",
-      "summary": "Almanya Bundesliga'nın ilk haftasında Bayern Münih, sahasında Stuttgart'ı 5-1 yendi.",
-      "link": "https://www.cumhuriyet.com.tr/spor/stuttgart-i-5-golle-devirdi-bayern-munih-ten-bundesliga-ya-farkli-baslangic-2533252",
-      "published": "2026-08-28T20:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T20:40:38.878808+00:00"
-    },
-    {
-      "id": "c4d23736ea932b5c",
-      "source": "Hürriyet",
-      "title": "İran Cumhurbaşkanı Pezeşkiyan’dan Hürmüz Boğazı açıklaması: ABD'nin İslamabad Mutabakatı'nı uygulaması halinde açarız",
-      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Umman ile Hürmüz Boğazı üzerinden geçiş güzergahı konusunda anlaşmaya vardıklarını ve ABD'nin 17 Haziran'da Pakistan'ın aracılığında imzalanan mutabakat zaptındaki taahhütlerini yerine getirmesi halinde Boğazın açılacağını söyledi.",
-      "link": "https://www.hurriyet.com.tr/dunya/iran-cumhurbaskani-pezeskiyandan-hurmuz-bogazi-aciklamasi-abdnin-islamabad-mutabakatini-uygulamasi-halinde-acariz-43288572",
-      "published": "2026-08-28T20:35:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T22:01:01.976862+00:00"
-    },
-    {
-      "id": "d44ab5bab410d337",
-      "source": "Milliyet",
-      "title": "Minibüsle geri manevra yaparken oğlunun ölümüne neden oldu",
-      "summary": "Kaza, Serik ilçesi Gebiz Mahallesi’nde meydana geldi. M.Ş., evinin önünde servis minibüsüyle geri manevra yaptığı sırada oğlu Yakup Emir Şahin’e çarptı. Aracın altında kalan çocuk, ağır yaralandı. Yakınları tarafından Gebiz Acil Sağlık Merkezi’ne götürülen Yakup Emir Şahin, burada yapılan müdahaleye rağmen kurtarılamadı. Çocuğun cenazesi, daha sonra otopsi için Antalya Adli Tıp Kurumu’nun morguna ",
-      "link": "https://www.milliyet.com.tr/gundem/minibusle-geri-manevra-yaparken-oglunun-olumune-neden-oldu-7650256",
-      "published": "2026-08-28T20:35:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-28T20:40:44.268203+00:00"
     }
   ]
 }

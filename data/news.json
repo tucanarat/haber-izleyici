@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-08-30T19:31:06.069403+00:00",
+  "last_updated": "2026-08-30T19:35:58.502550+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 607,
+  "new_items_this_run": 604,
   "items": [
+    {
+      "id": "663b79ba50670904",
+      "source": "Gazete Pencere",
+      "title": "Hürmüz Boğazı'nda bir tanker vuruldu",
+      "summary": "İngiltere, Umman açıklarında seyreden bir tankerin saldırıya uğradığını açıkladı.",
+      "link": "https://www.gazetepencere.com/dis-haber/hurmuz-bogazinda-bir-tanker-vuruldu-713765h",
+      "published": "2026-08-30T19:32:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-30T19:35:42.009288+00:00"
+    },
+    {
+      "id": "32049b129a6b746e",
+      "source": "Karar",
+      "title": "Karadeniz'in en büyük kentine dev havalimanı terminali: Yıllık 3 milyon yolcu",
+      "summary": "Karadeniz'in hava trafiğini rahatlatacak Samsun Çarşamba Havalimanı Yeni İç ve Dış Hatlar Terminal Binası için düğmeye basıldı. 3 Eylül Perşembe günü temeli atılacak modern projeyle yıllık yolcu kapasitesi 3 milyona yükselecek, 29 bin 120 metrekarelik dev tesis bölgeye kazandırılacak.",
+      "link": "https://www.karar.com/sehir-haberleri/samsun-carsamba-havalimani-yeni-terminali-ne-zaman-aciliyor-kapasitesi-2068992",
+      "published": "2026-08-30T19:31:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-30T19:35:39.466388+00:00"
+    },
+    {
+      "id": "ecd0fdedc9e7770a",
+      "source": "Star",
+      "title": "Como, Napoli deplasmanında galip geldi",
+      "summary": "İtalya Serie A'nın 2. haftasında Como, Diego Armando Maradona Stadyumu'nda oynanan karşılaşmada Napoli'yi 2-1 mağlup etti.",
+      "link": "https://www.star.com.tr/spor/como-napoli-deplasmaninda-galip-geldi-haber-2037100/",
+      "published": "2026-08-30T19:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-30T19:35:38.738942+00:00"
+    },
+    {
+      "id": "1bdfc29fc2c4b4df",
+      "source": "Aydınlık",
+      "title": "Kağıthane’de metrobüs alevlere teslim oldu",
+      "summary": "İstanbul’un Kağıthane ilçesinde Darülaceze-Perpa Metrobüs Durağı’nda duran metrobüsün motor bölümünde yangın çıktı. Alevlerin kısa sürede büyümesi üzerine araçtaki yolcular tahliye edilirken, yangın itfaiye ekiplerinin müdahalesiyle söndürüldü.",
+      "link": "https://www.aydinlik.com.tr/haber/kagithanede-metrobus-alevlere-teslim-oldu-588304",
+      "published": "2026-08-30T19:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-30T19:35:41.274802+00:00"
+    },
     {
       "id": "17c6514fc14aa698",
       "source": "DonanımHaber",
@@ -743,6 +787,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-30T19:15:39.049859+00:00"
+    },
+    {
+      "id": "edc0bd9e11ac85cb",
+      "source": "Yeni Şafak",
+      "title": "Düğün yemeği sonrası 100'den fazla kişi hastanelik oldu",
+      "summary": "Bursa’da düzenlenen düğünde ikram edilen tavuklu pilavı yiyen 100’den fazla kişi rahatsızlandı. Mide bulantısı ve kusma şikayetleriyle hastanelere başvuran vatandaşlar tedavi altına alındı. İl Sağlık Müdürlüğü, durumu ağır seyreden herhangi bir vatandaşın bulunmadığını açıkladı.",
+      "link": "https://www.yenisafak.com/gundem/dugun-yemegi-sonrasi-100den-fazla-kisi-hastanelik-oldu-4851973",
+      "published": "2026-08-30T18:51:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-30T19:35:38.487710+00:00"
     },
     {
       "id": "f87680c76a418a99",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-30T15:35:36.906995+00:00"
-    },
-    {
-      "id": "b27fed43c7bed630",
-      "source": "Habertürk",
-      "title": "Atatürk II: 1881 - 1919 filmi konusu",
-      "summary": "Atatürk II: 1881 - 1919 filmi, Mustafa Kemal Atatürk'ün Çanakkale Savaşı'ndan 1919 yılına kadar uzanan dönemini konu alıyor. Mehmet Ada Öztekin'in yönetmen koltuğunda oturduğu filmin senaryosunu Necati Şahin kaleme aldı. Biyografik türdeki yapımda Mustafa Kemal'in farklı cephelerde verdiği mücadeleler anlatılıyor. Filmin başrolünde Mustafa Kemal Atatürk karakterine Aras Bulut İynemli hayat veriyor",
-      "link": "https://www.haberturk.com/ataturk-ii-1881-1919-filmi-konusu-nedir-oyunculari-kimler-ataturk-ii-1881-1919-ne-zaman-nerede-cekildi-3909108",
-      "published": "2026-08-30T15:24:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T15:30:42.593492+00:00"
-    },
-    {
-      "id": "dc93839e1f93851a",
-      "source": "Yeni Şafak",
-      "title": "Cumhurbaşkanı Erdoğan: Bizim destanlarımız yalnızca kanla değil, şanla şerefle yazılır",
-      "summary": "Kara Harp Okulu'nda düzenlenen MSÜ Harp Okulları Diploma ve Sancak Devir Teslim Töreni'nde konuşan Cumhurbaşkanı Erdoğan, Türk milletinin cenk meydanlarındaki şanlı mazisine dikkat çekti. Fırat Kalkanı Harekatı'nın 10. yıl dönümünü hatırlatan Erdoğan, 'Terör örgütlerine çelikten bir yumruk indirdik' dedi.",
-      "link": "https://www.yenisafak.com/video/gundem/cumhurbaskani-erdogan-bizim-destanlarimiz-yalnizca-kanla-degil-sanla-serefle-yazilir-4851946",
-      "published": "2026-08-30T15:24:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T15:25:33.931067+00:00"
-    },
-    {
-      "id": "5279fa5a1237d546",
-      "source": "Aydınlık",
-      "title": "Türkiye Azerbaycan voleybol maçı ne zaman, saat kaçta, hangi kanada?",
-      "summary": "CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası’nda son 16 turuna yükselen A Milli Kadın Voleybol Takımımız, Azerbaycan ile kozlarını paylaşacak. Peki Türkiye Azerbaycan voleybol maçı ne zaman, saat kaçta, hangi kanada?",
-      "link": "https://www.aydinlik.com.tr/haber/turkiye-azerbaycan-voleybol-maci-ne-zaman-saat-kacta-hangi-kanada-588277",
-      "published": "2026-08-30T15:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T15:30:50.909211+00:00"
-    },
-    {
-      "id": "f7c2aea51609520d",
-      "source": "Yeni Şafak",
-      "title": "Batman'da spor salonunda yangın: 30 kişinin mahsur kaldığı faciada iki ölü dokuz yaralı",
-      "summary": "Batman’da bir spor salonunda akşam saatlerinde yangın çıktı. Yaklaşık 30 kişi salonda mahsur kalırken, yangının söndürülmesi ve içeride kalan vatandaşların kurtarılması için bölgeye çok sayıda itfaiye, 112 acil sağlık ve polis ekibi sevk edildi. Spor salonunun sauna bölümünde meydana gelen yangın sonucu iki kişi hayatını kaybetti, dokuz kişi de yaralandı.",
-      "link": "https://www.yenisafak.com/gundem/batmanda-spor-salonunda-yangin-30-kisinin-mahsur-kaldigi-faciada-iki-olu-dokuz-yarali-4851945",
-      "published": "2026-08-30T15:23:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T16:00:58.743089+00:00"
-    },
-    {
-      "id": "7c268c52d3de0e5a",
-      "source": "Yeni Şafak",
-      "title": "Batman'da spor salonunda yangın: 30 kişi içeride mahsur kaldı yaralılar var",
-      "summary": "Batman’da bir spor salonunda akşam saatlerinde yangın çıktı. Yaklaşık 30 kişi salonda mahsur kalırken, yangının söndürülmesi ve içeride kalan vatandaşların kurtarılması için bölgeye çok sayıda itfaiye, 112 acil sağlık ve polis ekibi sevk edildi. Öte yandan yangın sonucu 10 kişi yaralandı.",
-      "link": "https://www.yenisafak.com/gundem/batmanda-spor-salonunda-yangin-30-kisi-iceride-mahsur-kaldi-yaralilar-var-4851945",
-      "published": "2026-08-30T15:23:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T15:25:33.931108+00:00"
     }
   ]
 }

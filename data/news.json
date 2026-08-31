@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-31T00:06:04.333438+00:00",
+  "last_updated": "2026-08-31T00:10:58.512474+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 608,
+  "new_items_this_run": 607,
   "items": [
+    {
+      "id": "5a8f4a4de4716de1",
+      "source": "BBC News Türkçe",
+      "title": "'Cildim beni eşsiz kılıyor ve bunu kabullenmeyi öğreniyorum'",
+      "summary": "Vücudunun %98'ini kaplayan nadir bir genetik cilt hastalığıyla doğan Laura Kelly, yıllarca saklamaya çalıştığı görünümünü kabullenmeyi öğrendi. Peki nasıl?",
+      "link": "https://www.bbc.com/turkce/articles/cvgyx8rn8w3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-31T00:08:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-31T00:10:57.963242+00:00"
+    },
     {
       "id": "a235e4121191585a",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-30T19:05:44.908173+00:00"
-    },
-    {
-      "id": "269318ef4beebfc7",
-      "source": "ShiftDelete.Net",
-      "title": "Xiaomi İlk NAS Cihazını Satışa Sundu: 60 TB’a Kadar Depolama",
-      "summary": "Xiaomi, 60 TB'a kadar destek sunan ilk Xiaomi ağ depolama cihazı Smart Storage modelini tanıttı. HyperOS ve akıllı ev entegrasyonu öne çıkıyor.",
-      "link": "https://shiftdelete.net/xiaomi-ilk-nas-cihazini-satis-sundu",
-      "published": "2026-08-30T19:00:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T19:01:07.373093+00:00"
     }
   ]
 }

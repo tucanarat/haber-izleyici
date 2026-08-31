@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-31T01:11:01.703807+00:00",
+  "last_updated": "2026-08-31T01:16:03.887768+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 611,
+  "new_items_this_run": 609,
   "items": [
+    {
+      "id": "17eae10a37da1c4e",
+      "source": "BBC News Türkçe",
+      "title": "Melih Gökçek hakkında soruşturma başlatıldı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı, eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek hakkında \"yurt dışındaki şirketlere kayıt dışı para aktarıldığı\" iddiasıyla soruşturma başlatıldığını açıkladı.",
+      "link": "https://www.bbc.com/turkce/articles/ckgwn4nj90lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-31T01:13:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-31T01:16:02.988570+00:00"
+    },
     {
       "id": "423b32480b6860bb",
       "source": "BBC News Türkçe",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-30T19:25:37.679282+00:00"
-    },
-    {
-      "id": "8b2adc387df91092",
-      "source": "Karar",
-      "title": "Rusya'dan Ukrayna çıkışı: Gerçek bir çözüm istemiyor",
-      "summary": "Kremlin Sözcüsü Peskov, Ukrayna'nın gerçek bir çözüm üzerinde çalışmak istemediğini belirterek, \"Müzakerelere açığız ancak müzakerelerin sürdürülmesi için bir emare yok\" dedi",
-      "link": "https://www.karar.com/dunya-haberleri/rusyadan-ukrayna-cikisi-gercek-bir-cozum-istemiyor-2068991",
-      "published": "2026-08-30T19:21:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T19:25:36.801650+00:00"
     }
   ]
 }

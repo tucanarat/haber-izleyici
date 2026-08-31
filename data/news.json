@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-08-31T22:11:03.278099+00:00",
+  "last_updated": "2026-08-31T22:15:55.111378+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 591,
+  "new_items_this_run": 589,
   "items": [
+    {
+      "id": "4819651d15aee58a",
+      "source": "Akşam",
+      "title": "Beşiktaş ritmini buldu",
+      "summary": "",
+      "link": "https://www.aksam.com.tr/yazarlar/besiktas-ritmini-buldu/haber-1694876",
+      "published": "2026-08-31T22:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-31T22:15:39.585758+00:00"
+    },
     {
       "id": "03a993cdedba91a0",
       "source": "Halk TV",
@@ -50,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-31T22:10:39.327246+00:00"
+    },
+    {
+      "id": "8134810b22611b46",
+      "source": "Gerçek Gündem",
+      "title": "İzlanda’yı Parkeye Gömen 12 Dev Adam 2027 Dünya Kupası Biletini Kaptı",
+      "summary": "A Milli Erkek Basketbol Takımı, eleme mücadelesinde karşılaştığı İzlanda&#039;yı 37 sayı farkla 110-73 mağlup etti. Bu ezici galibiyetle birlikte millilerimiz, Katar&#039;da düzenlenecek 2027 FIBA Dünya Kupası&#039;na katılma hakkını resmen kazandı.",
+      "link": "https://www.gercekgundem.com/spor/izlandayi-parkeye-gomen-12-dev-adam-2027-dunya-kupasi-biletini-kapti-577783",
+      "published": "2026-08-31T22:07:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-31T22:15:46.349611+00:00"
     },
     {
       "id": "5b7c3518eb4c014d",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-31T18:50:50.336294+00:00"
-    },
-    {
-      "id": "5a826eb7ef580011",
-      "source": "Halk TV",
-      "title": "Son dakika | İzmir'de 3.7 büyüklüğünde deprem! AFAD açıkladı",
-      "summary": "AFAD&#039;ın yaptığı duyuruya göre saat 21:33:&#039;de Ege Denizi İzmir Karaburun&#039;da 3.7 büyüklüğünde deprem meydana geldi.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-izmirde-deprem-afad-acikladi-1052220h",
-      "published": "2026-08-31T18:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-31T18:45:53.302266+00:00"
-    },
-    {
-      "id": "1dbfba25a548bf8f",
-      "source": "Yeniçağ",
-      "title": "Prof. Dr. Aziz Çelik emekliyi uyardı: Kademeli emekliliğin ne zaman gelebileceğini açıkladı",
-      "summary": "Prof. Dr. Aziz Çelik, son dönemde kademeli emeklilik ve emekli aylıklarına yapılacak yüklü zam iddialarına ilişkin çarpıcı değerlendirmelerde bulunarak kamuoyunu uyardı. Çelik, kademeli emekliliğin seçimden önce gündeme gelmesinin imkansız olduğunu belirtti.",
-      "link": "https://www.yenicaggazetesi.com/prof-dr-aziz-celik-emekliyi-uyardi-kademeli-emekliligin-ne-zaman-gelebilecegini-acikladi-1067120h.htm",
-      "published": "2026-08-31T18:44:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-31T18:45:49.773700+00:00"
     }
   ]
 }

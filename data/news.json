@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-08-31T00:10:58.512474+00:00",
+  "last_updated": "2026-08-31T00:15:54.317139+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 607,
+  "new_items_this_run": 609,
   "items": [
+    {
+      "id": "ee8512d80664d7b3",
+      "source": "BBC News Türkçe",
+      "title": "ABD haftalar sonra İran'ın Lark Adası'na saldırdı, Tahran'dan karşılık geldi",
+      "summary": "Bir Washington yetkilisi, ABD güçlerinin İran'ın Lark Adası'nda bulunan iki füze fırlatma rampasını vurduğunu söyledi. Bu, Temmuz 2026 sonundan bu yana İran'a yönelik bilinen ilk Amerikan saldırısı.",
+      "link": "https://www.bbc.com/turkce/articles/c750znwyye5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-31T00:14:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-31T00:15:53.982611+00:00"
+    },
+    {
+      "id": "cb9d1c5c2025917e",
+      "source": "Türkiye Gazetesi",
+      "title": "BU NE 'HAL'?",
+      "summary": "İstanbul’un semt pazarlarında aynı ürünün fiyatı, pazarın bulunduğu bölgeye göre ciddi farklılık gösteriyor. Kilosu bir ilçede 25 liraya satılan domates, başka bir semtte 40 liraya kadar çıkabiliyor. Bazı pazarcılar semte göre fiyat belirliyor. Alım gücü yüksek olan ilçede fiyat 2 katına kadar yükseliyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/semt-pazarinda-fiyat-ucurumu-var-ayni-domates-bir-ilcede-25-digerinde-40-lira-1812692",
+      "published": "2026-08-31T00:10:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-31T00:15:37.270875+00:00"
+    },
+    {
+      "id": "b15d35dc3dfcd107",
+      "source": "OdaTV",
+      "title": "Resmi Gazete'de atama kararları: Kültür ve Turizm Bakanlığı ile BTK ve DHMİ'ye yeni atamalar",
+      "summary": "Resmi Gazete&#039;de yayımlanan Cumhurbaşkanı Kararlarına göre Cumhurbaşkanı Recep Tayyip Erdoğan&#039;ın imzasıyla birçok atama kararı açıklandı.",
+      "link": "https://www.odatv.com/guncel/resmi-gazetede-atama-kararlari-kultur-ve-turizm-bakanligi-ile-btk-ve-dhmiye-yeni-atamalar-120160763",
+      "published": "2026-08-31T00:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-08-31T00:15:42.010419+00:00"
+    },
     {
       "id": "5a8f4a4de4716de1",
       "source": "BBC News Türkçe",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-30T19:45:42.556047+00:00"
-    },
-    {
-      "id": "fe277850aae6a4db",
-      "source": "Millî Gazete",
-      "title": "MasterChef’te kim elendi, 30 Ağustos 2026 MasterChef’e kim veda etti, Simge Çıtak elendi mi, eleme potasında kimler vardı?",
-      "summary": "MasterChef Türkiye 2026’da üçüncü haftanın eleme gecesi tamamlandı ve yarışmaya veda eden isim belli oldu. Mavi takımdan 8 yarışmacının eleme potasında mücadele ettiği gecenin sonunda şeflerin değerlendirmesiyle Simge Çıtak, MasterChef 2026’ya veda etti.",
-      "link": "https://www.milligazete.com.tr/masterchefte-kim-elendi-30-agustos-2026-masterchefe-kim-veda-etti-simge-citak-elendi-mi-eleme-potasinda-kimler-vardi",
-      "published": "2026-08-30T19:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T19:05:44.908134+00:00"
-    },
-    {
-      "id": "9b0b9760bc2b597e",
-      "source": "Finans Gündem",
-      "title": "KKTC'de 3 günlük yas ilan edildi",
-      "summary": "Girne açıklarında yolcu gemisinin batması sonucu 8 kişinin hayatını kaybetmesi ve kayıplar nedeniyle KKTC'de 3 günlük ulusal yas ilan edildi",
-      "link": "https://www.finansingundemi.com/haber/kktcde-3-gunluk-yas-ilan-edildi/1906670",
-      "published": "2026-08-30T19:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T19:10:51.867148+00:00"
-    },
-    {
-      "id": "e2c1c8b7e3f77217",
-      "source": "Millî Gazete",
-      "title": "Real Madrid-Malaga maçı kaç kaç bitti, golleri kim attı, Arda Güler gol attı mı?",
-      "summary": "Real Madrid, La Liga’nın 3. haftasında Malaga karşısında hata yapmadı ve Santiago Bernabeu’daki mücadeleyi 4-0 kazanarak sezona 3’te 3 ile başladı. Karşılaşmaya yedek kulübesinde başlayan Arda Güler, 87. dakikada Jude Bellingham’ın yerine oyuna girdi ve yalnızca 4 dakika sonra Real Madrid’in dördüncü golünü kaydetti.",
-      "link": "https://www.milligazete.com.tr/real-madrid-malaga-maci-kac-kac-bitti-golleri-kim-atti-arda-guler-gol-atti-mi",
-      "published": "2026-08-30T19:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-30T19:05:44.908173+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-01T00:46:01.389265+00:00",
+  "last_updated": "2026-09-01T00:50:56.607298+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 601,
+  "new_items_this_run": 599,
   "items": [
+    {
+      "id": "f8495ae5315c0e93",
+      "source": "Halk TV",
+      "title": "Aydın'da minibüsle çarpışan motosikletin sürücüsü yaşamını yitirdi",
+      "summary": "Aydın&#039;ın Çine ilçesinde minibüsle çarpışan motosikletin sürücüsü 43 yaşındaki Serkan Türkeş, olay yerinde hayatını kaybetti.",
+      "link": "https://halktv.com.tr/turkiye/aydinda-minibusle-carpisan-motosikletin-surucusu-yasamini-yitirdi-1052261h",
+      "published": "2026-09-01T00:47:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T00:50:45.091186+00:00"
+    },
     {
       "id": "bf77430913e872ec",
       "source": "BBC News Türkçe",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-31T19:45:51.132719+00:00"
-    },
-    {
-      "id": "97eb96fcec60ba79",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Vlahovic'in yıldızlaştığı maçta Beşiktaş farklı kazandı",
-      "summary": "Beşiktaş, Trendyol Süper Lig'in 3. haftasında konuk ettiği Arca Çorum FK'yi 6-2 yendi.",
-      "link": "https://www.aa.com.tr/tr/spor/vlahovicin-yildizlastigi-macta-besiktas-farkli-kazandi-/4043070",
-      "published": "2026-08-31T19:42:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-31T20:40:36.436531+00:00"
     }
   ]
 }

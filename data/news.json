@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-01T00:41:07.543733+00:00",
+  "last_updated": "2026-09-01T00:46:01.389265+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 603,
+  "new_items_this_run": 601,
   "items": [
+    {
+      "id": "bf77430913e872ec",
+      "source": "BBC News Türkçe",
+      "title": "Tupac Shakur davasında jüri, Duane Davis'i cinayetten suçlu buldu",
+      "summary": "Eski çete lideri, 63 yaşındaki Duane \"Keffe D\" Davis, rapçi Tupac Shakur'u öldürmekten suçlu bulundu.",
+      "link": "https://www.bbc.com/turkce/articles/c07lk0glg24o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01T00:43:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T00:46:00.484453+00:00"
+    },
     {
       "id": "f502f485d82d0bb6",
       "source": "Türkiye Gazetesi",
@@ -50,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T00:40:41.066210+00:00"
+    },
+    {
+      "id": "ac3aca7484b3589e",
+      "source": "Evrensel",
+      "title": "Japonya'nın en yaşlı insanı Kagawa 115 yaşında hayatını kaybetti",
+      "summary": "Japonya'nın en yaşlı insanı Kagawa Şigeko'nun 115 yaşında hayatını kaybettiği bildirildi. \"Japonya'nın en yaşlı insanı\" ünvanı Kyoto eyaletinde yaşayan Aralık 1911 doğumlu Kişimoto Fuyo'ya geçti.",
+      "link": "https://www.evrensel.net/haber/5998620/japonyanin-en-yasli-insani-kagawa-115-yasinda-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-01T00:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T00:45:39.309171+00:00"
     },
     {
       "id": "b013c4bde76218ce",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-31T20:40:36.436531+00:00"
-    },
-    {
-      "id": "c8cdae27589aa4dc",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Vlahovic'in yıldızlaştı maçta Beşiktaş farklı kazandı",
-      "summary": "Beşiktaş, Trendyol Süper Lig'in 3. haftasında konuk ettiği Arca Çorum FK'yi 6-2 yendi.",
-      "link": "https://www.aa.com.tr/tr/spor/vlahovicin-yildizlasti-macta-besiktas-farkli-kazandi-/4043070",
-      "published": "2026-08-31T19:42:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-31T20:35:32.864485+00:00"
-    },
-    {
-      "id": "c3f0bc17747d65c9",
-      "source": "Ekonomim",
-      "title": "A101 AKTÜEL ÜRÜNLER KATALOĞU: TV, BEYAZ EŞYA, BLENDER VE MOTOSİKLETTE DEV FIRSAT! (A101 3-9 EYLÜL)",
-      "summary": "A101 3-9 Eylül aktüel ürünler kataloğu yayınlandı! Bu hafta televizyon, beyaz eşya, çubuk blender ve en çok dikkat çeken elektrikli motosiklet cazip fiyatlarla raflarda yerini alıyor. İşte haftanın kaçırılmayacak fırsatları...",
-      "link": "https://www.ekonomim.com/foto-galeri/aktuel/a101-aktuel-urunler-katalogu-tv-beyaz-esya-blender-ve-motosiklette-dev-firsat-a101-3-9-eylul-s1-galeri-915429",
-      "published": "2026-08-31T19:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-31T19:50:57.863818+00:00"
     }
   ]
 }

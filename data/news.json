@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-09-01T21:05:55.316637+00:00",
+  "last_updated": "2026-09-01T21:11:01.022794+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 582,
+  "new_items_this_run": 574,
   "items": [
+    {
+      "id": "7d3625dd945570a6",
+      "source": "Akşam",
+      "title": "Başkan Erdoğan'dan AK Partili Çiftçi için taziye mesajı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Kadın Kolları MKYK Üyesi İsmet Zeynep Çiftçi'nin vefatı üzerine taziye mesajı paylaştı.",
+      "link": "https://www.aksam.com.tr/guncel/baskan-erdogandan-ak-partili-ciftci-icin-taziye-mesaji/haber-1695148",
+      "published": "2026-09-01T21:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:42.690601+00:00"
+    },
+    {
+      "id": "cf524f4334c90348",
+      "source": "Cumhuriyet",
+      "title": "Gülistan Doku soruşturmasında yeni gelişme: Abarakov'dan 4 saatlik ifade",
+      "summary": "Gülistan Doku soruşturması kapsamında tutuklu bulunan eski erkek arkadaşı Zeinal Abarakov, tutuklu bulunduğu Erzincan’daki cezaevinden Tunceli’ye getirilerek, Başsavcı Ebru Cansu tarafından 4 saat ifadesi alındı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-sorusturmasinda-yeni-gelisme-abarakov-dan-4-saatlik-ifade-2534197",
+      "published": "2026-09-01T21:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:38.849465+00:00"
+    },
+    {
+      "id": "7d61af3250344120",
+      "source": "Akşam",
+      "title": "Aslan gülü İstanbul'da",
+      "summary": "G.Saray, 10 milyon euro bonservis bedeli karşılığında Porto'dan Deniz Gül'ü transfer etti. 22'lik futbolcu, dün İstanbul'a gelerek sağlık kontrolünden geçti.",
+      "link": "https://www.aksam.com.tr/spor/aslan-gulu-istanbulda/haber-1695147",
+      "published": "2026-09-01T21:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:42.690634+00:00"
+    },
+    {
+      "id": "cef827fb9b146b71",
+      "source": "Yeniçağ",
+      "title": "Bingöl'de 1 Eylül Dünya Barış Günü açıklaması",
+      "summary": "İHD Bingöl Şubesi öncülüğünde 1 Eylül Dünya Barış Günü dolayısıyla yapılan basın açıklamasında, Terörsüz Türkiye sürecine ilişkin, “Bu süreci, Türkiye&#039;nin onlarca yıllık çatışma tarihinden çıkması ve kalıcı toplumsal barışın inşa edilmesi bakımından son derece önemli görüyoruz” denildi.",
+      "link": "https://www.yenicaggazetesi.com/bingolde-1-eylul-dunya-baris-gunu-aciklamasi-1067488h.htm",
+      "published": "2026-09-01T21:07:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:44.259173+00:00"
+    },
+    {
+      "id": "f006befbaf930b12",
+      "source": "Yeniçağ",
+      "title": "SODEMSEN heyetinden Çankaya Belediyesi'ne ziyaret",
+      "summary": "Sosyal Demokrat Kamu İşverenleri Sendikası (SODEMSEN) heyeti, Çankaya Belediye Başkan Vekili Haldun Güler’i makamında ziyaret etti.",
+      "link": "https://www.yenicaggazetesi.com/sodemsen-heyetinden-cankaya-belediyesine-ziyaret-1067487h.htm",
+      "published": "2026-09-01T21:06:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:44.259211+00:00"
+    },
+    {
+      "id": "8ec2f2d426040245",
+      "source": "Star",
+      "title": "Soykırımcı İsrail'den Lübnan'a hava saldırısı: Savaş uçaklarıyla vurdular",
+      "summary": "İsrail savaş uçakları, Lübnan'ın güneyindeki Nebatiye bölgesinde Kefr Rumman beldesi ile Ali et-Tahir tepesini hedef aldı. Saldırılarda sığınak delici füzeler kullanıldı.",
+      "link": "https://www.star.com.tr/dunya/soykirimci-israilden-lubnana-hava-saldirisi-savas-ucaklariyla-vurdular-haber-2037550/",
+      "published": "2026-09-01T21:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:43.166081+00:00"
+    },
+    {
+      "id": "bfec8168e830c0bc",
+      "source": "CNBC-e",
+      "title": "Tüpraş'ta dikkat çeken satış: 6,16 milyar TL'lik işlem için tarih belli oldu",
+      "summary": "Koç Holding ve Temel Ticaret ve Yatırım, Tüpraş sermayesinin yaklaşık yüzde 0,83’üne karşılık gelen payları 6,16 milyar TL bedelle Merrill Lynch International’a satma kararı aldı.",
+      "link": "https://www.cnbce.com/borsa/tuprasta-dikkat-ceken-satis-616-milyar-tllik-islem-icin-tarih-belli-oldu-tuprasta-buyuk-islem-koc-holding-ve-ortagindan-dikkat-ceken-karar-h36314",
+      "published": "2026-09-01T21:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:53.702756+00:00"
+    },
     {
       "id": "cc97da190e14a5ce",
       "source": "Akşam",
@@ -358,6 +435,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T21:05:36.431395+00:00"
+    },
+    {
+      "id": "4e9d11b01133cd47",
+      "source": "Evrensel",
+      "title": "Kuşadası Kent Dayanışması: Hepimiz barış için bir aradayız",
+      "summary": "Kuşadası Kent Dayanışması’nın 1 Eylül Dünya Barış Günü ile ilgili açıklamasında, “Savaşa karşı barışı savunmak, aynı zamanda sermayenin sömürü ve talan düzenine karşı emeği savunmaktır. Hepimiz barış için bir aradayız” denildi.",
+      "link": "https://www.evrensel.net/haber/5998786/kusadasi-kent-dayanismasi-hepimiz-baris-icin-bir-aradayiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-01T21:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:40.944302+00:00"
     },
     {
       "id": "c1184231b499687b",
@@ -2349,6 +2437,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T19:45:36.313002+00:00"
+    },
+    {
+      "id": "1d42fb8762c8060c",
+      "source": "Habertürk",
+      "title": "Bugün Güzel filmi konusu ve oyuncuları",
+      "summary": "Mizah, aşk ve dostluk temalarını bir araya getiren Bugün Güzel filmi 1 Eylül akşamı televizyon ekranlarında sinemaseverlerin karşına çıkıyor. Yapımını TAFF Pictures’ın üstlendiği filmin yönetmen koltuğunda Mali Ergin oturuyor. Hikâyesi Oğuzhan Koç’a, senaryosu ise Aksel Bonfil’e ait olan Bugün Güzel, güçlü oyuncu kadrosuyla dikkat çekiyor. Filmin başrollerinde Oğuzhan Koç, Ayça Ayşin Turan, İbrahi",
+      "link": "https://www.haberturk.com/bugun-guzel-filmi-konusu-nedir-oyunculari-kimler-bugun-guzel-ne-zaman-nerede-cekildi-3909602",
+      "published": "2026-09-01T19:39:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T21:10:36.092418+00:00"
     },
     {
       "id": "8f56c8cec725571d",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T17:40:41.582379+00:00"
-    },
-    {
-      "id": "477d1734590638df",
-      "source": "Bir Gün",
-      "title": "Volkswagen Passat Eylül 2026 Fiyat Listesi Açıklandı!",
-      "summary": "Volkswagen Passat’ın 2026 model güncel fiyatları ne kadar? Passat Impression, Business, Elegance ve R-Line donanım paketleri kaç TL’den satılıyor? Yanıtlar haberimizde.",
-      "link": "https://www.birgun.net/haber/volkswagen-passat-eylul-2026-fiyat-listesi-aciklandi-732319",
-      "published": "2026-09-01T17:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T17:35:37.228639+00:00"
-    },
-    {
-      "id": "2b6e11297f924a03",
-      "source": "Yeniçağ",
-      "title": "SGK 180 bin liradan ev ve arsa satıyor: Detaylar belli oldu",
-      "summary": "Sosyal Güvenlik Kurumu Başkanlığı, mülkiyetinde bulunan 150’den fazla arsa, dükkan ve konutu açık artırma yöntemiyle satışa sunuyor. Elektronik ortamda gerçekleştirilecek ihaleler 21-25 Eylül 2026 tarihleri arasında yapılacak. Başvurular SGK Elektronik Satış Portalı üzerinden gerçekleştirilecek.",
-      "link": "https://www.yenicaggazetesi.com/sgk-180-bin-liradan-ev-ve-arsa-satiyor-detaylar-belli-oldu-1067413h.htm",
-      "published": "2026-09-01T17:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T17:30:58.312515+00:00"
-    },
-    {
-      "id": "5a5db7d23f12e748",
-      "source": "Independent Türkçe",
-      "title": "Türkiye: Rusya-Ukrayna savaşında gerilimin artmasından endişeliyiz",
-      "summary": "Türkiye'nin Birleşmiş Milletler (BM) Daimi Temsilcisi Büyükelçi Ahmet Yıldız, Rusya-Ukrayna savaşında diplomatik süreçteki çıkmazın devam etmesi nedeniyle gerilimin tırmanmasından endişe duyduklarını belirterek, iki ülke arasındaki müzakere sürecinin yeniden başlatılmasının önemine dikkat çekti. BM Genel Kurulu'nda Rusya-Ukrayna savaşındaki son gelişmelerin ele alındığı toplantıda konuşan Yıldız, ",
-      "link": "https://www.indyturk.com/node/781941/haber/t%C3%BCrkiye-rusya-ukrayna-sava%C5%9F%C4%B1nda-gerilimin-artmas%C4%B1ndan-endi%C5%9Feliyiz",
-      "published": "2026-09-01T17:29:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T19:31:04.493096+00:00"
-    },
-    {
-      "id": "fa8949b93da37890",
-      "source": "Independent Türkçe",
-      "title": "Türkiye, Rusya-Ukrayna savaşında gerilimin artmasından endişeliyiz",
-      "summary": "Türkiye'nin Birleşmiş Milletler (BM) Daimi Temsilcisi Büyükelçi Ahmet Yıldız, Rusya-Ukrayna savaşında diplomatik süreçteki çıkmazın devam etmesi nedeniyle gerilimin tırmanmasından endişe duyduklarını belirterek, iki ülke arasındaki müzakere sürecinin yeniden başlatılmasının önemine dikkat çekti. BM Genel Kurulu'nda Rusya-Ukrayna savaşındaki son gelişmelerin ele alındığı toplantıda konuşan Yıldız, ",
-      "link": "https://www.indyturk.com/node/781941/haber/t%C3%BCrkiye-rusya-ukrayna-sava%C5%9F%C4%B1nda-gerilimin-artmas%C4%B1ndan-endi%C5%9Feliyiz",
-      "published": "2026-09-01T17:29:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T17:35:46.834468+00:00"
-    },
-    {
-      "id": "f90893ab14e0b98d",
-      "source": "Star",
-      "title": "Türkiye, ABD ve Rusya'yı geride bıraktı! Savunma sanayiinde dev atılım: Bu yeni çağın merkezinde Ankara var",
-      "summary": "Yunanistan ve Türkiye'nin savunma sanayii alanında ortaya koyduğu performansı karşılaştıran Yunan basını ABD ve Rusya gibi büyük güçlerin yeni dünya düzenine ayak uyduramadığını ifade ederken, Türkiye'nin ise bu çağa damgasını vurduğunu aktardı. Amerikalıların yeni teknolojiler geliştirme konusunda geride kaldıkları ifade edilen haberde, Rusların ise, eski doktrinlere dayanan yıllarca süren eylems",
-      "link": "https://www.star.com.tr/dunya/turkiye-abd-ve-rusyayi-geride-birakti-savunma-sanayiinde-dev-atilim-bu-yeni-cagin-merkezin-haber-2037524/",
-      "published": "2026-09-01T17:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T17:30:56.658751+00:00"
-    },
-    {
-      "id": "a59a7830aa1b6e84",
-      "source": "Millî Gazete",
-      "title": "Cemal Enginyurt'un danışmanına fuhuş ve kara para tutuklaması",
-      "summary": "Ankara Cumhuriyet Başsavcılığı'nın yürüttüğü fuhuş ve kara para aklama soruşturmasında gözaltına alınan Yeni Parti İstanbul Milletvekili Cemal Enginyurt'un danışmanı Cem Tekinoğlu, çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi.",
-      "link": "https://www.milligazete.com.tr/cemal-enginyurtun-danismanina-fuhus-ve-kara-para-tutuklamasi",
-      "published": "2026-09-01T17:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T17:31:00.058298+00:00"
-    },
-    {
-      "id": "5285053396b4c854",
-      "source": "Yeni Şafak",
-      "title": "Lösemiyi yendi alkollü sürücünün kurbanı oldu: ODTÜ'lü gençten acı haber geldi",
-      "summary": "Çankaya'da, 2 yıllık zorlu tedaviyle lösemiyi yenen 23 yaşındaki ODTÜ öğrencisi Mert Doğan Aydın, maç izlemeye giderken ehliyetine daha önce el konulmuş alkollü bir sürücünün çarpması sonucu hayatını kaybetti. Kaçmaya çalışan sürücü esnaf ve kuryeler tarafından yakalandı.",
-      "link": "https://www.yenisafak.com/gundem/losemiyi-yendi-alkollu-surucunun-kurbani-oldu-odtulu-gencten-aci-haber-geldi-4852442",
-      "published": "2026-09-01T17:28:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T17:30:56.180144+00:00"
-    },
-    {
-      "id": "9f1106d8b0438c8e",
-      "source": "Serbestiyet",
-      "title": "İkinci Dünya Savaşı’ndan beri bir ilk: Almanya, Leipzig Havalimanı’nda drone saldırısı için Rusya’yı suçladı",
-      "summary": "Almanya, Leipzig/Halle Havalimanı’nda patlayıcı yüklü drone ile düzenlenmek istenen saldırının arkasında Rusya’nın olduğunu resmen açıkladı. İkinci Dünya Savaşı’ndan beri bir ilk: Almanya, Leipzig Havalimanı’nda drone saldırısı için Rusya’yı suçladı yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/haberler/ikinci-dunya-savasindan-beri-bir-ilk-almanya-leipzig-havalimaninda-drone-saldirisi-icin-rusyayi-sucladi-avrupa-alarma-gecti-247644/",
-      "published": "2026-09-01T17:28:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T17:35:46.682991+00:00"
-    },
-    {
-      "id": "d75007aac3fdd99b",
-      "source": "Serbestiyet",
-      "title": "İkinci Dünya Savaşı’ndan beri bir ilk: Almanya, Leipzig Havalimanı’nda drone saldırısı için Rusya’yı suçladı, Avrupa alarma geçti",
-      "summary": "Almanya, Leipzig/Halle Havalimanı’nda patlayıcı yüklü drone ile düzenlenmek istenen saldırının arkasında Rusya’nın olduğunu resmen açıkladı. İkinci Dünya Savaşı’ndan beri bir ilk: Almanya, Leipzig Havalimanı’nda drone saldırısı için Rusya’yı suçladı, Avrupa alarma geçti yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/haberler/ikinci-dunya-savasindan-beri-bir-ilk-almanya-leipzig-havalimaninda-drone-saldirisi-icin-rusyayi-sucladi-avrupa-alarma-gecti-247644/",
-      "published": "2026-09-01T17:28:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T17:31:07.316881+00:00"
     }
   ]
 }

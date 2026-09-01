@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-01T02:16:05.504414+00:00",
+  "last_updated": "2026-09-01T02:21:08.137345+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 589,
+  "new_items_this_run": 590,
   "items": [
+    {
+      "id": "23df8440614685f8",
+      "source": "Türkiye Gazetesi",
+      "title": "Kontrolden çıkan otomobil parti binasına girdi",
+      "summary": "Manisa'nın Soma ilçesinde Ö.A. isimli şahsın kullandığı otomobil, kontrolden çıkarak AK Parti Soma İlçe Başkanlığı'nın camını kırarak içeri girdi. Yaralı sürücü hastaneye kaldırılırken, araç freninin tutmadığını söylediği öğrenildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/kontrolden-cikan-otomobil-parti-binasina-carpti-1812964",
+      "published": "2026-09-01T02:18:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T02:20:44.742192+00:00"
+    },
     {
       "id": "85da67ff4904cd68",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-08-31T20:20:50.112759+00:00"
-    },
-    {
-      "id": "3a4482adde660c1c",
-      "source": "Gazete Pencere",
-      "title": "Ali Yüksel kimdir?",
-      "summary": "Yeniden Refah Partisi Konya Milletvekili Ali Yüksel, Meclis grubunun düşmemesi için Yeni Yol Partisi'ne katıldı.",
-      "link": "https://www.gazetepencere.com/siyaset/ali-yuksel-kimdir-713908h",
-      "published": "2026-08-31T20:15:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-08-31T20:15:48.981655+00:00"
     }
   ]
 }

@@ -1,12 +1,298 @@
 {
-  "last_updated": "2026-09-01T07:46:06.955803+00:00",
+  "last_updated": "2026-09-01T07:50:57.090081+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 611,
+  "new_items_this_run": 612,
   "items": [
+    {
+      "id": "0cb74847e06ed7fe",
+      "source": "Aydınlık",
+      "title": "Yargıtay'dan kira depozitosu kararı",
+      "summary": "Yargıtay, konutun satılması durumunda kiracının depozitosunu hangi taraftan talep edebileceğine ilişkin dikkat çeken bir karara imza attı. Karara göre kiracı, depozito bedelini eski ev sahibinden talep edebilir.",
+      "link": "https://www.aydinlik.com.tr/haber/yargitaydan-kira-depozitosu-karari-588462",
+      "published": "2026-09-01T07:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:43.753623+00:00"
+    },
+    {
+      "id": "2243abd43f5c5e13",
+      "source": "Yeniçağ",
+      "title": "Afyonkarahisar’da şüpheli araçtan 700 paket kaçak sigara çıktı",
+      "summary": "Afyonkarahisar’da kaçakçılıkla mücadele kapsamında polis ekiplerinin şüphe üzerine durdurduğu otomobilde 700 paket gümrük kaçağı sigara ele geçirildi. Olayla bağlantılı 1 şüpheli gözaltına alındı.",
+      "link": "https://www.yenicaggazetesi.com/afyonkarahisarda-supheli-aractan-700-paket-kacak-sigara-cikti-1067244h.htm",
+      "published": "2026-09-01T07:49:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.870434+00:00"
+    },
+    {
+      "id": "4f2014c01483a166",
+      "source": "Karar",
+      "title": "98.620 dekar tarım arazisinin su ihtiyacını karşılayacak! Iğdır’ın 50 yıllık rüyasından yeni görüntüler",
+      "summary": "Iğdır’ın 50 yıllık rüyasından yeni görüntüler geldi. Bölgedeki su sorunun çözmesi amaçlanan Ünlendi Barajı, 98.620 dekar tarım arazisinin su ihtiyacını karşılayacak.",
+      "link": "https://www.karar.com/guncel-haberler/98-620-dekar-tarim-arazisinin-su-ihtiyacini-karsilayacak-igdirin-50-2069308",
+      "published": "2026-09-01T07:49:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.535754+00:00"
+    },
+    {
+      "id": "d594c50ef1c791f9",
+      "source": "Akşam",
+      "title": "Yemen hükümeti duyurdu: DEAŞ'ın elebaşlarından Ensari öldürüldü",
+      "summary": "Yemen hükümeti yetkilileri, özel kuvvetlerle düzenlenen ortak operasyonda, terör örgütü DEAŞ'ın elebaşlarından Ebu Huzeyfe el-Ensari'nin öldürüldüğünü duyurdu.",
+      "link": "https://www.aksam.com.tr/dunya/yemen-hukumeti-duyurdu-deasin-elebaslarindan-ensari-olduruldu/haber-1694948",
+      "published": "2026-09-01T07:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:41.218564+00:00"
+    },
+    {
+      "id": "16f839b483475d3f",
+      "source": "Star",
+      "title": "30 yıllık cinayet çözüldü! Rapçi Tupac'ın katili belli oldu",
+      "summary": "ABD'li rapçi Tupac Shakur'un 1996'da öldürülmesine ilişkin görülen davada Duane Keith Davis, cinayetten suçlu bulundu.",
+      "link": "https://www.star.com.tr/dunya/30-yillik-cinayet-cozuldu-rapci-tupacin-katili-belli-oldu-haber-2037377/",
+      "published": "2026-09-01T07:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:41.995951+00:00"
+    },
+    {
+      "id": "b05e5cb283b483e8",
+      "source": "Gazete Pencere",
+      "title": "Cezaevindeki eşinden, Haluk Levent'e boşanma davası",
+      "summary": "Ahbap soruşturması kapsamında tutuklanan Haluk Levent'in, aynı soruşturmadan tutuklu bulunan eşi Nurdan Eriş'in Levent'e boşanma davası açtığı öğrenildi.",
+      "link": "https://www.gazetepencere.com/gundem/cezaevindeki-esinden-haluk-levente-bosanma-davasi-713946h",
+      "published": "2026-09-01T07:48:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:44.398532+00:00"
+    },
+    {
+      "id": "2fe1af5b34057229",
+      "source": "Karar",
+      "title": "İzmir’in mahalle ruhu “yeşil dönüşümle” canlanıyor",
+      "summary": "İzmir Büyükşehir Belediyesi, Çiğli Ahmet Efendi Mahallesi’nde atıl durumdaki bin metrekarelik alanı, çocuklardan yetişkinlere her yaştan yurttaşın kullanabileceği modern bir mahalle parkına dönüştürüyor. Çocuk oyun ve spor alanlarının yanı sıra oturma alanları, aydınlatması ve yeşil dokusuyla özel olarak tasarlanan parkın yapımında sona gelindi.",
+      "link": "https://www.karar.com/sehir-haberleri/izmirin-mahalle-ruhu-yesil-donusumle-canlaniyor-2069307",
+      "published": "2026-09-01T07:48:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.535800+00:00"
+    },
+    {
+      "id": "55116b211a9b16e6",
+      "source": "Yeniçağ",
+      "title": "Sivasspor, 1. Lig'de Mardin 1969 Spor'u ağırlayacak",
+      "summary": "Ekenler Beton Sivasspor, Trendyol 1. Lig’in 5. haftasında Mardin 1969 Spor’u sahasında ağırlayacak.",
+      "link": "https://www.yenicaggazetesi.com/sivasspor-1-ligde-mardin-1969-sporu-agirlayacak-1067243h.htm",
+      "published": "2026-09-01T07:48:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.870469+00:00"
+    },
+    {
+      "id": "5f552bab73db04d9",
+      "source": "Cumhuriyet",
+      "title": "Girne’de aramalar 3’üncü gününde: Gemi faciasında kaybolan 20 kişi aranıyor",
+      "summary": "KKTC’nin Girne açıklarında batan katamaran tipi yolcu gemisinde kaybolan 20 kişiyi arama çalışmaları üçüncü gününde sürüyor. Denizden, havadan ve karadan devam eden operasyona Türkiye’den gelen Sualtı Taarruz (SAT) komandoları da katıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/girne-de-aramalar-3-uncu-gununde-gemi-faciasinda-kaybolan-20-kisi-araniyor-2533977",
+      "published": "2026-09-01T07:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:37.017788+00:00"
+    },
+    {
+      "id": "8f6daf97bd97c937",
+      "source": "Akşam",
+      "title": "Emine Erdoğan, Kırgızistan'da lider eşleriyle buluştu",
+      "summary": "Başkan Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Kırgızistan Cumhurbaşkanı Sadır Caparov'un eşi Aygül Caparova'nın lider eşleri için düzenlediği programa katıldı.",
+      "link": "https://www.aksam.com.tr/guncel/emine-erdogan-kirgizistanda-lider-esleriyle-bulustu/haber-1694947",
+      "published": "2026-09-01T07:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:41.218598+00:00"
+    },
+    {
+      "id": "c362267be0b1ae56",
+      "source": "Star",
+      "title": "Bişkek'te lider eşleri buluştu! Emine Erdoğan Aygül Caparova'nın programında",
+      "summary": "Bişkek'te lider eşlerini buluşturan programda Türkiye'yi Emine Erdoğan temsil etti. Emine Erdoğan, Kırgızistan Cumhurbaşkanı Sadır Caparov'un eşi Aygül Caparova'nın ev sahipliğinde düzenlenen programa katıldı.",
+      "link": "https://www.star.com.tr/guncel/biskekte-lider-esleri-bulustu-emine-erdogan-aygul-caparovanin-programinda-haber-2037376/",
+      "published": "2026-09-01T07:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:41.995986+00:00"
+    },
+    {
+      "id": "c602686491e3ffc1",
+      "source": "Yeniçağ",
+      "title": "Avrupa borsaları Fransa hariç düşüşte",
+      "summary": "Avrupa borsalarında, tahvil piyasalarındaki satış baskısı ve İran kaynaklı jeopolitik gerilimlerin enflasyon endişelerini tetiklemesiyle Fransa hariç düşüş ile başladı.",
+      "link": "https://www.yenicaggazetesi.com/avrupa-borsalari-fransa-haric-dususte-1067189h.htm",
+      "published": "2026-09-01T07:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.870501+00:00"
+    },
+    {
+      "id": "141187ad0968370c",
+      "source": "Ekonomim",
+      "title": "Avrupa borsaları Fransa hariç negatif seyrediyor",
+      "summary": "Avrupa borsalarında, tahvil piyasalarındaki satış baskısı ve İran kaynaklı jeopolitik gerilimlerin enflasyon endişelerini tetiklemesiyle Fransa hariç negatif bir seyir izleniyor.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-fransa-haric-negatif-seyrediyor-haberi-915512",
+      "published": "2026-09-01T07:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:50.076861+00:00"
+    },
+    {
+      "id": "0254025141eb4f40",
+      "source": "Yeniçağ",
+      "title": "Dermatologlardan 'çilek bacak' uyarısı: Bilinçsiz peeling cilt bariyerine zarar veriyor",
+      "summary": "Halk arasında &#039;çilek bacak&#039; veya &#039;tavuk derisi&#039; olarak bilinen keratozis pilaris hakkında değerlendirmelerde bulunan Dermatoloji Uzmanı Uzm. Dr. Cüneyt Soyal, rastgele peeling ve bakım ürünlerinin cilde zarar verebileceği uyarısında bulunarak kişiye özel bakım protokollerinin önemine dikkat çekti.",
+      "link": "https://www.yenicaggazetesi.com/dermatologlardan-cilek-bacak-uyarisi-bilincsiz-peeling-cilt-bariyerine-zarar-veriyor-1067242h.htm",
+      "published": "2026-09-01T07:47:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.870540+00:00"
+    },
+    {
+      "id": "a309aaff3e8510fb",
+      "source": "Akşam",
+      "title": "Fenerbahçe-Beşiktaş derbisine doğru: Son 7 maçta ilginç istatistik",
+      "summary": "Fenerbahçe ile Beşiktaş arasında Trendyol Süper Lig'de oynanan son 7 derbide beraberlik çıkmadı.",
+      "link": "https://www.aksam.com.tr/spor/fenerbahce-besiktas-derbisine-dogru-son-7-macta-ilginc-istatistik/haber-1694946",
+      "published": "2026-09-01T07:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:41.218624+00:00"
+    },
+    {
+      "id": "88033eb6fdccc12e",
+      "source": "Gazete Pencere",
+      "title": "Polis aracında istismar: Ceza aldı mesleğe dönmek için itiraz etti",
+      "summary": "Ekip aracına aldığı çocuğu istismar eden ve 2 yıl 6 ay hapis cezasına çarptırılan polis, meslekten atılmasına itiraz etti.",
+      "link": "https://www.gazetepencere.com/gundem/polis-aracinda-istismar-ceza-aldi-meslege-donmek-icin-itiraz-etti-713945h",
+      "published": "2026-09-01T07:46:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:44.398567+00:00"
+    },
+    {
+      "id": "6c888fcd5a5ec4dd",
+      "source": "Karar",
+      "title": "Başkan Tugay: Ekmeğini denizden çıkaranlara bereketli bir sezon diliyorum",
+      "summary": "İzmirli balıkçılar dört aylık aranın ardından 1 Eylül itibarıyla “Vira Bismillah” diyerek yeniden denize açıldı. Sezonun ilk balıkları İzmir Büyükşehir Belediyesi Su Ürünleri Hali’nde tezgâhlarda yerini alırken, günün ilk ışıklarında balıkçı esnafıyla buluşan İzmir Büyükşehir Belediye Başkanı Dr. Cemil Tugay, sezonun ilk mezadına katıldı. Denizlerin korunması çağrısı yapan Başkan Tugay, “Ekmeğini ",
+      "link": "https://www.karar.com/sehir-haberleri/baskan-tugay-ekmegini-denizden-cikaranlara-bereketli-bir-sezon-diliyorum-2069306",
+      "published": "2026-09-01T07:46:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.535848+00:00"
+    },
+    {
+      "id": "fe8eac5dced614ab",
+      "source": "Yeniçağ",
+      "title": "25 yıl 5 ay hapis cezasıyla aranan firari İstanbul’da yakalandı",
+      "summary": "İstanbul’da farklı suçlardan hakkında toplam 25 yıl 5 ay kesinleşmiş hapis cezası bulunan ve mart ayından bu yana aranan A.A., polis ekiplerinin Gaziosmanpaşa’da düzenlediği çalışmayla yakalandı.",
+      "link": "https://www.yenicaggazetesi.com/25-yil-5-ay-hapis-cezasiyla-aranan-firari-istanbulda-yakalandi-1067240h.htm",
+      "published": "2026-09-01T07:46:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.870571+00:00"
+    },
+    {
+      "id": "4a05d42a4a353d2b",
+      "source": "Yeni Yaşam",
+      "title": "Mülkiye müfettişi Gülistan dosyasına dair çok sayıda bilgi ve belgeyi talep etti",
+      "summary": "Gülistan Doku dosyasına ilişkin Tunceli Cumhuriyet Başsavcılığı&#8217;na yazı gönderen mülkiye müfettişinin, soruşturmadaki görüntü ve ses kayıtlarından bilirkişi raporları, Rojwelat Kızmaz&#8217;ın telefon incelemeleri para hareketleri gibi çok sayıda bilgi ve belgeyi talep ettiği ortaya çıktı İçişleri Bakanlığı Mülkiye Müfettişliğinde görev yapan bir mülkiye müfettişinin, kaybettirilen Gülistan ",
+      "link": "https://yeniyasamgazetesi9.com/mulkiye-mufettisi-gulistan-dosyasina-dair-cok-sayida-bilgi-ve-belgeyi-talep-etti/",
+      "published": "2026-09-01T07:46:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:48.642054+00:00"
+    },
+    {
+      "id": "7af19f85ad0e9c72",
+      "source": "OdaTV",
+      "title": "KYK yurt ücretlerine yüzde 23,3 zam: Aylık 1590 TL oldu",
+      "summary": "KYK yurt ücretlerine yeni eğitim-öğretim dönemi öncesinde zam geldi. Aylık 1290 TL olan yurt ücreti 1590 TL’ye yükselirken öğrencilerin aylık ödemesi 300 TL arttı.",
+      "link": "https://www.odatv.com/guncel/kyk-yurt-ucretlerine-zam-aylik-ucret-1590-tl-oldu-120160944",
+      "published": "2026-09-01T07:46:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:44.639525+00:00"
+    },
+    {
+      "id": "a18a1b6dfc001bcf",
+      "source": "CNBC-e",
+      "title": "Deutsche Bank 2026 için uyardı: Yatırımcıları bekleyen 5 büyük risk",
+      "summary": "Deutsche Bank, 2026'da yatırımcılar açısından zorluk oluşturacak etkenlerini derledi. Bankaya göre, küresel ekonomi genel olarak güçlü kalırken jeopolitik gerilimler, ticaret anlaşmazlıkları, enflasyon, kamusal borçlar ve yapay zeka yatırımlarındaki oynaklık başlıkları öne çıktı.",
+      "link": "https://www.cnbce.com/piyasalar/deutsche-bank-2026-icin-uyardi-yatirimcilari-bekleyen-5-buyuk-risk-g36244",
+      "published": "2026-09-01T07:46:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:51.000963+00:00"
+    },
+    {
+      "id": "a7fc4d9ea02f65f0",
+      "source": "Yeniçağ",
+      "title": "Bakan Ersoy duyurdu: Diyarbakır’da 9 bin yıllık madencilik işliği bulundu",
+      "summary": "Diyarbakır’ın Çayönü Tepesi’nde yürütülen kazılarda, M.Ö. 6900–6800 yıllarına tarihlenen yaklaşık 5 metrekarelik bir madencilik işliği gün yüzüne çıkarıldı. Bakan Mehmet Nuri Ersoy, keşfin Çayönü’ndeki madencilik geleneğinin yaklaşık 2 bin yıl boyunca sürdüğünü ortaya koyduğunu söyledi.",
+      "link": "https://www.yenicaggazetesi.com/bakan-ersoy-duyurdu-diyarbakirda-9-bin-yillik-madencilik-isligi-bulundu-1067241h.htm",
+      "published": "2026-09-01T07:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.870605+00:00"
+    },
+    {
+      "id": "ee3a6e76dfecab90",
+      "source": "Aydınlık",
+      "title": "Kozmik odacı mı yoksa parselci mi daha şey",
+      "summary": "Kozmik odacı mı yoksa parselci mi daha şey",
+      "link": "https://www.aydinlik.com.tr/koseyazisi/kozmik-odaci-mi-yoksa-parselci-mi-daha-sey-588468",
+      "published": "2026-09-01T07:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:43.753654+00:00"
+    },
+    {
+      "id": "956f1b941eac1864",
+      "source": "Ekonomim",
+      "title": "Girne açıklarında gemi faciası: Kayıp 18 kişi için arama çalışmaları sürüyor",
+      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti&#039;nin (KKTC) Girne kenti açıklarında yolcu gemisinin alabora olması sonucu kaybolan 18 kişinin bulunması için denizden ve havadan arama çalışmaları aralıksız devam ediyor. Girne açıklarında alabora olan geminin battığı bölgede yoğunlaşan çalışmalara çok sayıda arama kurtarma ekibi katılıyor.",
+      "link": "https://www.ekonomim.com/gundem/girne-aciklarinda-gemi-faciasi-kayip-18-kisi-icin-arama-calismalari-suruyor-haberi-915510",
+      "published": "2026-09-01T07:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:50.076910+00:00"
+    },
+    {
+      "id": "9538c125448132d4",
+      "source": "CNBC-e",
+      "title": "17 yıl boyunca zarar etti: Victoria Beckham’ın şirketi ilk kez kâra geçti",
+      "summary": "Dünyaca ünlü eski İngiliz futbolcu David Beckham'ın eşi Victoria Beckham'ın moda ve güzellik şirketi yıllarca süren zararların ardından ilk kez faaliyet kârı elde ettiğini duyurdu.",
+      "link": "https://www.cnbce.com/haberler/17-yil-boyunca-zarar-etti-victoria-beckhamin-sirketi-ilk-kez-kara-gecti-g36245",
+      "published": "2026-09-01T07:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:51.001003+00:00"
+    },
+    {
+      "id": "9cfcb807bf3af8c5",
+      "source": "Karar",
+      "title": "135 Alo Adalet Hattı açıldı: Kimler, neden arayabilir? Şikayet, yeni dava başvurusu yapılabilir mi?",
+      "summary": "Adalet Bakanlığı'nın 1 Eylül'de devreye aldığı 135 Alo Adalet hattı ile 5 yılı aşan davalar ve 3 yılı geçen soruşturmalar için doğrudan bilgi alınabilecek.",
+      "link": "https://www.karar.com/guncel-haberler/135-alo-adalet-hatti-acildi-kimler-neden-arayabilir-sikayet-yeni-dava-2069305",
+      "published": "2026-09-01T07:45:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:42.535879+00:00"
+    },
     {
       "id": "3d83659c7bb4a342",
       "source": "ShiftDelete.Net",
@@ -294,6 +580,17 @@
       "fetched_at": "2026-09-01T07:45:47.966389+00:00"
     },
     {
+      "id": "39fc752f99b7fabe",
+      "source": "Serbestiyet",
+      "title": "DEM Parti’ye geçeceği iddia edilen Kani Torun, Yeni Yol’dan istifa etti; grubun düşmemesi için Yeniden Refah’tan Ali Yüksel Yeni Yol’a geçti",
+      "summary": "Bursa Milletvekili Kani Torun Yeni Yol Grubu'ndan istifa etti, grubun düşmemesi için Yeniden Refah'tan Ali Yüksel Yeni Yol'a geçti. Kani Torun'un DEM Parti'ye geçeceği iddia edildi. DEM Parti&#8217;ye geçeceği iddia edilen Kani Torun, Yeni Yol&#8217;dan istifa etti; grubun düşmemesi için Yeniden Refah&#8217;tan Ali Yüksel Yeni Yol&#8217;a geçti yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
+      "link": "https://serbestiyet.com/haberler/dem-partiye-gececegi-iddia-edilen-kani-torun-yeni-yoldan-istifa-etti-grubun-dusmemesi-icin-yeniden-refahtan-ali-yuksel-yeni-yola-gecti-247611/",
+      "published": "2026-09-01T07:41:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:47.604989+00:00"
+    },
+    {
       "id": "51199aada869ac57",
       "source": "Akşam",
       "title": "Putin ŞİÖ Zirvesi'nden seslendi: Elimizden geleni yapmalıyız",
@@ -382,6 +679,17 @@
       "fetched_at": "2026-09-01T07:40:52.403943+00:00"
     },
     {
+      "id": "86a28db9647e05ed",
+      "source": "Bir Gün",
+      "title": "Gecenin köründe gol yağmuru",
+      "summary": "Kabataş Füniküler İstasyonu'na doğru yürüyen kalabalıkta, önümde bir baba ve 8 - 9 yaşlarında kızı var. Baba şöyle dedi: \"Bakalım okul başladığında bu geç maçlara gelebilecek miyiz? Kızdan cevap geldi: \"Sorun değil baba. Sabah serviste uyuyorum...\" Ey yayıncı kuruluş! Duy bunları. Maç programlarını böyle abuk sabuk saatlere yapıyorsun. Takımlara da \"reklam - meklam\" gerekçeleriyle dikte ediyorsun.",
+      "link": "https://www.birgun.net/makale/gecenin-korunde-gol-yagmuru-732239",
+      "published": "2026-09-01T07:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494594+00:00"
+    },
+    {
       "id": "faf5306099aff1d7",
       "source": "Star",
       "title": "Ayowunmi Mama Omosuyi ilk golünü attı",
@@ -424,6 +732,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:40:56.882055+00:00"
+    },
+    {
+      "id": "f7c659cb6db96a91",
+      "source": "Bir Gün",
+      "title": "Arif Kocabıyık adliyeye sevk edildi: \"Nereye kaçacaktın?\" sorusuna yanıt verdi",
+      "summary": "Bir tırın dorsesinin altında yakalanan ve gözaltına alınan Arif Kocabıyık adliyeye getirildi. Gazetecilerin \"Nereye kaçacaktın?\" sorusuna Kocabıyık, \"Anamur\" diye yanıt verdi.",
+      "link": "https://www.birgun.net/haber/arif-kocabiyik-adliyeye-sevk-edildi-nereye-kacacaktin-sorusuna-yanit-verdi-732236",
+      "published": "2026-09-01T07:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494631+00:00"
     },
     {
       "id": "9cd536a0b5f42fd4",
@@ -512,6 +831,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:40:49.701081+00:00"
+    },
+    {
+      "id": "ee79da5d3985e501",
+      "source": "Bir Gün",
+      "title": "KANAL BELLİ OLDU! | Türkiye - Azerbaycan CEV Avrupa Şampiyonası Son 16 Maçı Ne Zaman, Saat Kaçta ve Hangi Kanalda?",
+      "summary": "Türkiye-Azerbaycan voleybol maçı ne zaman ve saat kaçta başlayacak? Filenin Sultanları’nın CEV Kadınlar Avrupa Şampiyonası son 16 turundaki karşılaşması hangi kanalda, şifresiz mi yayınlanacak? Yanıtlar haberimizde.",
+      "link": "https://www.birgun.net/haber/kanal-belli-oldu-turkiye-azerbaycan-cev-avrupa-sampiyonasi-son-16-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-731726",
+      "published": "2026-09-01T07:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494665+00:00"
     },
     {
       "id": "2ff27d72c7992276",
@@ -622,6 +952,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:35:41.865429+00:00"
+    },
+    {
+      "id": "a0a5132bec8938ef",
+      "source": "Bir Gün",
+      "title": "Pezeşkiyan'dan ABD'ye mesaj: \"Taahhütlerine dönerse biz de adım atarız\"",
+      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Washington yönetiminin geçici anlaşmadaki yükümlülüklerini yerine getirmesi halinde Tahran'ın buna karşılık vereceğini ifade etti.",
+      "link": "https://www.birgun.net/haber/pezeskiyan-dan-abd-ye-mesaj-taahhutlerine-donerse-biz-de-adim-atariz-732234",
+      "published": "2026-09-01T07:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494692+00:00"
     },
     {
       "id": "c61a288dd82fbe24",
@@ -776,6 +1117,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:35:38.601680+00:00"
+    },
+    {
+      "id": "7f69b01b14ece68f",
+      "source": "Habertürk",
+      "title": "AÖL ek sınav sonuçları açıklandı!",
+      "summary": "Açık Öğretim Lisesi 2025-2026 Eğitim Öğretim Yılı Ek Sınavı için süreç, 22 Ağustos’ta başladı ve 31 Ağustos’ta sona erdi. 2026 yılında bir yükseköğretim kurumuna yerleşen ancak liseden mezun olamayan öğrencilere yönelik düzenlenen sınavın sonuçlarının ne zaman açıklanacağı merak konusuydu. Milli Eğitm Bakanlığı (MEB) tarafından yayımlanan duyuru doğrultusunda AÖL ek sınav sonuçları 1 Eylül'de açık",
+      "link": "https://www.haberturk.com/aol-ek-sinav-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-2026-acik-lise-aol-ek-sinav-sonuclari-nasil-ve-nereden-ogrenilir-3909259",
+      "published": "2026-09-01T07:31:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:34.784425+00:00"
     },
     {
       "id": "582489d0177ef44a",
@@ -1020,6 +1372,17 @@
       "fetched_at": "2026-09-01T07:35:44.073840+00:00"
     },
     {
+      "id": "c482dc52342fedad",
+      "source": "Bir Gün",
+      "title": "Van’da depremden kalan mülkiyet sorunu: Depremzedeler 15 yıldır çözüm bekliyor",
+      "summary": "Van’da 2011 depreminde yıkılan 70 daireli sitenin hissedarları, yaklaşık 15 yıldır çözülemeyen mülkiyet sorunu nedeniyle mağdur olduklarını belirtti. Taşınmazın başka bir kuruma devredilmesi gündemdeyken hissedarlar, yeni bir mağduriyet yaşamak istemiyor.",
+      "link": "https://www.birgun.net/haber/vanda-depremden-kalan-mulkiyet-sorunu-depremzedeler-15-yildir-cozum-bekliyor-732233",
+      "published": "2026-09-01T07:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494723+00:00"
+    },
+    {
       "id": "e957050f0894a5ff",
       "source": "Halk TV",
       "title": "Bakan Gürlek duyurdu: 135 Alo Adalet Hattı devrede",
@@ -1095,6 +1458,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:31:04.353713+00:00"
+    },
+    {
+      "id": "9a07805be281758d",
+      "source": "Bir Gün",
+      "title": "Cansel Özkan’dan Akdeniz Oyunları’nda şampiyona rekoru",
+      "summary": "Türkiye, Taranto’da düzenlenen 20. Akdeniz Oyunları’nın 11. gününde halter ve atıcılıkta yedi madalya kazandı. Cansel Özkan, kadınlar 53 kilo koparmada şampiyona rekoru kırarak altın madalyaya ulaştı.",
+      "link": "https://www.birgun.net/haber/cansel-ozkandan-akdeniz-oyunlarinda-sampiyona-rekoru-732232",
+      "published": "2026-09-01T07:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494749+00:00"
     },
     {
       "id": "0165343bcd8a6766",
@@ -1449,6 +1823,17 @@
       "fetched_at": "2026-09-01T07:31:03.929895+00:00"
     },
     {
+      "id": "02445e98d65eaecd",
+      "source": "Bir Gün",
+      "title": "Hidayet Türkoğlu: \"Çocuklarımızla ne kadar gurur duysak az\"",
+      "summary": "İzlanda’yı deplasmanda 110-73 yenerek Dünya Kupası’na katılmayı garantileyen A Milli Erkek Basketbol Takımı’nı kutlayan TBF Başkanı Hidayet Türkoğlu, “Avrupa ikinciliğinin ardından yükselen grafiğimizi sekiz maçtır sürdürüyoruz” dedi.",
+      "link": "https://www.birgun.net/haber/hidayet-turkoglu-cocuklarimizla-ne-kadar-gurur-duysak-az-732229",
+      "published": "2026-09-01T07:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494776+00:00"
+    },
+    {
       "id": "46dc2da2adb50208",
       "source": "Akşam",
       "title": "Hidayet Türkoğlu: Bizim çocuklarla ne kadar gurur duysak",
@@ -1491,6 +1876,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:25:34.715372+00:00"
+    },
+    {
+      "id": "b1d5325dc67fbb9e",
+      "source": "Bir Gün",
+      "title": "ABD'de anket: Donald Trump'a destek geriledi",
+      "summary": "ABD'de yapılan bir ankette, katılımcıların yüzde 64'ü, ABD Başkanı Trump'ın performansından memnun olmadığını bildirdi.",
+      "link": "https://www.birgun.net/haber/abd-de-anket-donald-trump-a-destek-geriledi-732227",
+      "published": "2026-09-01T07:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494799+00:00"
     },
     {
       "id": "a35ca784c95e8fe4",
@@ -1623,6 +2019,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:20:52.062753+00:00"
+    },
+    {
+      "id": "d45d515bcd0a8b8b",
+      "source": "Bir Gün",
+      "title": "Yeryüzünün en sert taşlarından biri: Elmasın bilinmeyen bir özelliği keşfedildi",
+      "summary": "Hong Kong Üniversitesi’nden bilim insanları, elektrik üretmediği düşünülen elmasın ultra ince ve esnek bir membrana dönüştürüldüğünde mekanik hareketten voltaj üretebildiğini ortaya koydu. Araştırmacılar, bu özelliğin gelecekte kalp pili ve vücut içi sensörler gibi tıbbi cihazlarda kendi enerjisini üreten sistemlerin önünü açabileceğini belirtiyor.",
+      "link": "https://www.birgun.net/haber/yeryuzunun-en-sert-taslarindan-biri-elmasin-bilinmeyen-bir-ozelligi-kesfedildi-732230",
+      "published": "2026-09-01T07:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494834+00:00"
     },
     {
       "id": "9b746adbb3c37a8c",
@@ -1823,6 +2230,17 @@
       "fetched_at": "2026-09-01T07:45:35.716731+00:00"
     },
     {
+      "id": "f747e15e67f82675",
+      "source": "Hürriyet",
+      "title": "Adana'da 12'nci kattan düşüp hayatta kalan Ecrin, düştüğü noktada çocuklara pasta kesti",
+      "summary": "Adana'da apartmanın 12'nci katındaki pencereden düşerek ağır yaralanan ve gördüğü tedavinin ardından sağlığına kavuşan 14 yaşındaki Ecrin Deniz Karaca, hastanede kurduğu hayalini gerçekleştirdi. Ölümden döndüğü sitenin bahçesine masa kurduran Karaca, ihtiyaç sahibi çocuklarla bir araya gelerek pasta kesti ve oyuncak dağıttı.",
+      "link": "https://www.hurriyet.com.tr/gundem/adanada-12nci-kattan-dusup-hayatta-kalan-ecrin-dustugu-noktada-cocuklara-pasta-kesti-43291835",
+      "published": "2026-09-01T07:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.900334+00:00"
+    },
+    {
       "id": "01d7ce155d25f863",
       "source": "DW Türkçe",
       "title": "G20'de Rusya krizi: Avrupalılardan aile fotoğrafı resti",
@@ -1887,6 +2305,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:15:41.502418+00:00"
+    },
+    {
+      "id": "5d4a8457d6245e9e",
+      "source": "Hürriyet",
+      "title": "Ünlü oyuncu 85 yaşında abonelere özel sayfa açtı, bir ayda çuvalla para kazandı",
+      "summary": "Bir dönemin en ünlü pembe dizi yıldızlarından olan ünlü oyuncu 85 yaşında son zamanların modasına uymuş ve abonelere özel, sadece ödeme yaparak girilebilen bir platformda içerik paylaşmaya başlamıştı.",
+      "link": "https://www.hurriyet.com.tr/galeri-unlu-oyuncu-85-yasinda-abonelere-ozel-sayfa-acti-bir-ayda-cuvalla-para-kazandi-43290137",
+      "published": "2026-09-01T07:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.900363+00:00"
     },
     {
       "id": "ef834cf2994176f3",
@@ -2085,6 +2514,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:25:44.502109+00:00"
+    },
+    {
+      "id": "6ea6be1a0975e198",
+      "source": "Bir Gün",
+      "title": "Uzmanlardan ağır okul çantaları için kritik uyarı: Çocukların omurga sağlığını etkiliyor",
+      "summary": "Uzmanlar, okul çağındaki çocukların yanlış ve ağır çanta taşımasının sırt, bel, boyun ve omuz ağrılarına yol açabileceği uyarısında bulundu. Çantanın iki omuzla, sırta yakın taşınması ve gereksiz eşyaların çıkarılması önerildi.",
+      "link": "https://www.birgun.net/haber/uzmanlardan-agir-okul-cantalari-icin-kritik-uyari-cocuklarin-omurga-sagligini-etkiliyor-732226",
+      "published": "2026-09-01T07:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494864+00:00"
     },
     {
       "id": "45c4f259d14f0a61",
@@ -2294,6 +2734,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:15:38.792542+00:00"
+    },
+    {
+      "id": "f99cfc4f71f6cbdc",
+      "source": "Bir Gün",
+      "title": "AKOM tarih verdi: İstanbul için gök gürültülü sağanak uyarısı",
+      "summary": "AKOM'un raporuna göre, İstanbul'da cuma günü gök gürültülü sağanak bekleniyor. Kentte sıcaklıkların 28-30 derece aralığında seyredeceği öngörülüyor.",
+      "link": "https://www.birgun.net/haber/akom-tarih-verdi-istanbul-icin-gok-gurultulu-saganak-uyarisi-732225",
+      "published": "2026-09-01T07:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494889+00:00"
     },
     {
       "id": "0f372b2d80a50799",
@@ -2593,6 +3044,17 @@
       "fetched_at": "2026-09-01T07:05:44.552710+00:00"
     },
     {
+      "id": "dc03953963fbb416",
+      "source": "Bir Gün",
+      "title": "Nepal'de sel bilançosu ağırlaşıyor: Can kaybı 987'ye yükseldi",
+      "summary": "Nepal’in Çin sınırına yakın Rasuwa bölgesi ve çevresinde etkili olan sel felaketinde can kaybı 987’ye yükseldi. 583’ü yabancı uyruklu 3 bin 916 kişinin ise kayıp olduğu bildirildi. Bölgede 21 bin güvenlik personeliyle arama kurtarma çalışmaları sürüyor.",
+      "link": "https://www.birgun.net/haber/nepal-de-sel-bilancosu-agirlasiyor-can-kaybi-987-ye-yukseldi-732223",
+      "published": "2026-09-01T07:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494920+00:00"
+    },
+    {
       "id": "f923a4fa515d9f77",
       "source": "Yeniçağ",
       "title": "Fındık üreticisinden sıra dışı protesto: Yola çuvallarca fındık döktü",
@@ -2802,6 +3264,17 @@
       "fetched_at": "2026-09-01T07:15:38.792484+00:00"
     },
     {
+      "id": "0317ca850ee158b8",
+      "source": "Bir Gün",
+      "title": "İddia: Trump, İran'a sınırlı saldırılar düzenlenmesini değerlendiriyor",
+      "summary": "Tahran'ın radar ve füze kapasitesini tekrardan oluşturmasını önlemek gerekçesiyle CENTCOM tarafından hazırlanan saldırı planının ABD Başkanı Donald Trump'ın onayına sunulduğu belirtildi. Trump'ın, İran'a sınırlı saldırılar düzenlenmesini öngören planı değerlendirdiği iddia edildi.",
+      "link": "https://www.birgun.net/haber/iddia-trump-iran-a-sinirli-saldirilar-duzenlenmesini-degerlendiriyor-732222",
+      "published": "2026-09-01T06:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494950+00:00"
+    },
+    {
       "id": "4e3e482dcf1876ab",
       "source": "Akşam",
       "title": "MSK'da hedef yeniden Süper Lig",
@@ -2833,6 +3306,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:01:07.151730+00:00"
+    },
+    {
+      "id": "300db97f0a922568",
+      "source": "Bir Gün",
+      "title": "Brent petrol 91 doları aştı: Gerilim fiyatları yükseltti",
+      "summary": "Brent petrolün aralık vadeli varil fiyatı, bugün saat 09.45 itibarıyla kapanışa göre yüzde 3,1 artarak 91,13 dolar oldu. Aynı dakikalarda Batı Teksas türü (WTI) ham petrolün ekim vadeli varil fiyatı da 86,43 dolar olarak belirlendi.",
+      "link": "https://www.birgun.net/haber/brent-petrol-91-dolari-asti-gerilim-fiyatlari-yukseltti-732221",
+      "published": "2026-09-01T06:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.494978+00:00"
     },
     {
       "id": "1d0c2ccc70f67dfd",
@@ -3275,6 +3759,28 @@
       "fetched_at": "2026-09-01T06:50:46.618365+00:00"
     },
     {
+      "id": "a2a60500bededdc5",
+      "source": "Bir Gün",
+      "title": "Microsoft'un e-posta servisinde küresel aksaklık: Sorun kademeli olarak gideriliyor",
+      "summary": "Microsoft’un bulut altyapısında yaşanan teknik arıza, dünya genelinde milyonlarca kullanıcının e-posta gönderip almasını ve hesaplarına erişmesini engelledi. Şirket sistemlerin büyük ölçüde düzeldiğini açıklasa da bazı kullanıcılarda sorunlar sürüyor.",
+      "link": "https://www.birgun.net/haber/microsoft-un-e-posta-servisinde-kuresel-aksaklik-sorun-kademeli-olarak-gideriliyor-732218",
+      "published": "2026-09-01T06:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.495007+00:00"
+    },
+    {
+      "id": "3ca0ad591b3bf2c7",
+      "source": "Bir Gün",
+      "title": "Rapçi Tupac’ın cinayeti aydınlatıldı",
+      "summary": "ABD'li ünlü rapçi Tupac Shakur'un öldürülmesine ilişkin Las Vegas'taki bir mahkemede görülen davada çete lideri Davis, cinayetten hüküm yedi.",
+      "link": "https://www.birgun.net/haber/rapci-tupacin-cinayeti-aydinlatildi-732219",
+      "published": "2026-09-01T06:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.495030+00:00"
+    },
+    {
       "id": "d858cd7d10fca44d",
       "source": "Akşam",
       "title": "TÜBİTAK 660 personel alacak",
@@ -3383,6 +3889,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T06:50:39.669132+00:00"
+    },
+    {
+      "id": "5b87c5bb79fa5379",
+      "source": "Bir Gün",
+      "title": "Ergin Ataman: \"Gücümüzü gösteriyoruz\"",
+      "summary": "İzlanda’yı deplasmanda 110-73 mağlup ederek 2027 Dünya Kupası’na katılmayı garantileyen A Milli Erkek Basketbol Takımı’nda başantrenör Ergin Ataman, “Gücümüzü gösteriyoruz, bundan sonra da devam edeceğiz” dedi. TBF Başkanı Hidayet Türkoğlu ise oyuncular ve teknik ekiple gurur duyduklarını söyledi.",
+      "link": "https://www.birgun.net/haber/ergin-ataman-gucumuzu-gosteriyoruz-732220",
+      "published": "2026-09-01T06:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.495060+00:00"
     },
     {
       "id": "d6aecd5b26d1dc7c",
@@ -3504,6 +4021,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T07:31:08.905396+00:00"
+    },
+    {
+      "id": "2727f6b5392ccf92",
+      "source": "Bir Gün",
+      "title": "Deneyimli Gazeteci Şükran Soner yaşamını yitirdi",
+      "summary": "Deneyimli gazeteci Şükran Soner, bir süredir tedavi gördüğü hastanede bu sabah yaşamını yitirdi.",
+      "link": "https://www.birgun.net/haber/deneyimli-gazeteci-sukran-soner-yasamini-yitirdi-732217",
+      "published": "2026-09-01T06:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-01T07:50:39.495081+00:00"
     },
     {
       "id": "79ae920575b5574b",
@@ -4978,534 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T06:31:03.007257+00:00"
-    },
-    {
-      "id": "eac01df78f577904",
-      "source": "Yeni Şafak",
-      "title": "Ev sahiplerini ilgilendiren Yargıtay kararı: Depozito için yeni dönem başladı",
-      "summary": "Gaziantep'te evi satılan kiracının 300 dolarlık depozito talebini ele alan Yargıtay 3. Hukuk Dairesi, eski ev sahibinin depozitoyu yeni malike devrettiğini belgeyle kanıtlaması gerektiğine hükmetti.",
-      "link": "https://www.yenisafak.com/gundem/ev-sahiplerini-ilgilendiren-yargitay-karari-depozito-icin-yeni-donem-basladi-4852289",
-      "published": "2026-09-01T06:28:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:58.681007+00:00"
-    },
-    {
-      "id": "cd100a75c22367a0",
-      "source": "OdaTV",
-      "title": "Deniz yosunundan yenilebilir su kapsülü",
-      "summary": "Londra merkezli Notpla, tek kullanımlık plastik kirliliğine karşı deniz yosunundan üretilen, yenilebilir ve doğada tamamen çözünebilen su kapsülleri geliştirdi. Maraton ve festival gibi kitlesel etkinlikler için tasarlanan doğa dostu ambalaj, haftalar içinde yok oluyor.",
-      "link": "https://www.odatv.com/gastroda/deniz-yosunundan-yenilebilir-su-kapsulu-120160928",
-      "published": "2026-09-01T06:28:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:02.602561+00:00"
-    },
-    {
-      "id": "aba3f70f3a1571d6",
-      "source": "Euronews Türkçe",
-      "title": "Hong Kong'da halka arz olan Shein'in hisseleri, kargo vergileri ve İran maliyetleriyle düşüyor",
-      "summary": "ABD tarifeleri ve artan nakliye maliyetleri hızlı moda devinin kârlarını sıkıştırırken, Shein New York ve Londra’daki başarısız denemelerin ardından Hong Kong’da borsaya açıldı.",
-      "link": "http://tr.euronews.com/business/2026/09/01/hong-kongda-halka-arz-olan-sheinin-hisseleri-kargo-vergileri-ve-iran-maliyetleriyle-dusuyo",
-      "published": "2026-09-01T06:28:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:19.789568+00:00"
-    },
-    {
-      "id": "1f5ed1a4a244b640",
-      "source": "Bir Gün",
-      "title": "Altında gerileme: Fiyatlarda son durum ne?",
-      "summary": "Altının ons fiyatı, haftanın ikinci işlem gününde düşüşünü sürdürerek yüzde 0,3 geriledi ve 4 bin 437,10 dolara indi.",
-      "link": "https://www.birgun.net/haber/altinda-gerileme-fiyatlarda-son-durum-ne-732212",
-      "published": "2026-09-01T06:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:50:40.354871+00:00"
-    },
-    {
-      "id": "60ded152e8e70ef9",
-      "source": "Cumhuriyet",
-      "title": "TV yayın akışı 1 Eylül Salı! Bugün hangi kanalda ne var?",
-      "summary": "1 Eylül 2026 Salı günü televizyonda hangi dizilerin, filmlerin ve yarışma programlarının olduğu merak ediliyor. Kanal D, Star TV, Show TV, TRT 1, TV8 ve NOW TV yayın akışları belli oldu. İşte, 1 Eylül Salı günü ekranlara gelecek olan yapımlar...",
-      "link": "https://www.cumhuriyet.com.tr/tv-rehberi/tv-yayin-akisi-1-eylul-sali-bugun-hangi-kanalda-ne-var-2533938",
-      "published": "2026-09-01T06:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:52.886160+00:00"
-    },
-    {
-      "id": "bf27817d10c64dd0",
-      "source": "Akşam",
-      "title": "Bakan Gürlek duyurdu! Alo Adalet 135 hattı pilot illerde başlıyor",
-      "summary": "Adalet Bakanı Gürlek, \"2026-2027 Adli Yılı'na, vatandaşlarımızın adalete erişimini kolaylaştıracak yeni bir adımla başlıyor ve 135 Alo Adalet Hattı'nı hayata geçiriyoruz. Yeni adli yılın ilk günü olan bugün; saat 10.00 itibarıyla Ankara Batı, İzmir ve Kayseri adliyelerimizde pilot olarak hizmet vermeye başlayacak.\" paylaşımında bulundu.",
-      "link": "https://www.aksam.com.tr/guncel/bakan-gurlek-duyurdu-alo-adalet-135-hatti-pilot-illerde-basliyor/haber-1694920",
-      "published": "2026-09-01T06:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:57.733932+00:00"
-    },
-    {
-      "id": "fccf367b9d923bc3",
-      "source": "Türkiye Gazetesi",
-      "title": "Yargıda yeni dönem: Bugün 3 ilde başlıyor",
-      "summary": "Adalet Bakanı Akın Gürlek, \"135 Alo Adalet Hattı\"nı hayata geçirdiklerini duyurdu. Bakan Gürlek, \"Yeni adli yılın ilk günü olan bugün; saat 10.00 itibarıyla Ankara Batı, İzmir ve Kayseri adliyelerimizde pilot olarak hizmet vermeye başlayacak 135 Alo Adalet ile 5 yılı aşan dava dosyaları, 3 yılı aşan soruşturma dosyaları için vatandaşlarımız doğrudan başvuruda bulunabilecek.\" ifadelerini kullandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/adalet-bakani-duyurdu-135-alo-adalet-hatti-pilot-3-ilde-devreye-giriyor-1812989",
-      "published": "2026-09-01T06:27:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T07:40:45.383991+00:00"
-    },
-    {
-      "id": "e428b19707b1b54c",
-      "source": "Türkiye Gazetesi",
-      "title": "'Adalet Hattı', pilot 3 ilde devreye girdi!",
-      "summary": "Adalet Bakanı Akın Gürlek, \"135 Alo Adalet Hattı\"nı hayata geçirdiklerini duyurdu. Bakan Gürlek, \"Yeni adli yılın ilk günü olan bugün; saat 10.00 itibarıyla Ankara Batı, İzmir ve Kayseri adliyelerimizde pilot olarak hizmet vermeye başlayacak 135 Alo Adalet ile 5 yılı aşan dava dosyaları, 3 yılı aşan soruşturma dosyaları için vatandaşlarımız doğrudan başvuruda bulunabilecek.\" ifadelerini kullandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/adalet-bakani-duyurdu-135-alo-adalet-hatti-pilot-3-ilde-devreye-giriyor-1812989",
-      "published": "2026-09-01T06:27:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T07:25:36.979530+00:00"
-    },
-    {
-      "id": "7a0ec400321710de",
-      "source": "Türkiye Gazetesi",
-      "title": "'Adalet Hattı', pilot 3 ilde devreye giriyor!",
-      "summary": "Adalet Bakanı Akın Gürlek, \"135 Alo Adalet Hattı\"nı hayata geçirdiklerini duyurdu. Bakan Gürlek, \"Yeni adli yılın ilk günü olan bugün; saat 10.00 itibarıyla Ankara Batı, İzmir ve Kayseri adliyelerimizde pilot olarak hizmet vermeye başlayacak 135 Alo Adalet ile 5 yılı aşan dava dosyaları, 3 yılı aşan soruşturma dosyaları için vatandaşlarımız doğrudan başvuruda bulunabilecek.\" ifadelerini kullandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/adalet-bakani-duyurdu-135-alo-adalet-hatti-pilot-3-ilde-devreye-giriyor-1812989",
-      "published": "2026-09-01T06:27:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:55.096668+00:00"
-    },
-    {
-      "id": "a4928fa4f9069a80",
-      "source": "Habertürk",
-      "title": "DGS tercih sonuçları ne zaman açıklanacak?",
-      "summary": "DGS tercih sonuçları için araştırmalar başladı. Ön lisans programlarından mezun olup dört yıllık lisans programlarına geçiş yapmak isteyen adaylar, ÖSYM’nin yayımladığı kılavuz doğrultusunda tercih işlemlerini gerçekleştiriyor. Tercih listelerini oluşturup sisteme kaydedenler ise 2026 Dikey Geçiş Sınavı (DGS) tercih sonuçlarının açıklanacağı tarihi merak ediyor. Peki, DGS tercih sonuçları ne zaman",
-      "link": "https://www.haberturk.com/dgs-tercih-sonuc-tarihi-2026-osym-ile-dgs-tercih-sonuclari-ne-zaman-aciklanacak-hangi-tarihte-3909431",
-      "published": "2026-09-01T06:27:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T07:10:46.232018+00:00"
-    },
-    {
-      "id": "e243ee1d3e7d698c",
-      "source": "Ekonomim",
-      "title": "Yargıtay’dan kiracıları ve ev sahibini ilgilendiren emsal depozito kararı",
-      "summary": "Yargıtay, kiracının bulunduğu taşınmazın el değiştirmesi halinde depozito bedelinden kimin sorumlu olacağına ilişkin önemli bir karara imza attı. Kararda taşınmazın eski sahibinin depozito bedelini devretmesi gerektiğine hükmedildi.",
-      "link": "https://www.ekonomim.com/gundem/yargitaydan-kiracilari-ve-ev-sahibini-ilgilendiren-emsal-depozito-karari-haberi-915484",
-      "published": "2026-09-01T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:35:43.926758+00:00"
-    },
-    {
-      "id": "5ecc88572873e6a4",
-      "source": "Cumhuriyet",
-      "title": "Tupac Shakur cinayetinde 28 yıl sonra tarihi karar: Eski çete lideri suçlu bulundu",
-      "summary": "Rap müziğin efsane ismi Tupac Shakur'un 1996 yılında öldürülmesine ilişkin davada jüri, eski çete lideri Duane \"Keffe D\" Davis'i suçlu buldu. Şartlı tahliyesiz ömür boyu hapis cezasıyla karşı karşıya olan Davis'in ceza duruşması 13 Ekim'de görülecek.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/tupac-shakur-cinayetinde-28-yil-sonra-tarihi-karar-eski-cete-lideri-suclu-bulundu-2533937",
-      "published": "2026-09-01T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:52.886201+00:00"
-    },
-    {
-      "id": "a6151e9b6027c9e1",
-      "source": "Star",
-      "title": "NASA'nın merkezinde tarihi imza! Türkiye uzay yolculuğunda yeni bir döneme giriyor",
-      "summary": "Türkiye, küresel uzay yarışında tarihi bir adıma daha imza attı. Washington'daki NASA genel merkezinde düzenlenen törenle Artemis Anlaşmaları'na imza atan Türkiye, barışçıl uzay araştırmalarında yeni bir dönemin kapısını araladı. Tören sonrası açıklama yapan Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, 2027'nin ilk aylarında hibrit motora sahip bir uzay aracını Ay'a göndermeyi planladıklarını if",
-      "link": "https://www.star.com.tr/teknoloji/nasanin-merkezinde-tarihi-imza-turkiye-uzay-yolculugunda-yeni-bir-doneme-giriyor-haber-2037347/",
-      "published": "2026-09-01T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:58.907051+00:00"
-    },
-    {
-      "id": "e1ce672c9962b36e",
-      "source": "Yeni Akit",
-      "title": "Adalet Bakanı Gürlek duyurdu: 5 yılda karar veremeyen hakimler yandı",
-      "summary": "Adalet Bakanı Akın Gürlek, Alo 135 Adalet Hattı'nın bugün hizmete gireceğini söyledi. Bakan Gürlek, “5 yılı aşan dava dosyaları, 3 yılı aşan soruşturma dosyaları için vatandaşlarımız doğrudan başvuruda bulunabilecek” dedi.",
-      "link": "https://www.yeniakit.com.tr/haber/adalet-bakani-gurlek-duyurdu-5-yilda-karar-veremeyen-hakimler-yandi-2020396.html",
-      "published": "2026-09-01T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:59.474044+00:00"
-    },
-    {
-      "id": "124965b848a2dda6",
-      "source": "Bianet",
-      "title": "Tutuklu Bağımsız Maden-İş Başkanı: Binlerce çocuğun yüzü gülüyor, onun için cezaevinde yatmak onurdur",
-      "summary": "Bağımsız Maden-İş Sendikası Genel Başkanı Gökay Çakır, tutuklu bulunduğu Akhisar Süleymanlı Cezaevi’nden kaleme aldığı mektupta sendikal mücadeleye ilişkin mesajlar verdi. Çakır, “Yeter ki binlerce işçi kardeşimiz kazansın” derken, madencilere de bazı sendikalara karşı örgütlenme çağrısında bulundu.",
-      "link": "https://bianet.org/haber/tutuklu-bagimsiz-maden-is-baskani-binlerce-cocugun-yuzu-guluyor-onun-icin-cezaevinde-yatmak-onurdur-323014",
-      "published": "2026-09-01T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:03.220750+00:00"
-    },
-    {
-      "id": "3335bd25a99d18d4",
-      "source": "Habertürk",
-      "title": "Dün en çok hangi yapım izlendi?",
-      "summary": "Dünün reyting sonuçları 31 Ağustos 2026 listesi araştırılmaya başlandı. Dün akşam televizyon kanallarında birbirinden iddialı yapımlar yer aldı. ATV’de Altı Üstü İstanbul dizisi ile TV8’de MasterChef Türkiye yarışması yeni bölümleriyle izleyici karşısına çıktı. TRT 1’de İzlanda - Türkiye maçı basketbolseverlerle buluştu. Show TV’de Güldür Güldür Show programı ile Kanal D’de Daha 17 dizisi tekrar b",
-      "link": "https://www.haberturk.com/reyting-sonuclari-31-agustos-2026-izlanda-turkiye-maci-alti-ustu-istanbul-masterchef-abc1-ab-ve-total-siralamasi-ile-dun-en-cok-hangi-yapim-izlendi-3909422",
-      "published": "2026-09-01T06:26:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:55:26.601466+00:00"
-    },
-    {
-      "id": "b7b5e837b81e607e",
-      "source": "Habertürk",
-      "title": "Gürlek: 135 Alo Adalet Hattı erişime açıldı",
-      "summary": "Adalet Bakanı Gürlek, \"2026-2027 Adli Yılı’na, vatandaşlarımızın adalete erişimini kolaylaştıracak yeni bir adımla başlıyor ve 135 Alo Adalet Hattı’nı hayata geçiriyoruz. Yeni adli yılın ilk günü olan bugün; saat 10.00 itibarıyla Ankara Batı, İzmir ve Kayseri adliyelerimizde pilot olarak hizmet vermeye başlayacak 135 Alo Adalet ile; 5 yılı aşan dava dosyaları, 3 yılı aşan soruşturma dosyaları için",
-      "link": "https://www.haberturk.com/son-dakika-135-alo-adalet-hatti-erisime-acildi-3909443",
-      "published": "2026-09-01T06:26:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:35:28.474899+00:00"
-    },
-    {
-      "id": "485aa3980b405872",
-      "source": "Habertürk",
-      "title": "Bugün hangi maçlar var?",
-      "summary": "Maç programı 1 Eylül 2026 Salı günü oynanacak karşılaşmaları merak eden sporseverler tarafından araştırılıyor. Bugün Trendyol 1. Lig’de dört, İtalya Kupası’nda ise iki karşılaşma oynanacak. Voleybolda ise Filenin Sultanları çeyrek final için sahaya çıkacak. A Milli Kadın Voleybol Takımı, CEV Trendyol 2026 Kadınlar Avrupa Şampiyonası son 16 turunda Azerbaycan ile mücadele edecek. Türkiye - Azerbayc",
-      "link": "https://www.haberturk.com/mac-programi-1-eylul-2026-bugun-hangi-maclar-var-kimin-maci-var-saat-kacta-ve-hangi-kanalda-iste-bugunku-maclar-ve-baslangic-saatleri-3909428",
-      "published": "2026-09-01T06:26:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T07:00:54.850961+00:00"
-    },
-    {
-      "id": "61f416d0d0d357b0",
-      "source": "Karar",
-      "title": "Kurtuluş Günleri’nde “Günün Sonunda” grubu sahne aldı",
-      "summary": "Bozüyük Belediyesi tarafından ilçemizin düşman işgalinden kurtuluşunun 104. yıl dönümü dolayısıyla düzenlenen Kurtuluş Günleri Etkinlikleri, birbirinden güzel konser programlarıyla devam ediyor.",
-      "link": "https://www.karar.com/sehir-haberleri/kurtulus-gunlerinde-gunun-sonunda-grubu-sahne-aldi-2069283",
-      "published": "2026-09-01T06:26:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:59.777075+00:00"
-    },
-    {
-      "id": "fef92ca165a64b19",
-      "source": "LOG",
-      "title": "Ferrari ve Lamborghini’den sonra “Maserati” filmi geliyor",
-      "summary": "&#8220;Ferrari&#8221; ve &#8220;Lamborghini: The Man Behind the Legend&#8221; filmlerinin yapımcıları Andrea Iervolino ve Bobby Moresco, bu kez karşımıza &#8220;Maserati: The Brothers&#8221; filmiyle çıkacak. Henüz tarih verilmeyen ancak yakında yayımlanacağı belirtilen film, 1914’te kurulan ikonik markanın geçmişini anlatacak. İlk tanıtım fragmanını aşağıda izleyebileceğiniz film, Anthony Hopkins",
-      "link": "https://www.log.com.tr/ferrari-ve-lamborghiniden-sonra-maserati-filmi-geliyor/",
-      "published": "2026-09-01T06:26:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:15.351646+00:00"
-    },
-    {
-      "id": "e24d236f99dd2f0f",
-      "source": "Halk TV",
-      "title": "Pentagram’da deprem! Üç isim birden gruptan ayrıldı",
-      "summary": "Pentagram’da peş peşe yaşanan ayrılıklar deprem etkisi yarattı. Grubun üç üyesi, yaklaşık 3 ay önce netleşen görüş ayrılıkları nedeniyle yollarını ayırdıklarını duyurdu.",
-      "link": "https://halktv.com.tr/magazin/pentagramda-deprem-uc-isim-birden-gruptan-ayrildi-1052292h",
-      "published": "2026-09-01T06:26:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:03.007292+00:00"
-    },
-    {
-      "id": "6b74e2c928799c0a",
-      "source": "Evrensel",
-      "title": "Trump'tan Hürmüz Boğazı iddiası: Çok iyi durumda, günde 30 tanker geçiyor",
-      "summary": "ABD Başkanı Trump, ABD donanması eşliğinde Hürmüz Boğazı'ndan günde ortalama 30 petrol tankerinin geçtiğini iddia etti. Boğazdaki durumun çok iyi olduğunu savunan Trump, bu sayede petrol fiyatlarının yükselmediğini ifade etti.",
-      "link": "https://www.evrensel.net/haber/5998638/trump-tan-hurmuz-bogazi-iddiasi-cok-iyi-durumda-gunde-30-tanker-geciyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-01T06:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T07:30:56.230629+00:00"
-    },
-    {
-      "id": "b0b76001188e5174",
-      "source": "Evrensel",
-      "title": "Trump'tan Hürmüz Boğazı iddiası: Çok iyi durumda, günde 30 tanker geçiyor",
-      "summary": "ABD Başkanı Trump, ABD donanması eşliğinde Hürmüz Boğazı'ndan günde ortalama 30 petrol tankerinin geçtiğini iddia etti. Boğazdaki durumun çok iyi olduğunu savunan Trump, bu sayede petrol fiyatlarının yükselmediğini ifade etti.",
-      "link": "https://www.evrensel.net/haber/5998638/trumptan-hurmuz-bogazi-iddiasi-cok-iyi-durumda-gunde-30-tanker-geciyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-01T06:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:55:33.193699+00:00"
-    },
-    {
-      "id": "cd9aecc7beafd050",
-      "source": "Star",
-      "title": "Haydi Filenin Sultanları! Çeyrek final yolunda son maç",
-      "summary": "CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası son 16 turunda A Milli Kadın Voleybol Takımı, Azerbaycan ile karşı karşıya gelecek. Filenin Sultanları maçı kazanması halinde adını çeyrek finale yazdıracak. İşte detaylar...",
-      "link": "https://www.star.com.tr/spor/haydi-filenin-sultanlari-ceyrek-final-yolunda-son-mac-haber-2037346/",
-      "published": "2026-09-01T06:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:40:46.285846+00:00"
-    },
-    {
-      "id": "04f8260f0267db37",
-      "source": "Cumhuriyet",
-      "title": "Arsenal, Aston Villa'yı deplasmanda devirdi",
-      "summary": "İngiltere Premier Lig'in 2. haftasında Arsenal, deplasmanda Aston Villa'yı 1-0 mağlup etti.",
-      "link": "https://www.cumhuriyet.com.tr/spor/arsenal-aston-villa-yi-deplasmanda-devirdi-2533936",
-      "published": "2026-09-01T06:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:52.886225+00:00"
-    },
-    {
-      "id": "9c5952dc18dd896d",
-      "source": "Star",
-      "title": "Haydi Filenin Sultanları'nın! Çeyrek final yolunda son maç",
-      "summary": "CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası son 16 turunda A Milli Kadın Voleybol Takımı, Azerbaycan ile karşı karşıya gelecek. Filenin Sultanlar maçı kazanması halinde adını çeyrek finale yazdıracak.",
-      "link": "https://www.star.com.tr/spor/haydi-filenin-sultanlarinin-ceyrek-final-yolunda-son-mac-haber-2037346/",
-      "published": "2026-09-01T06:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:58.907090+00:00"
-    },
-    {
-      "id": "36be148b2c69016e",
-      "source": "Akşam",
-      "title": "Dünyanın peşinden koştuğu mor meyve! Türkiye'de hasadı başladı: Şekeri dengeliyor",
-      "summary": "Antioksidan zenginliği ve sağlık açısından sunduğu faydalarla son yıllarda dünya genelinde ilgi gören aronya meyvesinin Türkiye'de hasadı başladı. “Süper meyve” olarak da bilinen aronya; bağışıklık sisteminden kalp sağlığına kadar birçok alanda destekleyici özellikleriyle öne çıkıyor ve hücreleri yenilemesiyle biliniyor. İşte dünya pazarında kıymetli olan mor meyvenin faydaları…",
-      "link": "https://www.aksam.com.tr/mor-papatya/dunyanin-pesinden-kostugu-mor-meyve-turkiyede-hasadi-basladi-sekeri-dengeliyor/haber-1694919",
-      "published": "2026-09-01T06:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:35.541429+00:00"
-    },
-    {
-      "id": "dec2f630155f871d",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "FETÖ'nün \"güncel bilişim yapılanması\" soruşturmasında 10 gözaltı",
-      "summary": "Ankara Cumhuriyet Başsavcılığınca Fetullahçı Terör Örgütü'nün (FETÖ) \"güncel bilişim yapılanması\" içerisinde faaliyet gösterdikleri tespit edilen 13 şüpheliden 10'u gözaltına alındı.",
-      "link": "https://www.aa.com.tr/tr/gundem/fetonun-guncel-bilisim-yapilanmasi-sorusturmasinda-10-gozalti/4043272",
-      "published": "2026-09-01T06:25:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:52.609808+00:00"
-    },
-    {
-      "id": "aeac54f60a01ee0c",
-      "source": "Gerçek Gündem",
-      "title": "Bakan Gürlek Duyurdu: 135 Alo Adalet Hattı Erişime Açıldı",
-      "summary": "Bakan Gürlek: Vatandaşlarımızın adalet erişimini kolaylaştıran 135 Alo Adalet hattını bugün açıyoruz",
-      "link": "https://www.gercekgundem.com/gundem/bakan-gurlek-duyurdu-135-alo-adalet-hatti-erisime-acildi-577792",
-      "published": "2026-09-01T06:25:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:08.602233+00:00"
-    },
-    {
-      "id": "f1bc7c3da6e91e2e",
-      "source": "Yeni Şafak",
-      "title": "Tekirdağ'da jant üzerinde seyreden alkollü sürücü polise yakalandı",
-      "summary": "Tekirdağ Çorlu’da lastiği çıkmış jant üzerinde seyreden otomobil, Şehit Ahmet Çelenkoğlu Sokak yönüne tersten girdi. Lastiği çıkık aracı kaldırıma çıkararak park etmek isteyen sürücü bu sırada trafik polisine yakalandı. Sürücü E.A.’nin yapılan alkol kontrolünde 3,32 promil alkollü olduğu tespit edildi. Altı ay geçici süreyle ehliyetine el konulan sürücüye ceza kesildi. Sürücü E.A., ifadesi için po",
-      "link": "https://www.yenisafak.com/video/gundem/tekirdagda-jant-uzerinde-seyreden-alkollu-surucu-polise-yakalandi-4852288",
-      "published": "2026-09-01T06:25:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:58.681054+00:00"
-    },
-    {
-      "id": "81519cc95a10a3be",
-      "source": "Ekonomim",
-      "title": "Japonya ve ABD'den yen için ortak mesaj",
-      "summary": "Japonya Maliye Bakanı Satsuki Katayama, ABD Hazine Bakanı Scott Bessent ile temmuz ayında gerçekleştirilen ortak döviz müdahalesinin faydalı olduğu konusunda aynı görüşü paylaştıklarını söyledi. Katayama, iki ülkenin döviz piyasasında istikrarı sağlamak için koordinasyonu sürdürme konusunda da mutabık kaldığını belirtti.",
-      "link": "https://www.ekonomim.com/kuresel-ekonomi/japonya-ve-abdden-yen-icin-ortak-mesaj-haberi-915479",
-      "published": "2026-09-01T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:11.216493+00:00"
-    },
-    {
-      "id": "33e6ea7bac023ee1",
-      "source": "Star",
-      "title": "Uzayan davaları sonlandıracak uygulama! 135 Alo Adalet Hattı 3 ilde başladı",
-      "summary": "Adalet Bakanı Akın Gürlek, bugün saat 10.00 itibarıyla Ankara Batı, İzmir ve Kayseri adliyelerinde hizmete sunulacak Alo Adalet 135 hattının pilot hizmet vermeye başlayacağını duyurdu. Konuyla alakalı paylaşımda bulunan Bakan Gürlek, \"Yeni adli yılla birlikte başlattığımız bu pilot uygulamayı en kısa sürede Türkiye geneline yaygınlaştıracağız.\" dedi.",
-      "link": "https://www.star.com.tr/guncel/uzayan-davalari-sonlandiracak-uygulama-135-alo-adalet-hatti-3-ilde-basladi-haber-2037345/",
-      "published": "2026-09-01T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:35.955093+00:00"
-    },
-    {
-      "id": "2b5cd0030e3f97b4",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Swiss Life kar artışına rağmen 600 kişiyi işten çıkaracak",
-      "summary": "İsviçre'nin en büyük hayat sigortası sağlayıcısı ve önde gelen gayrimenkul yatırımcılarından Swiss Life, kar artışına rağmen verimliliği yükseltmek amacıyla 2028 yılı sonuna kadar yaklaşık 600 kişiyi işten çıkaracağını duyurdu.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/swiss-life-kar-artisina-ragmen-600-kisiyi-isten-cikaracak/4043270",
-      "published": "2026-09-01T06:24:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:35:30.846456+00:00"
-    },
-    {
-      "id": "810f3258a083ec67",
-      "source": "Evrensel",
-      "title": "Ünlü ev aletleri şirketi konkordato ilan etti",
-      "summary": "İstanbul merkezli 36 yıllık küçük ev aletleri üreticisi Avesta Ev Aletleri, mali darboğazı aşamayınca konkordato ilan etti. Geliri 2025'te yüzde 62 gerileyen şirket için mahkeme geçici mühlet kararı vererek 3 kişilik komiser heyeti atadı.",
-      "link": "https://www.evrensel.net/haber/5998632/unlu-ev-aletleri-sirketi-konkordato-ilan-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-01T06:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:40:42.928689+00:00"
-    },
-    {
-      "id": "7ddedfb240ac5c25",
-      "source": "Millî Gazete",
-      "title": "Spor haberleri: 1 Eylül 2026 gazetelerde futbol manşetleri",
-      "summary": "Günün spor manşetlerinde, spor gündemiyle alakalı en yeni gelişmeler yerlerini aldı. 1 Eylül 2026 tarihli gazetelerin spor sayfalarına, Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor'a dair haberlere, bir çırpıda göz atın. İşte 1 Eylül 2026 gazete manşetlerinde spor haberleri.",
-      "link": "https://www.milligazete.com.tr/foto-galeri/spor-haberleri-1-eylul-2026-gazetelerde-futbol-mansetleri",
-      "published": "2026-09-01T06:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:40:48.778985+00:00"
-    },
-    {
-      "id": "0da1489628c7db82",
-      "source": "Ekonomim",
-      "title": "Küresel tahvil getirileri 20 yılın zirvesine çıktı",
-      "summary": "Küresel tahvil piyasalarında satış baskısı güçlenirken, devlet tahvili getirileri yaklaşık 20 yılın en yüksek seviyesine ulaştı. Petrol fiyatlarındaki yükselişin enflasyon endişelerini artırması ve Fed&#039;in faiz artırımına gideceği beklentilerinin güçlenmesi, tahvil piyasalarındaki hareketin temel nedenleri arasında yer aldı.",
-      "link": "https://www.ekonomim.com/kuresel-ekonomi/kuresel-tahvil-getirileri-20-yilin-zirvesine-cikti-haberi-915480",
-      "published": "2026-09-01T06:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:11.216570+00:00"
-    },
-    {
-      "id": "ed89eaa8853e6bc9",
-      "source": "Ekonomim",
-      "title": "Çin imalat sektöründe 5 yılın en uzun büyüme serisi",
-      "summary": "Çin&#039;de özel sektör imalat faaliyeti ağustosta hızlanarak büyümesini dokuzuncu aya taşıdı. RatingDog Çin Genel İmalat PMI, temmuzdaki 50,9 seviyesinden ağustosta 51,5&#039;e yükseldi. Böylece sektör, son beş yılın en uzun kesintisiz genişleme dönemini kaydetti.",
-      "link": "https://www.ekonomim.com/kuresel-ekonomi/cin-imalat-sektorunde-5-yilin-en-uzun-buyume-serisi-haberi-915478",
-      "published": "2026-09-01T06:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:42.849644+00:00"
-    },
-    {
-      "id": "f2546badee53d593",
-      "source": "Karar",
-      "title": "Bornovalı minikler Lego Atölyesi’nde geleceği tasarladı",
-      "summary": "Bornova Belediyesi, çocukların eğlenerek öğrenmesini destekleyen projelerine bir yenisini daha ekledi. Mevlana Toplum Bilim Merkezi ve NE-DER iş birliğiyle gerçekleştirilen “6 Tuğla ile Hayalden Tasarıma” LEGO Atölyesi, dört haftalık macera dolu serüvenin ardından başarıyla tamamlandı. Çocuklar sadece 6 adet LEGO parçası kullanarak hayal güçlerinin sınırlarını zorladı.",
-      "link": "https://www.karar.com/sehir-haberleri/bornovali-minikler-lego-atolyesinde-gelecegi-tasarladi-2069282",
-      "published": "2026-09-01T06:23:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:36.606100+00:00"
-    },
-    {
-      "id": "3ce78e52851ef470",
-      "source": "Milliyet",
-      "title": "135 Alo Adalet Hattı devreye girdi! 3 ilde pilot uygulama başladı",
-      "summary": "HABER MERKEZİ- BakanGürlek, sosyal medya hesabından yaptığı paylaşımda, Cumhurbaşkanı Recep Tayyip Erdoğan’ın liderliğinde yargı hizmetlerinin daha erişilebilir, etkin ve hızlı hale getirilmesi amacıyla yeni adımlar atıldığını belirtti. 3 İLDE PİLOT UYGULAMA BAŞLADI Bakan Gürlek’in açıklamasına göre 135 Alo Adalet Hattı, 2026-2027 Adli Yılı’nın ilk günü olan 1 Eylül itibarıyla saat 10.00’da Ankara",
-      "link": "https://www.milliyet.com.tr/gundem/135-alo-adalet-hatti-devreye-girdi-3-ilde-pilot-uygulama-basladi-7651961",
-      "published": "2026-09-01T06:23:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:34.953168+00:00"
-    },
-    {
-      "id": "98d6003c2cc5b3e2",
-      "source": "Yeni Şafak",
-      "title": "Adalet için 'Alo 135': Uzayan davalar için başvuru artık bir telefon kadar uzakta",
-      "summary": "Adalet Bakanı Gürlek, vatandaşların yargı süreçleriyle ilgili başvurularını doğrudan iletebileceği “135 Alo Adalet” hattının bugün itibarıyla hizmet vermeye başladığını duyurdu. Yeni uygulama ilk aşamada Ankara Batı, İzmir ve Kayseri adliyelerinde hayata geçirilecek. Buna göre 5 yılı aşan dava dosyaları ile 3 yılı geçen soruşturma dosyaları için vatandaşlar “135 Alo Adalet” hattı üzerinden doğruda",
-      "link": "https://www.yenisafak.com/gundem/adalet-icin-alo-135-bakan-gurlek-hattin-bugun-hizmete-acilacagini-duyurdu-4852286",
-      "published": "2026-09-01T06:23:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:35:34.893161+00:00"
-    },
-    {
-      "id": "c626582249a7cbad",
-      "source": "Yeni Şafak",
-      "title": "Adalet için 'Alo 135': Bakan Gürlek hattın bugün hizmete açılacağını duyurdu",
-      "summary": "Adalet Bakanı Gürlek, vatandaşların yargı süreçleriyle ilgili başvurularını doğrudan iletebileceği “135 Alo Adalet” hattının bugün itibarıyla hizmet vermeye başladığını duyurdu. Yeni uygulama ilk aşamada Ankara Batı, İzmir ve Kayseri adliyelerinde hayata geçirilecek. Buna göre 5 yılı aşan dava dosyaları ile 3 yılı geçen soruşturma dosyaları için vatandaşlar “135 Alo Adalet” hattı üzerinden doğruda",
-      "link": "https://www.yenisafak.com/gundem/adalet-icin-alo-135-bakan-gurlek-hattin-bugun-hizmete-acilacagini-duyurdu-4852286",
-      "published": "2026-09-01T06:23:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:30:58.681097+00:00"
-    },
-    {
-      "id": "7f5a630de4abc39b",
-      "source": "Yeni Şafak",
-      "title": "Bakan Gürlek: Vatandaşlarımızın adalet erişimini kolaylaştıran 135 Alo Adalet hattını bugün açıyoruz",
-      "summary": "Adalet Bakanı Akın Gürlek: 2026-2027 Adli Yılı’na, vatandaşlarımızın adalete erişimini kolaylaştıracak yeni bir adımla başlıyor ve 135 Alo Adalet Hattı’nı hayata geçiriyoruz",
-      "link": "https://www.yenisafak.com/gundem/bakan-gurlek-vatandaslarimizin-adalet-erisimini-kolaylastiran-135-alo-adalet-hattini-bugun-aciyoruz-4852286",
-      "published": "2026-09-01T06:23:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:35.692428+00:00"
-    },
-    {
-      "id": "def0a923e02fd969",
-      "source": "Yeniçağ",
-      "title": "Müge Anlı 'Atatürk' deyince AK Partili Şadi Yazıcı kaçtı",
-      "summary": "Tuzla eski belediye başkanı Şadi Yazıcı&#039;nın oğlunun nikahında söz alan Müge Anlı, çifte &quot;Atatürkçü, çağdaş, laik; vatanımıza, milletimize hayırlı evlatlar yetiştirirsiniz&quot; dedi. Atatürk adını duyan Şadi Yazıcı, hızla Anlı&#039;nın yanından uzaklaştı.",
-      "link": "https://www.yenicaggazetesi.com/muge-anli-ataturk-deyince-ak-partili-sadi-yazici-kacti-1067199h.htm",
-      "published": "2026-09-01T06:23:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:37.004182+00:00"
-    },
-    {
-      "id": "e3f1db5ddafeac77",
-      "source": "Halk TV",
-      "title": "Petrol yükseldi Fed alarm verdi: Kriptoda dev alımlara rağmen risk çanları çalıyor",
-      "summary": "Kripto piyasası 2,66 trilyon dolarda tutunurken Bitcoin 77,4 ila 79,2 bin dolar bandında sıkıştı. Strategy’nin 4 bin 603 BTC’lik yeni alımına rağmen Brent petrolün 90 doları aşması ve Fed faiz beklentisi risk iştahını frenliyor.",
-      "link": "https://halktv.com.tr/ekonomi/1-eylul-2026-kripto-paralar-coinler-bitcoin-ethereum-artan-azalan-1052291h",
-      "published": "2026-09-01T06:22:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:38.420612+00:00"
-    },
-    {
-      "id": "402a677a3adb2502",
-      "source": "Gerçek Gündem",
-      "title": "Cumhurbaşkanı Erdoğan’dan Bişkek’te İlk Temas: Aliyev ile Görüştü",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Şanghay İşbirliği Örgütü Devlet Başkanları Zirvesi kapsamında bulunduğu Bişkek’te Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir araya geldi. Erdoğan, Aliyev ile konakladığı otelde baş başa görüştü.",
-      "link": "https://www.gercekgundem.com/gundem/cumhurbaskani-erdogandan-biskekte-ilk-temas-aliyev-ile-gorustu-577791",
-      "published": "2026-09-01T06:22:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:31:08.602276+00:00"
-    },
-    {
-      "id": "7e3ca64b6f1d5817",
-      "source": "Sabah",
-      "title": "SON DAKİKA: Adalet Bakanı Akın Gürlek: 135 Alo Adalet Hattı erişime açıldı",
-      "summary": "Adalet Bakanı Gürlek, \"2026-2027 Adli Yılı'na, vatandaşlarımızın adalete erişimini kolaylaştıracak yeni bir adımla başlıyor ve 135 Alo Adalet Hattı'nı hayata geçiriyoruz. Yeni adli yılın ilk günü olan... Devamı için tıklayınız",
-      "link": "https://haber.sabah.com.tr/son-dakika-adalet-bakani-akin-gurlek-135-alo-adalet-hatti-erisime-acildi-7652202",
-      "published": "2026-09-01T06:22:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:40:45.141319+00:00"
-    },
-    {
-      "id": "32f0e247cf09db7c",
-      "source": "Gazete Pencere",
-      "title": "Altında düşüş sürüyor: Eylül ayının ilk gününe baskı altında başladı!",
-      "summary": "Fed yetkililerinin temkinli mesajları ve ABD'den gelecek kritikleri istihdam verileri öncesinde altın fiyatları gerilemeye başladı. Ons altın 4 bin 440 dolar seviyesine çekilirken, gram altın iç piyasada 6 bin 885 liradan işlem görüyor.",
-      "link": "https://www.gazetepencere.com/ekonomi/altinda-dusus-suruyor-eylul-ayinin-ilk-gunune-baski-altinda-basladi-713929h",
-      "published": "2026-09-01T06:22:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:37.990774+00:00"
-    },
-    {
-      "id": "49ee68ce7deb17f2",
-      "source": "Karar",
-      "title": "Başkan Tamer Mandalinci’den 1 Eylül Dünya Barış Günü mesajı",
-      "summary": "Bodrum Belediye Başkanı Tamer Mandalinci, 1 Eylül Dünya Barış Günü dolayısıyla bir mesaj yayımladı.",
-      "link": "https://www.karar.com/sehir-haberleri/baskan-tamer-mandalinciden-1-eylul-dunya-baris-gunu-mesaji-2069281",
-      "published": "2026-09-01T06:22:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T06:25:36.606133+00:00"
     }
   ]
 }

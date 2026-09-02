@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-02T02:31:13.333705+00:00",
+  "last_updated": "2026-09-02T02:35:56.142640+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 583,
+  "new_items_this_run": 584,
   "items": [
+    {
+      "id": "653ac120ec4bbf36",
+      "source": "Türkiye Gazetesi",
+      "title": "Müşterinin gizlice fotoğrafını çeken eczacıya adli kontrol!",
+      "summary": "Ankara'da eczaneye gelen kadın müşterinin kıyafetinin altından gizlice fotoğrafını çektiği iddiasıyla gözaltına alınan eczacı, sevk edildiği adli makamlar tarafından adli kontrol şartıyla serbest bırakıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/musterinin-gizlice-fotografini-ceken-eczaciya-adli-kontrol-1813208",
+      "published": "2026-09-02T02:31:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T02:35:33.819721+00:00"
+    },
     {
       "id": "d6614d29c6dbfd4c",
       "source": "Halk TV",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-02T02:30:57.594936+00:00"
+    },
+    {
+      "id": "7781dfe731a5be2b",
+      "source": "Aydınlık",
+      "title": "Zeynep Sönmez, ABD Açık’a ilk turda veda etti",
+      "summary": "Milli tenisçi Zeynep Sönmez, ABD Açık’ın ilk turunda karşılaştığı ABD’li Coco Gauff’a 2-0 yenilerek turnuvadan elendi.",
+      "link": "https://www.aydinlik.com.tr/haber/zeynep-sonmez-abd-acika-ilk-turda-veda-etti-588579",
+      "published": "2026-09-02T02:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T02:35:40.299757+00:00"
     },
     {
       "id": "70347fddd7326161",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T20:01:01.828254+00:00"
-    },
-    {
-      "id": "d5fe40785f72efe9",
-      "source": "Gazete Pencere",
-      "title": "Galatasaray, Deniz Gül'ü transfer etti: Maliyeti belli oldu",
-      "summary": "Galatasaray, genç oyuncu Deniz Gül'le 5 yıllık sözleşme imzaladı.",
-      "link": "https://www.gazetepencere.com/spor/galatasaray-deniz-gulu-transfer-etti-maliyeti-belli-oldu-714044h",
-      "published": "2026-09-01T19:56:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T20:01:14.879594+00:00"
-    },
-    {
-      "id": "4c574fe0955b1369",
-      "source": "CNBC-e",
-      "title": "Chobani'den ABD'de dev hamle: 1,2 milyar dolarlık yatırımın detayları belli oldu",
-      "summary": "Chobani, ABD’nin Pensilvanya eyaletinde yaklaşık 1,2 milyar dolarlık yatırımla yeni üretim ve lojistik yerleşkesi kuracak. Beş yılda tamamlanması planlanan proje kapsamında 900’den fazla kişiye istihdam sağlanırken, şirketin ABD’deki toplam üretim yatırımı 4 milyar doların üzerine çıkacak.",
-      "link": "https://www.cnbce.com/dunya/chobaniden-abdde-dev-hamle-12-milyar-dolarlik-yatirimin-detaylari-belli-oldu-h36310",
-      "published": "2026-09-01T19:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T20:01:24.777679+00:00"
     }
   ]
 }

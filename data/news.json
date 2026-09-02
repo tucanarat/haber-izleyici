@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-02T01:16:06.837322+00:00",
+  "last_updated": "2026-09-02T01:21:00.850722+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 597,
+  "new_items_this_run": 598,
   "items": [
+    {
+      "id": "3aa3f4d1c52f16c6",
+      "source": "Türkiye Gazetesi",
+      "title": "AK Parti’de bayrak değişimi sürüyor!",
+      "summary": "AK Parti’de teşkilat yapılanmasında değişim sürüyor. Son olarak 4 ilde daha bayrak değişimi yaşanırken, geçen yıl yapılan 8. Olağan Kongre’den bu yana değişim yaşanan il sayısı 15’e yükseldi. İlçelerde de değişim devam ederken, şimdiye kadar 190’ı aşkın ilçe başkanlığında görev değişikliğine gidildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/ak-partide-bayrak-degisimi-suruyor-15-il-190dan-fazla-ilce-baskani-degisti-1813205",
+      "published": "2026-09-02T01:15:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T01:20:37.245130+00:00"
+    },
     {
       "id": "dac3da041131e122",
       "source": "Cumhuriyet",
@@ -336,6 +347,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-02T01:01:04.317350+00:00"
+    },
+    {
+      "id": "397319b8cd875356",
+      "source": "Finans Gündem",
+      "title": "Seferihisar Belediyesi soruşturmasında 1 şüpheli daha tutuklandı",
+      "summary": "İzmir'de Seferihisar Belediyesine yönelik yürütülen rüşvet soruşturması kapsamında gözaltına alınan 2 zanlıdan 1'i tutuklandı.",
+      "link": "https://www.finansingundemi.com/haber/seferihisar-belediyesi-sorusturmasinda-1-supheli-daha-tutuklandi/1906930",
+      "published": "2026-09-02T00:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T01:20:53.552000+00:00"
     },
     {
       "id": "635e3d289e10ad9c",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T19:35:41.949358+00:00"
-    },
-    {
-      "id": "d14612271bf20e34",
-      "source": "Habertürk",
-      "title": "KYK yurt sonuçları açıklandı mı?",
-      "summary": "KYK yurt başvuruları 25-29 Ağustos 2026 tarihleri arasında alındı. Başvuru sürecinin tamamlanmasının ardından 2026-2027 KYK yurt başvuru sonuçları için geri sayım başladı. Yeni eğitim öğretim dönemi öncesinde barınma ihtiyacını karşılamak isteyen üniversite öğrencileri, sonuçların ne zaman açıklanacağını, nereden ve nasıl sorgulanacağını merak ediyor. KYK yurt sonuçları tarihi ile ilgili Gençlik v",
-      "link": "https://www.haberturk.com/gsb-kyk-yurt-basvuru-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-2026-kyk-yurt-basvuru-sonuclari-nasil-ve-nereden-ogrenilir-3909457",
-      "published": "2026-09-01T19:31:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T20:05:30.864133+00:00"
-    },
-    {
-      "id": "8fda418efe832976",
-      "source": "Gazete Pencere",
-      "title": "Ayşe kadın fasulyenin fiyatı katlandı: Kış gelmeden bozulmadan saklamanın yolu",
-      "summary": "Ayşe kadın fasulyeyi saklamanın en doğru yolu. İşte bilmeniz gereken tüyolar:",
-      "link": "https://www.gazetepencere.com/gozden-kacmasin/ayse-kadin-fasulyenin-fiyati-katlandi-kis-gelmeden-bozulmadan-714042h",
-      "published": "2026-09-01T19:31:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T19:35:45.470149+00:00"
     }
   ]
 }

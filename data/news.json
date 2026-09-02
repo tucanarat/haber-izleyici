@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-09-02T20:01:25.985992+00:00",
+  "last_updated": "2026-09-02T20:05:59.565324+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 595,
+  "new_items_this_run": 590,
   "items": [
+    {
+      "id": "aedee742c44e0ac8",
+      "source": "DonanımHaber",
+      "title": "OpenAI’ın yeni modeli Astra, şirketi korkutuyor: Her yere sızabiliyor",
+      "summary": "OpenAI, siber güvenlikte ileri yeteneklere sahip Astra modelini yayınlamadan önce ek güvenlik önlemleri alıyor. Model, insan müdahalesi olmadan açık bulup istismar edebiliyor.",
+      "link": "https://www.donanimhaber.com/openai-in-astra-modeli-sirketi-korkuyor-her-yere-sizabiliyor--210024",
+      "published": "2026-09-02T20:03:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T20:05:56.227570+00:00"
+    },
+    {
+      "id": "5dce04f464970c2a",
+      "source": "Cumhuriyet",
+      "title": "Trump’tan İran’a yeni saldırı tehdidi: 'İstediğimiz zaman vurabiliriz'",
+      "summary": "ABD Başkanı Donald Trump, İran’a yönelik saldırıların yeniden düzenlenebileceğini belirterek, “İstedikleri zaman” İran’a saldırmaya hazır olduklarını söyledi. Trump ayrıca Hürmüz Boğazı’nın kontrolünün ABD’de olduğunu savundu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-iran-a-yeni-saldiri-tehdidi-istedigimiz-zaman-vurabiliriz-2534438",
+      "published": "2026-09-02T20:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T20:05:33.267644+00:00"
+    },
+    {
+      "id": "94e788b550caf2de",
+      "source": "Yeni Şafak",
+      "title": "Firari FETÖ hükümlüsü operasyonla yakalandı",
+      "summary": "Gaziantep’te, FETÖ üyesi olmak suçundan hakkında 6 yıl 3 ay kesinleşmiş hapis cezası bulunan firari hükümlü yakalandı. Cumhuriyet Başsavcılığı koordinesinde yürütülen çalışmada Terörle Mücadele ekiplerince yakalanan hükümlü, işlemlerinin ardından cezaevine teslim edildi.",
+      "link": "https://www.yenisafak.com/gundem/firari-feto-hukumlusu-operasyonla-yakalandi-4852738",
+      "published": "2026-09-02T20:02:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T20:05:39.550627+00:00"
+    },
+    {
+      "id": "1f69225ced3014d3",
+      "source": "DonanımHaber",
+      "title": "Merakla beklenen Harry Potter dizisinden yeni fragman geldi",
+      "summary": "Harry Potter efsanesi bu kez de TV ekranlarına geliyor. HBO, bu yıl bitmeden izleyicilere sunacağı Harry Potter dizisinin yeni fragmanını yayınladı. Merakla beklenen dizi 25 Aralık'ta geliyor!",
+      "link": "https://www.donanimhaber.com/harry-potter-dizisinden-yeni-fragman-geldi--210039",
+      "published": "2026-09-02T20:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T20:05:56.227344+00:00"
+    },
     {
       "id": "606495c4ceeb2767",
       "source": "Yeni Yaşam",
@@ -74,6 +118,17 @@
       "fetched_at": "2026-09-02T20:01:13.415853+00:00"
     },
     {
+      "id": "b1e55efdceb889a6",
+      "source": "Aydınlık",
+      "title": "Şanlıurfa'da dev kaçakçılık operasyonu",
+      "summary": "Şanlıurfa&#039;da jandarma ekiplerince düzenlenen operasyonda piyasa değeri yaklaşık 2 milyon lira olan kaçak sigara ve tütün ele geçirildi.",
+      "link": "https://www.aydinlik.com.tr/haber/sanliurfada-dev-kacakcilik-operasyonu-588695",
+      "published": "2026-09-02T20:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T20:05:42.677997+00:00"
+    },
+    {
       "id": "b2bcbcf5718753da",
       "source": "Yeni Akit",
       "title": "Dünya liderliği kılıfıyla coğrafyayı parselleme şovuna kalkıştı! Trump’tan Hürmüz Boğazı için skandal \"Trump Boğazı\" şovu!",
@@ -105,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-02T20:01:09.383509+00:00"
+    },
+    {
+      "id": "95c59cbdf769f14f",
+      "source": "Aydınlık",
+      "title": "Milli sporcu Altan Doğan Akdeniz Oyunları şampiyonu oldu",
+      "summary": "Milli cimnastikçi Altan Doğan, 20. Akdeniz Oyunları paralel aleti finalinde 14.000 puan alarak altın madalyanın sahibi oldu.",
+      "link": "https://www.aydinlik.com.tr/haber/milli-sporcu-altan-dogan-akdeniz-oyunlari-sampiyonu-oldu-588698",
+      "published": "2026-09-02T19:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T20:05:42.678033+00:00"
     },
     {
       "id": "c2e95036fb7bf637",
@@ -259,6 +325,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-02T19:55:40.854501+00:00"
+    },
+    {
+      "id": "6f834e6e95f8279a",
+      "source": "Aydınlık",
+      "title": "TikTok paylaşımları iki fenomene soruşturma getirdi! Cansum Kaya ve Sinan Kaya gözaltına alındı",
+      "summary": "Sosyal medya fenomenleri Cansum Kaya ve Sinan Kaya, TikTok paylaşımları nedeniyle halkı kin ve düşmanlığa tahrik suçundan gözaltına alındı.",
+      "link": "https://www.aydinlik.com.tr/haber/tiktok-paylasimlari-iki-fenomene-sorusturma-getirdi-cansum-kaya-ve-sinan-kaya-gozaltina-alindi-588697",
+      "published": "2026-09-02T19:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T20:05:42.678101+00:00"
     },
     {
       "id": "e3109ab69628b799",
@@ -5332,6 +5409,17 @@
       "fetched_at": "2026-09-02T16:25:41.917005+00:00"
     },
     {
+      "id": "9f79b9303a70a156",
+      "source": "BBC News Türkçe",
+      "title": "Batan feribotun ardından Kıbrıs'ın kuzeyinde ulaştırma bakanı görevden alındı",
+      "summary": "Kıbrıs'ın kuzeyindeki Türk yönetimi, 30 Ağustos Pazar günü Girne açıklarında batan feribottaki bir kişinin daha cenazesine ulaşıldığını duyurdu, Bayındırlık ve Ulaştırma Bakanı Erhan Arıklı görevden alındı.",
+      "link": "https://www.bbc.com/turkce/articles/clye4w3ll51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-02T16:24:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T20:05:58.861994+00:00"
+    },
+    {
       "id": "8268cba37bb384ce",
       "source": "Ekonomim",
       "title": "Üsküdar Belediye Başkanvekililği seçiminin yenileneceği tarih belli oldu",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-02T16:25:31.783588+00:00"
-    },
-    {
-      "id": "6c3d6a4807d24fe6",
-      "source": "Yeni Akit",
-      "title": "Terör örgütü YPG/SDG paçavraya döndü! Şam yönetimi Haseke'ye tekbirlerle girdi, YPG sevdalısı Namık Durukan içerledi!",
-      "summary": "Suriye İçişleri Bakanlığı’na bağlı İç Güvenlik güçleri, onlarca konvoyluk dev birlikle kent merkezine gövde gösterisi yaparak girdi. Askerlerin tekbirler getirerek ve İslami simgelerle şehre girmesi, bölgedeki terör uzantılarını ve YPG sevdalısı gazeteci Namık Durukan gibilerini adeta yasa boğdu.",
-      "link": "https://www.yeniakit.com.tr/haber/teror-orgutu-ypgsdg-pacavraya-dondu-sam-yonetimi-hasekeye-tekbirlerle-girdi-ypg-sevdalisi-namik-durukan-icerledi-2020647.html",
-      "published": "2026-09-02T16:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T16:20:50.930448+00:00"
-    },
-    {
-      "id": "c75ba36625d3a1db",
-      "source": "Evrensel",
-      "title": "Almanya'da Leipzig-Halle Havalimanı'ndaki İHA saldırısı girişiminde 2 şüpheli belirlendi",
-      "summary": "Almanya'da Leipzig-Halle Havalimanı'nda Ukrayna'ya ait bir kargo uçağına yönelik gerçekleştirildiği öne sürülen İHA saldırısı girişimiyle ilgili Rusya ile bağlantılı olduğu iddia edilen 2 şüphelinin belirlendiği bildirildi.",
-      "link": "https://www.evrensel.net/haber/5998911/almanya-da-leipzig-halle-havalimani-ndaki-iha-saldirisi-girisiminde-2-supheli-belirlendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-02T16:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T16:40:45.926069+00:00"
-    },
-    {
-      "id": "798c5f3177e3b7e7",
-      "source": "Cumhuriyet",
-      "title": "Silivri gemi kazasında son durum ne? Kayıp 10 denizci bulundu mu?",
-      "summary": "İstanbul Silivri açıklarında iki Türk bayraklı ticari geminin çarpışması sonucu Tuğberk İmamoğlu isimli kuru yük gemisi battı. Peki, Silivri gemi kazasında son durum ne? Kayıp 10 denizci bulundu mu?",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/silivri-gemi-kazasinda-son-durum-ne-kayip-10-denizci-bulundu-mu-2534390",
-      "published": "2026-09-02T16:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T16:20:38.889837+00:00"
-    },
-    {
-      "id": "93a1d0ca0e4d5c3e",
-      "source": "Yeniçağ",
-      "title": "Antalyaspor aradığı golcüyü buldu: Nuno da Costa imzayı attı",
-      "summary": "Trendyol 1. Lig ekiplerinden Antalyaspor, uzun süredir devam eden forvet arayışını sonuçlandırdı. Akdeniz ekibi, Başakşehir’den Nuno da Costa’yı kadrosuna kattığını açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/antalyaspor-aradigi-golcuyu-buldu-nuno-da-costa-imzayi-atti-1067758h.htm",
-      "published": "2026-09-02T16:17:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T16:20:52.054127+00:00"
-    },
-    {
-      "id": "6af7ba93f930eb20",
-      "source": "Ekonomim",
-      "title": "Bahçeli: Amedspor araştırması bölücülük ihanetini zinde tutmaya çalışmaktadır",
-      "summary": "Milliyetçi Hareket Partisi Genel Başkanı Devlet Bahçeli, Kürt Çalışmaları Merkezi (KSC) ile Rawest Araştırma işbirliği ve Friedrich-Ebert-Stiftung tarafından yürütülen “Kürtlerde Amedspor Algısı ve Taraftarlığı” başlıklı araştırmaya tepki gösterdi.",
-      "link": "https://www.ekonomim.com/gundem/bahceli-amedspor-arastirmasi-boluculuk-ihanetini-zinde-tutmaya-calismaktadir-haberi-915841",
-      "published": "2026-09-02T16:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T16:21:02.000789+00:00"
-    },
-    {
-      "id": "4f467df3f55e5c41",
-      "source": "Sözcü",
-      "title": "KKTC'li Bakan'dan Türkiye'de örneğine ender rastlanacak karar",
-      "summary": "KKTC'li Bakan'dan Türkiye'de örneğine ender rastlanacak karar",
-      "link": "https://www.sozcu.com.tr/kktcli-bakandan-turkiyede-ornegine-ender-rastlanacak-karar-p354846",
-      "published": "2026-09-02T16:16:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T18:50:45.643078+00:00"
-    },
-    {
-      "id": "e8a3602b159b04c3",
-      "source": "Yeniçağ",
-      "title": "Avrupa ülkesi kapılarını açtı: Türkiye’den işçi alacak, maaş 235 bin lira",
-      "summary": "Hollanda 4.200 avroya varan net maaşla Türkiye&#039;den işçi alımına başladı. Öte yandan hızlı oturum izni de veriliyor. İşte detaylar…",
-      "link": "https://www.yenicaggazetesi.com/avrupa-ulkesi-kapilarini-acti-turkiyeden-isci-alacak-maas-235-bin-lira-1067757h.htm",
-      "published": "2026-09-02T16:16:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T16:20:52.054157+00:00"
-    },
-    {
-      "id": "586ae2aa673cad8e",
-      "source": "Milliyet",
-      "title": "MHP Lideri Bahçeli: Yöneticileri tedbir almaya davet ediyoruz",
-      "summary": "MHP Lideri Bahçeli'den Terörsüz Türkiye mesajı: Son günlerde hedef kitlesi farklı olsa da maksadı aynı olan, emperyalizmin kuklası sözde araştırmacılar tarafından terörsüz Türkiye’nin oluşturduğu barış ve kardeşlik iklimini zehirlemeye dönük girişimler dikkat çekicidir. Kürt Çalışmaları Merkezi (KSC) ile Rawest Araştırma işbirliği ve Friedrich-Ebert-Stiftung’un desteğiyle yürütülen çalışma olduğu ",
-      "link": "https://www.milliyet.com.tr/gundem/mhp-lideri-bahceli-yoneticileri-tedbir-almaya-davet-ediyoruz-7653084",
-      "published": "2026-09-02T16:16:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T16:20:44.053622+00:00"
     }
   ]
 }

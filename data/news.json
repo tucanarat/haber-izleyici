@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-02T03:01:26.028363+00:00",
+  "last_updated": "2026-09-02T03:05:55.731122+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 585,
+  "new_items_this_run": 584,
   "items": [
+    {
+      "id": "de497ae97e8ef07b",
+      "source": "Yeni Akit",
+      "title": "Aydın'da zincirleme kaza",
+      "summary": "Aydın'ın Söke ilçesinde motosiklet ile iki otomobilin karıştığı zincirleme trafik kazasında 1 kişi öldü, 1 kişi yaralandı.",
+      "link": "https://www.yeniakit.com.tr/haber/aydinda-zincirleme-kaza-2020528.html",
+      "published": "2026-09-02T03:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T03:05:37.410608+00:00"
+    },
     {
       "id": "2224607538d04a75",
       "source": "Halk TV",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-02T02:55:45.895605+00:00"
+    },
+    {
+      "id": "14183f14ec0fa61b",
+      "source": "Evrensel",
+      "title": "Seferihisar Belediyesi soruşturması: Makam şoförlerinden biri tutuklandı",
+      "summary": "İzmir'de Seferihisar Belediyesine yönelik yürütülen soruşturmada gözaltına alınan makam şoförlerinden M.K. tutuklanarak cezaevine gönderildi. A.D. hakkında ise ev hapsi kararı verildi.",
+      "link": "https://www.evrensel.net/haber/5998799/seferihisar-belediyesi-sorusturmasi-makam-soforlerinden-biri-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-02T02:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-02T03:05:33.752394+00:00"
     },
     {
       "id": "c3f3c064b37fd37e",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-01T20:01:20.319923+00:00"
-    },
-    {
-      "id": "5eea903ff5cdd63a",
-      "source": "Yeni Yaşam",
-      "title": "Dağların yılanı ve akrebi",
-      "summary": "Önder Apo manifestoda ‘Ana soylu toplum, milyonlarca yıl geçmişi olan bir toplumdur’ der. Kadınların dayanacağı büyük ve anlamlı hakikat budur. Bundan daha büyük güç de olamaz. En doğru güç, tarihe ve özgür toplumsallığa dayanan özgür birey olmayı getiren hakikat gücüdür Kürde yönelik inkâr-imha ya da başka bir soykırım saldırısı onu isyan etmeye, isyan da dağa [&#8230;]",
-      "link": "https://yeniyasamgazetesi9.com/daglarin-yilani-ve-akrebi/",
-      "published": "2026-09-01T20:00:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T20:01:20.319955+00:00"
-    },
-    {
-      "id": "5db976642fb3df08",
-      "source": "Bianet",
-      "title": "Diyarbakır ve İstanbul'da 1 Eylül: Binler barış talebiyle sokakta, çözümün adresi demokrasi",
-      "summary": "Diyarbakır'da \"süreç\"in ilerletilmesi ve Kürt sorununun demokratik çözümü öne çıkarken, İstanbul'da savaş ekonomisine, baskılara ve demokratik hakların daraltılmasına karşı barış çağrısı yapıldı. Kalıcı barışın ancak haklar ve demokratikleşmeyle mümkün olacağı vurgulandı.",
-      "link": "https://bianet.org/haber/diyarbakir-ve-istanbul-da-1-eylul-binler-baris-talebiyle-sokakta-cozumun-adresi-demokrasi-323044",
-      "published": "2026-09-01T20:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-01T20:40:46.183882+00:00"
     }
   ]
 }

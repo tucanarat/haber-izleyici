@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-03T00:40:58.542532+00:00",
+  "last_updated": "2026-09-03T00:45:57.465899+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 587,
+  "new_items_this_run": 586,
   "items": [
+    {
+      "id": "7dd4a5bce48d1b03",
+      "source": "OdaTV",
+      "title": "İki fenomen gözaltına alındı",
+      "summary": "Sosyal medya fenomenleri Cansum Kaya ve Sinan Kaya hakkında soruşturma başlatıldı.",
+      "link": "https://www.odatv.com/guncel/iki-fenomen-gozaltina-alindi-120161228",
+      "published": "2026-09-03T00:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T00:45:45.268186+00:00"
+    },
     {
       "id": "a912c0f489f1f662",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-02T19:50:54.814717+00:00"
-    },
-    {
-      "id": "18f9007d5df14177",
-      "source": "Gazete Pencere",
-      "title": "Galatasaray ayrılığı duyurdu: Yetiştiği takıma transfer oldu",
-      "summary": "Galatasaray'la yollarını ayıran Victor Nelsson, altyapısından yetiştiği Nordsjaelland'a transfer oldu.",
-      "link": "https://www.gazetepencere.com/spor/galatasaray-ayriligi-duyurdu-yetistigi-takima-transfer-oldu-714164h",
-      "published": "2026-09-02T19:46:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T19:50:47.389451+00:00"
     }
   ]
 }

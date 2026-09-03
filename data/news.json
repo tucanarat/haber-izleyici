@@ -1,12 +1,331 @@
 {
-  "last_updated": "2026-09-03T07:41:25.223444+00:00",
+  "last_updated": "2026-09-03T07:46:04.742224+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 605,
+  "new_items_this_run": 617,
   "items": [
+    {
+      "id": "8a4fe69fbc9c948d",
+      "source": "Akşam",
+      "title": "Başakşehir'de inşaat alanında toprak kayması: Bir işçi göçük altında",
+      "summary": "Başakşehir Şamlar Mahallesi'nde inşaat alanında toprak kayması yaşandı. Bölgeye itfaiye ekipleri sevk edildi. İlk belirlemelere göre göçük altında kalan 3 işçiden 2'si kurtarıldı. Göçük altındaki 1 işçiyi kurtarma çalışmaları devam ediyor",
+      "link": "https://www.aksam.com.tr/guncel/basaksehirde-insaat-alaninda-toprak-kaymasi-bir-isci-gocuk-altinda/haber-1695508",
+      "published": "2026-09-03T07:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:50.664193+00:00"
+    },
+    {
+      "id": "abe1a542a6833517",
+      "source": "Akşam",
+      "title": "Güllü'nün ölümünde şoke eden görüntü! Savcılıkta o anları tek tek canlandırdı",
+      "summary": "Yalova'daki evinin terasının penceresinden düşerek hayatını kaybeden Güllü'nün ölümüyle ilgili yeni bir gelişme yaşandı. Şarkıcı Güllü'yü kızı Tuğyan Ülkem Gülter'in camdan attığını öne süren Sultan Nur Ulu, Güllü'nün pencereden nasıl atıldığını canlandırdı.",
+      "link": "https://www.aksam.com.tr/guncel/gullunun-olumunde-soke-eden-goruntu-savcilikta-o-anlari-tek-tek-canlandirdi/haber-1695507",
+      "published": "2026-09-03T07:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:50.664226+00:00"
+    },
+    {
+      "id": "a455c3470cbadafc",
+      "source": "Star",
+      "title": "Washington'dan Türk savaş gemisine yakın markaj! \"İstanbul Sınıfı\" fırkateyni ABD'nin radarında",
+      "summary": "ABD medyasına göre Washington yönetimi, yeni üretilecek bir savaş gemisi sınıfı için Türkiye, Güney Kore ve Japonya'nın fırkateyn tasarımlarını değerlendiriyor. Türkiye'nin \"İstanbul Sınıfı\" fırkateyni de adaylar arasında öne çıkıyor.",
+      "link": "https://www.star.com.tr/savunma/washingtondan-turk-savas-gemisine-yakin-markaj-istanbul-sinifi-firkateyni-abdnin-radarinda-haber-2037792/",
+      "published": "2026-09-03T07:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:51.543624+00:00"
+    },
+    {
+      "id": "be8282987f4e5796",
+      "source": "Yeniçağ",
+      "title": "Edirne’de sınır hattında 17 kaçak göçmen yakalandı",
+      "summary": "Edirne’nin Uzunköprü, Meriç ve İpsala ilçelerinde yasa dışı yollarla yurda girdiği belirlenen Afganistan, Cezayir ve Irak uyruklu 17 kaçak göçmen yakalandı. Güvenlik güçlerinin sınır bölgelerindeki denetimleri sürerken, yabancılar işlemleri için İl Göç İdaresine gönderildi.",
+      "link": "https://www.yenicaggazetesi.com/edirnede-sinir-hattinda-17-kacak-gocmen-yakalandi-1067916h.htm",
+      "published": "2026-09-03T07:44:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:52.306530+00:00"
+    },
+    {
+      "id": "3b15ba5501a8dd38",
+      "source": "Yeniçağ",
+      "title": "Afyonkarahisar’da orman yangını: Ekiplerin müdahalesiyle söndürüldü",
+      "summary": "Afyonkarahisar’ın Dinar ilçesinde otluk alanda başlayarak kısa sürede yayılan yangın, orman ekiplerinin yoğun müdahalesi sonucu kontrol altına alınarak söndürüldü. Yangında bazı ağaçlar zarar görürken, bölgede soğutma çalışmaları sürüyor.",
+      "link": "https://www.yenicaggazetesi.com/afyonkarahisarda-orman-yangini-ekiplerin-mudahalesiyle-sonduruldu-1067915h.htm",
+      "published": "2026-09-03T07:44:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:52.306563+00:00"
+    },
+    {
+      "id": "e9baed6027dfc430",
+      "source": "Karar",
+      "title": "Ekonomistler enflasyon rakamlarını değerlendirdi: Cicim ayları bitti",
+      "summary": "TÜİK’e göre ağustosta enflasyon aylık yüzde 1,84, yıllık yüzde 31,51 oldu. İris Cibre, beklenti altında kalan manşet veriye rağmen işlenmemiş gıda ve hizmetlerde yapışkanlığın sürdüğünü belirtti. Mahfi Eğilmez, “Tüketici enflasyonu hafifçe düşüyor buna karşılık üretici enflasyonu ve çekirdek enflasyon hafifçe yükseliyor” dedi. Emre Alkin ise “Enflasyonda cicim ayları bitti, artık bundan sonra yüzd",
+      "link": "https://www.karar.com/ekonomi-haberleri/ekonomistler-enflasyon-rakamlarini-degerlendirdi-cicim-aylari-bitti-2069714",
+      "published": "2026-09-03T07:44:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:52.062862+00:00"
+    },
+    {
+      "id": "4affbddb72d12f12",
+      "source": "CNBC-e",
+      "title": "Xiaomi üç yeni modelini Türkiye’de satışa sundu: İşte fiyat ve özellikleri",
+      "summary": "Xiaomi, Redmi Watch 6 Active, Redmi Watch 6 Lite ve Xiaomi Smart Band 11 Active modellerini Türkiye’de satışa sundu.",
+      "link": "https://www.cnbce.com/sirket-haberleri/xiaomi-uc-yeni-modelini-turkiyede-satisa-sundu-iste-fiyat-ve-ozellikleri-h36429",
+      "published": "2026-09-03T07:44:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:59.491070+00:00"
+    },
+    {
+      "id": "9e447de7855373c1",
+      "source": "Karar",
+      "title": "Trabzonspor Zenit ve Drogheda United ile hazırlık maçı oynayacak",
+      "summary": "Trabzonspor, Ekim ve Kasım aylarında milli maçlar nedeniyle Süper Lig'e verilecek arada Drogheda United ve Zenit ile hazırlık maçı oynanacağını açıkladı.",
+      "link": "https://www.karar.com/spor-haberleri/trabzonspor-zenit-ve-drogheda-united-ile-hazirlik-maci-oynayacak-2069713",
+      "published": "2026-09-03T07:44:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:52.062891+00:00"
+    },
+    {
+      "id": "fdad21932efcc5c1",
+      "source": "Cumhuriyet",
+      "title": "Süper Lig'de 4. haftanın perdesi yarın açılıyor",
+      "summary": "Trendyol Süper Lig'de 4. haftanın perdesi yarın oynanacak Başakşehir-Galatasaray maçıyla açılacak.",
+      "link": "https://www.cumhuriyet.com.tr/spor/super-lig-de-4-haftanin-perdesi-yarin-aciliyor-2534536",
+      "published": "2026-09-03T07:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:46.761257+00:00"
+    },
+    {
+      "id": "57ab22d09d9558ff",
+      "source": "Milliyet",
+      "title": "Marmara'daki faciada 24 saat geride kaldı! Kayıp 10 denizci aranıyor",
+      "summary": "Silivri açıklarının 18 mil güneyinde meydana gelen kazada, Kocaeli'den Aliağa'ya giden Türk bayraklı 90 metre uzunluğundaki Alsu isimli ticari gemi ile İskenderun Limanı'ndan Karadeniz Ereğli'ye giden Tuğberk İmamoğlu isimli ticari gemi çarpıştı. Kazanın ardından Tuğberk İmamoğlu isimli gemide bulunan 10 personelle irtibatın kesildiği bildirilirken, Kıyı Emniyeti Genel Müdürlüğü ve Sahil Güvenlik ",
+      "link": "https://www.milliyet.com.tr/gundem/live-gemi-kazasi-sorusturmasinda-alsu-gemisinde-tutulan-9-kisinin-adliyeye-sevk-edilecegi-ogrenildi-7653326",
+      "published": "2026-09-03T07:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:49.921487+00:00"
+    },
+    {
+      "id": "663a240311bb719d",
+      "source": "Serbestiyet",
+      "title": "New York Times: Anketlerde gerileyen Netanyahu, seçim öncesi saldıracak yer arıyor",
+      "summary": "The New York Times, 27 Ekim’deki İsrail seçimleri öncesinde anketlerde gerileyen Netanyahu’nun güvenlik gündemini öne çıkarmak için bölgedeki askerî gerilimi tırmandırdığını yazdı. Gazeteye göre Netanyahu, ABD’nin sert tepkisini çekmeyecek yeni askerî hedefler ararken, kendisini yeniden İsrail’in “Güvenlik Adamı” olarak konumlandırarak birkaç milletvekilliği kazanmayı umuyor. New York Times: Anket",
+      "link": "https://serbestiyet.com/haberler/new-york-times-anketlerde-gerileyen-netanyahu-secim-oncesi-saldiracak-yer-ariyor-247762/",
+      "published": "2026-09-03T07:43:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:56.922451+00:00"
+    },
+    {
+      "id": "88d62129a5ee95da",
+      "source": "Karar",
+      "title": "Kahramanmaraş'taki okul saldırısında ilk duruşma yarın",
+      "summary": "SPOT: Kahramanmaraş'ta öğretmen Ayla Kara ile 9 öğrencinin yaşamını yitirdiği Ayser Çalık Ortaokulu saldırısına ilişkin davanın ilk duruşması yarın Kahramanmaraş 3. Ağır Ceza Mahkemesi'nde görülecek. Duruşmada, tutuklu sanıklar Uğur Mersinli ve Peyman Pınar Mersinli'nin SEGBİS aracılığıyla dinlenmesi bekleniyor.",
+      "link": "https://www.karar.com/guncel-haberler/kahramanmarastaki-okul-saldirisinda-ilk-durusma-yarin-2069712",
+      "published": "2026-09-03T07:43:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:52.062920+00:00"
+    },
+    {
+      "id": "2bc0a888b8733900",
+      "source": "Halk TV",
+      "title": "Eve giren vaşağı dronla kovaladılar",
+      "summary": "Ev kedisinin peşinden koşarken açık pencereden içeri atlayan maceracı bir vaşak paniğe yol açtı. Ekipler, vahşi hayvanı salonun içine uzaktan kumandalı dron sokarak başarıyla yakaladıktan sonra hayvan doğal yaşam ortamına bırakıldı.",
+      "link": "https://halktv.com.tr/dunya/eve-giren-vasagi-dronla-kovaladilar-1052803h",
+      "published": "2026-09-03T07:43:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:54.461626+00:00"
+    },
+    {
+      "id": "9b131e2544e4693b",
+      "source": "Karar",
+      "title": "İkinci elde ‘Change’ tuzağı! Ekspertiz uzmanları uyarıyor",
+      "summary": "İkinci elde ‘Change’ tuzağı git gide artıyor. Vatandaşların mağduriyet yaşamaması için change tuzağına karşı ekspertiz uzmanları uyarıyor.",
+      "link": "https://www.karar.com/ekonomi-haberleri/ikinci-elde-change-tuzagi-ekspertiz-uzmanlari-uyariyor-2069711",
+      "published": "2026-09-03T07:43:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:52.062941+00:00"
+    },
+    {
+      "id": "6f50056bc348fd87",
+      "source": "Cumhuriyet",
+      "title": "WSJ yazdı: Trump, İran savaşının sona erdiğini açıklayabilir",
+      "summary": "ABD Başkanı Donald Trump’ın, İran ile savaşın sona erdiğini ilan etmeyi değerlendirdiği öne sürüldü.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/wsj-yazdi-trump-iran-savasinin-sona-erdigini-aciklayabilir-2534534",
+      "published": "2026-09-03T07:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:46.761283+00:00"
+    },
+    {
+      "id": "79a4310930f7a256",
+      "source": "Cumhuriyet",
+      "title": "Muğla'da iş cinayeti: İş makinesiyle duvar arasında sıkışan işçi öldü",
+      "summary": "Muğla'nın Milas ilçesinde, çalıştığı maden sahasında duvar ile iş makinesi arasına sıkışan İsa Sarıboğa (23), hayatını kaybetti.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/mugla-da-is-cinayeti-is-makinesiyle-duvar-arasinda-sikisan-isci-oldu-2534535",
+      "published": "2026-09-03T07:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:46.761311+00:00"
+    },
+    {
+      "id": "91236088ff43c1c9",
+      "source": "Star",
+      "title": "Kayserispor ilk beraberliğini aldı",
+      "summary": "TFF 1. Lig'de mücadele eden Kayserispor, bu sezon ilk beraberliğini Karagümrük deplasmanında aldı.",
+      "link": "https://www.star.com.tr/spor/kayserispor-ilk-beraberligini-aldi-haber-2037791/",
+      "published": "2026-09-03T07:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:51.543648+00:00"
+    },
+    {
+      "id": "6a1df67efdba0db2",
+      "source": "Millî Gazete",
+      "title": "İŞKUR GENÇLİK PROGRAMI BAŞVURULARI 2026! Üniversite öğrencileri nasıl başvurur, yaş sınırı kaç, hane geliri şartı var mı, ödeme günlük mü?",
+      "summary": "Üniversite öğrencilerinin eğitimlerini sürdürürken çalışma hayatını yakından tanımasına imkân sağlayan İŞKUR Gençlik Programı başvuruları 2026 için yeni dönem takvimi yakından takip ediliyor. Devlet üniversitelerinde örgün eğitim gören öğrencileri kapsayan programda başvuruların, üniversitelerin akademik takvimlerine paralel olarak dönemsel ilanlarla alınması bekleniyor.",
+      "link": "https://www.milligazete.com.tr/iskur-genclik-programi-basvurulari-2026-universite-ogrencileri-nasil-basvurur-yas-siniri-kac-hane-geliri-sarti-var-mi-odeme-gunluk-mu",
+      "published": "2026-09-03T07:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:53.832232+00:00"
+    },
+    {
+      "id": "4e17d325850246d7",
+      "source": "DonanımHaber",
+      "title": "Bilgisayar kasası tavsiyesi için en iyi masaüstü PC kasaları (2026)",
+      "summary": "Boş masaüstü PC kasası arayanlar ve gaming kasa fiyatlarını merak edenler buraya! İster iş ister oyun için PC toplayanlara özel en iyi bilgisayar kasaları bu listede.",
+      "link": "https://www.donanimhaber.com/en-iyi-bilgisayar-kasasi-modelleri-ve-pc-kasa-fiyatlari--209952",
+      "published": "2026-09-03T07:42:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:46:03.102592+00:00"
+    },
+    {
+      "id": "4836fb887ae47fc1",
+      "source": "Diken",
+      "title": "Özel'den Kılıçdaroğlu'yla tokalaşma eleştirilerine yanıt",
+      "summary": "Özel'den Kılıçdaroğlu'yla tokalaşma eleştirilerine yanıt 03.09.2026 Diken YENİ Parti Genel Başkanı Özgür Özel, CHP Genel Başkanı Kemal Kılıçdaroğlu'yla bir haftada iki kez tokalaşmasıyla ilgili konuştu. The post Özel'den Kılıçdaroğlu'yla tokalaşma eleştirilerine yanıt appeared first on #site_linkat 03.09.2026 .",
+      "link": "https://www.diken.com.tr/ozelden-kilicdarogluyla-tokalasma-elestirilerine-yanit/?utm_source=rss&utm_medium=rss&utm_campaign=ozelden-kilicdarogluyla-tokalasma-elestirilerine-yanit",
+      "published": "2026-09-03T07:42:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:54.654178+00:00"
+    },
+    {
+      "id": "16c5d49fb4f669f0",
+      "source": "Gazete Pencere",
+      "title": "Koza TV'de yeni isimler: Yeni sunucu ve koordinatör belli oldu",
+      "summary": "4 yıldır Halk TV’de hafta sonları yayınlanan “Hafta Sonu Sabah” programının sunucusu Selin Sabit Koza TV'ye geçti. Ayrıca Fergün Atalay Koza TV haber koordinatörlüğüne getirildi",
+      "link": "https://www.gazetepencere.com/medya/koza-tvde-yeni-isimler-yeni-sunucu-ve-koordinator-belli-oldu-714203h",
+      "published": "2026-09-03T07:42:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:54.099090+00:00"
+    },
+    {
+      "id": "b4b3de4219f7360c",
+      "source": "Karar",
+      "title": "Mahkeme yürütmeyi durdurdu, proje değişti: Göcek-Dalaman’da ÇED onayı geldi",
+      "summary": "Göcek ve Dalaman koylarında tartışmalara neden olan Mapa-Şamandıra Sistemi Projesi’nde mahkeme kararının ardından yeni bir gelişme yaşandı. Muğla 2. İdare Mahkemesi’nin 9 Temmuz’da yürütmesini durdurduğu proje revize edilerek yeniden ÇED sürecine sokuldu ve 47 gün sonra “ÇED Olumlu” kararı aldı.",
+      "link": "https://www.karar.com/guncel-haberler/mahkeme-yurutmeyi-durdurdu-proje-degisti-gocek-dalamanda-ced-onayi-geldi-2069710",
+      "published": "2026-09-03T07:42:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:52.062968+00:00"
+    },
+    {
+      "id": "61a93674ecf86946",
+      "source": "Cumhuriyet",
+      "title": "Lindsay Clancy davasında jüri karar veremiyor: Mahkemede \"dinamit seçeneği\" devreye girdi",
+      "summary": "ABD'de 2023 yılında üç çocuğunu öldüren Lindsay Clancy'nin yargılandığı davada jüri üyeleri 28 saatlik görüşmenin ardından yine uzlaşmaya varamadı. Mahkeme yargıcı, kilitlenmeyi aşmak için \"son şans\" olarak değerlendirilen özel hukuk kuralını devreye soktu.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/lindsay-clancy-davasinda-juri-karar-veremiyor-mahkemede-dinamit-secenegi-devreye-girdi-2534533",
+      "published": "2026-09-03T07:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:46.761336+00:00"
+    },
+    {
+      "id": "99ad5f73162368df",
+      "source": "Millî Gazete",
+      "title": "Guendouzi ceza alacak mı? Kaç maç oynamayacağı belli oldu",
+      "summary": "Fenerbahçe'nin Şampiyonlar Ligi'nde Lyon'u 2-1 devirdiği maça damga vuran tünel kavgasının olası cezaları sızdı. Fenerbahçeli taraftarların ise merak ettiği tek bir şey var: Guendouzi ceza alacak mı? İşte detaylar.",
+      "link": "https://www.milligazete.com.tr/guendouzi-ceza-alacak-mi-kac-mac-oynamayacagi-belli-oldu",
+      "published": "2026-09-03T07:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:53.832287+00:00"
+    },
+    {
+      "id": "9b9e0f972463b506",
+      "source": "Gazete Pencere",
+      "title": "Silivri'de kazaya karışan gemideki 9 kişi Jandarma eşliğinde tutuluyor",
+      "summary": "Silivri'de kazaya karışan Alsu gemisindekilere şüpheli olarak işlem yapıldı. 9 kişi Jandarma eşliğinde gemide tutuluyor.",
+      "link": "https://www.gazetepencere.com/gundem/silivride-kazaya-karisan-gemideki-9-kisi-jandarma-esliginde-tutuluyor-714202h",
+      "published": "2026-09-03T07:41:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:54.099119+00:00"
+    },
+    {
+      "id": "3f34af0a6b49bf7b",
+      "source": "Karar",
+      "title": "Trabzonspor Franculino Dju’yu resmen açıkladı",
+      "summary": "Teknik adam arayışlarını sürdüren Trabzonspor, yeni golcüsünü Danimarka'da buldu. Fırtına, Midtjylland forması giyen Franculino Gludo Dju’yu kadrosuna kattığını açıkladı. Bordo-mavililer, 22 yaşındaki forveti UEFA Konferans Ligi kadrosuna yetiştirdi.",
+      "link": "https://www.karar.com/spor-haberleri/trabzonspor-franculino-djuyu-resmen-acikladi-2069709",
+      "published": "2026-09-03T07:41:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:52.062992+00:00"
+    },
+    {
+      "id": "f82290684a56051a",
+      "source": "Milliyet",
+      "title": "Son dakika... Başakşehir’de inşaat alanında göçük! 3 işçi toprak altında kaldı",
+      "summary": "Ayrıntılar geliyor...",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-basaksehirde-insaat-alaninda-gocuk-3-isci-toprak-altinda-kaldi-7653384",
+      "published": "2026-09-03T07:41:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:49.921358+00:00"
+    },
+    {
+      "id": "d7e324e8ed8b33b7",
+      "source": "Yeni Şafak",
+      "title": "Kaçkarlar’da İngiliz turist alarmı: Ekipler seferber oldu",
+      "summary": "Rize'de Kaçkar Dağları'nda yolunu kaybeden yabancı uyruklu kişinin bulunması için arama kurtarma çalışması başlatıldı.",
+      "link": "https://www.yenisafak.com/gundem/kackarlarda-ingiliz-turist-alarmi-ekipler-seferber-oldu-4852855",
+      "published": "2026-09-03T07:41:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:51.279154+00:00"
+    },
+    {
+      "id": "07ad9bdea3dfe2e7",
+      "source": "Millî Gazete",
+      "title": "AÖF DERS GEÇME NOTU KAÇ! Vize final ortalaması kaç olmalı, 35 puan sınırı nedir, Yaz Okulu sonucu ne zaman gelir?",
+      "summary": "Anadolu Üniversitesi Açıköğretim Fakültesi öğrencileri, 22 Ağustos 2026’da gerçekleştirilen AÖF Yaz Okulu Sınavı sonrasında sonuç takvimine odaklandı. Sınava giren öğrenciler bir yandan puanlarını ne zaman öğrenebileceklerini araştırırken diğer yandan AÖF ders geçme notu kaç ve 35 puan sınırının nasıl uygulandığını öğrenmek istiyor.",
+      "link": "https://www.milligazete.com.tr/aof-ders-gecme-notu-kac-vize-final-ortalamasi-kac-olmali-35-puan-siniri-nedir-yaz-okulu-sonucu-ne-zaman-gelir",
+      "published": "2026-09-03T07:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:53.832320+00:00"
+    },
     {
       "id": "b7b68ef1400731d8",
       "source": "Akşam",
@@ -17,6 +336,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T07:40:58.980428+00:00"
+    },
+    {
+      "id": "3ae01ed84b34c0a3",
+      "source": "Aydınlık",
+      "title": "İran, Hürmüz Boğazı'nda 11 gemiyi daha kara listeye aldı",
+      "summary": "İran, Hürmüz Boğazı’nda “kurallara uymayan” 11 gemiyi daha kara listeye aldı. Tahran, bu gemilerin yeniden geçiş yapması halinde para cezası, alıkoyma veya el koyma yaptırımlarıyla karşılaşabileceğini açıkladı.",
+      "link": "https://www.aydinlik.com.tr/haber/iran-hurmuz-bogazinda-11-gemiyi-daha-kara-listeye-aldi-588717",
+      "published": "2026-09-03T07:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:53.070363+00:00"
+    },
+    {
+      "id": "c940b336beb7a4bd",
+      "source": "Ekonomim",
+      "title": "MEB ile 15 üniversite arasında eğitim yapılarının afet güvenliği için işbirliği protokolü imzalandı",
+      "summary": "Milli Eğitim Bakanlığı (MEB) ile 15 üniversite arasında eğitim kurumu binaları ve eklentilerinde afet risklerinin azaltılması, yapısal güvenliğin değerlendirilmesi ve araştırma geliştirme çalışmalarının yürütülmesine yönelik işbirliği protokolü imzalandı.",
+      "link": "https://www.ekonomim.com/egitim/meb-ile-15-universite-arasinda-egitim-yapilarinin-afet-guvenligi-icin-isbirligi-protokolu-imzalandi-haberi-915954",
+      "published": "2026-09-03T07:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:58.956860+00:00"
     },
     {
       "id": "29d8d6aaae1d8358",
@@ -41,6 +382,17 @@
       "fetched_at": "2026-09-03T07:41:12.886682+00:00"
     },
     {
+      "id": "fc2e92b743eead8d",
+      "source": "Euronews Türkçe",
+      "title": "Malta’da gazeteci cinayeti davasında tartışmalı karar: Sanık beraat etti",
+      "summary": "Cinayeti dünya çapında büyük yankı uyandırırken, Avrupa Birliği’nin en küçük üyesi Malta’nın hukuk devleti konusundaki eksikliklerini de gündeme taşıdı.",
+      "link": "http://tr.euronews.com/my-europe/2026/09/03/maltada-gazeteci-cinayeti-davasinda-tartismali-karar-sanik-beraat-etti",
+      "published": "2026-09-03T07:39:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:46:04.741255+00:00"
+    },
+    {
       "id": "2c10e4a2a0c9db50",
       "source": "Yeniçağ",
       "title": "Antalya’nın görünmez kahramanları: 7/24 tetikte",
@@ -61,6 +413,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T07:41:01.203531+00:00"
+    },
+    {
+      "id": "a604340b56b83efa",
+      "source": "Cumhuriyet",
+      "title": "İran'a açtığı savaş sandığa yansıdı: Trump'a yönelik destek yüzde 40’tan yüzde 33’e geriledi",
+      "summary": "ABD Başkanı Donald Trump’ın üst düzey danışmanlarının, İran ile çatışmanın 3 Kasım’daki Kongre ara seçimlerine kadar büyümesini engellemeye çalıştığı öne sürüldü. Washington ekonomik baskıyı artırırken Trump, “İran’a karşı yeni bir saldırı düzenlemeye hazırız” diyerek askeri seçeneğin masada olduğunu açıkladı.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/iran-a-actigi-savas-sandiga-yansidi-trump-a-yonelik-destek-yuzde-40-tan-yuzde-33-e-geriledi-2534532",
+      "published": "2026-09-03T07:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:46.761365+00:00"
     },
     {
       "id": "280bf2ea22143d68",
@@ -162,6 +525,28 @@
       "fetched_at": "2026-09-03T07:41:04.149194+00:00"
     },
     {
+      "id": "62f47fdac00974bc",
+      "source": "OdaTV",
+      "title": "Milyonların gözü burada... Kira zam oranı belli oldu",
+      "summary": "Türkiye İstatistik Kurumu&#039;nun (TÜİK) ağustos ayı enflasyon verilerini açıklamasıyla birlikte, eylül ayında kira sözleşmesini yenileyecek kiracılar için uygulanabilecek yasal artış oranı belli oldu. Bakın eylül ayında konut ve iş yerleri kiralarında uygulanabilecek tavan artış oranı ne kadar oldu...",
+      "link": "https://www.odatv.com/ekonomi/tuik-agustos-enflasyonunu-acikladi-kira-zam-orani-belli-oldu-120161251",
+      "published": "2026-09-03T07:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:54.282661+00:00"
+    },
+    {
+      "id": "05353c325df7e14a",
+      "source": "Gerçek Gündem",
+      "title": "Araç Sahipleri Dikkat! Akaryakıt Yeni Rekorun Eşiğinde: Motorine Zam Bekleniyor",
+      "summary": "Jeopolitik gerilimlerin etkisiyle yükselen petrol fiyatları, motorine yeni zam beklentisini beraberinde getirdi. Sektör kaynaklarına göre motorinin litre fiyatına 8,24 lira zam yapılması ve artışın 3 Eylül’ü 4 Eylül’e bağlayan gece pompaya yansıması bekleniyor. Zam gerçekleşirse motorin fiyatı bazı büyükşehirlerde 90 liranın üzerine çıkacak.",
+      "link": "https://www.gercekgundem.com/ekonomi/akaryakit-yeni-rekorun-esiginde-motorine-yeni-zam-bekleniyor-577921",
+      "published": "2026-09-03T07:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:57.108937+00:00"
+    },
+    {
       "id": "7ecb1077c0e958d9",
       "source": "Akşam",
       "title": "Arka Sıradakiler'in Sanem'i yıllar sonra ortaya çıktı! İşte Gülşah Küçükyıldız'ın son hali",
@@ -195,6 +580,17 @@
       "fetched_at": "2026-09-03T07:41:02.617631+00:00"
     },
     {
+      "id": "5f36f6ad82273b26",
+      "source": "OdaTV",
+      "title": "Pumalı Budist keşişler tartışma yarattı",
+      "summary": "Puma’nın Budist keşişleri koşu ayakkabılarıyla buluşturduğu kampanya, maneviyatın tüketim için kullanılması tartışmalarını beraberinde getirdi. Markanın benzer pazarlama dili 23 yıl önce akademik eleştirilere konu olmuştu.",
+      "link": "https://www.odatv.com/ozel/pumanin-budist-kesisli-reklami-120161258",
+      "published": "2026-09-03T07:36:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:54.282690+00:00"
+    },
+    {
       "id": "2d738cda98d47852",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "MEB ile 15 üniversite arasında eğitim yapılarının afet güvenliği için işbirliği protokolü imzalandı",
@@ -215,6 +611,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T07:41:04.149228+00:00"
+    },
+    {
+      "id": "408e84f2e6326425",
+      "source": "Halk TV",
+      "title": "6 milyon Afganı geri gönderip Taliban'ın insafına terk ettiler",
+      "summary": "Pakistan ve İran’dan sınır dışı edilen milyonlarca Afgan, Torkham sınırında yeni bir hayatın belirsizliğiyle karşı karşıya. BBC’nin haberine göre, geri dönenlerin çoğunun gidecek evi, işi ve geçim kaynağı bulunmuyor.",
+      "link": "https://halktv.com.tr/dunya/kactiklari-ulkeye-geri-gonderildiler-6-milyon-afgan-taliban-yonetiminde-yasam-mucadelesi-veriyor-1052801h",
+      "published": "2026-09-03T07:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:54.461685+00:00"
     },
     {
       "id": "c06187daf652a8ab",
@@ -1053,6 +1460,17 @@
       "fetched_at": "2026-09-03T07:25:38.832271+00:00"
     },
     {
+      "id": "8d544be6a00efc89",
+      "source": "Independent Türkçe",
+      "title": "COP17'de Moğolistan'da gördüklerim, işittiklerim",
+      "summary": "Birleşmiş Milletler Çölleşmeyle Mücadele Sözleşmesi'nin 17. Taraflar Konferansı COP17, 17-28 Ağustos 2026 tarihleri arasında Moğolistan'ın Ulan Batur kentinde \"Toprağı iyileştir, umudu yeşert\" temasıyla düzenlendi. Açılış konuşmaları lirik olduğu kadar sarsıcıydı da. \"Dünyanın toz duman olduğu\" bir dönemde COP17 açılış konuşmaları umut ektiği kadar serzeniş doluydu. Toz fırtınalarından göç baskıla",
+      "link": "https://www.indyturk.com/node/782003/t%C3%BCrki%CC%87yeden-sesler/cop17de-mo%C4%9Folistanda-g%C3%B6rd%C3%BCklerim-i%C5%9Fittiklerim",
+      "published": "2026-09-03T07:23:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:57.028750+00:00"
+    },
+    {
       "id": "b9712e967b6e6ae9",
       "source": "Yeni Şafak",
       "title": "Deprem bölgesinde ezber bozan tablo: Kiralık ev değil, kiracı aranıyor",
@@ -1304,6 +1722,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T07:20:45.819758+00:00"
+    },
+    {
+      "id": "06ce36c8c462bc25",
+      "source": "Ekonomim",
+      "title": "Kritik veri açıklandı: Memur ve emekli zammı için 2 aylık enflasyon farkı belli oldu",
+      "summary": "Milyonlarca memur ve emekli maaşlarını doğrudan etkileyecek ağustos ayı enflasyon verisi açıklandı. Açıklanan rakamlarla birlikte gözler, ocak ayında maaşlara gelecek zamma çevrildi.",
+      "link": "https://www.ekonomim.com/ekonomi/son-dakika-kritik-veri-aciklandi-memur-ve-memur-emekli-zamminda-agustos-hesabi-belli-oldu-haberi-915947",
+      "published": "2026-09-03T07:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T07:45:58.957074+00:00"
     },
     {
       "id": "555c96df277e226b",
@@ -5077,435 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T06:30:47.558437+00:00"
-    },
-    {
-      "id": "454bf2199b398517",
-      "source": "Cumhuriyet",
-      "title": "Fenerbahçe duyurdu: UEFA'dan Guendouzi ve Greenwood'a soruşturma",
-      "summary": "UEFA, Lyon maçı ile ilgili Fenerbahçe Kulübü, Matteo Guendouzi ve Mason Greenwood ile ilgili disiplin süreci başlattı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-duyurdu-uefa-dan-guendouzi-ve-greenwood-a-sorusturma-2534497",
-      "published": "2026-09-03T06:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:47.558464+00:00"
-    },
-    {
-      "id": "848cbea370e337a6",
-      "source": "Millî Gazete",
-      "title": "Arif Ahmet Denizolgun öldürüldü mü, Alihan Kuriş neden soruşturuluyor, fethi kabir neden yapıldı, bilirkişi raporu ne diyor?",
-      "summary": "Eski Ulaştırma Bakanı ve Süleymancılar cemaatinin eski liderlerinden Arif Ahmet Denizolgun’un ölümü hakkında yürütülen soruşturmada dikkat çeken yeni bir gelişme yaşandı. Bakırköy Cumhuriyet Başsavcılığı, 2016 yılındaki ölüme ilişkin otopsi görüntülerinin yeniden incelenmesi sonucu hazırlanan bilirkişi raporunda ölümün “şüpheli” olarak değerlendirildiğini bildirdi.",
-      "link": "https://www.milligazete.com.tr/arif-ahmet-denizolgun-olduruldu-mu-alihan-kuris-neden-sorusturuluyor-fethi-kabir-neden-yapildi-bilirkisi-raporu-ne-diyor",
-      "published": "2026-09-03T06:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:53.926005+00:00"
-    },
-    {
-      "id": "fd52aa0b29f2d43d",
-      "source": "Euronews Türkçe",
-      "title": "Eylül 2026 kira artış oranı: Yeni yasal zam sınırı belli oldu",
-      "summary": "Türkiye'de konut ve iş yeri kiralarında uygulanabilecek yasal artış oranı, Türk Borçlar Kanunu'nun 344. maddesi uyarınca TÜFE'nin 12 aylık ortalamasına göre belirleniyor.",
-      "link": "http://tr.euronews.com/business/2026/09/03/eylul-2026-kira-artis-orani-kiracilar-yeni-orani-bekliyor",
-      "published": "2026-09-03T06:27:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:16:08.558863+00:00"
-    },
-    {
-      "id": "5087ca7d56ad7130",
-      "source": "Euronews Türkçe",
-      "title": "Eylül 2026 kira artış oranı: Yeni yasal zam sınırı ne kadar olacak?",
-      "summary": "Eylül ayında yenilenecek sözleşmelerde bugün açıklanan Ağustos verisine dayanan yeni 12 aylık ortalama geçerli olacak",
-      "link": "http://tr.euronews.com/business/2026/09/03/eylul-2026-kira-artis-orani-kiracilar-yeni-orani-bekliyor",
-      "published": "2026-09-03T06:27:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:10:58.781820+00:00"
-    },
-    {
-      "id": "eef5acda2caffb17",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "WMO'ya göre El Nino'nun güçlenmesiyle 2027'ye kadar aşırı hava olayları riski artıyor",
-      "summary": "Dünya Meteoroloji Örgütü (WMO), sıcaklığa neden olan El Nino iklim olayının yıl sonuna kadar çok güçlenmesinin beklendiğini ve bunun da 2027'ye kadar aşırı hava olayları riskini artırdığını bildirdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/wmoya-gore-el-ninonun-guclenmesiyle-2027ye-kadar-asiri-hava-olaylari-riski-artiyor/4045924",
-      "published": "2026-09-03T06:27:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:35:35.686704+00:00"
-    },
-    {
-      "id": "f98f159bcd0add77",
-      "source": "Euronews Türkçe",
-      "title": "Eylül 2026 kira artış oranı: Kiracılar yeni oranı bekliyor",
-      "summary": "Eylül 2026'da kira sözleşmesini yenileyecek kiracılar için uygulanacak yasal artış oranı, Ağustos ayı enflasyon verilerinin açıklanmasıyla netleşecek.",
-      "link": "http://tr.euronews.com/business/2026/09/03/eylul-2026-kira-artis-orani-kiracilar-yeni-orani-bekliyor",
-      "published": "2026-09-03T06:27:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:31:08.567199+00:00"
-    },
-    {
-      "id": "acf656643caf7775",
-      "source": "Yeniçağ",
-      "title": "EYT'yi günle kaçıranlar hakkında karar: Yargıtay hizmet süresine dahil etti",
-      "summary": "Yargıtay, sigorta primleri eksik yatırıldığı veya hiç bildirilmediği için EYT hakkını kaybeden binlerce çalışana umut olacak emsal bir karara imza attı.",
-      "link": "https://www.yenicaggazetesi.com/eytyi-gunle-kaciranlar-hakkinda-karar-yargitay-hizmet-suresine-dahil-etti-1067872h.htm",
-      "published": "2026-09-03T06:27:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:52.989955+00:00"
-    },
-    {
-      "id": "ab5e4f54fcd20520",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Galatasaray, Süper Lig'de yarın Başakşehir'e konuk olacak",
-      "summary": "Galatasaray, Trendyol Süper Lig'in 4. haftasında yarın Başakşehir'e konuk olacak.",
-      "link": "https://www.aa.com.tr/tr/spor/galatasaray-super-ligde-yarin-basaksehire-konuk-olacak/4045923",
-      "published": "2026-09-03T06:27:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:47.257573+00:00"
-    },
-    {
-      "id": "5a03f7ca0bced5f2",
-      "source": "Bir Gün",
-      "title": "Girne'deki gemi faciasında beşinci gün: Arama çalışmaları devam ediyor",
-      "summary": "Girne'deki gemi faciasına ilişkin arama kurtarma çalışmalarında beşinci güne girildi. Gemide kaybolan 20 kişiden birinin cenazesine dün ulaşılırken, kayıp 19 kişiyi arama çalışmaları sürüyor. Cumhurbaşkanı Yardımcısı Yılmaz, bugün adaya giderek kayıp yakınlarını ziyaret edecek.",
-      "link": "https://www.birgun.net/haber/girne-deki-gemi-faciasinda-besinci-gun-arama-calismalari-devam-ediyor-732598",
-      "published": "2026-09-03T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:25:35.190444+00:00"
-    },
-    {
-      "id": "bf7f5a3c4dd2ad9b",
-      "source": "CNBC-e",
-      "title": "Memur ve emekli zammında ağustos hesabı belli oldu: İşte ocak 2027 için netleşen artış oranları ve zamlı maaşlar",
-      "summary": "TÜİK’in ağustos enflasyonunu açıklamasıyla 2027 Ocak ayında memur ve memur emeklileri ile SGK ve Bağ-Kur emeklilerinin alacağı zam için hesaplama sürecinde bir adım daha geride kaldı. Zam oranlarında ilk tablolar da ortaya çıktı. Nihai oranlar için dört aylık enflasyon verisi daha açıklanacak.",
-      "link": "https://www.cnbce.com/haberler/memur-ve-emekli-zamminda-agustos-hesabi-belli-oldu-iste-ocak-2027-icin-netlesen-artis-oranlari-ve-zamli-maaslar-g36421",
-      "published": "2026-09-03T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:16:01.514766+00:00"
-    },
-    {
-      "id": "470148a1866019ef",
-      "source": "Millî Gazete",
-      "title": "Transfer haberleri 3 Eylül Perşembe: Fenerbahçe Galatasaray Beşiktaş son dakika!",
-      "summary": "Günün spor manşetlerinde, spor gündemiyle alakalı en yeni gelişmeler yerlerini aldı. 3 Eylül Perşembe 2026 tarihli gazetelerin spor sayfalarına, Beşiktaş, Fenerbahçe, Galatasaray ve Trabzonspor'a dair haberlere, bir çırpıda göz atın. İşte 3 Eylül Perşembe 2026 gazete manşetlerinde spor haberleri.",
-      "link": "https://www.milligazete.com.tr/foto-galeri/transfer-haberleri-3-eylul-persembe-fenerbahce-galatasaray-besiktas-son-dakika",
-      "published": "2026-09-03T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:43.729942+00:00"
-    },
-    {
-      "id": "558778d01720caa0",
-      "source": "Evrensel",
-      "title": "Bir anıdan hikâyeye: “Gerçeklikten Kurguya” atölyesi 5 Eylül’de",
-      "summary": "Leyli Sanat Derneği, yazmaya ilgi duyan gençleri ve yetişkinleri “Gerçeklikten Kurguya: İmgenin İzinde” atölyesinde buluşturuyor.",
-      "link": "https://www.evrensel.net/haber/5998956/bir-anidan-hikyeye-gerceklikten-kurguya-atolyesi-5-eylulde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-03T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:45:38.358066+00:00"
-    },
-    {
-      "id": "5329ba0bc3123700",
-      "source": "Akşam",
-      "title": "Arda Güler için sürpriz karar! Jose Mourinho gözünün yaşına bakmadı",
-      "summary": "Arda Güler için Real Madrid'de sıcak bir gelişme yaşandı. İspanyol devinin teknik direktörü Jose Mourinho'nun Arda Güler planı, yıldız oyuncunun pabucunu dama attı. İşte detaylar...",
-      "link": "https://www.aksam.com.tr/sporplus/arda-guler-icin-surpriz-karar-jose-mourinho-gozunun-yasina-bakmadi/haber-1695478",
-      "published": "2026-09-03T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:51.535489+00:00"
-    },
-    {
-      "id": "c38ee63bc3fd059e",
-      "source": "Akşam",
-      "title": "Gül Onat bir ameliyat daha oldu! Pankreas kanseriyle mücadele ediyor...",
-      "summary": "Gül Onat, bir süredir pankreas kanseriyle mücadele ediyor. Böbrek yollarında tümörler tespit edilen Gül Onat, bir ameliyat daha olduğunu duyurdu.",
-      "link": "https://www.aksam.com.tr/venus/gul-onat-bir-ameliyat-daha-oldu-pankreas-kanseriyle-mucadele-ediyor/haber-1695477",
-      "published": "2026-09-03T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:51.535519+00:00"
-    },
-    {
-      "id": "07b7ec9af27748cf",
-      "source": "Star",
-      "title": "ABD'den, Doğu Pasifik'te \"uyuşturucu operasyonu! \"Yüzen yakıt istasyonu\" denilen tekne batırıldı",
-      "summary": "ABD ordusunun, Doğu Pasifik'te uyuşturucu kaçakçılığını desteklediğini öne sürdüğü tekneye müdahale ettiği ve tekneyi batırdığı bildirildi.",
-      "link": "https://www.star.com.tr/dunya/abdden-dogu-pasifikte-uyusturucu-operasyonu-yuzen-yakit-istasyonu-denilen-tekne-batirildi-haber-2037773/",
-      "published": "2026-09-03T06:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:51.935575+00:00"
-    },
-    {
-      "id": "4d3437766c155f18",
-      "source": "Halk TV",
-      "title": "Doktor Özlem Gültekin'in ölümünde Adli Tıp raporu tamamlandı: Yüksek doz propofol zehirlenmesi",
-      "summary": "İzmir&#039;de kliniğinde şüpheli şekilde hayatını kaybeden Op. Dr. Özlem Gültekin&#039;in Adli Tıp raporu tamamlandı. İncelemede, Gültekin&#039;in anestezide kullanılan propofol maddesine bağlı zehirlenme sonucu öldüğü belirlendi.",
-      "link": "https://halktv.com.tr/turkiye/doktor-ozlem-gultekinin-olumunde-adli-tip-raporu-tamamlandi-yuksek-doz-propofol-zehirlenmesi-1052776h",
-      "published": "2026-09-03T06:26:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:54.629003+00:00"
-    },
-    {
-      "id": "ca57351c031373ca",
-      "source": "Halk TV",
-      "title": "Ne altın, ne de borsa: Yeni güvenli liman Bitcoin mi olacak?",
-      "summary": "Küresel gerilim ve faiz kaygıları kripto piyasasını sarsarken, Bitcoin 76,3 bin dolar seviyesine tutunmaya çalışıyor. Dev varlık Nasdaq&#039;tan kopup altınla korelasyonunu yüzde 50&#039;ye çıkararak yatırımcının yeni sığınağı oldu.",
-      "link": "https://halktv.com.tr/ekonomi/3-eylul-2026-kripto-paralar-coinler-bitcoin-ethereum-artan-azalan-1052775h",
-      "published": "2026-09-03T06:26:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:54.629034+00:00"
-    },
-    {
-      "id": "8894f74142c0ee00",
-      "source": "Halk TV",
-      "title": "Erhan Çelik'in doktor eşinin ölümünde Adli Tıp raporu tamamlandı: Yüksek doz propofol zehirlenmesi",
-      "summary": "Haber spikeri Erhan Çelik ile boşanma aşamasındayken kliniğinde hayatını kaybeden Op. Dr. Özlem Gültekin’in Adli Tıp raporu çıktı. İncelemede Gültekin&#039;in anestezide kullanılan yüksek doz propofol zehirlenmesi sonucu öldüğü belirlendi.",
-      "link": "https://halktv.com.tr/turkiye/doktor-ozlem-gultekinin-olumunde-adli-tip-raporu-tamamlandi-yuksek-doz-propofol-zehirlenmesi-1052776h",
-      "published": "2026-09-03T06:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:45.050139+00:00"
-    },
-    {
-      "id": "5ccc74f8dd31dd6f",
-      "source": "Millî Gazete",
-      "title": "Emekliye ÖTV’siz otomobil ne zaman çıkacak, yaş şartı var mı, hangi araçlar seçilebilecek, satın alınan araç ne zaman satılabilir?",
-      "summary": "Emekliye ÖTV’siz araç düzenlemesi, otomobil satın almayı planlayan vatandaşların yakından takip ettiği konular arasına girdi. Engelli vatandaşların ÖTV muafiyetine ilişkin yapılan düzenlemelerin ardından emekliler için hazırlanan kanun teklifinin kapsamı da yeniden dikkat çekti.",
-      "link": "https://www.milligazete.com.tr/emekliye-otvsiz-otomobil-ne-zaman-cikacak-yas-sarti-var-mi-hangi-araclar-secilebilecek-satin-alinan-arac-ne-zaman-satilabilir",
-      "published": "2026-09-03T06:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:53.926065+00:00"
-    },
-    {
-      "id": "27a3fda750af1147",
-      "source": "DonanımHaber",
-      "title": "HBM pahalı geldi: Micron'dan, devasa AI modellerine çözüm geliyor",
-      "summary": "Micron, GPU'ların doğrudan erişebileceği yeni nesil NAND Flash çözümleri üzerinde çalışmaya başladı \"Near-GPU NAND\" olarak anılan teknoloji, büyük AI modelleri için bellek katmanı oluşturabilir.",
-      "link": "https://www.donanimhaber.com/hbm-pahali-geldi-micron-dan-devasa-ai-modellerine-cozum-geliyor--210029",
-      "published": "2026-09-03T06:25:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:55.981490+00:00"
-    },
-    {
-      "id": "2574760bed5a9f37",
-      "source": "Bir Gün",
-      "title": "Şans Topu 2 Eylül 2026 Sonuçları Açıklandı! Milli Piyango Çekiliş Sonuçları Sorgulama Ekranı | 2 Eylül 2026 Şans Topu çekiliş sonuçları",
-      "summary": "Şans Topu 2 Eylül 2026 sonuçları sorgulama ekranı çekilişin canlı yayınlanmasının ardından erişime açıldı. Sisal Şans tarafından noter huzurunda gerçekleştirilen Şans Topu çekilişi Milli Piyango'ya ait olan YouTube kanalında naklen yayınlandı. 2 Eylül Şans Topu çekilişinde 6,2 milyon TL'lik büyük ikramiye sahibini bulamadı. Şans Topu çekilişi sonrası 5 bilen, 4+1 bilen, 4 bilen, 3+1 bilen ve 3 bil",
-      "link": "https://www.birgun.net/haber/sans-topu-2-eylul-2026-sonuclari-aciklandi-milli-piyango-cekilis-sonuclari-sorgulama-ekrani-2-eylul-2026-sans-topu-cekilis-sonuclari-732603",
-      "published": "2026-09-03T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:25:35.190497+00:00"
-    },
-    {
-      "id": "3cd0d32b78303fa1",
-      "source": "Millî Gazete",
-      "title": "Üniversite ek tercihleri 2026 hangi tarihte, YKS boş kontenjan listesi nerede, taban puanı şartı var mı, kimler başvuramaz?",
-      "summary": "2026 YKS yerleştirme sonuçlarının ardından herhangi bir programa yerleşemeyen adayların gündeminde YKS boş kontenjanlar 2026 ve ek tercih süreci bulunuyor. Üniversite kayıtlarının tamamlanmasının ardından boş kalan lisans ve ön lisans kontenjanları belirlenerek YKS ek tercih sürecine geçilecek.",
-      "link": "https://www.milligazete.com.tr/universite-ek-tercihleri-2026-hangi-tarihte-yks-bos-kontenjan-listesi-nerede-taban-puani-sarti-var-mi-kimler-basvuramaz",
-      "published": "2026-09-03T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:53.926104+00:00"
-    },
-    {
-      "id": "c60a94c198140e04",
-      "source": "OdaTV",
-      "title": "Önce bindirim sonra sözde indirim... Son 10 gün kuralı devrede",
-      "summary": "Ticaret Bakanlığı yanıltıcı indirimlere karşı denetimleri sıkılaştırdı. Yeni düzenlemeyle indirim öncesi fiyat, son 10 gündeki en düşük tutar üzerinden hesaplanacak. Şartlı kampanyalar, yapay zeka ve sosyal medya reklamlarının da inceleneceği uygulamada cezalar 40 milyonu bulacak.",
-      "link": "https://www.odatv.com/ekonomi/once-bindirim-sonra-sozde-indirim-son-10-gun-kurali-devrede-120161245",
-      "published": "2026-09-03T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:54.458431+00:00"
-    },
-    {
-      "id": "732294980e990bc9",
-      "source": "Ekonomim",
-      "title": "WMO’dan El Nino alarmı: El Nino aşırı hava olayları, kuraklık ve selleri artırabilir",
-      "summary": "Dünya Meteoroloji Örgütü (WMO), sıcaklığa neden olan El Nino iklim olayının yıl sonuna kadar çok güçlenmesinin beklendiğini ve bunun da 2027&#039;ye kadar aşırı hava olayları riskini artırdığını bildirdi.",
-      "link": "https://www.ekonomim.com/dunya/wmodan-el-nino-alarmi-el-nino-asiri-hava-olaylari-kuraklik-ve-selleri-artirabilir-haberi-915920",
-      "published": "2026-09-03T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:59.788134+00:00"
-    },
-    {
-      "id": "b1b58f6fcd06b8d7",
-      "source": "Akşam",
-      "title": "Tarık Mengüç'ten sanat dünyasına 'vefasızlık' tepkisi!",
-      "summary": "Roman müziği şarkıcılarından Tarık Mengüç, hastalık süreci sonrası ilk kez konuştu. Kötü günleri geride bırakan şarkıcı, sanat dünyasından isimleri vefasızlıkla suçladı.",
-      "link": "https://www.aksam.com.tr/venus/tarik-mengucten-sanat-dunyasina-vefasizlik-tepkisi/haber-1695476",
-      "published": "2026-09-03T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:37.692450+00:00"
-    },
-    {
-      "id": "065dfcadfe6cbf06",
-      "source": "Akşam",
-      "title": "ABD ordusundan Pasifik'te operasyon! Tekne batırıldı",
-      "summary": "ABD ordusunun, Doğu Pasifik'te \"uyuşturucu kaçakçılığı faaliyetlerini desteklemek amacıyla yüzen yakıt ikmal istasyonu olarak faaliyet gösterdiğini\" öne sürdüğü tekneye müdahale ettiği ve batırdığı bildirildi.",
-      "link": "https://www.aksam.com.tr/dunya/abd-ordusundan-pasifikte-operasyon-tekne-batirildi/haber-1695475",
-      "published": "2026-09-03T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:37.692484+00:00"
-    },
-    {
-      "id": "033ae34cb015a95d",
-      "source": "Star",
-      "title": "Süper Lig'de 4. hafta heyecanı! İşte maç takvimi...",
-      "summary": "Trendyol Süper Lig'in 4. haftası yarın oynanacak Başakşehir-Galatasaray maçıyla başlayacak.",
-      "link": "https://www.star.com.tr/spor/super-ligde-4-hafta-heyecani-iste-mac-takvimi-haber-2037772/",
-      "published": "2026-09-03T06:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:38.875855+00:00"
-    },
-    {
-      "id": "4bb6cbc4b7d0cb79",
-      "source": "OdaTV",
-      "title": "Silivri'de batan gemi soruşturması... Alsu'nun 9 mürettebatı gemide gözaltında",
-      "summary": "Silivri açıklarında Alsu tankeri ile Tuğberk İmamoğlu kuru yük gemisinin çarpışmasıyla ilgili Silivri Cumhuriyet Başsavcılığı tarafından başlatılan soruşturmanın ayrıntıları netleşti. Alsu gemisinde görevli 9 kişi şüpheli olarak gemide tutuluyor.",
-      "link": "https://www.odatv.com/guncel/silivri-gemi-kazasi-sorusturmasinda-yeni-ayrintilar-alsunun-9-murettebati-gemide-gozaltinda-120161247",
-      "published": "2026-09-03T06:24:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:54.458469+00:00"
-    },
-    {
-      "id": "b18f85e1e1e225c6",
-      "source": "Yeniçağ",
-      "title": "İstanbul’da film gibi kovalamaca: Sürücü yine kaçtı",
-      "summary": "İstanbul Bayrampaşa’da film sahnelerini aratmayan bir olay yaşandı. ‘Dur’ ihtarına uymayan bir sürücü ile polis arasında kovalamaca yaşandı. Otomobil kaza yapınca sürücü orada bulunan bir motosiklete binip kaçtı. Sürücünün yanında bulunan kişi yakalandı.",
-      "link": "https://www.yenicaggazetesi.com/istanbulda-film-gibi-kovalamaca-surucu-yine-kacti-1067871h.htm",
-      "published": "2026-09-03T06:24:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:40.041374+00:00"
-    },
-    {
-      "id": "65ac5f96cad942bf",
-      "source": "Halk TV",
-      "title": "Kıbrıs'ta batan geminin enkazından çıkarılan kişinin ismi belli oldu",
-      "summary": "Kıbrıs&#039;ta batan Filo Jet isimli geminin arama çalışmalarında 550 metre derinlikte bulunan enkazından çıkarılan kişinin ismi belli oldu. Ekiplerin çalışmaları sonucunda resmi can kaybı 9’a çıkarken kayıp sayısı 19’a düştü.",
-      "link": "https://halktv.com.tr/turkiye/kibrista-batan-geminin-enkazindan-cikarilan-kisinin-ismi-belli-oldu-1052774h",
-      "published": "2026-09-03T06:24:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:42.851938+00:00"
-    },
-    {
-      "id": "8936d18413fba580",
-      "source": "Ekonomim",
-      "title": "Kademeli emeklilik nedir, bu yönde bir hazırlık var mı?",
-      "summary": "EYT düzenlemesinin ardından emeklilikte yaş ve prim farklarının yeniden gündeme gelmesiyle kademeli emeklilik talebi güç kazandı. 1999-2008 arasında sigortalı olan yaklaşık 4,5 milyon kişi için düzenleme isteyen EMADDER, iktidarla görüşmeler yürütürken hükümet henüz resmi bir taslak veya takvim açıklamadı.",
-      "link": "https://www.ekonomim.com/ekonomi/kademeli-emeklilik-nedir-bu-yonde-bir-hazirlik-var-mi-haberi-915922",
-      "published": "2026-09-03T06:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:59.788174+00:00"
-    },
-    {
-      "id": "b63cc27b88fa8435",
-      "source": "Halk TV",
-      "title": "İBB davasında 2. celsenin 11. günü: Ekrem İmamoğlu tahliye talebinde bulunacak",
-      "summary": "İBB Başkanı Ekrem İmamoğlu&#039;nun da aralarında bulunduğu 53&#039;ü tutuklu 414 sanıklı İBB davasının ikinci celsesinde bugün 11. gün. İmamoğlu, bugün mahkeme heyetinden tahliyesini talep edecek.",
-      "link": "https://halktv.com.tr/siyaset/ekrem-imamoglu-ibb-davasinda-tahliye-talebinde-bulundu-iste-dakika-dakika-durusmada-yasananlar-1052773h",
-      "published": "2026-09-03T06:23:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:42.851978+00:00"
-    },
-    {
-      "id": "1f130ea438cf0392",
-      "source": "OdaTV",
-      "title": "Akdeniz’in Hollywood’unda bir lezzet mozaiği, Malta",
-      "summary": "Haritada küçük bir nokta ama sofrada devasa bir imparatorluk! Nedim Atilla, Ridley Scott’ın set kurduğu sokaklardan Marsaxlokk’un balıkçı limanlarına uzanan sürükleyici bir Malta gastronomi rotası çiziyor.",
-      "link": "https://www.odatv.com/gastroda/malta-yemekleri-malta-mutfagi-i-maltanin-en-unlu-restoran-ve-kafeleri-120161246",
-      "published": "2026-09-03T06:23:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:30:54.458498+00:00"
-    },
-    {
-      "id": "82a9c413c29f4744",
-      "source": "Türkiye Gazetesi",
-      "title": "TRUMP'TAN KARA HAREKATI EMRİ!",
-      "summary": "ABD'nin İran'a karşı başlattığı askeri operasyonların süresi uzuyor. Wall Street Journal'a göre Savunma Bakanı Pete Hegseth, Orta Doğu'daki bazı Amerikan birliklerinin görev sürelerini 2027'ye kadar uzattı. Bölgede 50 bin asker, 19 savaş gemisi, hava savunma birlikleri ve savaş uçakları hazır tutulurken Başkan Donald Trump'ın danışmanlarına ekonomik baskının sonunda Tahran'ı nükleer programından v",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/abdnin-iran-savasi-2027ye-uzanabilir-adalar-icin-masada-kara-harekati-var-1813445",
-      "published": "2026-09-03T06:23:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:50:38.851804+00:00"
-    },
-    {
-      "id": "e268c0cbb3a0ef34",
-      "source": "Türkiye Gazetesi",
-      "title": "Trump'tan kara harekatı emri!",
-      "summary": "ABD'nin İran'a karşı başlattığı askeri operasyonların süresi uzuyor. Wall Street Journal'a göre Savunma Bakanı Pete Hegseth, Orta Doğu'daki bazı Amerikan birliklerinin görev sürelerini 2027'ye kadar uzattı. Bölgede 50 bin asker, 19 savaş gemisi, hava savunma birlikleri ve savaş uçakları hazır tutulurken Başkan Donald Trump'ın danışmanlarına ekonomik baskının sonunda Tahran'ı nükleer programından v",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/abdnin-iran-savasi-2027ye-uzanabilir-adalar-icin-masada-kara-harekati-var-1813445",
-      "published": "2026-09-03T06:23:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:35:38.009121+00:00"
-    },
-    {
-      "id": "014c0165e9e24e1f",
-      "source": "Türkiye Gazetesi",
-      "title": "ABD'nin İran savaşı 2027'ye uzanabilir! Adalar için masada kara harekatı var!",
-      "summary": "ABD'nin İran'a karşı başlattığı askeri operasyonların süresi uzuyor. Wall Street Journal'a göre Savunma Bakanı Pete Hegseth, Orta Doğu'daki bazı Amerikan birliklerinin görev sürelerini 2027'ye kadar uzattı. Bölgede 50 bin asker, 19 savaş gemisi, hava savunma birlikleri ve savaş uçakları hazır tutulurken Başkan Donald Trump'ın danışmanlarına ekonomik baskının sonunda Tahran'ı nükleer programından v",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/abdnin-iran-savasi-2027ye-uzanabilir-adalar-icin-masada-kara-harekati-var-1813445",
-      "published": "2026-09-03T06:23:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:34.956022+00:00"
-    },
-    {
-      "id": "78365ba800f35dfe",
-      "source": "Cumhuriyet",
-      "title": "TV yayın akışı 3 Eylül Perşembe! Bugün hangi kanalda ne var?",
-      "summary": "3 Eylül 2026 Perşembe günü televizyonda hangi dizilerin, filmlerin ve yarışma programlarının olduğu merak ediliyor. Kanal D, Star TV, Show TV, TRT 1, TV8 ve NOW TV yayın akışları belli oldu. İşte, 3 Eylül Perşembe günü ekranlara gelecek olan yapımlar...",
-      "link": "https://www.cumhuriyet.com.tr/tv-rehberi/tv-yayin-akisi-3-eylul-persembe-bugun-hangi-kanalda-ne-var-2534496",
-      "published": "2026-09-03T06:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:32.655888+00:00"
-    },
-    {
-      "id": "8f504efa6ff6160c",
-      "source": "Yeniçağ",
-      "title": "Alaattin Aktaş İTO enflasyonundaki kritik hatayı açıkladı",
-      "summary": "Alaattin Aktaş, İTO&#039;nun hesaplama yönteminde kritik bir hata yapıldığını ifade ederek, ağustos ayında açıklanan yüzde 1,66&#039;lık enflasyon oranının gerçeklikten uzak olduğunu ifade etti.",
-      "link": "https://www.yenicaggazetesi.com/alaattin-aktas-ito-enflasyonundaki-kritik-hatayi-acikladi-1067870h.htm",
-      "published": "2026-09-03T06:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:40.041412+00:00"
-    },
-    {
-      "id": "cd5a09795ec956bd",
-      "source": "Millî Gazete",
-      "title": "MasterChef'te dün akşam kim kazandı, eleme potasına kim gitti? 3. ve 4. eleme adayı kim oldu, dokunulmazlığı hangi takım kazandı?",
-      "summary": "MasterChef Türkiye'de yeni haftanın eleme heyecanı hız kesmeden devam ediyor. 2 Eylül Çarşamba akşamı ekrana gelen bölümde takımlar ikinci kez dokunulmazlık için mücadele ederken, gecenin sonunda eleme potasına giden iki isim daha belli oldu.",
-      "link": "https://www.milligazete.com.tr/masterchefte-dun-aksam-kim-kazandi-eleme-potasina-kim-gitti-3-ve-4-eleme-adayi-kim-oldu-dokunulmazligi-hangi-takim-kazandi",
-      "published": "2026-09-03T06:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:25:41.364516+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-03T03:05:49.616225+00:00",
+  "last_updated": "2026-09-03T03:11:03.887607+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 604,
+  "new_items_this_run": 603,
   "items": [
+    {
+      "id": "b034dabb21d7ada5",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kuveyt ordusu: İran'dan düzenlenen füze ve İHA saldırıları nedeniyle hava savunma sistemlerimiz devreye girdi",
+      "summary": "Kuveyt ordusundan yapılan açıklamada, İran'dan düzenlenen füze ve İHA saldırıları nedeniyle hava savunma sistemlerinin devreye girdiği ifade edildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/kuveyt-ordusu-irandan-duzenlenen-fuze-ve-iha-saldirilari-nedeniyle-hava-savunma-sistemlerimiz-devreye-girdi/4045879",
+      "published": "2026-09-03T03:05:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T03:10:39.220844+00:00"
+    },
     {
       "id": "d6f5063ae26fdac2",
       "source": "Yeniçağ",
@@ -534,6 +545,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T01:35:47.537631+00:00"
+    },
+    {
+      "id": "a761d131a1787b60",
+      "source": "Bir Gün",
+      "title": "Venezuela’da seçim için tarih yok: “Ülke hazır olduğunda”",
+      "summary": "Venezuela Geçici Devlet Başkanı Delcy Rodriguez, ülkede gerekli şartlar sağlandığında seçim yapılacağını belirterek, seçim tarihini kendisinin belirlemediğini söyledi. Rodriguez, “Seçim olacak ama ülke hazır olduğunda” dedi.",
+      "link": "https://www.birgun.net/haber/venezuelada-secim-icin-tarih-yok-ulke-hazir-oldugunda-732583",
+      "published": "2026-09-03T01:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T03:10:41.570382+00:00"
     },
     {
       "id": "d59f367b0f4a3c7d",
@@ -1205,6 +1227,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T00:20:54.147524+00:00"
+    },
+    {
+      "id": "7d5ee92bfbeed907",
+      "source": "Bir Gün",
+      "title": "ABD’nin Minnesota eyaletinde silahlı saldırı: Çok sayıda kişi yaralandı",
+      "summary": "ABD'nin Minnesota eyaletine bağlı Minneapolis kentinde meydana gelen silahlı saldırıda, ilk belirlemelere göre aralarında iki polis memurunun da bulunduğu çok sayıda kişi yaralandı. Minnesota Valisi Tim Walz, eyalet yetkililerinin yerel kolluk kuvvetlerine destek için olay yerinde olduğunu açıkladı.",
+      "link": "https://www.birgun.net/haber/abdnin-minnesota-eyaletinde-silahli-saldiri-cok-sayida-kisi-yaralandi-732582",
+      "published": "2026-09-03T00:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T03:10:41.570417+00:00"
     },
     {
       "id": "1db86056d0796d99",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-02T20:50:45.921516+00:00"
-    },
-    {
-      "id": "f2f8d274ff414f62",
-      "source": "Millî Gazete",
-      "title": "TUS Sınav Sonuçları Hangi Tarihte, Sonuç Belgesi Nereden Bakılır, ÖSYM Aday Şifresiyle Nasıl Girilir, Tercih Kılavuzu Ne Zaman?",
-      "summary": "2026 TUS 2. Dönem sonuçları ne zaman açıklanacak? TUS sonuçları nereden ve nasıl sorgulanır? ÖSYM TUS sonuç ekranına nasıl girilir? Temel Tıp Bilimleri ve Klinik Tıp Bilimleri oturumlarına katılan adayların beklediği sonuçlar 17 Eylül 2026’da ilan edilecek. T.C. kimlik numarası ve aday şifresiyle yapılacak sorgulama ile sonuç sonrası başlayacak tercih sürecinin ayrıntıları.",
-      "link": "https://www.milligazete.com.tr/tus-sinav-sonuclari-hangi-tarihte-sonuc-belgesi-nereden-bakilir-osym-aday-sifresiyle-nasil-girilir-tercih-kilavuzu-ne-zaman",
-      "published": "2026-09-02T20:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T20:45:48.537258+00:00"
-    },
-    {
-      "id": "b3b686f38a45d947",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İsrail ordusunun, Batı Şeria'da bir köye düzenlediği baskında 2 Filistinli hayatını kaybetti",
-      "summary": "İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'da bir köye düzenlediği baskında biri çocuk 2 Filistinli yaşamını yitirdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-bati-seriada-bir-koye-duzenledigi-baskinda-2-filistinli-hayatini-kaybetti/4045810",
-      "published": "2026-09-02T20:40:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T20:50:36.946475+00:00"
-    },
-    {
-      "id": "2167d2733e1777fc",
-      "source": "Evrensel",
-      "title": "Galatasaray'dan ayrılan Nelsson, Nordsjaelland'a transfer oldu",
-      "summary": "Galatasaray'dan ayrılan Victor Nelsson, Danimarka'nın Nordsjaelland takımına transfer oldu.",
-      "link": "https://www.evrensel.net/haber/5998931/galatasaraydan-ayrilan-nelsson-nordsjaellanda-transfer-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-02T20:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-02T20:50:40.002242+00:00"
     }
   ]
 }

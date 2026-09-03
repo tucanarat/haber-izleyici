@@ -1,12 +1,133 @@
 {
-  "last_updated": "2026-09-03T17:41:14.894686+00:00",
+  "last_updated": "2026-09-03T17:46:40.128410+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 599,
+  "new_items_this_run": 617,
   "items": [
+    {
+      "id": "0ce9191a160eae1a",
+      "source": "Akşam",
+      "title": "Gençlerbirliği'nden 20'lik genç santrfor! Victor Orakpo imzayı attı",
+      "summary": "Süper Lig ekiplerinden Gençlerbirliği, kadrosunu 20 yaşındaki genç futbolcu Victor Orakpo ile güçlendirdi. Başkent ekibi, oyuncuyu kiralık olarak renklerine bağladı.",
+      "link": "https://www.aksam.com.tr/spor/genclerbirliginden-20lik-genc-santrfor-victor-orakpo-imzayi-atti/haber-1695694",
+      "published": "2026-09-03T17:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:21.237518+00:00"
+    },
+    {
+      "id": "ce95107f482f10c9",
+      "source": "Cumhuriyet",
+      "title": "Fiba Salon İKSV'nin yeni sezon programı açıklandı",
+      "summary": "Yeni sezonunda Fiba Salon İKSV, çok disiplinli programıyla sanat tutkunları buluşturacak.",
+      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/fiba-salon-iksv-nin-yeni-sezon-programi-aciklandi-2534709",
+      "published": "2026-09-03T17:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:16.453541+00:00"
+    },
+    {
+      "id": "0b5615c458c3c76b",
+      "source": "Yeni Akit",
+      "title": "İBB davasında flaş gelişme! Şaibeli dosyada 2 isim hakkında tahliye kararı!",
+      "summary": "İstanbul 33. Ağır Ceza Mahkemesi'nde görülen davanın son duruşmasında, tutuklu yargılanan sanıkların durumları yeniden değerlendirildi. Mahkeme heyeti, Bakırköy Belediye Başkan Yardımcısı Ali Rıza Akyüz ile iş insanı Serkan Öztürk'ün tahliyesine karar verdi.",
+      "link": "https://www.yeniakit.com.tr/haber/ibb-davasinda-flas-gelisme-saibeli-dosyada-2-isim-hakkinda-tahliye-karari-2020838.html",
+      "published": "2026-09-03T17:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:22.651969+00:00"
+    },
+    {
+      "id": "741583df826f1b11",
+      "source": "Yeni Yaşam",
+      "title": "Ukrayna’da güvenlik güçleri arasında iç çatışma",
+      "summary": "Ukrayna&#8217;da iç güvenlik servisleri birbiriyle çatıştı, Zelenskiy soruşturma talimatı verdi Ukrayna’nın iç güvenlik servisi SBU ile askeri istihbarat teşkilatı HUR mensupları arasında başkent Kiev’in merkezinde çıkan silahlı çatışmada üç HUR görevlisi yaralandı. Cumhurbaşkanı Volodimir Zelenskiy olayı “utanç verici” diye nitelendirerek soruşturma talimatı verdi. Çatışmanın, SBU’nun HUR gözetim",
+      "link": "https://yeniyasamgazetesi9.com/ukraynada-guvenlik-gucleri-arasinda-ic-catisma/",
+      "published": "2026-09-03T17:42:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:30.141120+00:00"
+    },
+    {
+      "id": "04fc1ca7e8cb4f0c",
+      "source": "Yeni Şafak",
+      "title": "Kılıçdaroğlu'ndan İmamoğlu'na 'Benim hırsızım iyidir' göndermesi",
+      "summary": "CHP lideri Kemal Kılıçdaroğlu, İzmir'de katıldığı bir etkinlikte yaptığı konuşmasında isim vermeden Ekrem İmamoğlu'na yüklendi. \"Benim hırsızım iyidir\" diyenlerle mücadele edilmesi gerektiğini aksi takdirde ülkeye adaletin gelmeyeceğini ifade eden Kılıçdaroğlu, daha önce de İBB iddianamesi için “sıradan değil” ifadelerini kullanarak yolsuzluk soruşturmalarına konu olan isimlerin aklanarak gelmesi ",
+      "link": "https://www.yenisafak.com/gundem/kilicdaroglundan-imamogluna-benim-hirsizim-iyidir-gondermesi-4853007",
+      "published": "2026-09-03T17:41:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:21.920576+00:00"
+    },
+    {
+      "id": "6328fcc916908369",
+      "source": "Euronews Türkçe",
+      "title": "İşverenler bugünün değil, dünün işgücü piyasasına göre mi işe alıyor?",
+      "summary": "Pozisyon başına düşen başvuru sayısı 2022'den bu yana kabaca iki katına çıktı, ama iş dünyası liderleri hâlâ aradıkları yeteneği bulamadıklarını söylüyor. Bu işte bir terslik var.",
+      "link": "http://tr.euronews.com/business/2026/09/03/isverenler-bugunun-degil-dunun-isgucu-piyasasina-gore-mi-ise-aliyor",
+      "published": "2026-09-03T17:41:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:40.127114+00:00"
+    },
+    {
+      "id": "4c9c4665ce50ca99",
+      "source": "Karar",
+      "title": "Babacan’dan Davutoğlu’na destek: İfade özgürlüğüne açık müdahale",
+      "summary": "DEVA Partisi lideri Babacan, Davutoğlu hakkında “Cumhurbaşkanına hakaret” suçlamasıyla başlatılan soruşturmaya tepki gösterdi. Soruşturmayı ifade özgürlüğüne ve demokratik siyasete müdahale olarak nitelendiren Babacan, “Sayın Davutoğlu’na desteğim ve dayanışmam tamdır” dedi.",
+      "link": "https://www.karar.com/guncel-haberler/babacandan-davutogluna-destek-ifade-ozgurlugune-acik-mudahale-2069860",
+      "published": "2026-09-03T17:41:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:22.946447+00:00"
+    },
+    {
+      "id": "ebbc46dc681505e9",
+      "source": "Halk TV",
+      "title": "İBB davasında İmamoğlu'ndan Bakan Gürlek'e canlı yayın yanıtı",
+      "summary": "İBB davasında tahliye taleplerinin alındığı duruşmada savunması gerçekleşemeyen Ekrem İmamoğlu da söz aldı. İlk kez kürsüye çıkan İmamoğlu, Akın Gürlek&#039;in &#039;Canlı yayın hala ister mi?&#039; sözlerine tepki gösterdi.",
+      "link": "https://halktv.com.tr/turkiye/ibb-davasinda-imamoglundan-bakan-gurleke-canli-yayin-yaniti-1052940h",
+      "published": "2026-09-03T17:41:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:25.950683+00:00"
+    },
+    {
+      "id": "5c61c02b8e2a4e26",
+      "source": "Star",
+      "title": "Fenerbahçe'de Beşiktaş mesaisi devam ediyor",
+      "summary": "Fenerbahçe, Süper Lig'in 4. haftasında oynayacağı Beşiktaş derbisinin hazırlıklarını sürdürdü. Sarı-lacivertliler, çalışmalarını yarın yapacağı antrenmanla tamamlayacak.",
+      "link": "https://www.star.com.tr/spor/fenerbahcede-besiktas-mesaisi-devam-ediyor-haber-2037913/",
+      "published": "2026-09-03T17:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:22.247204+00:00"
+    },
+    {
+      "id": "6022e01056357653",
+      "source": "Ekonomim",
+      "title": "Son dakika İBB davasında 2 kişiye tahliye kararı",
+      "summary": "İBB davasında Bakırköy Belediyesi Başkan Yardımcısı Ali Rıza Akyüz ve İş insanı Serkan Öztürk hakkında tahliye kararı verildi. Ekrem İmamoğlu dahil 51 tutuklunun, tutukluluk hallerinin devamına karar verildi.",
+      "link": "https://www.ekonomim.com/gundem/son-dakika-ibb-davasinda-2-kisiye-tahliye-karari-haberi-916093",
+      "published": "2026-09-03T17:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:31.426526+00:00"
+    },
+    {
+      "id": "9ef439eeb278a798",
+      "source": "Halk TV",
+      "title": "Üsküdar seçimi öncesi gözaltılara Özgür Çelik'ten tepki: Bu yöntem, kaybedenlerin yöntemidir",
+      "summary": "YENİ Parti İstanbul İl Başkanı Özgür Çelik, Üsküdar Belediye Başkan Vekilliği seçimi öncesi İBB bürokratları ve meclis üyelerinin gözaltına alınmasına tepki gösterdi. Süreci &quot;kumpas&quot; olarak niteleyen Çelik, &quot;Bu, kaybedenlerin yöntemidir&quot; dedi.",
+      "link": "https://halktv.com.tr/siyaset/uskudar-secimi-oncesi-gozaltilara-ozgur-celikten-tepki-bu-yontem-kaybedenlerin-yontemidir-1052939h",
+      "published": "2026-09-03T17:40:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:25.950751+00:00"
+    },
     {
       "id": "51485262dedce744",
       "source": "Euronews Türkçe",
@@ -17,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T17:41:14.893642+00:00"
+    },
+    {
+      "id": "0cf365c6796ce687",
+      "source": "OdaTV",
+      "title": "Ankara'da deprem korkuttu",
+      "summary": "Ankara&#039;nın Kalecik ilçesinde saat 20.11&#039;de yerin 11.74 kilometre derinliğinde 3.9 büyüklüğünde bir deprem meydana geldi.",
+      "link": "https://www.odatv.com/guncel/ankarada-deprem-korkuttu-120161358",
+      "published": "2026-09-03T17:40:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:25.688171+00:00"
     },
     {
       "id": "385ce37792612a41",
@@ -129,6 +261,17 @@
       "fetched_at": "2026-09-03T17:35:49.529758+00:00"
     },
     {
+      "id": "5ae484a4815cc889",
+      "source": "Finans Gündem",
+      "title": "Ankara Kalecik'te 3,9 büyüklüğünde deprem",
+      "summary": "AFAD'tan yapılan açıklamaya göre Ankara'nın Kalecik ilçesinde 3,9 büyüklüğünde deprem meydana geldi.",
+      "link": "https://www.finansingundemi.com/haber/ankara-kalecikte-39-buyuklugunde-deprem/1907154",
+      "published": "2026-09-03T17:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:32.966888+00:00"
+    },
+    {
       "id": "6e304a91bb1d96c4",
       "source": "Aydınlık",
       "title": "Ankara Kalecik'te korkutan deprem",
@@ -215,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T17:35:53.204418+00:00"
+    },
+    {
+      "id": "8386e74ae80a7071",
+      "source": "Habertürk",
+      "title": "KPSS ortaöğretim sınavı ne zaman?",
+      "summary": "Kamu personeli olmak isteyen adaylar KPSS ortaöğretim sınav tarihini merak ediyor. Ortaöğretim (lise) sınavlarına hazırlanan adaylar için KPSS sınavı tek oturumda gerçekleşecek olup sonuçlar ÖSYM AİS ekranı üzerinden duyurulacak. KPSS başvurularında son tarih ise belli oldu. Peki KPSS ortaöğretim sınavı ne zaman, başvurular nasıl yapılır? İşte, 2026 KPSS ortaöğretim sınav ve başvuru tarihi",
+      "link": "https://www.haberturk.com/kpss-ortaogretim-sinavi-ne-zaman-basvurular-bitti-mi-kpss-ortaogretim-sinav-ve-basvuru-tarihi-3910099",
+      "published": "2026-09-03T17:32:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:13.383628+00:00"
     },
     {
       "id": "b75fdad05e4c3443",
@@ -424,6 +578,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T17:31:00.904987+00:00"
+    },
+    {
+      "id": "3ca37e689b974d3b",
+      "source": "Ekonomim",
+      "title": "Silivri'deki gemi faciasının ön bilirkişi raporu ortaya çıktı",
+      "summary": "Silivri açıklarında &quot;Alsu&quot; ve &quot;Tuğberk İmamoğlu&quot; gemilerinin çarpışmasıyla ilgili hazırlanan bilirkişi ön tespit raporu, kazanın çift taraflı köprü üstü zafiyetleri ve telsiz mutabakatına aykırı manevralar sonucunda meydana geldiğini ortaya koydu.",
+      "link": "https://www.ekonomim.com/gundem/silivrideki-gemi-faciasinin-on-bilirkisi-raporu-ortaya-cikti-haberi-916094",
+      "published": "2026-09-03T17:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T17:46:31.426598+00:00"
     },
     {
       "id": "2f266e6a62d05a3c",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T15:01:08.863335+00:00"
-    },
-    {
-      "id": "492ec69770a874bd",
-      "source": "Star",
-      "title": "Pierre Sage'den Ismaila Sarr açıklaması",
-      "summary": "Transferde ismi gündemden düşmeyen Ismaila Sarr için Crystal Palace Teknik Direktörü Pierre Sage'den resmi açıklama geldi.",
-      "link": "https://www.star.com.tr/spor/pierre-sageden-ismaila-sarr-aciklamasi-haber-2037895/",
-      "published": "2026-09-03T14:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:01:10.230849+00:00"
-    },
-    {
-      "id": "b9b9c0c688072634",
-      "source": "Millî Gazete",
-      "title": "200 TL'nin üç yıllık çöküşü: Vatandaş kaç ekmek kaybetti?",
-      "summary": "TÜİK'in açıkladığı Ağustos ayı enflasyon verileriyle birlikte 200 liranın son üç yıldaki erimesi gün yüzüne çıktı. Mehmet Şimşek yönetiminde geçen sürede en büyük banknotla alınabilen ekmek sayısı 40'tan 11'e düştü. 200 liranın eski alım gücüne ulaşması için bugün tam 635 TL gerekiyor.",
-      "link": "https://www.milligazete.com.tr/200-tlnin-uc-yillik-cokusu-vatandas-kac-ekmek-kaybetti",
-      "published": "2026-09-03T14:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:01:12.953282+00:00"
-    },
-    {
-      "id": "a0a022e093062a50",
-      "source": "OdaTV",
-      "title": "X'te İsrail propagandası yapan 4 hesaba erişim engeli",
-      "summary": "İletişim Başkanlığı, İstanbul Cumhuriyet Başsavcılığı ve Siber Suçlarla Mücadele Daire Başkanlığının ortak çalışması sonucu; İsrail propagandası ve Türkiye aleyhine kara propaganda yürüttüğü belirlenen 4 X hesabına erişim engeli getirildi.",
-      "link": "https://www.odatv.com/guncel/xte-israil-propagandasi-yapan-4-hesaba-erisim-engeli-120161349",
-      "published": "2026-09-03T14:58:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:05:41.273459+00:00"
-    },
-    {
-      "id": "2bbba9ebce8000cb",
-      "source": "Sabah",
-      "title": "2 ilde orman yangını: Alevler kontrol altında!",
-      "summary": "Antalya ve Bolu’da henüz belirlenemeyen nedenlerle çıkan orman yangınlarına karşı alevlerle zamana karşı yarış başlatıldı. Ekipler, havadan ve karadan yüzlerce personelle 2 farklı noktadaki yangınları... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/3-ilde-orman-yangini-alevlerle-mucadele-suruyor-7653780",
-      "published": "2026-09-03T14:58:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:32.396529+00:00"
-    },
-    {
-      "id": "d25c56d54d61feb2",
-      "source": "Sabah",
-      "title": "2 ilde orman yangını: Alevlerle amansız mücadele!",
-      "summary": "Aydın, Antalya ve Bolu’da henüz belirlenemeyen nedenlerle çıkan orman yangınlarına karşı alevlerle zamana karşı yarış başlatıldı. Ekipler, 13 helikopter, 8 uçak, çok sayıda arazöz ve karadan yüzlerce personelle... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/3-ilde-orman-yangini-alevlerle-mucadele-suruyor-7653780",
-      "published": "2026-09-03T14:58:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T16:15:49.311845+00:00"
-    },
-    {
-      "id": "eb8b1e7c53ee65b7",
-      "source": "Sabah",
-      "title": "3 ilde orman yangını: Aydın, Antalya ve Bolu'da alevlerle mücadele!",
-      "summary": "Aydın, Antalya ve Bolu’da henüz belirlenemeyen nedenlerle çıkan orman yangınlarına karşı alevlerle zamana karşı yarış başlatıldı. Ekipler, 13 helikopter, 8 uçak, çok sayıda arazöz ve karadan yüzlerce personelle... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/3-ilde-orman-yangini-alevlerle-mucadele-suruyor-7653780",
-      "published": "2026-09-03T14:58:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:35:47.559357+00:00"
-    },
-    {
-      "id": "c545b219493f213f",
-      "source": "Sabah",
-      "title": "3 ilde orman yangını: Aydın, Antalya ve Bolu'da alevlerle mücadele sürüyor",
-      "summary": "Aydın, Antalya ve Bolu’da henüz belirlenemeyen nedenlerle çıkan orman yangınlarına karşı alevlerle zamana karşı yarış başlatıldı. Ekipler, 13 helikopter, 8 uçak, çok sayıda arazöz ve karadan yüzlerce personelle... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/3-ilde-orman-yangini-alevlerle-mucadele-suruyor-7653780",
-      "published": "2026-09-03T14:58:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:15:57.020169+00:00"
-    },
-    {
-      "id": "621ec9ef3c5becfc",
-      "source": "Gerçek Gündem",
-      "title": "Eski Bakan Denizolgun Soruşturmasında Flaş Gelişme: Doktoru Gözaltına Alındı",
-      "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun’un ölümüne ilişkin soruşturmada, daha önce tanık olarak ifade veren doktoru N.D. yalan tanıklık suçlamasıyla gözaltına alındı.",
-      "link": "https://www.gercekgundem.com/guncel/eski-bakan-denizolgun-sorusturmasinda-flas-gelisme-doktoru-gozaltina-alindi-577956",
-      "published": "2026-09-03T14:58:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:05:44.653154+00:00"
-    },
-    {
-      "id": "e6d8802852acbdde",
-      "source": "Star",
-      "title": "Yalan tanıklık yapmakla suçlanıyor! Denizolgun'un doktoru gözaltına alındı",
-      "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüne ilişkin yürütülen soruşturma kapsamında Denizolgun'un doktoru N.D., 'yalan tanıklık' suçlamasıyla gözaltına alındı.",
-      "link": "https://www.star.com.tr/guncel/yalan-taniklik-ile-suclaniyor-denizolgunun-doktoru-gozaltina-alindi-haber-2037894/",
-      "published": "2026-09-03T14:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:05:37.111125+00:00"
-    },
-    {
-      "id": "d709b094cb9656f7",
-      "source": "Millî Gazete",
-      "title": "FB BJK maçı hakemi kim oldu? Halil Umut Meler nereli? Yardımcı hakemler kim?",
-      "summary": "Trendyol Süper Lig’de 4. haftanın en dikkat çeken karşılaşmasında Fenerbahçe ile Beşiktaş kozlarını paylaşacak. Kadıköy’de oynanacak dev mücadele yaklaşırken Fenerbahçe Beşiktaş maçı ne zaman, saat kaçta, hangi kanalda? FB BJK derbisi hakemi kim? soruları futbolseverlerin odaklandığı konular arasında yer aldı.",
-      "link": "https://www.milligazete.com.tr/fb-bjk-maci-hakemi-kim-oldu-halil-umut-meler-nereli-yardimci-hakemler-kim",
-      "published": "2026-09-03T14:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:05:40.490413+00:00"
-    },
-    {
-      "id": "96db988a55878726",
-      "source": "Star",
-      "title": "'Yalan tanıklık' ile suçlanıyor! Denizolgun'un doktoru gözaltına alındı",
-      "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüne ilişkin yürütülen soruşturma kapsamında Denizolgun'un doktoru N.D., 'yalan tanıklık' suçlamasıyla gözaltına alındı.",
-      "link": "https://www.star.com.tr/guncel/yalan-taniklik-ile-suclaniyor-denizolgunun-doktoru-gozaltina-alindi-haber-2037894/",
-      "published": "2026-09-03T14:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:01:10.230884+00:00"
-    },
-    {
-      "id": "43532683b58c0ab6",
-      "source": "Habertürk",
-      "title": "Sağlık Bakanlığı personel alımı ne zaman?",
-      "summary": "Sağlık Bakanlığı personel alımı yapacağını duyurdu. Sağlık Bakanlığı 26 bin 673 sözleşmeli personel alımına ilişkin Bakan Memişoğlu katıldığı bir programda \"2026 Eylül'deki KPSS sonrasında bu alımları planlayacağız. Yani 2026'nın sonunda bir alım planlıyoruz.\" ifadelerini kullanmıştı. Yayınlanan kılavuzla birlikte Sağlık Bakanlığı personel alımı başvuru detayları netleşecek. Peki Sağlık Bakanlığı ",
-      "link": "https://www.haberturk.com/saglik-bakanligi-personel-alimi-ne-zaman-2026-saglik-bakanligi-personel-alimi-basvuru-sartlari-nedir-kadro-dagilimi-ve-branslari-belli-mi-3909591",
-      "published": "2026-09-03T14:57:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:15:48.680449+00:00"
-    },
-    {
-      "id": "56dcbe9baf6c8eff",
-      "source": "LOG",
-      "title": "Apple, tek parça katlanabilir ekranlı MacBook’u iptal etmiş olabilir",
-      "summary": "Apple, bir süredir gündemde olan tek parça katlanabilir ekrana sahip MacBook modelini iptal etmiş olabilir. Omdia&#8217;nın iddiasına göre bu cihazda 16,1 inç ila 18 inç arasında değişen büyük bir ekran alanının sunulması planlanıyordu. Omdia, buna ek olarak Apple&#8217;ın LCD ekranlı MacBook Air ile OLED ekranlı MacBook arasında konumlandırılacak yeni bir 13,8 inç ekranlı MacBook modeli üzerinde ",
-      "link": "https://www.log.com.tr/apple-tek-parca-katlanabilir-ekranli-macbooku-iptal-etmis-olabilir/",
-      "published": "2026-09-03T14:57:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:01:27.926132+00:00"
-    },
-    {
-      "id": "bc0ea9ecf0b46ea7",
-      "source": "Türkiye Gazetesi",
-      "title": "DOKTORU GÖZALTINA ALINDI!",
-      "summary": "Eski bakan Arif Ahmet Denizolgun'un ölümü soruşturmasında doktor N.D. yalan tanıklıktan gözaltına alındı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/arif-ahmet-denizolgun-sorusturmasinda-doktoruna-yalan-tanikliktan-gozalti-1813582",
-      "published": "2026-09-03T14:57:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:10:44.639283+00:00"
-    },
-    {
-      "id": "7547102150544f4a",
-      "source": "Türkiye Gazetesi",
-      "title": "DOKTORU GÖZALTINDA!",
-      "summary": "Eski bakan Arif Ahmet Denizolgun'un ölümü soruşturmasında doktor N.D. yalan tanıklıktan gözaltına alındı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/arif-ahmet-denizolgun-sorusturmasinda-doktoruna-yalan-tanikliktan-gozalti-1813582",
-      "published": "2026-09-03T14:57:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T15:05:33.750118+00:00"
     }
   ]
 }

@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-09-03T20:25:51.079691+00:00",
+  "last_updated": "2026-09-03T20:31:19.748802+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 597,
+  "new_items_this_run": 593,
   "items": [
+    {
+      "id": "8c8a6032fdcf3c16",
+      "source": "Akşam",
+      "title": "Silivri'deki facianın sebebi belli oldu: İki gemi kaptanı tutuklandı",
+      "summary": "Silivri açıklarında iki Türk bayraklı ticari geminin çarpıştığı kazaya ilişkin Alsu gemisinde gözaltına alınan 6 şüpheliden 2'si tutuklanarak cezaevine gönderildi.",
+      "link": "https://www.aksam.com.tr/guncel/silivrideki-facianin-sebebi-belli-oldu-iki-gemi-kaptani-tutuklandi/haber-1695712",
+      "published": "2026-09-03T20:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:53.615019+00:00"
+    },
+    {
+      "id": "a3b5d6689866f793",
+      "source": "Halk TV",
+      "title": "Arabanın çarptığı 3 yaşındaki Elif kurtarılamadı",
+      "summary": "Eskişehir&#039;de yolun karşısına geçmeye çalışan 3 yaşındaki Elif Mavi Avli, otomobilin çarpması sonucu ağır yaralandı. Kaldırıldığı hastanede tüm müdahalelere rağmen hayatını kaybetti.",
+      "link": "https://halktv.com.tr/turkiye/arabanin-carptigi-3-yasindaki-elif-kurtarilamadi-1052961h",
+      "published": "2026-09-03T20:29:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:59.306888+00:00"
+    },
+    {
+      "id": "146a49edcc37d4f8",
+      "source": "Halk TV",
+      "title": "Kayseri'de korkunç görüntüler: Kaza sonrası iki araç da yandı",
+      "summary": "Kayseri&#039;nin Hacılar ilçesinde, otomobille motosikletin çarpışması sonucu 2 kişi yaralandı.",
+      "link": "https://halktv.com.tr/turkiye/kayseride-korkunc-goruntuler-kaza-sonrasi-iki-arac-da-yandi-1052960h",
+      "published": "2026-09-03T20:28:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:59.306927+00:00"
+    },
+    {
+      "id": "ad19acf33b37ac6f",
+      "source": "OdaTV",
+      "title": "Asensio'dan videolu yalanlama",
+      "summary": "Fenerbahçe&#039;nin İspanyol oyuncusu Marco Asensio, dizindeki ciddi sakatlık iddiasına sosyal medyadan karşılık verdi.",
+      "link": "https://www.odatv.com/spor/asensiodan-videolu-yalanlama-120161371",
+      "published": "2026-09-03T20:28:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:58.831033+00:00"
+    },
+    {
+      "id": "1494cc8d46a0e2e3",
+      "source": "Cumhuriyet",
+      "title": "Eskişehir'de feci kaza: 3 yaşındaki Elif Mavi hayatını kaybetti",
+      "summary": "Eskişehir'in Odunpazarı ilçesinde yolun karşısına geçmek isteyen 3 yaşındaki Elif Mavi Avli'ye otomobil çarptı. Ağır yaralanan küçük çocuk, kaldırıldığı hastanede hayatını kaybetti.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-feci-kaza-3-yasindaki-elif-mavi-hayatini-kaybetti-2534770",
+      "published": "2026-09-03T20:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:48.010926+00:00"
+    },
+    {
+      "id": "fb391a37fb8cd3e3",
+      "source": "DonanımHaber",
+      "title": "Bu artık bir ihtimal değil: Küresel ısınmada 1,5 derece hedefi aşılacak",
+      "summary": "Birleşmiş Milletler'in yeni iklim raporu, 1,5 derece hedefinin aşılmasının artık ihtimal olmaktan çıktığını ortaya koydu. Rapora göre önümüzdeki birkaç yılda bu eşik aşılacak.",
+      "link": "https://www.donanimhaber.com/artik-ihtimal-degil-kuresel-isinmada-1-5-derece-hedefi-asilacak--210068",
+      "published": "2026-09-03T20:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:31:17.437049+00:00"
+    },
+    {
+      "id": "309e8dd491a838aa",
+      "source": "Karar",
+      "title": "Gözaltılarla birlikte başkan vekili seçimi öncesi dengeler değişti: Üsküdar’da dört CHP’li meclis üyesi AK Parti’ye geçti",
+      "summary": "Üsküdar Belediye Meclisinin CHP’li üyeleri Ahmet Başbaydar, Ayhan Aydın, Hüseyin Kazan ve Tahsin Usta partilerinden istifa ederek AK Parti’ye katıldı. İBB’ye yönelik operasyonda gözaltına alınan Üsküdar Belediye Meclisi üyeleriyle birlikte, cumartesi günü yapılacak başkan vekili seçimi öncesinde meclisteki tablo değişti.",
+      "link": "https://www.karar.com/guncel-haberler/gozaltilarla-birlikte-baskan-vekili-secimi-oncesi-dengeler-degisti-2069882",
+      "published": "2026-09-03T20:27:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:55.752991+00:00"
+    },
+    {
+      "id": "176b9055f591f807",
+      "source": "Yeniçağ",
+      "title": "Kilosu 30 TL'den satılıyor: Coğrafi işaretli ürünün hasadı başladı",
+      "summary": "Kırıkkale&#039;nin Yahşihan ilçesinde yaklaşık bir asırlık geçmişe sahip coğrafi işaretli Kılıçlar soğanında hasat sezonu başladı. Üreticiler, dönüm başına 4-5 ton verim beklerken ürünün kilogramı yaklaşık 30 liradan alıcı buluyor.",
+      "link": "https://www.yenicaggazetesi.com/kilosu-30-tlden-satiliyor-cografi-isaretli-urunun-hasadi-basladi-1068149h.htm",
+      "published": "2026-09-03T20:27:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:56.351917+00:00"
+    },
     {
       "id": "176e28639967a56f",
       "source": "Gazete Pencere",
@@ -17,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T20:25:37.905896+00:00"
+    },
+    {
+      "id": "84f5fed20c82963e",
+      "source": "Millî Gazete",
+      "title": "Silivri'deki gemi faciasında karar: 2 kaptan tutuklandı",
+      "summary": "Silivri açıklarında 10 denizcinin kaybolduğu gemi faciasında beklenen yargı kararı çıktı. Kusurlu bulunan \"Alsu\" gemisinin 1'inci ve 3'üncü kaptanı cezaevine gönderilirken, 4 mürettebat adli kontrolle serbest bırakıldı.",
+      "link": "https://www.milligazete.com.tr/silivrideki-gemi-faciasinda-karar-2-kaptan-tutuklandi",
+      "published": "2026-09-03T20:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:58.173933+00:00"
     },
     {
       "id": "533c1f107d7bae4c",
@@ -239,6 +338,17 @@
       "fetched_at": "2026-09-03T20:20:54.878755+00:00"
     },
     {
+      "id": "1b64e6d2dce57c8e",
+      "source": "Millî Gazete",
+      "title": "Yaren leylek 15'inci yılında göç yolculuğuna başladı",
+      "summary": "Bursa'nın Karacabey ilçesinde 15 yıldır aynı kayığa konarak dünyaca ünlü bir dostluğa imza atan Yaren Leylek, ailesiyle birlikte Afrika'ya uzanan o uzun göç yolculuğuna başladı.",
+      "link": "https://www.milligazete.com.tr/yaren-leylek-15inci-yilinda-goc-yolculuguna-basladi",
+      "published": "2026-09-03T20:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:58.173971+00:00"
+    },
+    {
       "id": "61549dee477be719",
       "source": "Yeniçağ",
       "title": "Saatlik 1500 TL kazanıyorlar: Mesleği duyunca çok şaşıracaksınız",
@@ -325,6 +435,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T20:15:46.433414+00:00"
+    },
+    {
+      "id": "716b455fa768556b",
+      "source": "Evrensel",
+      "title": "Fenerbahçe, Talisca'nın sözleşmesini feshetti",
+      "summary": "Fenerbahçe Kulübü, Brezilyalı futbolcu Anderson Talisca'nın sözleşmesinin feshedildiğini açıkladı.",
+      "link": "https://www.evrensel.net/haber/5999065/fenerbahce-taliscanin-sozlesmesini-feshetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-03T20:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:50.904455+00:00"
     },
     {
       "id": "ee984d565160ff38",
@@ -435,6 +556,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T20:05:43.092252+00:00"
+    },
+    {
+      "id": "fac2fbbd4549e12e",
+      "source": "Evrensel",
+      "title": "Fenerbahçe'nin Şampiyonlar Ligi kadrosu belli oldu",
+      "summary": "Fenerbahçe, Şampiyonlar Ligi için kadrosunu UEFA'ya bildirdi.",
+      "link": "https://www.evrensel.net/haber/5999064/fenerbahcenin-sampiyonlar-ligi-kadrosu-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-03T20:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T20:30:50.904485+00:00"
     },
     {
       "id": "ff46daa4e3edf3fd",
@@ -5374,138 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T17:30:50.579713+00:00"
-    },
-    {
-      "id": "6d5adecaa5cd58f0",
-      "source": "Bir Gün",
-      "title": "Kuzey Kıbrıs'taki gemi kazasında kaybolanlardan birinin daha cansız bedenine ulaşıldı",
-      "summary": "Girne'de meydana gelen faciada kayıp 19 kişiden birinin daha naaşına ulaşıldı. Açıklama Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'dan geldi.",
-      "link": "https://www.birgun.net/haber/kuzey-kibris-taki-gemi-kazasinda-kaybolanlardan-birinin-daha-cansiz-bedenine-ulasildi-732733",
-      "published": "2026-09-03T17:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:30:52.741729+00:00"
-    },
-    {
-      "id": "04087b535be74a03",
-      "source": "Cumhuriyet",
-      "title": "Fenerbahçe'den Marco Asensio iddialarına yanıt: 'Gerçek dışı ve hayal ürünü'",
-      "summary": "Süper Lig ekibi Fenerbahçe, İspanyol futbolcu Marco Asensio'nun sağlık durumu hakkında ortaya atılan iddialar hakkında açıklama yaptı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-den-marco-asensio-iddialarina-yanit-gercek-disi-ve-hayal-urunu-2534705",
-      "published": "2026-09-03T17:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:28.336934+00:00"
-    },
-    {
-      "id": "71b95756da7d6fb1",
-      "source": "Akşam",
-      "title": "Cezaevinden kaçtı, Costa Brava'ya sığındı: 26 yıllık Türk firari kıskıvrak yakalandı",
-      "summary": "İspanya'nın doğusundaki Katalonya özerk bölgesinin yerel polisi Los Mossos d'Esquadra, aralarında iki kişiyi öldürmeye teşebbüsün de olduğu farklı suçlardan 26 yıl hüküm giyen ve cezaevinden kaçan bir Türk firarinin Barselona kentinde yakalandığını duyurdu.",
-      "link": "https://www.aksam.com.tr/guncel/cezaevinden-kacti-costa-bravaya-sigindi-26-yillik-turk-firari-kiskivrak-yakalandi/haber-1695689",
-      "published": "2026-09-03T17:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:33.007563+00:00"
-    },
-    {
-      "id": "3de12c2bcbe18b24",
-      "source": "Milliyet",
-      "title": "SON DAKİKA! AFAD duyurdu: Ankara'da korkutan deprem",
-      "summary": "Ankara'da Kalecik merkezli 3.9 büyüklüğünde dperem meydana geldi. AFAD 20.11 sıralarında gerçekleşen depremin derinliğinin 11.74 kilometre olduğunu bildirdi. Batan gemiden sağ kurtulan kazazede annesini arayıp \"Biz ölüyoruz, hakkını helal et\" dedi Silivri'deki gemi kazasına ilişkin bilirkişi ön raporu çıktı: Gözcü yoktu, bu ağır ihmal",
-      "link": "https://www.milliyet.com.tr/gundem/son-dakika-afad-duyurdu-ankarada-korkutan-deprem-7653782",
-      "published": "2026-09-03T17:23:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:32.100701+00:00"
-    },
-    {
-      "id": "3c50144a49912210",
-      "source": "OdaTV",
-      "title": "Trump bu kez Prens Harry'yi hedef aldı: \"Zaten pek hayranları değildim\"",
-      "summary": "Donald Trump, Prens Harry ve Meghan Markle’ın İngiltere’ye dönüş kararı hakkında konuştu. Çiftin dönüşünden memnun olduğunu belirten Trump, Kraliyet Ailesi&#039;ne saygısızlık ettiklerini savunarak &quot;Ben olsaydım onları kabul etmezdim&quot; dedi.",
-      "link": "https://www.odatv.com/dunya/trump-bu-kez-prens-harryyi-hedef-aldi-zaten-pek-hayranlari-degildim-120161356",
-      "published": "2026-09-03T17:23:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:31:01.050969+00:00"
-    },
-    {
-      "id": "4be4c9e81a1da7e9",
-      "source": "Karar",
-      "title": "Noah Saviolo'dan Trabzonspor'a kötü haber geldi",
-      "summary": "Amed SF karşısında sakatlık yaşayan golcü oyuncu Noah Saviolo'dan Trabzonspor'a kötü haber geldi.",
-      "link": "https://www.karar.com/spor-haberleri/noah-saviolodan-trabzonspora-kotu-haber-geldi-2069858",
-      "published": "2026-09-03T17:23:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:35.888673+00:00"
-    },
-    {
-      "id": "525323ae8b7fdc6f",
-      "source": "Star",
-      "title": "Fenerbahçe'den Marco Asensio açıklaması",
-      "summary": "Fenerbahçe, Marco Asensio'nun sağlık durumuyla ilgili ortaya atılan ciddi sakatlık ve ameliyat iddialarının gerçeği yansıtmadığını açıkladı.",
-      "link": "https://www.star.com.tr/spor/fenerbahceden-marco-asensio-aciklamasi-haber-2037910/",
-      "published": "2026-09-03T17:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:35.007905+00:00"
-    },
-    {
-      "id": "420514c1d7530054",
-      "source": "Aydınlık",
-      "title": "İletişim Başkanlığı'ndan Avrupa Parlamentosu'nun kararına tepki",
-      "summary": "İletişim Başkanı Burhanettin Duran, AB&#039;nin GKRY’nin TSK’yı hedef alan projesine fon sağlama tavsiyesine sert tepki gösterdi.",
-      "link": "https://www.aydinlik.com.tr/haber/iletisim-baskanligindan-avrupa-parlamentosunun-kararina-tepki-588798",
-      "published": "2026-09-03T17:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:39.329480+00:00"
-    },
-    {
-      "id": "5cd58074dfd3d82c",
-      "source": "Türkiye Gazetesi",
-      "title": "ÖNCE ANKARA SONRA KÜTAHYA...",
-      "summary": "Ankara'nın Kalecik ilçesinde kısa aralıklarla çok sayıda deprem meydana geldi. 3,9 büyüklüğündeki sarsıntının ardından bölgede artçı niteliğinde depremler kaydedilirken, aynı saatlerde Kütahya'nın Emet ve Simav ilçelerinde de sarsıntılar yaşandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/ankara-kalecikte-deprem-oldu-iste-ilk-veriler-1813606",
-      "published": "2026-09-03T17:22:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T18:10:38.043859+00:00"
-    },
-    {
-      "id": "3576b24ebc07c3d3",
-      "source": "Türkiye Gazetesi",
-      "title": "Ankara Kalecik'te deprem oldu!",
-      "summary": "Ankara’nın Kalecik ilçesinde 3,9 büyüklüğünde deprem meydana geldi. Saat 20.11’de kaydedilen depremin derinliği 11,74 kilometre olarak ölçüldü.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/ankara-kalecikte-deprem-oldu-iste-ilk-veriler-1813606",
-      "published": "2026-09-03T17:22:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:35:32.991958+00:00"
-    },
-    {
-      "id": "a507a1f532102cf5",
-      "source": "Halk TV",
-      "title": "Son Dakika | Ankara'da 3.9 büyüklüğünde deprem!",
-      "summary": "Son dakika haberi... Ankara&#039;nın Kalecik ilçesinde deprem meydana geldi. AFAD depremin büyüklüğünü 3.9 olarak açıkladı.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-ankarada-39-buyuklugunde-deprem-1052938h",
-      "published": "2026-09-03T17:22:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:40.952583+00:00"
-    },
-    {
-      "id": "375c898a88146e95",
-      "source": "Millî Gazete",
-      "title": "Antalyaspor, Samet Yalçın'ı kadrosuna kattı",
-      "summary": "Antalyaspor, 32 yaşındaki orta saha oyuncusu Samet Yalçın'ı kadrosuna kattı.",
-      "link": "https://www.milligazete.com.tr/antalyaspor-samet-yalcini-kadrosuna-katti",
-      "published": "2026-09-03T17:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T17:25:39.839747+00:00"
     }
   ]
 }

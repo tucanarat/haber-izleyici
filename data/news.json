@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-09-03T11:31:28.765706+00:00",
+  "last_updated": "2026-09-03T11:35:50.537389+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 604,
+  "new_items_this_run": 600,
   "items": [
+    {
+      "id": "5525ff67ae03e3ce",
+      "source": "CNBC-e",
+      "title": "Merkez Bankası duyurdu: Rezervlerde son durum ne?",
+      "summary": "Türkiye'nin brüt rezervleri 28 Ağustos haftasında 188,2 milyar dolara geriledi. Rezervlerde haftalık düşüş sınırlı kalırken, altın varlıkları yüzde 2,5 arttı, döviz varlıkları ise yüzde 4,7 azaldı.",
+      "link": "https://www.cnbce.com/altin/merkez-bankasi-duyurdu-rezervlerde-son-durum-ne-h36451",
+      "published": "2026-09-03T11:34:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:44.742331+00:00"
+    },
+    {
+      "id": "726b0dc36748f499",
+      "source": "BBC News Türkçe",
+      "title": "Üsküdar Belediyesi'nde başkan vekili seçimi öncesinde gözaltılar",
+      "summary": "İstanbul Valiliği'nin 5 Eylül'de yapılacağını açıkladığı Üsküdar Belediye Meclisi'ndeki başkan vekili seçimi öncesi, bazı belediye meclis üyeleri gözaltına alındı.",
+      "link": "https://www.bbc.com/turkce/articles/cz7dn28e0y4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03T11:33:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:50.060421+00:00"
+    },
+    {
+      "id": "0e4c86c96ccd02f3",
+      "source": "Cumhuriyet",
+      "title": "Adıyaman'da okul sezonu öncesi trafik güvenliği çalışması",
+      "summary": "Adıyaman Belediyesi, yeni eğitim-öğretim dönemi öncesinde kent genelinde trafik ve yaya güvenliğini artırmaya yönelik çalışmalarını yoğunlaştırdı.",
+      "link": "https://www.cumhuriyet.com.tr/yerel-gundem/adiyaman-da-okul-sezonu-oncesi-trafik-guvenligi-calismasi-2534603",
+      "published": "2026-09-03T11:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:29.314952+00:00"
+    },
+    {
+      "id": "96f6e90cc6754df3",
+      "source": "Karar",
+      "title": "Beyin sağlığını korumanın ve alzheimer riskini azaltmanın yolu sofradan geçiyor!",
+      "summary": "Uzmanlar, B12, folat ve D vitamini gibi kritik öğelerin yeterli düzeyde tutulması ile Akdeniz tipi beslenmenin beyin sağlığı ve bilişsel fonksiyonlar üzerindeki hayati önemine dikkat çekti.",
+      "link": "https://www.karar.com/saglik-haberleri/beyin-sagligini-korumanin-ve-alzheimer-riskini-azaltmanin-yolu-2069786",
+      "published": "2026-09-03T11:32:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:36.266178+00:00"
+    },
     {
       "id": "9b1bc49ca785035d",
       "source": "Yeniçağ",
@@ -19,6 +63,17 @@
       "fetched_at": "2026-09-03T11:31:01.259182+00:00"
     },
     {
+      "id": "cf9297c91d516a81",
+      "source": "Yeni Şafak",
+      "title": "Anadolu Üniversitesi'nden öğrenci affı: 4 milyon öğrenci için yeniden kayıt fırsatı",
+      "summary": "Anadolu Üniversitesi Rektörü Prof. Dr. Yusuf Adıgüzel, Açıköğretim Fakültesine kayıt yaptıran ve belirli bir süre sonra devam edemeyen öğrencilere yönelik af geldiğini ifade ederek, \"Öğrencilerimiz kaldığı yerden üniversite öğrenimlerine devam edebilecek ve okullarını tamamlayabileceklerdir. Bundan dolayı geçmiş zamanda üniversitelerini yarım bırakan öğrencilerimizi yeniden okulumuza davet ediyoru",
+      "link": "https://www.yenisafak.com/gundem/anadolu-universitesinden-ogrenci-affi-4-milyon-ogrenci-icin-yeniden-kayit-firsati-4852918",
+      "published": "2026-09-03T11:30:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:35.390449+00:00"
+    },
+    {
       "id": "06f2305c83189dba",
       "source": "ShiftDelete.Net",
       "title": "Meta Yeni Yapay Zeka Modeli Muse Spark 1.3’ü Duyurdu",
@@ -28,6 +83,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T11:31:24.763964+00:00"
+    },
+    {
+      "id": "dc48a1f11d216fed",
+      "source": "Euronews Türkçe",
+      "title": "Hayal tabutlar Gana'da cenazeleri hayat hikayesine dönüştürüyor",
+      "summary": "Gana'nın başkenti Akra'da tabut ustaları, insanlar için gitar, ayakkabı ya da mikrofon şeklinde tabutlar yaparak onların hayatını, mesleğini ve tutkularını yansıtıyor.",
+      "link": "http://tr.euronews.com/video/2026/09/03/hayal-tabutlar-ganada-cenazeleri-hayat-hikayesine-donusturuyor",
+      "published": "2026-09-03T11:30:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:50.536140+00:00"
+    },
+    {
+      "id": "d2bb03743ddf2bab",
+      "source": "Türkiye Gazetesi",
+      "title": "Araçlar sel sularında oyuncak gibi sürüklendi! 2 bin kişi yardım bekliyor",
+      "summary": "Çin'in doğusunda Saudel Tayfunu hayatı felç etti. Şiddetli yağışların sele dönüştüğü bölgelerde onlarca araç sulara kapılarak sürüklendi. Wenzhou'daki bir okul kampüsünde 2 bin 500'den fazla öğretmen ve öğrenci mahsur kalırken yiyecek ve içme suyu İHA'larla ulaştırıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/onlarca-arac-sele-kapilip-gitti-2-bin-500-ogrenci-ve-ogretmen-kampuste-yardim-bekliyo-1813524",
+      "published": "2026-09-03T11:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:31.235128+00:00"
     },
     {
       "id": "dd2d351145c93f04",
@@ -61,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T11:30:58.952179+00:00"
+    },
+    {
+      "id": "2c81036de79f646b",
+      "source": "Ekonomim",
+      "title": "Uykusuz gecelere son: Yeni doğan bebekleri rahatlatacak ve mışıl mışıl uyutacak altın tavsiyeler",
+      "summary": "Bebek sahibi olmak her aile için büyük bir mutluluk olsa da ilk aylar uykusuz geceler ve bitmek bilmeyen sorularla doludur. Hastane süreçleri bittikten sonra evde başlayan gerçek hayatta, bebeklerin rahat uyumasından gaz sancılarına kadar pek çok pratik bilgiye ihtiyaç duyulur. İşte yeni anne babaların yükünü hafifletecek, bebeklerin çok daha huzurlu ve rahat büyümesini sağlayacak altın tavsiyeler",
+      "link": "https://www.ekonomim.com/foto-galeri/yasam/uykusuz-gecelere-son-yeni-dogan-bebekleri-rahatlatacak-ve-misil-misil-uyutacak-altin-tavsiyeler-s1-galeri-916027",
+      "published": "2026-09-03T11:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:43.583999+00:00"
     },
     {
       "id": "f76e2d5b0ac0631c",
@@ -1020,6 +1108,17 @@
       "fetched_at": "2026-09-03T11:10:40.816988+00:00"
     },
     {
+      "id": "04aa20bdf653538d",
+      "source": "Star",
+      "title": "Muhalefetten Üsküdar'daki seçimi manipüle etme girişimi! Valilikten \"siyasi avantaj\" iddialarına cevap",
+      "summary": "İstanbul Valiliği, Üsküdar Belediye Başkan Vekilliği seçiminin tarihine ilişkin sosyal medyada yer alan ve bir siyasi partiye avantaj sağlandığı öne sürülen paylaşımlar üzerine açıklama yaptı.",
+      "link": "https://www.star.com.tr/guncel/uskudarda-gozler-5-eylulde-belediye-baskan-vekili-icin-meclis-toplanacak-haber-2037839/",
+      "published": "2026-09-03T11:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:35.727449+00:00"
+    },
+    {
       "id": "dbbe3fa18288766c",
       "source": "Bir Gün",
       "title": "İsrail'den İran'a yeni tehdit: \"Enerji dahil tüm altyapısını vururuz\"",
@@ -1581,6 +1680,17 @@
       "fetched_at": "2026-09-03T11:01:01.156218+00:00"
     },
     {
+      "id": "63ff31f7ead6338b",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "ABD'nin Ankara Büyükelçiliği Maslahatgüzarı Abdalla: ABD ve Türkiye arasındaki dostluk şu an olağanüstü derecede güçlü",
+      "summary": "ABD'nin Ankara Büyükelçiliği Maslahatgüzarı Alyce Abdalla, \"ABD ve Türkiye arasındaki dostluk şu an olağanüstü derecede güçlü ve bunu liderlerimiz arasındaki ilişkiden de görebiliyoruz.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/dunya/abdnin-ankara-buyukelciligi-maslahatguzari-abdalla-abd-ve-turkiye-arasindaki-dostluk-su-an-olaganustu-derecede-guclu/4046322",
+      "published": "2026-09-03T10:56:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:28.985686+00:00"
+    },
+    {
       "id": "03b0174aced80cce",
       "source": "Gerçek Gündem",
       "title": "Plastiklere Elektrik Veren Deha 90 Yaşında Hayatını Kaybetti",
@@ -1724,6 +1834,17 @@
       "fetched_at": "2026-09-03T10:55:42.398064+00:00"
     },
     {
+      "id": "9a684d218e8377cf",
+      "source": "Sabah",
+      "title": "FİLO Jet’in geçmişi mercek altında: 13 hissedarı ortaya çıktı! Meğer 13 yıl önce de su alarak...",
+      "summary": "Girne açıklarında 9 kişinin hayatını kaybettiği, 19 kişinin ise kayıp olarak arandığı FİLO JET faciasına ilişkin soruşturma sürüyor. Geminin geçmişi ve sahibi Filo Denizcilik’in ortaklık yapısı yeniden... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/09/03/filo-jetin-gecmisi-mercek-altinda-13-hissedari-ortaya-cikti-meger-13-yil-once-de-su-alarak",
+      "published": "2026-09-03T10:53:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:34.775252+00:00"
+    },
+    {
       "id": "67f8b142d0e142f8",
       "source": "Akşam",
       "title": "FIBA 2026 Kadınlar Basketbol Dünya Kupası'nın perdesi açılıyor! İşte program...",
@@ -1755,6 +1876,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T10:55:41.062642+00:00"
+    },
+    {
+      "id": "be7c250f9fe2ae18",
+      "source": "Yeniçağ",
+      "title": "Ümit Özdağ'dan Muharrem İnce'ye: Kurduğunuz partiden kaçmamak da ciddi bir iştir",
+      "summary": "Zafer Partisi Genel Başkanı Ümit Özdağ,Muharrem İnce&#039;nin kendisiyle ilgili sözlerine sert tepki gösterdi. İnce&#039;nin “Ümit Özdağ benden daha fazla para harcadı siyasette” ve “Parti kurmak turşu kurmak değildir” ifadelerine yanıt veren Özdağ &quot;Kurduğunuz partiden kaçmamakta ciddi bir iştir&quot; dedi.",
+      "link": "https://www.yenicaggazetesi.com/umit-ozdagdan-muharrem-inceye-kurdugunuz-partiden-kacmamak-da-ciddi-bir-istir-1067983h.htm",
+      "published": "2026-09-03T10:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:36.704294+00:00"
     },
     {
       "id": "ce50168ac2d35f70",
@@ -2142,6 +2274,17 @@
       "fetched_at": "2026-09-03T10:50:45.360452+00:00"
     },
     {
+      "id": "48fb3fcea9601f53",
+      "source": "Independent Türkçe",
+      "title": "OpenAI'dan bilinmeyen güvenlik açıklarını tek başına bulan modeliyle ilgili açıklama",
+      "summary": "OpenAI , yakında piyasaya sürmeyi planladığı Astra modeli hakkında yeni detaylar paylaştı. Yapay zeka şirketi, 1 Eylül Salı günü yaptığı açıklamada Astra'nın \"kritik siber güvenlik eşiğine\" ulaşan ilk büyük dil modeli olduğunu belirtti. ChatGPT'nin yaratıcısı, yeni modelin bilgisayar sistemlerindeki bilinmeyen güvenlik açıklarını bulup insan yönlendirmesine ihtiyaç duymadan bunları suiistimal edeb",
+      "link": "https://www.indyturk.com/node/782017/bi%CC%87li%CC%87m/openaidan-bilinmeyen-g%C3%BCvenlik-a%C3%A7%C4%B1klar%C4%B1n%C4%B1-tek-ba%C5%9F%C4%B1na-bulan-modeliyle-ilgili",
+      "published": "2026-09-03T10:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:42.230007+00:00"
+    },
+    {
       "id": "4487a68894662af1",
       "source": "Bir Gün",
       "title": "Midilli'de barış için buluşma",
@@ -2173,6 +2316,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T10:50:45.136079+00:00"
+    },
+    {
+      "id": "984825a61b18a224",
+      "source": "Euronews Türkçe",
+      "title": "Feminist hareketin öncü ismi, yazar ve gazeteci Gloria Steinem 92 yaşında hayatını kaybetti",
+      "summary": "ABD'deki modern kadın hareketinin şekillenmesinde büyük payı olan feminist öncü, yazar ve eylemci Gloria Steinem, 92 yaşında hayatını kaybetti.",
+      "link": "http://tr.euronews.com/kultur/2026/09/03/feminist-hareketin-oncu-ismi-yazar-ve-gazeteci-gloria-steinem-92-yasinda-hayatini-kaybetti",
+      "published": "2026-09-03T10:45:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T11:35:50.536229+00:00"
     },
     {
       "id": "a84cdf13a915a185",
@@ -5352,160 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T09:40:45.426400+00:00"
-    },
-    {
-      "id": "0403f35880cd9250",
-      "source": "Star",
-      "title": "Akkuyu NGS'de kritik eşik! 1. ünite için uzman ekipler sahada",
-      "summary": "Akkuyu Nükleer Güç Santrali (NGS) sahasında, Dünya Nükleer Operatörler Birliği (WANO) Moskova Merkezi tarafından yürütülen işletme öncesi planlı eş değerlendirme çalışmasının bir aşaması başladı. Akkuyu Nükleer AŞ'den yapılan açıklamaya göre, uzman ekip, 1. güç ünitesinin kontrol odası operatörlerinin mesleki bilgi ve becerilerini \"Personel Performansının Gözlemlenmesi\" (CPO) yöntemiyle değerlendi",
-      "link": "https://www.star.com.tr/ekonomi/akkuyu-ngsde-kritik-esik-1-unite-icin-uzman-ekipler-sahada-haber-2037823/",
-      "published": "2026-09-03T09:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:45:45.773261+00:00"
-    },
-    {
-      "id": "a6e82b2e1488d4bf",
-      "source": "OdaTV",
-      "title": "Güllü cinayetinde yeni gelişme... Olayın tek tanığı o anları canlandırdı",
-      "summary": "Sanatçı Güllü&#039;nün ölümüne ilişkin soruşturmada dosyaya giren yeni görüntüler ortaya çıktı. Olayın tanığı Sultan Nur Ulu&#039;nun, Güllü&#039;nün kızı Tuğyan Ülkem Gülter tarafından pencereden atıldığı yönündeki iddiasını savcılıkta canlandırdığı öğrenildi.",
-      "link": "https://www.odatv.com/guncel/gullu-cinayetinde-yeni-gelisme-olayin-tek-tanigi-sultan-nur-ulu-gullunun-nasil-atildigini-canlatti-120161286",
-      "published": "2026-09-03T09:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:45:50.146181+00:00"
-    },
-    {
-      "id": "c1a3d98e1ced3f0e",
-      "source": "Star",
-      "title": "Akkuyu NGS'de kritik eşik! 1. ünite için uluslararası uzmanlar sahada",
-      "summary": "Akkuyu Nükleer Güç Santrali (NGS) sahasında, Dünya Nükleer Operatörler Birliği (WANO) Moskova Merkezi tarafından yürütülen işletme öncesi planlı eş değerlendirme çalışmasının bir aşaması başladı. Akkuyu Nükleer AŞ'den yapılan açıklamaya göre, uzman ekip, 1. güç ünitesinin kontrol odası operatörlerinin mesleki bilgi ve becerilerini \"Personel Performansının Gözlemlenmesi\" (CPO) yöntemiyle değerlendi",
-      "link": "https://www.star.com.tr/ekonomi/akkuyu-ngsde-kritik-esik-1-unite-icin-uluslararasi-uzmanlar-sahada-haber-2037823/",
-      "published": "2026-09-03T09:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:40:44.834471+00:00"
-    },
-    {
-      "id": "2d15cc83059accd6",
-      "source": "Yeni Akit",
-      "title": "Ne akaryakıt ne de domates: Ağustosun zam şampiyonu şaşırttı",
-      "summary": "Ağustosta tüketici fiyatlarında en fazla artış yurt dışı hava yolu taşımacılığında kaydedilirken, en belirgin fiyat düşüşü taze meyvelerde görüldü.",
-      "link": "https://www.yeniakit.com.tr/haber/ne-akaryakit-ne-de-domates-agustosun-zam-sampiyonu-sasirtti-2020764.html",
-      "published": "2026-09-03T09:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:40:45.106132+00:00"
-    },
-    {
-      "id": "79309cccf5f5a5bc",
-      "source": "Millî Gazete",
-      "title": "Nissan Eylül fiyat listesi açıklandı! Qashqai Juke, Townstar ve X-Trail ne kadar?",
-      "summary": "Nissan eylül fiyat listesi açıklandı! Qashqai, Juke, Townstar ve X-Trail ne kadar sorusu nakit indirimleri ve KOBİ kampanyalarıyla yanıt buldu.",
-      "link": "https://www.milligazete.com.tr/nissan-eylul-fiyat-listesi-aciklandi-qashqai-juke-townstar-ve-x-trail-ne-kadar",
-      "published": "2026-09-03T09:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:40:46.875885+00:00"
-    },
-    {
-      "id": "1f45bdff0430e788",
-      "source": "OdaTV",
-      "title": "Öcalan’ın avukatı tepki çekecek: Barış sürecine sabotaj",
-      "summary": "Terör örgütü PKK elebaşı Abdullah Öcalan’ın avukatlığını yapan Ahmet Zeki Okçuoğlu’nun “Türk diye bir şey yoktur”, “Türkmenler aslında Kürt’tür” sözleri tartışma yarattı. Açıklamalar, Soner Yalçın’ın 2011’de Kürt milliyetçi tarih yazımındaki iddialara dikkat çektiği yazısını yeniden gündeme getirdi.",
-      "link": "https://www.odatv.com/guncel/abdullah-ocalanin-avukati-tepki-cekecek-baris-surecine-bomba-120161284",
-      "published": "2026-09-03T09:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T10:00:58.998647+00:00"
-    },
-    {
-      "id": "1ccd7c187b724932",
-      "source": "OdaTV",
-      "title": "Öcalan’ın avukatı tepki çekecek: Barış sürecine sabote",
-      "summary": "Terör örgütü PKK elebaşı Abdullah Öcalan’ın avukatlığını yapan Ahmet Zeki Okçuoğlu’nun “Türk diye bir şey yoktur”, “Türkmenler aslında Kürt’tür” sözleri tartışma yarattı. Açıklamalar, Soner Yalçın’ın 2011’de Kürt milliyetçi tarih yazımındaki iddialara dikkat çektiği yazısını yeniden gündeme getirdi.",
-      "link": "https://www.odatv.com/guncel/abdullah-ocalanin-avukati-tepki-cekecek-baris-surecine-bomba-120161284",
-      "published": "2026-09-03T09:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:45:50.146218+00:00"
-    },
-    {
-      "id": "e842a40b85dd6948",
-      "source": "Yeni Akit",
-      "title": "MSB’den kritik konulara ilişkin çarpıcı açıklamalar: SDG iddialarına noktayı koydu",
-      "summary": "Milli Savunma Bakanlığı, Eurofighter eğitimlerinden Mekke Savunma İttifakı'na, Somali'deki gemi operasyonundan SDG'nin fesih sürecine ilişkin önemli açıklamalarda bulundu. MSB’den yapılan açıklamada “SDG mensubu yabancı unsurların Suriye’den ayrılacağı ve bir kısmının Türkiye’ye geleceği yönündeki iddialar gerçeği yansıtmamaktadır” denildi. MSB Basın ve Halkla İlişkiler Müşaviri Tuğamiral Aktürk, ",
-      "link": "https://www.yeniakit.com.tr/haber/msbden-kritik-konulara-iliskin-carpici-aciklamalar-sdg-iddialarina-noktayi-koydu-2020763.html",
-      "published": "2026-09-03T09:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:40:45.106183+00:00"
-    },
-    {
-      "id": "6696291d7e85c23d",
-      "source": "OdaTV",
-      "title": "Öcalan’ın avukatı tepki çekecek: Barış sürecine bomba",
-      "summary": "Terör örgütü PKK elebaşı Abdullah Öcalan’ın avukatlığını yapan Ahmet Zeki Okçuoğlu’nun “Türk diye bir şey yoktur”, “Türkmenler aslında Kürt’tür” sözleri tartışma yarattı. Açıklamalar, Soner Yalçın’ın 2011’de Kürt milliyetçi tarih yazımındaki iddialara dikkat çektiği yazısını yeniden gündeme getirdi.",
-      "link": "https://www.odatv.com/guncel/abdullah-ocalanin-avukati-tepki-cekecek-baris-surecine-bomba-120161284",
-      "published": "2026-09-03T09:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:40:47.630799+00:00"
-    },
-    {
-      "id": "e1d3a63c0dbe5d44",
-      "source": "DW Türkçe",
-      "title": "Almanya'dan Rusya'nın Goethe Enstitüsü misillemesine tepki",
-      "summary": "Kremlin, Rus Evi'ni kapatan Almanya'ya, Goethe Enstitüsü'nün faaliyetlerini sonlandırarak karşılık verdi. Almanya Dışişleri Bakanı Wadephul, Moskova'nın misillemesine \"haksız karar\" sözleriyle tepki gösterdi.",
-      "link": "https://www.dw.com/tr/almanya-dan-rusya-nın-goethe-enstitüsü-misillemesine-tepki/a-78815800?maca=tur-rss-tur-all-1495-rdf",
-      "published": "2026-09-03T09:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:50:57.339028+00:00"
-    },
-    {
-      "id": "b4c650b576b8c722",
-      "source": "Ekonomim",
-      "title": "Hatko, Avrupa'nın 'yeşil başkenti'ne gürültü bariyeri fabrikası kurdu",
-      "summary": "Kullanılmış araç lastiklerinden ürettiği gürültü bariyerlerini iç ve dış pazara sunan Hatko, Portekiz’de üretim tesisi kurdu. Ürünün, uluslararası bağımsız bir denetim firmasının incelemesi sonucunda muadillerine göre yüzde 90’a kadar daha düşük karbon ayak izine sahip olduğunun belgelenmesi ise çoğu Avrupa’da olmak üzere 11 ülkede bayilik anlaşması getirdi. Bariyerler, kasım ayında Antalya’da düz",
-      "link": "https://www.ekonomim.com/sehirler/hatko-avrupanin-yesil-baskentine-gurultu-bariyeri-fabrikasi-kurdu-haberi-915993",
-      "published": "2026-09-03T09:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:46:00.429772+00:00"
-    },
-    {
-      "id": "d15b265306272f2f",
-      "source": "Akşam",
-      "title": "Lionel Messi için Arjantin'de saygı duruşu yapılacak",
-      "summary": "Milli takım kariyerine sonlandıran Lionel Messi için bu hafta Arjantin'deki tüm maçların 10. dakikasında saygı duruşunda yapılacak.",
-      "link": "https://www.aksam.com.tr/spor/lionel-messi-icin-arjantinde-saygi-durusu-yapilacak/haber-1695550",
-      "published": "2026-09-03T09:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:40:43.996103+00:00"
-    },
-    {
-      "id": "6d5895bdc57b3f91",
-      "source": "OdaTV",
-      "title": "12. Türk Telekom Prime İstanbul Coffee Festivali 10-13 Eylül’de",
-      "summary": "12. Türk Telekom Prime İstanbul Coffee Festival, 10-13 Eylül 2026 tarihlerinde Tepe Nautilus’ta düzenlenecek. 162 markanın katılacağı etkinlikte kahve tadımları, atölyeler ve müzik performansları yer alacak.",
-      "link": "https://www.odatv.com/gastroda/12-turk-telekom-prime-istanbul-coffee-festivali-10-13-eylulde-120161287",
-      "published": "2026-09-03T09:37:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:40:47.630835+00:00"
-    },
-    {
-      "id": "0b40795aadf819b5",
-      "source": "Yeniçağ",
-      "title": "Denetimde ortaya çıktı: 140 kilo tarihi geçmiş tavuk imha edildi",
-      "summary": "Sakarya’nın Adapazarı ilçesinde bir gıda deposunda yapılan denetimde, son tüketim tarihi geçmiş 140 kilogram ızgaralık tavuk kanat ele geçirildi. Mevzuata aykırı olduğu belirlenen tavuklara el konulurken, işletmeye idari yaptırım uygulandı ve ürünler imha edildi.",
-      "link": "https://www.yenicaggazetesi.com/denetimde-ortaya-cikti-140-kilo-tarihi-gecmis-tavuk-imha-edildi-1067960h.htm",
-      "published": "2026-09-03T09:37:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T09:40:45.871422+00:00"
     }
   ]
 }

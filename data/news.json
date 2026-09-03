@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-09-03T22:21:03.121361+00:00",
+  "last_updated": "2026-09-03T22:26:00.629948+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 564,
+  "new_items_this_run": 566,
   "items": [
+    {
+      "id": "79b7ffc5caed7365",
+      "source": "Akşam",
+      "title": "Akdağ imzayı attı",
+      "summary": "Beşiktaş, Alanya'dan kadrosuna kattığı Ümit Akdağ ile 4 yıllık sözleşme imzaladı. İstanbul'a gelen 22 yaşındaki stoper, hedefini şampiyonluk olarak açıkladı.",
+      "link": "https://www.aksam.com.tr/spor/akdag-imzayi-atti/haber-1695726",
+      "published": "2026-09-03T22:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T22:25:40.505500+00:00"
+    },
+    {
+      "id": "b9cd3467adf9350b",
+      "source": "Yeniçağ",
+      "title": "Çorum’da motosiklet ile otomobil çarpıştı: 3 yaralı",
+      "summary": "Çorum’da otomobil ile motosikletin çarpışması sonucu meydana gelen trafik kazasında 3 kişi yaralandı.",
+      "link": "https://www.yenicaggazetesi.com/corumda-motosiklet-ile-otomobil-carpisti-3-yarali-1068164h.htm",
+      "published": "2026-09-03T22:24:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T22:25:43.458530+00:00"
+    },
+    {
+      "id": "45c1e909ff213e61",
+      "source": "Akşam",
+      "title": "Harcamada varız satışta yokuz",
+      "summary": "Avrupa'nın on ligine baktığımızda Süper Lig, 406,79 milyon euro tutarındaki transfer harcamasıyla listede 7. sırada yer aldı. 120,33 milyon euro gelir elde edebilen kulüpler, bu alanda son sırada kaldı.",
+      "link": "https://www.aksam.com.tr/spor/harcamada-variz-satista-yokuz/haber-1695725",
+      "published": "2026-09-03T22:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T22:25:40.505527+00:00"
+    },
+    {
+      "id": "be628186b9018a50",
+      "source": "OdaTV",
+      "title": "Genç polisten acı haber",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, Şırnak&#039;ta görevi başındayken trafik kazasında yaralanan polis memuru Melih Kaygusuz&#039;un şehit olduğunu bildirdi.",
+      "link": "https://www.odatv.com/guncel/genc-polisten-aci-haber-120161379",
+      "published": "2026-09-03T22:22:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T22:25:45.560876+00:00"
+    },
+    {
+      "id": "3fe9fc0912fb753d",
+      "source": "Akşam",
+      "title": "Üsküdar'da siyasi dengeler değişti: CHP'den 4 isim AK Parti'ye geçti",
+      "summary": "Üsküdar Belediye Meclisinin CHP'li üyeleri Ahmet Başbaydar, Ayhan Aydın, Hüseyin Kazan ve Tahsin Usta, partilerinden istifa ederek AK Parti'ye katıldı.",
+      "link": "https://www.aksam.com.tr/guncel/uskudarda-siyasi-dengeler-degisti-chpden-4-isim-ak-partiye-gecti/haber-1695724",
+      "published": "2026-09-03T22:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T22:25:40.505550+00:00"
+    },
+    {
+      "id": "8cba89e009118825",
+      "source": "Akşam",
+      "title": "Finale yarım adım kaldı",
+      "summary": "Sultanlar, Avrupa Şampiyonası çeyrek finalinde Almanya'yı 3-1 mağlup ederek yarı finalde Sırbistan'la eşleşti. Maç yarın saat 16.00'da. Sırpları da geçersek pazar İtalya ya da Polonya ile finalde oynayacağız.",
+      "link": "https://www.aksam.com.tr/spor/finale-yarim-adim-kaldi/haber-1695723",
+      "published": "2026-09-03T22:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T22:25:40.505582+00:00"
+    },
     {
       "id": "6690d370f7b038b3",
       "source": "Akşam",
@@ -292,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T21:55:44.954374+00:00"
+    },
+    {
+      "id": "8c34b2bc38e70bfd",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail ordusu Lübnan'ın güneyine hava ve topçu saldırılarını sürdürüyor",
+      "summary": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine yönelik hava saldırıları, topçu atışları ve karadan sızma girişimlerini yoğunlaştırdı.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyine-hava-ve-topcu-saldirilarini-surduruyor/4046942",
+      "published": "2026-09-03T21:51:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T22:25:33.881253+00:00"
     },
     {
       "id": "fbe69fdae4c6a563",
@@ -5429,83 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T20:01:03.656925+00:00"
-    },
-    {
-      "id": "5c5cb614a12e1c14",
-      "source": "Millî Gazete",
-      "title": "Masterchef 2026 Eyüp Can’ın eşi ne iş yapıyor? Kaç yaşında? Nereli? Adı biliniyor mu? Eyüp Can Güneş evli mi, çocuğu var mı?",
-      "summary": "MasterChef Türkiye 2026 yarışmacılarından Eyüp Can Güneş, son bölümde yaptığı açıklamaların ardından özel hayatıyla da araştırılmaya başlandı. Yarışmada bazı kadın yarışmacıları takip etmediğini söylemesi sonrası izleyicilerin ilgisi eşine yöneldi. Ancak Eyüp Can Güneş’in eşinin adı, yaşı, memleketi ve mesleğine ilişkin kamuoyuna yansımış doğrulanmış bir bilgi bulunmuyor. Şanlıurfa’dan yarışmaya k",
-      "link": "https://www.milligazete.com.tr/masterchef-2026-eyup-canin-esi-ne-is-yapiyor-kac-yasinda-nereli-adi-biliniyor-mu-eyup-can-gunes-evli-mi-cocugu-var-mi",
-      "published": "2026-09-03T19:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T19:11:30.602274+00:00"
-    },
-    {
-      "id": "bf7f1e01499c0c60",
-      "source": "Millî Gazete",
-      "title": "Galatasaray Şampiyonlar Ligi kadrosunda kimler var, kimler yok? 24 kişilik UEFA listesi ve maç fikstürü",
-      "summary": "UEFA Şampiyonlar Ligi’nde lig aşamasında mücadele edecek Galatasaray’ın Avrupa kadrosu netleşti. Sarı-kırmızılılar, UEFA’ya 24 kişilik oyuncu listesi bildirirken bazı isimlerin kadro dışında kalması dikkat çekti. Kaan Ayhan, Arda Ünyay, Kazımcan Karataş, Can Armando Güner ve Eyüp Aydın Şampiyonlar Ligi listesinde yer almadı. Peki, Galatasaray Şampiyonlar Ligi kadrosunda kimler var, kimler yok, UEF",
-      "link": "https://www.milligazete.com.tr/galatasaray-sampiyonlar-ligi-kadrosunda-kimler-var-kimler-yok-24-kisilik-uefa-listesi-ve-mac-fiksturu",
-      "published": "2026-09-03T19:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T19:11:30.602321+00:00"
-    },
-    {
-      "id": "2844def8b0221661",
-      "source": "Yeni Şafak",
-      "title": "İETT otobüsü ile otomobilin kazası kamerada: 1'i bebek 4 kişi yaralandı",
-      "summary": "İstanbul Sultanbeyli'de, Eren Ö. idaresindeki 34 LN 5520 plakalı otomobil henüz bilinmeyen bir nedenle, Ergin K.’nin kullandığı İETT otobüsü ile çarpıştı. Kazada otomobil sürücüsü Eren Ö. ile otobüste bulunan biri bebek 3 yolcu yaralandı. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Polis ekipleri cadde üzerinde güvenlik önlemi alırken, yaralılar sağlık ekiplerinin olay yerindek",
-      "link": "https://www.yenisafak.com/video/gundem/iett-otobusu-ile-otomobilin-kazasi-kamerada-1i-bebek-4-kisi-yaralandi-4853021",
-      "published": "2026-09-03T19:05:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T19:11:18.648852+00:00"
-    },
-    {
-      "id": "b2ef83aaa33e60fa",
-      "source": "Karar",
-      "title": "İspanya Başbakanı Sanchez'den Fas açıklaması: Planlanan göç akını yok",
-      "summary": "İspanya Başbakanı Sanchez, temmuz ayında Fas'tan İspanya'nın Kuzey Afrika'daki toprağı Sebte'ye yönelik göçmen akınına ilişkin, \"Size temin ederim ki Fas'ın olayı planladığı veya gerçekleştirdiğine dair herhangi bir kanıt yok\" dedi.",
-      "link": "https://www.karar.com/guncel-haberler/ispanya-basbakani-sanchezden-fas-aciklamasi-planlanan-goc-akini-yok-2069876",
-      "published": "2026-09-03T19:05:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T19:11:22.143566+00:00"
-    },
-    {
-      "id": "9a4b39c64838ea36",
-      "source": "Akşam",
-      "title": "Çalışanlardan uyuşturucu madde testi istenebilir mi?",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/calisanlardan-uyusturucu-madde-testi-istenebilir-mi/haber-1695700",
-      "published": "2026-09-03T19:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T21:01:03.612367+00:00"
-    },
-    {
-      "id": "38221869aa31039f",
-      "source": "Karar",
-      "title": "OpenAI GPT-6 Astra’yı duyurdu: “Bugüne kadarki en gelişmiş yapa zeka”",
-      "summary": "OpenAI, bugüne kadarki en gelişmiş yapay zekâ modeli olarak tanıttığı GPT-6 Astra’yı sınırlı erişime açtı. Şirket Başkanı Greg Brockman, yeni modeli “nesiller arası sıçrama” olarak nitelendirerek kişisel görüşünün OpenAI’nin yapay genel zekâya ulaştığı yönünde olduğunu söyledi. Brockman, basın toplantısını “AGI çağına hoş geldiniz” sözleriyle tamamladı.",
-      "link": "https://www.karar.com/teknoloji-haberleri/openai-gpt-6-astrayi-duyurdu-bugune-kadarki-en-gelismis-yapa-zeka-2069875",
-      "published": "2026-09-03T19:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T19:05:40.833388+00:00"
-    },
-    {
-      "id": "ea958f0a34345204",
-      "source": "CNBC-e",
-      "title": "SPK'dan milyarlık halka arz onayı: Bir şirket daha borsaya geliyor",
-      "summary": "Sermaye Piyasası Kurulu (SPK), Net Global Endüstriyel Yatırımlar AŞ'nin halka arzına onay verdi. Halka arzın büyüklüğü 2,23 milyar TL olacak.",
-      "link": "https://www.cnbce.com/halka-arz/spkdan-milyarlik-halka-arz-onayi-bir-sirket-daha-borsaya-geliyor-h36479",
-      "published": "2026-09-03T19:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T19:05:52.519197+00:00"
     }
   ]
 }

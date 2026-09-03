@@ -1,12 +1,408 @@
 {
-  "last_updated": "2026-09-03T08:06:01.512354+00:00",
+  "last_updated": "2026-09-03T08:11:03.502783+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 611,
+  "new_items_this_run": 617,
   "items": [
+    {
+      "id": "bbe63f8a1f3dad18",
+      "source": "Karar",
+      "title": "Son dakika! Ahmet Davutoğlu hakkında soruşturma başlatıldı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı, sosyal medyada dolaşıma sokulan paylaşımlarda Cumhurbaşkanına hakaret içerdiği değerlendirilen ifadeleri nedeniyle feshedilen Gelecek Partisi'nin Genel Başkanı Ahmet Davutoğlu hakkında TCK'nın 299/1. maddesi kapsamında soruşturma başlattı.",
+      "link": "https://www.karar.com/guncel-haberler/son-dakika-ahmet-davutoglu-hakkinda-sorusturma-baslatildi-2069724",
+      "published": "2026-09-03T08:10:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:44.632967+00:00"
+    },
+    {
+      "id": "fe6fe905851b6548",
+      "source": "Star",
+      "title": "Tuzla'da korkutan yangın: Dumanlar gökyüzünü sardı",
+      "summary": "Tuzla'da bir iş yerinde çıkan yangına itfaiye ekipleri müdahale ediyor.",
+      "link": "https://www.star.com.tr/guncel/tuzlada-korkutan-yangin-dumanlar-gokyuzunu-sardi-haber-2037800/",
+      "published": "2026-09-03T08:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:43.930902+00:00"
+    },
+    {
+      "id": "f4b235e772633a92",
+      "source": "Yeni Akit",
+      "title": "Cumhurbaşkanına hakaret iddiası! Ahmet Davutoğlu hakkında soruşturma",
+      "summary": "Ankara Cumhuriyet Başsavcılığı, sosyal medyada dolaşıma sokulan paylaşımlarda Cumhurbaşkanına hakaret içerdiği değerlendirilen ifadeleri nedeniyle feshedilen Gelecek Partisi’nin Genel Başkanı Ahmet Davutoğlu hakkında TCK’nın 299/1. maddesi kapsamında soruşturma başlattı.",
+      "link": "https://www.yeniakit.com.tr/haber/cumhurbaskanina-hakaret-iddiasi-ahmet-davutoglu-hakkinda-sorusturma-2020747.html",
+      "published": "2026-09-03T08:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:44.302398+00:00"
+    },
+    {
+      "id": "a7717cc0e758fd2b",
+      "source": "Millî Gazete",
+      "title": "Kuveyt'e İran füzeleri yağdı! Hava savunması devrede",
+      "summary": "Kuveyt ordusu, ülkenin İran kaynaklı yeni füze ve İHA saldırılarına hedef olduğunu duyurarak hava savunma sistemlerinin devreye sokulduğunu açıkladı.",
+      "link": "https://www.milligazete.com.tr/kuveyte-iran-fuzeleri-yagdi-hava-savunmasi-devrede",
+      "published": "2026-09-03T08:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:46.301748+00:00"
+    },
+    {
+      "id": "40f64b9b784f303c",
+      "source": "Yeniçağ",
+      "title": "Ahmet Davutoğlu'na soruşturma",
+      "summary": "Eski başbakan Ahmet Davutoğlu hakkında Cumhurbaşkanına hakaret suçlamasıyla soruşturma başlatıldı",
+      "link": "https://www.yenicaggazetesi.com/ahmet-davutogluna-sorusturma-1067929h.htm",
+      "published": "2026-09-03T08:09:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:44.963686+00:00"
+    },
+    {
+      "id": "74993abd97321261",
+      "source": "Halk TV",
+      "title": "Zeynep Bastık ile Serkay Tütüncü evlendi",
+      "summary": "Ünlü şarkıcı Zeynep Bastık ile oyuncu Serkay Tütüncü, Çeşme’de düzenlenen törenle hayatlarını birleştirdi. Ünlü çiftin nikahında duygusal anlar yaşanırken, Bastık anne ve babasının gözyaşları karşısında kendini tutamadı.",
+      "link": "https://halktv.com.tr/magazin/zeynep-bastik-ile-serkay-tutuncu-evlendi-1052816h",
+      "published": "2026-09-03T08:09:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:47.496185+00:00"
+    },
+    {
+      "id": "c802253ed7a191de",
+      "source": "Halk TV",
+      "title": "Bayburt'ta Amedspor forması giyen iki kişiye 15 kişi saldırdı",
+      "summary": "Bayburt&#039;ta yaşanan olayda Amedspor forması giyen iki kişiye 15 kişi saldırdı. Saldırıya uğrayan kişilerden birinin burnunda 5 ayrı kırık oluştuğu öğrenildi.",
+      "link": "https://halktv.com.tr/turkiye/bayburtta-amedspor-formasi-giyen-iki-kisiye-15-kisi-saldirdi-1052815h",
+      "published": "2026-09-03T08:09:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:47.496223+00:00"
+    },
+    {
+      "id": "a6139019658ebd1b",
+      "source": "Halk TV",
+      "title": "İsmail Kartal'ın derbi planı ortaya çıktı: Beşiktaş’ı bu planla yenmeye çalışacak",
+      "summary": "Fenerbahçe teknik direktörü İsmail Kartal, Beşiktaş derbisi için kollarını sıvadı. Tecrübeli teknik adamın planı büyük ölçüde belli oldu.",
+      "link": "https://halktv.com.tr/spor/ismail-kartalin-derbi-plani-ortaya-cikti-besiktasi-bu-planla-yenmeye-calisacak-1052814h",
+      "published": "2026-09-03T08:09:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:47.496256+00:00"
+    },
+    {
+      "id": "6ea4956946946ce2",
+      "source": "Cumhuriyet",
+      "title": "Son Dakika... Ahmet Davutoğlu hakkında 'Cumhurbaşkanına hakaret' soruşturması",
+      "summary": "Son dakika gelişmesi... Ankara Cumhuriyet Başsavcılığı, sosyal medyada dolaşıma sokulan paylaşımlarda Cumhurbaşkanına hakaret içerdiği iddia edilen ifadeler nedeniyle Gelecek Partisi Genel Başkanı Ahmet Davutoğlu hakkında soruşturma başlattı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-ahmet-davutoglu-hakkinda-cumhurbaskanina-hakaret-sorusturmasi-2534548",
+      "published": "2026-09-03T08:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:37.624380+00:00"
+    },
+    {
+      "id": "3852341cae0664ea",
+      "source": "Cumhuriyet",
+      "title": "AUZEF kayıt yenileme başladı mı? 2026-2027 İÜ AUZEF kayıt yenileme nasıl yapılır?",
+      "summary": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Fakültesi (AUZEF) 2026-2027 eğitim öğretim yılı güz yarıyılı kayıt yenileme işlemleri başladı. Kayıt yenilemek isteyen öğrenciler, işlemlerini AKSİS üzerinden gerçekleştirebilecek. Peki, AUZEF kayıt yenileme ne zaman sona erecek ve nasıl yapılacak?",
+      "link": "https://www.cumhuriyet.com.tr/egitim/auzef-kayit-yenileme-basladi-mi-2026-2027-iu-auzef-kayit-yenileme-nasil-yapilir-2534549",
+      "published": "2026-09-03T08:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:37.624423+00:00"
+    },
+    {
+      "id": "9acaba6512f0301a",
+      "source": "Akşam",
+      "title": "Leroy Sane resti çekti! Galatasaray'da kriz: Almanlar duyurdu",
+      "summary": "Leroy Sane için Galatasaray'da sıcak bir gelişme yaşandı. Son 2 lig karşılaşmasında da yedek kulübesinde yer alan yıldız oyuncu Leroy Sane, sarı-kırmızılılarda krize neden oldu. İşte detaylar...",
+      "link": "https://www.aksam.com.tr/sporplus/leroy-sane-resti-cekti-galatasarayda-kriz-almanlar-duyurdu/haber-1695520",
+      "published": "2026-09-03T08:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:43.281220+00:00"
+    },
+    {
+      "id": "5b1e6fed0f469e3e",
+      "source": "OdaTV",
+      "title": "Ahmet Davutoğlu hakkında soruşturma",
+      "summary": "Ahmet Davutoğlu hakkında soruşturma",
+      "link": "https://www.odatv.com/guncel/ahmet-davutoglu-hakkinda-sorusturma-120161266",
+      "published": "2026-09-03T08:08:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:46.920171+00:00"
+    },
+    {
+      "id": "929af805057c1e0d",
+      "source": "Halk TV",
+      "title": "İzmir'in 125 yıllık simgesi ona emanet: Her hafta elleriyle kuruyor",
+      "summary": "İzmir&#039;in simgesi Tarihi Saat Kulesi, 125 yıldır ilk günkü mekanik aksamıyla zamanı göstermeyi sürdürüyor. Kuledeki saatlerin bakımı ise 32 yıldır kesintisiz olarak üçüncü kuşak saat ustası Feti Pamukoğlu&#039;na emanet.",
+      "link": "https://halktv.com.tr/turkiye/izmirin-125-yillik-simgesi-ona-emanet-her-hafta-elleriyle-kuruyor-1052813h",
+      "published": "2026-09-03T08:08:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:47.496291+00:00"
+    },
+    {
+      "id": "11a533ded6c446eb",
+      "source": "Yeni Şafak",
+      "title": "İstanbul Başakşehir'de inşaat alanında göçük: Bir işçi aranıyor",
+      "summary": "İstanbul Başakşehir'de inşaat alanında göçük! 1 işçi aranıyor",
+      "link": "https://www.yenisafak.com/gundem/istanbul-basaksehirde-insaat-alaninda-gocuk-bir-isci-araniyor-4852865",
+      "published": "2026-09-03T08:08:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:43.468778+00:00"
+    },
+    {
+      "id": "02a67b78e118ab21",
+      "source": "Yeniçağ",
+      "title": "Microsoft'tan kriz yaratan güncelleme: Masaüstü ve fare imleci kontrolden çıktı",
+      "summary": "Microsoft&#039;un kullanıcıların erişimine sunduğu son Windows 11 paketi, sistemlerde beklenmedik görsel aksaklıklara yol açtı. Yayımlanan güncellemenin ardından çok sayıda kullanıcı masaüstü ekranlarının siyah renge dönüştüğünü ve fare işaretçisinin kontrol dışı boyut değiştirdiğini raporladı.",
+      "link": "https://www.yenicaggazetesi.com/microsofttan-kriz-yaratan-guncelleme-masaustu-ve-fare-imleci-kontrolden-cikti-1067928h.htm",
+      "published": "2026-09-03T08:08:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:44.963732+00:00"
+    },
+    {
+      "id": "f1a1cf5d7c3e8bab",
+      "source": "Milliyet",
+      "title": "Son dakika: Ahmet Davutoğlu hakkında soruşturma başlatıldı",
+      "summary": "Ayrıntılar geliyor...",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-ahmet-davutoglu-hakkinda-sorusturma-baslatildi-7653402",
+      "published": "2026-09-03T08:08:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:42.369564+00:00"
+    },
+    {
+      "id": "88d869d0fef748dc",
+      "source": "Star",
+      "title": "Lamberto Zauli: Fabio Miretti, Vincenzo Italiano'nun oyun tarzına büyük katkı sağlar",
+      "summary": "Beşiktaş'ın, Juventus'tan kadrosuna kattığı orta saha oyuncusu Fabio Miretti'nin, Juventus U23 takımından eski teknik direktörü Lamberto Zauli, İtalyan futbolcu hakkında açıklamalarda bulundu.",
+      "link": "https://www.star.com.tr/spor/lamberto-zauli-fabio-miretti-vincenzo-italianonun-oyun-tarzina-buyuk-katki-saglar-haber-2037799/",
+      "published": "2026-09-03T08:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:43.930939+00:00"
+    },
+    {
+      "id": "c828494a8f776cd1",
+      "source": "Gazete Pencere",
+      "title": "Son anket: Erdoğan seçilemiyor, fark 7,2 puan",
+      "summary": "HBS Araştırma, Cumhurbaşkanlığı seçim anketinin sonuçlarını kamuyoyla paylaştı. Anket sonucuna göre Erdoğan, Cumhurbaşkanı seçilemezken Ekrem İmamoğlu'nun 7,2 puanlık fark atması dikka t çekti. İşte Cumhurbaşkanlığı anketinin sonuçları...",
+      "link": "https://www.gazetepencere.com/siyaset/son-anket-erdogan-secilemiyor-fark-72-puan-714208h",
+      "published": "2026-09-03T08:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:46.646114+00:00"
+    },
+    {
+      "id": "5917b2c32bc4ae93",
+      "source": "Milliyet",
+      "title": "Son dakika...İsrail basını Türkiye'ye karşı 'felaket senaryosunu' yazdı! 'Kendi kendini gerçekleştiren kehanet'",
+      "summary": "MİLLİYET.COM.TR / İsrail basınında Türkiye’nin bölgedeki yükselen etkisine ilişkin dikkat çeken bir analiz yayımlandı. ‘HAYATİ HATA’ Kanal 12’de eski Askeri İstihbarat Başkanı Tamir Heyman imzasıyla yayımlanan \"Türkiye, İran değildir\" başlıklı analizde, Türkiye’nin askeri gücü ve Orta Doğu’daki genişleyen nüfuzuna dikkat çekilirken, Ankara’nın İran’la aynı tehdit kategorisine konulmasının İsrail a",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-israil-basini-turkiyeye-karsi-felaket-senaryosunu-yazdi-kendi-kendini-gerceklestiren-kehanet-7653397",
+      "published": "2026-09-03T08:07:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:42.368812+00:00"
+    },
+    {
+      "id": "fd2b31c99d4fda89",
+      "source": "Türkiye Gazetesi",
+      "title": "Rakamlar netleşiyor! İşte memur ve emeklinin 2 aylık zammı",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/rakamlar-netlesiyor-iste-memur-ve-emeklinin-2-aylik-zammi-1813474",
+      "published": "2026-09-03T08:07:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:39.943605+00:00"
+    },
+    {
+      "id": "754ca78e95a43965",
+      "source": "Türkiye Gazetesi",
+      "title": "RAKAMLAR NETLEŞİYOR!",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/rakamlar-netlesiyor-iste-memur-ve-emeklinin-2-aylik-zammi-1813474",
+      "published": "2026-09-03T08:07:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:39.943630+00:00"
+    },
+    {
+      "id": "2f5bd098e5e9f883",
+      "source": "Yeniçağ",
+      "title": "İkinci tur anketinde çarpıcı sonuç: Yavaş ve Erdoğan arasındaki fark açıldı",
+      "summary": "HBS Araştırma&#039;nın Ağustos ayında 21 ilde 2.000 seçmenle yaptığı ankette, olası bir ikinci tur senaryoda hangi adayın öne çıkacağını açıkladı. Ankette Cumhurbaşkanı ve AK Parti Genel Başkanı Erdoğan&#039;ın oy oranları karşılaştırıldı.",
+      "link": "https://www.yenicaggazetesi.com/ikinci-tur-anketinde-carpici-sonuc-yavas-ve-erdogan-arasindaki-fark-acildi-1067927h.htm",
+      "published": "2026-09-03T08:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:44.963770+00:00"
+    },
+    {
+      "id": "cb43ac5ccc9d3727",
+      "source": "Halk TV",
+      "title": "Son dakika | Ahmet Davutoğlu'na soruşturma!",
+      "summary": "Son dakika... Gelecek Partisi&#039;nin feshedilmesinin ardından Ahmet Davutoğlu&#039;na soruşturma açıldı.",
+      "link": "https://halktv.com.tr/turkiye/son-dakika-ahmet-davutogluna-sorusturma-1052812h",
+      "published": "2026-09-03T08:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:47.496317+00:00"
+    },
+    {
+      "id": "b2d3043b8ab2b8d1",
+      "source": "Ekonomim",
+      "title": "Ahmet Davutoğlu hakkında soruşturma başlatıldı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı, sosyal medyada dolaşıma sokulan paylaşımlarda Cumhurbaşkanına hakaret içerdiği değerlendirilen ifadeleri nedeniyle feshedilen Gelecek Partisi&#039;nin Genel Başkanı Ahmet Davutoğlu hakkında TCK&#039;nın 299/1. maddesi kapsamında soruşturma başlattı.",
+      "link": "https://www.ekonomim.com/gundem/ahmet-davutoglu-hakkinda-sorusturma-baslatildi-haberi-915963",
+      "published": "2026-09-03T08:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:54.974206+00:00"
+    },
+    {
+      "id": "a37a30024c204c0d",
+      "source": "Milliyet",
+      "title": "Kaçtı, uzaklaştırma kararı aldırdı yine de kurtulamadı! Ebru hemşirenin kabusu: Benden kurtulmanın tek yolu beni öldürmen",
+      "summary": "Bahçeşehir'de yaşayan hemşire Ebru Anik, 2023 yılı Aralık ayında Mustafa M. ile başlayan 3 yıllık ilişkilerinin son 1,5 yılında şiddet gördüğünü, ayrılmak istediğinde ise tehdit ve şantajla ilişkiyi sürdürmeye zorlandığını öne sürdü. Ailesinin de tehdit edilmesi üzerine korktuğu için şikayetini geri çekmek zorunda kalan Anik, yaklaşık bir ay önce darbedildi, burnu kırıldı. Tekrar şikayetçi olan An",
+      "link": "https://www.milliyet.com.tr/gundem/kacti-uzaklastirma-karari-aldirdi-yine-de-kurtulamadi-ebru-hemsirenin-kabusu-benden-kurtulmanin-tek-yolu-beni-oldurmen-7653398",
+      "published": "2026-09-03T08:06:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:42.369904+00:00"
+    },
+    {
+      "id": "92563dbbca448084",
+      "source": "Milliyet",
+      "title": "9 kişilik aile tek odada yaşıyordu! Hayatları 10 günde değişti",
+      "summary": "Ağrı kent merkezine 25 kilometre uzaklıktaki Dönerdere köyünde yaşayan 9 kişilik Özer ailesinin hayatı, bir köylünün Dünyada Son Umut Derneği’ne yaptığı ihbarla değişti. Ailenin yaşadığı evin görüntülerini alan dernek yetkilileri, köye giderek aileyle görüştü. 80 yıllık, taş ve topraktan yapılan evin tek odadan oluştuğu, mutfak, banyo ve tuvaletin de odaya eklenti olarak yapıldığı, evin üstü ve pe",
+      "link": "https://www.milliyet.com.tr/gundem/9-kisilik-aile-tek-odada-yasiyordu-hayatlari-10-gunde-degisti-7653396",
+      "published": "2026-09-03T08:06:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:42.370162+00:00"
+    },
+    {
+      "id": "1cb0f504545e590c",
+      "source": "Gerçek Gündem",
+      "title": "Zabıta Bile Gözlerine İnanamadı! Şanlıurfa'da Yakalanan Dilencinin Üzerinden Çıkan Para Şoke Etti",
+      "summary": "Şanlıurfa&#039;da zabıta ekiplerinin düzenlediği operasyonda yakalanan yabancı uyruklu bir dilencinin üzerinden tam 60 bin lira nakit para çıktı. Parasına el konulan dilenci, işlemlerinin ardından sınır dışı edildi.",
+      "link": "https://www.gercekgundem.com/guncel/zabita-bile-gozlerine-inanamadi-sanliurfada-yakalanan-dilencinin-uzerinden-cikan-para-soke-etti-577925",
+      "published": "2026-09-03T08:06:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:52.511263+00:00"
+    },
+    {
+      "id": "6a6f0b127a15c4bb",
+      "source": "Milliyet",
+      "title": "Bakan Kacır’dan G20’de diplomasi trafiği",
+      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, ABD’nin Kuzey Carolina eyaletinde düzenlenen G20 İnovasyon Bakanları Toplantısı marjında ABD, Avrupa Birliği (AB), Polonya, Güney Kore, Suudi Arabistan ve Arjantin’den üst düzey yetkililerle bir araya geldi. Görüşmelerde inovasyon, ileri teknolojiler, dijital dönüşüm alanlarında iş birlikleri değerlendirildi. Konuya ilişkin NSosyal hesabından paylaşım",
+      "link": "https://www.milliyet.com.tr/ekonomi/bakan-kacirdan-g20de-diplomasi-trafigi-7653400",
+      "published": "2026-09-03T08:06:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:42.370939+00:00"
+    },
+    {
+      "id": "a982df976d2e49ab",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "FIBA 2026 Kadınlar Basketbol Dünya Kupası'nın perdesi yarın açılacak",
+      "summary": "FIBA 2026 Kadınlar Basketbol Dünya Kupası, yarın başlayacak.",
+      "link": "https://www.aa.com.tr/tr/spor/fiba-2026-kadinlar-basketbol-dunya-kupasinin-perdesi-yarin-acilacak/4046039",
+      "published": "2026-09-03T08:06:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:37.339693+00:00"
+    },
+    {
+      "id": "5e3bc8a627d1deb1",
+      "source": "Aydınlık",
+      "title": "Melih Gökçek, gazeteci Murat Ağırel hakkında suç duyurusunda bulundu",
+      "summary": "Eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek, Avrupa’daki mal varlığına ilişkin iddiaları gündeme getiren gazeteci Murat Ağırel hakkında suç duyurusunda bulunduğunu duyurdu. Gökçek, hakkındaki “23 taşınmaz” iddiasını reddederek, tüm mal varlığının e-Devlet kayıtlarında yer aldığını söyledi.",
+      "link": "https://www.aydinlik.com.tr/haber/melih-gokcek-gazeteci-murat-agirel-hakkinda-suc-duyurusunda-bulundu-588726",
+      "published": "2026-09-03T08:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:45.990661+00:00"
+    },
+    {
+      "id": "67f8fca7eb6eaf34",
+      "source": "OdaTV",
+      "title": "Tuzla'daki depolama alanında yangın paniği",
+      "summary": "Tuzla‘da bulunan bir depolama alanında henüz bilinmeyen nedenle yangın çıktı.",
+      "link": "https://www.odatv.com/guncel/tuzladaki-depolama-alaninda-yangin-panigi-120161265",
+      "published": "2026-09-03T08:05:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:46.920200+00:00"
+    },
+    {
+      "id": "34cc9a835b8a6a0d",
+      "source": "Türkiye Gazetesi",
+      "title": "Pereira, Türkiye'ye mi dönüyor? Trabzonspor kararı",
+      "summary": "Fatih Tekke ile yolların ayrılması sonrası arayışlarını sürdüren Trabzonspor'un teknik direktör adayları arasında Vitor Pereira da bulunuyor. Fenerbahçe'de 2015-2016 sezonu ve 2021'de görev yapan Portekizli çalıştırıcının, bordo-mavililerin ilgisi karşısında tutumu belli oldu.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/vitor-pereira-turkiyeye-mi-donuyor-trabzonspor-karari-ortaya-cikti-1813473",
+      "published": "2026-09-03T08:05:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:39.943665+00:00"
+    },
+    {
+      "id": "8e156ca8ff144dba",
+      "source": "Serbestiyet",
+      "title": "Gemi kazasının ardından Arıklı görevden alınmıştı: YDP hükümetten çekildi",
+      "summary": "KKTC'de YDP Parti Meclisi, bugün yaptığı toplantıda hükümetten çekilme kararı aldı. Gemi kazasının ardından Arıklı görevden alınmıştı: YDP hükümetten çekildi yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
+      "link": "https://serbestiyet.com/haberler/gemi-kazasinin-ardindan-arikli-gorevden-alinmisti-ydp-hukumetten-cekildi-247768/",
+      "published": "2026-09-03T08:05:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:51.242382+00:00"
+    },
+    {
+      "id": "ebfbcbdce3a9e5ae",
+      "source": "Yeni Akit",
+      "title": "İstanbul’da inşaat alanında göçük! İşçiler toprak altında kaldı",
+      "summary": "İstanbul Başakşehir’de bir inşaat alanında meydana gelen toprak kaymasında 3 işçi göçük altında kaldı. Bölgeye çok sayıda ekip sevk edilirken, işçilerden 2’si kurtarıldı. Toprak altında kalan diğer işçiye ulaşılması için ekiplerin çalışması sürüyor.",
+      "link": "https://www.yeniakit.com.tr/haber/istanbulda-insaat-alaninda-gocuk-isciler-toprak-altinda-kaldi-2020746.html",
+      "published": "2026-09-03T08:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:44.302438+00:00"
+    },
+    {
+      "id": "433fd81343242555",
+      "source": "Millî Gazete",
+      "title": "DGS TABAN PUANLARI 2026! Hangi bölüme kaç puan gerekir, kontenjanlar kaç kişi, tercihler nereden yapılır, son gün hangi tarih?",
+      "summary": "Ön lisans eğitimini dört yıllık lisans programına tamamlamak isteyen adaylar için 2026 DGS tercihleri bugün sona eriyor. Üniversite ve bölüm seçimini tamamlamaya çalışan adayların en fazla üzerinde durduğu konuların başında DGS taban puanları 2026, tercih kılavuzu ve kontenjan bilgileri geliyor.",
+      "link": "https://www.milligazete.com.tr/dgs-taban-puanlari-2026-hangi-bolume-kac-puan-gerekir-kontenjanlar-kac-kisi-tercihler-nereden-yapilir-son-gun-hangi-tarih",
+      "published": "2026-09-03T08:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:46.301795+00:00"
+    },
+    {
+      "id": "d78b3fdd1e014ccc",
+      "source": "Gerçek Gündem",
+      "title": "İstanbul Başakşehir'de İnşaat Alanında Toprak Kayması: 1 İşçi Aranıyor",
+      "summary": "Başakşehir, Şamlar Mahallesi&#039;nde inşaat alanında toprak kayması meydana geldi. İhbar üzerine itfaiye ve AFAD ekipleri sevk edildi. İlk belirlemelere göre göçük altında kalan 3 işçiden 2&#039;si kurtarıldı. Göçük altındaki 1 işçiyi kurtarma çalışmaları devam ediyor.",
+      "link": "https://www.gercekgundem.com/gundem/istanbul-basaksehirde-insaat-alaninda-toprak-kaymasi-1-isci-araniyor-577924",
+      "published": "2026-09-03T08:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:52.511309+00:00"
+    },
     {
       "id": "6b7e2a0dfd13d159",
       "source": "Star",
@@ -17,6 +413,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T08:05:38.294533+00:00"
+    },
+    {
+      "id": "b91581ee2b320e0a",
+      "source": "Cumhuriyet",
+      "title": "Son dakika... İstanbul Başakşehir'de inşaat alanında toprak kayması: 1 işçi aranıyor",
+      "summary": "Son dakika haberi... Başakşehir Şamlar Mahallesi’nde bir inşaat alanında meydana gelen toprak kayması sonucu 3 işçi göçük altında kaldı. Ekiplerin çalışmasıyla 2 işçi kurtarılırken, göçük altında kalan 1 işçiyi kurtarma çalışmaları sürüyor.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-istanbul-basaksehir-de-insaat-alaninda-toprak-kaymasi-1-isci-araniyor-2534547",
+      "published": "2026-09-03T08:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:37.624490+00:00"
+    },
+    {
+      "id": "92ced89437015184",
+      "source": "Aydınlık",
+      "title": "Başakşehir - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "Süper Lig’in 4. haftasında Galatasaray, deplasmanda Başakşehir ile karşı karşıya gelecek. Sarı-kırmızılıların yeni transferi Rafael Leao’nun da mücadelede forma giymesi bekleniyor. Peki Başakşehir - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda?",
+      "link": "https://www.aydinlik.com.tr/haber/basaksehir-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda-588725",
+      "published": "2026-09-03T08:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:45.990707+00:00"
     },
     {
       "id": "81a2445f0733dae1",
@@ -105,6 +523,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T08:05:42.935679+00:00"
+    },
+    {
+      "id": "3055af0dda2057c1",
+      "source": "Habertürk",
+      "title": "VGM burs başvurusu 2026 ne zaman?",
+      "summary": "VGM burs başvuru tarihleri 2026-2027 eğitim öğretim yılının başlamasına kısa süre kala araştırılan konular arasında yer alıyor. Vakıflar Genel Müdürlüğü (VGM) tarafından ortaöğrenim ve yükseköğrenim öğrencilerine verilen karşılıksız burs başvurularının ne zaman başlayacağı merak ediliyor. Eğitim hayatları süresince maddi desteğe ihtiyaç duyan öğrenciler VGM bursuna kimlerin başvurabileceğini ve ba",
+      "link": "https://www.haberturk.com/vgm-burs-basvurusu-2026-ne-zaman-vakiflar-genel-mudurlugu-vgm-burs-basvuru-tarihleri-aciklandi-mi-sartlari-neler-3909959",
+      "published": "2026-09-03T08:02:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:34.611742+00:00"
     },
     {
       "id": "f538be29c2965238",
@@ -360,6 +789,17 @@
       "fetched_at": "2026-09-03T08:05:33.362299+00:00"
     },
     {
+      "id": "33d67d4e4e7c83c3",
+      "source": "Finans Gündem",
+      "title": "Akbank \"Ticari Merkez\" modelini hayata geçirdi",
+      "summary": "Akbank, ticari bankacılıkta hizmet modelini Ticari Merkez yapısıyla yeniden şekillendiriyor. Avrupa Ticari Merkez ile ilkini ağustos ayında İstanbul’da hizmete açan Akbank, 2027 yılı sonuna kadar Türkiye'de toplam 26 Ticari Merkeze ulaşmayı hedefliyor",
+      "link": "https://www.finansingundemi.com/haber/akbank-ticari-merkez-modelini-hayata-gecirdi/1907094",
+      "published": "2026-09-03T07:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:56.911622+00:00"
+    },
+    {
       "id": "6a17ac6bfb857901",
       "source": "Akşam",
       "title": "Tuzla'da iş yerinde yangın",
@@ -391,6 +831,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T08:01:06.891034+00:00"
+    },
+    {
+      "id": "877772e0ad4b85c1",
+      "source": "OdaTV",
+      "title": "Balkondan atladı: Görenler yardıma koştu",
+      "summary": "Diyarbakır’ın Bağlar ilçesinde balkondan atladıktan sonra demirlerde asılı kalan kadın, alt kattaki balkona tırmanan bir kişi tarafından kurtarıldı. Hastaneye kaldırılan kadının sağlık durumunun iyi olduğu öğrenildi.",
+      "link": "https://www.odatv.com/guncel/diyarbakirda-balkondan-atlayan-kadin-demirlerde-asili-kaldi-120161263",
+      "published": "2026-09-03T07:58:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:46.920230+00:00"
     },
     {
       "id": "836c332a05db1c19",
@@ -446,6 +897,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T08:01:04.796440+00:00"
+    },
+    {
+      "id": "6279706cdfeb4254",
+      "source": "Türkiye Gazetesi",
+      "title": "NAMAZDA KEDİYİ TEKMELEDİ!",
+      "summary": "Erzurum'un Aziziye ilçesinde bulunan Adalar Camii'nde, cemaatle namaz kılınırken ayaklarının arasına giren bir kediyi tekmeleyen vatandaşa tepkiler çığ gibi büyüdü. Erzurum Cumhuriyet Başsavcılığı şüpheli şahsın tespit edilerek gözaltına alındığını açıkladı. Tekmelenen kedinin ise sağlık durumunun iyi olduğu öğrenildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/erzurumda-infiale-yol-acan-olay-camide-kediyi-tekmeledi-bassavcilik-harekete-gecti-1813470",
+      "published": "2026-09-03T07:56:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:39.943728+00:00"
     },
     {
       "id": "d711d6eedf05be43",
@@ -523,6 +985,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T08:00:56.400100+00:00"
+    },
+    {
+      "id": "95513d882c618dc6",
+      "source": "Habertürk",
+      "title": "İspanya'da muhalefet meydanlara çıktı",
+      "summary": "İspanya'nın Kuzey Afrika'daki toprağı Sebte'ye (Ceuta) 30-31 Temmuz'da Fas'tan yaklaşık 70 bin düzensiz göçmenin girişinin ardından yaşanan krizde sol görüşlü hükümeti sorumlu tutan muhalefetteki sağ ve aşırı sağcı partiler, ülke genelinde gösteriler düzenledi.",
+      "link": "https://www.haberturk.com/ispanya-da-muhalefet-hukumetin-ceuta-daki-duzensiz-goc-politikasina-tepki-icin-meydanlara-cikti-3909955",
+      "published": "2026-09-03T07:55:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:34.611788+00:00"
     },
     {
       "id": "6201bf706337e770",
@@ -2736,6 +3209,17 @@
       "fetched_at": "2026-09-03T08:01:00.561467+00:00"
     },
     {
+      "id": "5f906356a70281fa",
+      "source": "Türkiye Gazetesi",
+      "title": "F.Bahçe'de bir dönem sona erdi: İstanbul'dan ayrıldı",
+      "summary": "Fenerbahçe'ye Ocak 2025'te 1,5 yıllık imza atan, Temmuz 2026'da kontratının 2 yıl uzatıldığı TFF'ye bildirilen Anderson Talisca, hücumda en etkili isimlerinden biri olduğu sarı-lacivertlilere veda etti. Sambacı, Al Jazira'nin başarısı için mücadele edecek.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcede-bir-donem-sona-erdi-anderson-talisca-istanbuldan-ayrildi-1813463",
+      "published": "2026-09-03T07:24:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:39.943898+00:00"
+    },
+    {
       "id": "2e7321d9fe61e8ed",
       "source": "Türkiye Gazetesi",
       "title": "F.Bahçe'de bir dönem sona erdi: İstanbul'dan ayrıldı!",
@@ -4848,6 +5332,17 @@
       "fetched_at": "2026-09-03T07:01:08.151031+00:00"
     },
     {
+      "id": "692a812e8737c09b",
+      "source": "Türkiye Gazetesi",
+      "title": "Memur ve emekli için kritik! Enflasyon rakamları açıklandı",
+      "summary": "Memur, emekli ve kira zamları için kritik öneme sahip olan enflasyon rakamları açıklandı. TÜİK'in açıkladığı veriye göre, TÜFE ağustosta yüzde 1,84 artarken, yıllık bazda ise yüzde 31,51 oldu.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/memur-emekli-ve-kira-zammi-icin-kritik-enflasyon-rakamlari-aciklandi-1813456",
+      "published": "2026-09-03T06:58:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-03T08:10:39.944068+00:00"
+    },
+    {
       "id": "2f3d41a2ff303834",
       "source": "Türkiye Gazetesi",
       "title": "MEMUR VE EMEKLİ İÇİN KRİTİK!",
@@ -5011,501 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T07:05:52.335196+00:00"
-    },
-    {
-      "id": "6bb5409c4297523c",
-      "source": "Akşam",
-      "title": "Bursa'da cadde ringe döndü: O anlar kamerada",
-      "summary": "Bursa'da cadde üzerinde trafik tartışması sebebiyle birbirine giren iki grup, caddeyi adeta ringe çevirdi. O anlar amatör kameraya yansıdı.",
-      "link": "https://www.aksam.com.tr/guncel/bursada-cadde-ringe-dondu-o-anlar-kamerada/haber-1695489",
-      "published": "2026-09-03T06:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:01:05.152420+00:00"
-    },
-    {
-      "id": "bb035e52f1616bd8",
-      "source": "Habertürk",
-      "title": "Dilenciden 60 bin TL çıktı",
-      "summary": "Şanlıurfa'da dilencilere yönelik denetimde İran uyruklu bir kişinin üzerinden 60 bin lira çıktı. Dilencilik yaptığı gerekçesiyle 3 bin 700 lira idari para cezası uygulanan kişi, işlemlerinin ardından sınır dışı edildi",
-      "link": "https://www.haberturk.com/son-dakika-haberler-sanliurfa-da-dilencilik-yapan-bir-kisiden-60-bin-tl-cikti-3909932",
-      "published": "2026-09-03T06:56:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:10:37.064854+00:00"
-    },
-    {
-      "id": "dfaf6144cd51a891",
-      "source": "Habertürk",
-      "title": "Arazide kasalar dolu bozulmuş balık!",
-      "summary": "İstanbul Arnavutköy'de ticari araçla çayırlık alana gelen bir kişi, kasalar içerisindeki onlarca bozulmuş balığı araziye döktü. Tespit edilen kişiye 40 bin lira ceza yazıldı",
-      "link": "https://www.haberturk.com/arazide-kasalar-dolu-bozulmus-balik-3909922",
-      "published": "2026-09-03T06:56:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T08:00:53.518726+00:00"
-    },
-    {
-      "id": "9aba28b6593ee250",
-      "source": "LOG",
-      "title": "Xiaomi 18 Fold için kilit teknik detaylar netlik kazandı",
-      "summary": "Resmi olarak 7 Eylül’de tanıtılacak yeni katlanabilir telefonu modeli Xiaomi 18 Fold için paylaşımlar sürüyor. İçinde 7,58 inç boyutunda, dışında ise 5,38 inç boyutunda bir ekranın yer aldığı telefon, 67W kablolu ve 50W kablosuz şarj destekli 6.000 mAh batarya (iki parça halinde) ile geliyor. Arkasındaki yatay formlu modülde 200 megapiksellik 1/1.56 inç sensörlü geniş açı, 50 megapiksellik ultra g",
-      "link": "https://www.log.com.tr/xiaomi-18-fold-icin-kilit-teknik-detaylar-netlik-kazandi/",
-      "published": "2026-09-03T06:56:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:01:23.951456+00:00"
-    },
-    {
-      "id": "491ccc949840f0e8",
-      "source": "Cumhuriyet",
-      "title": "2026 Açık lise kayıtları başladı mı, ne zaman başlıyor? AÖL kayıt yenileme tarihi belli oldu mu?",
-      "summary": "Milli Eğitim Bakanlığı (MEB) bünyesinde eğitimine devam eden veya liseyi açıktan tamamlamak isteyen binlerce öğrencinin gözü 2026-2027 eğitim öğretim yılı 1. dönem kayıt sürecine çevrildi. Peki, 2026 Açık lise kayıtları başladı mı, ne zaman başlıyor? AÖL kayıt yenileme tarihi belli oldu mu?",
-      "link": "https://www.cumhuriyet.com.tr/egitim/2026-acik-lise-kayitlari-basladi-mi-ne-zaman-basliyor-aol-kayit-yenileme-tarihi-belli-oldu-mu-2534514",
-      "published": "2026-09-03T06:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:00:59.221019+00:00"
-    },
-    {
-      "id": "f4eaf0fe51a149b5",
-      "source": "Yeni Şafak",
-      "title": "27 kişinin hastanelik olduğu yangının öncesine ait görüntüler ortaya çıktı: Çocuklar otoparka kartonla girmiş",
-      "summary": "İstanbul Esenyurt'ta 27 kişinin hastaneye kaldırıldığı ve 42 kişinin tahliye edildiği site otoparkındaki yangın öncesine ait güvenlik kamerası görüntüleri ortaya çıktı. Görüntülerde, alevlerin yükselmesinden hemen önce iki çocuğun ellerinde kartonlarla otoparka girdiği anlar yer aldı.",
-      "link": "https://www.yenisafak.com/video/gundem/27-kisinin-hastanelik-oldugu-yanginin-oncesine-ait-goruntuler-ortaya-cikti-cocuklar-otoparka-kartonla-girmis-4852840",
-      "published": "2026-09-03T06:55:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:39.817356+00:00"
-    },
-    {
-      "id": "5fd132ce1ee4c0c3",
-      "source": "Yeni Yaşam",
-      "title": "Mehdi Zana’yı anlatan cezaevi arkadaşı: İşkencelere rağmen teslim olmadı",
-      "summary": "Kürt siyasetçi ve Amed eski Belediye Başkanı Mehdi Zana&#8217;nın 29 Ağustos&#8217;ta yaşamını yitirdi. Aynı dönemde Mehdi Zana ile Diyarbakır 5 No&#8217;lu Cezaevi&#8217;nde tutulan Abdullah Kanat, işkencelere rağmen teslim olmadığını söyledi Kürt siyasetçi ve eski Amed Belediye Başkanı Mehdi Zana, 29 Ağustos&#8217;ta yaşamını yitirdi. Amed&#8217;in Farqîn (Silvan) ilçesinde 20 Aralık 1940 tarihi",
-      "link": "https://yeniyasamgazetesi9.com/mehdi-zanayi-anlatan-cezaevi-arkadasi-iskencelere-ragmen-teslim-olmadi/",
-      "published": "2026-09-03T06:55:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:50.323377+00:00"
-    },
-    {
-      "id": "d0450ca8f86de557",
-      "source": "CNBC-e",
-      "title": "Gizli belge radikal planı ortaya çıkardı! VolksWagen grubu o markanın şalterini indiriyor",
-      "summary": "Volkswagen Grubu yönetiminin, denetleme kurulu için hazırlanan gizli bir belgeye göre Seat markasını 2029 yılına kadar piyasadan çekmeyi planladığı ortaya çıktı. Süreçte kardeş marka Cupra'nın varlığını sürdüreceği bildirildi.",
-      "link": "https://www.cnbce.com/otomotiv/gizli-belge-radikal-plani-ortaya-cikardi-volkswagen-grubu-o-markanin-salterini-indiriyor-g36426",
-      "published": "2026-09-03T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:55:48.685124+00:00"
-    },
-    {
-      "id": "4c443e2f9367d5dd",
-      "source": "Evrensel",
-      "title": "Süper Lig'de 4’üncü hafta başlıyor: Sezonun ilk derbisinde Fenerbahçe ile Beşiktaş karşılaşacak",
-      "summary": "Süper Lig'de 4’üncü hafta, Başakşehir-Galatasaray karşılaşmasıyla başlayacak. Haftanın öne çıkan maçında ise Fenerbahçe ile Beşiktaş sezonun ilk derbisinde karşı karşıya gelecek.",
-      "link": "https://www.evrensel.net/haber/5998962/super-ligde-4uncu-hafta-basliyor-sezonun-ilk-derbisinde-fenerbahce-ile-besiktas-karsilasacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-03T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:20:38.533709+00:00"
-    },
-    {
-      "id": "d8df7d2b868b9149",
-      "source": "Cumhuriyet",
-      "title": "Sağlık Bakanlığı 130. Dönem DHY kurası ne zaman? Sağlık Bakanlığı 130. Dönem DHY kura sonuçları ne zaman açıklanacak?",
-      "summary": "Sağlık Bakanlığı tarafından yürütülen 130. Dönem Devlet Hizmeti Yükümlülüğü (DHY) kura sürecinde, kura çekim tarihi merak ediliyor. Peki, Sağlık Bakanlığı 130. Dönem DHY kurası ne zaman? Sağlık Bakanlığı 130. Dönem DHY kura sonuçları ne zaman açıklanacak?",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/saglik-bakanligi-130-donem-dhy-kurasi-ne-zaman-saglik-bakanligi-130-donem-dhy-kura-sonuclari-ne-zaman-aciklanacak-2534513",
-      "published": "2026-09-03T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:00:59.221052+00:00"
-    },
-    {
-      "id": "028fca30aadfa10a",
-      "source": "Ekonomim",
-      "title": "Doktor Özlem Gültekin'in ölüm nedeni belli oldu",
-      "summary": "İzmir&#039;deki kliniğinde 14 Ağustos&#039;ta cansız bedeni bulunan 48 yaşındaki Op. Dr. Özlem Gültekin&#039;in ölümüne ilişkin Adli Tıp Kurumu raporu tamamlandı. Raporda, Gültekin&#039;in anestezide kullanılan propofol maddesine bağlı zehirlenme sonucu yaşamını yitirdiği, kanında ve iç organlarında yüksek miktarda propofol tespit edildiği belirtildi.",
-      "link": "https://www.ekonomim.com/gundem/doktor-ozlem-gultekinin-olum-nedeni-belli-oldu-haberi-915937",
-      "published": "2026-09-03T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:01:20.081661+00:00"
-    },
-    {
-      "id": "f86ddefa98221094",
-      "source": "Yeniçağ",
-      "title": "1915 Çanakkale Köprüsü açıklarında sürüklenen tekne kurtarıldı",
-      "summary": "Çanakkale Boğazı’nda makine arızası nedeniyle sürüklenen 12 metrelik teknedeki 2 kişi, Kıyı Emniyeti Genel Müdürlüğü ekiplerinin hızlı müdahalesiyle Sütlüce&#039;de güvenli alana çekildi.",
-      "link": "https://www.yenicaggazetesi.com/1915-canakkale-koprusu-aciklarinda-suruklenen-tekne-kurtarildi-1067885h.htm",
-      "published": "2026-09-03T06:54:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:41.965680+00:00"
-    },
-    {
-      "id": "ec8c3336c5c5ad6a",
-      "source": "Akşam",
-      "title": "Dilencinin üzerinden servet çıktı! Zabıta ekipleri gözlerine inanamadı",
-      "summary": "Şanlıurfa'da zabıta ekiplerince yakalanan yabancı uyruklu dilencinin üzerinden 60 bin lira çıktı.",
-      "link": "https://www.aksam.com.tr/trend/dilencinin-uzerinden-servet-cikti-zabita-ekipleri-gozlerine-inanamadi/haber-1695488",
-      "published": "2026-09-03T06:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:38.773075+00:00"
-    },
-    {
-      "id": "4a39d1f86a412674",
-      "source": "Euronews Türkçe",
-      "title": "İBB'ye operasyon: Daire başkanı ve Kent Lokantaları yöneticisi dahil 12 kişi gözaltında",
-      "summary": "İBB'nin bazı ihalelerine ilişkin soruşturmada, Satın Alma Dairesi Başkanı Mustafa Sökmen ile Kent Lokantalarından sorumlu şube müdürü de gözaltına alındı. Savcılık, hakkında gözaltı kararı verilen bir kişinin ise yurt dışında olduğunu açıkladı.",
-      "link": "http://tr.euronews.com/2026/09/03/ibbye-operasyon-daire-baskani-ve-kent-lokantalari-yoneticisi-dahil-12-kisi-gozaltinda",
-      "published": "2026-09-03T06:53:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:05:52.404478+00:00"
-    },
-    {
-      "id": "42f948b69567b5c5",
-      "source": "Karar",
-      "title": "Meteoroloji paylaştı: Marmara ve Kuzey Ege için kuvvetli rüzgar uyarısı",
-      "summary": "MGM, Marmara’nın güneybatısı ile Kuzey Ege’de kuvvetli rüzgar beklendiğini bildirerek olumsuzluklara karşı uyardı. Doğu Karadeniz kıyıları, Ordu çevreleri, Samsun’un doğusu ve sabah saatlerinde Sinop çevrelerinde sağanak beklenirken, hava sıcaklıklarının mevsim normallerinin üzerinde seyredeceği tahmin edildi. Güney Ege’de ise fırtınamsı rüzgar bekleniyor.",
-      "link": "https://www.karar.com/guncel-haberler/meteoroloji-paylasti-marmara-ve-kuzey-ege-icin-kuvvetli-ruzgar-uyarisi-2069698",
-      "published": "2026-09-03T06:53:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:41.360796+00:00"
-    },
-    {
-      "id": "92960163d9242e8e",
-      "source": "Yeniçağ",
-      "title": "ABD İç Güvenlik Bakanı’nı taşıyan uçak havada arızalandı",
-      "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin’i taşıyan uçak, motorlarından birinin arızalanması üzerine başkent Washington yakınlarındaki Ronald Reagan Ulusal Havalimanı’na acil iniş yaptı. Uçakta 14 kişinin bulunduğu belirtilirken, pilotun kuleye “Sağ motorumuzu kaybettik” dediği bildirildi.",
-      "link": "https://www.yenicaggazetesi.com/abd-ic-guvenlik-bakanini-tasiyan-ucak-havada-arizalandi-1067884h.htm",
-      "published": "2026-09-03T06:53:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:41.965721+00:00"
-    },
-    {
-      "id": "9d48f303444bb748",
-      "source": "Yeniçağ",
-      "title": "UEFA Fenerbahçe, Greenwood ve Guendouzi'ye soruşturma başlattı",
-      "summary": "Fenerbahçe’nin Lyon deplasmanında oynadığı Şampiyonlar Ligi play-off rövanşının ardından UEFA harekete geçti. Sarı-lacivertli kulüp, karşılaşmada yaşanan olaylar nedeniyle Matteo Guendouzi, Mason Greenwood ve kulüp hakkında disiplin soruşturması başlatıldığını duyurdu.",
-      "link": "https://www.yenicaggazetesi.com/uefa-fenerbahce-greenwood-ve-guendouziye-sorusturma-baslatti-1067883h.htm",
-      "published": "2026-09-03T06:53:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:41.965754+00:00"
-    },
-    {
-      "id": "7bf29e6857b71b75",
-      "source": "Yeniçağ",
-      "title": "Hollanda Merkez Bankası'ndan kriz hazırlığı: 86 ton altın yer değiştirdi",
-      "summary": "Hollanda Merkez Bankası (DNB), artan jeopolitik gerilim gerekçesiyle 86 ton altın rezervini ABD ve Kanada&#039;dan Londra&#039;ya taşıdı. Banka, Londra&#039;daki altının kriz anında daha hızlı kullanılabildiğini açıkladı; transfer mart-ağustos 2026 arasında tamamlandı.",
-      "link": "https://www.yenicaggazetesi.com/hollanda-merkez-bankasindan-kriz-hazirligi-86-ton-altin-yer-degistirdi-1067882h.htm",
-      "published": "2026-09-03T06:53:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:41.965787+00:00"
-    },
-    {
-      "id": "9a25e626dde5a3ba",
-      "source": "Ekonomim",
-      "title": "AKOM tarih verdi: İstanbul’da gök gürültülü sağanak etkili olacak",
-      "summary": "AKOM’un İstanbul için hazırladığı haftalık hava tahminine göre, bugün kentte sıcaklıkların 30 dereceye kadar yükselmesi bekleniyor. Hafta genelinde önemli bir yağış öngörülmezken, yalnızca kısa süreli ve yerel yağışların etkili olabileceği belirtiliyor. Kuzey yönlerden esecek rüzgarların ise zaman zaman kuvvetlenmesi bekleniyor.",
-      "link": "https://www.ekonomim.com/gundem/akom-tarih-verdi-istanbulda-gok-gurultulu-saganak-etkili-olacak-haberi-915936",
-      "published": "2026-09-03T06:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:01:20.081699+00:00"
-    },
-    {
-      "id": "b0761e81ffd2be48",
-      "source": "Türkiye Gazetesi",
-      "title": "Dilencinin üzerinden çıkan para zabıtayı bile şaşırttı",
-      "summary": "Şanlıurfa'da İran uyruklu bir dilencinin üzerinde yapılan aramada 60 bin TL ele geçirildi. Toplam 3 bin 700 TL idari para cezası uygulanan şahıs, Göç İdaresi İl Müdürlüğüne teslim edildi ve ardından sınır dışı edildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/dilencilik-yaparken-yakalandi-uzerinden-cikan-para-zabitayi-bile-sasirtti-1813454",
-      "published": "2026-09-03T06:52:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:35.584893+00:00"
-    },
-    {
-      "id": "e766d5eb6f7390e6",
-      "source": "Habertürk",
-      "title": "İtalya'da tarihi rekor",
-      "summary": "İtalya Başbakanı Meloni, İkinci Dünya Savaşı'ndan bu yana İtalya'nın en uzun süre görev yapan başbakanı olmaya hazırlanıyor.",
-      "link": "https://www.haberturk.com/italya-da-tarihi-rekor-3909926",
-      "published": "2026-09-03T06:52:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:10:37.064900+00:00"
-    },
-    {
-      "id": "e02ec6b120bcfc0e",
-      "source": "İklim Haber",
-      "title": "“ETS Yönetmeliği Büyük Belirsizlikler İçeriyor”",
-      "summary": "Emisyon tahsisatlarının rakamsal ifadelerinin ve daha birçok önemli ayrıntının Karbon Piyasası Kurulu’na bırakıldığını belirten Gümüş, etkin bir ETS’nin var olup olamayacağının hâlâ belli olmadığını ifade etti. İklim Haber ve Medyascope işbirliğiyle hazırlanan COP31 Yolu programının bu bölümünde, Dr. Barış Doğru’nun konuğu Ember Türkiye’den Uzman Enerji Analisti Bahadır Sercan Gümüş oldu. Gümüş, y",
-      "link": "https://www.iklimhaber.org/ets-yonetmeligi-buyuk-belirsizlikler-iceriyor/",
-      "published": "2026-09-03T06:52:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:59.440214+00:00"
-    },
-    {
-      "id": "2a92ce895fd213e5",
-      "source": "Evrensel",
-      "title": "Başakşehir - Galatasaray maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "Süper Lig'in 4'üncü haftasında Galatasaray, Başakşehir'e konuk oluyor. Galatasaray'ın yeni transferi Rafael Leao'nun da sahaya çıkması bekleniyor.",
-      "link": "https://www.evrensel.net/haber/5998967/basaksehir-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-03T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:50:44.402354+00:00"
-    },
-    {
-      "id": "14170c389baf5ca8",
-      "source": "Bir Gün",
-      "title": "Uzak Şehir Yeni Sezon Ne Zaman Başlıyor? Yeni Sezon Fragmanı Yayınlandı!",
-      "summary": "Uzak Şehir yeni sezon ne zaman başlayacak, dizinin 3. sezon ilk bölümü hangi gün ekrana gelecek? Cihan ile Alya’yı yeni sezonda neler bekliyor? Yanıtlar haberimizde.",
-      "link": "https://www.birgun.net/haber/uzak-sehir-yeni-sezon-ne-zaman-basliyor-yeni-sezon-fragmani-yayinlandi-732606",
-      "published": "2026-09-03T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:25:35.190184+00:00"
-    },
-    {
-      "id": "1087b56d856c8052",
-      "source": "Finans Gündem",
-      "title": "Bu faiz vuracak! Şirketleri, girişimcileri, tüketiciyi ‘daha pahalı’ günler bekliyor",
-      "summary": "Devletlerin faiz faturası büyürken şirketlerin yatırımları, tüketicilerin kredi ödemeleri ve hisse senedi piyasaları da baskıyla karşı karşıya.",
-      "link": "https://www.finansingundemi.com/haber/bu-faiz-vuracak-sirketleri-girisimcileri-tuketiciyi-daha-pahali-gunler-bekliyor/1907085",
-      "published": "2026-09-03T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:10:53.096995+00:00"
-    },
-    {
-      "id": "ee3317b261d766e2",
-      "source": "Evrensel",
-      "title": "İstanbul’da kiralık ev arayanlara yeni engel: Kiracılardan neler isteniyor?",
-      "summary": "Bazı ev sahipleri kiracı adaylarından maaş, meslek, çalışma süresi, otomobil markası ve eski ev sahibi referansı gibi bilgilerin yer aldığı formları doldurmalarını istiyor.",
-      "link": "https://www.evrensel.net/haber/5998961/istanbulda-kiralik-ev-arayanlara-yeni-engel-kiracilardan-neler-isteniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-03T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:01:02.591254+00:00"
-    },
-    {
-      "id": "daa294a5bc62a742",
-      "source": "Cumhuriyet",
-      "title": "Motorine dev zam geliyor: Akaryakıta ne kadar zam gelecek? Güncel benzin, mazot, LPG fiyatları ne kadar?",
-      "summary": "ABD-İran gerilimi ve Rusya'daki rafineri saldırıları küresel piyasaları vurdu. İddialara göre perşembeyi cumaya bağlayan gece motorine dev zam gelecek. Peki, Akaryakıta ne kadar zam gelecek? Güncel benzin, mazot, LPG fiyatları ne kadar?",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/motorine-dev-zam-geliyor-akaryakita-ne-kadar-zam-gelecek-guncel-benzin-mazot-lpg-fiyatlari-ne-kadar-2534510",
-      "published": "2026-09-03T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:32.822909+00:00"
-    },
-    {
-      "id": "d3ee61a49b582546",
-      "source": "Karar",
-      "title": "Yargıtay’dan emsal karar: Sigortasız çalışanlara emeklilik kapısını açan detay",
-      "summary": "Geçmişte sigortasız çalıştırıldığı için emeklilik hakkını kaçıranları ilgilendiren emsal kararda Yargıtay; hizmet tespiti davalarında çalışma süresinin yalnızca SGK kayıtlarıyla sınırlı tutulamayacağına ve aynı iş yerinde çalışan kardeşin tanıklığının tek başına geçersiz sayılamayacağına hükmetti.",
-      "link": "https://www.karar.com/ekonomi-haberleri/yargitaydan-emsal-karar-sigortasiz-calisanlara-emeklilik-kapisini-2069697",
-      "published": "2026-09-03T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:41.360836+00:00"
-    },
-    {
-      "id": "1e9f8a381c92a0a8",
-      "source": "Millî Gazete",
-      "title": "Evlerde çok fazla konuşulmaz! İhtiyaç listesinde de her zaman yer almaz! ‘Yüzü de ekşiten’ bir durum var",
-      "summary": "Ağustos ayında üretici ile market arasındaki fiyat farkı en fazla yüzde 748,4 ile limonda görülürken, limon markette 8,5 kat fazla fiyata satıldı.",
-      "link": "https://www.milligazete.com.tr/evlerde-cok-fazla-konusulmaz-ihtiyac-listesinde-de-her-zaman-yer-almaz-yuzu-de-eksiten-bir-durum-var",
-      "published": "2026-09-03T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:43.729402+00:00"
-    },
-    {
-      "id": "a1ea4c1cc6c0258c",
-      "source": "Ekonomim",
-      "title": "Nilüfer Belediye Başkanı Şadi Özdemir’den \"Ekokent\" açıklaması",
-      "summary": "Nilüfer Belediye Başkanı Şadi Özdemir, basın mensuplarıyla bir araya geldiği toplantıda Batı Gelişim Bölgesi olarak da bilinen “Ekokent” planlarının 18 aydır beklemede olduğunu belirterek sürecin hızlanması gerektiğini vurguladı. İmar Kanunu’na göre 3 ay içinde karara bağlanmayan planların onaylanmış sayıldığını hatırlatan Başkan Özdemir, bölgedeki ulaşım ve kentsel ihtiyaçların karşılanması için ",
-      "link": "https://www.ekonomim.com/sehirler/nilufer-belediye-baskani-sadi-ozdemirden-ekokent-aciklamasi-haberi-915935",
-      "published": "2026-09-03T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:52.151918+00:00"
-    },
-    {
-      "id": "dfcd0f68e3c0af12",
-      "source": "Cumhuriyet",
-      "title": "Ridley Scott ile Paul Mescal arasında 'Gladyatör 2' gerilimi iddiası: Temsilciden iddialara yanıt geldi",
-      "summary": "Yönetmen Ridley Scott’ın, 'Gladyatör 2' filminin gişe performansından başrol oyuncusu Paul Mescal'ı sorumlu tuttuğu ve oyuncuyu yeterince \"erkeksi\" bulmadığı iddia edildi. Ünlü yönetmenin temsilcisi iddiaları kesin bir dille yalanlayarak, Mescal'ın projeden ayrılma sebebinin yalnızca takvim uyuşmazlığı olduğunu açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/yasam/ridley-scott-ile-paul-mescal-arasinda-gladyator-2-gerilimi-iddiasi-temsilciden-iddialara-yanit-geldi-2534511",
-      "published": "2026-09-03T06:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:32.822953+00:00"
-    },
-    {
-      "id": "abcdeaf4b9e879e9",
-      "source": "Karar",
-      "title": "Adli Tıp raporu tamamlandı: Doktor Özlem Gültekin’in ölüm nedeni belli oldu",
-      "summary": "Adli Tıp Kurumu’nun tamamladığı incelemede, İzmir’deki kliniğinde hayatını kaybeden Op. Dr. Özlem Gültekin’in ölümüne ilişkin dikkat çeken bulgular ortaya çıktı. Rapora göre Gültekin’in kanında yüksek miktarda propofol tespit edilirken, ölümün bu maddeye bağlı zehirlenme sonucu gerçekleştiği belirtildi.",
-      "link": "https://www.karar.com/guncel-haberler/adli-tip-raporu-tamamlandi-doktor-ozlem-gultekinin-olum-nedeni-belli-2069696",
-      "published": "2026-09-03T06:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:41.360871+00:00"
-    },
-    {
-      "id": "5085b68e4d8a1cf3",
-      "source": "Millî Gazete",
-      "title": "Kademeli emeklilik son durum ne, 2027’de yasa çıkacak mı, kimler yararlanacak, kadın ve erkek yaş tablosu nasıl olacak?",
-      "summary": "Kademeli emeklilik 2027 beklentisi, EYT kapsamının dışında kalan milyonlarca çalışan tarafından yakından takip ediliyor. Özellikle 8 Eylül 1999 sonrasında sigortalı olanlar, emeklilik yaşının ve prim gün şartlarının yeniden düzenlenmesini talep ediyor.",
-      "link": "https://www.milligazete.com.tr/kademeli-emeklilik-son-durum-ne-2027de-yasa-cikacak-mi-kimler-yararlanacak-kadin-ve-erkek-yas-tablosu-nasil-olacak",
-      "published": "2026-09-03T06:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:43.729443+00:00"
-    },
-    {
-      "id": "ccd123a9f25e91b5",
-      "source": "Gazete Pencere",
-      "title": "Erhan Çelik'in eski eşi Özlem Gültekin’in ölüm nedeni belli oldu",
-      "summary": "İzmir’de özel kliniğinde hayatını kaybeden Kadın Hastalıkları ve Doğum Uzmanı Özlem Gültekin’in Adli Tıp Kurumu raporu tamamlandı. Raporda, Gültekin’in anestezide kullanılan propofol maddesine bağlı zehirlenme sonucu yaşamını yitirdiği belirtildi.",
-      "link": "https://www.gazetepencere.com/magazin/erhan-celikin-eski-esi-ozlem-gultekinin-olum-nedeni-belli-oldu-714193h",
-      "published": "2026-09-03T06:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:44.420228+00:00"
-    },
-    {
-      "id": "379febbc9395bd6e",
-      "source": "Halk TV",
-      "title": "Tiktok fenomenleri Cansum Kaya ve Sinan Kaya gözaltına alındı",
-      "summary": "Tiktok fenomenleri Cansum Kaya ve Sinan Kaya, &quot;halkı kin ve düşmanlığa tahrik veya aşağılama&quot; suçlamasıyla gözaltına alındı.",
-      "link": "https://halktv.com.tr/turkiye/tiktok-fenomenleri-cansum-kaya-ve-sinan-kaya-gozaltina-alindi-1052782h",
-      "published": "2026-09-03T06:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:45.049873+00:00"
-    },
-    {
-      "id": "8fe6d4ef6dc8f281",
-      "source": "CNBC-e",
-      "title": "Trump, İran savaşı 'bitti' açıklaması yapmayı düşünüyor: Pentagon hazırlıkları sürdürüyor",
-      "summary": "ABD Başkanı Donald Trump’ın kıdemli danışmanlarıyla İran savaşının sona erdiğini açıklama ihtimalini görüştüğü bildirildi",
-      "link": "https://www.cnbce.com/dunya/trump-iran-savasi-bitti-aciklamasi-yapmayi-dusunuyor-pentagon-hazirliklari-surduruyor-h36425",
-      "published": "2026-09-03T06:50:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:50:55.589175+00:00"
-    },
-    {
-      "id": "ef0da2b06e86766d",
-      "source": "Yeni Yaşam",
-      "title": "İngiltere İşçi Partisi üyesi: Kürdistan koşullarına uygun yerel yönetim modeli geliştirilmeli",
-      "summary": "Türkiye’de yerel yönetimlerin güçlendirilmesine ilişkin değerlendirmelerde bulunan İngiltere İşçi Partisi üyesi Mustafa Doğal, dünyadaki örneklerden yararlanılarak Kürtler için uygun bir yerel yönetim modelinin geliştirilebileceğini söyledi Barış ve Demokratik Toplum Süreci kapsamında Meclis&#8217;te kabul edilen çerçeve yasa ve bundan sonra atılacak adımlara ilişkin tartışmalar sürerken, yerel de",
-      "link": "https://yeniyasamgazetesi9.com/ingiltere-isci-partisi-uyesi-kurdistan-kosullarina-uygun-yerel-yonetim-modeli-gelistirilmeli/",
-      "published": "2026-09-03T06:50:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:50:52.794444+00:00"
-    },
-    {
-      "id": "5ebf5854bc766ec1",
-      "source": "Kısa Dalga",
-      "title": "Polis drone’larının içki içenlerin yerine “gerçek” suçun peşine düşmesi gerekmiyor mu?",
-      "summary": "BURAK SOYER | Polisin 7/24 her yeri gözetlediği İstanbul’da “gerçek suçlar” yerine drone’larla içki içenlerin peşine düşüp eliyle koymuş gibi bulmasını neye bağlamalıyız?",
-      "link": "https://kisadalga.net/yazar/polis-dronelarinin-icki-icenlerin-yerine-gercek-sucun-pesine-dusmesi-gerekmiyor-mu-140182",
-      "published": "2026-09-03T06:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:01:13.932322+00:00"
-    },
-    {
-      "id": "f0e75c589f6c774b",
-      "source": "Cumhuriyet",
-      "title": "Bugün hangi maçlar var, saat kaçta, hangi kanalda? 3 Eylül Perşembe günü maç programı...",
-      "summary": "3 Eylül Perşembe günü oynanacak maçlar belli oldu. Heyecan dolu karşılaşmalar perşembe günü oynanacak. İşte 3 Eylül maç programı...",
-      "link": "https://www.cumhuriyet.com.tr/spor/bugun-hangi-maclar-var-saat-kacta-hangi-kanalda-3-eylul-persembe-gunu-mac-programi-2534507",
-      "published": "2026-09-03T06:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:55:32.822981+00:00"
-    },
-    {
-      "id": "86721e14677767b0",
-      "source": "Akşam",
-      "title": "Vanspor, Alvaro de Oliveira'yı kadrosuna kattı",
-      "summary": "1. Lig ekiplerinden Vanspor FK'da Alvaro de Oliveira ile 2 yıllık sözleşme imzalandı.",
-      "link": "https://www.aksam.com.tr/spor/vanspor-alvaro-de-oliveirayi-kadrosuna-katti/haber-1695487",
-      "published": "2026-09-03T06:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:50:41.636339+00:00"
-    },
-    {
-      "id": "b1c7f7848483c152",
-      "source": "Akşam",
-      "title": "Son dakika: Ağustos ayı enflasyon ne kadar oldu? TÜİK TEFE TÜFE Ağustos 2026 enflasyon oranı…",
-      "summary": "Türkiye İstatistik Kurumu'nun açıklayacağı ağustos ayı enflasyon verileri, milyonlarca vatandaş ve piyasalar tarafından yakından takip ediliyor. Açıklanacak rakamlar, kira artış oranlarından ekonomik beklentilere kadar birçok alanı etkileyecek. Peki, Ağustos ayı enflasyon ne kadar oldu? İşte detaylar…",
-      "link": "https://www.aksam.com.tr/trend/son-dakika-agustos-ayi-enflasyon-ne-kadar-oldu-tuik-tefe-tufe-agustos-2026-enflasyon-orani/haber-1695486",
-      "published": "2026-09-03T06:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:50:41.636374+00:00"
-    },
-    {
-      "id": "89c9b0db766f1241",
-      "source": "Akşam",
-      "title": "Altı Üstü İstanbul'a bomba transfer: Öyle bir isim kadroya dahil oluyor ki!",
-      "summary": "Erkan Can, yeni sezonun en çok izlenen dizilerinden Altı Üstü İstanbul'un kadrosuna dahil oldu.",
-      "link": "https://www.aksam.com.tr/venus/alti-ustu-istanbula-bomba-transfer-oyle-bir-isim-kadroya-dahil-oluyor-ki/haber-1695485",
-      "published": "2026-09-03T06:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:50:41.636396+00:00"
-    },
-    {
-      "id": "08b8aab336614cbf",
-      "source": "LOG",
-      "title": "Google Vids artık belgelerden video özetleri oluşturabiliyor",
-      "summary": "Google’ın resmi olarak Türkiye’de de kullanılabilen ücretsiz video düzenleme servisi Google Vids, artık yüklenen belgelerden video özetleri oluşturabiliyor. Bu temelde kullanıcılar dakikalar içerisinde Google Dokümanlar üzerinden yükledikleri belgeleri ya da PDF ve Word dosyalarını kısa ve ilgi çekici videolara çevirebiliyor. Sistem, belgenin içeriğine göre senaryo ve seslendirme oluşturmanın yanı",
-      "link": "https://www.log.com.tr/google-vids-artik-belgelerden-video-ozetleri-olusturabiliyor/",
-      "published": "2026-09-03T06:49:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:50:58.193996+00:00"
-    },
-    {
-      "id": "ade76a69e511c03f",
-      "source": "Yeniçağ",
-      "title": "Bingöl'de uyuşturucu operasyonu: 1 zanlı tutuklandı",
-      "summary": "Bingöl&#039;ün Genç ilçesinde polis ekiplerince gerçekleştirilen uyuşturucu operasyonunda 3 kilo 73 gram esrar ile cephanelik ele geçirildi, gözaltına alınan 1 şüpheli tutuklandı.",
-      "link": "https://www.yenicaggazetesi.com/bingolde-uyusturucu-operasyonu-1-zanli-tutuklandi-1067881h.htm",
-      "published": "2026-09-03T06:49:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T06:50:44.014617+00:00"
-    },
-    {
-      "id": "611960133c9d9aff",
-      "source": "Bir Gün",
-      "title": "Çılgın Sayısal Loto 2 Eylül 2026 Sonuçları Açıklandı! Milli Piyango Çekiliş Sonuçları Sorgulama Ekranı | 2 Eylül 2026 Çılgın Sayısal çekiliş sonuçları",
-      "summary": "Çılgın Sayısal Loto 2 Eylül 2026 sonuçları sorgulama ekranı çekilişin canlı yayınlanmasının ardından erişime açıldı. Sisal Şans tarafından noter huzurunda gerçekleştirilen Çılgın Sayısal çekilişi Milli Piyango'ya ait olan YouTube kanalında naklen yayınlandı. 2 Eylül Çılgın Sayısal çekilişinde 6 bilen çıkarkmazken 624 milyon TL'lik büyük ikramiye sahibini bulamadı. Çılgın Sayısal Loto çekilişi sonr",
-      "link": "https://www.birgun.net/haber/cilgin-sayisal-loto-2-eylul-2026-sonuclari-aciklandi-milli-piyango-cekilis-sonuclari-sorgulama-ekrani-2-eylul-2026-cilgin-sayisal-cekilis-sonuclari-732605",
-      "published": "2026-09-03T06:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T07:25:35.190243+00:00"
     }
   ]
 }

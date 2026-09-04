@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-09-04T20:01:20.339777+00:00",
+  "last_updated": "2026-09-04T20:05:56.255141+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 626,
+  "new_items_this_run": 621,
   "items": [
+    {
+      "id": "c2700b7f30bd4a7a",
+      "source": "Akşam",
+      "title": "Trabzonspor Rene Mitongo'nun ayrılığını duyurdu",
+      "summary": "Trabzonspor, genç futbolcusu Rene Mitongo'nun kiralık olarak takımdan ayrıldığını açıkladı. Bordo mavililer, oyuncunun Estrela'ya transfer olduğunu duyurdu.",
+      "link": "https://www.aksam.com.tr/spor/trabzonspor-rene-mitongonun-ayriligini-duyurdu/haber-1695944",
+      "published": "2026-09-04T20:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:37.353367+00:00"
+    },
+    {
+      "id": "99070d844b302e48",
+      "source": "Star",
+      "title": "Trabzonspor yeni transferini Portekiz'e kiraladı",
+      "summary": "Trendyol Süper Lig ekiplerinden Trabzonspor, bu yaz transfer döneminde kadrosuna kattığı Rene Mitongo'nun Portekiz Ligi ekiplerinden Estrela'ya kiralandığını açıkladı.",
+      "link": "https://www.star.com.tr/spor/trabzonspor-yeni-transferini-portekize-kiraladi-haber-2038136/",
+      "published": "2026-09-04T20:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:38.265635+00:00"
+    },
+    {
+      "id": "1d65525522e5ef07",
+      "source": "Yeniçağ",
+      "title": "Cumhurbaşkanı Erdoğan, BAE Devlet Başkanı Al Nahyan ile telefonda görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Şeyh Muhammed bin Zayed Al Nahyan ile bir telefon görüşmesi gerçekleştirdi.",
+      "link": "https://www.yenicaggazetesi.com/cumhurbaskani-erdogan-bae-devlet-baskani-al-nahyan-ile-telefonda-gorustu-1068472h.htm",
+      "published": "2026-09-04T20:03:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:39.516041+00:00"
+    },
+    {
+      "id": "6becb49495e346b8",
+      "source": "Star",
+      "title": "KKTC'de müzik ve eğlence yasağı 9 Eylül'e kadar uzatıldı",
+      "summary": "KKTC İçişleri Bakanlığı, Girne açıklarında meydana gelen ve 12 kişinin hayatını kaybettiği elim gemi kazası nedeniyle ülke genelinde uygulanan müzik ve eğlence yasağını 9 Eylül Çarşamba günü saat 00.00'a kadar uzattı.",
+      "link": "https://www.star.com.tr/guncel/kktcde-muzik-ve-eglence-yasagi-9-eylule-kadar-uzatildi-haber-2038135/",
+      "published": "2026-09-04T20:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:38.265670+00:00"
+    },
+    {
+      "id": "dc43d9941e35c713",
+      "source": "Millî Gazete",
+      "title": "Victor Osimhen Sakatlandı mı, Sakatlığı Ne, Kaç Hafta Yok, Başakşehir Maçında Neden Oyundan Çıktı?",
+      "summary": "Galatasaray’da Victor Osimhen sakatlığı, Başakşehir deplasmanında sarı-kırmızılı taraftarları endişelendirdi. Trendyol Süper Lig’in 4. haftasında oynanan karşılaşmanın 17. dakikasında Galatasaray’ı öne geçiren golü atan Nijeryalı yıldız, kısa süre sonra yaşadığı problem nedeniyle maça devam edemedi.",
+      "link": "https://www.milligazete.com.tr/victor-osimhen-sakatlandi-mi-sakatligi-ne-kac-hafta-yok-basaksehir-macinda-neden-oyundan-cikti",
+      "published": "2026-09-04T20:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:40.909280+00:00"
+    },
+    {
+      "id": "4994cb0184056cb0",
+      "source": "Star",
+      "title": "Beşiktaş'ta beklenen ayrılık! İstanbulspor'a transfer oldu",
+      "summary": "Trendyol Süper Lig ekiplerinden Beşiktaş, savunma oyuncusu Emrecan Uzunhan'ın İstanbulspor'a kesin transfer olduğunu resmen açıkladı.",
+      "link": "https://www.star.com.tr/spor/besiktasta-beklenen-ayrilik-istanbulspora-transfer-oldu-haber-2038134/",
+      "published": "2026-09-04T20:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:38.265692+00:00"
+    },
+    {
+      "id": "c66e2feb343e9402",
+      "source": "Yeni Şafak",
+      "title": "Pakistan Savunma Günü’nde 'Mekke İttifakı' vurgusu: Hedef 'kolektif caydırıcılık'",
+      "summary": "Milli Savunma Bakanı Yaşar Güler, Pakistan Savunma ve Şehitler Günü resepsiyonunda Türkiye, Pakistan ve Suudi Arabistan arasındaki savunma işbirliğinin yeni dönemine dikkat çekti. Mekke Anlaşması’nın “kolektif caydırıcılığı” esas aldığını vurguladı. Güler, “Anlaşmanın ortak güvenliği tahkim etmesinin yanı sıra askeri konularda birlikte çalışabilirliği ve savunma sanayi işbirliğini daha da ileriye ",
+      "link": "https://www.yenisafak.com/gundem/pakistan-savunma-gununde-mekke-ittifaki-vurgusu-hedef-kolektif-caydiricilik-4853279",
+      "published": "2026-09-04T20:00:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:37.799318+00:00"
+    },
     {
       "id": "7eb51f713072f9b5",
       "source": "Yeni Yaşam",
@@ -1867,6 +1944,17 @@
       "fetched_at": "2026-09-04T18:50:59.250839+00:00"
     },
     {
+      "id": "1db1aaa78b6a6b3e",
+      "source": "Habertürk",
+      "title": "4 Eylül 2026 maç programı",
+      "summary": "4 Eylül Cuma gününün maç takvimi belli oldu. Trendyol Süper Lig’de 4. hafta heyecanı bugün başlayacak. Ayrıca İngiltere Premier Lig, Fransa Ligue 1, İspanya La Liga, İtalya Serie A, Almanya Bundesliga, Hollanda Eredivisie, Portekiz Premier Lig ve Suudi Arabistan Pro Ligi’nde birbirinden kritik mücadeleler oynanacak. Öte yandan bugün voleybol ve basketbol maçı olup olmadığı sporseverler tarafından ",
+      "link": "https://www.haberturk.com/bilgi/foto/bugunku-mac-programi-4-eylul-2026-super-lig-de-4-hafta-heyecani-bugun-hangi-maclar-var-kimin-maci-var-saat-kacta-ve-hangi-kanalda-yayinlanacak-3910170",
+      "published": "2026-09-04T18:47:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:30.140250+00:00"
+    },
+    {
       "id": "6ca3ae8fc4cbbba3",
       "source": "Türkiye Gazetesi",
       "title": "Firari İrfan Yılmaz hakkında yakalama kararı!",
@@ -1922,6 +2010,17 @@
       "fetched_at": "2026-09-04T18:50:54.154730+00:00"
     },
     {
+      "id": "2a7091ab7213b378",
+      "source": "Habertürk",
+      "title": "KYK yurt sonuçları bekleniyor!",
+      "summary": "KYK yurt sonuçları için heyecanlı bekleyiş sürüyor. 25-29 Ağustos tarihleri arasında alınan 2026-2027 Kredi ve Yurtlar Genel Müdürlüğü (KYK) yurt başvurularının ne zaman sonuçlanacağı merak ediliyor. Üniversitelerin açılmasına oldukça kısa bir süre kalırken, ilk defa bir yükseköğretim programına kayıt yaptıran öğrenciler ile eğitimine devam eden ara sınıf öğrencileri Gençlik ve Spor Bakanlığı açık",
+      "link": "https://www.haberturk.com/bilgi/foto/kyk-yurt-sonuclari-sorgulama-ekrani-2026-2027-kyk-yurt-basvuru-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-gsb-yurt-sorgulama-nasil-yapilir-3910211",
+      "published": "2026-09-04T18:45:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:30.140123+00:00"
+    },
+    {
       "id": "fd6b8087ba5e1bb5",
       "source": "Yeni Şafak",
       "title": "Rojin Kabaiş soruşturmasında yeni talepler iletildi: 50 kişi mercek altında",
@@ -1942,6 +2041,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T18:50:47.053103+00:00"
+    },
+    {
+      "id": "fd1cfb6c8fb1486d",
+      "source": "Habertürk",
+      "title": "Türkiye - Sırbistan maçı ne zaman?",
+      "summary": "Filenin Sultanları, 2026 CEV Trendyol Kadınlar Avrupa Voleybol Şampiyonası'nda Almanya'yı 3-1 mağlup ederek yarı finale yükseldi. Türkiye, bu sonuçla Avrupa Şampiyonası'nda yarı finale kalmayı başardı. Ay-yıldızlı ekibin yarı finaldeki rakibi ise Sırbistan oldu. Sırbistan, çeyrek finalde Yunanistan'ı 3-0 mağlup ederek Türkiye'nin rakibi olmayı garantiledi. Filenin Sultanları ile Sırbistan arasında",
+      "link": "https://www.haberturk.com/bilgi/foto/turkiye-sirbistan-maci-ne-zaman-saat-kacta-cev-kadinlar-avrupa-voleybol-sampiyonasi-filenin-sultanlari-yari-final-voleybol-maci-hangi-kanalda-3910112",
+      "published": "2026-09-04T18:44:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T20:05:30.140621+00:00"
     },
     {
       "id": "291a9fdbcdee783d",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T16:50:46.271695+00:00"
-    },
-    {
-      "id": "74b99c8491de5437",
-      "source": "Millî Gazete",
-      "title": "Nepal'deki sel felaketinde Çin tarafında can kaybı 31'e yükseldi",
-      "summary": "Nepal sınırındaki buzul çökmesinin tetiklediği dev toprak kayması Tibet'i vurdu. Çamur deryasına dönen Gyirong kasabasında can kaybı 31'e yükselirken, 531 kişiden günlerdir haber alınamıyor.",
-      "link": "https://www.milligazete.com.tr/nepaldeki-sel-felaketinde-cin-tarafinda-can-kaybi-31e-yukseldi",
-      "published": "2026-09-04T16:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:45:49.317266+00:00"
-    },
-    {
-      "id": "2f11ecdd2e7ef146",
-      "source": "Millî Gazete",
-      "title": "2026 İBB Yurtları Hangileri, Avrupa Yakası’nda Kaç Yurt Var, Anadolu Yakası’nda Kaç Yurt Var, Kimler Kalabilir?",
-      "summary": "İstanbul’da üniversite öğrenimi görecek öğrencilerin beklediği 2026-2027 İBB yurt başvuru sonuçları erişime açıldı. İstanbul Büyükşehir Belediyesi yükseköğrenim öğrenci yurtlarına başvuru yapan adaylar, asil veya yedek listede yer alıp almadıklarını çevrim içi sistem üzerinden kontrol edebiliyor.",
-      "link": "https://www.milligazete.com.tr/2026-ibb-yurtlari-hangileri-avrupa-yakasinda-kac-yurt-var-anadolu-yakasinda-kac-yurt-var-kimler-kalabilir",
-      "published": "2026-09-04T16:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:41:03.607952+00:00"
-    },
-    {
-      "id": "989a4591c38060da",
-      "source": "Akşam",
-      "title": "Sakatlık açıklaması! Okan Buruk, Başakşehir maçı öncesi konuştu",
-      "summary": "Süper Lig'de Galatasaray, deplasmanda Başakşehir ile karşı karşıya gelirken mücadele öncesinde sarı kırmızılıların teknik direktör Okan Buruk, açıklamalarda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/sakatlik-aciklamasi-okan-buruk-basaksehir-maci-oncesi-konustu/haber-1695914",
-      "published": "2026-09-04T16:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:35:43.761816+00:00"
-    },
-    {
-      "id": "29900204ce022f2d",
-      "source": "Millî Gazete",
-      "title": "Bekçilik yaş sınırı kaç 2026? 31 yaşında başvuru yapılabilir mi? Eğitim şartı ne? İkamet şartı değişti mi?",
-      "summary": "2026 bekçilik alımı için bekleyiş devam ediyor. Çarşı ve Mahalle Bekçisi olarak Emniyet Genel Müdürlüğü bünyesinde görev yapmak isteyen adayların gözü Polis Akademisi Başkanlığı'ndan gelecek duyuruya çevrildi.",
-      "link": "https://www.milligazete.com.tr/bekcilik-yas-siniri-kac-2026-31-yasinda-basvuru-yapilabilir-mi-egitim-sarti-ne-ikamet-sarti-degisti-mi",
-      "published": "2026-09-04T16:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:35:47.188973+00:00"
-    },
-    {
-      "id": "37be73cb35387e13",
-      "source": "Türkiye Gazetesi",
-      "title": "Trabzonspor yeni golcüsüne kavuştu",
-      "summary": "Trabzonspor'un transfer görüşmelerinde bulunduğu 22 yaşındaki santrfor futbolcu Ali Habeşoğlu, Trabzon'a geldi. Bordo mavili takıma transfer olmaktan dolayı büyük mutluluk yaşadığını söyleyen Habeşoğlu, \"Çok büyük bir camiaya geldim. İnşallah elimden gelen her şeyi yapıp çok katkı vermek istiyorum.\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/trabzonspor-yeni-golcusune-kavustu-1813849",
-      "published": "2026-09-04T16:32:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:35:40.654877+00:00"
-    },
-    {
-      "id": "1f84c24894c622c0",
-      "source": "Yeniçağ",
-      "title": "İBB davasında savcılıktan tahliyelere itiraz",
-      "summary": "İBB davasında dün verilen tahliye kararlarına savcılık itiraz etti. Bakırköy Belediye Başkan Yardımcısı Ali Rıza Akyüz ve reklamcı Serkan Öztürk&#039;ün yeniden tutuklanması istendi.",
-      "link": "https://www.yenicaggazetesi.com/ibb-davasinda-savciliktan-tahliyelere-itiraz-1068438h.htm",
-      "published": "2026-09-04T16:31:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:35:46.035245+00:00"
-    },
-    {
-      "id": "89179c7db401e5fe",
-      "source": "Evrensel",
-      "title": "Girne'deki gemi faciası sonrası Kıbrıslı sendikalardan Birleşik Metal-İş'e ziyaret",
-      "summary": "Kıbrıs Türk Amme Memurları Sendikası ve Kıbrıs İşçi ve Emekçi Sendikaları Federasyonu yöneticileri Birleşik Metal-İş'i ziyaret etti. Görüşmede ekonomik kriz, hayat pahalılığı, sendikal mücadele ve Girne açıklarındaki deniz faciası ele alındı.",
-      "link": "https://www.evrensel.net/haber/5999195/girne-deki-gemi-faciasi-sonrasi-kibrisli-sendikalardan-birlesik-metal-is-e-ziyaret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-04T16:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:50:36.235893+00:00"
-    },
-    {
-      "id": "ea89151d0d51b69b",
-      "source": "Millî Gazete",
-      "title": "Dünyanın en büyük T-Rex’i Scotty nasıl öldü, kaburgası neden kırıldı, kaç yaşındaydı, kaç metreydi ve ağırlığı ne kadardı?",
-      "summary": "Yaklaşık 66 milyon yıl önce yaşayan dev Tyrannosaurus rex fosili Scotty, bilim insanlarının yaptığı yeni incelemeyle yeniden dikkatleri üzerine çekti. Kanada’nın Saskatchewan bölgesinde bulunan ve bilinen en iri T-Rex örneklerinden biri kabul edilen Scotty’nin kaburgasında, ölümünden önce iyileşmeye başlamış ciddi bir kırığın izleri tespit edildi.",
-      "link": "https://www.milligazete.com.tr/dunyanin-en-buyuk-t-rexi-scotty-nasil-oldu-kaburgasi-neden-kirildi-kac-yasindaydi-kac-metreydi-ve-agirligi-ne-kadardi",
-      "published": "2026-09-04T16:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:35:47.189007+00:00"
-    },
-    {
-      "id": "f74d5be3e3cba4c8",
-      "source": "Star",
-      "title": "Gençlerbirliği'ne Portekizli santrfor",
-      "summary": "Trendyol Süper Lig ekiplerinden Gençlerbirliği, Modena forması giyen Portekizli santrfor Pedro Mendes'i kiralık olarak renklerine bağladı.",
-      "link": "https://www.star.com.tr/spor/genclerbirligine-portekizli-santrfor-haber-2038088/",
-      "published": "2026-09-04T16:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:30:48.716874+00:00"
-    },
-    {
-      "id": "9f9070a488ffed75",
-      "source": "Millî Gazete",
-      "title": "Gençlerbirliği, Pedro Mendes'i kadrosuna kattı",
-      "summary": "Hücum hattını güçlendirmek için kolları sıvayan Gençlerbirliği, İtalya Serie B ekibi Modena'da forma giyen 27 yaşındaki Portekizli santrfor Pedro Mendes'i kadrosuna kattı.",
-      "link": "https://www.milligazete.com.tr/genclerbirligi-pedro-mendesi-kadrosuna-katti",
-      "published": "2026-09-04T16:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T16:50:41.165263+00:00"
     }
   ]
 }

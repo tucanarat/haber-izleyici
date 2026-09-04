@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-04T01:35:50.995728+00:00",
+  "last_updated": "2026-09-04T01:40:55.464453+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 588,
+  "new_items_this_run": 586,
   "items": [
+    {
+      "id": "947950a0383bd1dc",
+      "source": "BBC News Türkçe",
+      "title": "Çözüm sürecinde alt komisyonlar nasıl çalışacak, Öcalan'ın rolü ne olacak?",
+      "summary": "Süreç kapsamında oluşturulan dört alt komisyonun çalışma esasları ay sonunda netleşecek. PKK lideri Abdullah Öcalan’a resmi bir statü verilmeyecek ancak Öcalan silahsızlanma aşamasında ihtiyaç duyulursa sürece dolaylı katkı sunabilir. Ayşe Sayın'ın haberi.",
+      "link": "https://www.bbc.com/turkce/articles/cy7z05g0d78o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-04T01:36:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T01:40:54.875046+00:00"
+    },
     {
       "id": "9dcb5474f1f8cc91",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T20:35:41.642837+00:00"
-    },
-    {
-      "id": "ac297d14b3ee4316",
-      "source": "Cumhuriyet",
-      "title": "Üsküdar'da seçime günler kala... CHP'li 4 meclis üyesi AKP'ye 'transfer' oldu!",
-      "summary": "AKP Üsküdar İlçe Başkanı Taha Sarıcaoğlu, sosyal medya hesabından yaptığı paylaşımda CHP'li 4 meclis üyesinin AKP'ye geçtiğini duyurdu. Üsküdar'da seçim 5 Eylül'de yapılacak.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/uskudar-da-secime-gunler-kala-chp-li-4-meclis-uyesi-akp-ye-transfer-oldu-2534763",
-      "published": "2026-09-03T20:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T20:15:37.339686+00:00"
     }
   ]
 }

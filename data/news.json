@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T02:41:09.102443+00:00",
+  "last_updated": "2026-09-04T02:45:54.609533+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 580,
   "items": [
+    {
+      "id": "b458dc74194d981f",
+      "source": "BBC News Türkçe",
+      "title": "Kahramanmaraş okul saldırısında tutuklu anne ve babanın ilk duruşması bugün",
+      "summary": "Kahramanmaraş'ta on kişinin hayatını kaybettiği okul saldırısına dair ilk duruşma bugün Kahramanmaraş 3. Ağır Ceza Mahkemesi'nde görülecek.",
+      "link": "https://www.bbc.com/turkce/articles/cjdvxe08kxyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-04T02:41:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T02:45:53.950571+00:00"
+    },
     {
       "id": "35ea261acc2e3b3a",
       "source": "Türkiye Gazetesi",
@@ -2934,6 +2945,17 @@
       "fetched_at": "2026-09-03T21:40:43.569553+00:00"
     },
     {
+      "id": "2e67dd8be06febc4",
+      "source": "Sözcü",
+      "title": "Ankara'da peş peşe depremler",
+      "summary": "Ankara'da peş peşe depremler",
+      "link": "https://www.sozcu.com.tr/ankara-kalecik-te-deprem-p355174",
+      "published": "2026-09-03T21:33:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T02:45:37.695560+00:00"
+    },
+    {
       "id": "df3b87a80146ae5a",
       "source": "Cumhuriyet",
       "title": "Çarpışan motosiklet ile otomobil yandı: 2 yaralı",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T20:45:51.148621+00:00"
-    },
-    {
-      "id": "176e28639967a56f",
-      "source": "Gazete Pencere",
-      "title": "Silivri'deki gemi kazası: Birinci ve üçüncü kaptan tutuklandı",
-      "summary": "Silivri'de iki geminin çarpıştığı kazayla ilgili olarak soruşturmada Alsu gemisinin birinci ve üçüncü kaptanı tutuklandı.",
-      "link": "https://www.gazetepencere.com/gundem/silivrideki-gemi-kazasi-birinci-ve-ucuncu-kaptan-tutuklandi-714277h",
-      "published": "2026-09-03T20:25:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T20:25:37.905896+00:00"
-    },
-    {
-      "id": "84f5fed20c82963e",
-      "source": "Millî Gazete",
-      "title": "Silivri'deki gemi faciasında karar: 2 kaptan tutuklandı",
-      "summary": "Silivri açıklarında 10 denizcinin kaybolduğu gemi faciasında beklenen yargı kararı çıktı. Kusurlu bulunan \"Alsu\" gemisinin 1'inci ve 3'üncü kaptanı cezaevine gönderilirken, 4 mürettebat adli kontrolle serbest bırakıldı.",
-      "link": "https://www.milligazete.com.tr/silivrideki-gemi-faciasinda-karar-2-kaptan-tutuklandi",
-      "published": "2026-09-03T20:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T20:30:58.173933+00:00"
     }
   ]
 }

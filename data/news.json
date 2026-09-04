@@ -1,12 +1,210 @@
 {
-  "last_updated": "2026-09-04T08:10:58.462155+00:00",
+  "last_updated": "2026-09-04T08:16:07.413003+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 586,
+  "new_items_this_run": 582,
   "items": [
+    {
+      "id": "9d6025b6b34b09e8",
+      "source": "Halk TV",
+      "title": "Son dakika | Girne'de can kaybı 12'ye yükseldi",
+      "summary": "Son dakika... Girne&#039;deki gemi faciasında 2 kişinin daha cansız bedenine ulaşıldı. Can kaybı 12&#039;ye yükselirken, kayıp 16 kişiyi arama çalışmaları sürüyor.",
+      "link": "https://halktv.com.tr/turkiye/son-dakika-girnede-can-kaybi-12ye-yukseldi-1053049h",
+      "published": "2026-09-04T08:14:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:52.221139+00:00"
+    },
+    {
+      "id": "8cab37ba5f9fd2b1",
+      "source": "Yeni Akit",
+      "title": "Bakan Gürlek duyurdu: 31 avukat için gözaltı kararı",
+      "summary": "Adalet Bakanı Akın Gürlek, yasa dışı yollarla vatandaşların kimlik bilgilerini ele geçiren avukatlar hakkında gözaltı kararı verildiğini söyledi.",
+      "link": "https://www.yeniakit.com.tr/haber/bakan-gurlek-duyurdu-31-avukat-icin-gozalti-karari-2020904.html",
+      "published": "2026-09-04T08:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:47.818788+00:00"
+    },
+    {
+      "id": "e5eb030702402bc6",
+      "source": "Cumhuriyet",
+      "title": "Kemal Kılıçdaroğlu'ndan 'Üsküdar' ve 'Yüreğir' mesajı: 'Memleketi bu hâle getirmeye değer mi?'",
+      "summary": "Butlan CHP'sinin genel başkanı Kemal Kılıçdaroğlu, Üsküdar ve Yüreğir'deki belediye başkan vekilliği seçimlerinde yaşananlara tepki gösterdi. \"Bir belediyeyi daha almak için memleketi bu hâle getirmeye, hukuku, ahlakı ayaklar altına almaya değer mi?\" diyen Kılıçdaroğlu, CHP'lilere \"birbirinize sahip çıkın\" çağrısı yaptı.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/kemal-kilicdaroglu-ndan-uskudar-ve-yuregir-mesaji-memleketi-bu-hale-getirmeye-deger-mi-2534833",
+      "published": "2026-09-04T08:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:40.056785+00:00"
+    },
+    {
+      "id": "ce43fd8e305014e2",
+      "source": "Cumhuriyet",
+      "title": "Son dakika... Akın Gürlek duyurdu: 31 avukat hakkında gözaltı kararı, 39 avukatlık bürosunda arama!",
+      "summary": "Son dakika haberi... İstanbul Cumhuriyet Başsavcılığı koordinasyonunda yürütülen soruşturmada, yurttaşların kişisel verilerini yasa dışı sorgulama panellerinden temin ederek kullandığı öne sürülen 31 avukat hakkında gözaltı kararı verildi. 39 avukatlık bürosunda arama ve el koyma işlemleri başlatılırken, soruşturmanın daha önceki aşamasında 10 şüpheli hakkında kamu davası açıldığı bildirildi.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-akin-gurlek-duyurdu-31-avukat-hakkinda-gozalti-karari-39-avukatlik-burosunda-arama-2534832",
+      "published": "2026-09-04T08:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:40.056835+00:00"
+    },
+    {
+      "id": "cd37869973454e16",
+      "source": "Akşam",
+      "title": "Girne'deki faciada yeni gelişme! Can kaybı 12'ye çıktı",
+      "summary": "Girne'deki gemi faciasıyla ilgili açıklama yapan KKTC Başbakanı Ünal Üstel, \"2 kişinin daha cenazesine ulaşıldı, kayıp sayısı 16. Girne'deki kazada can kaybı 12'ye çıktı\" dedi.",
+      "link": "https://www.aksam.com.tr/guncel/girnedeki-faciada-yeni-gelisme-can-kaybi-12ye-cikti/haber-1695803",
+      "published": "2026-09-04T08:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:46.029592+00:00"
+    },
+    {
+      "id": "c27e561799ec272d",
+      "source": "Star",
+      "title": "Girne'deki gemi faciasında 2 kişinin daha cenazesine ulaşıldı",
+      "summary": "Girne'deki gemi faciasıyla ilgili açıklama yapan KKTC Başbakanı Ünal Üstel: 2 kişinin daha cenazesine ulaşıldı, kayıp sayısı 16. Girne'deki kazada can kaybı 12'ye çıktı.",
+      "link": "https://www.star.com.tr/guncel/girnedeki-gemi-faciasinda-2-kisinin-daha-cenazesine-ulasildi-haber-2037995/",
+      "published": "2026-09-04T08:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:47.576357+00:00"
+    },
+    {
+      "id": "1902308816605722",
+      "source": "Halk TV",
+      "title": "Üsküdar'da seçim öncesinde denge böyle değiştirildi: Hem operasyon hem transfer",
+      "summary": "Üsküdar’da yenilenecek başkanvekili seçimi öncesi üç CHP’li meclis üyesi gözaltına alındı, dört üye AKP’ye geçti. Meclisteki oy dengesi değişirken “yeni rejimin pilot uygulaması” eleştirisi geldi.",
+      "link": "https://halktv.com.tr/siyaset/uskudarda-secim-oncesinde-denge-boyle-degistirildi-hem-operasyon-hem-transfer-1053048h",
+      "published": "2026-09-04T08:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:52.221188+00:00"
+    },
+    {
+      "id": "3f3d44a743cb53f9",
+      "source": "Karar",
+      "title": "Karabağlar ‘da örnek hizmet: Gönüllü Danışmanlık ve Test Merkezi",
+      "summary": "Karabağlar Belediyesi Halk Sağlığı Haftasında önemli bir sağlık hizmetini ilçeye kazandırdı. Gönüllü Danışmanlık ve Test Merkezi 100. Yıl Uğur Mumcu Parkında düzenlenen törenle açıldı. Halk sağlığını güçlendirmek, erken tanıyı desteklemek, doğru bilgiye erişimi artırmak, damgalama ve ayrımcılığı azaltmak için danışmanlık hizmetinin verileceği merkezde HIV testi de ücretsiz olacak.",
+      "link": "https://www.karar.com/sehir-haberleri/karabaglar-da-ornek-hizmet-gonullu-danismanlik-ve-test-merkezi-2069938",
+      "published": "2026-09-04T08:12:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:48.168535+00:00"
+    },
+    {
+      "id": "5ab055142fe8e754",
+      "source": "CNBC-e",
+      "title": "Okula dönüşte alışveriş tercihleri ​​ayrıştı! Veliler giyim, üniversite öğrencileri teknolojiye yöneldi",
+      "summary": "Hepsiburada'nın araştırmasına göre yeni eğitim yılı öncesinde alışveriş tercihleri ayrıştı. Velilerin yüzde 75'i giyim ve ayakkabıya yönelirken, üniversite öğrencilerinin önceliği teknoloji oldu.",
+      "link": "https://www.cnbce.com/sirket-haberleri/okula-donuste-alisveris-tercihleri-ayristi-veliler-giyim-universite-ogrencileri-teknolojiye-yoneldi-h36521",
+      "published": "2026-09-04T08:12:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:59.484163+00:00"
+    },
+    {
+      "id": "5682e914d47cac38",
+      "source": "Gazete Pencere",
+      "title": "Kılıçdaroğlu Üsküdar'da yaşananlara tepki gösterdi: Masa başı oyunlarıyla belediyeyi teslim etmeyeceğiz",
+      "summary": "Butlan yönetimindeki CHP’nin Genel Başkanı Kemal Kılıçdaroğlu Üsküdar’da yaşananlara sosyal medya hesabından tepki gösterdi.",
+      "link": "https://www.gazetepencere.com/siyaset/kilicdaroglu-uskudarda-yasananlara-tepki-gosterdi-masa-basi-oyunlariyla-714326h",
+      "published": "2026-09-04T08:12:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:51.347593+00:00"
+    },
+    {
+      "id": "7b36ea3879ed418f",
+      "source": "Karar",
+      "title": "PFDK'den 6 Süper Lig ekibine para cezası",
+      "summary": "PFDK, Süper Lig’den 6 kulübe para cezası verdi. Fenerbahçe ve Trabzonspor 480’er bin, Konyaspor, Gaziantep FK, Çaykur Rizespor ve Amed Sportif Faaliyetler 280’er bin lira cezaya çarptırıldı. Eyüpspor Teknik Direktörü Özhan Pulat ve Alanyaspor görevlisi Mevlüthan Çavuşoğlu’na 1’er maç men ve 100’er bin lira ceza verilirken, Konyasporlu Enis Bardhi 2 maç men cezası aldı.",
+      "link": "https://www.karar.com/spor-haberleri/pfdkden-6-super-lig-ekibine-para-cezasi-2069937",
+      "published": "2026-09-04T08:12:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:48.168585+00:00"
+    },
+    {
+      "id": "8a390e7d9f862ed0",
+      "source": "Ekonomim",
+      "title": "Nissan Türkiye'nin yeni Pazarlama Direktörü Sertaç Aydın oldu",
+      "summary": "Nissan Türkiye&#039;de Pazarlama Direktörlüğü görevine Sertaç Aydın atandı. Daha önce dokuz yılı aşkın süre Nissan Türkiye bünyesinde görev yapan ve son bir buçuk yıldır aile girişiminde çalışan Aydın, yeni görevinde pazarlama stratejisi ve organizasyonunun yönetiminden sorumlu olacak.",
+      "link": "https://www.ekonomim.com/sirketler/nissan-turkiyenin-yeni-pazarlama-direktoru-sertac-aydin-oldu-haberi-916207",
+      "published": "2026-09-04T08:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:58.328863+00:00"
+    },
+    {
+      "id": "439d840538327e59",
+      "source": "Yeni Şafak",
+      "title": "Girne'deki faciada can kaybı 12'ye yükseldi",
+      "summary": "KKTC Başbakanı Üstel, \"Gemide can kaybı 12'ye yükseldi, 16 kişi aranıyor\" dedi.",
+      "link": "https://www.yenisafak.com/gundem/girnedeki-faciada-can-kaybi-12ye-yukseldi-4853144",
+      "published": "2026-09-04T08:11:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:46.949111+00:00"
+    },
+    {
+      "id": "dbeadd3cd4525e34",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Trump'ın petrol fiyatlarını stratejik rezerv salımıyla frenleme adımları ABD'nin enerji güvenliğini aşındırıyor",
+      "summary": "Jeopolitik arz şoklarına karşı Stratejik Petrol Rezervi'ni devreye sokan ABD, kısa vadeli fiyat istikrarı sağlarken uzun vadeli enerji güvenliği tamponunu daraltıyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/trumpin-petrol-fiyatlarini-stratejik-rezerv-salimiyla-frenleme-adimlari-abdnin-enerji-guvenligini-asindiriyor/4047101",
+      "published": "2026-09-04T08:11:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:39.636299+00:00"
+    },
+    {
+      "id": "f4170338ac59bbb2",
+      "source": "İklim Haber",
+      "title": "Van Gölü’nde Kuraklık Tehdidi Sürüyor",
+      "summary": "Havzada son yıllarda artan sıcaklıklar ve şiddetlenen buharlaşma, göldeki su kaybını hızlandırırken, bilim insanları 2026 yılında görülen yoğun yağışların bu tabloyu tamamen tersine çevirmeye yetmediği belirtti. Van Gölü Havzası, bir yandan bu yılki yüksek yağışlarla su kaynakları açısından nefes alırken diğer yandan küresel ısınmanın uzun vadeli etkileriyle mücadele ediyor. AA&#8217;da yer alan h",
+      "link": "https://www.iklimhaber.org/van-golunde-kuraklik-tehdidi-suruyor/",
+      "published": "2026-09-04T08:11:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:16:05.571638+00:00"
+    },
+    {
+      "id": "f3a2656e0e846033",
+      "source": "Yeniçağ",
+      "title": "Çarşafa bürünüp takibe aldılar: Kutsal mekanda akılalmaz soygun",
+      "summary": "Adana’da kuyumcu dükkandan itibaren takip edilen kadın namaz kılmak için girdiği camide hırsızların hedefi oldu. Caminin içinde kadınlar bölümüne çıkmak için merdivenlere yönelen kadının içinde altın bulunan cüzdanı çaldılar.",
+      "link": "https://www.yenicaggazetesi.com/carsafa-burunup-takibe-aldilar-kutsal-mekanda-akilalmaz-soygun-1068242h.htm",
+      "published": "2026-09-04T08:11:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:48.832107+00:00"
+    },
+    {
+      "id": "649df030afcc5310",
+      "source": "Gerçek Gündem",
+      "title": "Otogardaki Çatışma Saniye Saniye Kamerada: IŞİD Şüphelisi Böyle Etkisiz Hale Getirildi",
+      "summary": "MİT ve İstanbul Emniyeti&#039;nin kanlı eylem hazırlığındaki IŞİD şüphelisi Berkan Çil’i etkisiz hale getirdiği Sultanbeyli Otogarı&#039;ndaki operasyona ait sıcak çatışma görüntüleri ortaya çıktı.",
+      "link": "https://www.gercekgundem.com/guncel/otogardaki-catisma-saniye-saniye-kamerada-isid-suphelisi-boyle-etkisiz-hale-getirildi-577989",
+      "published": "2026-09-04T08:11:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:56.139722+00:00"
+    },
+    {
+      "id": "e281186a48325610",
+      "source": "Karar",
+      "title": "Bayraklı, 95’inci İzmir Enternasyonal Fuarı’na hazır",
+      "summary": "Bayraklı Belediyesi, 5-13 Eylül tarihleri arasında düzenlenecek 95’inci İzmir Enternasyonal Fuarı’nda ziyaretçilerle buluşacak. Kültürpark’taki Belediyeler Sokağı’nda kurulacak U-102 No’lu stantta ilçenin kültür, sanat ve spor faaliyetleri tanıtılırken, çocuklar ve yetişkinler için çeşitli etkinlikler de düzenlenecek. İzmir Enternasyonal Fuarı’nda bu yıl da yer alacaklarını belirten Bayraklı Beled",
+      "link": "https://www.karar.com/sehir-haberleri/bayrakli-95inci-izmir-enternasyonal-fuarina-hazir-2069936",
+      "published": "2026-09-04T08:10:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:48.168634+00:00"
+    },
     {
       "id": "8db26c3c48404602",
       "source": "Halk TV",
@@ -17,6 +215,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T08:10:43.518284+00:00"
+    },
+    {
+      "id": "fa2363a9a55dbb7d",
+      "source": "Cumhuriyet",
+      "title": "500 bin TL'nin 32 günlük getirisi belli oldu: İşte en yüksek mevduat faizi veren bankalar",
+      "summary": "Enflasyona karşı birikimlerini korumak isteyen yurttaşların en çok tercih ettiği yatırım araçlarından olan vadeli mevduat hesaplarında rakamlar güncellendi. 500 bin TL'lik birikimin 32 günlük vade sonundaki net getirisi bankalara göre büyük farklılıklar göstererek 15 bin TL seviyelerini aşıyor. Finans piyasalarındaki son verilere göre Türkiye Finans, Hayat Finans, Türk Ticaret Bankası, Vakıf Katıl",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/500-bin-tl-nin-32-gunluk-getirisi-belli-oldu-iste-en-yuksek-mevduat-faizi-veren-bankalar-2534829",
+      "published": "2026-09-04T08:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:40.056882+00:00"
     },
     {
       "id": "14de5fe98392792b",
@@ -39,6 +248,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T08:10:43.518326+00:00"
+    },
+    {
+      "id": "238f20e60bf0d076",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Türkiye'nin yapay zeka hedefinde düşük karbonlu enerji ve şebeke yatırımları öne çıkıyor",
+      "summary": "Türkiye'nin yapay zeka altyapısını büyütmeye yönelik hedefleri, artan elektrik ihtiyacının karşılanması için enerji üretimi ve şebeke altyapısının da bu dönüşüme uygun şekilde planlanmasını gerektiriyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yapay-zeka-hedefinde-dusuk-karbonlu-enerji-ve-sebeke-yatirimlari-one-cikiyor/4047097",
+      "published": "2026-09-04T08:08:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:39.636338+00:00"
     },
     {
       "id": "a8c37b0799b8720a",
@@ -96,6 +316,17 @@
       "fetched_at": "2026-09-04T08:10:47.047401+00:00"
     },
     {
+      "id": "33f8cf64d1546603",
+      "source": "Aydınlık",
+      "title": "Girne'deki gemi kazasında yaşamını yitirenlerin sayısı 12'ye yükseldi",
+      "summary": "Girne açıklarında batan yolcu gemisindeki arama çalışmalarında 2 kişinin daha cansız bedenine ulaşıldı. Böylece kazada hayatını kaybedenlerin sayısı 1 2&#039;ye yükseldi.",
+      "link": "https://www.aydinlik.com.tr/haber/girnedeki-gemi-kazasinda-yasamini-yitirenlerin-sayisi-12ye-yukseldi-588849",
+      "published": "2026-09-04T08:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:49.874565+00:00"
+    },
+    {
       "id": "23a6d44955d30063",
       "source": "Ekonomim",
       "title": "Altının adresi neden değişiyor?",
@@ -105,6 +336,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T08:10:48.815830+00:00"
+    },
+    {
+      "id": "dd0c18e04b13c090",
+      "source": "OdaTV",
+      "title": "'Yasa dışı veri paneli' operasyonu... 31 avukata gözaltı kararı",
+      "summary": "Yasa dışı &quot;veri paneli&quot; soruşturması büyüyor. Vatandaşların kişisel verilerini kullanarak sahte icra ve borç mesajlarıyla dolandırıcılık yaptığı tespit edilen 31 avukat hakkında gözaltı kararı verildi. 39 avukatlık bürosunda arama ve el koyma işlemleri başlatıldı.",
+      "link": "https://www.odatv.com/guncel/kisisel-veri-paneli-sorusturmasinda-31-avukata-gozalti-120161424",
+      "published": "2026-09-04T08:07:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:51.645062+00:00"
+    },
+    {
+      "id": "2a7c7fc444b21429",
+      "source": "Star",
+      "title": "Hukuk istismarına soruşturma! 31 avukat hakkında gözaltı kararı verildi",
+      "summary": "\"Borcunuz yasal takibe düştü\", \"uzlaşma sürecini kaçırdınız\", \"hakkınızda haciz işlemi başlatıldı\" gibi gerçeğe aykırı ifadelerle vatandaşların kişisel verilerinin hukuka aykırı yollarla ele geçirilmesine yönelik yürütülen soruşturmada 31 avukat hakkında gözaltı kararı verildi. 39 farklı avukatlık bürosunda arama ve el koyma işlemlerine başlandı.",
+      "link": "https://www.star.com.tr/guncel/hukuk-istismarina-sorusturma-bakan-gurlek-31-avukat-hakkinda-bugun-gozalti-karari-verildi-haber-2037994/",
+      "published": "2026-09-04T08:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:47.576401+00:00"
     },
     {
       "id": "2a51e684f07bf292",
@@ -382,6 +635,17 @@
       "fetched_at": "2026-09-04T08:10:43.224788+00:00"
     },
     {
+      "id": "0df7edd0c98f2304",
+      "source": "Independent Türkçe",
+      "title": "Beyaz Saray, internet sitesinde yayımladığı video oyunlarıyla tepki çekti",
+      "summary": "Göçmen karşıtı hamleleriyle dikkat çeken Donald Trump yönetimi, son olarak Beyaz Saray'ın internet sitesinde bir dizi oyun yayımladı. Bu eski tip video oyunların bazılarında ABD'nin güney sınırındaki göçmenler yakalanıyor veya sınıra duvar örülüyor. fazla oku Bu bölüm, konuyla ilgili referans noktalarını içerir. (Related Nodes field) Rio Run adlı oyunda kullanıcılar, Rio Grande nehri boyunca devri",
+      "link": "https://www.indyturk.com/node/782046/d%C3%BCnya/beyaz-saray-internet-sitesinde-yay%C4%B1mlad%C4%B1%C4%9F%C4%B1-video-oyunlar%C4%B1yla-tepki-%C3%A7ekti",
+      "published": "2026-09-04T08:01:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:55.825964+00:00"
+    },
+    {
       "id": "ba56329868a9bc9c",
       "source": "OdaTV",
       "title": "Orhan Çeker'den tepki çeken sözler: 'Nikah akdinin yaşı yoktur'",
@@ -600,6 +864,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T08:10:35.579258+00:00"
+    },
+    {
+      "id": "844a47905ebd863f",
+      "source": "Evrensel",
+      "title": "Türkiye’de spekülatif kurguya yeni bir çatı platformu: ABRA Derneği kuruldu",
+      "summary": "Bilimkurgu, fantastik, korku, polisiye ve tüm alt kültür disiplinlerini bir araya getiren Altkültür Betimleme, Resimleme ve Anlatı Derneği (ABRA), İstanbul merkezli olarak resmi faaliyetlerine başladı.",
+      "link": "https://www.evrensel.net/haber/5999116/turkiyede-spekulatif-kurguya-yeni-bir-cati-platformu-abra-dernegi-kuruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-04T07:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T08:15:43.259151+00:00"
     },
     {
       "id": "cbeed6554c9cc335",
@@ -5231,281 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T06:55:32.033771+00:00"
-    },
-    {
-      "id": "492f41db402e50d9",
-      "source": "Aydınlık",
-      "title": "Şırnak’ta yaralanan polis memuru şehit oldu",
-      "summary": "Şırnak’ın Cizre ilçesinde 6 Temmuz’da görevi esnasında geçirdiği trafik kazasında yaralanan polis memuru Melih Kaygusuz, tedavi gördüğü hastanede şehit oldu.",
-      "link": "https://www.aydinlik.com.tr/haber/sirnakta-yaralanan-polis-memuru-sehit-oldu-588839",
-      "published": "2026-09-04T06:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:50:50.334716+00:00"
-    },
-    {
-      "id": "e0631c65215d29d8",
-      "source": "Ekonomim",
-      "title": "BUGÜN SATIŞTA: BİM’E LAV CAM ÜRÜNLERİ GELİYOR! (BİM 4-10 EYLÜL)",
-      "summary": "Alışveriş tutkunlarının heyecanla beklediği BİM aktüel kataloğunda bugün büyük LAV cam çılgınlığı başlıyor! 4-10 Eylül tarihleri arasında geçerli olacak dev kampanyada, mutfakların vazgeçilmezi olan kaliteli cam ürünler raflara diziliyor. Listede şık saklama kabı seti, modern kupalar, zarif reçellikler, baharatlık çeşitleri, kullanışlı kavanozlar ve bardaklar yer alıyor. Tasarımlarıyla göz doldura",
-      "link": "https://www.ekonomim.com/foto-galeri/aktuel/bugun-satista-bime-lav-cam-urunleri-geliyor-bim-4-10-eylul-s1-galeri-916172",
-      "published": "2026-09-04T06:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:50:59.506962+00:00"
-    },
-    {
-      "id": "1153309180ae4980",
-      "source": "Milliyet",
-      "title": "Kahramanmaraş okul saldırısında ilk duruşma bugün! 11 yaşındaki Adnan'ın acılı babasından adalet çağrısı",
-      "summary": "Osmaniye'nin Düziçi ilçesinden olan Abdullah Cevdet Yeşil'in oğlu Adnan Göktürk Yeşil, Kahramanmaraş'ın Onikişubat ilçesindeki Ayser Çalık Ortaokulu'nda düzenlenen silahlı saldırıda hayatını kaybetti. Son dakika... Alihan Kuriş suç örgütü soruşturmasında 5 şirkete el koyma kararı verildi \"SORUMLULARIN EN AĞIR CEZAYI ALMASINI İSTİYORUZ\" Kahramanmaraş 3. Ağır Ceza Mahkemesi'nde görülecek davanın ilk",
-      "link": "https://www.milliyet.com.tr/gundem/kahramanmaras-okul-saldirisinda-ilk-durusma-bugun-11-yasindaki-adnanin-acili-babasindan-adalet-cagrisi-7653910",
-      "published": "2026-09-04T06:40:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:45:37.281260+00:00"
-    },
-    {
-      "id": "8571db6aeb873687",
-      "source": "Türkiye Gazetesi",
-      "title": "Mersin Limanı'nda kimyasal sızıntı iddiası",
-      "summary": "Mersin Limanı'nda içerisinde kimyasal madde olan bir konteynerden sızın yaşandığı iddia edildi. Sızıntı nedeniyle limanda çalışmalar durdurulurken bazı çalışanların hastaneye sevk edildiği öne sürüldü.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/mersin-limaninda-kimyasal-sizinti-iddiasi-1813710",
-      "published": "2026-09-04T06:40:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:45:35.819790+00:00"
-    },
-    {
-      "id": "ebe1b4314e95955b",
-      "source": "Bianet",
-      "title": "COP17’nin ardından: Dünya meralar için 1,2 milyar dolar ayırdı, Türkiye meralarının yarısını kaybetti",
-      "summary": "COP17’de dünya, meralar için tarihi bir finansman seferberliğine imza attı. Ancak COP31'in ev sahibi Türkiye, Uluslararası Mera ve Çobanlar Yılı'nda meralarının yarısından fazlasını kaybetmiş durumda. TEMA Vakfı Danışmanı Dr. Hikmet Öztürk ile Türkiye'nin mera, kuraklık ve çölleşme karnesini konuştuk.",
-      "link": "https://bianet.org/haber/cop17nin-ardindan-dunya-meralar-icin-1-2-milyar-dolar-ayirdi-turkiye-meralarinin-yarisini-kaybetti-323153",
-      "published": "2026-09-04T06:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T07:00:59.956945+00:00"
-    },
-    {
-      "id": "74e30ab5db9b113d",
-      "source": "Ekonomim",
-      "title": "Carry trade çözülürken Japon yeni güçleniyor",
-      "summary": "Japon yeni, Japonya Merkez Bankası&#039;nın daha büyük bir faiz artırımına gidebileceği beklentileriyle dolar karşısında güçlendi. Yen fonlamalı carry trade işlemlerinin çözülmesi de para birimindeki yükselişi destekledi.",
-      "link": "https://www.ekonomim.com/kuresel-ekonomi/carry-trade-cozulurken-japon-yeni-gucleniyor-haberi-916170",
-      "published": "2026-09-04T06:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:45:45.872511+00:00"
-    },
-    {
-      "id": "5aa80ffbd724f60f",
-      "source": "Star",
-      "title": "Hentbolda yeni hafta heyecanı! İşte program",
-      "summary": "Hentbolda yeni hafta heyecanı başlıyor. Erkekler ve Kadınlar Süper Lig'de 2'nci hafta karşılaşmaları yapılacak.",
-      "link": "https://www.star.com.tr/spor/hentbolda-yeni-hafta-heyecani-iste-program-haber-2037974/",
-      "published": "2026-09-04T06:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:43.724372+00:00"
-    },
-    {
-      "id": "b45da698cefce7e8",
-      "source": "Millî Gazete",
-      "title": "Alihan Kuriş soruşturmasında sıcak gelişme! 5 Şirkete el koyma kararı çıktı",
-      "summary": "Alihan Kuriş suç örgütü soruşturmasında şüpheli İrfan Yılmaz adına kayıtlı 5 şirkete el konulurken, Yılmaz hakkında 3 ayrı suçtan gözaltı kararı çıktı.",
-      "link": "https://www.milligazete.com.tr/alihan-kuris-sorusturmasinda-sicak-gelisme-5-sirkete-el-koyma-karari-cikti",
-      "published": "2026-09-04T06:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:45.763622+00:00"
-    },
-    {
-      "id": "966840c0f95f4ebc",
-      "source": "Yeni Şafak",
-      "title": "Oğlunu gemiye almadılar felaketten kurtuldu: Baba Girne'deki faciayı anlattı",
-      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) Girne kenti açıklarında 30 Ağustos'ta alabora olan yolcu gemisinden kurtulan Kahramanmaraşlı Sadık Sarıbuğa, kazanın hemen öncesinde yaşananları ve gemiden kurtulma anlarını anlattı.",
-      "link": "https://www.yenisafak.com/gundem/oglunu-gemiye-almadilar-felaketten-kurtuldu-baba-girnedeki-faciayi-anlatti-4853121",
-      "published": "2026-09-04T06:39:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:43.387567+00:00"
-    },
-    {
-      "id": "bc0e92fb96e748ed",
-      "source": "Karar",
-      "title": "Hüseyin Çelik'ten Ahmet Davutoğlu soruşturmasına tepki: Siyasete yanıt siyasetle verilmeli",
-      "summary": "Eski Milli Eğitim Bakanı Çelik, eski Başbakan Davutoğlu hakkında geçmişteki söylemleri nedeniyle \"Cumhurbaşkanına hakaret\" iddiasıyla soruşturma başlatılmasına tepki gösterdi. Siyasetçilere yönelik eleştirilerin hukuk devleti ilkeleri gereği daha geniş değerlendirilmesi gerektiğini vurgulayan Çelik, siyasi söylemlere yargı kanalıyla değil yine siyaset kurumu içinde yanıt verilmesi gerektiğini beli",
-      "link": "https://www.karar.com/guncel-haberler/huseyin-celikten-ahmet-davutoglu-sorusturmasina-tepki-siyasete-yanit-2069913",
-      "published": "2026-09-04T06:39:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:44.246121+00:00"
-    },
-    {
-      "id": "590f35dfa8085edd",
-      "source": "Yeniçağ",
-      "title": "Hatay Arsuz'da evde görülen yılan doğal yaşamına salındı",
-      "summary": "Hatay&#039;ın Arsuz ilçesinde bir konutta fark edilen yılan, ekiplerin titiz müdahalesiyle zarar verilmeden yakalanarak doğal yaşam alanına bırakıldı.",
-      "link": "https://www.yenicaggazetesi.com/hatay-arsuzda-evde-gorulen-yilan-dogal-yasamina-salindi-1068200h.htm",
-      "published": "2026-09-04T06:39:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:44.664313+00:00"
-    },
-    {
-      "id": "d0511f52fde5ca37",
-      "source": "Evrensel",
-      "title": "Türkiye - Sırbistan yarı final voleybol maçı ne zaman, saat kaçta, hangi kanalda?",
-      "summary": "2026 CEV Kadınlar Avrupa Voleybol Şampiyonası'nda ev sahibi Türkiye, yarı finalde rakibi Sırbistan ile karşı karşıya geliyor. İstanbul'da taraftarı önünde finale çıkmak isteyen A Milli Kadın Voleybol Takımı, ünvanını korumak için sahaya çıkacak.",
-      "link": "https://www.evrensel.net/haber/5999100/turkiye-sirbistan-yari-final-voleybol-maci-ne-zaman-saat-kacta-hangi-kanalda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-04T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T07:10:44.247709+00:00"
-    },
-    {
-      "id": "a9a729f5cb8dc7cf",
-      "source": "Cumhuriyet",
-      "title": "Şanlıurfa'da 9,5 kilo uyuşturucu ele geçirildi: 4 tutuklama",
-      "summary": "Şanlıurfa’da polis ekipleri tarafından gerçekleştirilen 2 ayrı uyuşturucu operasyonunda 9 kilo 550 gram skunk ele geçirildi, gözaltına alınan 4 şahıs tutuklandı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/sanliurfa-da-9-5-kilo-uyusturucu-ele-gecirildi-4-tutuklama-2534806",
-      "published": "2026-09-04T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:45:33.753793+00:00"
-    },
-    {
-      "id": "c3a014ceca519646",
-      "source": "Cumhuriyet",
-      "title": "Real Betis - Real Madrid maçı ne zaman, saat kaçta, hangi kanalda? Şifresiz mi?",
-      "summary": "Real Madrid, İspanya La Liga'nın 4. haftasında Real Betis ile karşı karşıya gelecek. Mücadele 22.00'de başlayacak.",
-      "link": "https://www.cumhuriyet.com.tr/spor/real-betis-real-madrid-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2534805",
-      "published": "2026-09-04T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:38.728238+00:00"
-    },
-    {
-      "id": "d838ed50d54bc604",
-      "source": "Akşam",
-      "title": "Fenerbahçe'nin konuğu Beşiktaş! İşte derbi öncesi son durum...",
-      "summary": "Fenerbahçe, Trendyol Süper Lig'in 4. hafta mücadelesinde sahasında Beşiktaş'ı ağırlayacak. İşte karşılaşma öncesi sarı-lacivertlilerde son durum...",
-      "link": "https://www.aksam.com.tr/spor/fenerbahcenin-konugu-besiktas-iste-derbi-oncesi-son-durum/haber-1695774",
-      "published": "2026-09-04T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:43.024160+00:00"
-    },
-    {
-      "id": "61ac5fe6038d0246",
-      "source": "Ekonomim",
-      "title": "Çözüm sürecinde Öcalan detayı: Resmi statü verilmeyecek, ihtiyaç halinde katkı sağlayacak",
-      "summary": "“Terörsüz Türkiye” sürecinin hukuki altyapısının yürürlüğe girmesinin ardından oluşturulan Milli Dayanışma ve Bütünleşme Koordinasyon Kurulu’nun dört alt komisyonunda hazırlıklar sürüyor. Silahsızlanma ve teyit-tespit sürecinin yeni yıla sarkabileceği belirtilirken, Abdullah Öcalan’a resmi statü verilmeyeceği ancak ihtiyaç halinde sürece katkı sunabileceği ifade ediliyor.",
-      "link": "https://www.ekonomim.com/gundem/cozum-surecinde-ocalan-detayi-resmi-statu-verilmeyecek-ihtiyac-halinde-katki-saglayacak-haberi-916167",
-      "published": "2026-09-04T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:51.494216+00:00"
-    },
-    {
-      "id": "3fca0b199d8541f3",
-      "source": "Ekonomim",
-      "title": "Bakan Gürlek duyurdu: 3 faili meçhul cinayet daha aydınlatıldı",
-      "summary": "Adalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığının koordinasyonunda yürütülen çalışmalar sonucunda 3 faili meçhul cinayetin daha aydınlatıldığını açıkladı.",
-      "link": "https://www.ekonomim.com/gundem/bakan-gurlek-duyurdu-3-faili-mechul-cinayet-daha-aydinlatildi-haberi-916169",
-      "published": "2026-09-04T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:51.494259+00:00"
-    },
-    {
-      "id": "483de982991df310",
-      "source": "Türkiye Gazetesi",
-      "title": "3 faili meçhul cinayet daha aydınlatıldı!",
-      "summary": "Adalet Bakanı Akın Gürlek, 3 faili meçhul cinayetin daha aydınlatıldığını duyurdu. Gürlek; İstanbul, Mardin ve Manisa'daki operasyonlara ilişkin detayları paylaşarak \"40 dosyada, 46 maktul ve 7 yaralının bulunduğu faili meçhul olay aydınlatılmış oldu\" ifadelerini kullandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/bakan-gurlek-duyurdu-3-faili-mechul-cinayet-daha-aydinlatildi-1813709",
-      "published": "2026-09-04T06:38:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:55:31.537168+00:00"
-    },
-    {
-      "id": "af75971d448ad689",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "A Milli Kadın Voleybol Takımı, final için yarın Sırbistan ile karşılaşacak",
-      "summary": "A Milli Kadın Voleybol Takımı, Trendyol 2026 CEV Avrupa Şampiyonası yarı finalinde yarın Sırbistan ile karşılaşacak.",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takimi-final-icin-yarin-sirbistan-ile-karsilasacak/4046989",
-      "published": "2026-09-04T06:38:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:45:33.490112+00:00"
-    },
-    {
-      "id": "fcc35b22b431b395",
-      "source": "Hürriyet",
-      "title": "Girne'de batan gemiye binmeden 25 dakika önce çekildi! Demir kardeşlerin son görüntüsü ortaya çıktı",
-      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti'nde gemi faciasında kaybolan Mahmut ve Mustafa Demir kardeşlerin gemiye binmeden 25 dakika önce birlikte yolculuk yaptıkları arkadaşları tarafından çekilen görüntüleri ortaya çıktı.",
-      "link": "https://www.hurriyet.com.tr/gundem/girnede-batan-gemiye-binmeden-25-dakika-once-cekildi-demir-kardeslerin-son-goruntusu-ortaya-cikti-43295393",
-      "published": "2026-09-04T06:38:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T07:15:37.658809+00:00"
-    },
-    {
-      "id": "ca184747203e8a2d",
-      "source": "Ekonomim",
-      "title": "Dünyanın gözü bu madende: 40 yıldır kapalıydı, yeniden faaliyete geçiyor",
-      "summary": "Papua Yeni Gine&#039;de yaklaşık 40 yıldır kapalı olan Panguna bakır ve altın madeni yeniden faaliyete hazırlanıyor. Madende kalan 5,3 milyon ton bakır ve 19,3 milyon ons altının mevcut piyasa fiyatlarıyla yaklaşık 160 milyar dolar değerinde olduğu belirtiliyor. Proje için ruhsat devri yapılırken teknik inceleme süreci de başlatıldı.",
-      "link": "https://www.ekonomim.com/dunya/dunyanin-gozu-bu-madende-40-yildir-kapaliydi-yeniden-faaliyete-geciyor-haberi-916168",
-      "published": "2026-09-04T06:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T07:40:51.221166+00:00"
-    },
-    {
-      "id": "6279221b9c0882cb",
-      "source": "Akşam",
-      "title": "FETÖ'cü terörist Burkay Karatepe'nin finansörlerine operasyon! 10 şüpheli gözaltına alındı",
-      "summary": "FETÖ'cü terörist Burkay Karatepe ile irtibatlı olduğu belirlenen 10 şüpheli gözaltına alındı.",
-      "link": "https://www.aksam.com.tr/guncel/burkay-karatepe-baglantili-10-supheli-gozaltina-alindi/haber-1695773",
-      "published": "2026-09-04T06:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:50:47.020472+00:00"
-    },
-    {
-      "id": "9fada67909d7434d",
-      "source": "Star",
-      "title": "2 ilde operasyon! FETÖ'cü terörist Burkay Karatepe'ye yardım eden 10 isim gözaltına alındı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik suikast timinde yer alan ihraç yüzbaşı Burkay Karatepe'ye firari durumdayken maddi yardımda bulunduğu tespit edilen 10 şüpheli Eskişehir ve İstanbul'da yapılan operasyonlarda yakalandı.",
-      "link": "https://www.star.com.tr/guncel/fetocu-terorist-karatepe-ile-irtibatli-10-isme-gozalti-haber-2037973/",
-      "published": "2026-09-04T06:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:50:47.654359+00:00"
-    },
-    {
-      "id": "de493c0588f129c4",
-      "source": "Akşam",
-      "title": "Burkay Karatepe bağlantılı 10 şüpheli gözaltına alındı",
-      "summary": "FETÖ'cü terörist Burkay Karatepe ile irtibatlı olduğu belirlenen 10 şüpheli gözaltına alındı.",
-      "link": "https://www.aksam.com.tr/guncel/burkay-karatepe-baglantili-10-supheli-gozaltina-alindi/haber-1695773",
-      "published": "2026-09-04T06:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:43.024191+00:00"
-    },
-    {
-      "id": "1ca1a908212ada3a",
-      "source": "Star",
-      "title": "FETÖ'cü terörist Karatepe ile irtibatlı 10 isme gözaltı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik suikast timinde yer alan ihraç yüzbaşı Burkay Karatepe'ye firari durumdayken maddi yardımda bulunduğu tespit edilen 10 şüpheli Eskişehir ve İstanbul'da yapılan operasyonlarda yakalandı. Şüphelilerin işlemlerinin ardından Muğla'ya gönderileceği öğrenildi.",
-      "link": "https://www.star.com.tr/guncel/fetocu-terorist-karatepe-ile-irtibatli-10-isme-gozalti-haber-2037973/",
-      "published": "2026-09-04T06:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T06:40:43.724414+00:00"
     }
   ]
 }

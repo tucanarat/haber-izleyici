@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-04T04:05:57.056538+00:00",
+  "last_updated": "2026-09-04T04:11:02.739817+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 588,
+  "new_items_this_run": 583,
   "items": [
+    {
+      "id": "b5ee2767773baccf",
+      "source": "Halk TV",
+      "title": "Piyasalar alev alev: Dövizde rekor fırtınası",
+      "summary": "Fed öncesi Dolar Endeksi 99 puan seviyesine tırmanırken ABD tahvil getirilerindeki direnç iç piyasada döviz kurlarını yeni zirvelere taşıdı. Dolar 48,45 TL, Euro 56,30 TL ile tüm zamanların rekorunu kırarken Sterlin 65,54 TL seviyelerine ulaştı.",
+      "link": "https://halktv.com.tr/ekonomi/4-eylul-2026-doviz-kurlari-euro-kac-tl-dolar-kac-tl-sterlin-kac-tl-1052988h",
+      "published": "2026-09-04T04:09:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T04:10:48.106054+00:00"
+    },
     {
       "id": "519725ee559ada99",
       "source": "Star",
@@ -4375,6 +4386,17 @@
       "fetched_at": "2026-09-03T21:10:49.592022+00:00"
     },
     {
+      "id": "ff5a7787fc265b6e",
+      "source": "Millî Gazete",
+      "title": "İsrail askerleri işgal altındaki Batı Şeria'da 2 çocuğu yaraladı",
+      "summary": "İşgal altındaki Batı Şeria'nın Beytüllahim kentine baskın düzenleyen İsrail askerlerinin bir binanın çatısından açtığı ateş sonucu 2 çocuk yaralandı.",
+      "link": "https://www.milligazete.com.tr/israil-askerleri-isgal-altindaki-bati-seriada-2-cocugu-yaraladi",
+      "published": "2026-09-03T21:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-04T04:10:46.693892+00:00"
+    },
+    {
       "id": "417b01caf62935e4",
       "source": "Ekonomim",
       "title": "BİM REKABETİN DOZUNU ARTIRDI: BU ETİKETLER EV EKONOMİSİNE NEFES ALDIRIR! (BİM 8-14 EYLÜL)",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-03T21:01:07.036220+00:00"
-    },
-    {
-      "id": "cbcb60dc9adb6107",
-      "source": "Halk TV",
-      "title": "Son Dakika | Sultanbeyli'de IŞİD operasyonu: 21 yaşındaki şüpheli öldü, bir vatandaş yaralandı",
-      "summary": "Son dakika haberi... Sultanbeyli’de IŞİD bağlantılı olduğu iddiasıyla terör saldırısı planladığı öne sürülen 21 yaşındaki Berkan Ç.’ye yönelik operasyonda şüpheli, öldürüldü. Bir vatandaş ise yaralandı.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-sultanbeylide-isid-operasyonu-21-yasindaki-supheli-oldu-1052965h",
-      "published": "2026-09-03T20:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T21:35:36.227291+00:00"
-    },
-    {
-      "id": "40e7a346d331cda6",
-      "source": "Halk TV",
-      "title": "Son Dakika | Sultanbeyli'de IŞİD operasyonu: 21 yaşındaki şüpheli öldü",
-      "summary": "Son dakika haberi... Sultanbeyli’de IŞİD bağlantılı olduğu iddia edilen ve terör saldırısı planladığı öne sürülen 21 yaşındaki Berkan Ç.’ye yönelik operasyonda şüpheli, öldürüldü. Bir vatandaş ise yaralandı.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-sultanbeylide-isid-operasyonu-21-yasindaki-supheli-oldu-1052965h",
-      "published": "2026-09-03T20:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-03T21:01:07.036255+00:00"
     }
   ]
 }

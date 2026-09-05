@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-04T23:55:52.533071+00:00",
+  "last_updated": "2026-09-05T00:01:26.012044+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 633,
+  "new_items_this_run": 634,
   "items": [
     {
       "id": "c2548b5147c7b326",
@@ -182,6 +182,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T23:10:46.109057+00:00"
+    },
+    {
+      "id": "f082d9f4ed5c63a2",
+      "source": "Finans Gündem",
+      "title": "Citi, Fed'in ilk faiz indirimini 2027'ye erteledi",
+      "summary": "Citigroup, ABD'de beklentilerin üzerinde gelen ağustos ayı istihdam verilerinin ardından Fed'in faiz indirimlerine başlama beklentisini öteledi.",
+      "link": "https://www.finansingundemi.com/haber/citi-fedin-ilk-faiz-indirimini-2027ye-erteledi/1907288",
+      "published": "2026-09-04T23:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T00:01:18.532745+00:00"
     },
     {
       "id": "86da7d3b94dd002e",
@@ -3803,6 +3814,17 @@
       "fetched_at": "2026-09-04T20:45:47.404724+00:00"
     },
     {
+      "id": "8f00167f4957236e",
+      "source": "LOG",
+      "title": "GPT-6 Astra yapay zeka modeli genel kullanıma açıldı",
+      "summary": "İlk olarak “Daybreak” programına dahil olan özel müşterilerin kullanımına sunulan GPT-6 Astra, bu akşam itibarıyla ChatGPT Work ve Codex’te tüm ücretli abonelere açıldı. Şirket, GPT-6 Astra’yı yazılım mühendisliği için şimdiye kadar geliştirilen en iyi model olarak nitelendirirken (birçok testte Anthropic&#8217;in Fable&#8217;ını geçiyor), modelin gerçek kod tabanlarında yürütülen karmaşık görevle",
+      "link": "https://www.log.com.tr/gpt-6-astra-yapay-zeka-modeli-genel-kullanima-acildi/",
+      "published": "2026-09-04T20:38:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T00:01:20.894541+00:00"
+    },
+    {
       "id": "93bfd96175bf6986",
       "source": "LOG",
       "title": "GPT-6 Astra yapay zeka modeli “Pro” abonelere açıldı",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T19:40:34.456449+00:00"
-    },
-    {
-      "id": "7e5a7dbca32a5d86",
-      "source": "Akşam",
-      "title": "Galatasaray'dan maç sonu tepki! \"Her şeye rağmen...\"",
-      "summary": "Süper Lig'in 4. haftasında Galatasaray, Başakşehir engelini 3-2'lik skorla geçti. Sarı kırmızılı ekip, maçın ardından flaş bir paylaşım yaptı.",
-      "link": "https://www.aksam.com.tr/spor/galatasaraydan-mac-sonu-tepki-her-seye-ragmen/haber-1695939",
-      "published": "2026-09-04T19:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T19:40:38.079115+00:00"
-    },
-    {
-      "id": "488ce8149d73d361",
-      "source": "Star",
-      "title": "Çağlar Söyüncü'nün yeni durağı belli oldu",
-      "summary": "Trendyol Süper Lig ekiplerinden Çorum FK, Fenerbahçe ile sözleşmesini fesheden Çağlar Söyüncü'yü renklerine bağladı.",
-      "link": "https://www.star.com.tr/spor/caglar-soyuncunun-yeni-duragi-belli-oldu-haber-2038124/",
-      "published": "2026-09-04T19:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T19:40:38.790173+00:00"
     }
   ]
 }

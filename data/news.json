@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-05T23:11:17.459802+00:00",
+  "last_updated": "2026-09-05T23:16:04.723149+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 596,
+  "new_items_this_run": 605,
   "items": [
+    {
+      "id": "5860b6f98daa3c79",
+      "source": "OdaTV",
+      "title": "Yüzerek Yunanistan’a geçmeye çalıştı",
+      "summary": "Muğla&#039;nın Bodrum ilçesi açıklarında yüzerek yasa dışı yollarla yurt dışına çıkmaya çalışan düzensiz göçmen yakalandı.",
+      "link": "https://www.odatv.com/guncel/yuzerek-yunanistana-gecmeye-calisti-120161612",
+      "published": "2026-09-05T23:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T23:15:48.514954+00:00"
+    },
+    {
+      "id": "ed2c201b3ebfa71c",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kremlin: Putin, ABD'li temsilcilerle Ukrayna krizini ve ikili ilişkileri görüştü",
+      "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya Devlet Başkanı Vladimir Putin'in ABD Başkanı Donald Trump'ın özel temsilcileri Steve Witkoff ve Jared Kushner ile görüşmesinde Ukrayna krizi ve ikili ilişkilerin ele alındığını söyledi.",
+      "link": "https://www.aa.com.tr/tr/dunya/kremlin-putin-abdli-temsilcilerle-ukrayna-krizini-ve-ikili-iliskileri-gorustu/4048493",
+      "published": "2026-09-05T23:10:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T23:15:38.423364+00:00"
+    },
     {
       "id": "05f0088e6eac831e",
       "source": "Türkiye Gazetesi",
@@ -5475,37 +5497,15 @@
       "fetched_at": "2026-09-05T18:11:17.083303+00:00"
     },
     {
-      "id": "512a7912a8f45ed7",
-      "source": "Millî Gazete",
-      "title": "Serhat Mustafa Kılıç neden öldü, ölüm sebebi ne, kaç yaşındaydı, evinde nasıl bulundu? Seksenler’de kimi oynadı, Teşkilat dizisinde rol aldı mı?",
-      "summary": "Serhat Mustafa Kılıç neden öldü? Serhat Mustafa Kılıç kaç yaşındaydı? Seksenler’de hangi karakteri oynadı? Kağıthane’deki evinde iki gündür haber alınamadıktan sonra bulunan ünlü oyuncunun ölümüne ilişkin otopsi süreci, salondaki ilk tespit ve televizyon kariyerindeki dikkat çeken roller yeni ayrıntılarla öne çıkıyor.",
-      "link": "https://www.milligazete.com.tr/serhat-mustafa-kilic-neden-oldu-olum-sebebi-ne-kac-yasindaydi-evinde-nasil-bulundu-seksenlerde-kimi-oynadi-teskilat-dizisinde-rol-aldi-mi",
+      "id": "2bf4accda0ef2c72",
+      "source": "Yeni Akit",
+      "title": "Askeri yerleşkeye İHA’larla saldırı! Çok sayıda ölü ve yaralı var",
+      "summary": "Askeri birliğe insansız hava araçlarından patlayıcılar atılarak düzenlenen saldırının ardından çatışma çıktı. Saldırıda 3 asker hayatını kaybederken 4 asker yaralandı. Kolombiya ordusu, Venezuela sınırına yakın Ocaña'da gerçekleştirilen kanlı saldırıdan Ulusal Kurtuluş Ordusu'nu (ELN) sorumlu tuttu.",
+      "link": "https://www.yeniakit.com.tr/haber/askeri-yerleskeye-ihalarla-saldiri-cok-sayida-olu-ve-yarali-var-2021177.html",
       "published": "2026-09-05T18:10:00+00:00",
       "matched": false,
       "matched_keywords": [],
-      "fetched_at": "2026-09-05T18:15:42.790303+00:00"
-    },
-    {
-      "id": "fa2adce8c4f93e07",
-      "source": "Akşam",
-      "title": "Tanker vuruldu, İran'ın sabrı taştı: \"Saldırılarımız daha şiddetli olacak\"",
-      "summary": "İran Silahlı Kuvvetlerinin savaşı yürüten birimi Hatemu'l Enbiya Merkez Karargahı Sözcüsü Albay İbrahim Zülfikari, ABD'yi \"sonraki saldırıların daha şiddetli olacağı\" konusunda uyardı.",
-      "link": "https://www.aksam.com.tr/dunya/tanker-vuruldu-iranin-sabri-tasti-saldirilarimiz-daha-siddetli-olacak/haber-1696169",
-      "published": "2026-09-05T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-05T18:11:13.818831+00:00"
-    },
-    {
-      "id": "0768515c580ffd2b",
-      "source": "Akşam",
-      "title": "Beşiktaş'a kötü haber! İkinci yarıya çıkamadı",
-      "summary": "Süper Lig'in 4. haftasında Fenerbahçe ile deplasmanda karşı karşıya gelen Beşiktaş'a kötü bir haber geldi. Siyah beyazlılarda maça ilk 11'de başlayan Rıdvan Yılmaz, sakatlık yaşadı.",
-      "link": "https://www.aksam.com.tr/spor/besiktasa-kotu--ikinci-yariya-cikamadi/haber-1696168",
-      "published": "2026-09-05T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-05T18:11:13.818866+00:00"
+      "fetched_at": "2026-09-05T23:15:45.272596+00:00"
     }
   ]
 }

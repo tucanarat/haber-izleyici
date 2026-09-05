@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T01:10:55.449398+00:00",
+  "last_updated": "2026-09-05T01:16:38.450297+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 626,
   "items": [
+    {
+      "id": "d7e15173aaaf6811",
+      "source": "Yeni Akit",
+      "title": "Trafik uygulamasında polise silahlı saldırı! 1 şehit",
+      "summary": "İstanbul’un Esenyurt ilçesinde korsan taksicilik yaptığı belirlenen sürücünün silahlı saldırısında ağır yaralanan polis memuru Mehmet Ali Topatan, kaldırıldığı hastanede şehit oldu.",
+      "link": "https://www.yeniakit.com.tr/haber/trafik-uygulamasinda-polise-silahli-saldiri-1-sehit-2021056.html",
+      "published": "2026-09-05T01:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T01:16:20.042118+00:00"
+    },
     {
       "id": "3a35bd3ddeab35b6",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T20:45:41.598912+00:00"
-    },
-    {
-      "id": "2af28494449bbd2e",
-      "source": "DonanımHaber",
-      "title": "Google’ın yeni yapay zekası hava durumu tahmininde iddialı: Uydular da sisteme eklendi",
-      "summary": "Google, canlı uydu verilerini kullanan WeatherNext 3 yapay zeka modelini tanıttı. Yeni model, daha yüksek çözünürlükte hava tahmini sunarken doğruluğu da artırıyor.",
-      "link": "https://www.donanimhaber.com/google-in-yeni-yapay-zekasi-hava-durumu-tahmininde-iddiali--210117",
-      "published": "2026-09-04T19:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T19:55:57.646162+00:00"
     }
   ]
 }

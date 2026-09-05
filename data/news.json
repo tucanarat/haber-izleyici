@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-09-05T04:15:53.112013+00:00",
+  "last_updated": "2026-09-05T04:21:08.206906+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 607,
+  "new_items_this_run": 595,
   "items": [
+    {
+      "id": "e13c4164565edb49",
+      "source": "Akşam",
+      "title": "FBI başına ödül koydu",
+      "summary": "ABD'de, FBI tarafından aranan Türk vatandaşı Onur Şimşek için 150 bin dolarlık ödül açıklandı. Onur Şimşek, ABD Savunma Bakanlığı'nı dolandırmak ve orduya standart dışı parçalar sağlamakla suçlanıyor.",
+      "link": "https://www.aksam.com.tr/dunya/fbi-basina-odul-koydu/haber-1695971",
+      "published": "2026-09-05T04:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T04:20:44.490708+00:00"
+    },
+    {
+      "id": "53f8b7b652f44878",
+      "source": "Akşam",
+      "title": "İstanbul'da ‘Oscar'lık denetim! Baskınlara katılmış",
+      "summary": "Robert De Niro, 1995'te İstanbul'da polislerle birlikte gece kulübü baskınlarına katıldığını yıllar sonra kabul etti. Bir proje için araştırma yaptığını söyleyen Oscarlı oyuncu, “Kimlik kontrolü yapmadım” dedi.",
+      "link": "https://www.aksam.com.tr/dunya/istanbulda-oscarlik-denetim-baskinlara-katilmis/haber-1695970",
+      "published": "2026-09-05T04:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T04:20:44.490741+00:00"
+    },
+    {
+      "id": "df537789c06ae4e9",
+      "source": "Akşam",
+      "title": "Temmuzdan bu yana ilk: Bölgede savaş uçakları havalandı",
+      "summary": "Yemen'de ordu ile İran destekli Husiler arasındaki çatışmalar yeniden şiddetlendi. Yemen ordusu, Taiz ve Hudeyde'de Husi mevzilerine 15'ten fazla hava saldırısı düzenlerken, operasyonun temmuz ayında başlayan gerilimden bu yana bir ilk olduğu bildirildi.",
+      "link": "https://www.aksam.com.tr/dunya/temmuzdan-bu-yana-ilk-bolgede-savas-ucaklari-havalandi/haber-1695969",
+      "published": "2026-09-05T04:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T04:20:44.490771+00:00"
+    },
+    {
+      "id": "f4230f652f4d9e14",
+      "source": "Karar",
+      "title": "Resmi Gazete'de yayımlandı: 12 ülkeye yeni büyükelçi atandı",
+      "summary": "Cumhurbaşkanı Erdoğan’ın imzasıyla Resmi Gazete’de yayımlanan atama kararlarına göre, Türkiye’nin 12 ülkedeki büyükelçilik görevlerine yeni isimler getirildi.",
+      "link": "https://www.karar.com/guncel-haberler/resmi-gazetede-yayimlandi-12-ulkeye-yeni-buyukelci-atandi-2070078",
+      "published": "2026-09-05T04:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T04:20:46.223966+00:00"
+    },
     {
       "id": "f8bb84a99b350d52",
       "source": "Yeni Şafak",
@@ -1328,6 +1372,17 @@
       "fetched_at": "2026-09-05T00:55:41.247848+00:00"
     },
     {
+      "id": "d0ee7df6a5055b1b",
+      "source": "Türkiye Gazetesi",
+      "title": "Robotaksi yollara indi! Ne direksiyon var ne pedal",
+      "summary": "Tesla’nın sürücüsüz taksi modeli Cybercab, Austin’de yolcu taşımaya başladı. Direksiyon ve pedalların bulunmadığı araçlardan 45’i şimdilik hizmet verirken, Tesla’nın filoyu büyütüp robotaksiyi farklı kentlere taşıması bekleniyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/teknoloji/direksiyonsuz-yolculuk-basladi-teslanin-robotaksisi-yollara-indi-1813911",
+      "published": "2026-09-05T00:50:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T04:20:42.144045+00:00"
+    },
+    {
       "id": "419b7f353cb8a606",
       "source": "Türkiye Gazetesi",
       "title": "Robotaksisi yollara indi! Ne direksiyon var ne pedal",
@@ -2107,6 +2162,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T22:50:42.077379+00:00"
+    },
+    {
+      "id": "92d191ac26b18f48",
+      "source": "Star",
+      "title": "Trafik uygulamasında korsan taksi dehşeti! Polisimizi şehit edip intihar etti",
+      "summary": "İstanbul Esenyurt'ta korsan taksi denetimi yapan emniyet ekiplerine düzenlenen silahlı saldırıda Polis Memuru Mehmet Ali Topatan ağır yaralandı. Hastaneye kaldırılan polis memuru, doktorların tüm müdahalelerine rağmen kurtarılamayarak şehit oldu.",
+      "link": "https://www.star.com.tr/guncel/istanbul-valiligi-aci-i-duyurdu-esenyurttaki-saldirida-bir-polisimiz-sehit-oldu-haber-2038159/",
+      "published": "2026-09-04T22:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T04:20:45.458453+00:00"
     },
     {
       "id": "9bd7c8df940a876c",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T20:55:35.187896+00:00"
-    },
-    {
-      "id": "ff0e4c67e16c1e17",
-      "source": "Aydınlık",
-      "title": "Amerikan basını yazdı! Trump'ın Batı Asya planı değişiyor mu?",
-      "summary": "ABD basınının önde gelen sitelerinden Axios&#039;ta yer alan habere göre Trump, İran&#039;la yaşanan savaşın ardından Batı Asya&#039;da farklı bir stratejiye hazırlanıyor. Başkanlığının son iki yılına girecek olan Trump&#039;ın hedefi İran&#039;ı çevrelemek ve daha çok İsrail dostu kazanmak",
-      "link": "https://www.aydinlik.com.tr/haber/amerikan-basini-yazdi-trumpin-bati-asya-plani-degisiyor-mu-588935",
-      "published": "2026-09-04T20:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T21:05:43.713095+00:00"
-    },
-    {
-      "id": "3d4178a2db6ef14e",
-      "source": "Star",
-      "title": "PSG, 5 futbolcusuyla sözleşme uzattı",
-      "summary": "Fransa Ligue 1 ekiplerinden Paris Saint-Germain; Joao Neves, Willian Pacho, Lucas Beraldo ve Senny Mayulu ile 2031 yılına kadar, Fabian Ruiz ile de oyuncuyu 2028 yılında kadar sözleşme yeniledi.",
-      "link": "https://www.star.com.tr/spor/psg-5-futbolcusuyla-sozlesme-uzatti-haber-2038144/",
-      "published": "2026-09-04T20:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T20:55:33.985040+00:00"
-    },
-    {
-      "id": "4fe8ad450d30881c",
-      "source": "Millî Gazete",
-      "title": "Özlem Şanver Ne İş Yapıyor? Kaç Yaşında? Berhan Şimşek'in Eşi Mi? Neden Mahkemeye Başvurdu?",
-      "summary": "Eski milletvekili ve oyuncu Berhan Şimşek ile yaklaşık 10 yıl birliktelik yaşadığı belirtilen Özlem Şanver, kamuoyuna yansıyan şiddet görüntüleri ve hukuki süreç sonrasında dikkat çeken isimlerden biri oldu. Şanver'in mahkemeye başvurarak koruma talep ettiği aktarılırken, güvenlik kamerası kayıtlarının ortaya çıkması olayın yeniden kamuoyunun dikkatini çekmesine neden oldu.",
-      "link": "https://www.milligazete.com.tr/ozlem-sanver-ne-is-yapiyor-kac-yasinda-berhan-simsekin-esi-mi-neden-mahkemeye-basvurdu",
-      "published": "2026-09-04T20:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T20:55:36.346968+00:00"
-    },
-    {
-      "id": "163b6196d821f280",
-      "source": "Yeni Şafak",
-      "title": "Park sırasında kontrolden çıkan araç uçuruma yuvarlandı: İki kişi öldü, bir kişi yaralandı",
-      "summary": "Rize’nin Çayeli ilçesinde park sırasında kontrol çıkan aracın uçuruma yuvarlandığı kazada iki kişi hayatını kaybetti, bir kişi yaralandı.",
-      "link": "https://www.yenisafak.com/galeri/gundem/park-sirasinda-kontrolden-cikan-arac-ucuruma-yuvarlandi-iki-kisi-oldu-bir-kisi-yaralandi-4853283",
-      "published": "2026-09-04T20:50:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T20:55:33.704937+00:00"
-    },
-    {
-      "id": "24dbd0de0d07b7bb",
-      "source": "Halk TV",
-      "title": "10 yaşındaki çocuk 80 metrelik kuyuda 30 saattir kurtarılmayı bekliyor",
-      "summary": "Cezayir&#039;de ailesine ait çiftlikteki yaklaşık 80 metre derinliğindeki kuyuya düşen 10 yaşındaki Eyüb&#039;ü kurtarma çalışmaları 30 saati aşkın süredir devam ediyor. Ekipler, dar kuyuda mahsur kalan çocuğa ulaşmak için yatay geçit açıyor.",
-      "link": "https://halktv.com.tr/dunya/10-yasindaki-cocuk-80-metrelik-kuyuda-30-saattir-kurtarilmayi-bekliyor-1053192h",
-      "published": "2026-09-04T20:50:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T20:50:46.081050+00:00"
-    },
-    {
-      "id": "f10a0213c4684fdf",
-      "source": "Bir Gün",
-      "title": "6. İstanbul Uluslararası Oda Müziği Festivali başlıyor",
-      "summary": "Dünya çapındaki seçkin sanatçıları İstanbul’da ağırlayan İstanbul Uluslararası Oda Müziği Festivali’nin altıncısı, jenerasyonunun yıldız isimleri olan Fedor Rudin, Alexandra Soumm, Máté Szűcs, Lydia Shelley ve Julien Libeer’in oluşturduğu beşlinin Türkiye’deki ilk konseriyle 6 Eylül’de başlayacak. Kadıköy Belediyesi Süreyya Operası’nda 24 Eylül’e kadar devam edecek olan festivalde perküsyon dörtlü",
-      "link": "https://www.birgun.net/haber/6-istanbul-uluslararasi-oda-muzigi-festivali-basliyor-733021",
-      "published": "2026-09-04T20:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T21:45:41.796882+00:00"
     }
   ]
 }

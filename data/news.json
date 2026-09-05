@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-05T03:50:53.652525+00:00",
+  "last_updated": "2026-09-05T03:55:47.297262+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 604,
+  "new_items_this_run": 603,
   "items": [
+    {
+      "id": "1a18cee4859682cc",
+      "source": "Halk TV",
+      "title": "Rize'de feci kaza: 100 metrelik uçurumdan devrilen araçta 2 kardeş yaşamını yitirdi",
+      "summary": "Rize&#039;nin Çayeli ilçesinde kontrolden çıkan otomobilin yaklaşık 100 metre yükseklikten devrilmesi sonucu 2 kişi hayatını kaybetti, 1 kişi yaralandı.",
+      "link": "https://halktv.com.tr/turkiye/rizede-feci-kaza-100-metrelik-ucurumdan-devrilen-aracta-2-kardes-yasamini-yitirdi-1053209h",
+      "published": "2026-09-05T03:54:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T03:55:36.325505+00:00"
+    },
     {
       "id": "19a70ba255907a9f",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-04T20:20:44.547119+00:00"
-    },
-    {
-      "id": "69ee471d38ca0f6b",
-      "source": "OdaTV",
-      "title": "Mithat Özdemir serbest bırakıldı",
-      "summary": "Üsküdar Belediyesi soruşturması… Belediye Başkan Yardımcısı Özdemir adli kontrol şartıyla serbest bırakıldı.",
-      "link": "https://www.odatv.com/guncel/mithat-ozdemir-serbest-birakildi-120161520",
-      "published": "2026-09-04T20:15:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-04T20:20:52.334092+00:00"
     }
   ]
 }

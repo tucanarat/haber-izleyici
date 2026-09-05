@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-05T21:51:02.609666+00:00",
+  "last_updated": "2026-09-05T21:55:45.811316+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 612,
+  "new_items_this_run": 610,
   "items": [
+    {
+      "id": "ecf803aeb1143a6a",
+      "source": "Yeni Şafak",
+      "title": "'İyilik Var' gönüllülük platformu 12 Eylül’de başlıyor",
+      "summary": "Aile ve Sosyal Hizmetler Bakanlığı, gönüllülük faaliyetlerini tek çatı altında buluşturacak “İyilik Var” platformunun 12 Eylül’de hizmete başlayacağını duyurdu. Bakanlığın sosyal medya hesabından paylaşılan tanıtım videosunda, “İnsanın olduğu her yerde İyilik Var” mesajı verildi. Platformun tanıtımı, Fenerbahçe ile Beşiktaş arasında oynanan derbi karşılaşmasında da gerçekleştirildi. “İyilik Var” a",
+      "link": "https://www.yenisafak.com/video/gundem/iyilik-var-gonulluluk-platformu-12-eylulde-basliyor-4853484",
+      "published": "2026-09-05T21:52:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T21:55:31.613863+00:00"
+    },
     {
       "id": "0cb7ebf871aa07d8",
       "source": "DonanımHaber",
@@ -39,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-05T21:50:41.889774+00:00"
+    },
+    {
+      "id": "09e19b5f278f71ec",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Van'daki sahipsiz kediler yeni yuvalarında güvenle yaşıyor",
+      "summary": "Van'da sahipsiz ve sokağa terk edilen kediler için Büyükşehir Belediyesi bünyesinde kurulan kedi evi, ilk misafirlerini ağırlamaya başladı.",
+      "link": "https://www.aa.com.tr/tr/gundem/vandaki-sahipsiz-kediler-yeni-yuvalarinda-guvenle-yasiyor/4048487",
+      "published": "2026-09-05T21:44:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T21:55:27.199472+00:00"
     },
     {
       "id": "04aed10f014b3cef",
@@ -105,6 +127,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-05T21:45:37.706275+00:00"
+    },
+    {
+      "id": "6538dd3dcac67a7f",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Avrupa şampiyonu başpehlivan, Kırkpınar'da son anda kaçırdığı altın kemeri almak istiyor",
+      "summary": "Milli güreşçi ve başpehlivan Feyzullah Aktürk, gelecek yıl düzenlenecek 666. Tarihi Kırkpınar Yağlı Güreşleri’nde altın kemeri boynuna takmayı hedefliyor.",
+      "link": "https://www.aa.com.tr/tr/spor/avrupa-sampiyonu-baspehlivan-kirkpinarda-son-anda-kacirdigi-altin-kemeri-almak-istiyor/4048486",
+      "published": "2026-09-05T21:41:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-05T21:55:27.199507+00:00"
     },
     {
       "id": "f68affdecb9575a9",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-05T17:45:46.558823+00:00"
-    },
-    {
-      "id": "3c64663b32a41583",
-      "source": "Star",
-      "title": "Terörsüz Türkiye vurgusu! Bakan Bayraktar: Ülkemiz bütün bu bölge içerisinde bir istikrar adası gibi ön plana çıkıyor",
-      "summary": "Türkiye'nin 40 yılı aşkın bir süredir terörle mücadele ettiğini aktaran Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, \"Hakkari çok seneler kaybetti, insanını kaybetti. Bugün dünyanın bir ateş çemberi içerisinde olduğu, özellikle bölgemizin adeta bir ateş çemberine döndüğü bir ortamda Türkiye, bütün bu bölge içerisinde bir istikrar adası gibi ön plana çıkıyor. Hamdolsun Cumhurbaşkanımızın l",
-      "link": "https://www.star.com.tr/guncel/terorsuz-turkiye-vurgusu-bakan-bayraktar-ulkemiz-butun-bu-bolge-icerisinde-bir-istikrar-ad-haber-2038331/",
-      "published": "2026-09-05T17:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-05T17:40:41.400860+00:00"
-    },
-    {
-      "id": "dff9234f1771aa11",
-      "source": "Karar",
-      "title": "Türkiye ortalaması 158 TL, Adana'da 343,9 TL, Van'da 96,83 TL",
-      "summary": "Türkiye genelinde lahmacun fiyatları ağustos ayında ortalama 158,03 TL seviyesine çıkarken iller arasındaki uçurum derinleşti. Adana 343,9 TL ile en pahalı kent unvanını korurken Van 96,83 TL ile en hesaplı adres oldu. Fiyat artışları büyükşehirler arasında açılırken lahmacundaki aylık zam oranı resmi enflasyon rakamının gerisinde kaldı.",
-      "link": "https://www.karar.com/guncel-haberler/lahmacun-fiyatlari-ne-kadar-oldu-lahmacuna-ne-kadar-zam-geldi-turkiye-2070208",
-      "published": "2026-09-05T17:37:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-05T17:40:42.056088+00:00"
-    },
-    {
-      "id": "12169ab94d88ad10",
-      "source": "Bir Gün",
-      "title": "Putin'in Trump'ın temsilcileriyle görüşmesi başladı",
-      "summary": "Rusya Devlet Başkanı Vladimir Putin, Moskova'ya gelen Trump'ın temsilcileri Steve Witkoff ve Jared Kushner ile görüşmeye başladı.",
-      "link": "https://www.birgun.net/haber/putin-in-trump-in-temsilcileriyle-gorusmesi-basladi-733171",
-      "published": "2026-09-05T17:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-05T18:20:40.157589+00:00"
     }
   ]
 }

@@ -1,12 +1,232 @@
 {
-  "last_updated": "2026-09-06T09:06:06.018465+00:00",
+  "last_updated": "2026-09-06T09:11:04.393755+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 607,
+  "new_items_this_run": 614,
   "items": [
+    {
+      "id": "91279fbe9547a68f",
+      "source": "LOG",
+      "title": "Apple, iki farklı oyun kontrolcüsü üzerinde çalışıyor olabilir",
+      "summary": "Apple, macOS 26.7 RC sürümünde yer alan ibarelere göre şu anda iki farklı oyun kontrolcüsü üzerinde çalışıyor olabilir. İşletim sisteminde &#8220;T6502&#8221; ve &#8220;T1057&#8221; kod adlarıyla görünen yeni donanım ürünlerinin Apple&#8217;ın uzun süredir söylentilere konu olan ilk oyun kontrolcüleri olduğunu düşünen kaynaklar, T1057 kodlu modelde T6502&#8217;den farklı olarak jiroskop ve ivmeölç",
+      "link": "https://www.log.com.tr/apple-iki-farkli-oyun-kontrolcusu-uzerinde-calisiyor-olabilir/",
+      "published": "2026-09-06T09:10:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:59.551566+00:00"
+    },
+    {
+      "id": "c489ad12e45d7b9b",
+      "source": "Cumhuriyet",
+      "title": "FBI’ın 'en çok arananlar' listesinde: Alman iş insanı için 150 bin dolar ödül",
+      "summary": "ABD’de milyonlarca dolarlık yatırım dolandırıcılığından hüküm giydikten sonra ülkeyi terk eden Alman iş insanı Bernhard Eugen Fritsch, FBI’ın “En Çok Aranan Dolandırıcılar” listesine alındı. Münih veya çevresinde bulunduğu tahmin edilen Fritsch hakkında bilgi sağlayanlara 150 bin dolara kadar ödül verilecek.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/fbi-in-en-cok-arananlar-listesinde-alman-is-insani-icin-150-bin-dolar-odul-2535316",
+      "published": "2026-09-06T09:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:36.878546+00:00"
+    },
+    {
+      "id": "ee07815b0331c3ba",
+      "source": "Akşam",
+      "title": "Orta Vadeli Program açıklandı... Bakan Şimşek'ten açıklamalar",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Cumhurbaşkanlığı Külliyesi'nde “2027-2029 dönemini kapsayan “Orta Vadeli Program” tanıtımında konuşuyor.",
+      "link": "https://www.aksam.com.tr/guncel/orta-vadeli-program-aciklandi-bakan-simsekten-aciklamalar/haber-1696278",
+      "published": "2026-09-06T09:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:42.193251+00:00"
+    },
+    {
+      "id": "a48ef8ca6059902b",
+      "source": "Star",
+      "title": "Orta Vadeli Program açıklandı! Bakan Şimşek açıklamalarda bulunuyor",
+      "summary": "Orta Vadeli Program açıklandı! Bakan Şimşek açıklamalarda bulunuyor",
+      "link": "https://www.star.com.tr/guncel/orta-vadeli-program-aciklandi-bakan-simsek-aciklamalarda-bulunuyor-haber-2038431/",
+      "published": "2026-09-06T09:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:43.467704+00:00"
+    },
+    {
+      "id": "4639fd2ae8d72f94",
+      "source": "Yeni Akit",
+      "title": "Siyonist çeteyi korku sardı! “Türkiye, İran değildir!” Mustafa Ceylan yazdı",
+      "summary": "Akit yazarı Mustafa Ceylan, bugünkü köşe yazısında İsrail’in eski Askeri İstihbarat Başkanı Tamir Heyman’ın Türkiye’ye ilişkin değerlendirmelerini mercek altına aldı. “Türkiye, İran değildir” uyarısına dikkat çeken Ceylan, Türkiye’nin büyüyen askeri kapasitesi ve bölgesel nüfuzunun Tel Aviv’de ciddi bir tehdit olarak görüldüğünü belirterek, “Türkiye ile oynamak gerçekten de ateşe atlamaktır” ifade",
+      "link": "https://www.yeniakit.com.tr/haber/siyonist-ceteyi-korku-sardi-turkiye-iran-degildir-mustafa-ceylan-yazdi-2021240.html",
+      "published": "2026-09-06T09:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:43.874241+00:00"
+    },
+    {
+      "id": "e92e74b0d2ca2f56",
+      "source": "Karar",
+      "title": "Kuzey Marmara Otoyolu’nda feci kaza: 1’i çocuk 6 yaralı",
+      "summary": "Kuzey Marmara Otoyolu’nda Edirne yönünde ilerleyen TIR, aynı yönde seyreden hafif ticari araca arkadan çarptı. Çarpmanın etkisiyle sürüklenen araçta bulunan 1’i çocuk 6 kişi yaralandı. Hastaneye kaldırılan yaralıların hayati tehlikelerinin bulunmadığı öğrenildi.",
+      "link": "https://www.karar.com/sehir-haberleri/kuzey-marmara-otoyolunda-feci-kaza-1i-cocuk-6-yarali-2070273",
+      "published": "2026-09-06T09:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:44.714269+00:00"
+    },
+    {
+      "id": "48727439b708d92b",
+      "source": "Cumhuriyet",
+      "title": "Mehmet Şimşek ile fotoğrafı gündem olmuştu: 'İhale Kralı' olarak bilinen Selman Reşitoğlu 'fuhuştan' tutuklandı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında gözaltına alınan iş insanı Selman Reşitoğlu tutuklandı. Reşitoğlu’nun Hazine ve Maliye Bakanı Mehmet Şimşek’le Londra’da aynı masada yer aldığı fotoğraf da daha önce kamuoyunda tartışma yaratmıştı.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/mehmet-simsek-ile-fotografi-gundem-olmustu-ihale-krali-olarak-bilinen-selman-resitoglu-fuhustan-tutuklandi-2535315",
+      "published": "2026-09-06T09:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:36.878590+00:00"
+    },
+    {
+      "id": "286439b5f9553610",
+      "source": "Star",
+      "title": "Luis Suarez'den Fenerbahçe ve Hakan Safi itirafı! \"Bu olay yaşandı ancak...\"",
+      "summary": "Fenerbahçe'nin eski başkan adayı Hakan Safi'nin seçim vaadi olan Sporting forması giyen Kolombiyalı yıldız Luis Suarez dikkat çeken açıklamalarda bulundu. Luis Suarez, Hakan Safi ile anlaş sağlanması hakkında \"Bu olay yaşandı ancak artık geride kaldı, çünkü ben hiçbir yere gitmedim. Aklım tamamen Sporting'de.\" ifadelerini kullandı. İşte detaylar...",
+      "link": "https://www.star.com.tr/spor/luis-suarezden-fenerbahce-ve-hakan-safi-itirafi-bu-olay-yasandi-ancak-haber-2038430/",
+      "published": "2026-09-06T09:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:43.467751+00:00"
+    },
+    {
+      "id": "59fe43410472d56b",
+      "source": "OdaTV",
+      "title": "Hedefte Cemil Tugay, AKP ve Folkart var. Komünistlerden 'Nazım' tepkisi",
+      "summary": "İzmir Enternasyonal Fuarı&#039;ndaki Nâzım Hikmet sergisi tartışma yarattı. Türkiye Komünist Hareketi, Folkart ve AKP temsilcilerinin katıldığı etkinliğe “Komünist şair Nâzım sermayenin ve yobazın reklam malzemesi değildir” sözleriyle tepki gösterdi.",
+      "link": "https://www.odatv.com/siyaset/hedefte-cemil-tugay-akp-ve-folkart-komunistlerden-nazim-tepkisi-120161626",
+      "published": "2026-09-06T09:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:47.742974+00:00"
+    },
+    {
+      "id": "f6df2202c1d98242",
+      "source": "Yeniçağ",
+      "title": "“Gitti Hürrem, yediler başını”: Firarı Gülistan yakalanma anını canlı yayınladı",
+      "summary": "İstanbul polisi film sahnelerini aratmayan bir operasyona imza attı. Firarı olarak aranan 33 yaşındaki kadının yerini tespit etti. Sosyal medyada canlı yayına geçen Gülistan Kurt, kapının çalınması ile şoke uğradı. Takipçilerinin “Kapıyı açma Hürrem” uyarısı genç kalındı.",
+      "link": "https://www.yenicaggazetesi.com/gitti-hurrem-yediler-basini-firari-gulistan-yakalanma-anini-canli-yayinladi-1068817h.htm",
+      "published": "2026-09-06T09:06:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:45.343535+00:00"
+    },
+    {
+      "id": "a4cada7b68f8ec01",
+      "source": "Türkiye Gazetesi",
+      "title": "Luis Suarez'den Fenerbahçe itirafı: \"Beni istediler\"",
+      "summary": "Fenerbahçe'nin eski başkan adayı Hakan Safi'nin transfer vaatleri arasında gösterilen Luis Suarez, sarı-lacivertli kulüple ilgili dikkat çeken bir itirafta bulundu. Uruguaylı yıldız, \"Bu olay yaşandı\" diyerek transfer görüşmelerini doğrularken, Sporting'de kalmaya devam ettiğini açıkladı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/luis-suarezden-fenerbahce-itirafi-beni-istediler-ama-artik-geride-kaldi-1814163",
+      "published": "2026-09-06T09:06:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:39.518141+00:00"
+    },
+    {
+      "id": "967a02e7de66289d",
+      "source": "Akşam",
+      "title": "Karaköy'de sürüklenen tekne kurtarıldı",
+      "summary": "Beyoğlu ilçesine bağlı Karaköy'de makine arızası nedeniyle sürüklenen ve içinde 5 kişinin bulunduğu tekne kurtarılarak Fatih Küçük Liman'da emniyete alındı.",
+      "link": "https://www.aksam.com.tr/guncel/karakoyde-suruklenen-tekne-kurtarildi/haber-1696277",
+      "published": "2026-09-06T09:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:42.193285+00:00"
+    },
+    {
+      "id": "1d3a92a60fd947c4",
+      "source": "Türkiye Gazetesi",
+      "title": "Çıplak ayak koştu, yetişemeyince \"spor oldu\" dedi",
+      "summary": "Kamu Personel Seçme Sınavı (KPSS) Lisans Genel Yetenek-Genel Kültür oturumunda milyonlarca aday sınava girdi. Antalya'da sınava geç kalan ve çıplak ayakla sınav merkezine koşan aday kapıların kapandığını görünce \"Spor yapmış oldum seneye tekrar gireceğim.\" dedi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/ciplak-ayakla-sinava-kostu-kapida-kalinca-spor-oldu-dedi-1814162",
+      "published": "2026-09-06T09:05:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:39.518182+00:00"
+    },
+    {
+      "id": "23de9c10582ccbd3",
+      "source": "Cumhuriyet",
+      "title": "'Hırsız mı girdi?' diye şaka yaptılar, gerçek çıktı: 500 bin liralık altın ve döviz çalındı",
+      "summary": "İstanbul Avcılar’da kadın kıyafetleri giyerek bir binaya giren 2 şüpheli, ikinci kattaki daireden yaklaşık 500 bin lira değerinde altın ve döviz çaldı. Şüphelilerin binaya giriş ve çıkış anları güvenlik kamerasına yansıdı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/hirsiz-mi-girdi-diye-saka-yaptilar-gercek-cikti-500-bin-liralik-altin-ve-doviz-calindi-2535314",
+      "published": "2026-09-06T09:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:36.878626+00:00"
+    },
+    {
+      "id": "06c831af0f333942",
+      "source": "OdaTV",
+      "title": "Açıklama Wall Street'ten: Ons altında beklenti 5 bin dolar",
+      "summary": "Merkez bankalarının 4 trilyon dolarlık rekor rezerv hamlesi, altını ABD tahvillerinin önüne geçirdi. Uzmanlar ons fiyatının 5.000 doları aşacağını öngörüyor.",
+      "link": "https://www.odatv.com/ekonomi/wall-streetten-carpici-mesaj-ons-altin-fiyatinda-5000-dolar-beklentisi-120161645",
+      "published": "2026-09-06T09:04:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:47.743008+00:00"
+    },
+    {
+      "id": "dc8bae1cdd819b7c",
+      "source": "Sözcü",
+      "title": "Karaköy'de makine arızası nedeniyle sürüklenen tekne kurtarıldı",
+      "summary": "Karaköy'de makine arızası nedeniyle sürüklenen tekne kurtarıldı",
+      "link": "https://www.sozcu.com.tr/karakoy-de-makine-arizasi-nedeniyle-suruklenen-tekne-kurtarildi-p355789",
+      "published": "2026-09-06T09:04:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:39.731173+00:00"
+    },
+    {
+      "id": "d26159c0fb472e31",
+      "source": "Gerçek Gündem",
+      "title": "Fenerbahçe-Beşiktaş Maçında Kahrede Haber! Tribünde Kalp Krizi Geçirdi, Hayatını Kaybetti",
+      "summary": "Trendyol Süper Lig&#039;in 4. haftasında Fenerbahçe ile Beşiktaş, Chobani Stadyumu&#039;nda kozlarını paylaştı. Karşılaşma esnasında sarı-lacivertli tribünde maçı takip eden Yaşar Gerçek, kalp krizi nedeniyle hayatını kaybetti.",
+      "link": "https://www.gercekgundem.com/spor/fenerbahce-besiktas-macinda-kahrede-haber-tribunde-kalp-krizi-gecirdi-hayatini-kaybetti-578117",
+      "published": "2026-09-06T09:03:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:52.752129+00:00"
+    },
+    {
+      "id": "6dafc28e940997be",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Acun Ilıcalı, Premier Lig'de yenilmeden ve gol yemeden geçen 3 haftayı değerlendirdi",
+      "summary": "İngiltere Premier Lig ekiplerinden Hull City'nin sahibi Acun Ilıcalı, ilk 3 haftayı yenilgisiz ve gol yemeden geçen takımıyla gurur duyduğunu söyledi.",
+      "link": "https://www.aa.com.tr/tr/spor/acun-ilicali-premier-ligde-yenilmeden-ve-gol-yemeden-gecen-3-haftayi-degerlendirdi/4048682",
+      "published": "2026-09-06T09:03:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:36.624241+00:00"
+    },
+    {
+      "id": "960f0877efd1745a",
+      "source": "Cumhuriyet",
+      "title": "Luis Suarez'den Fenerbahçe itirafı: 'Bu olay yaşandı'",
+      "summary": "Fenerbahçe'nin eski başkan adayı Hakan Safi'nin transfer vaatleri arasında yer alan Luis Suarez, sarı-lacivertli kulüple ilgili bir itirafta bulundu.",
+      "link": "https://www.cumhuriyet.com.tr/spor/luis-suarez-den-fenerbahce-itirafi-bu-olay-yasandi-2535313",
+      "published": "2026-09-06T09:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:36.878657+00:00"
+    },
+    {
+      "id": "857e5b776dd34d1f",
+      "source": "Bir Gün",
+      "title": "Filipe Luis yönetimindeki Monaco’dan üçte üç",
+      "summary": "Ligue 1’de sezona Filipe Luis yönetiminde başlayan Monaco; Le Havre, Marsilya ve PSG karşılaşmalarını kazanarak ilk üç haftayı 9 puanla lider tamamladı.",
+      "link": "https://www.birgun.net/haber/filipe-luis-yonetimindeki-monacodan-ucte-uc-733247",
+      "published": "2026-09-06T09:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081341+00:00"
+    },
     {
       "id": "ec559989cb0567ec",
       "source": "Yeniçağ",
@@ -39,6 +259,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T09:05:36.545530+00:00"
+    },
+    {
+      "id": "10e470dbf90384af",
+      "source": "Bir Gün",
+      "title": "Gök cisminin kuyruklu yıldıza dönüşümü ilk kez görüntülendi",
+      "summary": "Güneş Sistemi'nde dolaşan buzlu bir gök cisminin kuyruklu yıldıza dönüşümü ilk defa gözlemlendi.",
+      "link": "https://www.birgun.net/haber/gok-cisminin-kuyruklu-yildiza-donusumu-ilk-kez-goruntulendi-733246",
+      "published": "2026-09-06T09:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081393+00:00"
     },
     {
       "id": "0c29e4653884ef12",
@@ -316,6 +547,17 @@
       "fetched_at": "2026-09-06T09:00:55.694033+00:00"
     },
     {
+      "id": "5abd4caf0acf1051",
+      "source": "Bir Gün",
+      "title": "Boğaziçi İmar’dan kaçak yapılar için yıkım kararı: Listede ünlü isimler de var",
+      "summary": "Boğaziçi İmar Müdürlüğü 4 bin 141 yapı için yıkım kararı aldı. Kararda Hülya Avşar, Mehmet Ali Erbil, Ferdi Tayfur gibi ünlü isimlerin ek kaçak yapılarının da yıkım listesinde yer aldığı belirtiliyor. Yıkım ihalesinin 22 Eylül’de yapılacağı belirtildi.",
+      "link": "https://www.birgun.net/haber/bogazici-imardan-kacak-yapilar-icin-yikim-karari-listede-unlu-isimler-de-var-733245",
+      "published": "2026-09-06T08:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081436+00:00"
+    },
+    {
       "id": "1fa0edf10fb58cda",
       "source": "Star",
       "title": "Yıllık toplam 910 milyon lira tasarruf! Seyahat süresi 20 dakika kısalacak",
@@ -391,6 +633,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T08:55:39.885139+00:00"
+    },
+    {
+      "id": "32f91669e1296820",
+      "source": "Evrensel",
+      "title": "Ekpet İnşaat Başkanı Selman Reşitoğlu tutuklandı",
+      "summary": "Sosyal medyadaki lüks yaşamı, kamudan aldığı milyarlık ihaleler ve Mehmet Şimşek ile çekilen fotoğrafıyla gündeme gelen Ekpet İnşaat Yönetim Kurulu Başkanı Selman Reşitoğlu tutuklandı.",
+      "link": "https://www.evrensel.net/haber/5999360/ekpet-insaat-baskani-selman-resitoglu-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-06T08:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:39.863242+00:00"
     },
     {
       "id": "401d12420d6967a6",
@@ -723,6 +976,17 @@
       "fetched_at": "2026-09-06T08:45:34.755322+00:00"
     },
     {
+      "id": "e0b36c728a0e0ba9",
+      "source": "Bir Gün",
+      "title": "Motokros Şampiyonası Türkiye etabını Ricardo Bauer kazandı",
+      "summary": "Avrupa Motokros Şampiyonası EMX125 sınıfının Afyonkarahisar’da düzenlenen Türkiye etabında Avusturyalı Ricardo Bauer birinci oldu.",
+      "link": "https://www.birgun.net/haber/motokros-sampiyonasi-turkiye-etabini-ricardo-bauer-kazandi-733244",
+      "published": "2026-09-06T08:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081462+00:00"
+    },
+    {
       "id": "1a91ae8917c1993a",
       "source": "Finans Gündem",
       "title": "Yılmaz OVP'yi açıkladı! Hedefimiz 2028'de yüzde 5 büyüme",
@@ -877,6 +1141,17 @@
       "fetched_at": "2026-09-06T08:35:35.847098+00:00"
     },
     {
+      "id": "bef21806390cce8b",
+      "source": "Hürriyet",
+      "title": "Batman'daki faciada 'sauna ve elektrik panosu' detayı: 3 kişi dumandan boğularak can vermiş",
+      "summary": "Gültepe Mahallesi'ndeki spor merkezinde 12 kişinin hastanelik olduğu ve 3 kişinin yaşamını yitirdiği yangının çıkış noktası belirlendi. Soruşturma dosyasındaki bilgileri aktaran Baro Başkanı Çakan, yangının saunadan diğer alanlara sıçradığını, vefat edenlerde yanık bulunmadığını ve ihmallerin boyutunun bilirkişi raporlarıyla tam olarak aydınlatılacağını söyledi.",
+      "link": "https://www.hurriyet.com.tr/gundem/batmandaki-faciada-sauna-ve-elektrik-panosu-detayi-3-kisi-dumandan-bogularak-can-vermis-43297777",
+      "published": "2026-09-06T08:34:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.742064+00:00"
+    },
+    {
       "id": "46cbecc2a96f0164",
       "source": "Star",
       "title": "Süper Lig'de yeni transferlerin yaş ortalaması 25,01",
@@ -996,6 +1271,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T08:35:30.502202+00:00"
+    },
+    {
+      "id": "ad36a8fed0079908",
+      "source": "Bir Gün",
+      "title": "Antalya’da 1700 yıllık Roma Hamamı yıllara meydan okuyor",
+      "summary": "Antalya'nın Konyaaltı ilçesinde, kent merkezinin tam ortasındaki yaklaşık 1700 yıllık Roma Hamamı, yüzyıllara meydan okuyarak günümüze kadar ulaştı. Milattan sonra 3'üncü yüzyılda Roma İmparatorluğu döneminde inşa edilen tarihi yapı, bugün çevresi tellerle çevrili şekilde varlığını sürdürüyor.",
+      "link": "https://www.birgun.net/haber/antalyada-1700-yillik-roma-hamami-yillara-meydan-okuyor-733243",
+      "published": "2026-09-06T08:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081496+00:00"
     },
     {
       "id": "fd1fdca2b8b2ed38",
@@ -1139,6 +1425,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T08:31:09.396696+00:00"
+    },
+    {
+      "id": "b9877f56a706fc50",
+      "source": "Bir Gün",
+      "title": "Süper Lig transferlerinin yaş ortalaması düştü",
+      "summary": "Süper Lig kulüplerinin yaz döneminde kadrolarına kattığı 202 futbolcunun yaş ortalaması 25,01 olarak gerçekleşti. En yüksek ortalama Fenerbahçe’de, en düşük ortalama ise Alanyaspor’da kaydedildi.",
+      "link": "https://www.birgun.net/haber/super-lig-transferlerinin-yas-ortalamasi-dustu-733242",
+      "published": "2026-09-06T08:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081524+00:00"
     },
     {
       "id": "d3498932051b8a21",
@@ -1559,6 +1856,17 @@
       "fetched_at": "2026-09-06T08:20:31.578720+00:00"
     },
     {
+      "id": "700a3bd7182f57ee",
+      "source": "Bir Gün",
+      "title": "Anderson Talisca’dan derbinin ardından dikkat çeken paylaşım",
+      "summary": "Fenerbahçe’den ayrılarak Al-Jazira’ya transfer olan Anderson Talisca, sarı-lacivertlilerin Beşiktaş’a 2-1 yenildiği derbinin ardından “Giden her şey geri döner” ifadelerinin yer aldığı bir mesaj yayımladı.",
+      "link": "https://www.birgun.net/haber/anderson-taliscadan-derbinin-ardindan-dikkat-ceken-paylasim-733241",
+      "published": "2026-09-06T08:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081552+00:00"
+    },
+    {
       "id": "30ceb39374df8be1",
       "source": "Cumhuriyet",
       "title": "İkinci el platformlar ve sosyal ağlarda ticari işlemlere yeni vergi: Oranlar belli oldu! 3 kez işlem yapan hedefte...",
@@ -1700,6 +2008,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T08:10:45.565153+00:00"
+    },
+    {
+      "id": "f0077cb6e5a5f26a",
+      "source": "Bir Gün",
+      "title": "Süper Lig’in transfer rotası yurt dışı oldu",
+      "summary": "Süper Lig kulüplerinin yaz döneminde kadrolarına kattığı 202 futbolcunun 124’ü yurt dışından geldi. En fazla oyuncu Fransa’dan transfer edilirken 13 Türk futbolcu da kariyerini Türkiye’de sürdürmek üzere geri döndü.",
+      "link": "https://www.birgun.net/haber/super-ligin-transfer-rotasi-yurt-disi-oldu-733240",
+      "published": "2026-09-06T08:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081580+00:00"
+    },
+    {
+      "id": "9790327b38f19d78",
+      "source": "Bir Gün",
+      "title": "DEM Parti’nin 5’inci Olağan Kongresi başladı",
+      "summary": "DEM Parti, 5’inci Olağan Büyük Kongresi’ni Ankara’da topladı. Yasal zorunluluklar kapsamında toplanan kongrede parti yönetiminde kapsamlı değişiklik beklenmiyor.",
+      "link": "https://www.birgun.net/haber/dem-partinin-5inci-olagan-kongresi-basladi-733239",
+      "published": "2026-09-06T08:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081604+00:00"
     },
     {
       "id": "149c154b559c32df",
@@ -1931,6 +2261,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T08:10:36.438957+00:00"
+    },
+    {
+      "id": "09f3393d7d9a2291",
+      "source": "Bir Gün",
+      "title": "Orta Vadeli Program açıklandı: Yıl sonu enflasyon tahmininde 12 puanlık yükseliş!",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 2027-2029 dönemini kapsayan Orta Vadeli Program'ı açıkladı. Buna göre, yıl sonu enflasyon tahmini yüzde 16'dan yüzde 28,4'e yükseldi. Enflasyonun 2027'de yüzde 21'e, 2028'de yüzde 13,5'e ve 2029'da yüzde 9'a gerilemesi öngörüldü.",
+      "link": "https://www.birgun.net/haber/orta-vadeli-program-aciklandi-yil-sonu-enflasyon-tahmininde-12-puanlik-yukselis-733238",
+      "published": "2026-09-06T08:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081636+00:00"
     },
     {
       "id": "50dae4c2f9a86385",
@@ -2923,6 +3264,17 @@
       "fetched_at": "2026-09-06T07:50:59.272284+00:00"
     },
     {
+      "id": "bacc44746cda7f0b",
+      "source": "Bir Gün",
+      "title": "\"İhale Kralı\" olarak bilinen Selman Reşitoğlu tutuklandı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında gözaltına alınan iş insanı Selman Reşitoğlu tutuklandı. Kamudan aldığı milyarlarca liralık ihaleler nedeniyle daha önce “İhale Kralı” olarak gündeme gelen Reşitoğlu; sosyal medyadan yayınladığı görüntülerdeki lüks yaşantısıyla da dikkat çekmişti. Reşitoğlu’nun Hazine ve Maliye Bakanı Mehmet Şimşek’le Lo",
+      "link": "https://www.birgun.net/haber/ihale-krali-olarak-bilinen-selman-resitoglu-tutuklandi-733236",
+      "published": "2026-09-06T07:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:40.081678+00:00"
+    },
+    {
       "id": "04dff982807cdf9b",
       "source": "Aydınlık",
       "title": "Yapay zeka hayvanlarla konuşmamızı sağlayabilir: Türler arası iletişim olasılığı gerçeğe dönüyor",
@@ -3229,6 +3581,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T07:45:39.429264+00:00"
+    },
+    {
+      "id": "cbd4c6c85049b3fb",
+      "source": "Türkiye Gazetesi",
+      "title": "Neye uğradığını şaşırdı! Beslemeye gitti, can verdi",
+      "summary": "Güneybatı Pasifik ülkesi Papua Yeni Gine'deki bir hayvanat bahçesinde çalışan bir adam, uğradığı timsah saldırısı sonucu ağır yaralanarak hastaneye kaldırıldı. Hastanede yapılan tüm müdahalelere rağmen kurtarılamayan çalışan hayatını kaybetti.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/beslemek-icin-gitti-sonu-faciayla-bitti-talihsiz-calisan-timsah-saldirisinda-can-verd-1814148",
+      "published": "2026-09-06T07:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T09:10:39.518713+00:00"
     },
     {
       "id": "986d6e7912a1bd8a",
@@ -5143,369 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T06:50:51.659914+00:00"
-    },
-    {
-      "id": "693f4fe904e47e15",
-      "source": "Bir Gün",
-      "title": "Avrupa Voleybol Şampiyonası'nda final günü rakip İtalya | CANLI",
-      "summary": "Son Avrupa şampiyonu unvanıyla katıldığı turnuvada yeniden finale çıkma başarısı gösteren Milli Takım bugün finalde İtalya ile karşılaşacak. Sinan Erdem Spor Salonu'nda oynanacak mücadele saat 19.00'da başlayacak.",
-      "link": "https://www.birgun.net/haber/avrupa-voleybol-sampiyonasi-nda-final-gunu-rakip-italya-canli-733233",
-      "published": "2026-09-06T06:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T08:10:40.285621+00:00"
-    },
-    {
-      "id": "38bce2a3edda91da",
-      "source": "Cumhuriyet",
-      "title": "Resmi Gazete’de yayımlandı: 4 ilde 7 taşınmaz özelleştirilecek",
-      "summary": "Özelleştirme İdaresi Başkanlığı, Ankara, İstanbul, İzmir ve Mersin’de bulunan 7 taşınmazın satış yöntemiyle özelleştirileceğini duyurdu. İhaleler pazarlık usulüyle yapılacak, teklifler eylül ayının sonunda alınacak.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-4-ilde-7-tasinmaz-ozellestirilecek-2535273",
-      "published": "2026-09-06T06:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:55:28.293035+00:00"
-    },
-    {
-      "id": "0fd9ffe724212f05",
-      "source": "Karar",
-      "title": "Bursa'da 10 araç birbirine girdi: Yakıt döküldü, yol savaş alanına döndü",
-      "summary": "Bursa-Balıkesir kara yolunun Karacaoba mevkiinde seyir halindeki bir tırdan yola yakıt dökülmesi sonucu zincirleme trafik kazası meydana geldi. Yaklaşık 10 aracın karıştığı kazada yol trafiğe kilitlendi. Bölgede oluşan yoğunluk dron ile görüntülendi.",
-      "link": "https://www.karar.com/guncel-haberler/bursada-10-arac-birbirine-girdi-yakit-dokuldu-yol-savas-alanina-dondu-2070254",
-      "published": "2026-09-06T06:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:41.773934+00:00"
-    },
-    {
-      "id": "45e4430b887b6d3a",
-      "source": "Cumhuriyet",
-      "title": "2026 KPSS Lisans saat kaçta başlıyor, kaçta bitiyor? Kamu Personel Seçme Sınavı kaç dakika sürüyor, kaç soru var?",
-      "summary": "Kamu Personeli Seçme Sınavı (KPSS) süreci, ÖSYM tarafından bugün gerçekleştirilecek Genel Yetenek-Genel Kültür oturumuyla başlayacak. Peki, 2026 KPSS Lisans saat kaçta başlıyor, kaçta bitiyor? Kamu Personel Seçme Sınavı kaç dakika sürüyor, kaç soru var?",
-      "link": "https://www.cumhuriyet.com.tr/egitim/2026-kpss-lisans-saat-kacta-basliyor-kacta-bitiyor-kamu-personel-secme-sinavi-kac-dakika-suruyor-kac-soru-var-2535272",
-      "published": "2026-09-06T06:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:35.072657+00:00"
-    },
-    {
-      "id": "7a66002a02bacc14",
-      "source": "Milliyet",
-      "title": "Rutin besleme bir anda kabusa döndü! Papua Yeni Gine'de vahşi yaşam parkında timsah saldıran çalışan yaşamını yitirdi",
-      "summary": "Güneybatı Pasifik ülkesi Papua Yeni Gine'deki vahşi yaşam parkında çalışan, timsah saldırısında hayatını kaybetti. ABC News Australia platformunun haberine göre başkentteki \"Port Moresby Adventure Park\" vahşi yaşam parkında, çitlerle çevrili alanda bulunan timsah, kendisini besleyen çalışana saldırdı. İhbar üzerine kolluk kuvvetleri ve tıbbi yardım ekipleri olay yerine sevk edildi. Dünyada yaşlanm",
-      "link": "https://www.milliyet.com.tr/dunya/rutin-besleme-bir-anda-kabusa-dondu-papua-yeni-ginede-vahsi-yasam-parkinda-timsah-saldiran-calisan-yasamini-yitirdi-7655318",
-      "published": "2026-09-06T06:47:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:39.491317+00:00"
-    },
-    {
-      "id": "c1bf9daf0620a393",
-      "source": "Akşam",
-      "title": "Gece çarpıntısını hafife almayın! Kafein de tetikçisi",
-      "summary": "Gece uykudan çarpıntıyla uyanmanın her zaman kalp hastalığı anlamına gelmediğini belirten Dr. Öğr. Üyesi Ahmad Huraıbat, stres, uykusuzluk, kafein, kansızlık, tiroit sorunları ve ritim bozukluklarının da çarpıntıya yol açabileceğini söyledi.",
-      "link": "https://www.aksam.com.tr/yasam/gece-carpintisini-hafife-almayin-kafein-de-tetikcisi/haber-1696249",
-      "published": "2026-09-06T06:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:39.907241+00:00"
-    },
-    {
-      "id": "c58e7cdaa4c134db",
-      "source": "Ekonomim",
-      "title": "TİGEM 26 safkan Arap koşu tayı satacak",
-      "summary": "TİGEM Sultansuyu Tarım İşletmesi, 26 safkan Arap koşu tayını elektronik ihale yöntemiyle satışa çıkaracak. İhale 28 Eylül&#039;de başlayacak ve 2 Ekim&#039;de sona erecek.",
-      "link": "https://www.ekonomim.com/gundem/tigem-26-safkan-arap-kosu-tayi-satacak-haberi-916515",
-      "published": "2026-09-06T06:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:50.682583+00:00"
-    },
-    {
-      "id": "c443b304626b04fc",
-      "source": "Ekonomim",
-      "title": "Borsaya yeni halka arz geliyor: Talep toplama tarihleri belli oldu",
-      "summary": "Net Global Endüstriyel Yatırımlar’ın halka arzında talep toplama tarihleri 9-11 Eylül olarak belirlendi. Pay başına 25,52 TL fiyatla gerçekleştirilecek halka arzda toplam 87,5 milyon adet payın satışa sunulması ve yaklaşık 2,23 milyar TL büyüklüğe ulaşılması hedefleniyor.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/borsaya-yeni-halka-arz-geliyor-talep-toplama-tarihleri-belli-oldu-haberi-916516",
-      "published": "2026-09-06T06:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:55:40.499308+00:00"
-    },
-    {
-      "id": "b8ac3483289d7e56",
-      "source": "Cumhuriyet",
-      "title": "TIR'dan dökülen mazot ortalığı savaş alanına çevirdi: 10 araç birbirine girdi",
-      "summary": "Bursa'da seyir halindeki TIR'dan yakıt dökülmesi üzerine ortalık adeta savaş alanına döndü. Yaklaşık 10 araç kazaya karışırken, trafiğin kitlendiği anlar drone ile kaydedildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/tir-dan-dokulen-mazot-ortaligi-savas-alanina-cevirdi-10-arac-birbirine-girdi-2535271",
-      "published": "2026-09-06T06:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:35.072694+00:00"
-    },
-    {
-      "id": "bcb1173f35c56c08",
-      "source": "Star",
-      "title": "Tırın döktüğü yakıt yolu savaş alanına çevirdi! 10 araç birbirine girdi, trafik kilitlendi",
-      "summary": "Bursa'da seyir halindeki tırdan yola yakıt dökülmesi zincirleme kazalara neden oldu. Yaklaşık 10 aracın karıştığı kazada trafik adeta felç olurken, yaşananlar dronla görüntülendi.",
-      "link": "https://www.star.com.tr/yasam/tirin-doktugu-yakit-yolu-savas-alanina-cevirdi-10-arac-birbirine-girdi-trafik-kilitlendi-haber-2038402/",
-      "published": "2026-09-06T06:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:41.015793+00:00"
-    },
-    {
-      "id": "eecc5787eb6f4c65",
-      "source": "Star",
-      "title": "Potanın Perileri'nin rakibi Avustralya",
-      "summary": "A Milli Kadın Basketbol Takımı, Dünya Şampiyonası'nda Avustralya ile karşı karşıya gelecek.",
-      "link": "https://www.star.com.tr/spor/potanin-perilerinin-rakibi-avustralya-haber-2038401/",
-      "published": "2026-09-06T06:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:41.015847+00:00"
-    },
-    {
-      "id": "d2c676a462daa0a2",
-      "source": "Yeni Akit",
-      "title": "İran’dan ABD’ye kritik uyarı: Sonraki saldırılar daha şiddetli olacak!",
-      "summary": "ABD ordusunun İran'a ait bir petrol tankerini füzelerle hedef almasının ardından Tahran'dan Washington'a sert mesaj geldi. Hatemu'l Enbiya Merkez Karargahı Sözcüsü Albay İbrahim Zülfikari, ABD'nin İran gemilerine yönelik saldırılarını ve deniz ablukasını sürdürmesi halinde bölgedeki Amerikan savaş gemilerinin hedef alınmaya devam edeceğini açıkladı. Zülfikari, “Sonraki saldırılar daha şiddetli ola",
-      "link": "https://www.yeniakit.com.tr/haber/irandan-abdye-kritik-uyari-sonraki-saldirilar-daha-siddetli-olacak-2021220.html",
-      "published": "2026-09-06T06:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:41.408829+00:00"
-    },
-    {
-      "id": "368a4cc86e695629",
-      "source": "Yeniçağ",
-      "title": "Somali'den Türkiye söylemlerine tepki: Karalamaya çalışıyorlar",
-      "summary": "Somali Enformasyon Bakanı Mohamud, Türkiye’nin desteğinin tarihi ve güçlü temellere dayandığını belirterek, iki ülke arasındaki stratejik ortaklığı hedef alan çevrelere sert tepki gösterdi. Mohamud, &quot;Birçok ülkenin geri çekildiği en zorlu dönemlerde Türkiye buradaydı&quot; dedi.",
-      "link": "https://www.yenicaggazetesi.com/somaliden-turkiye-soylemlerine-tepki-karalamaya-calisiyorlar-1068794h.htm",
-      "published": "2026-09-06T06:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:42.108577+00:00"
-    },
-    {
-      "id": "00f8c1a4cbfe9bf3",
-      "source": "Millî Gazete",
-      "title": "Teşkilat 7. sezon ne zaman yayınlanacak? Yeni sezon başlangıç tarihi açıklandı mı, ilk bölüm ne zaman?",
-      "summary": "TRT 1 ekranlarının reyting rekorları kıran aksiyon dizisi için heyecanlı bekleyiş devam ediyor. Geçtiğimiz aylarda sezon arasına giren iddialı yapımın ekranlara dönüş dönemi yaklaşırken, izleyiciler yeni bölümlerde yaşanacak gelişmeleri ve kadrodaki değişimleri sabırsızlıkla bekliyor.",
-      "link": "https://www.milligazete.com.tr/teskilat-7-sezon-ne-zaman-yayinlanacak-yeni-sezon-baslangic-tarihi-aciklandi-mi-ilk-bolum-ne-zaman",
-      "published": "2026-09-06T06:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:43.627478+00:00"
-    },
-    {
-      "id": "89cc45fa696b9686",
-      "source": "Akşam",
-      "title": "2026 KPSS SORU CEVAP KİTAPÇIĞI| KPSS Genel Yetenek-Genel Kültür soru cevap kitapçığı yayımlandı mı?",
-      "summary": "Kamu Personeli Seçme Sınavı (KPSS) Genel Yetenek-Genel Kültür oturumunun bugün saat 10.15'te başlamasıyla birlikte gözler soru kitapçığı ve cevap anahtarına çevrildi. Sınavın ardından adaylar, doğru ve yanlışlarını kontrol edebilmek için ÖSYM'nin yapacağı duyuruyu bekliyor. Peki, 2026 KPSS soru ve cevap kitapçığı yayımlandı mı? KPSS Genel Yetenek-Genel Kültür soru ve cevap anahtarı ne zaman açıkla",
-      "link": "https://www.aksam.com.tr/trend/2026-kpss-soru-cevap-kitapcigi-kpss-genel-yetenek-genel-kultur-soru-cevap-kitapcigi-yayimlandi-mi/haber-1696248",
-      "published": "2026-09-06T06:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:45:42.163833+00:00"
-    },
-    {
-      "id": "1f7c690d9d18efe2",
-      "source": "Halk TV",
-      "title": "Bodrum'un ünlü işletmeleri teker teker kapanıyor! Sayı 42'yi bulabilir",
-      "summary": "Bodrum&#039;da artan maliyetler nedeniyle köklü mekanlar birer birer kapanıyor. Berk Balık ve Leman Kültür&#039;ün vedasının ardından, Paşatarlası-Marina hattında kepenk indiren işletme sayısının 42&#039;yi bulduğu belirtiliyor.",
-      "link": "https://halktv.com.tr/ekonomi/bodrumun-unlu-isletmeleri-teker-teker-kapaniyor-sayi-42yi-bulabilir-1053379h",
-      "published": "2026-09-06T06:45:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:44.720727+00:00"
-    },
-    {
-      "id": "863f8830031dcceb",
-      "source": "Halk TV",
-      "title": "Serhat Kılıç'ın ölüm nedeni hakkındaki haberlere Şoray Uzun'dan sert tepki!",
-      "summary": "51 yaşında hayatını kaybeden oyuncu Serhat Kılıç&#039;ın ölüm nedeni hakkında ortaya atılan iddialara yakın arkadaşı Şoray Uzun&#039;dan tepki geldi. Uzun, &quot;Merhumun hatırasına saygısızlık etmemek gerekiyor&quot; dedi.",
-      "link": "https://halktv.com.tr/magazin/serhat-kilicin-olum-nedeni-hakkindaki-haberlere-soray-uzundan-sert-tepki-1053378h",
-      "published": "2026-09-06T06:45:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:45:46.713991+00:00"
-    },
-    {
-      "id": "3f373f6b8ec8db98",
-      "source": "Bir Gün",
-      "title": "Filede bir başarı daha: 16 Yaş Altı Erkek Milli Voleybol Takımı, Balkan ikincisi",
-      "summary": "Türkiye 16 Yaş Altı Erkek Milli Voleybol Takımı, Yunanistan’da düzenlenen Balkan Şampiyonası’nı üç galibiyet ve bir mağlubiyetle ikinci sırada tamamlayarak gümüş madalya kazandı.",
-      "link": "https://www.birgun.net/haber/filede-bir-basari-daha-16-yas-alti-erkek-milli-voleybol-takimi-balkan-ikincisi-733226",
-      "published": "2026-09-06T06:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T07:10:35.264185+00:00"
-    },
-    {
-      "id": "0737375052e787b9",
-      "source": "Evrensel",
-      "title": "Atatürk için mevlit okutan müftü görevden alındı",
-      "summary": "Cumhurbaşkanı kararıyla 35 ilin müftüsü değişirken, 10 Kasım’da Atatürk için camilerde mevlit okutulması talimatıyla gündeme gelen Kocaeli Müftüsü Mehmet Sönmezoğlu görevden alındı; yerine Bolu Müftüsü Hüseyin Demirtaş atandı.",
-      "link": "https://www.evrensel.net/haber/5999343/ataturk-icin-mevlit-okutan-muftu-gorevden-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-06T06:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T07:05:45.169158+00:00"
-    },
-    {
-      "id": "442959bd5e4043a5",
-      "source": "Cumhuriyet",
-      "title": "Bitlis’te silah bakımı faciayla bitti: Oğlu hayatını kaybetti",
-      "summary": "Bitlis’in Hizan ilçesinde evinde silahının bakımını yapan M.Ç.’nin elindeki silahın kazara ateş alması sonucu oğlu E.Ç. ağır yaralandı. Hastaneye kaldırılan E.Ç., doktorların tüm müdahalelerine rağmen kurtarılamadı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/bitlis-te-silah-bakimi-faciayla-bitti-oglu-hayatini-kaybetti-2535270",
-      "published": "2026-09-06T06:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:35.072726+00:00"
-    },
-    {
-      "id": "970a715aaf78503c",
-      "source": "Karar",
-      "title": "Avukatların silah ruhsatı ücretlerinde yeni düzenleme: Yüzde 50 indirim geliyor",
-      "summary": "Adalet Bakanı Akın Gürlek, avukatların silah ruhsatı ücretlerine yönelik yeni düzenlemeyi açıkladı. Buna göre ruhsat harcının ilk ödemesinde yüzde 50 indirim uygulanacak, sonraki yenilemelerde ise ücret alınmayacak. Gürlek ayrıca ekimde gündeme gelmesi beklenen yargı paketinde boşanma davaları ve süresiz nafakayla ilgili düzenlemelerin bulunacağını söyledi.",
-      "link": "https://www.karar.com/guncel-haberler/avukatlarin-silah-ruhsati-ucretlerinde-yeni-duzenleme-yuzde-50-indirim-2070253",
-      "published": "2026-09-06T06:44:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:45:43.972169+00:00"
-    },
-    {
-      "id": "c40c54292e482b54",
-      "source": "Kısa Dalga",
-      "title": "Oyuncu Serhat Mustafa Kılıç, hayatını kaybetti",
-      "summary": "Oyuncu Serhat Mustafa Kılıç, İstanbul’un Kağıthane ilçesindeki evinde ölü bulundu. Kılıç'ın kesin ölüm nedeninin belirlenmesi için inceleme başlatıldı.",
-      "link": "https://kisadalga.net/haber/gundem/oyuncu-serhat-mustafa-kilic-hayatini-kaybetti-140236",
-      "published": "2026-09-06T06:44:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:45:48.020334+00:00"
-    },
-    {
-      "id": "70cd17bca60e8725",
-      "source": "Independent Türkçe",
-      "title": "ABD, 168 kız öğrencinin öldüğü okulu yeni füzelerini denemek için vurmuş",
-      "summary": "ABD’nin, 28 Şubat’ta İran’ın Minab kentinde bir kız okulunu füzelerle vurarak 168 çocuğu öldürdüğü saldırıyla ilgili tartışmalar sürüyor. Amerikan ordusunun, 30 bin kişinin yaşadığı Minab kentini, daha önce hiç denenmemiş Lockheed Martin Hassas Vuruş Füzesi (PrSM) adlı yeni silah sistemini kullanmak için test sahası olarak seçtiği ortaya çıktı. Saldırıda 4 adet Lockheed Martin Hassas Vuruş Füzesi ",
-      "link": "https://www.indyturk.com/node/782104/t%C3%BCrki%CC%87yeden-sesler/abd-168-k%C4%B1z-%C3%B6%C4%9Frencinin-%C3%B6ld%C3%BC%C4%9F%C3%BC-okulu-yeni-f%C3%BCzelerini-denemek-i%C3%A7in",
-      "published": "2026-09-06T06:44:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:55:39.115996+00:00"
-    },
-    {
-      "id": "9ade1e8954b1b849",
-      "source": "Aydınlık",
-      "title": "Anak Krakatau Yanardağı patladı: 209 uçuş etkilendi",
-      "summary": "Endonezya&#039;daki Anak Krakatau Yanardağı&#039;nın patlaması sonrası kül bulutu 15 bin metreye ulaştı. Volkanik kül sebebiyle 209 uçuş etkilendi, bazı okul etkinlikleri iptal edildi.",
-      "link": "https://www.aydinlik.com.tr/haber/anak-krakatau-yanardagi-patladi-209-ucus-etkilendi-589064",
-      "published": "2026-09-06T06:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:55:34.141115+00:00"
-    },
-    {
-      "id": "9eccc217b61648eb",
-      "source": "Ekonomim",
-      "title": "İran Devrim Muhafızları: ABD'ye ait bir uçak gemisi ile bir muhrip gemiyi hedef aldık",
-      "summary": "İran Devrim Muhafızları Ordusu, İran gemilerine yönelik deniz ablukasına katılan ABD&#039;ye ait bir uçak gemisi ile bir muhrip gemisinin balistik füzelerle hedef alındığını açıkladı. Bildiride, iki geminin hasar gördüğü ve farklı bölgelere çekildiği öne sürüldü.",
-      "link": "https://www.ekonomim.com/dunya/iran-devrim-muhafizlari-abdye-ait-bir-ucak-gemisi-ile-bir-muhrip-gemiyi-hedef-aldik-haberi-916513",
-      "published": "2026-09-06T06:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:50.682630+00:00"
-    },
-    {
-      "id": "7de50e22a82ee45d",
-      "source": "Akşam",
-      "title": "Suyla şaka olmaz! Meydan okurken canınızdan olmayın",
-      "summary": "Denizde birlikte yüzen arkadaşların “kim daha hızlı yüzecek” gibi meydan okumalarda bulunması, boğulma riskini artırıyor. Uzman uyardı; “Yüzmesi iyi olmayan kişiler için ciddi tehdit.”",
-      "link": "https://www.aksam.com.tr/yasam/suyla-saka-olmaz-meydan-okurken-caninizdan-olmayin/haber-1696247",
-      "published": "2026-09-06T06:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:45:42.163872+00:00"
-    },
-    {
-      "id": "a609ea87b8c645f8",
-      "source": "Yeniçağ",
-      "title": "Trilyonluk sevkiyat alevlere teslim: Gürbulak’ta korku dolu dakikalar",
-      "summary": "Sıfır kilometre çok sayıda otomobil bulunan nakliye TIR’ının dorsesinde henüz belirlenemeyen bir nedenle yangın çıktı. İhbar üzerine olay yerine giden itfaiye müdahale etti. Milyonlarca lira değerinde otomobiller küle döndü.",
-      "link": "https://www.yenicaggazetesi.com/trilyonluk-sevkiyat-alevlere-teslim-gurbulakta-korku-dolu-dakikalar-1068793h.htm",
-      "published": "2026-09-06T06:43:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:45:44.498735+00:00"
-    },
-    {
-      "id": "14a223108f874eb1",
-      "source": "OdaTV",
-      "title": "Derbide olay hareket: Vlahovic tepki çekti",
-      "summary": "Beşiktaş&#039;ın Fenerbahçe&#039;yi 2-1 kazandığı derbide Vlahovic ile Skriniar arasında yaşanan gerilim gündem oldu. Vlahovic&#039;in yaptığı el hareketi, 2012&#039;deki Meireles olayını yeniden akıllara getirdi.",
-      "link": "https://www.odatv.com/spor/derbide-olay-hareket-vlahovic-tepki-cekti-120161624",
-      "published": "2026-09-06T06:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:50:44.281052+00:00"
-    },
-    {
-      "id": "f63576705dfc140d",
-      "source": "Star",
-      "title": "Yola çıkacaklar dikkat! Ankara'da bazı yollar trafiğe kapatılacak",
-      "summary": "Ankara Emniyet Müdürlüğü, kentte bazı yolların araç trafiğine kapatılacağını duyurdu.",
-      "link": "https://www.star.com.tr/guncel/yola-cikacaklar-dikkat-ankarada-bazi-yollar-trafige-kapatilacak-haber-2038400/",
-      "published": "2026-09-06T06:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:45:43.275772+00:00"
-    },
-    {
-      "id": "eec55a01c49c7093",
-      "source": "Bir Gün",
-      "title": "Aziz Yıldırım’dan derbi sonrası hakem tepkisi: \"VAR galiba uyuyor\"",
-      "summary": "Fenerbahçe Başkanı Aziz Yıldırım, Beşiktaş’a 2-1 mağlup oldukları derbinin ardından hakem Halil Umut Meler ile VAR yönetimini eleştirdi. Takımının iyi oynamadığını kabul eden Yıldırım, iki penaltılarının verilmediğini savundu.",
-      "link": "https://www.birgun.net/haber/aziz-yildirimdan-derbi-sonrasi-hakem-tepkisi-var-galiba-uyuyor-733225",
-      "published": "2026-09-06T06:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T07:10:35.264215+00:00"
-    },
-    {
-      "id": "1ba69e5b89ce5a39",
-      "source": "Habertürk",
-      "title": "Mazot döküldü! Ortalık savaş alanına döndü!",
-      "summary": "Bursa'da seyir halindeki TIR'dan yakıt dökülmesi üzerine ortalık adeta savaş alanına döndü. Feci kazada 10 araç birbirine girdi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-mazot-kazasi-ortalik-savas-alanina-dondu-3910582",
-      "published": "2026-09-06T06:41:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:55:25.597149+00:00"
-    },
-    {
-      "id": "1e8ba16c4a7fed60",
-      "source": "Habertürk",
-      "title": "Alp Navruz'a uluslararası ödül",
-      "summary": "Alp Navruz, Venedik'te düzenlenen Kineo Ödülleri'nde 'En İyi Uluslararası Erkek Oyuncu' ödülünün sahibi oldu",
-      "link": "https://www.haberturk.com/magazin/venedik-te-kineo-odulleri-sahiplerini-buldu-alp-navruz-a-uluslararasi-odul-3910579",
-      "published": "2026-09-06T06:41:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T06:55:25.597261+00:00"
-    },
-    {
-      "id": "e042bc0e7e0e794b",
-      "source": "Evrensel",
-      "title": "Küresel Sumud Filosu üçüncü kez yolda: 50 gemi Marmaris'ten hareket etti",
-      "summary": "Küresel Sumud Filosu Gazze'ye insani yardım götürmek amacıyla 3'üncü kez yola çıktı. Marmaris'ten yola çıkan filonun Gazze'ye varış tarihine dair bir bilgi paylaşılmadı.",
-      "link": "https://www.evrensel.net/haber/5999342/kuresel-sumud-filosu-ucuncu-kez-yolda-50-gemi-marmaris-ten-hareket-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-06T06:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T07:05:45.169197+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-06T02:51:08.348096+00:00",
+  "last_updated": "2026-09-06T02:55:54.135706+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 612,
+  "new_items_this_run": 618,
   "items": [
+    {
+      "id": "021c073342462d18",
+      "source": "Yeni Akit",
+      "title": "ABD Umman'da İran tankerini vurdu",
+      "summary": "ABD ile İran arasındaki askeri gerilim denizlere taşındı. ABD Merkez Komutanlığı (CENTCOM), Amerikan güçlerinin hedef aldığı İran’a ait ham petrol tankeri M/T Kylo’nun Umman Körfezi’nde battığını açıkladı. CENTCOM, geminin sulara gömüldüğü anlara ait görüntüleri de yayımladı.",
+      "link": "https://www.yeniakit.com.tr/haber/abd-ummanda-iran-tankerini-vurdu-2021202.html",
+      "published": "2026-09-06T02:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T02:55:37.675281+00:00"
+    },
     {
       "id": "9356866a1f8fe2ec",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-05T19:15:36.648313+00:00"
-    },
-    {
-      "id": "2b54983e27fafe80",
-      "source": "Cumhuriyet",
-      "title": "Hull City - Aston Villa maçında kazanan çıkmadı",
-      "summary": "İngiltere Premier Lig'in 3. haftasında oynanan maçta Hull City, sahasında Aston Villa 0-0 berabere kaldı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/hull-city-aston-villa-macinda-kazanan-cikmadi-2535190",
-      "published": "2026-09-05T19:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-05T19:15:33.019578+00:00"
     }
   ]
 }

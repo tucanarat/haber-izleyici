@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-09-06T17:25:56.466507+00:00",
+  "last_updated": "2026-09-06T17:31:06.010520+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 622,
+  "new_items_this_run": 625,
   "items": [
+    {
+      "id": "441eda56808ab06e",
+      "source": "Gazete Pencere",
+      "title": "Ünlü TV sunucusu Khalifa’ya idam cezası!",
+      "summary": "Mısır’da televizyon sunucusu Sarah Khalifa'nın da aralarında olduğu 12 sanık, uyuşturucu üretimi ve ticaretine ilişkin davada idam cezasına çarptırıldı.",
+      "link": "https://www.gazetepencere.com/dis-haber/unlu-tv-sunucusu-khalifaya-idam-cezasi-714547h",
+      "published": "2026-09-06T17:30:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:49.702338+00:00"
+    },
+    {
+      "id": "1ba9fb7530d15744",
+      "source": "Yeniçağ",
+      "title": "Konut üretimi tehdit altında: İnşaat sektöründe kriz",
+      "summary": "İnşaat sektöründeki artan maliyetler, nitelikli iş gücü açığı ve denetim eksikliklerine dikkat çeken İMO Ankara Şube Başkanı Ahmet Onur Özergene, barınma krizinin derinleştiğini belirterek tablonun hiç iç açıcı olmadığını vurguladı.",
+      "link": "https://www.yenicaggazetesi.com/konut-uretimi-tehdit-altinda-insaat-sektorunde-kriz-1068990h.htm",
+      "published": "2026-09-06T17:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:48.018472+00:00"
+    },
+    {
+      "id": "bbadb8e691e00d16",
+      "source": "Aydınlık",
+      "title": "Mutluluk",
+      "summary": "Mutluluk",
+      "link": "https://www.aydinlik.com.tr/koseyazisi/mutluluk-589141",
+      "published": "2026-09-06T17:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:49.183655+00:00"
+    },
+    {
+      "id": "2ca63a222d1f3712",
+      "source": "DonanımHaber",
+      "title": "Figure, insansı robotları için GPU ordusu kuruyor",
+      "summary": "Figure, insansı robotlarını geliştirmek için 100 bine kadar Nvidia Vera Rubin GPU kullanacak. Şirket, 3,5 milyar dolarlık anlaşmayla yapay zeka eğitim altyapısını ciddi ölçüde büyütecek.",
+      "link": "https://www.donanimhaber.com/figure-insansi-robotlari-icin-gpu-ordusu-kuruyor--210157",
+      "published": "2026-09-06T17:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:31:03.494654+00:00"
+    },
+    {
+      "id": "e167646a1be13aa1",
+      "source": "Yeniçağ",
+      "title": "Rusya'dan Almanya’ya suçlama: “Yine savaş istiyorlar”",
+      "summary": "Rusya ile Almanya arasındaki gerilim, Leipzig-Halle Havalimanı’ndaki İHA olayı sonrası tırmanırken, Rusya Dışişleri Bakanı Sergey Lavrov, Berlin’i soruşturma tamamlanmadan Rusya’yı suçlamak ve “savaş istemekle” suçladı.",
+      "link": "https://www.yenicaggazetesi.com/rusyadan-almanyaya-suclama-yine-savas-istiyorlar-1069022h.htm",
+      "published": "2026-09-06T17:29:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:48.018512+00:00"
+    },
+    {
+      "id": "0a48b729e2b1cab7",
+      "source": "Millî Gazete",
+      "title": "Boğaziçi'nde yıkım şoku: Ünlü isimlere kötü haber",
+      "summary": "İstanbul Büyükşehir Belediyesi'ne bağlı Boğaziçi İmar Müdürlüğü, aralarında Hülya Avşar, Mehmet Ali Erbil ve merhum Mustafa Koç'un da bulunduğu 4 bin 141 kaçak yapı için yıkım kararı aldı. Ünlü isimlerin milyonluk malikanelerindeki kaçak eklentilere 22 Eylül'de balyoz ineceği kaydedildi.",
+      "link": "https://www.milligazete.com.tr/bogazicinde-yikim-soku-unlu-isimlere-kotu-haber",
+      "published": "2026-09-06T17:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:49.384772+00:00"
+    },
+    {
+      "id": "a2e0144fc05d2384",
+      "source": "Halk TV",
+      "title": "Son Dakika | İmamoğlu'ndan iktidara Üsküdar tepkisi: Bu pervasız düzene cevap verme zamanı gelmiştir",
+      "summary": "Son dakika haberi... Tutuklu Cumhurbaşkanı adayı ve İBB Başkanı Ekrem İmamoğlu, Üsküdar Belediye Başkanvekilliği seçimleri öncesi yaşanan gelişmelere sert tepki gösterdi.",
+      "link": "https://halktv.com.tr/siyaset/son-dakika-imamoglundan-iktidara-uskudar-tepkisi-bu-pervasiz-duzene-cevap-verme-zamani-gelmistir-1053456h",
+      "published": "2026-09-06T17:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:50.164607+00:00"
+    },
+    {
+      "id": "274176af9ee0b83c",
+      "source": "Türkiye Gazetesi",
+      "title": "Antalya'da orman yangını! Ekipler devrede",
+      "summary": "Antalya’nın Serik ilçesinde ormanlık alanda yangın çıktı. Henüz bilinmeyen nedenle çıkan yangına 5 uçak, 15 helikopter, 75 arazöz ve 450 personelle müdahale ediliyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/antalyada-orman-yangini-havadan-ve-karadan-mudahale-ediliyor-1814231",
+      "published": "2026-09-06T17:28:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:44.462903+00:00"
+    },
+    {
+      "id": "f43d09b469d83e96",
+      "source": "Karar",
+      "title": "NASA saat verdi: 1,5 metre boyundaki gök cismi dünyaya ilerliyor",
+      "summary": "NASA, büyüklüğü 0,5 ile 1,5 metre arasında tahmin edilen doğal bir gök cisminin, 6 Eylül’de Türkiye saatiyle 19.14’te Avustralya’nın kuzeybatısı açıklarında Dünya atmosferine girmesinin beklendiğini duyurdu. Kurum, cismin atmosferde güvenli biçimde parçalanacağını ve tehlike oluşturmadığını bildirdi.",
+      "link": "https://www.karar.com/dunya-haberleri/nasa-saat-verdi-15-metre-boyundaki-gok-cismi-dunyaya-ilerliyor-2070322",
+      "published": "2026-09-06T17:28:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:47.690112+00:00"
+    },
+    {
+      "id": "10de15c2d626907c",
+      "source": "Star",
+      "title": "Rusya'dan Almanya'ya sert tepki: Yine savaş istiyorlar",
+      "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya'nın Rusya'ya yönelik aldığı kararları \"gerçek bir savaşın başlangıcı\" olarak nitelendirdi ve Almanların yeniden savaş peşinde olduğunu öne sürdü.",
+      "link": "https://www.star.com.tr/dunya/rusyadan-almanyaya-sert-tepki-yine-savas-istiyorlar-haber-2038524/",
+      "published": "2026-09-06T17:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:46.932170+00:00"
+    },
+    {
+      "id": "6aff619af9f4902c",
+      "source": "Yeni Yaşam",
+      "title": "Husiler, Suudi destekli güçlerin toplantısını balistik füzeyle hedef aldı",
+      "summary": "Yemen&#8217;deki İran destekli Husiler, Suudi Arabistan destekli güçlerin üst düzey yöneticilerinin toplantı yaptığı alanı yerli üretim balistik füze ile hedef aldı Yemen’deki İran destekli Husiler, Suudi Arabistan destekli silahlı güçlere yönelik düzenledikleri balistik füze saldırısına ilişkin görüntüler paylaştı. Husiler tarafından yapılan açıklamada, Suudi destekli seferberlik güçlerinin lider",
+      "link": "https://yeniyasamgazetesi9.com/husiler-suudi-destekli-guclerin-toplantisini-balistik-fuzeyle-hedef-aldi/",
+      "published": "2026-09-06T17:26:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:55.888389+00:00"
+    },
+    {
+      "id": "79c6e691f417b9a9",
+      "source": "Aydınlık",
+      "title": "MXGP’de dünya şampiyonu Afyon’da belli oldu",
+      "summary": "Dünya Motokros Şampiyonası&#039;nın (MXGP) Türkiye etabı, Afyonkarahisar Motor Sporları Merkezi&#039;nde gerçekleştirilen final yarışlarının ardından tamamlandı. Bu yıl 9&#039;uncu kez düzenlenen organizasyonda Jeffrey Herlings, hem Türkiye etabını kazandı hem de 2026 dünya şampiyonluğunu ilan etti.",
+      "link": "https://www.aydinlik.com.tr/haber/mxgpde-dunya-sampiyonu-afyonda-belli-oldu-589150",
+      "published": "2026-09-06T17:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:49.183704+00:00"
+    },
+    {
+      "id": "59be0de70ebe2d57",
+      "source": "Yeni Akit",
+      "title": "Siyonist katilden alçakça tehdit! Eli kanlı Netanyahu'dan İran'a gözdağı ve küstah sözler!",
+      "summary": "İşgalci İsrail'in katil Başbakanı Binyamin Netanyahu, kabine toplantısı öncesinde yaptığı açıklamalarda bölgeyi kana bulayan şımarık tavrını sürdürerek Tahran yönetimine açıkça tehditler savurdu. İran'ın İsrail'e saldırmaktan korktuğunu iddia eden siyonist elebaşı, olası bir misilleme durumunda Tahran'ın ağır bir bedel ödeyeceğini öne sürdü.",
+      "link": "https://www.yeniakit.com.tr/haber/siyonist-katilden-alcakca-tehdit-eli-kanli-netanyahudan-irana-gozdagi-ve-kustah-sozler-2021313.html",
+      "published": "2026-09-06T17:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:47.375089+00:00"
+    },
+    {
+      "id": "2411eaa661c95a69",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail, yıl başından bu yana 800 Filistinliyi Mescid-i Aksa'dan uzaklaştırma kararı aldı",
+      "summary": "İsrail'in, yıl başından bu yana 800 Filistinli hakkında Mescid-i Aksa'dan uzaklaştırma kararı çıkardığı belirtildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-yil-basindan-bu-yana-800-filistinliyi-mescid-i-aksadan-uzaklastirma-karari-aldi/4049009",
+      "published": "2026-09-06T17:24:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:42.565625+00:00"
+    },
     {
       "id": "5b82e2f8f92f3a63",
       "source": "Akşam",
@@ -41,6 +195,17 @@
       "fetched_at": "2026-09-06T17:25:48.597862+00:00"
     },
     {
+      "id": "9318a620175f0f91",
+      "source": "Ekonomim",
+      "title": "Dev spor markası Nike yatırımcısın üzdü: S&P 100 endeksinden çıkarılıyor",
+      "summary": "Spor giyim devi Nike, yaklaşık 18 yıldır yer aldığı Wall Street&#039;in prestijli S&amp;P 100 endeksinden 21 Eylül 2026 itibarıyla çıkarılıyor.",
+      "link": "https://www.ekonomim.com/sirketler/dev-spor-markasi-nike-yatirimcisin-uzdu-sp-100-endeksinden-cikariliyor-haberi-916596",
+      "published": "2026-09-06T17:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:56.676014+00:00"
+    },
+    {
       "id": "3ef4e34355f21cf3",
       "source": "Aydınlık",
       "title": "Meteoroloji uyardı: Aydın'da sıcaklık 39 dereceye ulaşıyor",
@@ -72,6 +237,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T17:25:45.750166+00:00"
+    },
+    {
+      "id": "2a06b2d8d6301809",
+      "source": "Evrensel",
+      "title": "Anyma'dan 'Satanist ayin' iddialarına tepki, konser iptaline itiraz",
+      "summary": "İstanbul Valiliği’nin yasak kararı sonrası paylaşım yapan ünlü müzisyen Anyma, sahne şovunun bağlamından koparıldığını ve karara itiraz edeceklerini duyurdu. Sanatçı, “Umarım İstanbul’da hikâyeyi birlikte tamamlamak için geri dönebiliriz” dedi.",
+      "link": "https://www.evrensel.net/haber/5999412/anyma-dan-satanist-ayin-iddialarina-tepki-konser-iptaline-itiraz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-06T17:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:44.762619+00:00"
     },
     {
       "id": "1c7431c9dd562f4f",
@@ -338,6 +514,17 @@
       "fetched_at": "2026-09-06T17:10:39.184234+00:00"
     },
     {
+      "id": "4af1f21d623ef72c",
+      "source": "Evrensel",
+      "title": "Gazze'de enkazlar cenaze dolu: 100'den fazla Filistinli törenle defnedildi",
+      "summary": "Gazze Şeridi'nde İsrail'in saldırılarında yıkılan binaların enkazından çıkarılan Filistinlilerin naaşları, Zeytun Mahallesi'nde düzenlenen kitlesel cenaze töreniyle defnedildi.",
+      "link": "https://www.evrensel.net/haber/5999413/gazzede-enkazlar-cenaze-dolu-100den-fazla-filistinli-torenle-defnedildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-06T17:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:44.762693+00:00"
+    },
+    {
       "id": "83cda5cc5e745b45",
       "source": "Cumhuriyet",
       "title": "Jeffrey Herlings MXGP Türkiye'de şampiyonluğunu ilan etti!",
@@ -481,6 +668,17 @@
       "fetched_at": "2026-09-06T17:00:56.144058+00:00"
     },
     {
+      "id": "d9f630a8fe55c93f",
+      "source": "Bir Gün",
+      "title": "Barcelona, \"buldozer\" gibi: Deplasmanda Valencia'yı 5'lediler",
+      "summary": "La Liga’nın 4. haftasında Valencia’yı deplasmanda 5-0 mağlup eden Barcelona, sezona dörtte dört yaparak başladı. Katalan ekibinde Lamine Yamal iki golle öne çıktı.",
+      "link": "https://www.birgun.net/haber/barcelona-buldozer-gibi-deplasmanda-valencia-yi-5-lediler-733300",
+      "published": "2026-09-06T17:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:45.009539+00:00"
+    },
+    {
       "id": "269312cbdd89a2c4",
       "source": "Aydınlık",
       "title": "Antalya'nın Konyaaltı ilçesinde yer alıyor! Tam 1700 yıllık",
@@ -580,6 +778,17 @@
       "fetched_at": "2026-09-06T17:00:54.280878+00:00"
     },
     {
+      "id": "8ed50e04d66ff242",
+      "source": "Bir Gün",
+      "title": "Dilek İmamoğlu'ndan Üsküdar Belediye Başkan Yardımcısı Çelik'in tutuklanmasına tepki: \"4 yaşındaki bir çocuğu annesinden kopardınız\"",
+      "summary": "Dilek Kaya İmamoğlu, Üsküdar Belediye Başkan Yardımcısı Amine Cansu Çelik'in tutuklanmasına tepki gösterdi. Çelik’in 4 yaşında bir çocuğu olduğunu vurgulayan İmamoğlu, \"Bu zulmü hangi vicdana sığdırıyorsunuz?\" ifadelerini kullandı.",
+      "link": "https://www.birgun.net/haber/dilek-imamoglu-ndan-uskudar-belediye-baskan-yardimcisi-celik-in-tutuklanmasina-tepki-4-yasindaki-bir-cocugu-annesinden-kopardiniz-733301",
+      "published": "2026-09-06T16:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:45.009586+00:00"
+    },
+    {
       "id": "082ea935cf3c99d5",
       "source": "Evrensel",
       "title": "İvrindi’de maden sahasında işçi cinayeti: 2 işçi yaşamını yitirdi",
@@ -633,6 +842,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T16:55:42.656540+00:00"
+    },
+    {
+      "id": "0aa6a2195c235086",
+      "source": "Bir Gün",
+      "title": "Netanyahu'dan \"İran yönetiminin sonunun yakın olduğu\" tehdidi",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu, İran yönetiminin sonunun yakın olduğunu ileri sürerek İran'ın İsrail'e saldırmaktan kaçındığını iddia etti.",
+      "link": "https://www.birgun.net/haber/netanyahu-dan-iran-yonetiminin-sonunun-yakin-oldugu-tehdidi-733299",
+      "published": "2026-09-06T16:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:45.009614+00:00"
     },
     {
       "id": "17d0409135ed88ac",
@@ -1009,6 +1229,17 @@
       "fetched_at": "2026-09-06T16:40:39.223149+00:00"
     },
     {
+      "id": "b564470c00e579e8",
+      "source": "Cumhuriyet",
+      "title": "CANLI ANLATIM: Türkiye 1-2 İtalya | CEV Avrupa Voleybol Şampiyonası Finali",
+      "summary": "A Milli Kadın Voleybol Takımı, CEV Avrupa Voleybol Şampiyonası finalinde İtalya ile kozlarını paylaşıyor.",
+      "link": "https://www.cumhuriyet.com.tr/spor/canli-anlatim-turkiye-italya-cev-avrupa-voleybol-sampiyonasi-finali-2535421",
+      "published": "2026-09-06T16:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:42.867426+00:00"
+    },
+    {
       "id": "a50eaff627a981f6",
       "source": "Cumhuriyet",
       "title": "CANLI ANLATIM: Türkiye 1-1 İtalya | CEV Avrupa Voleybol Şampiyonası Finali",
@@ -1139,6 +1370,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T16:40:44.428657+00:00"
+    },
+    {
+      "id": "5a3ccc6e7b45ed74",
+      "source": "Bir Gün",
+      "title": "Şanlıurfa'da tarım işçilerini taşıyan minibüs kanala devrildi: Aralarında çocukların da olduğu 19 yaralı",
+      "summary": "Şanlıurfa'nın Akçakale ilçesinde tarım işçilerini taşıyan minibüsün sulama kanalına devrilmesi sonucu aralarında kadın ve çocukların da bulunduğu 19 kişi yaralandı.",
+      "link": "https://www.birgun.net/haber/sanliurfa-da-tarim-iscilerini-tasiyan-minibus-kanala-devrildi-aralarinda-cocuklarin-da-oldugu-19-yarali-733298",
+      "published": "2026-09-06T16:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:45.009645+00:00"
     },
     {
       "id": "7893ae2924d8429c",
@@ -1724,6 +1966,17 @@
       "fetched_at": "2026-09-06T16:11:02.846911+00:00"
     },
     {
+      "id": "2af58c6f909c51e4",
+      "source": "Bir Gün",
+      "title": "'Satanist ayin' iddialarıyla konseri yasaklanan Anyma'dan ilk açıklama: Karara itiraz edilecek",
+      "summary": "İstanbul Valiliği’nin yasak kararı sonrası ilk kez konuşan dünyaca ünlü müzisyen Anyma, sahne şovunun bağlamından koparılarak yapay zekayla manipüle edildiğini söyledi. Karara itiraz edeceklerini belirten sanatçı, \"Umarım İstanbul’da hikâyeyi birlikte tamamlamak için geri dönebiliriz\" dedi.",
+      "link": "https://www.birgun.net/haber/satanist-ayin-iddialariyla-konseri-yasaklanan-anyma-dan-ilk-aciklama-karara-itiraz-edilecek-733297",
+      "published": "2026-09-06T16:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:45.009681+00:00"
+    },
+    {
       "id": "9df9e060c85b2246",
       "source": "Star",
       "title": "4 gollü maçta kazanan yok! Kasımpaşa ile Amed Sportif yenişemedi",
@@ -1832,6 +2085,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T16:10:41.585757+00:00"
+    },
+    {
+      "id": "897071dc8bd6ae78",
+      "source": "Bir Gün",
+      "title": "YENİ Parti Beyoğlu İlçe Başkanlığı açıldı: \"İlk seçimde iktidar olacağız\"",
+      "summary": "YENİ Parti Beyoğlu İlçe Başkanlığının açılışı, parti yöneticileri ve milletvekillerinin katılımıyla gerçekleştirildi. Açılışta konuşan YENİ Parti İstanbul Milletvekili Suat Özçağdaş, partinin muhalefette kalmak için değil iktidar olmak amacıyla kurulduğunu belirterek, \"YENİ Parti ilk seçimlerde iktidar olacak bir partidir. İstanbul'un 39 ilçesinde de Türkiye'nin 81 ilinde de iktidarda neler yapaca",
+      "link": "https://www.birgun.net/haber/yeni-parti-beyoglu-ilce-baskanligi-acildi-ilk-secimde-iktidar-olacagiz-733296",
+      "published": "2026-09-06T16:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T17:30:45.009754+00:00"
     },
     {
       "id": "9e83d89879b210cd",
@@ -5242,270 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T14:25:33.420713+00:00"
-    },
-    {
-      "id": "323c6afdfb317e50",
-      "source": "Türkiye Gazetesi",
-      "title": "ALDIKLARI CEVAP OLAY OLDU",
-      "summary": "İsrail'de Türklere yönelik hazımsızlık yeni bir boyuta ulaştı. Kudüs'teki tarihi Yafa Kapısı'nda Türk turistleri kışkırtmaya çalışan İsrailli bir şahıs, beklemediği bir karşılık alarak adeta neye uğradığını şaşırdı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/israilli-irkcilara-turk-vatandasindan-tarihi-kapak-israil-basini-ayaga-kalkti-1814208",
-      "published": "2026-09-06T14:21:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:45:36.145771+00:00"
-    },
-    {
-      "id": "76ad407d1d7b150f",
-      "source": "Türkiye Gazetesi",
-      "title": "İsrailli ırkçılara Türk vatandaşından tarihi kapak: Tel Aviv basını ayağa kalktı",
-      "summary": "İsrail'de Türklere yönelik hazımsızlık yeni bir boyuta ulaştı. Kudüs'teki tarihi Yafa Kapısı'nda Türk turistleri kışkırtmaya çalışan İsrailli bir şahıs, beklemediği bir karşılık alarak adeta neye uğradığını şaşırdı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/israilli-irkcilara-turk-vatandasindan-tarihi-kapak-israil-basini-ayaga-kalkti-1814208",
-      "published": "2026-09-06T14:21:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:30:51.744812+00:00"
-    },
-    {
-      "id": "a1de9b49070a24b1",
-      "source": "Türkiye Gazetesi",
-      "title": "İsrailli ırkçılara Türk vatandaşından tarihi kapak!",
-      "summary": "İsrail'de Türklere yönelik hazımsızlık yeni bir boyuta ulaştı. Kudüs'teki tarihi Yafa Kapısı'nda Türk turistleri kışkırtmaya çalışan İsrailli bir şahıs, beklemediği bir karşılık alarak adeta neye uğradığını şaşırdı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/israilli-irkcilara-turk-vatandasindan-tarihi-kapak-israil-basini-ayaga-kalkti-1814208",
-      "published": "2026-09-06T14:21:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:25:30.168985+00:00"
-    },
-    {
-      "id": "dafbf0826941fc45",
-      "source": "Akşam",
-      "title": "Erzurum-Artvin Karayolunda sel: Dereler taştı, bir araç mahsur kaldı",
-      "summary": "Erzurum-Artvin karayolu Uzundere mevkiinde etkili olan şiddetli sağanak ve dolu yağışı, bölgede hayatı felç etti. Yağış sonrası taşan dereler nedeniyle karayolu tamamen ulaşıma kapanırken, sel sularının ortasında kalan bir araç mahsur kaldı.",
-      "link": "https://www.aksam.com.tr/guncel/erzurum-artvin-karayolunda-sel-dereler-tasti-bir-arac-mahsur-kaldi/haber-1696341",
-      "published": "2026-09-06T14:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:25:31.597675+00:00"
-    },
-    {
-      "id": "0aedc1e93c5f5f53",
-      "source": "Akşam",
-      "title": "Andrea Mazzon: Son maça hazır olacağız",
-      "summary": "A Milli Kadın Basketbol Takımı'nda başantrenör Andrea Mazzon, Avustralya'ya 87-71 yenildikleri maçın ardından açıklamalarda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/andrea-mazzon-son-maca-hazir-olacagiz/haber-1696340",
-      "published": "2026-09-06T14:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:25:31.597707+00:00"
-    },
-    {
-      "id": "4b902c040547a456",
-      "source": "Yeniçağ",
-      "title": "Türkiye’ye 630 milyon dolarlık dev kaynak: İmzalar atıldı",
-      "summary": "Türkiye’nin enerji ve sanayide yeşil dönüşüm yatırımları için yaklaşık 630 milyon dolarlık yeni finansman sağlandı. Dünya Bankası ile imzalanan iki anlaşmayla sağlanacak kaynağın hangi alanlarda kullanılacağı da belli oldu.",
-      "link": "https://www.yenicaggazetesi.com/turkiyeye-630-milyon-dolarlik-dev-kaynak-imzalar-atildi-1068951h.htm",
-      "published": "2026-09-06T14:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:25:33.420747+00:00"
-    },
-    {
-      "id": "db60fabf657b715e",
-      "source": "Finans Gündem",
-      "title": "Trump'ın özel temsilcileri Kiev'de",
-      "summary": "Dün Moskova'da temaslarda bulunan Witkoff ve Kushner, uçakla Polonya'ya, ardından trenle Ukrayna'ya geçti.",
-      "link": "https://www.finansingundemi.com/haber/trumpin-ozel-temsilcileri-kievde/1907399",
-      "published": "2026-09-06T14:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:25:42.184192+00:00"
-    },
-    {
-      "id": "4c53928b23d3efad",
-      "source": "Star",
-      "title": "Milli yüzücüden Arjantin'de bronz madalya",
-      "summary": "Milli yüzücü İbrahim Burhan, Gençler Dünya Açık Su Yüzme Şampiyonası'nda bronz madalya kazandı.",
-      "link": "https://www.star.com.tr/guncel/milli-yuzucuden-arjantinde-bronz-madalya-haber-2038491/",
-      "published": "2026-09-06T14:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:39.778705+00:00"
-    },
-    {
-      "id": "104b524148222321",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "TRT 1'in yeni dizisi \"Evlilik Güzeldir\" yarın izleyiciyle buluşacak",
-      "summary": "Yapımcılığını Zafer Yiğit ile Ahmet Şevki Peker'in, kreatif yapımcılığını ise Hasan Kaçan'ın üstlendiği \"Evlilik Güzeldir\" dizisi, yarın akşam ilk bölümüyle TRT 1 ekranlarına gelecek.",
-      "link": "https://www.aa.com.tr/tr/kultur/trt-1in-yeni-dizisi-evlilik-guzeldir-yarin-izleyiciyle-bulusacak/4048915",
-      "published": "2026-09-06T14:19:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:25:27.917980+00:00"
-    },
-    {
-      "id": "a906e4d2366e5f5a",
-      "source": "Akşam",
-      "title": "Katil İsrail'den Gazze'de yeni etnik temizlik hazırlığı",
-      "summary": "İşgalci İsrail'in ırkçı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, Gazze Şeridi'ndeki Filistinlileri \"gönüllü göç\" adı altında etnik temizliğe tabi tutmak için, gelecek dönemde bir \"hükümet göç ofisi\" kuracağını ilan etti.",
-      "link": "https://www.aksam.com.tr/dunya/katil-israilden-gazzede-yeni-etnik-temizlik-hazirligi/haber-1696339",
-      "published": "2026-09-06T14:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:39.196564+00:00"
-    },
-    {
-      "id": "f175e1017e6ddbe3",
-      "source": "Star",
-      "title": "Gece sık sık uyanıyorsanız sebebi bu olabilir! 3 işarete dikkat",
-      "summary": "Gece boyunca birkaç kez uyanmak zaman zaman normal kabul edilse de bu durum sıklaşıyor ve uyku kalitesini bozuyorsa altında farklı nedenler bulunabilir. Stres, düzensiz uyku alışkanlıkları ve bazı fiziksel rahatsızlıklar gece uyanmalarını artırabiliyor. Özellikle sabah yorgun kalkma, gece nefes kesilmesi hissi ve tekrar uykuya dalmakta zorlanma gibi belirtiler dikkat çekiyor. Peki, gece sık sık uy",
-      "link": "https://www.star.com.tr/ekstra/gece-sik-sik-uyaniyorsaniz-sebebi-bu-olabilir-3-isarete-dikkat-haber-2038490/",
-      "published": "2026-09-06T14:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:39.778757+00:00"
-    },
-    {
-      "id": "a1e540374e001c3a",
-      "source": "Gazete Pencere",
-      "title": "Türkiye'nin en temiz suyu belli oldu: Bölgenin kaderini çehresini değiştirecek",
-      "summary": "Van Bahçesaray'da keşfedilen 'sıfır bakterili' su kaynağı, bölgeye 200 milyon liralık bir yatırım kazandırdı. Kurulacak tesiste yılda 300 milyon yavru balık üretimi hedefleniyor.",
-      "link": "https://www.gazetepencere.com/cevre/turkiyenin-en-temiz-suyu-belli-oldu-bolgenin-kaderini-cehresini-degistirecek-714529h",
-      "published": "2026-09-06T14:18:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:44.043480+00:00"
-    },
-    {
-      "id": "b6f61a378e179c2c",
-      "source": "Gazete Pencere",
-      "title": "Türkiye'nin en temiz suyu belli oldu: Bölgenin çehresini değiştirecek",
-      "summary": "Van Bahçesaray'da keşfedilen 'sıfır bakterili' su kaynağı, bölgeye 200 milyon liralık bir yatırım kazandırdı. Kurulacak tesiste yılda 300 milyon yavru balık üretimi hedefleniyor.",
-      "link": "https://www.gazetepencere.com/cevre/turkiyenin-en-temiz-suyu-belli-oldu-bolgenin-kaderini-cehresini-degistirecek-714529h",
-      "published": "2026-09-06T14:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:50:44.734060+00:00"
-    },
-    {
-      "id": "9299f02ab1386fe5",
-      "source": "Türkiye Gazetesi",
-      "title": "AKILALMAZ GÖRÜNTÜ",
-      "summary": "Aydın’ın Nazilli ilçesinde serbest bırakılan damızlık bir boğa, evin çatısına uçtu. Çatının bir kısmı göçerken, damda asılı kalan hayvan itfaiye ekiplerinin yoğun uğraşları sonucu kurtarıldı. Savaş alanına dönen evde ise büyük çapta maddi hasar meydana geldi.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/akillara-durgunluk-veren-olay-inegin-pesinden-kosan-boga-evin-catisindan-girdi-1814207",
-      "published": "2026-09-06T14:17:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:30:51.744845+00:00"
-    },
-    {
-      "id": "9653176be04cbb4b",
-      "source": "Türkiye Gazetesi",
-      "title": "İneğin peşinden koşan boğa evin çatısından girdi",
-      "summary": "Aydın’ın Nazilli ilçesinde serbest bırakılan damızlık bir boğa, evin çatısına uçtu. Çatının bir kısmı göçerken, damda asılı kalan hayvan itfaiye ekiplerinin yoğun uğraşları sonucu kurtarıldı. Savaş alanına dönen evde ise büyük çapta maddi hasar meydana geldi.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/akillara-durgunluk-veren-olay-inegin-pesinden-kosan-boga-evin-catisindan-girdi-1814207",
-      "published": "2026-09-06T14:17:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:37.350296+00:00"
-    },
-    {
-      "id": "9653176be04cbb4b",
-      "source": "Türkiye Gazetesi",
-      "title": "İneğin peşinden koşan boğa evin çatısından girdi",
-      "summary": "Aydın’ın Nazilli ilçesinde serbest bırakılan damızlık bir boğa, evin çatısına uçtu. Çatının bir kısmı göçerken, damda asılı kalan hayvan itfaiye ekiplerinin yoğun uğraşları sonucu kurtarıldı. Savaş alanına dönen evde ise büyük çapta maddi hasar meydana geldi.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/akillara-durgunluk-veren-olay-inegin-pesinden-kosan-boga-evin-catisindan-girdi-1814207",
-      "published": "2026-09-06T14:17:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:37.350336+00:00"
-    },
-    {
-      "id": "6f9b60847094d60d",
-      "source": "Türkiye Gazetesi",
-      "title": "Yeni OVP sonrası peş peşe açıklamalar: Bakanlardan e...",
-      "summary": "Türkiye ekonomisinin üç yıllık dönemine ilişkin yol haritasını ortaya koyan Orta Vadeli Program’ın açıklanmasının ardından ekonomi yönetimi ve iş dünyasından peş peşe değerlendirmeler geldi. Bakanlar enflasyonla mücadele, üretim, istihdam ve sürdürülebilir büyümeye dikkat çekerken, iş dünyası finansmana erişimin kolaylaştırılması, rekabet gücünün artırılması ve dezenflasyonla oluşacak alanın kadem",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/enflasyon-faiz-finansman-yeni-ovpye-bakanlar-ve-is-dunyasindan-ilk-mesajlar-1814206",
-      "published": "2026-09-06T14:17:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:25:30.169078+00:00"
-    },
-    {
-      "id": "6121dcefd0d1372d",
-      "source": "Türkiye Gazetesi",
-      "title": "Yeni OVP sonrası peş peşe açıklamalar",
-      "summary": "Türkiye ekonomisinin üç yıllık dönemine ilişkin yol haritasını ortaya koyan Orta Vadeli Program’ın açıklanmasının ardından ekonomi yönetimi ve iş dünyasından peş peşe değerlendirmeler geldi. Bakanlar enflasyonla mücadele, üretim, istihdam ve sürdürülebilir büyümeye dikkat çekerken, iş dünyası finansmana erişimin kolaylaştırılması, rekabet gücünün artırılması ve dezenflasyonla oluşacak alanın kadem",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/enflasyon-faiz-finansman-yeni-ovpye-bakanlar-ve-is-dunyasindan-ilk-mesajlar-1814206",
-      "published": "2026-09-06T14:17:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:25:30.169118+00:00"
-    },
-    {
-      "id": "4f9b096fce045503",
-      "source": "Türkiye Gazetesi",
-      "title": "Yeni OVP sonrası peş peşe açıklamalar: Bakanlardan enflasyon, iş dünyasından faiz mesajı",
-      "summary": "Türkiye ekonomisinin üç yıllık dönemine ilişkin yol haritasını ortaya koyan Orta Vadeli Program’ın açıklanmasının ardından ekonomi yönetimi ve iş dünyasından peş peşe değerlendirmeler geldi. Bakanlar enflasyonla mücadele, üretim, istihdam ve sürdürülebilir büyümeye dikkat çekerken, iş dünyası finansmana erişimin kolaylaştırılması, rekabet gücünün artırılması ve dezenflasyonla oluşacak alanın kadem",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/enflasyon-faiz-finansman-yeni-ovpye-bakanlar-ve-is-dunyasindan-ilk-mesajlar-1814206",
-      "published": "2026-09-06T14:17:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:37.350380+00:00"
-    },
-    {
-      "id": "ceebf26d2534aa70",
-      "source": "Bir Gün",
-      "title": "Ankara'da 'uyuşturucu ve fuhuş' soruşturması: Gözaltı sayısı 17'ye yükseldi",
-      "summary": "Ankara'da, uyuşturucu ve fuhuş soruşturması kapsamında gerçekleştirilen operasyonda gözaltına alınan şüpheli sayısı 17'ye yükseldi. Soruşturmadaki üç dalga operasyonda aranan toplam firari şüpheli sayısı 8 oldu.",
-      "link": "https://www.birgun.net/haber/ankara-da-uyusturucu-ve-fuhus-sorusturmasi-gozalti-sayisi-17-ye-yukseldi-733287",
-      "published": "2026-09-06T14:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T15:15:39.415117+00:00"
-    },
-    {
-      "id": "7b7230163274af15",
-      "source": "Star",
-      "title": "Olcay Çakır Turgut: Daha hiçbir şey bitmedi",
-      "summary": "2026 Kadınlar Basketbol Dünya Kupası C Grubu ikinci maçında Avustralya'ya yenilen A Milli Kadın Basketbol Takımı'nda kaptan Olcay Çakır Turgut maç sonu değerlendirmelerde bulundu.",
-      "link": "https://www.star.com.tr/spor/olcay-cakir-turgut-daha-hicbir-sey-bitmedi-haber-2038489/",
-      "published": "2026-09-06T14:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:39.778787+00:00"
-    },
-    {
-      "id": "a5952b1e9706b9b1",
-      "source": "Yeniçağ",
-      "title": "Acun Ilıcalı'dan Premier Lig'deki tarihi başlangıca yorum",
-      "summary": "Hull City&#039;nin sahibi Acun Ilıcalı, Premier Lig&#039;de ilk 3 haftayı yenilgisiz ve gol yemeden geçen takımının performansını değerlendirdi. Ilıcalı, oyuncularıyla gurur duyduğunu belirtirken sezon hedefini de açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/acun-ilicalidan-premier-ligdeki-tarihi-baslangica-yorum-1068950h.htm",
-      "published": "2026-09-06T14:16:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:42.713858+00:00"
-    },
-    {
-      "id": "1e261eb0a0f5bb68",
-      "source": "Yeniçağ",
-      "title": "KPSS kapısında dramatik anlar: 10:00 kuralı yine acımasız davrandı",
-      "summary": "KPSS maratonunda saatler 10.00&#039;u gösterdiğinde kapılar kapandı. Yalın ayak koşandan hastaneden çıkıp desteğe gelene kadar sınav merkezlerinde yaşanan dramatik anlar kameralara yansıdı. İşte o nefes kesen dakikalar",
-      "link": "https://www.yenicaggazetesi.com/kpss-kapisinda-dramatik-anlar-1000-kurali-yine-acimasiz-davrandi-1068949h.htm",
-      "published": "2026-09-06T14:16:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:42.713899+00:00"
-    },
-    {
-      "id": "22826578080162a6",
-      "source": "CNBC-e",
-      "title": "Anak Krakatau patladı! 150 bin yolcu mahsur kaldı, 712 uçuş iptal edildi",
-      "summary": "Endonezya'daki Anak Krakatau yanardağının patlaması hayatı felç etti. Sekiz havalimanı kapatılırken 150 binden fazla yolcu mahsur kaldı ve 712 uçuş iptal edildi. Yetkililer halkı kül bulutlarına karşı uyardı.",
-      "link": "https://www.cnbce.com/haberler/anak-krakatau-patladi-150-bin-yolcu-mahsur-kaldi-712-ucus-iptal-edildi-h36616",
-      "published": "2026-09-06T14:16:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:20:49.693683+00:00"
     }
   ]
 }

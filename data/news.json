@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-09-06T18:01:19.103315+00:00",
+  "last_updated": "2026-09-06T18:05:51.020772+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 612,
+  "new_items_this_run": 613,
   "items": [
+    {
+      "id": "274b844592cfa31c",
+      "source": "Milliyet",
+      "title": "Antalya'da yangın alarmı! Havadan ve karadan müdahale sürüyor",
+      "summary": "Antalya'nın Serik ilçesi Akbaş Mahallesi'ndeki orman dışı alanda, saat 15.30 sıralarında yangın çıktı. İhbar üzerine bölgeye, Serik Orman İşletme Müdürlüğü ekipleri sevk edildi. Alevlere 5 uçak, 13 helikopter, 75 arazöz, 3 iş makinesi ve 450 personel ile karadan ve havadan müdahale ediliyor. Antalya Büyükşehir Belediyesi ve Serik Belediyesi'ne ait su tankerleri de söndürme çalışmalarına destek ver",
+      "link": "https://www.milliyet.com.tr/gundem/antalyada-yangin-alarmi-havadan-ve-karadan-mudahale-suruyor-7655615",
+      "published": "2026-09-06T18:04:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:32.921789+00:00"
+    },
+    {
+      "id": "b3ac19ed2f934d27",
+      "source": "Akşam",
+      "title": "Paul Onuachu şoku! Trabzonspor'a kötü haber",
+      "summary": "Süper Lig'de Trabzonspor, Gençlerbirliği ile karşı karşıya gelirken maça son derece etkili başlayan Paul Onuachu'dan kötü haber geldi.",
+      "link": "https://www.aksam.com.tr/spor/paul-onuachu-soku-trabzonspora-kotu-/haber-1696372",
+      "published": "2026-09-06T18:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:33.751481+00:00"
+    },
+    {
+      "id": "f7d83a1eceb303f7",
+      "source": "Star",
+      "title": "Bitkin hali dikkat çekti... Oyuncu Serhat Kılıç'ın son görüntüsü ortaya çıktı",
+      "summary": "Kağıthane'deki evinde ölü bulunan oyuncu Serhat Kılıç'ın yaşadığı binanın güvenli kamerasına yansıyan son görüntüleri ortaya çıktı. Kılıç'ın bitkin olduğu ve yürümekte zorluk çektiği görüldü.",
+      "link": "https://www.star.com.tr/guncel/bitkin-hali-dikkat-cekti-oyuncu-serhat-kilicin-son-goruntusu-ortaya-cikti-haber-2038531/",
+      "published": "2026-09-06T18:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:34.649555+00:00"
+    },
+    {
+      "id": "ff55ddf5b17a6e85",
+      "source": "Yeni Şafak",
+      "title": "Oyuncu Serhat Kılıç’ın son görüntüsü ortaya çıktı",
+      "summary": "Ünlü oyuncu Serhat Kılıç kendisinden uzun süre haber alamayan kız kardeşi tarafından Kağıthane'deki evinde ölü bulunmuştu. Kılıç’ın bugün yaşadığı apartmanda son görüntüleri ortaya çıktı. Yaşadığı binanın güvenlik kamerasına yansıyan görüntülerde, Kılıç'ın, duvara yaslanarak asansör beklediği, gelmemesi üzerine ise merdivenlere yöneldiği görüldü.",
+      "link": "https://www.yenisafak.com/video/gundem/oyuncu-serhat-kilicin-son-goruntusu-ortaya-cikti-4853641",
+      "published": "2026-09-06T18:02:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:34.317128+00:00"
+    },
+    {
+      "id": "102584527ff24c16",
+      "source": "Karar",
+      "title": "Serhat Kılıç’ın vefatından önceki görüntüleri ortaya çıktı: Koridorda dinlenmesi dikkat çekti",
+      "summary": "51 yaşında hayatını kaybeden oyuncu Serhat Kılıç’ın, yaşadığı binada güvenlik kamerasına yansıyan görüntüleri ortaya çıktı. Kayıtta, Kılıç’ın koridorda ilerlemeden önce elini kapının kenarına koyarak bir süre dinlendiği görülüyor.",
+      "link": "https://www.karar.com/guncel-haberler/serhat-kilicin-vefatindan-onceki-goruntuleri-ortaya-cikti-koridorda-2070326",
+      "published": "2026-09-06T18:01:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:35.138167+00:00"
+    },
+    {
+      "id": "bfc1d99be7612be7",
+      "source": "Cumhuriyet",
+      "title": "Trabzonspor'a kötü haber: Paul Onuachu oyuna devam edemedi!",
+      "summary": "Süper Lig'in 4. haftasında kendi sahasında Gençlerbirliği'ni konuk eden Trabzonspor'da Nijeryalı golcü Paul Onuachu maçı tamamlayamadı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/trabzonspor-a-kotu-haber-paul-onuachu-oyuna-devam-edemedi-2535432",
+      "published": "2026-09-06T18:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:29.339596+00:00"
+    },
     {
       "id": "bff6fb64ea8d310b",
       "source": "ShiftDelete.Net",
@@ -151,6 +217,17 @@
       "fetched_at": "2026-09-06T18:01:08.344193+00:00"
     },
     {
+      "id": "9bb487e8cfbbbc4b",
+      "source": "Yeni Şafak",
+      "title": "Bir kilosu 10 bin TL: Binbir zorlukla yapıp satıyorlar",
+      "summary": "Şırnak’ta organik yapılan tereyağın kilosu 5 bin ile 10 bin lira arasında satılıyor.",
+      "link": "https://www.yenisafak.com/galeri/ekonomi/sirnakin-yaylalarinda-organik-tereyag-kilosu-ne-kadar-kac-tl-4853640",
+      "published": "2026-09-06T17:51:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:34.317159+00:00"
+    },
+    {
       "id": "d4b9a4ddc998eb83",
       "source": "Yeni Şafak",
       "title": "Bir kilosu 10 bin TL: Bin bir zorlukla yapıp satıyorlar",
@@ -182,6 +259,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T17:55:35.812101+00:00"
+    },
+    {
+      "id": "8301e4cbea174204",
+      "source": "Habertürk",
+      "title": "Ankara'da uyuşturucu ve fuhuş soruşturması! 3'üncü dalga operasyon; gözaltı sayısı 17'ye çıktı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu ve fuhuş soruşturması kapsamında, 3'üncü dalga operasyonda gözaltına alınan şüpheli sayısı 17’ye yükseldi.",
+      "link": "https://www.haberturk.com/gundem/ankara-da-uyusturucu-ve-fuhus-sorusturmasi-3-uncu-dalga-operasyon-gozalti-sayisi-17-ye-cikti-3910677",
+      "published": "2026-09-06T17:50:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:26.826005+00:00"
     },
     {
       "id": "c355ca71055e10a3",
@@ -270,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T17:55:38.446991+00:00"
+    },
+    {
+      "id": "0c23d229b74db35a",
+      "source": "DW Türkçe",
+      "title": "Saksonya-Anhalt eyaletinde zafer AfD'nin, Merz'e büyük darbe",
+      "summary": "Almanya'nın Saksonya-Anhalt eyaletinde AfD'nin oyları yüzde 44'ün üzerinde. AfD henüz mutlak çoğunluğu sağlamamış görünüyor ama bu zafer Almanya Başbakanı Merz için büyük bir hezimet oldu.",
+      "link": "https://www.dw.com/tr/saksonya-anhalt-eyaletinde-zafer-afd-nin-merz-e-büyük-darbe/live-79070588?maca=tur-rss-tur-all-1495-rdf",
+      "published": "2026-09-06T17:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:50.981819+00:00"
     },
     {
       "id": "4eb19573b2f8fbeb",
@@ -1854,6 +1953,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T16:40:39.223149+00:00"
+    },
+    {
+      "id": "0f0e535d3a3ceb5d",
+      "source": "Cumhuriyet",
+      "title": "CANLI ANLATIM: Türkiye 2-2 İtalya | CEV Avrupa Voleybol Şampiyonası Finali",
+      "summary": "A Milli Kadın Voleybol Takımı, CEV Avrupa Voleybol Şampiyonası finalinde İtalya ile kozlarını paylaşıyor.",
+      "link": "https://www.cumhuriyet.com.tr/spor/canli-anlatim-turkiye-italya-cev-avrupa-voleybol-sampiyonasi-finali-2535421",
+      "published": "2026-09-06T16:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T18:05:29.339924+00:00"
     },
     {
       "id": "b564470c00e579e8",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T15:10:57.505889+00:00"
-    },
-    {
-      "id": "203c87c352df24eb",
-      "source": "Euronews Türkçe",
-      "title": "Akdeniz spa sıcaklığında: 13 Ağustos’ta ortalama 28,54°C",
-      "summary": "Aemet'e göre Akdeniz 13 Ağustos'ta 28,54°C'lik günlük ortalamaya ulaştı; karşılaştırılabilir kayıtların tutulduğu 1940'tan beri ölçülen en yüksek değer. Bu rekor, denizde ve İspanya ana karasında serinin en sıcak temmuzunu yaşatan yazı taçlandırıyor.",
-      "link": "http://tr.euronews.com/2026/09/06/akdeniz-spa-sicakliginda-13-agustosta-ortalama-2854c",
-      "published": "2026-09-06T14:42:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:46:10.518816+00:00"
-    },
-    {
-      "id": "6e545159478207e2",
-      "source": "Aydınlık",
-      "title": "Milli judoculardan Avrupa Şampiyonası'nda 2 gümüş madalya",
-      "summary": "Gençler Avrupa Judo Şampiyonası&#039;nda mücadele eden milli judocular Sinem Oruç ve Tuana Gülenay, kategorilerinde gümüş madalya kazandı.",
-      "link": "https://www.aydinlik.com.tr/haber/milli-judoculardan-avrupa-sampiyonasinda-2-gumus-madalya-589118",
-      "published": "2026-09-06T14:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:45:41.397594+00:00"
-    },
-    {
-      "id": "2d90f104aec0f520",
-      "source": "Halk TV",
-      "title": "Traktörle ortalığı bir birine kattı! Ehliyetsiz sürücüye 87 bin lira ceza",
-      "summary": "Burdur&#039;da ehliyetsiz kullandığı traktörle 5 araca ve 2 ATM&#039;ye çarparak hasara yol açan 17 yaşındaki sürücüye yaklaşık 87 bin lira idari para cezası uygulandı. Kazaya karışan traktör ise trafikten menedildi.",
-      "link": "https://halktv.com.tr/turkiye/traktorle-ortaligi-bir-birine-katti-ehliyetsiz-surucuye-87-bin-lira-ceza-1053443h",
-      "published": "2026-09-06T14:41:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:45:42.693658+00:00"
-    },
-    {
-      "id": "dd47ff8d33c19c0a",
-      "source": "Yeniçağ",
-      "title": "Manavgat’ta anız yangını ağıllara sıçradı: 4 bin saman balyası küle döndü",
-      "summary": "Antalya’nın Manavgat ilçesinde rüzgarın etkisiyle yayılan anız yangını hayvan ağıllarına sıçradı. Alevlerde 5 ağıl ve depo olarak kullanılan baraka, yaklaşık 4 bin saman balyası, 4 ton fenni gübre ve tarım makineleri yanarak kullanılamaz hale geldi.",
-      "link": "https://www.yenicaggazetesi.com/manavgatta-aniz-yangini-agillara-sicradi-4-bin-saman-balyasi-kule-dondu-1068961h.htm",
-      "published": "2026-09-06T14:41:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:45:40.519245+00:00"
-    },
-    {
-      "id": "f25825a48edce81f",
-      "source": "Diken",
-      "title": "Nil Kocamangil, İstanbul Oda Müziği Festivali'ni anlattı: Uzun yıllar ülkemde böyle bir festival kurmanın hayalini taşıdım",
-      "summary": "Nil Kocamangil, İstanbul Oda Müziği Festivali'ni anlattı: Uzun yıllar ülkemde böyle bir festival kurmanın hayalini taşıdım 06.09.2026 Diken İstanbul Uluslararası Oda Müziği Festivali kurucusu ve direktörü viyolonsel sanatçısı Nil Kocamangil festivali Diken'e anlattı. The post Nil Kocamangil, İstanbul Oda Müziği Festivali'ni anlattı: Uzun yıllar ülkemde böyle bir festival kurmanın hayalini taşıdım ",
-      "link": "https://www.diken.com.tr/nil-kocamangil-istanbul-oda-muzigi-festivalini-anlatti-uzun-yillar-ulkemde-boyle-bir-festival-kurmanin-hayalini-tasidim/?utm_source=rss&utm_medium=rss&utm_campaign=nil-kocamangil-istanbul-oda-muzigi-festivalini-anlatti-uzun-yillar-ulkemde-boyle-bir-festival-kurmanin-hayalini-tasidim",
-      "published": "2026-09-06T14:41:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:45:42.768343+00:00"
-    },
-    {
-      "id": "c8d6c700138e7fce",
-      "source": "Akşam",
-      "title": "Bingöl'de fırtına alarmı: Binaların çatıları uçtu",
-      "summary": "Bingöl'de şiddetli rüzgar, hayatı olumsuz etkiledi.",
-      "link": "https://www.aksam.com.tr/guncel/bingolde-firtina-alarmi-binalarin-catilari-uctu/haber-1696343",
-      "published": "2026-09-06T14:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:45:38.100093+00:00"
-    },
-    {
-      "id": "11d199782ff56d91",
-      "source": "Star",
-      "title": "Burnley, Jamie Vardy transferini duyurdu",
-      "summary": "Championship ekibi Burnley 39 yaşındaki deneyimli futbolcu Jamie Vardy'yi kadrosuna kattığını duyurdu.",
-      "link": "https://www.star.com.tr/spor/burnley-jamie-vardy-transferini-duyurdu-haber-2038496/",
-      "published": "2026-09-06T14:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:45:39.144734+00:00"
-    },
-    {
-      "id": "92c412ab331685df",
-      "source": "Yeni Akit",
-      "title": "Siyonistler İbrahim Camii'ni ablukaya aldı İşgalci 75 gündür ezan okutmuyor",
-      "summary": "Terör devleti İsrail işgal güçleri, işgal altındaki Batı Yaka 'nın El Halil kentinde bulunan İbrahim Camii'ne yönelik baskılarını sıkılaştırmayı sürdürüyor. Bu kapsamda İbrahim Camii'nde ezan okunması 75 gündür engelleniyor.",
-      "link": "https://www.yeniakit.com.tr/haber/siyonistler-ibrahim-camiini-ablukaya-aldi-isgalci-75-gundur-ezan-okutmuyor-2021287.html",
-      "published": "2026-09-06T14:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:45:39.344148+00:00"
-    },
-    {
-      "id": "6977ee638a273071",
-      "source": "Karar",
-      "title": "Alzheimer için yeni dönem: Hastalık başlamadan ilaç denenecek",
-      "summary": "Alzheimer hastalığına ilişkin araştırmalarda tedavinin zamanlamasını değiştirebilecek yeni bir çalışma başlıyor. Birleşik Krallık'ta yürütülecek deneyde, henüz herhangi bir belirti göstermeyen ancak Alzheimer geliştirme riski yüksek kişilerde deneysel bir ilacın hastalığın ortaya çıkışını geciktirip geciktiremeyeceği araştırılacak.",
-      "link": "https://www.karar.com/saglik-haberleri/alzheimer-icin-yeni-donem-hastalik-baslamadan-ilac-denenecek-2070309",
-      "published": "2026-09-06T14:40:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T14:40:49.747416+00:00"
-    },
-    {
-      "id": "8f032d4db92c4741",
-      "source": "Aydınlık",
-      "title": "Sağlık Bakanı Memişoğlu OVP hedeflerini değerlendirdi",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, 2027-2029 OVP hedeflerini açıkladı. Yerli üretim, koruyucu sağlık ve dijital dönüşüm ön plana çıkıyor.",
-      "link": "https://www.aydinlik.com.tr/haber/saglik-bakani-memisoglu-ovp-hedeflerini-degerlendirdi-589123",
-      "published": "2026-09-06T14:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T15:05:41.800401+00:00"
     }
   ]
 }

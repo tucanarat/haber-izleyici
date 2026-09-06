@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-06T01:06:00.393946+00:00",
+  "last_updated": "2026-09-06T01:11:01.584025+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 627,
+  "new_items_this_run": 618,
   "items": [
+    {
+      "id": "e51466b6adcd9fa5",
+      "source": "Halk TV",
+      "title": "Kahreden kaza: 10 yaşındaki Güneş hayatını kaybetti",
+      "summary": "Adıyaman’da yolun karşısına geçmeye çalışan 10 yaşındaki Güneş Avcı, otomobilin çarpması sonucu ağır yaralandı. Hastaneye kaldırılan Avcı, doktorların müdahalesine rağmen hayatını kaybetti. Sürücü gözaltına alındı.",
+      "link": "https://halktv.com.tr/turkiye/kahreden-kaza-10-yasindaki-gunes-hayatini-kaybetti-1053357h",
+      "published": "2026-09-06T01:08:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T01:10:47.491550+00:00"
+    },
     {
       "id": "75e058e23cd6bc9e",
       "source": "Cumhuriyet",
@@ -380,6 +391,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T00:40:38.851908+00:00"
+    },
+    {
+      "id": "7a615c4ec0a186f6",
+      "source": "Karar",
+      "title": "Otogar, havalimanı, şehir hastanesini birbirine bağlayacak: Yeni tramvay hattının güzergahı belli oldu",
+      "summary": "Doğu Anadolu'nun cazibe merkezi Van'da şehir içi ulaşımı çağdaş bir çehreye bürüyecek raylı sistem projesi için beklenen adım atıldı. Şehir Hastanesi-Havalimanı-Belediye tramvay hattı, Ulaştırma ve Altyapı Bakanlığı tarafından inşa edilerek modern standartlarda kente kazandırılacak.",
+      "link": "https://www.karar.com/sehir-haberleri/van-tramvay-hatti-nereden-gececek-van-tramvay-insaati-ne-zaman-basliyor-2070245",
+      "published": "2026-09-06T00:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-06T01:10:44.533543+00:00"
     },
     {
       "id": "55ef08e36a7fb140",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-05T18:50:41.762191+00:00"
-    },
-    {
-      "id": "4b233517b0231540",
-      "source": "Yeniçağ",
-      "title": "Hande Erçel hayatını kaybeden dostuna veda etti",
-      "summary": "Uzun yıllardır gözünden sakındığı atı İki Kardeş’in ölümüyle sarsılan ünlü oyuncu Hande Erçel, sosyal medya hesabından yaptığı duygusal paylaşımla &quot;Sonsuz arazilerde koş özgürce&quot; diyerek vefat eden dostuna veda etti.",
-      "link": "https://www.yenicaggazetesi.com/hande-ercel-hayatini-kaybeden-dostuna-veda-etti-1068760h.htm",
-      "published": "2026-09-05T18:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-05T18:55:35.240861+00:00"
-    },
-    {
-      "id": "38ffc1f96028a482",
-      "source": "Cumhuriyet",
-      "title": "6-7 Eylül olayları nedir? 6 Eylül 1955'te ne oldu, iktidarda kim vardı? 6-7 Eylül olaylarında kaç kişi öldü?",
-      "summary": "6-7 Eylül olaylarının üzerinden 71 yıl geçti. 6 Eylül 1955'te İstanbul'da başlayan ve 7 Eylül'e kadar devam eden saldırılarda başta Rumlar olmak üzere gayrimüslim yurttaşların ev, iş yeri ve ibadethaneleri hedef alındı. Peki 6-7 Eylül olayları neden yaşandı, o dönemde iktidarda kim vardı ve kaç kişi hayatını kaybetti?",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/6-7-eylul-olaylari-nedir-6-eylul-1955-te-ne-oldu-iktidarda-kim-vardi-6-7-eylul-olaylarinda-kac-kisi-oldu-2535188",
-      "published": "2026-09-05T18:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-05T18:50:35.125099+00:00"
     }
   ]
 }

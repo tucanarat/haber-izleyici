@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-09-07T01:25:57.203036+00:00",
+  "last_updated": "2026-09-07T01:31:14.569299+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 622,
+  "new_items_this_run": 623,
   "items": [
+    {
+      "id": "2cfc6a66fcb78908",
+      "source": "Milliyet",
+      "title": "Nevşehir'de devrilen ATV'nin sürücüsü hayatını kaybetti",
+      "summary": "Alınan bilgiye göre, Hasan Hüseyin Berber (25), belde kırsalında plaka bilgisi henüz öğrenilemeyen ATV ile gezintiye çıktı. Sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu ATV, yol kenarına devrildi. İhbar üzerine bölgeye 112 Acil Sağlık ve jandarma ekipleri sevk edildi. Kazada ağır yaralanan Berber, kaldırıldığı Nevşehir Devlet Hastanesi'nde müdahaleye rağmen kurtarılamadı. Mudanya'da İDO d",
+      "link": "https://www.milliyet.com.tr/gundem/nevsehirde-devrilen-atvnin-surucusu-hayatini-kaybetti-7655768",
+      "published": "2026-09-07T01:28:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T01:30:52.258802+00:00"
+    },
+    {
+      "id": "663bcfc8adc1f1e0",
+      "source": "Halk TV",
+      "title": "Kremlin-Almanya gerilimi felakete gidiyor: Bu gerçek bir savaşın başlangıcıdır",
+      "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Almanya&#039;nın Bonn Başkonsolosluğu&#039;nu kapatma ve Rus Evi sözleşmesini feshetme kararlarını &quot;gerçek bir savaşın başlangıcı&quot; olarak nitelendirerek, Almanların &quot;yine savaş istediğini&quot; söyledi.",
+      "link": "https://halktv.com.tr/dunya/kremlin-almanya-gerilimi-felakete-gidiyor-bu-gercek-bir-savasin-baslangicidir-1053481h",
+      "published": "2026-09-07T01:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T01:30:58.829364+00:00"
+    },
+    {
+      "id": "89e10d547ebf1aa9",
+      "source": "Türkiye Gazetesi",
+      "title": "Alevlere teslim olan iş yerini gözyaşlarıyla izledi",
+      "summary": "Eskişehir'de Baksan Sanayi Sitesi'ndeki yapı malzemeleri dükkanında çıkan ve bitişikteki iş yerlerine sıçrama riski bulunan yangını çevredeki vatandaşlar ve işletme sahipleri gözyaşlarıyla izledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/alevlere-teslim-olan-is-yerini-gozyaslariyla-izledi-1814284",
+      "published": "2026-09-07T01:24:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T01:30:49.806162+00:00"
+    },
     {
       "id": "e04136df27368b12",
       "source": "Anadolu Ajansı (Güncel)",
@@ -28,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T01:20:39.402374+00:00"
+    },
+    {
+      "id": "277af983d60ae324",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "DOSYA: YÜKSELEN KORE KÜLTÜRÜ",
+      "summary": "Güney Kore’nin müzik, dizi ve sinemayla dünyaya yayılan “Hallyu” dalgası, milyonlarca kişinin yaşam tarzını etkiliyor. K-pop yıldızlığına uzanan zorlu süreç ise bu küresel başarının perde arkasını gözler önüne seriyor.",
+      "link": "https://www.aa.com.tr/tr/dunya/dosya-yukselen-kore-kulturu/4049184",
+      "published": "2026-09-07T01:15:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T01:30:46.387667+00:00"
     },
     {
       "id": "8c42a180aece6fea",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T19:05:46.359297+00:00"
-    },
-    {
-      "id": "3b69acbaf798253a",
-      "source": "Star",
-      "title": "MAÇ SONUCU: Kocaelispor 1-0 Samsunspor",
-      "summary": "Trendyol Süper Lig'in 4. haftasında Kocaelispor, Turka Kocaeli Stadyumu'nda oynanan karşılaşmada Samsunspor'u 1-0 mağlup etti ve üst üste 3. galibiyetini aldı.",
-      "link": "https://www.star.com.tr/spor/mac-sonucu-kocaelispor-1-0-samsunspor-haber-2038542/",
-      "published": "2026-09-06T19:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:01:07.146486+00:00"
-    },
-    {
-      "id": "c9320f6013175964",
-      "source": "DonanımHaber",
-      "title": "NVIDIA'nın en pahalı ekran kartı DLSS 5 testine dayanamadı: Kablolar eridi!",
-      "summary": "Nvidia RTX 5090 ekran kartı DLSS 5 testine dayanamadı! Bir kullanıcı raporuna göre, MSI GeForce RTX 5090 Gaming Trio OC modeli, NBA 2K27'de DLSS 5 testleri yapılırken aşırı ısınma nedeniyle eridi.",
-      "link": "https://www.donanimhaber.com/nvidia-rtx-5090-dlss-5-testine-dayanamadi-kablolar-eridi--210162",
-      "published": "2026-09-06T19:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:01:24.259202+00:00"
-    },
-    {
-      "id": "fd7968875e588082",
-      "source": "Gazete Pencere",
-      "title": "Trabzonspor, Gençlerbirliği karşısında gol oldu yağdı",
-      "summary": "Süper Lig'in 4. haftasında Trabzonspor, kendi sahasında ağırladığı Gençlerbirliği'ni 5-0 mağlup etti.",
-      "link": "https://www.gazetepencere.com/spor/trabzonspor-genclerbirligi-karsisinda-gol-oldu-yagdi-714552h",
-      "published": "2026-09-06T18:59:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:01:10.138455+00:00"
-    },
-    {
-      "id": "8f4ebe801b42d237",
-      "source": "Halk TV",
-      "title": "Trabzonspor Gençlerbirliği'ne fark attı: Rahat kazandı",
-      "summary": "Süper Lig&#039;in 4. haftasında Trabzonspor, sahasında karşılaştığı Gençlerbirliği&#039;ni farklı yendi.",
-      "link": "https://halktv.com.tr/spor/trabzonspor-genclerbirligine-fark-atti-rahat-kazandi-1053463h",
-      "published": "2026-09-06T18:59:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:01:10.802757+00:00"
     }
   ]
 }

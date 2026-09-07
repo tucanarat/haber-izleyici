@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-07T03:10:59.235662+00:00",
+  "last_updated": "2026-09-07T03:16:00.028340+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 604,
+  "new_items_this_run": 602,
   "items": [
+    {
+      "id": "91b7c906142e0496",
+      "source": "BBC News Türkçe",
+      "title": "Yeni James Bond: Hayranların merak ettiği 7 soru",
+      "summary": "Daniel Craig'in halefinin kim olacağına dair bir açıklamanın yakın zamanda yapılabileceğine dair spekülasyonlar artıyor. Sinema dünyasının bu seçkin karakteri için düşünülen isimler kimler?",
+      "link": "https://www.bbc.com/turkce/articles/cy4zymr2rjmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-07T03:10:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T03:15:59.106175+00:00"
+    },
     {
       "id": "ca321011aeb8c5f9",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T19:30:59.931968+00:00"
-    },
-    {
-      "id": "81a82fd43e685e1b",
-      "source": "Yeni Şafak",
-      "title": "Erzurum'da sel felaketi: Yollar kapandı, araçlar sürüklendi",
-      "summary": "Erzurum'un Uzundere ilçesinde etkili olan sağanak yağışın ardından meydana gelen sel nedeniyle bazı mahallelerde su birikintileri oluştu, ulaşımda aksamalar yaşandı. Sel sularına kapılan iki araçta hasar meydana geldi.",
-      "link": "https://www.yenisafak.com/galeri/gundem/erzurumda-sel-felaketi-yollar-kapandi-araclar-suruklendi-4853651",
-      "published": "2026-09-06T19:27:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:30:56.712626+00:00"
     }
   ]
 }

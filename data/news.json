@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-07T00:51:06.107753+00:00",
+  "last_updated": "2026-09-07T00:55:52.342285+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 617,
+  "new_items_this_run": 616,
   "items": [
+    {
+      "id": "7c740d3ebeabf620",
+      "source": "BBC News Türkçe",
+      "title": "Tarihte kaydedilen en yüksek sesi çıkaran volkanik patlama",
+      "summary": "Endonezya'da bu hafta bir yanardağ patladı, ancak aynı bölgede 1883'te meydana gelen bir başka patlama çok daha yıkıcı olmuştu.",
+      "link": "https://www.bbc.com/turkce/articles/crl6j7jj9wjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-07T00:50:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T00:55:51.766873+00:00"
+    },
     {
       "id": "f6d1a4ec341a1e6f",
       "source": "Halk TV",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T00:50:49.159629+00:00"
+    },
+    {
+      "id": "c5b05e4e6db300b5",
+      "source": "Türkiye Gazetesi",
+      "title": "SUÇ MERKEZİNE ZİYARET",
+      "summary": "Ankara’daki Öküz Roof isimli mekânın Yeni Parti Milletvekili Cemal Enginyurt’un oğlu Alptürk Enginyurt’un da ortağı olduğu şirket tarafından işletildiği, ruhsatsız alkol satışı ve sigortasız işçi çalıştırıldığına ilişkin tespitler bulunduğu soruşturma dosyasına yansıdı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/cemal-enginyurt-ve-oglunun-okuz-sevdasi-suc-merkezine-hayirli-olsuna-gitmis-1814282",
+      "published": "2026-09-07T00:45:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T00:55:32.873802+00:00"
     },
     {
       "id": "1efb2b79571e3ae6",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T00:40:56.359066+00:00"
-    },
-    {
-      "id": "58a584da8739558e",
-      "source": "Cumhuriyet",
-      "title": "İntihar şüphesi: Doğum gününde cansız bedeni bulundu",
-      "summary": "Antalya’da ağaçlık alanda bir kişinin cansız bedeni bulundu. Bugün doğum günü olduğu öğrenilen gencin ölüm haberini alan kardeşinin feryadı yürekleri dağladı. Olayla ilgili soruşturma başlatıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/intihar-suphesi-dogum-gununde-cansiz-bedeni-bulundu-2535439",
-      "published": "2026-09-06T18:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T18:50:36.081727+00:00"
-    },
-    {
-      "id": "7cec1dd05f8b3e83",
-      "source": "Bianet",
-      "title": "Almanya: Saksonya-Anhalt seçimlerinde AfD yüzde 40'ı geçerek birinci parti oldu",
-      "summary": "Gayriresmi sonuçlara göre AfD, oyların yaklaşık yüzde 44,5'ini alarak Saksonya-Anhalt seçimlerini açık ara kazandı. Ancak sonuç, AfD'nin tek başına hükümet kurabileceği anlamına gelmiyor. Hükümetin oluşumu, diğer partilerin koalisyon tercihleriyle belirlenecek.",
-      "link": "https://bianet.org/haber/almanya-saksonya-anhalt-secimlerinde-afd-yuzde-40-i-gecerek-birinci-parti-oldu-323215",
-      "published": "2026-09-06T18:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:31:01.940744+00:00"
     }
   ]
 }

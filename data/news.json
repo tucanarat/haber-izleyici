@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-07T02:20:55.390402+00:00",
+  "last_updated": "2026-09-07T02:25:57.864161+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 608,
+  "new_items_this_run": 609,
   "items": [
+    {
+      "id": "ae43bca1775e11fb",
+      "source": "Türkiye Gazetesi",
+      "title": "ELİNİ MAKİNEYE KAPTIRDI!",
+      "summary": "Saruhanlı Belediye Başkanı Ekrem Cıllı, üzüm hasadı sırasında elini makineye kaptırarak yaralandı. Ameliyata alınan Başkan Cıllı'nın sağlık durumunun iyi olduğu bildirildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/saruhanli-belediye-baskani-ekrem-cilli-uzum-hasadinda-elini-makineye-kaptirdi-1814286",
+      "published": "2026-09-07T02:20:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T02:25:33.264547+00:00"
+    },
     {
       "id": "a5d6e978ba7d21f7",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T19:25:37.709543+00:00"
-    },
-    {
-      "id": "d3641d66fc082078",
-      "source": "Türkiye Gazetesi",
-      "title": "PİYASA DEĞERİ 70 MİLYON TL",
-      "summary": "Antalya Havalimanı'nda düzenlenen operasyonda, iki şüphelinin valizlerinde toplam 18 kilo 921 gram likit metamfetamin olduğu değerlendirilen madde ele geçirildi. Uyuşturucunun piyasa değerinin 70 milyon 955 bin lira olduğu belirtildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/piyasa-degeri-70-milyon-lira-valizler-kontrol-edildi-hepsi-ele-gecirildi-1814240",
-      "published": "2026-09-06T19:21:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:30:47.936289+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-07T01:21:01.151186+00:00",
+  "last_updated": "2026-09-07T01:25:57.203036+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 623,
+  "new_items_this_run": 622,
   "items": [
+    {
+      "id": "e04136df27368b12",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail ordusunun Lübnan'ın güneyinde hedef aldığı ilk yardım aracındaki 1 kişi öldü, 2 kişi yaralandı",
+      "summary": "İsrail ordusunun Lübnan'ın güneyindeki Nebatiye vilayetine bağlı Kefr Rumman beldesinde bir ilk yardım aracına düzenlediği hava saldırısında 1 kişi hayatını kaybetti, 2 kişi yaralandı.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-lubnanin-guneyinde-hedef-aldigi-ilk-yardim-aracindaki-1-kisi-oldu-2-kisi-yaralandi/4049185",
+      "published": "2026-09-07T01:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T01:25:29.258961+00:00"
+    },
     {
       "id": "47dcc5876e0f307c",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T19:01:10.802757+00:00"
-    },
-    {
-      "id": "561f1526c9acfd60",
-      "source": "Millî Gazete",
-      "title": "Girne'de 15 kayıp aranıyor: Gemi enkazı için kritik karar",
-      "summary": "Kuzey Kıbrıs açıklarında 13 kişiye mezar olan ve 15 kişinin sulara gömüldüğü gemi faciasında gözler enkaz çıkarma operasyonuna çevrildi. Başbakan Ünal Üstel, 554 metre derinlikteki batık için nihai kararın İstanbul temasları sonrası verileceğini duyurdu.",
-      "link": "https://www.milligazete.com.tr/girnede-15-kayip-araniyor-gemi-enkazi-icin-kritik-karar",
-      "published": "2026-09-06T18:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:01:09.472936+00:00"
     }
   ]
 }

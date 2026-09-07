@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-07T02:25:57.864161+00:00",
+  "last_updated": "2026-09-07T02:31:01.905299+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 609,
+  "new_items_this_run": 608,
   "items": [
+    {
+      "id": "5b370fc12c13d643",
+      "source": "BBC News Türkçe",
+      "title": "OVP'de büyüme, enflasyon, kur ve cari açık hedefleri: Program Türkiye ekonomisine ne vadediyor?",
+      "summary": "Yeni Orta Vadeli Program’da (OVP) enflasyon, cari açık ve kur hedefleri belirgin biçimde yukarı revize edilirken, büyüme hedefi neredeyse aynı kaldı. Koç Üniversitesi Öğretim Üyesi Prof. Dr. Selva Demiralp'a göre OVP, hükümetin “büyümeye dokunmayan acı reçete” yaklaşımını gösteriyor.",
+      "link": "https://www.bbc.com/turkce/articles/c4gl2qqlnvpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-07T02:26:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T02:31:01.275298+00:00"
+    },
     {
       "id": "ae43bca1775e11fb",
       "source": "Türkiye Gazetesi",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T02:25:33.264547+00:00"
+    },
+    {
+      "id": "54104e69572dfbc8",
+      "source": "Habertürk",
+      "title": "Eskişehir'de yapı malzemeleri firmasında yangın",
+      "summary": "Eskişehir'de yapı malzemeleri satan bir firmada çıkan yangın itfaiye ekiplerince söndürüldü. Söndürme çalışmalarında, İl Emniyet Müdürlüğüne bağlı TOMA'ların yanı sıra beton mikserleri de kullanıldı",
+      "link": "https://www.haberturk.com/gundem/eskisehir-de-yapi-malzemeleri-firmasinda-yangin-3910706",
+      "published": "2026-09-07T02:19:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T02:30:40.820420+00:00"
     },
     {
       "id": "a5d6e978ba7d21f7",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-06T21:00:54.682674+00:00"
-    },
-    {
-      "id": "e2995179f1823fb8",
-      "source": "Cumhuriyet",
-      "title": "Avrupa şampiyonu Filenin Sultanları bireysel ödüllere ambargo koydu!",
-      "summary": "CEV Avrupa Voleybol Şampiyonası'nda altın madalyanın sahibi olan A Milli Kadın Voleybol Takımı, bireysel ödülleri de müzesine götürdü.",
-      "link": "https://www.cumhuriyet.com.tr/spor/avrupa-sampiyonu-filenin-sultanlari-bireysel-odullere-ambargo-koydu-2535445",
-      "published": "2026-09-06T19:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:25:31.721493+00:00"
-    },
-    {
-      "id": "a04c3dc57484c15a",
-      "source": "Akşam",
-      "title": "Londra derbisinde Arsenal, Chelsea'yi devirdi",
-      "summary": "İngiltere Premier Lig'in 3. haftasında Arsenal, ezeli rakibi Chelsea'yi 2-1'lik skorla mağlup etti.",
-      "link": "https://www.aksam.com.tr/spor/londra-derbisinde-arsenal-chelseayi-devirdi/haber-1696385",
-      "published": "2026-09-06T19:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-06T19:25:37.709543+00:00"
     }
   ]
 }

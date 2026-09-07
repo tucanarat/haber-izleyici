@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-09-07T10:56:05.452870+00:00",
+  "last_updated": "2026-09-07T11:01:15.202066+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 562,
+  "new_items_this_run": 570,
   "items": [
+    {
+      "id": "26e243a0578c9795",
+      "source": "CNBC-e",
+      "title": "Zenginler borsadan kaçıyor! Servetlerinin yüzde 20’sini nakde çevirdiler, para nereye akıyor?",
+      "summary": "Yüksek değerlemeler, enflasyon ve piyasa oynaklığı varlıklı yatırımcıları daha temkinli bir stratejiye itiyor. Goldman Sachs verilerine göre zengin yatırımcılar portföylerinin yüzde 20’sini nakitte tutarken alternatif yatırımlara ve altına ilgilerini artırıyor.",
+      "link": "https://www.cnbce.com/borsa/zenginler-borsadan-kaciyor-servetlerinin-yuzde-20sini-nakde-cevirdiler-para-nereye-akiyor-h36677",
+      "published": "2026-09-07T11:00:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:06.392257+00:00"
+    },
+    {
+      "id": "cf8b1b83807fa17a",
+      "source": "ShiftDelete.Net",
+      "title": "CD Satışları Patladı! Neredeyse Yüzde 50 Yükseldi",
+      "summary": "ABD pazarında CD satışları 2026'nın ilk yarısında yüzde 45,7 artış gösterdi. Fiziksel müzik formatlarına olan ilginin detayları haberimizde.",
+      "link": "https://shiftdelete.net/cd-satislari-2026-yukselis",
+      "published": "2026-09-07T11:00:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:09.448345+00:00"
+    },
+    {
+      "id": "6909ab7ec08de5c6",
+      "source": "Millî Gazete",
+      "title": "WhatsApp o telefonların fişini çekiyor",
+      "summary": "Dünyanın en çok kullanılan mesajlaşma uygulaması WhatsApp, 8 Eylül itibarıyla eski Android sürümlerini kullanan milyonlarca cihazdan desteğini tamamen çekiyor; kasım ayında ise sıranın eski model iPhone'lara geleceği açıklandı.",
+      "link": "https://www.milligazete.com.tr/whatsapp-o-telefonlarin-fisini-cekiyor-1",
+      "published": "2026-09-07T11:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:00:59.661896+00:00"
+    },
+    {
+      "id": "b090f7c890303533",
+      "source": "Euronews Türkçe",
+      "title": "Eskişehir gezi rehberi: Şehri keşfetmek için 2 günlük rota",
+      "summary": "Odunpazarı’nın tarihi evlerinden Porsuk Çayı’na, çağdaş sanat müzelerinden Sazova Parkı’na uzanan bu iki günlük rota, Eskişehir’in kültürünü, tarihini ve şehir hayatını keşfetmek isteyenler için rehber niteliğinde.",
+      "link": "http://tr.euronews.com/kultur/2026/09/07/eskisehir-gezi-rehberi-sehri-kesfetmek-icin-2-gunluk-rota",
+      "published": "2026-09-07T10:59:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:15.200818+00:00"
+    },
+    {
+      "id": "5ba6acb66483c4d8",
+      "source": "Karar",
+      "title": "Özgür Özel’den Davutoğlu’na destek telefonu",
+      "summary": "YENİ Parti lideri Özel, hakkında “Cumhurbaşkanına hakaret” iddiasıyla soruşturma başlatılan Davutoğlu’nu telefonla arayarak dayanışma mesajı verdi.",
+      "link": "https://www.karar.com/guncel-haberler/ozgur-ozelden-davutogluna-destek-telefonu-2070451",
+      "published": "2026-09-07T10:59:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:00:58.677024+00:00"
+    },
+    {
+      "id": "0c843a6c85de0417",
+      "source": "Halk TV",
+      "title": "Türkiye’ye de ihraç edilen kuduz aşısında büyük skandal: Sahtecilik şüphesiyle toplatılıyor",
+      "summary": "Hindistan&#039;da yaygın kullanılan Abhayrab kuduz aşısının sahte bir partisi, etkililik testini geçemedi. Olayla ilgili 4 kişi gözaltına alındı.",
+      "link": "https://halktv.com.tr/dunya/turkiyeye-de-ihrac-edilen-kuduz-asisinda-buyuk-skandal-sahtecilik-suphesiyle-toplatiliyor-1053576h",
+      "published": "2026-09-07T10:59:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:00.747952+00:00"
+    },
+    {
+      "id": "6875a0329a974748",
+      "source": "Ekonomim",
+      "title": "TCDD biletlerinde yeni dönem: İptal edilen koltuklar için otomatik bildirim gönderilecek",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, TCDD Taşımacılık AŞ’nin dijital dönüşüm çalışmaları kapsamında devreye alınan yeni uygulamaları açıkladı. Yazılı bir açıklama yapan Uraloğlu, trenlerde bilet bulamayan yolcuların mağduriyetini azaltmayı hedefleyen sistemle birlikte bilet satış ekranını sürekli kontrol etme zorunluluğunun ortadan kalktığını belirtti.",
+      "link": "https://www.ekonomim.com/gundem/tcdd-biletlerinde-yeni-donem-iptal-edilen-koltuklar-icin-otomatik-bildirim-gonderilecek-haberi-916737",
+      "published": "2026-09-07T10:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:05.639501+00:00"
+    },
+    {
+      "id": "6d562a6e9668a3b8",
+      "source": "Gerçek Gündem",
+      "title": "Karadeniz Alarm Veriyor: Beykoz Sahillerinde Dev Dalga Yasağı Başladı",
+      "summary": "İstanbul’un Beykoz ilçesinde, Karadeniz kıyılarında beklenen yüksek dalga boyu ve olumsuz hava şartları nedeniyle denize girişler 2 gün süreyle yasaklandı. Beykoz Kaymakamlığı&#039;nın kararı doğrultusunda sahil şeridi, plajlar ve koylarda polis ile zabıta ekipleri yoğun güvenlik önlemleri alarak devriye görevine başladı.",
+      "link": "https://www.gercekgundem.com/guncel/karadeniz-alarm-veriyor-beykoz-sahillerinde-dev-dalga-yasagi-basladi-578189",
+      "published": "2026-09-07T10:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:04.080007+00:00"
+    },
+    {
+      "id": "69a2362f8bb3c49c",
+      "source": "Kısa Dalga",
+      "title": "İBB davası... Selim İmamoğlu: Burada olmamın sebebi babam üzerinde baskı kurmak",
+      "summary": "Ekrem İmamoğlu’nun oğlu Mehmet Selim İmamoğlu, \"Benim soyadım İmamoğlu olmasaydı bugün burada olmayacaktım. Burada olmamın gerçek sebebinin babam üzerinde baskı kurmak ve onu geri adım atmaya zorlamak olduğuna inanıyorum\" dedi.",
+      "link": "https://kisadalga.net/haber/gundem/ibb-davasi-selim-imamoglu-burada-olmamin-sebebi-babam-uzerinde-baski-kurmak-140256",
+      "published": "2026-09-07T10:56:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:01.671165+00:00"
+    },
+    {
+      "id": "11088369eae2a224",
+      "source": "Karar",
+      "title": "Başkan Vekili Özdemir ve başpehlivanlardan birlik mesajı",
+      "summary": "Kıyasıya mücadelelerin yaşandığı Elmalı güreşlerinde kazanansa dostluk oldu. Geçtiğimiz haftalarda Kurtdere Mehmet Pehlivan Yağlı Güreşleri’nde Antalya Büyükşehir Belediyesi Spor Kulübü güreşçisi Mustafa Taş ile Feyzullah Aktürk arasında oynanan yarı final müsabakasının ardından yaşanan olayların ardından Antalya Büyükşehir Belediyesi Başkan Vekili Büşra Özdemir, Elmalı’da iki başpehlivanı bir ara",
+      "link": "https://www.karar.com/sehir-haberleri/baskan-vekili-ozdemir-ve-baspehlivanlardan-birlik-mesaji-2070450",
+      "published": "2026-09-07T10:56:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:00:58.677095+00:00"
+    },
+    {
+      "id": "ac7947aa53471034",
+      "source": "Gazete Pencere",
+      "title": "Filenin Sultanları'nın Avrupa şampiyonluğu İtalyan basınında",
+      "summary": "İtalyan basını, A Milli Kadın Voleybol Takımı'nın Trendyol 2026 CEV Avrupa Şampiyonası'nda İtalya'yı 3-2 yenerek şampiyonluğa ulaştığı final maçına geniş yer verdi.",
+      "link": "https://www.gazetepencere.com/spor/filenin-sultanlarinin-avrupa-sampiyonlugu-italyan-basininda-714607h",
+      "published": "2026-09-07T10:56:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:00.282993+00:00"
+    },
+    {
+      "id": "9951f5a6de09a317",
+      "source": "Akşam",
+      "title": "Okan Buruk kararını verdi! Victor Osimhen'in yokluğunda B planı hazır",
+      "summary": "Victor Osimhen'in sakatlığı sonrası Galatasaray'da sıcak bir gelişme yaşandı. Sarı-kırmızılıların teknik direktörü Okan Buruk, yıldız golcü Victor Osimhen'in yokluğunda forvette kimi oynatacağının kararını verdi. İşte detaylar...",
+      "link": "https://www.aksam.com.tr/spor/okan-buruk-kararini-verdi-victor-osimhenin-yoklugunda-b-plani-hazir/haber-1696505",
+      "published": "2026-09-07T10:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:00:57.640742+00:00"
+    },
+    {
+      "id": "f8d4a27fe0a7e810",
+      "source": "Millî Gazete",
+      "title": "Kim Milyoner Olmak İster 300 Bin TL’lik Ceza Filmi Sorusunun Cevabı Ne, Alev’i Kim Canlandırdı, Yarışmacı Ne Kadar Kazandı?",
+      "summary": "Kim Milyoner Olmak İster 300 bin TL’lik sorunun cevabı ne? Ceza filminde Alev’i kim canlandırdı? Yarışmacı hangi cevabı verdi ve ne kadar kazandı? Oktay Kaynarca’nın sunduğu yarışmada telefon jokerinin de kullanıldığı Yeşilçam sorusu sonucu değiştirdi. Yarışmacının tercih ettiği seçenek ile doğru cevap arasındaki fark gecenin dikkat çeken anını ortaya çıkardı.",
+      "link": "https://www.milligazete.com.tr/kim-milyoner-olmak-ister-300-bin-tllik-ceza-filmi-sorusunun-cevabi-ne-alevi-kim-canlandirdi-yarismaci-ne-kadar-kazandi",
+      "published": "2026-09-07T10:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:00:59.661946+00:00"
+    },
+    {
+      "id": "f01f51cf7baaf5a2",
+      "source": "Gazete Pencere",
+      "title": "İddianamede Şahan 'rüşvet istemekle' suçlanmıştı: Torunlar İnşaat'ın sahibi rüşvet iddialarını yalanladı",
+      "summary": "İBB Davası'nda Torun Center'a kesilen cezanın nedenin rüşvet olduğu ifadeleri yer almıştı. Mehmet Torun mahkemede verdiği ifadede Şişli Belediye Başkanı Şahan'ın rüşvet istediği iddialarını yalanladı.",
+      "link": "https://www.gazetepencere.com/gundem/iddianamede-sahan-rusvet-istemekle-suclanmisti-torunlar-insaatin-sahibi-rusvet-714608h",
+      "published": "2026-09-07T10:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:00.283031+00:00"
+    },
     {
       "id": "1896523d3a4effbd",
       "source": "Yeniçağ",
@@ -17,6 +171,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T10:55:37.409178+00:00"
+    },
+    {
+      "id": "bb0232eb7ca6805f",
+      "source": "OdaTV",
+      "title": "Çinli turistlerin Çanakkale'de yeni gözdesi zeytinyağı",
+      "summary": "Çanakkale Kültür Yolu Festivali kapsamında kenti ziyaret eden Çinli turistler, Adatepe Zeytinyağı Müzesi ve lezzet noktalarında zeytinin üretim yolculuğunu öğrenerek yöresel zeytinyağlarını deneyimledi.",
+      "link": "https://www.odatv.com/gastroda/cinli-turistler-canakkale-kultur-yolu-festivalinde-zeytinyagini-kesfetti-120161770",
+      "published": "2026-09-07T10:55:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:00.438928+00:00"
+    },
+    {
+      "id": "372737a5a4cd31b3",
+      "source": "Cumhuriyet",
+      "title": "361 çocuk, tek sanık: Finlandiya’yı sarsan istismar davası başladı",
+      "summary": "Finlandiya’da 9 ile 15 yaşları arasındaki 361 çocuğa yönelik internet üzerinden cinsel suçlar işlemekle suçlanan 28 yaşındaki erkeğin yargılanmasına başlandı. Ülkenin bilinen en geniş kapsamlı cinsel suç dosyalarından biri olan davanın yaklaşık 45 duruşma günü sürmesi ve yıl sonuna kadar devam etmesi bekleniyor.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/361-cocuk-tek-sanik-finlandiya-yi-sarsan-istismar-davasi-basladi-2535580",
+      "published": "2026-09-07T10:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:00:54.434577+00:00"
+    },
+    {
+      "id": "2a8199734798677d",
+      "source": "Gerçek Gündem",
+      "title": "Serhat Kılıç'ın Ölümünde Kritik Detay! Olay Yeri İnceleme Raporu ve Kız Arkadaşı Özlem Esmergül'ün İfadeleri Ortaya Çıktı",
+      "summary": "Kağıthane&#039;de evinde ölü bulunan oyuncu Serhat Kılıç’ın kız arkadaşı Özlem Esmergül&#039;ün savcıya verdiği ifade ortaya çıktı. Emniyetteki ifadesinde, Kılıç’ın madde ve alkol bağımlılığı olmadığını söyleyen Özlem Esmergül, savcılıkta ise &quot;Kendisini tanıdığım süreden beri uyuşturucu madde ve alkol kullandığını bilirim” demesi dikkat çekti. Olay yerine inceleme raporunda ise salondaki meta",
+      "link": "https://www.gercekgundem.com/guncel/serhat-kilicin-olumunde-kritik-detay-olay-yeri-inceleme-raporu-ve-kiz-arkadasi-ozlem-esmergulun-ifadeleri-ortaya-cikti-578188",
+      "published": "2026-09-07T10:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:04.080066+00:00"
     },
     {
       "id": "9cd74b2a91343d04",
@@ -272,6 +459,17 @@
       "fetched_at": "2026-09-07T10:50:43.786973+00:00"
     },
     {
+      "id": "14512bfc96dc4038",
+      "source": "Finans Gündem",
+      "title": "Veyis Ateş hakim karşısında: 'Mehmet Akif Ersoy özür diledi'",
+      "summary": "40 yıla kadar hapsi istenen eski Habertürk Genel Yayın Yönetmeni Veyis Ateş hâkim karşısına çıktı. Suçlamaları reddeden Ateş, Mehmet Akif Ersoy’un cezaevinde kendisinden özür dilediğini öne sürdü",
+      "link": "https://www.finansingundemi.com/haber/veyis-ates-hakim-karsisinda-mehmet-akif-ersoy-ozur-diledi/1907485",
+      "published": "2026-09-07T10:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:07.075690+00:00"
+    },
+    {
       "id": "b808b82d50aa2f36",
       "source": "Habertürk",
       "title": "AHBAP'a 5. dalga operasyon: 53 kişi hakkında gözaltı kararı",
@@ -281,6 +479,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T10:55:28.728525+00:00"
+    },
+    {
+      "id": "7ad7ae27b2dd38ad",
+      "source": "Ekonomim",
+      "title": "LEVI.SCT, Türkiye’de ilk kez Ela Excellence Resort Belek’te sahne aldı",
+      "summary": "Klasik müziğin duygusal derinliğini hip-hop ve house ritimleriyle buluşturan Alman piyanist LEVI.SCT, 28 Kasım’da gerçekleşecek Türkiye’deki ilk konseri öncesinde Ela Excellence Resort Belek’te otel misafirleri için sahne aldı. Keyifli bir geceye imza atan sanatçı, “Ela’da olmak evdeymiş gibi hissettiriyor” ifadelerini kullandı.",
+      "link": "https://www.ekonomim.com/kultur-sanat/levisct-turkiyede-ilk-kez-ela-excellence-resort-belekte-sahne-aldi-haberi-916735",
+      "published": "2026-09-07T10:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:05.639586+00:00"
     },
     {
       "id": "7258bd99a22f7902",
@@ -402,6 +611,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T10:45:45.980906+00:00"
+    },
+    {
+      "id": "abc845322051ecf9",
+      "source": "Ekonomim",
+      "title": "Dreame’nin Aqua20 Pro Ultra Roller X Complete ve X60 Pro Ultra Complete modellerine ödül",
+      "summary": "Dreame’nin yeni nesil temizlik teknolojileri, IFA 2026’da iki ödülle taçlandı. Aqua20 Pro Ultra Roller X Complete ve X60 Pro Ultra Complete, yenilikçi teknolojileriyle IFA Innovation Awards’a layık görüldü.",
+      "link": "https://www.ekonomim.com/sirketler/dreamenin-aqua20-pro-ultra-roller-x-complete-ve-x60-pro-ultra-complete-modellerine-ifa-innovation-awards-odulu-haberi-916734",
+      "published": "2026-09-07T10:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:01:05.639619+00:00"
     },
     {
       "id": "d1d46aeeea1079b7",
@@ -1249,6 +1469,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T10:31:08.173826+00:00"
+    },
+    {
+      "id": "af2b47197c128ddc",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Azerbaycan Cumhurbaşkanı Aliyev, Nobel ödüllü Türk bilim insanı Sancar'ı \"Şöhret\" nişanıyla ödüllendirdi",
+      "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, Nobel ödüllü Türk bilim insanı Prof. Dr. Aziz Sancar'ın \"Şöhret\" nişanıyla ödüllendirilmesine ilişkin kararnameyi imzaladı.",
+      "link": "https://www.aa.com.tr/tr/dunya/azerbaycan-cumhurbaskani-aliyev-nobel-odullu-turk-bilim-insani-sancari-sohret-nisaniyla-odullendirdi/4049520",
+      "published": "2026-09-07T10:27:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:00:54.140427+00:00"
     },
     {
       "id": "3bc5c33b80267733",
@@ -3275,6 +3506,17 @@
       "fetched_at": "2026-09-07T09:50:44.916092+00:00"
     },
     {
+      "id": "1b28f10b660f36ba",
+      "source": "Hürriyet",
+      "title": "Filenin Sultanları'nın zaferinde kırılma noktası! İlk Eda Erdem fark etti, her şey o anda değişti",
+      "summary": "Filenin Sultanları'nın İtalya'yı CEV Avrupa Şampiyonası finalinde yenerek şampiyon olduğu maçta 3. set sonu yaşanan olay çok konuşuldu. Ağır kaybedilen set sonrası Vargas'ın döktüğü gözyaşı geri dönüşün fitilini ateşledi.",
+      "link": "https://www.hurriyet.com.tr/sporarena/filenin-sultanlarinin-zaferinde-kirilma-noktasi-ilk-eda-erdem-fark-etti-her-sey-o-anda-degisti-43298809",
+      "published": "2026-09-07T09:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-07T11:00:56.891121+00:00"
+    },
+    {
       "id": "7347ad5b873d2bcf",
       "source": "Bir Gün",
       "title": "Sporting-Galatasaray maçının hakemi belli oldu",
@@ -5264,248 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T09:11:03.607448+00:00"
-    },
-    {
-      "id": "8876bda3c2e7ddb5",
-      "source": "Aydınlık",
-      "title": "Adalet Bakanı Gürlek'ten nafaka açıklaması: Ekim ayını işaret etti",
-      "summary": "Adalet Bakanı Akın Gürlek, süresiz nafaka uygulamasına ilişkin yeni yasal düzenlemelerin gündemde olduğunu açıkladı. Gürlek, ihtiyaç duyulan düzenlemelerin ekim ayında yapılmasının planlandığını belirtti.",
-      "link": "https://www.aydinlik.com.tr/haber/adalet-bakani-gurlekten-nafaka-aciklamasi-ekim-ayini-isaret-etti-589193",
-      "published": "2026-09-07T09:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:05:40.527971+00:00"
-    },
-    {
-      "id": "d79a06093ffd54fd",
-      "source": "Millî Gazete",
-      "title": "Altın ve gümüşte karar haftası: Dev kurumlardan çarpıcı tahminler",
-      "summary": "Küresel piyasalarda gözler ABD'den gelecek kritik enflasyon verisine çevrilirken, altın ve gümüşte fırtına öncesi sessizlik yaşanıyor. Merkez bankalarının tarihi 'altın göçü' sürerken, Goldman Sachs ons altında 5 bin dolar kapısını aralayacak o seviyeyi duyurdu.",
-      "link": "https://www.milligazete.com.tr/altin-ve-gumuste-karar-haftasi-dev-kurumlardan-carpici-tahminler",
-      "published": "2026-09-07T09:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:05:40.837901+00:00"
-    },
-    {
-      "id": "6366946cfa34b891",
-      "source": "Finans Gündem",
-      "title": "Yabancı kurumlar ile yabancı fonların para piyasası fonlarından elde ettikleri kazançlara %10 stopaj",
-      "summary": "Mehmet Bingöl yazıyor...",
-      "link": "https://www.finansingundemi.com/redirect/1907473",
-      "published": "2026-09-07T09:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:05:51.009629+00:00"
-    },
-    {
-      "id": "35764d85d296276b",
-      "source": "Millî Gazete",
-      "title": "Araç sahiplerini üzen gelişme! Benzin ve motorin fiyatlarında yeni dönem",
-      "summary": "Akaryakıt istasyonlarındaki tabela değişimleri, vatandaşın cebini yakmaya hız kesmeden devam ediyor. Günlük yaşamın vazgeçilmez bir parçası olan enerji fiyatlarındaki bu sert hareketlilik, sadece kontak anahtarını çevirenleri değil, pazar filesini doldurmaya çalışan herkesi yakından ilgilendiren zorlu bir dönemin kapısını aralıyor.",
-      "link": "https://www.milligazete.com.tr/arac-sahiplerini-uzen-gelisme-benzin-ve-motorin-fiyatlarinda-yeni-donem",
-      "published": "2026-09-07T09:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:00:57.396806+00:00"
-    },
-    {
-      "id": "171d2ce6a563b6e6",
-      "source": "Webrazzi",
-      "title": "OpenAI, Astra modelini ChatGPT Plus abonelerine sundu",
-      "summary": "OpenAI, amiral gemisi olan GPT-6 Astra modelini kullanıma sunduğunu sizlere aktarmıştık. Şirket, yeni modeli kademeli olarak ücretli aboneleriyle buluşturduğunu duyurdu. Yirmi dolarlık ChatGPT plus pl...",
-      "link": "https://webrazzi.com/2026/09/07/openai-astra-modelini-chatgpt-plus-abonelerine-sundu/",
-      "published": "2026-09-07T09:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:01:03.849576+00:00"
-    },
-    {
-      "id": "2bf5f55d98cab82a",
-      "source": "DonanımHaber",
-      "title": "Apple'ın kalite testleri katlanabilir iPhone üretimini yavaşlattı",
-      "summary": "Apple'ın ilk katlanabilir telefonu iPhone Ultra'nın üretiminin yavaş ilerlediği bildiriliyor. Şirketin yüksek kalite standartları nedeniyle üretim hattından günde sadece birkaç yüz adet çıkıyor.",
-      "link": "https://www.donanimhaber.com/apple-in-kalite-testleri-iphone-ultra-uretimini-yavaslatti--210170",
-      "published": "2026-09-07T09:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:01:07.452123+00:00"
-    },
-    {
-      "id": "e6b52283b36513c9",
-      "source": "Türkiye Gazetesi",
-      "title": "O YOLCU BAKIN KİMMİŞ",
-      "summary": "ABD'de Dallas-Newark seferini yapan American Airlines uçağında taşkınlık çıkararak yolcuların müdahalesiyle koltuğuna plastik kelepçe ve koli bandıyla sabitlenen kişinin kimliği belli oldu. 67 yaşındaki Layne Arthur Lundeen'in Arizona’da emlakçılık yaptığı ortaya çıkarken, olayın ardından işine son verildiği öğrenildi. Olaya ilişkin FBI tarafından soruşturma başlatıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/ucagi-birbirine-katti-yolcular-koltuga-bagladi-67-yasindaki-adam-bakin-kim-cikti-1814338",
-      "published": "2026-09-07T08:59:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:10:40.821068+00:00"
-    },
-    {
-      "id": "973df2af9d8e4e23",
-      "source": "Türkiye Gazetesi",
-      "title": "Uçağı birbirine katınca koltuğa bağlanmıştı: 67 yaşındaki yolcu bakın kim çıktı",
-      "summary": "ABD'de Dallas-Newark seferini yapan American Airlines uçağında taşkınlık çıkararak yolcuların müdahalesiyle koltuğuna plastik kelepçe ve koli bandıyla sabitlenen kişinin kimliği belli oldu. 67 yaşındaki Layne Arthur Lundeen'in Arizona’da emlakçılık yaptığı ortaya çıkarken, olayın ardından işine son verildiği öğrenildi. Olaya ilişkin FBI tarafından soruşturma başlatıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/ucagi-birbirine-katti-yolcular-koltuga-bagladi-67-yasindaki-adam-bakin-kim-cikti-1814338",
-      "published": "2026-09-07T08:59:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:05:33.640686+00:00"
-    },
-    {
-      "id": "897a3959f9b4eaf3",
-      "source": "Halk TV",
-      "title": "TFF Dusan Vlahovic'i incelemeye aldı: Derbi sonrası ceza sürprizi",
-      "summary": "TFF Hukuk Müşavirliği, Fenerbahçe maçında Skriniar&#039;a yönelik el hareketi nedeniyle Dusan Vlahovic&#039;i incelemeye aldı. Oyuncunun PFDK&#039;ya sevk edilmesi halinde en az 1 maç ceza gelmesi bekleniyor.",
-      "link": "https://halktv.com.tr/spor/tff-dusan-vlahovici-incelemeye-aldi-derbi-sonrasi-ceza-surprizi-1053559h",
-      "published": "2026-09-07T08:59:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:00:58.012480+00:00"
-    },
-    {
-      "id": "f8a52d6758a5921c",
-      "source": "Habertürk",
-      "title": "Kayıp kardeşlerin acısı üzerinden dolandırıcılık!",
-      "summary": "KKTC’de batan gemide kaybolan Mustafa ve Mahmut Demir kardeşlerin ailesi, yaşadıkları acının ardından bir de dolandırıcılık şokuyla karşı karşıya kaldı. Kardeşlerin isimleri kullanılarak yardıma muhtaç oldukları öne sürülerek IBAN üzerinden para istendiğini belirten aile, vatandaşlara “itibar etmeyin” çağrısı yaptı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-kayip-kardeslerin-ailesinden-dolandiricilik-uyarisi-iban-paylasarak-para-topluyorlar-3910782",
-      "published": "2026-09-07T08:59:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:10:34.593668+00:00"
-    },
-    {
-      "id": "b997beeb19b0831b",
-      "source": "Yeniçağ",
-      "title": "KYK yurt sonuçları 2026: Sonuçlar açıklandı mı? İşte son durum",
-      "summary": "KYK yurt sonuçları için bekleyiş sona erdi. 2026-2027 eğitim öğretim dönemi GSB yurt başvuru sonuçları için resmi sorgulama ekranı erişime açılırken, öğrenciler sonuçlarını e-Devlet üzerinden kontrol edebilecek.",
-      "link": "https://www.yenicaggazetesi.com/kyk-yurt-sonuclari-2026-sonuclar-aciklandi-mi-iste-son-durum-1069154h.htm",
-      "published": "2026-09-07T08:59:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:00:56.255863+00:00"
-    },
-    {
-      "id": "d0e203c3d13d5269",
-      "source": "Evrensel",
-      "title": "Ahbap soruşturmasında 5’inci dalga: 53 kişi hakkında yakalama kararı",
-      "summary": "Adalet Bakanı Akın Gürlek, Ahbap Derneği üzerinden 6 Şubat depremlerinin ardından toplanan bağışların akıbetine ilişkin soruşturmada 5’inci dalga operasyonun başlatıldığını açıkladı. Gürlek, 53 şüpheli hakkında yakalama kararı bulunduğunu belirtti.",
-      "link": "https://www.evrensel.net/haber/5999477/ahbap-sorusturmasinda-5-inci-dalga-53-kisi-hakkinda-yakalama-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-07T08:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:20:36.582916+00:00"
-    },
-    {
-      "id": "28ff52ebe9a5afb0",
-      "source": "Ekonomim",
-      "title": "Çin, evlerde hizmet edecek ucuz insansı robotlar üretmeye başlıyor",
-      "summary": "Tesla’nın Optimus robotunu ticarileştirme çalışmalarının ardından Çinli akıllı elektrikli araç üreticileri robotik alana hızla giriyor. Nio, BYD, Xpeng ve Leapmotor gibi şirketler, ortak teknoloji altyapısını kullanarak tüketiciler için uygun fiyatlı insansı robotlar geliştirmeyi hedefliyor. Çin, halihazırda küresel insansı robot teslimatlarının yüzde 97’sini gerçekleştiriyor.",
-      "link": "https://www.ekonomim.com/dunya/cin-evlerde-hizmet-edecek-ucuz-insansi-robotlar-uretmeye-basliyor-haberi-916713",
-      "published": "2026-09-07T08:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:05:49.160365+00:00"
-    },
-    {
-      "id": "3b49083e1ac974ff",
-      "source": "Karar",
-      "title": "Emekli ve memur ne kadar zam alacak? İşte OVP enflasyon tahmini sonrası zam tablosu",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın açıkladığı yeni Orta Vadeli Program'daki yüzde 28,4'lük enflasyon tahmini sonrası zam hesaplamaları yapıldı. Ekonomist Prof. Dr. Hakkı Hakan Yılmaz'ın hesabına göre, hedefin tutması halinde ocak ayında işçi emeklisine yüzde 9, memura yüzde 7 zam yapılacak; asgari ücret artışı ise yüzde 22-24 bandında kalacak.",
-      "link": "https://www.karar.com/ekonomi-haberleri/emekli-ve-memur-ne-kadar-zam-alacak-iste-ovp-enflasyon-tahmini-2070412",
-      "published": "2026-09-07T08:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:00:55.843301+00:00"
-    },
-    {
-      "id": "74fa445fa4b62871",
-      "source": "Yeni Şafak",
-      "title": "Muhittin Böcek tercihini satır aralarında belli etti: CHP mi Yeni Parti mi?",
-      "summary": "Tutuklu bulunan ve görevinden uzaklaştırılan Antalya Büyükşehir Belediye Başkanı Muhittin Böcek, cezaevinden kaleme aldığı mektupta siyasi kariyerini ve seçim süreçlerini anlattı. Mektupta Özgür Özel ve Kemal Kılıçdaroğlu için kullandığı ifadeler ise dikkat çekti.",
-      "link": "https://www.yenisafak.com/gundem/muhittin-bocek-tercihini-satir-aralarinda-belli-etti-chp-mi-yeni-parti-mi-4853768",
-      "published": "2026-09-07T08:58:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:00:54.992547+00:00"
-    },
-    {
-      "id": "ccf4d7cc5bf5e0b2",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Türkiye tohumculukta Asya pazarında küresel rekabet gücünü artırmayı hedefliyor",
-      "summary": "Türkiye Tohumculuk Endüstrisi Derneği Başkanı Burak Gönen, Türkiye'nin tohumculukta küresel ölçekte önemli bir konuma ulaştığını belirterek, Asya Pasifik pazarındaki etkinliği artırmayı hedeflediklerini söyledi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-tohumculukta-asya-pazarinda-kuresel-rekabet-gucunu-artirmayi-hedefliyor/4049402",
-      "published": "2026-09-07T08:58:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:00:50.859663+00:00"
-    },
-    {
-      "id": "4f53e1b6d5051a8f",
-      "source": "Finans Gündem",
-      "title": "Ahbap soruşturmasında 53 gözaltı daha: Depolarda atıl durumda çadırlar...",
-      "summary": "Ahbap Derneği'ne yönelik yürütülen deprem bağışları soruşturmasında 20 ilde operasyon düzenlendi. Adalet Bakanı Akın Gürlek, 53 şüpheli hakkında gözaltı talimatı verildiğini açıkladı",
-      "link": "https://www.finansingundemi.com/haber/ahbap-sorusturmasinda-53-gozalti-daha-depolarda-atil-durumda-cadirlar/1907474",
-      "published": "2026-09-07T08:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:05:51.009664+00:00"
-    },
-    {
-      "id": "6522a59c2d583239",
-      "source": "Yeni Akit",
-      "title": "Besni’de ev yangını paniğe yol açtı: Alevler büyümeden söndürüldü!",
-      "summary": "Adıyaman’ın Besni ilçesinde bir evde çıkan yangın paniğe neden olurken, olay yerine sevk edilen itfaiye ekipleri alevleri söndürdü.",
-      "link": "https://www.yeniakit.com.tr/haber/besnide-ev-yangini-panige-yol-acti-alevler-buyumeden-sonduruldu-2021385.html",
-      "published": "2026-09-07T08:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:00:55.561314+00:00"
-    },
-    {
-      "id": "9e2477d466e4dc03",
-      "source": "OdaTV",
-      "title": "İlkay Gündoğan 250 milyon TL'lik yeni daire aldı",
-      "summary": "Galatasaray&#039;ın yıldız futbolcusu İlkay Gündoğan, İstanbul&#039;daki gayrimenkul yatırımlarına bir yenisini daha ekledi. Daha önce Göktürk&#039;ten ev satın alan Gündoğan&#039;ın bu kez Zincirlikuyu&#039;da yaklaşık 250 milyon TL değerinde bir daire aldığı öne sürüldü.",
-      "link": "https://www.odatv.com/spor/ilkay-gundogan-istanbulda-250-milyon-tllik-yeni-daire-aldi-120161746",
-      "published": "2026-09-07T08:57:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:05:41.871671+00:00"
-    },
-    {
-      "id": "b00c9bec60322d87",
-      "source": "Yeni Şafak",
-      "title": "Ahbap soruşturmasında yeni operasyon: 47 şüpheli gözaltında",
-      "summary": "Adalet Bakanı Akın Gürlek’in açıkladığı soruşturma kapsamında İstanbul merkezli 20 ilde operasyon düzenlendi. 53 şüpheliden 47’si yakalandı.",
-      "link": "https://www.yenisafak.com/video/gundem/ahbap-sorusturmasinda-yeni-operasyon-47-supheli-gozaltinda-4853767",
-      "published": "2026-09-07T08:57:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:00:54.992573+00:00"
-    },
-    {
-      "id": "9436edb5f3844562",
-      "source": "Habertürk",
-      "title": "Down sendromlu Emir Enes hem lösemi hem şekerle savaşıyor",
-      "summary": "Muğla'da yaşayan ve lösemi teşhisi konulan Down sendromlu Emir Enes Tufan (15), İzmir’de tedavi görüyor. Kullanılan ilaçların yan etkisiyle kan şekeri yükselen Emir Enes'in annesi Şerife Tufan (48), \"Emir, durumu nedeniyle özel bir çocuk olduğu için diğer çocuklara kıyasla hastalığı daha zor atlatıyor\" dedi",
-      "link": "https://www.haberturk.com/saglik/down-sendromlu-emir-enes-hem-losemi-hem-sekerle-savasiyor-haberler-3910775",
-      "published": "2026-09-07T08:57:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:10:34.593773+00:00"
-    },
-    {
-      "id": "43d3ba1b61518288",
-      "source": "Evrensel",
-      "title": "Selçuk Mızraklı'nın yarın tahliye olması bekleniyor: Diyarbakır'da karşılanacak",
-      "summary": "Eski Diyarbakır Büyükşehir Belediyesi Eş Başkanı Selçuk Mızraklı, cezasını tamamlayarak Edirne F Tipi Cezaevinden tahliye ediliyor. Mızraklı, yarın akşam saatlerinde ulaşacağı Diyarbakır'da kitlesel bir şekilde karşılanacak.",
-      "link": "https://www.evrensel.net/haber/5999478/selcuk-mizrakli-nin-yarin-tahliye-olmasi-bekleniyor-diyarbakir-da-karsilanacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-07T08:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T09:20:36.582954+00:00"
     }
   ]
 }

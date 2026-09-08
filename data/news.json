@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-08T02:05:57.358226+00:00",
+  "last_updated": "2026-09-08T02:10:59.330720+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 565,
+  "new_items_this_run": 553,
   "items": [
+    {
+      "id": "799fd9a050c33afa",
+      "source": "Halk TV",
+      "title": "Tek adam rejiminden AKP’liler de rahatsız!",
+      "summary": "Mehmet Tezkan yazdı: Tek adam rejiminden AKP’liler de rahatsız!",
+      "link": "https://halktv.com.tr/makale/tek-adam-rejiminden-akpliler-de-rahatsiz-1053684",
+      "published": "2026-09-08T02:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T02:10:44.545074+00:00"
+    },
     {
       "id": "89f8eee0528397e4",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T19:40:39.677438+00:00"
-    },
-    {
-      "id": "9256be0cba5ed209",
-      "source": "Milliyet",
-      "title": "Alevlerle mücadele sürüyor! Antalya'da çok sayıda ev tahliye edildi, bir ev tamamen yandı... İl il son durum",
-      "summary": "Canlı Haber İçerik Kartı",
-      "link": "https://www.milliyet.com.tr/gundem/live-son-dakika-alevler-ruzgarla-yayildi-2-kentte-orman-yangini-alarmi-7655789",
-      "published": "2026-09-07T19:39:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T19:45:41.074923+00:00"
     }
   ]
 }

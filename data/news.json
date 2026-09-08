@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-08T01:31:04.588256+00:00",
+  "last_updated": "2026-09-08T01:35:48.392727+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 567,
+  "new_items_this_run": 566,
   "items": [
+    {
+      "id": "0e3c1ee8f151df3b",
+      "source": "Habertürk",
+      "title": "Osmaniye'de kaza: 1 ölü, 2 yaralı",
+      "summary": "Osmaniye Kadirli'de hafif ticari araçla çarpışan motosikletteki 1 kişi hayatını kaybetti, 2 kişi yaralandı",
+      "link": "https://www.haberturk.com/gundem/osmaniye-de-trafik-kazasi-1-olu-2-yarali-3910944",
+      "published": "2026-09-08T01:20:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T01:35:26.059253+00:00"
+    },
     {
       "id": "9409b9b8cbb61851",
       "source": "Türkiye Gazetesi",
@@ -39,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T01:15:43.137672+00:00"
+    },
+    {
+      "id": "030c2e0a02d75f0d",
+      "source": "Yeni Şafak",
+      "title": "Yeni Parti’de bina tartışması",
+      "summary": "Yeni Parti yöneticileri ile milletvekilleri, 30 Ağustos’ta taşındıkları 5 katlı genel merkez binasını küçük ve yetersiz buldu. Genel Başkan Özgür Özel ise bina tartışmalarının parti gündeminin önüne geçmesini istemiyor. Eleştirilere de “Biz genel merkezde değil, sahada olacağız” cevabını veriyor.",
+      "link": "https://www.yenisafak.com/gundem/yeni-partide-bina-tartismasi-4853937",
+      "published": "2026-09-08T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T01:35:32.992113+00:00"
     },
     {
       "id": "b656fb9dfa5f1bb5",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T20:15:43.956789+00:00"
-    },
-    {
-      "id": "5ea1de78ba78ef20",
-      "source": "Star",
-      "title": "Trump'tan New Mexico'ya 'New America' çıkışı",
-      "summary": "ABD Başkanı Donald Trump, sosyal medya hesabından New Mexico eyaletinin adının \"New America\" olarak değiştirilmesini destekledi. Vali Michelle Lujan Grisham ise sert bir yanıt verdi.",
-      "link": "https://www.star.com.tr/dunya/trumptan-new-mexicoya-new-america-cikisi-haber-2038758/",
-      "published": "2026-09-07T19:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T19:20:41.231461+00:00"
-    },
-    {
-      "id": "ce85340bfff41a57",
-      "source": "Gazete Pencere",
-      "title": "Fenerbahçe'de bir veda daha: Tecrübeli oyuncu Rusya'ya gidiyor",
-      "summary": "Fenerbahçe'de bir yabancı oyuncu ile daha yollar ayrılıyor. Sarı lacivertliler, Rodrigo Becao'nun transferi için Rus temsilcisi Rodina ile anlaşmaya vardı.",
-      "link": "https://www.gazetepencere.com/spor/fenerbahcede-bir-veda-daha-tecrubeli-oyuncu-rusyaya-gidiyor-714663h",
-      "published": "2026-09-07T19:15:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T01:30:52.204972+00:00"
     }
   ]
 }

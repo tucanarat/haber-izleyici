@@ -1,12 +1,243 @@
 {
-  "last_updated": "2026-09-08T09:11:02.805227+00:00",
+  "last_updated": "2026-09-08T09:16:12.460897+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 552,
+  "new_items_this_run": 560,
   "items": [
+    {
+      "id": "fa0c0e9ba4ca5b9f",
+      "source": "Karar",
+      "title": "Dacia'dan 730 Bin Liraya yeni SUV! Duster'ın rakibi bridger geliyor",
+      "summary": "Dacia'nın 2028 yılında Avrupa'da satışa sunacağı 13 bin Euro'luk yeni mini SUV modeli Bridger'ın özellikleri belli oldu. Duster'ın altına konumlanacak ucuz SUV'un motor ve tasarım detayları da ortaya çıktı.",
+      "link": "https://www.karar.com/guncel-haberler/daciadan-730-bin-liraya-yeni-suv-dusterin-rakibi-bridger-geliyor-2070638",
+      "published": "2026-09-08T09:15:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:53.892426+00:00"
+    },
+    {
+      "id": "44096e3992cbe238",
+      "source": "Karar",
+      "title": "Gazze’de çocuklar için açık hava sineması: Savaşın ortasında kısa bir mola",
+      "summary": "Gazze’de saldırıların gölgesinde yaşamlarını sürdüren yüzlerce çocuk için enkaz ve çadırların arasında açık hava sineması kuruldu. Yüzleri boyanan çocuklar, kurulan perdede çizgi film izleyerek savaşın ağır koşullarından kısa süreliğine de olsa uzaklaşmaya çalıştı.",
+      "link": "https://www.karar.com/dunya-haberleri/gazzede-cocuklar-icin-acik-hava-sinemasi-savasin-ortasinda-kisa-bir-mola-2070637",
+      "published": "2026-09-08T09:15:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:53.892458+00:00"
+    },
+    {
+      "id": "ccfd18ac1e318de2",
+      "source": "Halk TV",
+      "title": "Güllü'nün ölümündeki tek tanığa babasından korkunç suçlama! Ağlayarak yardım istedi",
+      "summary": "Güllü&#039;nün ölümüne ilişkin davaya günler kala dosyaya yeni ses kayıtları girdi. Sultan Nur Ulu&#039;nun babası Arif Ulu&#039;nun kızıyla ilgili suçlaması ortaya çıkarken, Sultan&#039;ın arkadaşını ağlayarak aradığı duyuldu.",
+      "link": "https://halktv.com.tr/turkiye/gullunun-olumundeki-tek-taniga-babasindan-korkunc-suclama-aglayarak-yardim-istedi-1053773h",
+      "published": "2026-09-08T09:15:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:57.113760+00:00"
+    },
+    {
+      "id": "9636f7d2ca5002d8",
+      "source": "Halk TV",
+      "title": "Pagan tapınaklarından tünel ağlarına: Medeniyetten uzakta 20 bin nüfuslu antik şehir",
+      "summary": "Gürcistan&#039;ın Gori bölgesinde dik kayalara oyulan Upliscihe, 3 bin yılı aşkın tarihiyle Kafkasya&#039;nın en eski ve en etkileyici yeraltı yerleşimlerinden biridir. En görkemli döneminde 20 bin kişiye ev sahipliği yapmıştır...",
+      "link": "https://halktv.com.tr/yasam/pagan-tapinaklarindan-tunel-aglarina-medeniyetten-uzakta-20-bin-nufuslu-antik-sehir-1053772h",
+      "published": "2026-09-08T09:15:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:57.113801+00:00"
+    },
+    {
+      "id": "a8be688b15677258",
+      "source": "Akşam",
+      "title": "İstanbul'da icradan satılık daire!",
+      "summary": "İstanbul Pendik'te 62.20 metrekare daire icradan satışa sunuluyor...",
+      "link": "https://www.aksam.com.tr/ekonomi/istanbulda-icradan-satilik-daire/haber-1696726",
+      "published": "2026-09-08T09:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:51.488779+00:00"
+    },
+    {
+      "id": "85442c4536384d49",
+      "source": "Star",
+      "title": "Paul Onuachu, gol suskunluğunu bozdu",
+      "summary": "Trabzonspor'un Nijeryalı golcüsü Paul Onuachu, Süper Lig'de 8 maç süren gol hasretini Gençlerbirliği karşısında attığı 2 golle sonlandırdı.",
+      "link": "https://www.star.com.tr/spor/paul-onuachu-gol-suskunlugunu-bozdu-haber-2038864/",
+      "published": "2026-09-08T09:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:52.612984+00:00"
+    },
+    {
+      "id": "5280dbe4a7d3518e",
+      "source": "Star",
+      "title": "Kılıçdaroğlu, İmamoğlu'na yolsuzluk üzerinden rest çekti: Mağdur değil, hesap vermeli",
+      "summary": "CHP'nin Kasım 2023'teki kurultayı sonrası yeniden Genel Başkanlık koltuğuna dönen Kemal Kılıçdaroğlu, Euronews Türkçe'ye verdiği röportajda, yolsuzluktan tutuklu eski İBB Başkanı Ekrem İmamoğlu'nun durumunu \"siyasi tutuklu\" olarak değerlendirmediklerini belirterek, \"Kişi her yerde ve her ortamda hesap vermeye hazır olmalı.\" dedi. Kılıçdaroğlu ayrıca Özgür Özel'in öncülüğündeki Yeni Parti girişimin",
+      "link": "https://www.star.com.tr/guncel/kilicdaroglu-imamogluna-yolsuzluk-uzerinden-rest-cekti-magdur-degil-hesap-vermeli-haber-2038863/",
+      "published": "2026-09-08T09:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:52.613033+00:00"
+    },
+    {
+      "id": "46c799f358db5020",
+      "source": "Yeni Şafak",
+      "title": "Hatay'da zabıtaya 'Başkan akrabam olur' resti sökmedi",
+      "summary": "Hatay’ın İskenderun ilçesinde kaldırım işgallerine karşı denetim yapan zabıta ekipleri ile esnaf arasında yaşanan diyalog dikkat çekti. Yaya yolunu kapatan reklam tabelasını kaptırmak istemeyen bir işletmeci, \"Belediye başkanı akrabamdır, arayacağım\" diyerek ekipleri geri adım attırmaya çalıştı; ancak zabıtanın tavizsiz duruşu karşısında geri adım atmak zorunda kaldı.",
+      "link": "https://www.yenisafak.com/video/gundem/hatayda-zabitaya-baskan-akrabam-olur-resti-sokmedi-4854034",
+      "published": "2026-09-08T09:14:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:52.215567+00:00"
+    },
+    {
+      "id": "d7a4434be60a6fcf",
+      "source": "Akşam",
+      "title": "Gaziantep'te icradan satılık taşınmaz!",
+      "summary": "Gaziantep Oğuzeli'nde taşınmaz icradan satışa sunuluyor...",
+      "link": "https://www.aksam.com.tr/ekonomi/gaziantepte-icradan-satilik-tasinmaz/haber-1696725",
+      "published": "2026-09-08T09:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:51.488798+00:00"
+    },
+    {
+      "id": "1ce2c3b41332056e",
+      "source": "Euronews Türkçe",
+      "title": "Arjantin'den İsrailli petrol şirketine dava; Ben Gvir'den Netanyahu'ya destek çağrısı",
+      "summary": "Arjantin, Malvinas Adaları'nda (Falkland Adaları) izinsiz faaliyet yürüttükleri gerekçesiyle İsrailli petrol şirketi Navitas bağlantılı şirketler hakkında suç duyurusunda bulunacak.",
+      "link": "http://tr.euronews.com/2026/09/08/arjantinden-israilli-petrol-sirketine-dava-ben-gvirden-netanyahuya-destek-cagrisi",
+      "published": "2026-09-08T09:13:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:16:12.460056+00:00"
+    },
+    {
+      "id": "90fffb8a4bcaec9e",
+      "source": "Türkiye Gazetesi",
+      "title": "Kars'a kış erken geldi! Eylül ayında hava sıcaklığı eksi 5 dereceyi gördü",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem-videolari/karsa-kis-erken-geldi-eylul-ayinda-hava-sicakligi-eksi-5-dereceyi-gordu-1814564",
+      "published": "2026-09-08T09:13:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:48.397386+00:00"
+    },
+    {
+      "id": "3f45f849cba59a43",
+      "source": "Gazete Pencere",
+      "title": "Türker Ertürk'ün tutukluluğunun devamına karar verildi",
+      "summary": "Emekli Amiral Türker Ertürk, \"halkı kin ve düşmanlığa tahrik\" suçlamasıyla yargılandığı davada ilk kez hakim karşısına çıktı.",
+      "link": "https://www.gazetepencere.com/gundem/turker-erturkun-tutuklulugunun-devamina-karar-verildi-714716h",
+      "published": "2026-09-08T09:13:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:56.404521+00:00"
+    },
+    {
+      "id": "2d528a6330d58f6d",
+      "source": "Akşam",
+      "title": "Mezar bile lüks oldu! CHP'li belediyeden fahiş zam",
+      "summary": "Adana'da mezar yeri ücretleri adeta cep yakıyor. CHP'li Adana Büyükşehir Belediyesi'nin yeni tarifesiyle geçen yıl 7 bin TL olan mezar yeri metrekare bedeli yüzde 100 zamlanarak 14 bin TL'ye çıktı. 3,5 metrekarelik bir mezar yerinin fiyatı ise 49 bin TL'ye ulaştı. Vatandaşlar CHP2li belediyenin fahiş zammına tepki gösterdi.",
+      "link": "https://www.aksam.com.tr/guncel/mezar-bile-luks-oldu-chpli-belediyeden-fahis-zam/haber-1696724",
+      "published": "2026-09-08T09:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:51.488824+00:00"
+    },
+    {
+      "id": "f8e4807716ab02ef",
+      "source": "Ekonomim",
+      "title": "Galatasaray'ın, UEFA Şampiyonlar Ligi macerası Portekiz'de başlayacak",
+      "summary": "Galatasaray, UEFA Şampiyonlar Ligi&#039;nin ilk haftasında yarın deplasmanda Portekiz takımı Sporting ile karşılaşacak.",
+      "link": "https://www.ekonomim.com/spor/galatasarayin-uefa-sampiyonlar-ligi-macerasi-portekizde-baslayacak-haberi-916912",
+      "published": "2026-09-08T09:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:16:04.637808+00:00"
+    },
+    {
+      "id": "46c0214348b01a64",
+      "source": "Gerçek Gündem",
+      "title": "Mansur Yavaş’tan Flaş CHP Hamlesi: Kurultay Tartışmalarında 'Taraf Olmayacağım' Resti",
+      "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, CHP&#039;nin kuruluş yıl dönümü dolayısıyla yarın genel merkezde gerçekleştirilecek büyük resepsiyona katılmama kararı aldı. Yavaş’a yakın kaynaklar, ABB Başkanı&#039;nın parti içi güç savaşlarında tamamen tarafsız kalacağını ve mevcut pozisyonunu muhafaza edeceğini belirtti.",
+      "link": "https://www.gercekgundem.com/guncel/mansur-yavastan-flas-chp-hamlesi-kurultay-tartismalarinda-taraf-olmayacagim-resti-578245",
+      "published": "2026-09-08T09:12:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:16:02.129584+00:00"
+    },
+    {
+      "id": "3a1a4c2ac98e6882",
+      "source": "Halk TV",
+      "title": "Kademeli emeklilik gerçek mi yoksa sosyal medya balonu mu? İşte Meclis'teki son durum!",
+      "summary": "Milyonlarca emeklilik adayı kademeli emeklilik haberleri ile heyecanlanırken, geçen 22 aylık süreçte atılmış bir adım yok. Haliyle gözler Meclis&#039;e çevrilmiş durumda; sunulan teklifler ne durumda? İşte güncel durum...",
+      "link": "https://halktv.com.tr/ekonomi/kademeli-emeklilik-gercek-mi-yoksa-sosyal-medya-balonu-mu-iste-meclisteki-son-durum-1053771h",
+      "published": "2026-09-08T09:12:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:57.113828+00:00"
+    },
+    {
+      "id": "5eb5d01b84d783d8",
+      "source": "Milliyet",
+      "title": "Önce güven kazandılar, sonra 200 milyon TL’lik vurgun yaptılar",
+      "summary": "Antalya Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosunca yürütülen çalışmalar kapsamında; piyasadan yüksek miktarda mal temin edilmesi amacıyla devralınan şirket adına bir süre düzenli ticaret yapılarak çek ve bankacılık güvenilirliğinin artırıldığı, ardından çok sayıda firmadan ileri vadeli çekler karşılığında yüksek tutarlı mal alındığı, alınan malların çek vadeleri gelmeden düşük bed",
+      "link": "https://www.milliyet.com.tr/gundem/once-guven-kazandilar-sonra-200-milyon-tllik-vurgun-yaptilar-7656496",
+      "published": "2026-09-08T09:12:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:50.878587+00:00"
+    },
+    {
+      "id": "726dd60076c59864",
+      "source": "Yeniçağ",
+      "title": "Kaderine terk edilen köy: Tek bir aile yaşıyor",
+      "summary": "Sivas Şarkışla’ya bağlı Kışla köyünde eskiden 20 hane varken bugün yalnızca evli ve 6 çocuk babası Cebrail Gültekin’in ailesi yaşıyor. Göçle sessizleşen köy, doğa yürüyüşçüleri ve fotoğrafçıların uğrak yerine dönüştü.",
+      "link": "https://www.yenicaggazetesi.com/kaderine-terk-edilen-koy-tek-bir-aile-yasiyor-1069500h.htm",
+      "published": "2026-09-08T09:12:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:54.502156+00:00"
+    },
+    {
+      "id": "c76e46b132d5a439",
+      "source": "Euronews Türkçe",
+      "title": "Evil Dead efsanesi Bruce Campbell: Kanser teşhisinden sonra 5 yılım kaldı",
+      "summary": "Oyuncu, Mart ayında yaptığı açıklamada kanser olduğunu ilk kez duyurmuş, hastalığının “tedavi edilebilir” ama “tam olarak iyileştirilemez” bir tür olduğunu söylemişti.",
+      "link": "http://tr.euronews.com/kultur/2026/09/08/evil-dead-efsanesi-bruce-campbell-kanser-teshisinden-sonra-5-yilim-kaldi",
+      "published": "2026-09-08T09:12:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:16:12.460081+00:00"
+    },
+    {
+      "id": "135bde7435c0149a",
+      "source": "Akşam",
+      "title": "Ordu'da icradan satılık ev, tarla ve fındık bahçesi!",
+      "summary": "Ordu Fatsa'da ev, tarla ve fındık bahçesi icradan satışa sunuluyor...",
+      "link": "https://www.aksam.com.tr/ekonomi/orduda-icradan-satilik-ev-tarla-ve-findik-bahcesi/haber-1696723",
+      "published": "2026-09-08T09:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:51.488839+00:00"
+    },
+    {
+      "id": "e432a64cd58980d2",
+      "source": "Milliyet",
+      "title": "3 yaşındaki Elif Mavi'nin öldüğü kazada otomobil sürücüsü tutuklandı",
+      "summary": "Kaza, 3 Eylül'de, Odunpazarı ilçesi Vişnelik Mahallesi’nde meydana geldi. Fatoş Akıl Bilgesoy yönetimindeki 26 AFU 319 plakalı otomobil, annesi Merve Avli ile birlikte yolun karşısına geçmek isteyen Elif Mavi Avli’ye çarptı. İhbar üzerine kaza yerine polis ve sağlık ekipleri sevk edildi. Ekiplerin müdahalesinin ardından özel bir hastaneye kaldırılan Elif Mavi, buradan da Eskişehir Osmangazi Üniver",
+      "link": "https://www.milliyet.com.tr/gundem/3-yasindaki-elif-mavinin-oldugu-kazada-otomobil-surucusu-tutuklandi-7656497",
+      "published": "2026-09-08T09:10:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:50.878668+00:00"
+    },
     {
       "id": "28f601cb81665c0a",
       "source": "Yeniçağ",
@@ -39,6 +270,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T09:10:47.731256+00:00"
+    },
+    {
+      "id": "d7688b56cdc0c3e4",
+      "source": "Gerçek Gündem",
+      "title": "PISA 2025 Sonuçları Açıklandı! Türkiye Üç Alanda da Puanını En Fazla Artıran OECD Ülkesi Oldu",
+      "summary": "Türkiye, PISA 2025 sonuçlarında fen bilimleri, okuma becerileri ve matematik alanlarının üçünde de puanını artıran tek OECD ülkesi oldu. 91 ülkenin katıldığı araştırmada Türkiye’nin sıralaması fen bilimlerinde 15, okuma becerilerinde 18, matematikte ise 11 basamak yükseldi. Milli Eğitim Bakanı Yusuf Tekin de sonuçlara ilişkin yaptığı açıklamada, Türkiye’nin üç alanda birden puanını artıran tek OEC",
+      "link": "https://www.gercekgundem.com/gundem/pisa-2025-sonuclari-aciklandi-turkiye-uc-alanda-da-puanini-en-fazla-artiran-oecd-ulkesi-oldu-578244",
+      "published": "2026-09-08T09:09:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:16:02.129623+00:00"
+    },
+    {
+      "id": "42a5a5567eb5108c",
+      "source": "Gerçek Gündem",
+      "title": "Avrasya Tüneli'nde Tarihi Eşik Aşıldı: Günlük Araç Geçişinde Yeni Rekor",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Avrasya Tüneli’nin 4 Eylül Cuma günü 94 bin 489 araç ağırlayarak tüm zamanların günlük geçiş rekorunu tazelediğini duyurdu. Bir önceki rekor, Haziran 2024’te 94 bin 459 araçla kırılmıştı.",
+      "link": "https://www.gercekgundem.com/ekonomi/avrasya-tunelinde-tarihi-esik-asildi-gunluk-arac-gecisinde-yeni-rekor-578243",
+      "published": "2026-09-08T09:09:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:16:02.129648+00:00"
     },
     {
       "id": "5362fc3a1320c935",
@@ -193,6 +446,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T09:05:41.058543+00:00"
+    },
+    {
+      "id": "2d9b363777f844e7",
+      "source": "Türkiye Gazetesi",
+      "title": "Louvre şoku unutulmamıştı! Ünlü müzede 4 eser çalındı",
+      "summary": "Paris'teki Louvre Müzesi'nde geçen yıl gerçekleştirilen 88 milyon avroluk sansasyonel soygunun şoku atlatılamamışken, Fransa'daki ünlü Renoir Müzesi de hırsızların hedefi oldu. Müzeye zorla giren iki hırsız paha biçilemez 4 sanat eserini çalarak kayıplara karıştı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/louvre-soku-henuz-unutulmamisti-dunyaca-unlu-muzede-buyuk-soygun-skandali-4-eser-cali-1814562",
+      "published": "2026-09-08T09:04:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:48.397416+00:00"
+    },
+    {
+      "id": "cf21ad837fdec005",
+      "source": "Türkiye Gazetesi",
+      "title": "Fransa'da bir müze soygunu daha! 9 milyon avroluk eserler çalındı",
+      "summary": "Paris'teki Louvre Müzesi'nde geçen yıl gerçekleştirilen 88 milyon avroluk sansasyonel soygunun şoku atlatılamamışken, Fransa'daki ünlü Renoir Müzesi de hırsızların hedefi oldu. Müzeye zorla giren iki hırsız paha biçilemez 4 sanat eserini çalarak kayıplara karıştı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/louvre-soku-henuz-unutulmamisti-dunyaca-unlu-muzede-buyuk-soygun-skandali-4-eser-cali-1814562",
+      "published": "2026-09-08T09:04:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:48.397438+00:00"
     },
     {
       "id": "21a3fba917dc94af",
@@ -402,6 +677,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T09:01:03.061369+00:00"
+    },
+    {
+      "id": "cdd6876e715098bb",
+      "source": "Türkiye Gazetesi",
+      "title": "Merkez Bankası'nın faiz kararı ne olacak? S&P' den TCMB tahmini",
+      "summary": "Piyasaların gözü 10 Eylül’de gerçekleştirilecek Para Politikası Kurulu (PPK) toplantısında açıklanacak faiz kararına çevrildi. Faiz kararına ilişkin beklentiler merak edilirken, dünyaca ünlü veri analitiği kuruluşu S&amp;P Global, TCMB’nin alacağı karara ilişkin öngörüsünü açıkladı. Kuruluş, Merkez Bankası’nın politika faizini yüzde 37 seviyesinde sabit tutmasını bekliyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/piyasalar-ppkya-kilitlendi-spden-tcmbnin-faiz-karari-icin-tahmin-1814561",
+      "published": "2026-09-08T08:59:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:48.397463+00:00"
     },
     {
       "id": "b65d0130d83ce678",
@@ -930,6 +1216,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T08:55:41.023192+00:00"
+    },
+    {
+      "id": "d337dbfe9d3c72ca",
+      "source": "Karar",
+      "title": "Fransa’da Louvre'nin ardından bir soygun daha: Renoir müzesinden 9 milyon euroluk eserler çalındı",
+      "summary": "Fransa’nın güneyindeki Cagnes-sur-Mer’de, ünlü empresyonist ressam Pierre-Auguste Renoir’in son evinde kurulan müze soyuldu. Sabah saatlerinde müzeye giren iki kişi dört sanat eserini çaldı. Hırsızlar kaçarken eserlerden birini düşürerek geride bırakırken, üç eserle kayıplara karıştı. Belediye Başkanı Bryan Masson, çalınan eserlerin toplam değerinin yaklaşık 9 milyon euro olduğunu açıkladı.",
+      "link": "https://www.karar.com/dunya-haberleri/fransada-louvrenin-ardindan-bir-soygun-daha-renoir-muzesinden-9-milyon-2070632",
+      "published": "2026-09-08T08:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T09:15:53.892582+00:00"
     },
     {
       "id": "8353e60fa50c26ec",
@@ -5209,303 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T07:45:46.941844+00:00"
-    },
-    {
-      "id": "6e6834430ec6e80f",
-      "source": "Gazete Pencere",
-      "title": "MHP'den 11 maddelik öneri: 3 çocuğu olana sıfır faizli konut desteği",
-      "summary": "MHP’nin hazırladığı “Türkiye’nin Nüfus Vizyonu” raporunda, üç veya daha fazla çocuğu bulunan ailelerden gelir vergisi alınmaması önerildi. Raporda ayrıca doğum izinlerinin uzatılması, sıfır faizli konut ve taşıt kredisi verilmesi istendi.",
-      "link": "https://www.gazetepencere.com/gundem/mhpden-11-maddelik-oneri-3-cocugu-olana-sifir-faizli-konut-destegi-714701h",
-      "published": "2026-09-08T07:41:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:41.691325+00:00"
-    },
-    {
-      "id": "4c65ae11a833a3ef",
-      "source": "Habertürk",
-      "title": "DGS tercih sonuçları açıklandı",
-      "summary": "ÖSYM tarafından DGS tercih sonuçları açıklandı son dakika duyurusu geldi. 27 Ağustos-3 Eylül 2026 tarihleri arasında tercihleri alınan 2026 Dikey Geçiş Sınavı’nın (2026-DGS) yerleştirme işlemleri tamamlandı. DGS yerleştirme sonuçları ÖSYM’nin https://sonuc.osym.gov.tr adresinden T.C. kimlik numaraları ve aday şifreleriyle öğrenilebilecek. İşte, 2026 DGS tercih sonucu sorgulama ekranı...",
-      "link": "https://www.haberturk.com/bilgi/foto/son-dakika-dgs-tercih-sonuclari-aciklandi-2026-dgs-yerlestirme-sonuclari-nasil-ve-nereden-ogrenilir-osym-dgs-tercih-sonucu-sorgulama-ekrani-3911005",
-      "published": "2026-09-08T07:41:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:55:25.643422+00:00"
-    },
-    {
-      "id": "bfd9e03c0e8f25f4",
-      "source": "Yeni Yaşam",
-      "title": "Yaklav’ın tahliyesi 7’nci, Gülşen ve Nuriye’nin 6’ncı kez engellendi: İGK’lerin hukuki niteliği tartışmalı",
-      "summary": "İGK kararları nedeniyle 30 yılı aşkın süredir tutulan Nedime Yaklav’ın tahliyesi 7’nci kez, Gülşen Adet ve Nuriye Adet’in tahliyesi 6’nci kez ertelendi. DEM Parti Hukuk ve İnsan Hakları Komisyonu Eşsözcüsü Sevda Çelik Özbingöl, İGK’lerin hukuki niteliğinin tartışılması gerektiğini belirtti Sincan F Tipi Kadın Kapalı Cezaevi’nde İdare ve Gözlem Kurulu (İGK) kararlarıyla siyasi tutsakların tahliyele",
-      "link": "https://yeniyasamgazetesi9.com/nedime-yaklavin-tahliyesi-7nci-gulsen-ve-nuriye-adetin-6nci-kez-engellendi/",
-      "published": "2026-09-08T07:41:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:55:40.192265+00:00"
-    },
-    {
-      "id": "30084e34dafd062e",
-      "source": "Yeni Yaşam",
-      "title": "Yaklav’ın tahliyesi 7’nci, Gülşen ve Nuriye’nin 6’ncı kez engellendi: İGK’lerin hukuki niteliğinin tartışılmalı",
-      "summary": "İGK kararları nedeniyle 30 yılı aşkın süredir tutulan Nedime Yaklav’ın tahliyesi 7’nci kez, Gülşen Adet ve Nuriye Adet’in tahliyesi 6’nci kez ertelendi. DEM Parti Hukuk ve İnsan Hakları Komisyonu Eşsözcüsü Sevda Çelik Özbingöl, İGK’lerin hukuki niteliğinin tartışılması gerektiğini belirtti Sincan F Tipi Kadın Kapalı Cezaevi’nde İdare ve Gözlem Kurulu (İGK) kararlarıyla siyasi tutsakların tahliyele",
-      "link": "https://yeniyasamgazetesi9.com/nedime-yaklavin-tahliyesi-7nci-gulsen-ve-nuriye-adetin-6nci-kez-engellendi/",
-      "published": "2026-09-08T07:41:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:45.658479+00:00"
-    },
-    {
-      "id": "b94d276cc0432dcf",
-      "source": "Karar",
-      "title": "Üsküdar’da tutuklamalar ve transferlerin gölgesinde seçim: İlk turda eşitlik var",
-      "summary": "Tutuklamalar, parti değiştiren meclis üyeleri ve yoğun güvenlik önlemleri gölgesinde yapılan Üsküdar Belediyesi Başkan Vekili seçiminde ilk tur tamamlandı. AK Parti’nin adayı Dündar Ziya Gültekin ile CHP’nin adayı Sibel Tan Çetinkaya 20’şer oy aldı.",
-      "link": "https://www.karar.com/guncel-haberler/uskudarda-tutuklamalar-ve-transferlerin-golgesinde-secim-ilk-turda-2070611",
-      "published": "2026-09-08T07:41:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:39.939883+00:00"
-    },
-    {
-      "id": "f257678b293f09b4",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "ABD'nin İsrail Büyükelçisinden İngiltere'ye üstü kapalı yaptırım tehdidi",
-      "summary": "ABD'nin İsrail Büyükelçisi Mike Huckabee, İngiltere'nin Batı Şeria'da bulunan yasa dışı İsrail yerleşimlerinden gelen mallara yaptırım hazırlığına tepki göstererek, bunun sonuçları olacağını söyleyerek, üstü kapalı yaptırım tehdidinde bulundu.",
-      "link": "https://www.aa.com.tr/tr/dunya/abdnin-israil-buyukelcisinden-ingiltereye-ustu-kapali-yaptirim-tehdidi/4050396",
-      "published": "2026-09-08T07:41:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T08:10:35.300916+00:00"
-    },
-    {
-      "id": "6c85b565121660c6",
-      "source": "Bir Gün",
-      "title": "ALTIN FİYATLARINDA YÜKSELİŞ BAŞLADI! 8 Eylül 2026 Salı Güncel Altın Fiyatları",
-      "summary": "Altın haftaya hareketli başladı. 8 Eylül 2026 Salı günü yatırımcıların radarında gram altın, çeyrek altın, yarım altın, tam altın ve ons altın fiyatları bulunuyor. Sabah saatlerinde açıklanan güncel verilere göre gram altın satış fiyatı 6.857,35 TL seviyesine ulaşırken yeni çeyrek altın 11.181 TL'den satışa sunuluyor. Peki 8 Eylül 2026 altın fiyatları ne kadar? Gram altın, çeyrek altın ve tam altı",
-      "link": "https://www.birgun.net/haber/altin-fiyatlarinda-yukselis-basladi-8-eylul-2026-sali-guncel-altin-fiyatlari-733562",
-      "published": "2026-09-08T07:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T08:45:39.323598+00:00"
-    },
-    {
-      "id": "9750c8f4cddaa39b",
-      "source": "Karar",
-      "title": "Üsküdar’da tutuklamalar ve transferlerin gölgesinde seçim: İlk turda AK Parti önde",
-      "summary": "Tutuklamalar, parti değiştiren meclis üyeleri ve yoğun güvenlik önlemleri gölgesinde yapılan Üsküdar Belediyesi Başkan Vekili seçiminde ilk tur tamamlandı. İlk sayımda AK Parti adayı Dündar Ziya Gültekin’e 21, CHP/YENİ Parti adayı Sibel Tan Çetinkaya’ya 19 oy çıktı. Birer oy için yapılan itirazların kabul edilmesiyle sonuç 21’e 19'a geldi. İlk turda gerekli çoğunluk sağlanamayınca seçim ikinci tur",
-      "link": "https://www.karar.com/guncel-haberler/uskudarda-tutuklamalar-ve-transferlerin-golgesinde-secim-ilk-turda-2070611",
-      "published": "2026-09-08T07:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T08:05:39.394585+00:00"
-    },
-    {
-      "id": "d05f7c6261780daf",
-      "source": "Akşam",
-      "title": "İzmir'de Belçikalı avı! 38 şüpheliden 24'ü yakalandı",
-      "summary": "İzmir'de, Belçika merkezli olarak yönetildiği ve uluslararası ölçekte uyuşturucu ticareti yaptığı belirlenen organize suç örgütüne yönelik operasyonda, hakkında gözaltı kararı verilen 38 şüpheliden 24'ü yakalandı.",
-      "link": "https://www.aksam.com.tr/guncel/izmirde-belcikali-avi-38-supheliden-24u-yakalandi/haber-1696694",
-      "published": "2026-09-08T07:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:38.756232+00:00"
-    },
-    {
-      "id": "6861615dc27184f9",
-      "source": "Karar",
-      "title": "İEF’de Yıldız Tilbe rüzgarı esti",
-      "summary": "95. İzmir Enternasyonal Fuarı, birbirinden ünlü sanatçıların konserleri ve sevilen sahne gösterileriyle İzmirlileri Kültürpark’ta buluşturmaya devam ediyor. Fuarın üçüncü gününde Yıldız Tilbe’nin şarkıları binlerce kişinin hep bir ağızdan eşlik ettiği coşkulu anlara sahne olurken, Nezaket Erden’in “Sevgili Arsız Ölüm – Dirmit” performansı sanatseverlerden büyük beğeni topladı.",
-      "link": "https://www.karar.com/sehir-haberleri/iefde-yildiz-tilbe-ruzgari-esti-2070610",
-      "published": "2026-09-08T07:40:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:46.689982+00:00"
-    },
-    {
-      "id": "345b611fac2ddf90",
-      "source": "Cumhuriyet",
-      "title": "Antalya'da orman yangını 2'nci gününde: 2 bini aşkın hane elektriksiz kaldı",
-      "summary": "Antalya'nın Aksu ilçesinde dün öğleden sonra başlayan orman yangınına günün aydınlanmasıyla birlikte havadan müdahale yeniden başladı. 254 evden 720 kişinin tahliye edildiği, bin 16 personelin söndürmek için mücadele ettiği yangın nedeniyle 2 bin 97 haneye elektrik verilemiyor. Vali Hulusi Şahin, yangının enerjisinin düştüğünü, birkaç saate kontrol altına alınmasını beklediklerini söyledi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/antalya-da-orman-yangini-2-nci-gununde-2-bini-askin-hane-elektriksiz-kaldi-2535772",
-      "published": "2026-09-08T07:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:35.799895+00:00"
-    },
-    {
-      "id": "5687515ee6719da8",
-      "source": "Akşam",
-      "title": "ÖSYM DGS 2026 yerleştirme sonuç ekranı! 2026 DGS sonuçları nasıl, nereden öğrenilir?",
-      "summary": "ÖSYM tarafından gerçekleştirilen 2026 Dikey Geçiş Sınavı (DGS) yerleştirme sonuçları açıklandı. Tercih sürecini tamamlayan adaylar, hangi yükseköğretim programına yerleştirildiklerini ÖSYM'nin sonuç ekranı üzerinden öğrenebilecek. Peki, 2026 DGS sonuçları nasıl, nereden öğrenilir? İşte detaylar...",
-      "link": "https://www.aksam.com.tr/trend/osym-dgs-2026-yerlestirme-sonuc-ekrani-2026-dgs-sonuclari-nasil-nereden-ogrenilir/haber-1696693",
-      "published": "2026-09-08T07:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:45.337172+00:00"
-    },
-    {
-      "id": "07772aff3cf678f8",
-      "source": "Akşam",
-      "title": "2026-DGS yerleştirme sonuçları açıklandı",
-      "summary": "2026-DGS yerleştirme sonuçları açıklandı.",
-      "link": "https://www.aksam.com.tr/egitim/2026-dgs-yerlestirme-sonuclari-aciklandi/haber-1696692",
-      "published": "2026-09-08T07:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:45.337206+00:00"
-    },
-    {
-      "id": "3663ec58a9bad90d",
-      "source": "Akşam",
-      "title": "Kadıköy'de derbi kabusu! Fenerbahçe iç sahalarda kayıplarda",
-      "summary": "Trendyol Süper Lig'in 4. haftasında sahasında Beşiktaş'a 2-1 boyun eğen Fenerbahçe, ezeli rakipleri karşısında iç saha avantajını kullanamıyor. Galatasaray ve Beşiktaş'ı ağırladığı son derbilerde büyük hüsran yaşayan sarı-lacivertli ekip, taraftarı önünde galibiyete hasret kaldı.",
-      "link": "https://www.aksam.com.tr/spor/kadikoyde-derbi-kabusu-fenerbahce-ic-sahalarda-kayiplarda/haber-1696691",
-      "published": "2026-09-08T07:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:45.337242+00:00"
-    },
-    {
-      "id": "ca9d2687c0c89e8e",
-      "source": "Gazete Pencere",
-      "title": "KYK yurt başvuru sonuçları açıklandı: Sonuç adresi ve kayıt tarihleri şöyle...",
-      "summary": "2026-2027 Kredi ve Yurtlar Genel Müdürlüğü yurt başvuru sonuçları açıklandı. Sonuç adresi ve kayıt tarihleri şöyle...",
-      "link": "https://www.gazetepencere.com/egitim/kyk-yurt-basvuru-sonuclari-aciklandi-sonuc-adresi-ve-kayit-tarihleri-soyle-714700h",
-      "published": "2026-09-08T07:39:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:48.741592+00:00"
-    },
-    {
-      "id": "260cc646f2c207d1",
-      "source": "Yeni Şafak",
-      "title": "Eskişehir'de evinin balkonunda üretti, rektör inanamadı: 200 bin TL’lik aracı 15 bin TL’ye yaptı",
-      "summary": "Eskişehir’de 30 yıl önce geçirdiği asansör kazası sonucu felç kalan Anadolu Üniversitesi personeli Recep Çetin, yurt dışı muadilleri 200 bin TL’yi bulan tekerlekli sandalye motor aparatını kendi imkânlarıyla 15 bin TL’ye üretti. Çetin’i tebrik eden Rektör Prof. Dr. Yusuf Adıgüzel, azimli personele kask hediye etti.",
-      "link": "https://www.yenisafak.com/galeri/gundem/eskisehirde-evinin-balkonunda-uretti-rektor-inanamadi-200-bin-tllik-araci-15-bin-tlye-yapti-4853998",
-      "published": "2026-09-08T07:39:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:39.161723+00:00"
-    },
-    {
-      "id": "a0afb60cd3359f4d",
-      "source": "Yeni Şafak",
-      "title": "Eskişehir'de evinin balkonunda üretti, rektör inanmadı: 200 bin TL’lik aracı 15 bin TL’ye yaptı",
-      "summary": "Eskişehir’de 30 yıl önce geçirdiği asansör kazası sonucu felç kalan Anadolu Üniversitesi personeli Recep Çetin, yurt dışı muadilleri 200 bin TL’yi bulan tekerlekli sandalye motor aparatını kendi imkânlarıyla 15 bin TL’ye üretti. Çetin’i tebrik eden Rektör Prof. Dr. Yusuf Adıgüzel, azimli personele kask hediye etti.",
-      "link": "https://www.yenisafak.com/galeri/gundem/eskisehirde-evinin-balkonunda-uretti-rektor-inanmadi-200-bin-tllik-araci-15-bin-tlye-yapti-4853998",
-      "published": "2026-09-08T07:39:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:45.531102+00:00"
-    },
-    {
-      "id": "7a751882cbea1cde",
-      "source": "CNBC-e",
-      "title": "Avrupa'da aşırı sıcaklar tarımı vurdu: Ürünler 20 gün erken olgunlaşıyor",
-      "summary": "Aşırı sıcaklar ve kuraklık Avrupa'da tarım ürünlerinin daha erken olgunlaşmasına neden olurken rekolte kayıplarını da arttığı ifade edildi. Fransa'da mısır üretiminin geçen yıla göre yüzde 35 azalması beklenirken, İtalya'da 2026'nın en sıcak yıl olması öngörülüyor.",
-      "link": "https://www.cnbce.com/tarim/avrupada-asiri-sicaklar-tarimi-vurdu-urunler-20-gun-erken-olgunlasiyor-h36754",
-      "published": "2026-09-08T07:39:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:57.880856+00:00"
-    },
-    {
-      "id": "ee6c24cc7e9a8b61",
-      "source": "OdaTV",
-      "title": "Ahmet Hakan-Ruhi Çenet polemiği: 'Bir türlü ısınamadım'",
-      "summary": "Youtuber Ruhi Çenet&#039;in Hasidik Yahudiler videosu çok konuşuldu. Ahmet Hakan&#039;dan ise &quot;Ruhi Çenet’e bir türlü ısınamadım&quot; yanıtı geldi.",
-      "link": "https://www.odatv.com/guncel/ahmet-hakan-ruhi-cenet-polemigi-bir-turlu-isinamadim-120161859",
-      "published": "2026-09-08T07:39:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:41.828620+00:00"
-    },
-    {
-      "id": "9d68ba6a59db6490",
-      "source": "Yeniçağ",
-      "title": "Türkiye'de elektrik tüketiminin en yüksek olduğu saat açıklandı (8 Eylül)",
-      "summary": "Türkiye’de dün 1 milyon 104 bin 921 megavatsaat elektrik üretildi, tüketim ise 1 milyon 85 bin 153 megavatsaat oldu. Günün en yüksek tüketimi 15.00’te 51 bin 890 megavatsaatle kaydedilirken, üretimde ilk sırayı yüzde 21,6 payla barajlı hidroelektrik santralleri aldı.",
-      "link": "https://www.yenicaggazetesi.com/turkiyede-elektrik-tuketiminin-en-yuksek-oldugu-saat-aciklandi-8-eylul-1069469h.htm",
-      "published": "2026-09-08T07:39:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:47.415752+00:00"
-    },
-    {
-      "id": "f7b7119d717c029a",
-      "source": "Star",
-      "title": "4 yaşındaki Elif Mavi'nin öldüğü kazada karar değişti! Sürücü yeniden gözaltında",
-      "summary": "Eskişehir'in Odunpazarı ilçesinde yolun karşısına geçmeye çalışan anne ve kızına çarparak 4 yaşındaki Elif Mavi Avli'nin ölümüne neden olan ve ilk etapta hakkında ev hapsi kararı verilen otomobil sürücüsü F.A.B., yapılan itiraz üzerine çıkarılan yakalama kararıyla yeniden gözaltına alınarak adliyeye sevk edildi.",
-      "link": "https://www.star.com.tr/yasam/4-yasindaki-elif-mavinin-oldugu-kazada-karar-degisti-surucu-yeniden-gozaltinda-haber-2038837/",
-      "published": "2026-09-08T07:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:45.910448+00:00"
-    },
-    {
-      "id": "267c6f012cec0ecc",
-      "source": "Karar",
-      "title": "Mersin’de elektrikli otobüslere vatandaşlardan tam not",
-      "summary": "Mersin Büyükşehir Belediyesi Ulaşım Dairesi Başkanlığı bünyesinde kent içi ulaşımda 8 aydır kullanımda olan ‘Kentin yeni enerjisi’ elektrikli otobüsler, Mersinlilerden gördüğü ilgi ve memnuniyetle öne çıkıyor. Araçlar, sessiz ve konforlu yolculuk deneyiminin yanı sıra çevreye duyarlı ulaşım anlayışıyla da vatandaşların beğenisini kazanıyor.",
-      "link": "https://www.karar.com/sehir-haberleri/mersinde-elektrikli-otobuslere-vatandaslardan-tam-not-2070609",
-      "published": "2026-09-08T07:38:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:46.690026+00:00"
-    },
-    {
-      "id": "a8c54997951ded22",
-      "source": "Aydınlık",
-      "title": "Atlas Çağlayan davasında karar bekleniyor",
-      "summary": "Güngören’de bıçaklanarak öldürülen 17 yaşındaki Atlas Çağlayan’ın ölümüne dair görülen davanın ikinci duruşmasında mahkeme heyetinin kararını açıklaması bekleniyor.",
-      "link": "https://www.aydinlik.com.tr/haber/atlas-caglayan-davasinda-karar-bekleniyor-589301",
-      "published": "2026-09-08T07:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:40.995670+00:00"
-    },
-    {
-      "id": "a1e21319cea89136",
-      "source": "Ekonomim",
-      "title": "Otomobil uzmanı ‘piyasanın altında bile olsa almam’ diyor. İşte en sorunlu 6 otomobil.",
-      "summary": "Ülkemizde sorunsuz ve ‘kafası rahat’ otomobil sahibi olmak isteyenlerin uzak durması gerektiği otomobilleri listeleyen otomobil uzmanı dikkat edilmesi gereken 6 markayı şikayetleriyle listeledi.",
-      "link": "https://www.ekonomim.com/foto-galeri/aktuel/otomobil-uzmani-piyasanin-altinda-bile-olsa-almam-diyor-iste-en-sorunlu-6-otomobil-galeri-916882",
-      "published": "2026-09-08T07:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:45:46.941881+00:00"
-    },
-    {
-      "id": "be6d232b6d6b711d",
-      "source": "Akşam",
-      "title": "Gaming Laptop Nasıl Seçilir? Casper Excalibur Modelleriyle Oyuncular İçin Donanım Rehberi",
-      "summary": "Gaming laptop seçerken en yüksek ekran kartını almak her zaman en doğru tercih olmayabilir. Casper Excalibur ailesi, farklı oyuncu profillerine göre işlemci, GPU, ekran ve depolama seçenekleri sunuyor. Bu nedenle seçim yapılırken oynanan oyun türü, hedeflenen çözünürlük, taşınabilirlik ve soğutma sistemi birlikte değerlendirilmeli.",
-      "link": "https://www.aksam.com.tr/teknoloji/casper-excalibur-modelleriyle-oyuncular-icin-donanim-rehberi/haber-1696690",
-      "published": "2026-09-08T07:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:45.337281+00:00"
-    },
-    {
-      "id": "723bd645931d2506",
-      "source": "Akşam",
-      "title": "Gazze'nin çocukları soruyor, Adidas susuyor: Biz sizin insanlığınızın neresindeyiz?",
-      "summary": "İsrail'in Gazze Şeridi'ne yönelik katliam ve soykırım saldırılarında uzuvlarını kaybeden Filistinliler, Alman spor giyim devi Adidas'ın reklam kampanyasında eski bir İsrail askerini oynatmasına tepki göstererek, \"Biz sizin insanlığınızın neresindeyiz?\" diye sordu.",
-      "link": "https://www.aksam.com.tr/dunya/gazzenin-cocuklari-soruyor-adidas-susuyor-biz-sizin-insanliginizin-neresindeyiz/haber-1696689",
-      "published": "2026-09-08T07:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:45.337313+00:00"
-    },
-    {
-      "id": "bdef73d2088185de",
-      "source": "Ekonomim",
-      "title": "TENMAK lisans başarı bursu programı başvuru süresi uzatıldı",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanlığının ilgili kuruluşu Türkiye Enerji, Nükleer ve Maden Araştırma Kurumunun (TENMAK) Yurt İçi Lisans ve Başarı Burs Programı 2026 başvusu süresi 21 Eylül&#039;e kadar uzatıldı.",
-      "link": "https://www.ekonomim.com/egitim/tenmak-lisans-basari-bursu-programi-basvuru-suresi-uzatildi-haberi-916883",
-      "published": "2026-09-08T07:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T07:40:56.641226+00:00"
     }
   ]
 }

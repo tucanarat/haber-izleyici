@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-08T02:55:55.284219+00:00",
+  "last_updated": "2026-09-08T03:01:19.558642+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 554,
+  "new_items_this_run": 555,
   "items": [
     {
       "id": "52875d51a181c886",
@@ -459,6 +459,17 @@
       "fetched_at": "2026-09-08T01:55:27.848401+00:00"
     },
     {
+      "id": "2efd1260a265a531",
+      "source": "Bir Gün",
+      "title": "İstanbul'da yolcularını darbeden taksici gözaltına alındı",
+      "summary": "İstanbul Fatih'te iki yolcusunu darp ettikten sonra aracına binerek uzaklaşan taksici, polis ekiplerince gözaltına alındı. Taksici, ifadesinde olayın ücret anlaşmazlığı nedeniyle yaşandığını öne sürdü.",
+      "link": "https://www.birgun.net/haber/istanbul-da-yolcularini-darbeden-taksici-gozaltina-alindi-733506",
+      "published": "2026-09-08T01:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T03:01:01.543331+00:00"
+    },
+    {
       "id": "0e3c1ee8f151df3b",
       "source": "Habertürk",
       "title": "Osmaniye'de kaza: 1 ölü, 2 yaralı",
@@ -853,6 +864,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T01:40:56.862962+00:00"
+    },
+    {
+      "id": "7a6e75cecf844d9f",
+      "source": "Bir Gün",
+      "title": "Antalya’da yangın devam ediyor: 5 ev ve seralar zarar gördü",
+      "summary": "Antalya'nın Serik ilçesinde ormanlık ve tarım arazilerinin bulunduğu alanda çıkan yangına müdahale sürüyor. Bölgedeki evler tahliye edilirken 5 ev ve bazı seralar kullanılamaz hale geldi, dumandan etkilenen 3 kişi hastaneye kaldırıldı. Yangına müdahale eden bir kepçenin devrilmesi sonucu sürücü de yaralandı.",
+      "link": "https://www.birgun.net/haber/antalyada-yangin-devam-ediyor-5-ev-ve-seralar-zarar-gordu-733505",
+      "published": "2026-09-08T00:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T03:01:01.543373+00:00"
     },
     {
       "id": "46eddd2b706f351c",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T19:50:44.448122+00:00"
-    },
-    {
-      "id": "ebc2365131b99bf6",
-      "source": "Aydınlık",
-      "title": "Antalyaspor'dan Bülent Korkmaz kararı",
-      "summary": "Antalyaspor, aldığı kötü skorlar sebebiyle teknik direktörü Bülent Korkmaz&#039;la yolları ayırma kararı aldığını açıkladı",
-      "link": "https://www.aydinlik.com.tr/haber/antalyaspordan-bulent-korkmaz-karari-589265",
-      "published": "2026-09-07T19:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T19:55:43.382256+00:00"
-    },
-    {
-      "id": "1728d1439d48480f",
-      "source": "OdaTV",
-      "title": "Antalya'da alevler sönmüyor",
-      "summary": "Antalya&#039;nın Aksu ilçesinde öğle saatlerinde başlayan ve rüzgar sebebiyle hızla yayılan yangınla mücadele devam ederken, havanın kararması sebebiyle hava desteği olmadan yapılan çalışma, alevlerin kontrol altına alınmasını güçleştiriyor.",
-      "link": "https://www.odatv.com/guncel/antalyada-alevler-sonmuyor-120161815",
-      "published": "2026-09-07T19:46:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T19:50:46.192622+00:00"
     }
   ]
 }

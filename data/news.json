@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T21:55:51.222362+00:00",
+  "last_updated": "2026-09-08T22:01:15.452829+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 577,
   "items": [
+    {
+      "id": "4579d659913076df",
+      "source": "Cumhuriyet",
+      "title": "Refüje çarpan motosikletli genç hayatını kaybetti",
+      "summary": "Muğla'nın Bodrum ilçesinde refüje çarpan motosiklet sürücüsü hayatını kaybetti.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/refuje-carpan-motosikletli-genc-hayatini-kaybetti-2536041",
+      "published": "2026-09-08T21:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T22:00:55.472834+00:00"
+    },
     {
       "id": "41ba965f36ee0cf1",
       "source": "Yeniçağ",
@@ -28,6 +39,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T21:55:35.835619+00:00"
+    },
+    {
+      "id": "dc5be33e6a340dd1",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İletişim Başkanı Duran: Türkiye, Filistin halkının haklı davasını savunmaya devam edecektir",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Bu karar, işgal altındaki Filistin topraklarında uluslararası hukuku hiçe sayan uygulamaların karşılıksız kalmadığını göstermesi açısından büyük önem taşımaktadır.\" ifadesini kullandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-turkiye-filistin-halkinin-hakli-davasini-savunmaya-devam-edecektir/4051519",
+      "published": "2026-09-08T21:52:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T22:00:55.209853+00:00"
+    },
+    {
+      "id": "0fc333b768d15d27",
+      "source": "Star",
+      "title": "40 kız öğrenci 75 günde hafızlığını tamamladı",
+      "summary": "İlim Yayma Vakfı ve İstanbul Sabahattin Zaim Üniversitesi işbirliğiyle düzenlenen '75 Günde Hafızlık Programı'ndan mezun olan 40 kız öğrenci hafızlık belgelerini aldı. Bilal Erdoğan, programı 'dünyada eşi benzeri olmayan bir hafızlık metodu' olarak nitelendirdi.",
+      "link": "https://www.star.com.tr/guncel/40-kiz-ogrenci-75-gunnde-hafizligini-tamamladi-haber-2038997/",
+      "published": "2026-09-08T21:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T22:00:58.803263+00:00"
     },
     {
       "id": "8aa1d756e78286dc",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T19:10:49.818022+00:00"
-    },
-    {
-      "id": "b9035cc7c51040fc",
-      "source": "Finans Gündem",
-      "title": "Javier Bardem'den Adidas'a İsrail boykotu",
-      "summary": "Oscar ödüllü İspanyol aktör Javier Bardem, Adidas'ın İsrail ordusunda görev yapmış bir askeri reklam kampanyasında kullanmasına tepki göstererek markaya boykot çağrısında bulundu.",
-      "link": "https://www.finansingundemi.com/haber/javier-bardemden-adidasa-israil-boykotu/1907652",
-      "published": "2026-09-08T18:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:45:54.436124+00:00"
-    },
-    {
-      "id": "c9b76b3943378bda",
-      "source": "Gazete Pencere",
-      "title": "İstanbul’da bu gece uzun süreli elektrik kesintisi yaşanacak!",
-      "summary": "İstanbul Avrupa Yakası'nda elektrik hizmeti sunan Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), şebeke yenileme ve periyodik altyapı çalışmaları kapsamında elektrik kesintisine gideceğini duyurdu.",
-      "link": "https://www.gazetepencere.com/gundem/istanbulda-bu-gece-uzun-sureli-elektrik-kesintisi-yasanacak-714790h",
-      "published": "2026-09-08T18:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:30:54.961346+00:00"
-    },
-    {
-      "id": "a2c8afb9e1ffe52f",
-      "source": "LOG",
-      "title": "iOS 26.6.2 güncellemesi yayınlandı",
-      "summary": "Yakında çıkacak iOS 27 öncesinde iOS 26&#8217;ya yönelik güncelleme çalışmaları aktif olarak sürüyor. Bu gece yayınlanan iOS 26.6.2 güncellemesi ile yalnızca hücresel bağlantı üzerinden yazılım güncellemesi indirilmesini engelleyen bir sorun düzeltildi. iOS 26.6.2 güncellemesi yayınlandı yazısı ilk olarak Teknoloji haberleri - LOG üzerinde yayınlandı.",
-      "link": "https://www.log.com.tr/ios-26-6-2-guncellemesi-yayinlandi/",
-      "published": "2026-09-08T18:24:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:25:48.836986+00:00"
     }
   ]
 }

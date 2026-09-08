@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-08T02:40:53.333386+00:00",
+  "last_updated": "2026-09-08T02:45:58.785076+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 557,
+  "new_items_this_run": 554,
   "items": [
+    {
+      "id": "12b167a2dbb3bbdb",
+      "source": "Yeni Akit",
+      "title": "Şirinler Suç Örgütü'ne dev operasyon!",
+      "summary": "Kayseri’de “Şirinler” adıyla bilinen yeni nesil suç örgütüne yönelik operasyonda gözaltına alınan 32 şüpheliden 16’sı tutuklandı. Diğer 16 şüpheli ise adli kontrol şartıyla serbest bırakıldı. Tutuklanan şüpheliler, sağlık kontrollerinin ardından cezaevine gönderildi.",
+      "link": "https://www.yeniakit.com.tr/haber/sirinler-suc-orgutune-dev-operasyon-2021526.html",
+      "published": "2026-09-08T02:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T02:45:42.341472+00:00"
+    },
     {
       "id": "bb15e649db82c58d",
       "source": "Halk TV",
@@ -72,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T02:20:40.101315+00:00"
+    },
+    {
+      "id": "970cf77918aeb827",
+      "source": "Hürriyet",
+      "title": "Kayseri'de 'Şirinler' operasyonu! 32 tutuklama",
+      "summary": "Kayseri'de, 'Şirinler' olarak bilinen yeni nesil suç örgütüne yönelik düzenlenen operasyonda gözaltına alınan 32 şüpheliden 16’sı tutuklanırken, 16’sı adli kontrol şartıyla serbest bırakıldı. Tutuklanan 16 şahıs sağlık kontrolünün ardından cezaevine gönderildi.",
+      "link": "https://www.hurriyet.com.tr/gundem/kayseride-sirinler-operasyonu-32-tutuklama-43299501",
+      "published": "2026-09-08T02:13:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T02:45:39.917543+00:00"
     },
     {
       "id": "3c4d9fec7b81980e",
@@ -468,6 +490,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T01:15:43.137672+00:00"
+    },
+    {
+      "id": "a7c2e9c5f8744c83",
+      "source": "Yeni Şafak",
+      "title": "Türk dünyasında ortak güvenlik ağı: TÜRKPOL geliyor",
+      "summary": "",
+      "link": "https://www.yenisafak.com/gundem/turk-dunyasinda-ortak-guvenlik-agi-turkpol-geliyor-4853948",
+      "published": "2026-09-08T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T02:45:41.831376+00:00"
     },
     {
       "id": "5d16db9bb2c0fa22",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-07T19:50:40.382071+00:00"
-    },
-    {
-      "id": "c0216a3a0204a246",
-      "source": "Aydınlık",
-      "title": "İzmir'de 6 kez gol sesi yükseldi! Göztepe kendi evinde Gaziantep FK'ye mağlup oldu",
-      "summary": "Göztepe kendi evinde Gaziantep FK&#039;ye 4-2 mağlup oldu. Bu skorla sarı kırmızılılar 1 puanda kaldı. Gaziantep FK&#039;nin puanı ise 7&#039;ye yükseldi",
-      "link": "https://www.aydinlik.com.tr/fotogaleri/izmirde-6-kez-gol-sesi-yukseldi-goztepe-kendi-evinde-gaziantep-fkye-maglup-oldu-589263",
-      "published": "2026-09-07T19:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T19:50:45.521620+00:00"
-    },
-    {
-      "id": "aee6483c72b2a73d",
-      "source": "Yeniçağ",
-      "title": "Sinem Dedetaş'tan kritik seçim öncesi çağrı: Bizler kimsenin kefareti değiliz",
-      "summary": "Üsküdar Belediyesi&#039;ndeki kritik seçim öncesi cezaevinden mektup gönderen Sinem Dedetaş, yaşanan gelişmelere tepki göstererek meclis üyelerine iradelerine sahip çıkmaları çağrısında bulundu.",
-      "link": "https://www.yenicaggazetesi.com/sinem-dedetastan-kritik-secim-oncesi-cagri-bizler-kimsenin-kefareti-degiliz-1069403h.htm",
-      "published": "2026-09-07T19:45:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T19:45:43.710955+00:00"
-    },
-    {
-      "id": "f135f4b6a7f34648",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İsrail üniversiteleri, Gazze'ye saldırıları eleştiren 100 Filistinli öğrenciye ayrımcı ceza verdi",
-      "summary": "İsrail üniversiteleri, İsrail'in 7 Ekim 2023'ten sonra Gazze Şeridi'ne düzenlediği soykırıma varan saldırıları eleştiren en az 100 Filistinli öğrenciye ayrımcı cezalar verdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-universiteleri-gazzeye-saldirilari-elestiren-100-filistinli-ogrenciye-ayrimci-ceza-verdi/4050123",
-      "published": "2026-09-07T19:45:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-07T19:50:37.533269+00:00"
     }
   ]
 }

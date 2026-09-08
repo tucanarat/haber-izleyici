@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-09-08T21:41:05.921890+00:00",
+  "last_updated": "2026-09-08T21:45:58.254489+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 583,
+  "new_items_this_run": 581,
   "items": [
+    {
+      "id": "bee0845fffc45d0c",
+      "source": "Akşam",
+      "title": "Asensio endişesi",
+      "summary": "Roma maçını kaçıracak olan Marco Asensio'nun Gaziantep karşılaşmasına yetişmesi için yoğun mesai harcanıyor.",
+      "link": "https://www.aksam.com.tr/spor/asensio-endisesi/haber-1696902",
+      "published": "2026-09-08T21:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:40.192938+00:00"
+    },
+    {
+      "id": "ff39cd0f7af48266",
+      "source": "Yeni Şafak",
+      "title": "Otoyolda feci kaza: Bir ölü yedi yaralı",
+      "summary": "Bursa’da tır ile otomobilin çarpıştığı kazada tır sürücüsü hayatını kaybetti, otomobildeki yedi kişi yaralandı. Kaza nedeniyle İstanbul istikameti tamamen trafiğe kapatılırken, otoyolda yaklaşık dört kilometrelik araç kuyruğu oluştu.",
+      "link": "https://www.yenisafak.com/gundem/otoyolda-feci-kaza-bir-olu-yedi-yarali-4854225",
+      "published": "2026-09-08T21:44:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:40.694220+00:00"
+    },
+    {
+      "id": "53eef98f468f3de1",
+      "source": "CNBC-e",
+      "title": "Wall Street'te Ortadoğu şoku! Borsalar peş peşe düştü",
+      "summary": "ABD borsaları, Orta Doğu'da tırmanan gerilim ve petrol fiyatlarının 100 dolara yaklaşmasıyla günü düşüşle tamamladı. Dow Jones yüzde 1,18 gerilerken, yatırımcıların odağı bu hafta açıklanacak ABD enflasyon verilerine çevrildi.",
+      "link": "https://www.cnbce.com/piyasalar/wall-streette-ortadogu-soku-borsalar-pes-pese-dustu-h36804",
+      "published": "2026-09-08T21:44:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:51.497438+00:00"
+    },
+    {
+      "id": "2d89cba85fd7f539",
+      "source": "Akşam",
+      "title": "Kerem ve Vlahovic'e tedbirsiz sevk",
+      "summary": "Türkiye Futbol Federasyonu Hukuk Müşavirliği; Vlahovic'i Fenerbahçe derbisindeki “hakareti”, Kerem Aktürkoğlu'nu ise maçın ardından yaptığı açıklamalar nedeniyle Profesyonel Futbol Disiplin Kurulu'na (PFDK) sevk etti.",
+      "link": "https://www.aksam.com.tr/spor/kerem-ve-vlahovice-tedbirsiz-sevk/haber-1696901",
+      "published": "2026-09-08T21:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:40.192974+00:00"
+    },
+    {
+      "id": "596d4bfec5d9fd9c",
+      "source": "Habertürk",
+      "title": "Bursa'da 3 araç kazaya karıştı: 1 ölü, 7 yaralı",
+      "summary": "Bursa Orhangazi'de 3 aracın karıştığı trafik kazasında, 1 kişi hayatını kaybetti, 7 kişi yaralandı",
+      "link": "https://www.haberturk.com/gundem/bursa-da-3-arac-kazaya-karisti-1-olu-7-yarali-3911178",
+      "published": "2026-09-08T21:43:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:33.558329+00:00"
+    },
+    {
+      "id": "927d979fa9b42f94",
+      "source": "Yeni Şafak",
+      "title": "Trafik denetiminde 28 sürücüye ceza",
+      "summary": "Çorum’da polis ekiplerinin gerçekleştirdiği trafik denetimlerinde 128 araç kontrol edildi. Kurallara uymadığı belirlenen 28 sürücüye idari para cezası uygulandı.",
+      "link": "https://www.yenisafak.com/gundem/trafik-denetiminde-28-surucuye-ceza-4854223",
+      "published": "2026-09-08T21:42:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:40.694256+00:00"
+    },
+    {
+      "id": "ee39b4661ea317d6",
+      "source": "Cumhuriyet",
+      "title": "Yasadışı bahis operasyonu yapılmış, kayyım atanmıştı: TRPOS Ödeme Kuruluşu'nun faaliyet izni iptal edildi!",
+      "summary": "Trpos Ödeme Kuruluşu AŞ'ye yönelik yasa dışı bahis ve suçtan kaynaklanan malvarlığı değerlerinin aklanması iddiasıyla yürütülen soruşturma kapsamında, 24 kişi gözaltına alınmış ve kayyım atanmıştı. Resmi Gazete'de yer alan kararda, kuruluşun faaliyet izninin iptal edildiği bildirildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/yasadisi-bahis-operasyonu-yapilmis-kayyim-atanmisti-trpos-odeme-kurulusu-nun-faaliyet-izni-iptal-edildi-2536038",
+      "published": "2026-09-08T21:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:36.586831+00:00"
+    },
+    {
+      "id": "a59fc9ddf8ab5979",
+      "source": "Akşam",
+      "title": "Salah fırtına gibi",
+      "summary": "4 haftada 4 gol atan Mısırlı yıldız, Trabzonspor'da son 5 sezonda en iyi başlangıcı yapan oyuncu oldu.",
+      "link": "https://www.aksam.com.tr/spor/salah-firtina-gibi/haber-1696900",
+      "published": "2026-09-08T21:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:40.192997+00:00"
+    },
     {
       "id": "5fa72b1e42750ae9",
       "source": "Yeniçağ",
@@ -17,6 +105,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T21:40:47.513385+00:00"
+    },
+    {
+      "id": "093143ebd60635fe",
+      "source": "Cumhuriyet",
+      "title": "Trump’tan Kanada’ya yeni ticaret hamlesi: Ürünler kamu ihalelerinden çıkarılacak",
+      "summary": "ABD Başkanı Trump, Kanada ile ticarette karşılıklılık sağlanmadığı gerekçesiyle Kanada menşeli ürünlere kamu ihalelerinde erişim kısıtlaması getirdi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/trump-tan-kanada-ya-yeni-ticaret-hamlesi-urunler-kamu-ihalelerinden-cikarilacak-2536037",
+      "published": "2026-09-08T21:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:36.586868+00:00"
+    },
+    {
+      "id": "0dcc019bc3b49df2",
+      "source": "Aydınlık",
+      "title": "Angela Merkel'den AfD açıklaması: Almanya için tarihi bir dönüm noktası",
+      "summary": "Almanya eski Başbakanı Angela Merkel, AfD&#039;nin Saksonya-Anhalt eyalet seçimlerindeki tarihi başarısını büyük bir dönüm noktası ilan etti.",
+      "link": "https://www.aydinlik.com.tr/haber/angela-merkelden-afd-aciklamasi-almanya-icin-tarihi-bir-donum-noktasi-589401",
+      "published": "2026-09-08T21:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-08T21:45:43.291831+00:00"
     },
     {
       "id": "e30d879d20f6d63f",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T18:15:46.663499+00:00"
-    },
-    {
-      "id": "79eba6ec465c6e76",
-      "source": "Bir Gün",
-      "title": "Tunç Soyer'in de aralarında bulunduğu \"zimmet\" soruşturmasında 19 şüpheli hakkında iddianame hazırlandı",
-      "summary": "Aralarında eski İzmir Büyükşehir Belediye Başkanı Tunç Soyer, eski CHP İl Başkanı Şenol Aslanoğlu ve eski İZBETON AŞ Genel Müdürü Heval Savaş Kaya'nın da bulunduğu 3'ü tutuklu 19 şüpheli hakkında 1'er yıldan 12'şer yıla kadar hapis cezası talep edildi",
-      "link": "https://www.birgun.net/haber/tunc-soyer-in-de-aralarinda-bulundugu-zimmet-sorusturmasinda-19-supheli-hakkinda-iddianame-hazirlandi-733661",
-      "published": "2026-09-08T18:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T19:10:42.100362+00:00"
-    },
-    {
-      "id": "da1b8cb52b92bec8",
-      "source": "Cumhuriyet",
-      "title": "Fenerbahçeli efsane basketbolcu Ferhan Baras hayatını kaybetti",
-      "summary": "Fenerbahçe Kulübü, 1963-1978 yılları arasında sarı-lacivertli formayı terleten Ferhan Baras'ın 84 yaşında hayata gözlerini yumduğunu açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/fenerbahceli-efsane-basketbolcu-ferhan-baras-hayatini-kaybetti-2535968",
-      "published": "2026-09-08T18:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:15:39.133892+00:00"
-    },
-    {
-      "id": "492a0b9ec7c10032",
-      "source": "Habertürk",
-      "title": "Porto Manchester City maçı hangi kanalda?",
-      "summary": "UEFA Şampiyonlar Ligi’nde 2026-2027 sezonunun 1. hafta maçında Porto, Manchester City'i ağırlıyor. Avrupa futbolunun iki önemli ekibini karşı karşıya getirecek mücadele Estádio do Dragão’da oynanacak. Futbolseverler karşılaşma öncesinde Porto - Manchester City maçı canlı izle ekranı, maçın başlama saati ve maçın şifreli mi, şifresiz mi yayınlanacağını araştırıyor. Peki Porto - Manchester City maçı",
-      "link": "https://www.haberturk.com/bilgi/foto/porto-manchester-city-maci-canli-izle-porto-manchester-city-maci-ne-zaman-saat-kacta-hangi-kanalda-sifreli-mi-sifresiz-mi-3911138",
-      "published": "2026-09-08T18:11:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:15:35.418952+00:00"
-    },
-    {
-      "id": "1da71aeda316bb0f",
-      "source": "Türkiye Gazetesi",
-      "title": "Eren Vurdem'den Serhat Kılıç için yürek yakan sözler",
-      "summary": "Oyuncu Serhat Kılıç’ın evinde hayatını kaybetmesinin ardından olay yerine giden isimlerden biri olan yakın dostu Eren Vurdem, sosyal medya hesabından duygusal bir paylaşım yaptı. Kılıç’ın vefatıyla büyük üzüntü yaşayan Vurdem, dostuna duyduğu özlemi ve yaşadığı acıyı takipçileriyle paylaştı.",
-      "link": "https://www.turkiyegazetesi.com.tr/magazin/dostunun-kaybiyla-kahroldu-eren-vurdemden-serhat-kilica-veda-1814655",
-      "published": "2026-09-08T18:11:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:15:41.968664+00:00"
-    },
-    {
-      "id": "1f6ddbb6fb91e14d",
-      "source": "Yeniçağ",
-      "title": "Rafael Leao'dan Sporting maçı öncesi duygusal itiraf: 'Sevdiğim bir kulüp'",
-      "summary": "Galatasaray&#039;ın yıldız futbolcusu Rafael Leao, Şampiyonlar Ligi&#039;ndeki Sporting maçı öncesi konuştu. Eski takımına karşı sahaya çıkacak Portekizli yıldız, &quot;Sporting benim büyüdüğüm, sevdiğim bir kulüp. Profesyonel kariyerime başladığım kulüp&quot; d,yerek duygularını paylaştı.",
-      "link": "https://www.yenicaggazetesi.com/rafael-leaodan-sporting-maci-oncesi-duygusal-itiraf-sevdigim-bir-kulup-1069735h.htm",
-      "published": "2026-09-08T18:11:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:15:47.272326+00:00"
-    },
-    {
-      "id": "a96785902957d967",
-      "source": "Evrensel",
-      "title": "İzmir'deki kooperatif soruşturmasında iddianame hazırlandı: Tunç Soyer dahil 19 kişi",
-      "summary": "Eski İzmir Büyükşehir Belediye Başkanı Tunç Soyer, eski İZBETON Genel Müdürü Heval Savaş Kaya ve eski CHP İzmir İl Başkanı Şenol Aslanoğlu'nun da aralarında bulunduğu 19 kişi hakkında iddianame hazırlandı.",
-      "link": "https://www.evrensel.net/haber/5999728/izmirdeki-kooperatif-sorusturmasinda-iddianame-hazirlandi-tunc-soyer-dahil-19-kisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-08T18:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:20:40.313270+00:00"
-    },
-    {
-      "id": "20e2f96d448c1a1b",
-      "source": "OdaTV",
-      "title": "Rizde silahlı saldırı anı",
-      "summary": "Rize&#039;nin Ardeşen ilçesinde 29 yaşındaki şahsın ağır yaralandığı silahlı saldırı anı, bir işletmenin güvenlik kamerasına yansıdı.",
-      "link": "https://www.odatv.com/guncel/rizde-silahli-saldiri-ani-120161946",
-      "published": "2026-09-08T18:10:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:15:49.445469+00:00"
-    },
-    {
-      "id": "05a9523f33c57544",
-      "source": "BBC News Türkçe",
-      "title": "Yunanistan İtalya'dan yüz milyonlarca euroluk savaş gemileri alıyor",
-      "summary": "Yunanistan, İtalya'dan savaş gemileri almak için sözleşme imzaladı. Yunanistan Savunma Bakanı bu yeni gemilerin \"Yunan Donanması'nın temel gücü\" olacağını söyledi.",
-      "link": "https://www.bbc.com/turkce/articles/cy9z8q1w0e5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08T18:10:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:10:56.973494+00:00"
-    },
-    {
-      "id": "fd5a7c2aff45da58",
-      "source": "Ekonomim",
-      "title": "İngiltere'deki teknik sorun nedeniyle 625 sefer iptal edildi",
-      "summary": "İngiltere&#039;nin hava trafik kontrol hizmeti sağlayıcısı NATS&#039;taki teknik sorun nedeniyle ülkenin önemli havalimanlarında uçuşlarda aksaklık yaşanırken 625 uçuş iptal oldu. Havalimanları iniş ve kalkışa kapatılınca uçaklar yakın meydanlara yönlendirildi.",
-      "link": "https://www.ekonomim.com/havacilik/ingilteredeki-teknik-sorun-nedeniyle-625-sefer-iptal-edildi-haberi-917024",
-      "published": "2026-09-08T18:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:15:57.630661+00:00"
-    },
-    {
-      "id": "cbd0b5401e5ebc84",
-      "source": "Halk TV",
-      "title": "Tom Barrack'tan Hakan Fidan'a ziyaret",
-      "summary": "ABD&#039;nin Ankara Büyükelçisi Tom Barrack, Dışişleri Bakanı Hakan Fidan&#039;ı ziyaret etti. Ziyarette Barrack&#039;a ABD Temsilciler Meclisi Üyesi de eşlik etti.",
-      "link": "https://halktv.com.tr/siyaset/tom-barracktan-hakan-fidana-ziyaret-1053867h",
-      "published": "2026-09-08T18:08:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T18:10:43.702420+00:00"
     }
   ]
 }

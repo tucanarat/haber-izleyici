@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-09T02:35:50.241432+00:00",
+  "last_updated": "2026-09-09T02:41:01.783336+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 585,
+  "new_items_this_run": 584,
   "items": [
     {
       "id": "3fa8f51444993366",
@@ -28,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T23:10:37.161097+00:00"
+    },
+    {
+      "id": "dc9282c865d411f4",
+      "source": "Halk TV",
+      "title": "Apple katlanabilir iPhone'u bugün tanıtacak",
+      "summary": "Apple, Cupertino&#039;daki yıllık ürün etkinliğinde katlanabilir ekranlı akıllı telefonunu tanıtmaya hazırlanıyor.",
+      "link": "https://halktv.com.tr/bilim-ve-teknoloji/apple-katlanabilir-iphoneu-bugun-tanitacak-1053900h",
+      "published": "2026-09-09T02:37:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-09T02:40:47.339960+00:00"
     },
     {
       "id": "e2c632ea8dec41eb",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T20:30:50.453375+00:00"
-    },
-    {
-      "id": "9b4a3aa31518cc28",
-      "source": "Karar",
-      "title": "Yapay zeka artık onaya ihtiyaç duymadan e-posta gönderebiliyor",
-      "summary": "Anthropic, yapay zeka asistanı Claude'un Gmail entegrasyonunu genişleterek kullanıcılar adına doğrudan e-posta gönderme yetkisi getirdi. Yapılan güncellemeyle kullanıcı talimatı sonrası ikinci bir onaya ihtiyaç duymadan mesaj ileten sistem, e-posta trafiğinde yeni bir dönemi başlatıyor.",
-      "link": "https://www.karar.com/teknoloji-haberleri/claude-gmailden-e-posta-atabilir-mi-claude-gmail-entegrasyonu-nasil-2070777",
-      "published": "2026-09-08T20:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-08T20:30:48.522236+00:00"
     }
   ]
 }

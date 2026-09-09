@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T22:31:26.030425+00:00",
+  "last_updated": "2026-09-09T22:35:50.104986+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -28,6 +28,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-08T23:10:37.161097+00:00"
+    },
+    {
+      "id": "641c83bdaf057062",
+      "source": "Akşam",
+      "title": "Rubio'dan İran'a sert uyarı... \"Bedelini tankerleriyle ödüyorlar\"",
+      "summary": "ABD Dışişleri Bakanı Marco Rubio, İran'ın ABD savaş gemilerine ateş açmayı sürdürmesi halinde ekonomik bedel ödemeye devam edeceği mesajını verdi.",
+      "link": "https://www.aksam.com.tr/dunya/rubiodan-irana-sert-uyari-bedelini-tankerleriyle-oduyorlar/haber-1697196",
+      "published": "2026-09-09T22:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-09T22:35:34.113209+00:00"
+    },
+    {
+      "id": "d5d71aefa53bc55f",
+      "source": "Akşam",
+      "title": "Sporting taraftarından Leao'ya protesto",
+      "summary": "Galatasaray, Portekiz temsilcisi Sporting'e karşı oynadığı maçta Rafael Leao, rakip takım taraftarları tarafından protesto edildi.",
+      "link": "https://www.aksam.com.tr/spor/sporting-taraftarindan-leaoya-protesto/haber-1697195",
+      "published": "2026-09-09T22:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-09T22:35:34.113240+00:00"
     },
     {
       "id": "f0a6cf305cb2cf1f",
@@ -1128,6 +1150,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T21:36:02.694209+00:00"
+    },
+    {
+      "id": "d2cc080e0b212974",
+      "source": "Habertürk",
+      "title": "iPhone 18 Pro ve iPhone Duo tanıtıldı",
+      "summary": "Apple'ın uzun süredir merakla beklenen yeni iPhone lansmanı \"Surprise and Shine\" etkinliğiyle gerçekleştirildi. Etkinlikte iPhone 18 Pro ve iPhone 18 Pro Max resmi olarak tanıtılırken, şirketin ilk katlanabilir telefonu iPhone Duo da teknoloji dünyasına giriş yaptı. Apple'ın yeni modellerinde performans, kamera, yapay zeka ve pil tarafında önemli geliştirmeler dikkat çekti. iPhone Duo ise katlanab",
+      "link": "https://www.haberturk.com/bilgi/foto/iphone-18-pro-ve-iphone-duo-ne-zaman-cikacak-iphone-18-ne-kadar-iphone-duo-ozellikleri-neler-satis-fiyati-ne-kadar-3911429",
+      "published": "2026-09-09T21:27:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-09T22:35:27.857849+00:00"
     },
     {
       "id": "c2a69b66d9d009f2",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T19:05:44.422175+00:00"
-    },
-    {
-      "id": "3455026f2771d2b9",
-      "source": "Halk TV",
-      "title": "Kılıçdaroğlu’nun İmamoğlu için 'siyasi tutuklu değil' sözlerine Özgür Özel’den cevap",
-      "summary": "Özgür Özel canlı yayında gündeme ilişkin açıklamalarda bulundu. Kılıçdaroğlu’nun İmamoğlu için “siyasi tutuklu değil” sözlerine tepki gösteren Özel, Üsküdar ve İBB sürecine ilişkin de dikkat çeken mesajlar verdi.",
-      "link": "https://halktv.com.tr/siyaset/kilicdaroglunun-imamoglu-icin-siyasi-tutuklu-degil-sozlerine-ozgur-ozelden-cevap-1054079h",
-      "published": "2026-09-09T19:03:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T19:05:47.853009+00:00"
-    },
-    {
-      "id": "cd6c469b952f9721",
-      "source": "Cumhuriyet",
-      "title": "Korku dolu anlar: Elindeki bıçakla husumetlisine saldırdı",
-      "summary": "Esenyurt’ta bir şahıs elindeki bıçakla husumetlisine saldırdı. Saldırı anları cep telefonu kameralarına yansıdı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/korku-dolu-anlar-elindeki-bicakla-husumetlisine-saldirdi-2536265",
-      "published": "2026-09-09T19:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T19:10:40.431983+00:00"
-    },
-    {
-      "id": "894dd92c9005c79e",
-      "source": "Türkiye Gazetesi",
-      "title": "90 yıllık matematik problemini 88 saatte çözdü",
-      "summary": "OpenAI, yaklaşık 90 yıldır çözülemeyen ileri düzey bir matematik problemini yeni nesil yapay zeka modeliyle 88 saatte çözdüğünü açıkladı. Şirket, çözüm için yaklaşık 10 bin yapay zeka aracının yanı sıra 3 milyon mesaj ve 130 milyar veriden yararlandığını bildirdi.",
-      "link": "https://www.turkiyegazetesi.com.tr/teknoloji/90-yillik-problem-yapay-zekaya-teslim-openai-cozumu-88-saatte-buldu-1814931",
-      "published": "2026-09-09T19:02:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T19:10:42.421547+00:00"
     }
   ]
 }

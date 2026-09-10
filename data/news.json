@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-10T00:01:20.118687+00:00",
+  "last_updated": "2026-09-10T00:05:59.544632+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 550,
+  "new_items_this_run": 548,
   "items": [
+    {
+      "id": "8e5f1c7700f23b77",
+      "source": "Halk TV",
+      "title": "Son Dakika | İran'da 3 kentte patlama sesleri",
+      "summary": "İran’ın Hürmüzgan eyaletinde patlama sesleri duyuldu. Devrim Muhafızları, ABD’ye ait iki savaş gemisini balistik füzelerle hedef aldığını açıkladı.",
+      "link": "https://halktv.com.tr/dunya/son-dakika-iranda-3-kentte-patlama-sesleri-1054109h",
+      "published": "2026-09-10T00:04:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T00:05:43.891089+00:00"
+    },
     {
       "id": "1f6b437b6cac6ef0",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T19:35:39.290906+00:00"
-    },
-    {
-      "id": "dbca55da095f67e7",
-      "source": "Euronews Türkçe",
-      "title": "Güney Kıbrıs gazı Avrupa yolunda: Mısır ve Yunanistan'dan yeni güzergah planı",
-      "summary": "Güney Kıbrıs’ın Kronos sahasından çıkarılacak gazın 2028’den itibaren Mısır üzerinden Avrupa pazarlarına ulaşması öngörülüyor.",
-      "link": "http://tr.euronews.com/business/2026/09/09/misir-yunanistan-ve-kibris-avrupaya-kibris-gazi-ihracatina-destek",
-      "published": "2026-09-09T19:32:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T19:35:55.720209+00:00"
     }
   ]
 }

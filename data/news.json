@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-09-10T04:06:01.564545+00:00",
+  "last_updated": "2026-09-10T04:11:03.427006+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 556,
+  "new_items_this_run": 551,
   "items": [
+    {
+      "id": "5f64b9d6c799ffa5",
+      "source": "Akşam",
+      "title": "Yunan basınından Atina ve Rum yönetimine sert eleştiri! “Erdoğan'ı durduramazsınız”",
+      "summary": "Politis yazarı Dionysiou, Yunanistan ve Güney Kıbrıs'ın silahlanma yarışına tepki göstererek, “İkinci bir İsrail olmaya çalışmak en büyük hatadır” dedi.",
+      "link": "https://www.aksam.com.tr/dunya/yunan-basinindan-atina-ve-rum-yonetimine-sert-elestiri-erdogani-durduramazsiniz/haber-1697199",
+      "published": "2026-09-10T04:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:41.975346+00:00"
+    },
+    {
+      "id": "3d6960eae77d4cda",
+      "source": "Karar",
+      "title": "Gaziantep’te kahreden olay: Elektrik akımına kapılan 2 kişi hayatını kaybetti",
+      "summary": "Gaziantep’in Şahinbey ilçesinde terasta halı yıkadıkları sırada elektrik akımına kapılan iki kadın, kaldırıldıkları hastanelerde yaşamını yitirdi.",
+      "link": "https://www.karar.com/sehir-haberleri/gaziantepte-kahreden-olay-elektrik-akimina-kapilan-2-kisi-hayatini-2071018",
+      "published": "2026-09-10T04:09:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:43.825042+00:00"
+    },
+    {
+      "id": "8b8966b359857443",
+      "source": "Akşam",
+      "title": "Fenerbahçe-Roma maçı öncesi karaborsa operasyonu! Bilet vurgununa polis darbesi: 5 gözaltı",
+      "summary": "Fenerbahçe-Roma karşılaşması öncesi harekete geçen İstanbul polisi, karaborsa bilet satışına yönelik operasyon gerçekleştirdi. Operasyonda 5 şüpheli gözaltına alındı.",
+      "link": "https://www.aksam.com.tr/guncel/fenerbahce-roma-maci-oncesi-karaborsa-operasyonu-bilet-vurgununa-polis-darbesi-5-gozalti/haber-1697198",
+      "published": "2026-09-10T04:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:41.975380+00:00"
+    },
+    {
+      "id": "2365184d05088d17",
+      "source": "Halk TV",
+      "title": "Galatasaray'ı nasıl yendiklerini açıkladı",
+      "summary": "Sporting Lizbon Teknik Direktörü Rui Borges, Galatasaray&#039;ı nasıl yendiklerini açıkladı.",
+      "link": "https://halktv.com.tr/spor/galatasarayi-nasil-yendiklerini-acikladi-1054119h",
+      "published": "2026-09-10T04:06:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:47.168657+00:00"
+    },
     {
       "id": "c417989c86758cf3",
       "source": "Euronews Türkçe",
@@ -173,6 +217,17 @@
       "fetched_at": "2026-09-10T04:05:39.138393+00:00"
     },
     {
+      "id": "1daed84cbfc3679f",
+      "source": "Habertürk",
+      "title": "Termometre 30 derecelerde... Yurt genelinde eylül yazı",
+      "summary": "MGM'den alınan son dakika hava durumu verilere göre; bugün yurt genelinde ortalama sıcaklık 30 derecelerde olacak. Orman yangınlarının yüreğimizi yaktığı Akdeniz'de ise rüzgarın hızının orta kuvvette olacağı bildirildi. Yağış beklenmeyen illerimizde sıcaklıklar ve hava durumu ise şöyle...",
+      "link": "https://www.haberturk.com/gundem/hava-durumu-istanbul-termometre-30-derecelerde-yurt-genelinde-eylul-yazi-3911463",
+      "published": "2026-09-10T04:01:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:34.016352+00:00"
+    },
+    {
       "id": "68a0377d3aec34f1",
       "source": "Türkiye Gazetesi",
       "title": "Fenerbahçe - Roma maçı öncesi karaborsa operasyonu",
@@ -226,6 +281,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T04:01:06.958931+00:00"
+    },
+    {
+      "id": "7e4e8ea18fa81067",
+      "source": "Independent Türkçe",
+      "title": "Eski savunma Bakanı Trump'ı uyardı: \"İran savaşı Irak ve Afganistan gibi başarısız olma yolunda\"",
+      "summary": "Amerikan Başkanı Trump, 1 hafta süreceğini sandığı ama 6 aydır bitiremediği İran savaşından kendisine bir zafer hikâyesi yazarak çıkmakta zorlanıyor. Kasım ayında yapılacak seçimlerde, ABD Kongresindeki çoğunluğu kaybetme riskiyle karşı karşıya olan Trump'ın ne askeri ne diplomatik ne ekonomik tehditleri İran'a geri adım attıramıyor, boyun eğdiremiyor. Kısacası Trump, bölgeye 50 bin asker, 2 uçak ",
+      "link": "https://www.indyturk.com/node/782264/t%C3%BCrki%CC%87yeden-sesler/eski-savunma-bakan%C4%B1-trump%C4%B1-uyard%C4%B1-i%CC%87ran-sava%C5%9F%C4%B1-irak-ve-afganistan",
+      "published": "2026-09-10T03:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:51.456546+00:00"
     },
     {
       "id": "5be18a662f7f55fd",
@@ -1172,6 +1238,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T01:05:39.078751+00:00"
+    },
+    {
+      "id": "53fc9e93350545ca",
+      "source": "Cumhuriyet",
+      "title": "AfD’nin ‘zaferinin’ jeopolitiği",
+      "summary": "Yarın 11 Eylül’ün 25. yıldönümü (pazartesi günü yazacağım), AfD’nin, Saksonya-Anhalt seçimlerindeki zaferi, 11 Eylül kadar olmasa bile, Almanya’nın iç siyasetinin ötesinde, Avrupa Birliği’nin geleceği açısından tarihte yeni bir sayfa açmış olabilir.",
+      "link": "https://www.cumhuriyet.com.tr/yazarlar/ergin-yildizoglu/afd-nin-zaferinin-jeopolitigi-2536290",
+      "published": "2026-09-10T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:37.148770+00:00"
     },
     {
       "id": "45ffb73bac6538b5",
@@ -2846,6 +2923,17 @@
       "fetched_at": "2026-09-09T22:35:34.113240+00:00"
     },
     {
+      "id": "66bc4bf4a3416c5f",
+      "source": "Sabah",
+      "title": "AKINCI’dan tam isabet",
+      "summary": "Türk savunma sanayiinin iki dev gücü Baykar ve Roketsan'ın iş birliğiyle gerçekleştirilen test atışlarında, Bayraktar AKINCI TİHA'dan ateşlenen süpersonik güdümlü bir füze, belirlenen hedefi sıfır sapmayla... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/09/10/akincidan-tam-isabet",
+      "published": "2026-09-09T22:30:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:41.419528+00:00"
+    },
+    {
       "id": "f0a6cf305cb2cf1f",
       "source": "Türkiye Gazetesi",
       "title": "Yasa dışı bahis ağından 6,2 milyar çıktı",
@@ -2855,6 +2943,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T22:31:02.897332+00:00"
+    },
+    {
+      "id": "09b633a4977f53c6",
+      "source": "Sabah",
+      "title": "Motosiklet sürücülerine sıkı denetim",
+      "summary": "İstanbul'da kent genelinde motosiklet sürücülerine yönelik yapılan denetimde kurallara uymadığı tespit edilen sürücülere toplam 1 milyon 154 bin 155 lira trafik idari para cezası kesildi. Emniyet Müdürlüğü... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/motosiklet-suruculerine-siki-denetim-7657932",
+      "published": "2026-09-09T22:27:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:41.419555+00:00"
     },
     {
       "id": "fa34386c6513b256",
@@ -3385,6 +3484,17 @@
       "fetched_at": "2026-09-09T21:46:19.692583+00:00"
     },
     {
+      "id": "fb5ac73b012aa6db",
+      "source": "Sabah",
+      "title": "Rize’ye 10 milyarlık dev yatırım",
+      "summary": "Rize’de içinde 10 dönümlük çocuk parkı, kütüphane ve Çay Müzes’inin de olduğu Millet Bahçesi, spor tesisleri ve kültür sokağının da aralarında bulunduğu onlarca proje tamamlandı. Dev yatırımlar, yarın... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/09/10/rizeye-10-milyarlik-dev-yatirim",
+      "published": "2026-09-09T21:45:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:41.419383+00:00"
+    },
+    {
       "id": "a7d88b6d4f4e38de",
       "source": "Gazete Pencere",
       "title": "Yaprak sarmasının içi iyi pişmiyorsa işte İzmirli şeflerin pişirme tüyosu",
@@ -3625,6 +3735,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T21:40:44.887077+00:00"
+    },
+    {
+      "id": "bbb3b4b5174e7d21",
+      "source": "Sabah",
+      "title": "Erdoğan, ABB Başkanı Yavaş'ı kabul etti",
+      "summary": "Başkan Erdoğan, Ankara Büyükşehir Belediye (ABB) Başkanı Mansur Yavaş'ı kabul etti. Cumhurbaşkanlığı Külliyesi'ndeki kabul, basına kapalı gerçekleşti. ABD'nin Ankara Büyükelçisi, Suriye ve... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/09/10/erdogan-abb-baskani-yavasi-kabul-etti",
+      "published": "2026-09-09T21:40:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:41.419581+00:00"
     },
     {
       "id": "75fc22ef6d217877",
@@ -4144,6 +4265,17 @@
       "fetched_at": "2026-09-09T21:36:18.039935+00:00"
     },
     {
+      "id": "3809f14dcc732495",
+      "source": "Sabah",
+      "title": "Koku gelen inşaatta erkek cesedi bulundu",
+      "summary": "Avcılar'da yaklaşık 15 yıldır sokakta yaşadığı öğrenilen 57 yaşındaki Dursun Y., boş bir inşaatta ölü bulundu. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Cesedin 10 günden uzun süredir... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/koku-gelen-insaatta-erkek-cesedi-bulundu-7657838",
+      "published": "2026-09-09T21:21:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:41.419609+00:00"
+    },
+    {
       "id": "31ddbcdd12be265b",
       "source": "Türkiye Gazetesi",
       "title": "Aksu ve Kepez'de alevlerin önü kesildi!",
@@ -4274,6 +4406,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T21:20:42.700226+00:00"
+    },
+    {
+      "id": "2d816b69949911d2",
+      "source": "Sabah",
+      "title": "3 büyük ilde servis ücretleri zamlandı",
+      "summary": "Türkiye'de 14 Eylül'de başlayacak yeni eğitim öğretim yılında hizmet verecek öğrenci servis ücretlerinde artış oranları belli olurken, üç büyük ilde bu ücretler mesafeye göre 27 bin ile 93 bin lira arasında... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/3-buyuk-ilde-servis-ucretleri-zamlandi-7657835",
+      "published": "2026-09-09T21:16:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:41.419636+00:00"
     },
     {
       "id": "e157d5752eb60595",
@@ -4760,6 +4903,17 @@
       "fetched_at": "2026-09-09T21:06:07.134669+00:00"
     },
     {
+      "id": "d123ee7edf2ab812",
+      "source": "Aydınlık",
+      "title": "Galatasaray'dan Şampiyonlar Ligi'ne kötü başlangıç",
+      "summary": "UEFA Şampiyonlar Ligi’nde ilk hafta maçında Galatasaray, deplasmanda Portekiz ekibi Sporting&#039;e 3-1 mağlup oldu.",
+      "link": "https://www.aydinlik.com.tr/haber/galatasaraydan-sampiyonlar-ligine-kotu-baslangic-589529",
+      "published": "2026-09-09T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:45.588061+00:00"
+    },
+    {
       "id": "fff5cffb6df50117",
       "source": "Karar",
       "title": "PISA tamam...Artık diğer listelere de baksak mı?",
@@ -5189,6 +5343,61 @@
       "fetched_at": "2026-09-09T21:01:10.922224+00:00"
     },
     {
+      "id": "11573e34e2f0d79b",
+      "source": "Ekonomim",
+      "title": "\"Dezenflasyon sürecinde maliyet artışı ile ihracat gelirinde denge gözetilmeli\"",
+      "summary": "Ege İhracatçı Birlikleri (EİB) ve Ekonomi Gazetesi iş birliğinde düzenlenen Ege İhracat Buluşmaları&#039;nın 14.sünde konuşan EİB Koordinatör Başkanı Muhammet Öztürk, Türk ihracatçısının pandemide dünya pazarlarında yakaladığı fırsatı yüksek enflasyon, düşük kur, finansmana erişememe gibi nedenlerle kalıcı hale getiremediğini söyledi. Öztürk, sağlıklı bir ekonomi için büyümenin sanayi ve ihracat d",
+      "link": "https://www.ekonomim.com/ekonomi/dezenflasyon-surecinde-maliyet-artisi-ile-ihracat-gelirinde-denge-gozetilmeli-haberi-917263",
+      "published": "2026-09-09T21:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:54.335181+00:00"
+    },
+    {
+      "id": "250aee0e8f487607",
+      "source": "Ekonomim",
+      "title": "TEPAV: \"Faiz sabit tutulmalı”",
+      "summary": "",
+      "link": "https://www.ekonomim.com/kose-yazisi/tepav-faiz-sabit-tutulmali/917264",
+      "published": "2026-09-09T21:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:54.335197+00:00"
+    },
+    {
+      "id": "c77937d7d17cb7b4",
+      "source": "Ekonomim",
+      "title": "12 saatte 65 milyon görüntülenme alan bir istifa",
+      "summary": "",
+      "link": "https://www.ekonomim.com/kose-yazisi/12-saatte-65-milyon-goruntulenme-alan-bir-istifa/917266",
+      "published": "2026-09-09T21:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:54.335213+00:00"
+    },
+    {
+      "id": "7834da5e38ab6b09",
+      "source": "Ekonomim",
+      "title": "Beş yıllık zarar son bulurken 811 milyonluk kâr korunur mu?",
+      "summary": "",
+      "link": "https://www.ekonomim.com/kose-yazisi/bes-yillik-zarar-son-bulurken-811-milyonluk-kar-korunur-mu/917271",
+      "published": "2026-09-09T21:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:54.335230+00:00"
+    },
+    {
+      "id": "b3774f1c630b8491",
+      "source": "Ekonomim",
+      "title": "Plastik boru ile 2.3 milyar lirayı bulup ‘vagon’a da girdi halka arz vizesi Sivas’la hızlandı",
+      "summary": "",
+      "link": "https://www.ekonomim.com/kose-yazisi/plastik-boru-ile-23-milyar-lirayi-bulup-vagona-da-girdi-halka-arz-vizesi-sivasla-hizlandi/917273",
+      "published": "2026-09-09T21:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T04:10:54.335249+00:00"
+    },
+    {
       "id": "a7f037ed209fd37c",
       "source": "Hürriyet",
       "title": "İSTANBUL VAKIFLAR 1. BÖLGE MÜDÜRLÜĞÜ",
@@ -5297,215 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T21:05:40.185340+00:00"
-    },
-    {
-      "id": "0a90ab03ee78c3aa",
-      "source": "Aydınlık",
-      "title": "El Alameyn’deki Yunan-Rum görüntüsüne rağmen Mısır Asya hattında kalır",
-      "summary": "Yunan-Rum hattı Kahire’de kameralara oynadı. Zirveyi Aydınlık’a değerlendiren Prof. Dr. Hüseyin Şeyhanlıoğlu ise Kahire’nin denge siyaseti izlediğini, Mısır’ın ve İran’ın günün sonunda Mekke Anlaşması’na katılacağını söyledi",
-      "link": "https://www.aydinlik.com.tr/haber/el-alameyndeki-yunan-rum-goruntusune-ragmen-misir-asya-hattinda-kalir-589514",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:05:40.185358+00:00"
-    },
-    {
-      "id": "45db8b8e90b3fcf8",
-      "source": "Aydınlık",
-      "title": "SDG devletleşiyor mu, Suriye’ye entegre mi oluyor?",
-      "summary": "SDG devletleşiyor mu, Suriye’ye entegre mi oluyor?",
-      "link": "https://www.aydinlik.com.tr/koseyazisi/sdg-devletlesiyor-mu-suriyeye-entegre-mi-oluyor-589515",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:05:40.185370+00:00"
-    },
-    {
-      "id": "827fb6cc353b57e8",
-      "source": "Aydınlık",
-      "title": "Serhat Kılıç’ın hatırasına büyük saygısızlık! Sosyal medyanın şirazesi kaydı",
-      "summary": "51 yaşında vefat eden oyuncu Serhat Kılıç’ın ardından medya etiği ve insani değerler hiçe sayıldı. Otopsi öncesi sızdırılan görüntülerle mahremiyeti ihlal edilirken meslektaşlarının samimi vedaları sosyal medyada karalama kampanyalarının hedefi oldu.",
-      "link": "https://www.aydinlik.com.tr/haber/serhat-kilicin-hatirasina-buyuk-saygisizlik-sosyal-medyanin-sirazesi-kaydi-589518",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:05:40.185388+00:00"
-    },
-    {
-      "id": "93e1759042f6d1bd",
-      "source": "Aydınlık",
-      "title": "Real Madrid’in Tibet paylaşımı",
-      "summary": "Real Madrid’in Tibet paylaşımı",
-      "link": "https://www.aydinlik.com.tr/koseyazisi/real-madridin-tibet-paylasimi-589519",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:05:40.185399+00:00"
-    },
-    {
-      "id": "1906cc5bd884bf1c",
-      "source": "Aydınlık",
-      "title": "Alman gazeteci AfD zaferini yorumladı: Washington ve Brüksel’e boyun eğmediler",
-      "summary": "Alman gazeteci Benedikt Kaiser, AfD’nin ezici galibiyetiyle ilgili &#039;Seçmenler, uzun süredir aradığı muhalefet boşluğunu yalnızca bu partide bulabildi. AfD, klasik Batılı AB anlatısına boyun eğme çizgisinden saptı. Washington ve Brüksel’den uzak, tamamen kendi yolunu arayan bir çizgide…&#039; dedi",
-      "link": "https://www.aydinlik.com.tr/haber/alman-gazeteci-afd-zaferini-yorumladi-washington-ve-bruksele-boyun-egmediler-589525",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:05:40.185419+00:00"
-    },
-    {
-      "id": "707d6e34687a6bbb",
-      "source": "Ekonomim",
-      "title": "Doğa Koruma ve Milli Parklar 1. Bölge Müdürlüğü",
-      "summary": "",
-      "link": "https://www.ekonomim.com/resmi-ilanlar/doga-koruma-ve-milli-parklar-1-bolge-mudurlugu-ilan-916300",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246624+00:00"
-    },
-    {
-      "id": "ea29077de931e19c",
-      "source": "Ekonomim",
-      "title": "Şeffaflık Merkez Bankası’na da lazım!",
-      "summary": "",
-      "link": "https://www.ekonomim.com/kose-yazisi/seffaflik-merkez-bankasina-da-lazim/917226",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246652+00:00"
-    },
-    {
-      "id": "71bc6d3c067d24dd",
-      "source": "Ekonomim",
-      "title": "Tarihte bugün: 10 Eylül",
-      "summary": "10 Eylül tarihi, tarih boyunca birçok olaya tanıklık etmiştir. Peki, tarihte bugün Türkiye’de ve dünyada yaşanan gelişmeler neler? Tarihte 10 Eylül’de hangi olaylar yaşandı? İşte detaylar…",
-      "link": "https://www.ekonomim.com/foto-galeri/yasam/tarihte-bugun-10-eylul-s1-galeri-917235",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246686+00:00"
-    },
-    {
-      "id": "cd8c7745954732ec",
-      "source": "Ekonomim",
-      "title": "128,8 milyar lira fonları terk etti!",
-      "summary": "Küresel endeks sağlayıcı MSCI&#039;nın sert uyarıları sonrası harekete geçen Sermaye Piyasası Kurulu, 28 Ağustos&#039;tan bu yana yaptığı açıklamalarla fon ve hisse senedi piyasasında köklü değişikliklere imza attı. Bu değişiklikler sonrası TEFAS&#039;a açık yatırım fonlarından 128.8 milyar liralık çıkış yaşanırken bazı fonlarda aynı dönemde yatırımcının kaybı yüzde 65&#039;e dayandı.",
-      "link": "https://www.ekonomim.com/ekonomi/1288-milyar-lira-fonlari-terk-etti-haberi-917252",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246749+00:00"
-    },
-    {
-      "id": "75ceb157afb8d53c",
-      "source": "Ekonomim",
-      "title": "İTHİB/Şişman: Tekstilde değere odaklanmalıyız",
-      "summary": "İTHİB Başkanı Ahmet Şişman, sektörün bugün çok boyutlu bir rekabet sınavından geçtiğine dikkat çekerek, &quot;Tekstilde yeni bir paradigmaya geçmeliyiz. Bugüne kadar bizi güçlü kılan üretim kabiliyetimizi, bilgi birikimimizi ve ihracat gücümüzü; teknoloji, inovasyon, sürdürülebilirlik ve markalaşmayla bir üst seviyeye taşımalıyız. Hacme değil, değer üretmeye odaklanmalıyız&quot; dedi.",
-      "link": "https://www.ekonomim.com/sektorler/tekstil/ithibsisman-tekstilde-degere-odaklanmaliyiz-haberi-917253",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246793+00:00"
-    },
-    {
-      "id": "3db3e77422bc6549",
-      "source": "Ekonomim",
-      "title": "AK Parti, 5 soruyla nabız ölçecek!",
-      "summary": "AK Parti, Eylül ayında seçmene 5 soruyla Terörsüz Türkiye sürecine verilen desteği sormaya hazırlanırken, yine AK Parti’nin masasındaki son kamuoyu araştırmasına göre, toplumun yüzde 61.6’sı sürece destek veriyor. GENAR’ın Ağustos ayı raporu yayımlandı.",
-      "link": "https://www.ekonomim.com/gundem/ak-parti-5-soruyla-nabiz-olcecek-haberi-917254",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246826+00:00"
-    },
-    {
-      "id": "b1ffba54b47f0310",
-      "source": "Ekonomim",
-      "title": "Türkiye'de tarımsal destekleme modeli kökten değişmeli",
-      "summary": "Ankara Üniversitesi Öğretim Üyesi ve Tarımsal Bilgi Platformu kurucusu Prof. Dr. Bülent Gülçubuk, iklim değişikliği, savaşlar, su kıtlığı, üretim maliyetleri gibi unsurların tarım politikasında yeni bir destekleme modelini zorunlu kıldığını söyledi. Gülçubuk, Türkiye&#039;nin yeni destekleme yaklaşımında, çiftçiye yalnızca “hangi ürünü ürettiği” için değil, nasıl ürettiği, ne kazanabileceği ve üre",
-      "link": "https://www.ekonomim.com/ekonomi/turkiyede-tarimsal-destekleme-modeli-kokten-degismeli-haberi-917255",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246871+00:00"
-    },
-    {
-      "id": "30228de0963dac11",
-      "source": "Ekonomim",
-      "title": "Tamamlayıcı Sağlık Sigortası daha geniş kitlelere ulaşacak",
-      "summary": "Türkiye Sigorta Sağlık Sigortaları Genel Müdür Yardımcısı Tuba Buldu, sigortalı sayılarını 1.2 milyona çıkardıklarını kaydederek Türkiye’de sağlık sigortası olan her 7 kişiden birine hizmet sunduklarını vurguladı.",
-      "link": "https://www.ekonomim.com/sektorler/sigortacilik/tamamlayici-saglik-sigortasi-daha-genis-kitlelere-ulasacak-haberi-917256",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246903+00:00"
-    },
-    {
-      "id": "421c19909b1024d2",
-      "source": "Ekonomim",
-      "title": "Türkiye'nin hazır giyim ithalatı 7 ayda 3 milyar dolara yaklaştı",
-      "summary": "Türkiye&#039;nin hazır giyim ithalatı 2026 Ocak-Temmuz döneminde yüzde 7,3 artarak 2 milyar 953 milyon dolara ulaştı. İthalat, 2022 yılının tamamındaki 3,1 milyar dolarlık seviyeye 7 ayda yaklaşırken, son iki yıldaki artış yüzde 26,7&#039;yi buldu.",
-      "link": "https://www.ekonomim.com/ekonomi/turkiyenin-hazir-giyim-ithalati-7-ayda-3-milyar-dolara-yaklasti-haberi-917257",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246936+00:00"
-    },
-    {
-      "id": "53fccaab17c679bd",
-      "source": "Ekonomim",
-      "title": "Referans Holding'e sürdürülebilirlikte uluslararası ödül",
-      "summary": "Referans Holding, sürdürülebilirlik alanında hayata geçirdiği Sustainova Programı ile uluslararası ödüle layık görüldü.",
-      "link": "https://www.ekonomim.com/sirketler/referans-holdinge-surdurulebilirlikte-uluslararasi-odul-haberi-917258",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.246962+00:00"
-    },
-    {
-      "id": "115046a8c80eca66",
-      "source": "Ekonomim",
-      "title": "Şölen, Betterway ile ABD'de büyüyecek, markaları Super Bowl'da görünecek",
-      "summary": "Şölen, protein ve lif odaklı yeni markası Better Way ile ABD&#039;de büyümeyi hedefliyor. CEO Erdoğan Çoban, kasımda Türkiye&#039;de satışa çıkacak markanın ardından ABD pazarına taşınacağını, Walmart ve Costco ile iş birlikleri yürüttüklerini söyledi. Çoban, hedeflerinin Şölen markalarını Super Bowl&#039;da görmek olduğunu belirtti.",
-      "link": "https://www.ekonomim.com/ekonomi/solen-betterway-ile-abdde-buyuyecek-markalari-super-bowlda-gorunecek-haberi-917259",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.247034+00:00"
-    },
-    {
-      "id": "15b9a32a8be17586",
-      "source": "Ekonomim",
-      "title": "Petrol üç haneye geri döndü",
-      "summary": "Brent petrol, Ortadoğu&#039;daki savaşın enerji koridorlarını yeniden tehdit etmesiyle temmuzdan bu yana ilk kez 100 doları aştı. Hürmüz Boğazı&#039;ndaki akışın belirsizliği ve Suudi enerji tesislerine yönelik saldırılar arz endişesini büyütürken, petrol fiyatı son bir ayda yaklaşık yüzde 25 yükseldi.",
-      "link": "https://www.ekonomim.com/ekonomi/petrol-uc-haneye-geri-dondu-haberi-917260",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.247080+00:00"
-    },
-    {
-      "id": "67c704aca95b4036",
-      "source": "Ekonomim",
-      "title": "İnegöl'ün en çok ihracat yapan firmaları açıklandı",
-      "summary": "İnegöl&#039;de sektörlere göre en fazla ihracat yapan firmalar İTSO tarafından açıklandı. Mobilyadan gıdaya, tekstilden otomotiv ve makineye birçok sektörde öne çıkan şirketlerin yer aldığı listede, ilçenin 2025 ihracatı 1,126 milyar dolar, dış ticaret fazlası ise 793 milyon dolar oldu.",
-      "link": "https://www.ekonomim.com/ekonomi/inegolun-en-cok-ihracat-yapan-firmalari-aciklandi-haberi-917261",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.247116+00:00"
-    },
-    {
-      "id": "2d2505c3fa3bbc70",
-      "source": "Ekonomim",
-      "title": "Yeşil Çevre, sanayide su geri kazanımını 4 yıl öne çekiyor",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı’nın 6 Ağustos 2026’da yürürlüğe giren 2026/11 sayılı genelgesi, tekstil sektöründe suyun geri kazanımını zorunlu hâle getirirken, Bursa’daki sanayi bölgelerinde yürütülen atıksu geri kazanım yatırımlarının önemini artırdı.",
-      "link": "https://www.ekonomim.com/ekonomi/yesil-cevre-sanayide-su-geri-kazanimini-4-yil-one-cekiyor-haberi-917262",
-      "published": "2026-09-09T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T21:01:12.247149+00:00"
     }
   ]
 }

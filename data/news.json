@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-10T23:35:55.681657+00:00",
+  "last_updated": "2026-09-10T23:41:00.692374+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 565,
+  "new_items_this_run": 561,
   "items": [
+    {
+      "id": "d550171a87272068",
+      "source": "Yeniçağ",
+      "title": "Sincan’da araç yangını",
+      "summary": "Ankara’nın Sincan ilçesindeki bir atölyede bulunan araçta çıkan yangın, itfaiye ekiplerince söndürüldü.",
+      "link": "https://www.yenicaggazetesi.com/sincanda-arac-yangini-1070563h.htm",
+      "published": "2026-09-10T23:36:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T23:40:44.799514+00:00"
+    },
     {
       "id": "830c36383ed55577",
       "source": "Yeniçağ",
@@ -5486,26 +5497,15 @@
       "fetched_at": "2026-09-10T19:25:38.239617+00:00"
     },
     {
-      "id": "bd94199d76f74e98",
-      "source": "Akşam",
-      "title": "Mansur Yavaş bombası",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/mansur-yavas-bombasi/haber-1697437",
+      "id": "a523db6f655a5a2f",
+      "source": "DonanımHaber",
+      "title": "Yeni Hızlı ve Öfkeli filmi Paul Walker'ı yapay zekâ ile geri getirebilir",
+      "summary": "Zamansız ölümüyle hayranlarını üzen Paul Walker, Hızlı ve Öfkeli serisinin final filmiyle beyaz perdeye geri dönebilir. Karakteri yapay zekâ ile geri döndürmek için hazırlıklar başladı.",
+      "link": "https://www.donanimhaber.com/yeni-hizli-ve-ofkeli-filmi-paul-walker-i-ai-ile-geri-getirebilir--210330",
       "published": "2026-09-10T19:22:00+00:00",
       "matched": false,
       "matched_keywords": [],
-      "fetched_at": "2026-09-10T21:01:05.338593+00:00"
-    },
-    {
-      "id": "b2b87ba5947424e3",
-      "source": "Cumhuriyet",
-      "title": "Filenin Efeleri Avrupa Voleybol Şampiyonası'na mağlubiyet ile başladı",
-      "summary": "A Milli Erkek Voleybol Takımı, 2026 CEV Avrupa Şampiyonası'nın ilk maçında karşılaştığı Almanya'ya 3-1 mağlup oldu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/filenin-efeleri-avrupa-voleybol-sampiyonasi-na-maglubiyet-ile-basladi-2536567",
-      "published": "2026-09-10T19:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T19:25:33.287453+00:00"
+      "fetched_at": "2026-09-10T23:40:57.944080+00:00"
     }
   ]
 }

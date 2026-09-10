@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-10T02:06:01.960039+00:00",
+  "last_updated": "2026-09-10T02:11:07.494609+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 573,
+  "new_items_this_run": 559,
   "items": [
+    {
+      "id": "79681d29c6eb9dbc",
+      "source": "Halk TV",
+      "title": "Beyaz Saray'dan Trump'a uyarı: İran savaşı 2029'a kadar sürebilir",
+      "summary": "Beyaz Saray yetkilileri, İran ile çatışmanın 2029&#039;a kadar sürebileceğini söyledi. Trump ise savaşın ara seçimlerden sonra biteceğini belirtti.",
+      "link": "https://halktv.com.tr/dunya/beyaz-saraydan-trumpa-uyari-iran-savasi-2029a-kadar-surebilir-1054113h",
+      "published": "2026-09-10T02:05:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T02:10:51.393927+00:00"
+    },
     {
       "id": "2c4875cb968bf772",
       "source": "BBC News Türkçe",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T02:06:01.194206+00:00"
+    },
+    {
+      "id": "724af39c8131772f",
+      "source": "Türkiye Gazetesi",
+      "title": "EKİPLER SON ANDA KURTULDU!",
+      "summary": "Antalya'nın Aksu ilçesinde orman yangınlarıyla mücadele eden ekipler, alevlerin arasında kalmaktan son anda kurtuldu. Yürekleri ağza getiren anlar cep telefonu kamerasıyla görüntülendi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/antalyada-yurekler-agza-geldi-ekipler-alevlerin-arasinda-kalmaktan-son-anda-kurtuldu-1814985",
+      "published": "2026-09-10T02:04:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T02:10:42.428782+00:00"
     },
     {
       "id": "671f0c195ebb61a1",
@@ -402,6 +424,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T01:51:13.791857+00:00"
+    },
+    {
+      "id": "2cbcb5869166c1b7",
+      "source": "Finans Gündem",
+      "title": "Trump: İran’la savaş 3 Kasım’dan hemen sonra sona erecek",
+      "summary": "ABD Başkanı Donald Trump, İran'la aktif olarak herhangi bir müzakere yürütmediklerini kaydederek, İran'la savaşın 3 Kasım'da ABD'de yapılacak Kongre ara seçimlerinden hemen sonra sona ereceğini savundu.",
+      "link": "https://www.finansingundemi.com/haber/trump-iranla-savas-3-kasimdan-hemen-sonra-sona-erecek/1907812",
+      "published": "2026-09-10T01:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T02:11:00.012362+00:00"
     },
     {
       "id": "ab6cd00bed57a85b",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T20:40:38.353092+00:00"
-    },
-    {
-      "id": "398c138d5bf346f7",
-      "source": "Star",
-      "title": "Trump: Putin anlaşma yapmak istiyor",
-      "summary": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ile \"harika\" bir telefon görüşmesi yaptığını belirterek, Putin'in \"anlaşma yapmak istediğini\" söyledi.",
-      "link": "https://www.star.com.tr/dunya/trump-putin-anlasma-yapmak-istiyor-haber-2039254/",
-      "published": "2026-09-09T20:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T20:40:46.661930+00:00"
-    },
-    {
-      "id": "75a3479488d73a76",
-      "source": "Evrensel",
-      "title": "Ürdün: Netanyahu'nun Şeyh Dağı bölgesine baskını, Suriye'nin egemenliğinin açık bir ihlalidir",
-      "summary": "Ürdün, İsrail Başbakanı Binyamin Netanyahu'nun işgal altındaki Suriye topraklarına \"yasa dışı\" şekilde girmesinin Suriye'nin egemenliğinin ve toprak bütünlüğünün \"açık ihlali\" olduğunu vurguladı.",
-      "link": "https://www.evrensel.net/haber/5999889/urdun-netanyahunun-seyh-dagi-bolgesine-baskini-suriyenin-egemenliginin-acik-bir-ihlalidir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-09T20:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T20:55:40.576366+00:00"
-    },
-    {
-      "id": "24f058ba90348223",
-      "source": "Diken",
-      "title": "Kızılhaç: Avrupa'da bu yaz aşırı sıcak nedeniyle 35 bin kişi öldü",
-      "summary": "Kızılhaç: Avrupa'da bu yaz aşırı sıcak nedeniyle 35 bin kişi öldü 09.09.2026 Diken Uluslararası Kızılhaç ve Kızılay Dernekleri Federasyonu (IFRC) Genel Sekreteri Jagan Chapagain, bu yaz Avrupa'da görülen sıcak hava dalgaları nedeniyle yaklaşık 35 bin kişinin hayatını kaybettiğini söyledi. The post Kızılhaç: Avrupa'da bu yaz aşırı sıcak nedeniyle 35 bin kişi öldü appeared first on #site_linkat 09.0",
-      "link": "https://www.diken.com.tr/kizilhac-avrupada-bu-yaz-asiri-sicak-nedeniyle-35-bin-kisi-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=kizilhac-avrupada-bu-yaz-asiri-sicak-nedeniyle-35-bin-kisi-oldu",
-      "published": "2026-09-09T20:35:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T20:40:51.415497+00:00"
     }
   ]
 }

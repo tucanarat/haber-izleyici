@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T02:35:55.478040+00:00",
+  "last_updated": "2026-09-10T02:41:06.725046+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 557,
   "items": [
+    {
+      "id": "c5e2e9ca9a92c03a",
+      "source": "BBC News Türkçe",
+      "title": "Müzelere yönelik soygunlar neden daha sık ve pervasız hale geldi?",
+      "summary": "Bu hafta hırsızların bir Fransız müzesine girip milyonlarca euro değerindeki dört Renoir tablosunu çalıp, ikisini götürmesi herkesi şaşırtmadı. Geçtiğimiz ay Europol, Avrupa genelinde müze hırsızlıklarının daha da pervasız hale geldiği konusunda uyarıda bulunmuştu.",
+      "link": "https://www.bbc.com/turkce/articles/cp30kvv7ngzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-10T02:35:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T02:41:06.067378+00:00"
+    },
     {
       "id": "2b3dd36286ac2b73",
       "source": "BBC News Türkçe",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T20:45:39.267428+00:00"
-    },
-    {
-      "id": "d3c72c2e1384740f",
-      "source": "Karar",
-      "title": "Özgür Özel: CHP ile bir işbirliği yapmamız asla mümkün değil",
-      "summary": "Yeni Parti Genel Başkanı Özgür Özel, CHP ile cumhurbaşkanı adayı konusunda işbirliği yapılıp yapılmayacağına ilişkin, “Onlarla birlikte herhangi bir işbirliği yapmamız asla mümkün değil. Biz, cumhurbaşkanı adayımızı bütün meşru muhalefetle konuşuruz, gayrimeşru muhalefetle işimiz olmaz” dedi.",
-      "link": "https://www.karar.com/guncel-haberler/ozgur-ozel-chp-ile-bir-isbirligi-yapmamiz-asla-mumkun-degil-2070999",
-      "published": "2026-09-09T20:38:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T20:40:47.446812+00:00"
     }
   ]
 }

@@ -1,12 +1,210 @@
 {
-  "last_updated": "2026-09-10T11:06:21.387156+00:00",
+  "last_updated": "2026-09-10T11:10:56.520526+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 528,
+  "new_items_this_run": 562,
   "items": [
+    {
+      "id": "2cbe4ca5ba45aaa2",
+      "source": "CNBC-e",
+      "title": "THY'nin yer hizmetleri iştiraki TGS'den tarihi rekor: 92 bin uçuş",
+      "summary": "THY'nin yer hizmetleri iştiraki TGS, ağustosta 92 bin 161 uçuş ve 15 milyon 336 bin 188 yolcuya hizmet vererek aylık bazda tüm zamanların en yüksek rakamlarına ulaştı.",
+      "link": "https://www.cnbce.com/haberler/thynin-yer-hizmetleri-istiraki-tgsden-tarihi-rekor-92-bin-ucus-h36935",
+      "published": "2026-09-10T11:10:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:50.775614+00:00"
+    },
+    {
+      "id": "c31a2cf5c93aabba",
+      "source": "Yeniçağ",
+      "title": "Uçak biletlerine zam geliyor: Tarih verildi",
+      "summary": "Petrol fiyatlarının 100 doların üzerine çıkması havayolu sektöründe maliyet baskısını arttırdı. Ryanair CEO&#039;su Michael O&#039;Leary, mevcut tablonun gelecek seneye taşınması durumunda uçak bileti fiyatlarında &quot;önemli&quot; artışlar görülebileceğini söyledi.",
+      "link": "https://www.yenicaggazetesi.com/ucak-biletlerine-zam-geliyor-tarih-verildi-1070295h.htm",
+      "published": "2026-09-10T11:10:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:44.052920+00:00"
+    },
+    {
+      "id": "832a06229218e1d2",
+      "source": "Akşam",
+      "title": "Özcan Deniz Kayseri Kültür Yolu Festivali'nde sahneye çıktı!",
+      "summary": "Özcan Deniz, Kültür ve Turizm Bakanlığı tarafından gerçekleştirilen Kayseri Kültür Yolu Festivali'nde dinleyicileriyle buluştu.",
+      "link": "https://www.aksam.com.tr/venus/ozcan-deniz-kayseri-kultur-yolu-festivalinde-sahneye-cikti/haber-1697332",
+      "published": "2026-09-10T11:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:42.330539+00:00"
+    },
+    {
+      "id": "c131f655addb11ed",
+      "source": "Türkiye Gazetesi",
+      "title": "Maltepe’de silahlı saldırı! Yaralılar var",
+      "summary": "İstanbul Maltepe’de bir kişi silahla ateş açtı. Olayda yaralananların olduğu öğrenilirken, bölgeye polis ve sağlık ekiplerinin yanı sıra Özel Harekat ekipleri de sevk edildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/maltepede-silahli-saldiri-yaralilar-var-1815091",
+      "published": "2026-09-10T11:09:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:39.984399+00:00"
+    },
+    {
+      "id": "044afc59a76e9a46",
+      "source": "Yeniçağ",
+      "title": "Konkordatoda yeni dönem: Ayrıntılar belli oldu",
+      "summary": "2027-2029 dönemini kapsayan Orta Vadeli Program ile iş dünyasını yakından ilgilendiren yeni düzenlemeler gündeme geldi. Konkordato uygulamasındaki aksaklıkların giderilmesi ve kötüye kullanımın önlenmesi için mevzuat çalışması yapılacak. Şirket kuruluş süreçleri de kolaylaştırılacak.",
+      "link": "https://www.yenicaggazetesi.com/konkordatoda-yeni-donem-ayrintilar-belli-oldu-1070294h.htm",
+      "published": "2026-09-10T11:09:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:44.052965+00:00"
+    },
+    {
+      "id": "6dd953f29d1816c9",
+      "source": "Yeniçağ",
+      "title": "Cezaevi aracı ile otomobil çarpıştı: 9 yaralı",
+      "summary": "Erzurum&#039;da cezaevi ring aracı ile otomobilin çarpışması sonucu 9 kişi yaralandı.",
+      "link": "https://www.yenicaggazetesi.com/cezaevi-araci-ile-otomobil-carpisti-9-yarali-1070293h.htm",
+      "published": "2026-09-10T11:09:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:44.052994+00:00"
+    },
+    {
+      "id": "158e2fee4ce9bdf6",
+      "source": "Cumhuriyet",
+      "title": "Çin’de tersane faciası: Gemide çıkan yangında 20 kişi öldü",
+      "summary": "Çin'in doğusundaki Qingdao kentinde bakım için tersanede bulunan yabancı bandıralı bir yük gemisinde yangın çıktı. Olayda en az 20 kişi yaşamını yitirirken 5 kişiden haber alınamıyor. Çin Devlet Başkanı Şi Cinping, arama kurtarma çalışmalarının hızlandırılması ve yangının nedeninin araştırılması talimatını verdi.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/cin-de-tersane-faciasi-gemide-cikan-yanginda-20-kisi-oldu-2536439",
+      "published": "2026-09-10T11:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:38.026657+00:00"
+    },
+    {
+      "id": "44632130b69cdc15",
+      "source": "Star",
+      "title": "Can Bozdoğan: Önümüzdeki 2 haftada iyi şeyler yapacağımıza inanıyorum",
+      "summary": "Trendyol Süper Lig'in 5. haftasında Eyüpspor ile karşılaşacak Çaykur Rizespor'un futbolcusu Can Bozdoğan basın mensuplarına açıklamalarda bulundu.",
+      "link": "https://www.star.com.tr/spor/can-bozdogan-onumuzdeki-2-haftada-iyi-seyler-yapacagimiza-inaniyorum-haber-2039375/",
+      "published": "2026-09-10T11:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:43.136620+00:00"
+    },
+    {
+      "id": "57e63679a88d9b40",
+      "source": "Gazete Pencere",
+      "title": "Faiz kararı sonrası altın, dolar ve borsadan ilk tepki",
+      "summary": "Merkez Bankası politika faizini sabit tutma kararı aldı. İşte karar sonrası piyasaların ilk tepkisi...",
+      "link": "https://www.gazetepencere.com/ekonomi/faiz-karari-sonrasi-altin-dolar-ve-borsadan-ilk-tepki-714997h",
+      "published": "2026-09-10T11:08:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:44.897923+00:00"
+    },
+    {
+      "id": "18de4518de0f0f7c",
+      "source": "Milliyet",
+      "title": "Son dakika... Maltepe'de silah sesleri! Yaralılar var, özel harekat bölgede",
+      "summary": "Ayrıntılar geliyor...",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-maltepede-silah-sesleri-yaralilar-var-ozel-harekat-bolgede-7657747",
+      "published": "2026-09-10T11:08:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:41.627678+00:00"
+    },
+    {
+      "id": "7a1543972ce8c0a7",
+      "source": "Türkiye Gazetesi",
+      "title": "Arap dünyasında diplomatik deprem! Cezayir BAE ile ilişkileri kesti",
+      "summary": "Cezayir, Birleşik Arap Emirlikleri ile diplomatik ilişkilerini kesme kararı aldı. Cezayir devlet televizyonunun duyurduğu kararda, iki ülke arasındaki ilişkilerin korunması için \"tüm yolların tüketildiği\" ifade edildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/arap-dunyasinda-diplomatik-deprem-cezayir-bae-ile-iliskileri-kesti-1815090",
+      "published": "2026-09-10T11:07:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:39.984439+00:00"
+    },
+    {
+      "id": "c1fee931626c3385",
+      "source": "Karar",
+      "title": "Pakistan’dan İran’a: Husileri durdurun, savaşa dahil olabiliriz",
+      "summary": "Yemen’deki Husilerin Suudi Arabistan’a yönelik saldırılarının artması, Pakistan’ı da doğrudan taraf olabileceği bir senaryoya karşı uyarıda bulunmaya itti. İslamabad, İran’a Husiler üzerindeki etkisini kullanarak saldırıları engellemesi çağrısı yaparken, aksi durumda Suudi Arabistan’ı savunmak için savaşa müdahil olabileceğini bildirdi.",
+      "link": "https://www.karar.com/dunya-haberleri/pakistandan-irana-husileri-durdurun-savasa-dahil-olabiliriz-2071109",
+      "published": "2026-09-10T11:07:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:43.746874+00:00"
+    },
+    {
+      "id": "e24a5d1b6dee16b4",
+      "source": "Karar",
+      "title": "Gezi davası hükümlüsü Tayfun Kahraman ile Meriç Demir boşandı",
+      "summary": "Gezi davası hükümlüsü Tayfun Kahraman ile eşi Meriç Demir boşandı. Kahraman, sosyal medya hesabından yaptığı açıklamada, boşanma kararını Meriç Demir ile ortak aldıklarını belirterek mahremiyetlerine gösterilen hassasiyet için teşekkür etti.",
+      "link": "https://www.karar.com/guncel-haberler/gezi-davasi-hukumlusu-tayfun-kahraman-ile-meric-demir-bosandi-2071108",
+      "published": "2026-09-10T11:07:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:43.746919+00:00"
+    },
+    {
+      "id": "935a58cee9d091be",
+      "source": "Gazete Pencere",
+      "title": "İDOB yeni sezonu Beethoven’ın 9. Senfonisi ile açıyor, Afife prömiyer yapıyor",
+      "summary": "İstanbul Devlet Opera ve Balesi, 2026-2027 sezonunu Beethoven’ın 9. Senfonisi ile açacak. 19 Eylül’de başlayacak sezonda “Afife”, “Rüzgâr Ağacı”, “Palto”, “Turandot”un da aralarında bulunduğu yedi yeni yapım prömiyer yapacak.",
+      "link": "https://www.gazetepencere.com/kultur-sanat/idob-yeni-sezonu-beethovenin-9-senfonisi-ile-aciyor-afife-promiyer-yapiyor-714996h",
+      "published": "2026-09-10T11:07:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:44.897965+00:00"
+    },
+    {
+      "id": "c39837fdb0851e61",
+      "source": "Ekonomim",
+      "title": "Maltepe’de silahlı saldırı: Yaralılar var, özel harekât bölgede",
+      "summary": "Maltepe’de bir kişi silahla ateş açtı. Olay yerinde yaralılar var. Bölgeye özel hareket polisi sevk edildi.",
+      "link": "https://www.ekonomim.com/gundem/maltepede-silahli-saldiri-yaralilar-var-ozel-harekat-bolgede-haberi-917406",
+      "published": "2026-09-10T11:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:50.016799+00:00"
+    },
+    {
+      "id": "c7b83e3f5c9914b3",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "THY'nin yer hizmetleri iştiraki TGS'den ağustosta uçuş ve yolcu sayısında rekor",
+      "summary": "Türk Hava Yollarının (THY) yer hizmetleri iştiraki Turkish Ground Services (TGS), ağustosta hizmet verdiği 92 bin 161 uçuş ve 15 milyon 336 bin 188 yolcuyla aylık bazda tarihi rekora imza attı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/thynin-yer-hizmetleri-istiraki-tgsden-agustosta-ucus-ve-yolcu-sayisinda-rekor/4053103",
+      "published": "2026-09-10T11:06:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:37.711231+00:00"
+    },
+    {
+      "id": "5b4b83fd51b0de44",
+      "source": "Gerçek Gündem",
+      "title": "Denizcilikte 'Yeşil' Devrim: Bakan Uraloğlu Tarih Verdi",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Trabzon&#039;daki zirvede Türkiye&#039;nin Mavi Vatan stratejisini yeşil dönüşümle taçlandıracak yol haritasını duyurdu. Bakan Uraloğlu, &quot;2028 sonunda yeşil kruvaziyer limanını, 2030 yılında ise yeşil konteyner limanını hayata geçirmiş olacağız&quot; dedi.",
+      "link": "https://www.gercekgundem.com/cevre/denizcilikte-yesil-devrim-bakan-uraloglu-tarih-verdi-578378",
+      "published": "2026-09-10T11:06:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:48.637495+00:00"
+    },
+    {
+      "id": "7ee0b7b5db41b431",
+      "source": "Sözcü",
+      "title": "Son dakika... Merkez Bankası yılın altıncı faiz kararını açıkladı",
+      "summary": "Son dakika... Merkez Bankası yılın altıncı faiz kararını açıkladı",
+      "link": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-yilin-altinci-faiz-kararini-acikladi-p356972",
+      "published": "2026-09-10T11:06:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:40.166773+00:00"
+    },
     {
       "id": "0c30068dba61969d",
       "source": "Yeniçağ",
@@ -17,6 +215,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T11:05:46.078217+00:00"
+    },
+    {
+      "id": "4a4d7f9d897605fa",
+      "source": "Akşam",
+      "title": "Yeni kriz patlak verdi! Cezayir, BAE ile ilişkileri kesti",
+      "summary": "Cezayir, Birleşik Arap Emirlikleri ile diplomatik ilişkilerini sonlandırma kararı aldığını duyurdu.",
+      "link": "https://www.aksam.com.tr/dunya/cezayir-birlesik-arap-emirlikleri-ile-diplomatik-iliskileri-kesti/haber-1697331",
+      "published": "2026-09-10T11:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:42.330571+00:00"
+    },
+    {
+      "id": "57d77bcf692ee358",
+      "source": "Star",
+      "title": "Cezayir-BAE hattında kriz büyüdü! Diplomatik ilişkileri sonlandırma kararı aldılar",
+      "summary": "Cezayir, Birleşik Arap Emirlikleri ile diplomatik ilişkilerini sonlandırma kararı aldığını duyurdu",
+      "link": "https://www.star.com.tr/dunya/cezayir-birlesik-arap-emirlikleri-ile-diplomatik-iliskilerini-sonlandirma-karari-aldigini-duyurdu-haber-2039374/",
+      "published": "2026-09-10T11:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:43.136653+00:00"
     },
     {
       "id": "32dd188d078b3dd7",
@@ -52,6 +272,28 @@
       "fetched_at": "2026-09-10T11:06:21.386114+00:00"
     },
     {
+      "id": "ee5e5d7643de2018",
+      "source": "Cumhuriyet",
+      "title": "CHP’nin 103. yıl resepsiyonunda dikkat çeken görüntüler: Başkanlar yer almadı",
+      "summary": "CHP’nin butlan yönetimi, partinin 103. kuruluş yıldönümü için genel merkezin bahçesinde resepsiyon düzenledi. Havai fişeklerin atıldığı resepsiyonda Anıtkabir’deki törene katılan Zeydan Karalar, Vahap Seçer gibi isimler yer almadı. Parti içinde daha önce yönetimi eleştiren Muharrem İnce, Gürsel Erol gibi isimler resepsiyona gelirken; adı genel başkanlık ile anılan Oğuz Kaan Salıcı etkinliğe katılm",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/chp-nin-103-yil-resepsiyonunda-dikkat-ceken-goruntuler-baskanlar-yer-almadi-2536437",
+      "published": "2026-09-10T11:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:38.026707+00:00"
+    },
+    {
+      "id": "33d316431ef99881",
+      "source": "Evrensel",
+      "title": "Süper Lig’in 5 haftasında Beşiktaş, Erzurumspor'u evinde ağırlayacak: Rıdvan Yılmaz sakatlık nedeniyle kadroda yok",
+      "summary": "Beşiktaş, Süper Lig'in 5’inci haftasının açılış maçında sahasında Erzurumspor FK’yı ağırlayacak. Kasık sakatlığından dolayı Rıdvan Yılmaz kadroda yer almayacak.",
+      "link": "https://www.evrensel.net/haber/5999976/super-ligin-5-haftasinda-besiktas-erzurumsporu-evinde-agirlayacak-ridvan-yilmaz-sakatlik-nedeniyle-kadroda-yok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-10T11:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:40.277632+00:00"
+    },
+    {
       "id": "c48f6a9165b9f9d0",
       "source": "Star",
       "title": "Fenerbahçe, Luisa Geiselsöder'i duyurdu",
@@ -63,6 +305,28 @@
       "fetched_at": "2026-09-10T11:05:43.927002+00:00"
     },
     {
+      "id": "d195c67047c1f92b",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Cezayir, Birleşik Arap Emirlikleri ile diplomatik ilişkilerini sonlandırma kararı aldığını duyurdu",
+      "summary": "Cezayir, Birleşik Arap Emirlikleri ile diplomatik ilişkilerini sonlandırma kararı aldığını duyurdu.",
+      "link": "https://www.aa.com.tr/tr/dunya/cezayir-birlesik-arap-emirlikleri-ile-diplomatik-iliskilerini-sonlandirma-karari-aldigini-duyurdu/4053093",
+      "published": "2026-09-10T11:03:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:37.711297+00:00"
+    },
+    {
+      "id": "a77f519096cb61e9",
+      "source": "Evrensel",
+      "title": "Merkez Bankası faiz kararını açıkladı",
+      "summary": "Merkez Bankası faiz oranının yüzde 37’de sabit tutulmasına karar verdi.",
+      "link": "https://www.evrensel.net/haber/5999974/merkez-bankasi-faiz-kararini-acikladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-10T11:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:40.277666+00:00"
+    },
+    {
       "id": "620c87cdfd061d2f",
       "source": "BBC News Türkçe",
       "title": "Merkez Bankası politika faizini %37'de sabit tuttu",
@@ -72,6 +336,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T11:06:19.634726+00:00"
+    },
+    {
+      "id": "950e9d16b939b8ac",
+      "source": "Aydınlık",
+      "title": "Merkez Bankası faiz kararını açıkladı",
+      "summary": "Merkez Bankası, politika faizine dokunmayarak, yüzde 37 seviyesinde sabit tuttu. Böylece üst üste beşinci toplantıda da faiz oranında değişikliğe gidilmemiş oldu.",
+      "link": "https://www.aydinlik.com.tr/haber/merkez-bankasi-faiz-kararini-acikladi-589579",
+      "published": "2026-09-10T11:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:44.528711+00:00"
     },
     {
       "id": "6267d717bdb98033",
@@ -127,6 +402,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T11:01:12.975743+00:00"
+    },
+    {
+      "id": "6f1bda2247d774e8",
+      "source": "Evrensel",
+      "title": "“Maceracı Annelerin Savunması Adına” İstanbul’da sahneleniyor",
+      "summary": "Bahçe Galata, yeni tiyatro sezonunu 11 Eylül’de “Maceracı Annelerin Savunması Adına” ile açıyor. Simon Marshall’ın oyunu, annelerinin ardından farklı hayatlar kuran iki kardeş üzerinden annelik, özgürlük ve risk kavramlarını ele alıyor.",
+      "link": "https://www.evrensel.net/haber/5999975/maceraci-annelerin-savunmasi-adina-istanbulda-sahneleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-10T11:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:40.277702+00:00"
     },
     {
       "id": "bd2ef19286c28786",
@@ -217,6 +503,17 @@
       "fetched_at": "2026-09-10T11:01:41.776734+00:00"
     },
     {
+      "id": "c34ea51e5c8b2990",
+      "source": "ShiftDelete.Net",
+      "title": "Volvo’dan Üçlü Yenilenme: Makyajlı XC40, EX40 ve EC40 Resmi Olarak Tanıtıldı",
+      "summary": "İsveçli otomotiv üreticisi Volvo Cars, kompakt segmentteki temsilcilerini kapsayan geniş çaplı bir güncelleme duyurdu. Resmi basın bülteniyle paylaşılan detaylara göre yenilenen Volvo XC40, tamamen elektrikli kardeşleri Volvo EX40 ve Volvo EC40 ile birlikte tasarım, kabin teknolojisi ve sürüş güvenliği alanında önemli yeniliklere kavuştu. İskandinav Tasarımında &#8220;Thor’un Çekici&#8221; Dokunuş",
+      "link": "https://shiftdelete.net/volvodan-uclu-yenilenme-makyajli-xc40-ex40-ve-ec40-resmi-olarak-tanitildi",
+      "published": "2026-09-10T11:00:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:53.842577+00:00"
+    },
+    {
       "id": "99bfb50b7fec2818",
       "source": "Halk TV",
       "title": "Sulama yapılmadan yetişiyor bekledikçe lezzetleniyor: Türkiye'nin dört bir yanından talep yağıyor",
@@ -237,6 +534,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T11:05:53.443329+00:00"
+    },
+    {
+      "id": "19cf07dc44a7d549",
+      "source": "Karar",
+      "title": "Son dakika! TCMB eylül ayı kararını açıkladı: Faiz yüzde 37",
+      "summary": "Merkez Bankası, eylül ayı Para Politikası Kurulu toplantısında politika faizini değiştirmedi. Bir hafta vadeli repo ihale faiz oranı yüzde 37’de sabit tutulurken, gecelik borç verme faizi yüzde 40, gecelik borçlanma faizi ise yüzde 35,5 seviyesinde bırakıldı.",
+      "link": "https://www.karar.com/ekonomi-haberleri/son-dakika-merkez-bankasi-eylul-ayi-faiz-kararini-acikladi-2071107",
+      "published": "2026-09-10T11:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:43.746958+00:00"
     },
     {
       "id": "7c189088a4704c4f",
@@ -316,6 +624,17 @@
       "fetched_at": "2026-09-10T11:01:20.821258+00:00"
     },
     {
+      "id": "abc827eaef152c14",
+      "source": "Türkiye Gazetesi",
+      "title": "Merkez Bankası faiz kararını açıkladı! Eylülde de sürpriz yok",
+      "summary": "Merkez Bankası piyasaların merakla beklediği faiz kararını açıkladı. İran savaşının ardından martta faiz indirimlerine ara veren Merkez, nisan, haziran ve temmuzun ardından eylülde de sürpriz yapmadı. İşte detaylar...",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/merkez-bankasi-faiz-kararini-acikladi-eylulde-de-surpriz-yok-1815089",
+      "published": "2026-09-10T10:59:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:39.984473+00:00"
+    },
+    {
       "id": "da976d5e1cf9f4de",
       "source": "Türkiye Gazetesi",
       "title": "EYLÜLDE DE SÜRPRİZ YOK!",
@@ -325,6 +644,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T11:05:37.621730+00:00"
+    },
+    {
+      "id": "91aebda4aa78277d",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Çaykur Rizesporlu Can Bozdoğan, Eyüpspor deplasmanından galip döneceklerine inanıyor",
+      "summary": "Trendyol Süper Lig'in 5. haftasında deplasmanda Eyüpspor ile karşılaşacak Çaykur Rizespor'un futbolcusu Can Bozdoğan, \"Eyüpspor iyi bir takım ama biz daha iyi bir takım olduğumuzu düşünüyoruz ve bu maçtan inşallah galibiyetle döneceğiz.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/spor/caykur-rizesporlu-can-bozdogan-eyupspor-deplasmanindan-galip-doneceklerine-inaniyor/4053086",
+      "published": "2026-09-10T10:59:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:37.711271+00:00"
+    },
+    {
+      "id": "ffb5ad9ea3cf01db",
+      "source": "Ekonomim",
+      "title": "Özak GYO ve Marriott’tan Kemer’de Ritz-Carlton anlaşması",
+      "summary": "Özak GYO, Marriott International’ın Avrupa, Orta Doğu ve Afrika bölgesindeki ilk lüks her şey dahil resort oteli olacak The Ritz-Carlton, Kemer, All-Inclusive’ı Antalya Kemer’de hayata geçirmek üzere anlaşma imzaladı. Özak GYO’nun turizm alanındaki köklü deneyimiyle hayata geçirilecek resort, The Ritz-Carlton’ın seçkin her şey dahil yaklaşımını Kemer’e taşıyarak bölgedeki konaklama deneyimine yeni",
+      "link": "https://www.ekonomim.com/sirketler/ozak-gyo-ve-marriotttan-kemerde-ritz-carlton-anlasmasi-haberi-917405",
+      "published": "2026-09-10T10:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:50.016945+00:00"
     },
     {
       "id": "293168ef14393e72",
@@ -470,6 +811,17 @@
       "fetched_at": "2026-09-10T11:01:41.776758+00:00"
     },
     {
+      "id": "dd561584439d0108",
+      "source": "Bianet",
+      "title": "Haritada adalet: Afrika gerçekten ne kadar büyük?",
+      "summary": "Afrika, Grönland’dan yaklaşık 14 kat büyük. Ama dünyanın en bilinen haritasında bu farkı görmek imkansız. Yüzyıllardır kullanılan Mercator projeksiyonunun yarattığı yanılgı şimdi BM Genel Kurulu’nda alınan kararla değişmek üzere.",
+      "link": "https://bianet.org/haber/haritada-adalet-afrika-gercekten-ne-kadar-buyuk-323340",
+      "published": "2026-09-10T10:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:45.851276+00:00"
+    },
+    {
       "id": "b8480f0b9963da84",
       "source": "Akşam",
       "title": "Türkiye-Rusya hattında kritik anlaşma! Bakan Yumaklı: Herhangi bir kota veya sınırlama uygulamayacak",
@@ -534,6 +886,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T10:55:34.851724+00:00"
+    },
+    {
+      "id": "17e35efe29867464",
+      "source": "Evrensel",
+      "title": "Yunanistan'da son bir haftada 34 yeni Batı Nil virüsü vakası kaydedildi",
+      "summary": "Yunanistan'da son bir haftada 34 yeni Batı Nil virüsü vakasının tespit edildiği bildirildi.",
+      "link": "https://www.evrensel.net/haber/5999971/yunanistan-da-son-bir-haftada-34-yeni-bati-nil-virusu-vakasi-kaydedildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-10T10:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:40.277728+00:00"
     },
     {
       "id": "7132b55ccf521da3",
@@ -602,6 +965,17 @@
       "fetched_at": "2026-09-10T10:55:31.368821+00:00"
     },
     {
+      "id": "d970164b140685c2",
+      "source": "Evrensel",
+      "title": "Ücretlerini alamayan işçiler çatıya çıktı",
+      "summary": "Yozgat’ta TOKİ tarafından yapılan inşaatta çalışan işçiler ücretlerini alamadıklarını belirtti.",
+      "link": "https://www.evrensel.net/haber/5999972/ucretlerini-alamayan-isciler-catiya-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-10T10:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:40.277752+00:00"
+    },
+    {
       "id": "82febd9457e7ad9d",
       "source": "Ekonomim",
       "title": "Adalet Bakanı Gürlek: Borsadaki manipülatif işlemler karşılıksız kalmayacak",
@@ -644,6 +1018,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T10:50:47.629340+00:00"
+    },
+    {
+      "id": "5df01a573f6b6b61",
+      "source": "Evrensel",
+      "title": "Çiğli Belediye Başkanı Yıldız’dan AKP’ye geçeceği iddiasına yanıt",
+      "summary": "Çiğli Belediye Başkanı Yıldız, AKP’ye katılacağı yönündeki iddialara yanıt verdi. Ankara’da belediyenin borçları ve İller Bankası kesintileri için görüşmeler yaptığını belirten Yıldız, “Gündemimizde bunun dışında başka bir konu yoktur” dedi.",
+      "link": "https://www.evrensel.net/haber/5999973/cigli-belediye-baskani-yildizdan-akpye-gececegi-iddiasina-yanit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-10T10:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:40.277784+00:00"
     },
     {
       "id": "a4bbc7cc8b4a1e10",
@@ -886,6 +1271,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T10:45:45.408347+00:00"
+    },
+    {
+      "id": "80c1841c7b9d651c",
+      "source": "Evrensel",
+      "title": "Karadeniz'de yük gemisine İHA saldırısı: 2 kişi yaşamını yitirdi",
+      "summary": "Karadeniz'de İHA saldırısına uğrayan yük gemisinde 2 Azerbaycan vatandaşı yaşamını yitirdi.",
+      "link": "https://www.evrensel.net/haber/5999970/karadenizde-yuk-gemisine-iha-saldirisi-2-kisi-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-10T10:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:40.277808+00:00"
     },
     {
       "id": "6c135a7faa0662ad",
@@ -4276,6 +4672,17 @@
       "fetched_at": "2026-09-10T09:35:37.107694+00:00"
     },
     {
+      "id": "d30a5c1ee5ce5dde",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Batı Cephesi Karargahı Müzesi ziyaretçilerini tarihte yolculuğa çıkarıyor",
+      "summary": "Milli Mücadele döneminde Batı Cephesi Komutanlığı'na ev sahipliği yapan Akşehir Batı Cephesi Karargahı Müzesi, ziyaretçilerine tarihi bir deneyim yaşatıyor.",
+      "link": "https://www.aa.com.tr/tr/kultur/bati-cephesi-karargahi-muzesi-ziyaretcilerini-tarihte-yolculuga-cikariyor/4052970",
+      "published": "2026-09-10T09:30:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T11:10:37.711327+00:00"
+    },
+    {
       "id": "c5c8fac864041a16",
       "source": "Independent Türkçe",
       "title": "Osmanlı'nın geride bıraktıklarının sahipsizliği",
@@ -5099,413 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T09:20:53.102216+00:00"
-    },
-    {
-      "id": "5b067df43f8a2250",
-      "source": "CNBC-e",
-      "title": "Bitcoin’de satış baskısı: ETF çıkışları hızlandı",
-      "summary": "Bitcoin, spot ETF'lerden süregelen çıkışlar ve kritik makro veri beklentileriyle 78 bin dolar sınırına geriledi. ABD'de işlem gören spot Bitcoin ETF'lerinden çarşamba günü 120 milyon dolar net çıkış yaşanırken, fonlarda üst üste ikinci gün para çıkışı kaydedildi. Haftalık kayıp yüzde 1,96'ya ulaştı.",
-      "link": "https://www.cnbce.com/kripto/bitcoinde-satis-baskisi-etf-cikislari-hizlandi-g36925",
-      "published": "2026-09-10T09:17:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:59.814175+00:00"
-    },
-    {
-      "id": "55f707a257850e9e",
-      "source": "Aydınlık",
-      "title": "Bakan Kacır, Çinli mevkidaşı Yin Hejun ile bir araya geldi",
-      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Çin Halk Cumhuriyeti Bilim ve Teknoloji Bakanı Yin Hejun ile görüşerek iki ülke arasındaki ikili iş birliklerini değerlendirdi. Bakan Kacır, ziyaret kapsamında Türkiye&#039;nin yapay zeka vizyonunu ve sanayi ekosistemini paylaştı.",
-      "link": "https://www.aydinlik.com.tr/haber/bakan-kacir-cinli-mevkidasi-yin-hejun-ile-bir-araya-geldi-589561",
-      "published": "2026-09-10T09:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:50.279583+00:00"
-    },
-    {
-      "id": "3affe3bf003d97ba",
-      "source": "Euronews Türkçe",
-      "title": "Nicolas Cage'in Malibu malikanesinin önünde dev göçük oluştu",
-      "summary": "Havadan çekilen görüntüler, Nicolas Cage'in Malibu'daki giriş yolunun yerinde, Hurricane Marie artıkları nedeniyle oluşan çöküğü gösteriyor; kıyı erozyonu gaz sızıntısı ve yol kapanmasına yol açtı.",
-      "link": "http://tr.euronews.com/video/2026/09/10/nicolas-cagein-malibu-malikanesinin-onunde-dev-gocuk-olustu",
-      "published": "2026-09-10T09:16:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:21:08.244119+00:00"
-    },
-    {
-      "id": "812e374cf31f3e63",
-      "source": "Halk TV",
-      "title": "Güllü davasında yeni ses kaydı ortaya çıktı: Neden aylarca sustu?",
-      "summary": "Güllü&#039;nün ölümüyle ilgili 1 Ekim&#039;de görülecek ilk duruşma öncesi yeni bir ses kaydı ortaya çıktı. Olay gecesi Tuğyan Ülkem Gülter&#039;in yanında olan Sultar Nur Ulu, neden aylarca sustuğunu açıkladı.",
-      "link": "https://halktv.com.tr/turkiye/gullu-davasinda-yeni-ses-kaydi-ortaya-cikti-neden-aylarca-sustu-1054193h",
-      "published": "2026-09-10T09:16:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:51.712713+00:00"
-    },
-    {
-      "id": "5a43367a15481be7",
-      "source": "Yeni Yaşam",
-      "title": "Kürdistan Bölgesi’ndeki kurumlardan AK BK’ye ‘umut hakkı’ çağrısı",
-      "summary": "Federe Kürdistan Bölgesi’ndeki, &#8216;Abdullah Öcalan’a Özgürlük Komitesi&#8217; öncülüğünde, 28 siyasi parti, örgüt ve kişi tarafından Avrupa Konseyi Bakanlar Komitesi Başkanı’na Abdullah Öcalan’a &#8216;umut hakkı&#8217;nın sağlanması talebiyle mektup gönderildi Kürt Halk Önderi Abdullah Öcalan için &#8220;umut hakkı&#8221;nın yerine getirilmesi için Federe Kurdistan Bölgesi’ndeki 28 siyasi par",
-      "link": "https://yeniyasamgazetesi9.com/kurdistan-bolgesindeki-kurumlardan-ak-bkye-umut-hakki-cagrisi/",
-      "published": "2026-09-10T09:16:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:57.399419+00:00"
-    },
-    {
-      "id": "b2e3808832d01112",
-      "source": "Diken",
-      "title": "Kaşif Kozinoğlu soruşturması: Kameraman ve gazeteci dahil dokuz gözaltı",
-      "summary": "Kaşif Kozinoğlu soruşturması: Kameraman ve gazeteci dahil dokuz gözaltı 10.09.2026 Diken Eski MİT görevlisi Kaşif Kozinoğlu’nun ölümüyle ilgili başlatılan soruşturmanın ikinci dalgasında dokuz kişi gözaltına alındı. The post Kaşif Kozinoğlu soruşturması: Kameraman ve gazeteci dahil dokuz gözaltı appeared first on #site_linkat 10.09.2026 .",
-      "link": "https://www.diken.com.tr/kasif-kozinoglu-sorusturmasi-kameraman-ve-gazeteci-dahil-dokuz-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=kasif-kozinoglu-sorusturmasi-kameraman-ve-gazeteci-dahil-dokuz-gozalti",
-      "published": "2026-09-10T09:16:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:52.032010+00:00"
-    },
-    {
-      "id": "7647ecc40023851e",
-      "source": "Hürriyet",
-      "title": "Gaziantep'te damda halı yıkarken akıma kapılan 2 kadın hayatını kaybetti",
-      "summary": "Gaziantep'in Şahinbey ilçesinde damda halı yıkadıkları sırada elektrik akımına kapılan Necla Değirmenci ve Aysel Baltan hastanede yapılan tüm müdahalelere rağmen kurtarılamadı.",
-      "link": "https://www.hurriyet.com.tr/gundem/gaziantepte-damda-hali-yikarken-akima-kapilan-2-kadin-hayatini-kaybetti-43302299",
-      "published": "2026-09-10T09:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:50:51.954919+00:00"
-    },
-    {
-      "id": "139eb962674719bf",
-      "source": "Ekonomim",
-      "title": "MasterChef’ten evlerinize: Tam ölçülü Chili Con Carne tarifi!",
-      "summary": "MasterChef Türkiye’nin son bölümünde yarışmacılar, Meksika mutfağının efsanevi lezzeti Chili Con Carne’yi en iyi şekilde hazırlamak için tezgah başına geçti. Şeflerin özel ricasıyla menüye giren bu bol baharatlı, acılı ve yoğun kıvamlı et yemeği, yarışmacıların teknik becerilerini sonuna kadar zorladı. Kıymanın doğru kavrulmasından baharat dengesine kadar her detayın kritik olduğu gecede, ekran ba",
-      "link": "https://www.ekonomim.com/foto-galeri/yasam/mastercheften-evlerinize-tam-olculu-chili-con-carne-tarifi-s1-galeri-917375",
-      "published": "2026-09-10T09:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:26:06.379845+00:00"
-    },
-    {
-      "id": "ff5aeb40343c52be",
-      "source": "Ekonomim",
-      "title": "Dilek Kaya İmamoğlu'nun kardeşi Ali Kaya hakkında tahliye kararı",
-      "summary": "Silivri&#039;de tutuklu bulunan Ekrem İmamoğlu&#039;nun eşi Dilek Kaya İmamoğlu&#039;nun kardeşi Ali Kaya, tutukluluğunun yedinci ayında hâkim karşısına çıktı. Bodrum 2. Ağır Ceza Mahkemesi, Kaya’nın yurt dışı çıkış yasağıyla tahliyesine karar verdi.",
-      "link": "https://www.ekonomim.com/gundem/dilek-kaya-imamoglunun-kardesi-ali-kaya-hakkinda-tahliye-karari-haberi-917374",
-      "published": "2026-09-10T09:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:58.968536+00:00"
-    },
-    {
-      "id": "ca03f3c915554489",
-      "source": "Türkiye Gazetesi",
-      "title": "G.SARAY MAÇINDA F.BAHÇE DETAYI",
-      "summary": "Okan Buruk liderlğindeki Galatasaray, maçın henüz başında öne geçmesine rağmen Sporting'e deplasmanda 3-1 yenilerek, Şampiyonlar Ligi'ne puansız başladı. Geny Catamo (27), Luis Suarez (57) ve Rodrigo Zalazar'ın (63) galibiyeti getirdiği karşılaşma, Portekiz basınında geniş yankı buldu.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/sportingin-geri-donusu-portekizde-mansetlerde-galatasaray-macinda-fenerbahce-detayi-1815065",
-      "published": "2026-09-10T09:15:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:42.537621+00:00"
-    },
-    {
-      "id": "500950c694f183a3",
-      "source": "Karar",
-      "title": "Eylül geldi bahçe ve balkonlarda düzen değişti! En çok tercih edilen çiçekler belli oldu",
-      "summary": "Eylül ayının gelişiyle birlikte bahçe ve balkonlarda çiçek düzenleri de değişmeye başladı. Sonbaharda en çok tercih edilen çiçekler belli oldu.",
-      "link": "https://www.karar.com/hayat-haberleri/eylul-geldi-bahce-ve-balkonlarda-duzen-degisti-en-cok-tercih-edilen-2071085",
-      "published": "2026-09-10T09:15:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:41.635033+00:00"
-    },
-    {
-      "id": "fe026f336a7fce41",
-      "source": "Cumhuriyet",
-      "title": "Son Dakika... Kaşif Kozinoğlu dosyasında peş peşe operasyonlar: Gözaltı sayısı 19'a yükseldi!",
-      "summary": "Eski MİT görevlisi Kaşif Kozinoğlu’nun 2011 yılında Silivri Cezaevi’nde hayatını kaybetmesine ilişkin yeniden yürütülen soruşturmada gözaltına alınan 10 şüpheli adliyeye sevk edildi. Soruşturma kapsamında düzenlenen yeni operasyonda ise aralarında 2 gazeteci ve sağlık çalışanlarının da bulunduğu 9 kişi daha gözaltına alındı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kasif-kozinoglu-dosyasinda-pes-pese-operasyonlar-gozalti-sayisi-19-a-yukseldi-2536410",
-      "published": "2026-09-10T09:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:40.516069+00:00"
-    },
-    {
-      "id": "e0f09027281cc8a1",
-      "source": "Cumhuriyet",
-      "title": "Gündüzler kısaldı, havalar soğudu: Ruh halinizdeki değişimin sebebi 'ruminasyon' olabilir mi?",
-      "summary": "Mevsim geçişlerinde yaşanan dönemsel yorgunluk, enerji kaybı ve duygusal dalgalanmaların zihinsel süreçler üzerindeki etkilerini değerlendiren Klinik Psikolog Burçin Deniz, değişen çevre şartlarının ve azalan gün ışığının biyolojik ritmi etkileyerek davranışsal bir yavaşlamayı tetiklediğini belirtti.",
-      "link": "https://www.cumhuriyet.com.tr/saglik/gunduzler-kisaldi-havalar-sogudu-ruh-halinizdeki-degisimin-sebebi-ruminasyon-olabilir-mi-2536409",
-      "published": "2026-09-10T09:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:35.837925+00:00"
-    },
-    {
-      "id": "a19a2861a37f4157",
-      "source": "Akşam",
-      "title": "Türkiye, PISA 2025'te dengeli dağılım gösterdi",
-      "summary": "Haliç Üniversitesi Fen Edebiyat Fakültesi Dekanı Prof. Dr. Rahmet Savaş, Uluslararası Öğrenci Değerlendirme Programı (PISA) 2025'te üst düzey ve temel altı öğrenci oranında Almanya ve Hollanda gibi ülkelerin OECD ortalamasını aştığını, Türkiye'nin ise bu oranlarda ortalamanın altında kalarak dengeli dağılım gösterdiğini belirtti.",
-      "link": "https://www.aksam.com.tr/egitim/turkiye-pisa-2025te-dengeli-dagilim-gosterdi/haber-1697297",
-      "published": "2026-09-10T09:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:40.310585+00:00"
-    },
-    {
-      "id": "85fbc5d1b759cc49",
-      "source": "Karar",
-      "title": "Beyaz Saray'da İran Savaşı için derin ayrışma: Trump 'kısa sürer' dedi, ekibi yılları işaret etti",
-      "summary": "Wall Street Journal’ın haberine göre ABD Başkan Yardımcısı JD Vance ve Dışişleri Bakanı Marco Rubio’nun da aralarında bulunduğu üst düzey yetkililer, İran ile girilecek bir çatışmanın yıllarca sürebileceği yönünde Başkan Donald Trump’a uyarıda bulunurken; Trump ise savaşın ara seçimlerden sonra biteceğini savundu.",
-      "link": "https://www.karar.com/dunya-haberleri/beyaz-sarayda-iran-savasi-icin-derin-ayrisma-trump-kisa-surer-dedi-2071084",
-      "published": "2026-09-10T09:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:41.635077+00:00"
-    },
-    {
-      "id": "e84051935f5d94c1",
-      "source": "Halk TV",
-      "title": "Üykü Çifti Cinayeti'nde soruşturma derinleşiyor! 1,5 milyonluk kayıp altın ve tanıdık fail şüphesi",
-      "summary": "Elazığ&#039;da yangında öldüğü sanılan Ağa ve Hayriye Üykü çiftinin kurşunlandığı belirlendi. Derinleşen soruşturmada, 1,5 milyonluk kayıp altın ve gece açılan kapı nedeniyle olayın tanıdıklarca işlenip yangın süsü verildiği ihtimali üzerinde duruluyor.",
-      "link": "https://halktv.com.tr/turkiye/uyku-cifti-cinayetinde-sorusturma-derinlesiyor-15-milyonluk-kayip-altin-ve-tanidik-fail-suphesi-1054192h",
-      "published": "2026-09-10T09:14:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:43.973901+00:00"
-    },
-    {
-      "id": "a09464e91673b14a",
-      "source": "Milliyet",
-      "title": "SON DAKİKA: Çin'de yeni virüs alarmı: 7 ölü Kene ısırığı sonrası ortaya çıktı!",
-      "summary": "Kene teması sonrası yüksek ateş ve çeşitli şikayetlerle hastaneye başvuran binlerce kişi üzerinde yapılan araştırma, bilim dünyasında yeni bir virüsü gündeme getirdi. Çin’de yürütülen çalışmada daha önce bilinmeyen virüs tespit edilirken, araştırmacılar bazı hastalarda iki farklı virüsün aynı anda görülmesinin hastalığı ağırlaştırabileceğine dikkat çekti. 3 BİNDEN FAZLA HASTA İNCELENDİ Bilim insan",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-kene-isirigi-sonrasi-ortaya-cikti-cinde-yeni-virus-alarmi-7olu-7657656",
-      "published": "2026-09-10T09:14:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:39.885893+00:00"
-    },
-    {
-      "id": "46af268fa00a5934",
-      "source": "Bir Gün",
-      "title": "Mehmet Akif Ersoy hakim karşısında: Veyis Ateş'ten duruşma öncesi açıklama",
-      "summary": "Eski Habertürk TV Genel Yayın Yönetmeni Mehmet Akif Ersoy hakkında açılan davanın ilk duruşması, İstanbul 19. Ağır Ceza Mahkemesi’nde başlıyor. Duruşmaya Veyis Ateş de geldi.",
-      "link": "https://www.birgun.net/haber/mehmet-akif-ersoy-hakim-karsisinda-veyis-ates-ten-durusma-oncesi-aciklama-733967",
-      "published": "2026-09-10T09:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:40:41.063397+00:00"
-    },
-    {
-      "id": "b79ed7f2a9039dcb",
-      "source": "Halk TV",
-      "title": "Üykü Çifti cinayetinde soruşturma derinleşiyor! Kayıp ziynet eşyaları ve tanıdık fail şüphesi",
-      "summary": "Elazığ&#039;da evlerinde çıkan yangın sonrası ölü bulunan Ağa ve Hayriye Üykü çiftinin otopsisinde çiftin cinayete kurban gittiği anlaşıldı. Katil ya da katillerin tanıdık olduğu değerlendiriliyor. Kayıp ziynet eşyaları var.",
-      "link": "https://halktv.com.tr/turkiye/uyku-cifti-cinayetinde-sorusturma-derinlesiyor-15-milyonluk-kayip-altin-ve-tanidik-fail-suphesi-1054192h",
-      "published": "2026-09-10T09:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:40:45.720271+00:00"
-    },
-    {
-      "id": "4b83f1a57aaffd91",
-      "source": "Halk TV",
-      "title": "Üykü Çifti cinayetinde soruşturma derinleşiyor! 1,5 milyonluk kayıp altın ve tanıdık fail şüphesi",
-      "summary": "Elazığ&#039;da evlerinde çıkan yangın sonrası ölü bulunan Ağa ve Hayriye Üykü çiftinin otopsisinde çiftin cinayete kurban gittiği anlaşıldı. Katil ya da katillerin tanıdık olduğu değerlendiriliyor. Kayıp 1,5 milyonluk altın var.",
-      "link": "https://halktv.com.tr/turkiye/uyku-cifti-cinayetinde-sorusturma-derinlesiyor-15-milyonluk-kayip-altin-ve-tanidik-fail-suphesi-1054192h",
-      "published": "2026-09-10T09:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:30:52.476167+00:00"
-    },
-    {
-      "id": "201dd23db9f6b7b2",
-      "source": "Finans Gündem",
-      "title": "Yavaş’tan parti değiştirecek iddialarına çok net yanıt",
-      "summary": "Mansur Yavaş, Cumhurbaşkanı Erdoğan ile görüşmesinin tek gündeminin Ankara olduğunu vurguladı. Parti değiştireceği iddialarına da yanıt veren Yavaş, görüşmeden Kılıçdaroğlu ve Özel'in haberdar olduğunu açıkladı.",
-      "link": "https://www.finansingundemi.com/haber/yavastan-parti-degistirecek-iddialarina-cok-net-yanit/1907862",
-      "published": "2026-09-10T09:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:21:00.586005+00:00"
-    },
-    {
-      "id": "f6705cda6ef60f98",
-      "source": "Star",
-      "title": "PISA'da dengeler değişti! Türkiye üç alanda da Avrupa ülkelerini geride bıraktı",
-      "summary": "Haliç Üniversitesi Fen Edebiyat Fakültesi Dekanı Prof. Dr. Rahmet Savaş, Uluslararası Öğrenci Değerlendirme Programı (PISA) 2025'te üst düzey ve temel altı öğrenci oranında Almanya ve Hollanda gibi ülkelerin OECD ortalamasını aştığını, Türkiye'nin ise bu oranlarda ortalamanın altında kalarak dengeli dağılım gösterdiğini belirtti.",
-      "link": "https://www.star.com.tr/egitim/pisada-dengeler-degisti-turkiye-uc-alanda-da-avrupa-ulkelerini-geride-birakti-haber-2039343/",
-      "published": "2026-09-10T09:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:41.194730+00:00"
-    },
-    {
-      "id": "bcd5f488203664c7",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Fransız Le Figaro Etudiant: Türkiye PISA tarafından incelenen her dalda Fransa'yı geçiyor",
-      "summary": "Fransız Le Figaro Etudiant medya kuruluşunun haberine göre, OECD tarafından öğrencilerin bilgi ve becerilerinin ölçüldüğü PISA 2025 değerlendirme raporunda Türk öğrenciler, incelenen her eğitim dalında Fransız öğrencileri geçti.",
-      "link": "https://www.aa.com.tr/tr/dunya/fransiz-le-figaro-etudiant-turkiye-pisa-tarafindan-incelenen-her-dalda-fransayi-geciyor/4052952",
-      "published": "2026-09-10T09:13:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:40.202928+00:00"
-    },
-    {
-      "id": "030c73cd44f091f3",
-      "source": "Karar",
-      "title": "Akran zorbalığı çocukları estetik ameliyatlara yönlendiriyor",
-      "summary": "KBB ve Yüz Plastik Cerrahisi Uzmanı Op. Dr. Yasin Kulaksız, akran zorbalığı, sosyal medya filtreleri ve ailelerin hatalı tutumlarının çocuk ve gençlerde erken yaşta estetik ameliyat taleplerini artırdığına dikkat çekti.",
-      "link": "https://www.karar.com/saglik-haberleri/akran-zorbaligi-cocuklari-estetik-ameliyatlara-yonlendiriyor-2071083",
-      "published": "2026-09-10T09:13:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:41.635106+00:00"
-    },
-    {
-      "id": "ba326875c94c528a",
-      "source": "Akşam",
-      "title": "Salihli'de dehşet gecesi! Karısını ve kızını bıçaklayan koca tutuklandı",
-      "summary": "Manisa'da tartıştığı karısı N.K. ve 24 yaşındaki kızı N.K'yi bıçakla yaralayan D.K., emniyetteki işlemlerinin ardından sevk edildiği hakimlikçe tutuklandı.",
-      "link": "https://www.aksam.com.tr/yasam/salihlide-dehset-gecesi-karisini-ve-kizini-bicaklayan-koca-tutuklandi/haber-1697296",
-      "published": "2026-09-10T09:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:40.310631+00:00"
-    },
-    {
-      "id": "02e98a250c34263e",
-      "source": "Star",
-      "title": "TFF duyurdu! İşte Süper Lig'in 5. haftasında görev alacak hakemler",
-      "summary": "Türkiye Futbol Federasyonu, Trendyol Süper Lig'in 5. haftasında görev yapacak hakemleri açıkladı.",
-      "link": "https://www.star.com.tr/spor/tff-duyurdu-iste-super-ligin-5-haftasinda-gorev-alacak-hakemler-haber-2039342/",
-      "published": "2026-09-10T09:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:41.194762+00:00"
-    },
-    {
-      "id": "08c8b04cc551facc",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Chelsea, İngiltere Lig Kupası'nda iki farklı geriden gelerek tur atladı",
-      "summary": "İngiltere Lig Kupası 3. turunda Chelsea, sahasında 2-0 geriye düştüğü maçta Leeds United'ı 6-3 yenerek tur atladı.",
-      "link": "https://www.aa.com.tr/tr/spor/chelsea-ingiltere-lig-kupasinda-iki-farkli-geriden-gelerek-tur-atladi/4052951",
-      "published": "2026-09-10T09:12:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:40.202955+00:00"
-    },
-    {
-      "id": "51322f9ebde30d63",
-      "source": "Serbestiyet",
-      "title": "Kaşif Kozinoğlu soruşturmasında gazeteci Selahattin Günday gözaltına alındı: 2011’de Kozinoğlu’nun kayıp mektubunu haberleştirmişti",
-      "summary": "Gazeteci Selahattin Günday, kamuoyunda “Kaşif Kozinoğlu Soruşturması” olarak bilinen soruşturma kapsamında Silivri Cumhuriyet Başsavcılığı’nın talimatıyla gözaltına alındı. Günday’ın avukatı Hüseyin Ersöz, gözaltının gerekçesini anlamlandırmakta güçlük çektiklerini açıkladı. Günday, 2011’de Hürriyet’te, Kozinoğlu’nun ölümünden önce avukatı Hüseyin Derin Yarsuvat’a bir mektup yazdığını, ancak ölümü",
-      "link": "https://serbestiyet.com/haberler/kasif-kozinoglu-sorusturmasinda-gazeteci-selahattin-gunday-gozaltina-alindi-2011de-kozinoglunun-kayip-mektubunu-haberlestirmisti-248382/",
-      "published": "2026-09-10T09:12:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:47.219718+00:00"
-    },
-    {
-      "id": "025e0a7d66a9e7be",
-      "source": "Yeni Şafak",
-      "title": "Sarallar’ın Sedat Şahin’e yönelik suikast planı çökertildi: Saksılardan cephanelik çıktı",
-      "summary": "İstanbul’da organize suç örgütlerine yönelik yürütülen soruşturma kapsamında, hakkında kırmızı bülten bulunan ve yurt dışında firari olduğu belirtilen Sarallar Silahlı Suç Örgütü mensubu Yakup Kerem Saral’ın, Sedat Şahin’e yönelik öldürme eylemi hazırlığında olduğu iddia edildi. Soruşturma kapsamında yakalanan 7’si İran uyruklu toplam 19 şüpheli tutuklandı. Öte yandan ağaçlar ile saksıların arasın",
-      "link": "https://www.yenisafak.com/gundem/sarallarin-sedat-sahine-yonelik-suikast-plani-cokertildi-saksilardan-cephanelik-cikti-4854701",
-      "published": "2026-09-10T09:12:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:40.977145+00:00"
-    },
-    {
-      "id": "149cbe2d7c173997",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Türkiye, PISA 2025'te üst düzey ve temel altı öğrenci oranında dengeli dağılım gösteriyor",
-      "summary": "Uluslararası Öğrenci Değerlendirme Programı (PISA) 2025'te Türkiye, üst düzey ve temel altı öğrenci oranlarında OECD ortalamasına göre eğitimde dengeli bir dağılım sergiledi.",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiye-pisa-2025te-ust-duzey-ve-temel-alti-ogrenci-oraninda-dengeli-dagilim-gosteriyor/4052950",
-      "published": "2026-09-10T09:12:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:20:40.202838+00:00"
-    },
-    {
-      "id": "eacc751ab264ae6a",
-      "source": "Karar",
-      "title": "Okan Buruk'un Şampiyonlar Ligi karnesi parlak değil",
-      "summary": "Şampiyonlar Ligi'nde 2026-27 sezonunun ilk maçına dün akşam Sporting Lizbon karşısında çıkan Galatasaray, sahadan 3-1 yenilgiyle ayrıldı. Aslan, Okan Buruk yönetiminde Şampiyonlar Ligi'ndeki 19. maçında 10. yenilgisini aldı.",
-      "link": "https://www.karar.com/spor-haberleri/okan-burukun-sampiyonlar-ligi-karnesi-parlak-degil-2071082",
-      "published": "2026-09-10T09:12:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:41.635132+00:00"
-    },
-    {
-      "id": "761fa17c85fc08be",
-      "source": "Gazete Pencere",
-      "title": "İBB Davası'nda 79. gün",
-      "summary": "İBB Davası'nda mahkeme başkanı, YENİ Parti milletvekili Suat Özçağdaş'ın daha önceden aldığı karar gerekçesiyle salondan çıkmasını istedi. Özçağdaş ise kararı yazılı olarak istedi. Özçağdaş kendisini salondan çıkarmak isteyen jandarmaya da tepki gösterdi.",
-      "link": "https://www.gazetepencere.com/gundem/ibb-davasinda-79-gun-714982h",
-      "published": "2026-09-10T09:12:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:43.408512+00:00"
-    },
-    {
-      "id": "c6a94d5d1de0d598",
-      "source": "Bir Gün",
-      "title": "Süper Lig'de 5. hafta maçlarını yönetecek hakemler açıklandı",
-      "summary": "TFF Merkez Hakem Kurulu, Süper Lig'de 5. hafta maçlarını yönetecek hakemleri belirledi.",
-      "link": "https://www.birgun.net/haber/super-lig-de-5-hafta-maclarini-yonetecek-hakemler-aciklandi-733966",
-      "published": "2026-09-10T09:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:40:41.063421+00:00"
-    },
-    {
-      "id": "b254b5e3966a878c",
-      "source": "Finans Gündem",
-      "title": "Garanti BBVA’dan kendi arsasına müstakil ev yaptıracaklara müstakil ev kredisi",
-      "summary": "Garanti BBVA, kendisine ait konut imarlı arsa üzerine prefabrik, çelik konstrüksiyon veya betonarme müstakil konut yaptırmak isteyen bireysel müşterilere yönelik yeni konut kredisi çözümünü kullanıma sundu.",
-      "link": "https://www.finansingundemi.com/haber/garanti-bbvadan-kendi-arsasina-mustakil-ev-yaptiracaklara-mustakil-ev-kredisi/1907863",
-      "published": "2026-09-10T09:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:21:00.586044+00:00"
-    },
-    {
-      "id": "746f4d2907c397b2",
-      "source": "Cumhuriyet",
-      "title": "Altın fiyatlarında yükseliş sürecek mi? Deutsche Bank'tan dikkat çeken tahmin...",
-      "summary": "Altın fiyatlarının seyri yatırımcıların gündemindeki yerini korurken, Deutsche Bank’tan yeni tahminler geldi. Banka altın, petrol, dolar ve bakıra ilişkin beklentilerinde küresel belirsizlikler, merkez bankası talebi, mali görünüm ve enerji arzındaki riskleri öne çıkardı.",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlarinda-yukselis-surecek-mi-deutsche-bank-tan-dikkat-ceken-tahmin-2536405",
-      "published": "2026-09-10T09:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:35.837964+00:00"
-    },
-    {
-      "id": "1979eb34de060776",
-      "source": "Cumhuriyet",
-      "title": "Zelenski’nin Oslo yolculuğunda İHA alarmı: 'Neredeyse vuruluyordu'",
-      "summary": "Norveç Başbakanı Jonas Gahr Store, dün başkent Oslo'da Kral 5. Harald'ın cenaze törenine katılmak üzere ülkeye gelen Ukrayna Devlet Başkanı Volodimir Zelenski'yi taşıyan uçağın Moldova'dan kalkışı sırasında insansız hava aracı (İHA) tarafından vurulma tehlikesi atlattığını açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/zelenski-nin-oslo-yolculugunda-iha-alarmi-neredeyse-vuruluyordu-2536408",
-      "published": "2026-09-10T09:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:35.837996+00:00"
-    },
-    {
-      "id": "93a525ebe2407ee9",
-      "source": "Akşam",
-      "title": "TEKNOFEST Güneydoğu ziyaretçi kayıtları başladı",
-      "summary": "Dünyanın en büyük Havacılık, Uzay ve Teknoloji Festivali TEKNOFEST, 2026 yılında binlerce yıllık tarihi ve köklü medeniyet mirasıyla öne çıkan Şanlıurfa'da teknoloji tutkunlarını ağırlamaya hazırlanıyor. 30 Eylül - 4 Ekim tarihleri arasında GAP Havalimanı'nda gerçekleştirilecek TEKNOFEST Güneydoğu için ziyaretçi kayıtları başladı. Katılımın ücretsiz olduğu festivalde yerinizi almak için hemen çevr",
-      "link": "https://www.aksam.com.tr/teknoloji/teknofest-guneydogu-ziyaretci-kayitlari-basladi/haber-1697295",
-      "published": "2026-09-10T09:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T09:15:40.310675+00:00"
     }
   ]
 }

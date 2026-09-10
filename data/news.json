@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T02:41:06.725046+00:00",
+  "last_updated": "2026-09-10T02:46:03.665589+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 557,
   "items": [
+    {
+      "id": "efa974b701278834",
+      "source": "Halk TV",
+      "title": "ABD Dışişleri Bakanı Rubio başkan adaylığı kararını açıkladı",
+      "summary": "ABD Dışişleri Bakanı Marco Rubio, 2028 başkanlık seçimlerinde aday olma planı olmadığını söyledi. NBC, Rubio&#039;nun özel görüşmelerde bu olasılığa kapıyı açık bıraktığını aktardı.",
+      "link": "https://halktv.com.tr/dunya/abd-disisleri-bakani-rubio-baskan-adayligi-kararini-acikladi-1054114h",
+      "published": "2026-09-10T02:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T02:45:47.093029+00:00"
+    },
     {
       "id": "c5e2e9ca9a92c03a",
       "source": "BBC News Türkçe",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T02:41:06.067378+00:00"
+    },
+    {
+      "id": "d0ce3c5a3cb4517e",
+      "source": "Habertürk",
+      "title": "Zelenskiy’nin uçağı saldırıdan kıl payı kurtuldu",
+      "summary": "Norveç Başbakanı Jonas Gahr Store, Ukrayna Devlet Başkanı Vladimir Zelenskiy’nin uçağının dün Moldova’dan kalkış yaptığı sırada neredeyse bir İHA tarafından vurulmaktan kıl payı kurtulduğunu ifade etti.",
+      "link": "https://www.haberturk.com/dunya/zelenskiynin-ucagi-moldovada-iha-saldirisindan-kil-payi-kurtuldu-3911460",
+      "published": "2026-09-10T02:30:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-10T02:45:34.134278+00:00"
     },
     {
       "id": "2b3dd36286ac2b73",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-09T20:55:40.576328+00:00"
-    },
-    {
-      "id": "1cfd5ca040b08883",
-      "source": "Türkiye Gazetesi",
-      "title": "Okan Buruk, Lizbon'da çılgına döndü",
-      "summary": "Galatasaray Teknik Direktörü Okan Buruk, Şampiyonlar Ligi'nin ilk haftasındaki Sporting maçında, Portekiz ekibinin kazandığı penaltı sonrası çok öfkelendi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/okan-buruk-cilgina-dondu-allah-belanizi-versin-1814953",
-      "published": "2026-09-09T20:38:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T20:55:39.712894+00:00"
-    },
-    {
-      "id": "737e5024efff9459",
-      "source": "Türkiye Gazetesi",
-      "title": "Okan Buruk çılgına döndü: \"Allah belanızı versin\"",
-      "summary": "Galatasaray Teknik Direktörü Okan Buruk, Şampiyonlar Ligi'nin ilk haftasındaki Sporting maçında, Portekiz ekibinin kazandığı penaltı sonrası çok öfkelendi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/okan-buruk-cilgina-dondu-allah-belanizi-versin-1814953",
-      "published": "2026-09-09T20:38:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-09T20:45:39.267428+00:00"
     }
   ]
 }

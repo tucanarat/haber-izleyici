@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T02:16:04.472298+00:00",
+  "last_updated": "2026-09-11T02:21:05.049228+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 561,
   "items": [
+    {
+      "id": "bde235515bffade7",
+      "source": "Türkiye Gazetesi",
+      "title": "KRİTİK DAVADA KARAR VERİLDİ",
+      "summary": "6 Şubat 2023'te Kahramanmaraş'ta meydana gelen depremlerde 35 kişinin hayatını kaybettiği Ezgi Apartmanı davasında mahkeme, sanıklara çeşitli hapis cezaları verirken, 3 sanığın da beraatine hükmetti.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/6-subat-depremlerinde-35-kisi-hayatini-kaybetmisti-ezgi-apartmani-davasinda-karar-1815217",
+      "published": "2026-09-11T02:11:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-11T02:20:40.733036+00:00"
+    },
     {
       "id": "86f12bca9a696bdf",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T20:30:52.599219+00:00"
-    },
-    {
-      "id": "eae53e50e434c602",
-      "source": "Cumhuriyet",
-      "title": "Sondaj sırasında 'bilinmeyen gaz' alarmı: İnceleme başlatıldı",
-      "summary": "Samsun’da sondaj çalışması sırasında bilinmeyen gaz tespit edildi. Ekipler çevrede önlem aldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/sondaj-sirasinda-bilinmeyen-gaz-alarmi-inceleme-baslatildi-2536581",
-      "published": "2026-09-10T20:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T20:20:38.022954+00:00"
     }
   ]
 }

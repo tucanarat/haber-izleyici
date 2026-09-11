@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-11T03:31:07.138881+00:00",
+  "last_updated": "2026-09-11T03:35:49.021896+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 566,
+  "new_items_this_run": 565,
   "items": [
+    {
+      "id": "e8807f58b5ef26ac",
+      "source": "Euronews Türkçe",
+      "title": "İspanyol basını: Real Madrid, Arda Güler'in kontratını uzatmaya hazırlanıyor",
+      "summary": "İspanyol basınına göre Real Madrid, performansıyla takımda ağırlığını artıran Arda Güler’i uzun yıllar daha kadroda tutmak için harekete geçti.",
+      "link": "https://tr.euronews.com/2026/09/11/ispanyol-basini-real-madrid-arda-gulerin-kontratini-uzatmaya-hazirlaniyor",
+      "published": "2026-09-11T03:30:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-11T03:35:49.020723+00:00"
+    },
     {
       "id": "5adb2777b604b9e1",
       "source": "Yeni Akit",
@@ -292,6 +303,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-11T02:35:44.033975+00:00"
+    },
+    {
+      "id": "656ffbf087c15876",
+      "source": "Bir Gün",
+      "title": "Yargıdaki Fiber Optik Protokolü Olağanüstü Meclis’ten geçirildi",
+      "summary": "Kuzey Kıbrıs’ta fiber optik altyapının Türk Telekom’a devrini öngören ek protokol, muhalefetin itirazlarına ve Anayasa Mahkemesi’ndeki süreç tamamlanmadan Meclis’ten geçti. Tasarı, 26 kabul ve 19 ret oyuyla yasalaştı.",
+      "link": "https://www.birgun.net/makale/yargidaki-fiber-optik-protokolu-olaganustu-meclisten-gecirildi-734103",
+      "published": "2026-09-11T02:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-11T03:35:32.120551+00:00"
     },
     {
       "id": "bde235515bffade7",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T20:40:46.777739+00:00"
-    },
-    {
-      "id": "fb47b06b64afa5d0",
-      "source": "Yeniçağ",
-      "title": "Başsavcılıktan Denizolgun soruşturması: Sosyal medyadaki içerikler mercek altında",
-      "summary": "Bakırköy Cumhuriyet Başsavcılığı, eski Ulaştırma Bakanı Arif Ahmet Denizolgun&#039;un ölümüne ilişkin yürütülen soruşturmayla ilgili sosyal medyada gerçeğe aykırı ve manipülatif içerikler yayımlayan kişiler hakkında resen soruşturma başlatıldığını açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/bassavciliktan-denizolgun-sorusturmasi-sosyal-medyadaki-icerikler-mercek-altinda-1070538h.htm",
-      "published": "2026-09-10T20:35:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T20:40:44.346689+00:00"
-    },
-    {
-      "id": "6ec106c02bb3f5fd",
-      "source": "Akşam",
-      "title": "Fenerbahçe'den açıklama! İsmail Kartal'a şişe atan taraftar tespit edildi",
-      "summary": "UEFA Şampiyonlar Ligi'nde oynanan Roma maçının ardından Fenerbahçe, teknik direktör İsmail Kartal'a şişe atan taraftarın tespit edildiğini açıkladı.",
-      "link": "https://www.aksam.com.tr/spor/fenerbahceden-aciklama-ismail-kartala-sise-atan-taraftar-tespit-edildi/haber-1697453",
-      "published": "2026-09-10T20:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T20:35:35.036210+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-11T00:05:50.048330+00:00",
+  "last_updated": "2026-09-11T00:10:59.943864+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 566,
+  "new_items_this_run": 564,
   "items": [
+    {
+      "id": "6c99f4bdbcff7ae3",
+      "source": "Finans Gündem",
+      "title": "Depremde 35 kişinin öldüğü Ezgi Apartmanı davasında karar açıklandı",
+      "summary": "Kahramanmaraş'ta, 6 Şubat 2023'te meydana gelen depremlerde 35 kişinin yaşamını yitirdiği Ezgi Apartmanı davasında mahkeme, sanıklara çeşitli hapis cezaları verirken 3 sanığın beraatine hükmetti.",
+      "link": "https://www.finansingundemi.com/haber/depremde-35-kisinin-oldugu-ezgi-apartmani-davasinda-karar-aciklandi/1907946",
+      "published": "2026-09-11T00:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-11T00:10:53.789925+00:00"
+    },
     {
       "id": "0864d007b7fa1011",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T19:30:55.894150+00:00"
-    },
-    {
-      "id": "c0fddeb959fb52e4",
-      "source": "Sabah",
-      "title": "SON DAKİKA | İsmail Kartal istifa etti",
-      "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Roma maçının ardından istifa ettiğini açıkladı. Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/spor/futbol/2026/09/10/son-dakika-ismail-kartal-istifa-etti",
-      "published": "2026-09-10T19:28:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T19:35:34.676005+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-11T02:11:07.872925+00:00",
+  "last_updated": "2026-09-11T02:16:04.472298+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 564,
+  "new_items_this_run": 561,
   "items": [
+    {
+      "id": "86f12bca9a696bdf",
+      "source": "Türkiye Gazetesi",
+      "title": "EZGİ APARTMANI DAVASINDA KARAR",
+      "summary": "6 Şubat 2023'te Kahramanmaraş'ta meydana gelen depremlerde 35 kişinin hayatını kaybettiği Ezgi Apartmanı davasında mahkeme, sanıklara çeşitli hapis cezaları verirken, 3 sanığın da beraatine hükmetti.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/6-subat-depremlerinde-35-kisi-hayatini-kaybetmisti-ezgi-apartmani-davasinda-karar-1815217",
+      "published": "2026-09-11T02:11:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-11T02:15:38.994452+00:00"
+    },
     {
       "id": "266e58ebacd6af7f",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T20:20:38.022954+00:00"
-    },
-    {
-      "id": "83794df9339b2361",
-      "source": "Yeniçağ",
-      "title": "Aziz Yıldırım 'İsmail Kartal görevinin başında' deyip istifa sebebini açıkladı",
-      "summary": "Fenerbahçe Başkanı Aziz Yıldırım, Roma maçı sonrası basın toplantısında İsmail Kartal&#039;ın teknik direktörlük görevinden istifa etmesi üzerine basın mensuplarına açıklamalarda bulundu. İsmail Kartal&#039;ın görevine devam edeceğini açıklayan Aziz Yıldırım istifa kararına sebep olan olayı da anlattı.",
-      "link": "https://www.yenicaggazetesi.com/aziz-yildirim-ismail-kartal-gorevinin-basinda-deyip-istifa-sebebini-acikladi-1070537h.htm",
-      "published": "2026-09-10T20:14:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T20:15:49.136102+00:00"
     }
   ]
 }

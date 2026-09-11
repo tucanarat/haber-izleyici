@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-11T01:25:58.471008+00:00",
+  "last_updated": "2026-09-11T01:31:21.879982+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 574,
+  "new_items_this_run": 572,
   "items": [
+    {
+      "id": "68b90922f9a7fdd5",
+      "source": "Halk TV",
+      "title": "İtalya'da fırtına can aldı: 2 ölü 1 ağır yaralı",
+      "summary": "İtalya&#039;da gün boyu etkili olan sağanak yağış ve fırtına nedeniyle 2 kişi hayatını kaybetti, 1 kişi ağır yaralandı. Ülkenin orta ve kuzey kesimlerinde günlük hayat olumsuz etkilendi.",
+      "link": "https://halktv.com.tr/dunya/italyada-firtina-can-aldi-2-olu-1-agir-yarali-1054348h",
+      "published": "2026-09-11T01:26:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-11T01:31:07.199488+00:00"
+    },
     {
       "id": "5a39ada1351e7a66",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T19:51:38.364382+00:00"
-    },
-    {
-      "id": "4782897b825680c0",
-      "source": "Cumhuriyet",
-      "title": "41 yaşındaki erkek babasını sırtından bıçakladı",
-      "summary": "Adıyaman’ın Gölbaşı ilçesinde bir şahıs, tartıştığı babasını sırtından defalarca bıçaklayarak yaraladı. Konuyla ilgili soruşturma başlatıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/41-yasindaki-erkek-babasini-sirtindan-bicakladi-2536573",
-      "published": "2026-09-10T19:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T19:55:30.355766+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-11T02:31:08.796108+00:00",
+  "last_updated": "2026-09-11T02:36:00.096114+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 559,
+  "new_items_this_run": 560,
   "items": [
+    {
+      "id": "a50e1266a7efd906",
+      "source": "Halk TV",
+      "title": "Yıldırım oparasyon: İsmail Kartal'a yapılan karşılıksız kalmadı",
+      "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal&#039;a şişe atan taraftara yıldırım operasyon. Karşılıksız kalmadı.",
+      "link": "https://halktv.com.tr/spor/yildirim-oparasyon-ismail-kartala-yapilan-karsiliksiz-kalmadi-1054350h",
+      "published": "2026-09-11T02:34:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-11T02:35:44.033975+00:00"
+    },
     {
       "id": "bde235515bffade7",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-10T20:20:48.619212+00:00"
-    },
-    {
-      "id": "fb2b9c910e03e7d6",
-      "source": "Euronews Türkçe",
-      "title": "Fenerbahçe Teknik Direktörü İsmail Kartal görevinden istifa etti",
-      "summary": "UEFA Şampiyonlar Ligi ilk hafta maçında Kadıköy'de Roma ile 1-1 berabere kalan Fenerbahçe'de teknik direktör İsmail Kartal, karşılaşmanın ardından istifa ettiğini duyurdu.",
-      "link": "https://tr.euronews.com/2026/09/10/fenerbahce-teknik-direktoru-ismail-kartal-gorevinden-istifa-etti",
-      "published": "2026-09-10T20:16:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-10T20:25:56.406956+00:00"
     }
   ]
 }

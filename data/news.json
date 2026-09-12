@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T03:46:02.352148+00:00",
+  "last_updated": "2026-09-12T03:51:01.511954+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 553,
   "items": [
+    {
+      "id": "cf64877b1493567b",
+      "source": "Star",
+      "title": "Mudanya'daki kazada ağır yaralanan sürücü hayatını kaybetti",
+      "summary": "Bursa'nın Mudanya ilçesinde meydana gelen motosiklet kazasında ağır yaralanan 1989 doğumlu Sercan Çetin, kaldırıldığı Mudanya Devlet Hastanesi'nde doktorların tüm müdahalesine rağmen hayatını kaybetti.",
+      "link": "https://www.star.com.tr/guncel/mudanyadaki-kazada-agir-yaralanan-surucu-hayatini-kaybetti-haber-2039679/",
+      "published": "2026-09-12T03:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T03:50:43.457984+00:00"
+    },
     {
       "id": "edf673909558fd4d",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-11T20:10:33.828115+00:00"
-    },
-    {
-      "id": "43a5e75bb5781ee5",
-      "source": "Finans Gündem",
-      "title": "İstanbul'daki kiracı dehşetinde yeni gelişme",
-      "summary": "İstanbul’un Maltepe ilçesinde ev sahibi ve eşini silahla öldürüp olay yerindeki avukatı da ağır yaralayan kiracı tutuklandı.",
-      "link": "https://www.finansingundemi.com/haber/istanbuldaki-kiraci-dehsetinde-yeni-gelisme/1908042",
-      "published": "2026-09-11T19:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T20:06:01.834632+00:00"
     }
   ]
 }

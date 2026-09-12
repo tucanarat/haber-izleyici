@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-12T01:40:53.441751+00:00",
+  "last_updated": "2026-09-12T01:45:57.778675+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 564,
+  "new_items_this_run": 565,
   "items": [
+    {
+      "id": "aa2a7f52d8192959",
+      "source": "Türkiye Gazetesi",
+      "title": "GİTMEK İSTEDİĞİ TAKIMI AÇIKLADI",
+      "summary": "Yaz transfer döneminde Lokomotiv Moskova'dan sarı-kırmızılılara transfer olan Aleksey Batrakov \"Öncelikle Galatasaray’ın hakkını vermeliyim. Sonrasında Barça neden olmasın?\" diyerek hedefini açıkladı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/batrakovun-gozu-yuksekte-iste-hayalindeki-takim-1815431",
+      "published": "2026-09-12T01:41:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T01:45:35.747288+00:00"
+    },
     {
       "id": "1f3a91f422876a86",
       "source": "Halk TV",
@@ -776,6 +787,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-12T00:35:31.747728+00:00"
+    },
+    {
+      "id": "f761d423a41bd37d",
+      "source": "Halk TV",
+      "title": "Tayfun Kahraman’dan boşanma yorumlarına tepki geldi! 'Ayrılmış olsak da...' dedi, noktayı koydu",
+      "summary": "Gezi Davası kapsamında tutuklu bulunan Dr. Tayfun Kahraman, boşanma kararı sonrası gelen tepkilere yanıt verdi. Kahraman, Meriç Demir&#039;e desteği için teşekkür ederken mahremiyetlerine ve özel hayatlarına saygı duyulmasını istedi.",
+      "link": "https://halktv.com.tr/turkiye/tayfun-kahramandan-o-yorumlara-tepki-geldi-ayrilmis-olsak-dadedi-noktayi-koydu-1054559h",
+      "published": "2026-09-12T00:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T01:45:43.286391+00:00"
     },
     {
       "id": "f8e7b1f2eb0ce65b",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-11T19:35:41.024549+00:00"
-    },
-    {
-      "id": "34b55ce20b6f53ef",
-      "source": "Aydınlık",
-      "title": "Bakan Fidan, Suudi mevkidaşı Ferhan ile görüştü",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan ile gerçekleştirdiği telefon görüşmesinde, bölgedeki son gelişmeler ile Suudi Arabistan’ı hedef alan saldırıları ele aldı.",
-      "link": "https://www.aydinlik.com.tr/haber/bakan-fidan-suudi-mevkidasi-ferhan-ile-gorustu-589780",
-      "published": "2026-09-11T19:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T20:15:54.700535+00:00"
-    },
-    {
-      "id": "9ee1925a5c35b02a",
-      "source": "Habertürk",
-      "title": "Seçil Erzan davasında karar",
-      "summary": "Kamuoyunda 'yüksek karlı gizli fon' dolandırıcılığı olarak bilinen davada Seçil Erzan’a verilen 102 yıl 4 ay hapis cezası, istinaf tarafından bozuldu. Bugün yeniden hakim karşısına çıkan Erzan’ın tutukluluk halinin devamına karar verildi.",
-      "link": "https://www.haberturk.com/gundem/secil-erzanin-tutukluluk-halinin-devamina-karar-verildi-3911916",
-      "published": "2026-09-11T19:30:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T19:35:26.610625+00:00"
     }
   ]
 }

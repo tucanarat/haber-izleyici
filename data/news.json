@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T04:35:52.528002+00:00",
+  "last_updated": "2026-09-12T04:41:10.250936+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,39 @@
   "total_items": 500,
   "new_items_this_run": 554,
   "items": [
+    {
+      "id": "fc59633c0763d7f5",
+      "source": "Akşam",
+      "title": "İHA saldırısı ortalığı karıştırdı! Irak, İran sınır kapısını kilitledi",
+      "summary": "Suudi Arabistan'a yönelik İHA saldırılarının ardından Irak, İran sınırındaki Şelemçe kapısını kapattı. Faillerin yakalanması için operasyon başlatan Bağdat yönetimi, topraklarının saldırı üssü olarak kullanılmasına izin verilmeyeceğini duyurdu.",
+      "link": "https://www.aksam.com.tr/dunya/iha-saldirisi-ortaligi-karistirdi-irak-iran-sinir-kapisini-kilitledi/haber-1697693",
+      "published": "2026-09-12T04:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T04:40:49.506171+00:00"
+    },
+    {
+      "id": "c54b52d313ee3f26",
+      "source": "Star",
+      "title": "Suudi Arabistan saldırısının faturası komutana kesildi! Irak'ta üst düzey görevden alma",
+      "summary": "Irak Başbakanı Ali ez-Zeydi, Suudi Arabistan'a yönelik saldırıların Meysan vilayetindeki bir noktadan gerçekleştirildiğinin tespit edilmesi üzerine Operasyonlar Komutanı Celil Şerifi'nin görevden alınmasına karar verdi.",
+      "link": "https://www.star.com.tr/dunya/suudi-arabistan-saldirisinin-faturasi-komutana-kesildi-irakta-ust-duzey-gorevden-alma-haber-2039683/",
+      "published": "2026-09-12T04:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T04:40:50.830899+00:00"
+    },
+    {
+      "id": "ddf8848fed6010ab",
+      "source": "Halk TV",
+      "title": "Şaşkına çeviren kararını açıkladı: Milli takımını değiştirdi",
+      "summary": "Futbol dünyasını şaşkına çeviren karar. Milli takımını değiştirdi.",
+      "link": "https://halktv.com.tr/spor/saskina-ceviren-kararini-acikladi-milli-takimini-degistirdi-1054573h",
+      "published": "2026-09-12T04:35:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T04:40:55.126215+00:00"
+    },
     {
       "id": "c348c49170dc0a2c",
       "source": "Ekonomim",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-11T20:35:48.786454+00:00"
-    },
-    {
-      "id": "9352d3273a454953",
-      "source": "Yeniçağ",
-      "title": "Marmaris Belediye Başkanı Acar Ünlü Meclis çoğunluğuyla YENİ Parti'ye katılıyor",
-      "summary": "Cumhurbaşkanı Erdoğan&#039;ın Marmaris ziyareti kapsamında kendisine &#039;Hoşgeldiniz&#039; diyen ve Erdoğan&#039;ın kameralar karşısında &quot;Bize gelmek isterseniz kapımız açık&quot; diyerek AK Parti&#039;ye davet ettiği Marmaris Belediye Başkanı Acar Ünlü YENİÇAĞ&#039;a konuştu. Ünlü yarın katılım töreniyle YENİ Parti&#039;ye geçecek.",
-      "link": "https://www.yenicaggazetesi.com/marmaris-belediye-baskani-acar-unlu-meclis-cogunluguyla-yeni-partiye-katiliyor-1070927h.htm",
-      "published": "2026-09-11T20:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T20:40:43.634826+00:00"
-    },
-    {
-      "id": "6095031832be7fef",
-      "source": "Ekonomim",
-      "title": "Suudi Arabistan, Husi saldırıları sonrası Doğu-Batı boru hattını kapattı",
-      "summary": "Suudi Arabistan Enerji Bakanlığı, Yemen’de İran destekli Husilerden gelen saldırıların ardından Doğu-Batı boru hattının tedbir amaçlı kapatıldığını duyurdu.",
-      "link": "https://www.ekonomim.com/dunya/suudi-arabistan-husi-saldirilari-sonrasi-dogu-bati-boru-hattini-kapatti-haberi-917681",
-      "published": "2026-09-11T20:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T20:45:49.356638+00:00"
-    },
-    {
-      "id": "a40ab2bb9d1afd00",
-      "source": "Yeni Şafak",
-      "title": "Tokat’ta trafik kazası: Üç kişi yaralandı",
-      "summary": "Tokat’ta iki otomobilin karıştığı trafik kazasında üç kişi yaralandı.",
-      "link": "https://www.yenisafak.com/galeri/gundem/tokatta-trafik-kazasi-uc-kisi-yaralandi-4855138",
-      "published": "2026-09-11T20:33:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T20:35:46.218585+00:00"
     }
   ]
 }

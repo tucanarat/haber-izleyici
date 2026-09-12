@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-12T01:31:11.985644+00:00",
+  "last_updated": "2026-09-12T01:35:58.169269+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 567,
+  "new_items_this_run": 565,
   "items": [
+    {
+      "id": "1c8ab4438f5d4e16",
+      "source": "Türkiye Gazetesi",
+      "title": "MEB'de dijital devrim! Yeni EBA, 14 eylülde kullanımda",
+      "summary": "Millî Eğitim Bakanlığı, 10 yılı aşkın süredir kullanılan EBA’yı yapay zekâ destekli kişiselleştirme, güvenli yapay zekâ asistanı ve öğrenme geçmişinin mezuniyete kadar takibini sağlayacak yeni özelliklerle baştan aşağı yeniledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/milli-egitimde-dijital-devrim-yeni-ebada-yapay-zeka-asistani-geliyor-1815430",
+      "published": "2026-09-12T01:32:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T01:35:33.207495+00:00"
+    },
     {
       "id": "df1ff256cab15fbf",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-11T19:35:30.931558+00:00"
-    },
-    {
-      "id": "ff401107a3f751bd",
-      "source": "Yeniçağ",
-      "title": "Suudi Arabistan Doğu-Batı boru hattını kapattı",
-      "summary": "Suudi Arabistan, Doğu-Batı boru hattının, saldırıların ardından tedbir amaçlı kapatıldığını açıkladı",
-      "link": "https://www.yenicaggazetesi.com/suudi-arabistan-dogu-bati-boru-hattini-kapatti-1070920h.htm",
-      "published": "2026-09-11T19:29:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T19:30:58.924901+00:00"
     }
   ]
 }

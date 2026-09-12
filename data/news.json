@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-12T03:06:37.640747+00:00",
+  "last_updated": "2026-09-12T03:11:02.902864+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 530,
+  "new_items_this_run": 554,
   "items": [
+    {
+      "id": "a519a93500f03cdc",
+      "source": "Türkiye Gazetesi",
+      "title": "MARMARA İÇİN KRİTİK AÇIKLAMA",
+      "summary": "Deprem açıklamalarıyla gündemden düşmeyen Prof. Dr. Osman Bektaş, yaptığı son değerlendirmeyle deyim yerindeyse yüreklere su serpti. \"Marmara'da büyük deprem olasılığı azalıyor\" diyen Bektaş, \"Ana Marmara fayının bütünüyle, doğrultusu boyunca ve derinliği boyunca homojen kilitli, yani her yerde deprem enerjisi üretmediği artık açık. Bu eski klasik görüşleri yıkıyor ve 7'den büyük deprem üretme ola",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/milyonlarin-yuregine-su-serpildi-osman-bektastan-beklenen-marmara-depremiyle-ilgili-e-1815435",
+      "published": "2026-09-12T03:05:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T03:10:42.224145+00:00"
+    },
     {
       "id": "6aa5ba9da174788d",
       "source": "Halk TV",
@@ -28,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-12T03:06:29.042033+00:00"
+    },
+    {
+      "id": "1e822987b13b832d",
+      "source": "Finans Gündem",
+      "title": "Benzine zam geldi: Üç büyükşehirde fiyatlar yükseldi",
+      "summary": "12 Eylül 2026 itibarıyla benzinin litre fiyatına 3,20 TL zam geldi. Zam sonrası benzin İstanbul’da 80,12 TL, Ankara’da 81,25 TL, İzmir’de ise 81,52 TL oldu. Doğu illerinde fiyatlar 82,88 TL’ye kadar yükseldi.",
+      "link": "https://www.finansingundemi.com/haber/benzine-zam-geldi-uc-buyuksehirde-fiyatlar-yukseldi/1908067",
+      "published": "2026-09-12T02:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-12T03:10:56.295820+00:00"
     },
     {
       "id": "42ca0b8fae22d2dc",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-11T19:55:27.474913+00:00"
-    },
-    {
-      "id": "b5e893aa3603e50a",
-      "source": "Finans Gündem",
-      "title": "İstanbul’da okullarda ilk gün ders saatleri değişti",
-      "summary": "İstanbul'daki resmi ve özel tüm ilkokul, ortaokul ve liselerde 14 Eylül Pazartesi günü derslerin 10.00-15.00 saatleri arasında yapılmasının kararlaştırıldığı duyuruldu.",
-      "link": "https://www.finansingundemi.com/haber/istanbulda-okullarda-ilk-gun-ders-saatleri-degisti/1908041",
-      "published": "2026-09-11T19:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T20:06:01.834671+00:00"
-    },
-    {
-      "id": "446f37badba46021",
-      "source": "Finans Gündem",
-      "title": "İstanbul'da okulların açılışında trafik düzenlemesi",
-      "summary": "İstanbul'daki resmi ve özel tüm ilkokul, ortaokul ve liselerde 14 Eylül Pazartesi günü derslerin 10.00-15.00 saatleri arasında yapılmasının kararlaştırıldığı duyuruldu.",
-      "link": "https://www.finansingundemi.com/haber/istanbulda-okullarin-acilisinda-trafik-duzenlemesi/1908041",
-      "published": "2026-09-11T19:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-11T20:01:12.359578+00:00"
     }
   ]
 }

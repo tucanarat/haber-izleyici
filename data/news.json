@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T01:25:51.900757+00:00",
+  "last_updated": "2026-09-13T01:31:13.655919+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 575,
   "items": [
+    {
+      "id": "a1eb9c61cd48265e",
+      "source": "Halk TV",
+      "title": "Son Dakika | Hürmüz Boğazı'nda gemi vuruldu",
+      "summary": "Son dakika haberi... Hürmüz Boğazı&#039;ndan geçen bir geminin türü belirsiz mühimmatla vurulduğu bildirildi.",
+      "link": "https://halktv.com.tr/dunya/son-dakika-hurmuz-bogazinda-gemi-vuruldu-1054720h",
+      "published": "2026-09-13T01:30:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T01:30:55.845697+00:00"
+    },
     {
       "id": "69b83bbe676ec36d",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-12T19:31:08.878864+00:00"
-    },
-    {
-      "id": "8e3dc40ec9056e5d",
-      "source": "Halk TV",
-      "title": "Gülistan Doku soruşturmasında 6. dalga: Görevde ve emekli polisler dahil 11 kişi gözaltında!",
-      "summary": "Gülistan Doku’nun kaybolmasına ilişkin soruşturmada 6. dalga operasyon başlatıldı.",
-      "link": "https://halktv.com.tr/turkiye/gulistan-doku-sorusturmasinda-6-dalga-gorevde-ve-emekli-polisler-dahil-11-kisi-gozaltinda-1054697h",
-      "published": "2026-09-12T19:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-12T19:35:43.758329+00:00"
     }
   ]
 }

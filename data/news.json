@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-13T03:11:04.384134+00:00",
+  "last_updated": "2026-09-13T03:16:02.588426+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 559,
+  "new_items_this_run": 558,
   "items": [
+    {
+      "id": "64a0e68bd3d85021",
+      "source": "Halk TV",
+      "title": "Evlerinin dibinde 12 metrelik bir çukur açıldı: 4 aile apar topar tahliye edildi",
+      "summary": "Bir kişinin arka bahçesinde bir anda çukur oluştu. İlk ihbarda 24 metre derinliğinde olduğu belirtilen çukurun 12 metre olduğu ölçüldü. Dört aile tahliye edildi.",
+      "link": "https://halktv.com.tr/yasam/evlerinin-dibinde-12-metrelik-bir-cukur-acildi-4-aile-apar-topar-tahliye-edildi-1054724h",
+      "published": "2026-09-13T03:11:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T03:15:45.923034+00:00"
+    },
     {
       "id": "a27a5d99a091be44",
       "source": "Yeni Akit",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-12T20:01:30.777624+00:00"
-    },
-    {
-      "id": "a8997020966e7596",
-      "source": "Star",
-      "title": "Kuyuya düşen 2 kişi yaşamını yitirdi",
-      "summary": "Kahramanmaraş'ta kuyu yapımında çalışan 2 kişi, kuyuya düşerek hayatını kaybetti.",
-      "link": "https://www.star.com.tr/guncel/kuyuya-dusen-2-kisi-yasamini-yitirdi-haber-2039823/",
-      "published": "2026-09-12T19:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-12T19:45:42.011097+00:00"
     }
   ]
 }

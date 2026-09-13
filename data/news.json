@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-13T22:11:05.485871+00:00",
+  "last_updated": "2026-09-13T22:16:08.909741+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 562,
+  "new_items_this_run": 558,
   "items": [
+    {
+      "id": "9cee766191ad2ae0",
+      "source": "Akşam",
+      "title": "Domenico Tedesco'dan kötü başlangıç! 4 haftada 1 puan",
+      "summary": "İtalya Serie A'nın 4. haftasında Napoli ile Bologna karşı karşıya geldi. Müsabaka'yı Napoli, 1-0'lık skorla kazandı.",
+      "link": "https://www.aksam.com.tr/spor/domenico-tedescodan-kotu-baslangic-4-haftada-1-puan/haber-1698139",
+      "published": "2026-09-13T22:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T22:15:43.101318+00:00"
+    },
     {
       "id": "b10922c11188cee7",
       "source": "Yeniçağ",
@@ -5112,6 +5123,17 @@
       "fetched_at": "2026-09-13T18:20:39.927046+00:00"
     },
     {
+      "id": "660b0f00d5ab5736",
+      "source": "Euronews Türkçe",
+      "title": "Bakan Fidan Şam'da: \"İsrail Suriye'yi istikrarsızlaştırmak istiyor\"",
+      "summary": "Şam'da Suriyeli mevkidaşı Şeybani ile görüşen Bakan Fidan, \"İsrail'in IŞİD gibi örgütlere dolaylı biçimde destek verdiğini\" belirterek, SDG'nin fesih ve Suriye ordusuna entegrasyon kararının \"pratiğe\" geçirilmesi çağrısında bulundu.",
+      "link": "https://tr.euronews.com/2026/09/13/bakan-fidan-samda-israil-suriyeyi-istikrarsizlastirmak-istiyor",
+      "published": "2026-09-13T18:17:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T22:16:08.908925+00:00"
+    },
+    {
       "id": "c3e8b81cbc9aca10",
       "source": "Halk TV",
       "title": "Festival kapsamında güreştirilen boğa kapıdan atlayarak arenadan kaçtı",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T18:00:57.639032+00:00"
-    },
-    {
-      "id": "6b5725957499b790",
-      "source": "BBC News Türkçe",
-      "title": "Kaşif Kozinoğlu soruşturması: Gazeteci Selahattin Günday tutuklandı",
-      "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne ilişkin soruşturma kapsamında düzenlenen ikinci operasyonda gözaltına alınan dokuz zanlı adliyeye sevk edildi.",
-      "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13T17:57:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T18:01:18.167827+00:00"
-    },
-    {
-      "id": "56b61ec1dbd3c90a",
-      "source": "Yeni Şafak",
-      "title": "Ankara'da feci kaza: Sürücü olay yerinde yaşamını yitirdi",
-      "summary": "Ankara’nın Pursaklar ilçesinde gece saatlerinde meydana gelen kazada, kontrolden çıkan otomobil takla attı. Kazada 43 yaşındaki sürücü Emrah Atlı olay yerinde hayatını kaybetti. Atlı’nın cenazesi, Akyurt Güzelhisar Mahallesi’nde kılınan cenaze namazının ardından toprağa verildi.",
-      "link": "https://www.yenisafak.com/gundem/ankarada-feci-kaza-surucu-olay-yerinde-yasamini-yitirdi-4855568",
-      "published": "2026-09-13T17:57:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T18:01:00.909865+00:00"
     }
   ]
 }

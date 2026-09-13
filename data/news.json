@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T02:31:04.378215+00:00",
+  "last_updated": "2026-09-13T02:35:54.333013+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 563,
   "items": [
+    {
+      "id": "ec5717f1c0e9a27f",
+      "source": "Habertürk",
+      "title": "Su kuyusunda facia! 2 ölü",
+      "summary": "Kahramanmaraş'ta temizlemek için girdikleri su kuyusunda zehirlenen 2 kişi hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/kahramanmaras-ta-su-kuyusunda-facia-2-olu-3912104",
+      "published": "2026-09-13T02:21:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T02:35:26.153507+00:00"
+    },
     {
       "id": "bae910af1e1ee4cc",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-12T19:35:33.957107+00:00"
-    },
-    {
-      "id": "774987c386d45c8a",
-      "source": "Yeni Şafak",
-      "title": "Poşete doldurdukları samana kolonya döktüler: Küçük çocuk yaralandı",
-      "summary": "Adıyaman'da poşete doldurdukları samanların üzerine kolonya dökerek tutuşturan iki arkadaşın neden olduğu ani parlama sonucu 9 yaşındaki çocuğun yüzünde 2. derece yanıklar oluştu.",
-      "link": "https://www.yenisafak.com/gundem/posete-doldurduklari-samana-kolonya-doktuler-kucuk-cocuk-yaralandi-4855340",
-      "published": "2026-09-12T19:32:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-12T19:35:40.332239+00:00"
     }
   ]
 }

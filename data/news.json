@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-13T00:45:53.801685+00:00",
+  "last_updated": "2026-09-13T00:50:59.867008+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 577,
+  "new_items_this_run": 578,
   "items": [
+    {
+      "id": "93a82a4cbe10e509",
+      "source": "Türkiye Gazetesi",
+      "title": "Ünlü şarkıcının ölümünde yapay zekâ detayı",
+      "summary": "Yunan şarkıcı Yorgos Mazonakis’in ruhsatsız bir klinikteki ölümüne ilişkin soruşturmada skandal detaylar ortaya çıktı. Polis incelemesinde, hastanın kalbi durduğunda doktorların yapay zekaya \"bir hasta nasıl hayata döndürülür\" diye sorduğu belirlendi.",
+      "link": "https://www.turkiyegazetesi.com.tr/magazin/unlu-sarkicinin-olumunde-akilalmaz-iddia-doktorlarin-yapay-zeka-aramasi-mercek-altind-1815657",
+      "published": "2026-09-13T00:45:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T00:50:37.543287+00:00"
+    },
     {
       "id": "d2f18e4bf1780578",
       "source": "Kısa Dalga",
@@ -72,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T00:20:39.448186+00:00"
+    },
+    {
+      "id": "6f3a01e397fda8a1",
+      "source": "Bir Gün",
+      "title": "Alanya’daki maçta zehirlenme şüphesi: Çoğu jandarma yaklaşık 50 kişi hastanelik oldu",
+      "summary": "Antalya'nın Alanya ilçesinde Corendon Alanyaspor ile Göztepe arasında oynanan maçta görev yapan, çoğu jandarma personeli yaklaşık 50 kişi rahatsızlanarak hastaneye başvurdu. Görevlilerin statta dağıtılan tavuklu pilavdan zehirlenmiş olabileceği belirtilirken, yemeklerden numune alınarak inceleme başlatıldı.",
+      "link": "https://www.birgun.net/haber/alanyadaki-macta-zehirlenme-suphesi-cogu-jandarma-yaklasik-50-kisi-hastanelik-oldu-734402",
+      "published": "2026-09-13T00:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T00:50:38.208501+00:00"
     },
     {
       "id": "87db850e1eab8cfa",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-12T19:01:06.489264+00:00"
-    },
-    {
-      "id": "7875a2d7c590eed5",
-      "source": "Yeni Şafak",
-      "title": "Adıyaman'da motosiklet yayaya çarptı: İki kişi yaralandı",
-      "summary": "Adıyaman’ın Gölbaşı ilçesinde yolun karşısına geçmeye çalışan bir yayaya motosikletin çarpması sonucu 2 kişi yaralandı. Olay yerinde ilk müdahaleleri yapılan yaralılar, sağlık ekipleri tarafından Gölbaşı Devlet Hastanesi’ne kaldırıldı.",
-      "link": "https://www.yenisafak.com/gundem/adiyamanda-motosiklet-yayaya-carpti-iki-kisi-yaralandi-4855355",
-      "published": "2026-09-12T18:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-12T20:50:42.447892+00:00"
-    },
-    {
-      "id": "51b6ed77a16aa327",
-      "source": "Yeniçağ",
-      "title": "10 kişi kalan Çaykur Rizespor, Eyüpspor deplasmanında kazandı",
-      "summary": "Trendyol Süper Lig&#039;in 5. haftasında Çaykur Rizespor, deplasmanda Eyüpspor&#039;u 2-0 mağlup etti. Karadeniz ekibi, ilk yarının son bölümünde 10 kişi kalmasına rağmen üstünlüğünü koruyarak puanını 9&#039;a yükseltti.",
-      "link": "https://www.yenicaggazetesi.com/10-kisi-kalan-caykur-rizespor-eyupspor-deplasmaninda-kazandi-1071195h.htm",
-      "published": "2026-09-12T18:56:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-12T19:01:04.585505+00:00"
     }
   ]
 }

@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-09-13T20:35:48.237906+00:00",
+  "last_updated": "2026-09-13T20:40:56.324759+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 566,
+  "new_items_this_run": 565,
   "items": [
+    {
+      "id": "c7f222f29788a1f2",
+      "source": "Karar",
+      "title": "İstanbul'da aynı gece iki erkek cesedi bulundu",
+      "summary": "İstanbul'un Başakşehir ve Fatih ilçelerinde iki ayrı noktada 2 erkek cesedi bulundu. Başakşehir'deki cesedin 24 yaşındaki Eray Deniz Sarı'ya, Fatih'teki cesedin ise 40 yaşındaki İsa Çam'a ait olduğu belirlendi.",
+      "link": "https://www.karar.com/guncel-haberler/istanbulda-ayni-gece-iki-erkek-cesedi-bulundu-2071690",
+      "published": "2026-09-13T20:40:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T20:40:40.270172+00:00"
+    },
+    {
+      "id": "2999fbfb97e4c373",
+      "source": "Milliyet",
+      "title": "Ters şeride girdi, motosiklete çarptı: 2 ölü, 1 yaralı",
+      "summary": "Bursa’nın Yenişehir ilçesinde alkollü tır sürücüsünün ters şeride girerek motosiklete çarpması sonucu meydana gelen kazada 2 genç hayatını kaybederken, 1 kişi hafif yaralandı. Edinilen bilgilere göre, kaza saat 20.00 sıralarında Yenişehir-İnegöl kara yolunda meydana geldi. İlginizi Çekebilir Recep Ö. (29) yönetimindeki 31 ARG 58 plakalı tır, iddiaya göre ters şeride girerek Remzi Manaoğlu’nun (18)",
+      "link": "https://www.milliyet.com.tr/gundem/ters-seride-girdi-motosiklete-carpti-2-olu-1-yarali-7659704",
+      "published": "2026-09-13T20:38:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T20:40:38.288315+00:00"
+    },
+    {
+      "id": "052944f39be57c13",
+      "source": "Gazete Pencere",
+      "title": "Merkez Bankası için faiz indirimi sinyali: Bankacılık devi tarih verdi",
+      "summary": "TCMB'nin politika faizini yüzde 37'de sabit tutmasının ardından Barclays, yılın son iki toplantısında 100'er baz puanlık faiz indirimi bekliyor.",
+      "link": "https://www.gazetepencere.com/ekonomi/merkez-bankasi-icin-faiz-indirimi-sinyali-bankacilik-devi-tarih-verdi-715348h",
+      "published": "2026-09-13T20:35:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T20:40:42.384568+00:00"
+    },
     {
       "id": "b4d50c25bd81bb1d",
       "source": "DonanımHaber",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T16:25:31.975996+00:00"
-    },
-    {
-      "id": "3ba9995f7d0135fa",
-      "source": "Cumhuriyet",
-      "title": "'Çalmamalarını rica ettim' demişti: Zülfü Livaneli'den bir 'Yiğidim Aslanım' açıklaması daha",
-      "summary": "Ünlü sanatçı Zülfü Livaneli, 'Yiğidim Aslanım' eserinin YENİ Parti mitinglerinde çalınmaması için talepte bulunduğunu açıklamıştı. Livaneli, söz konusu duruma ilişkin bir açıklama daha yaptı.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/calmamalarini-rica-ettim-demisti-zulfu-livaneli-den-bir-yigidim-aslanim-aciklamasi-daha-2537205",
-      "published": "2026-09-13T16:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T16:25:31.976026+00:00"
-    },
-    {
-      "id": "3860074271ffc5fe",
-      "source": "Akşam",
-      "title": "Siyonistler ihlallerine devam ediyor: Yüzlerce İsrailli Mescid-i Aksa'ya baskın düzenledi",
-      "summary": "Filistin topraklarını gasbeden 583 İsrailli, işgal altındaki Doğu Kudüs'te yer alan Mescid-i Aksa'ya baskın düzenledi.",
-      "link": "https://www.aksam.com.tr/dunya/siyonistler-ihlallerine-devam-ediyor-yuzlerce-israilli-mescid-i-aksaya-baskin-duzenledi/haber-1698092",
-      "published": "2026-09-13T16:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T16:20:41.837931+00:00"
-    },
-    {
-      "id": "2cc2dadd9403a405",
-      "source": "Karar",
-      "title": "İstanbul'da yarın ulaşım ücretsiz: Sadece okul saatleri içerisinde",
-      "summary": "İstanbul'da 2026-2027 eğitim öğretim yılının başlayacağı 14 Eylül Pazartesi günü toplu ulaşım araçları 06.00-16.00 saatleri arasında ücretsiz hizmet verecek. İBB UKOME kararıyla hayata geçirilen önlemler kapsamında ayrıca okul çevrelerinde denetimler artırılacak ve kent genelinde şantiye çalışmaları durdurulacak.",
-      "link": "https://www.karar.com/guncel-haberler/istanbulda-yarin-ulasim-ucretsiz-sadece-okul-saatleri-icerisinde-2071663",
-      "published": "2026-09-13T16:19:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T16:20:43.620685+00:00"
     }
   ]
 }

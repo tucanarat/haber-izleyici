@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-13T00:20:59.893964+00:00",
+  "last_updated": "2026-09-13T00:25:47.044039+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 573,
+  "new_items_this_run": 576,
   "items": [
+    {
+      "id": "d015d00fa96efb66",
+      "source": "Türkiye Gazetesi",
+      "title": "ELEKTRONİK SİSTEMLE SATILACAK",
+      "summary": "Tütün ürünlerinin görünürlüğü azaltılacak. Elektronik sistem üzerinden yaş doğrulaması ile alınabilecek. 2040’tan itibaren de satışı yasaklanacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/yeni-duzenleme-icin-meclis-takvimi-belli-oldu-sigara-elektronik-sistemle-satilacak-1815653",
+      "published": "2026-09-13T00:20:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T00:25:31.112306+00:00"
+    },
+    {
+      "id": "088c53f0246f24da",
+      "source": "Türkiye Gazetesi",
+      "title": "Sigara, elektronik sistemle satılacak",
+      "summary": "Tütün ürünlerinin görünürlüğü azaltılacak. Elektronik sistem üzerinden yaş doğrulaması ile alınabilecek. 2040’tan itibaren de satışı yasaklanacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/yeni-duzenleme-icin-meclis-takvimi-belli-oldu-sigara-elektronik-sistemle-satilacak-1815653",
+      "published": "2026-09-13T00:20:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T00:25:31.112339+00:00"
+    },
     {
       "id": "0f0ed1c2b7ec4d4a",
       "source": "Milliyet",
@@ -732,6 +754,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-12T22:50:44.638140+00:00"
+    },
+    {
+      "id": "f682fa5a78e7c66b",
+      "source": "Karar",
+      "title": "Dört günlük İstanbul rotasıyla şehri vapur keyfiyle baştan başa keşfetme fırsatı",
+      "summary": "İstanbul'da bunaltıcı sıcaklarda yorulmadan keşfetmek isteyen seyahatseverler için hazırlanan dört günlük gezi planı, raylı sistemler ile deniz ulaşımını birleştiriyor. Gezginler, geniş toplu ulaşım ağı sayesinde Kadıköy'den İstanbul Boğazı köylerine, Büyükada'dan Karaköy'e uzanan keyifli durakları kalabalıktan uzak bir tempoyla adımlıyor.",
+      "link": "https://www.karar.com/sehir-haberleri/4-gunde-istanbul-nasil-gezilir-istanbulda-nereye-gidilir-4-gunluk-2071575",
+      "published": "2026-09-12T22:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T00:25:34.197848+00:00"
     },
     {
       "id": "73c1727a9183759b",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-12T19:01:04.350205+00:00"
-    },
-    {
-      "id": "5319588cffdf7022",
-      "source": "DW Türkçe",
-      "title": "Antalya'da Narkotik Şube Müdürü gözaltına alındı",
-      "summary": "Antalya'da uyuşturucu şüphelilerinin dosyalarını rüşvet karşılığı temizlediği iddiasıyla Narkotik Şube Müdürlüğünün eski ve yeni müdürleri gözaltına alındı.",
-      "link": "https://www.dw.com/tr/antalya-da-narkotik-şube-müdürü-gözaltına-alındı/a-79247342?maca=tur-rss-tur-all-1495-rdf",
-      "published": "2026-09-12T18:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-12T19:16:19.632086+00:00"
-    },
-    {
-      "id": "b550467635f580e4",
-      "source": "Cumhuriyet",
-      "title": "PISA 2025'teki 'yükseliş' tartışma yarattı: 'Seçilen öğrencilere özel hazırlık' iddiası!",
-      "summary": "Türkiye’nin PISA 2025 sonuçlarında matematik, fen ve okuma alanlarında yükselmesi, sınava katılan öğrencilere özel hazırlık yapıldığı iddialarını gündeme getirdi. Eski MEB Daire Başkanı Dr. Kadir Çetin, 2018 ve 2022’de de benzer uygulamalara tanık olduğunu belirterek 2025’teki yükselişin “tamamen yapılan özel hazırlıktan” kaynaklandığını savundu.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/pisa-2025-teki-yukselis-tartisma-yaratti-secilen-ogrencilere-ozel-hazirlik-iddiasi-2537018",
-      "published": "2026-09-12T18:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-12T19:00:58.407196+00:00"
-    },
-    {
-      "id": "4c624b517e9aabd7",
-      "source": "Habertürk",
-      "title": "13. Yargı Paketi maddeleri neler?",
-      "summary": "13. Yargı Paketi ile ilgili gelişmeler, özellikle nafaka ve boşanma davalarına yönelik planlanan yeni düzenlemeler nedeniyle gündemdeki yerini koruyor. Adalet Bakanı Akın Gürlek, yaptığı açıklamada yargı paketinin ekim ayında ikinci kısmının gündeme getirileceğini ve yaklaşık 24-25 maddeden oluşmasının öngörüldüğünü söyledi. Paketin içerisinde süresiz nafaka konusunda Anayasa Mahkemesi'nin iptal k",
-      "link": "https://www.haberturk.com/bilgi/foto/13-yargi-paketi-maddeleri-son-dakika-2026-13-yargi-paketi-ne-zaman-cikacak-suresiz-nafaka-kalkacak-mi-yeni-yargi-paketi-maddeleri-neler-3911905",
-      "published": "2026-09-12T18:54:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-12T19:00:54.959525+00:00"
     }
   ]
 }

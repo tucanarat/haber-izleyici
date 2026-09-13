@@ -1,12 +1,133 @@
 {
-  "last_updated": "2026-09-13T11:01:29.637899+00:00",
+  "last_updated": "2026-09-13T11:06:02.000550+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 547,
+  "new_items_this_run": 536,
   "items": [
+    {
+      "id": "bff1a2f01a6dc511",
+      "source": "Akşam",
+      "title": "Real Madrid'den Thibaut Courtois'a yeni sözleşme",
+      "summary": "İspanya La Liga devi Real Madrid, iç transferde tecrübeli file bekçisi Thibaut Courtois'in sözleşmesini yenilemeye hazırlanıyor.",
+      "link": "https://www.aksam.com.tr/spor/real-madridden-thibaut-courtoisa-yeni-sozlesme/haber-1698028",
+      "published": "2026-09-13T11:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:34.693829+00:00"
+    },
+    {
+      "id": "ed6d812eb0b5a991",
+      "source": "Yeniçağ",
+      "title": "Miras paylaşımında kardeş kavgasını bitirecek yöntem: Uzman isim açıkladı",
+      "summary": "Gayrimenkul fiyatlarındaki fahiş artış mirasçı kardeşleri karşı karşıya getirirken, anlaşmazlıkların çözümü için kritik reçete açıklandı. Avukat Ali Kayaoğlu, mahkemelerde 4,5 yıla varan yıpratıcı dava süreçleri yerine arabuluculuk yönteminin zaman ve maliyet avantajı sunduğunu vurguladı.",
+      "link": "https://www.yenicaggazetesi.com/miras-paylasiminda-kardes-kavgasini-bitirecek-yontem-uzman-isim-acikladi-1071307h.htm",
+      "published": "2026-09-13T11:04:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:37.466455+00:00"
+    },
+    {
+      "id": "a85ddcc87dfd55fe",
+      "source": "Akşam",
+      "title": "Başkan Erdoğan, Roş Aşana Bayramı'nı kutladı",
+      "summary": "Başkan Erdoğan, Musevi vatandaşların Roş Aşana Bayramı'nı kutladı.",
+      "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-ros-asana-bayramini-kutladi/haber-1698027",
+      "published": "2026-09-13T11:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:34.693850+00:00"
+    },
+    {
+      "id": "49f03579849664d1",
+      "source": "Star",
+      "title": "Cumhurbaşkanı Erdoğan'dan Roş Aşana mesajı! Musevi vatandaşların bayramını kutladı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Musevi vatandaşların Roş Aşana Bayramı dolayısıyla kutlama mesajı yayımladı.",
+      "link": "https://www.star.com.tr/guncel/cumhurbaskani-erdogandan-ros-asana-mesaji-musevi-vatandaslarin-bayramini-kutladi-haber-2039917/",
+      "published": "2026-09-13T11:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:35.697853+00:00"
+    },
+    {
+      "id": "65166b12a9d5f0fd",
+      "source": "Milliyet",
+      "title": "Cumhurbaşkanı Erdoğan, Musevi vatandaşların Roş Aşana Bayramı'nı kutladı",
+      "summary": "Cumhurbaşkanı Erdoğan, yayımladığı mesajında, \"Musevi vatandaşlarımızın Roş Aşana Bayramı'nı tebrik ediyor, bölgemizle birlikte tüm dünyada barışa, huzura ve esenliğe vesile olmasını diliyorum.\" ifadelerini kullandı. İstanbul’da kiralık TOKİ evleri için başvurular yarın başlıyor! Bakan Kurum’dan örnek daire paylaşımı",
+      "link": "https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogan-musevi-vatandaslarin-ros-asana-bayramini-kutladi-7659437",
+      "published": "2026-09-13T11:03:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:34.003811+00:00"
+    },
+    {
+      "id": "e8074ac4101273cf",
+      "source": "Akşam",
+      "title": "Başkan Erdoğan, Rize'de komşularını ziyaret etti",
+      "summary": "Başkan Recep Tayyip Erdoğan, Rize'de komşularını ziyaret etti.",
+      "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-rizede-komsularini-ziyaret-etti/haber-1698026",
+      "published": "2026-09-13T11:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:34.693863+00:00"
+    },
+    {
+      "id": "ce16825d2b60b55e",
+      "source": "Yeniçağ",
+      "title": "Zelenskiy, Rusya'nın bu hafta Ukrayna'ya yaklaşık 2 bin 100 İHA fırlattığını belirtti",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya&#039;nın bu hafta ülkesine yaklaşık 2 bin 100 insansız hava aracı (İHA), yaklaşık 1700 güdümlü hava bombası ve çeşitli tiplerde 78 füze fırlattığını bildirdi.",
+      "link": "https://www.yenicaggazetesi.com/zelenskiy-rusyanin-bu-hafta-ukraynaya-yaklasik-2-bin-100-iha-firlattigini-belirtti-1071306h.htm",
+      "published": "2026-09-13T11:02:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:37.466483+00:00"
+    },
+    {
+      "id": "28cb9d3988d11005",
+      "source": "Yeniçağ",
+      "title": "40 yıl sonra öğrencileriyle buluştu",
+      "summary": "1983 yılında Şanlıurfa&#039;nın Havşanlı köyünde öğretmenliğe başlayan Orhan Bozyiğit, aradan geçen 40 yılın ardından eski öğrencileriyle yeniden buluştu. Yıllar önce ders verdiği öğrencilerinin büyüyüp aile kurduğunu gören Bozyiğit, duygusal anlar yaşarken köyde planlanan kısa ziyaret 15 güne uzadı.",
+      "link": "https://www.yenicaggazetesi.com/40-yil-sonra-ogrencileriyle-bulustu-1071305h.htm",
+      "published": "2026-09-13T11:02:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:37.466506+00:00"
+    },
+    {
+      "id": "ee17673d2a831a46",
+      "source": "CNBC-e",
+      "title": "Kremlin ilk kez tarih verdi! Ukrayna-Rusya arasında barışa doğru",
+      "summary": "Kremlin, Rusya, ABD ve Ukrayna arasındaki müzakerelerin yeniden başlamasına ilişkin tarih verdi. Yapılan açıklamada, üç ülke arasındaki görüşmelerin ekim ayında başlayabileceği belirtildi.",
+      "link": "https://www.cnbce.com/dunya/kremlin-ilk-kez-tarih-verdi-ukrayna-rusya-arasinda-barisa-dogru-h37097",
+      "published": "2026-09-13T11:02:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:47.162743+00:00"
+    },
+    {
+      "id": "132131033b982e85",
+      "source": "Star",
+      "title": "Ayhancan Güven, Suzuka'da 3. oldu",
+      "summary": "Otomobil sporcusu Ayhancan Güven, Intercontinental GT Challenge'ın Suzuka 1000 ayağında 3. oldu",
+      "link": "https://www.star.com.tr/spor/ayhancan-guven-suzukada-3-oldu-haber-2039916/",
+      "published": "2026-09-13T11:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:35.697874+00:00"
+    },
+    {
+      "id": "37a7a99373a6b1e7",
+      "source": "Ekonomim",
+      "title": "Cumhurbaşkanı Erdoğan, Musevi vatandaşların Roş Aşana Bayramı'nı kutladı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Musevi vatandaşların Roş Aşana Bayramı&#039;nı kutladı.",
+      "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogan-musevi-vatandaslarin-ros-asana-bayramini-kutladi-haberi-917900",
+      "published": "2026-09-13T11:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:46.375053+00:00"
+    },
     {
       "id": "965303d4bf534a16",
       "source": "Akşam",
@@ -162,6 +283,17 @@
       "fetched_at": "2026-09-13T11:01:10.963008+00:00"
     },
     {
+      "id": "96ea561553b97d08",
+      "source": "Ekonomim",
+      "title": "Nâzım’ın baktığı yerden: Romantika",
+      "summary": "İzmir’de açılan ‘Romantika’ sergisi, Nâzım Hikmet’i yalnızca eserleriyle değil; çalışma masasından kamerasına, mektuplarından sevdalarına uzanan gündelik ayrıntılarıyla, yani ‘insan’ hâliyle selamlıyor.",
+      "link": "https://www.ekonomim.com/yasam-keyfi/nazimin-baktigi-yerden-romantika-haberi-917899",
+      "published": "2026-09-13T10:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:46.375081+00:00"
+    },
+    {
       "id": "fcd798bdeffd9f99",
       "source": "Halk TV",
       "title": "MHP'den şaşırtan seçim mesajı: AKP'nin koltuğunu istediler",
@@ -237,6 +369,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T10:55:37.521903+00:00"
+    },
+    {
+      "id": "97ece2960d211e9d",
+      "source": "Türkiye Gazetesi",
+      "title": "Üç lider ayrılık referandumu için masaya oturacak!",
+      "summary": "Birleşik Krallık'ın geleceğini doğrudan etkileyecek ayrılık tartışması yeni bir aşamaya taşınıyor. İskoçya, Galler ve Kuzey İrlanda'nın bağımsızlık yanlısı liderleri, Londra yönetiminden referandum hakkı talep etmek ve anayasal gelecekleri konusunda ortak hareket etmek için Cardiff'te ilk kez aynı masaya oturacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/birlesik-krallikin-gelecegi-tehlikede-iskocya-kuzey-irlanda-ve-galler-liderleri-ayril-1815706",
+      "published": "2026-09-13T10:53:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:31.586767+00:00"
     },
     {
       "id": "101c9d61922f7004",
@@ -4122,6 +4265,17 @@
       "fetched_at": "2026-09-13T09:10:47.551874+00:00"
     },
     {
+      "id": "1afeeadcac377cc8",
+      "source": "Habertürk",
+      "title": "Bakan Çiftçi talimat verdi! 81 ilde okul çevrelerinde sıkı takip",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi'nin talimatıyla 81 ilde okul çevrelerinde güvenlik önemleri artırılıyor. Buna göre; okullarda 31 bin okul bahçe görevlisi istihdam edilirken, asayiş, narkotik ve trafik denetimleri de artırılacak",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-bakan-ciftci-talimat-verdi-81-ilde-okul-cevrelerinde-asayis-narkotik-ve-trafik-denetimleri-artiriliyor-3912142",
+      "published": "2026-09-13T08:59:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:26.573579+00:00"
+    },
+    {
       "id": "9d56d9f8b97547fa",
       "source": "Ekonomim",
       "title": "Mersin Limanı'nda kargo gemisindeki aramada 350 kilogram kokain ele geçirildi",
@@ -4626,6 +4780,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T09:17:25.806489+00:00"
+    },
+    {
+      "id": "79db93ca495c2a35",
+      "source": "Evrensel",
+      "title": "Smart'ta işten atılan işçiler: 'Haklarımız için mücadeleye öncülük ettik, kararlıyız'",
+      "summary": "Smart Güneş Teknolojileri Aliağa fabrikasında Tes-İş'ten istifa edip Enerji-Sen'e geçen işçilerden 7'si işten çıkarıldı. Üretimi durdurup fabrika içi ve önünde eyleme başlayan işçiler kararlılık vurgusu yaptı.",
+      "link": "https://www.evrensel.net/haber/6000365/smart-ta-isten-atilan-isciler-haklarimiz-icin-mucadeleye-onculuk-ettik-kararliyiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-13T08:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-13T11:05:32.209245+00:00"
     },
     {
       "id": "5d6e5d9b962449ed",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T08:40:41.326954+00:00"
-    },
-    {
-      "id": "492a6bd0d9257dcd",
-      "source": "Ekonomim",
-      "title": "Fenerbahçe’de Acun Ilıcalı krizi: Disiplin süreci başladı",
-      "summary": "Fenerbahçe camiasında, Acun Ilıcalı’nın kulüp üyeliğiyle ilgili ihraç talebiyle yeni bir gelişme yaşandı. Yıldırım&#039;a yakınlığıyla bilinen bir grup kongre üyesi, Ilıcalı&#039;nın kulüp üyeliğinden ihracı talebiyle Disiplin Kurulu&#039;na resmi başvuruda bulundu.",
-      "link": "https://www.ekonomim.com/spor/fenerbahcede-acun-ilicali-krizi-disiplin-sureci-basladi-haberi-917875",
-      "published": "2026-09-13T08:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:40:55.514683+00:00"
-    },
-    {
-      "id": "33d6f209ab5d4442",
-      "source": "Yeni Yaşam",
-      "title": "Antalya Narkotik Şube Müdürlüğüne operasyon",
-      "summary": "Antalya’da Narkotik Şube Müdürü Ersin Dinçer Erdem ve Okan U. Ve bazı polisler, uyuşturucu şüphelilerinin dosyalarını rüşvet karşılığı temizlediği iddiasıyla gözaltına alındı Antalya Emniyet Müdürlüğü Narkotik Şube Müdürü Ersin Dinçer Erdem ile şubenin eski müdürü Okan U. uyuşturucu soruşturması kapsamında gözaltına alındı. Ersin Dinçer Erdem ve Okan U., uyuşturucu şüphelilerinin dosyalarını rüşve",
-      "link": "https://yeniyasamgazetesi9.com/antalya-narkotik-sube-mudurlugune-operasyon/",
-      "published": "2026-09-13T08:33:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:49.117094+00:00"
-    },
-    {
-      "id": "39f14100f655e630",
-      "source": "Euronews Türkçe",
-      "title": "LGBTİ+ örgütlerinin sosyal medya hesaplarına erişim engeli: Kaos GL yöneticileri gözaltına alındı",
-      "summary": "Türkiye'nin ilk resmi LGBTİ+ derneği Kaos GL ve Velvele'nin de aralarında bulunduğu çok sayıda LGBTİ+ örgütünün sosyal medya hesaplarına erişim engeli getirildi. Kaos GL Derneği yönetim ve denetim kurulu üyeleri gözaltına alınırken, dernek ofisinde arama yapıldı.",
-      "link": "https://tr.euronews.com/2026/09/13/lgbti-orgutlerinin-sosyal-medya-hesaplarina-erisim-engeli-kaos-gl-yoneticileri-gozaltina-a",
-      "published": "2026-09-13T08:33:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:36:00.218278+00:00"
-    },
-    {
-      "id": "d723a41830b6e353",
-      "source": "Akşam",
-      "title": "Beydoun'dan Adidas'a İsrail tepkisi: Aynı çizgideler",
-      "summary": "ABD'de İslam karşıtlığı üzerine araştırmalar yapan akademisyen, aktivist ve yazar Prof. Dr. Khaled Ali Beydoun, modern tarihte en fazla çocuğun uzuvlarını kaybettiği yerin Gazze olduğunu, buna rağmen Filistinli bir çocuk yerine İsrail askerini öne çıkarmayı tercih eden Adidas'ın, İsrail devleti ile aynı çizgide olduğunu söyledi.",
-      "link": "https://www.aksam.com.tr/dunya/beydoundan-adidasa-israil-tepkisi-ayni-cizgideler/haber-1697982",
-      "published": "2026-09-13T08:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:38.790768+00:00"
-    },
-    {
-      "id": "43e22b9b515b7ed1",
-      "source": "Star",
-      "title": "Adidas'a boykot baskısı artıyor! Prof. Beydoun: Cüzdanlarınızla tepki gösterin",
-      "summary": "ABD'de İslam karşıtlığı üzerine araştırmalar yapan akademisyen, aktivist ve yazar Prof. Dr. Khaled Ali Beydoun, modern tarihte en fazla çocuğun uzuvlarını kaybettiği yerin Gazze olduğunu, buna rağmen Filistinli bir çocuk yerine İsrail askerini öne çıkarmayı tercih eden Adidas'ın, İsrail devleti ile aynı çizgide olduğunu söyledi. Beydoun, \"Adidas gibi şirketlerin politikalarını değiştirmesini sağla",
-      "link": "https://www.star.com.tr/dunya/adidasa-boykot-baskisi-artiyor-prof-beydoun-cuzdanlarinizla-tepki-gosterin-haber-2039888/",
-      "published": "2026-09-13T08:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:39.896647+00:00"
-    },
-    {
-      "id": "4e0d713753c24d34",
-      "source": "Yeni Akit",
-      "title": "“Mansur Yavaş yavaş çekiliyor!” Adaylık kararını verdi: CHP’den de istifa edebilir",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan ile gerçekleştirdiği görüşmenin ardından siyaset gündeminin en çok konuşulan isimlerinden biri olan Ankara Büyükşehir Belediye Başkanı Mansur Yavaş hakkında yeni bir iddia ortaya atıldı. Gazeteci İsmail Saymaz, Yavaş’ın cumhurbaşkanı adaylığını gelecek planlarından çıkardığını öne sürerken, CHP’den istifa ederek yoluna bağımsız belediye başkanı olarak devam edebi",
-      "link": "https://www.yeniakit.com.tr/haber/mansur-yavas-yavas-cekiliyor-adaylik-kararini-verdi-chpden-de-istifa-edebilir-2022530.html",
-      "published": "2026-09-13T08:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:40.240412+00:00"
-    },
-    {
-      "id": "b07a79f876707064",
-      "source": "Yeniçağ",
-      "title": "Çin yollarında sürücüsüz araç dönemi başlıyor",
-      "summary": "Elektrikli otomobil pazarında küresel liderliği üstlenen Çin, 2030 yılına kadar sürücüsüz ve bağlantılı araçları şehir ile otoyol trafiğinde yaygınlaştırmayı hedefliyor.",
-      "link": "https://www.yenicaggazetesi.com/cin-yollarinda-surucusuz-arac-donemi-basliyor-1071269h.htm",
-      "published": "2026-09-13T08:32:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:41.299470+00:00"
-    },
-    {
-      "id": "7b0096d7e853ba0b",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İsrail'in Gazze'de bir araca düzenlediği İHA saldırısında 2 kişi hayatını kaybetti",
-      "summary": "İsrail ordusunun Gazze kentinin Tel el-Heva Mahallesi'nde sivil bir araca düzenlediği hava saldırısında 2 Filistinli hayatını kaybetti, 13 kişi yaralandı.",
-      "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzede-bir-araca-duzenledigi-iha-saldirisinda-2-kisi-hayatini-kaybetti/4055696",
-      "published": "2026-09-13T08:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:40:41.077602+00:00"
-    },
-    {
-      "id": "88ad85227a43c5bb",
-      "source": "Cumhuriyet",
-      "title": "İMO Adana Şube Başkanı: Türkiye’de 6 milyon konut risk havuzunda",
-      "summary": "İnşaat Mühendisleri Odası Adana Şube Başkanı Hıdır Çak, Türkiye'de özellikle 1980-2000 yılları arasında inşa edilen çok katlı yapıların risk açısından incelenmesi gerektiğini söyledi. Çak, “Türkiye’de risk havuzunda bulunan yaklaşık 6 milyon konutun incelenmesini, risk analizlerinin yapılmasını, gerekirse deprem performans analizleriyle beraber binaların risk durumlarının çıkarılmasını bekliyoruz”",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/imo-adana-sube-baskani-turkiye-de-6-milyon-konut-risk-havuzunda-2537111",
-      "published": "2026-09-13T08:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:33.060348+00:00"
-    },
-    {
-      "id": "5dff2b1500f8eb87",
-      "source": "Star",
-      "title": "Bakan Çiftçi talimat verdi! Öğrenciler için tedbirler sıkılaştırıldı",
-      "summary": "İçişleri Bakanlığı koordinesinde, 2026-2027 eğitim-öğretim yılında okul ve çevrelerinde uygulanacak asayiş ve güvenlik tedbirleri belirlendi. Alınan tedbirlerle öğrencilerin eğitimlerini huzur ve güven içerisinde sürdürebilmeleri, okul çevrelerindeki risklerin azaltılması ve kurumlar arasındaki koordinasyonun güçlendirilmesi hedefleniyor.",
-      "link": "https://www.star.com.tr/guncel/bakan-ciftci-talimat-verdi-ogrenciler-icin-tedbirler-sikilastirildi-haber-2039887/",
-      "published": "2026-09-13T08:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:39.896694+00:00"
-    },
-    {
-      "id": "313b16c0f445ee5b",
-      "source": "Aydınlık",
-      "title": "Harkov'da çember daralıyor: Rus ordusu sıkışan Ukrayna güçlerini vuruyor",
-      "summary": "Rusya Savunma Bakanlığı, Harkov bölgesinde &quot;Kuzey&quot; Askeri Grubu birliklerinin kuşatma çemberini daraltmaya devam ettiğini, çember içerisinde kalan Ukrayna güçlerinin son 24 saatte 55&#039;e yakın kayıp verdiğini duyurdu.",
-      "link": "https://www.aydinlik.com.tr/haber/harkovda-cember-daraliyor-rus-ordusu-sikisan-ukrayna-guclerini-vuruyor-589928",
-      "published": "2026-09-13T08:31:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:42.387167+00:00"
-    },
-    {
-      "id": "d4ccd720e68efae5",
-      "source": "Yeniçağ",
-      "title": "Okullar açılıyor: Kantin fiyatları cep yakıyor, personel eksikliği sürüyor",
-      "summary": "Milyonlarca öğrenci yeni eğitim yılına hazırlanırken okullarda geçen yıldan kalan sorunlar devam ediyor. Güvenlik ve temizlik personeli eksikliği gündemdeki yerini korurken İstanbul’da tost-ayran 130, tavuk döner 145, dört çeşit yemek ise 285 liraya kadar çıktı.",
-      "link": "https://www.yenicaggazetesi.com/okullar-aciliyor-kantin-fiyatlari-cep-yakiyor-personel-eksikligi-suruyor-1071268h.htm",
-      "published": "2026-09-13T08:31:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:41.299510+00:00"
-    },
-    {
-      "id": "78c3364375d911c1",
-      "source": "Yeniçağ",
-      "title": "Unutulmaya yüz tutan asırlık tarih yeniden canlanıyor",
-      "summary": "Mersin&#039;in asırlık simgelerinden Kasaplar Çarşısı restore ediliyor. Aslına uygun yenilenecek tarihi yapı, çevresindeki kültürel mekanlarla entegre edilerek kent merkezinde yepyeni bir kültür rotası haline getirilecek.",
-      "link": "https://www.yenicaggazetesi.com/unutulmaya-yuz-tutan-asirlik-tarih-yeniden-canlaniyor-1071267h.htm",
-      "published": "2026-09-13T08:31:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:41.299542+00:00"
-    },
-    {
-      "id": "4bf29a38aeab345a",
-      "source": "Serbestiyet",
-      "title": "HaBaD-Lubaviç: Rebbe’siz bir imparatorluğun Brooklyn’den 110 ülkeye yayılışı",
-      "summary": "HaBaD-Lubaviç: Rebbe'siz bir imparatorluğun Brooklyn'den 110 ülkeye yayılışı Ruhi Çenet’in belgeseliyle gündeme gelen HaBaD-Lubaviç Brooklyn'den dünyanın 110 ülkesine yayılmış bir Hasidî Yahudi hareketi. Peki nasıl ortaya çıktı, hangi görüşleri benimsiyorlar? HaBaD-Lubaviç: Rebbe&#8217;siz bir imparatorluğun Brooklyn&#8217;den 110 ülkeye yayılışı yazısı ilk önce Serbestiyet adresinde yayınlanmıştı",
-      "link": "https://serbestiyet.com/gunun-yazilari/habad-lubavic-rebbesiz-bir-imparatorlugun-brooklynden-110-ulkeye-yayilisi-248560/",
-      "published": "2026-09-13T08:31:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:47.657923+00:00"
-    },
-    {
-      "id": "fe4d8e2bb7e44b09",
-      "source": "Cumhuriyet",
-      "title": "Okula uyumun anahtarı: Güven",
-      "summary": "Okula başlamak çocuk için yeni bir düzene alışmanın yanı sıra ebeveynden ayrılmayı, yeni ilişkiler kurmayı ve belirsizlikle baş etmeyi de gerektiriyor. Uzmanlara göre sakin ve kararlı vedalar, çocuğu etiketlemeyen bir dil, öğretmenle kurulacak güven ilişkisi ve arkadaşlık için tanınan zaman, uyum sürecini sağlıklı biçimde destekliyor.",
-      "link": "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/okula-uyumun-anahtari-guven-2537110",
-      "published": "2026-09-13T08:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T08:35:33.060395+00:00"
     }
   ]
 }

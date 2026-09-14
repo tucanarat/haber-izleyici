@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-14T23:21:21.643014+00:00",
+  "last_updated": "2026-09-14T23:26:01.510648+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 535,
+  "new_items_this_run": 537,
   "items": [
+    {
+      "id": "b0212239b475e3d9",
+      "source": "BBC News Türkçe",
+      "title": "CHP'nin temyizden feragat kararı: Kurultay ve Yargıtay sürecini nasıl etkileyebilir?",
+      "summary": "CHP, \"mutlak butlan\" kararına karşı Özgür Özel ekibinin yaptığı temyiz başvurusundan feragat etti. CHP yönetimi, kararın olağan kongre takviminin gecikmemesi amacıyla alındığını açıkladı. Özel ve yönetimi, feragat kararının dosyanın Yargıtay tarafından incelenmesini engellemeyeceğini savunuyor.",
+      "link": "https://www.bbc.com/turkce/articles/c670lryj945eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-14T23:22:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T23:26:01.277381+00:00"
+    },
     {
       "id": "de7d9f028f86b432",
       "source": "Yeniçağ",
@@ -413,6 +424,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T22:45:43.932323+00:00"
+    },
+    {
+      "id": "fa89fee57f3d7689",
+      "source": "Ekonomim",
+      "title": "iOS 27 yayınlandı: iPhone’lara gelen yeni özellikler neler? İşte destekleyen modeller",
+      "summary": "iOS 27 güncellemesini tüm kullanıcıların erişimine açtı. Peki Apple&#039;ın yeni güncellemesi hangi özellikleri getirdi? iOS 27 hangi iPhone modellerine geldi? iOS 27 güncellemesi nasıl yapılacak?",
+      "link": "https://www.ekonomim.com/foto-galeri/teknoloji/ios-27-cikti-siri-bastan-asagi-degisti-iphonelara-yapay-zeka-dopingi-geldi-galeri-918192",
+      "published": "2026-09-14T22:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T23:25:41.607980+00:00"
     },
     {
       "id": "a16a04a4bd941d89",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T19:25:29.437460+00:00"
-    },
-    {
-      "id": "91d13fe3a0eef540",
-      "source": "Karar",
-      "title": "Yeni Parti'nin ismi değişiyor mu? Yargıtay kararı bekleniyor, kulislerdeki 'Yedek İsim' belli oldu",
-      "summary": "Siyasette gözler Yargıtay'dan gelecek kritik karara çevrildi. Yenilik Partisi Genel Başkanı Öztürk Yılmaz'ın \"isim benzerliği\" gerekçesiyle yaptığı resmi başvuru üzerine, Yeni Parti henüz ilk kurultayını bile gerçekleştirmeden isim değişikliği ihtimaliyle karşı karşıya kaldı.",
-      "link": "https://www.karar.com/guncel-haberler/yeni-partinin-ismi-degisiyor-mu-yargitay-karari-bekleniyor-kulislerdeki-2071906",
-      "published": "2026-09-14T19:15:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T19:15:41.884681+00:00"
-    },
-    {
-      "id": "37279259c84731e8",
-      "source": "Yeniçağ",
-      "title": "Bahçeli 'ülküdaşım' demişti: Selahattin Yılmaz davasında 6 kişiye tahliye",
-      "summary": "MHP lideri Devlet Bahçeli&#039;nin &quot;Ülküdaşım&quot; dediği ve CHP Genel Başkanı Özgür Özel ile polemiğe girmesine sebep olan Selahattin Yılmaz, suç örgütü lideri suçlamasıyla yargılandığı davada 6 kişi hakkında tahliye kararı verildi.",
-      "link": "https://www.yenicaggazetesi.com/bahceli-ulkudasim-demisti-selahattin-yilmaz-davasinda-6-kisiye-tahliye-1071921h.htm",
-      "published": "2026-09-14T19:15:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T19:15:42.485212+00:00"
     }
   ]
 }

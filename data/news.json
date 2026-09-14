@@ -1,12 +1,188 @@
 {
-  "last_updated": "2026-09-14T04:01:18.613378+00:00",
+  "last_updated": "2026-09-14T04:05:57.600495+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 561,
+  "new_items_this_run": 568,
   "items": [
+    {
+      "id": "a5b7b4ec57f81bd1",
+      "source": "Star",
+      "title": "Düzce'de ahşap kapı fabrikası alev alev yandı",
+      "summary": "Düzce'de ahşap kapı imalatı yapılan bir fabrikada çıkan yangın, ekiplerin müdahalesiyle kontrol altına alındı.",
+      "link": "https://www.star.com.tr/guncel/duzcede-ahsap-kapi-fabrikasi-alev-alev-yandi-haber-2040009/",
+      "published": "2026-09-14T04:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:38.955932+00:00"
+    },
+    {
+      "id": "731c1a331a777b57",
+      "source": "Star",
+      "title": "Eyüpsultan'da otomobil bahçeye düştü: 2 yaralı",
+      "summary": "Eyüpsultan'da yokuş aşağı inen otomobilin kontrolden çıkarak 11 katlı binanın ilk 3 katının balkonlarına çarptıktan sonra bahçeye düşmesi sonucu 2 kişi yaralandı.",
+      "link": "https://www.star.com.tr/guncel/eyupsultanda-otomobil-bahceye-dustu-2-yarali-haber-2040008/",
+      "published": "2026-09-14T04:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:38.955966+00:00"
+    },
+    {
+      "id": "cee57611228319d7",
+      "source": "Milliyet",
+      "title": "Erdoğan Suriye’yi ziyaret edecek",
+      "summary": "ASENA YATAĞAN Ankara - Dışişleri Bakanı Hakan Fidan, Suriye’yi ziyareti kapsamında Şam’da Suriye Dışişleri Bakanı Esad Hasan Şeybani ile bir araya geldi. Fidan, Uluslararası Şam Havalimanı’nda Suriyeli mevkidaşı tarafından karşılandı. Karşılamada Türkiye’nin Şam Büyükelçisi ve Suriye Özel Temsilcisi Nuh Yılmaz da hazır bulundu. İki bakan görüşme sonrası gerçekleştirdikleri basın toplantısında konu",
+      "link": "https://www.milliyet.com.tr/gundem/erdogan-suriyeyi-ziyaret-edecek-7659816",
+      "published": "2026-09-14T04:01:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.977226+00:00"
+    },
+    {
+      "id": "0727ea5ff7309253",
+      "source": "Milliyet",
+      "title": "Ya isim değişecek ya karar beklenecek",
+      "summary": "MEHTAP GÖKDEMİR / Ankara - YENİ Partili kaynaklar, iki partinin isminin karıştırılmasının söz konusu olmadığını savunarak “YENİ Parti’yle, Yenilik Partisi nasıl karıştırılır, anlamış değiliz. Logomuz farklı, ismimiz farklı” değerlendirmesinde bulundu. ‘Ek gelebilir’ İhtarın ardından YENİ Parti’nin önünde iki seçenek bulunuyor. 14-15 Kasım’da yapılması planlanan kurultayda isme bir ek getirilmesi y",
+      "link": "https://www.milliyet.com.tr/gundem/ya-isim-degisecek-ya-karar-beklenecek-7659807",
+      "published": "2026-09-14T04:01:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.977570+00:00"
+    },
+    {
+      "id": "3f1b5f124908a852",
+      "source": "Milliyet",
+      "title": "Cumhurbaşkanı Erdoğan: ‘Sağlıkta tablo tersine döndü’",
+      "summary": "Ayşegül Kahvecioğlu - Cumhurbaşkanı Recep Tayyip Erdoğan, dün Samsun Şehir Hastanesi’nin açılışına katıldı. Erdoğan, konuşmasında özetle şunları söyledi: LAFTA BIRAKMIYORUZ: Biz birileri gibi lafazanlık yapmıyoruz. Samsun’u ruhumuzla seviyoruz. Bu sevgimizi de lafta bırakmıyor; eserlerimizle, icraatlarımızla, bugün burada olduğu gibi hizmete aldığımız dev projelerle ortaya koyuyoruz. BÖLGENİN SAĞL",
+      "link": "https://www.milliyet.com.tr/gundem/saglikta-tablo-tersine-dondu-7659806",
+      "published": "2026-09-14T04:01:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.977818+00:00"
+    },
+    {
+      "id": "7cc09945fb14b946",
+      "source": "Milliyet",
+      "title": "‘Gizli soruşturmacılar’ devrede: Ailem Güvende",
+      "summary": "FERİT ZENGİN / Haber Merkezi - Adalet Bakanı Akın Gürlek’in verdiği bilgilere göre, İstanbul, Ankara, İzmir, Aydın ve Mersin Cumhuriyet Başsavcılıkları’nın koordinasyonunda başlatılan operasyonlarda, 15 ili kapsayan çalışmalarda 162 kişi gözaltına alındı, 9 dernek ve 13 işletmeye yönelik adli işlemler yapıldı. Gürlek, “Soruşturmalarda, fuhşa aracılık veya yer temin eden kişiler, bu faaliyetlere or",
+      "link": "https://www.milliyet.com.tr/gundem/gizli-sorusturmacilar-devrede-ailem-guvende-7659788",
+      "published": "2026-09-14T04:01:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.978078+00:00"
+    },
+    {
+      "id": "ec586698358a6e37",
+      "source": "Milliyet",
+      "title": "Kurtlar Vadisi senaristleri ifadeye çağrıldı",
+      "summary": "Silivri Cumhuriyet Başsavcılığı’nca yürütülen soruşturma kapsamında olayın yaşandığı dönemde yayınlanan “Kurtlar Vadisi Pusu” dizisindeki sahneler ile gerçekleşen ölüm olayı arasında paralellikler tespit edildi. Dosyadaki tespitlere göre; dizinin 10 Kasım 2011’de yayınlanan 136. bölümünde, “Kazım Kaşifoğlu” isimli karaktere Yaşar Ağa karakterinin adamı İlhan’ın “Kaşifoğlu! Azrailin benim, Kaşifoğl",
+      "link": "https://www.milliyet.com.tr/gundem/kurtlar-vadisi-senaristleri-ifadeye-cagrildi-7659737",
+      "published": "2026-09-14T04:01:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.978142+00:00"
+    },
+    {
+      "id": "d98e15f9eec1be44",
+      "source": "Milliyet",
+      "title": "Kiralık sosyal konut için başvuru zamanı",
+      "summary": "EKONOMİ SERVİSİ -Bakan Kurum, sosyal medya hesabından Ataşehir’deki örnek dairelere ilişkin yaptığı paylaşımda, “Evlerimizi merak ediyor musunuz? İşte Ataşehir’de kiraya vereceğimiz TOKİ evleri” dedi. Bakanlıktan yapılan açıklamaya göre, Türkiye’de ilk kez uygulanacak kiralık sosyal konut modeliyle 15 bin konut dar gelirli vatandaşlara kiralanacak. Projenin ilk etabında yapımı tamamlanan 1071 konu",
+      "link": "https://www.milliyet.com.tr/ekonomi/kiralik-sosyal-konut-icin-basvuru-zamani-7659812",
+      "published": "2026-09-14T04:01:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.979670+00:00"
+    },
+    {
+      "id": "f36c1d04ccfc2c83",
+      "source": "Milliyet",
+      "title": "İstanbul Havalimanı pistleri dörtlüyor",
+      "summary": "EKONOMİ SERVİSİ - Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Havalimanı’nın 4. ana pistini, Cumhurbaşkanı Tayyip Erdoğan’ın 18 Eylül’de hizmete açacağını bildirdi. İstanbul Havalimanı’nın 110’un üzerinde hava yolu işbirliğiyle, 340’tan fazla destinasyona bağlantı sağladığını hatırlatan Bakan Uraloğlu, havalimanının, halihazırda kuzey-güney doğrultusunda uzanan 3 ana ve 2 yedek olmak",
+      "link": "https://www.milliyet.com.tr/ekonomi/istanbul-havalimani-pistleri-dortluyor-7659811",
+      "published": "2026-09-14T04:01:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.979916+00:00"
+    },
+    {
+      "id": "a1f46d0c322bfb51",
+      "source": "Milliyet",
+      "title": "İhracat odaklı büyümeye tam destek",
+      "summary": "ZUCHEX 36. Uluslararası Ev ve Mutfak Eşyaları Fuarı’nı ziyaret eden Kacır, “Ev ve mutfak eşyaları sektörümüz geniş ürün yelpazesi, yüksek üretim kabiliyeti ve değişen küresel taleplere hızlı uyum sağlayan yapısıyla, Türkiye’nin katma değerli üretim ve ihracat gücünün önemli unsurlarından biri” açıklamasını yaptı. Öte yandan Bakan Kacır, Texhibition İstanbul fuarını da ziyaret ederek tekstil sektör",
+      "link": "https://www.milliyet.com.tr/ekonomi/ihracat-odakli-buyumeye-tam-destek-7659721",
+      "published": "2026-09-14T04:01:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.980036+00:00"
+    },
+    {
+      "id": "f52cfcd5f5bc5bf1",
+      "source": "Milliyet",
+      "title": "İklim krizinin görünmeyen etkileri",
+      "summary": "Feminist iklim eylemi ise kadın hakları kuruluşlarını, kadın kooperatiflerini ve kadınların öncülük ettiği yerel girişimleri destekliyor. Yerel halkların ve toplulukların yanında duruyor, kadın çevre ve insan hakları savunucularının güçlenmesine katkıda bulunuyor. Toplumsal cinsiyetin önemi İklim değişikliği kadınları ve erkekleri farklı şekilde etkiliyor. Kadınlar ve kız çocukları; kaynaklara, hi",
+      "link": "https://www.milliyet.com.tr/ekonomi/iklim-krizinin-gorunmeyen-etkileri-7659652",
+      "published": "2026-09-14T04:01:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.980611+00:00"
+    },
+    {
+      "id": "eed3bbcd02add877",
+      "source": "Milliyet",
+      "title": "İsveç’te muhalefetin zaferi",
+      "summary": "Merkez sol blok oyların yüzde 51,3’ünü alarak ilk sırada yer alırken, 349 sandalyeli parlamentoda (Riksdag) 183 sandalye kazandı. İktidardaki sağ blok partileri Ilımlı Muhafazakar Parti, Hristiyan Demokratlar, Liberaller ile mevcut hükümete dışarıdan destek veren İsveç Demokratlarının oy oranının ise yüzde 46,8 olduğu belirtilirken, sağ blokun parlamentoda 166 sandalye kazandığı ifade edildi. / İR",
+      "link": "https://www.milliyet.com.tr/dunya/isvecte-muhalefetin-zaferi-7659818",
+      "published": "2026-09-14T04:01:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.976070+00:00"
+    },
+    {
+      "id": "fbe091df9b11ff8c",
+      "source": "Milliyet",
+      "title": "Kritik görüşme ertelendi",
+      "summary": "Toplantıda İran ile Basra Körfezi’ne kıyısı bulunan 8 ülkenin bakan düzeyinde görüşeceği ve Hürmüz Boğazı’nda ticari gemiler için güvenli rotaların belirlenmesine ilişkin İran-Umman arasındaki görüşmelerin sonuçlarının ele alınacağı belirtilmişti. Ayrıca toplantıda Babülmendep Boğazı ve Husilerin durumuyla ilgili de görüşmeler yapılacağı ifade edilmişti. Ancak Umman Dışişleri Bakanı Bedr el-Busaid",
+      "link": "https://www.milliyet.com.tr/dunya/kritik-gorusme-ertelendi-7659817",
+      "published": "2026-09-14T04:01:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.976336+00:00"
+    },
+    {
+      "id": "a555bd805c917e07",
+      "source": "Milliyet",
+      "title": "Bronzdan elektrik ve kiviye: Baoji",
+      "summary": "Uğur Yıldırım - Çin adının en eski yazılı kayıtlarından birini taşıyan He Zun, ülkenin Shaanxi eyaletindeki Baoji kentinin tarihi mirasını, Geely ve FAST’ın faaliyetleri sanayi gücünü, geniş kivi üretimi ise tarımsal kapasitesini ortaya koyuyor. Baoji kenti binlerce yıllık bronz mirasını korurken elektrikli otomobil ile de öne çıkıyor. Baoji Bronz Müzesi, Zhou Hanedanlığı döneminden kalan çok sayı",
+      "link": "https://www.milliyet.com.tr/dunya/bronzdan-elektrik-ve-kiviye-baoji-7659800",
+      "published": "2026-09-14T04:01:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.976608+00:00"
+    },
+    {
+      "id": "eb875e8fe4e575c4",
+      "source": "Milliyet",
+      "title": "Peş peşe feribot faciaları: Onlarca kayıp",
+      "summary": "Endonezya’nın Cava Denizi açıklarında 213 yolcu ve 30 mürettebat taşıyan feribotun alabora olması sonucu6 kişi öldü, 129 kişi kayboldu. Pasifik ülkesi Vanuatu açıklarında batan MV Matui feribotunda ise en az 1 kişi hayatını kaybetti, 30 kişi kayboldu. Filipinler’de 9 Eylül’de bir yolcu feribotunda çıkan yangında da bilanço ağırlaşarak 76 can kaybına ulaştı. 2.5 metrelik dalgalar Endonezya’nın Sura",
+      "link": "https://www.milliyet.com.tr/dunya/pes-pese-feribot-facialari-onlarca-kayip-7659724",
+      "published": "2026-09-14T04:01:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.976851+00:00"
+    },
+    {
+      "id": "04dff98c3bd13d68",
+      "source": "Milliyet",
+      "title": "Kıyamet için tarih verildi",
+      "summary": "Hesaplamalara göre, Dünya ve diğer gezegenlerin tamamen yok olmasına yaklaşık 20 milyar yıl var. Cornell Üniversitesi, Şanghay Jiao Tong Üniversitesi ve farklı akademik kurumlardan uzmanların yürüttüğü araştırma, evrenin nihai sonuna dair çarpıcı veriler ortaya koydu. Stephen Hawking’in NASA tarafından desteklenen kuramlarını temel alan çalışma, evrenin maksimum genişlemeye ulaştıktan sonra büzülm",
+      "link": "https://www.milliyet.com.tr/dunya/kiyamet-icin-tarih-verildi-7659723",
+      "published": "2026-09-14T04:01:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:36.976982+00:00"
+    },
     {
       "id": "4787a7c6611dc6bc",
       "source": "ShiftDelete.Net",
@@ -3352,6 +3528,17 @@
       "fetched_at": "2026-09-13T21:30:56.932708+00:00"
     },
     {
+      "id": "74f7bc55eaf20535",
+      "source": "Sabah",
+      "title": "ŞAHİNBEY İLÇE BELEDİYESİ BAŞKANLIĞIN’DAN",
+      "summary": "ŞAHİNBEY İLÇE BELEDİYESİ BAŞKANLIĞIN'DAN amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp;amp;nbsp",
+      "link": "https://www.sabah.com.tr/resmi-ilan/2026/09/14/sahinbey-ilce-belediyesi-baskanligindan",
+      "published": "2026-09-13T21:23:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T04:05:37.362054+00:00"
+    },
+    {
       "id": "293521571dd57918",
       "source": "Aydınlık",
       "title": "LGBT dayatmasına ilk neşter",
@@ -5319,193 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T20:15:43.494445+00:00"
-    },
-    {
-      "id": "cadcc38aa40360a9",
-      "source": "Cumhuriyet",
-      "title": "FETÖ firarisi Zekeriya Öz dahil 20 kişi hakkında zamanaşımı kaldırıldı",
-      "summary": "Bakırköy 11. Ağır Ceza Mahkemesinin, aralarında firari eski savcı Zekeriya Öz'ün de bulunduğu 20 eski hakim ve savcı hakkında verdiği zaman aşımı kararı kaldırıldı. İtirazı değerlendiren mahkeme, dosyaya konu eylemlerin TCK kapsamında “işkence” suçunu da oluşturduğuna ve bu suç yönünden zaman aşımı uygulanamayacağına hükmetti.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/feto-firarisi-zekeriya-oz-dahil-20-kisi-hakkinda-zamanasimi-kaldirildi-2537247",
-      "published": "2026-09-13T20:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:15:35.917368+00:00"
-    },
-    {
-      "id": "bd7310f7187d9988",
-      "source": "Serbestiyet",
-      "title": "Amedspor, Başakşehir’i 5-0 mağlup etti",
-      "summary": "Trendyol Süper Lig'in 5. haftasında Amedspor, sahasında ağırladığı İstanbul Başakşehir'i gol yağmuruna tutarak 5-0 mağlup etti. Amedspor, Başakşehir’i 5-0 mağlup etti yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/haberler/spor/amedspor-basaksehiri-5-0-maglup-etti-248635/",
-      "published": "2026-09-13T20:12:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:15:50.483093+00:00"
-    },
-    {
-      "id": "1894f01f3a2cc06f",
-      "source": "Yeni Şafak",
-      "title": "14 yıl 10 aylık hapis cezalı firari kıskıvrak yakalandı",
-      "summary": "İstanbul’da hakkında kesinleşmiş 14 yıl 10 ay hapis cezası bulunan G.Y., polis ekiplerinin operasyonuyla yakalandı. Pendik’in Kurtköy Mahallesi’ndeki bir evde saklandığı belirlenen 32 yaşındaki hükümlü, kaçmaya çalıştığı sırada gözaltına alındı. G.Y.’nin, işlemlerinin ardından adliyeye sevk edileceği öğrenildi.",
-      "link": "https://www.yenisafak.com/gundem/14-yil-10-aylik-hapis-cezali-firari-kiskivrak-yakalandi-4855594",
-      "published": "2026-09-13T20:11:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:15:43.494477+00:00"
-    },
-    {
-      "id": "1ad787eef5adf6db",
-      "source": "Cumhuriyet",
-      "title": "Uğurcan Çakır'dan galibiyet açıklaması: 'Daha fazla gol atabilirdik'",
-      "summary": "Galatasaray'ın milli kalecisi Uğurcan Çakır, 1-0 kazandıkları Kocaelispor maçının ardından görüşlerini aktardı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/ugurcan-cakir-dan-galibiyet-aciklamasi-daha-fazla-gol-atabilirdik-2537245",
-      "published": "2026-09-13T20:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:15:35.917395+00:00"
-    },
-    {
-      "id": "d6fa5a859360d0be",
-      "source": "Karar",
-      "title": "Okullarda yeni uygulama yurt geneline yayılıyor: Turnikeden geçmeyenin velisine mesaj gidecek",
-      "summary": "Öğrenci güvenliğini en üst seviyeye taşımak isteyen Tekkeköy 19 Mayıs Ortaokulu, kartlı turnike sistemini devreye aldı. Bakanlığın Türkiye geneline yaymayı planladığı ve başka illerde de uygulanan sistem sayesinde giriş çıkışlar anlık takip ediliyor, velilere bildirim gidiyor.",
-      "link": "https://www.karar.com/guncel-haberler/okullarda-turnike-basladi-mi-okullarda-kart-basma-zorunlu-mu-turnike-2071688",
-      "published": "2026-09-13T20:08:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:10:42.046818+00:00"
-    },
-    {
-      "id": "b66d9081e2370172",
-      "source": "OdaTV",
-      "title": "İstanbul'da 409 kilo yasaklı madde ele geçirildi",
-      "summary": "İstanbul Emniyeti tarafından Beykoz&#039;da düzenlenen operasyonda iki araçta yapılan aramalarda 409 kilo 600 gram uyuşturucu madde ele geçirildi.",
-      "link": "https://www.odatv.com/guncel/istanbulda-409-kilo-yasakli-madde-ele-gecirildi-120162550",
-      "published": "2026-09-13T20:08:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:15:46.796120+00:00"
-    },
-    {
-      "id": "c94fd02e7caae01a",
-      "source": "Yeni Şafak",
-      "title": "Tır ile çarpışan motosikletteki iki kişi hayatını kaybetti",
-      "summary": "Bursa’da motosiklet ile tırın çarpışması sonucu 18 yaşındaki Remzi M. ile motosiklette bulunan Yusuf E. hayatını kaybetti. Kazaya ilişkin dikkat çeken iddialar da ortaya atılırken, tır sürücüsünün alkollü olduğu ve kaza öncesinde park halindeki bir araca çarpıp olay yerinden kaçtığı öne sürüldü.",
-      "link": "https://www.yenisafak.com/gundem/tir-ile-carpisan-motosikletteki-iki-kisi-hayatini-kaybetti-4855591",
-      "published": "2026-09-13T20:07:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:10:40.795382+00:00"
-    },
-    {
-      "id": "ea970f42b3cbf91f",
-      "source": "Yeni Akit",
-      "title": "Ergenekon dosyasında görevli 21 ihraç hâkim ve savcı hakkında karar kaldırıldı! Soruşturma yolu yeniden açıldı!",
-      "summary": "Bakırköy Cumhuriyet Başsavcılığı’nın itirazı üzerine, Ergenekon soruşturma ve kovuşturma süreçlerinde görev yapan ihraç edilmiş 21 hâkim ve savcı hakkında daha önce verilen \"soruşturma açılmasına yer olmadığı\" yönündeki karar kaldırıldı.",
-      "link": "https://www.yeniakit.com.tr/haber/ergenekon-dosyasinda-gorevli-21-ihrac-hakim-ve-savci-hakkinda-karar-kaldirildi-sorusturma-yolu-yeniden-acildi-2022641.html",
-      "published": "2026-09-13T20:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:10:41.660529+00:00"
-    },
-    {
-      "id": "0f04cb9f1f1e21fb",
-      "source": "Serbestiyet",
-      "title": "Galatasaray, Kocaelispor karşısında 3 puanı tek golle aldı",
-      "summary": "Trendyol Süper Lig&#8217;in 5. haftasında Galatasaray ile Kocaelispor karşı karşıya geldi. RAMS Park&#8217;ta oynanan müsabaka, sarı-kırmızılıların 1-0&#8217;lık üstünlüğüyle sonuçlandı. Ev sahibine galibiyeti getiren golü 71. dakikada Abdülkerim Bardakcı kaydetti. Bu skorun ardından üst üste 4. kez kzanan Galatasaray, puanını 13&#8217;e yükseltti ve liderliğini sürdürdü. 3 maçlık galibiyet serisi",
-      "link": "https://serbestiyet.com/haberler/spor/galatasaray-kocaelispor-karsisinda-3-puani-tek-golle-aldi-248632/",
-      "published": "2026-09-13T20:06:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:10:47.974117+00:00"
-    },
-    {
-      "id": "f616e80ebec38f0f",
-      "source": "Gazete Pencere",
-      "title": "Normal salça yerine ekleyin. Nohuda lezzet katıyor ve rengi daha iyi oluyor",
-      "summary": "Nohut yemeği Türk mutfağının en sevilen yemekleri arasında yer alıyor. Genellikle domates veya biber salçasıyla hazırlanan nohut yemeğinde farklı bir tat elde etmek için isot salçası da kullanılabilir.",
-      "link": "https://www.gazetepencere.com/gozden-kacmasin/normal-salca-yerine-ekleyin-nohuda-lezzet-katiyor-ve-rengi-daha-iyi-715346h",
-      "published": "2026-09-13T20:05:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:10:43.863625+00:00"
-    },
-    {
-      "id": "d6726a80b8858bbb",
-      "source": "Habertürk",
-      "title": "Düzce'de fabrika yangını!",
-      "summary": "Düzce'de ahşap kapı imalatı yapılan bir fabrikada çıkan yangın söndürülmeye çalışılıyor.",
-      "link": "https://www.haberturk.com/gundem/duzce-de-fabrika-yangini-3912240",
-      "published": "2026-09-13T20:05:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:15:32.949063+00:00"
-    },
-    {
-      "id": "62feb855d046c3f6",
-      "source": "Cumhuriyet",
-      "title": "Selçuk İnan'dan sitem: 'Hain ilan ediliyorsunuz'",
-      "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, 1-0 mağlup oldukları Galatasaray maçının ardından görüşlerini aktardı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/selcuk-inan-dan-maglubiyet-sozleri-1-0-yenildik-ama-2537243",
-      "published": "2026-09-13T20:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T21:15:33.468495+00:00"
-    },
-    {
-      "id": "2c5e6968f3981dbb",
-      "source": "Finans Gündem",
-      "title": "Tren hattına Rus saldırısı: Avrupalı liderler dakikalarla kurtuldu",
-      "summary": "Rus İHA'ları, Boris Johnson ve Avrupalı diplomatların geçtiği güzergâhtaki treni hedef aldı. Şans eseri can kaybı yaşanmazken, Polonya Başbakanı Tusk Rus saldırılarının kendi topraklarına da uzanabileceği uyarısında bulundu.",
-      "link": "https://www.finansingundemi.com/haber/tren-hattina-rus-saldirisi-avrupali-liderler-dakikalarla-kurtuldu/1908202",
-      "published": "2026-09-13T20:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:20:48.914769+00:00"
-    },
-    {
-      "id": "546ccd97f7f046a9",
-      "source": "Cumhuriyet",
-      "title": "Selçuk İnan'dan mağlubiyet sözleri: '1-0 yenildik ama...'",
-      "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, 1-0 mağlup oldukları Galatasaray maçının ardından görüşlerini aktardı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/selcuk-inan-dan-maglubiyet-sozleri-1-0-yenildik-ama-2537243",
-      "published": "2026-09-13T20:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:10:34.643057+00:00"
-    },
-    {
-      "id": "2de45506bf1c4b9f",
-      "source": "Türkiye Gazetesi",
-      "title": "ABD, Fransa'yı devirip 12. Dünya şampiyonluğunu ilan etti",
-      "summary": "ABD, Kadınlar Basketbol Dünya Kupası finalinde karşılaştığı Fransa'yı 97-79 mağlup ederek 12. kez kupayı kazandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/abd-fransayi-devirip-12-dunya-sampiyonlugunu-ilan-etti-1815780",
-      "published": "2026-09-13T20:04:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:10:36.746823+00:00"
-    },
-    {
-      "id": "6f113ba97aac68ae",
-      "source": "Aydınlık",
-      "title": "Düzce’de kapı fabrikasında yangın",
-      "summary": "Düzce’de faaliyet gösteren kapı üretim fabrikasında henüz belirlenemeyen nedenle yangın çıktı. Kısa sürede büyüyen alevler, fabrikanın geniş bir bölümünü sardı.",
-      "link": "https://www.aydinlik.com.tr/haber/duzcede-kapi-fabrikasinda-yangin-590016",
-      "published": "2026-09-13T20:04:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:10:43.484640+00:00"
-    },
-    {
-      "id": "d6d3eb7746687a5d",
-      "source": "Star",
-      "title": "Abdülkerim Bardakcı: Bugün gol atacağımı cidden hissediyordum",
-      "summary": "Abdülkerim Bardakcı, Kocaelispor karşısında attığı golün ardından duygularını paylaştı. Milli futbolcu, maç öncesinde kızıyla yaptığı konuşmada gol atacağını hissettiğini ve golün ardından ailesine koşmak istediğini söyledi.",
-      "link": "https://www.star.com.tr/spor/abdulkerim-bardakci-bugun-gol-atacagimi-cidden-hissediyordum-haber-2039993/",
-      "published": "2026-09-13T20:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:05:35.884551+00:00"
     }
   ]
 }

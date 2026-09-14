@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-14T03:25:53.662124+00:00",
+  "last_updated": "2026-09-14T03:31:12.245288+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 565,
+  "new_items_this_run": 564,
   "items": [
+    {
+      "id": "e5758c2dd8418fa7",
+      "source": "Türkiye Gazetesi",
+      "title": "BAŞVURULAR BUGÜN BAŞLIYOR",
+      "summary": "İstanbul’da binlerce ailenin beklediği TOKİ kiralık sosyal konut başvuruları bugün başladı. 10 bin liradan başlayan fiyatlarla kiralanacak konutlar için e-Devlet kapısı açıldı, başvurulardan hiçbir ücret alınmayacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/istanbulda-toki-kiralik-sosyal-konut-icin-beklenen-gun-geldi-basvurular-bugun-basliyo-1815831",
+      "published": "2026-09-14T03:26:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T03:30:52.136725+00:00"
+    },
     {
       "id": "1ad0f9e87fcb4396",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T19:55:34.371816+00:00"
-    },
-    {
-      "id": "49ad5df2fb325261",
-      "source": "Aydınlık",
-      "title": "Tarsus'ta otomobil uçuruma yuvarlandı: 2 ölü, 1 yaralı",
-      "summary": "Mersin Tarsus&#039;ta orman yolunda kontrolden çıkan otomobil uçuruma yuvarlandı. Kazada 2 kişi hayatını kaybetti, 1 kişi yaralandı.",
-      "link": "https://www.aydinlik.com.tr/haber/tarsusta-otomobil-ucuruma-yuvarlandi-2-olu-1-yarali-590015",
-      "published": "2026-09-13T19:54:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:01:00.922229+00:00"
     }
   ]
 }

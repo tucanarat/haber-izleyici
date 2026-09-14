@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-14T23:31:17.293540+00:00",
+  "last_updated": "2026-09-14T23:36:16.567454+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 538,
+  "new_items_this_run": 524,
   "items": [
+    {
+      "id": "1351b3d0bf58b305",
+      "source": "BBC News Türkçe",
+      "title": "ABD uzayda silahlarının bulunduğunu ilk kez açıkça kabul etti",
+      "summary": "ABD Hava Kuvvetleri Bakanı Troy Meink, ABD'nin yörüngede bir uzay silahı konuşlandırdığını kabul etti.",
+      "link": "https://www.bbc.com/turkce/articles/c5lymd84glvzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-14T23:34:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T23:36:15.973792+00:00"
+    },
     {
       "id": "7241af1e21536592",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T19:25:32.750783+00:00"
-    },
-    {
-      "id": "b27c9b1bfd5a678f",
-      "source": "Yeniçağ",
-      "title": "Aydın’da okul çevrelerinde 304 kişi sorgulandı, 85 işletme denetlendi",
-      "summary": "Aydın’ın Efeler ilçesinde 2026-2027 eğitim öğretim yılının ilk gününde okul ve öğrenci güvenliği kapsamında 304 kişi sorgulandı, 85 işletme denetlendi. Kurallara uymadığı belirlenen 3 işletmeye idari yaptırım uygulandı.",
-      "link": "https://www.yenicaggazetesi.com/aydinda-okul-cevrelerinde-304-kisi-sorgulandi-85-isletme-denetlendi-1071923h.htm",
-      "published": "2026-09-14T19:18:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T19:20:46.095002+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-14T01:35:55.415213+00:00",
+  "last_updated": "2026-09-14T01:41:15.338703+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 579,
+  "new_items_this_run": 580,
   "items": [
+    {
+      "id": "e0ebd6744e80281c",
+      "source": "Türkiye Gazetesi",
+      "title": "\"EN DÜŞÜĞÜNÜ ÖDEMELİYİZ\"",
+      "summary": "ABD Başkanı Donald Trump, kritik Fed toplantısı öncesinde ülkesinin dünyadaki en düşük faize sahip olması gerektiğini savunurken, piyasalarda faiz artırımı beklentisi yüzde 86'ya ulaştı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/fed-kararina-gunler-kala-trumptan-faiz-baskisi-formul-ne-olursa-olsun-1815828",
+      "published": "2026-09-14T01:34:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T01:40:50.539199+00:00"
+    },
     {
       "id": "9ed50b809aec0bb1",
       "source": "Yeni Akit",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T19:35:42.017022+00:00"
-    },
-    {
-      "id": "ee4b54dbf40207ca",
-      "source": "Aydınlık",
-      "title": "Ukrayna cephesinde Rusya adım adım ilerliyor",
-      "summary": "Rusya, Ukrayna&#039;da altyapı saldırılarını ve Donbass&#039;taki ilerleyişini sürdürüyor. Washington-Moskova hattındaki diplomasi, savaşın cephenin yanı sıra masada da yeni bir evreye girdiğini gösteriyor. Moskova&#039;nın hedefi, Ukrayna&#039;nın NATO karakolu olmasını önleyecek bir güvenlik düzeni.",
-      "link": "https://www.aydinlik.com.tr/haber/ukrayna-cephesinde-rusya-adim-adim-ilerliyor-590010",
-      "published": "2026-09-13T19:34:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T19:40:48.059627+00:00"
     }
   ]
 }

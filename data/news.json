@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-14T03:05:57.250527+00:00",
+  "last_updated": "2026-09-14T03:11:02.703696+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 566,
+  "new_items_this_run": 565,
   "items": [
+    {
+      "id": "126f338830f805cf",
+      "source": "Halk TV",
+      "title": "Yemen’de çatışmalar şiddetlendi: 82 binden fazla kişi yerinden edildi",
+      "summary": "Yemen’in batı kıyısında hükümet ile Husiler arasındaki çatışmalar şiddetlenirken Uluslararası Göç Örgütü, eylül ayının başından bu yana 82 binden fazla kişinin yerinden edildi.",
+      "link": "https://halktv.com.tr/dunya/yemende-catismalar-siddetlendi-82-binden-fazla-kisi-yerinden-edildi-1054860h",
+      "published": "2026-09-14T03:10:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T03:10:47.192362+00:00"
+    },
+    {
+      "id": "85ec87711a8b829e",
+      "source": "Euronews Türkçe",
+      "title": "Donald Trump, İrlanda viskisine uygulanan %15 vergiyi kaldırma sözü verdi",
+      "summary": "ABD Başkanı Donald Trump, Pazar günü İrlanda’daki bir golf turnuvasının sonunda, İrlanda viskisine uygulanan yüzde 15’lik gümrük vergisini kaldırmayı planladığını açıkladı.",
+      "link": "https://tr.euronews.com/business/2026/09/14/donald-trump-irlanda-viskisine-uygulanan-15-vergiyi-kaldirma-sozu-verdi",
+      "published": "2026-09-14T03:06:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T03:11:02.702630+00:00"
+    },
     {
       "id": "697e70e0c6a5f048",
       "source": "Euronews Türkçe",
@@ -72,6 +94,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T02:45:42.199970+00:00"
+    },
+    {
+      "id": "d60c75554547ba7d",
+      "source": "Evrensel",
+      "title": "Yemen'de savaşın bilançosu ağırlaşıyor: Can kayıpları arttı, 82 bin kişi yerinden edildi",
+      "summary": "Yemen'de ABD ve Suudi Arabistan destekli hükümet güçleri ile Husiler arasındaki çatışmalar şiddetlenirken, yoğun hava saldırıları ve karadaki çatışmalar binlerce can kaybına ve yeni bir göç dalgasına yol açtı.",
+      "link": "https://www.evrensel.net/haber/6000429/yemende-savasin-bilancosu-agirlasiyor-can-kayiplari-artti-82-bin-kisi-yerinden-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-14T02:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T03:10:39.853529+00:00"
     },
     {
       "id": "b498df26403b40dc",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-13T20:20:41.564330+00:00"
-    },
-    {
-      "id": "e99c6fcb7e044d59",
-      "source": "Aydınlık",
-      "title": "Mahkemeden Ergenekon kararı: İhraç edilen 21 hakim ve savcının dosyası yeniden açıldı",
-      "summary": "Ergenekon davasında görev yapan 21 ihraç hakim ve savcı hakkındaki takipsizlik kararı kaldırıldı. Dosya yeniden mahkemeye gönderildi.",
-      "link": "https://www.aydinlik.com.tr/haber/mahkemeden-ergenekon-karari-ihrac-edilen-21-hakim-ve-savcinin-dosyasi-yeniden-acildi-590014",
-      "published": "2026-09-13T19:53:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T20:01:00.922268+00:00"
-    },
-    {
-      "id": "b512217451de0ac5",
-      "source": "Cumhuriyet",
-      "title": "Gökçek-Arınç tartışmasına Saray da dahil oldu: ‘Hadsizce küçümseyen ifadeler kullanması…’",
-      "summary": "Bülent Arınç'ın, Ahmet Davutoğlu'nun oğlunun nikâhında Melih Gökçek'e yönelik sarf ettiği sözlere Saray'dan tepki geldi. Cumhurbaşkanı Başdanışmanı Oktay Saral, Arınç'a sert sözlerle yüklendi.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/gokcek-arinc-tartismasina-saray-da-dahil-oldu-hadsizce-kucumseyen-ifadeler-kullanmasi-2537237",
-      "published": "2026-09-13T19:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T19:55:27.454719+00:00"
-    },
-    {
-      "id": "560ab2942d5bada5",
-      "source": "Karar",
-      "title": "Amed Sportif Başakşehir’e gol olup yağdı",
-      "summary": "Süper Lig’in 3. haftasında Amed Sportif Faaliyetler, sahasında İstanbul Başakşehir’i 5-0 mağlup etti. İkinci yarıda oyunun kontrolünü tamamen eline alan yeşil-kırmızılı ekipte Orban, attığı gollerle galibiyetin başrolünde yer aldı.",
-      "link": "https://www.karar.com/spor-haberleri/amed-sportif-basaksehire-gol-olup-yagdi-2071687",
-      "published": "2026-09-13T19:51:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-13T19:55:32.892074+00:00"
     }
   ]
 }

@@ -1,12 +1,298 @@
 {
-  "last_updated": "2026-09-14T08:05:51.516788+00:00",
+  "last_updated": "2026-09-14T08:11:05.035106+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 560,
+  "new_items_this_run": 565,
   "items": [
+    {
+      "id": "e4d4e214bdc13d26",
+      "source": "Akşam",
+      "title": "Komşu ülkelere ihracat artışı sürüyor: 8 ayda 18,2 milyar dolar aşıldı",
+      "summary": "Türkiye'nin komşu ülkelere yaptığı ihracat, ocak-ağustos döneminde geçen yılın aynı dönemine göre yüzde 2,6 artarak 18,2 milyar doları aştı.",
+      "link": "https://www.aksam.com.tr/ekonomi/komsu-ulkelere-ihracat-artisi-suruyor-8-ayda-182-milyar-dolar-asildi/haber-1698210",
+      "published": "2026-09-14T08:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:41.736024+00:00"
+    },
+    {
+      "id": "715fafee8106ffa4",
+      "source": "Yeni Şafak",
+      "title": "Bakan Kurum’dan anlamlı paylaşım: Fethiye’de ağlatan ‘Hatay teşekkürü’",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, geçen hafta Muğla ziyareti sırasında yanına gelerek gözyaşları içinde deprem bölgesi için teşekkür eden Hataylı vatandaşın görüntülerini, \"Asrın İnşası ile sadece 455 bin konut değil, gönüller yaptık” notuyla paylaştı. Genç kadının \"Siz hep bizimle oldunuz. O süreci bizimle yaşayan bilir. Kolay değildi; oraları bu hale getirdiniz, Allah ra",
+      "link": "https://www.yenisafak.com/video/gundem/bakan-kurumdan-anlamli-paylasim-fethiyede-aglatan-hatay-tesekkuru-4855712",
+      "published": "2026-09-14T08:09:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:42.604359+00:00"
+    },
+    {
+      "id": "790b61fcdbe302dc",
+      "source": "Cumhuriyet",
+      "title": "Ankara Milletvekili Adnan Beker, MEB'e okul bağışladı",
+      "summary": "Bağımsız Ankara Milletvekili Adnan Beker, Milli Eğitim Bakanlığı'na okul bağışladı. Okulun açılış törenine Ankara Büyükşehir Belediye Başkanı Mansur Yavaş katıldı.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/ankara-milletvekili-adnan-beker-meb-e-okul-bagisladi-2537353",
+      "published": "2026-09-14T08:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:36.428327+00:00"
+    },
+    {
+      "id": "b1188aacb0d6c54d",
+      "source": "CNBC-e",
+      "title": "Şirketi halka arz oldu: Afrika’nın en zengin adamı servetine 20 milyar dolar ekledi!",
+      "summary": "Nijeryalı milyarder Aliko Dangote’nin serveti, petrol rafinerisindeki 2,5 milyar dolarlık özel satışın ardından 20 milyar dolar artarak 51 milyar dolara yükseldi. Afrika’nın en büyük rafinerisinde şimdi bireysel yatırımcılara hisse satışı başlıyor.",
+      "link": "https://www.cnbce.com/haberler/sirketi-halka-arz-oldu-afrikanin-en-zengin-adami-servetine-20-milyar-dolar-ekledi-h37156",
+      "published": "2026-09-14T08:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:54.695524+00:00"
+    },
+    {
+      "id": "9e1c7a03fd9bef4b",
+      "source": "Karar",
+      "title": "Dijital platformlara ve oyunlara yeni düzenleme geliyor",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, sosyal medya platformlarına e-Devlet üzerinden kimlik doğrulamasıyla giriş yapılmasını öngören güvenli bir yönetmelik üzerinde çalışıldığını bildirdi. Düzenleme kapsamında dijital oyunlara yeni kurallar getirilecek ve 15-18 yaş grubuna yönelik içerikler ayrıştırılacak.",
+      "link": "https://www.karar.com/guncel-haberler/dijital-platformlara-ve-oyunlara-yeni-duzenleme-geliyor-2071759",
+      "published": "2026-09-14T08:08:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:44.826962+00:00"
+    },
+    {
+      "id": "d1d2fdd8e94cfe24",
+      "source": "OdaTV",
+      "title": "Liste belli oldu: İstanbul'da 10 bin liraya ev kiralanacak 12 ilçe",
+      "summary": "İstanbul’da ucuz kiralık konut başvuruları başladı. 12 ilçedeki 1071 konut için e-Devlet’ten ücret ödemeden başvurulacak. Kiralar 10 bin TL’den başlayacak.",
+      "link": "https://www.odatv.com/ekonomi/liste-belli-oldu-istanbulda-10-bin-liraya-ev-kiralanacak-12-ilce-120162594",
+      "published": "2026-09-14T08:08:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:47.161999+00:00"
+    },
+    {
+      "id": "6b9f8232d51baf69",
+      "source": "CNBC-e",
+      "title": "Trump ve teknoloji devleri karşı karşıya: Yapay zekada “fren” krizi",
+      "summary": "Yapay zekanın insan kontrolünü aşabileceği yönündeki küresel uyarılar Washington'da siyasi bir krize yol açarken; Trump ve Cumhuriyetçi liderler, küresel yarışta Çin'e avantaj kaptırmamak adına acil fren çağrılarına karşı mesafeli duruyor.",
+      "link": "https://www.cnbce.com/yapay-zeka/trump-ve-teknoloji-devleri-karsi-karsiya-yapay-zekada-fren-krizi-h37155",
+      "published": "2026-09-14T08:08:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:54.695574+00:00"
+    },
+    {
+      "id": "29c91f59982a7e1f",
+      "source": "Cumhuriyet",
+      "title": "'Vanlı Kara Haydar' soruşturması: Gözaltındaki Çağla Öz adliyeye sevk edildi",
+      "summary": "\"Suçtan kaynaklanan malvarlığı değerlerini aklama\" suçundan tutuklanan \"Vanlı Kara Haydar\" olarak tanınan Mehmet Fatih Tançalan'ın eşi Çağla Öz Tançalan, adliyeye sevk edildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/vanli-kara-haydar-sorusturmasi-gozaltindaki-cagla-oz-adliyeye-sevk-edildi-2537352",
+      "published": "2026-09-14T08:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:36.428361+00:00"
+    },
+    {
+      "id": "08c6a4c46a4ed615",
+      "source": "Akşam",
+      "title": "Rumkale'de 7. festival coşkusu: 4 bin 400 sporcu Fırat'ta buluştu",
+      "summary": "Gaziantep Büyükşehir Belediyesi tarafından bu yıl 7'ncisi düzenlenen Uluslararası Rumkale Su Sporları Festivali, “Fırat'ın İncisi” olarak anılan tarihi Rumkale'nin eşsiz manzarasında gerçekleştirildi.",
+      "link": "https://www.aksam.com.tr/spor/rumkalede-7-festival-coskusu-4-bin-400-sporcu-firatta-bulustu/haber-1698209",
+      "published": "2026-09-14T08:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:41.736058+00:00"
+    },
+    {
+      "id": "cc30864acf7eb275",
+      "source": "Star",
+      "title": "Rumkale'de 7. festival coşkusu: 4 bin 400 sporcu Fırat'ta buluştu",
+      "summary": "Gaziantep Büyükşehir Belediyesi tarafından bu yıl 7'ncisi düzenlenen Uluslararası Rumkale Su Sporları Festivali, \"Fırat'ın İncisi\" olarak anılan tarihi Rumkale'nin eşsiz manzarasında gerçekleştirildi.",
+      "link": "https://www.star.com.tr/spor/rumkalede-7-festival-coskusu-4-bin-400-sporcu-firatta-bulustu-haber-2040064/",
+      "published": "2026-09-14T08:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:42.986144+00:00"
+    },
+    {
+      "id": "f6204b0f89ec2f3a",
+      "source": "Karar",
+      "title": "Türkiye’de yağışlar son 66 yılın zirvesinde",
+      "summary": "Türkiye genelinde 2026 su yılının ilk 11 ayında metrekareye ortalama 709,2 kilogram yağış düştü. Yağışlar normalin yüzde 29, geçen yılın aynı döneminin yüzde 77 üzerinde gerçekleşerek son 66 yılın en yüksek seviyesine ulaştı. Su yılı yağışları 79 ilde normal civarında veya üzerinde gerçekleşirken, yalnızca Bursa ve Tekirdağ normalin altında kaldı. Bölgeler arasında normaline göre en yüksek artış y",
+      "link": "https://www.karar.com/guncel-haberler/turkiyede-yagislar-son-66-yilin-zirvesinde-2071758",
+      "published": "2026-09-14T08:07:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:44.827011+00:00"
+    },
+    {
+      "id": "a070def8b811a08e",
+      "source": "Aydınlık",
+      "title": "Komşu gaza geleceğine saza gelsin",
+      "summary": "Komşu gaza geleceğine saza gelsin",
+      "link": "https://www.aydinlik.com.tr/koseyazisi/komsu-gaza-gelecegine-saza-gelsin-590075",
+      "published": "2026-09-14T08:07:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:46.465392+00:00"
+    },
+    {
+      "id": "21a0daa6e754823c",
+      "source": "Halk TV",
+      "title": "Selahattin Günday'ın tutuklanması neden hukuki değil? Ünlü hukukçu çelişkileri madde madde anlattı",
+      "summary": "Gazeteci Selahattin Günday&#039;ın Kozinoğlu soruşturmasında tutuklanmasına itirazlar büyüyor. Olay anında yürürlükte olmayan bir yasa maddesi üzerinden, çekmediği bir görüntü nedeniyle ve zamanaşımı sonrasında tutuklanan Günday kararındaki çelişkiler",
+      "link": "https://halktv.com.tr/gundem/selahattin-gundayin-tutuklanmasi-neden-hukuki-degil-unlu-hukukcu-celiskileri-madde-madde-anlatti-1054911h",
+      "published": "2026-09-14T08:07:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:47.438825+00:00"
+    },
+    {
+      "id": "18f5e583757010c3",
+      "source": "İklim Haber",
+      "title": "BM: Dünya İklim Eyleminde Siyasi Kutuplaşmayı Reddetmezse Ekonomik Yıkımla Yüzleşecek",
+      "summary": "BM İklim Şefi, iklim eylemindeki siyasi kutuplaşmanın reddedilmesi gerektiğini, aksi takdirde dünyanın ekonomik bir felaketle karşı karşıya kalacağını belirtti. BM İklim Değişikliği Çerçeve Sözleşmesi (UNFCCC) İcra Sekreteri Simon Stiell, bu yılki “cehennem gibi sıcak” yazın sadece Avrupa&#8217;da on binlerce insanın ölümüne yol açtığını ve altyapıyı, işletmeleri ve ekonomileri &#8220;baltalayarak",
+      "link": "https://www.iklimhaber.org/bm-dunya-iklim-eyleminde-siyasi-kutuplasmayi-reddetmezse-ekonomik-yikimla-yuzlesecek/",
+      "published": "2026-09-14T08:07:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:11:03.257366+00:00"
+    },
+    {
+      "id": "a2aad40a40f9b2df",
+      "source": "Aydınlık",
+      "title": "Ergenekon soruşturmasında 21 eski hakim ve savcı için zamanaşımı kararı kaldırıldı",
+      "summary": "Ergenekon soruşturma ve kovuşturmalarında görev yapan 21 eski hakim ve savcı hakkındaki dosyada, zamanaşımı gerekçesiyle verilen “son soruşturmanın açılmasına yer olmadığı” kararı kaldırıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/ergenekon-sorusturmasinda-21-eski-hakim-ve-savci-icin-zamanasimi-karari-kaldirildi-590074",
+      "published": "2026-09-14T08:07:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:46.465431+00:00"
+    },
+    {
+      "id": "d1ee7acf9c09f9ff",
+      "source": "Yeni Akit",
+      "title": "FETÖ’cü subaydan 15 Temmuz itirafları! “Erdoğan’ın konutuna yönelik saldırıda yer aldım”",
+      "summary": "15 Temmuz darbe girişimine ilişkin sosyal medyada gündeme gelen videoda, FETÖ üyeliğinden yakalanan eski subay Burkay Karatepe’nin ifadeler dikkat çekti. Videoda Karatepe’nin örgüt içerisindeki geçmişinden 15 Temmuz gecesine kadar uzanan çarpıcı beyanlarına yer veriliyor.",
+      "link": "https://www.yeniakit.com.tr/haber/fetocu-subaydan-15-temmuz-itiraflari-erdoganin-konutuna-yonelik-saldirida-yer-aldim-2022676.html",
+      "published": "2026-09-14T08:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:43.380811+00:00"
+    },
+    {
+      "id": "e21633e7dbc1ddff",
+      "source": "Gazete Pencere",
+      "title": "Gümüş yeniden yükselişte",
+      "summary": "Gümüş, yeniden yükselişe geçti ancak 1,64 değer kazanarak 64,48 dolara yükselen gümüşteki artış, önceki günlerde yaşanan kayıpları telafi etmedi.",
+      "link": "https://www.gazetepencere.com/ekonomi/gumus-yeniden-yukseliste-715376h",
+      "published": "2026-09-14T08:06:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:46.881886+00:00"
+    },
+    {
+      "id": "5e336b4ea63dc992",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Yılın 8 ayında yaklaşık 35 ton uyuşturucu ve 87,1 milyon uyuşturucu hap ele geçirildi",
+      "summary": "İçişleri Bakanlığınca uyuşturucuyla mücadele kapsamında yılın 8 ayında yürütülen çalışmalarda yaklaşık 35 ton uyuşturucu madde ile 87,1 milyon uyuşturucu hap ele geçirildi.",
+      "link": "https://www.aa.com.tr/tr/gundem/yilin-8-ayinda-yaklasik-35-ton-uyusturucu-ve-87-1-milyon-uyusturucu-hap-ele-gecirildi/4056442",
+      "published": "2026-09-14T08:06:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:35.993164+00:00"
+    },
+    {
+      "id": "c8bf3a2eaaf0c4fc",
+      "source": "Yeniçağ",
+      "title": "Hidrojenli BMW iX5 için seri üretim dönemi",
+      "summary": "Alman otomotiv devi BMW, hidrojen yakıt hücreli SUV modeli iX5 Hydrogen’i seri üretime taşımak için prototip araçlarla gerçek yol testlerine başladı. Şirket bir yandan test süreçlerini yürütürken diğer yandan temel bileşenlerin endüstriyel üretimi için fabrika altyapılarını kurmayı sürdürüyor.",
+      "link": "https://www.yenicaggazetesi.com/hidrojenli-bmw-ix5-icin-seri-uretim-donemi-1071596h.htm",
+      "published": "2026-09-14T08:06:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:45.358376+00:00"
+    },
+    {
+      "id": "662a801b5b30a9e2",
+      "source": "Milliyet",
+      "title": "Adana'da vahşet! Tartıştığı kadını balkonda sopayla dövdü",
+      "summary": "Sarıçam ilçesi Gültepe Mahallesi'ndeki bir apartmanda, bir adam ile bir kadın arasında balkonda tartışma çıktı. Büyüyen tartışmada adam, kadını sopayla dövdü. Elindeki çarşafla sopadan korunmaya çalışan kadın, çığlık atarak çevredekilerden yardım istedi. Kadına defalarca sopayla vuran şüpheli daha sonra saçından tutarak evin içerisine götürdü. Saldırı anı mahalleli tarafından cep telefonuyla görün",
+      "link": "https://www.milliyet.com.tr/gundem/adanada-vahset-tartistigi-kadini-balkonda-sopayla-dovdu-7659950",
+      "published": "2026-09-14T08:06:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:40.883111+00:00"
+    },
+    {
+      "id": "2238217e86936bec",
+      "source": "Cumhuriyet",
+      "title": "İsveç’te seçim düğümü: Aşırı sağ geriledi, hükümet hesabı karıştı",
+      "summary": "İsveç’te genel seçimlerin ardından iktidar yarışı başa baş sürüyor. Oyların yüzde 90’ından fazlasının sayıldığı seçimde, Magdalena Andersson liderliğindeki dört muhalefet partisi parlamentoda 176 sandalyeye ulaşırken, Başbakan Ulf Kristersson’un sağ ittifakı 173 sandalyede kaldı. Aşırı sağcı İsveç Demokratları ise oy kaybetti.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/isvec-te-secim-dugumu-asiri-sag-geriledi-hukumet-hesabi-karisti-2537350",
+      "published": "2026-09-14T08:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:36.428399+00:00"
+    },
+    {
+      "id": "5bb60188bb5ae8f9",
+      "source": "Akşam",
+      "title": "Özgür Özel-Mansur Yavaş hattında büyük çatlak: O sözler kriz çıkardı",
+      "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş'ın Başkan Erdoğan ile görüşmesi sonrası başlayan tartışma yeni bir boyut kazandı. Gazeteci Barış Yarkadaş, Yavaş'ın Özgür Özel'in “Benim onayımla gitti” sözlerinden rahatsız olduğunu aktarırken, CHP'li kaynakların da Özel'in tutumuna “Siyasi etiğe uygun değil” diyerek tepki gösterdiğini söyledi.",
+      "link": "https://www.aksam.com.tr/guncel/ozgur-ozel-mansur-yavas-hattinda-buyuk-catlak-o-sozler-kriz-cikardi/haber-1698208",
+      "published": "2026-09-14T08:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:41.736096+00:00"
+    },
+    {
+      "id": "62716ce239ba44b9",
+      "source": "Star",
+      "title": "Fenomen Çağla Öz adliyeye sevk edildi",
+      "summary": "Vanlı iş adamı ve sosyal medya fenomeni Mehmet Fatih Tançalan'ın İstanbul'da gözaltına alınan eşi Çağla Öz, Van'daki işlemlerinin ardından elleri kelepçeli şekilde adliyeye sevk edildi.",
+      "link": "https://www.star.com.tr/guncel/fenomen-cagla-oz-adliyeye-sevk-edildi-haber-2040063/",
+      "published": "2026-09-14T08:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:42.986176+00:00"
+    },
+    {
+      "id": "8e64f1147f434cf2",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Arsenal, Barcelona ve Freiburg kayıpsız zirvede yer aldı",
+      "summary": "Avrupa'nın 5 büyük futbol ülkesi Almanya (Bundesliga), Fransa (Ligue 1), İngiltere (Premier Lig), İspanya (LaLiga) ve İtalya'daki (Serie A) maçlara hafta sonu devam edildi.",
+      "link": "https://www.aa.com.tr/tr/spor/arsenal-barcelona-ve-freiburg-kayipsiz-zirvede-yer-aldi/4056439",
+      "published": "2026-09-14T08:05:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:35.993190+00:00"
+    },
+    {
+      "id": "6db63e606fb3c70f",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Türkiye yapay zeka kullanımında üst sıralarda yer alıyor",
+      "summary": "Yandex Arama Uluslararası Üst Yöneticisi (CEO) ve Yandex Türkiye Genel Müdürü Alexander Popovskiy, Türk kullanıcıların yüzde 70'inden fazlasının geçen hafta her gün yapay zeka kullandığını söyledi.",
+      "link": "https://www.aa.com.tr/tr/yapay-zeka/turkiye-yapay-zeka-kullaniminda-ust-siralarda-yer-aliyor/4056437",
+      "published": "2026-09-14T08:05:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:35.993130+00:00"
+    },
+    {
+      "id": "7cc53e69f62db6e6",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Endonezya'daki Semeru Yanardağı'nda 3 patlama yaşandı",
+      "summary": "Endonezya'ya bağlı Java Adası'nın doğusunda bulunan Semeru Yanardağı 3 kez patlarken, 1000 metre yüksekliğe kadar kül püskürttü.",
+      "link": "https://www.aa.com.tr/tr/dunya/endonezyadaki-semeru-yanardaginda-3-patlama-yasandi/4056436",
+      "published": "2026-09-14T08:05:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:35.993215+00:00"
+    },
     {
       "id": "0de370fc37ad8270",
       "source": "Kısa Dalga",
@@ -63,6 +349,17 @@
       "fetched_at": "2026-09-14T08:05:39.333267+00:00"
     },
     {
+      "id": "44eef4798623e328",
+      "source": "OdaTV",
+      "title": "Hint baharatı olarak bildiğimiz körinin kökeni başka çıktı",
+      "summary": "Dünya mutfağının en yaygın kavramlarından biri olan &quot;köri&quot;, Tamil dilinden İngilizceye ve ardından küresel gastronomiye uzanan 300 yıllık bir dönüşümün hikayesine sahip. Hazır köri tozlarından bölgesel Hint yemeklerine, bu kelimenin ardındaki tarihsel gerçekler şaşırtıcı.",
+      "link": "https://www.odatv.com/gastroda/kori-nereye-ozgu-120162593",
+      "published": "2026-09-14T08:04:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:47.162037+00:00"
+    },
+    {
       "id": "06fd22deff635267",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Türkiye komşularına 8 ayda 18,2 milyar dolarlık ihracat yaptı",
@@ -83,6 +380,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T08:05:45.691633+00:00"
+    },
+    {
+      "id": "a61838136dd653d4",
+      "source": "Ekonomim",
+      "title": "\"Vanlı Kara Haydar\" soruşturması: Gözaltına alınan eşi Çağla Öz adliyeye sevk edildi",
+      "summary": "Sosyal medyada “Vanlı Kara Haydar” olarak tanınan ve tutuklanan Mehmet Fatih Tançalan’ın eşi sosyal medya fenomeni Çağla Öz Tançalan, emniyetteki işlemlerinin ardından adliyeye sevk edildi. Soruşturmada çiftin mal varlığı, lüks yaşam paylaşımları ve düğünde sergilenen altın, döviz ve paraların kaynağı araştırılıyor.",
+      "link": "https://www.ekonomim.com/gundem/vanli-kara-haydar-sorusturmasi-gozaltina-alinan-esi-cagla-oz-adliyeye-sevk-edildi-haberi-918035",
+      "published": "2026-09-14T08:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:53.826486+00:00"
+    },
+    {
+      "id": "2a026f29e774f35a",
+      "source": "Finans Gündem",
+      "title": "Şekerbank’tan Ahilik Haftası’nda esnafa özel finansman imkânı",
+      "summary": "Esnaf müşteriler Şeker Mobil’den dört adımda hızlıca 1 milyon 250 bin TL’ye kadar kredi imkânından yararlanırken; daha yüksek tutarlı finansman ihtiyaçlarını ise şubelerden, 3 ay ödemesiz dönem ve 48 aya varan vade seçenekleriyle karşılayabiliyor.",
+      "link": "https://www.finansingundemi.com/haber/sekerbanktan-ahilik-haftasinda-esnafa-ozel-finansman-imkani/1908240",
+      "published": "2026-09-14T08:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:55.503186+00:00"
     },
     {
       "id": "eb9f30ab8b29caad",
@@ -402,6 +721,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T08:01:41.288575+00:00"
+    },
+    {
+      "id": "2449eaa7cfe15054",
+      "source": "Independent Türkçe",
+      "title": "Kimi din adamlarındaki Şeytan'a ait 3 önemli sıfat!",
+      "summary": "Dinî düşüncelere baktığımızda, Şeytan'ı 3 önemli sıfat ile vasıflandırdıklarını görüyoruz. Birincisi onun, \"din adamlığı\" sıfatı ile vasıflandırılmasıdır. Yani dinî düşünceler İblis'in 6 (ya da 60) bin yıl Allah'a ibadet ettiğinden ve meleklere cemaat namazı kıldırıp onlara vaazlar verdiğinden söz ederler. Kısacası, her 3 semavi dinde de İblis'e \"din adamı elbisesi\" giydirilmiştir. Yani İblis, sem",
+      "link": "https://www.indyturk.com/node/782444/t%C3%BCrki%CC%87yeden-sesler/kimi-din-adamlar%C4%B1ndaki-%C5%9Feytana-ait-3-%C3%B6nemli-s%C4%B1fat",
+      "published": "2026-09-14T07:56:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:51.642143+00:00"
     },
     {
       "id": "22e1c0d478162474",
@@ -1733,6 +2063,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T07:35:36.043452+00:00"
+    },
+    {
+      "id": "3d624e3ed7022776",
+      "source": "Hürriyet",
+      "title": "Bursa'da gece yarısı feci kaza: Hafif ticari araç motosiklete çarptı, 1 ölü, 1 yaralı",
+      "summary": "Osmangazi ilçesi Gökdere Bulvarı'nda meydana gelen kazada, kırmızı ışıkta geçtiği öne sürülen motosiklete hafif ticari araç çarptı. Yola savrulan iki kişiden Emrah B. olay yerinde yaşamını yitirirken, ağır yaralanan M.K. hastaneye kaldırıldı.",
+      "link": "https://www.hurriyet.com.tr/gundem/bursada-gece-yarisi-feci-kaza-hafif-ticari-arac-motosiklete-carpti-1-olu-1-yarali-43305797",
+      "published": "2026-09-14T07:32:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-14T08:10:40.070313+00:00"
     },
     {
       "id": "3897f5cfafec2a42",
@@ -5165,347 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T06:45:38.025732+00:00"
-    },
-    {
-      "id": "bdf0c30bca52f94e",
-      "source": "Cumhuriyet",
-      "title": "Yusuf Tekin'den öğretmenlere AKP'nin sloganıyla mesaj: 'Türkiye Yüzyılı' vurgusu yaptı",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, 2026-2027 eğitim öğretim yılının başlaması dolayısıyla öğretmenler ve bakanlık personeline video mesaj gönderdi. Tekin, mesajlarında öğretmenlere “ulvi emanet” vurgusu yaparken, “Türkiye Yüzyılı” ve “Türkiye Yüzyılı Maarif Modeli” mesajı verdi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/yusuf-tekin-den-ogretmenlere-akp-nin-sloganiyla-mesaj-turkiye-yuzyili-vurgusu-yapti-2537308",
-      "published": "2026-09-14T06:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:55:29.144696+00:00"
-    },
-    {
-      "id": "42a450fff1c63952",
-      "source": "Cumhuriyet",
-      "title": "İlahiyatçı Mustafa Karataş canlı yayında acı haberi aldı: 4 aydır yoğun bakımda olan kardeşi hayatını kaybetti",
-      "summary": "İlahiyatçı Prof. Dr. Mustafa Karataş, televizyon programını sunduğu esnada dört aydır yoğun bakımda tedavi gören kardeşi Davut Karataş’ın vefat ettiğini öğrendi. Yayın sırasında yaşadığı üzüntüyü izleyicileriyle paylaşan Karataş, vefat eden kardeşi için dua istedi.",
-      "link": "https://www.cumhuriyet.com.tr/yasam/ilahiyatci-mustafa-karatas-canli-yayinda-aci-haberi-aldi-4-aydir-yogun-bakimda-olan-kardesi-hayatini-kaybetti-2537307",
-      "published": "2026-09-14T06:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:38.532528+00:00"
-    },
-    {
-      "id": "d344b8a6e8f20528",
-      "source": "Cumhuriyet",
-      "title": "Yusuf Tekin'den öğretmenlere ve bakanlık personeline '14 Eylül' mesajı: 'Türkiye Yüzyılı' vurgusu yaptı",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, 2026-2027 eğitim öğretim yılının başlaması dolayısıyla öğretmenler ve bakanlık personeline video mesaj gönderdi. Tekin, mesajlarında öğretmenlere “ulvi emanet” vurgusu yaparken, “Türkiye Yüzyılı” ve “Türkiye Yüzyılı Maarif Modeli” mesajı verdi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/yusuf-tekin-den-ogretmenlere-ve-bakanlik-personeline-14-eylul-mesaji-turkiye-yuzyili-vurgusu-yapti-2537308",
-      "published": "2026-09-14T06:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:38.532561+00:00"
-    },
-    {
-      "id": "3a9f6f544fc0bbf2",
-      "source": "Star",
-      "title": "8 ilde yasa dışı bahis ağına darbe! 177 şüpheli, 17,7 milyar liralık hareket",
-      "summary": "Jandarma ekiplerinin 8 ilde düzenlediği operasyonlarda, hesaplarında toplam 17 milyar 750 milyon liralık para hareketliliği tespit edilen 177 şüpheli hakkında işlem başlatıldı.",
-      "link": "https://www.star.com.tr/guncel/8-ilde-yasa-disi-bahis-agina-darbe-177-supheli-177-milyar-liralik-hareket-haber-2040042/",
-      "published": "2026-09-14T06:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:45.481175+00:00"
-    },
-    {
-      "id": "d8a45e7a81019de7",
-      "source": "Aydınlık",
-      "title": "İran Devrim Muhafızları yeni hava savunma sistemini devreye soktu: MQ-1 tipi İHA düşürüldü",
-      "summary": "İran Devrim Muhafızları Ordusu Hava-Uzay Kuvvetleri, Hürmüz Boğazı semalarında gelişmiş bir MQ-1 insansız hava aracının yeni hava savunma sistemiyle vurularak imha edildiğini duyurdu.",
-      "link": "https://www.aydinlik.com.tr/haber/iran-devrim-muhafizlari-yeni-hava-savunma-sistemini-devreye-soktu-mq-1-tipi-iha-dusuruldu-590056",
-      "published": "2026-09-14T06:41:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:48.470740+00:00"
-    },
-    {
-      "id": "d82b49a1b25ab2c8",
-      "source": "Yeniçağ",
-      "title": "Depremden beri aynı tehlike: ‘Kaza yokuşu” için mahalleli çözüm istiyor",
-      "summary": "Hatay’ın Antakya ilçesinde mahalle sakinlerinin &quot;kaza yokuşu&quot; olarak adlandırdığı tehlikeli yolda son 3 ayda 2 araç yaklaşık 2 metre yükseklikten bir evin bahçesine uçtu.",
-      "link": "https://www.yenicaggazetesi.com/depremden-beri-ayni-tehlike-kaza-yokusu-icin-mahalleli-cozum-istiyor-1071540h.htm",
-      "published": "2026-09-14T06:41:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:47.292546+00:00"
-    },
-    {
-      "id": "fef6dfc07ab4d6b7",
-      "source": "Cumhuriyet",
-      "title": "İran ve Körfez ülkeleri bir araya gelecekti: Hürmüz Boğazı toplantısı ertelendi",
-      "summary": "Umman, Hürmüz Boğazı konusunda İran ve Arap ülkeleri arasında yarın yapılması planlanan bölgesel toplantının ertelendiğini duyurdu.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/iran-ve-korfez-ulkeleri-bir-araya-gelecekti-hurmuz-bogazi-toplantisi-ertelendi-2537306",
-      "published": "2026-09-14T06:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:38.532586+00:00"
-    },
-    {
-      "id": "9d92f55bea32a22e",
-      "source": "Akşam",
-      "title": "Kocaeli'de organize suç örgütüne darbe: Çok sayıda gözaltı var",
-      "summary": "Kocaeli'de bir organize suç örgütüne yönelik yürütülen soruşturma kapsamında ikinci dalga operasyon düzenlendi. Daha önce 19 şüpheliden 14'ünün tutuklandığı soruşturmada, tutuklanan şüphelilerin dışarıdaki işlerini yürüttükleri öne sürülen 12 kişi daha gözaltına alındı.",
-      "link": "https://www.aksam.com.tr/guncel/kocaelide-organize-suc-orgutune-darbe-cok-sayida-gozalti-var/haber-1698176",
-      "published": "2026-09-14T06:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:43.928540+00:00"
-    },
-    {
-      "id": "db79c862a05a4505",
-      "source": "Akşam",
-      "title": "8 ilde yasa dışı bahis operasyonu: 177 şüpheli hakkında işlem başlatıldı",
-      "summary": "İçişleri Bakanlığı, 8 ilde yasa dışı bahis suçuna yönelik düzenlenen operasyonlarda hesaplarında toplam 17 milyar 750 milyon liralık para hareketliliği tespit edilen 177 şüpheli hakkında işlem başlatıldığını açıkladı.",
-      "link": "https://www.aksam.com.tr/guncel/8-ilde-yasa-disi-bahis-operasyonu-177-supheli-hakkinda-islem-baslatildi/haber-1698175",
-      "published": "2026-09-14T06:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:43.928576+00:00"
-    },
-    {
-      "id": "7c415306af4b4ae0",
-      "source": "Gerçek Gündem",
-      "title": "Fed ve Petrol Kıskacı: Altın Fiyatlarında Yön Aşağı Döndü",
-      "summary": "Altın piyasaları yeni haftaya satıcılı bir seyirle giriş yaptı. Cuma günkü yükselişinin ardından haftanın ilk işlem gününde değer kaybeden gram altın 6 bin 765 liradan işlem görürken, çeyrek altın 11 bin 99 liradan alıcı buluyor.",
-      "link": "https://www.gercekgundem.com/ekonomi/fed-ve-petrol-kiskaci-altin-fiyatlarinda-yon-asagi-dondu-578608",
-      "published": "2026-09-14T06:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:54.286356+00:00"
-    },
-    {
-      "id": "40a401b5a089f6a3",
-      "source": "Milliyet",
-      "title": "Karadenizliye imkansız de, otur izle: Konteyneri köye çıkardı",
-      "summary": "Trabzon’un Araklı ilçesine bağlı Türkeli Köyü’nde Sendoğan Yıldırım, zorlu arazi şartlarına rağmen pes etmedi. Köy yolunun oldukça rampalı ve dik olması, konteyner evin yukarı çıkarılırken devrilme riskini beraberinde getirdi. Ancak Sendoğan Yıldırım, çözümü Karadenizlilerin meşhur \"inat ve azminde\" buldu. Bilim dünyası şaşkın! Assos'un sularında gizemli bir misafir: Kanatları… Yıldırım, konteyner",
-      "link": "https://www.milliyet.com.tr/gundem/karadenizliye-imkansiz-de-otur-izle-konteyneri-koye-cikardi-7659861",
-      "published": "2026-09-14T06:40:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:43.116129+00:00"
-    },
-    {
-      "id": "36ee2f480f47268e",
-      "source": "Gazete Pencere",
-      "title": "Bu sabah 148 operasyon düzenlendi: 2 bin 447 kişi hakkında adli işlem yapıldı",
-      "summary": "Adalet Bakanı Akın Gürlek, bu sabah saatlerinde çetelere yönelik 148 operasyon düzenlendiğini, 2 bin 447 şüpheli hakkında adli işlem yapıldığını açıkladı.",
-      "link": "https://www.gazetepencere.com/gundem/bu-sabah-148-operasyon-duzenlendi-2-bin-447-kisi-hakkinda-adli-islem-yapildi-715361h",
-      "published": "2026-09-14T06:40:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:40:43.362051+00:00"
-    },
-    {
-      "id": "9b991f60297b0bb0",
-      "source": "OdaTV",
-      "title": "Adana Altın Koza’da kısa seçkisi: 63 film yarışacak",
-      "summary": "33. Uluslararası Adana Altın Koza Film Festivali’nin kısa film yarışmalarında 63 kısa film finale kaldı. 26 Eylül’de başlayacak yarışmanın jüri üyeleri de belli oldu.",
-      "link": "https://www.odatv.com/kultur-sanat/adana-altin-kozada-kisa-seckisi-63-film-yarisacak-120162580",
-      "published": "2026-09-14T06:40:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T07:05:39.365635+00:00"
-    },
-    {
-      "id": "a5bd6569d26a8298",
-      "source": "Milliyet",
-      "title": "İstanbul’da iş insanlarına 'sokak hakkı' baskını! Para vermeyenlerin iş yerlerini kurşunlayıp yağmaladılar",
-      "summary": "İstanbul Anadolu Cumhuriyet Başsavcılığı Terör ve Örgütlü Suçlar Soruşturma Bürosu tarafından yürütülen soruşturma kapsamında, iş insanlarına yabancı GSM hatları üzerinden mesaj ve telefon yoluyla ulaşarak ‘sokak hakkı’ adı altında para talep eden suç örgütü üyelerinin, para vermeyi kabul etmeyen kişilerin iş yerlerini kurşunlayıp yağmaladıkları ve bazı mağdurları öldürmeye teşebbüs ettikleri beli",
-      "link": "https://www.milliyet.com.tr/gundem/istanbulda-is-insanlarina-sokak-hakki-baskini-para-vermeyenlerin-is-yerlerini-kursunlayip-yagmaladilar-7659860",
-      "published": "2026-09-14T06:40:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:43.116199+00:00"
-    },
-    {
-      "id": "8543d2db672b3d3f",
-      "source": "Cumhuriyet",
-      "title": "İzmir tarımında akıllı sayaç devrimi",
-      "summary": "İzmir Büyükşehir Belediyesi, kuraklıkla mücadele kapsamında tarımsal sulamada 30 milyon liralık ön ödemeli ultrasonik su sayacı yatırımını hayata geçiriyor. Daha az suyla daha verimli üretim imkânı sunan uygulamayla, 3 bin futbol sahası büyüklüğündeki tarımsal alanın vahşi sulamadan kurtarılması ve yüzde 35 oranında su tasarrufu sağlanması hedefleniyor. Geleneksel yöntemlerin yerine, çiftçinin yal",
-      "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/izmir-tariminda-akilli-sayac-devrimi-2537305",
-      "published": "2026-09-14T06:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:38.532629+00:00"
-    },
-    {
-      "id": "ce870b80281fcbd7",
-      "source": "Cumhuriyet",
-      "title": "Motorin fiyatı 100 liraya yaklaşıyor: Akaryakıt fiyatlarına dev zam yolda",
-      "summary": "Akaryakıt fiyatlarında hareketlilik sürerken motorine yeni bir zam beklentisi gündeme geldi. Sektör kaynaklarına göre motorinin litre fiyatına salı günü 6,62 Türk Lirası zam yapılması beklenirken, İstanbul, Ankara ve İzmir’de güncel benzin, motorin ve LPG fiyatları merak konusu oldu.",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/motorin-fiyati-100-liraya-yaklasiyor-akaryakit-fiyatlarina-dev-zam-yolda-2537300",
-      "published": "2026-09-14T06:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:38.532661+00:00"
-    },
-    {
-      "id": "921e564d7956af0e",
-      "source": "Halk TV",
-      "title": "Son Dakika | Borsa manipülasyonu operasyonu! 6 kişiye gözaltı",
-      "summary": "Son dakika... Sosyal medyada borsa işlemleri hakkında manipülasyon yaptıkları iddiası ile 6 kişi hakkında gözaltı kararı çıktı.",
-      "link": "https://halktv.com.tr/ekonomi/son-dakika-borsa-manipulasyonu-operasyonu-6-kisiye-gozalti-1054885h",
-      "published": "2026-09-14T06:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:40:43.797027+00:00"
-    },
-    {
-      "id": "b156e6f021829bc4",
-      "source": "Türkiye Gazetesi",
-      "title": "Ziyan etmiyor sirkeye dönüştürüyor! Geçen yıl 65 TL'den satılıyordu, bu yıl 40 TL",
-      "summary": "Hisarcık'ta işçi emeklisi olan Hasan Soyugür düşen elmaları toplayarak sirke yapımında kullanıyor. Geçen yıl 65 liradan satılan elma kurusunun bu yıl 40 liradan satıldığını ifade eden Soyugür, dip elmasının ise yaklaşık 4 liraya kadar gerilediğini söyledi. Bu elmaları doğal bir sirkeye dönüştüren işçi, hazırladığı karışımı güneşte bekleterek, 15 gün içerisinde doğal bir sirke haline geldiğini akta",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/ziyan-etmiyor-sirkeye-donusturuyor-gecen-yil-65-tlden-satiliyordu-bu-yil-40-tl-1815853",
-      "published": "2026-09-14T06:39:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:40.745901+00:00"
-    },
-    {
-      "id": "d41b5edc355afda3",
-      "source": "Türkiye Gazetesi",
-      "title": "ANKARA'DA İMZALAR ATILACAK",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/turk-pasaportuyla-seyahatte-buyuk-kolaylik-ankarada-imzalar-atilacak-1815852",
-      "published": "2026-09-14T06:39:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T07:30:52.012870+00:00"
-    },
-    {
-      "id": "212b2d2122e03a02",
-      "source": "Türkiye Gazetesi",
-      "title": "Türk pasaportuyla seyahatte büyük kolaylık! Ankara'da imzalar atılacak",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/turk-pasaportuyla-seyahatte-buyuk-kolaylik-ankarada-imzalar-atilacak-1815852",
-      "published": "2026-09-14T06:39:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:40.745919+00:00"
-    },
-    {
-      "id": "212b2d2122e03a02",
-      "source": "Türkiye Gazetesi",
-      "title": "Türk pasaportuyla seyahatte büyük kolaylık! Ankara'da imzalar atılacak",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/turk-pasaportuyla-seyahatte-buyuk-kolaylik-ankarada-imzalar-atilacak-1815852",
-      "published": "2026-09-14T06:39:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:40.745935+00:00"
-    },
-    {
-      "id": "8608be9eb78b817c",
-      "source": "Türkiye Gazetesi",
-      "title": "Ergenekon hakim ve savcıları için dikkat çeken karar",
-      "summary": "Bakırköy 11. Ağır Ceza Mahkemesinin \"Ergenekon\" soruşturmalarında görev yapan aralarında Zekeriya Öz'ün de olduğu 21 hakim ve savcı için verdiği \"zaman aşımı\" kararı İstanbul Anadolu 26. Ağır Ceza Mahkemesi tarafından kaldırıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/ergenekon-sorusturmalarinda-gorev-yapan-hakim-ve-savcilara-verilen-zaman-asimi-karari-1815851",
-      "published": "2026-09-14T06:39:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:40.745963+00:00"
-    },
-    {
-      "id": "4f4693f117b0b50b",
-      "source": "Karar",
-      "title": "Efelerde yeni dönem kursları başlıyor",
-      "summary": "Efeler’de gençlerin ve çocukların kişisel gelişimine katkı sunacak yepyeni bir eğitim dönemi başlıyor. Efeler Belediyesi, sosyal belediyecilik anlayışıyla hayata geçirdiği Gençlik Merkezi kurslarıyla bölgedeki öğrencilere hem eğlenceli hem de öğretici bir rota çiziyor.",
-      "link": "https://www.karar.com/sehir-haberleri/efelerde-yeni-donem-kurslari-basliyor-2071736",
-      "published": "2026-09-14T06:39:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:40:41.758926+00:00"
-    },
-    {
-      "id": "467e21865eea58a1",
-      "source": "Cumhuriyet",
-      "title": "Rashida Tlaib'den ABD yönetimine Gazze çağrısı: Suç ortaklığına son verin",
-      "summary": "ABD Temsilciler Meclisinin Filistin asıllı üyesi Rashida Tlaib, ABD yönetimine, İsrail'in Gazze'ye yönelik saldırılarında \"suç ortaklığını\" sonlandırması çağrısında bulundu.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/rashida-tlaib-den-abd-yonetimine-gazze-cagrisi-suc-ortakligina-son-verin-2537303",
-      "published": "2026-09-14T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:38.532687+00:00"
-    },
-    {
-      "id": "8544d511939562f5",
-      "source": "Cumhuriyet",
-      "title": "Osmaniyeli yer fıstığı üreticileri: 'Tüccarlar üç yıl önceki fiyatı veriyor, bizi 90-100 lira kurtarır'",
-      "summary": "Osmaniye'nin Kadirli ilçesinde yer fıstığı hasadı yapan çiftçiler artan maliyetler sebebiyle bu yıl yer fıstığının kilosunun 90-100 lira arasında olması gerektiğini ancak tüccarların 3 yıl önceki fiyat olan 70 liradan \"ağızlarını açtıklarını\" ifade ettiler.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/osmaniyeli-yer-fistigi-ureticileri-tuccarlar-uc-yil-onceki-fiyati-veriyor-bizi-90-100-lira-kurtarir-2537304",
-      "published": "2026-09-14T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:38.532718+00:00"
-    },
-    {
-      "id": "2d6a68a3b520a5e7",
-      "source": "Evrensel",
-      "title": "İstanbul'da yeni eğitim-öğretim yılının ilk gününde trafik yoğunluğu",
-      "summary": "Eğitim ve öğretimin başladığı gün İstanbul’da sabahın erken saatlerinde başlayan trafik yoğunluğu kent genelinde yüzde 53'e kadar çıktı.",
-      "link": "https://www.evrensel.net/haber/6000443/istanbul-da-yeni-egitim-ogretim-yilinin-ilk-gununde-trafik-yogunlugu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-14T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:41.293016+00:00"
-    },
-    {
-      "id": "04658060f1ae2cf9",
-      "source": "Bianet",
-      "title": "Meteoroloji duyurdu: Sıcaklıklar düşüyor, 4 il için kuvvetli yağış",
-      "summary": "Meteoroloji Genel Müdürlüğü, hava sıcaklığının kuzey iç ve batı kesimlerde düşeceğini belirtti.",
-      "link": "https://bianet.org/haber/meteoroloji-duyurdu-sicakliklar-dusuyor-4-il-icin-kuvvetli-yagis-323434",
-      "published": "2026-09-14T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:50.582325+00:00"
-    },
-    {
-      "id": "dff26c095e9a0d88",
-      "source": "Karar",
-      "title": "Akdeniz’de tsunami ihtimali yüzde 100’e yakın: 30 yıllık periyot başladı",
-      "summary": "UNESCO'nun önümüzdeki 30 yıl içinde %100'e yakın olasılık gördüğü Akdeniz tsunami riski, yetersiz erken uyarı süreleri nedeniyle 1,5 trilyon dolarlık kıyı ekonomisini ve milyonlarca insanı tehdit ediyor.",
-      "link": "https://www.karar.com/dunya-haberleri/akdenizde-tsunami-ihtimali-yuzde-100e-yakin-30-yillik-periyot-basladi-2071735",
-      "published": "2026-09-14T06:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:40:41.758967+00:00"
-    },
-    {
-      "id": "3c66f84d0cf23108",
-      "source": "Karar",
-      "title": "OVP açıklandı: Türkiye'de yeni nesil çalışma modelleri ve esnek mesai dönemi başlayacak",
-      "summary": "2027-2029 dönemini kapsayan yeni Orta Vadeli Program (OVP) doğrultusunda Türkiye, yapay zeka ve teknolojik dönüşümün getirdiği dinamiklere uyum sağlamak amacıyla 'yeni nesil esnek çalışma modellerini' resmen hayata geçiriyor.",
-      "link": "https://www.karar.com/ekonomi-haberleri/ovp-aciklandi-turkiyede-yeni-nesil-calisma-modelleri-ve-esnek-mesai-2071734",
-      "published": "2026-09-14T06:38:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:40:41.759002+00:00"
-    },
-    {
-      "id": "569cf78bb7f62855",
-      "source": "Ekonomim",
-      "title": "İBB Başkanvekili Aslan, AKOM'da anlattı: İstanbul’da okul trafiği için 3 bin 933 ek sefer düzenlendi",
-      "summary": "İBB Başkanvekili Nuri Aslan, okulların açılmasıyla 2 milyon 951 bin öğrencinin yollara çıktığı İstanbul’da ulaşım tedbirlerini açıkladı. Kent genelinde 3 bin 933 ek sefer düzenlenirken, okul çevresindeki 94 İSPARK otoparkı servislere ücretsiz açıldı.",
-      "link": "https://www.ekonomim.com/gundem/ibb-baskanvekili-aslan-akomda-anlatti-istanbulda-okul-trafigi-icin-3-bin-933-ek-sefer-duzenlendi-haberi-918010",
-      "published": "2026-09-14T06:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:56.817805+00:00"
-    },
-    {
-      "id": "2f7bdf3ce6359d8c",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Milli okçu Elif Berra Gökkır, Dünya Kupası'nın final ayağında bronz madalya aldı",
-      "summary": "2026 Okçuluk Dünya Kupası'nın Meksika'daki final ayağında mücadele eden Elif Berra Gökkır, kadınlar klasik yayda bronz madalya kazandı.",
-      "link": "https://www.aa.com.tr/tr/spor/milli-okcu-elif-berra-gokkir-dunya-kupasinin-final-ayaginda-bronz-madalya-aldi/4056334",
-      "published": "2026-09-14T06:37:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T06:45:38.025765+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-15T03:31:39.069832+00:00",
+  "last_updated": "2026-09-15T03:35:59.631002+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 541,
+  "new_items_this_run": 542,
   "items": [
+    {
+      "id": "c8ed2462b8e54874",
+      "source": "Türkiye Gazetesi",
+      "title": "Suudi Arabistan'da 6 nokta için acil durum uyarısı",
+      "summary": "Suudi Arabistan Sivil Savunma Genel Müdürlüğü tarafından yapılan açıklamada Cidde, Yenbu, Taif ve Ula illeri, Ebha kenti ile Cazan bölgesinde muhtemel tehlikelere karşı alarm verildiği bildirildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/suudi-arabistanda-6-nokta-icin-acil-durum-uyarisi-1816043",
+      "published": "2026-09-15T03:32:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T03:35:35.122261+00:00"
+    },
     {
       "id": "6dbc6dcf395f2f7d",
       "source": "Türkiye Gazetesi",
@@ -72,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T03:20:38.903487+00:00"
+    },
+    {
+      "id": "d8392f5c36b784f1",
+      "source": "Bir Gün",
+      "title": "Seferihisar Belediyesi'ne operasyon: 47 kişi adliyeye sevk edildi",
+      "summary": "İzmir Seferihisar Belediyesi’ne yönelik rüşvet soruşturmasında gözaltına alınan 47 kişi, emniyetteki işlemlerinin ardından adliyeye sevk edildi. Hakkında gözaltı kararı bulunan bir kişinin yakalanması için çalışmalar sürüyor.",
+      "link": "https://www.birgun.net/haber/seferihisar-belediyesi-ne-operasyon-47-kisi-adliyeye-sevk-edildi-734704",
+      "published": "2026-09-15T03:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T03:35:36.331333+00:00"
     },
     {
       "id": "1dc0722d8e61952f",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T20:20:45.880180+00:00"
-    },
-    {
-      "id": "347bf6eb1af6eb71",
-      "source": "Gazete Pencere",
-      "title": "Etiketleri yarı yarıya düşürmüşlerdi: Ünlü giyim devi için yolun sonu",
-      "summary": "ABD'nin ünlü kadın giyim ve aksesuar zincirlerinden Francesca's için tasfiye sürecinde yeni gelişme yaşandı. New Jersey'deki iflas mahkemesi tarafından şirketin kalan varlıklarının tasfiye edilmesini öngören plan onaylandı.",
-      "link": "https://www.gazetepencere.com/dis-haber/etiketleri-yari-yariya-dusurmuslerdi-unlu-giyim-devi-icin-yolun-sonu-715482h",
-      "published": "2026-09-14T20:11:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T20:11:20.341097+00:00"
-    },
-    {
-      "id": "d30509155f175ec8",
-      "source": "Aydınlık",
-      "title": "Devrim Muhafızlarından açıklama! Hürmüz Boğazı'nda bir petrol tankeri yandı",
-      "summary": "Devrim Muhafızları Deniz Kuvvetleri Komutanlığı yaptığı açıklamada Hürmüz Boğazı&#039;ndaki Elgaya isimi bir petrol tankerinin yandığını duyurdu. Tankerin yasak bölgeden geçmeye çalıştığı ve deniz mayınlarına çarptığı belirtildi",
-      "link": "https://www.aydinlik.com.tr/haber/devrim-muhafizlarindan-aciklama-hurmuz-bogazinda-bir-petrol-tankeri-yandi-590177",
-      "published": "2026-09-14T20:10:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T20:15:48.906459+00:00"
     }
   ]
 }

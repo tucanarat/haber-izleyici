@@ -1,12 +1,298 @@
 {
-  "last_updated": "2026-09-15T12:50:56.343759+00:00",
+  "last_updated": "2026-09-15T12:56:11.722016+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 545,
+  "new_items_this_run": 550,
   "items": [
+    {
+      "id": "add12f758f3d0dbe",
+      "source": "Gazete Pencere",
+      "title": "Motorine bu gece de zam bekleniyor: 100 lira eşiğini aşacak",
+      "summary": "Litre fiyatına gece yarısı yapılan 6,59 liralık zammın ardından İstanbul'da fiyatlar 95 liranın üzerine çıkarken, bu gece de yeni bir zam gelmesi bekleniyor. Bu gece yapılması beklenen zamla motorin 100 lira eşiğini aşacak.",
+      "link": "https://www.gazetepencere.com/ekonomi/motorine-bu-gece-de-zam-bekleniyor-100-lira-esigini-asacak-715586h",
+      "published": "2026-09-15T12:55:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:57.026015+00:00"
+    },
+    {
+      "id": "fd7585996df9b5f5",
+      "source": "CNBC-e",
+      "title": "Hazine'den 5 ve 8 yıllık tahvil ihracı: 118 milyar TL borçlandı",
+      "summary": "Hazine ve Maliye Bakanlığı, 5 ve 8 yıl vadeli tahvillerin yeniden ihracıyla piyasadan borçlandı. İhalelerde toplam satış tutarı 48,65 milyar TL olurken, Rekabetçi Olmayan Teklifler dahil toplam borçlanma 117,9 milyar TL’ye ulaştı.",
+      "link": "https://www.cnbce.com/haberler/hazineden-5-ve-8-yillik-tahvil-ihraci-118-milyar-tl-borclandi-h37282",
+      "published": "2026-09-15T12:55:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:56:03.391936+00:00"
+    },
+    {
+      "id": "15611ff261087dfd",
+      "source": "Halk TV",
+      "title": "Milli takımda Hakan Çalhanoğlu depremi",
+      "summary": "Kariyerine İtalya Serie A ekibi Inter’de devam eden milli futbolcu Hakan Çalhanoğlu, sakatlığı nedeniyle Udinese maçında oynayamamıştı. Milli takımın kaptanından kötü haber geldi.",
+      "link": "https://halktv.com.tr/spor/milli-takimda-hakan-calhanoglu-depremi-1055212h",
+      "published": "2026-09-15T12:55:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:57.703838+00:00"
+    },
+    {
+      "id": "5368a8e730a70292",
+      "source": "Akşam",
+      "title": "Kalpleri sevdiğine, kulakları ailesine dönük: Bu 3 burç aşkıyla ailesi arasında kalıyor",
+      "summary": "Aşk bazen yalnızca iki kişi arasında yaşanmıyor. \"Tuzlu Kahve\" dizisinde Mehmet ve Derin'in aşkları ile aileleri arasında kalması da bu durumu yeniden gündeme getirdi. Aşkıyla ailesi arasında kalan çiftler, sosyal medyada bu diziyi konuşmaya başladı. Astrolojide ise bazı burçların aile bağlarına verdiği önem, gönül ilişkilerinde karar vermelerini zorlaştırabiliyor. İşte kalpleri sevdiğine, kulakla",
+      "link": "https://www.aksam.com.tr/mor-papatya/kalpleri-sevdigine-kulaklari-ailesine-donuk-bu-3-burc-askiyla-ailesi-arasinda-kaliyor/haber-1698575",
+      "published": "2026-09-15T12:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:54.020629+00:00"
+    },
+    {
+      "id": "b355c75fbe1f761b",
+      "source": "Karar",
+      "title": "Venüs'ün sırrı çözülüyor: Uydusunu kendi yok etmiş olabilir",
+      "summary": "Güneş Sistemi'nde Merkür'le birlikte doğal uydusu bulunmayan tek gezegen olan Venüs'ün bu özelliği, bilim insanlarının uzun süredir yanıt aradığı sorulardan biri. Yeni bir araştırma ise Venüs'ün geçmişte bir uyduya sahip olmuş olabileceğini ve bu cismin zaman içinde gezegene çarparak yok olmuş olabileceğini öne sürüyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/venusun-sirri-cozuluyor-uydusunu-kendi-yok-etmis-olabilir-2072116",
+      "published": "2026-09-15T12:54:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:55.505753+00:00"
+    },
+    {
+      "id": "67577a251ac4d440",
+      "source": "Cumhuriyet",
+      "title": "Zeynep Sönmez Meksika'da set vermeden son 16'da",
+      "summary": "Zeynep Sönmez, Iryna Shymanovich'i, 2-0 mağlup ederek Guadalajara Open'da son 16 turuna yükseldi.",
+      "link": "https://www.cumhuriyet.com.tr/spor/zeynep-sonmez-meksika-da-set-vermeden-son-16-da-2537789",
+      "published": "2026-09-15T12:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.657000+00:00"
+    },
+    {
+      "id": "d1457eff523b3b7d",
+      "source": "Cumhuriyet",
+      "title": "Günlük Burç Yorumları: 16 Eylül Çarşamba Yengeç Burcu Yorumu",
+      "summary": "Günlük Burç Yorumları: 16 Eylül Çarşamba Yengeç Burcu Yorumu",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/yengec-burcu/gunluk-burc-yorumlari-16-eylul-carsamba-yengec-burcu-yorumu-2537791",
+      "published": "2026-09-15T12:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.657030+00:00"
+    },
+    {
+      "id": "d73ff56e9dead03d",
+      "source": "LOG",
+      "title": "Yeni Ford Puma ST-Line Black Edition, Türkiye’de satışa sunuldu",
+      "summary": "Yeni Ford Puma ST-Line Black Edition, yapılan resmi açıklamaya göre Türkiye&#8217;de 1.998.700 TL’den başlayan fiyatla satışa sunuluyor. Ford Otosan’ın Craiova fabrikasında üretilen araç hakkında Ford Türkiye&#8217;den gelen paylaşımda, &#8220;Kırmızı renk seçeneği ile sunulan Puma ST-Line Black Edition, ön kaput üzerindeki ve yanlarda uzanan özel tasarım siyah şeritleri, siyah boyalı tavanı, siya",
+      "link": "https://www.log.com.tr/yeni-ford-puma-st-line-black-edition-turkiyede-satisa-sunuldu/",
+      "published": "2026-09-15T12:53:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:56:07.503157+00:00"
+    },
+    {
+      "id": "7e5b713d015fc7b4",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Dünya Atletizm Şampiyonası, ilk kez Afrika kıtasında düzenlenecek",
+      "summary": "Dünya Atletizm Şampiyonası, tarihinde ilk kez Afrika kıtasında düzenlenecek. 2029 yılındaki organizasyon, Kenya'nın başkenti Nairobi'de gerçekleştirilecek.",
+      "link": "https://www.aa.com.tr/tr/spor/dunya-atletizm-sampiyonasi-ilk-kez-afrika-kitasinda-duzenlenecek/4057970",
+      "published": "2026-09-15T12:53:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.416970+00:00"
+    },
+    {
+      "id": "1284f81ed4a8b74f",
+      "source": "Cumhuriyet",
+      "title": "Günlük Burç Yorumları: 16 Eylül Çarşamba Boğa Burcu Yorumu",
+      "summary": "Günlük Burç Yorumları: 16 Eylül Çarşamba Boğa Burcu Yorumu",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/boga-burcu/gunluk-burc-yorumlari-16-eylul-carsamba-boga-burcu-yorumu-2537788",
+      "published": "2026-09-15T12:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.657052+00:00"
+    },
+    {
+      "id": "a5f56297ef92a826",
+      "source": "Cumhuriyet",
+      "title": "Günlük Burç Yorumları: 16 Eylül Çarşamba İkizler Burcu Yorumu",
+      "summary": "Günlük Burç Yorumları: 16 Eylül Çarşamba İkizler Burcu Yorumu",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/ikizler-burcu/gunluk-burc-yorumlari-16-eylul-carsamba-ikizler-burcu-yorumu-2537790",
+      "published": "2026-09-15T12:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.657073+00:00"
+    },
+    {
+      "id": "1394638ca418e608",
+      "source": "Akşam",
+      "title": "Casper'ın global notebook ekosistemindeki konumu",
+      "summary": "Casper'ın global notebook ekosistemindeki yeri; üretim ağı, model bazlı doğrulama ve Türkiye'deki satış sonrası erişim birlikte ele alındığında anlam kazanır. Quanta Computer kaydı üretim bağlantısını, laboratuvar raporları belirli ürünlerin kontrollü test sonuçlarını, servis verisi ise kullanıcıya ulaşan desteğin kapsamını gösterir.",
+      "link": "https://www.aksam.com.tr/teknoloji/casperin-global-notebook-ekosistemindeki-konumu/haber-1698574",
+      "published": "2026-09-15T12:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:54.020687+00:00"
+    },
+    {
+      "id": "0ef65b4565f8f353",
+      "source": "Yeniçağ",
+      "title": "Venezuela'dan kriptoyla petrol alacaklardı: Fatura çok ağır oldu",
+      "summary": "Polonya&#039;nın devlet destekli enerji devi Orlen&#039;in Venezuela&#039;dan petrol tedarik etmek için çıktığı yol, ülkenin en büyük ticari krizlerinden birine dönüştü. İşte ayrıntılar.",
+      "link": "https://www.yenicaggazetesi.com/venezueladan-kriptoyla-petrol-alacaklardi-fatura-cok-agir-oldu-1072141h.htm",
+      "published": "2026-09-15T12:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:55.999307+00:00"
+    },
+    {
+      "id": "058f03170945af36",
+      "source": "Karar",
+      "title": "İtilaya'da seçim yasası reformu Senato'dan geçti",
+      "summary": "İtalya'da Başbakan Meloni liderliğindeki sağ koalisyon hükümetinin hazırladığı seçim yasası reformu, Senato'da yapılan oylamada kabul edildi. Düzenleme, genel seçimlerde en az yüzde 42 oy alan ittifaka parlamentoda ek sandalyeler verilerek yüzde 55'lik çoğunluğa ulaşmasını öngörüyor. Muhalefet ise teklifin temsil ilkesini zayıflatacağını ve iktidarın 2027 seçimlerinde avantaj sağlamayı amaçladığın",
+      "link": "https://www.karar.com/dunya-haberleri/itilayada-secim-yasasi-reformu-senatodan-gecti-2072115",
+      "published": "2026-09-15T12:52:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:55.505802+00:00"
+    },
+    {
+      "id": "9f0eb6ea6c259407",
+      "source": "Yeniçağ",
+      "title": "Çalıntı araçtan çıkanlar ekiplere \"yok artık\" dedirtti",
+      "summary": "Kayseri’de anahtarı üzerinde unutulan otomobili çalan 18 yaşından küçük 4 çocuk, polisin güvenlik kameralarından adım adım yürüttüğü sıcak takip sonucu çalıntı araçla birlikte kısa sürede yakalandı.",
+      "link": "https://www.yenicaggazetesi.com/calinti-aractan-cikanlar-ekiplere-yok-artik-dedirtti-1072140h.htm",
+      "published": "2026-09-15T12:52:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:55.999347+00:00"
+    },
+    {
+      "id": "bb7a3e9e7254fa86",
+      "source": "Halk TV",
+      "title": "Yarım asır önce kurulmuştu: Dev şirket iflas etti, yanında ikisini de götürdü",
+      "summary": "Finansal darboğazdan çıkamayan şirketlerde iflas dalgası büyüyor. İstanbul 3. Asliye Ticaret Mahkemesi, aralarında 54 yıllık köklü bir geçmişe sahip olan Amper Elektrik&#039;in de bulunduğu 3 şirket için ayrı ayrı iflas kararı verdi.",
+      "link": "https://halktv.com.tr/ekonomi/yarim-asir-once-kurulmustu-dev-sirket-iflas-etti-yaninda-ikisini-de-goturdu-1055211h",
+      "published": "2026-09-15T12:52:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:57.703885+00:00"
+    },
+    {
+      "id": "1baa658e67c2c1ba",
+      "source": "Cumhuriyet",
+      "title": "Günlük Burç Yorumları: 16 Eylül Çarşamba Koç Burcu Yorumu",
+      "summary": "Günlük Burç Yorumları: 16 Eylül Çarşamba Koç Burcu Yorumu",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/koc-burcu/gunluk-burc-yorumlari-16-eylul-carsamba-koc-burcu-yorumu-2537787",
+      "published": "2026-09-15T12:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.657094+00:00"
+    },
+    {
+      "id": "36bd0dacac0fee34",
+      "source": "Star",
+      "title": "Nirvana S100 S200 ve Excalibur G915te 20 Bin Çevrimlik Menteşe Testleri",
+      "summary": "Laptop menteşe dayanıklılığı; kapağın tekrarlı hareketi sırasında torkun, kasa bağlantılarının ve ekran kablolamasının nasıl davrandığını kapsar. Casper'ın Nirvana S100/S200 ve Excalibur G915 için yayımladığı rapor özetlerindeki 20.000 çevrim verisi ölçülebilir bir test sonucudur; doğrudan kullanım yılı veya ömür garantisi değildir.",
+      "link": "https://www.star.com.tr/teknoloji/nirvana-s100-s200-ve-excalibur-g915te-20-bin-cevrimlik-mentese-testleri-haber-2040340/",
+      "published": "2026-09-15T12:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:54.862438+00:00"
+    },
+    {
+      "id": "62a438b140c4928f",
+      "source": "DonanımHaber",
+      "title": "Far Cry dizisinin çekimlerine başlandı: İşte ilk detaylar",
+      "summary": "Aynı adlı oyun serisinden uyarlanan Far Cry dizisi için bu hafta sete çıkıldı. Dikkat çekici bir ekip tarafından hazırlanan dizi, her sezonunda farklı bir hikâyeye odaklanacak.",
+      "link": "https://www.donanimhaber.com/far-cry-dizisinin-cekimlerine-baslandi--210480",
+      "published": "2026-09-15T12:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:56:09.051353+00:00"
+    },
+    {
+      "id": "73d75a2e595ce977",
+      "source": "Yeniçağ",
+      "title": "Galatasaray’ın yeni transferlerinden ilk mesaj: \"Güçlü bir kadro kuruldu\"",
+      "summary": "Galatasaray MCT Technic Erkek Basketbol Takımı&#039;nın kadrosuna dahil ettiği Dyshawn Pierre ve Vrenz Bleijenbergh, 2026-2027 sezonu öncesinde sarı-kırmızılı kulübün iddialı bir kadro kurduğunu vurguladı.",
+      "link": "https://www.yenicaggazetesi.com/galatasarayin-yeni-transferlerinden-ilk-mesaj-guclu-bir-kadro-kuruldu-1072139h.htm",
+      "published": "2026-09-15T12:51:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:55.999379+00:00"
+    },
+    {
+      "id": "649955ccd6e04c49",
+      "source": "Gerçek Gündem",
+      "title": "D-100 Yan Yolda Can Pazarı: İETT Otobüsü Motor Kısmından Tutuştu",
+      "summary": "İstanbul Bakırköy D-100 Karayolu yan yolda seyir halindeki bir İETT otobüsünün motor kısmında başlayan yangın, kısa sürede tüm aracı sardı. İhbar üzerine bölgeye çok sayıda itfaiye ekibi sevk edilirken, ekiplerin alev alev yanan otobüse müdahalesi sürüyor.",
+      "link": "https://www.gercekgundem.com/guncel/d-100-yan-yolda-can-pazari-iett-otobusu-motor-kismindan-tutustu-578697",
+      "published": "2026-09-15T12:51:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:56:01.196380+00:00"
+    },
+    {
+      "id": "0ece41f4cb478f8f",
+      "source": "OdaTV",
+      "title": "Gazzeli Amro umutları yeşertti... Savaşın ortasında çocukluk",
+      "summary": "Gazze&#039;de savaşın ve yıkımın gölgesinde çocukluğunu sürdürmeye çalışan küçük Amro&#039;nun, kedisiyle kurduğu sevgi dolu bağ görenlerin umutlarını yeşertti.",
+      "link": "https://www.odatv.com/gundem/gazzeli-amro-umutlari-yesertti-savasin-ortasinda-cocukluk-120162791",
+      "published": "2026-09-15T12:51:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:57.276478+00:00"
+    },
+    {
+      "id": "cd2861018236055a",
+      "source": "Yeni Yaşam",
+      "title": "Birçok kentte Sîpan Hiznî eylemler",
+      "summary": "Hesekê Tugayı savaşçısı Sîpan Hiznî’nin kaçırılarak katledilmesi birçok kentte yapılan açıklamalarla protesto edildi Kuzey ve Doğu Suriye&#8217;nin Hesekê Tugayı savaşçısı Sîpan Hiznî&#8217;nin (Seban / Sami Şeyhmus Hasu) kaçırılarak katledilmesine birçok kentte basın açıklaması yapıldı. Riha Riha Emek ve Demokrasi Platformu, Sîpan Hiznî’nin katledilmesi ve Kobanê Cezaevi’nde yaşanan katliamı prot",
+      "link": "https://yeniyasamgazetesi9.com/681199-2/",
+      "published": "2026-09-15T12:51:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:56:01.607872+00:00"
+    },
+    {
+      "id": "dbaaf1ce06e279e2",
+      "source": "Diken",
+      "title": "TRT Spor'a göre Trabzonspor'un yeni hocası Thomas Reis",
+      "summary": "TRT Spor'a göre Trabzonspor'un yeni hocası Thomas Reis 15.09.2026 Diken TRT Spor'a göre Trabzonspor, Alman teknik direktör Thomas Reis ile prensipte anlaştı. The post TRT Spor'a göre Trabzonspor'un yeni hocası Thomas Reis appeared first on #site_linkat 15.09.2026 .",
+      "link": "https://www.diken.com.tr/trt-spora-gore-trabzonsporun-yeni-hocasi-thomas-reis/?utm_source=rss&utm_medium=rss&utm_campaign=trt-spora-gore-trabzonsporun-yeni-hocasi-thomas-reis",
+      "published": "2026-09-15T12:51:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:57.840058+00:00"
+    },
+    {
+      "id": "198e7888e723717b",
+      "source": "Karar",
+      "title": "Jose Mourinho'nun Arda Güler planı",
+      "summary": "Real Madrid Teknik Direktörü , Atletico Madrid derbisi öncesi orta saha planını büyük ölçüde belirledi. Fede Valverde ile Arda Güler’in ilk 11’deki yeri garanti olurken, üçüncü isim için Aurelien Tchouameni ile Bernardo Silva arasında karar verilecek.",
+      "link": "https://www.karar.com/spor-haberleri/jose-mourinhonun-arda-guler-plani-2072114",
+      "published": "2026-09-15T12:51:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:55.505838+00:00"
+    },
+    {
+      "id": "6cd6d96bbe95b4b0",
+      "source": "Karar",
+      "title": "ABD, Kanada'dan ithal edilen bazı mallara yüzde 50 ek vergi uygulamaya başladı",
+      "summary": "ABD, Kanada’dan ithal edilen 110 ürüne yüzde 50 ek vergi uygulamasını başlattı. 15 Eylül gece yarısı yürürlüğe giren uygulama; bazı peynirler, motorlu tekneler, arazi araçları ve mobilyalar dahil çeşitli ürünleri kapsıyor.",
+      "link": "https://www.karar.com/dunya-haberleri/abd-kanadadan-ithal-edilen-bazi-mallara-yuzde-50-ek-vergi-uygulamaya-2072113",
+      "published": "2026-09-15T12:50:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:55.505869+00:00"
+    },
     {
       "id": "fd6b17d063c6d66a",
       "source": "Diken",
@@ -74,6 +360,17 @@
       "fetched_at": "2026-09-15T12:50:48.812472+00:00"
     },
     {
+      "id": "7a7c8595f778ace4",
+      "source": "Cumhuriyet",
+      "title": "AKP'den Erdoğan'ın adaylığına dair yeni açıklama: Dikkat çeken 'Meclis' ayrıntısı",
+      "summary": "AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'ın yeniden aday olmasının önünde hukuki ve anayasal engel bulunmadığını savunan ve Meclis'i işaret eden Abdulhamit Gül, \"Meclis'imizin de alacağı kararla Cumhurbaşkanı'mızın yeniden aday olarak cumhurbaşkanı seçilmesi yönünde milletimizin bu beklentisinin karşılanacağına olan inancımız tamdır\" dedi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/akp-den-erdogan-in-adayligina-dair-yeni-aciklama-dikkat-ceken-meclis-ayrintisi-2537786",
+      "published": "2026-09-15T12:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.657128+00:00"
+    },
+    {
       "id": "19475d7b624b658c",
       "source": "Halk TV",
       "title": "Bahçeli'nin danışmanından çok konuşulacak Öcalan sloganı yazısı",
@@ -105,6 +402,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T12:50:42.238561+00:00"
+    },
+    {
+      "id": "66003d2e1b1d1950",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Rusya'da benzin sıkıntısı yeniden gündemde",
+      "summary": "Rusya’da bir süredir hafifleyen akaryakıt sorunu, enerji altyapısına yönelik Ukrayna'nın devam eden insansız hava aracı (İHA) saldırıları nedeniyle yeniden belirginleşirken, ülkenin bazı bölgelerinde sürücüler benzine erişmekte zorlanıyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/rusyada-benzin-sikintisi-yeniden-gundemde/4057958",
+      "published": "2026-09-15T12:47:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.417031+00:00"
     },
     {
       "id": "2d7800f750e1a273",
@@ -217,6 +525,17 @@
       "fetched_at": "2026-09-15T12:45:42.723027+00:00"
     },
     {
+      "id": "73108fd6f987f6e3",
+      "source": "Kısa Dalga",
+      "title": "Gürcistan’ı yazdı, Türkiye’de “Ailem Güvende” operasyonunda gözaltına alındı",
+      "summary": "Gazeteci Tuğba Tekerek, Gürcistan’daki LGBTİ+ hareketini konu alan bir haberi gerekçe gösterilerek gözaltına alındı ve Ankara’ya götürüldü. “Ailem Güvende” adı verilen operasyon kapsamında soruşturulan Tekerek’in bugün savcılığa ifade vermesi bekleniyor. Böylece başka bir ülkedeki gelişmeleri haberleştiren gazeteci, Türkiye’de yürütülen bir operasyonun şüphelisi oldu.",
+      "link": "https://kisadalga.net/haber/gundem/ailem-guvende-operasyonu-gazeteci-tugba-tekerek-de-gozaltina-alindi-140395",
+      "published": "2026-09-15T12:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:58.741238+00:00"
+    },
+    {
       "id": "bceb9b5cd5deb6c6",
       "source": "Ekonomim",
       "title": "Bakan Fidan: Karadeniz’i çatışmalardan uzak tutmak için çalışıyoruz",
@@ -283,6 +602,17 @@
       "fetched_at": "2026-09-15T12:45:41.504548+00:00"
     },
     {
+      "id": "dd0dabc1d8c7da1c",
+      "source": "Habertürk",
+      "title": "17 yaşındaki genç kızın şüpheli ölümü!",
+      "summary": "Mardin'in Artuklu ilçesinde, 17 yaşındaki Gülizar Albayrak, anne ve babası tarafından evlerinde av tüfeğiyle vurulmuş halde ölü bulundu. Olay yerinde bir av tüfeği ile buna ait boş kartuş bulunduğu belirtildi. Genç kızın ölümüyle ilgili başlatılan soruşturma sürüyor",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-17-yasindaki-gulizar-albayrak-in-supheli-olumu-mardin-haberleri-3912620",
+      "published": "2026-09-15T12:44:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:31.192617+00:00"
+    },
+    {
       "id": "f9d2a264a5c81d5f",
       "source": "Akşam",
       "title": "Hakan'dan Inter'i yıkan haber: Dev maçta yok!",
@@ -338,6 +668,17 @@
       "fetched_at": "2026-09-15T12:45:39.740920+00:00"
     },
     {
+      "id": "49f099fe7652230a",
+      "source": "Habertürk",
+      "title": "Elon Musk'tan \"yapay zekanın insanlığı yok edebileceği\" iddialarına esprili yanıt",
+      "summary": "Tesla ve SpaceX'in Üst Yöneticisi (CEO) Elon Musk, yapay zekanın insanlığın sonunu getirebileceğine ilişkin endişeler konusunda kendisine yöneltilen soruya, \"Sizi hayal kırıklığına uğratmak istemem ama günün birinde zaten hepimiz öleceğiz\" şeklinde esprili yanıt verdi",
+      "link": "https://www.haberturk.com/ekonomi/elon-musk-tan-yapay-zekanin-insanligi-yok-edebilecegi-iddialarina-esprili-yanit-3912645",
+      "published": "2026-09-15T12:43:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:31.192653+00:00"
+    },
+    {
       "id": "630a55e4c6f58bc1",
       "source": "Independent Türkçe",
       "title": "Fidan: Rusya-Ukrayna savaşının Karadeniz'e yayılması, vatandaşlarımızı ve şirketlerimizi tehdit etmesi kabul edilemez",
@@ -380,6 +721,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T12:45:46.930832+00:00"
+    },
+    {
+      "id": "081c967a40076e91",
+      "source": "Habertürk",
+      "title": "Kan donduran olay... Baba ve 2 çocuğu ölü bulundu",
+      "summary": "Muğla'nın Fethiye ilçesinde bir iş yerinde, iş yerinin sahibi olan 37 yaşındaki Ergün Güngör asılı olarak, çocukları olduğu öğrenilen 10 yaşındaki Hatice ve 6 yaşındaki Hüseyin Güngör ise yataklarında hareketsiz halde bulundu. Baba ve 2 çocuğunun ölümüyle ilgili olarak soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-kan-donduran-olay-baba-ve-2-cocugu-olu-bulundu-mugla-haberleri-3912604",
+      "published": "2026-09-15T12:42:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:31.192689+00:00"
     },
     {
       "id": "5fb6e85087b7991a",
@@ -1141,6 +1493,17 @@
       "fetched_at": "2026-09-15T12:30:59.392134+00:00"
     },
     {
+      "id": "3dbff15574f8d70e",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Türk dünyasının geleceği Bakü'de İletişim Başkanlığının panelinde ele alındı",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca, Azerbaycan'ın başkenti Bakü'de düzenlenen \"Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon\" panelinde, Türk dünyasında işbirliğinin geliştirilmesi ve ortak mirasın güçlendirilmesi konuları ele alındı.",
+      "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasinin-gelecegi-bakude-iletisim-baskanliginin-panelinde-ele-alindi/4057941",
+      "published": "2026-09-15T12:28:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.417062+00:00"
+    },
+    {
       "id": "bee66dbdc53e07b8",
       "source": "Yeniçağ",
       "title": "Gaziantep FK'da Kocaelispor mesaisi başladı",
@@ -1667,6 +2030,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T12:20:44.014028+00:00"
+    },
+    {
+      "id": "22c225398761637a",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "AK Parti MYK toplandı",
+      "summary": "AK Parti Merkez Yürütme Kurulu (MYK), Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan'ın başkanlığında toplandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/ak-parti-myk-toplandi/4057925",
+      "published": "2026-09-15T12:17:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T12:55:34.417000+00:00"
     },
     {
       "id": "72ae1fde328d69ba",
@@ -5132,380 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T11:20:42.659019+00:00"
-    },
-    {
-      "id": "9eeef74835b42224",
-      "source": "Türkiye Gazetesi",
-      "title": "Niang'dan Beşiktaş itirafı: Atmosfer volkan gibi",
-      "summary": "Hem Marsilya hem de Beşiktaş formaları giyen ve Fransız ekibinde attığı 100 golle kulüp tarihinin en skorer futbolcuları arasında yer alan Mamadou Niang, siyah-beyazlı taraftarların Dolmabahçe’de büyük baskı oluşturacağını belirtti. 46 yaşındaki eski futbolcu, \"Marsilya oyuncularının etraflarında olup biten her şeyi dışarıda bırakıp oyuna odaklanmaları gerekecek. Türk taraftarlarını çok iyi tanıyo",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/mamadou-niangdan-besiktas-itirafi-stadyumdaki-atmosfer-bir-volkan-gibi-1816152",
-      "published": "2026-09-15T11:19:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:25:36.900682+00:00"
-    },
-    {
-      "id": "210aebb501a928cb",
-      "source": "Euronews Türkçe",
-      "title": "Van Gogh’un 88 tablosu 42 yıl sonra ilk kez Hollanda'da bir arada",
-      "summary": "Hollanda’daki Kröller-Müller Müzesi, Vincent van Gogh’un koleksiyonunda bulunan 88 tablonun tamamını 1984’ten bu yana ilk kez aynı anda sergiliyor.",
-      "link": "https://tr.euronews.com/kultur/2026/09/15/van-goghun-88-tablosu-42-yil-sonra-ilk-kez-hollandada-bir-arada",
-      "published": "2026-09-15T11:19:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:56.254203+00:00"
-    },
-    {
-      "id": "b24dc763208306de",
-      "source": "Halk TV",
-      "title": "Akaryakıtta 3 haneli dönem koşa koşa geliyor, zam dalgası kapıda! Gözler Şimşek'te: Vergiden vazgeçecek mi?",
-      "summary": "Akaryakıt rekor üstüne rekor kırıyor. İlk olarak 2021 yılının sonunda çift haneli fiyatların görüldüğü motorinde 5 yıl sonra üç haneli fiyatlara kapı aralandı. Şimdi gözler Şimşek yönetiminde. Bu yüksek fiyatların üzerine bir de vergi alacak mı?",
-      "link": "https://halktv.com.tr/ekonomi/akaryakitta-3-haneli-donem-kosa-kosa-geliyor-zam-dalgasi-kapida-gozler-simsekte-vergiden-vazgececek-mi-1055185h",
-      "published": "2026-09-15T11:19:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:44.381460+00:00"
-    },
-    {
-      "id": "5e9f0873fb1aa02e",
-      "source": "Karar",
-      "title": "Okullarda yeni dönem başlıyor: Milli Eğitim Bakanı Yusuf Tekin'den öğretmenlere peş peşe yasak sinyali",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, 2026-2027 eğitim öğretim yılının başlamasıyla birlikte katıldığı canlı yayında, okullardaki yeni uygulamalara dair çarpıcı açıklamalarda bulundu. Öğretmenlerin kılık kıyafet yönetmeliğine uyması gerektiğini hatırlatan Bakan Tekin, ders esnasında cep telefonu kullanımını abartan eğitimcilere de kesin bir dille uyarıda bulunduklarını duyurdu.",
-      "link": "https://www.karar.com/guncel-haberler/okullarda-yeni-donem-basliyor-milli-egitim-bakani-yusuf-tekinden-2072074",
-      "published": "2026-09-15T11:19:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:42.385510+00:00"
-    },
-    {
-      "id": "b6daaed52f2e3e6e",
-      "source": "Yeniçağ",
-      "title": "İYİ Parti’den Öcalan’a “satılık villa” videosu: “Kefiller malum”",
-      "summary": "İmralı’da Abdullah Öcalan için yapıldığı belirtilen yapı üzerinden başlayan tartışmaya İYİ Parti de katıldı. Parti, “Satılık Bahçeli Villa” başlığıyla yayımladığı videoda lüks villa görüntülerini şehit evleriyle karşılaştırdı. Videonun finalindeki “Kefiller: Malum” ifadesi dikkat çekti.",
-      "link": "https://www.yenicaggazetesi.com/iyi-partiden-ocalana-satilik-villa-videosu-kefiller-malum-1072091h.htm",
-      "published": "2026-09-15T11:19:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:42.659067+00:00"
-    },
-    {
-      "id": "874357f811e6d5f5",
-      "source": "Bir Gün",
-      "title": "Gazeteci Günday 3 gündür tutuklu: Karara itiraz edildi",
-      "summary": "Eski MİT mensubu Kaşif Kozinoğlu’nun ölümüne ilişkin soruşturmada tutuklanan gazeteci Selahattin Günday’ın avukatları, kararın hukuka ve zamanaşımına aykırı olduğunu belirterek bugün Asliye Ceza Mahkemesi’ne itiraz dilekçesi verdi.",
-      "link": "https://www.birgun.net/haber/gazeteci-gunday-3-gundur-tutuklu-karara-itiraz-edildi-734856",
-      "published": "2026-09-15T11:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:45:46.680763+00:00"
-    },
-    {
-      "id": "1dca65c9cb3c1c3f",
-      "source": "Cumhuriyet",
-      "title": "2026-2027 İBB burs başvuruları ne zaman? İBB burs başvuruları nasıl yapılır, şartları neler?",
-      "summary": "İstanbul Büyükşehir Belediyesi (İBB) tarafından verilecek burs için 2026-2027 dönemi başvuru tarihleri üniversite kayıtlarının başlamasıyla birlikte öğrencilerin gündemindeki yerini aldı. Peki, 2026-2027 İBB burs başvuruları ne zaman? İBB burs başvuruları nasıl yapılır, şartları neler?",
-      "link": "https://www.cumhuriyet.com.tr/egitim/2026-2027-ibb-burs-basvurulari-ne-zaman-ibb-burs-basvurulari-nasil-yapilir-sartlari-neler-2537747",
-      "published": "2026-09-15T11:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:25:34.139671+00:00"
-    },
-    {
-      "id": "0c0cc8bbabebae8a",
-      "source": "Milliyet",
-      "title": "Suriye Cumhurbaşkanı Şara: Yaptırımların kalkmasıyla ülke yeniden doğdu",
-      "summary": "Dubai'de düzenlenen Arap Medya Zirvesi'nde konuşan Şara, 1979'dan bu yana uygulanan kısıtlamalar nedeniyle Suriye'de finans ve bankacılık sistemlerini tanımadan yetişen nesiller olduğunu söyledi. Şara, Cumhurbaşkanı Recep Tayyip Erdoğan ile Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın ABD Başkanı Donald Trump nezdindeki girişimlerinin, Suriye'ye yönelik yaptırımların kaldırılmasını sağlay",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-suriye-cumhurbaskani-sara-yaptirimlarin-kalkmasiyla-ulke-yeniden-dogdu-7660820",
-      "published": "2026-09-15T11:18:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:40.351896+00:00"
-    },
-    {
-      "id": "dd628a9684a63e86",
-      "source": "Milliyet",
-      "title": "Son dakika... İstanbul Fatih'te döviz bürosunda dehşet! Ölü ve yaralar var",
-      "summary": "Olay, Fatih ilçesi Sofçuhan İş Hanı içerisinde bulunan döviz bürosunda meydana geldi. Büroda bir müşteri ile iş yeri sahibi arasında çıkan tartışma silahlı kavgaya dönüştü. Silahla açılan ateş sonucu 2 kişi hayatını kaybederken, 2 kişi de yaralandı. Kavganın alacak meselesi nedeniyle yaşandığı belirtildi. Olayla ilgili 1 kişi gözaltına alındı. Haber Detay Görsel Slider",
-      "link": "https://www.milliyet.com.tr/gundem/son-dakika-istanbul-fatihte-doviz-burosunda-dehset-olu-ve-yaralar-var-7660819",
-      "published": "2026-09-15T11:18:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:40.352293+00:00"
-    },
-    {
-      "id": "9f22a22f6869dfae",
-      "source": "Finans Gündem",
-      "title": "Şara: Suriye üzerindeki prangalar kırıldı",
-      "summary": "Suriye Cumhurbaşkanı Şara, 1979 yılından bu yana süren yaptırımların kalkmasını tarihi bir dönüm noktası olarak niteledi. Erdoğan ve Veliaht Prens Selman'ın Trump nezdindeki girişimlerinin kararda etkili olduğu bildirildi",
-      "link": "https://www.finansingundemi.com/haber/sara-suriye-uzerindeki-prangalar-kirildi/1908379",
-      "published": "2026-09-15T11:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:25:52.973933+00:00"
-    },
-    {
-      "id": "3fc4442b89d6e0db",
-      "source": "Karar",
-      "title": "Osimhen Trabzonspor maçını istiyor",
-      "summary": "Galatasaray’da Victor Osimhen’in tedavi süreci olumlu ilerlerken Nijeryalı golcünün ağrıları belirgin şekilde azaldı. 27 yaşındaki futbolcu, Trabzonspor derbisinde forma giymek istediğini Okan Buruk’a iletti.",
-      "link": "https://www.karar.com/spor-haberleri/osimhen-trabzonspor-macini-istiyor-2072073",
-      "published": "2026-09-15T11:17:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:42.385543+00:00"
-    },
-    {
-      "id": "41c87dc0d11c9858",
-      "source": "Türkiye Gazetesi",
-      "title": "Fatih'te döviz bürosunda silahlı kavga: 3 kişi öldü",
-      "summary": "İstanbul'un Fatih ilçesi Sofçuhan'daki bir döviz bürosunda çıkan silahlı kavgada 3 kişi hayatını kaybederken, 1 kişi yaralandı. 1 şüphelinin yakalandığı olayla ilgili inceleme başlatıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/fatihte-doviz-burosunda-silahli-kavga-olu-ve-yaralilar-var-1816151",
-      "published": "2026-09-15T11:17:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T12:20:40.030670+00:00"
-    },
-    {
-      "id": "c54c9c1a4f9c63de",
-      "source": "Türkiye Gazetesi",
-      "title": "Fatih'te döviz bürosunda kavga: Ölü ve yaralılar var",
-      "summary": "İstanbul Fatih ilçesi Sofçu Han İşhanı içinde bir döviz bürosunda çıkan silahlı kavgada 2 kişi hayatını kaybederken, 2 kişi yaralandı. Bir şüphelinin de yakalandığı öğrenildi. Olayla ilgili inceleme başlatıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/fatihte-doviz-burosunda-silahli-kavga-olu-ve-yaralilar-var-1816151",
-      "published": "2026-09-15T11:17:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:25:36.900714+00:00"
-    },
-    {
-      "id": "9503d21c234e2d16",
-      "source": "Euronews Türkçe",
-      "title": "Gatwick'te robot vale: Uzun süreli otoparkta daha güvenli, kolay park",
-      "summary": "Londra Gatwick Havalimanı, küçük bir ek ücret karşılığında çoğu araç için güvenli ve otomatik uzun süreli park imkânı sunan otopark robotlarını deniyor.",
-      "link": "https://tr.euronews.com/video/2026/09/15/gatwickte-robot-vale-uzun-sureli-otoparkta-daha-guvenli-kolay-park",
-      "published": "2026-09-15T11:17:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:56.254249+00:00"
-    },
-    {
-      "id": "2dab241942f47ac9",
-      "source": "Yeni Şafak",
-      "title": "Erzurum'da rahatsızlanan hamile kadın ambulans helikopterle hastaneye kaldırıldı",
-      "summary": "Erzurum'un Karaçoban ilçesindeki 37 haftalık hamile kadın, ambulans helikopterle hastaneye ulaştırıldı. 37 haftalık gebe 29 yaşındaki C.K, bebeğinin hareketlerini hissetmeyince Karaçoban Devlet Hastanesine başvurdu. Burada ilk müdahalenin ardından C.K'nin acil tetkik için ambulans helikopterle Erzurum'a sevkine karar verildi. Bunun üzerine hamile kadın, Erzurum'dan yönlendirilen ambulans helikopte",
-      "link": "https://www.yenisafak.com/video/gundem/erzurumda-rahatsizlanan-hamile-kadin-ambulans-helikopterle-hastaneye-kaldirildi-4856098",
-      "published": "2026-09-15T11:17:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:41.674654+00:00"
-    },
-    {
-      "id": "020e465188076e99",
-      "source": "Yeni Akit",
-      "title": "Ahlaksızlara gözaltı: Adliye önünde sapkın LGBT azgınlığı",
-      "summary": "\"Ailem Güvende\" operasyonundan rahatsız olan bazı sapkın severler adliye önünde taşkınlık çıkardı. Yaşanan olayların ardından LGBT yanlıları gözaltına alındı.",
-      "link": "https://www.yeniakit.com.tr/haber/ahlaksizlara-gozalti-adliye-onunde-sapkin-lgbt-azginligi-2022882.html",
-      "published": "2026-09-15T11:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:42.159194+00:00"
-    },
-    {
-      "id": "6ccef9e542762e24",
-      "source": "Yeniçağ",
-      "title": "Süper Lig’de derbilerin tarihleri belli oldu: Fenerbahçe-Galatasaray ne zaman oynanacak?",
-      "summary": "Trendyol Süper Lig’de yedinci ile on altıncı hafta programı belli oldu.",
-      "link": "https://www.yenicaggazetesi.com/super-ligde-derbilerin-tarihleri-belli-oldu-fenerbahce-galatasaray-ne-zaman-oynanacak-1072090h.htm",
-      "published": "2026-09-15T11:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:42.659098+00:00"
-    },
-    {
-      "id": "739e87851b052ece",
-      "source": "Ekonomim",
-      "title": "Milli Eğitim Bakanı Yusuf Tekin yanıtladı: 12 yıllık zorunlu eğitim kısaltılacak mı?",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, eğitim gündemine ilişkin soruları yanıtladı. Bakanlığın yeni dönem planlamalarını ve önceliklerini açıklayan Tekin, 12 yıllık zorunlu eğitimin kısaltılmasına ilişkin kısa vadede bir planları olmadığını ancak toplumsal uzlaşı olması durumunda adım atılabileceğini söyledi.",
-      "link": "https://www.ekonomim.com/egitim/milli-egitim-bakani-yusuf-tekin-yanitladi-12-yillik-zorunlu-egitim-kisaltilacak-mi-haberi-918346",
-      "published": "2026-09-15T11:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:49.798032+00:00"
-    },
-    {
-      "id": "4935b9c69fb30e0b",
-      "source": "Independent Türkçe",
-      "title": "Ay'daki su, büyük şehirler kurmak için yeterli değil",
-      "summary": "Bilim insanları Ay 'da uzun süreli büyük şehirler kurmak için yeterli su olmayabileceğini açıkladı. Ay'da yaşamanın nasıl bir deneyim olacağı uzun zamandır insanların düşündüğü bir senaryo. Bilimkurgu eserlerinde uyduda kurulan büyük kentler ve etrafındaki uzay araçları sıkça tasvir ediliyor. SpaceX'in CEO'su Elon Musk , şirketinin \"Ay'da kendi kendine büyüyen bir şehir kurmaya odaklandığını\" şuba",
-      "link": "https://www.indyturk.com/node/782504/bi%CC%87li%CC%87m/aydaki-su-b%C3%BCy%C3%BCk-%C5%9Fehirler-kurmak-i%C3%A7in-yeterli-de%C4%9Fil",
-      "published": "2026-09-15T11:16:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T12:31:01.735057+00:00"
-    },
-    {
-      "id": "0a200b5a98b36702",
-      "source": "Aydınlık",
-      "title": "VDK raporu ortaya çıkardı: Sahte makbuzlarla maliyetler şişirildi",
-      "summary": "Hazine ve Maliye Bakanlığı, yaş sebze ve meyve piyasasında sahte belgelerle fiyat artıran 41 riskli mükellefin usulsüzlüğünü belgeledi.",
-      "link": "https://www.aydinlik.com.tr/haber/vdk-raporu-ortaya-cikardi-sahte-makbuzlarla-maliyetler-sisirildi-590236",
-      "published": "2026-09-15T11:16:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:43.488406+00:00"
-    },
-    {
-      "id": "b7f3e2e20f322685",
-      "source": "Habertürk",
-      "title": "Döviz bürosunda kavga: 2 ölü, 2 yaralı",
-      "summary": "İstanbul Fatih’te bulunan bir döviz bürosunda müşteri ile iş yeri sahibi arasında silahlı kavga çıktı. Kavgada, 2 kişi hayatını kaybederken, 2 kişi de yaralandı. 1 şüpheli gözaltına alındı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-doviz-burosunda-kavga-2-olu-2-yarali-istanbul-haberleri-3912626",
-      "published": "2026-09-15T11:16:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:25:31.288695+00:00"
-    },
-    {
-      "id": "3b6823380237ae21",
-      "source": "Aydınlık",
-      "title": "Süper Lig'de derbi tarihleri belli oldu",
-      "summary": "TFF, Trendyol Süper Lig&#039;de 7-16. hafta maç programını açıkladı. Galatasaray ile Fenerbahçe arasındaki derbi, İstanbul&#039;daki güvenlik tedbirleri nedeniyle 26 Ekim Pazartesi günü oynanacak.",
-      "link": "https://www.aydinlik.com.tr/haber/super-ligde-derbi-tarihleri-belli-oldu-590235",
-      "published": "2026-09-15T11:16:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:43.488447+00:00"
-    },
-    {
-      "id": "3596c299ec86dea8",
-      "source": "Finans Gündem",
-      "title": "LVMH zirveden düştü! Avrupa'nın en değerli 10 şirketi değişti",
-      "summary": "Lüks tüketimdeki küresel yavaşlama LVMH'yi de vurdu. Louis Vuitton ve Dior gibi markaları bünyesinde bulunduran grup, piyasa değerindeki düşüşle Avrupa'nın en değerli 10 şirketi arasından çıktı.",
-      "link": "https://www.finansingundemi.com/haber/lvmh-zirveden-dustu-avrupanin-en-degerli-10-sirketi-degisti/1908378",
-      "published": "2026-09-15T11:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:25:52.973962+00:00"
-    },
-    {
-      "id": "52bc19ddda59a6a8",
-      "source": "Cumhuriyet",
-      "title": "FBI Direktörü Kash Patel Senato’da sorgulanacak: Kamu uçağı, Epstein ve 2020 seçimi",
-      "summary": "FBI Direktörü Kash Patel, kurum yönetiminden kişisel seyahatlerinde kamu kaynaklarını kullandığı iddialarına, 2020 başkanlık seçimine ilişkin soruşturmalardan Jeffrey Epstein dosyasının ele alınışına kadar birçok tartışmalı başlık nedeniyle ABD Senatosu Yargı Komitesi’nin karşısına çıkacak.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/fbi-direktoru-kash-patel-senato-da-sorgulanacak-kamu-ucagi-epstein-ve-2020-secimi-2537746",
-      "published": "2026-09-15T11:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:37.299012+00:00"
-    },
-    {
-      "id": "5261994aa8d12c03",
-      "source": "Akşam",
-      "title": "Trabzonspor'da Thomas Reis dönemi! İşte geliş tarihi...",
-      "summary": "Teknik direktör arayışlarını sürdüren Trabzonspor, Thomas Reis ile anlaşma vardı. Tecrübeli çalıştırıcının, bugün Trabzon'da olması bekleniyor.",
-      "link": "https://www.aksam.com.tr/spor/trabzonsporda-thomas-reis-donemi-iste-gelis-tarihi/haber-1698540",
-      "published": "2026-09-15T11:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:41.100883+00:00"
-    },
-    {
-      "id": "120d9d71cacc189b",
-      "source": "Gerçek Gündem",
-      "title": "Operasyonlar Doğru Ancak Devamı Şart",
-      "summary": "Bugün güne, gıda piyasasına yönelik 22 ilde eş zamanlı düzenlenen büyük bir polisiye ve mali operasyon haberiyle uyandık. Tarladan markete uzanan yaş sebze ve meyve zincirinde fiyatları manipüle ettiği, sahte müstahsil makbuzlarıyla yapay maliyetler oluşturduğu ileri sürülen 41 büyük tedarikçi firmanın yöneticisi hakkında gözaltı kararı verildi.",
-      "link": "https://www.gercekgundem.com/yazarlar/hatice-turhan/operasyonlar-dogru-ancak-devami-sart-578690",
-      "published": "2026-09-15T11:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:48.254481+00:00"
-    },
-    {
-      "id": "e389b50ce42ed5be",
-      "source": "Gazete Pencere",
-      "title": "27 zengin Türk'ün bilgileri çalındı!",
-      "summary": "Avrupa'nın en büyük fintech şirketlerinden Revolut, gerçek bir devlet kurumunun e-posta alan adını kullanan sahte bilgi taleplerini gerçek sanarak müşterilerine ait son derece hassas verileri saldırganlara gönderdi. Aralarında 27 Türk isim de var.",
-      "link": "https://www.gazetepencere.com/gundem/27-zengin-turkun-bilgileri-calindi-715568h",
-      "published": "2026-09-15T11:15:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:43.842822+00:00"
-    },
-    {
-      "id": "62058b1a84fd697c",
-      "source": "Ekonomim",
-      "title": "Galatasaray-Fenerbahçe derbisinin tarihi belli oldu",
-      "summary": "Süper Lig’in 9. haftasında oynanacak Galatasaray-Fenerbahçe derbisinin tarihi ve başlama saati belli oldu. Dev mücadele, 26 Ekim Pazartesi günü saat 21.30’da oynanacak.",
-      "link": "https://www.ekonomim.com/spor/galatasaray-fenerbahce-derbisinin-tarihi-belli-oldu-haberi-918345",
-      "published": "2026-09-15T11:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:20:49.798074+00:00"
-    },
-    {
-      "id": "d6bd1a4a8a723073",
-      "source": "Cumhuriyet",
-      "title": "Pera Müzesi’nde ücretsiz tematik turlar",
-      "summary": "Pera Müzesi, eylül ayında “Sıradışı Minas” ve “Ağırlık ve Ölçü Sanatı” sergilerini iki farklı tematik turla ele alıyor. kahvenin Kütahya çini sanatına etkisinden antik dünyanın mitolojik sembollerine uzanan hikâyeler izleyiciyle buluşacak.",
-      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/pera-muzesi-nde-ucretsiz-tematik-turlar-2537745",
-      "published": "2026-09-15T11:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:15:45.221662+00:00"
-    },
-    {
-      "id": "cfd3824024524f7c",
-      "source": "Halk TV",
-      "title": "Son Dakika | Süper Lig'de 4 derbinin tarihi açıklandı",
-      "summary": "TFF, Süper Lig&#039;de oynanacak 4 derbinin tarihini de duyurdu.",
-      "link": "https://halktv.com.tr/spor/son-dakika-super-ligde-4-derbinin-tarihi-aciklandi-1055184h",
-      "published": "2026-09-15T11:14:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:15:56.287508+00:00"
-    },
-    {
-      "id": "b01d373ef003cccb",
-      "source": "Milliyet",
-      "title": "Hatice Temel davasında karar çıktı! Darp ve cinsel saldırı sonrası ölüme ağırlaştırılmış müebbet",
-      "summary": "Olay, 10 Kasım 2023’te Avdan Mahallesi’nde meydana geldi. Hatice Temel, ameliyat geçiren okul arkadaşını ziyaret etmek amacıyla Şükrü Ece'nin evine gitti. Burada Şükrü Ece'nin cinsel saldırısına uğrayıp darbedildi ve evin girişindeki holde yaşamını yitirdi. Dosyaya giren Adli Tıp Kurumu raporunda, Temel’in vücudundaki yaralanmaların tek başına öldürücü nitelikte olmadığı, ancak darp ve cinsel sald",
-      "link": "https://www.milliyet.com.tr/gundem/hatice-temel-davasinda-karar-cikti-darp-ve-cinsel-saldiri-sonrasi-olume-agirlastirilmis-muebbet-7660817",
-      "published": "2026-09-15T11:14:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:15:50.101251+00:00"
-    },
-    {
-      "id": "5c49743f428ca1d6",
-      "source": "Sabah",
-      "title": "SON DAKİKA | Fatih’te döviz bürosunda silahlı kavga: 3 ölü, 2 yaralı",
-      "summary": "İstanbul Fatih’te Sofçuhan İş Hanı içerisinde bulunan döviz bürosunda silahlı kavga çıktı. Henüz bilinmeyen bir nedenle çıkan olayda ilk belirlemelere göre 3 kişi hayatını kaybetti, 1 kişi yaralandı. Olayın... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/son-dakika-fatihte-doviz-burosunda-silahli-kavga-2-olu-2-yarali-7661081",
-      "published": "2026-09-15T11:14:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T12:35:37.934545+00:00"
-    },
-    {
-      "id": "5876b71afd1a1546",
-      "source": "Sabah",
-      "title": "SON DAKİKA | Fatih’te döviz bürosunda silahlı kavga: 2 ölü, 2 yaralı",
-      "summary": "İstanbul Fatih’te Sofçuhan İş Hanı içerisinde bulunan döviz bürosunda silahlı kavga çıktı. Henüz bilinmeyen bir nedenle çıkan olayda ilk belirlemelere göre 2 kişi hayatını kaybetti, 2 kişi yaralandı. Olayın... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/son-dakika-fatihte-doviz-burosunda-silahli-kavga-2-olu-2-yarali-7661081",
-      "published": "2026-09-15T11:14:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:55:33.175768+00:00"
-    },
-    {
-      "id": "5aaf26bae08bfd82",
-      "source": "Independent Türkçe",
-      "title": "Ahmed Şara: Yaptırımların kaldırılmasıyla Suriye yeniden doğdu",
-      "summary": "Suriye Cumhurbaşkanı Ahmed Şara, uluslararası yaptırımların kaldırılmasının ülke için tarihi bir dönüm noktası olduğunu ve Suriye'nin adeta yeniden doğduğunu belirtti. Dubai'de düzenlenen Arap Medya Zirvesi'nde konuşan Şara, 1979'dan bu yana uygulanan kısıtlamalar nedeniyle Suriye'de finans ve bankacılık sistemlerini tanımadan yetişen nesiller olduğunu söyledi. Şara, Cumhurbaşkanı Recep Tayyip Erd",
-      "link": "https://www.indyturk.com/node/782503/d%C3%BCnya/ahmed-%C5%9Fara-yapt%C4%B1r%C4%B1mlar%C4%B1n-kald%C4%B1r%C4%B1lmas%C4%B1yla-suriye-yeniden-do%C4%9Fdu",
-      "published": "2026-09-15T11:14:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T11:25:48.009800+00:00"
     }
   ]
 }

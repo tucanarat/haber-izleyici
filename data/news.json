@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-15T01:05:56.815385+00:00",
+  "last_updated": "2026-09-15T01:10:58.234305+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 563,
+  "new_items_this_run": 550,
   "items": [
+    {
+      "id": "435efaa7ab3b9255",
+      "source": "Türkiye Gazetesi",
+      "title": "İstifa seçeneği masada! Yavaş için kritik tarih eylül sonu",
+      "summary": "CHP ile Yeni Parti arasında tercihte bulunmayarak denge siyaseti izleyen Ankara Büyükşehir Belediye Başkanı Mansur Yavaş için kritik süreç başladı. CHP yönetiminin “aidiyet” ısrarını sürdürdüğü Yavaş’ın, eylül sonunda yapılacak belediye başkanları toplantısı öncesinde karar vermesi bekleniyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/istifa-secenegi-masada-yavas-icin-kritik-tarih-eylul-sonu-1816035",
+      "published": "2026-09-15T01:06:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-15T01:10:39.461349+00:00"
+    },
     {
       "id": "90fc97a44714aa17",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-14T19:55:45.875851+00:00"
-    },
-    {
-      "id": "1874c2a68452ba36",
-      "source": "Cumhuriyet",
-      "title": "İsmail Kartal'dan maç sonu tepkisi! Penaltı ve hakem isyanı...",
-      "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, 0-0 berabere kaldıkları Gaziantep FK maçının ardından görüşlerini aktardı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/ismail-kartal-dan-mac-sonu-tepkisi-gaziantep-sehrine-yakismiyor-2537575",
-      "published": "2026-09-14T19:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-14T20:20:48.789890+00:00"
     }
   ]
 }

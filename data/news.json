@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T03:25:47.523707+00:00",
+  "last_updated": "2026-09-16T03:31:12.451146+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,39 @@
   "total_items": 500,
   "new_items_this_run": 542,
   "items": [
+    {
+      "id": "42ef7f64a09a1370",
+      "source": "Halk TV",
+      "title": "Messi veda ediyor: Resmen açıklandı",
+      "summary": "Arjantinli efsane futbolcu Lionel Messi veda etiyor. Resmi açıklama yapıldı.",
+      "link": "https://halktv.com.tr/spor/messi-veda-ediyor-resmen-aciklandi-1055316h",
+      "published": "2026-09-16T03:30:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T03:30:58.077166+00:00"
+    },
+    {
+      "id": "3ed4860dec59b990",
+      "source": "Habertürk",
+      "title": "Keşm Adası açıklarında patlama sesleri",
+      "summary": "İran'ın güneyindeki Hürmüz Boğazı'ndaki Keşm Adası açıklarından patlama seslerinin duyulduğu bildirildi",
+      "link": "https://www.haberturk.com/iran-in-kesm-adasi-aciklarinda-patlama-sesleri-3912739",
+      "published": "2026-09-16T03:29:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T03:30:43.772011+00:00"
+    },
+    {
+      "id": "3ec613637ee7a269",
+      "source": "Habertürk",
+      "title": "Silivri'den kahreden haber geldi! Kaptan bulundu",
+      "summary": "İstanbul'da dün, Silivri açıklarında bulunan cansız bedenin, 'Tuğberk İmamoğlu' gemisinin 1. Kaptanı Yaşar Kayhan'a ait olduğu tespit edildi. Kayhan'ın cansız bedeni, kazanın yaşandığı olay yerine 5 kilometre uzaklıkta bulundu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-silivri-den-kahreden-haber-geldi-kaptan-bulundu-3912571",
+      "published": "2026-09-16T03:22:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T03:30:43.772040+00:00"
+    },
     {
       "id": "806d57540cb5722a",
       "source": "ShiftDelete.Net",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T20:25:35.451736+00:00"
-    },
-    {
-      "id": "f03f387b573d96a4",
-      "source": "Finans Gündem",
-      "title": "Kripto piyasası için kritik gelişme: Yasa tasarısı reddedildi",
-      "summary": "Kripto para yatırımcılarının gözü ABD Senatosu'nda yapılacak, kripto piyasasının yasal çerçevesini belirlemesi beklenen \"Clarity Act\" yasa tasarısına çevrilmişti. Oylamada, tasarı yeterli desteği bulamadı ve reddedildi",
-      "link": "https://www.finansingundemi.com/haber/kripto-piyasasi-icin-kritik-gelisme-yasa-tasarisi-reddedildi/1908422",
-      "published": "2026-09-15T20:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T20:41:03.354178+00:00"
-    },
-    {
-      "id": "70d32bc2735cbfd9",
-      "source": "Cumhuriyet",
-      "title": "Korkunç olay... Demir sopayla saldırdığı amcasını öldürdü, yengesini ağır yaraladı",
-      "summary": "Mersin'in Tarsus ilçesinde Burak Ş., kavga sırasında demir sopayla saldırdığı amcası Sait Şahbaz'ı (68) öldürdü, yengesi Nihal Şahbaz'ı ise ağır yaraladı. Cinayet şüphelisini gözaltına alan jandarma, olayla ilgili soruşturmaya devam ediyor.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/korkunc-olay-demir-sopayla-saldirdigi-amcasini-oldurdu-yengesini-agir-yaraladi-2537909",
-      "published": "2026-09-15T20:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T20:30:52.182429+00:00"
-    },
-    {
-      "id": "bc5fe9a3fa310584",
-      "source": "Star",
-      "title": "Husiler: Suudi Arabistan tarafından 52 hava saldırısı düzenlendi",
-      "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın son 24 saatte Yemen topraklarına 52 hava saldırısı düzenlediğini bildirdi.",
-      "link": "https://www.star.com.tr/dunya/husiler-suudi-arabistan-tarafindan-52-hava-saldirisi-duzenlendi-haber-2040417/",
-      "published": "2026-09-15T20:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T20:25:35.697107+00:00"
     }
   ]
 }

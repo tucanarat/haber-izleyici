@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-16T01:15:53.897914+00:00",
+  "last_updated": "2026-09-16T01:20:53.972508+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 547,
+  "new_items_this_run": 548,
   "items": [
+    {
+      "id": "bac4c35379152b2e",
+      "source": "Türkiye Gazetesi",
+      "title": "YILLAR SONRA OLAY İDDİA",
+      "summary": "Kurtlar Vadisi dizisinin senaristlerinin Kaşif Kozinoğlu soruşturması kapsamında ifade vermesi sonrası dizide \"Nevzat\" karakterini canlandıran Nevzat Yakışırboy, sosyal medya hesabından yaptığı paylaşımda yönetmen Osman Sınav'ın FETÖ tarafından tehdit edildiğini iddia etti.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/kurtlar-vadisinin-nevzatinin-osman-sinav-paylasimi-gundem-oldu-1816293",
+      "published": "2026-09-16T01:12:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T01:20:36.416802+00:00"
+    },
     {
       "id": "376f677ba914f324",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T19:55:32.667461+00:00"
-    },
-    {
-      "id": "8dc258aa245b432f",
-      "source": "Star",
-      "title": "Havada korku dolu anlar: Tavan çöktü yolcular büyük panik yaşadı",
-      "summary": "İran'da kalkıştan kısa süre sonra motor arızası veren yolcu uçağının kabin bölümünde tavan çöktü.",
-      "link": "https://www.star.com.tr/dunya/havada-korku-dolu-anlar-tavan-coktu-yolcular-buyuk-panik-yasadi-haber-2040413/",
-      "published": "2026-09-15T19:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T19:55:32.070891+00:00"
     }
   ]
 }

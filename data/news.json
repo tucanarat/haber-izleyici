@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T00:41:09.644486+00:00",
+  "last_updated": "2026-09-16T00:46:00.449233+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 543,
   "items": [
+    {
+      "id": "05bb0d35a1d08533",
+      "source": "Türkiye Gazetesi",
+      "title": "Vakıfbank ve Sıfır Atık Vakfından stratejik adım!",
+      "summary": "VakıfBank, Sıfır Atık Vakfı iş birliğiyle döngüsel ekonomi yatırımlarına finansman sağlayacak. İlk fazda 500’ün üzerinde kurum ve projeye ulaşılması hedeflenirken, toplam 10 milyar TL finansman oluşturulacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/vakifbank-ve-sifir-atik-vakfindan-stratejik-adim-yesil-donusume-10-milyar-tl-destek-1816291",
+      "published": "2026-09-16T00:39:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T00:45:36.579305+00:00"
+    },
     {
       "id": "71e01e8e89d5d54a",
       "source": "OdaTV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T19:30:57.730990+00:00"
-    },
-    {
-      "id": "bd4d848b0a6e63db",
-      "source": "Akşam",
-      "title": "Bak enflasyon şimdi düşer işte",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/bak-enflasyon-simdi-duser-iste/haber-1698646",
-      "published": "2026-09-15T19:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T21:01:03.631635+00:00"
     }
   ]
 }

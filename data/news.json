@@ -1,12 +1,265 @@
 {
-  "last_updated": "2026-09-16T09:31:11.345280+00:00",
+  "last_updated": "2026-09-16T09:35:54.435645+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 572,
+  "new_items_this_run": 567,
   "items": [
+    {
+      "id": "1afc6499bb526ece",
+      "source": "Halk TV",
+      "title": "Yapay zekâ konuşmayı ihbar etti! 8 yaşındaki oğlunu öldürmeyi planlayan baba son anda yakalandı",
+      "summary": "Brezilya’da 36 yaşındaki bir çiftçinin ChatGPT’ye 8 yaşındaki oğlunu öldürme ve başka saldırılar düzenleme planlarını anlatması üzerine yapay zekâ alarm verdi. Bildirim sonrası FBI ve Brezilya makamları harekete geçti.",
+      "link": "https://halktv.com.tr/dunya/yapay-zeka-konusmayi-ihbar-etti-8-yasindaki-oglunu-oldurmeyi-planlayan-baba-son-anda-yakalandi-1055384h",
+      "published": "2026-09-16T09:35:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:41.534478+00:00"
+    },
+    {
+      "id": "69219b8a324dba4a",
+      "source": "CNBC-e",
+      "title": "Formula 1 Türkiye’ye dönüyor! İstanbul Grand Prix’sinin tarihi belli oldu",
+      "summary": "Formula 1, 2027 sezonunda İstanbul Park’a geri dönüyor. 24 yarışlık takvimde yer alan Türkiye Grand Prix’si 1-3 Ekim 2027’de düzenlenecek. Türkiye, 2027’den itibaren beş yıllık anlaşmayla Formula 1 takviminde yer alacak.",
+      "link": "https://www.cnbce.com/spor-ekonomisi/formula-1-turkiyeye-donuyor-istanbul-grand-prixsinin-tarihi-belli-oldu-h37350",
+      "published": "2026-09-16T09:35:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:47.788206+00:00"
+    },
+    {
+      "id": "6b7e0ff5157f84bc",
+      "source": "Akşam",
+      "title": "\"ALSU\" Silivri açıklarında bekletiliyor... Marmara'da kazaya karışmıştı",
+      "summary": "Marmara Denizi açıklarında kazaya karışan ALSU isimli ticari gemi, Silivri açıklarında bekletilmeye devam ediyor.",
+      "link": "https://www.aksam.com.tr/guncel/alsu-silivri-aciklarinda-bekletiliyor-marmarada-kazaya-karismisti/haber-1698788",
+      "published": "2026-09-16T09:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:37.735333+00:00"
+    },
+    {
+      "id": "c5af7d75eab3e312",
+      "source": "Yeni Akit",
+      "title": "Kurtlar Vadisi Pusu dizisi hakkında FETÖ incelemesi başlatıldı",
+      "summary": "İstanbul Silivri Cumhuriyet Başsavcılığı, MİT mensubu Kaşif Kozinoğlu’nun cezaevindeki şüpheli ölümüne ilişkin yürütülen soruşturma kapsamında dikkat çeken bir adım attı. Başsavcılık, ekranların uzun soluklu yapımlarından \"Kurtlar Vadisi Pusu\" dizisi hakkında örgütsel propaganda iddiaları üzerine inceleme başlatılmasına karar verdi.",
+      "link": "https://www.yeniakit.com.tr/haber/kurtlar-vadisi-pusu-dizisi-hakkinda-feto-incelemesi-baslatildi-2023100.html",
+      "published": "2026-09-16T09:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:38.949389+00:00"
+    },
+    {
+      "id": "9fad068ca115e87e",
+      "source": "Milliyet",
+      "title": "Döviz bürosunda 2 kişi öldü! 4 şüpheli pencereden atlayarak kaçtı",
+      "summary": "Olay, dün saat 13.00 sıralarında Molla Fenari Mahallesi Sofçular Han içerisinde bulunan bir döviz bürosunda meydana geldi. İddiaya göre, büronun sahibiyle müşteri arasında alacak meselesinden tartışma çıktı. Tartışma çevredekilerinde dahil olmasıyla kısa sürede büyüyerek silahlı kavgaya dönüştü. İhbarı üzerine olay yerine polis ve sağlık ekipleri geldi. Sağlık ekiplerinin kontrollerinde saldırıda ",
+      "link": "https://www.milliyet.com.tr/gundem/doviz-burosunda-2-kisi-oldu-4-supheli-pencereden-atlayarak-kacti-7661436",
+      "published": "2026-09-16T09:34:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:36.968928+00:00"
+    },
+    {
+      "id": "73c5ac757dd2522d",
+      "source": "Halk TV",
+      "title": "Son Dakika | Kurtlar Vadisi Pusu hakkında FETÖ incelemesi",
+      "summary": "Son dakika haberi... &quot;Kurtlar Vadisi Pusu&quot; dizisi hakkında örgütsel propaganda iddiaları üzerine inceleme başlatıldı.",
+      "link": "https://halktv.com.tr/turkiye/son-dakika-kurtlar-vadisi-pusu-hakkinda-feto-incelemesi-kasif-kozinoglu-sahneleri-gundem-olmustu-1055383h",
+      "published": "2026-09-16T09:33:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:41.534514+00:00"
+    },
+    {
+      "id": "85e01058da821a7e",
+      "source": "Gazete Pencere",
+      "title": "Yapay zekada güvenlik tartışması | OpenAI CEO'su: Dünya korkmakta haklı",
+      "summary": "Anthropic CEO’su Dario Amodei’nin yapay zekanın geliştirilme hızının düşürülmesi çağrısının ardından yapay zekanın kontrol edilemez hale gelebileceğine ilişkin tartışma büyüyor. OpenAI CEO’su Sam Altman \"Dünya korkmakta haklı\" dedi.",
+      "link": "https://www.gazetepencere.com/bilim-teknoloji/yapay-zekada-guvenlik-tartismasi-openai-ceosu-dunya-korkmakta-hakli-715687h",
+      "published": "2026-09-16T09:33:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:40.965070+00:00"
+    },
+    {
+      "id": "4c145b2a9c29e6e5",
+      "source": "Akşam",
+      "title": "Roger Waters'dan Ed Sheeran'a sert ayar!",
+      "summary": "Konserinde Özgür Filistin sloganı attığı için İngiliz müzisyen Ed Sheeran'ın turnesinden çıkarılan Macklemore'a destekler büyüyor. Sheeran'ın ekibindeki İrlandalı grup da turneden çekildi. Ünlü rock yıldızı Roger Waters da sosyal medyada çektiği video ile Sheeran'a sert tepki gösterdi.",
+      "link": "https://www.aksam.com.tr/kultur-sanat/roger-watersdan-ed-sheerana-sert-ayar/haber-1698787",
+      "published": "2026-09-16T09:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:37.735377+00:00"
+    },
+    {
+      "id": "515784a86b3af37d",
+      "source": "Gazete Pencere",
+      "title": "Avrupa’nın en büyük şirketleri açıklandı: Türkiye’den 11 şirket listeye girdi",
+      "summary": "Avrupa’nın en büyük 500 şirketinin yer aldığı Fortune 500 Europe 2026 listesi açıklandı. Volkswagen listenin zirvesinde yer alırken Türkiye'den 11 şirket de listeye girmeyi başardı.",
+      "link": "https://www.gazetepencere.com/ekonomi/avrupanin-en-buyuk-sirketleri-aciklandi-turkiyeden-11-sirket-listeye-girdi-715688h",
+      "published": "2026-09-16T09:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:40.965108+00:00"
+    },
+    {
+      "id": "fd0a7fcb17e96322",
+      "source": "Gerçek Gündem",
+      "title": "Kurtlar Vadisi Pusu'ya FETÖ İncelemesi: 'Kazım Kaşifoğlu' Karakteri ve 'FG' Plakalı Araçlar Dosyada",
+      "summary": "Silivri Cumhuriyet Başsavcılığı, MİT mensubu Kaşif Kozinoğlu’nun cezaevindeki şüpheli ölümüne ilişkin yürütülen soruşturma kapsamında flaş bir adım atarak &#039;Kurtlar Vadisi Pusu&#039; dizisi hakkında inceleme başlattı. Dizide Kozinoğlu&#039;nu çağrıştıran karakterin hain ilan edilip öldürülmesi ve sahnelerdeki &#039;FG&#039; plakalı araçlar nedeniyle &quot;FETÖ adına algı çalışması ve örgütsel ",
+      "link": "https://www.gercekgundem.com/guncel/kurtlar-vadisi-pusuya-feto-incelemesi-kazim-kasifoglu-karakteri-ve-fg-plakali-araclar-dosyada-578748",
+      "published": "2026-09-16T09:32:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:45.390539+00:00"
+    },
+    {
+      "id": "a7f62c2d9f29724e",
+      "source": "Diken",
+      "title": "AB, Kanada'ya 'ilk ortak üye' olmayı teklif etti",
+      "summary": "AB, Kanada'ya 'ilk ortak üye' olmayı teklif etti 16.09.2026 Diken Avrupa Birliği (AB), Kanada'ya birliğin ilk 'ortak üye'si olmayı teklif etti. The post AB, Kanada'ya 'ilk ortak üye' olmayı teklif etti appeared first on #site_linkat 16.09.2026 .",
+      "link": "https://www.diken.com.tr/ab-kanadaya-ilk-ortak-uye-olmayi-teklif-etti/?utm_source=rss&utm_medium=rss&utm_campaign=ab-kanadaya-ilk-ortak-uye-olmayi-teklif-etti",
+      "published": "2026-09-16T09:32:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:41.708537+00:00"
+    },
+    {
+      "id": "8b630771af172d09",
+      "source": "Sözcü",
+      "title": "Kurtlar Vadisi Pusu'ya FETÖ incelemesi başlatıldı",
+      "summary": "Kurtlar Vadisi Pusu'ya FETÖ incelemesi başlatıldı",
+      "link": "https://www.sozcu.com.tr/kurtlar-vadisi-pusu-dizi-hakkinda-feto-incelemesi-baslatildi-p358771",
+      "published": "2026-09-16T09:32:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:35.294827+00:00"
+    },
+    {
+      "id": "8210d180f57163c3",
+      "source": "Karar",
+      "title": "İmamoğlu’ndan YENİ Parti’ye üyelik çağrısı: 86 milyonun her ferdi bu yolculuğa davetli",
+      "summary": "Silivri’de tutuklu bulunan İBB Başkanı Ekrem İmamoğlu, Cumhurbaşkanlığı Aday Ofisi hesabından yayımlanan yapay zekâ ile oluşturulmuş videoda vatandaşlara YENİ Parti’ye üye olma çağrısı yaptı. İmamoğlu, “86 milyonun her ferdi bu yolculuğa davetlidir” dedi.",
+      "link": "https://www.karar.com/guncel-haberler/imamoglundan-yeni-partiye-uyelik-cagrisi-86-milyonun-her-ferdi-bu-2072286",
+      "published": "2026-09-16T09:32:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:39.229480+00:00"
+    },
+    {
+      "id": "b9564d5f97d9ad9d",
+      "source": "OdaTV",
+      "title": "Formula 1'in 2027 takvimi belli oldu: Türkiye'ye geri dönüyor",
+      "summary": "Formula 1&#039;in 2027 sezonu takvimi belli oldu. 24 yarıştan oluşan yeni takvimde Türkiye Grand Prix&#039;si de yer aldı. İstanbul Park, uzun bir aranın ardından 1-3 Ekim tarihlerinde Formula 1 yarışlarına ev sahipliği yapacak.",
+      "link": "https://www.odatv.com/spor/formula-1in-2027-takvimi-belli-oldu-turkiyeye-geri-donuyor-120162902",
+      "published": "2026-09-16T09:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:41.229106+00:00"
+    },
+    {
+      "id": "d7375182ec20a413",
+      "source": "Türkiye Gazetesi",
+      "title": "Fidan’dan Azerbaycan mesajı: İş birliğimizi derinleştireceğiz",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Azerbaycan ziyaretinde Cumhurbaşkanı İlham Aliyev tarafından kabul edildiğini ve Dışişleri Bakanı Ceyhun Bayramov ile kapsamlı görüşmeler gerçekleştirdiğini açıkladı. Görüşmelerde Güney Kafkasya’da barış ve istikrar, ekonomik ilişkiler, enerji, ulaştırma ve güvenlik başlıkları ele alındı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/hakan-fidandan-azerbaycan-mesaji-is-birligimizi-daha-da-derinlestirecegiz-1816384",
+      "published": "2026-09-16T09:31:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:35.119086+00:00"
+    },
+    {
+      "id": "a20b3e73dd6ad08e",
+      "source": "Karar",
+      "title": "TOKİ yüzlerce arsayı satışa çıkarıyor: İstanbul, Ankara ve İzmir de listede",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Toplu Konut İdaresi Başkanlığı (TOKİ), 47 ilde bulunan 405 arsayı açık artırma usulüyle satışa sunuyor. Yüzde 25 peşinat ve 48 ay vade imkânıyla satılacak taşınmazlar için müzayedeler 29-30 Eylül tarihlerinde gerçekleştirilecek.",
+      "link": "https://www.karar.com/ekonomi-haberleri/toki-yuzlerce-arsayi-satisa-cikariyor-istanbul-ankara-ve-izmir-de-2072285",
+      "published": "2026-09-16T09:31:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:39.229525+00:00"
+    },
+    {
+      "id": "70a0321ee92354e0",
+      "source": "Karar",
+      "title": "Bayraklı’da asfalt seferberliği sürüyor: 25 noktada tamamlandı, 5 noktada daha başlıyor",
+      "summary": "Bayraklı Belediyesi’nin yol bakım, onarım ve yenileme çalışmaları hız kesmeden devam ediyor. İzmir Büyükşehir Belediyesi ekipleriyle koordineli yürütülen çalışmalar kapsamında, vatandaşlardan gelen talep ve öneriler de dikkate alınarak ilçedeki bozuk yollar yenileniyor.",
+      "link": "https://www.karar.com/sehir-haberleri/bayraklida-asfalt-seferberligi-suruyor-25-noktada-tamamlandi-5-noktada-2072284",
+      "published": "2026-09-16T09:31:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:39.229563+00:00"
+    },
+    {
+      "id": "5d6fe0bdbfe779f6",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "2027 Formula 1 Dünya Şampiyonası'nda Türkiye Grand Prix'sinin tarihi belli oldu",
+      "summary": "Formula 1 Dünya Şampiyonası'nda 2027 sezonunun takvimi açıklanırken organizasyonun Türkiye ayağı, 1-3 Ekim 2027'de İstanbul'da koşulacak.",
+      "link": "https://www.aa.com.tr/tr/spor/2027-formula-1-dunya-sampiyonasinda-turkiye-grand-prixsinin-tarihi-belli-oldu/4058754",
+      "published": "2026-09-16T09:31:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:32.710134+00:00"
+    },
+    {
+      "id": "37fbc7e3aba63254",
+      "source": "Star",
+      "title": "Formula 1'de 2027 takvimi açıklandı! Türkiye GP'nin tarihi belli oldu",
+      "summary": "FIA ve Formula 1, 2027 sezonunun takvimini duyurdu. Toplam 24 yarıştan oluşacak sezonda Türkiye Grand Prix'i 1-3 Ekim 2027 tarihleri arasında İstanbul Park'ta düzenlenecek. İşte detaylar...",
+      "link": "https://www.star.com.tr/spor/formula-1de-2027-takvimi-aciklandi-turkiye-gpnin-tarihi-belli-oldu-haber-2040504/",
+      "published": "2026-09-16T09:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:38.660409+00:00"
+    },
+    {
+      "id": "42779b5a40091c60",
+      "source": "Yeniçağ",
+      "title": "OSB’de buhar kazanı patladı: 16 Yaşındaki Abdullah Kurtarılamadı",
+      "summary": "Gaziantep’teki bir polyester fabrikasında meydana gelen buhar kazanı patlamasında ağır yaralanan 16 yaşındaki işçi, kaldırıldığı hastanede yaşam mücadelesini kaybetti.",
+      "link": "https://www.yenicaggazetesi.com/osbde-buhar-kazani-patladi-16-yasindaki-abdullah-kurtarilamadi-1072422h.htm",
+      "published": "2026-09-16T09:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:39.549129+00:00"
+    },
+    {
+      "id": "fdd019cf71f584ae",
+      "source": "Ekonomim",
+      "title": "Evi sattı, kirayı almaya devam etti! Yargıtay son noktayı koydu",
+      "summary": "Kiracı-ev sahibi arasındaki tartışmalar bitmek bilmiyor. Daireyi satmasına rağmen aldığı kira bedelini iade etmeye yanaşmayan eski mülk sahibine kötü haber Adalet Bakanlığı&#039;nın müracaatı üzerine devreye giren Yargıtay’dan geldi.",
+      "link": "https://www.ekonomim.com/gundem/evi-satti-kirayi-almaya-devam-etti-yargitay-son-noktayi-koydu-haberi-918562",
+      "published": "2026-09-16T09:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:46.876592+00:00"
+    },
+    {
+      "id": "91edb095b15c0151",
+      "source": "Türkiye Gazetesi",
+      "title": "Umman Denizi'nde yüksek tansiyon!",
+      "summary": "Pakistan ve Hindistan arasındaki gerilim bu kez Umman Denizi’nde tırmandı. İki ülkenin savaş gemilerinin uluslararası sularda çarpıştığı bildirilirken Hindistan, kazanın ardından Pakistan maslahatgüzarını Dışişleri Bakanlığı’na çağırdı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/umman-denizinde-yuksek-tansiyon-hindistan-ve-pakistanin-savas-gemileri-carpisti-1816383",
+      "published": "2026-09-16T09:30:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:35.119125+00:00"
+    },
+    {
+      "id": "848914c9c4edacf9",
+      "source": "Türkiye Gazetesi",
+      "title": "BÖLGEDE YÜKSEK TANSİYON!",
+      "summary": "Pakistan ve Hindistan arasındaki gerilim bu kez Umman Denizi’nde tırmandı. İki ülkenin savaş gemilerinin uluslararası sularda çarpıştığı bildirilirken Hindistan, kazanın ardından Pakistan maslahatgüzarını Dışişleri Bakanlığı’na çağırdı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/umman-denizinde-yuksek-tansiyon-hindistan-ve-pakistanin-savas-gemileri-carpisti-1816383",
+      "published": "2026-09-16T09:30:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:35.119155+00:00"
+    },
     {
       "id": "cf59d38e4511f891",
       "source": "Halk TV",
@@ -39,6 +292,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-16T09:31:08.543083+00:00"
+    },
+    {
+      "id": "e814b38bb0937d4a",
+      "source": "Habertürk",
+      "title": "53 sezonda 37 farklı hoca!",
+      "summary": "Trabzonspor, Süper Lig’de mücadele ettiği 53 sezonda 63. kez teknik adam değişikliğine giderken, anlaşmaya vardığı Alman çalıştırıcı Thomas Reis bordo-mavili takımın 37. farklı teknik adamı oldu.",
+      "link": "https://www.haberturk.com/spor/trabzonsporda-53-sezonda-63-teknik-adam-3912826",
+      "published": "2026-09-16T09:29:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:30.266061+00:00"
     },
     {
       "id": "274843440b806f31",
@@ -94,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-16T09:30:56.421460+00:00"
+    },
+    {
+      "id": "58d2eeb0b9aab757",
+      "source": "Aydınlık",
+      "title": "Formula 1 Türkiye Grand Prix'sinin tarihi belli oldu",
+      "summary": "Formula 1&#039;in 2027 sezon takvimi açıklandı. Türkiye Grand Prix&#039;si, 1-3 Ekim 2027 tarihlerinde İstanbul Park&#039;ta düzenlenecek. Türkiye, 2027 takvimine uzun bir aranın ardından yeniden dahil edildi.",
+      "link": "https://www.aydinlik.com.tr/haber/formula-1-turkiye-grand-prixsinin-tarihi-belli-oldu-590369",
+      "published": "2026-09-16T09:27:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:40.378061+00:00"
     },
     {
       "id": "21afc5ead4deb5d9",
@@ -580,6 +855,17 @@
       "fetched_at": "2026-09-16T09:20:48.879579+00:00"
     },
     {
+      "id": "4024ad9db8eb4b0b",
+      "source": "Sabah",
+      "title": "Formula 1’de 2027 takvimi açıklandı! Türkiye Grand Prix için tarih belli oldu",
+      "summary": "SON DAKİKA HABERİ: Formula 1'de 2027 takvimi açıklandı. Türkiye Grand Prix, 1-3 Ekim tarihlerinde gerçekleştirilecek. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/spor/tum-sporlar/2026/09/16/formula-1de-2027-takvimi-aciklandi-turkiye-grand-prix-icin-tarih-belli-oldu",
+      "published": "2026-09-16T09:17:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:37.394756+00:00"
+    },
+    {
       "id": "32b366c396257a48",
       "source": "Euronews Türkçe",
       "title": "İstanbul ve Ankara'da LGBTİ+ aktivistlerinin serbest bırakılması talebiyle gösteri düzenlendi",
@@ -899,6 +1185,17 @@
       "fetched_at": "2026-09-16T09:20:42.829386+00:00"
     },
     {
+      "id": "4e77768d20756e66",
+      "source": "Evrensel",
+      "title": "Karaburun'daki tarihi Sazak köyü acil koruma önlemleri bekliyor: Kentsel sit kararından bu yana geçen yedi yılda korumasız kaldı",
+      "summary": "İzmir Karaburun’daki tarihi Sazak köyünün kentsel sit ilanının üzerinden yedi yıl geçti. Karaburun Sivil İnisiyatifi, koruma planlarının hayata geçirilmesini ve köyün daha fazla tahrip edilmeden korunmasını istedi.",
+      "link": "https://www.evrensel.net/haber/6000748/karaburundaki-tarihi-sazak-koyu-acil-koruma-onlemleri-bekliyor-kentsel-sit-kararindan-bu-yana-gecen-yedi-yilda-korumasiz-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-16T09:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:35.582978+00:00"
+    },
+    {
       "id": "307350f9e047225d",
       "source": "Star",
       "title": "Zehir tacirlerine göz açtırılmadı! 1.4 ton uyuşturucu ele geçirildi",
@@ -941,6 +1238,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-16T09:20:32.128848+00:00"
+    },
+    {
+      "id": "2bda015ea768a9dc",
+      "source": "Evrensel",
+      "title": "Okul kantinlerinde hangi ürünler yasaklandı? Yeni fiyat tarifesi belli oldu",
+      "summary": "2026-2027 eğitim-öğretim yılının başlamasıyla okul kantinlerinde yeni dönem kuralları yürürlüğe girdi. Cips, asitli içecek, yağda kızartılmış yiyecek ve bazı paketli ürünlerin satışına izin verilmeyecek",
+      "link": "https://www.evrensel.net/haber/6000747/okul-kantinlerinde-hangi-urunler-yasaklandi-yeni-fiyat-tarifesi-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-16T09:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:35.583018+00:00"
     },
     {
       "id": "ba3beafb0d1b813c",
@@ -2879,6 +3187,17 @@
       "fetched_at": "2026-09-16T08:45:44.136085+00:00"
     },
     {
+      "id": "fabe571bbda7fb21",
+      "source": "Evrensel",
+      "title": "Beşiktaş, Olimpik Marsilya maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "UEFA Avrupa Ligi'nin ilk haftasında Beşiktaş Fransız ekibi Olimpik Marsilya'yı konuk edecek. Tüpraş Stadı'nda oynanacak karşılaşma, saat 22.00'de başlayacak. İtalyan hakem Andrea Colombo'nun yöneteceği karşılaşma, TRT 1'den canlı yayınlanacak.",
+      "link": "https://www.evrensel.net/haber/6000739/besiktas-olimpik-marsilya-maci-ne-zaman-saat-kacta-hangi-kanalda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-16T08:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:35.583226+00:00"
+    },
+    {
       "id": "140b75c57ce65315",
       "source": "Evrensel",
       "title": "Beşiktaş Avrupa Ligi’nde perdeyi Marsilya karşısında açıyor",
@@ -3108,6 +3427,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-16T08:40:51.150596+00:00"
+    },
+    {
+      "id": "fc09571c9bd14341",
+      "source": "OdaTV",
+      "title": "İBB davası 82. gün: Rüşvet vermedim, bağış yaptım",
+      "summary": "İBB davasının 82. gününde, kendisinden rüşvet istendiğini ileri süren İbrahim Halil Babacan’ın sorgusu yapıldı. Mehmet Murat Çalık’ın “Baskıyla rüşvet vermek zorunda mı kaldınız, yoksa bağış mı yaptınız?” sorusuna Babacan, “Rüşvet durumu yok” yanıtını verdi.",
+      "link": "https://www.odatv.com/guncel/ibb-davasi-82-gun-mehmet-murat-calik-rusvet-vermedim-bagis-yaptim-120162889",
+      "published": "2026-09-16T08:37:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T09:35:41.229508+00:00"
     },
     {
       "id": "01001d623e48090d",
@@ -5176,336 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-16T08:16:02.651699+00:00"
-    },
-    {
-      "id": "3e2fc9367feaf2a9",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Türk yatırımcılar Kazakistan’ı Orta Asya’ya açılan stratejik merkez olarak görüyor",
-      "summary": "Kazakistan’da uzun süredir faaliyet gösteren Türk iş insanları, ülkenin Orta Asya ve Avrasya’ya açılan stratejik bir merkez olma potansiyeline ve iki ülke arasındaki ticari ilişkilerin geliştirilmesi gerektiğine işaret ediyor.",
-      "link": "https://www.aa.com.tr/tr/dunya/turk-yatirimcilar-kazakistan-i-orta-asya-ya-acilan-stratejik-merkez-olarak-goruyor/4058635",
-      "published": "2026-09-16T08:10:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:40.043130+00:00"
-    },
-    {
-      "id": "3042640efcebf89f",
-      "source": "Türkiye Gazetesi",
-      "title": "YARGITAY'DAN PEŞİN KİRA KARARI",
-      "summary": "Kiracıdan aldığı kira bedelini daireyi sattıktan sonra da elinde tutan eski ev sahibine Yargıtay’dan emsal niteliğinde karar geldi. Yargıtay 3. Hukuk Dairesi, satış tarihinden sonraki döneme ait kira bedelinin yeni mülk sahibine iade edilmesi gerektiğine hükmetti.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/evi-satan-ev-sahibi-dikkat-pesin-alinan-kira-icin-yargitaydan-karar-1816357",
-      "published": "2026-09-16T08:10:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:20:44.085085+00:00"
-    },
-    {
-      "id": "fe62df4f8b443732",
-      "source": "Gazete Pencere",
-      "title": "Ekrem İmamoğlu'ndan üyelik çağrısı: Türkiye’nin umudu olun",
-      "summary": "YENİ Parti'ye üye olunması çağrısı yapan Ekrem İmamoğlu, \"Diyoruz ki gel, üye ol, Türkiye’nin umudu ol. Siz yolu açacaksınız ki Türkiye huzura kavuşacak\" dedi.",
-      "link": "https://www.gazetepencere.com/siyaset/ekrem-imamoglundan-uyelik-cagrisi-turkiyenin-umudu-olun-715667h",
-      "published": "2026-09-16T08:10:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:48.811738+00:00"
-    },
-    {
-      "id": "04d305c7668b6e50",
-      "source": "Gazete Pencere",
-      "title": "Ayvalık’ta ikinci günün odağında “Kurtuluş” vardı",
-      "summary": "Ayvalık Uluslararası Film Festivali’nin ikinci gününde 9 film seyirciyle buluştu. Emin Alper’in “Kurtuluş” filmi yoğun ilgi görürken ekip, gösterim sonrası filmin korku, toplumsal travma, linç ve şiddetin bir topluluğa nasıl yayıldığını anlattı.",
-      "link": "https://www.gazetepencere.com/kultur-sanat/ayvalikta-ikinci-gunun-odaginda-kurtulus-vardi-715666h",
-      "published": "2026-09-16T08:10:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:48.811770+00:00"
-    },
-    {
-      "id": "d0b5510bf1eaeab4",
-      "source": "Milliyet",
-      "title": "Deprem bölgesinde kültürel mirasa 34 milyar liralık ihya seferberliği",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Kahramanmaraş Ticaret ve Sanayi Odası’nda düzenlenen toplantıda, 6 Şubat depremlerinin ardından deprem bölgesinde gerçekleştirilen restorasyon ve ihya çalışmalarını kamuoyuyla paylaştı. Toplantıya, Kahramanmaraş Valisi Mükerrem Ünlüer, Adana Valisi Mustafa Yavuz, Adıyaman Valisi Abdullah Küçük, Elazığ Valisi Numan Hatipoğlu, Gaziantep Valisi Kemal Çeber, ",
-      "link": "https://www.milliyet.com.tr/gundem/deprem-bolgesinde-kulturel-mirasa-34-milyar-liralik-ihya-seferberligi-7661338",
-      "published": "2026-09-16T08:10:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:44.173689+00:00"
-    },
-    {
-      "id": "53c38eb71ed76040",
-      "source": "OdaTV",
-      "title": "Araç sahipleri dikkat: Motorinde Cumhuriyet tarihinin rekoru geliyor",
-      "summary": "Akaryakıta peş peşe gelen zamlara bir yenisi daha eklenecek. Geçtiğimiz gün motorine 6 lira 59 kuruşluk zam gelirken, bugün tabelalar yeniden değişecek.",
-      "link": "https://www.odatv.com/ekonomi/motorinde-cumhuriyet-tarihi-rekoru-geliyor-120162878",
-      "published": "2026-09-16T08:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T09:10:41.659120+00:00"
-    },
-    {
-      "id": "858e2f828570e07c",
-      "source": "Gazete Pencere",
-      "title": "Ekrem İmamoğlu'ndan üyelik çağrısı: Türkiye'nin umudu olun",
-      "summary": "YENİ Parti'ye üye olunması çağrısı yapan Ekrem İmamoğlu, \"Diyoruz ki gel, üye ol, Türkiye’nin umudu ol. Siz yolu açacaksınız ki Türkiye huzura kavuşacak\" dedi.",
-      "link": "https://www.gazetepencere.com/siyaset/ekrem-imamoglundan-uyelik-cagrisi-turkiyenin-umudu-olun-715667h",
-      "published": "2026-09-16T08:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:49.141231+00:00"
-    },
-    {
-      "id": "8263aeeffba9a1c6",
-      "source": "Ekonomim",
-      "title": "Genç yaşta kanser riskinin arkasındaki gizem çözüldü: 'Hızlı biyolojik yaşlanma'",
-      "summary": "Yeni bir uluslararası araştırma, 55 yaş altındaki yetişkinlerde artan kanser riskinin, hücrelerin takvim yaşından çok daha erken yaşlanmasıyla ilişkili olduğunu gösterdi.",
-      "link": "https://www.ekonomim.com/saglik/genc-yasta-kanser-riskinin-arkasindaki-gizem-cozuldu-hizli-biyolojik-yaslanma-haberi-918539",
-      "published": "2026-09-16T08:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:56.676102+00:00"
-    },
-    {
-      "id": "11258cac34fd5e02",
-      "source": "Star",
-      "title": "Türk yatırımcılar rotayı çevirdi! Dost ülkede yeni fırsat kapısı",
-      "summary": "Kazakistan'da uzun süredir faaliyet gösteren Türk iş insanları, ülkenin Orta Asya ve Avrasya'ya açılan stratejik bir merkez olma potansiyeline ve iki ülke arasındaki ticari ilişkilerin daha fazla ortak yatırım ve üretim odaklı geliştirilmesi gerektiğine işaret ediyor.",
-      "link": "https://www.star.com.tr/ekonomi/turk-yatirimcilar-rotayi-cevirdi-dost-ulkede-yeni-firsat-kapisi-haber-2040483/",
-      "published": "2026-09-16T08:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:46.329451+00:00"
-    },
-    {
-      "id": "e0469995febee673",
-      "source": "Yeni Akit",
-      "title": "Tokat'ta 20 şüpheliye ait 17 adreste bonzai, silah ve 53 bin 550 lira ele geçirildi",
-      "summary": "Tokat İl Jandarma Komutanlığı ekipleri Turhal, Zile ve Niksar'da şüphelileri takibe aldı; 17 adreste 1 kilo 300 gram bonzai ve 53 bin 550 lira ele geçirildi.",
-      "link": "https://www.yeniakit.com.tr/haber/tokatta-20-supheliye-ait-17-adreste-bonzai-silah-ve-53-bin-550-lira-ele-gecirildi-2023071.html",
-      "published": "2026-09-16T08:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:46.761308+00:00"
-    },
-    {
-      "id": "5a5047ad226425cf",
-      "source": "Euronews Türkçe",
-      "title": "Çivi çakmadan delmeye: Japonya'nın yeni robotları fiziksel yapay zekâyı ileri taşıyor",
-      "summary": "Teknoloji şirketleri, 16 Eylül 2026'da Tokyo'da düzenlenen, gerçek dünyada görev yapabilen robotları tanıtan fiziksel yapay zekâ zirvesinde buluştu.",
-      "link": "https://tr.euronews.com/video/2026/09/16/civi-cakmadan-delmeye-japonyanin-yeni-robotlari-fiziksel-yapay-zekayi-ileri-tasiyor",
-      "published": "2026-09-16T08:09:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:26:03.817125+00:00"
-    },
-    {
-      "id": "4e62a14b39981b72",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Uzay ekonomisinde özel sektörün payı ve yatırımları artıyor",
-      "summary": "Uzay ekonomisinde özel operatörlerin fırlatılan uydulardaki payı 2025'te yüzde 88'e yükselirken uzay girişimlerine yönelik özel yatırımlar, küresel kamu uzay bütçelerinin gerilediği aynı dönemde rekor seviyeye ulaştı.",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/uzay-ekonomisinde-ozel-sektorun-payi-ve-yatirimlari-artiyor/4058633",
-      "published": "2026-09-16T08:09:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:20:41.267973+00:00"
-    },
-    {
-      "id": "e2fd5635d91cc8e4",
-      "source": "Euronews Türkçe",
-      "title": "Çivi çakmadan delmeye: Japonya'nın yeni robotları fiziksel yapay zekayı ileri taşıyor",
-      "summary": "Teknoloji şirketleri, 16 Eylül 2026’da Tokyo’da düzenlenen ve gerçek dünyada görev yapabilen robotları öne çıkaran fiziksel yapay zekâ odaklı bir günlük zirvede buluştu.",
-      "link": "https://tr.euronews.com/video/2026/09/16/civi-cakmadan-delmeye-japonyanin-yeni-robotlari-fiziksel-yapay-zekayi-ileri-tasiyor",
-      "published": "2026-09-16T08:09:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:21:07.857060+00:00"
-    },
-    {
-      "id": "f2c858d4d54f9dfe",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Beşiktaş'ın UEFA Avrupa Ligi serüveni",
-      "summary": "UEFA Avrupa Ligi'nin ilk haftasında yarın Fransa'nın Olimpik Marsilya takımını ağırlayacak Beşiktaş'ta bu sezon hedef \"Kupa 2\"de çeyrek finalin ötesini görmek.",
-      "link": "https://www.aa.com.tr/tr/spor/besiktasin-uefa-avrupa-ligi-seruveni/4058631",
-      "published": "2026-09-16T08:09:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:40.043175+00:00"
-    },
-    {
-      "id": "be24bcbac2816a3e",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Japonya Merkez Bankası politika faizini 31 yılın en yüksek seviyesine çıkarmaya hazırlanıyor",
-      "summary": "Japonya Merkez Bankası (BoJ), yenin değer kaybetmesinin yarattığı baskıyla yüzde 1 seviyesindeki politika faizini 25 baz puan artırarak 31 yılın en yüksek seviyesine çıkarmaya hazırlanıyor.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/japonya-merkez-bankasi-politika-faizini-31-yilin-en-yuksek-seviyesine-cikarmaya-hazirlaniyor/4058628",
-      "published": "2026-09-16T08:09:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:40.043161+00:00"
-    },
-    {
-      "id": "b0a6ce962f3062ed",
-      "source": "Habertürk",
-      "title": "Mourinho'dan Arda Güler için şok sözler!",
-      "summary": "La Liga'nın 6. haftasında Real Madrid son dakikalarda Carlos Espi'nin attığı golle Elche'yi 3-2 mağlup etti. Milli yıldızımız Arda Güler, müsabakaya damga vuran isimlerin başında yer aldı ve karşılaşmanın oyuncusu seçildi. Mücadelenin sonunda takım arkadaşlarıyla tek tek selamlaşan Arda'nın uzattığı eli Bellingham'ın karşılıksız bırakması üzerine milli futbolcu şaşkınlığını gizleyemedi. Ayrıca Rea",
-      "link": "https://www.haberturk.com/spor/foto/jose-mourinho-dan-arda-guler-icin-sok-sozler-vazgecilmez-degil-macin-adami-secildi-oyundan-alindi-3912794",
-      "published": "2026-09-16T08:09:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:20:38.567367+00:00"
-    },
-    {
-      "id": "95e342c266877915",
-      "source": "Ekonomim",
-      "title": "Yangın güvenliği binaların tasarım aşamasından başlıyor",
-      "summary": "Türk Ytong Satış ve Pazarlamadan Sorumlu Genel Müdür Yardımcısı Barış Saban, binalarda yangın güvenliği denince akla yalnızca yangın söndürme sistemlerinin gelmemesi gerektiğini belirterek, yapıların tasarım ve inşaat aşamasından itibaren doğru malzeme seçimiyle yangın risklerinin azaltılabileceğine dikkat çekti.",
-      "link": "https://www.ekonomim.com/sirketler/yangin-guvenligi-binalarin-tasarim-asamasindan-basliyor-haberi-918540",
-      "published": "2026-09-16T08:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:56.676139+00:00"
-    },
-    {
-      "id": "3007b6936ccd36e7",
-      "source": "Star",
-      "title": "Muğlaspor, Iğdır FK mesaisinde",
-      "summary": "Trendyol 1. Lig'in 8. haftasında Iğdır FK ile karşılaşacak Muğlaspor maçın hazırlıklarını sürdürüyor.",
-      "link": "https://www.star.com.tr/spor/muglaspor-igdir-fk-mesaisinde-haber-2040482/",
-      "published": "2026-09-16T08:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:46.329486+00:00"
-    },
-    {
-      "id": "98b51a3fe3acd85b",
-      "source": "Ekonomim",
-      "title": "Norveç'teki bazı okullarda akıllı gözlük kullanımı yasaklandı",
-      "summary": "Norveç&#039;te bazı belediyelerin, yapay zeka destekli gözlüklerin kişisel güvenliğe zarar verebileceği endişesiyle okullarda kullanımını yasakladığını bildirildi.",
-      "link": "https://www.ekonomim.com/dunya/norvecteki-bazi-okullarda-akilli-gozluk-kullanimi-yasaklandi-haberi-918538",
-      "published": "2026-09-16T08:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:56.075827+00:00"
-    },
-    {
-      "id": "6ed61ee06c889d4e",
-      "source": "Türkiye Gazetesi",
-      "title": "'BU DURUM BÜYÜK ROL OYNADI'",
-      "summary": "Galatasaray'ın Roma ve Hellas Verona'ya kiralık gönderdikten sonra yaz transfer döneminde bonservis kazanmadan yollarını ayırdığı Danimarkalı stoper Victor Nelsson, ülkesinin takımlarından Nordsjaelland'a transfer sürecine açıklık getirdi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/galatasaraydan-bedelsiz-ayrildi-sebebini-acikladi-bu-durum-buyuk-rol-oynadi-1816356",
-      "published": "2026-09-16T08:08:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:42.316259+00:00"
-    },
-    {
-      "id": "19d3fb0cad7835d7",
-      "source": "Habertürk",
-      "title": "Bakan Şimşek Habertürk-Bloomberg HT ortak yayınında",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, Bloomberg HT ve Habertürk ortak canlı yayınında Bloomberg HT Genel Yayın Yönetmeni Açıl Sezen'in sorularını yanıtlıyor",
-      "link": "https://www.haberturk.com/ekonomi/bakan-simsek-ten-aciklamalar-3912789",
-      "published": "2026-09-16T08:08:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:37.382931+00:00"
-    },
-    {
-      "id": "24111ce2fb2e7132",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "JASAT, yangın süsü verilen cinayeti X-Ray görüntüleriyle aydınlattı",
-      "summary": "JASAT ekipleri, Elazığ'da evlerinde çıkan yangında hayatını kaybettiği sanılan Ağa ve Nimet Üykü çiftinin öldürüldüğünün belirlenmesinin ardından, çalınan ziynet eşyalarını havalimanındaki X-Ray görüntülerinden tespit etti ve şüpheli H.Ç'yi yakaladı.",
-      "link": "https://www.aa.com.tr/tr/gundem/jasat-yangin-susu-verilen-cinayeti-x-ray-goruntuleriyle-aydinlatti/4058626",
-      "published": "2026-09-16T08:08:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:25:38.861066+00:00"
-    },
-    {
-      "id": "c295809456d0528e",
-      "source": "Karar",
-      "title": "Ed Sheeran turnesinde Filistin dayanışması: Macklemore’un ardından tüm ön sanatçılar çekildi",
-      "summary": "Ed Sheeran’ın ABD turnesinde ön sanatçı olarak sahne alan Macklemore, New Jersey’deki konserde “Özgür Filistin” demesi ve Gazze’deki yıkım görüntüleri eşliğinde “Hind’s Hall” şarkısını seslendirmesinin ardından turnenin kalan programından çıkarıldı. Karara tepki gösteren Finneas, Lukas Graham, Aaron Rowe ve Beoga da turneden çekilince programda ön sanatçı kalmadı. Sheeran ise kararın kendisine değ",
-      "link": "https://www.karar.com/dunya-haberleri/ed-sheeran-turnesinde-filistin-dayanismasi-macklemoreun-ardindan-tum-on-2072262",
-      "published": "2026-09-16T08:08:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:47.117568+00:00"
-    },
-    {
-      "id": "e8426739f2c84fe4",
-      "source": "Habertürk",
-      "title": "Kontrolsüz ağrı kesici kullananlara \"böbrek\" uyarısı!",
-      "summary": "Ağrı kesiciler günlük yaşamda sık kullanılan ilaçlar olsa da kontrolsüz kullanımı böbreklerde hasar oluşturabiliyor",
-      "link": "https://www.haberturk.com/saglik/kontrolsuz-agri-kesici-kullananlara-bobrek-uyarisi-haberler-3912796",
-      "published": "2026-09-16T08:08:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:37.382954+00:00"
-    },
-    {
-      "id": "1b716e1a91eed471",
-      "source": "Bir Gün",
-      "title": "İstanbul Taksi Ücretleri 2026 | Açılış, Kilometre ve İndi-Bindi Fiyatları",
-      "summary": "İstanbul’da taksi açılış ücreti kaç TL oldu? Sarı taksi kilometre ücreti ve yolculuk başına alınan minimum taksi ücreti ne kadar? Yanıtlar haberimizde.",
-      "link": "https://www.birgun.net/haber/istanbul-taksi-ucretleri-2026-acilis-kilometre-ve-indi-bindi-fiyatlari-584162",
-      "published": "2026-09-16T08:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:45:37.785782+00:00"
-    },
-    {
-      "id": "bbaf560a861e27b3",
-      "source": "Gazete Pencere",
-      "title": "TÜİK açıkladı: Türkiye’de şirketlerin bilançosu belli oldu",
-      "summary": "Türkiye genelindeki 1 milyon 150 bin 191 firmanın verilerinin incelendiği çalışmaya göre, şirketlerin toplam net satışları 107,7 trilyon TL olarak gerçekleşti.",
-      "link": "https://www.gazetepencere.com/ekonomi/tuik-acikladi-turkiyede-sirketlerin-bilancosu-belli-oldu-715665h",
-      "published": "2026-09-16T08:07:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:10:48.811792+00:00"
-    },
-    {
-      "id": "515f3a532dd11f8e",
-      "source": "Bir Gün",
-      "title": "Milyonları ilgilendiriyor: AKP'den \"kademeli emeklilik\" açıklaması",
-      "summary": "EYT düzenlemesinin ardından milyonlarca işçinin talep ettiği \"kademeli emeklilik\" konusuna AKP yaklaşıyor. AKP kaynakları, buna karşın seçim sürecinde son anda bu konuda gelişme olabileceğini belirtiyor.",
-      "link": "https://www.birgun.net/haber/milyonlari-ilgilendiriyor-akp-den-kademeli-emeklilik-aciklamasi-735034",
-      "published": "2026-09-16T08:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:45:37.785807+00:00"
-    },
-    {
-      "id": "2cbafcce54a433fd",
-      "source": "Bir Gün",
-      "title": "Jose Mourinho’dan Arda Güler yorumu: “Kimse vazgeçilmez değil”",
-      "summary": "Real Madrid Teknik Direktörü Jose Mourinho, Elche karşısında Arda Güler’i oyundan çıkarma kararını savundu. Portekizli çalıştırıcı, milli futbolcunun temposunun düştüğünü belirterek değişikliklerle oyunun kontrolünü yeniden kazanmayı amaçladığını söyledi.",
-      "link": "https://www.birgun.net/haber/jose-mourinhodan-arda-guler-yorumu-kimse-vazgecilmez-degil-735032",
-      "published": "2026-09-16T08:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:45:37.785834+00:00"
-    },
-    {
-      "id": "65bfdf7f7c58e33e",
-      "source": "Habertürk",
-      "title": "Gülistan soruşturmasında 2 tutuklama daha",
-      "summary": "Tunceli'de, 5 Ocak 2020'den beri haber alınamayan üniversite öğrencisi Gülistan Doku ile ilgili son soruşturma kapsamında adliyeye sevk edilen 6 zanlıdan 2'si tutuklandı, 2'si adli kontrol şartıyla, 2'si de savcılık ifadesi sonrası serbest bırakıldı. Böylelikle Erzurum ve Tunceli Cumhuriyet Başsavcılıklarınca yürütülen soruşturmada tutuklu sayısı 38'e yükseldi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-gulistan-sorusturmasinda-2-tutuklama-daha-3912762",
-      "published": "2026-09-16T08:06:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T08:15:37.382975+00:00"
-    },
-    {
-      "id": "54c7bf43e2cd2f7e",
-      "source": "Hürriyet",
-      "title": "Çocukları iki günde okuldan aldılar",
-      "summary": "Bundan altı yıl önce Meghan Markle ve Prens Harry, o sırada bebek olan oğulları Archie'ye alıp İngiltere'den ve kraliyet ailesindeki görevlerinden ayrıldıklarında dünya gündemi sarsılmıştı.",
-      "link": "https://www.hurriyet.com.tr/galeri-cocuklari-iki-gunde-okuldan-aldilar-43308355",
-      "published": "2026-09-16T08:06:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T09:05:32.824633+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T01:46:01.117827+00:00",
+  "last_updated": "2026-09-16T01:51:02.337401+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 549,
   "items": [
+    {
+      "id": "aea4a0207b9d7682",
+      "source": "Türkiye Gazetesi",
+      "title": "Esenyurt'ta otomobil yoldan geçen yayalara çarptı! 1 ölü, 1 yaralı",
+      "summary": "Esenyurt’ta aracıyla seyir halindeyken direksiyon hakimiyetini kaybeden Süleyman Yasin D., yoldan geçen yayalara çarptı. Kaza sonucunda 1 kişi hayatını kaybederken 1 kişi de ağır yaralandı. Sürücü Süleyman Yasin D. ise ifadesi alınmak üzere karakola götürüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/esenyurtta-otomobil-yoldan-gecen-yayalara-carpti-1-olu-1-yarali-1816295",
+      "published": "2026-09-16T01:47:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T01:50:39.490685+00:00"
+    },
     {
       "id": "697db5004410bfb6",
       "source": "Türkiye Gazetesi",
@@ -5332,6 +5343,17 @@
       "fetched_at": "2026-09-15T20:10:48.106557+00:00"
     },
     {
+      "id": "ee2fd720c24f6d6a",
+      "source": "Milliyet",
+      "title": "İran'dan ABD Savunma Bakanlığı raporuna yorum: Bu buzdağının görünen kısmı",
+      "summary": "İran Dışişleri Bakanı Arakçi, ABD merkezli X şirketinin sosyal medya platformundaki hesabından Pentagon denetçisi tarafından hazırlanan raporun, ABD’nin askeri kayıplarına ilişkin kısmını alıntılayarak bir mesaj paylaştı. Mesajında Arakçi, \"İddia: İran savunmasızdır. Gerçek: Yüzlerce ABD askeri üssü yok edilmiş, onlarca uçak yakılmıştır. Bu yalnızca buzdağının görünen kısmıdır. Vakti geldiğinde he",
+      "link": "https://www.milliyet.com.tr/dunya/irandan-abd-savunma-bakanligi-raporuna-yorum-bu-buzdaginin-gorunen-kismi-7661099",
+      "published": "2026-09-15T20:04:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-16T01:50:41.621381+00:00"
+    },
+    {
       "id": "f91c6019e34e2255",
       "source": "Bir Gün",
       "title": "İran'a yönelik saldırıların Pentagon'a maliyetinin 38 milyar dolara ulaştığı tahmin edildi",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-15T20:01:06.887878+00:00"
-    },
-    {
-      "id": "b2f3369d2b480722",
-      "source": "Akşam",
-      "title": "Filenin Efeleri'nin tur hesabı: Letonya",
-      "summary": "A Milli Erkek Voleybol Takımı, CEV Erkekler Avrupa Şampiyonası'nda son 16 turuna yükselmek için Letonya karşısına çıkacak.",
-      "link": "https://www.aksam.com.tr/spor/filenin-efelerinin-tur-hesabi-letonya/haber-1698650",
-      "published": "2026-09-15T19:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T20:01:02.553641+00:00"
-    },
-    {
-      "id": "54bd7c2f4d171a1e",
-      "source": "Star",
-      "title": "Filenin Efeleri için son 16 hesapları: Letonya maçı kritik",
-      "summary": "CEV Erkekler Avrupa Voleybol Şampiyonası'nda D Grubu'nda Fransa liderliği garantilerken, İsviçre Letonya'yı mağlup etti.",
-      "link": "https://www.star.com.tr/spor/filenin-efeleri-icin-son-16-hesaplari-letonya-maci-kritik-haber-2040414/",
-      "published": "2026-09-15T19:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-15T20:01:03.781214+00:00"
     }
   ]
 }

@@ -1,12 +1,320 @@
 {
-  "last_updated": "2026-09-17T12:11:05.484670+00:00",
+  "last_updated": "2026-09-17T12:16:01.656755+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 573,
+  "new_items_this_run": 583,
   "items": [
+    {
+      "id": "4ee5a1ecdc7604fb",
+      "source": "Sözcü",
+      "title": "Tom Barrack duyurdu: Erdoğan ve Trump New York'ta görüşecek",
+      "summary": "Tom Barrack duyurdu: Erdoğan ve Trump New York'ta görüşecek",
+      "link": "https://www.sozcu.com.tr/tom-barrack-duyurdu-erdogan-ve-trump-new-york-ta-gorusecek-p359163",
+      "published": "2026-09-17T12:15:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:38.384221+00:00"
+    },
+    {
+      "id": "32a0337cbbf90b63",
+      "source": "Cumhuriyet",
+      "title": "Günlük Burç Yorumları: 18 Eylül Cuma Oğlak Burcu Yorumu",
+      "summary": "Günlük Burç Yorumları: 18 Eylül Cuma Oğlak Burcu Yorumu",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/oglak-burcu/gunluk-burc-yorumlari-18-eylul-cuma-oglak-burcu-yorumu-2538482",
+      "published": "2026-09-17T12:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:35.398414+00:00"
+    },
+    {
+      "id": "3e76ea2039c2abae",
+      "source": "Akşam",
+      "title": "Tarihe meraklı olanlar buraya! Bir müze, binlerce yıllık hikaye",
+      "summary": "Burdur'un binlerce yıllık geçmişine ışık tutan Burdur Müzesi, arkeolojik zenginliğiyle kenti ziyaret edenlerin dikkatini çekiyor. 1969 yılında başlayan müzecilik serüveni, yıllar içinde büyüyen yapısıyla bugün bölgenin farklı dönemlerinden çok sayıda eseri bir araya getiriyor.",
+      "link": "https://www.aksam.com.tr/seyahat/tarihe-merakli-olanlar-buraya-bir-muze-binlerce-yillik-hikaye/haber-1699147",
+      "published": "2026-09-17T12:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:41.537261+00:00"
+    },
+    {
+      "id": "8660d5e51a3dee64",
+      "source": "Star",
+      "title": "Galatasaray, Trabzonspor mesaisinde",
+      "summary": "Trendyol Süper Lig'in 6. haftasında Trabzonspor ile karşılaşacak Galatasaray maçın hazırlıklarına teknik direktör Okan Buruk yönetiminde sürdürüyor.",
+      "link": "https://www.star.com.tr/spor/galatasaray-trabzonspor-mesaisinde-haber-2040781/",
+      "published": "2026-09-17T12:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:42.751789+00:00"
+    },
+    {
+      "id": "2ee1182c8c509713",
+      "source": "Karar",
+      "title": "Bankacılık sektörünün mevduatı geçen hafta arttı",
+      "summary": "TCMB verilerine göre, bankacılık sektörünün toplam mevduatı 11 Eylül ile biten haftada 241 milyar lira artarak 33,46 trilyon liraya yükseldi. TL mevduat yüzde 2,02 artışla 18,31 trilyon liraya, yabancı para mevduatı yüzde 0,28 artışla 11,02 trilyon liraya çıktı. Tüketici kredileri yüzde 0,63 artarak 6,96 trilyon liraya ulaşırken, toplam kredi hacmi 136,48 milyar liralık artışla 27,51 trilyon lira ",
+      "link": "https://www.karar.com/ekonomi-haberleri/bankacilik-sektorunun-mevduati-gecen-hafta-artti-7-2072565",
+      "published": "2026-09-17T12:14:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:43.569078+00:00"
+    },
+    {
+      "id": "8d2a507220d98faa",
+      "source": "Karar",
+      "title": "Erdoğan ve Trump, New York'ta görüşecek",
+      "summary": "ABD’nin Ankara Büyükelçisi Tom Barrack, Cumhurbaşkanı Erdoğan ve ABD Başkanı Trump’ın New York’ta görüşeceğini açıkladı.",
+      "link": "https://www.karar.com/guncel-haberler/erdogan-ve-trump-new-yorkta-gorusecek-2072564",
+      "published": "2026-09-17T12:14:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:43.569105+00:00"
+    },
+    {
+      "id": "5f91065c5cade7b5",
+      "source": "Yeniçağ",
+      "title": "Melih Gökçek hakkında bir suç duyurusu daha",
+      "summary": "Gazeteci Murat Ağırel, eski Ankara Büyükşehir Belediye Başkanı Melih Gökçek hakkında suç duyurusunda bulunduğunu açıkladı.",
+      "link": "https://www.yenicaggazetesi.com/melih-gokcek-hakkinda-bir-suc-duyurusu-daha-1072798h.htm",
+      "published": "2026-09-17T12:14:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:44.143719+00:00"
+    },
+    {
+      "id": "4e9e311ba4624b62",
+      "source": "Yeniçağ",
+      "title": "Bilecik’te uzmanından lenfoma uyarısı: Erken tanı önemli",
+      "summary": "Bilecik Eğitim ve Araştırma Hastanesi Hematoloji Uzmanı Dr. Öğr. Üyesi Mustafa Karagülle, lenfoma hastalığının belirtileri, tanısı ve tedavi süreci hakkında bilgilendirmelerde bulundu.",
+      "link": "https://www.yenicaggazetesi.com/bilecikte-uzmanindan-lenfoma-uyarisi-erken-tani-onemli-1072797h.htm",
+      "published": "2026-09-17T12:14:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:44.143753+00:00"
+    },
+    {
+      "id": "2c882ee5de3c5b05",
+      "source": "Yeniçağ",
+      "title": "Olimpiyatlarda sıra dışı parkur: Sporcular yüzlerce timsahın yaşadığı nehirde yarışacak",
+      "summary": "2032 Brisbane Olimpiyatları için seçilen yarış parkuru dikkat çekti. Yaklaşık 500 timsahın yaşadığı Fitzroy Nehri, kürek ve kano yarışlarına ev sahipliği yapacak. Sporcuların güvenliği için ise özel acil durum planı uygulanacak.",
+      "link": "https://www.yenicaggazetesi.com/olimpiyatlarda-sira-disi-parkur-sporcular-yuzlerce-timsahin-yasadigi-nehirde-yarisacak-1072796h.htm",
+      "published": "2026-09-17T12:14:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:44.143782+00:00"
+    },
+    {
+      "id": "80b64d1c5a93ab18",
+      "source": "Cumhuriyet",
+      "title": "Günlük Burç Yorumları: 18 Eylül Cuma Akrep Burcu Yorumu",
+      "summary": "Günlük Burç Yorumları: 18 Eylül Cuma Akrep Burcu Yorumu",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/akrep-burcu/gunluk-burc-yorumlari-18-eylul-cuma-akrep-burcu-yorumu-2538480",
+      "published": "2026-09-17T12:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:35.398437+00:00"
+    },
+    {
+      "id": "9fece23cc30c4a93",
+      "source": "Cumhuriyet",
+      "title": "18 Eylül Cuma burç yorumları: Bugün sizi neler bekliyor?",
+      "summary": "Koç, boğa, ikizler, yengeç, aslan, başak, terazi, akrep, yay, oğlak, kova ve balık burçları işte günlük burç yorumları. Sizleri neler bekliyor? İşte, 18 Eylül Cuma burç yorumları...",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/18-eylul-cuma-burc-yorumlari-bugun-sizi-neler-bekliyor-2538478",
+      "published": "2026-09-17T12:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:35.398461+00:00"
+    },
+    {
+      "id": "7de9bd02213f0ede",
+      "source": "Cumhuriyet",
+      "title": "Günlük Burç Yorumları: 18 Eylül Cuma Yay Burcu Yorumu",
+      "summary": "Günlük Burç Yorumları: 18 Eylül Cuma Yay Burcu Yorumu",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/yay-burcu/gunluk-burc-yorumlari-18-eylul-cuma-yay-burcu-yorumu-2538481",
+      "published": "2026-09-17T12:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:35.398477+00:00"
+    },
+    {
+      "id": "06cf7a2753832c80",
+      "source": "Yeni Akit",
+      "title": "Kan emici tefecilere operasyon",
+      "summary": "Kocaeli'de vatandaşların kanını emen tefecilere yönelik operasyonda 11 zanlı adliyede sevk edildi.",
+      "link": "https://www.yeniakit.com.tr/haber/kan-emici-tefecilere-operasyon-2023351.html",
+      "published": "2026-09-17T12:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:43.241100+00:00"
+    },
+    {
+      "id": "4450880c2890a5a7",
+      "source": "Serbestiyet",
+      "title": "Uçum seçim için tarih verdi: “16 Nisan 2028’de Erdoğan son kez aday olacak”",
+      "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, TBMM’nin 360 oyla 9 Şubat 2028’de seçimlerin yenilenmesi kararı alabileceğini, genel ve Cumhurbaşkanlığı seçimlerinin 16 Nisan 2028’de yapılabileceğini söyledi: “16 Nisan’ın yıldönümünde Cumhurbaşkanlığı seçimi neden olmasın?” Uçum, Terörsüz Türkiye sürecinde Öcalan’ın hükümlü statüsünün değişmediğini, İmralı’daki yeni ünitenin “süreçteki rolünü daha iyi yap",
+      "link": "https://serbestiyet.com/haberler/politika/ucum-secim-icin-tarih-verdi-16-nisan-2028de-erdogan-son-kez-aday-olacak-248956/",
+      "published": "2026-09-17T12:13:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:49.875737+00:00"
+    },
+    {
+      "id": "c9a8918f28087f17",
+      "source": "Cumhuriyet",
+      "title": "Günlük Burç Yorumları: 18 Eylül Cuma Terazi Burcu Yorumu",
+      "summary": "Günlük Burç Yorumları: 18 Eylül Cuma Terazi Burcu Yorumu",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/terazi-burcu/gunluk-burc-yorumlari-18-eylul-cuma-terazi-burcu-yorumu-2538479",
+      "published": "2026-09-17T12:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:35.398494+00:00"
+    },
+    {
+      "id": "1313c70e658faebc",
+      "source": "Ekonomim",
+      "title": "Tom Barrack: Cumhurbaşkanı Erdoğan ve Başkan Trump, New York'ta görüşecek",
+      "summary": "ABD’nin Ankara Büyükelçisi Tom Barrack, Cumhurbaşkanı Erdoğan ile ABD Başkanı Donald Trump’ın gelecek hafta New York’ta görüşeceğini açıkladı.",
+      "link": "https://www.ekonomim.com/gundem/tom-barrack-cumhurbaskani-erdogan-ve-baskan-trump-new-yorkta-gorusecek-haberi-918902",
+      "published": "2026-09-17T12:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:52.863816+00:00"
+    },
+    {
+      "id": "f32a4dde543b1e04",
+      "source": "Yeniçağ",
+      "title": "Fatsa’da fındık üreticisinden dikkat çeken TMO protestosu",
+      "summary": "Ordu’nun Fatsa ilçesinde bir fındık üreticisi, ürününün Toprak Mahsulleri Ofisi (TMO) tarafından alınmadığını öne sürerek dikkat çeken bir protestoya imza attı.",
+      "link": "https://www.yenicaggazetesi.com/fatsada-findik-ureticisinden-dikkat-ceken-tmo-protestosu-1072795h.htm",
+      "published": "2026-09-17T12:12:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:44.143805+00:00"
+    },
+    {
+      "id": "5793860004d2a098",
+      "source": "OdaTV",
+      "title": "Köpeğe tekme olayında yeni görüntü: Kaymakama darp anları kamerada",
+      "summary": "Palandöken Kaymakamı Yunus Kızılgüneş&#039;in, sitede sahipli köpeğe tekme attığı ve soruşturma açıldığı belirtildi. Ortaya çıkan yeni görüntülerde, Kızılgüneş’in daha önce köpeğin sahibi tarafından fiziki müdahaleye maruz kaldığı ve yere düşürüldüğü dair anlar da güvenlik kamerasına yansıdı.",
+      "link": "https://www.odatv.com/guncel/kopege-tekme-olayinda-yeni-goruntu-kaymakama-yunus-kizilgunese-darp-anlari-kamerada-120163086",
+      "published": "2026-09-17T12:12:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:46.392220+00:00"
+    },
+    {
+      "id": "909adfb1e33d2f7d",
+      "source": "Halk TV",
+      "title": "Gerçek ifşa oldu! Butlanın geri çektiği temyiz başvurusu meğer Özgür Özel'inmiş",
+      "summary": "Özgür Özel, Kılıçdaroğlu yönetiminin Yargıtay&#039;dan çektiği mutlak butlan kararının temyizinin bizzat kendisinin yaptığını açıkladı. Özel, CHP Genel Başkanı sıfatı ile yaptığı başvuruyu geri çekilmesinin hukuken mümkün olmadığını savundu.",
+      "link": "https://halktv.com.tr/siyaset/gercek-ifsa-oldu-butlanin-geri-cektigi-temyiz-basvurusu-meger-ozgur-ozelinmis-1055642h",
+      "published": "2026-09-17T12:12:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:46.884128+00:00"
+    },
+    {
+      "id": "ff449edef5127750",
+      "source": "Halk TV",
+      "title": "Son Dakika | Cumhurbaşkanı Erdoğan ile Trump New York'ta görüşecek",
+      "summary": "Son dakika haberi... ABD&#039;nin Ankara Büyükelçisi Thomas Barrack, Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Donald Trump&#039;ın New York&#039;ta görüşeceğini açıkladı.",
+      "link": "https://halktv.com.tr/dunya/son-dakika-cumhurbaskani-erdogan-ile-trump-new-yorkta-gorusecek-1055641h",
+      "published": "2026-09-17T12:12:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:46.884161+00:00"
+    },
+    {
+      "id": "3df983842f659606",
+      "source": "Star",
+      "title": "Fatih'te feci kaza! İki minibüsün çarptığı genç hayatını kaybetti",
+      "summary": "Fatih'te yolun karşısına geçmeye çalışırken peş peşe iki minibüsün çarptığı 20 yaşındaki genç olay yerinde hayatını kaybederken, kazaya karışan sürücüler ifadeleri alınmak üzere polis merkezine götürüldü.",
+      "link": "https://www.star.com.tr/yasam/fatihte-feci-kaza-iki-minibusun-carptigi-genc-hayatini-kaybetti-haber-2040780/",
+      "published": "2026-09-17T12:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:42.751821+00:00"
+    },
+    {
+      "id": "77a13d4aff11b89d",
+      "source": "Yeni Yaşam",
+      "title": "Neçirvan Barzani: Hükümetin ne zaman kurulacağını bilmiyorum",
+      "summary": "Federe Kürdistan Bölgesi’nde KDP ve YNK, aylardır süren hükümet krizini hala çözemedi. Kürdistan Bölgesi Başkanı Neçirvan Barzani, hükümetin ne zaman kurulacağını bilmediğini söyledi Hükümetin 23 aydır kurulamadığı Federe Kürdistan Bölgesi’nde YNK ve KDP arasında görüşmeler yoğunlaşırken, Kürdistan Bölgesi Başkanı Neçirvan Barzani, “Hükümetin kurulması için doğru yönde ilerliyoruz ancak ne zaman k",
+      "link": "https://yeniyasamgazetesi9.com/necirvan-barzani-hukumetin-ne-zaman-kurulacagini-bilmiyorum/",
+      "published": "2026-09-17T12:11:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:51.440823+00:00"
+    },
+    {
+      "id": "0bf94ebc3bfb85b5",
+      "source": "BBC News Türkçe",
+      "title": "AKP'nin seçim hesabı: Kararın aylar öncesinden alınması formülü tartışılıyor",
+      "summary": "Cumhurbaşkanı ve AKP Genel Başkanı Recep Tayyip Erdoğan'ın Rize'de yaptığı \"Önümüzde yaklaşan seçimleri inşallah başarıyla atlatacağımıza olan inancımı yeniliyorum\" açıklaması, erken- baskın seçim tartışmasını yeniden gündeme taşıdı.",
+      "link": "https://www.bbc.com/turkce/articles/cm780xwx2xx8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-17T12:11:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:16:00.924255+00:00"
+    },
+    {
+      "id": "04199ec7fc17947e",
+      "source": "Diken",
+      "title": "İspanya başbakanı, AB bayrağına Kanada yaprağı kondurdu",
+      "summary": "İspanya başbakanı, AB bayrağına Kanada yaprağı kondurdu 17.09.2026 Diken İspanya Başbakanı Pedro Sanchez, Avrupa Birliği'nin (AB) ortak üyelik teklif ettiği Kanada'nın bayrağındaki yaprağı birlik bayrağına ekledi. The post İspanya başbakanı, AB bayrağına Kanada yaprağı kondurdu appeared first on #site_linkat 17.09.2026 .",
+      "link": "https://www.diken.com.tr/ispanya-basbakani-ab-bayragina-kanada-yapragi-kondurdu/?utm_source=rss&utm_medium=rss&utm_campaign=ispanya-basbakani-ab-bayragina-kanada-yapragi-kondurdu",
+      "published": "2026-09-17T12:11:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:47.052347+00:00"
+    },
+    {
+      "id": "c6ea4afdb250a0af",
+      "source": "Yeni Şafak",
+      "title": "Cumhurbaşkanı Erdoğan ile Trump New York'ta görüşecek",
+      "summary": "ABD Büyükelçisi Barrack: Erdoğan ile Trump New York'ta görüşecek.",
+      "link": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-ile-trump-new-yorkta-gorusecek-4856700",
+      "published": "2026-09-17T12:11:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:42.221556+00:00"
+    },
+    {
+      "id": "c324dbf258ee2659",
+      "source": "Yeni Akit",
+      "title": "Erdoğan ve Trump yeni York'ta görüşecek",
+      "summary": "ABD'nin Ankara Büyükelçisi Tom Barrack, Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Donald Trump'ın New York'ta görüşeceğini duyUrdu.",
+      "link": "https://www.yeniakit.com.tr/haber/erdogan-ve-trump-yeni-yorkta-gorusecek-2023349.html",
+      "published": "2026-09-17T12:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:43.241127+00:00"
+    },
+    {
+      "id": "f308564754bb28a4",
+      "source": "Milliyet",
+      "title": "ABD Ankara Büyükelçisi Tom Barrack: Erdoğan ile Trump, New York'ta görüşecek",
+      "summary": "CNN Türk'ün ABD Ankara Büyükelçisi Tom Barrack'ı kaynak göstererek verdiği bilgiye göre Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Donald Trump, BM Genel Kurulu marjında New York'ta görüşecek. AYRINTILAR GELİYOR...",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-abd-ankara-buyukelcisi-tom-barrack-erdogan-ile-trump-new-yorkta-gorusecek-7662303",
+      "published": "2026-09-17T12:10:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:40.625379+00:00"
+    },
+    {
+      "id": "5299d3d89374778b",
+      "source": "Türkiye Gazetesi",
+      "title": "Erdoğan, New York'ta Trump ile görüşecek",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, New York'ta ABD Başkanı Donald Trump'la görüşecek.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/cumhurbaskani-erdogan-new-yorkta-abd-baskani-trumpla-gorusecek-1816674",
+      "published": "2026-09-17T12:10:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:37.925053+00:00"
+    },
     {
       "id": "344d92bb1c6572e1",
       "source": "Yeniçağ",
@@ -17,6 +325,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T12:10:47.198235+00:00"
+    },
+    {
+      "id": "780c00a08aeb0023",
+      "source": "Gerçek Gündem",
+      "title": "Tom Barrack Duyurdu: Cumhurbaşkanı Erdoğan ile Trump New York’ta Görüşecek",
+      "summary": "ABD&#039;nin Ankara Büyükelçisi Tom Barrack, Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Donald Trump&#039;ın New York&#039;ta görüşeceğini duyurdu.",
+      "link": "https://www.gercekgundem.com/gundem/tom-barrack-duyurdu-cumhurbaskani-erdogan-ile-trump-new-yorkta-gorusecek-578827",
+      "published": "2026-09-17T12:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:50.641421+00:00"
+    },
+    {
+      "id": "c42b8ea9446856f9",
+      "source": "Ekonomim",
+      "title": "Trabzonspor yeni teknik direktörünü resmen duyurdu",
+      "summary": "Trabzonspor, Teknik Direktör Thomas Reis ile 2 yıllık sözleşme imzaladı.",
+      "link": "https://www.ekonomim.com/spor/trabzonspor-yeni-teknik-direktorunu-resmen-duyurdu-haberi-918901",
+      "published": "2026-09-17T12:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:52.863843+00:00"
     },
     {
       "id": "f138e0f63d6874e5",
@@ -41,6 +371,50 @@
       "fetched_at": "2026-09-17T12:11:01.690476+00:00"
     },
     {
+      "id": "c43c638db19ff00f",
+      "source": "Milliyet",
+      "title": "Kasapta korkunç manzara: Binlerce lira ceza kesildi",
+      "summary": "Şanlıurfa’da iş yerlerine yönelik denetim yapan, Haliliye İlçe Tarım ve Orman Müdürlüğü ile Haliliye Belediyesi Zabıta ekipleri, Ulubağ Mahallesi’nde faaliyet gösteren bir kasaba baskın yaptı. İ ş yerinde denetim yapan ekipler, son kullanma tarihi geçmiş ve izlenebilirliği bulunmayan 163 kilo tavuk eti ile bozulmuş ve kötü kokulu 152 kilo kırmızı et tespit edildi. Toplam 315 kilo sağlıksız ürüne i",
+      "link": "https://www.milliyet.com.tr/gundem/kasapta-korkunc-manzara-binlerce-lira-ceza-kesildi-7662302",
+      "published": "2026-09-17T12:09:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:40.625735+00:00"
+    },
+    {
+      "id": "70e96385e060705f",
+      "source": "Türkiye Gazetesi",
+      "title": "TFF 1. Lig'de 8. hafta hakemleri belli oldu",
+      "summary": "Trendyol 1'inci Lig'de 18 Eylül, 19 Eylül ve 20 Eylül tarihlerinde oynanacak 8'inci hafta karşılaşmalarında düdük çalacak hakemler açıklandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/tff-1inci-ligde-8inci-hafta-hakemleri-belli-oldu-1816673",
+      "published": "2026-09-17T12:09:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:37.925082+00:00"
+    },
+    {
+      "id": "0b9ffeb57a71d103",
+      "source": "Aydınlık",
+      "title": "Hedef Portföy'den SPK kararı sonrası açıklama",
+      "summary": "Hedef Portföy, SPK&#039;nın fon işlemlerini durdurma kararının finansal yükümlülüklerini yerine getirme kapasitesi veya temerrütle bağlantılı olmadığını belirterek, herhangi bir likidite problemi bulunmadığını açıkladı.",
+      "link": "https://www.aydinlik.com.tr/haber/hedef-portfoyden-spk-karari-sonrasi-aciklama-590549",
+      "published": "2026-09-17T12:09:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:45.167143+00:00"
+    },
+    {
+      "id": "af5dbe378058fd7f",
+      "source": "Finans Gündem",
+      "title": "Mehmet Uçum’dan önemli mesaj: İşte aday, işte seçim tarihi",
+      "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, TBMM’nin 360 milletvekilinin oyuyla seçimlerin yenilenmesine karar vermesi halinde 16 Nisan 2028’i işaret etti. Uçum, Cumhurbaşkanı Erdoğan’ın yeniden aday olacağını söyledi",
+      "link": "https://www.finansingundemi.com/haber/mehmet-ucumdan-onemli-mesaj-iste-aday-iste-secim-tarihi/1908630",
+      "published": "2026-09-17T12:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:54.551865+00:00"
+    },
+    {
       "id": "aef6444f2f1155a9",
       "source": "Yeni Yaşam",
       "title": "İsveç’te seçimleri merkez sol blok kazandı",
@@ -61,6 +435,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T12:10:56.458357+00:00"
+    },
+    {
+      "id": "9e096f0f101e2add",
+      "source": "Akşam",
+      "title": "ABD'den resmi açıklama: Erdoğan ile Trump New York'ta görüşecek",
+      "summary": "ABD Büyükelçisi Barrack, \"Erdoğan ile Trump New York'ta görüşecek\" açıklamasında bulundu.",
+      "link": "https://www.aksam.com.tr/dunya/abd-buyukelcisi-barrack-erdogan-ile-trump-new-yorkta-gorusecek/haber-1699146",
+      "published": "2026-09-17T12:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:41.537288+00:00"
+    },
+    {
+      "id": "424c4161c661ba57",
+      "source": "Star",
+      "title": "Açıklama ABD'den geldi! Cumhurbaşkanı Erdoğan ile Trump New York'ta görüşecek",
+      "summary": "ABD'nin Ankara Büyükelçisi Tom Barrack, Cumhurbaşkanı Erdoğan'ın New York'ta ABD Başkanı Trump'la görüşme gerçekleştireceğini duyurdu.",
+      "link": "https://www.star.com.tr/guncel/aciklama-abdden-geldi-cumhurbaskani-erdogan-ile-trump-new-yorkta-gorusecek-haber-2040778/",
+      "published": "2026-09-17T12:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:42.751868+00:00"
     },
     {
       "id": "d705e9a4efbd592b",
@@ -305,6 +701,17 @@
       "fetched_at": "2026-09-17T12:10:36.034858+00:00"
     },
     {
+      "id": "0548bcd127ea613c",
+      "source": "Evrensel",
+      "title": "Bahisten ceza alan Mert Hakan Yandaş Fenerbahçe'ye dönüyor",
+      "summary": "Tahkim Kurulu tarafından bahis cezası 6 aya indirilen Mert Hakan Yandaş takıma dönüyor. Dava sürecinde 4 ay cezaevinde kalan Fenerbahçeli futbolcunun milli aranın ardından takımla çalışmalara katılması bekleniyor.",
+      "link": "https://www.evrensel.net/haber/6000939/bahisten-ceza-alan-mert-hakan-yandas-fenerbahce-ye-donuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-17T12:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:38.730465+00:00"
+    },
+    {
       "id": "72450936ac33e891",
       "source": "Cumhuriyet",
       "title": "Günlük Burç Yorumları: 18 Eylül Cuma Koç Burcu Yorumu",
@@ -536,6 +943,17 @@
       "fetched_at": "2026-09-17T12:01:09.988364+00:00"
     },
     {
+      "id": "db7fbe050d4613d3",
+      "source": "Evrensel",
+      "title": "Silivri'den özel yayın | İBB davasında 200'ü aşkın kişi savunma yaptı",
+      "summary": "Evrensel editörü Dilan Temiz, Gazeteci Zafer Arapkirli ve Gazeteci Kayhan Ayhan ile birlikte İBB davasının ikinci celsesinde yaşanan gelişmeleri değerlendiriyor.",
+      "link": "https://www.evrensel.net/haber/6000934/silivriden-ozel-yayin-ibb-davasinda-200u-askin-kisi-savunma-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-17T12:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:38.730495+00:00"
+    },
+    {
       "id": "d0d2beb99e4cd768",
       "source": "Cumhuriyet",
       "title": "Duyuru yapıldı: Türkiye Sermaye Piyasaları Birliği'nden SPK'ye destek açıklaması",
@@ -723,6 +1141,17 @@
       "fetched_at": "2026-09-17T12:01:11.798748+00:00"
     },
     {
+      "id": "76aab79198c58589",
+      "source": "Evrensel",
+      "title": "Süper Lig'in 6. haftasında görev yapacak hakemler açıklandı: Trabzonspor-Galatasaray maçının hakemi kim?",
+      "summary": "Süper Lig'de 6. hafta maçlarında görev alacak hakemler belli oldu. Cumartesi günü oynanacak Trabzonspor-Galatasaray maçını Batuhan Kolak yönetecek.",
+      "link": "https://www.evrensel.net/haber/6000937/super-lig-in-6-haftasinda-gorev-yapacak-hakemler-aciklandi-trabzonspor-galatasaray-macinin-hakemi-kim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-17T11:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:38.730519+00:00"
+    },
+    {
       "id": "00beb8b841fa7c83",
       "source": "Gerçek Gündem",
       "title": "Trabzonspor-Galatasaray Derbisinin Hakemi Açıklandı",
@@ -864,6 +1293,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T12:05:29.601871+00:00"
+    },
+    {
+      "id": "bea6a7bbfcb2cf70",
+      "source": "Evrensel",
+      "title": "Yeni Partili Bakırlıoğlu'ndan Soma B Termik Santrali çağrısı: 'İhaleye TKİ girsin ve santrali alsın'",
+      "summary": "Borçları nedeniyle icradan satışa çıkarılan Soma B Termik Santrali'nin ilk ihalesine teklif gelmedi. Tesis önünde açıklama yapan Milletvekili Bakırlıoğlu, ilçe ekonomisinin can damarı olan santralin TKİ tarafından alınarak kamulaştırılmasını istedi.",
+      "link": "https://www.evrensel.net/haber/6000936/yeni-partili-bakirlioglundan-soma-b-termik-santrali-cagrisi-ihaleye-tki-girsin-ve-santrali-alsin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-17T11:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:38.730547+00:00"
+    },
+    {
+      "id": "2c6859735507a590",
+      "source": "Evrensel",
+      "title": "PKK lideri Abdullah Öcalan, silahsızlanma komisyonunda görev alacak",
+      "summary": "umhurbaşkanı Başdanışmanı Mehmet Uçum, İmralı’daki inşa edilen ünitenin ayrıcalık değil çalışma alanı olduğunu belirterek, \"Rutin dışı süreçler, rutin dışı yöntemlerle çözülür\" dedi ve Öcalan'ın alt komisyonda görevlendirileceğini duyurdu.",
+      "link": "https://www.evrensel.net/haber/6000938/pkk-lideri-abdullah-ocalan-silahsizlanma-komisyonunda-gorev-alacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-17T11:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:38.730572+00:00"
     },
     {
       "id": "a1d22398ee39dfb3",
@@ -1194,6 +1645,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T11:50:41.650300+00:00"
+    },
+    {
+      "id": "39221524fb28d58f",
+      "source": "Evrensel",
+      "title": "Trabzonspor’un yeni teknik direktörü Thomas Reis",
+      "summary": "Trabzonspor, teknik direktör Thomas Reis ile anlaşmaya varıldığını açıkladı. Reis için Papara Park’ta imza töreni düzenlenecek.",
+      "link": "https://www.evrensel.net/haber/6000935/trabzonspor-un-yeni-teknik-direktoru-thomas-reis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-17T11:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T12:15:38.730592+00:00"
     },
     {
       "id": "c2450a06825323b5",
@@ -5044,468 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T10:55:40.940245+00:00"
-    },
-    {
-      "id": "2a633384f5ff01f1",
-      "source": "Akşam",
-      "title": "Cumhurbaşkanı Başdanışmanı Uçum'dan seçim açıklaması",
-      "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, \"Seçimlerin yenilenmesi kararı alınırsa 2028 mart ya da 16 Nisan'da olabilir.\" ifadelerini kullandı.",
-      "link": "https://www.aksam.com.tr/guncel/cumhurbaskani-basdanismani-ucum-ocalan-silahsizlanma-alt-komisyonunda-olacak/haber-1699113",
-      "published": "2026-09-17T10:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:50:46.693037+00:00"
-    },
-    {
-      "id": "ace2379d5d8c98cf",
-      "source": "Akşam",
-      "title": "Uçum'dan Terörsüz Türkiye açıklaması: Öcalan alt komisyonda olacak",
-      "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, Abdullah Öcalan'a Terörsüz Türkiye sürecinde kurulan Silahsızlanma ve Stratejik Koordinasyon Alt Komisyon'unda görev verileceğini açıkladı.",
-      "link": "https://www.aksam.com.tr/guncel/cumhurbaskani-basdanismani-ucum-ocalan-silahsizlanma-alt-komisyonunda-olacak/haber-1699113",
-      "published": "2026-09-17T10:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:45:42.110953+00:00"
-    },
-    {
-      "id": "27b15e5112433b7e",
-      "source": "Cumhuriyet",
-      "title": "Katılımevim ve Birevim'de kriz sonrası yeni senaryolar: Yatırımcıların parası ne olacak?",
-      "summary": "Pusula Finans Holding ve bağlı şirketlerde yaşanan gelişmelerin ardından Katılımevim ve Birevim’e para yatıran tasarruf sahiplerinin birikimlerinin akıbeti merak konusu oldu. Katılımevim ve Birevim’in Emlak Katılım Tasarruf Finansman tarafından satın alınmasına yönelik görüşmeler, şirketlerin geleceğine ilişkin yeni bir süreci gündeme getirdi.",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/katilimevim-ve-birevim-de-kriz-sonrasi-yeni-senaryolar-yatirimcilarin-parasi-ne-olacak-2538445",
-      "published": "2026-09-17T10:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:35.415888+00:00"
-    },
-    {
-      "id": "0f81122961493932",
-      "source": "Akşam",
-      "title": "Cumhurbaşkanı Başdanışmanı Uçum: Öcalan Silahsızlanma Alt Komisyonu'nda olacak",
-      "summary": "Cumhurbaşkanı Başdanışmanı Uçum: Öcalan Silahsızlanma Alt Komisyonu'nda olacak",
-      "link": "https://www.aksam.com.tr/guncel/cumhurbaskani-basdanismani-ucum-ocalan-silahsizlanma-alt-komisyonunda-olacak/haber-1699113",
-      "published": "2026-09-17T10:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:40.007624+00:00"
-    },
-    {
-      "id": "bd12259aa2cfb580",
-      "source": "Habertürk",
-      "title": "'Kızılcık Şerbeti'nde sürpriz isim",
-      "summary": "SHOW TV'nin fenomen dizisi 'Kızılcık Şerbeti'nin kadrosuna başarılı oyuncu Murat Aygen katıldı",
-      "link": "https://www.haberturk.com/magazin/murat-aygen-kizilcik-serbeti-nde-3913135",
-      "published": "2026-09-17T10:36:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:45:35.263820+00:00"
-    },
-    {
-      "id": "363d92361e928893",
-      "source": "Gazete Pencere",
-      "title": "Fonu tasfiye edilen yatırımcı ne yapmalı?",
-      "summary": "SPK'nın 7 portföy yönetim şirketinin bazı fonlarının tasfiyesine karar vermesinin ardından yatırımcıların tasfiye sürecinde ne yapacağı merak konusu oldu. Peki fonu tasfiye edilen yatırımcı ne yapmalı?",
-      "link": "https://www.gazetepencere.com/ekonomi/fonu-tasfiye-edilen-yatirimci-ne-yapmali-715850h",
-      "published": "2026-09-17T10:36:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:43.373682+00:00"
-    },
-    {
-      "id": "af9924817eae3f65",
-      "source": "Halk TV",
-      "title": "New York'ta insanların kuyrukta beklediği 60 dolarlık ekmeğin sırrı ne?",
-      "summary": "New York’un lüks SoHo semtinde satılan 60 dolarlık ekşi mayalı çavdar ekmeği, fahiş fiyatına rağmen kapısında uzun kuyruklar oluşturuyor. İthal malzemeler ve astronomik kira giderleriyle çavdar ekmeğin bu sıra dışı fiyatı dudak uçuklatıyor!",
-      "link": "https://halktv.com.tr/yasam/new-yorkta-insanlarin-kuyrukta-bekledigi-60-dolarlik-ekmek-1055615h",
-      "published": "2026-09-17T10:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:43.878716+00:00"
-    },
-    {
-      "id": "60e4b7c82626f28b",
-      "source": "Yeni Yaşam",
-      "title": "HGP-BİM’den ‘yardım talebi’ açıklaması: İtibar edilmemeli",
-      "summary": "Kürdistan Özgürlük Gerillası adına yurtsever halktan yardım talebinde bulunulmasına ilişkin açıklama yapan HPG-BİM, ‘Yurtsever halkımızı, kendilerine not veya başka yöntemlerle ulaşan kişilere itibar etmemeye, Kurdistan Özgürlük Gerillası adına maddi yardım isteyen kişilere karşı duyarlı olmaya çağırıyoruz’ dedi HPG Basın İrtibat Merkezi (HPG-BİM), son dönemlerde Kürdistan Özgürlük Gerillası adına",
-      "link": "https://yeniyasamgazetesi9.com/hgp-bimden-yardim-talebi-aciklamasi-halkimiz-duyarli-olmali/",
-      "published": "2026-09-17T10:35:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T11:11:22.364051+00:00"
-    },
-    {
-      "id": "8dc4774e99953d77",
-      "source": "Yeni Yaşam",
-      "title": "HGP-BİM’den ‘yardım talebi’ açıklaması: Halkımız duyarlı olmalı",
-      "summary": "Kürdistan Özgürlük Gerillası adına yurtsever halktan yardım talebinde bulunulmasına ilişkin açıklama yapan HPG-BİM, ‘Yurtsever halkımızı, kendilerine not veya başka yöntemlerle ulaşan kişilere itibar etmemeye, Kurdistan Özgürlük Gerillası adına maddi yardım isteyen kişilere karşı duyarlı olmaya çağırıyoruz’ dedi HPG Basın İrtibat Merkezi (HPG-BİM), son dönemlerde Kürdistan Özgürlük Gerillası adına",
-      "link": "https://yeniyasamgazetesi9.com/hgp-bimden-yardim-talebi-aciklamasi-halkimiz-duyarli-olmali/",
-      "published": "2026-09-17T10:35:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:47.460608+00:00"
-    },
-    {
-      "id": "ddf454b8eb916382",
-      "source": "Euronews Türkçe",
-      "title": "ABD, Filistin lideri Abbas'a BM zirvesi için ikinci kez vize vermedi",
-      "summary": "Filistin Yönetimi, gelecek hafta düzenlenecek BM Genel Kurulu öncesinde Devlet Başkanı Mahmud Abbas ve onlarca yetkiliye vize vermeme kararı alan ABD'yi kınadı. Böylece Washington, Abbas'ın Genel Kurul'a katılımını üst üste ikinci yıl engellemiş oldu.",
-      "link": "https://tr.euronews.com/2026/09/17/abd-filistin-lideri-abbasa-bm-zirvesi-icin-ikinci-kez-vize-vermedi",
-      "published": "2026-09-17T10:35:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:54.930080+00:00"
-    },
-    {
-      "id": "90bdec1cb7996f29",
-      "source": "Independent Türkçe",
-      "title": "İBB davasında 83. gün",
-      "summary": "Cumhurbaşkanı adayı ve İBB Başkanı Ekrem İmamoğlu’nun da aralarında olduğu 51’i tutuklu 414 sanıklı İBB Davası’nın yargılamasına 83. gününde devam ediliyor. Duruşma, İstanbul 33. Ağır Ceza Mahkemesi’nce Silivri’deki Marmara Kapalı Cezaevi’ne inşa edilen yeni duruşma salonunda görülüyor. Cumhurbaşkanlığı’na bağlı Varlık Fonu’nda Madenler ve Yatırımlar Genel Müdür Danışmanı olarak görev yapan eski İ",
-      "link": "https://www.indyturk.com/node/782612/haber/i%CC%87bb-davas%C4%B1nda-83-g%C3%BCn",
-      "published": "2026-09-17T10:35:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:46.925473+00:00"
-    },
-    {
-      "id": "a5267ee20ae268bb",
-      "source": "Halk TV",
-      "title": "Salah Süper Lig'de herkesi geride bıraktı",
-      "summary": "Trabzonspor&#039;un dünyaca ünlü yıldızı Salah, Süper Lig yıldızlarını geçti.",
-      "link": "https://halktv.com.tr/spor/salah-super-ligde-herkesi-geride-birakti-1055614h",
-      "published": "2026-09-17T10:35:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:42.128852+00:00"
-    },
-    {
-      "id": "4b06a46cdce12d1c",
-      "source": "Aydınlık",
-      "title": "İçişleri Bakanlığı duyurdu: 8 ilde organize suç örgütlerine operasyon",
-      "summary": "8 ilde organize suç örgütlerine yönelik operasyon yapıldı. MASAK incelemesiyle 3,2 milyar TL hareketlilik tespit edildi, 76 kişi yakalandı.",
-      "link": "https://www.aydinlik.com.tr/haber/icisleri-bakanligi-duyurdu-8-ilde-organize-suc-orgutlerine-operasyon-590533",
-      "published": "2026-09-17T10:34:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:42.666426+00:00"
-    },
-    {
-      "id": "6f5554139ba41a30",
-      "source": "CNBC-e",
-      "title": "Trump'ın Bitcoin rezervi yasalaşma yolunda: Tasarı komiteden geçti",
-      "summary": "ABD Temsilciler Meclisi Finansal Hizmetler Komitesi, Trump yönetiminin Stratejik Bitcoin Rezervi'ni federal yasaya dönüştürmeyi amaçlayan ARMA tasarısını 28'e karşı 21 oyla ilerletti.",
-      "link": "https://www.cnbce.com/kripto/trumpin-bitcoin-rezervi-yasalasma-yolunda-tasari-komiteden-gecti-h37440",
-      "published": "2026-09-17T10:34:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:49.365552+00:00"
-    },
-    {
-      "id": "dc31c816e544f050",
-      "source": "Karar",
-      "title": "Mehmet Uçum'dan seçim tarihi açıklaması: 16 Nisan 2028",
-      "summary": "Mehmet Uçum, 16 Nisan tarihinin Cumhurbaşkanlığı Hükümet Sistemi’ne geçişin referandum yıl dönümüne denk gelmesi nedeniyle sembolik önem taşıdığını belirtti. Mevcut takvime göre 7 Mayıs 2028 olan seçim tarihinin üç hafta öne çekilmesinin söz konusu olduğunu söyledi.",
-      "link": "https://www.karar.com/guncel-haberler/mehmet-ucumdan-secim-tarihi-aciklamasi-16-nisan-2028-2072529",
-      "published": "2026-09-17T10:34:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:39.640841+00:00"
-    },
-    {
-      "id": "4cb0c7500645a324",
-      "source": "Independent Türkçe",
-      "title": "American Airlines uçağında koltuğa bantlanan adam konuştu",
-      "summary": "Şiddet içerdiği iddia edilen bir taşkınlığın ardından American Airlines uçağındaki koltuğuna koli bandıyla bağlanmak zorunda kalınmasıyla manşetlere taşınan Layne Lundeen, olayla ilgili ilk kez kamuoyuna açıklama yaptı. 3 Eylül'de Dallas'la New Jersey arasındaki American Airlines uçuşunda, Lundeen'in uçuş ekibine ırkçı hakaretler yağdırmaya ve yanındaki yolcuyu boğmaya çalıştığı iddia edildi. Bunu",
-      "link": "https://www.indyturk.com/node/782611/ya%C5%9Fam/american-airlines-u%C3%A7a%C4%9F%C4%B1nda-koltu%C4%9Fa-bantlanan-adam-konu%C5%9Ftu",
-      "published": "2026-09-17T10:34:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T12:05:47.589825+00:00"
-    },
-    {
-      "id": "cfad13917f4abd16",
-      "source": "Karar",
-      "title": "Beştepe seçim için tarih verdi: Erdoğan son kez aday olacak",
-      "summary": "Cumhurbaşkanı Erdoğan'ın Başdanışmanı Uçum, 2028’de yapılacak Cumhurbaşkanlığı ve milletvekili seçimleri için 16 Nisan 2028 tarihini işaret etti. Cumhurbaşkanı Erdoğan’ın siyasi olarak adaylığının netleştiğini savunan Uçum, hukuki olarak yeniden adaylığın ise TBMM’nin seçimlerin yenilenmesine karar vermesiyle mümkün olacağını söyledi. Uçum, “16 Nisan, Cumhurbaşkanlığı Hükümet Sistemi’ne geçiş refe",
-      "link": "https://www.karar.com/guncel-haberler/mehmet-ucumdan-secim-tarihi-aciklamasi-16-nisan-2028-2072529",
-      "published": "2026-09-17T10:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:50:50.445768+00:00"
-    },
-    {
-      "id": "d320aff16734be07",
-      "source": "Cumhuriyet",
-      "title": "Pazardan Alırken Dikkat: Konservelik Domates İle Salçalık Domates Arasındaki 3 Fark",
-      "summary": "Kış hazırlıklarının başladığı bu günlerde semt pazarlarında domates hareketliliği tavan yaptı. Peki, Konservelik Domates İle Salçalık Domates Arasındaki 3 Fark ne?",
-      "link": "https://www.cumhuriyet.com.tr/yasam/pazardan-alirken-dikkat-konservelik-domates-ile-salcalik-domates-arasindaki-3-fark-2538443",
-      "published": "2026-09-17T10:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:35.415924+00:00"
-    },
-    {
-      "id": "2a416b350367a330",
-      "source": "Akşam",
-      "title": "Alman mahkemesinden Meta'ya suçlama",
-      "summary": "Almanya'da Frankfurt Bölge Mahkemesi, ABD merkezli teknoloji şirketi Meta'nın, bünyesindeki Facebook ve Instagram platformlarında üçüncü taraflarca yayımlanan dolandırıcılık amaçlı reklamlardan hukuken sorumlu olduğuna karar verdi.",
-      "link": "https://www.aksam.com.tr/dunya/alman-mahkemesinden-metaya-suclama/haber-1699112",
-      "published": "2026-09-17T10:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:37.844647+00:00"
-    },
-    {
-      "id": "74c6f12d80d3000c",
-      "source": "Akşam",
-      "title": "Apple iPhone 18 Pro Max'te bir ilke imza atacak! Kullanıcılar bu habere sevinecek",
-      "summary": "Apple'ın yeni amiral gemisi modeli iPhone 18 Pro Max'in şarj performansı teknoloji dünyasında gündem oldu. İddialara göre cihaz, şimdiye kadar üretilen iPhone modelleri arasında en hızlı şarj olan model olacak. iPhone 18 Pro Max'in 15 dakikada yüzde 50 seviyesine ulaşabilmesi bekleniyor. İşte yeni modelin dikkat çeken şarj özellikleri...",
-      "link": "https://www.aksam.com.tr/teknoloji/apple-iphone-18-pro-maxte-bir-ilke-imza-atacak-kullanicilar-bu-e-sevinecek/haber-1699111",
-      "published": "2026-09-17T10:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:37.844696+00:00"
-    },
-    {
-      "id": "85e399989d58c3e2",
-      "source": "Star",
-      "title": "Bölgenin yeni sağlık üssü için geri sayım! Dev projenin açılış tarihi belli oldu",
-      "summary": "Trabzon'da 900 yatak kapasitesi ve 5 bin fore kazık üzerine inşa edilen Şehir Hastanesi'nde çalışmalarda son aşamaya gelinirken, bölgedeki yoğun bakım kapasitesini iki katına çıkaracak ve 8 bin personelin görev yapacağı dev sağlık tesisinin yıl sonuna doğru hizmete açılması planlanıyor.",
-      "link": "https://www.star.com.tr/ekonomi/bolgenin-yeni-saglik-ussu-icin-geri-sayim-dev-projenin-acilis-tarihi-belli-oldu-haber-2040754/",
-      "published": "2026-09-17T10:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:38.941558+00:00"
-    },
-    {
-      "id": "675d6f2e3340985a",
-      "source": "Milliyet",
-      "title": "Ölümü eski eşi ve çocukları planladı! İş insanına 'Dana Deviren' tuzağı: Sadece para yeme derdine düştüm",
-      "summary": "Ankara 33. Ağır Ceza Mahkemesi tarafından kabul edilen iddianameye göre, 16 Kasım 2025'te Keçiören'de öldürülen iş adamı Arıkan, eski eşi Sultan Seki, kızı H. Sude Arıkan ve Mustafa Ünal tarafından pikniğe götürüldü. Arıkan, piknik sırasında yiyecek ve içeceklerine \"ksilazin\" etken maddeli ilaç katılarak sersemletildi. İlacın etkisiyle bilincini kaybeden Arıkan'ın eski eşinin evine getirildiği ve ",
-      "link": "https://www.milliyet.com.tr/gundem/is-insaninin-olumunde-dana-deviren-detayi-eski-es-ve-cocuklarindan-korkunc-plan-sadece-para-yeme-derdine-dustum-7662200",
-      "published": "2026-09-17T10:33:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T12:10:43.833215+00:00"
-    },
-    {
-      "id": "5a0fed43405617df",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Alman mahkemesi, Meta’yı platformlarındaki \"dolandırıcılık amaçlı reklamlar\"dan sorumlu tuttu",
-      "summary": "Almanya’da Frankfurt Bölge Mahkemesi, ABD merkezli teknoloji şirketi Meta'nın, bünyesindeki Facebook ve Instagram platformlarında üçüncü taraflarca yayımlanan dolandırıcılık amaçlı reklamlardan hukuken sorumlu olduğuna karar verdi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/alman-mahkemesi-meta-yi-platformlarindaki-dolandiricilik-amacli-reklamlardan-sorumlu-tuttu/4059944",
-      "published": "2026-09-17T10:33:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T11:05:29.070242+00:00"
-    },
-    {
-      "id": "a6cebf7f5f3eb73b",
-      "source": "Gazete Pencere",
-      "title": "Akbank Sanat'tan \"Garip Şeyler Oluyor\" sergisi",
-      "summary": "Esra Özdoğan, Gülin Hayat Topdemir ve Nazif Topçuoğlu’nun eserlerini buluşturan “Garip Şeyler Oluyor”, teknolojinin ve değişen gündelik hayatın yarattığı yabancılaşmaya odaklanıyor. Akbank Sanat’ın sergisi 23-27 Eylül’de Tersane İstanbul’da görülebilecek.",
-      "link": "https://www.gazetepencere.com/kultur-sanat/akbank-sanattan-garip-seyler-oluyor-sergisi-715849h",
-      "published": "2026-09-17T10:33:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:41.453845+00:00"
-    },
-    {
-      "id": "ab81a1d6926d3f24",
-      "source": "Bir Gün",
-      "title": "Ermenistan Başbakanı Paşinyan: \"Bizim Rus askeri üssüne ihtiyacımız yok\"",
-      "summary": "Ermenistan Başbakanı Nikol Paşinyan, ülkesinde konuşlu Rus askeri üssünün güvenlik açısından hayati önem taşımadığını ve buna ihtiyaçlarının olmadığını belirtti.",
-      "link": "https://www.birgun.net/haber/ermenistan-basbakani-pasinyan-bizim-rus-askeri-ussune-ihtiyacimiz-yok-735332",
-      "published": "2026-09-17T10:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T11:40:39.688300+00:00"
-    },
-    {
-      "id": "cb3f697c70a6c422",
-      "source": "Akşam",
-      "title": "Ankara'da depoya baskın: Kaçak malzemeler ele geçirildi",
-      "summary": "Ankara'da jandarma ekiplerince bir depoya gerçekleştirilen operasyonda kaçak akaryakıt üretimde kullanılan malzemeler ele geçirildi.",
-      "link": "https://www.aksam.com.tr/guncel/ankarada-depoya-baskin-kacak-malzemeler-ele-gecirildi/haber-1699110",
-      "published": "2026-09-17T10:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:37.844724+00:00"
-    },
-    {
-      "id": "286a29caf581b198",
-      "source": "Star",
-      "title": "Meteoroloji'den son dakika uyarısı! Fırtına yarın akşama kadar sürecek",
-      "summary": "Meteoroloji'nin son dakika verilerine göre, yarın akşam saatlerine kadar Hakkari ve Şırnak çevreleri ile Van'ın güney, Siirt'in doğu kesimlerinde, güney ve güneybatı yönlerden kuvvetli rüzgar ve fırtınanın etkili olması bekleniyor.",
-      "link": "https://www.star.com.tr/yasam/meteorolojiden-son-dakika-uyarisi-firtina-yarin-aksama-kadar-surecek-haber-2040753/",
-      "published": "2026-09-17T10:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:38.941598+00:00"
-    },
-    {
-      "id": "8be4af18c8a5f047",
-      "source": "Türkiye Gazetesi",
-      "title": "Ekmekte gramaj hilesi! 50 gramın bedeli ağır oldu",
-      "summary": "Şavşat Belediyesi zabıta ekiplerinin market denetiminde 230 gram olması gereken ekmek, 180 gram çıktı. Eksik gramajlı ekmek satan işletmelere 18 bin TL ceza kesildi. Şavşat Belediye Başkanı Durmuş Aydın, \"Kimsenin hakkını kimseye yedirmeyiz. Zabıta ekiplerimizin denetimleri yıl boyunca artarak devam edecektir.\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/230-gram-olmasi-gereken-ekmek-180-gram-cikti-50-gramin-bedeli-agir-oldu-1816647",
-      "published": "2026-09-17T10:32:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:35.597948+00:00"
-    },
-    {
-      "id": "89fbb6f286d862d2",
-      "source": "Habertürk",
-      "title": "Cumhurbaşkanı Erdoğan'dan mesaj",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan \"Türk demokrasisine, milletin iradesine vurulmuş ağır bir darbe olan 27 Mayıs’ın cunta mahkemesi tarafından haksız, hukuksuz şekilde idama mahkûm edilen Başbakan Adnan Menderes, Dışişleri Bakanı Fatin Rüştü Zorlu ve Maliye Bakanı Hasan Polatkan’ı, katledilmelerinin 65’inci yılında rahmetle yâd ediyorum. Rabb’im mekânlarını cennet, ruhlarını şad eylesin\" dedi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-adnan-menderes-ve-arkadaslarini-andi-3913071",
-      "published": "2026-09-17T10:32:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:32.915929+00:00"
-    },
-    {
-      "id": "26bc752b4f49651c",
-      "source": "Euronews Türkçe",
-      "title": "İstanbul Havalimanı, Londra Heathrow'u geçerek dünyanın en bağlantılı havalimanı oldu",
-      "summary": "Dünyadaki bağlantı ağı en güçlü 50 havalimanının 12’si Avrupa’da yer alıyor; kıtanın hava trafiği açısından önemini ortaya koyuyor.",
-      "link": "https://tr.euronews.com/gezi/2026/09/17/istanbul-havalimani-londra-heathrowu-gecerek-dunyanin-en-baglantili-havalimani-oldu",
-      "published": "2026-09-17T10:32:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:54.930117+00:00"
-    },
-    {
-      "id": "27294e80f0134bb0",
-      "source": "Evrensel",
-      "title": "Dünyanın incir ambarı jeotermal cehennemine sürükleniyor: Maren Enerji'ye Germencik'te yeni jeotermal arama izni verildi",
-      "summary": "Aydın’ın Germencik ilçesi Hıdırbeyli Mahallesi'nde Maren Enerji'nin üç yeni jeotermal kaynak arama kuyusu projesi için ÇED olumlu kararı verildi. Kuyular bahçesi niteliğinde görünen 1,0438 hektarlık alanda açılmak isteniyor.",
-      "link": "https://www.evrensel.net/haber/6000917/dunyanin-incir-ambari-jeotermal-cehennemine-surukleniyor-maren-enerjiye-germencikte-yeni-jeotermal-arama-izni-verildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-17T10:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:37.994389+00:00"
-    },
-    {
-      "id": "b5baee118a7555ae",
-      "source": "Cumhuriyet",
-      "title": "Hamur açmaya gerek yok! Çıtır çıtır milföy pide tarifi",
-      "summary": "Evde pide yapmak isteyen ancak hamur yoğurmakla uğraşmak istemeyenler için pratik bir alternatif öne çıkıyor. Milföy hamuruyla hazırlanan bu nefis tarif, kısa sürede sofraya geliyor. Peki, çıtır çıtır milföy pide nasıl yapılır, hangi malzemeler kullanılır?",
-      "link": "https://www.cumhuriyet.com.tr/gurme/hamur-acmaya-gerek-yok-citir-citir-milfoy-pide-tarifi-2538444",
-      "published": "2026-09-17T10:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:30.397031+00:00"
-    },
-    {
-      "id": "1b98faaa646fc7bc",
-      "source": "Akşam",
-      "title": "17 Eylül Perşembe: Bugün altın kaç TL? Gram ile çeyrek altın ne kadar? Güncel altın fiyatları",
-      "summary": "Altın fiyatlarındaki hareketlilik devam ediyor. Yaşanan düşüş ve çıkışlar, yatırımcıların ilgisini canlı tutuyor. Bu kapsamda pek çok kişi, ''Gram ile çeyrek altın ne kadar?'' sorusunun cevabını merak ederek araştırıyor. Peki, 17 Eylül Perşembe bugün altın kaç TL? İşte detaylar...",
-      "link": "https://www.aksam.com.tr/pusula/17-eylul-persembe-bugun-altin-kac-tl-gram-ile-ceyrek-altin-ne-kadar-guncel-altin-fiyatlari/haber-1699109",
-      "published": "2026-09-17T10:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:37.844761+00:00"
-    },
-    {
-      "id": "ffdb83186bdbe770",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Çaykur Rizesporlu Sowe'dan \"gol beklentisi\" yorumu",
-      "summary": "Çaykur Rizespor'un forvet oyuncusu Ali Sowe, taraftarın kendisinden gol beklentisini anladığını ancak futbolun takım oyunu olduğunu söyledi.",
-      "link": "https://www.aa.com.tr/tr/spor/caykur-rizesporlu-sowedan-gol-beklentisi-yorumu/4059943",
-      "published": "2026-09-17T10:31:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T11:11:12.020165+00:00"
-    },
-    {
-      "id": "788e9b6db3723201",
-      "source": "Euronews Türkçe",
-      "title": "Mbappe'den Ceuta tişörtüne ilişkin açıklama: 'Göçmenleri de düşünmek istedim'",
-      "summary": "Kylian Mbappe, Real Madrid'in Elche maçı öncesinde Vinicius Junior ve Ibrahima Konate ile birlikte Ceuta'ya destek amacıyla hazırlanan tişörtü tam olarak giymemelerinin kent halkına karşı bir tavır olmadığını söyledi.",
-      "link": "https://tr.euronews.com/2026/09/17/mbappeden-ceuta-tisortune-iliskin-aciklama-gocmenleri-de-dusunmek-istedim",
-      "published": "2026-09-17T10:31:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:54.930150+00:00"
-    },
-    {
-      "id": "4850bba400cb3593",
-      "source": "Türkiye Gazetesi",
-      "title": "Kene kabusu! Şimdi ne konuşabiliyor ne de yürüyebiliyor",
-      "summary": "ABD'nin New Hampshire eyaletinde yaşayan 66 yaşındaki emekli eczacı John Reagan, derisinden çıkardığı keneyi başlarda önemsemedi. Haftalar sonra baş ağrısı, ateş ve mide bulantısı gibi belirtiler yaşayan Reagan, kısa süre içinde konuşamaz ve hareket edemez hale geldi. Acı gerçek hastanede yapılan tetkiklerde ortaya çıkarken, talihsiz adam şimdi konuşma ve bilişsel yetilerini yeniden kazanabilmek i",
-      "link": "https://www.turkiyegazetesi.com.tr/saglik/kene-isirigi-hayatini-altust-etti-15-dakikada-bulasiyor-simdi-ne-konusabiliyor-ne-yur-1816646",
-      "published": "2026-09-17T10:31:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:37.622645+00:00"
-    },
-    {
-      "id": "cfc381719e173fea",
-      "source": "Türkiye Gazetesi",
-      "title": "Kene ısırığı hayatını altüst etti!",
-      "summary": "ABD'nin New Hampshire eyaletinde yaşayan 66 yaşındaki emekli eczacı John Reagan, derisinden çıkardığı keneyi başlarda önemsemedi. Haftalar sonra baş ağrısı, ateş ve mide bulantısı gibi belirtiler yaşayan Reagan, kısa süre içinde konuşamaz ve hareket edemez hale geldi. Acı gerçek hastanede yapılan tetkiklerde ortaya çıkarken, talihsiz adam şimdi konuşma ve bilişsel yetilerini yeniden kazanabilmek i",
-      "link": "https://www.turkiyegazetesi.com.tr/saglik/kene-isirigi-hayatini-altust-etti-15-dakikada-bulasiyor-simdi-ne-konusabiliyor-ne-yur-1816646",
-      "published": "2026-09-17T10:31:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:35.598000+00:00"
-    },
-    {
-      "id": "3d448820661ad9a1",
-      "source": "Habertürk",
-      "title": "Hedef Portföy: Likidite problemi bulunmuyor",
-      "summary": "Hedef Portföy, SPK'nın 17 Eylül tarihli kararı kapsamında TEFAS'ta işlem gören fonlarının alım ve satım işlemlerinin durdurulduğunu açıkladı. Şirket, kararın finansal yükümlülüklerini yerine getirme kapasitesi veya temerrüt kaynaklı olmadığını, fonlarının ödeme gücü açısından herhangi bir likidite problemi bulunmadığını bildirdi",
-      "link": "https://www.haberturk.com/ekonomi/hedef-portfoy-den-spk-karari-sonrasi-aciklama-3913132",
-      "published": "2026-09-17T10:31:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:32.915980+00:00"
-    },
-    {
-      "id": "31190c6928a9a343",
-      "source": "Yeni Şafak",
-      "title": "Rojin Kabaiş soruşturmasında bilirkişi raporu tamamlandı: Yeni görüntüler ortaya çıktı 4 kritik şüphe savcılıkta",
-      "summary": "Van'da üniversite eğitimi için gittiği yurttan ayrıldıktan 18 gün sonra cansız bedeni bulunan Rojin Kabaiş'in ölümüne ilişkin yürütülen soruşturmada dosya genişletiliyor. Aile avukatı Abdurrahman Karabulut'un talebiyle Mersin'de görevlendirilen bir bilirkişi tarafından hazırlanan yeni raporda; HTS, baz istasyonu ve güvenlik kamerası kayıtlarının detaylı incelemesi sonucu dört önemli şüphe tespit e",
-      "link": "https://www.yenisafak.com/galeri/gundem/rojin-kabais-sorusturmasinda-bilirkisi-raporu-tamamlandi-yeni-goruntuler-ortaya-cikti-4-kritik-suphe-savcilikta-4856674",
-      "published": "2026-09-17T10:31:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:40.598064+00:00"
-    },
-    {
-      "id": "7fe1bfcd82a1f3ef",
-      "source": "Yeni Şafak",
-      "title": "Rojin Kabaiş soruşturmasında yeni bilirkişi raporu: Yeni görüntüler ortaya çıktı 4 kritik şüphe savcılıkta",
-      "summary": "Van'da üniversite eğitimi için gittiği yurttan ayrıldıktan 18 gün sonra cansız bedeni bulunan Rojin Kabaiş'in ölümüne ilişkin yürütülen soruşturmada dosya genişletiliyor. Aile avukatı Abdurrahman Karabulut'un talebiyle Mersin'de görevlendirilen bir bilirkişi tarafından hazırlanan yeni raporda; HTS, baz istasyonu ve güvenlik kamerası kayıtlarının detaylı incelemesi sonucu dört önemli şüphe tespit e",
-      "link": "https://www.yenisafak.com/galeri/gundem/rojin-kabais-sorusturmasinda-yeni-bilirkisi-raporu-yeni-goruntuler-ortaya-cikti-4-kritik-suphe-savcilikta-4856674",
-      "published": "2026-09-17T10:31:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:38.685556+00:00"
-    },
-    {
-      "id": "e81f2907e65c039a",
-      "source": "OdaTV",
-      "title": "Fed kararından iç piyasaya sıcak saatler: Altın tırmanıyor",
-      "summary": "Bursa İstanbul&#039;daki kayıpların ardından atılan likidite ve SPK adımlarına, FED&#039;in faiz artırımı eklendi. Küresel ve yerel gelişmelerle altın yükselişe geçti.",
-      "link": "https://www.odatv.com/ekonomi/17-eylul-2026-canli-altin-fiyatlari-gram-ve-ceyrek-altin-ne-kadar-oldu-120163068",
-      "published": "2026-09-17T10:31:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:40:43.606393+00:00"
-    },
-    {
-      "id": "a8cbab84bf5f1fd3",
-      "source": "Gazete Pencere",
-      "title": "Belediye başkanına saldırının azmettiricisi olmakla suçlanan 3 kişi adliyeye sevk edildi",
-      "summary": "Fethiye Belediye Başkanı Alim Karaca'nın yaralandığı silahlı saldırıyı azmettirmekle suçlanan 3 kişi adliyeye sevk edildi.",
-      "link": "https://www.gazetepencere.com/gundem/belediye-baskanina-saldirinin-azmettiricisi-olmakla-suclanan-3-kisi-adliyeye-715848h",
-      "published": "2026-09-17T10:31:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T10:35:41.453881+00:00"
     }
   ]
 }

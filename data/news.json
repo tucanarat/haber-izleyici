@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-09-17T04:10:53.323882+00:00",
+  "last_updated": "2026-09-17T04:16:01.427109+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 578,
+  "new_items_this_run": 581,
   "items": [
+    {
+      "id": "f75f4ea0587a87f4",
+      "source": "Akşam",
+      "title": "Münir Canar hayatını kaybetti! Sevenlerini üzen haber...",
+      "summary": "Münir Canar'dan gelen haber sevenlerini yasa boğdu. 81 yaşındaki oyuncu Münir Canar hayatını kaybetti.",
+      "link": "https://www.aksam.com.tr/venus/munir-canar-hayatini-kaybetti-sevenlerini-uzen-/haber-1698968",
+      "published": "2026-09-17T04:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T04:15:41.721439+00:00"
+    },
+    {
+      "id": "2cc89a4761696f3b",
+      "source": "Ekonomim",
+      "title": "Dolar/TL bugün ne kadar? (17 Eylül 2026 dolar - Euro fiyatları)",
+      "summary": "Yatırımcılar ve vatandaşların iç ve dış piyasaya hakim olmak için yakından takip ettiği altın ve döviz kurundaki son ve güncel veriler merak ediliyor. Peki, dolar - Euro fiyatları bugün kaç lira? Güncel dolar fiyatları ne? İşte 17 Eylül 2026 Perşembe gününe ilişkin döviz kuru fiyatları...",
+      "link": "https://www.ekonomim.com/finans/haberler/dolartl-bugun-ne-kadar-17-eylul-2026-dolar-euro-fiyatlari-haberi-918733",
+      "published": "2026-09-17T04:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T04:15:52.999552+00:00"
+    },
+    {
+      "id": "5a637c296aaba7e1",
+      "source": "Star",
+      "title": "Trump'tan İran açıklaması: Sonuna yaklaştık",
+      "summary": "ABD Başkanı Donald Trump, anlaşma yapmak amacıyla Tahran'ın kendileriyle doğrudan temasa geçtiğini belirterek, \"Umarım (İran'la) savaşın sonuna doğru ilerliyoruz.\" dedi.",
+      "link": "https://www.star.com.tr/dunya/trumptan-iran-aciklamasi-sonuna-yaklastik-haber-2040647/",
+      "published": "2026-09-17T04:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T04:15:42.510019+00:00"
+    },
+    {
+      "id": "073284a6ad18cb1b",
+      "source": "CNBC-e",
+      "title": "ABD ile AB arasında “Kanada” gerilimi: Trump’tan tarife tehdidi",
+      "summary": "ABD Başkanı Trump, Avrupa Birliği'nin Kanada'yı ilk \"ortak üye\" yapma planına sert tepki gösterdi. Trump, bu adımın hayata geçirilmesi durumunda AB'ye ağır tarifeler getirebileceğini veya Avrupa ile ticareti tamamen durdurabileceğini söyledi.",
+      "link": "https://www.cnbce.com/dunya/abd-ile-ab-arasinda-kanada-gerilimi-trumptan-tarife-tehdidi-h37399",
+      "published": "2026-09-17T04:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T04:15:53.958947+00:00"
+    },
+    {
+      "id": "1a2f25ba448a6db5",
+      "source": "Akşam",
+      "title": "Maltepe'de sahil yolu savaş alanına döndü: 9 yaralı, 2'sinin durumu ağır",
+      "summary": "İstanbul Maltepe'de sahil yolunda iki otomobilin çarpışması sonucu 9 kişi yaralandı. Yaralılardan 2'sinin durumunun ağır olduğu bildirildi.",
+      "link": "https://www.aksam.com.tr/guncel/maltepede-sahil-yolu-savas-alanina-dondu-9-yarali-2sinin-durumu-agir/haber-1698967",
+      "published": "2026-09-17T04:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T04:15:41.721473+00:00"
+    },
+    {
+      "id": "4096549f56c29bbe",
+      "source": "Akşam",
+      "title": "Hakim ve savcı atamalarında sistem değişti",
+      "summary": "Bakan Gürlek, hakim - savcı atamalarında yeni bir sisteme geçildiğini duyurdu.",
+      "link": "https://www.aksam.com.tr/guncel/hakim-ve-savci-atamalarinda-sistem-degisti/haber-1698966",
+      "published": "2026-09-17T04:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T04:15:41.721497+00:00"
+    },
+    {
+      "id": "680dc7fe1bfcde67",
+      "source": "Ekonomim",
+      "title": "Altın yeniden yükselişte! Fed’in faiz kararı sonrası dikkat çeken hareket",
+      "summary": "Altın fiyatları, ABD Merkez Bankası’nın (Fed) faiz kararının ardından yatırımcıların para politikasına ilişkin yeni mesajları değerlendirmesiyle Perşembe günü yükselişe geçti. Spot altın yüzde 1’in üzerinde değer kazanırken, petrol fiyatlarındaki yükselişin hız kesmesi de değerli metaldeki toparlanmayı destekledi.",
+      "link": "https://www.ekonomim.com/finans/haberler/altin/altin-yeniden-yukseliste-fedin-faiz-karari-sonrasi-dikkat-ceken-hareket-haberi-918732",
+      "published": "2026-09-17T04:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-17T04:15:52.999599+00:00"
+    },
     {
       "id": "32f5a138560c38dc",
       "source": "Ekonomim",
@@ -5429,83 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-16T21:01:14.441020+00:00"
-    },
-    {
-      "id": "acd64ca7926e224a",
-      "source": "Ekonomim",
-      "title": "17 bin profesyonele 8 bin iş görüşmesi yaptıracak, ‘daha çok harcayan turist’e yönelecek",
-      "summary": "",
-      "link": "https://www.ekonomim.com/kose-yazisi/17-bin-profesyonele-8-bin-is-gorusmesi-yaptiracak-daha-cok-harcayan-turiste-yonelecek/918708",
-      "published": "2026-09-16T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T21:01:14.441042+00:00"
-    },
-    {
-      "id": "b2fc3839084a79e8",
-      "source": "Ekonomim",
-      "title": "Verimlilik ölçülür, bereket hissedilir",
-      "summary": "",
-      "link": "https://www.ekonomim.com/kose-yazisi/verimlilik-olculur-bereket-hissedilir/918709",
-      "published": "2026-09-16T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T21:01:14.441060+00:00"
-    },
-    {
-      "id": "d4ec64d67ebabed5",
-      "source": "Ekonomim",
-      "title": "Yemen, Riyad ve yeni bölgesel hesaplar; Ortadoğu'da kartlar yeniden dağıtılıyor",
-      "summary": "",
-      "link": "https://www.ekonomim.com/kose-yazisi/yemen-riyad-ve-yeni-bolgesel-hesaplar-ortadoguda-kartlar-yeniden-dagitiliyor/918710",
-      "published": "2026-09-16T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T21:01:14.441101+00:00"
-    },
-    {
-      "id": "f9faa5cd05b76732",
-      "source": "Ekonomim",
-      "title": "Kazanın doğurduğuna inanıyorsun da öldüğüne neden inanmıyorsun?",
-      "summary": "",
-      "link": "https://www.ekonomim.com/kose-yazisi/kazanin-dogurduguna-inaniyorsun-da-oldugune-neden-inanmiyorsun/918711",
-      "published": "2026-09-16T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T21:01:14.441125+00:00"
-    },
-    {
-      "id": "7ac93425b0690503",
-      "source": "Ekonomim",
-      "title": "Fed frene basarsa dünya ne yapacak?",
-      "summary": "",
-      "link": "https://www.ekonomim.com/kose-yazisi/fed-frene-basarsa-dunya-ne-yapacak/918712",
-      "published": "2026-09-16T21:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T21:01:14.441144+00:00"
-    },
-    {
-      "id": "858115690d103df4",
-      "source": "Gazete Pencere",
-      "title": "Şamil Tayyar’dan Abdülkadir Selvi’ye 'İmralı villası' yanıtı",
-      "summary": "Şamil Tayyar, iktidara yakınlığıyla bilinen Abdülkadir Selvi’nin İmralı’daki konutla ilgili değerlendirmelerine yanıt verdi. Selvi'nin Bahçeli’nin açıklamasını tevil etmeye çalıştığını belirten Tayyar, \"Sürecin şeffaf şekilde yürütülmesi gerekir\" dedi.",
-      "link": "https://www.gazetepencere.com/gundem/samil-tayyardan-abdulkadir-selviye-imrali-villasi-yaniti-715783h",
-      "published": "2026-09-16T20:59:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T21:01:08.278765+00:00"
-    },
-    {
-      "id": "4b39579c4bd53c72",
-      "source": "Yeni Şafak",
-      "title": "Bursa'da hafif ticari araç refüjdeki ağaca çarptı: İki kişi yaralandı",
-      "summary": "Bursa'nın İnegöl ilçesinde yağış nedeniyle kayganlaşan yolda sürücüsünün kontrolünü kaybettiği hafif ticari araç, refüjdeki ağaca çarptı. Kazada, biri çocuk iki kişi yaralandı.",
-      "link": "https://www.yenisafak.com/gundem/bursada-hafif-ticari-arac-refujdeki-agaca-carpti-iki-kisi-yaralandi-4856520",
-      "published": "2026-09-16T20:58:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-16T21:01:05.349508+00:00"
     }
   ]
 }

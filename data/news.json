@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T03:40:53.631508+00:00",
+  "last_updated": "2026-09-18T03:45:59.222822+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 586,
   "items": [
+    {
+      "id": "72615496cdc53db3",
+      "source": "Halk TV",
+      "title": "Balıkesir’de çayda erkek cesedi bulundu",
+      "summary": "Balıkesir&#039;in Edremit ilçesinde, çayda erkek cesedi bulundu. 51 yaşında olduğu tespit edilen Demirbilek&#039;in ölüm nedeni bilinmiyor.",
+      "link": "https://halktv.com.tr/turkiye/balikesirde-cayda-erkek-cesedi-bulundu-1055762h",
+      "published": "2026-09-18T03:45:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T03:45:47.056050+00:00"
+    },
     {
       "id": "0860c3fad49751ae",
       "source": "OdaTV",
@@ -4375,6 +4386,17 @@
       "fetched_at": "2026-09-17T21:10:53.332049+00:00"
     },
     {
+      "id": "255e80c474cf741d",
+      "source": "Aydınlık",
+      "title": "Beşiktaş, Marsilya'yı 4-1 mağlup etti",
+      "summary": "UEFA Avrupa Ligi’nin ilk haftasında Beşiktaş, sahasında Fransız ekibi Marsilya&#039;yı 4-1 mağlup etti.",
+      "link": "https://www.aydinlik.com.tr/haber/besiktas-marsilyayi-4-1-maglup-etti-590636",
+      "published": "2026-09-17T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T03:45:45.903817+00:00"
+    },
+    {
       "id": "26973424c16f0701",
       "source": "Ekonomim",
       "title": "İklim hedefi yetmiyor, sermaye proje arıyor",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T21:01:09.079948+00:00"
-    },
-    {
-      "id": "0b0cb576c187bebf",
-      "source": "Halk TV",
-      "title": "Beşiktaş Marsilya'yı ezdi geçti: UEFA Avrupa Ligi'ne farklı başladı",
-      "summary": "UEFA Avrupa Ligi 1. hafta maçında Beşiktaş, sahasında konuk ettiği Marsilya&#039;yı 4-1 mağlup etti ve turnuvaya 3 puanla başladı.",
-      "link": "https://halktv.com.tr/spor/besiktas-marsilyayi-ezdi-gecti-uefa-avrupa-ligine-farkli-basladi-1055747h",
-      "published": "2026-09-17T20:58:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T21:01:08.774145+00:00"
-    },
-    {
-      "id": "030eb605fa0d40e4",
-      "source": "Yeni Şafak",
-      "title": "Otomobille motosiklet çarpıştı: Bir kişi yaralandı",
-      "summary": "Aydın’ın Efeler ilçesinde motosiklet ile otomobilin çarpışması sonucu meydana gelen kazada bir kişi yaralandı.",
-      "link": "https://www.yenisafak.com/gundem/otomobille-motosiklet-carpisti-bir-kisi-yaralandi-4856813",
-      "published": "2026-09-17T20:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T21:10:44.403732+00:00"
     }
   ]
 }

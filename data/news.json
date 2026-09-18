@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-18T02:40:58.680115+00:00",
+  "last_updated": "2026-09-18T02:45:52.983225+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 581,
+  "new_items_this_run": 583,
   "items": [
+    {
+      "id": "5fc78e03c3059abc",
+      "source": "Türkiye Gazetesi",
+      "title": "UÇAKTAN İNDİ, GÖZALTINA ALINDI",
+      "summary": "Silivri Cezaevi'nde 2011 yılında hayatını kaybeden MİT mensubu Kaşif Kozinoğlu'nun ölümüne ilişkin yürütülen soruşturma kapsamında emekli Jandarma Albay Hasan Atilla Uğur, Kıbrıs dönüşü havalimanında polisler tarafından gözaltına alındı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/kasif-kozinoglu-sorusturmasinda-gozalti-karari-verilmisti-hasan-atilla-ugur-gozaltina-1816810",
+      "published": "2026-09-18T02:42:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T02:45:36.506684+00:00"
+    },
+    {
+      "id": "113b339576dedd2f",
+      "source": "Habertürk",
+      "title": "Balıkesir'de çayda cansız beden bulundu",
+      "summary": "Balıkesir Edremit'teki Zeytinli Çayı'nda bir erkeğe ait cansız beden bulundu. Olayla ilgili soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/gundem/balikesir-de-cayda-cansiz-beden-bulundu-3913300",
+      "published": "2026-09-18T02:36:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T02:45:31.261259+00:00"
+    },
     {
       "id": "3a04e609fadaf836",
       "source": "Türkiye Gazetesi",
@@ -391,6 +413,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-18T01:15:40.193355+00:00"
+    },
+    {
+      "id": "d60302789659ba0c",
+      "source": "Bir Gün",
+      "title": "Balıkesir'de çayda erkek cesedi bulundu",
+      "summary": "Balıkesir'in Edremit ilçesinde Zeytinli Çayı'nda 51 yaşındaki Ahmet İlhan Demirbilek'in cesedi bulundu. Demirbilek'in cenazesi, kesin ölüm nedeninin belirlenmesi için Burhaniye Devlet Hastanesi morguna gönderildi.",
+      "link": "https://www.birgun.net/haber/balikesir-de-cayda-erkek-cesedi-bulundu-735428",
+      "published": "2026-09-18T01:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T02:45:37.090363+00:00"
     },
     {
       "id": "0b4c84da9c7976a9",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T21:10:55.208131+00:00"
-    },
-    {
-      "id": "d80ebfba745f20b7",
-      "source": "Evrensel",
-      "title": "İçişleri Bakanı Çiftçi: Yarın sabaha doğru borsa operasyonu olabilir",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, borsa operasyonlarının yarın da devam edebileceğini söyleyerek \"Sabaha doğru operasyon olabilir\" dedi.",
-      "link": "https://www.evrensel.net/haber/6000996/icisleri-bakani-ciftci-yarin-sabaha-dogru-borsa-operasyonu-olabilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-17T20:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T20:55:36.730387+00:00"
-    },
-    {
-      "id": "0f8690674a35f5cd",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "ABD, savaşa rağmen İranlı üst düzey hükümet yetkililerine BM Genel Kurulu için vize verdi",
-      "summary": "ABD, savaşın devam etmesine rağmen, İranlı üst düzey hükümet yetkililerine ve diplomatlara, New York'taki 81. Birleşmiş Milletler (BM) Genel Kurulu görüşmelerine katılmaları için vize onayı verdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/abd-savasa-ragmen-iranli-ust-duzey-hukumet-yetkililerine-bm-genel-kurulu-icin-vize-verdi/4060625",
-      "published": "2026-09-17T20:46:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T20:50:35.024754+00:00"
-    },
-    {
-      "id": "25176bc8bf46c930",
-      "source": "Sözcü",
-      "title": "Usta tiyatrocu Gülsen Tuncer hayatını kaybetti",
-      "summary": "Usta tiyatrocu Gülsen Tuncer hayatını kaybetti",
-      "link": "https://www.sozcu.com.tr/gulsen-tuncer-hayatini-kaybetti-p359271",
-      "published": "2026-09-17T20:46:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T02:10:41.987915+00:00"
     }
   ]
 }

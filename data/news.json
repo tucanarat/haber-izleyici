@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-18T02:51:00.892806+00:00",
+  "last_updated": "2026-09-18T02:56:01.389109+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 583,
+  "new_items_this_run": 582,
   "items": [
+    {
+      "id": "99b3ec2abb952ed7",
+      "source": "Habertürk",
+      "title": "Hasan Atilla Uğur gözaltına alındı",
+      "summary": "Silivri Cezaevi'nde 2011 yılında hayatını kaybeden MİT mensubu Kaşif Kozinoğlu'nun ölümüne ilişkin yürütülen soruşturma kapsamında emekli Jandarma Albay Hasan Atilla Uğur, Kıbrıs dönüşü havalimanında gözaltına alındı",
+      "link": "https://www.haberturk.com/gundem/kasif-kozinoglu-sorusturmasinda-hasan-atilla-ugur-gozaltina-alindi-3913301",
+      "published": "2026-09-18T02:47:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T02:55:29.150622+00:00"
+    },
     {
       "id": "5fc78e03c3059abc",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-18T02:50:38.987476+00:00"
-    },
-    {
-      "id": "c598f30bd96f5968",
-      "source": "Finans Gündem",
-      "title": "Borsada manipülasyon soruşturması: Çiftçi'den 'Operasyonlar devam edecek' mesajı",
-      "summary": "Borsa İstanbul’da manipülasyon soruşturmaları sürerken, İçişleri Bakanı Mustafa Çiftçi konuya ilişkin soruya \"Operasyonlar devam edecek. Kısaca bugün de operasyon vardı. Yarın sabaha doğru da operasyon olabilir\" yanıtını verdi",
-      "link": "https://www.finansingundemi.com/haber/borsada-manipulasyon-sorusturmasi-ciftciden-operasyonlar-devam-edecek-mesaji/1908677",
-      "published": "2026-09-17T20:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T21:15:57.255192+00:00"
     }
   ]
 }

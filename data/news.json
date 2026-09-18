@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-18T01:55:56.842043+00:00",
+  "last_updated": "2026-09-18T02:01:26.189926+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 589,
+  "new_items_this_run": 583,
   "items": [
+    {
+      "id": "46848f1370f5c168",
+      "source": "OdaTV",
+      "title": "'Prisoner X' dosyasının Kozinoğlu benzerliği: MOSSAD’ın cezaevi sırrı",
+      "summary": "Soner Yalçın yazdı...",
+      "link": "https://www.odatv.com/yazarlar/soner-yalcin/prisoner-x-dosyasinin-kozinoglu-benzerligi-mossadin-cezaevi-sirri-120163107",
+      "published": "2026-09-18T01:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T02:01:09.565103+00:00"
+    },
     {
       "id": "d2e9d4ae029eb7f8",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T20:55:36.730414+00:00"
-    },
-    {
-      "id": "5160df1b883c64af",
-      "source": "Akşam",
-      "title": "Pilot kendini fırlatarak son anda kurtuldu: ABD'de F-16 savaş uçağı düştü",
-      "summary": "ABD'de bir F-16 savaş uçağının rutin eğitim sırasında Michigan eyaletinin kırsal kesiminde düştüğü bildirildi.",
-      "link": "https://www.aksam.com.tr/dunya/pilot-kendini-firlatarak-son-anda-kurtuldu-abdde-f-16-savas-ucagi-dustu/haber-1699267",
-      "published": "2026-09-17T20:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T20:40:42.587258+00:00"
     }
   ]
 }

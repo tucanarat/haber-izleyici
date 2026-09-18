@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-18T03:35:57.710030+00:00",
+  "last_updated": "2026-09-18T03:40:53.631508+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 585,
+  "new_items_this_run": 586,
   "items": [
+    {
+      "id": "0860c3fad49751ae",
+      "source": "OdaTV",
+      "title": "Türkler konut almadı yabancılara satış arttı",
+      "summary": "Türkiye genelinde konut satışları ağustosta geçen yılın aynı ayına kıyasla gerilerken, yabancılara yapılan satış yüzde 0,1 arttı. Yabancılara bin 938 konut satılırken, toplam satışlar içinde payları yüzde 1,5 oldu.",
+      "link": "https://www.odatv.com/ekonomi/emlak/konut-satis-verileri-turkler-almadi-yabancilar-yukseliste-120163144",
+      "published": "2026-09-18T03:34:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T03:40:42.687788+00:00"
+    },
     {
       "id": "677eedaf0390fc3f",
       "source": "Yeni Akit",
@@ -39,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-18T03:35:34.928913+00:00"
+    },
+    {
+      "id": "b14e46b634dcdf37",
+      "source": "Habertürk",
+      "title": "Aydın ve Kocaeli merkezli yasa dışı bahis operasyonları: 52 tutuklama",
+      "summary": "Aydın merkezli 7 ilde düzenlenen yasa dışı bahis operasyonunda 27 şüpheli tutuklandı, 4 şüpheli ise adli kontrol şartıyla serbest bırakıldı. Kocaeli merkezli 7 ilde yasa dışı bahis ve kumar siteleri üzerinden faaliyet gösteren suç örgütüne yönelik operasyonda gözaltına alınan 33 şüpheliden 25'i tutuklandı",
+      "link": "https://www.haberturk.com/gundem/aydin-merkezli-yasa-disi-bahis-operasyonunda-27-tutuklama-3913290",
+      "published": "2026-09-18T03:27:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T03:40:33.967020+00:00"
     },
     {
       "id": "e896ed7ae5e2c4b2",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-17T21:10:44.403732+00:00"
-    },
-    {
-      "id": "255e80c474cf741d",
-      "source": "Aydınlık",
-      "title": "Beşiktaş, Marsilya'yı 4-1 mağlup etti",
-      "summary": "UEFA Avrupa Ligi’nin ilk haftasında Beşiktaş, sahasında Fransız ekibi Marsilya&#039;yı 4-1 mağlup etti.",
-      "link": "https://www.aydinlik.com.tr/haber/besiktas-marsilyayi-4-1-maglup-etti-590636",
-      "published": "2026-09-17T20:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T21:05:36.201151+00:00"
-    },
-    {
-      "id": "6e36c9fc9d4905e7",
-      "source": "Halk TV",
-      "title": "Efkan Ala: Terörsüz Türkiye başından beri öngördüğümüz şekilde",
-      "summary": "AKP Genel Başkan Vekili Ala, “Terörsüz Türkiye” sürecine ilişkin Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığındaki kurulun alt kurullarının çalışmaya başladığını söyledi. Ala, sürecin başından beri öngördükleri şekilde devam ettiğini ifade etti",
-      "link": "https://halktv.com.tr/siyaset/efkan-ala-terorsuz-turkiye-basindan-beri-ongordugumuz-sekilde-1055746h",
-      "published": "2026-09-17T20:56:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-17T21:01:08.774164+00:00"
     }
   ]
 }

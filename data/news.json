@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-09-18T16:05:50.827603+00:00",
+  "last_updated": "2026-09-18T16:11:04.676435+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 578,
+  "new_items_this_run": 574,
   "items": [
+    {
+      "id": "b32012217f8ef941",
+      "source": "CNBC-e",
+      "title": "BİM'den temettü ödemesi: Yatırımcıların hesabına geçti",
+      "summary": "BİM Birleşik Mağazalar’ın 2026 yılı temettü ödemesinin 2. taksiti 18 Eylül’de tamamlandı. MKK, Merkezi Kaydi Sistem’de gerçekleştirilen hak kullanım ödemelerine ilişkin kayıtları KAP üzerinden duyurdu.",
+      "link": "https://www.cnbce.com/borsa/bimden-temettu-odemesi-yatirimcilarin-hesabina-gecti-h37571",
+      "published": "2026-09-18T16:10:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:57.047797+00:00"
+    },
+    {
+      "id": "119a51e32014ac2b",
+      "source": "Karar",
+      "title": "Mersin’de 300 kamyoncu kontak kapattı: “Nereye kadar dayanacağız?”",
+      "summary": "Mersin’de yaklaşık 300 kamyoncu, motorinin litre fiyatının 100 lirayı aşmasına rağmen nakliye ücretlerinin artırılmamasını protesto ederek kontak kapattı. Akdeniz ilçesindeki Tırmıl mevkisinde araçlarını boş araziye çeken kamyoncular, artan akaryakıt, bakım, sigorta ve sanayi giderleri nedeniyle mevcut tarifelerle çalıştıkça zarar ettiklerini söyledi.",
+      "link": "https://www.karar.com/guncel-haberler/mersinde-300-kamyoncu-kontak-kapatti-nereye-kadar-dayanacagiz-2072852",
+      "published": "2026-09-18T16:09:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:47.439747+00:00"
+    },
+    {
+      "id": "47a583c6fe4d363d",
+      "source": "Cumhuriyet",
+      "title": "Süper Kupa'da üçüncülük maçına çıkacak: Fenerbahçe Tarfin, Olympiakos'a mağlup oldu",
+      "summary": "Fenerbahçe Tarfin, EuroLeague Süper Kupa yarı final maçında Olympiakos'a 92-90 mağlup oldu. Sarı-lacivertliler üçüncülük maçı oynayacak.",
+      "link": "https://www.cumhuriyet.com.tr/spor/super-kupa-da-ucunculuk-macina-cikacak-fenerbahce-tarfin-olympiakos-a-maglup-oldu-2538867",
+      "published": "2026-09-18T16:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:39.349853+00:00"
+    },
+    {
+      "id": "83ca56b5ea8b11ba",
+      "source": "Akşam",
+      "title": "Hudeyde'de karşı saldırı: Yemen kuvvetleri Şüheda Dağı'nı Husilerden geri aldı",
+      "summary": "Yemen ordusu, ülkenin batısındaki Taiz ilinin Şüheda Dağı bölgesinde bazı noktaları Husilerden geri aldığını duyurdu.",
+      "link": "https://www.aksam.com.tr/dunya/hudeydede-karsi-saldiri-yemen-kuvvetleri-suheda-dagini-husilerden-geri-aldi/haber-1699485",
+      "published": "2026-09-18T16:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:45.519382+00:00"
+    },
+    {
+      "id": "5fba4001fdf85bc0",
+      "source": "Halk TV",
+      "title": "Fenerbahçe üçüncülük maçına çıkacak",
+      "summary": "EuroLeague Süper Kupa yarı finalinde Olympiakos&#039;a mağlup olan Fenerbahçe Tarfin, üçüncülük maçı oynayacak.",
+      "link": "https://halktv.com.tr/spor/fenerbahce-ucunculuk-macina-cikacak-1055932h",
+      "published": "2026-09-18T16:08:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:50.818104+00:00"
+    },
+    {
+      "id": "29760043e59973d1",
+      "source": "Aydınlık",
+      "title": "Bandırmaspor son dakikada yıkıldı",
+      "summary": "Trendyol 1. Lig’in 8. haftasında Bandırmaspor, sahasında Ümraniyespor’u konuk etti. Bordo-beyazlı ekip, karşılaşmanın son bölümünde kalesinde gördüğü golle sahadan 1-0 mağlup ayrıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/bandirmaspor-son-dakikada-yikildi-590716",
+      "published": "2026-09-18T16:07:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:49.205895+00:00"
+    },
+    {
+      "id": "edd458d0139792ef",
+      "source": "Euronews Türkçe",
+      "title": "Pakistan'da camiye intihar saldırısı: En az 21 kişi hayatını kaybetti",
+      "summary": "Pakistan'da cuma namazı sırasında bir polis yerleşkesindeki camiye düzenlenen intihar saldırısında en az 21 kişi hayatını kaybetti.",
+      "link": "https://tr.euronews.com/2026/09/18/pakistanda-camiye-intihar-saldirisi-en-az-21-kisi-hayatini-kaybetti",
+      "published": "2026-09-18T16:06:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:11:04.675193+00:00"
+    },
+    {
+      "id": "636b2bf351b63c8b",
+      "source": "DonanımHaber",
+      "title": "657 km menzilli Mercedes GLA'nın seri üretimi Almanya'da başladı",
+      "summary": "Mercedes-Benz, isim karmaşasına son vererek EQA’nın yerini alan tamamen elektrikli yeni GLA’nın seri üretimine Rastatt fabrikasında başladı. Model, Kasım ayında bayilerde yerini alacak.",
+      "link": "https://www.donanimhaber.com/657-km-menzilli-mercedes-gla-nin-seri-uretimi-almanya-da-basladi--210634",
+      "published": "2026-09-18T16:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:11:01.718491+00:00"
+    },
     {
       "id": "ab6ae27adf2df36c",
       "source": "Anadolu Ajansı (Güncel)",
@@ -50,6 +138,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-18T16:05:36.061694+00:00"
+    },
+    {
+      "id": "a4130cb9b3b9a39e",
+      "source": "Gerçek Gündem",
+      "title": "HSK Olağanüstü Toplanmıştı: Savcı Türkşad Kunthan Uçuk Görevden Uzaklaştırıldı",
+      "summary": "Hakkında soruşturma yürütülen savcı Türkşad Kunthan Uçuk görevden uzaklaştırdı. Kararın, soruşturmanın sağlıklı yürütülmesi gerekçesiyle oy birliğiyle alındığı belirtildi.",
+      "link": "https://www.gercekgundem.com/guncel/hsk-olaganustu-toplanmisti-savci-turksad-kunthan-ucuk-gorevden-uzaklastirildi-578905",
+      "published": "2026-09-18T16:02:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:54.183431+00:00"
+    },
+    {
+      "id": "df25f3d0400fed18",
+      "source": "Habertürk",
+      "title": "Fenerbahçe Tarfin, Olympiakos'a mağlup oldu",
+      "summary": "THY EuroLeague Süper Kupa yarı finalinde temsilcimiz Fenerbahçe Tarfin, Yunan ekibi Olympiakos'a 92-90 mağlup oldu.",
+      "link": "https://www.haberturk.com/spor/son-dakika-fenerbahce-tarfin-olympiakos-a-maglup-oldu-3913481",
+      "published": "2026-09-18T16:02:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:36.594119+00:00"
     },
     {
       "id": "9837a492d0f0e17e",
@@ -204,6 +314,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-18T16:01:04.350971+00:00"
+    },
+    {
+      "id": "61fdb37b6d61f4fb",
+      "source": "Sabah",
+      "title": "HSK, Cumhuriyet Savcısı Türkşad Kunthan Uçuk'u görevden uzaklaştırdı",
+      "summary": "Hakimler ve Savcılar Kurulu (HSK) İkinci Dairesi, Cumhuriyet Savcısı Türkşad Kunthan Uçuk'un 3 ay süreyle geçici olarak görevden uzaklaştırılmasına karar verdi. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/09/18/hsk-cumhuriyet-savcisi-turksad-kunthan-ucuku-gorevden-uzaklastirdi",
+      "published": "2026-09-18T15:56:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:44.951087+00:00"
     },
     {
       "id": "73d9e96460d9437c",
@@ -4694,6 +4815,17 @@
       "fetched_at": "2026-09-18T14:01:04.766901+00:00"
     },
     {
+      "id": "9f3e13d87c0ed473",
+      "source": "Habertürk",
+      "title": "Ankara'da FETÖ operasyonu: 7 kişi tutuklandı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı’nca, FETÖ/PDY’nin güncel yapılanmasına yönelik yürütülen soruşturma kapsamında, MİT ve Ankara Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğü koordinesinde düzenlenen operasyonda, 8 şüpheliden 7’si yakalanarak tutuklandı. Firari 1 şüphelinin yakalanması için çalışmalar sürüyor.",
+      "link": "https://www.haberturk.com/gundem/son-dakika-ankara-da-feto-operasyonu-7-kisi-tutuklandi-3913458",
+      "published": "2026-09-18T13:50:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-18T16:10:36.594946+00:00"
+    },
+    {
       "id": "91037978abb29fcf",
       "source": "Yeni Şafak",
       "title": "16 yaşındaki çocuğun öldürülmesine ilişkin 3 sanıklı davada karar: 24’er yıl hapis cezası",
@@ -5374,138 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-18T13:45:31.903377+00:00"
-    },
-    {
-      "id": "04cb12b2bcacd6d1",
-      "source": "Habertürk",
-      "title": "15 aylık oğluyla bankaya diye çıktı kayboldu",
-      "summary": "Antalya'da 4 gün önce 15 aylık oğluyla bankaya kredi ödemeye giden 23 yaşındaki kadın ortadan kayboldu",
-      "link": "https://www.haberturk.com/15-aylik-ogluyla-bankaya-diye-cikti-kayboldu-1112398",
-      "published": "2026-09-18T13:35:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:45:31.903428+00:00"
-    },
-    {
-      "id": "8a40d7c09b247196",
-      "source": "Yeniçağ",
-      "title": "Atilla Yeşilada YENİÇAĞ’a değerlendirdi: Fonlarda kriz ihtimali bitmedi, asıl sorun kapıda",
-      "summary": "Ekonomist Atilla Yeşilada, piyasalardaki son hareketliliği YENİÇAĞ’a değerlendirdi. Yeşilada, fonlardaki problemler konusunda zamanında önlem alınmadığını belirterek kriz riskinin devam ettiğini vurguladı. Yaşananları Rus Ruleti’ne benzetti.",
-      "link": "https://www.yenicaggazetesi.com/atilla-yesilada-yenicaga-degerlendirdi-fonlarda-kriz-ihtimali-bitmedi-asil-sorun-kapida-1073145h.htm",
-      "published": "2026-09-18T13:35:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:35:37.477916+00:00"
-    },
-    {
-      "id": "5094d4a8b6c83789",
-      "source": "Habertürk",
-      "title": "Süper Lig'de dev randevu!",
-      "summary": "Süper Lig'in 6. haftasındaki dev maçta Trabzonspor ile Galatasaray, yarın akşam Papara Park'ta karşı karşıya gelecek. 13 puanla haftaya lider giren sarı-kırmızılılar, ezeli rakibini deplasmanda devirerek milli araya yine lider girmek istiyor. 7 puanı bulunan ve yeni teknik direktörü Thomas Reis ile ilk maçına çıkacak olan bordo-mavililer ise Galatasaray'ı mağlup ederek çıkışa geçmeyi hedefliyor. G",
-      "link": "https://www.haberturk.com/spor/foto/super-lig-de-dev-randevu-trabzonspor-galatasaray-maci-oncesi-son-gelismeler-osimhen-trabzonspor-macinda-oynayacak-mi-3913379",
-      "published": "2026-09-18T13:35:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:45:31.903483+00:00"
-    },
-    {
-      "id": "3f21e4cbac663428",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "A Milli Futbol Takımı'nın Uluslar A Ligi aday kadrosu açıklandı",
-      "summary": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi'nde Fransa, İtalya ve Belçika ile oynayacağı karşılaşmaların aday kadrosu belli oldu.",
-      "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminin-uluslar-a-ligi-aday-kadrosu-aciklandi/4061283",
-      "published": "2026-09-18T13:35:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:40:37.233733+00:00"
-    },
-    {
-      "id": "e72ad50bed24ec5c",
-      "source": "Karar",
-      "title": "Ünlü ekonomist Meyersson’dan çarpıcı fon krizi analizi: Türkiye kurumsal reformdan vazgeçmenin bedelini ödüyor",
-      "summary": "Ekonomist Erik Meyersson, Türkiye’deki fon krizini düşük serbest dolaşım oranları ve zayıf yatırımcı korumasıyla birlikte değerlendirdi. Meyersson, sorunun temelinde kurumsal yapının bulunduğunu belirterek, kurumsal reformdan vazgeçmenin aşırı oynaklık ve piyasa şoklarına karşı kırılganlığı artırdığını vurguladı.",
-      "link": "https://www.karar.com/ekonomi-haberleri/unlu-ekonomist-meyerssondan-carpici-fon-krizi-analizi-turkiye-2072827",
-      "published": "2026-09-18T13:35:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:35:36.931759+00:00"
-    },
-    {
-      "id": "35fecfe14c034e6b",
-      "source": "Yeniçağ",
-      "title": "A Milli Takım'ın aday kadrosu açıklandı: 4 futbolcu ilk kez davet edildi",
-      "summary": "Uluslar Ligi&#039;nde kritik karşılaşmalara çıkacak A Milli Futbol Takımı&#039;nın aday kadrosu açıklandı. 4 futbolcu kadroda ilk kez ay-yıldızlı formayı giymeye davet edildi. İşte detaylar...",
-      "link": "https://www.yenicaggazetesi.com/a-milli-takimin-aday-kadrosu-aciklandi-4-futbolcu-ilk-kez-davet-edildi-1073146h.htm",
-      "published": "2026-09-18T13:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T14:05:37.124661+00:00"
-    },
-    {
-      "id": "8806e844bf2d4d47",
-      "source": "Ekonomim",
-      "title": "Singapore Airlines, altıncı kez en iyi havayolu seçildi",
-      "summary": "Singapore Airlines (SIA), Skytrax&#039;ın ödüllerinde bu yıl da en iyi havayolu ödülünü altıncı kez kazandı.",
-      "link": "https://www.ekonomim.com/havacilik/singapore-airlines-altinci-kez-en-iyi-havayolu-secildi-haberi-919186",
-      "published": "2026-09-18T13:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:40:51.222619+00:00"
-    },
-    {
-      "id": "c8eed488f1d6f5b9",
-      "source": "Star",
-      "title": "FETÖ'nün güncel yapılanmasına darbe! Cezaevine gönderildiler",
-      "summary": "Ankara Cumhuriyet Başsavcılığınca FETÖ/PDY Silahlı Terör Örgütü'nün güncel yapılanmasına yönelik yürütülen soruşturma kapsamında, gaybubet evlerinde saklandıkları, bu evlerde saklanan şahıslara finansal destek sağladıkları ve yardımda bulundukları tespit edilen 8 şüpheli hakkında gözaltı kararı verildi. Şüphelilerden 7'si yakalanırken, tamamı tutuklandı.",
-      "link": "https://www.star.com.tr/guncel/fetonun-guncel-yapilanmasina-darbe-cezaevine-gonderildiler-haber-2041019/",
-      "published": "2026-09-18T13:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:35:36.257842+00:00"
-    },
-    {
-      "id": "83c5a594ca5ffabd",
-      "source": "Türkiye Gazetesi",
-      "title": "Korkunç olay! Bıçakladılar, ellerini bağlayıp altınlarını çaldılar",
-      "summary": "Şanlıurfa’da 4 kadın hırsız girdikleri evde dehşet saçtı. 50 yaşındaki ev sahibi Şemse A.’yı bıçaklayıp, sandalyeye bağlayarak ağzını bağlayan hırsızlar, evdeki 18 Cumhuriyet altının ve parayı çaldı. Hırsızların başka bir ilçeden geldikleri öğrenilirken, arama çalışmaları sürüyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/sanliurfada-korkunc-olay-bicakladilar-ellerini-baglayip-altinlarini-caldilar-1816960",
-      "published": "2026-09-18T13:34:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:40:39.461419+00:00"
-    },
-    {
-      "id": "4b8b06d435857059",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "AB ve Kanada, \"ortak üyelik\" modelini ekim sonundaki zirvede ele alacak",
-      "summary": "Avrupa Birliği (AB) Komisyonu, Kanada'nın Birliğe \"ortak üye\" olmasına yönelik önerinin kapsamı ve uygulanma biçiminin, ekim sonunda düzenlenecek AB-Kanada Zirvesi öncesinde ve zirve sırasında ele alınacağını bildirdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/ab-ve-kanada-ortak-uyelik-modelini-ekim-sonundaki-zirvede-ele-alacak/4061282",
-      "published": "2026-09-18T13:34:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:40:37.233766+00:00"
-    },
-    {
-      "id": "084c443978f99c43",
-      "source": "Yeniçağ",
-      "title": "Kırşehir 'de üniversite öğrencisi Sinem Çetintaş hayatını kaybetti",
-      "summary": "Gaziantep&#039;ten Kırşehir&#039;e eğitim için gelen Kırşehir Ahi Evran Üniversitesi Hemşirelik Bölümü 4.sınıf öğrencisi Sinem Çetintaş, kaldığı Fatma Bacı KYK Öğrenci Yurdunda rahatsızlanarak hayatını kaybetti.",
-      "link": "https://www.yenicaggazetesi.com/kirsehir-de-universite-ogrencisi-sinem-cetintas-hayatini-kaybetti-1073144h.htm",
-      "published": "2026-09-18T13:34:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:35:37.477958+00:00"
-    },
-    {
-      "id": "958703fd13e4bd31",
-      "source": "Cumhuriyet",
-      "title": "Esenler'de otomobilin çarptığı 4 yaşındaki çocuk hayatını kaybetti",
-      "summary": "Esenler'de sokakta oyun oynayan 4 yaşındaki Suriye uyruklu Kays Ahmet Muhammed'e otomobil çarptı. Ağır yaralanan çocuk kaldırıldığı hastanede yapılan tüm müdahalelere rağmen hayatını kaybetti.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/esenler-de-otomobilin-carptigi-4-yasindaki-cocuk-hayatini-kaybetti-2538833",
-      "published": "2026-09-18T13:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T13:40:37.554887+00:00"
     }
   ]
 }

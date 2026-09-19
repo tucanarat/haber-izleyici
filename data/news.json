@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-09-19T21:15:57.633666+00:00",
+  "last_updated": "2026-09-19T21:20:51.183176+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 584,
+  "new_items_this_run": 585,
   "items": [
+    {
+      "id": "db0f5b64070537ca",
+      "source": "Akşam",
+      "title": "Abdülkerim Bardakcı: Utanç verici!",
+      "summary": "Galatasaray'ın tecrübeli savunmacısı Abdülkerim Bardakcı, 4-0 kaybedilen Trabzonspor maçının ardından açıklamalarda bulundu.",
+      "link": "https://www.aksam.com.tr/spor/abdulkerim-bardakci-utanc-verici/haber-1699743",
+      "published": "2026-09-19T21:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T21:20:36.734753+00:00"
+    },
+    {
+      "id": "fb6b1c2308e893b0",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Sevilla 1-3 Barcelona",
+      "summary": "İspanya La Liga'nın 7. haftasında Barcelona, Brezilyalı yıldız Raphinha'nın hat-trick yaptığı karşılaşmada deplasmanda Sevilla'yı 3-1 mağlup etti.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-sevilla-1-3-barcelona-haber-2041277/",
+      "published": "2026-09-19T21:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T21:20:37.080032+00:00"
+    },
+    {
+      "id": "b7a2d649f25684fb",
+      "source": "Karar",
+      "title": "Bilim insanları bile şaştı kaldı: Yapay zeka sistemi kandırmak için test sorularını taklit etti",
+      "summary": "Teknoloji dünyasında çığır açan bir deneye imza atan Claude, insan müdahalesine gerek kalmadan diğer yapay zeka modellerini eğitmeyi başardı. Anthropic tarafından geliştirilen otonom araştırma sistemi, 10 farklı güvenlik açığını kapatırken maliyeti saatte 4 dolara kadar indirdi.",
+      "link": "https://www.karar.com/teknoloji-haberleri/yapay-zeka-nasil-egitilir-en-iyi-yapay-zeka-hangisi-claude-guvenlik-2073048",
+      "published": "2026-09-19T21:19:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T21:20:37.767253+00:00"
+    },
+    {
+      "id": "d91422e5660691e1",
+      "source": "Habertürk",
+      "title": "Ekmek fırınında yangın!",
+      "summary": "İzmir’in Ödemiş ilçesinde bir ekmek fırınında, baca temizliği sırasında yangın çıktı. İtfaiye ekiplerinin sündürdüğü alevler, iş yerinde hasara neden oldu.",
+      "link": "https://www.haberturk.com/gundem/izmirde-ekmek-firininda-yangin-3913707",
+      "published": "2026-09-19T21:15:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T21:20:31.083024+00:00"
+    },
     {
       "id": "8dfe251649fbeb3c",
       "source": "Gazete Pencere",
@@ -17,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T21:15:43.568587+00:00"
+    },
+    {
+      "id": "b0392433a519a821",
+      "source": "Habertürk",
+      "title": "Akaryakıt fiyatları 20 Eylül 2026",
+      "summary": "Araç sahipleri güncel akaryakıt fiyatlarını araştırıyor. Enerji piyasalarındaki gelişmeler, Türkiye’de akaryakıt fiyatlarının seyrini belirlemeye devam ediyor. Brent petrolün 100 dolar bandındaki hareketi sonrası araç sahipleri benzin ve motorin fiyatlarında değişiklik olup olmadığını merak ediyor. Peki 20 Eylül 2026 Ankara, İzmir, İstanbul motorin ve LPG'nin litresi kaç TL oldu? Benzin ve motorin",
+      "link": "https://www.haberturk.com/bilgi/foto/motorin-100-liranin-altina-geriledi-akaryakit-fiyatlari-19-eylul-2026-ankara-izmir-istanbul-lpg-benzin-motorin-ne-kadar-oldu-indirim-var-mi-3913527",
+      "published": "2026-09-19T21:14:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T21:20:31.083079+00:00"
     },
     {
       "id": "d898cbcf84bd71d2",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T17:55:34.996225+00:00"
-    },
-    {
-      "id": "cf2ef0768bde76db",
-      "source": "Akşam",
-      "title": "Mohamed Salah durmuyor! Derbide de sahnede",
-      "summary": "Trabzonspor'un sezon başında kadrosuna kattığı Mısırlı dünya yıldızı futbolcu Mohamed Salah, Galatasaray derbisinde de sahneye çıktı. Deneyimli futbolcu, fileleri havalandırarak maçta gol perdesini açtı.",
-      "link": "https://www.aksam.com.tr/spor/mohamed-salah-durmuyor-derbide-de-sahnede/haber-1699711",
-      "published": "2026-09-19T17:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T17:15:37.076034+00:00"
-    },
-    {
-      "id": "c962344a305a22ef",
-      "source": "Star",
-      "title": "Erzurumspor FK, Samsunspor maçına hazır",
-      "summary": "Trendyol Süper Lig'in 6. haftasında yarın sahasında Samsunspor ile karşılaşacak olan Erzurumspor FK, maçın hazırlıklarını tamamladı.",
-      "link": "https://www.star.com.tr/spor/erzurumspor-fk-samsunspor-macina-hazir-haber-2041235/",
-      "published": "2026-09-19T17:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T17:15:37.872190+00:00"
-    },
-    {
-      "id": "b0e0c2734d046436",
-      "source": "Yeniçağ",
-      "title": "Numan Kurtulmuş'tan 'Terörsüz Türkiye' mesajı: “Terör gündemden kalkacak”",
-      "summary": "TBMM Başkanı Numan Kurtulmuş, Kırşehir&#039;de katıldığı Sivil Toplum Buluşması&#039;nda “Terörsüz Türkiye” sürecine ilişkin açıklamalarda bulundu. Kurtulmuş, sürecin kontrolünün TBMM ve milletin iradesinde olduğunu belirterek yasal düzenlemedeki üç güvenceye dikkat çekti.",
-      "link": "https://www.yenicaggazetesi.com/numan-kurtulmustan-terorsuz-turkiye-mesaji-teror-gundemden-kalkacak-1073455h.htm",
-      "published": "2026-09-19T17:14:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T17:15:38.866782+00:00"
-    },
-    {
-      "id": "a49aeed278ede4ca",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Çin, İran ve İsrail'in yapay zekayla sosyal medyada etki kampanyaları yürüttüğü iddia edildi",
-      "summary": "İran, Çin ve İsrail'in, açık kaynaklı yapay zeka modelleri ve otonom yapay zeka ajanlarını kullanarak sosyal medyada etki kampanyaları yürüttüğü iddia edildi.",
-      "link": "https://www.aa.com.tr/tr/dunya/cin-iran-ve-israilin-yapay-zekayla-sosyal-medyada-etki-kampanyalari-yuruttugu-iddia-edildi/4062145",
-      "published": "2026-09-19T17:13:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T17:20:34.283022+00:00"
-    },
-    {
-      "id": "e135ec9750f33f37",
-      "source": "Habertürk",
-      "title": "Hull City ilk kez mağlup!",
-      "summary": "Hull City, Premier Lig'in 5. haftasında deplasmanda karşılaştığı Newcastle United'a 2-1 mağlup oldu ve bu sezonki ilk yenilgisini aldı. Bu sonuçla beraber Newcastle United ve Hull City, haftayı 8 puanla tamamladı.",
-      "link": "https://www.haberturk.com/spor/newcastle-united-hull-city-mac-sonucu-iste-newcastle-united-hull-city-maci-ozeti-ve-golleri-ingiltere-premier-ligi-3913661",
-      "published": "2026-09-19T17:12:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T17:25:26.765207+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T02:25:53.160784+00:00",
+  "last_updated": "2026-09-19T02:31:24.923754+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 552,
   "items": [
+    {
+      "id": "76b582dc171c3adc",
+      "source": "Evrensel",
+      "title": "Borsada batan öküz, örgütlenmeyle doğan ikiz",
+      "summary": "Şu soruyu sormak gerekir: Bu riskleri görmesine rağmen bu insanlar neden birikimlerini buralara yatırdı?",
+      "link": "https://www.evrensel.net/haber/6001111/borsada-batan-okuz-orgutlenmeyle-dogan-ikiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-19T02:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T02:30:59.314616+00:00"
+    },
     {
       "id": "acf0f25519f64acf",
       "source": "Finans Gündem",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-18T19:40:55.741038+00:00"
-    },
-    {
-      "id": "5131dee5042efa09",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Basketbol Avrupa Ligi Süper Kupa'da Real Madrid, finale yükseldi",
-      "summary": "Basketbol Avrupa Ligi Süper Kupa'da Dubai Basketbol'u uzatmada 98-95 yenen Real Madrid, finale yükseldi.",
-      "link": "https://www.aa.com.tr/tr/spor/-basketbol-avrupa-ligi-super-kupada-real-madrid-finale-yukseldi/4061562",
-      "published": "2026-09-18T19:36:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T19:40:38.031855+00:00"
     }
   ]
 }

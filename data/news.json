@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-09-19T14:56:01.921852+00:00",
+  "last_updated": "2026-09-19T15:01:11.418840+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 571,
+  "new_items_this_run": 561,
   "items": [
+    {
+      "id": "7eab0f1d9ba6cba1",
+      "source": "Gazete Pencere",
+      "title": "Dünyanın merakla beklediği derbide kazanan çıkması",
+      "summary": "İngiltere'de 14 yıl sonra yeniden oynanan derbide Millwall ve West Ham United berabere kaldı.",
+      "link": "https://www.gazetepencere.com/spor/dunyanin-merakla-bekledigi-derbide-kazanan-cikmasi-716105h",
+      "published": "2026-09-19T15:00:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T15:00:58.836407+00:00"
+    },
+    {
+      "id": "e75479f98d522a18",
+      "source": "DonanımHaber",
+      "title": "Asus Googlebook tasarımı ve soğutma sistemi ilk kez görüntülendi",
+      "summary": "Asus Googlebook, ışıklı kapak tasarımı, özel G tuşu ve aktif soğutma sistemiyle görüntülendi. Yeni dizüstü, Google’ın Gemini ve Android entegrasyonunu öne çıkaran yapısıyla dikkat çekiyor.",
+      "link": "https://www.donanimhaber.com/asus-googlebook-tasarimi-ve-sogutma-sistemi-ilk-kez-goruntulendi--210673",
+      "published": "2026-09-19T15:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T15:01:09.918370+00:00"
+    },
+    {
+      "id": "621b5130d8a57956",
+      "source": "CNBC-e",
+      "title": "Borsa İstanbul’a tasfiye dalgası! 10 hisse %37’nin üzerinde değer kaybetti",
+      "summary": "Borsa İstanbul’da 14-18 Eylül haftasında sert satış dalgası yaşandı. BIST 100 endeksi haftayı yüzde 8,18 düşüşle tamamlarken, bazı hisselerde haftalık kayıp yüzde 40’ı aştı. İşte haftanın en çok değer kaybeden 10 hissesi...",
+      "link": "https://www.cnbce.com/borsa/borsa-istanbula-tasfiye-dalgasi-10-hisse-37nin-uzerinde-deger-kaybetti-h37611",
+      "published": "2026-09-19T14:58:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T15:01:04.579356+00:00"
+    },
+    {
+      "id": "1364ee54150217ec",
+      "source": "Yeni Şafak",
+      "title": "Piyasa değeri 760 bin TL: Bolu’da yolcu otobüslerinde kaçak tütün operasyonu",
+      "summary": "Bolu’da jandarma ekiplerince TEM Otoyolu üzerinde durdurulan yolcu otobüslerinde yapılan aramalarda, piyasa değeri yaklaşık 760 bin TL olan kaçak elektronik sigara kiti ve tütün mamulü ele geçirildi. Olayla ilgili 2 şüpheli hakkında adli işlem başlatıldı.",
+      "link": "https://www.yenisafak.com/gundem/piyasa-degeri-760-bin-tl-boluda-yolcu-otobuslerinde-kacak-tutun-operasyonu-4856725",
+      "published": "2026-09-19T14:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T15:00:56.289655+00:00"
+    },
     {
       "id": "caae5dc41bd3bcca",
       "source": "Halk TV",
@@ -39,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T14:55:43.108247+00:00"
+    },
+    {
+      "id": "2d66b683f08377b6",
+      "source": "Türkiye Gazetesi",
+      "title": "Numan Kurtulmuş: Kimse ayrılıkçı dil kullanmasın",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, “Sivil Toplum Buluşması” programında önemli açıklamalarda bulunuyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/adim-adim-terorsuz-turkiyeye-numan-kurtulmus-kimse-ayrilikci-dil-kullanmasin-1817171",
+      "published": "2026-09-19T14:53:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T15:00:53.255805+00:00"
     },
     {
       "id": "59c154319909a4bb",
@@ -127,6 +182,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T14:55:49.373289+00:00"
+    },
+    {
+      "id": "904e926ee38b8648",
+      "source": "Akşam",
+      "title": "Kurtulmuş'tan net tasfiye mesajı: Örgüt kendini feshetmeden uygulamaya geçilmeyecek",
+      "summary": "TBMM Başkanı Numan Kurtulmuş STK buluşmasında önemli açıklamalarda bulundu. Kurtulmuş konuşmasında \" İsrail boşuna hayal kurmasın, Türkiye olarak biz bu bölgeyi derleyip toparlayacağız\" ifadelerini kullandı.",
+      "link": "https://www.aksam.com.tr/guncel/terorsuz-turkiye-sureci-numan-kurtulmustan-onemli-aciklamalar/haber-1699679",
+      "published": "2026-09-19T14:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T15:00:55.789773+00:00"
     },
     {
       "id": "523502322e7553dc",
@@ -4496,6 +4562,17 @@
       "fetched_at": "2026-09-19T12:45:41.325506+00:00"
     },
     {
+      "id": "3a8d29fafbc86902",
+      "source": "Habertürk",
+      "title": "İşte Beşiktaş'ın Diyarbakır kafilesi!",
+      "summary": "Trendyol Süper Lig'in 6. haftasında Amed Sportif Faaliyetler'e konuk olacak Beşiktaş, bu maçın kamp kadrosunu açıkladı. Siyah-beyazlılarda sakatlığı bulunan Belçikalı yıldız Leandro Trossard, kafileye dahil edilmedi.",
+      "link": "https://www.haberturk.com/spor/besiktas-in-amedspor-maci-kamp-kadrosu-belli-oldu-3913621",
+      "published": "2026-09-19T12:42:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T15:00:50.062889+00:00"
+    },
+    {
       "id": "ad4349a691a88cc2",
       "source": "Yeniçağ",
       "title": "Yolcu otobüsü alev aldı: 13 yolcu 3 personel vardı",
@@ -5429,83 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T12:20:51.894975+00:00"
-    },
-    {
-      "id": "cc6c82dbb09d3d8e",
-      "source": "Habertürk",
-      "title": "Beşiktaş Amedspor maçına hazır!",
-      "summary": "Beşiktaş, Trendyol Süper Lig'in 6. haftasında Amed Sportif Faaliyetler ile deplasmanda oynayacağı karşılaşmanın hazırlıklarını bu sabah yaptığı antrenmanla tamamladı.",
-      "link": "https://www.haberturk.com/spor/besiktas-amedspor-macina-hazir-3913619",
-      "published": "2026-09-19T12:17:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T14:45:31.445526+00:00"
-    },
-    {
-      "id": "e7db6bf60b86b6f1",
-      "source": "Yeniçağ",
-      "title": "Süper Lig'in köklü kulübünden transfer yasağı müjdesi: 'Borç dosyamız kalmadı'",
-      "summary": "Basketbol Süper Ligi&#039;nde yeni sezon hazırlıklarını sürdüren Karşıyaka, eski yabancı oyuncularına olan borçları nedeniyle FIBA&#039;dan aldığı transfer yasağını kaldırdı. İzmir ekibi, FIBA nezdinde aktif transfer engeli ve borç dosyası kalmadığını açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/super-ligin-koklu-kulubunden-transfer-yasagi-mujdesi-borc-dosyamiz-kalmadi-1073378h.htm",
-      "published": "2026-09-19T12:16:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T12:20:42.538656+00:00"
-    },
-    {
-      "id": "e3de001b247dc5f1",
-      "source": "Ekonomim",
-      "title": "Siber dünyada görülmemiş olay: Hackerlar OpenAI'a girmek için Claude'u kullandı",
-      "summary": "Hacktron AI adlı bağımsız güvenlik ekibi, Anthropic’in Claude yazılımı tarafından üretilen saldırı kodlarını kullanarak bir OpenAI çalışanının ChatGPT hesabına sızdı. Şirketin özel yazılım deposuna erişmeyi başaran araştırmacılar, bulguları OpenAI&#039;ın hata ödül programı kapsamında bildirerek 6.500 dolar ödül kazandı.",
-      "link": "https://www.ekonomim.com/dunya/siber-dunyada-gorulmemis-olay-hackerlar-openaia-girmek-icin-claudeu-kullandi-haberi-919339",
-      "published": "2026-09-19T12:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T12:20:48.797431+00:00"
-    },
-    {
-      "id": "934c61c32d1a8324",
-      "source": "Aydınlık",
-      "title": "İki ilde FETÖ'nün güncel yapılanmasına darbe! 7 şüpheli tutuklandı",
-      "summary": "Ankara Cumhuriyet Başsavcılığı koordinesinde MİT ve emniyetin düzenlediği iki ayrı operasyonda gözaltına alınan 7 şüpheli, sevk edildikleri adli makamlarca tutuklanarak cezaevine gönderildi.",
-      "link": "https://www.aydinlik.com.tr/haber/iki-ilde-fetonun-guncel-yapilanmasina-darbe-7-supheli-tutuklandi-590811",
-      "published": "2026-09-19T12:15:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T12:20:43.294395+00:00"
-    },
-    {
-      "id": "efc16bd6823f279a",
-      "source": "Bianet",
-      "title": "Filo Jet soruşturmasında gözaltı süreleri uzatıldı, can kaybı 15’e yükseldi",
-      "summary": "Girne açıklarında batan Filo Jet’te kayıp olarak aranan bir kişinin daha bedeni bulundu. Kazaya ilişkin soruşturmada ise polis, geminin sol ön kızağındaki kırığın haziranda yüzeysel biçimde onarıldığına ilişkin fotoğraflara ulaştı.",
-      "link": "https://bianet.org/haber/filo-jet-sorusturmasinda-gozalti-sureleri-uzatildi-can-kaybi-15e-yukseldi-323610",
-      "published": "2026-09-19T12:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T12:25:35.680069+00:00"
-    },
-    {
-      "id": "98af8db59ca321ba",
-      "source": "Yeni Akit",
-      "title": "571 şehit yakını ve gazi daha kamuya atandı! Cumhurbaşkanı Erdoğan’dan net mesaj: Terör endüstrisinin hortumlarını tek tek keseceğiz",
-      "summary": "İstanbul'da 571 şehit yakını ve gazinin daha kamuya atandı \"Şehit Yakınları, Gazi ve Gazi Yakınlarımızın Kamu Kurumlarına Yerleştirilmesi Kura Töreni\"nde konuşan Cumhurbaşkanı Recep Tayyip Erdoğan, \"Şehitlerimizin asil ve aziz ruhlarını incitecek, gazilerimizin emeklerini boşa düşürecek, şehit ve gazi yakınlarımızı rencide edecek hiçbir girişime bugüne kadar müsaade etmedik, bundan sonra da müsaad",
-      "link": "https://www.yeniakit.com.tr/haber/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-2023701.html",
-      "published": "2026-09-19T12:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T12:45:37.947065+00:00"
-    },
-    {
-      "id": "b7655b5988f5189f",
-      "source": "Ekonomim",
-      "title": "Ünlülere yönelik uyuşturucu operasyonunda 2 şüpheli tutuklandı",
-      "summary": "Ünlülere yönelik yürütülen 2 ayrı uyuşturucu soruşturması kapsamında 24 kişi hakkında gözaltı kararı verildi. 21 şüpheli gözaltına alındı. Adli Tıp Kurumu’ndaki işlemlerinin ardından 10 şüpheli serbest bırakılırken, adliyeye sevk edilen Sayat Zurnacı ve Aytaç Kart tutuklandı. Nilperi Şahinkaya ve Hasan Şaş adli kontrol şartıyla serbest bırakıldı.",
-      "link": "https://www.ekonomim.com/gundem/unlulere-yonelik-uyusturucu-operasyonunda-2-supheli-tutuklandi-haberi-919338",
-      "published": "2026-09-19T12:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T12:20:48.797475+00:00"
     }
   ]
 }

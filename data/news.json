@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-19T01:05:51.436043+00:00",
+  "last_updated": "2026-09-19T01:10:53.387172+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 574,
+  "new_items_this_run": 563,
   "items": [
     {
       "id": "a8b721371b4d30c2",
@@ -3770,6 +3770,17 @@
       "fetched_at": "2026-09-18T20:50:45.344931+00:00"
     },
     {
+      "id": "35b1c256cfcf82ae",
+      "source": "Habertürk",
+      "title": "Fahiş fiyat soruşturmasında 40 tutuklama",
+      "summary": "\"Tarladan markete fiyat yolculuğu\" soruşturmasında gözaltına alınan 40 şüpheli tutuklandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fahis-fiyat-sorusturmasinda-40-tutuklama-3913508",
+      "published": "2026-09-18T20:48:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T01:10:31.815443+00:00"
+    },
+    {
       "id": "c35af0f476861382",
       "source": "Yeni Şafak",
       "title": "Ahırda korkunç olay: Süt sağarken elektrik akımına kapıldı",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-18T19:25:57.170168+00:00"
-    },
-    {
-      "id": "dd84f98ca5dc1498",
-      "source": "Hürriyet",
-      "title": "Trabzon'da sağanak etkili oldu",
-      "summary": "Trabzon'da sağanak yaşamı olumsuz etkiledi. Çukurçayır Mahallesi ile Trabzon Havalimanı mevkisinde su birikintileri nedeniyle araçlar trafikte ilerlemekte zorlandı.",
-      "link": "https://www.hurriyet.com.tr/gundem/trabzonda-saganak-etkili-oldu-43311878",
-      "published": "2026-09-18T19:24:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-18T21:35:30.783696+00:00"
     }
   ]
 }

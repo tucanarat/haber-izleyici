@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-19T22:05:57.506695+00:00",
+  "last_updated": "2026-09-19T22:11:03.238034+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 580,
+  "new_items_this_run": 579,
   "items": [
+    {
+      "id": "47a9d5d914c6bb9a",
+      "source": "Akşam",
+      "title": "Serbest Salah!",
+      "summary": "",
+      "link": "https://www.aksam.com.tr/yazarlar/serbest-salah/haber-1699748",
+      "published": "2026-09-19T22:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T22:10:41.338710+00:00"
+    },
+    {
+      "id": "af650492433a9049",
+      "source": "Akşam",
+      "title": "En pahalı takım ilk kez kaybetti",
+      "summary": "411,6 milyon euroluk piyasa değeri olan G.Saray, derbiye 189,6 milyon euroluk bir takımla başladı. 185.8 milyon euro toplam piyasa değeri gözüken Trabzonspor ise 109 milyon euroluk ilk 11'iyle Aslan'ı yendi.",
+      "link": "https://www.aksam.com.tr/spor/en-pahali-takim-ilk-kez-kaybetti/haber-1699747",
+      "published": "2026-09-19T22:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-19T22:10:41.338750+00:00"
+    },
     {
       "id": "f9e9c036c162cc83",
       "source": "Gazete Pencere",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T17:45:31.202804+00:00"
-    },
-    {
-      "id": "3dc7d1c241719bbf",
-      "source": "Yeniçağ",
-      "title": "Kaşif Kozinoğlu soruşturmasında 4 kişi gözaltına alındı",
-      "summary": "Silivri Cumhuriyet Başsavcılığı, Kaşif Kozinoğlu soruşturması kapsamında &quot;kasten öldürme&quot;, &quot;suç işlemek amacıyla örgüt kurma, yönetme ve üye olma&quot; ile MİT Kanunu&#039;na muhalefet suçlarından soruşturma yürütüldüğünü bildirdi.",
-      "link": "https://www.yenicaggazetesi.com/kasif-kozinoglu-sorusturmasinda-4-kisi-gozaltina-alindi-1073461h.htm",
-      "published": "2026-09-19T17:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T17:45:42.713275+00:00"
-    },
-    {
-      "id": "1dae0164bca48f94",
-      "source": "Hürriyet",
-      "title": "Salah'tan tarihe geçen goller! Trabzonspor-Galatasaray rekabetinde bir ilk",
-      "summary": "Mohamed Salah, Trabzonspor-Galatasaray maçına ilk yarıdan damga vurdu. İlk 45 dakikayı 2 gol - 1 asistle tamamlayan yıldız futbolcu, hem rekabette bir ilke imza attı hem de bordo-mavili forma altında tarihe geçti.",
-      "link": "https://www.hurriyet.com.tr/sporarena/salahtan-tarihe-gecen-goller-trabzonspor-galatasaray-rekabetinde-bir-ilk-43312855",
-      "published": "2026-09-19T17:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T18:15:36.087690+00:00"
     }
   ]
 }

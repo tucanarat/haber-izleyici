@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-09-20T21:41:30.250198+00:00",
+  "last_updated": "2026-09-20T21:46:06.506623+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 579,
+  "new_items_this_run": 574,
   "items": [
+    {
+      "id": "85fab5d0abe1a454",
+      "source": "Karar",
+      "title": "Erdoğan, Birleşmiş Milletler Genel Kurulu'na katılmak üzere ABD'de",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler 81. Genel Kurulu'na katılmak ve çeşitli temaslarda bulunmak üzere ABD'nin New York şehrine geldi.",
+      "link": "https://www.karar.com/guncel-haberler/erdogan-birlesmis-milletler-genel-kuruluna-katilmak-uzere-abdde-2073197",
+      "published": "2026-09-20T21:45:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T21:45:46.964141+00:00"
+    },
+    {
+      "id": "e2c058d71d83f543",
+      "source": "Yeniçağ",
+      "title": "Cilvegözü Gümrük Kapısı’nda yaşanan geçici tıkanıklık giderildi",
+      "summary": "Ticaret Bakanlığı Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan, Cilvegözü Gümrük Kapısı’nda bu akşam yaşanan geçici tıkanıklığın, gerekli çalışmaların ardından giderildiğini duyurdu.",
+      "link": "https://www.yenicaggazetesi.com/cilvegozu-gumruk-kapisinda-yasanan-gecici-tikaniklik-giderildi-1073723h.htm",
+      "published": "2026-09-20T21:44:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T21:45:47.548631+00:00"
+    },
+    {
+      "id": "7327dc87fa82d34f",
+      "source": "Milliyet",
+      "title": "Sermaye piyasası işlemleri soruşturmalarında Tera yatırım yöneticileri gözaltına alındı",
+      "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar kapsamında, Tera Yatırım Yönetim Kurulu üyeleri Bülent Uygun ile Abdulkadir Özkan gözaltına alındı. İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosunca, sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar kapsamında adli işlemler sürüyor. B",
+      "link": "https://www.milliyet.com.tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-tera-yatirim-yoneticileri-gozaltina-alindi-7664310",
+      "published": "2026-09-20T21:43:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T21:45:44.109191+00:00"
+    },
+    {
+      "id": "b3a7687f03cc18ea",
+      "source": "Gazete Pencere",
+      "title": "SPK'dan fonların tasfiyesiyle ilgili kritik karar: Azami süre 6 aya çıkarıldı",
+      "summary": "Sermaye Piyasası Kurulu, daha önce tasfiyesine karar verilen yatırım fonları için belirlenen azami süreyi 3 aydan 6 aya uzattığını duyurdu.",
+      "link": "https://www.gazetepencere.com/ekonomi/spkdan-fonlarin-tasfiyesiyle-ilgili-kritik-karar-azami-sure-6-aya-cikarildi-716208h",
+      "published": "2026-09-20T21:43:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T21:45:48.906564+00:00"
+    },
+    {
+      "id": "c7a558828c581df3",
+      "source": "Türkiye Gazetesi",
+      "title": "İŞTE SEÇMENİN MESAJI",
+      "summary": "Savaşın gölgesinde sandık başına giden Rusya’da Duma seçimlerinin ilk sonuçları belli oldu. Katılımın yüzde 55 olarak açıklandığı seçimde Vladimir Putin’in kurucusu olduğu Birleşik Rusya Partisi yüzde 49,4 oy oranıyla zirvedeki yerini korurken, Merkez Seçim Komisyonu oy verme sürecinde dijital sistemlere yönelik siber saldırı girişimlerinin engellendiğini duyurdu.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/kremlin-savas-sonrasi-ilk-sinavini-verdi-rus-secmenden-putine-sandikta-mesaj-var-1817401",
+      "published": "2026-09-20T21:41:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T21:45:41.897843+00:00"
+    },
     {
       "id": "87f055f9928f0291",
       "source": "Akşam",
@@ -50,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T21:41:16.596397+00:00"
+    },
+    {
+      "id": "f810b48398071bea",
+      "source": "Habertürk",
+      "title": "Kahvehanede silahlı kavga: 1 ölü, 5 yaralı",
+      "summary": "Adana'da husumetli iki grup arasında çıkan silahlı kavgada 1 kişi hayatını kaybetti, 5 kişi yaralandı",
+      "link": "https://www.haberturk.com/gundem/adana-da-kahvehanede-silahli-kavga-1-olu-5-yarali-3913876",
+      "published": "2026-09-20T21:38:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T21:45:37.022120+00:00"
     },
     {
       "id": "44c16759d70e7938",
@@ -171,6 +237,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T21:35:28.777697+00:00"
+    },
+    {
+      "id": "f216e61b48dc0f5d",
+      "source": "Finans Gündem",
+      "title": "Yeni haftada hava bir anda değişecek! Sıcaklıklar 10 derece düşüyor",
+      "summary": "Türkiye’de yeni haftayla birlikte hava değişiyor. Salı gününden itibaren yağış ve serin hava etkisini artırırken birçok bölgede sıcaklıkların 10 dereceye kadar düşmesi bekleniyor.",
+      "link": "https://www.finansingundemi.com/haber/yeni-haftada-hava-bir-anda-degisecek-sicakliklar-10-derece-dusuyor/1908947",
+      "published": "2026-09-20T21:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T21:45:58.269713+00:00"
     },
     {
       "id": "a3f53eaf4b89a7ac",
@@ -688,6 +765,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T21:05:35.094117+00:00"
+    },
+    {
+      "id": "91a026f6d04817bf",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail güçlerinin attığı ses bombaları nedeniyle Doğu Kudüs'te bir köyde dükkanlarda yangın çıktı",
+      "summary": "İsrail güçlerinin Filistinlilere attığı ses bombaları, işgal altındaki Doğu Kudüs'ün güneyindeki Sur Bahir köyünde bazı dükkanlarda yangın çıkmasına neden oldu.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-guclerinin-attigi-ses-bombalari-nedeniyle-dogu-kuduste-bir-koyde-dukkanlarda-yangin-cikti/4062817",
+      "published": "2026-09-20T21:04:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T21:45:40.045717+00:00"
     },
     {
       "id": "085e6cd8ea399000",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T18:01:00.607382+00:00"
-    },
-    {
-      "id": "9ed363bf1acbaa88",
-      "source": "Yeniçağ",
-      "title": "KKTC’den ‘dönüşümlü başkanlık’ çıkışı: “Politikamızla taban tabana zıt”",
-      "summary": "KKTC Dışişleri Bakanlığı, yeniden gündeme gelen “dönüşümlü başkanlık” modeline ilişkin açıklama yaptı. Modelin egemen eşitlik ve eşit uluslararası statü politikasıyla bağdaşmadığını belirten Bakanlık, uluslararası topluma KKTC’nin eşit statüsünü teyit etme çağrısında bulundu.",
-      "link": "https://www.yenicaggazetesi.com/kktcden-donusumlu-baskanlik-cikisi-politikamizla-taban-tabana-zit-1073682h.htm",
-      "published": "2026-09-20T17:54:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T17:55:33.435755+00:00"
-    },
-    {
-      "id": "bf055b8559f1f3b7",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Japonya'da nüfusun yüzde 29,6'sını 65 yaş ve üstü oluşturuyor",
-      "summary": "Japonya hükümeti, ülkedeki nüfusun yüzde 29,6'sının 65 yaş ve üstü olduğunu bildirdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/japonyada-nufusun-yuzde-29-6sini-65-yas-ve-ustu-olusturuyor/4062734",
-      "published": "2026-09-20T17:52:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T18:15:34.693254+00:00"
-    },
-    {
-      "id": "2298e29f26864667",
-      "source": "Habertürk",
-      "title": "Almanya'da seçim sonuçları açıklanıyor",
-      "summary": "Almanya'nın Mecklenburg-Vorpommern ve Berlin eyaletlerinde düzenlenen kritik bölge seçimlerinin sandık çıkış anketinde, Berlin’de Elif Eralp’in partisi Sol Parti; Mecklenburg-Vorpommern’de aşırı sağcı AfD ilk sırada yer aldı. Başbakan Friedrich Merz'in liderliğindeki CDU'nun ise ağır yenilgi aldığı belirtiliyor",
-      "link": "https://www.haberturk.com/dunya/son-dakika-almanya-da-secim-sonuclari-aciklaniyor-3913833",
-      "published": "2026-09-20T17:52:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T20:30:43.546307+00:00"
-    },
-    {
-      "id": "60b66dc64f8996c9",
-      "source": "Karar",
-      "title": "Uçum’dan yeni anayasa mesajı: 'Serbestlik fetişizmi' tuzağına düşülmemeli",
-      "summary": "Cumhurbaşkanı Erdoğan'ın Başdanışmanı Mehmet Uçum, yeni anayasa tartışmalarına ilişkin, “temel değerleri tahrip eden hukuk anlayışlarına ve neoliberal saldırganlıklara karşı tedbirler alan, milli perspektife sahip bir anayasa” vurgusu yaptı. Uçum, yeni anayasada “‘serbestlik fetişizmi’ tuzağına asla düşülmemelidir” ifadelerini kullandı.",
-      "link": "https://www.karar.com/guncel-haberler/ucumdan-yeni-anayasa-mesaji-serbestlik-fetisizmi-tuzagina-dusulmemeli-2073163",
-      "published": "2026-09-20T17:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T17:55:33.109095+00:00"
-    },
-    {
-      "id": "7a4635214e511675",
-      "source": "Habertürk",
-      "title": "Oğuz Çetin'den hakem tepkisi!",
-      "summary": "Trendyol Süper Lig'in 6. haftasında sahasında Eyüpspor'u 8-0 yenen Fenerbahçe'de futbol direktörü Oğuz Çetin, milli aranın ardından kaldıkları yerden devam ederek şampiyonluğa yürüyeceklerini söyledi. Çetin, puan kayıplarında hakem hatalarının da etkisinin olduğunu dile getirdi.",
-      "link": "https://www.haberturk.com/spor/fenerbahce-de-oguz-cetin-den-hakem-tepkisi-3913847",
-      "published": "2026-09-20T17:51:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T18:00:53.646079+00:00"
-    },
-    {
-      "id": "afed697c49aa5f64",
-      "source": "Yeni Yaşam",
-      "title": "Süper Ligin yeni lideri Amedspor",
-      "summary": "Trendyol Süper Lig&#8217;in 6. haftasında, Amedspor Beşiktaş&#8217;ı 3-2 mağlup etti. Amedspor, bu sonuçla araya lider olarak girdi Saat 20.00&#8217;de başlayan karşılaşmayı hakem Ali Şansalan yönetiyor. Şansalan&#8217;ın yardımcılıklarını Mehmet Emin Tuğral ve Candaş Elbil yapıyor. Mücadelenin VAR koltuğunda ise İspanyol hakem Guillermo Cuadra Fernandez oturuyor. Canlı gelişme Beşiktaş, Süper Lig",
-      "link": "https://yeniyasamgazetesi9.com/amedspor-besiktas-macinin-ilk-11leri-belli-oldu/",
-      "published": "2026-09-20T17:50:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T19:10:50.780813+00:00"
-    },
-    {
-      "id": "50fc83ee30501b8b",
-      "source": "Yeni Yaşam",
-      "title": "Ligin yeni lideri Amedspor",
-      "summary": "Süper Lig&#8217;in 6. haftasında Beşiktaş, Amedspor&#8217;a konuk oluyor Saat 20.00&#8217;de başlayan karşılaşmayı hakem Ali Şansalan yönetiyor. Şansalan&#8217;ın yardımcılıklarını Mehmet Emin Tuğral ve Candaş Elbil yapıyor. Mücadelenin VAR koltuğunda ise İspanyol hakem Guillermo Cuadra Fernandez oturuyor. Canlı gelişme Beşiktaş, Süper Lig&#8217;in 6. haftasında deplasmanda Amedspor ile karşı karş",
-      "link": "https://yeniyasamgazetesi9.com/amedspor-besiktas-macinin-ilk-11leri-belli-oldu/",
-      "published": "2026-09-20T17:50:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T19:05:40.629202+00:00"
-    },
-    {
-      "id": "212546f5304aa9b7",
-      "source": "Yeni Yaşam",
-      "title": "Amedspor-Beşiktaş maçında peş peşe gol: 3-2",
-      "summary": "Süper Lig&#8217;in 6. haftasında Beşiktaş, Amedspor&#8217;a konuk oluyor Saat 20.00&#8217;de başlayan karşılaşmayı hakem Ali Şansalan yönetiyor. Şansalan&#8217;ın yardımcılıklarını Mehmet Emin Tuğral ve Candaş Elbil yapıyor. Mücadelenin VAR koltuğunda ise İspanyol hakem Guillermo Cuadra Fernandez oturuyor. Canlı gelişme Beşiktaş, Süper Lig&#8217;in 6. haftasında deplasmanda Amedspor ile karşı karş",
-      "link": "https://yeniyasamgazetesi9.com/amedspor-besiktas-macinin-ilk-11leri-belli-oldu/",
-      "published": "2026-09-20T17:50:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T19:01:07.937984+00:00"
     }
   ]
 }

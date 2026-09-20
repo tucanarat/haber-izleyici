@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T00:01:24.855050+00:00",
+  "last_updated": "2026-09-20T00:05:56.622867+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 584,
   "items": [
+    {
+      "id": "675f7672dbb08b7f",
+      "source": "Habertürk",
+      "title": "Ankara’da suç örgütlerine operasyon: 5 tutuklama",
+      "summary": "Ankara İl Emniyet Müdürlüğü, yeni nesil suç örgütlerine yönelik operasyon sonucunda 5 kişinin Bolu’da yakalandığını, şüphelilerin tamamının tutuklandığını açıkladı.",
+      "link": "https://www.haberturk.com/gundem/ankarada-suc-orgutlerine-operasyon-5-tutuklama-3913716",
+      "published": "2026-09-20T00:00:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T00:05:28.052802+00:00"
+    },
     {
       "id": "900ffecf666aae7f",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T18:20:45.875383+00:00"
-    },
-    {
-      "id": "e5aa0d0e9d7aacf6",
-      "source": "Yeni Şafak",
-      "title": "Şehit yakınlarına anlamlı vefa: Kutsal topraklara gönderilecekler",
-      "summary": "Vakıflar Genel Müdürlüğü, Aile ve Sosyal Hizmetler Bakanlığı ve Muradiye Kültür Vakfı işbirliğiyle 100 şehit yakınının iki ayrı kafile halinde umreye gönderileceğini açıkladı.",
-      "link": "https://www.yenisafak.com/gundem/sehit-yakinlarina-anlamli-vefa-kutsal-topraklara-gonderilecekler-4857246",
-      "published": "2026-09-19T18:16:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T18:20:43.747579+00:00"
     }
   ]
 }

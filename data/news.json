@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-20T04:51:00.654694+00:00",
+  "last_updated": "2026-09-20T04:55:57.585877+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 571,
+  "new_items_this_run": 569,
   "items": [
+    {
+      "id": "776d7b138721220f",
+      "source": "Akşam",
+      "title": "Kuryeyi ezmişti, tatilde öldü",
+      "summary": "Motokurye Hasan Emre'ye çarpıp ölümüne neden olan, yargılandığı davada 5 yıl hapse çarptırılıp tahliye olan Ege Karaaslan, tatil için gittiği Karadağ'da kaldığı evde ölü bulundu. Genç kızın ölüm nedenini otopsi belirleyecek.",
+      "link": "https://www.aksam.com.tr/yasam/kuryeyi-ezmisti-tatilde-oldu/haber-1699764",
+      "published": "2026-09-20T04:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T04:55:36.458082+00:00"
+    },
+    {
+      "id": "04e1c2fdd26ee405",
+      "source": "Cumhuriyet",
+      "title": "Husumetlilerine ateş açtı, başkasını yaraladı!",
+      "summary": "Manisa'nın Yunusemre ilçesindeki bir çay bahçesinde oturan husumetlilerine tabancayla ateş açan Y.C.'nin (18), başka masada oturan ve olayla ilgisi olmayan S.K.’yi yaraladı. Olayın ardından kaçan Y.C.'nin yakalanması için çalışma başlatıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/husumetlilerine-ates-acti-baskasini-yaraladi-2539170",
+      "published": "2026-09-20T04:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T04:55:31.795065+00:00"
+    },
     {
       "id": "068b609ea309c483",
       "source": "Cumhuriyet",
@@ -28,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T04:45:45.292173+00:00"
+    },
+    {
+      "id": "bba027d1488d3541",
+      "source": "Habertürk",
+      "title": "16 yaşındaki Efe kazada can verdi",
+      "summary": "Mersin’de kamyonetle motosikletin çarpıştığı kazada 16 yaşındaki Mehmet Efe G. hayatını kaybetti. Mehmet Efe’nin kazadan yaklaşık 5 ay önce motosiklet kullanmak için A1 sınıfı ehliyet aldığı öğrenilirken, kamyonet sürücüsü gözaltına alındı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-mersin-de-kamyonetle-motosikletin-carpistigi-kazada-16-yasindaki-mehmet-efe-hayatini-kaybetti-3913719",
+      "published": "2026-09-20T04:43:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T04:55:28.442858+00:00"
     },
     {
       "id": "17b97e3472ed8fce",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T19:55:33.609221+00:00"
-    },
-    {
-      "id": "8d2e23e1be6c60c4",
-      "source": "Gazete Pencere",
-      "title": "Bursa'nın en huzurlu ilçesi: Sakinliğiyle öne çıkıyor",
-      "summary": "Bursa’nın Marmara Denizi kıyısındaki ilçesi Mudanya, sahil boyunca uzanan yürüyüş alanları, tarihi evleri ve deniz havasıyla kentin en sevilen yerlerinden biri.",
-      "link": "https://www.gazetepencere.com/gozden-kacmasin/bursanin-en-huzurlu-ilcesi-sakinligiyle-one-cikiyor-716117h",
-      "published": "2026-09-19T19:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T20:40:39.608402+00:00"
-    },
-    {
-      "id": "8193f76a7ae357d6",
-      "source": "Gazete Pencere",
-      "title": "Bursa'nın en huzurlu ilçesi: Sakinliğiyle öne çıkıyor",
-      "summary": "Bursa’nın Marmara Denizi kıyısındaki ilçesi Mudanya, sahil boyunca uzanan yürüyüş alanları, tarihi evleri ve deniz havasıyla kentin en sevilen yerlerinden biri.",
-      "link": "https://www.gazetepencere.com/gozden-kacmasin/haber-yaz-bursanin-en-huzurlu-ilcesi-sakinligiyle-one-cikiyor-716117h",
-      "published": "2026-09-19T19:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T20:05:33.982560+00:00"
-    },
-    {
-      "id": "ebcd45a04657e3ab",
-      "source": "Milliyet",
-      "title": "Hatay'da sokak köpeğini av tüfeğiyle yaralayan şüpheli gözaltına alındı",
-      "summary": "Önceki gün Samandağ ilçesi Atatürk Mahallesi’nde devriye görevinde bulunan polis ekibi, yol kenarında yaralı bir sokak köpeğinin yattığını fark etti. Köpeğin av tüfeğiyle vurulduğunu belirleyen ekip, yaralı hayvanı veterinere götürdü. Yaralı köpeğin tedavisi veterinerde sürerken, durumunun iyi olduğu öğrenildi. AV TÜFEĞİ ELE GEÇİRİLDİ İl Emniyet Müdürlüğü ekipleri, köpeği av tüfeğiyle vuran şüphel",
-      "link": "https://www.milliyet.com.tr/gundem/hatayda-sokak-kopegini-av-tufegiyle-yaralayan-supheli-gozaltina-alindi-7663692",
-      "published": "2026-09-19T19:52:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T19:55:30.601599+00:00"
     }
   ]
 }

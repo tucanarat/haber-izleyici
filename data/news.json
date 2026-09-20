@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T22:25:55.399620+00:00",
+  "last_updated": "2026-09-20T22:31:02.111529+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 577,
   "items": [
+    {
+      "id": "9137bb4e26b4bdaf",
+      "source": "Habertürk",
+      "title": "Tarlada ölü bulunan çocuğun kuzeni gözaltına alındı",
+      "summary": "Mardin Derik'te tarlada cansız bedeni bulunan 13 yaşındaki Selahaddin Karayel'in kuzeni gözaltına alındı",
+      "link": "https://www.haberturk.com/gundem/mardin-de-tarlada-olu-bulunan-cocugun-kuzeni-gozaltina-alindi-3913879",
+      "published": "2026-09-20T22:23:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T22:30:41.167334+00:00"
+    },
     {
       "id": "9a658e34aef96c4e",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T18:35:33.293891+00:00"
-    },
-    {
-      "id": "8306962f45e86959",
-      "source": "Cumhuriyet",
-      "title": "İsmail Kartal'dan Marco Asensio yanıtı: Eyüpspor maçında neden oynamadığını açıkladı",
-      "summary": "Marco Asensio, Eyüpspor karşılaşmasıyla kadroya geri döndü. Asensio karşılaşmada süre almazken İsmail Kartal, maçın ardından yıldız futbolcunun son durumunu paylaştı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/ismail-kartal-dan-marco-asensio-yaniti-eyupspor-macinda-neden-oynamadigini-acikladi-2539354",
-      "published": "2026-09-20T18:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T18:26:03.342969+00:00"
     }
   ]
 }

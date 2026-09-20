@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-20T04:35:53.647786+00:00",
+  "last_updated": "2026-09-20T04:40:51.915072+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 577,
+  "new_items_this_run": 569,
   "items": [
+    {
+      "id": "836d5ea1976eb012",
+      "source": "Akşam",
+      "title": "Büyükçekmece'deki inşaat faciasında yeni gelişme! Göçük altında feci son",
+      "summary": "Büyükçekmece'de inşaat alanındaki toprak kaymasında göçük altında kalan işçinin cansız bedenine ulaşıldı.",
+      "link": "https://www.aksam.com.tr/yasam/buyukcekmecedeki-insaat-faciasinda-yeni-gelisme-gocuk-altinda-feci-son/haber-1699762",
+      "published": "2026-09-20T04:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T04:40:37.318708+00:00"
+    },
     {
       "id": "747d92e9a9925ab9",
       "source": "Diken",
@@ -2824,6 +2835,17 @@
       "fetched_at": "2026-09-19T21:40:40.304347+00:00"
     },
     {
+      "id": "6949c01503bcd376",
+      "source": "Sabah",
+      "title": "Büyükçekmece’de göçük: 1 ölü, 1 yaralı",
+      "summary": "Büyükçekmece'de inşaat alanında meydana gelen toprak kaymasında göçük altında kalan 2 işçiden biri hayatını kaybetti, diğeri yaralı olarak kurtarıldı. Alkent 2000 Mahallesi'nde bir villanın bahçesinde... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/buyukcekmecede-gocuk-1-olu-1-yarali-7664404",
+      "published": "2026-09-19T21:37:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-20T04:40:37.050349+00:00"
+    },
+    {
       "id": "48acc7f50dfa48aa",
       "source": "Yeni Şafak",
       "title": "Samsun’da kavşakta iki ticari taksi çarpıştı: İki kişi yaralandı",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-19T19:50:37.438591+00:00"
-    },
-    {
-      "id": "c8aad1da49296a82",
-      "source": "Star",
-      "title": "Thomas Reis: Takımla gurur duyuyorum, çok iyi performans gösterdik",
-      "summary": "Trendyol Süper Lig'in 6. haftasında Galatasaray'ı sahasında 4-0 mağlup eden Trabzonspor'da teknik direktör Thomas Reis yaptığı açıklamada, \"Takımla gurur duyuyorum, çok iyi performans gösterdik\" dedi.",
-      "link": "https://www.star.com.tr/spor/thomas-reis-takimla-gurur-duyuyorum-cok-iyi-performans-gosterdik-haber-2041267/",
-      "published": "2026-09-19T19:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T19:50:44.571469+00:00"
-    },
-    {
-      "id": "cbf5c0ab1e6c199c",
-      "source": "Akşam",
-      "title": "Maç sonu flaş paylaşım! Trabzonspor'dan Galatasaray'a gönderme",
-      "summary": "Süper Lig'in 6. haftasında Trabzonspor, evinde Galatasaray ile karşı karşıya geldi. Rakibini 4-0 yenen Trabzonspor, maçın ardından göndermeli bir paylaşım yaptı.",
-      "link": "https://www.aksam.com.tr/spor/mac-sonu-flas-paylasim-trabzonspordan-galatasaraya-gonderme/haber-1699732",
-      "published": "2026-09-19T19:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-19T19:45:38.809778+00:00"
     }
   ]
 }

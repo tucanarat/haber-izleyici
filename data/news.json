@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-21T22:06:02.126148+00:00",
+  "last_updated": "2026-09-21T22:11:08.790698+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 557,
+  "new_items_this_run": 559,
   "items": [
+    {
+      "id": "8ba3f58377ae53ff",
+      "source": "Akşam",
+      "title": "Amasya'da kontrolden çıkarak tarlaya giren yolcu otobüsündeki 24 kişi yaralandı",
+      "summary": "Amasya'nın Merzifon ilçesinde yolcu otobüsünün kontrolden çıkarak tarlaya girmesi sonucu 24 kişi yaralandı.",
+      "link": "https://www.aksam.com.tr/guncel/amasyada-kontrolden-cikarak-tarlaya-giren-yolcu-otobusundeki-24-kisi-yaralandi/haber-1700233",
+      "published": "2026-09-21T22:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T22:10:45.470893+00:00"
+    },
     {
       "id": "8072039e10571df9",
       "source": "Karar",
@@ -50,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T22:01:06.615541+00:00"
+    },
+    {
+      "id": "3f4e771f5f3017ae",
+      "source": "Ekonomim",
+      "title": "Gözaltına alınan Afra Saraçoğlu hakkında karar",
+      "summary": "Uyuşturucu soruşturması kapsamında Fransa dönüşü İstanbul Havalimanı’nda gözaltına alınan oyuncu Afra Saraçoğlu’nun sağlık kontrolü, Adli Tıp ve savcılık işlemleri tamamlandı. Testleri henüz sonuçlanmayan ünlü oyuncu Afra Saraçoğlu serbest bırakıldı.",
+      "link": "https://www.ekonomim.com/gundem/gozaltina-alinan-afra-saracoglu-hakkinda-karar-haberi-919774",
+      "published": "2026-09-21T21:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T22:10:58.418520+00:00"
     },
     {
       "id": "6e5691838cacfd6a",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T18:25:45.154723+00:00"
-    },
-    {
-      "id": "7b48eecbb65b604d",
-      "source": "ShiftDelete.Net",
-      "title": "iOS 27.2 Beta 2 Yayınlandı: İşte Yenilikler",
-      "summary": "Apple, iOS 27.2 ikinci beta sürümünü geliştiriciler için yayınladı. Yeni Health sekmeleri ve Siri AI dil destekleri hakkında detaylar haberimizde.",
-      "link": "https://shiftdelete.net/apple-ios-27-2-ikinci-beta-surumu",
-      "published": "2026-09-21T18:22:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:25:58.144611+00:00"
-    },
-    {
-      "id": "bfda0b77bfa65762",
-      "source": "Türkiye Gazetesi",
-      "title": "\"KONUYU KAPATABİLİRİZ\"",
-      "summary": "YENİ Parti Sözcüsü Zeynel Emre, parti ismine yönelik itirazla ilgili açıklamalarda bulundu. Emre, isim konusunda yaşanan sorunun küçük bir düzenlemeyle çözülebileceğini belirterek, “YENİ Parti isminin başına küçük bir düzenleme koyarak konuyu kapatabiliriz” dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/yeni-parti-isim-krizine-cozum-ariyor-myk-sonrasi-dikkat-ceken-aciklama-konuyu-kapatab-1817571",
-      "published": "2026-09-21T18:22:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T19:20:42.430132+00:00"
     }
   ]
 }

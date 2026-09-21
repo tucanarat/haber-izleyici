@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-09-21T21:51:03.869271+00:00",
+  "last_updated": "2026-09-21T21:55:57.889119+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 566,
+  "new_items_this_run": 562,
   "items": [
+    {
+      "id": "7dc380fd1e70bbc1",
+      "source": "Gazete Pencere",
+      "title": "Ankara'da bir dairede 3 kişi ölü olarak bulundu!",
+      "summary": "Ankara'nın Yenimahalle ilçesindeki bir apartman dairesinde 3 erkeğin cansız bedeni bulundu. Cesetler, Adli Tıp Kurumu morguna götürüldü.",
+      "link": "https://www.gazetepencere.com/gundem/ankarada-bir-dairede-3-kisi-olu-olarak-bulundu-716354h",
+      "published": "2026-09-21T21:54:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:41.394791+00:00"
+    },
+    {
+      "id": "891a7267a089252e",
+      "source": "Yeniçağ",
+      "title": "Cumhurbaşkanı Erdoğan, Lübnan Başbakanı Selam'ı kabul etti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Lübnan Başbakanı Nevvaf Selam&#039;ı kabul etti.",
+      "link": "https://www.yenicaggazetesi.com/cumhurbaskani-erdogan-lubnan-basbakani-selami-kabul-etti-1074110h.htm",
+      "published": "2026-09-21T21:52:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:40.057945+00:00"
+    },
+    {
+      "id": "93cfa50c705e4f82",
+      "source": "Milliyet",
+      "title": "New York'ta CNN Türk'e konuşan Bakan Kurum: BM'de tüm dünyayla eylem planımızı paylaştık",
+      "summary": "New York’ta COP31 Eylem Gündemi Lansmanı’nda konuşan COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ardından CNN Türk'e özel açıklamalarda bulundu. Bakan Kurum, Türkiye'nin bilgi ve becerisini dünya ile paylaşmaya hazır olduğunu söyledi. Türkiye'nin eser siyasetiyle ortaya koyduğu bakışı COP31'e de uygulamak istediğini belirten Kurum \"Aslında Türkiye'nin becerisini, bil",
+      "link": "https://www.milliyet.com.tr/gundem/new-yorkta-cnn-turke-konusan-bakan-kurum-bmde-tum-dunyayla-eylem-planimizi-paylastik-7665011",
+      "published": "2026-09-21T21:52:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:36.874393+00:00"
+    },
+    {
+      "id": "7efc0cdf9e3b5ef1",
+      "source": "Yeniçağ",
+      "title": "Diyanet İşleri Başkanı Arpaguş'tan Suudi Arabistan'da hac ve umre temasları",
+      "summary": "Diyanet İşleri Başkanı Prof. Dr. Safi Arpaguş, Suudi Arabistan Hac ve Umre Bakanı Dr. Tevfik er-Rabia’nın daveti üzerine Suudi Arabistan’a resmi ziyarette bulundu. Görüşmelerde hac ve umre hizmetlerinin geliştirilmesi, organizasyon süreçleri ve iki ülke arasındaki iş birliği ele alındı.",
+      "link": "https://www.yenicaggazetesi.com/diyanet-isleri-baskani-arpagustan-suudi-arabistanda-hac-ve-umre-temaslari-1074109h.htm",
+      "published": "2026-09-21T21:52:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:40.057996+00:00"
+    },
+    {
+      "id": "2f76228c4be6cc78",
+      "source": "Cumhuriyet",
+      "title": "AKP'li Tayyar'dan Erdoğan'a 'çağrı': 'Herkesi sıra dayağına çekse, falakaya yatırsa...'",
+      "summary": "AKP'li Şamil Tayyar sosyal medya hesabından yaptığı paylaşımda \"Cumhurbaşkanımız, en yakınından başlayarak gölgesini kendi azameti sanan herkesi sıra dayağına çekse. Falakaya yatırsa. Veya fırlatıp atsa. Ne iyi olur\" diye yazdı.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/akp-li-tayyar-dan-erdogan-a-cagri-herkesi-sira-dayagina-cekse-falakaya-yatirsa-2539735",
+      "published": "2026-09-21T21:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:32.406539+00:00"
+    },
+    {
+      "id": "fc0aa5a20ddda8b7",
+      "source": "Türkiye Gazetesi",
+      "title": "Ankara'da dehşet evi! Erkek cesetleri çıkarıldı",
+      "summary": "Ankara’da bir apartman dairesinde 3 erkeğin cansız bedeni bulundu. Dairede hayatını kaybeden kişilerin Mehmet Büyükırmak, Mehmet Emre Çallı ve Enes Çallı olduğu belirlenirken, üçünün de vücudunda kurşun ve bıçak yaraları tespit edildi. Polis, olayın aydınlatılması için soruşturma başlattı.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/ankarada-esrarengiz-olay-bir-apartman-dairesinden-erkek-cesetleri-cikti-1817603",
+      "published": "2026-09-21T21:51:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:35.058119+00:00"
+    },
+    {
+      "id": "d46e6ce4047407e4",
+      "source": "Yeniçağ",
+      "title": "Husumetlilerin tartışması kanlı bitti: 1 yaralı",
+      "summary": "Malatya’da husumetlileri ile tartışan şahıs silahla bacağından vurularak yaralandı.",
+      "link": "https://www.yenicaggazetesi.com/husumetlilerin-tartismasi-kanli-bitti-1-yarali-1074108h.htm",
+      "published": "2026-09-21T21:51:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:40.058024+00:00"
+    },
+    {
+      "id": "d15e545f89f1051a",
+      "source": "Habertürk",
+      "title": "Apartman dairesinde 3 erkek ölü bulundu",
+      "summary": "Ankara Yenimahalle'deki bir apartman dairesinde 3 erkeğin cansız bedenleri bulundu. Olayla ilgili soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/gundem/ankara-da-bir-dairede-3-erkek-olu-bulundu-3914133",
+      "published": "2026-09-21T21:50:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:29.163186+00:00"
+    },
     {
       "id": "afe67a340ff9199f",
       "source": "Yeniçağ",
@@ -28,6 +116,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T21:50:45.736624+00:00"
+    },
+    {
+      "id": "3fa1ed4d2f5a0775",
+      "source": "Ekonomim",
+      "title": "Türkiye ve Türk dünyası arasında sağlık turizmini çeşitlendirme potansiyeli bulunuyor",
+      "summary": "Türk Dünyası Dostluk ve İş Birliği Derneği (TÜDİŞ) tarafından Bakü&#039;de düzenlenen &quot;Sağlıkta Birlikte&quot; panelinde, Türkiye ile Türk dünyası arasında sağlık turizminin geliştirilmesi ve çeşitlendirilmesi imkanları ele alındı.",
+      "link": "https://www.ekonomim.com/saglik/turkiye-ve-turk-dunyasi-arasinda-saglik-turizmini-cesitlendirme-potansiyeli-bulunuyor-haberi-919772",
+      "published": "2026-09-21T21:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:47.783486+00:00"
     },
     {
       "id": "31d763421aae277e",
@@ -688,6 +787,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T21:20:59.519018+00:00"
+    },
+    {
+      "id": "3bbd7c2e4ec8012b",
+      "source": "Bianet",
+      "title": "İstanbul Barosu “Ailem Güvende” raporu: Gözaltındakilerin tamamına ters kelepçe uygulandı",
+      "summary": "Baro raporunda, LGBTİ+’lara yönelik operasyonları protesto ederken gözaltına alınan 7’si avukat 107 kişinin darp, uzun süre ters kelepçe, avukata erişimin engellenmesi, ilaç ve hijyen ihtiyaçlarının karşılanmaması dahil kötü muamele iddialarını kayda geçirdi.",
+      "link": "https://bianet.org/haber/istanbul-barosu-ailem-guvende-raporu-gozaltindakilerin-tamamina-ters-kelepce-uygulandi-323650",
+      "published": "2026-09-21T21:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T21:55:42.459339+00:00"
     },
     {
       "id": "a5dfce9787c6d068",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T18:41:09.104841+00:00"
-    },
-    {
-      "id": "4661cbd9c0691ae2",
-      "source": "Habertürk",
-      "title": "Milliler'de sakatlık geçiren oyuncuların durumu!",
-      "summary": "UEFA Uluslar A Ligi 1. Grup'ta Fransa ve İtalya'yla karşılaşacak olan A Milli Futbol Takımımız'da sakatlık yaşayan oyuncuların son durumu belli oldu. Orkun Kökçü ilk antrenmanda dinlendirilirken, Yunus Akgün, Muhammet Şengezer ve Deniz Gül'ün tedavilerine başlandı. Öte yandan Kenan Yıldız, Hakan Çalhanoğlu, Mert Müldür de sakatlıkları nedeniyle geniş kadroda yer almadı.",
-      "link": "https://www.haberturk.com/spor/a-milli-futbol-takimimiz-daki-4-oyuncunun-sakatlik-durumu-3914110",
-      "published": "2026-09-21T18:17:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:30:44.318495+00:00"
-    },
-    {
-      "id": "6cce7990fc8dbf90",
-      "source": "Diken",
-      "title": "Mohammed Salah'a Britanya'da trafikten men cezası",
-      "summary": "Mohammed Salah'a Britanya'da trafikten men cezası 21.09.2026 Diken Trabzonspor'un Mısırlı yıldızı Mohammed Salah'a aracının hız sınırına uymadığı gerekçesiyle Britanya'da altı ay trafikten men cezası verildi. The post Mohammed Salah'a Britanya'da trafikten men cezası appeared first on #site_linkat 21.09.2026 .",
-      "link": "https://www.diken.com.tr/mohammed-salaha-britanyada-trafikten-men-cezasi/?utm_source=rss&utm_medium=rss&utm_campaign=mohammed-salaha-britanyada-trafikten-men-cezasi",
-      "published": "2026-09-21T18:17:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:20:44.036613+00:00"
-    },
-    {
-      "id": "00183d25dd2ca2eb",
-      "source": "Yeniçağ",
-      "title": "Antalya'da sağanak taşkına neden oldu",
-      "summary": "Antalya’nın Elmalı ilçesinde aniden bastıran sağanak hayatı olumsuz etkiledi. Yüksek kesimlerden gelen sular cadde ve sokaklarda taşkınlara yol açarken, pazar alanını da su bastı. Belediye ekipleri çamur ve su birikintilerini temizlemek için çalışma başlattı.",
-      "link": "https://www.yenicaggazetesi.com/antalyada-saganak-taskina-neden-oldu-1074076h.htm",
-      "published": "2026-09-21T18:17:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:20:41.847859+00:00"
-    },
-    {
-      "id": "d1412be7c8e68b38",
-      "source": "Finans Gündem",
-      "title": "Bakan Bolat'tan Türkiye-ABD ticaretinde 100 milyar dolarlık hedef vurgusu",
-      "summary": "Ticaret Bakanı Ömer Bolat, “Türk şirketlerinin ABD’deki yatırımları 14,9 milyar dolara ulaşırken, ABD’den Türkiye’ye gelen doğrudan yatırımlar 16,5 milyar dolar seviyesinde bulunuyor” dedi.",
-      "link": "https://www.finansingundemi.com/haber/bakan-bolattan-turkiye-abd-ticaretinde-100-milyar-dolarlik-hedef-vurgusu/1909057",
-      "published": "2026-09-21T18:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:31:04.496077+00:00"
-    },
-    {
-      "id": "9f50b72625c4b84d",
-      "source": "Ekonomim",
-      "title": "Sağlık Bakanı Memişoğlu: ABD ile Türkiye arasında sağlık işbirliğin büyük kazanım olacak",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, ABD ile Türkiye’nin sağlık alanındaki eksikliklerinin birbirini tamamlayabilecek nitelikte olduğunu belirterek, iki ülkenin işbirliğinin çok büyük kazanım olacağına inandığını söyledi.",
-      "link": "https://www.ekonomim.com/gundem/saglik-bakani-memisoglu-abd-ile-turkiye-arasinda-saglik-isbirligin-buyuk-kazanim-olacak-haberi-919731",
-      "published": "2026-09-21T18:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:20:48.442614+00:00"
-    },
-    {
-      "id": "90e3588b747a35a2",
-      "source": "Karar",
-      "title": "Dursun Özbek’ten Okan Buruk’a: Güvenimiz ve inancımız tam",
-      "summary": "Galatasaray Başkanı Dursun Özbek, teknik direktör Okan Buruk hakkında çıkan iddialara yazılı açıklamayla yanıt verdi. Özbek, “Okan Buruk’a dün de inancımız ve güvenimiz tamdı; bugün de tamdır.” ifadelerini kullandı.",
-      "link": "https://www.karar.com/spor-haberleri/dursun-ozbekten-okan-buruka-guvenimiz-ve-inancimiz-tam-2073418",
-      "published": "2026-09-21T18:16:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:20:41.456946+00:00"
-    },
-    {
-      "id": "00379f1211e50726",
-      "source": "Gazete Pencere",
-      "title": "Dorukhan Büyükışık cinayetinde emniyet müdürünün hapsi isteniyor",
-      "summary": "Dorukhan Büyükışık'ın inşaat şantiyesinde ölü bulunmasına ilişkin yürütülen soruşturmada ek iddianame hazırlandı. Dönemin Narlıdere ilçe emniyet müdürünün de aralarında olduğu 26 kişinin hapsi isteniyor.",
-      "link": "https://www.gazetepencere.com/gundem/dorukhan-buyukisik-cinayetinde-emniyet-mudurunun-hapsi-isteniyor-716340h",
-      "published": "2026-09-21T18:16:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:20:43.187804+00:00"
-    },
-    {
-      "id": "0f4b3eccca8802e0",
-      "source": "Cumhuriyet",
-      "title": "Fenerbahçe Tarfin'den Emma Meesseman kararı: Resmen açıklandı!",
-      "summary": "Kadınlar Basketbol Ligi ekibi Fenerbahçe Tarfin, 33 yaşındaki Belçikalı oyuncu Emma Meesseman ile yeni sözleşme imzalandığını duyurdu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-den-emma-meesseman-karari-resmen-aciklandi-2539689",
-      "published": "2026-09-21T18:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:20:35.716208+00:00"
-    },
-    {
-      "id": "5055bb62b0e75699",
-      "source": "Yeniçağ",
-      "title": "Kahvehanede masada ölü bulundu: Otopsi gerçeği ortaya çıkardı",
-      "summary": "Manisa’nın Salihli ilçesinde kahvehanenin dışındaki masada hareketsiz halde bulunan 35 yaşındaki Mehmet Gök’ün hayatını kaybettiği belirlendi. İlk otopside Gök’ün darbedilerek öldürüldüğünün tespit edilmesi üzerine 2 kişi gözaltına alındı.",
-      "link": "https://www.yenicaggazetesi.com/kahvehanede-masada-olu-bulundu-otopsi-gercegi-ortaya-cikardi-1074075h.htm",
-      "published": "2026-09-21T18:15:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:20:41.847895+00:00"
-    },
-    {
-      "id": "3c039e12317447f4",
-      "source": "Habertürk",
-      "title": "Büşra’nın ölümünde sanık beraat etti",
-      "summary": "Aydın'ın Nazilli ilçesinde üniversite öğrencisi Büşra Cin’in (24) tabancayla göğsünden vurularak hayatını kaybetmesiyle ilgili davada yargılanan Ö.K. (30), 'Kadını kasten öldürme' suçundan beraat ederken, ruhsatsız tabanca bulundurma suçundan 1 yıl 6 ay hapis ve 5 bin lira para cezasına çarptırıldı.",
-      "link": "https://www.haberturk.com/gundem/universite-ogrencisi-busranin-olumunde-sanik-beraat-etti-3914112",
-      "published": "2026-09-21T18:15:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T18:20:33.314048+00:00"
     }
   ]
 }

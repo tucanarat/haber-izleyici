@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-21T01:25:48.791475+00:00",
+  "last_updated": "2026-09-21T01:31:18.167056+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 585,
+  "new_items_this_run": 587,
   "items": [
+    {
+      "id": "d356aa37243cc5c6",
+      "source": "Yeni Şafak",
+      "title": "Adana'da 5 büyüklüğünde deprem",
+      "summary": "Adana'da saat 04.02'de 5 büyüklüğünde deprem meydana geldi.",
+      "link": "https://www.yenisafak.com/gundem/adanada-5-buyuklugunde-deprem-4857538",
+      "published": "2026-09-21T01:29:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T01:30:57.597966+00:00"
+    },
+    {
+      "id": "8a7d86f655693eed",
+      "source": "Aydınlık",
+      "title": "Sermaye piyasası işlemleri soruşturmasında 2 gözaltı daha",
+      "summary": "İstanbul’da sermaye piyasasında gerçekleştirilen işlemlere yönelik soruşturma kapsamında Tera Yatırım Yönetim Kurulu üyeleri Bülent Uygun ve Abdulkadir Özkan gözaltına alındı.",
+      "link": "https://www.aydinlik.com.tr/haber/sermaye-piyasasi-islemleri-sorusturmasinda-2-gozalti-daha-590981",
+      "published": "2026-09-21T01:24:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T01:31:00.443357+00:00"
+    },
     {
       "id": "58a4b9852592d362",
       "source": "Halk TV",
@@ -17,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T01:25:37.981393+00:00"
+    },
+    {
+      "id": "6bd969dc8b05f172",
+      "source": "Evrensel",
+      "title": "Adana'da 5 büyüklüğünde deprem meydana geldi",
+      "summary": "Adana'nın Saimbeyli ilçesinde AFAD verilerine göre 5, Kandilli Rasathanesi verilerine göre ise 4,8 büyüklüğünde deprem meydana geldi.",
+      "link": "https://www.evrensel.net/haber/6001372/adana-da-5-buyuklugunde-deprem-meydana-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-21T01:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T01:30:55.072904+00:00"
     },
     {
       "id": "f7820c1864766461",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T19:35:33.303699+00:00"
-    },
-    {
-      "id": "55131f5e205bfef0",
-      "source": "CNBC-e",
-      "title": "İngiltere'de sığınmacı krizinde dikkat çeken adım: Köy bağımsızlık ilan etti",
-      "summary": "İngiltere'nin Oxfordshire bölgesindeki Piddington köyünde, yakınlardaki eski askeri tesise 1.256 erkek sığınmacının yerleştirilmesi planına tepki olarak sembolik referandum yapıldı. 312 oyun 285'i Birleşik Krallık'tan ayrılma yönünde kullanıldı.",
-      "link": "https://www.cnbce.com/dunya/ingilterede-siginmaci-krizinde-dikkat-ceken-adim-koy-bagimsizlik-ilan-etti-g37648",
-      "published": "2026-09-20T19:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T19:35:44.847330+00:00"
-    },
-    {
-      "id": "953b351bf8eee6cc",
-      "source": "Türkiye Gazetesi",
-      "title": "Göztepe ile Çaykur Rizespor puanları paylaştı",
-      "summary": "Trendyol Süper Lig'in altıncı haftasında Göztepe ile Çaykur Rizespor 2-2 berabere kaldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/goztepe-ile-caykur-rizespor-puanlari-paylasti-1817357",
-      "published": "2026-09-20T19:31:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T20:45:37.819888+00:00"
-    },
-    {
-      "id": "d8c0c15ae8b3d7bc",
-      "source": "Habertürk",
-      "title": "\"Şanssız olduğunuz dönemler olabiliyor\"",
-      "summary": "Trendyol Süper Lig'in 6. haftasında deplasmanda Erzurumspor FK'ya 1-0 yenilen Samsunspor'da teknik direktör Thorsten Fink, \"Bazen şanssız olduğunuz dönemler olabiliyor. Özellikle negatif sonuçların peş peşe geldiği dönemlerde bu tür karşılaşmalar, bu tür performanslar ne yazık ki olabiliyor.\" dedi.",
-      "link": "https://www.haberturk.com/spor/thorsten-fink-bazen-sanssiz-oldugunuz-donemler-olabiliyor-3913857",
-      "published": "2026-09-20T19:31:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T19:40:31.174174+00:00"
     }
   ]
 }

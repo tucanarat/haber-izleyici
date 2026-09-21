@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-21T03:15:53.316953+00:00",
+  "last_updated": "2026-09-21T03:21:02.872130+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 561,
+  "new_items_this_run": 562,
   "items": [
+    {
+      "id": "9148d4113f33e756",
+      "source": "OdaTV",
+      "title": "Mükellefleri bekleyen yeni hukuki çıkmaz",
+      "summary": "Yusuf İleri yazdı...",
+      "link": "https://www.odatv.com/yazarlar/yusuf-ileri/mukellefleri-bekleyen-yeni-hukuki-cikmaz-120163459",
+      "published": "2026-09-21T03:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T03:20:46.451158+00:00"
+    },
     {
       "id": "61869f220b585f85",
       "source": "Gerçek Gündem",
@@ -1227,6 +1238,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T23:45:36.384647+00:00"
+    },
+    {
+      "id": "eac26d2a4e081e89",
+      "source": "Karar",
+      "title": "Gökyüzünde inanılmaz yoğunluk: 8 ayda taşınan yolcu sayısı yeni rekor getirdi",
+      "summary": "Türkiye genelindeki havalimanları, 2026 yılının ilk 8 ayında 167,5 milyonu aşkın yolcuya kapılarını açarak tarihi bir yoğunluk yaşadı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, yalnızca İstanbul ve Antalya terminallerinin ulaştığı 81,7 milyonluk yolcu hacmiyle 2002 yılının tüm Türkiye toplamını ikiye katladığını açıkladı.",
+      "link": "https://www.karar.com/guncel-haberler/havalimanlarinda-2026da-kac-yolcu-tasindi-en-cok-yolcu-hangi-2073204",
+      "published": "2026-09-20T23:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T03:20:43.424399+00:00"
     },
     {
       "id": "1e279510cf8296c6",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T20:30:50.836184+00:00"
-    },
-    {
-      "id": "55d30dab9c117bf6",
-      "source": "Evrensel",
-      "title": "Mardin'de kaybolan 13 yaşındaki çocuk ölü bulundu: Kuzeni gözaltına alındı",
-      "summary": "Mardin'in Derik ilçesinde dün kaybolan 13 yaşındaki Selahaddin Karayel, ekiplerin arama çalışmaları sonucu bir mısır tarlasında ölü bulundu. Karayel'in kuzeni D.K. gözaltına alındı.",
-      "link": "https://www.evrensel.net/haber/6001371/mardinde-kaybolan-13-yasindaki-cocuk-olu-bulundu-kuzeni-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-20T19:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T20:20:40.468443+00:00"
-    },
-    {
-      "id": "8034f0a2fdd0ec26",
-      "source": "Star",
-      "title": "Birleşmiş Milletler 81. Genel Kurulu: Cumhurbaşkanı Erdoğan'ın uçağı New York'a iniş yaptı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na katılmak üzere ABD'nin New York kentine geldi.",
-      "link": "https://www.star.com.tr/guncel/cumhurbaskani-erdoganin-ucagi-new-yorka-inis-yapti-haber-2041454/",
-      "published": "2026-09-20T19:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T20:10:43.662734+00:00"
     }
   ]
 }

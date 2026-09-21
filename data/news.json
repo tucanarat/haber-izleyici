@@ -1,12 +1,320 @@
 {
-  "last_updated": "2026-09-21T06:56:00.285317+00:00",
+  "last_updated": "2026-09-21T07:01:25.557088+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 557,
+  "new_items_this_run": 563,
   "items": [
+    {
+      "id": "16ac39331bcf951c",
+      "source": "ShiftDelete.Net",
+      "title": "Çinliler Gerçekten Ayırt Edilemeyen Robot Balık Yaptı: Otonom Hareket Ediyor",
+      "summary": "Çinli Boyagongdao tarafından geliştirilen biyomimetik robot balık BG-5, gerçekçi tasarımı ve otonom hareket kabiliyetiyle öne çıkıyor.",
+      "link": "https://shiftdelete.net/cinin-gercek-baliktan-ayirt-edilmesi-zor-robotu-bg-5",
+      "published": "2026-09-21T07:00:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:21.196946+00:00"
+    },
+    {
+      "id": "ba0c4bd812b1ccad",
+      "source": "Akşam",
+      "title": "İstanbulspor'dan Elvin Mendy açıklaması",
+      "summary": "Trendyol 1. Lig ekiplerinden İstanbulspor, Manisa FK maçında hastaneye kaldırılan Elvin Mendy'nin kalp kaynaklı herhangi bir sağlık sorununun bulunmadığını açıkladı.",
+      "link": "https://www.aksam.com.tr/spor/istanbulspordan-elvin-mendy-aciklamasi/haber-1700055",
+      "published": "2026-09-21T07:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:04.619060+00:00"
+    },
+    {
+      "id": "fe8e509671a6242e",
+      "source": "Webrazzi",
+      "title": "Anthropic, yapay zeka odaklı ilaç araştırmaları için fiziksel bir biyoloji laboratuvarı kurdu",
+      "summary": "Yapay zeka şirketi Anthropic, yalnızca bilgisayar tabanlı araştırmalarla sınırlı kalmayarak biyoloji alanında fiziksel deneyler gerçekleştireceği yeni bir laboratuvar açıyor. San Francisco Körfez Bölg...",
+      "link": "https://webrazzi.com/2026/09/21/anthropic-yapay-zeka-odakli-ilac-arastirmalari-icin-fiziksel-bir-biyoloji-laboratuvari-kurdu/",
+      "published": "2026-09-21T07:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:18.365198+00:00"
+    },
+    {
+      "id": "fde2f86e61991344",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Borsa haftaya düşüşle başladı",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi, haftaya yüzde 0,87 düşüşle 13.168,54 puandan başladı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-haftaya-dususle-basladi/4062943",
+      "published": "2026-09-21T06:59:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:00:58.517038+00:00"
+    },
+    {
+      "id": "b29c2ddd6904488e",
+      "source": "Akşam",
+      "title": "Eşi tarafından katledilmişti: Son paylaşımı ortaya çıktı",
+      "summary": "Hatay'ın Payas ilçesinde boşanma aşamasındaki eşi tarafından pompalı tüfekle öldürülen 47 yaşındaki Emine Çil'in, olaydan yalnızca 2 saat önce sosyal medyada yaptığı paylaşımlar dikkat çekti. Çil'in “Ol emrini veren, öl emrini verene kadar oyuna dahilim” sözleri, cinayetin ardından gündem oldu.",
+      "link": "https://www.aksam.com.tr/yasam/esi-tarafindan-katledilmisti-son-paylasimi-ortaya-cikti/haber-1700054",
+      "published": "2026-09-21T06:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:04.619098+00:00"
+    },
+    {
+      "id": "380b14d5177513e7",
+      "source": "Star",
+      "title": "Rusya'dan Ukrayna'ya liman ve lojistik darbesi! Depolar ve ihtiyaç gemileri İHA'larla vuruldu",
+      "summary": "Rusya Savunma Bakanlığı, Ukrayna'daki lojistik merkezler, depolar ve limanların hedef alındığını; Ukrayna ordusunun ihtiyaçları için kullanılan bazı gemilerin de İHA'larla vurulduğunu açıkladı.",
+      "link": "https://www.star.com.tr/dunya/rusyadan-ukraynaya-liman-ve-lojistik-darbesi-depolar-ve-ihtiyac-gemileri-ihalarla-vuruldu-haber-2041504/",
+      "published": "2026-09-21T06:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:05.516882+00:00"
+    },
+    {
+      "id": "1bb6bfc5e7d427de",
+      "source": "Star",
+      "title": "ASKİ kazdı, mahalleli toprak altında kaldı! CHP'li belediye ihbarlara kulağını tıkadı",
+      "summary": "Adana'da vatandaşlar ASKİ tarafından yapılan altyapı çalışmasından sonra ortaya çıkan asfalt ve toprak atıklarının boş arazilere bırakılması ve uzun süredir kaldırılmamasına tepki gösterdi. Mahalle sakinleri, CHP'li belediyeye defalarca yapılan ihbarlara rağmen atıkların aylardır kaldırılmadığını belirtti.",
+      "link": "https://www.star.com.tr/guncel/aski-kazdi-mahalleli-toprak-altinda-kaldi-chpli-belediye-ihbarlara-kulagini-tikadi-haber-2041503/",
+      "published": "2026-09-21T06:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:05.516916+00:00"
+    },
+    {
+      "id": "79c2213714400149",
+      "source": "Ekonomim",
+      "title": "Borsa İstanbul haftaya düşüşle başladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, haftaya yüzde 0,87 düşüşle 13.168,54 puandan başladı.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/borsa-istanbul-haftaya-dususle-basladi-haberi-919580",
+      "published": "2026-09-21T06:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:15.532473+00:00"
+    },
+    {
+      "id": "e66905514b310d80",
+      "source": "Halk TV",
+      "title": "8 bin işçi 'kırmızı altın' için tarlaya indi: Türkiye'den tüm dünyaya gönderilecek",
+      "summary": "Gaziantep İslahiye’nin tescilli lezzeti kırmızı biberde hasat 15 gün rötarlı başladı. Zorlu hava koşulları tarlada yüzde 20 rekolte kaybına yol açarken, artan maliyetlerle boğuşan çiftçi taban fiyatın netleşmesini bekliyor.",
+      "link": "https://halktv.com.tr/turkiye/8-bin-isci-kirmizi-altin-icin-tarlaya-indi-turkiyeden-tum-dunyaya-gonderilecek-1056333h",
+      "published": "2026-09-21T06:58:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:09.635017+00:00"
+    },
+    {
+      "id": "63818fac19e34a2e",
+      "source": "Halk TV",
+      "title": "TFF 2 haftada küme düşürdü: Her şey bitti derken bir kötü haber daha geldi",
+      "summary": "Ligdeki iki maçına çıkmadığı için küme düşen Yeni Malatyaspor&#039;a Türkiye Kupası nedeniyle bir ceza daha gelecek.",
+      "link": "https://halktv.com.tr/spor/tff-2-haftada-kume-dusurdu-her-sey-bitti-derken-bir-kotu-haber-daha-geldi-1056332h",
+      "published": "2026-09-21T06:58:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:09.635047+00:00"
+    },
+    {
+      "id": "78741d67783f5932",
+      "source": "Milliyet",
+      "title": "Bursa’daki fuarda herkes bu otomobilin başına toplandı! 32 yaşında, sadece 68 bin kilometrede",
+      "summary": "Bursa'da otomobil tutkunlarını bir araya getiren fuarda, farklı marka ve modellerden çok sayıda araç ziyaretçilerin beğenisine sunuldu. Klasik otomobillerden modifiye araçlara kadar birçok otomobilin yer aldığı fuarda, geçmişten günümüze uzanan modeller de büyük ilgi gördü. Bu araçlardan biri de 1994 model Tofaş Doğan oldu. 1994 YILINDAN BU YANA TEK DEĞİŞEN KİLOMETRE OLDU Murat Can'a ait olan Tofa",
+      "link": "https://www.milliyet.com.tr/gundem/bursadaki-fuarda-herkes-bu-otomobilin-basina-toplandi-32-yasinda-sadece-68-bin-kilometrede-7664434",
+      "published": "2026-09-21T06:58:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:04.025179+00:00"
+    },
+    {
+      "id": "0110f3a689f8ae4c",
+      "source": "Cumhuriyet",
+      "title": "Adana fay hatları nereden geçiyor? Adana'da deprem riski taşıyan ilçeler hangileri?",
+      "summary": "Türkiye'nin deprem kuşağında yer alan kentlerinden Adana'da fay hatları ve deprem tehlikesi yurttaşların gündeminde bulunuyor. Adana'dan geçen fay sistemleri, ilçelerin jeolojik yapısı ve zemin özellikleri araştırılırken, “Adana'da fay hattı nereden geçiyor, hangi ilçeler deprem riski taşıyor?” soruları merak ediliyor. İşte Adana'nın deprem tehlikesi hakkında bilinmesi gerekenler.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/adana-fay-hatlari-nereden-geciyor-adana-da-deprem-riski-tasiyan-ilceler-hangileri-2539446",
+      "published": "2026-09-21T06:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:00:59.257551+00:00"
+    },
+    {
+      "id": "22de17cd8a1a99a5",
+      "source": "Akşam",
+      "title": "Rusya'dan Ukrayna'ya peş peşe saldırı! Lojistik merkezleri ve gemiler vuruldu",
+      "summary": "Rusya Savunma Bakanlığı, Ukrayna'daki lojistik merkezlere, depolara ve limanlara saldırılar düzenlendiğini, Ukrayna ordusunun ihtiyaçları doğrultusunda kullanılan gemilerin de insansız hava araçlarıyla (İHA) vurulduğunu bildirdi.",
+      "link": "https://www.aksam.com.tr/dunya/rusyadan-ukraynaya-pes-pese-saldiri-lojistik-merkezleri-ve-gemiler-vuruldu/haber-1700053",
+      "published": "2026-09-21T06:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:04.619125+00:00"
+    },
+    {
+      "id": "36122568125b3755",
+      "source": "Karar",
+      "title": "Dolmuş şoförüne sigara aldırdığı iddiasıyla meslekten çıkarılmıştı: AYM’den hak ihlali kararı",
+      "summary": "Anayasa Mahkemesi (AYM), bir dolmuş şoförüne sigara aldırdığı iddiası üzerine meslekten çıkarılan polis memurunun başvurusunda gerekçeli karar hakkının ihlal edildiğine hükmetti. Yüksek Mahkeme, idare mahkemesinin başvurucunun esaslı itirazlarını karşılamadığını ve ceza yargılamasındaki değerlendirmeyi tekrarlamakla yetindiğini belirtti. Dosya yeniden yargılama yapılmak üzere Ankara 4. İdare Mahke",
+      "link": "https://www.karar.com/guncel-haberler/dolmus-soforune-sigara-aldirdigi-iddiasiyla-meslekten-cikarilmisti-2073248",
+      "published": "2026-09-21T06:57:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:06.379645+00:00"
+    },
+    {
+      "id": "ba5500d04bf5d6c5",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Nvidia CEO'su Huang'dan yapay zekanın insanlığı yok edebileceği iddialarına \"kıyamet senaryoları\" nitelemesi",
+      "summary": "ABD merkezli çip üreticisi Nvidia'nın CEO'su Jensen Huang, yapay zekanın gelecek yıllarda insanlığın yok olmasına yol açabileceği yönündeki iddiaları \"kıyamet senaryoları\" şeklinde nitelendirerek bu öngörülerin bilimsel temele dayanmadığını belirtti.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/nvidia-ceosu-huangdan-yapay-zekanin-insanligi-yok-edebilecegi-iddialarina-kiyamet-senaryolari-nitelemesi/4062940",
+      "published": "2026-09-21T06:57:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:00:58.517071+00:00"
+    },
+    {
+      "id": "c79a83b93d1c6862",
+      "source": "Yeni Yaşam",
+      "title": "TSP ve Devrimci Parti: Barış ve demokrasiyi örgütlü mücadeleyle kazanalım",
+      "summary": "Sosyalist parti temsilcileri Barış ve Demokratik Toplum Süreci&#8217;nde demokrasinin iktidarın insafına bırakılamayacağını vurguladı. Temsilciler barış ve demokrasinin örgütlü mücadeleyle tesis edilmesi gerektiğini belirtti Barış ve Demokratik Toplum Süreci’nde Milli Güvenlik Kurulu (MGK) Raporu beklenirken, demokratikleşme adımlarına ilişkin tartışmalar sürüyor. Türkiye Sosyalist Partisi (TSP) G",
+      "link": "https://yeniyasamgazetesi9.com/tsp-ve-devrimci-parti-baris-ve-demokrasiyi-orgutlu-mucadeleyle-kazanalim/",
+      "published": "2026-09-21T06:57:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:13.685259+00:00"
+    },
+    {
+      "id": "53c09a3977c68ad2",
+      "source": "CNBC-e",
+      "title": "Borsa haftaya düşüşle başladı",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi güne 115,88 puan ve yüzde 0,87 azalışla 13.168,54 puandan başladı.",
+      "link": "https://www.cnbce.com/borsa/borsa-haftaya-dususle-basladi-iste-one-cikan-piyasa-gelismeleri-h37673",
+      "published": "2026-09-21T06:57:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:16.706494+00:00"
+    },
+    {
+      "id": "e2dcfec5059fe9b3",
+      "source": "Halk TV",
+      "title": "Trump köşeye sıkıştı, diplomasiye dönmek zorunda kaldı! İran savaşında geri adım attı",
+      "summary": "Şubat sonunda başlayan İran savaşı altıncı ayını aşarken mühimmat stokları ve savaşın maliyeti Washington üzerindeki baskıyı artırdı. Trump’ın şimdi Pezeşkiyan’la görüşmeye açık olduğunu söylemesi, diplomasinin yeniden devreye girdiğini gösterdi.",
+      "link": "https://halktv.com.tr/dunya/trump-koseye-sikisti-diplomasiye-donmek-zorunda-kaldi-iran-savasinda-geri-adim-atti-1056331h",
+      "published": "2026-09-21T06:57:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:09.635077+00:00"
+    },
+    {
+      "id": "08ff4779200cd6dd",
+      "source": "Cumhuriyet",
+      "title": "Katılımevim soruşturmasında yeni gelişme: 9 şirketin malvarlığı hareketleri donduruldu",
+      "summary": "Katılımevim payına ilişkin yürütülen soruşturma kapsamında 25 şüpheli hakkında adli işlem başlatılırken, 15 şüpheli gözaltına alındı. Adalet Bakanı Akın Gürlek, 10 firari şüphelinin yakalanmasına yönelik çalışmaların sürdüğünü ve 9 şirketle bağlantılı yönetici ve yetkililerin para ile malvarlığı hareketlerinin dondurulduğunu açıkladı.",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/katilimevim-sorusturmasinda-yeni-gelisme-9-sirketin-malvarligi-hareketleri-donduruldu-2539445",
+      "published": "2026-09-21T06:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:00:59.257588+00:00"
+    },
+    {
+      "id": "e995be640331cfe9",
+      "source": "Yeni Akit",
+      "title": "Almanya’ya hemşire olarak gittiler! Hayalleri kursaklarında kaldı",
+      "summary": "Türkiye’de yıllarca hemşirelik yaptıktan sonra eşiyle birlikte Almanya’ya yerleşen Aygül Demirci, Stuttgart’taki hayatını anlattı. İki hemşirenin eve giren toplam 5 bin 800 euroluk net gelirine rağmen kira ve temel giderlerin bütçeyi hızla erittiğini belirten Demirci, ters vardiyalar nedeniyle eşiyle kimi zaman birbirlerini bile göremediklerini söyledi: “Biz Almanya’ya para kazanmaya mı geldik, bi",
+      "link": "https://www.yeniakit.com.tr/haber/almanyaya-hemsire-olarak-gittiler-hayalleri-kursaklarinda-kaldi-2023952.html",
+      "published": "2026-09-21T06:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:06.051796+00:00"
+    },
+    {
+      "id": "273ad0da303c795b",
+      "source": "Yeni Akit",
+      "title": "Ağaç AŞ’de kaymağın büyüğü Ekrem’e gitmiş",
+      "summary": "Ahtapot gibi 8 koldan sardığı İstanbul’u yağmalayan, İBB ve 30 iştirakini hortumlayan çetenin başı Ekrem İmamoğlu’nun Ağaç AŞ’de döndürdüğü dolaplar da bir bir ifşa oldu.",
+      "link": "https://www.yeniakit.com.tr/haber/agac-asde-kaymagin-buyugu-ekreme-gitmis-2023951.html",
+      "published": "2026-09-21T06:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:06.051824+00:00"
+    },
+    {
+      "id": "1fda37f1c00b4071",
+      "source": "Yeniçağ",
+      "title": "Satrançta büyük gurur: 15 yaşındaki Türk tarih yazdı",
+      "summary": "Milli satranççı Yağız Kaan Erdoğmuş, Özbekistan&#039;daki Satranç Olimpiyatı’nda elde ettiği kritik galibiyetle tarihi bir başarıya imza attı. Puanını 2723,2&#039;ye yükselten 15 yaşındaki Büyükusta, dünya sıralamasında 19. sıraya yerleşerek devler ligine adını yazdırdı.",
+      "link": "https://www.yenicaggazetesi.com/satrancta-buyuk-gurur-15-yasindaki-turk-tarih-yazdi-1073771h.htm",
+      "published": "2026-09-21T06:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:06.945611+00:00"
+    },
+    {
+      "id": "c3d2e031021b17f1",
+      "source": "CNBC-e",
+      "title": "Starbucks'tan Hindistan'da teknoloji merkezi planı! 800 kişiye istihdam sağlayacak",
+      "summary": "ABD merkezli kahve zinciri Starbucks'ın, Hindistan'da Küresel Yetenek Merkezi kurmayı planladığı aktarıldı.",
+      "link": "https://www.cnbce.com/sirket-haberleri/starbuckstan-hindistanda-teknoloji-merkezi-plani-800-kisiye-istihdam-saglayacak-h37672",
+      "published": "2026-09-21T06:56:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:16.706520+00:00"
+    },
+    {
+      "id": "68909e2813d29257",
+      "source": "LOG",
+      "title": "Toyota, fabrikalarına 400 bin yeni robot konumlandıracak",
+      "summary": "Japon otomobil devi Toyota, Nikkei&#8217;nin haberine göre dünya çapındaki fabrikalarına 400 bin yeni robot konumlandıracak. Kademeli olarak devreye alınacak bu yeni robotlar arasında şirketin kendi bünyesinde geliştirdiği insansı robotlar da olacak. Bu insansı robotların görevlerini doğrudan gerçek çalışanlardan öğreneceği ve edindikleri bilgileri yeni çalışanları eğitmek için kullanacağı belirti",
+      "link": "https://www.log.com.tr/toyota-fabrikalarina-400-bin-yeni-robot-konumlandiracak/",
+      "published": "2026-09-21T06:56:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:20.587733+00:00"
+    },
+    {
+      "id": "bc71311bb8a13b36",
+      "source": "Halk TV",
+      "title": "Gaziler Günü'nde Gazi'ye \"Masadan kalk\" dediler iddiası",
+      "summary": "İstanbul Başakşehir&#039;deki Gaziler Günü kahvaltısında, Kaymakamın masasına davet ettiği Gazi Orhan Karakaya&#039;nın, Vakıf Müdürü tarafından masadan kaldırıldığı öne sürüldü. Gazi salonu terk ederken Kaymakam &quot;Gereği yapılacak&quot; dedi.",
+      "link": "https://halktv.com.tr/turkiye/gaziler-gununde-gaziye-masadan-kalk-dediler-iddiasi-1056330h",
+      "published": "2026-09-21T06:56:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:09.635102+00:00"
+    },
+    {
+      "id": "7c5700df2a8655ec",
+      "source": "Cumhuriyet",
+      "title": "Spor yazarları Amedspor - Beşiktaş maçını yorumladı: 'Vincenzo Italiano rotasyon kurbanı'",
+      "summary": "Spor yazarları, Beşiktaş'ın Trendyol Süper Lig'in 6. haftasında deplasmanda Amedspor'a 3-2 mağlup olduğu karşılaşmayı değerlendirdi.",
+      "link": "https://www.cumhuriyet.com.tr/spor/spor-yazarlari-amedspor-besiktas-macini-yorumladi-vincenzo-italiano-rotasyon-kurbani-2539438",
+      "published": "2026-09-21T06:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:00:59.257608+00:00"
+    },
+    {
+      "id": "8a8000001267fbfa",
+      "source": "Akşam",
+      "title": "Brent petrolün varili 101,78 dolardan işlem görüyor",
+      "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 101,78 dolardan işlem görüyor.",
+      "link": "https://www.aksam.com.tr/ekonomi/brent-petrolun-varili-10178-dolardan-islem-goruyor/haber-1700052",
+      "published": "2026-09-21T06:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:04.619143+00:00"
+    },
+    {
+      "id": "a3a44cc173e400d4",
+      "source": "Yeniçağ",
+      "title": "Artvin'de dereye kapılan buzağı vatandaşların müdahalesiyle kurtarıldı",
+      "summary": "Artvin&#039;in Kemalpaşa ilçesinde dereye düşerek akıntıya sürüklenen buzağı, vatandaşların suya girerek gerçekleştirdiği müdahale sonucu kurtarıldı. Hayvan, sahibine teslim edildi.",
+      "link": "https://www.yenicaggazetesi.com/artvinde-dereye-kapilan-buzagi-vatandaslarin-mudahalesiyle-kurtarildi-1073769h.htm",
+      "published": "2026-09-21T06:55:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:06.945645+00:00"
+    },
     {
       "id": "a63b073d309fef4f",
       "source": "Yeni Yaşam",
@@ -17,6 +325,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T06:55:50.466484+00:00"
+    },
+    {
+      "id": "53319065c912e5a8",
+      "source": "Independent Türkçe",
+      "title": "DEM Parti MYK'nın gündeminde görev dağılımı var",
+      "summary": "DEM Parti Merkez Yürütme Kurulu, Eş Genel Başkanlar Tülay Hatimoğulları ve Tuncer Bakırhan başkanlığında saat 10.30’da toplanacak. Toplantıda, MYK üyelerinin görev dağılımının yanı sıra yürütülen süreç ve 1 Ekim’de açılacak TBMM’de yapılacak çalışmalar ele alınacak. DEM Parti MYK, Eş Genel Başkanlar Tülay Hatimoğulları ve Tuncer Bakırhan başkanlığında saat 10.30'da toplanacak. MYK'da, DEM Parti'ni",
+      "link": "https://www.indyturk.com/node/782745/siyaset/dem-parti-mykn%C4%B1n-g%C3%BCndeminde-g%C3%B6rev-da%C4%9F%C4%B1l%C4%B1m%C4%B1-var",
+      "published": "2026-09-21T06:55:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:12.929130+00:00"
+    },
+    {
+      "id": "623e38f1fb76ac55",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Rusya: Ukrayna’da lojistik merkezleri, limanları ve gemileri vurduk",
+      "summary": "Rusya Savunma Bakanlığı, Ukrayna’daki lojistik merkezlere, depolara ve limanlara saldırılar düzenlendiğini, Ukrayna ordusunun ihtiyaçları doğrultusunda kullanılan gemilerin de insansız hava araçlarıyla (İHA) vurulduğunu bildirdi.",
+      "link": "https://www.aa.com.tr/tr/dunya/rusya-ukrayna-da-lojistik-merkezleri-limanlari-ve-gemileri-vurduk/4062936",
+      "published": "2026-09-21T06:55:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:00:58.517095+00:00"
     },
     {
       "id": "13c907dc2b8ada3b",
@@ -30,6 +360,28 @@
       "fetched_at": "2026-09-21T06:55:42.522569+00:00"
     },
     {
+      "id": "cc2c48b1b5148ec5",
+      "source": "Karar",
+      "title": "Cindy Crawford'un acı günü: Cindy Crawford'un Oğlu Presley Gerber 27 yaşında hayatını kaybetti!",
+      "summary": "Dünyaca ünlü model Cindy Crawford ve iş insanı Rande Gerber'in 27 yaşındaki oğlu Presley Gerber, Los Angeles'ta tedavi gördüğü rehabilitasyon merkezinde Pazar günü (20 Eylül 2026) hayatını kaybetti.",
+      "link": "https://www.karar.com/hayat-haberleri/cindy-crawfordun-aci-gunu-cindy-crawfordun-oglu-presley-gerberin-trajik-2073247",
+      "published": "2026-09-21T06:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:06.379677+00:00"
+    },
+    {
+      "id": "6e78a10d6aa6c55f",
+      "source": "Finans Gündem",
+      "title": "Trump imzaladı: Türkiye için yüzde 100 tarife riski",
+      "summary": "ABD Başkanı Trump’ın imzaladığı yeni yaptırım yasası, aralarında Türkiye'nin de olduğu Rus petrolü ve doğal gazının en büyük alıcılarına ABD’ye ihraç ettikleri ürünlerde yüzde 100’e kadar ek gümrük vergisi uygulanmasının önünü açtı. Kritik süre 30 gün.",
+      "link": "https://www.finansingundemi.com/haber/trump-imzaladi-turkiye-icin-yuzde-100-tarife-riski/1908980",
+      "published": "2026-09-21T06:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:17.323976+00:00"
+    },
+    {
       "id": "e44ba63b732120ac",
       "source": "Milliyet",
       "title": "Tüp mide ameliyatı sonrası hayatı kabusa döndü: 3 operasyon geçirdi: Günden güne eriyorum",
@@ -39,6 +391,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T06:55:39.980667+00:00"
+    },
+    {
+      "id": "3666311b1971c2cd",
+      "source": "OdaTV",
+      "title": "Müfit Can Saçıntı neden ifade veremedi : Nasreddin Hoca rolündeyken ne dedi",
+      "summary": "&quot;Mandıra Filozofu&quot; olarak tanınan Müfit Can Saçıntı, Nasreddin Hoca&#039;yı canlandırdığı etkinlikteki kayyum sözleriyle ilgili ifadeye çağrıldı. Saçıntı, cumartesi günü olduğu için ifade veremediğini belirterek pazartesi yeniden gideceğini söyledi.",
+      "link": "https://www.odatv.com/guncel/mufit-can-sacinti-neden-ifade-veremedi-nasreddin-hoca-rolundeyken-ne-dedi-120163488",
+      "published": "2026-09-21T06:54:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:09.148261+00:00"
     },
     {
       "id": "328bb2e07ef140be",
@@ -1339,6 +1702,17 @@
       "fetched_at": "2026-09-21T06:31:01.326803+00:00"
     },
     {
+      "id": "1005f08f16b1f619",
+      "source": "Türkiye Gazetesi",
+      "title": "\"ŞAHİT OLDUĞUM ŞEYLER VAR\"",
+      "summary": "Kurtlar Vadisi’nde “Ömer Baba” karakteriyle hafızalara kazınan Emin Olcay, dizinin perde arkasına ilişkin dikkat çeken açıklamalarda bulundu. Osman Sınav’ın sette silah taşıdığını öne süren Olcay, “Şahit olduğum başka şeyler de var” diyerek gece yarısı yapılan bir toplantıyı anlattı. Olcay, Kurtlar Vadisi Pusu hakkında başlatılan FETÖ incelemesini de doğru bulduğunu söyledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/kurtlar-vadisinin-omer-babasi-emin-olcay-konustu-feto-incelemesi-dogru-karar-1817432",
+      "published": "2026-09-21T06:28:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:01.875154+00:00"
+    },
+    {
       "id": "c9c13b3ea07786ba",
       "source": "Türkiye Gazetesi",
       "title": "YILLAR SONRA ANLATTI",
@@ -1370,6 +1744,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T06:31:03.515700+00:00"
+    },
+    {
+      "id": "22d85ce4424217cf",
+      "source": "Hürriyet",
+      "title": "Hatay'da kadın cinayeti! Emine öldürülmeden 2 saat önce art arda 2 paylaşım yapmış",
+      "summary": "Hatay’ın Payas ilçesinde, boşanma aşamasındaki eşi K.Ç. tarafından pompalı tüfekle vurularak öldürülen 2 çocuk annesi Emine Çil'in olaydan 2 saat önce sosyal medya hesabından art arda yaptığı paylaşımlar ortaya çıktı.",
+      "link": "https://www.hurriyet.com.tr/gundem/emine-oldurulmeden-2-saat-once-art-arda-2-paylasim-yapmis-43313924",
+      "published": "2026-09-21T06:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T07:01:03.262889+00:00"
     },
     {
       "id": "4729c0048214ebf3",
@@ -5121,391 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T04:40:58.479444+00:00"
-    },
-    {
-      "id": "759247b97d1cb4dd",
-      "source": "CNBC-e",
-      "title": "Kış öncesi doğalgaz alarmı: Goldman Sachs'tan 105 euro uyarısı",
-      "summary": "Goldman Sachs, Basra Körfezi'ndeki LNG ihracatı toparlanmazsa Avrupa'da TTF'nin 105 euroya, Asya'da JKM'nin 35 dolara yükselebileceği uyarısında bulundu. Baz senaryoda TTF 70 euro öngörülürken, yüksek fiyatların sanayide talep kaybı yaratması bekleniyor.",
-      "link": "https://www.cnbce.com/enerji/kis-oncesi-dogalgaz-alarmi-goldman-sachstan-105-euro-uyarisi-h37655",
-      "published": "2026-09-21T04:39:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:40:58.479485+00:00"
-    },
-    {
-      "id": "2d766978eb97597c",
-      "source": "Karar",
-      "title": "Meteoroloji açıkladı: Sağanak yağışlar ve toz taşınımı etkili olacak",
-      "summary": "Meteoroloji Genel Müdürlüğü’nün 21 Eylül 2026 tarihli raporuna göre yurdun birçok bölgesinde yerel sağanak ve gök gürültülü sağanak yağış etkili olacak. Güneydoğu Anadolu'nun doğusunda ise toz taşınımı beklenirken, hava sıcaklıklarının mevsim normallerinde seyredeceği tahmin ediliyor.",
-      "link": "https://www.karar.com/guncel-haberler/meteoroloji-acikladi-saganak-yagislar-ve-toz-tasinimi-etkili-olacak-2073210",
-      "published": "2026-09-21T04:38:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:40:47.245403+00:00"
-    },
-    {
-      "id": "730fb4d6f264d527",
-      "source": "Hürriyet",
-      "title": "Crush’tan Gazze mesajı",
-      "summary": "Hafta sonu Ankara’da sahneye çıkan Türkiye’nin yeni boyband’i Crush konserin finalinde yaptığı sürprizle alkış topladı.",
-      "link": "https://www.hurriyet.com.tr/kelebek/stil/crushtan-gazze-mesaji-43313873",
-      "published": "2026-09-21T04:36:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T05:15:37.196397+00:00"
-    },
-    {
-      "id": "605aabed7e1fef5f",
-      "source": "Gazete Pencere",
-      "title": "Meteoroloji’den 15 il için gök gürültülü sağanak uyarısı",
-      "summary": "Meteoroloji’nin 21 Eylül hava tahminine göre ülke genelinde parçalı ve çok bulutlu hava bekleniyor. Birçok bölgede sağanak ve gök gürültülü sağanak yağış öngörülürken, Güneydoğu Anadolu’nun doğusunda toz taşınımı bekleniyor.",
-      "link": "https://www.gazetepencere.com/gundem/meteorolojiden-15-il-icin-gok-gurultulu-saganak-uyarisi-716210h",
-      "published": "2026-09-21T04:36:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:40:49.962807+00:00"
-    },
-    {
-      "id": "4de0bf39931385f8",
-      "source": "Akşam",
-      "title": "13 ülkeden 3 bin genç TEKNOFEST'te yarıştı",
-      "summary": "Diyarbakır'da TEKNOFEST 2026 kapsamında yapılan yarışmalara, Türkiye'nin yanı sıra ABD, İtalya, İngiltere, Yunanistan, Afganistan, ile Endonezya gibi 13 ülkeden yaklaşık 3 bin çocuk ve genç katıldı.",
-      "link": "https://www.aksam.com.tr/teknoloji/13-ulkeden-3-bin-genc-teknofestte-yaristi/haber-1700022",
-      "published": "2026-09-21T04:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:40:44.847576+00:00"
-    },
-    {
-      "id": "cd2a0a888e2f9c23",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda MQ-1 tipi İHA düşürüldü",
-      "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı semalarında ABD yapımı MQ-1 tipi bir insansız hava aracının (İHA) düşürüldüğünü öne sürdü.",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu/4062868",
-      "published": "2026-09-21T04:35:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:40:38.604021+00:00"
-    },
-    {
-      "id": "b2fe0c04bd0453bb",
-      "source": "Star",
-      "title": "Husilerin saldırıları sonrası dikkat çeken gelişme! Türkiye'den askeri destek sinyali",
-      "summary": "Dışişleri Bakanı Fidan'ın, \"Husi saldırılarına karşı Mekke İttifakı olarak S. Arabistan'ın askeri ihtiyaçlarına cevap verebiliriz\" sözleri büyük yankı uyandırdı.",
-      "link": "https://www.star.com.tr/savunma/husilerin-saldirilari-sonrasi-dikkat-ceken-gelisme-turkiyeden-askeri-destek-sinyali-haber-2041478/",
-      "published": "2026-09-21T04:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:35:39.388985+00:00"
-    },
-    {
-      "id": "22015f59f9c36507",
-      "source": "Cumhuriyet",
-      "title": "Son Dakika Depremi... AFAD duyurdu: Adana'da 5 büyüklüğünde deprem!",
-      "summary": "Son dakika gelişmesi... Adana'nın Saimbeyli ilçesinde 5 büyüklüğünde bir deprem meydana geldi. Deprem, çevre illerden de hissedildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremi-afad-duyurdu-adana-da-5-buyuklugunde-deprem-2539408",
-      "published": "2026-09-21T04:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:40:39.078059+00:00"
-    },
-    {
-      "id": "d884c4e3aa472ff2",
-      "source": "Akşam",
-      "title": "Fransız istihbaratı tarih verdi: Rus saldırısı 2027 sonbaharında olabilir",
-      "summary": "France Televisions, Fransız istihbarat servislerinin olası büyük çaplı bir Rus saldırısı senaryosunda 2027 sonbaharı üzerinde durduğunu ileri sürdü.",
-      "link": "https://www.aksam.com.tr/dunya/fransiz-istihbarati-tarih-verdi-rus-saldirisi-2027-sonbaharinda-olabilir/haber-1700021",
-      "published": "2026-09-21T04:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:35:38.127445+00:00"
-    },
-    {
-      "id": "080e58f34034980c",
-      "source": "Akşam",
-      "title": "500 kilometreden gelen moral",
-      "summary": "Ankara'da yaşayan Sibel Koca'ya meme kanseri teşhisi konuldu. Kemoterapi sürecinde saçlarının dökülmeye başlaması üzerine Koca'nın yardımına eniştesi Taylan Alıcı yetişti. Berberlik yapan Alıcı, Koca'nın saçlarını kazıdıktan sonra ona destek olmak için kendi saçlarını ve sakallarını da kesti.",
-      "link": "https://www.aksam.com.tr/yasam/500-kilometreden-gelen-moral/haber-1700020",
-      "published": "2026-09-21T04:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:35:38.127485+00:00"
-    },
-    {
-      "id": "367fda67f2e729d9",
-      "source": "Habertürk",
-      "title": "Almanya'da kritik seçim gecesi",
-      "summary": "Almanya'da Berlin eyaletinde yapılan eyalet meclisi seçimlerinde, Elif Eralp'i eyalet başbakan adayı gösteren Sol Parti seçimin galibi oldu. Seçim zaferinin ardından konuşan Eralp, \"Tarih yazdık, çünkü ilk defa Berlin'de göçmen kökenli bir kadın bunu başardı. Bunu hep beraber başardık\" dedi. Öte yandan Berlin'de oylarını artıran aşırı sağcı AfD, Mecklenburg-Vorpommern'deki seçimlerden birinci çıkt",
-      "link": "https://www.haberturk.com/dunya/almanya-da-kritik-secim-gecesi-3913888",
-      "published": "2026-09-21T04:32:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:40:35.175189+00:00"
-    },
-    {
-      "id": "a5fb7aa05054d5cd",
-      "source": "Bir Gün",
-      "title": "Petrolde diplomasi umudu: Fiyatlar 10 Eylül’den bu yana en düşük seviyede",
-      "summary": "Petrol fiyatları, İran-ABD arasında diplomasi umudunun artması ve Suudi Arabistan’ın petrol sevkiyatlarındaki toparlanmayla geriledi. Brent yüzde 2,08 düşerek 101,71 dolara, WTI ise yüzde 2,14 kayıpla 98,15 dolara indi.",
-      "link": "https://www.birgun.net/haber/petrolde-diplomasi-umudu-fiyatlar-10-eylulden-bu-yana-en-dusuk-seviyede-735923",
-      "published": "2026-09-21T04:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T05:11:14.705056+00:00"
-    },
-    {
-      "id": "081e3b11c6432f01",
-      "source": "ShiftDelete.Net",
-      "title": "Vivo X500 Fiyatı Sızdırıldı: Yüzde 48 Artış Yolda",
-      "summary": "Vivo X500 fiyat sızıntısı, yeni amiral gemisi modelin önceki nesle göre yaklaşık yüzde 48 daha pahalı olabileceğini gösteriyor.",
-      "link": "https://shiftdelete.net/vivo-x500-fiyat-sizintisi",
-      "published": "2026-09-21T04:30:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:31:08.151572+00:00"
-    },
-    {
-      "id": "43ac569ee0328dac",
-      "source": "Diken",
-      "title": "131 fonun tasfiye süresi altı aya çıkarıldı",
-      "summary": "131 fonun tasfiye süresi altı aya çıkarıldı 21.09.2026 Diken Sermaye Piyasası Kurulu (SPK), 131 yatırım fonunun tasfiye süresini üç aydan altı aya çıkardı. The post 131 fonun tasfiye süresi altı aya çıkarıldı appeared first on #site_linkat 21.09.2026 .",
-      "link": "https://www.diken.com.tr/131-fonun-tasfiye-suresi-alti-aya-cikarildi/?utm_source=rss&utm_medium=rss&utm_campaign=131-fonun-tasfiye-suresi-alti-aya-cikarildi",
-      "published": "2026-09-21T04:30:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:35:43.828607+00:00"
-    },
-    {
-      "id": "a59024c0ecd00b64",
-      "source": "Diken",
-      "title": "131 fonun tasfiyesinde süre altı aya çıkarıldı",
-      "summary": "131 fonun tasfiyesinde süre altı aya çıkarıldı 21.09.2026 Diken Sermaye Piyasası Kurulu (SPK), 131 yatırım fonunun tasfiye süresini üç aydan altı aya çıkardı. The post 131 fonun tasfiyesinde süre altı aya çıkarıldı appeared first on #site_linkat 21.09.2026 .",
-      "link": "https://www.diken.com.tr/131-fonun-tasfiyesinde-sure-alti-aya-cikarildi/?utm_source=rss&utm_medium=rss&utm_campaign=131-fonun-tasfiyesinde-sure-alti-aya-cikarildi",
-      "published": "2026-09-21T04:30:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:30:58.490101+00:00"
-    },
-    {
-      "id": "6aa7cc9d64ab9ff0",
-      "source": "Ekonomim",
-      "title": "Meteoroloji açıkladı: Yurtta sıcaklıklar nasıl olacak? İşte il il hava durumu tahminleri...",
-      "summary": "Meteoroloji Genel Müdürlüğü tarafından yapılan son değerlendirmelere göre; yurt genelinin parçalı ve çok bulutlu, Akdeniz’in Toroslar Mevkii, Batı Karadeniz&#039;in iç kesimleri, Doğu Karadeniz, Kocaeli, Burdur, Isparta, Adana, Osmaniye, Erzincan, Erzurum, Ardahan, Kars çevreleri ile Hatay’ın kıyı, Antalya, Mersin, Samsun, Ordu ve Giresun’un iç kesimlerinin sağanak ve gök gürültülü sağanak yağışlı",
-      "link": "https://www.ekonomim.com/foto-galeri/gundem/meteoroloji-acikladi-yurtta-sicakliklar-nasil-olacak-iste-il-il-hava-durumu-tahminleri-galeri-919548",
-      "published": "2026-09-21T04:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:31:04.065863+00:00"
-    },
-    {
-      "id": "56cc828e4027548c",
-      "source": "OdaTV",
-      "title": "Galibiyet kutlamalarında 3 iş yeri, 1 araç yandı: 1 itfaiye eri yaralı",
-      "summary": "Cizre&#039;de Amedspor&#039;un galibiyet kutlamalarında atılan havai fişekler 3 iş yeri ile 1 araçta yangına neden oldu. Alevlere müdahale eden 1 itfaiye eri ise yüzüne havai fişek isabet etmesi sonucu yaralandı.",
-      "link": "https://www.odatv.com/spor/cizrede-amedspor-galibiyet-kutlamalarinda-3-is-yeri-1-arac-yandi-1-itfaiye-eri-yarali-120163471",
-      "published": "2026-09-21T04:29:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:35:43.015275+00:00"
-    },
-    {
-      "id": "da65d3b23f25927f",
-      "source": "Yeniçağ",
-      "title": "Altın fiyatları bugün ne kadar? Gram altın, çeyrek altın kaç TL oldu? (21 Eylül 2026)",
-      "summary": "Altın piyasası yeni haftaya Fed’in şahin politikaları ve petrol kaynaklı enflasyon baskısının etkisiyle düşüşle başladı. Kapalıçarşı&#039;da gram, çeyrek, yarım ve tam altında son durum ne?",
-      "link": "https://www.yenicaggazetesi.com/altin-fiyatlari-bugun-ne-kadar-gram-altin-ceyrek-altin-kac-tl-oldu-21-eylul-2026-1073742h.htm",
-      "published": "2026-09-21T04:28:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:30:56.608656+00:00"
-    },
-    {
-      "id": "b165338fd0bc45d3",
-      "source": "Habertürk",
-      "title": "ABD ile Çin ekonomi heyetleri New York'ta bir araya geldi",
-      "summary": "ABD ve Çin heyetleri, Çin Devlet Başkanı Şi Cinping'in ABD'ye yapması beklenen ziyaret öncesinde ekonomik ve ticari konuları görüşmek üzere bir araya geldi.",
-      "link": "https://www.haberturk.com/ekonomi/abd-ile-cin-ekonomi-heyetleri-new-york-ta-bir-araya-geldi-3913890",
-      "published": "2026-09-21T04:28:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:40:35.175267+00:00"
-    },
-    {
-      "id": "fd47e41dfa28820a",
-      "source": "Akşam",
-      "title": "Hannover'de Türk üreticiler şov yaptı! Kamyonların elektrik yarışı hızlandı",
-      "summary": "Avrupa'nın en büyük ticari araç buluşması Almanya Hannover'de düzenlenen IAA Transportation 2026'da Türk markalar Çinlilerin ardından ikinci sırada yer aldı. Fuara elektrikli kamyonlar ve yeni teknolojiler damga vurdu.",
-      "link": "https://www.aksam.com.tr/otomobil/hannoverde-turk-ureticiler-sov-yapti-kamyonlarin-elektrik-yarisi-hizlandi/haber-1700019",
-      "published": "2026-09-21T04:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:30:54.348330+00:00"
-    },
-    {
-      "id": "8cc0e62cd08f5bf1",
-      "source": "Türkiye Gazetesi",
-      "title": "Taraftarların attığı havai fişekler yangın çıkardı, itfaiye eri yaralandı",
-      "summary": "Şırnak'ın Cizre ilçesinde Amed Sportif Faaliyetler'in galibiyetini kutlayan taraftarların attığı havai fişekler nedeniyle 3 iş yeri ve bir araçta yangın çıktı, itfaiye eri yaralandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/sirnakta-taraftarlarin-attigi-havai-fisekler-yangin-cikardi-itfaiye-eri-yaralandi-1817417",
-      "published": "2026-09-21T04:27:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:30:52.283591+00:00"
-    },
-    {
-      "id": "3e846f07587c6af2",
-      "source": "Karar",
-      "title": "Erdoğan ABD'de: 16'ncı kez BM Genel Kurulu'na hitap edecek",
-      "summary": "Cumhurbaşkanı Erdoğan, Birleşmiş Milletler 81. Genel Kurulu’na katılmak ve ikili temaslarda bulunmak üzere ABD’nin New York kentine ulaştı. Erdoğan, 22 Eylül Salı günü BM kürsüsünden 16'ncı kez dünya liderlerine hitap edecek.",
-      "link": "https://www.karar.com/guncel-haberler/erdogan-abdde-16nci-kez-bm-genel-kuruluna-hitap-edecek-2073209",
-      "published": "2026-09-21T04:27:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:30:56.123477+00:00"
-    },
-    {
-      "id": "0bc6023edf662bca",
-      "source": "Bir Gün",
-      "title": "Şırnak'ta havai fişekler nedeniyle yangın çıktı: İtfaiye çalışanı yaralandı",
-      "summary": "Şırnak’ın Cizre ilçesinde Amedspor'un Beşiktaş’ı 3-2 yendiği maçın ardından düzenlenen havai fişekli kutlamada 3 iş yeri ve bir araçta yangın çıktı. Müdahale sırasında yüzüne havai fişek isabet eden itfaiye çalışanı yaralandı.",
-      "link": "https://www.birgun.net/haber/sirnak-ta-havai-fisekler-nedeniyle-yangin-cikti-itfaiye-calisani-yaralandi-735922",
-      "published": "2026-09-21T04:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T05:11:14.705086+00:00"
-    },
-    {
-      "id": "ccd5e119755c2d5f",
-      "source": "Evrensel",
-      "title": "ABD'den İran'a müzakere dayatması: Masaya dönmesi için kapı açık",
-      "summary": "ABD'nin BM Daimi Temsilcisi Mike Waltz, İran yönetiminin 1979'dan bu yana en zayıf dönemini yaşadığını savunarak Tahran'a diplomatik yollarla müzakere masasına dönme çağrısında bulundu.",
-      "link": "https://www.evrensel.net/haber/6001382/abdden-irana-muzakere-dayatmasi-masaya-donmesi-icin-kapi-acik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-21T04:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:50:42.811475+00:00"
-    },
-    {
-      "id": "04c7f470f76c468e",
-      "source": "Ekonomim",
-      "title": "Ekonominin gündemi Ekonomi Masası'nda",
-      "summary": "Ekonomi Masası hafta içi her gün saat 07.30 - 09.00 arasında Ekonomi Gazetesi (NBE) YouTube kanalında canlı yayında...",
-      "link": "https://www.youtube.com/watch?v=smEq0cDxnAs",
-      "published": "2026-09-21T04:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:25:48.191518+00:00"
-    },
-    {
-      "id": "9253c5cf24c0e19a",
-      "source": "Karar",
-      "title": "İstanbulsporlu Elvin Mendy hastaneye kaldırıldı",
-      "summary": "İstanbulspor'un 19 yaşındaki Gambiyalı futbolcusu Elvin Mendy, Manisa FK maçı dönüşünde rahatsızlanarak hastaneye kaldırıldı. Kulüp, yapılan anjiyo sonucunda oyuncunun kalp kaynaklı bir sağlık sorununun bulunmadığını açıkladı.",
-      "link": "https://www.karar.com/guncel-haberler/istanbulsporlu-elvin-mendy-hastaneye-kaldirildi-2073208",
-      "published": "2026-09-21T04:24:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:25:38.353857+00:00"
-    },
-    {
-      "id": "cc27e921179743f1",
-      "source": "Finans Gündem",
-      "title": "Fon soruşturmasında firari Bülent Uygun gözaltına alındı",
-      "summary": "Sermaye piyasası işlemlerine yönelik yürütülen fon soruşturmasında hakkında gözaltı kararı bulunan ancak adresinde bulunamayan Tera Yatırım Yönetim Kurulu Üyesi Bülent Uygun yakalandı. Uygun ile birlikte Abdulkadir Özkan da gözaltına alındı.",
-      "link": "https://www.finansingundemi.com/haber/fon-sorusturmasinda-firari-bulent-uygun-gozaltina-alindi/1908951",
-      "published": "2026-09-21T04:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:51:00.175191+00:00"
-    },
-    {
-      "id": "3fb7f24c9e088584",
-      "source": "Akşam",
-      "title": "Katar'dan bölge için \"deprem\" uyarısı! Al Sani: Güvenlik ve istikrar sınanıyor",
-      "summary": "Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani, Orta Doğu'da son dönemde adeta bir \"deprem\" yaşandığını ve bu durumun güvenlik ile istikrar varsayımlarını sınadığını söyledi. Al Sani, ABD ve İsrail'in İran'a yönelik saldırıları ile İran'ın misillemelerine dikkat çekerek bölgenin yeni bir güvenlik anlayışına ihtiyaç duyduğunu söyledi.",
-      "link": "https://www.aksam.com.tr/dunya/katardan-bolge-icin-deprem-uyarisi-al-sani-guvenlik-ve-istikrar-sinaniyor/haber-1700018",
-      "published": "2026-09-21T04:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:25:36.139558+00:00"
-    },
-    {
-      "id": "c3b6a0684269e1d3",
-      "source": "Star",
-      "title": "İstanbul Boğazı'nda makine arızası yapan gemi kurtarıldı",
-      "summary": "İstanbul'dan Romanya'ya seyir halindeyken Kandilli açıklarında makine arızası yaşayan \"ANI STAR\" isimli kuru yük gemisi, Kıyı Emniyeti Genel Müdürlüğü ekiplerince kurtarılarak Büyükdere Demir Sahası'na demirletildi.",
-      "link": "https://www.star.com.tr/guncel/istanbul-bogazinda-makine-arizasi-yapan-gemi-kurtarildi-haber-2041477/",
-      "published": "2026-09-21T04:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:25:37.523356+00:00"
-    },
-    {
-      "id": "48acee0158cd9496",
-      "source": "OdaTV",
-      "title": "Dünyanın ilk tarım anıtı İvriz Kaya Anıtı'na yoğun ilgi",
-      "summary": "Konya&#039;nın Halkapınar ilçesinde bulunan ve UNESCO Dünya Mirası Geçici Listesi&#039;nde yer alan yaklaşık 3 bin yıllık İvriz Kaya Anıtı, tarihi ve kültürel mirasının yanı sıra doğal güzellikleriyle de ziyaretçilerin ilgisini çekiyor.",
-      "link": "https://www.odatv.com/ekonomi/dunyanin-ilk-tarim-aniti-ivriz-kaya-anitina-yogun-ilgi-120163470",
-      "published": "2026-09-21T04:21:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:25:41.341762+00:00"
-    },
-    {
-      "id": "63aec27509336055",
-      "source": "Halk TV",
-      "title": "Piyasalarda dolar fırtınası devam ediyor: Tüm zamanların rekorunu tazeledi",
-      "summary": "Fed&#039;in faiz artışı ve Washington-Tahran gerilimiyle güçlenen dolar, iç piyasada rekor tazeledi. Dolar 48,80 TL ile tarihi zirveye tırmanırken; euro 56,05 TL, sterlin ise 65,36 TL seviyesinde dengelendi.",
-      "link": "https://halktv.com.tr/ekonomi/21-eylul-2026-doviz-kurlari-euro-kac-tl-dolar-kac-tl-sterlin-kac-tl-1056300h",
-      "published": "2026-09-21T04:21:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:25:41.733473+00:00"
-    },
-    {
-      "id": "0f6c67295a8b77b6",
-      "source": "Akşam",
-      "title": "Milli hızlı trende seri üretime geçildi",
-      "summary": "Türkiye, hızlı tren teknolojisinde seri üretim aşamasına geçti. İlk milli set test edilirken ikinci setin üretimi de başladı. Yeni fabrika devreye girdiğinde ayda bir hızlı tren üretilebilecek.",
-      "link": "https://www.aksam.com.tr/ekonomi/milli-hizli-trende-seri-uretime-gecildi/haber-1700017",
-      "published": "2026-09-21T04:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:25:36.139591+00:00"
-    },
-    {
-      "id": "65080999b84691a9",
-      "source": "Star",
-      "title": "Galibiyet kutlaması faciaya dönüyordu! Havai fişekler 3 iş yerini ve aracı yaktı",
-      "summary": "Şırnak'ın Cizre ilçesinde Amed Sportif Faaliyetler'in galibiyetini kutlayan taraftarların attığı havai fişekler nedeniyle 3 iş yeri ve bir araçta yangın çıktı, itfaiye eri yaralandı.",
-      "link": "https://www.star.com.tr/guncel/galibiyet-kutlamasi-faciaya-donuyordu-havai-fisekler-3-is-yerini-ve-araci-yakti-haber-2041476/",
-      "published": "2026-09-21T04:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:25:37.523393+00:00"
-    },
-    {
-      "id": "04ffac7518e9ebda",
-      "source": "Bir Gün",
-      "title": "Eski DİSK Genel Başkanı Abdullah Baştürk'ün eşi Ayten Baştürk, YENİ Parti'ye üye oldu",
-      "summary": "YENİ Parti Grup Başkanvekili Ali Mahir Başarır, eski DİSK Genel Başkanı Abdullah Baştürk’ün eşi Ayten Baştürk’ü Antalya’daki evinde ziyaret etti. Baştürk’ün parti üyeliğinin de evinde gerçekleştirildiği açıklandı.",
-      "link": "https://www.birgun.net/haber/eski-disk-genel-baskani-abdullah-basturk-un-esi-ayten-basturk-yeni-parti-ye-uye-oldu-735921",
-      "published": "2026-09-21T04:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T05:11:14.705116+00:00"
-    },
-    {
-      "id": "f770b20f5d41628a",
-      "source": "Yeni Şafak",
-      "title": "Cumhurbaşkanı Erdoğan'a ABD'de sevgi seli: 'Bize ailesi gibi davrandı asla unutamayacağım bir andı'",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na katılmak ve çeşitli temaslarda bulunmak üzere geldiği ABD'nin New York kentindeki Türkevi'ne girişinde sevgi gösterileriyle karşılandı.",
-      "link": "https://www.yenisafak.com/galeri/gundem/cumhurbaskani-erdogana-abdde-sevgi-seli-bize-ailesi-gibi-davrandi-asla-unutamayacagim-bir-andi-4857540",
-      "published": "2026-09-21T04:19:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T04:20:38.933376+00:00"
     }
   ]
 }

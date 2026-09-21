@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-21T00:50:57.693439+00:00",
+  "last_updated": "2026-09-21T00:55:57.589597+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 589,
+  "new_items_this_run": 588,
   "items": [
+    {
+      "id": "d922b5f5aeeec385",
+      "source": "OdaTV",
+      "title": "Japonya’da robotlara özel ambulans",
+      "summary": "Japonya merkezli teknoloji şirketi GMO Internet Grubu tarafından geliştirilen &quot;robot ambulansı&quot;, arızalanan insansı robotlara sahada bakım ve onarım desteği sağlayacak; giderilemeyen arızalarda ise robotları bakım merkezine taşıyacak.",
+      "link": "https://www.odatv.com/guncel/japonyada-robotlara-ozel-ambulans-120163465",
+      "published": "2026-09-21T00:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T00:55:42.382124+00:00"
+    },
     {
       "id": "245f52ac2504ab49",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T19:15:49.393985+00:00"
-    },
-    {
-      "id": "e23e753bc00399de",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İran Dışişleri Bakanı Erakçi, BM Genel Kurulu öncesi Katar’da istişarelerde bulunacak",
-      "summary": "İran Dışişleri Bakanı Abbas Erakçi, Birleşmiş Milletler (BM) Genel Kurulu’na katılmadan önce istişarelerde bulunmak üzere Katar’a gitti.",
-      "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-bm-genel-kurulu-oncesi-katar-da-istisarelerde-bulunacak/4062764",
-      "published": "2026-09-20T19:13:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T19:20:35.245428+00:00"
     }
   ]
 }

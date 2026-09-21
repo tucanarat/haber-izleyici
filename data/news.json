@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-21T00:31:06.081855+00:00",
+  "last_updated": "2026-09-21T00:35:47.338593+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 587,
+  "new_items_this_run": 588,
   "items": [
+    {
+      "id": "b7c3ad96c2934d99",
+      "source": "Türkiye Gazetesi",
+      "title": "Emine Erdoğan, dünyaya seslenecek",
+      "summary": "Emine Erdoğan’ın New York gündemi yoğun! İklim, kalkınma ve çocuklar için düzenlenecek etkinliklere katılacak, Melania Trump’ın davetinde lider eşleriyle bir araya gelecek.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/emine-erdogan-dunyaya-seslenecek-cocuklari-koruyalim-1817409",
+      "published": "2026-09-21T00:33:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T00:35:30.392699+00:00"
+    },
     {
       "id": "fa370feb3c27d005",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T19:35:30.958439+00:00"
-    },
-    {
-      "id": "fc039c8b02cbd9bd",
-      "source": "Akşam",
-      "title": "Zirve hattı karıştı! İşte milli ara öncesi puan durumu...",
-      "summary": "Süper Lig'de 6. hafta maçları sona erdi. Milli ara öncesi nefes kesen karşılaşmalar oynanırken, zirve hattı da adeta karıştı.",
-      "link": "https://www.aksam.com.tr/spor/zirve-hatti-karisti-iste-milli-ara-oncesi-puan-durumu/haber-1699970",
-      "published": "2026-09-20T19:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T19:15:45.220373+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-21T02:21:04.723418+00:00",
+  "last_updated": "2026-09-21T02:25:45.952149+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 566,
+  "new_items_this_run": 565,
   "items": [
+    {
+      "id": "d52aa4adb34615ae",
+      "source": "Habertürk",
+      "title": "Adana'da 5 büyüklüğünde deprem",
+      "summary": "Adana'da saat 04.02'de 5 büyüklüğünde deprem meydana geldi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Adana'nın Saimbeyli ilçesinde meydana gelen deprem sonrası an itibarıyla olumsuz bir durumun bulunmadığını bildirdi",
+      "link": "https://www.haberturk.com/gundem/adana-da-5-buyuklugunde-deprem-3913883",
+      "published": "2026-09-21T02:20:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T02:25:25.397864+00:00"
+    },
     {
       "id": "f095175766986a35",
       "source": "Sözcü",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T20:00:56.044732+00:00"
-    },
-    {
-      "id": "4e625aa7494f8fca",
-      "source": "Aydınlık",
-      "title": "O huzuru özlüyor",
-      "summary": "O huzuru özlüyor",
-      "link": "https://www.aydinlik.com.tr/koseyazisi/o-huzuru-ozluyor-590948",
-      "published": "2026-09-20T19:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T20:00:55.188191+00:00"
     }
   ]
 }

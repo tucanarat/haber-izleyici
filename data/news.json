@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-21T01:35:57.600914+00:00",
+  "last_updated": "2026-09-21T01:40:54.260924+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 587,
+  "new_items_this_run": 586,
   "items": [
+    {
+      "id": "72377a44705f8f5a",
+      "source": "Aydınlık",
+      "title": "Adana’da korkutan deprem",
+      "summary": "Adana’nın Saimbeyli ilçesinde 5 büyüklüğünde deprem meydana geldi. AFAD verilerine göre sarsıntı, çevre illerden de hissedildi.",
+      "link": "https://www.aydinlik.com.tr/haber/adanada-korkutan-deprem-adana-depremi-adanada-deprem-mi-oldu-saimbeyli-deprem-afad-son-depremler-kandilli-son-depremler-590982",
+      "published": "2026-09-21T01:33:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-21T01:40:41.853864+00:00"
+    },
     {
       "id": "443881b924a350b4",
       "source": "Aydınlık",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-20T19:40:34.884475+00:00"
-    },
-    {
-      "id": "f01d9244fb66162c",
-      "source": "Cumhuriyet",
-      "title": "Hoffenheim, Beşiktaş maçı öncesi kayıp",
-      "summary": "Hoffenheim, Bundesliga'nın 4. haftasında sahasında Paderborn'a 3-1 mağlup oldu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/hoffenheim-besiktas-maci-oncesi-kayip-2539365",
-      "published": "2026-09-20T19:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-20T19:40:34.884492+00:00"
     }
   ]
 }

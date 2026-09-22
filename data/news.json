@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-09-22T05:01:30.558589+00:00",
+  "last_updated": "2026-09-22T05:05:59.893784+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 583,
+  "new_items_this_run": 586,
   "items": [
+    {
+      "id": "0cd4a96633c0f869",
+      "source": "CNBC-e",
+      "title": "İstanbul'da futbol zirvesi: Dünya futbolunun önemli isimleri buluşuyor",
+      "summary": "FootEx’in düzenlediği Football Conference Istanbul, 26–27 Eylül’de dünya futbolunun önemli isimlerini İstanbul’da buluşturacak. Liverpool, Juventus ve Benfica gibi Avrupa kulüplerinden profesyoneller, futbol ekonomisi, scouting, oyuncu gelişimi ve dijital dönüşümü konuşacak.",
+      "link": "https://www.cnbce.com/spor-ekonomisi/istanbulda-futbol-zirvesi-dunya-futbolunun-onemli-isimleri-bulusuyor-h37763",
+      "published": "2026-09-22T05:04:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:50.612877+00:00"
+    },
+    {
+      "id": "a5dcaa71a8df0c00",
+      "source": "Star",
+      "title": "Acının itirafı: Başkan Erdoğan bizi muhatap almıyor",
+      "summary": "Yunanistan'da Prof. Sotiris Serbos imzasıyla yayımlanan makalede, Türkiye'nin Batı nezdinde artan ağırlığına ve Ankara'nın bölgesel rolüne dikkat çekildi. Serbos, Cumhurbaşkanı Erdoğan'ın ABD ve bazı Avrupalı aktörlerle doğrudan müzakere yürüttüğü, ancak Atina'yı bu süreçte muhatap almadığını yazdı.",
+      "link": "https://www.star.com.tr/dunya/acinin-itirafi-baskan-erdogan-bizi-muhatap-almiyor-haber-2041701/",
+      "published": "2026-09-22T05:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:37.088844+00:00"
+    },
+    {
+      "id": "f45da7bf142ed345",
+      "source": "Yeni Şafak",
+      "title": "Bloomberg'e makale yazan Cumhurbaşkanı Erdoğan'dan dünyaya çağrı: 'BM Güvenlik Konseyi'nin veto hakkını kaldırmalıdır'",
+      "summary": "Bloomberg için makale kaleme alan Cumhurbaşkanı Erdoğan, \"Bugünün dünyasında kalıcı barışın, birbirinden kopuk ve birbiriyle konuşmayan blokların çoğalmasıyla kurulamayacağı açıktır. 'Daha adil bir dünya' için farklı coğrafyaların tecrübesini, kapasitesini ve iradesini ortak bir zeminde buluşturmalıyız\" dedi. Erdoğan, makalesinde BM'nin veto hakkını kaldırması gerektiğine de yer verdi.",
+      "link": "https://www.yenisafak.com/gundem/bloomberge-makale-yazan-cumhurbaskani-erdogandan-dunyaya-cagri-bm-guvenlik-konseyinin-veto-hakkini-kaldirmalidir-4857860",
+      "published": "2026-09-22T05:03:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:36.478024+00:00"
+    },
+    {
+      "id": "eee3620e3f6a7b1f",
+      "source": "Akşam",
+      "title": "Akkuyu NGS'de kritik bölüm tamamlandı",
+      "summary": "Rusya Devlet Nükleer Enerji Kuruluşu Rosatom Genel Müdürü Aleksey Likhachev, Akkuyu Nükleer Güç Santrali'nin (NGS) 1'inci güç ünitesine ait kontrol odasının çalışmaya hazır olduğunu bildirdi.",
+      "link": "https://www.aksam.com.tr/ekonomi/akkuyu-ngsde-kritik-bolum-tamamlandi/haber-1700265",
+      "published": "2026-09-22T05:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:36.350438+00:00"
+    },
+    {
+      "id": "2b561716378618e8",
+      "source": "Gazete Pencere",
+      "title": "YENİ Parti MYK toplantısındaki saha raporu",
+      "summary": "YENİ Parti’de ilk bölümü tamamlanan saha çalışmalarından elde edilen bulgular, MYK toplantısında masaya yatırıldı. YENİ Partililer, sokağın tek gündeminin ekonomik kriz olduğunu belirtti.",
+      "link": "https://www.gazetepencere.com/siyaset/yeni-parti-myk-toplantisindaki-saha-raporu-716360h",
+      "published": "2026-09-22T05:02:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:41.382140+00:00"
+    },
+    {
+      "id": "d1a18dedd82a8ae3",
+      "source": "Cumhuriyet",
+      "title": "Meteoroloji açıkladı: 22 Eylül 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+      "summary": "Meteoroloji Genel Müdürlüğü, 22 Eylül Salı gününe ilişkin hava durumu raporunu yayımladı. Rapora göre; Marmara’nın güney ve doğusu ile Tekirdağ, Düzce, Zonguldak ve Bartın çevrelerinde kuvvetli yağışın etkili olması bekleniyor. Rüzgarın ise, Marmara'nın güneybatısı ile Kuzey Ege kıyılarında kuzeydoğu, Doğu Anadolu'nun güney ve batı kesimlerinde yer yer kuvvetli eseceği tahmin ediliyor.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-22-eylul-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2539737",
+      "published": "2026-09-22T05:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:30.290719+00:00"
+    },
+    {
+      "id": "dbd5a73f4c828686",
+      "source": "Akşam",
+      "title": "Türkiye yenilenebilir enerjide 11'inci sırada",
+      "summary": "Türkiye'nin 2015-2025 döneminde rüzgâr ve güneşten 442.2 TWh elektrik ürettiğini açıklayan Bakan Bayraktar, yenilenebilir enerji yatırımlarıyla Türkiye'nin Avrupa'da 5'inci, dünyada 11'inci sıraya yükseldiğini açıkladı.",
+      "link": "https://www.aksam.com.tr/ekonomi/turkiye-yenilenebilir-enerjide-11inci-sirada/haber-1700264",
+      "published": "2026-09-22T05:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:36.350460+00:00"
+    },
+    {
+      "id": "85d82eca846ee74a",
+      "source": "Ekonomim",
+      "title": "Avrupa'da akaryakıt krizi derinleşiyor: Macron'dan dikkat çeken standart önerisi",
+      "summary": "Avrupa&#039;da yükselen akaryakıt fiyatları özellikle tarım ve balıkçılık sektörleri üzerindeki baskıyı artırırken, Fransa&#039;dan fiyatları aşağı çekmeye yönelik yeni bir öneri geldi. Fransa Cumhurbaşkanı Emmanuel Macron, Avrupa Birliği&#039;nden dizel ve gaz yağına ilişkin bazı yakıt standartlarının geçici olarak esnetilmesini istedi.",
+      "link": "https://www.ekonomim.com/kuresel-ekonomi/avrupada-akaryakit-krizi-derinlesiyor-macrondan-dikkat-ceken-standart-onerisi-haberi-919791",
+      "published": "2026-09-22T05:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:49.503934+00:00"
+    },
     {
       "id": "5fc371b9703abbb2",
       "source": "ShiftDelete.Net",
@@ -28,6 +116,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-22T05:01:16.586404+00:00"
+    },
+    {
+      "id": "b2d9c5a8e7b77a23",
+      "source": "Habertürk",
+      "title": "Cumhurbaşkanı Erdoğan Bloomberg için yazdı",
+      "summary": "Cumhurbaşkanı Erdoğan, Bloomberg için \"BM, Güvenlik Konseyi'nin veto hakkını kaldırmalıdır\" başlıklı makale kaleme aldı. Veto imtiyazının kaldırılması, seçilmiş üyelerin karar alma süreçlerinde daha fazla ağırlık kazanması ve Genel Kurul'un rolünün güçlendirilmesi yönündeki çabayı desteklediklerinin altını çizen Cumhurbaşkanı Erdoğan, \"Genel Kurul bünyesinde, hiçbir devletin uluslararası toplumun ",
+      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-bloomberg-icin-yazdi-3914153",
+      "published": "2026-09-22T04:59:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:27.003936+00:00"
+    },
+    {
+      "id": "9acc04a880ed50db",
+      "source": "OdaTV",
+      "title": "Kaşif Kozinoğlu soruşturmasında 9 dakikalık çelişki",
+      "summary": "Kaşif Kozinoğlu&#039;nun şüpheli ölümüne ilişkin soruşturmada kritik zaman çelişkisi ortaya çıktı. Acil butona basılması ile müdahale arasında 9 dakikalık fark olduğu belirlenirken, FETÖ&#039;den ihraç eski savcı Necip Doğan suçu başsavcı Ali İşgören&#039;e attı.",
+      "link": "https://www.odatv.com/guncel/kasif-kozinoglu-sorusturmasinda-9-dakikalik-celiski-120163610",
+      "published": "2026-09-22T04:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:41.658462+00:00"
     },
     {
       "id": "e5ccf0b63a4f7596",
@@ -1788,6 +1898,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-22T03:45:43.661959+00:00"
+    },
+    {
+      "id": "793f44038bb1ade4",
+      "source": "Habertürk",
+      "title": "KPSS iptal mi edildi?",
+      "summary": "ÖSYM tarafından gerçekleştirilen KPSS’nin iptal edilip edilmediği en çok araştırılan konu başlıkları arasında yer alıyor. 6 Eylül’de yapılan lisans oturumundan sonra yapılan değerlendirmelerde Şanlıurfa Harran Üniversitesi'ndeki 150 sınav salonunun 22'sinde toplam 392 adayı ilgilendiren mevzuata aykırı uygulamalar tespit edildi. ÖSYM'den gelen açıklama eşdeğer sınavın yapılıp yapılmayacağıyla ilgi",
+      "link": "https://www.haberturk.com/bilgi/foto/kpss-iptal-mi-edildi-tekrardan-mi-yapilacak-osym-acikladi-kpssye-kimler-girecek-3913825",
+      "published": "2026-09-22T03:27:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:27.004495+00:00"
+    },
+    {
+      "id": "0b64e90a57ae8e77",
+      "source": "Habertürk",
+      "title": "Sayısal Loto sonuçları açıklandı!",
+      "summary": "Her hafta Pazartesi, Çarşamba ve Cumartesi günleri yapılan Çılgın Sayısal Loto çekilişinde şansını denemek isteyenler bugünkü çekilişe katıldı. Sayısal Loto sonuçları canlı ve noter huzurunda belli oluyor. En son yapılan çekilişte 6 bilen çıkmayınca tam 684 milyon 347 bin 7 TL ikramiye devretti. 5 bilen 1 kişi ise 4.234.077,1 TL kazandı. Peki 21 Eylül 2026 Sayısal Loto sonuçları kazandıran numaral",
+      "link": "https://www.haberturk.com/bilgi/foto/sayisal-loto-sonuclari-aciklandi-mi-21-eylul-cilgin-sayisal-loto-cekilis-sonuclari-bilet-sorgulama-ekrani-3914100",
+      "published": "2026-09-22T03:26:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-22T05:05:27.004573+00:00"
     },
     {
       "id": "d7c118335d349214",
@@ -5374,138 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-21T21:35:38.006474+00:00"
-    },
-    {
-      "id": "9cf20a9d09cba365",
-      "source": "Akşam",
-      "title": "Siyonist İsrail şebekesinin kirli para çarkı İstanbul'da patladı! MİT ve Emniyet'ten ortak operasyon",
-      "summary": "İstanbul'da, İsrail bağlantılı uluslararası yasa dışı forex dolandırıcılığına yönelik düzenlenen operasyonda gözaltına alınan 133 şüpheli, tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-      "link": "https://www.aksam.com.tr/guncel/siyonist-israil-sebekesinin-kirli-para-carki-istanbulda-patladi-mit-ve-emniyetten-ortak-operasyon/haber-1700227",
-      "published": "2026-09-21T21:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:30:49.605460+00:00"
-    },
-    {
-      "id": "7ba6a007a0d27699",
-      "source": "Milliyet",
-      "title": "Dünyanın gözü New York’ta! Türkevi’nde diplomasi rüzgarı: Erdoğan’dan kritik temaslar",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan,Birleşmiş Milletler (BM) 81. Genel Kurulu dolayısıyla bulunduğu New York'ta ikili temaslarına başladı. Cumhurbaşkanı Erdoğan, Vietnam Devlet Başkanı To Lam ile görüştü. Basına kapalı gerçekleşen görüşmede, Dışişleri Bakanı Hakan Fidan, Ticaret Bakanı Ömer Bolat ve Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran ile Savunma Sanayii Başkanı Haluk Görgün de hazı",
-      "link": "https://www.milliyet.com.tr/dunya/dunyanin-gozu-new-yorkta-turkevinde-diplomasi-ruzgari-erdogandan-kritik-temaslar-7664870",
-      "published": "2026-09-21T21:30:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T23:05:32.570100+00:00"
-    },
-    {
-      "id": "4eb3210efd727f14",
-      "source": "Habertürk",
-      "title": "\"Babasının kuzuları gelmiş\"",
-      "summary": "Kapadokya'da çekimleri süren 'Sevdan Bir Ateş'in yıldızı Murat Ünalmış'ı, çocukları Selim Baran ile Toprak sette ziyaret etti. Ünalmış o anları, \"Babasının kuzuları gelmiş\" diyerek paylaştı",
-      "link": "https://www.haberturk.com/magazin/foto/murat-unalmis-babasinin-kuzulari-gelmis-3914084",
-      "published": "2026-09-21T21:30:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:35:29.286962+00:00"
-    },
-    {
-      "id": "2e9dc876f30f0af9",
-      "source": "Ekonomim",
-      "title": "Cumhurbaşkanı Erdoğan'dan ABD'de diplomasi trafiği: Peş peşe görüşmeler gerçekleştirdi",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, çeşitli temaslarda bulunmak üzere gittiği ABD&#039;de Vietnam Devlet Başkanı To Lam ile Libya Başkanlık Konseyi Başkanı Menfi, Kuveyt Veliaht Prensi Sabah Halid el-Hamed es-Sabah, Kosova Başbakanı Albin Kurti ile ikili görüşmeler gerçekleştirdi.",
-      "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogandan-abdde-diplomasi-trafigi-haberi-919730",
-      "published": "2026-09-21T21:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:35:47.467012+00:00"
-    },
-    {
-      "id": "1fd8c29bb4049f20",
-      "source": "Habertürk",
-      "title": "KPSS ne zaman?",
-      "summary": "ÖSYM sınav takvimiyle KPSS Ortaöğretim ve Ön lisans sınav tarihleri belli oldu. Kamu Personeli Seçme Sınavı için başvuruların hangi tarihte alınacağı ve sınavların ne zaman gerçekleştirileceği de takvim içerisinde paylaşıldı. Peki KPSS Ortaöğretim ve Ön lisans sınavı ne zaman yapılacak, hangi tarihte?",
-      "link": "https://www.haberturk.com/bilgi/foto/kpss-ne-zaman-2026-kpss-ortaogretim-ve-on-lisans-sinav-tarihi-ve-ucreti-belli-oldu-mu-3914130",
-      "published": "2026-09-21T21:29:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:35:29.286996+00:00"
-    },
-    {
-      "id": "7847eccc796caa0b",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İletişim Başkanı Duran'dan Cumhurbaşkanı Erdoğan'ın BM'de yapacağı konuşmaya ilişkin paylaşım",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Birleşmiş Milletler Genel Kurulu'ndaki hitabında yine hakkı haykıracağını, mazlumların, sesi duyulmayanların ve adalet bekleyenlerin sesi olacağını belirtti.",
-      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cumhurbaskani-erdoganin-bmde-yapacagi-konusmaya-iliskin-paylasim/4063766",
-      "published": "2026-09-21T21:29:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:50:37.199837+00:00"
-    },
-    {
-      "id": "8e85337d21c8a625",
-      "source": "Ekonomim",
-      "title": "İletişim Başkanı Duran: Türkiye-ABD ilişkilerinin tarihi, geçen yüzyıl dünya tarihinin özeti niteliğinde",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, “Türkiye-ABD ilişkilerinin tarihi, birçok açıdan geçen yüzyıldaki dünya tarihinin bir özeti niteliğindedir” dedi.",
-      "link": "https://www.ekonomim.com/gundem/iletisim-baskani-duran-turkiye-abd-iliskilerinin-tarihi-gecen-yuzyil-dunya-tarihinin-ozeti-niteliginde-haberi-919770",
-      "published": "2026-09-21T21:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:35:47.467050+00:00"
-    },
-    {
-      "id": "54b41f599dd89def",
-      "source": "Gerçek Gündem",
-      "title": "Hedef Yatırım'ın 2 Milyarlık Para Trafiği MASAK'a Takıldı",
-      "summary": "Fon soruşturmasında Hedef Yatırım Bankası’nın 2 milyar liralık para transferi girişimi MASAK tarafından durduruldu. Transferin İsviçre merkezli Swissquote’un Akbank’taki hesabına yapılmasının planlandığı belirtildi.",
-      "link": "https://www.gercekgundem.com/ekonomi/hedef-yatirimin-2-milyarlik-para-trafigi-masaka-takildi-579093",
-      "published": "2026-09-21T21:28:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:35:45.329140+00:00"
-    },
-    {
-      "id": "da26983cc8f90576",
-      "source": "Star",
-      "title": "Belçika'da Van Bommel dönemi! İlk idmanda Lukaku detayı",
-      "summary": "Belçika Milli Takımı'nda Mark van Bommel yönetimindeki ilk antrenman gerçekleştirilirken, Romelu Lukaku ile yapılan kısa görüşme dikkat çekti.",
-      "link": "https://www.star.com.tr/spor/belcikada-van-bommel-donemi-ilk-idmanda-lukaku-detayi-haber-2041678/",
-      "published": "2026-09-21T21:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:30:50.754792+00:00"
-    },
-    {
-      "id": "74faa0af9222f4ef",
-      "source": "Evrensel",
-      "title": "Nilda Müge Şahin’in katledilmeden önce şikayetçi olduğu Nazir Ilgın’ın davası bugün görülüyor",
-      "summary": "Nilda Müge Şahin, kendisini öldürmekle tehdit eden Nazir Ilgın hakkında 25 Temmuz’da şikayetçi oldu. Ilgın gözaltına alındı, serbest bırakıldı ve 8 gün sonra, 5 Ağustos’ta Nilda Müge Şahin’i katletti.",
-      "link": "https://www.evrensel.net/haber/6001486/nilda-muge-sahin-in-katledilmeden-once-sikayetci-oldugu-nazir-ilgin-in-davasi-bugun-goruluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-21T21:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-22T04:25:33.658342+00:00"
-    },
-    {
-      "id": "574614b6510d5ac6",
-      "source": "Evrensel",
-      "title": "Nilda Müge Şahin’in katledilmeden önce şikayetçi olduğu Nazir Ilgın’ın davası bugün görülüyor",
-      "summary": "Nilda Müge Şahin, kendisini öldürmekle tehdit eden Nazir Ilgın hakkında 25 Temmuz’da şikayetçi oldu. Ilgın gözaltına alındı, serbest bırakıldı ve 8 gün sonra, 5 Ağustos’ta Nilda Müge Şahin’i katletti.",
-      "link": "https://www.evrensel.net/haber/6001486/nilda-muge-sahinin-katledilmeden-once-sikayetci-oldugu-nazir-ilginin-davasi-bugun-goruluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-21T21:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:45:43.436304+00:00"
-    },
-    {
-      "id": "bec6417bcf1efc4e",
-      "source": "Evrensel",
-      "title": "Nepal'deki sel felaketinde hayatını kaybedenlerin sayısı 1451'e yükseldi: 13 bin 784 kişi kurtarıldı",
-      "summary": "Nepal'deki selde hayatını kaybedenlerin sayısı 1451'e yükseldiği, toplam kayıp sayısının 5 bin 745 olduğu bildirildi.",
-      "link": "https://www.evrensel.net/haber/6001520/nepal-deki-sel-felaketinde-hayatini-kaybedenlerin-sayisi-1451-e-yukseldi-13-bin-784-kisi-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-21T21:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-21T21:45:43.436340+00:00"
     }
   ]
 }

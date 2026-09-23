@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-23T01:50:59.618610+00:00",
+  "last_updated": "2026-09-23T01:55:48.569364+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 543,
+  "new_items_this_run": 514,
   "items": [
     {
       "id": "0247c7e0b96f59b0",
@@ -1106,6 +1106,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-22T23:15:59.388363+00:00"
+    },
+    {
+      "id": "5c1e47b1d6aaac41",
+      "source": "BBC News Türkçe",
+      "title": "Trump: 'Ara seçimlerden sonra İran ile anlaşma yapabiliriz'",
+      "summary": "ABD Başkanı Donald Trump, ülkesinin kasım ayında yapılacak ara seçimlerden sonra İran ile bir anlaşma yapabileceğine inandığını söyledi. Trump, Rusya-Ukrayna savaşının da düşünülenden daha çabuk sona erebileceğini vurguladı. ABD Başkanı ayrıca yapay zekaya artık \"süper zeka\" denmesi önerisi yaptı.",
+      "link": "https://www.bbc.com/turkce/articles/c539myv9vpkdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-22T23:06:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-23T01:55:48.107254+00:00"
     },
     {
       "id": "70b46da5f332802d",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-22T20:10:43.945129+00:00"
-    },
-    {
-      "id": "d833b210cbbba2f9",
-      "source": "Ekonomim",
-      "title": "Özel'den Manisa'daki saldırıda yaralanan öğrencilere geçmiş olsun telefonu",
-      "summary": "Yeni Parti Genel Başkanı Özgür Özel, Manisa&#039;daki okul saldırısında yaralanan öğrencilerle telefonda görüştü.",
-      "link": "https://www.ekonomim.com/gundem/ozelden-manisadaki-saldirida-yaralanan-ogrencilere-gecmis-olsun-telefonu-haberi-920034",
-      "published": "2026-09-22T20:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-22T20:10:52.034934+00:00"
     }
   ]
 }

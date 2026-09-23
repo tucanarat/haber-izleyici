@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-23T01:46:06.071283+00:00",
+  "last_updated": "2026-09-23T01:50:59.618610+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 542,
+  "new_items_this_run": 543,
   "items": [
+    {
+      "id": "0247c7e0b96f59b0",
+      "source": "Türkiye Gazetesi",
+      "title": "Esenyurt'ta hareketli gece! Yangın 5 iş yerine sıçradı",
+      "summary": "Esenyurt'ta bulunan oto lastikçi dükkanında çıkan yangın, bitişikte bulunan 4 iş yeri ile bir yemek şirketine sıçradı. Alevler, itfaiye ekiplerinin yaklaşık 2 saatlik müdahalesiyle kontrol altına alınarak söndürüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/esenyurtta-hareketli-gece-yangin-5-is-yerine-sicradi-1817878",
+      "published": "2026-09-23T01:48:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-23T01:50:38.660521+00:00"
+    },
     {
       "id": "cb84d5aaab00a4f4",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-22T20:10:52.034934+00:00"
-    },
-    {
-      "id": "5c1e47b1d6aaac41",
-      "source": "BBC News Türkçe",
-      "title": "Trump: 'Ara seçimlerden sonra İran ile anlaşma yapabiliriz'",
-      "summary": "ABD Başkanı Donald Trump, ülkesinin kasım ayında yapılacak ara seçimlerden sonra İran ile bir anlaşma yapabileceğine inandığını söyledi. Trump, Rusya-Ukrayna savaşının da düşünülenden daha çabuk sona erebileceğini vurguladı. ABD Başkanı ayrıca yapay zekaya artık \"süper zeka\" denmesi önerisi yaptı.",
-      "link": "https://www.bbc.com/turkce/articles/c539myv9vpkdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22T20:05:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-22T22:25:59.630451+00:00"
     }
   ]
 }

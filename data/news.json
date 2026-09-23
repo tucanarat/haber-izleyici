@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-23T00:25:45.253709+00:00",
+  "last_updated": "2026-09-23T00:31:11.610736+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 530,
+  "new_items_this_run": 505,
   "items": [
+    {
+      "id": "f8b1b76093760fe7",
+      "source": "Türkiye Gazetesi",
+      "title": "Öncelik zorunlu ödemelerde! Tasarruf yapan sabit gelirli yüzde 8",
+      "summary": "Yapılan araştırmaya göre Türkiye’de çalışanların yüzde 71’i maaşı yattığında öncelikle kira, fatura ve kredi veya kredi kartı ödemelerini yapıyor. Yüzde 17’lik kesim ise ilk olarak market ve diğer temel ihtiyaçlarını karşılıyor. Böylece her 100 kişiden 88’i maaşını zorunlu harcamalara ayırıyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/oncelik-zorunlu-odemelerde-tasarruf-yapan-sabit-gelirli-yuzde-8-1817870",
+      "published": "2026-09-23T00:25:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-23T00:30:51.569549+00:00"
+    },
     {
       "id": "539b068dfc458d83",
       "source": "Türkiye Gazetesi",
@@ -2415,6 +2426,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-22T22:00:57.348101+00:00"
+    },
+    {
+      "id": "ac18fbfb9bab148e",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İstanbul'un bazı bölgelerinde sağanak etkili oldu",
+      "summary": "İstanbul'un bazı bölgelerinde sağanak etkili oldu.",
+      "link": "https://www.aa.com.tr/tr/gundem/istanbulun-bazi-bolgelerinde-saganak-etkili-oldu/4065508",
+      "published": "2026-09-22T21:17:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-23T00:30:49.149501+00:00"
+    },
+    {
+      "id": "0d2db8397820cc10",
+      "source": "Aydınlık",
+      "title": "TGB'den Manisa'daki okul saldırısına tepki: Beyaz giyiyoruz",
+      "summary": "Türkiye Gençlik Birliği (TGB), Manisa&#039;nın Turgutlu ilçesinde bir lise önünde meydana gelen silahlı saldırının ardından açıklama yaptı. TGB, benzer olayların tekrar yaşanmaması için liseli öğrencileri yarın okullarına beyaz tişörtle gitmeye çağırdı.",
+      "link": "https://www.aydinlik.com.tr/haber/tgbden-manisadaki-okul-saldirisina-tepki-beyaz-giyiyoruz-591212",
+      "published": "2026-09-22T21:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-23T00:30:56.888883+00:00"
     },
     {
       "id": "6baf2fe36d62306e",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-22T19:40:42.707912+00:00"
-    },
-    {
-      "id": "5b4a92514e479f91",
-      "source": "Gazete Pencere",
-      "title": "Hafize Gaye Erkan hakkındaki haberlere erişim engeli",
-      "summary": "Eski TCMB Başkanı Hafize Gaye Erkan'ın Bodrum'daki komşularının kendisinden şikayetçi olduğuna dair kamuoyuna yansıyan haberlere erişim engeli getirildi.",
-      "link": "https://www.gazetepencere.com/gundem/hafize-gaye-erkan-hakkindaki-haberlere-erisim-engeli-716470h",
-      "published": "2026-09-22T19:39:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-22T19:40:46.637968+00:00"
-    },
-    {
-      "id": "778142f6f383f700",
-      "source": "Halk TV",
-      "title": "Süper Lig'de liderliğe geçen Amedspor'dan transfer açıklaması",
-      "summary": "Amedspor Başkanı Nahit Eren liderlik koltuğuna oturmalarının ardından açıklamalarda bulundu. Eren transfer politikasını anlattı.",
-      "link": "https://halktv.com.tr/spor/super-ligde-liderlige-gecen-amedspordan-transfer-aciklamasi-1056805h",
-      "published": "2026-09-22T19:39:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-22T19:40:47.273079+00:00"
-    },
-    {
-      "id": "14fbf5b649851310",
-      "source": "Star",
-      "title": "ABD Başkanı Trump: Erdoğan çok iyi bir dostum",
-      "summary": "ABD Başkanı Donald Trump açıklamalarda bulundu. Trump, Cumhurbaşkanı Erdoğan hakkında \"Çok çetin biri ve dostum\" ifadelerini kullandı.",
-      "link": "https://www.star.com.tr/dunya/abd-baskani-trump-erdogan-cok-iyi-bir-dostum-haber-2041925/",
-      "published": "2026-09-22T19:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-22T19:45:47.534325+00:00"
     }
   ]
 }

@@ -1,12 +1,309 @@
 {
-  "last_updated": "2026-09-24T06:20:57.052177+00:00",
+  "last_updated": "2026-09-24T06:25:56.096500+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 546,
+  "new_items_this_run": 555,
   "items": [
+    {
+      "id": "ae6c9cbdb5da824b",
+      "source": "Gazete Pencere",
+      "title": "Mehmet Şimşek’ten fon krizinde yeni hamle",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında yapılacak toplantıda, 7 portföy yönetim şirketinin 131 yatırım fonuna ilişkin tasfiye ve ödeme süreçleri görüşülecek.",
+      "link": "https://www.gazetepencere.com/ekonomi/mehmet-simsekten-fon-krizinde-yeni-hamle-716619h",
+      "published": "2026-09-24T06:25:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:40.819133+00:00"
+    },
+    {
+      "id": "f50440c3e3f1b423",
+      "source": "Halk TV",
+      "title": "Gel 1 Ocak gel: Fenerbahçe'nin ilk transferi belli oldu",
+      "summary": "Fenerbahçe ara transferi bekliyor. Gel 1 Ocak gel! Fenerbahçe&#039;nin ilk transferi belli oldu.",
+      "link": "https://halktv.com.tr/spor/gel-1-ocak-gel-fenerbahcenin-ilk-transferi-belli-oldu-1057130h",
+      "published": "2026-09-24T06:25:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:41.274236+00:00"
+    },
+    {
+      "id": "7c8fab8842039eef",
+      "source": "Milliyet",
+      "title": "6 kişinin yaşadığı konteynerden Türkiye derecesine: Çabalarıma gerçekten değdi",
+      "summary": "Antakya ilçesi Akasya Mahallesi’nde depremi yaşayan Hasan Akdeniz ve ailesi, 6 Şubat depremlerinin ardından Güzelburç Mahallesi’nde bulunan geçici konaklama merkezine yerleştirildi. Asrın felaketinin ardından 6 kişilik ailesiyle birlikte 3 yıldır konteyner kentte yaşamını sürdüren Hasan Akdeniz, Yükseköğretim Kurumları Sınavı’na (YKS) 2 yıl önceden hazırlanmaya başladı. İlk başlarda ailesiyle birl",
+      "link": "https://www.milliyet.com.tr/gundem/6-kisinin-yasadigi-konteynerden-turkiye-derecesine-cabalarima-gercekten-degdi-7666420",
+      "published": "2026-09-24T06:24:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:36.120508+00:00"
+    },
+    {
+      "id": "4f62485b23c051d4",
+      "source": "Cumhuriyet",
+      "title": "Kazada ağır yaralanmıştı: 13 yaşındaki çocuk hayatını kaybetti",
+      "summary": "Adana’nın Kozan ilçesinde otomobilin takla atması sonucu meydana gelen trafik kazasında ağır yaralanan 13 yaşındaki İsmail Arslan, 13 günlük yaşam mücadelesini kaybetti.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/kazada-agir-yaralanmisti-13-yasindaki-cocuk-hayatini-kaybetti-2540519",
+      "published": "2026-09-24T06:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:31.646520+00:00"
+    },
+    {
+      "id": "7d6a79f2f0e22270",
+      "source": "Akşam",
+      "title": "Basketbol Süper Ligi'nde sezon Bursa'da açılıyor",
+      "summary": "Türkiye Sigorta Basketbol Süper Ligi'nde 2026-2027 sezonu, yarın oynanacak tek karşılaşmayla başlayacak.",
+      "link": "https://www.aksam.com.tr/spor/basketbol-super-liginde-sezon-bursada-aciliyor/haber-1700888",
+      "published": "2026-09-24T06:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:36.818424+00:00"
+    },
+    {
+      "id": "9a803c5b9512ee5a",
+      "source": "Akşam",
+      "title": "Anthropic'in eski çalışanına Nvidia'dan cevap geldi",
+      "summary": "Nvidia CEO'su Jensen Huang, yapay zekanın 2030 yılına kadar insanlığın sonunu getireceği yönündeki iddiaları kesin bir dille yalanladı. Huang, bu tür uyarıların Anthropic eski çalışanı Jacob Coxon'ın açıklamalarından kaynaklandığını belirterek söz konusu senaryoları sorumsuzca bulduğunu ifade etti.",
+      "link": "https://www.aksam.com.tr/dunya/anthropicin-eski-calisanina-nvidiadan-cevap-geldi/haber-1700887",
+      "published": "2026-09-24T06:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:36.818447+00:00"
+    },
+    {
+      "id": "63d47cc43dfd6b4e",
+      "source": "Yeniçağ",
+      "title": "Ödülü aldı, saatler sonra ortalık karıştı: Ünlü romana ‘yapay zeka yazdı’ suçlaması",
+      "summary": "Fransa’da edebiyat dünyası yapay zekâ suçlamasıyla karıştı. Prix du Roman Fnac ödülünü kazanan Thélyson Orélien’in romanının “neredeyse tamamen yapay zekâyla yazıldığı” öne sürüldü. Yazar iddiayı kesin bir dille reddederken yayınevi de Orélien’e destek verdi.",
+      "link": "https://www.yenicaggazetesi.com/odulu-aldi-saatler-sonra-ortalik-karisti-unlu-romana-yapay-zeka-yazdi-suclamasi-1074821h.htm",
+      "published": "2026-09-24T06:23:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:39.096224+00:00"
+    },
+    {
+      "id": "027706f5f055594f",
+      "source": "Gazete Pencere",
+      "title": "Donald Trump'tan Türkiye ve Bangladeş açıklaması: On milyarlarca dolarlık satış yapacağız",
+      "summary": "Boeing firması tarafından üretilecek 111 uçağın Türkiye ve Bangladeş'e satılacağını duyuran ABD Başkanı Trump, \"On milyarlarca dolarlık satış ve devasa ABD ihracatı, ülkemiz genelinde on binlerce Amerikan istihdamını destekliyor\" dedi.",
+      "link": "https://www.gazetepencere.com/dis-haber/donald-trumptan-turkiye-ve-banglades-aciklamasi-on-milyarlarca-dolarlik-satis-716618h",
+      "published": "2026-09-24T06:23:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:40.819156+00:00"
+    },
+    {
+      "id": "b75c1d4ecfee4a6d",
+      "source": "Karar",
+      "title": "Bursa’da ormanda ceset bulundu: 3 kayıp için DNA testi",
+      "summary": "Bursa’nın Nilüfer ilçesinde bulunan Atatürk Kent Ormanı’ndaki ormanlık alanda, arama kurtarma ekipleri tarafından vücut bütünlüğü bozulmuş bir erkek cesedi bulundu. Cesedin, kentte şubat ayından bu yana kayıp olarak aranan 3 kişiden birine ait olabileceği değerlendiriliyor. Kimlik tespitinin yapılabilmesi için kayıp kişilerin ailelerinden DNA örneği alınacak.",
+      "link": "https://www.karar.com/guncel-haberler/bursada-ormanda-ceset-bulundu-3-kayip-icin-dna-testi-2073941",
+      "published": "2026-09-24T06:23:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:38.433147+00:00"
+    },
+    {
+      "id": "4faee87f24b890a4",
+      "source": "Karar",
+      "title": "Bornova’da çifte merdiven hamlesi: Atatürk Mahallesi’nde kronikleşen sorunlar çözülüyor",
+      "summary": "Bornova genelinde kentsel konforu ve yaşam kalitesini artırmak adına çalışmalarını aralıksız sürdüren Bornova Belediyesi, Atatürk Mahallesi sakinlerinin uzun yıllardır beklediği iki önemli ulaşım talebini birden hayata geçiriyor.",
+      "link": "https://www.karar.com/sehir-haberleri/bornovada-cifte-merdiven-hamlesi-ataturk-mahallesinde-kroniklesen-2073940",
+      "published": "2026-09-24T06:23:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:38.433171+00:00"
+    },
+    {
+      "id": "f4a527962c8a7c61",
+      "source": "Türkiye Gazetesi",
+      "title": "Ağırlığı 45 kilo, fiyatı 200 TL! Türkiye'nin her yerine satıyorlar",
+      "summary": "Erzurum'un Aziziye ilçesi kırsal Söğütlü Mahallesi'nde üretilen ve ağırlığı 15 ile 45 kilogram arasında olan Söğütlü lahanası, 100 ile 200 TL arasında değişen fiyatlarla satılıyor. Söğütlü lahanasına Türkiye'nin dört bir yanından sipariş yağıyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/agirligi-45-kilo-fiyati-200-tl-turkiyenin-her-yerine-satiyorlar-1818156",
+      "published": "2026-09-24T06:23:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:33.617951+00:00"
+    },
+    {
+      "id": "f4a527962c8a7c61",
+      "source": "Türkiye Gazetesi",
+      "title": "Ağırlığı 45 kilo, fiyatı 200 TL! Türkiye'nin her yerine satıyorlar",
+      "summary": "Erzurum'un Aziziye ilçesi kırsal Söğütlü Mahallesi'nde üretilen ve ağırlığı 15 ile 45 kilogram arasında olan Söğütlü lahanası, 100 ile 200 TL arasında değişen fiyatlarla satılıyor. Söğütlü lahanasına Türkiye'nin dört bir yanından sipariş yağıyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/agirligi-45-kilo-fiyati-200-tl-turkiyenin-her-yerine-satiyorlar-1818156",
+      "published": "2026-09-24T06:23:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:33.617972+00:00"
+    },
+    {
+      "id": "0d099395cbb07fa9",
+      "source": "Cumhuriyet",
+      "title": "Bursa’da ormanda ceset bulundu: 8 aydır kayıp Tolgahan’a mı ait?",
+      "summary": "Bursa’da Atatürk Kent Ormanı’nda cesedi bulunan kişinin 8 aydır kayıp olan Tolgahan Karapınar olabileceği ifade ediliyor. 8 ay önce çıktığı evine bir daha dönmeyen 35 yaşındaki Tolgahan Karapınar’ın kimliği geçtiğimiz ay Atatürk Kent Ormanı’nda bulunmuştu. Afad ve arama kurtarma ekipleri dün de parçalanmış halde bir cansız beden buldu. Yakın çevrede Tolgahan Karapınar’a ait olduğu değerlendirilen ",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/bursa-da-ormanda-ceset-bulundu-8-aydir-kayip-tolgahan-a-mi-ait-2540517",
+      "published": "2026-09-24T06:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:31.646566+00:00"
+    },
+    {
+      "id": "ed7ec831a4570d67",
+      "source": "Karar",
+      "title": "Abraham Lincoln uçak gemisinde 8 intihar girişimi: ABD Donanması açıkladı",
+      "summary": "ABD Donanması, İran savaşı sırasında uzun süre denizde kalan USS Abraham Lincoln uçak gemisi görev grubunda 8 personelin intihar girişiminde bulunduğunu açıkladı. Donanma Bakan Vekili Hung Cao’nun Senatör Kirsten Gillibrand’a gönderdiği mektupta, vakaların yalnızca uçak gemisi personeliyle sınırlı olmadığı, görev grubundaki diğer gemi ve birlikleri de kapsadığı belirtildi. Görev süresince intihar ",
+      "link": "https://www.karar.com/dunya-haberleri/abraham-lincoln-ucak-gemisinde-8-intihar-girisimi-abd-donanmasi-acikladi-2073939",
+      "published": "2026-09-24T06:22:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:38.433197+00:00"
+    },
+    {
+      "id": "5d9150d26bdecfeb",
+      "source": "Halk TV",
+      "title": "Lukaku kariyerinde bir ilki Fenerbahçe’de yaşadı: Yıldız golcüden beklenmedik başlangıç",
+      "summary": "Fenerbahçe&#039;nin sezon başında büyük umutlarla Napoli&#039;den kadrosuna kattığı dünyaca ünlü Belçikalı santrfor Romelu Lukaku, sarı-lacivertli forma altında kariyerinde daha önce hiç şahit olmadığı tarihi bir döneme adım attı.",
+      "link": "https://halktv.com.tr/spor/lukaku-kariyerinde-bir-ilki-fenerbahcede-yasadi-yildiz-golcuden-beklenmedik-baslangic-1057129h",
+      "published": "2026-09-24T06:22:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:41.274262+00:00"
+    },
+    {
+      "id": "066fe635e7b78718",
+      "source": "Euronews Türkçe",
+      "title": "Mahkemeden Trump yönetimine talimat: CNN, Politico ve MS NOW’ın Beyaz Saray'a erişimi yeniden sağlanacak",
+      "summary": "Başkan Trump, sosyal medya hesabından yaptığı paylaşımda yasağı savunarak söz konusu medya kuruluşlarını 'yalan haber' yayımlamakla suçladı ve diğer haber kuruluşlarının da benzer bir uygulamayla karşı karşıya kalabileceği uyarısında bulundu.",
+      "link": "https://tr.euronews.com/2026/09/24/mahkemeden-trump-yonetimine-talimat-cnn-politico-ve-ms-nowin-beyaz-saraya-erisimi-yeniden-",
+      "published": "2026-09-24T06:22:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:56.095758+00:00"
+    },
+    {
+      "id": "0b01b53f489bd4e8",
+      "source": "Akşam",
+      "title": "Dünyada ilk olacak! Türkiye'den uzayda tarihi test",
+      "summary": "Türkiye, Milli Uzay Programı kapsamında yürüttüğü Ay göreviyle derin uzayda önemli bir ilke imza atmaya hazırlanıyor. 2027'nin ilk aylarında Ay'a gönderilmesi hedeflenen milli uzay aracında kullanılacak hibrit roket motoru, derin uzayda ilk kez test edilecek. Üretim süreci tamamlanan Ay Uzay Aracı'nın nihai testleri sürerken, gerçekleştirilecek görevle Türkiye'nin derin uzayda operasyon tecrübesi ",
+      "link": "https://www.aksam.com.tr/teknoloji/dunyada-ilk-olacak-turkiyeden-uzayda-tarihi-test/haber-1700885",
+      "published": "2026-09-24T06:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:36.818471+00:00"
+    },
+    {
+      "id": "5b6e54c2b96e32d6",
+      "source": "LOG",
+      "title": "Google, Chrome 154 ile “108” güvenlik açığını kapattı",
+      "summary": "Google, kısa süre önce indirmeye sunulan “Chrome 153” ile toplam 230 güvenlik açığının kapatıldığını duyurmuştu. 154. sürümle kapatılan toplam güvenlik açığı ise 11&#8217;i kritik olmak üzere 108 oldu. 153. sürümle birlikte dört haftalık güncelleme takviminden iki haftalık güncelleme takvimine geçiş yapılmıştı. Bu değişikliğin arkasında, tarayıcıdaki güvenlik açıklarının yapay zeka sistemleri saye",
+      "link": "https://www.log.com.tr/google-chrome-154-ile-108-guvenlik-acigini-kapatti/",
+      "published": "2026-09-24T06:21:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:51.963874+00:00"
+    },
+    {
+      "id": "c45fd59d69e3c517",
+      "source": "Karar",
+      "title": "Altın için yeni hedef: 5 bin doların üzeri masada",
+      "summary": "Altın fiyatlarında yaşanan son geri çekilme kısa vadede baskı yaratsa da TD Securities, değerli metalde uzun vadeli yükseliş beklentisinin korunduğunu belirtiyor. Kuruma göre Fed politikası ve güçlü yatırım talebi, önümüzdeki dönemde altın fiyatlarını yeniden yukarı taşıyabilir.",
+      "link": "https://www.karar.com/ekonomi-haberleri/altin-icin-yeni-hedef-5-bin-dolarin-uzeri-masada-2073938",
+      "published": "2026-09-24T06:21:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:38.433216+00:00"
+    },
+    {
+      "id": "c0315013067fe810",
+      "source": "Halk TV",
+      "title": "Aziz Yıldırım kararını verdi: Yeni planı ortaya çıktı",
+      "summary": "Fenerbahçe&#039;de Aziz Yıldırım kararını verdi. Yıldırım yeni planını pazar günü açıklayacak.",
+      "link": "https://halktv.com.tr/spor/aziz-yildirim-kararini-verdi-yeni-plani-ortaya-cikti-1057128h",
+      "published": "2026-09-24T06:21:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:41.274278+00:00"
+    },
+    {
+      "id": "4b0882e8cbc5776b",
+      "source": "Independent Türkçe",
+      "title": "Yapay zekayla Erdoğan ve Gürlek'in fotoğraflarını manipüle etti, gözaltına alındı",
+      "summary": "Ankara'da sosyal medyada yapay zekayla oluşturduğu fotoğrafları kullanarak Cumhurbaşkanı Recep Tayyip Erdoğan ve Adalet Bakanı Akın Gürlek ile ilişkili olduğu izlenimi yarattığı gerekçesiyle Mehmet Ç. gözaltına alındı. Adli kaynaklardan edinilen bilgiye göre, şüpheli Mehmet Ç'nin, WhatsApp uygulamasının durum kısmında Cumhurbaşkanı Erdoğan ve Bakan Gürlek'in fotoğraflarının yanına yapay zeka kulla",
+      "link": "https://www.indyturk.com/node/782886/haber/yapay-zekayla-erdo%C4%9Fan-ve-g%C3%BCrlekin-foto%C4%9Fraflar%C4%B1n%C4%B1-manip%C3%BCle-etti-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1",
+      "published": "2026-09-24T06:21:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:45.501924+00:00"
+    },
+    {
+      "id": "12344da0485d696a",
+      "source": "Türkiye Gazetesi",
+      "title": "BANKA BANKA SON DURUM!",
+      "summary": "Sıkı para politikası iç talebi ve kredi büyümesini yavaşlatarak enflasyonla mücadeleyi desteklerken, enerji kaynaklı fiyat baskıları riskleri artırıyor. TCMB de bu risklere dikkat çekerek sıkı para politikasını sürdürürken; gelişmeler finansman oranlarına yansıyor. Bankaların da ihtiyaç finansmanı oranlarında “bekle-gör” konumuna geçtiği görülüyor. Son durumda 300 bin TL’nin güncel geri ödemesi ka",
+      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/bankalarda-oranlar-dondu-kaldi-300-bin-tlnin-geri-odemesi-kac-tl-1818155",
+      "published": "2026-09-24T06:21:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:33.617996+00:00"
+    },
+    {
+      "id": "ce0fe3dca4e89056",
+      "source": "Türkiye Gazetesi",
+      "title": "Bankalarda oranlar dondu kaldı! 300 bin TL’nin geri ödemesi kaç TL?",
+      "summary": "Sıkı para politikası iç talebi ve kredi büyümesini yavaşlatarak enflasyonla mücadeleyi desteklerken, enerji kaynaklı fiyat baskıları riskleri artırıyor. TCMB de bu risklere dikkat çekerek sıkı para politikasını sürdürürken; gelişmeler finansman oranlarına yansıyor. Bankaların da ihtiyaç finansmanı oranlarında “bekle-gör” konumuna geçtiği görülüyor. Son durumda 300 bin TL’nin güncel geri ödemesi ka",
+      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/bankalarda-oranlar-dondu-kaldi-300-bin-tlnin-geri-odemesi-kac-tl-1818155",
+      "published": "2026-09-24T06:21:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:33.618019+00:00"
+    },
+    {
+      "id": "12344da0485d696a",
+      "source": "Türkiye Gazetesi",
+      "title": "BANKA BANKA SON DURUM!",
+      "summary": "Sıkı para politikası iç talebi ve kredi büyümesini yavaşlatarak enflasyonla mücadeleyi desteklerken, enerji kaynaklı fiyat baskıları riskleri artırıyor. TCMB de bu risklere dikkat çekerek sıkı para politikasını sürdürürken; gelişmeler finansman oranlarına yansıyor. Bankaların da ihtiyaç finansmanı oranlarında “bekle-gör” konumuna geçtiği görülüyor. Son durumda 300 bin TL’nin güncel geri ödemesi ka",
+      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/bankalarda-oranlar-dondu-kaldi-300-bin-tlnin-geri-odemesi-kac-tl-1818155",
+      "published": "2026-09-24T06:21:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:33.618038+00:00"
+    },
+    {
+      "id": "e65860e2cb82dd89",
+      "source": "Cumhuriyet",
+      "title": "Reshad Strik’ten eşi Gamze Özçelik’e duygu dolu paylaşım: 'Zor zamanlarımda en büyük destekçim oldun'",
+      "summary": "Umuda Koşanlar Derneği kurucusu Gamze Özçelik ile 2024 yılında dünyaevine giren Avustralyalı oyuncu Reshad Strik, sosyal medya hesabından eşiyle birlikte yer aldığı yeni fotoğrafları yayımladı. Eşine olan sevgisini romantik bir mesajla dile getiren Strik, Özçelik’in zor zamanlarında kendisine en büyük desteği verdiğini vurguladı.",
+      "link": "https://www.cumhuriyet.com.tr/magazin/reshad-strik-ten-esi-gamze-ozcelik-e-duygu-dolu-paylasim-zor-zamanlarimda-en-buyuk-destekcim-oldun-2540515",
+      "published": "2026-09-24T06:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:31.646589+00:00"
+    },
+    {
+      "id": "681d230ca1af6535",
+      "source": "Cumhuriyet",
+      "title": "2026-2027 VGM burs başvurusu başladı mı? 2026-2027 VGM burs başvuru ne zaman?",
+      "summary": "Vakıflar Genel Müdürlüğü (VGM) 2026-2027 eğitim yılı burs takvimini duyurmaya başladı. Peki, 2026-2027 VGM burs başvurusu başladı mı? 2026-2027 VGM burs başvuru ne zaman?",
+      "link": "https://www.cumhuriyet.com.tr/egitim/2026-2027-vgm-burs-basvurusu-basladi-mi-2026-2027-vgm-burs-basvuru-ne-zaman-2540514",
+      "published": "2026-09-24T06:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:31.646605+00:00"
+    },
+    {
+      "id": "41cc4cfab5794df6",
+      "source": "Cumhuriyet",
+      "title": "Kaza yapan otomobil asılı kaldı: 2 yaralı",
+      "summary": "Mersin’in Erdemli ilçesinde kontrolden çıkan otomobilin tabiat parkına girerken askıda kalması dikkat çekti. Kazada araçta bulunan 2 kişi ise hafif yaralandı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/kaza-yapan-otomobil-asili-kaldi-2-yarali-2540516",
+      "published": "2026-09-24T06:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:31.646623+00:00"
+    },
     {
       "id": "d588fea15ff14ac0",
       "source": "Diken",
@@ -19,6 +316,39 @@
       "fetched_at": "2026-09-24T06:20:44.123080+00:00"
     },
     {
+      "id": "3e8f2f3eb3354e12",
+      "source": "Ekonomim",
+      "title": "Malatya'daki Tosunbükü Kaynağı Kaptajı koruma alanı ilan edildi",
+      "summary": "Devlet Su İşleri (DSİ) Genel Müdürlüğü, Malatya&#039;nın Tosunbükü Mahallesi&#039;ndeki içme ve kullanma suyu temin eden kaynağın koruma altına alınmasını kararlaştırdı.",
+      "link": "https://www.ekonomim.com/ekonomi/malatyadaki-tosunbuku-kaynagi-kaptaji-koruma-alani-ilan-edildi-haberi-920369",
+      "published": "2026-09-24T06:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:47.548646+00:00"
+    },
+    {
+      "id": "1cc050c623f4df41",
+      "source": "Ekonomim",
+      "title": "Uğur Şahin ve Özlem Türeci'nin yeni şirketinin adı Arife oldu",
+      "summary": "BioNTech&#039;in kurucuları Uğur Şahin ve Özlem Türeci&#039;nin 2026 sonunda kurmayı planladıkları yeni şirketin adı Arife olarak açıklandı. Mainz merkezli şirket, mRNA tabanlı yeni nesil ilaçların araştırma-geliştirme, üretim ve pazarlama faaliyetlerine odaklanacak.",
+      "link": "https://www.ekonomim.com/dunya/ugur-sahin-ve-ozlem-turecinin-yeni-sirketinin-adi-arife-oldu-haberi-920370",
+      "published": "2026-09-24T06:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:47.548685+00:00"
+    },
+    {
+      "id": "5ece89016843a734",
+      "source": "Finans Gündem",
+      "title": "Bakan Şimşek başkanlığında 131 fon için kritik toplantı",
+      "summary": "Hazine ve Maliye Bakanı Şimşek başkanlığında yapılacak toplantıda, tasfiye kapsamındaki 131 fonun ödeme süreçleri ele alınacak. Öncelikli gündem, yatırımcıların hak ve menfaatlerinin korunması olacak",
+      "link": "https://www.finansingundemi.com/haber/bakan-simsek-baskanliginda-131-fon-icin-kritik-toplanti/1909360",
+      "published": "2026-09-24T06:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:49.124890+00:00"
+    },
+    {
       "id": "a89fbbf9fd506796",
       "source": "Star",
       "title": "Takla atan otomobilden acı haber! Yaşam savaşını kaybetti",
@@ -28,6 +358,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T06:20:41.250584+00:00"
+    },
+    {
+      "id": "add64f3fec9e7317",
+      "source": "Cumhuriyet",
+      "title": "Nişantaşı’nda 47 bin liralık alışveriş iddiası: Ressam savcılık ifadesinin ardından serbest bırakıldı",
+      "summary": "Nişantaşı'nda ressam Dem Sevinç K. (28) bir mağazadan toplam değeri 47 bin 860 lira olan 24 parça ürünü alarak ödeme yapmadan dışarı çıktı. Görevliler tarafından yakalanan Dem Sevinç K., polis ekipleri tarafından emniyete götürülürken, ürünler mağazaya teslim edildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/nisantasi-nda-47-bin-liralik-alisveris-iddiasi-ressam-savcilik-ifadesinin-ardindan-serbest-birakildi-2540513",
+      "published": "2026-09-24T06:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:31.646643+00:00"
+    },
+    {
+      "id": "20bc2f671eb21744",
+      "source": "Aydınlık",
+      "title": "Motorine 5,50 lira indirim",
+      "summary": "Motorinin litre fiyatına 5,50 lira indirim geldi. Geçtiğimiz günlerde 100 TL seviyesine ulaşan motorinin fiyatı, indirimle birlikte 91 TL&#039;ye kadar geriledi.",
+      "link": "https://www.aydinlik.com.tr/haber/motorine-550-lira-indirim-591320",
+      "published": "2026-09-24T06:18:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:39.975820+00:00"
+    },
+    {
+      "id": "11121ac433fbb34e",
+      "source": "Aydınlık",
+      "title": "Fon soruşturmasında yeni gelişme! Tutuklu sayısı 17’ye yükseldi",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen sermaye piyasası ve finans soruşturması kapsamında mahkemeye sevk edilen 20 şüpheliden aralarında tanınmış iş insanlarının da bulunduğu 17 kişi tutuklandı, 3 kişi adli kontrolle serbest bırakıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/fon-sorusturmasinda-yeni-gelisme-tutuklu-sayisi-17ye-yukseldi-591319",
+      "published": "2026-09-24T06:18:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:39.975845+00:00"
     },
     {
       "id": "2e7549f7f8b524e0",
@@ -50,6 +413,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T06:20:53.762172+00:00"
+    },
+    {
+      "id": "b5c74176a69e9aac",
+      "source": "Ekonomim",
+      "title": "Bursa Model Fabrika’ya SEGEM statüsü",
+      "summary": "BTSO öncülüğünde sanayinin verimlilik ve dönüşüm süreçlerine rehberlik eden Bursa Model Fabrika, KOSGEB’in Sektörel Gelişim Merkezi Destek Programı kapsamında “Sektörel Gelişim Merkezi” olmaya hak kazandı. Yeni statüyle merkezin eğitim, danışmanlık ve uygulamalı dönüşüm hizmetlerinin kapasitesinin artırılarak daha fazla KOBİ’ye ulaşılması hedefleniyor.",
+      "link": "https://www.ekonomim.com/sehirler/bursa-model-fabrikaya-segem-statusu-haberi-920371",
+      "published": "2026-09-24T06:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:47.548720+00:00"
+    },
+    {
+      "id": "7b24f3b25f5ac086",
+      "source": "Ekonomim",
+      "title": "Hidropar paylarındaki işlemlere SPK'dan 71 milyon TL'lik ceza",
+      "summary": "Sermaye Piyasası Kurulu (SPK), Hidropar Hareket Kontrol Teknolojileri Merkezi Sanayi ve Ticaret AŞ paylarında yapılan işlemlere ilişkin inceleme sonucunda üç gerçek kişi ile Pardus Portföy Yönetimi AŞ&#039;ye toplam 71 milyon TL idari para cezası verdi. Kurul, pay satış bilgi formuna ilişkin yükümlülüklerin dolanılarak şirket paylarının Borsa&#039;da satışa konu edildiğini tespit etti.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/hidropar-paylarindaki-islemlere-spkdan-71-milyon-tllik-ceza-haberi-920372",
+      "published": "2026-09-24T06:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:47.548756+00:00"
     },
     {
       "id": "132148d3a4a552b4",
@@ -954,6 +1339,17 @@
       "fetched_at": "2026-09-24T06:01:25.387618+00:00"
     },
     {
+      "id": "26ad67d34c2f5119",
+      "source": "Sabah",
+      "title": "SON DAKİKA! 455 bin yatırımcıya ödeme süreci masada! 131 fon için Bakan Şimşek başkanlığında kritik toplantı",
+      "summary": "Son dakika haberi... Hazine ve Maliye Bakanı Şimşek başkanlığında, 455 bini aşkın yatırımcının bulunduğu 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/ekonomi/son-dakika-131-fonun-tasfiye-ve-odeme-sureci-icin-bakan-simsek-baskanliginda-kritik-toplanti-7666866",
+      "published": "2026-09-24T06:00:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:36.388376+00:00"
+    },
+    {
       "id": "74149f3971498643",
       "source": "Sabah",
       "title": "SON DAKİKA! 131 fonun tasfiye ve ödeme süreci kritik toplantı! Bakan Şimşek başkanlık edecek",
@@ -1040,6 +1436,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T06:01:04.269166+00:00"
+    },
+    {
+      "id": "126500d68f58a5d2",
+      "source": "Star",
+      "title": "Bakan Şimşek başkanlığında 2 günlük kritik \"fon\" zirvesi! Yatırımcıların hakları masada",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
+      "link": "https://www.star.com.tr/ekonomi/bakan-simsek-baskanliginda-kritik-zirve-haber-2042201/",
+      "published": "2026-09-24T05:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:37.751991+00:00"
     },
     {
       "id": "f2b0684de36a8c50",
@@ -4782,6 +5189,17 @@
       "fetched_at": "2026-09-24T04:05:56.095669+00:00"
     },
     {
+      "id": "fc2a715affc36696",
+      "source": "Hürriyet",
+      "title": "Atina’dan Mısır’ı yakın tutma çabası",
+      "summary": "YUNANİSTAN yönetimi Mısır’ı, Türkiye’nin de içinde yer aldığı Mekke İttifak’ına karşı kendi ittifak hattında tutmaya çalışıyor.",
+      "link": "https://www.hurriyet.com.tr/dunya/atinadan-misiri-yakin-tutma-cabasi-43317444",
+      "published": "2026-09-24T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T06:25:35.087248+00:00"
+    },
+    {
       "id": "bfa854590b041e37",
       "source": "Hürriyet",
       "title": "Zelenski’den Putin’e davet... ‘Oturup konuşalım savaşı bitirelim’",
@@ -5088,424 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T03:40:51.700403+00:00"
-    },
-    {
-      "id": "0a7d293b50fbcf1b",
-      "source": "OdaTV",
-      "title": "'Fiyatı yanlış girildi' yalanına kanmayın... Dolandırıcıların yeni yöntemi",
-      "summary": "E-ticaret platformlarından alışveriş yapan tüketiciler, bu kez siparişleri üzerinden kurulan dolandırıcılık girişimiyle karşı karşıya kalıyor. Siparişin iptal edileceği, fiyatın yanlış girildiği ya da fiyat farkı oluştuğu gibi gerekçelerle tüketiciler IBAN üzerinden para göndermeye yönlendiriliyor.",
-      "link": "https://www.odatv.com/guncel/fiyati-yanlis-girildi-yalanina-kanmayin-dolandiricilarin-yeni-yontemi-120163847",
-      "published": "2026-09-24T03:36:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:40:51.314165+00:00"
-    },
-    {
-      "id": "29d82eed96ce5d2f",
-      "source": "Habertürk",
-      "title": "Tera yöneticilerinin ifadeleri ortaya çıktı",
-      "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında tutuklanan Tera Yatırım Holding Yönetim Kurulu Başkanı Emre Tezmen, eski Tera Portföy Genel Müdürü Alper Öztürk ile Tera Grubu şirketlerinde bağımsız yönetim kurulu üyeliği yapan Kerem Alkin ve Emre Alkin'in savcılık ifadeleri ortaya çıktı",
-      "link": "https://www.haberturk.com/gundem/sermaye-piyasasi-sorusturmasinda-alkin-kardeslerin-ifadelerine-ulasildi-3914633",
-      "published": "2026-09-24T03:35:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:40:35.272765+00:00"
-    },
-    {
-      "id": "0602773a31ceaab6",
-      "source": "Bir Gün",
-      "title": "ABD ile Çin’den Busan mutabakatını uzatma kararı",
-      "summary": "ABD Hazine Bakanı Scott Bessent, Çin ile kasım ayında sona erecek Busan mutabakatının 10 Ocak’a kadar uzatılması konusunda anlaşmaya vardıklarını açıkladı. Bessent, uzatmanın iki ülkeye ekonomik alanda daha kapsamlı bir anlaşma için ek süre sağlayacağını belirtti.",
-      "link": "https://www.birgun.net/haber/abd-ile-cinden-busan-mutabakatini-uzatma-karari-736575",
-      "published": "2026-09-24T03:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T05:05:32.305661+00:00"
-    },
-    {
-      "id": "ee9a067e2bcc64a7",
-      "source": "Hürriyet",
-      "title": "Dünyanın en nefret edilen kulübü",
-      "summary": "O kötü şöhret yerinde duruyor mu diye merak ettim oraya gittim! Milwall taraftarları 'Bizi kimse sevmiyor' diyerek durumu kabullenmiş.",
-      "link": "https://www.hurriyet.com.tr/sporarena/yazarlar/ufuk-kaan-karacan/dunyanin-en-nefret-edilen-kulubu-43317401",
-      "published": "2026-09-24T03:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T05:15:40.394604+00:00"
-    },
-    {
-      "id": "6bf44eaee585903d",
-      "source": "OdaTV",
-      "title": "Odatv Husi Dışişleri Bakanı'nın toplantısına davet edildi: \"Mekke'ye saldırı\" iddiasına ne dedi",
-      "summary": "Dünyanın gözünü çevirdiği Husi-Suudi savaşında gerilim tırmanırken, Husilerin Dışişleri Bakanı Abdulvahid Ebu Ras Odatv&#039;nin de davet edildiği bir toplantı düzenledi. Mekke&#039;ye saldırı iddialarına yanıt veren Ebu Ras, Türkiye&#039;ye arabuluculuk ve bölgede daha aktif rol çağrısı yaptı.",
-      "link": "https://www.odatv.com/ozel/odatv-husi-disisleri-bakaninin-toplantisina-davet-edildi-120163831",
-      "published": "2026-09-24T03:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:06.689692+00:00"
-    },
-    {
-      "id": "433b43857686b2e2",
-      "source": "OdaTV",
-      "title": "Odatv Husi Dışişleri Bakanı'nın toplantısına davet edildi: \"'Mekke'ye saldırı\" iddiasına ne dedi",
-      "summary": "Dünyanın gözünü çevirdiği Husi-Suudi savaşında gerilim tırmanırken, Husilerin Dışişleri Bakanı Abdulvahid Ebu Ras Odatv&#039;nin de davet edildiği bir toplantı düzenledi. Mekke&#039;ye saldırı iddialarına yanıt veren Ebu Ras, Türkiye&#039;ye arabuluculuk ve bölgede daha aktif rol çağrısı yaptı.",
-      "link": "https://www.odatv.com/ozel/odatv-husi-disisleri-bakaninin-toplantisina-davet-edildi-120163831",
-      "published": "2026-09-24T03:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T05:55:46.508185+00:00"
-    },
-    {
-      "id": "868db335bf46009a",
-      "source": "OdaTV",
-      "title": "Odatv Husi Dışişleri Bakanı'nın toplantısına davet edildi: 'Mekke'ye saldırı iddiasına ne dedi",
-      "summary": "Dünyanın gözünü çevirdiği Husi-Suudi savaşında gerilim tırmanırken, Husilerin Dışişleri Bakanı Abdulvahid Ebu Ras Odatv&#039;nin de davet edildiği bir toplantı düzenledi. Mekke&#039;ye saldırı iddialarına yanıt veren Ebu Ras, Türkiye&#039;ye arabuluculuk ve bölgede daha aktif rol çağrısı yaptı.",
-      "link": "https://www.odatv.com/ozel/odatv-husi-disisleri-bakaninin-toplantisina-davet-edildi-120163831",
-      "published": "2026-09-24T03:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:30:53.069591+00:00"
-    },
-    {
-      "id": "ebb5e34fbb867721",
-      "source": "Habertürk",
-      "title": "Cumhurbaşkanı Erdoğan ABD'den ayrıldı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na katılmak ve çeşitli temaslarda bulunmak üzere geldiği ABD'nin New York şehrinden \"TUR\" uçağıyla İstanbul'a gitti",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-abd-den-ayrildi-3914669",
-      "published": "2026-09-24T03:22:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:25:27.468971+00:00"
-    },
-    {
-      "id": "89f1476a41a83529",
-      "source": "Halk TV",
-      "title": "11 yıl sonra bir ilk: Çin lideri ABD'de!",
-      "summary": "Çin Devlet Başkanı Şi Cinping, 11 yıl aradan sonra Amerika Birleşik Devletleri’ne gerçekleştirdiği resmi ziyaret kapsamında başkent Washington yakınlarındaki Andrews Hava Üssü&#039;ne ulaştı.",
-      "link": "https://halktv.com.tr/dunya/11-yil-sonra-bir-ilk-cin-lideri-abdde-1057109h",
-      "published": "2026-09-24T03:16:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:20:49.682521+00:00"
-    },
-    {
-      "id": "0002f82ac5cd9a22",
-      "source": "Habertürk",
-      "title": "Cumhurbaşkanı Erdoğan, Paşinyan ve Zelenskiy'le görüştü",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ermenistan Başbakanı Nikol Paşinyan'ı kabul etti. Cumhurbaşkanı Erdoğan ayrıca, Ukrayna Devlet Başkanı Volodimir Zelenskiy ile de Türkevi'nde bir araya geldi",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-pasinyan-ile-gorustu-3914644",
-      "published": "2026-09-24T03:13:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:20:33.475459+00:00"
-    },
-    {
-      "id": "e5ccf2f2d803e946",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Cumhurbaşkanı Erdoğan ABD'den ayrıldı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na katılmak ve çeşitli temaslarda bulunmak üzere geldiği ABD'nin New York şehrinden \"TUR\" uçağıyla İstanbul'a gitti.",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abdden-ayrildi/4067195",
-      "published": "2026-09-24T03:10:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:16:12.743086+00:00"
-    },
-    {
-      "id": "4c99baa8609bbab5",
-      "source": "Habertürk",
-      "title": "\"Entegrasyona 'evet', asimilasyona 'hayır' diyoruz\"",
-      "summary": "New York'ta, \"Türk ve Kardeş Topluluklar Buluşması\" etkinliğinde konuşan Cumhurbaşkanı Recep Tayyip Erdoğan, \"Avrupa başta olmak üzere dünyanın birçok bölgesinde maalesef sorunlar yaşanıyor. Müslümanlardan entegre olmaları değil, asimile olmaları bekleniyor. Biz ise entegrasyona 'evet', asimilasyonun her çeşidine 'hayır' diyoruz\" ifadelerini kullandı",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-entegrasyona-evet-asimilasyona-hayir-diyoruz-3914668",
-      "published": "2026-09-24T03:05:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:10:31.986789+00:00"
-    },
-    {
-      "id": "2d1b346128c3af39",
-      "source": "Türkiye Gazetesi",
-      "title": "Altında rota değişiyor mu? İşte yükselişi frenleyen 5 engel",
-      "summary": "Altının ons fiyatı bir hafta aranın ardından 4.300 doların altına geriledi. Yeni günde işlemler TSİ 06:00 itibarıyla 4.292 dolardan başlarken; yükselen ABD tahvil faizleri, güçlenen dolar, FED'den gelen şahin mesajlar, ABD ekonomisine dair kuvvetli veriler ve yeniden 100 doları aşan petrol fiyatı; altının kısa vadeli görünümünde 5 kritik engel olarak öne çıktı.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/altinda-rota-degisiyor-mu-iste-yukselisi-frenleyen-5-engel-1818137",
-      "published": "2026-09-24T03:04:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:10:37.802961+00:00"
-    },
-    {
-      "id": "4400f0e9ea912a22",
-      "source": "Türkiye Gazetesi",
-      "title": "ALTINDA ROTA DEĞİŞİYOR MU?",
-      "summary": "Altının ons fiyatı bir hafta aranın ardından 4.300 doların altına geriledi. Yeni günde işlemler TSİ 06:00 itibarıyla 4.292 dolardan başlarken; yükselen ABD tahvil faizleri, güçlenen dolar, FED'den gelen şahin mesajlar, ABD ekonomisine dair kuvvetli veriler ve yeniden 100 doları aşan petrol fiyatı; altının kısa vadeli görünümünde 5 kritik engel olarak öne çıktı.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/altinda-rota-degisiyor-mu-iste-yukselisi-frenleyen-5-engel-1818137",
-      "published": "2026-09-24T03:04:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:10:37.802991+00:00"
-    },
-    {
-      "id": "5d38eb052c4ef9f3",
-      "source": "Evrensel",
-      "title": "Çin Devlet Başkanı Şi Cinping, 11 yıl aradan sonra ABD'de",
-      "summary": "ABD Başkanı Trump tarafından karşılanan Çin Devlet Başkanı Şi, iki ülkenin rakip değil, ortak olması gerektiğini ifade etti. Liderler masasında ticaret tarifelerinden Ortadoğu'daki savaşın enerji sevkiyatına etkilerine kadar birçok başlık bulunuyor.",
-      "link": "https://www.evrensel.net/haber/6001833/cin-devlet-baskani-si-cinping-11-yil-aradan-sonra-abd-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-24T03:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:40:42.740464+00:00"
-    },
-    {
-      "id": "dd6c05d9a9dbf42e",
-      "source": "Finans Gündem",
-      "title": "Cumhurbaşkanı Recep Tayyip Erdoğan ABD'den ayrıldı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na katılmak ve çeşitli temaslarda bulunmak üzere geldiği ABD'nin New York şehrinden \"TUR\" uçağıyla İstanbul'a gitti.",
-      "link": "https://www.finansingundemi.com/haber/cumhurbaskani-recep-tayyip-erdogan-abdden-ayrildi/1909344",
-      "published": "2026-09-24T03:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:10:55.448403+00:00"
-    },
-    {
-      "id": "68acc222bc3f7922",
-      "source": "Yeni Akit",
-      "title": "Mekke Savunma İttifakı’nda kritik atama! İlk genel sekreter belli oldu",
-      "summary": "Türkiye, Suudi Arabistan ve Pakistan’ın imzaladığı Mekke Ortak Savunma Anlaşması’nın ardından kurumsallaşma yolunda bir adım daha atıldı. Mekke Savunma İttifakı’nın ilk genel sekreterliğine Pakistanlı emekli Korgeneral Nauman Mahmood getirildi. Mahmood, Riyad’da kurulacak Genel Sekreterliğin başına geçecek.",
-      "link": "https://www.yeniakit.com.tr/haber/mekke-savunma-ittifakinda-kritik-atama-ilk-genel-sekreter-belli-oldu-2024574.html",
-      "published": "2026-09-24T02:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:01:35.154924+00:00"
-    },
-    {
-      "id": "6f1bee745c8189c6",
-      "source": "Hürriyet",
-      "title": "Adriana Lima’ya ne oldu?",
-      "summary": "BU soruyu 3 yıl önce de sormuştuk.",
-      "link": "https://www.hurriyet.com.tr/yazarlar/fulya-soybas/adriana-limaya-ne-oldu-43317450",
-      "published": "2026-09-24T02:57:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:20:39.557816+00:00"
-    },
-    {
-      "id": "ca1f54848e909593",
-      "source": "Hürriyet",
-      "title": "BM kürsüsünde iki dünya: Yeni düzenin masasında Türkiye nerede?",
-      "summary": "New York’ta aynı kürsüden iki farklı dünya tarifi yapıldı.",
-      "link": "https://www.hurriyet.com.tr/yazarlar/hande-firat/bm-kursusunde-iki-dunya-yeni-duzenin-masasinda-turkiye-nerede-43317415",
-      "published": "2026-09-24T02:55:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T04:15:39.375750+00:00"
-    },
-    {
-      "id": "c622af0d3211ac87",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Cumhurbaşkanı Erdoğan, ABD'li düşünce kuruluşu temsilcileriyle bir araya geldi",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD'li düşünce kuruluşu temsilcileriyle bir araya geldi.",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abdli-dusunce-kurulusu-temsilcileriyle-bir-araya-geldi/4067194",
-      "published": "2026-09-24T02:45:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:50:35.360918+00:00"
-    },
-    {
-      "id": "da408341587c3891",
-      "source": "Halk TV",
-      "title": "Kendisini Erdoğan ve Gürlek'le montajlayıp 'nüfuz ticareti' yapan kişi tutuklandı",
-      "summary": "Yapay zekâ ile Cumhurbaşkanı Erdoğan ve Adalet Bakanı Akın Gürlek&#039;in yanına kendi görselini montajlayan Mehmet Çakmak tutuklandı. Çakmak&#039;ın, devletin üst kademeleriyle yakın ilişkisi olduğu yönünde izlenim oluşturmaya çalıştığı belirtildi.",
-      "link": "https://halktv.com.tr/turkiye/kendisini-erdogan-ve-gurlekle-montajlayip-nufuz-ticareti-yapan-kisi-yakalandi-1057108h",
-      "published": "2026-09-24T02:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:45:43.454584+00:00"
-    },
-    {
-      "id": "4d2027674556f0eb",
-      "source": "Türkiye Gazetesi",
-      "title": "200 TL'lik banknotun üzerine yazılanlar gündem oldu",
-      "summary": "Bir kuyumcuda alışveriş sırasında kullanılan 200 liralık banknotun üzerindeki el yazısı not gündem oldu. Yuvasının yıkıldığını öne süren bir kadının, sorumlu tuttuğu kişinin telefon numarasını ve ağır ifadelerini banknotun üzerine yazarak mesajını dolaşıma soktuğu iddia edildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/aldatilan-kadin-boyle-intikam-aldi-200-tllik-banknotun-uzerine-yazilanlar-gundem-oldu-1818135",
-      "published": "2026-09-24T02:43:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:45:35.680366+00:00"
-    },
-    {
-      "id": "4d2027674556f0eb",
-      "source": "Türkiye Gazetesi",
-      "title": "200 TL'lik banknotun üzerine yazılanlar gündem oldu",
-      "summary": "Bir kuyumcuda alışveriş sırasında kullanılan 200 liralık banknotun üzerindeki el yazısı not gündem oldu. Yuvasının yıkıldığını öne süren bir kadının, sorumlu tuttuğu kişinin telefon numarasını ve ağır ifadelerini banknotun üzerine yazarak mesajını dolaşıma soktuğu iddia edildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/aldatilan-kadin-boyle-intikam-aldi-200-tllik-banknotun-uzerine-yazilanlar-gundem-oldu-1818135",
-      "published": "2026-09-24T02:43:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:45:35.680399+00:00"
-    },
-    {
-      "id": "cf73492fbfc8b4fb",
-      "source": "Evrensel",
-      "title": "Adana'da inşaattaki köpeğe sopalı saldırı: Soruşturma başlatıldı",
-      "summary": "Adana'nın Sarıçam ilçesinde bir kişinin inşaatta yatan köpeğe sopayla şiddet uyguladığı anlar güvenlik kamerasına yansıdı. Yurttaşların ihbarı üzerine soruşturma başlatıldı.",
-      "link": "https://www.evrensel.net/haber/6001832/adanada-insaattaki-kopege-sopali-saldiri-sorusturma-baslatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-24T02:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:55:32.769910+00:00"
-    },
-    {
-      "id": "b5fba796bc52e4d7",
-      "source": "Bir Gün",
-      "title": "Yapay zekayla Erdoğan ve Gürlek’le fotoğraf oluşturdu: “Nüfuz ticareti” suçlamasıyla tutuklandı",
-      "summary": "Ankara’da, yapay zekayla oluşturduğu fotoğrafları kullanarak Cumhurbaşkanı Tayyip Erdoğan ve Adalet Bakanı Akın Gürlek ile ilişkili olduğu izlenimi yarattığı gerekçesiyle gözaltına alınan Mehmet Ç. tutuklandı. Şüpheli hakkında “nüfuz ticareti” ile “gerçeğe aykırı bilgileri alenen yayma” suçlamaları yöneltildi.",
-      "link": "https://www.birgun.net/haber/yapay-zekayla-erdogan-ve-gurlekle-fotograf-olusturdu-nufuz-ticareti-suclamasiyla-tutuklandi-736574",
-      "published": "2026-09-24T02:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T03:55:32.623538+00:00"
-    },
-    {
-      "id": "d2e4de86df36527c",
-      "source": "Türkiye Gazetesi",
-      "title": "Adalı'dan çarpıcı sözler: Şampiyonluk daha önemli",
-      "summary": "Beşiktaş Başkanı Serdal Adalı, \"Avrupa'da gidebileceğimiz yere kadar gideceğiz ama Beşiktaş taraftarı olarak lig şampiyonluğunu tercih ederim. Avrupa'da daha iddialı olacağımız zamanlar gelecek\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/serdal-adalidan-carpici-sozler-sampiyonluk-daha-onemli-1818134",
-      "published": "2026-09-24T02:24:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T05:50:36.743198+00:00"
-    },
-    {
-      "id": "e8b9dfce8387e06d",
-      "source": "Türkiye Gazetesi",
-      "title": "Serdal Adalı'dan çarpıcı sözler: Şampiyonluk daha önemli",
-      "summary": "Beşiktaş Başkanı Serdal Adalı, \"Avrupa'da gidebileceğimiz yere kadar gideceğiz ama Beşiktaş taraftarı olarak lig şampiyonluğunu tercih ederim. Avrupa'da daha iddialı olacağımız zamanlar gelecek\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/serdal-adalidan-carpici-sozler-sampiyonluk-daha-onemli-1818134",
-      "published": "2026-09-24T02:24:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:30:47.039568+00:00"
-    },
-    {
-      "id": "e8b9dfce8387e06d",
-      "source": "Türkiye Gazetesi",
-      "title": "Serdal Adalı'dan çarpıcı sözler: Şampiyonluk daha önemli",
-      "summary": "Beşiktaş Başkanı Serdal Adalı, \"Avrupa'da gidebileceğimiz yere kadar gideceğiz ama Beşiktaş taraftarı olarak lig şampiyonluğunu tercih ederim. Avrupa'da daha iddialı olacağımız zamanlar gelecek\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/serdal-adalidan-carpici-sozler-sampiyonluk-daha-onemli-1818134",
-      "published": "2026-09-24T02:24:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:30:47.039604+00:00"
-    },
-    {
-      "id": "0b232659c4e62ad6",
-      "source": "Halk TV",
-      "title": "THY'nin dev Boeing anlaşmasını Trump kutlayarak duyurdu",
-      "summary": "ABD Başkanı Donald Trump, Türkiye ve Bangladeş&#039;in toplam 111 Boeing uçağı satın alacağını, 50 uçak için de opsiyon bulunduğunu açıkladı. Trump, anlaşmaların on milyarlarca dolarlık satış anlamına geldiğini belirtti.",
-      "link": "https://halktv.com.tr/turkiye/thynin-dev-boeing-anlasmasini-trump-kutlayarak-duyurdu-1057107h",
-      "published": "2026-09-24T02:20:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:20:48.338971+00:00"
-    },
-    {
-      "id": "adfe46a41b23f359",
-      "source": "Finans Gündem",
-      "title": "ABD ve Çin, Busan mutabakatını uzatma konusunda anlaştı",
-      "summary": "ABD Hazine Bakanı Scott Bessent, Çin ile kasım ayında sona erecek Busan mutabakatının 10 Ocak'a kadar uzatılması konusunda anlaştıklarını belirtti.",
-      "link": "https://www.finansingundemi.com/haber/abd-ve-cin-busan-mutabakatini-uzatma-konusunda-anlasti/1909342",
-      "published": "2026-09-24T02:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:20:55.915555+00:00"
-    },
-    {
-      "id": "7fc59f69f88ed130",
-      "source": "Halk TV",
-      "title": "Siyaset ‘Ada’da boğuldu",
-      "summary": "Mehmet Tezkan yazdı: Siyaset ‘Ada’da boğuldu",
-      "link": "https://halktv.com.tr/makale/siyaset-adada-boguldu-1057096",
-      "published": "2026-09-24T02:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:05:39.869421+00:00"
-    },
-    {
-      "id": "7ea5ca668552398e",
-      "source": "Halk TV",
-      "title": "Merkel'in Erdoğan tespitleri",
-      "summary": "Uğur Ergan yazdı: Merkel&#039;in Erdoğan tespitleri",
-      "link": "https://halktv.com.tr/makale/merkelin-erdogan-tespitleri-1057094",
-      "published": "2026-09-24T02:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:05:39.869448+00:00"
-    },
-    {
-      "id": "92c2e2d2bbe2d976",
-      "source": "Bir Gün",
-      "title": "Öğrenciye icra, Federasyona mahsuplaşma",
-      "summary": "Yüzbinlerce öğrencinin banka hesaplarına KYK kredisini ödeyemediği için e-haciz uygulanırken Gençlik Bakanlığı’nın Türkiye Futbol Federasyonu’ndan alacaklarını tahsil edemediği belirlendi. Protokol gereği ödemesi gereken tutarı bakanlığa ödemeyen TFF’nin, “Stadyumlara yatırım yaptık” diyerek mahsuplaşma istediği öğrenildi.",
-      "link": "https://www.birgun.net/haber/ogrenciye-icra-federasyona-mahsuplasma-736542",
-      "published": "2026-09-24T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T05:55:40.550336+00:00"
-    },
-    {
-      "id": "d7f9f2c369089166",
-      "source": "Bir Gün",
-      "title": "Diyanet vergi zengini: 5,6 milyar TL’lik vergi geliri",
-      "summary": "Toplumu kutuplaştırıcı söylemleri ve dev bütçesiyle tartışılan Diyanet İşleri Başkanlığı’nın 2019-2025 dönemindeki vergi geliri açığa çıktı. Başkanlığın, dev bütçesinin yanı sıra, 2019-2025 döneminde toplam 5,6 milyar TL vergi geliri elde ettiği belirlendi.",
-      "link": "https://www.birgun.net/haber/diyanet-vergi-zengini-5-6-milyar-tllik-vergi-geliri-736554",
-      "published": "2026-09-24T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T05:55:40.550354+00:00"
-    },
-    {
-      "id": "dada0660b28fa06c",
-      "source": "Bir Gün",
-      "title": "Öğrencilere icra, TFF'ye mahsuplaşma",
-      "summary": "Yüz binlerce öğrencinin banka hesaplarına, ödenemeyen KYK borçları nedeniyle e-haciz uygulandı. Borçlarını yapılandıran çok sayıda öğrenci, yapılandırma taksitlerini dahi ödeyemedi. Gençlerin borçlarına yönelik çözüm üretilemezken Gençlik ve Spor Bakanlığı’nın mali denetimleri, çarpıcı bir gerçeği gün yüzüne çıkardı. Bakanlığın Türkiye Futbol Federasyonu’ndan (TFF) protokol kaynaklarını tahsil ede",
-      "link": "https://www.birgun.net/haber/ogrencilere-icra-tff-ye-mahsuplasma-736542",
-      "published": "2026-09-24T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T05:05:32.305830+00:00"
-    },
-    {
-      "id": "dea8004ffdf9c2e5",
-      "source": "Bir Gün",
-      "title": "Şiddet yapısal, önlemler polisiye",
-      "summary": "Manisa’daki okul saldırısı, eğitimde şiddetin önlenmesine yönelik politikaları bir kez daha gündeme getirdi. Raporlarda kalıcı çözümün polisiye önlemlerden değil yapısal sorunların giderilmesinden geçtiğine dikkat çekildi.",
-      "link": "https://www.birgun.net/haber/siddet-yapisal-onlemler-polisiye-736540",
-      "published": "2026-09-24T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T05:05:32.308483+00:00"
-    },
-    {
-      "id": "2babd7e392b3395c",
-      "source": "Bir Gün",
-      "title": "Elif Eralp ve medyanın bitmeyen köken merakı",
-      "summary": "Yasemin GİRİTLİ İNCEOĞLU Berlin seçimlerinin ardından Türkiye medyasının bir bölümünde, Elif Eralp’in hangi politikalarla öne çıktığından çok “aslında kim olduğu” merak konusu oldu. Türk mü, Çerkes mi, Alevi mi, Kürt mü, Kayserili mi? Oysa Eralp’in başarısını açıklayan temel soru, Berlin’de hangi toplumsal ve siyasal taleplere karşılık verdiğidir. Farklı yayınlar Eralp’i farklı aidiyetler üzerinde",
-      "link": "https://www.birgun.net/makale/elif-eralp-ve-medyanin-bitmeyen-koken-meraki-736564",
-      "published": "2026-09-24T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:05:31.146257+00:00"
-    },
-    {
-      "id": "2ca2aa9a9f4fd292",
-      "source": "Bir Gün",
-      "title": "Anlatılan bizim hikâyemiz değil! – 1",
-      "summary": "Edebiyat yazılarına bu hafta da devam edeceğim. Çünkü, BirGün’de son bölümü geçen hafta yayımlanan “Romanın/Edebiyatın Geri Dönüşü mü?” başlıklı seri yazılarımı kaleme alırken, içimde hem “eksik” bırakmama duygusunu hem de “haksızlık” yapmama dikkatini taşıdım. Beş bölümden oluşan bu yazılar bir tartışmayı kışkırttığı gibi, “kaza kurşunu” riskini de taşıyan bir alanda dolaşıyordu. Sorun olmadığını",
-      "link": "https://www.birgun.net/makale/anlatilan-bizim-hikayemiz-degil-1-736563",
-      "published": "2026-09-24T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:05:31.146609+00:00"
     }
   ]
 }

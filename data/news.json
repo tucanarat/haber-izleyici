@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-24T23:05:46.684876+00:00",
+  "last_updated": "2026-09-24T23:10:55.032513+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 548,
+  "new_items_this_run": 524,
   "items": [
+    {
+      "id": "c699b1da52f2f85e",
+      "source": "Yeniçağ",
+      "title": "YENİÇAĞ Gazetesi: Maaşlar yerinde sayıyor gıda fiyatları katlanıyor",
+      "summary": "YENİÇAĞ Gazetesi bugün, &#039;Maaşlar yerinde sayıyor gıda fiyatları katlanıyor&#039; başlığıyla çıktı.",
+      "link": "https://www.yenicaggazetesi.com/yenicag-gazetesi-maaslar-yerinde-sayiyor-gida-fiyatlari-katlaniyor-1075160h.htm",
+      "published": "2026-09-24T23:10:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T23:10:42.068567+00:00"
+    },
+    {
+      "id": "97830350f2ca35c6",
+      "source": "BBC News Türkçe",
+      "title": "Netanyahu'nun Cumhurbaşkanı Erdoğan'a sözlerine Türkiye'den sert tepkiler : 'Hadsiz ve alçak'",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, BM'de yaptığı konuşmada Cumhurbaşkanı Recep Tayyip Erdoğan'a 'tiran' yakıştırmasına bulunmasına Türkiye'den bir biri ardına sert tepkiler geldi.",
+      "link": "https://www.bbc.com/turkce/articles/ckeq8ez1n4wjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T23:09:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T23:10:54.782725+00:00"
+    },
     {
       "id": "b0c6fb8900ed7196",
       "source": "Yeniçağ",
@@ -787,6 +809,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T22:10:40.338247+00:00"
+    },
+    {
+      "id": "37094065668c14d3",
+      "source": "Finans Gündem",
+      "title": "Türkiye ile Fransa 6. kez karşı karşıya gelecek",
+      "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki ilk maçında yarın Kocaeli'de Fransa ile karşı karşıya gelecek.",
+      "link": "https://www.finansingundemi.com/haber/turkiye-ile-fransa-6-kez-karsi-karsiya-gelecek/1909447",
+      "published": "2026-09-24T22:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T23:10:49.986746+00:00"
     },
     {
       "id": "7eb3f86fb70a48b2",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T19:01:09.242824+00:00"
-    },
-    {
-      "id": "fad2acf995efc0c4",
-      "source": "Halk TV",
-      "title": "Osman Bektaş'tan deprem sonrası dikkat çeken soru: Baraj suyu fayları tetikliyor mu?",
-      "summary": "Osman Bektaş, Şanlıurfa&#039;da meydana gelen depremin ardından Atatürk Barajı ve Bozova hattına dikkat çekerek, baraj suyunun bölgedeki aktif fayları tetikleyip tetiklemediği sorusunu gündeme taşıdı.",
-      "link": "https://halktv.com.tr/turkiye/osman-bektastan-deprem-sonrasi-dikkat-ceken-soru-baraj-suyu-faylari-tetikliyor-mu-1057332h",
-      "published": "2026-09-24T18:59:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T19:01:09.242843+00:00"
-    },
-    {
-      "id": "e097a9f06c5e3bde",
-      "source": "Evrensel",
-      "title": "Hazine ve Maliye Bakanı Şimşek \"istifa\" iddialarını yalanladı",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, hakkında ortaya atılan istifa iddialarıyla ilgili yaptığı açıklamada; \"Şahsımla ilgili dolaşıma sokulan istifa iddiaları asılsızdır\" dedi.",
-      "link": "https://www.evrensel.net/haber/6001975/hazine-ve-maliye-bakani-simsek-istifa-iddialarini-yalanladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-24T18:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T19:15:45.632175+00:00"
-    },
-    {
-      "id": "1e822f4b29fc9a2b",
-      "source": "Gazete Pencere",
-      "title": "BM’de Netanyahu’ya protesto: Konuşmaya başladığı an salon boşaldı!",
-      "summary": "İsrail Başbakanı Binyamin Netanyahu’nun BM Genel Kurulu’ndaki konuşması salonda protesto edildi. Çok sayıda ülke temsilcisi salonu terk ederken Netanyahu, boşalan salonda konuşmasını sürdürdü.",
-      "link": "https://www.gazetepencere.com/dis-haber/bmde-netanyahuya-protesto-konusmaya-basladigi-an-salon-bosaldi-716721h",
-      "published": "2026-09-24T18:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T19:01:08.500806+00:00"
     }
   ]
 }

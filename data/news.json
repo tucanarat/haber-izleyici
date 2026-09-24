@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-09-24T03:55:56.779513+00:00",
+  "last_updated": "2026-09-24T04:01:09.802016+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 539,
+  "new_items_this_run": 511,
   "items": [
+    {
+      "id": "b371603e2fa5abbc",
+      "source": "Akşam",
+      "title": "OPUS 503 Marmaris'te sahne alacak! Üsküdar'a Gider İken şarkısını seslendirecek",
+      "summary": "OPUS 503, uluslararası turnesi kapsamında Marmaris'te müzikseverlerle buluşacak. Grup, Türk müziğinden \"Üsküdar'a Gider İken\" şarkısını da seslendirecek.",
+      "link": "https://www.aksam.com.tr/venus/opus-503-marmariste-sahne-alacak-uskudara-gider-iken-sarkisini-seslendirecek/haber-1700838",
+      "published": "2026-09-24T04:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T04:00:54.579041+00:00"
+    },
+    {
+      "id": "731697d9a9c777fa",
+      "source": "Yeniçağ",
+      "title": "Donald Trump duyurdu: Türkiye ve Bangladeş 111 Boeing uçağı alıyor",
+      "summary": "ABD Başkanı Donald Trump, Türkiye ve Bangladeş’in Amerikan havacılık devi Boeing’den devasa bir satın alma gerçekleştireceğini açıkladı.",
+      "link": "https://www.yenicaggazetesi.com/donald-trump-duyurdu-turkiye-ve-banglades-111-boeing-ucagi-aliyor-1074796h.htm",
+      "published": "2026-09-24T04:00:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T04:00:56.389512+00:00"
+    },
+    {
+      "id": "f326fdd3ca63ed5f",
+      "source": "Star",
+      "title": "Cumhurbaşkanı Erdoğan ABD'den ayrıldı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na katılmak ve çeşitli temaslarda bulunmak üzere geldiği ABD'nin New York şehrinden \"TUR\" uçağıyla İstanbul'a gitti.",
+      "link": "https://www.star.com.tr/politika/cumhurbaskani-erdogan-abdden-ayrildi-haber-2042179/",
+      "published": "2026-09-24T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T04:00:55.483707+00:00"
+    },
+    {
+      "id": "14f97ff2e4ec2b38",
+      "source": "Gazete Pencere",
+      "title": "Sorular çok",
+      "summary": "Prof. Dr. Serap Durusoy yazdı Sorular çok",
+      "link": "https://www.gazetepencere.com/yazarlar/sorular-cok-716569h",
+      "published": "2026-09-24T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T04:00:57.434191+00:00"
+    },
+    {
+      "id": "c7c12313da48b0ce",
+      "source": "Akşam",
+      "title": "Haydarpaşa'nın altı boşalmış",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Haydarpaşa Garı'ndaki restorasyon çalışmalarında temeldeki yaklaşık bin ahşap kazığın yüzde 80'inin yok olduğunu ve zeminde sıvılaşma riskine karşı fore kazık ve enjeksiyonla güçlendirme yapıldığını belirtti.",
+      "link": "https://www.aksam.com.tr/kultur-sanat/haydarpasanin-alti-bosalmis/haber-1700837",
+      "published": "2026-09-24T03:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T04:00:54.579083+00:00"
+    },
+    {
+      "id": "315cd1b734f89170",
+      "source": "OdaTV",
+      "title": "Amazon'dan 400 milyon dolarlık Süper Lig hazırlığı",
+      "summary": "Süper Lig&#039;in yeni yayın ihalesi için hazırlanan Amazon, Türkiye&#039;de futbol yayıncılığına girmek üzere harekete geçti. Şirketin, şartnamenin açıklanmasının ardından yaklaşık 400 milyon dolarlık bir teklif sunmaya hazırlandığı belirtiliyor.",
+      "link": "https://www.odatv.com/spor/amazondan-400-milyon-dolarlik-super-lig-hazirligi-120163850",
+      "published": "2026-09-24T03:57:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T04:00:57.662524+00:00"
+    },
     {
       "id": "31a71db54dc3cb0d",
       "source": "Halk TV",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-23T21:01:06.639255+00:00"
-    },
-    {
-      "id": "85dff0d8ead98728",
-      "source": "Evrensel",
-      "title": "THY ile Boeing 150 adet Boeing 737 MAX uçağı için anlaşma imzaladı. Cumhurbaşkanı Erdoğan imza törenine katıldı",
-      "summary": "Türk Hava Yolları (THY), uzun vadeli büyüme stratejisi doğrultusunda Boeing ile 150 adede kadar Boeing 737 MAX uçağını kapsayan sipariş anlaşmasını kesinleştirdi. İmza törenine Cumhurbaşkanı Tayyip Erdoğan katıldı.",
-      "link": "https://www.evrensel.net/haber/6001817/thy-ile-boeing-150-adet-boeing-737-max-ucagi-icin-anlasma-imzaladi-cumhurbaskani-erdogan-imza-torenine-katildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-23T20:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:15:35.709422+00:00"
-    },
-    {
-      "id": "c6e8e393e7de138a",
-      "source": "Diken",
-      "title": "Fon soruşturması: 14 kişi daha tutuklandı",
-      "summary": "Fon soruşturması: 14 kişi daha tutuklandı 23.09.2026 Diken İstanbul başsavcılığının yürüttüğü fon soruşturmasında 14 kişi daha tutuklandı. The post Fon soruşturması: 14 kişi daha tutuklandı appeared first on #site_linkat 23.09.2026 .",
-      "link": "https://www.diken.com.tr/fon-sorusturmasi-14-kisi-daha-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=fon-sorusturmasi-14-kisi-daha-tutuklandi",
-      "published": "2026-09-23T20:58:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:01:08.140553+00:00"
-    },
-    {
-      "id": "1257370cf5aa282d",
-      "source": "Halk TV",
-      "title": "Uzman isim İstanbul depremi için konuştu: 150 kilometrelik sismik boşluk tamamen kilitli olmayabilir",
-      "summary": "Prof. Dr. Osman Bektaş, İstanbul için büyük deprem riskiyle ilişkilendirilen yaklaşık 150 kilometrelik sismik boşluğa dikkat çekti. Bektaş, fayın sanıldığı gibi tamamen kilitli olmayabileceğini söyledi.",
-      "link": "https://halktv.com.tr/turkiye/uzman-isim-istanbul-depremi-icin-konustu-150-kilometrelik-sismik-bosluk-tamamen-kilitli-olmayabilir-1057092h",
-      "published": "2026-09-23T20:58:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:01:07.829083+00:00"
-    },
-    {
-      "id": "67d3ab53e00a4528",
-      "source": "Halk TV",
-      "title": "Devlet Bahçeli'den Mansur Yavaş'ın istifasına ilginç yaklaşım",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, Mansur Yavaş’ın butlan CHP&#039;sinden istifa etmesine ilişkin ilginç bir değerlendirmede bulundu.",
-      "link": "https://halktv.com.tr/gundem/devlet-bahceliden-mansur-yavasin-istifasina-ilginc-yaklasim-1057091h",
-      "published": "2026-09-23T20:58:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:01:07.829113+00:00"
-    },
-    {
-      "id": "745f1dd2845e6b2e",
-      "source": "Halk TV",
-      "title": "Devlet Bahçeli'den Mansur Yavaş'ın istifasına ilginç yaklaşım!",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, Mansur Yavaş’ın butlan CHP&#039;sinden istifa etmesine ilişkin ilginç bir değerlendirmede bulundu.",
-      "link": "https://halktv.com.tr/gundem/devlet-bahceliden-mansur-yavasin-istifasina-ilginc-yaklasim-1057091h",
-      "published": "2026-09-23T20:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:05:42.941706+00:00"
-    },
-    {
-      "id": "8c06b5fb4c59c7eb",
-      "source": "Ekonomim",
-      "title": "Bahçeli'den Mansur Yavaş'ın istifası sonrası açıklama",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş’ın CHP’den istifasına ilişkin açıllama yapıt.",
-      "link": "https://www.ekonomim.com/gundem/bahceliden-mansur-yavasin-istifasi-sonrasi-aciklama-haberi-920320",
-      "published": "2026-09-23T20:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:01:14.095695+00:00"
     }
   ]
 }

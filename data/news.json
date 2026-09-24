@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T23:35:52.851729+00:00",
+  "last_updated": "2026-09-24T23:41:06.297719+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 526,
   "items": [
+    {
+      "id": "10ec165b576fd196",
+      "source": "BBC News Türkçe",
+      "title": "Fon soruşturmasında sekiz kişi daha tutuklandı",
+      "summary": "Soruşturma kapsamında gözaltına alınan 21 şüpheli adliyeye sevk edildi. Şüphelilerden 8'i tutuklanırken, 2 kişi adli kontrol şartıyla serbest bırakıldı. 11 şüphelinin ise Sulh Ceza Hakimliği'ndeki ifadeleri sürüyor.",
+      "link": "https://www.bbc.com/turkce/articles/cqkg08p7v814o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24T23:35:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T23:41:05.559932+00:00"
+    },
     {
       "id": "66f88fd7714a4643",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T20:05:32.399934+00:00"
-    },
-    {
-      "id": "3d9ba41a36e1699b",
-      "source": "Star",
-      "title": "Husiler: Riyad'da hassas bir noktayı ve Aramco'ya ait tesisi hedef aldık",
-      "summary": "Yemen'deki Husiler: Suudi Arabistan'ın başkenti Riyad'daki hassas bir noktayı ve Yenbu bölgesindeki petrol şirketi Aramco'ya ait tesisi hedef aldık",
-      "link": "https://www.star.com.tr/dunya/husiler-riyadda-hassas-bir-noktayi-ve-aramcoya-ait-tesisi-hedef-aldik-haber-2042393/",
-      "published": "2026-09-24T19:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T19:10:43.185261+00:00"
     }
   ]
 }

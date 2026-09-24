@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-09-24T20:36:33.702494+00:00",
+  "last_updated": "2026-09-24T20:40:55.750241+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 554,
+  "new_items_this_run": 555,
   "items": [
+    {
+      "id": "bcd8dcdcee6e2736",
+      "source": "Yeni Şafak",
+      "title": "Aydın’da trafik kazası: 10 yaralı",
+      "summary": "Aydın’ın İncirliova ilçesinde beton mikseri karşı şeride geçerek iki servis aracına çarpıp tarlaya uçarken, kazada 10 kişi yaralandı.",
+      "link": "https://www.yenisafak.com/galeri/gundem/aydinda-trafik-kazasi-10-yarali-4858791",
+      "published": "2026-09-24T20:39:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:39.591635+00:00"
+    },
+    {
+      "id": "86aeb23a3f790856",
+      "source": "Akşam",
+      "title": "Anadolu Efes, Barcelona deplasmanında kayıp! EuroLeague'e mağlubiyetle başladı",
+      "summary": "EuroLeague'in açılış karşılaşmasında temsilcimiz Anadolu Efes, İspanya'da oynanan karşılaşmada Barcelona'ya 89-82 mağlup oldu.",
+      "link": "https://www.aksam.com.tr/spor/anadolu-efes-barcelona-deplasmaninda-kayip-euroleaguee-maglubiyetle-basladi/haber-1701161",
+      "published": "2026-09-24T20:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:38.865234+00:00"
+    },
+    {
+      "id": "0b6eb78bf4aad5bc",
+      "source": "Star",
+      "title": "Önce BM ardından sosyal medya! Tepkiler çığ gibi: Yüzyılın Katili Netanyahu",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun Birleşmiş Milletler (BM) Genel Kurulu'ndaki konuşması öncesi ve sırasında sosyal medyada Netanyahu'ya yönelik tepkiler geniş yankı buldu.",
+      "link": "https://www.star.com.tr/dunya/once-bm-ardindan-sosyal-medya-tepkiler-cig-gibi-yuzyilin-katili-netanyahu-haber-2042406/",
+      "published": "2026-09-24T20:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:39.804501+00:00"
+    },
+    {
+      "id": "0a15fb3ad45673e7",
+      "source": "Gazete Pencere",
+      "title": "'Usulsüz vatandaşlık' soruşturmasında 26 kişi tutuklandı",
+      "summary": "Türk vatandaşlığı için muvazaalı gayrimenkul satışları ile usulsüz işlemler yaptığı iddiasıyla gözaltına alınan 52 şüpheliden 26'sının tutuklanmasına karar verildi.",
+      "link": "https://www.gazetepencere.com/gundem/usulsuz-vatandaslik-sorusturmasinda-26-kisi-tutuklandi-716728h",
+      "published": "2026-09-24T20:38:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:42.328630+00:00"
+    },
+    {
+      "id": "8206afd649d99747",
+      "source": "Cumhuriyet",
+      "title": "Anadolu Efes, Barcelona deplasmanında kayıp! EuroLeague'e mağlubiyet ile başladı...",
+      "summary": "Anadolu Efes, EuroLegue'in ilk haftasında deplasmanda karşılaştığı Barcelona'ya 89-82 mağlup oldu.",
+      "link": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-barcelona-deplasmaninda-kayip-euroleague-e-maglubiyet-ile-basladi-2540778",
+      "published": "2026-09-24T20:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:34.726252+00:00"
+    },
+    {
+      "id": "f884168fc2d8d7f6",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "ABD Senatosu, İran'a saldırıların sona erdirilmesine yönelik karar tasarısını reddetti",
+      "summary": "ABD Senatosu, Başkan Donald Trump'a ABD'nin İran'a saldırılarını sona erdirme çağrısı yapan karar tasarısını reddetti.",
+      "link": "https://www.aa.com.tr/tr/dunya/abd-senatosu-irana-saldirilarin-sona-erdirilmesine-yonelik-karar-tasarisini-reddetti/4068600",
+      "published": "2026-09-24T20:36:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:34.503902+00:00"
+    },
+    {
+      "id": "37db280335417ad1",
+      "source": "Finans Gündem",
+      "title": "İngiltere'de yargıyla polisi karşı karşıya getiren 'çocuk istismarı' davası",
+      "summary": "İngiltere'de çocukların ve kadınların görüntülerini kullanarak cinsel içerikli yapay zeka görüntüleri üreten bir kişi, 2 yıl 4 ay hapis cezasına çarptırılırken; Londra Metropolitan Polisi, kararın hayal kırıklığı olduğunu açıkladı.",
+      "link": "https://www.finansingundemi.com/haber/ingilterede-yargiyla-polisi-karsi-karsiya-getiren-cocuk-istismari-davasi/1909438",
+      "published": "2026-09-24T20:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:49.426071+00:00"
+    },
     {
       "id": "53b3a98e45876fe3",
       "source": "Akşam",
@@ -17,6 +94,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T20:36:12.961866+00:00"
+    },
+    {
+      "id": "017763ac355c1fe9",
+      "source": "Akşam",
+      "title": "13 ilde usulsüz vatandaşlık operasyonu: 26 şüpheli tutuklandı",
+      "summary": "İstanbul merkezli 13 ilde düzenlenen 'usulsüz vatandaşlık' soruşturmasında 26 şüpheli tutuklandı",
+      "link": "https://www.aksam.com.tr/guncel/13-ilde-usulsuz-vatandaslik-operasyonu/haber-1701159",
+      "published": "2026-09-24T20:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:38.865302+00:00"
     },
     {
       "id": "288f05d141b7072d",
@@ -50,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T20:36:06.035068+00:00"
+    },
+    {
+      "id": "5265489ecaa3a148",
+      "source": "Habertürk",
+      "title": "Usulsüz vatandaşlıkta 26 tutuklama",
+      "summary": "Usulsüz vatandaşlık soruşturmasında 26 şüpheli tutuklandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-usulsuz-vatandaslikta-26-tutuklama-3914931",
+      "published": "2026-09-24T20:33:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:32.203166+00:00"
     },
     {
       "id": "e0b1fecbc2ee61e8",
@@ -94,6 +193,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T20:36:15.808940+00:00"
+    },
+    {
+      "id": "ad564fc02a52eded",
+      "source": "Finans Gündem",
+      "title": "Bodrum'da makilik alanda yangın çıktı",
+      "summary": "Bodrum'da maki ve otluk alanda çıkan yangını söndürme çalışmaları sürüyor.",
+      "link": "https://www.finansingundemi.com/haber/bodrumda-makilik-alanda-yangin-cikti/1909437",
+      "published": "2026-09-24T20:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T20:40:49.426101+00:00"
     },
     {
       "id": "ab55da96737423a8",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T16:40:54.623580+00:00"
-    },
-    {
-      "id": "8b50ed9fda3a8614",
-      "source": "Star",
-      "title": "Adrien Rabiot: Uluslar Ligi'ni kazanmak ve lider bitirmek istiyoruz",
-      "summary": "Fransa Milli Takımı oyuncusu Adrien Rabiot, Türkiye maçı öncesi açıklamalarda bulundu. Rabiot, Uluslar Ligi'ni kazanarak grubu lider tamamlamak istediklerini söyledi.",
-      "link": "https://www.star.com.tr/spor/adrien-rabiot-uluslar-ligini-kazanmak-ve-lider-bitirmek-istiyoruz-haber-2042373/",
-      "published": "2026-09-24T16:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:40:52.715877+00:00"
-    },
-    {
-      "id": "6b7b64738a0c5da5",
-      "source": "Yeniçağ",
-      "title": "Otomobilin içinde ölümcül tehlike: 2 kişi zehirlenerek hayatını kaybetti",
-      "summary": "Ankara&#039;da çalışır haldeki otomobilde hareketsiz bulunan Berkay Yitkin ve Emre Aktunç&#039;un egzozdan araç içine sızan karbonmonoksit gazından zehirlenerek hayatını kaybettiği belirlendi. Renksiz ve kokusuz olan bu tehlikeye karşı alınabilecek önlemler de yeniden gündeme geldi.",
-      "link": "https://www.yenicaggazetesi.com/otomobilin-icinde-olumcul-tehlike-2-kisi-zehirlenerek-hayatini-kaybetti-1075095h.htm",
-      "published": "2026-09-24T16:39:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:40:54.623609+00:00"
-    },
-    {
-      "id": "273ec09c2e31d191",
-      "source": "Finans Gündem",
-      "title": "Bodrum'daki rüşvet operasyonunda Liman Başkanı tutuklandı",
-      "summary": "Bodrum'da düzenlenen rüşvet operasyonunda gözaltına alınan Bodrum Liman Başkanı tutuklandı, diğer zanlı adli kontrol şartıyla serbest bırakıldı. Operasyonda yüksek miktarda döviz, nakit para ve ruhsatsız tabanca ele geçirildi.",
-      "link": "https://www.finansingundemi.com/haber/bodrumdaki-rusvet-operasyonunda-liman-baskani-tutuklandi/1909422",
-      "published": "2026-09-24T16:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:50:53.213310+00:00"
-    },
-    {
-      "id": "29fd4bccecec4543",
-      "source": "CNBC-e",
-      "title": "Milyonlarca dolar çalındı: Kripto para kumarhanesi saldırı sonrası kapatıldı",
-      "summary": "Kripto bahis platformu Duelbits, sıcak cüzdanlarından yaklaşık 7 milyon dolar değerinde kripto varlığın çekilmesinin ardından sitesini çevrimdışı aldı. Çalınan fonların yaklaşık 6 milyon dolarlık bölümü tek bir Ethereum adresinde toplandı.",
-      "link": "https://www.cnbce.com/kripto/milyonlarca-dolar-calindi-kripto-para-kumarhanesi-saldiri-sonrasi-kapatildi-h37990",
-      "published": "2026-09-24T16:38:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:41:04.345292+00:00"
-    },
-    {
-      "id": "5d6c51bb6bc1b798",
-      "source": "DonanımHaber",
-      "title": "Activision, Halo serisini yeniden başlatmaya hazırlanıyor",
-      "summary": "Activision’ın Halo serisini yeniden başlatacağı iddia edildi. Yeni oyunun mevcut hikayeyi sürdürmeyeceği, tek oyunculu ve çok oyunculu modlar içereceği belirtiliyor.",
-      "link": "https://www.donanimhaber.com/activision-halo-serisini-yeniden-baslatmaya-hazirlaniyor--210868",
-      "published": "2026-09-24T16:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:41:09.351086+00:00"
-    },
-    {
-      "id": "7b661011402f9ebb",
-      "source": "Ekonomim",
-      "title": "Türkiye’nin deniz üstü RES projesi Almanya’da tanıtıldı",
-      "summary": "Türkiye Rüzgar Enerjisi Birliği (TÜREB) bu alanda Türkiye’nin ilk yatırımı olacak deniz üstü rüzgar enerji santrali (RES) projesini Almanya’nın Hamburg şehrinde düzenlenen konferans ve fuarda tanıttı.",
-      "link": "https://www.ekonomim.com/sektorler/enerji/turkiyenin-deniz-ustu-res-projesi-almanyada-tanitildi-haberi-920585",
-      "published": "2026-09-24T16:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:41:03.698386+00:00"
-    },
-    {
-      "id": "3d8c3ba85ec5b11d",
-      "source": "Gazete Pencere",
-      "title": "Özgür Özel Alevi kurum temsilcileriyle bir araya geldi",
-      "summary": "YENİ Parti lideri Özgür Özel, Alevi Bektaşi Federasyonu, Hacı Bektaş Veli Anadolu Kültür Vakfı, Pir Sultan Abdal Kültür Derneği ve Alevi Kültür Dernekleri başkanlarıyla bir araya geldi.",
-      "link": "https://www.gazetepencere.com/gundem/ozgur-ozel-alevi-kurum-temsilcileriyle-bir-araya-geldi-716711h",
-      "published": "2026-09-24T16:36:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:40:56.354094+00:00"
-    },
-    {
-      "id": "0f79bf2ef590fa4e",
-      "source": "Habertürk",
-      "title": "17 yaralı! Antalya'da zincirleme kaza",
-      "summary": "Antalya'nın Manavgat ilçesinde tur midibüsü, kamyonet ve otomobilin karıştığı zincirleme kazada 17 kişi yaralandı",
-      "link": "https://www.haberturk.com/gundem/17-yarali-antalya-da-zincirleme-kaza-3914893",
-      "published": "2026-09-24T16:36:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:45:32.975201+00:00"
-    },
-    {
-      "id": "e3ef0e08386193cb",
-      "source": "Türkiye Gazetesi",
-      "title": "5,4’lük deprem sonrası paylaşıldı, gerçek ortaya çıktı",
-      "summary": "Şanlıurfa Karaköprü'deki 5,4'lük deprem sonrası Diyarbakır'da zeminin çöktüğü iddia edilmişti. Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), sosyal medyada paylaşılan o görüntülerle ilgili gerçeği açıkladı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/sanliurfadaki-deprem-sonrasi-diyarbakirda-yol-coktu-denilmisti-o-goruntulerle-ilgili-1818328",
-      "published": "2026-09-24T16:35:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:40:49.354811+00:00"
-    },
-    {
-      "id": "522b22e6e01d9e1e",
-      "source": "Cumhuriyet",
-      "title": "Başaran Aksu ve avukat Mürsel Ünder hakkında soruşturma",
-      "summary": "Bağımsız Maden İşçileri Sendikası Örgütlenme Uzmanı Başaran Aksu ve Umut-Sen Hukuk Kolektifinden Avukat Mürsel Ünder hakkında, duruşmada sarf ettikleri sözler gerekçe gösterilerek soruşturma başlatıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/basaran-aksu-ve-avukat-mursel-under-hakkinda-sorusturma-2540726",
-      "published": "2026-09-24T16:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T16:40:44.733021+00:00"
     }
   ]
 }

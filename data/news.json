@@ -1,12 +1,243 @@
 {
-  "last_updated": "2026-09-24T07:20:52.225813+00:00",
+  "last_updated": "2026-09-24T07:25:47.937947+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 543,
+  "new_items_this_run": 548,
   "items": [
+    {
+      "id": "4f2af64252d3094d",
+      "source": "CNBC-e",
+      "title": "Mercedes'ten işçilik maliyetlerini düşürme planı: Alman devi 2 fabrikasını kapatma riskiyle karşı karşıya",
+      "summary": "Mercedes-Benz, Almanya'daki üretim tesislerinde işgücü maliyetlerini düşürmek için 800 milyon euroya kadar tasarruf hedefliyor. Gündemde çalışma süresinin uzatılması, ikramiyelerin azaltılması veya kaldırılması bulunurken, bir binek araç ve bir powertrain fabrikasının kapanması da gündeme geldi.",
+      "link": "https://www.cnbce.com/otomotiv/aksi-takdirde-mercedes-2-fabrikasini-kapatacak-alman-devden-tasarruf-plani-g37957",
+      "published": "2026-09-24T07:25:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:41.805625+00:00"
+    },
+    {
+      "id": "82bc6ed4557413a8",
+      "source": "Akşam",
+      "title": "Bakan Tekin: (Manisa saldırısı) Saldırı okulda olmadı, çok kapsamlı tedbirler alınıyor",
+      "summary": "Bakan Tekin: (Manisa saldırısı) Saldırı okulda olmadı, çok kapsamlı tedbirler alınıyor",
+      "link": "https://www.aksam.com.tr/guncel/bakan-tekin-manisa-saldirisi-saldiri-okulda-olmadi-cok-kapsamli-tedbirler-aliniyor/haber-1700923",
+      "published": "2026-09-24T07:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:32.215136+00:00"
+    },
+    {
+      "id": "5184948a36ef1de7",
+      "source": "Halk TV",
+      "title": "Milli Takım’da Montella sıkıntısı",
+      "summary": "UEFA Uluslar A Ligi’ndeki ilk maçında yarın dünya devi Fransa ile karşılaşacak olan A Milli Futbol Takımımızda, zorlu randevu öncesi adeta alarm veriliyor.",
+      "link": "https://halktv.com.tr/spor/milli-takimda-montella-sikintisi-1057154h",
+      "published": "2026-09-24T07:24:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:35.609986+00:00"
+    },
+    {
+      "id": "4989ffda4e7f6f33",
+      "source": "Karar",
+      "title": "Yaşlılarda ölüm riskini ortaya çıkaran soru: Yürümekte zorlanıyor musunuz?",
+      "summary": "Yaşlı yetişkinlerin sağlık durumunu değerlendirmek için karmaşık testlere her zaman ihtiyaç olmayabilir. Yeni bir araştırmaya göre, kişinin yürümekte güçlük çekip çekmediğini sormak; ölüm riski, hastaneye yatış ve günlük yaşamda bağımsızlık gibi birçok sağlık göstergesi hakkında önemli ipuçları sağlayabilir.",
+      "link": "https://www.karar.com/saglik-haberleri/yaslilarda-olum-riskini-ortaya-cikaran-soru-yurumekte-zorlaniyor-2073971",
+      "published": "2026-09-24T07:24:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:33.588562+00:00"
+    },
+    {
+      "id": "1eea3ffe781439e4",
+      "source": "Akşam",
+      "title": "Küçükbaş üreticisine 25,7 milyon liralık destek",
+      "summary": "Tarım ve Orman Bakanlığı tarafından hayvancılığın geliştirilmesi ve sürdürülebilirliğin güçlendirilmesi amacıyla küçükbaş üreticisine 25,7 milyon liralık destekte bulunacak.",
+      "link": "https://www.aksam.com.tr/ekonomi/kucukbas-ureticisine-257-milyon-liralik-destek/haber-1700922",
+      "published": "2026-09-24T07:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:32.215178+00:00"
+    },
+    {
+      "id": "e750fc11da0fd4c8",
+      "source": "Halk TV",
+      "title": "Reytingler sonrası final kararı! Sadece 5 bölüm dayanabildi",
+      "summary": "Alınan reyting sonuçlarının ardından, Kenan İmirzalıoğlu ile Bergüzar Korel’i yıllar sonra yeniden buluşturan A.B.İ. dizisi için final kararı alındı.",
+      "link": "https://halktv.com.tr/magazin/reytingler-sonrasi-final-karari-sadece-5-bolum-dayanabildi-1057153h",
+      "published": "2026-09-24T07:23:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:35.610035+00:00"
+    },
+    {
+      "id": "6d533841c12def02",
+      "source": "Akşam",
+      "title": "TFF'den İlhan Fakılı açıklaması",
+      "summary": "Türkiye Futbol Federasyonu, A Milli Takım aday kadrosunda bulunan İlhan Fakılı'nın Ümit Milli Takım'ın Ukrayna maçı kadrosuna dahil edildiğini açıkladı.",
+      "link": "https://www.aksam.com.tr/spor/tffden-ilhan-fakili-aciklamasi/haber-1700921",
+      "published": "2026-09-24T07:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:32.215208+00:00"
+    },
+    {
+      "id": "aeef4b92093ead5b",
+      "source": "Kısa Dalga",
+      "title": "Yahşihan Belediyesi’ne operasyon: AKP’li ve MHP’li eski başkanlar dahil 31 kişi gözaltında",
+      "summary": "Yahşihan Belediyesi'ne yönelik yolsuzluk soruşturmasında, AKP'li eski Belediye Başkanı Ahmet Sungur ile MHP'li eski Belediye Başkanı Osman Türkyılmaz’ın da aralarında bulunduğu 36 şüpheliye yönelik Kırıkkale merkezli 4 ilde eş zamanlı operasyon düzenlendi.",
+      "link": "https://kisadalga.net/haber/gundem/yahsihan-belediyesine-operasyon-akpli-ve-mhpli-eski-baskanlar-dahil-31-kisi-gozaltinda-140547",
+      "published": "2026-09-24T07:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:36.509424+00:00"
+    },
+    {
+      "id": "9e2a2d2e2a8ab6dd",
+      "source": "Ekonomim",
+      "title": "AMB’den faiz mesajı: Avrupa ekonomisi beklenenden daha güçlü",
+      "summary": "Avrupa Merkez Bankası (AMB) Yönetim Kurulu üyesi ve Avusturya Merkez Bankası Başkanı Martin Kocher, Avrupa ekonomisinin beklenenden daha dayanıklı bir görünüm sergilediğini belirtti.",
+      "link": "https://www.ekonomim.com/kuresel-ekonomi/ambden-faiz-mesaji-avrupa-ekonomisi-beklenenden-daha-guclu-haberi-920406",
+      "published": "2026-09-24T07:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:40.435138+00:00"
+    },
+    {
+      "id": "0bb672e666d49a1e",
+      "source": "Cumhuriyet",
+      "title": "Eminönü'nde taciz ettikleri 2 kadını darbeden sanıklar 2'nci kez hakim karşısında: Tehdit edildim ölmek istemiyorum",
+      "summary": "Bursa'dan İstanbul’a gelen Aslıhan Yıldırım ile kız kardeşi Gözde Yıldırım iddiaya göre, 31 Aralık 2024'te Galata Köprüsü'nde 5 kişi tarafından önce sözlü tacize ardından da saldırıya uğradı. Olayla ilgili tutuklanan 2 kişi ilk duruşmada adli kontrol şartıyla serbest bırakıldı.Aslıhan Yıldırım, halen farklı suçlardan tutuklu bulunan ve bugün hakim karşısına çıkacak 2 şüpheli için \"Korkuyorum, hem ",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/eminonu-nde-taciz-ettikleri-2-kadini-darbeden-saniklar-2-nci-kez-hakim-karsisinda-tehdit-edildim-olmek-istemiyorum-2540544",
+      "published": "2026-09-24T07:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:29.124127+00:00"
+    },
+    {
+      "id": "04bb0ddccfb6a85b",
+      "source": "Star",
+      "title": "Yahşihan Belediyesi'ne yolsuzluk operasyonu: 4 ilde düğmeye basıldı",
+      "summary": "Yahşihan Belediyesine yönelik yürütülen yolsuzluk soruşturmasında 36 şüpheliye yönelik Kırıkkale merkezli 4 ilde eş zamanlı operasyon düzenlendi. Operasyonda 31 şüpheli gözaltına alındı.",
+      "link": "https://www.star.com.tr/guncel/yahsihan-belediyesine-yolsuzluk-operasyonu-4-ilde-dugmeye-basildi-haber-2042226/",
+      "published": "2026-09-24T07:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:32.970733+00:00"
+    },
+    {
+      "id": "bae375617f3795e5",
+      "source": "Halk TV",
+      "title": "Trump'a Türk iş adamı damat geliyor",
+      "summary": "Trump’ın eski kişisel avukatı Alina Habba ile Türk iş insanı Turhan Mildon, bu hafta sonu New York’ta evleniyor. Habba ile Mildon’un evliliği, iki farklı çevreyi aynı düğünde buluşturacak.",
+      "link": "https://halktv.com.tr/dunya/trumpa-turk-is-adami-damat-geliyor-1057152h",
+      "published": "2026-09-24T07:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:35.610080+00:00"
+    },
+    {
+      "id": "168e98b5441c9967",
+      "source": "Ekonomim",
+      "title": "Asya borsaları Japonya hariç negatif seyrediyor",
+      "summary": "Asya borsaları, tahvil piyasalarındaki satış baskısının derinleşmesiyle Japonya hariç negatif seyrediyor.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/asya-borsalari-japonya-haric-negatif-seyrediyor-haberi-920405",
+      "published": "2026-09-24T07:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:40.435176+00:00"
+    },
+    {
+      "id": "92b5025856929202",
+      "source": "Ekonomim",
+      "title": "Honda ABD’de düğmeye bastı: 2,5 milyar dolarlık hibrit yatırımı",
+      "summary": "Japon otomotiv üreticisi Honda, ABD&#039;nin Ohio eyaletinde hibrit araç üretimine yönelik yeni bir fabrika kurmaya hazırlanıyor. Yaklaşık 1,9 ila 2,53 milyar dolar yatırım yapılması planlanan tesiste üretimin 2030&#039;da başlaması bekleniyor.",
+      "link": "https://www.ekonomim.com/dunya/honda-abdde-dugmeye-basti-25-milyar-dolarlik-hibrit-yatirimi-haberi-920407",
+      "published": "2026-09-24T07:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:40.435215+00:00"
+    },
+    {
+      "id": "3cbc2c541fc62022",
+      "source": "Gazete Pencere",
+      "title": "Erdoğan ile Trump ABD'de neden görüşmedi?",
+      "summary": "ABD’nin Ankara Büyükelçisi Tom Barrack, S-400 ve F-35 dosyasına ilişkin Kongre sürecine dikkat çekti. Türkiye-ABD savunma işbirliğinin önemini vurgulayan Barrack, Erdoğan-Trump ilişkisi hakkında da dikkat çeken mesajlar verdi.",
+      "link": "https://www.gazetepencere.com/dis-haber/erdogan-ile-trump-abdde-neden-gorusmedi-716625h",
+      "published": "2026-09-24T07:21:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:35.207277+00:00"
+    },
+    {
+      "id": "ee341fe8e3442dfe",
+      "source": "Yeni Şafak",
+      "title": "Ümit Boyner’in oğlu Sinan Bolak 'İBB soruşturması' kapsamında gözaltına alındı",
+      "summary": "İstanbul Büyükşehir Belediyesi’ne (İBB) yönelik soruşturma kapsamında hakkında yakalama kararı bulunan Ümit Boyner’in oğlu Mithat Sinan Bolak, İstanbul Havalimanı’nda gözaltına alındı.",
+      "link": "https://www.yenisafak.com/gundem/umit-boynerin-oglu-sinan-bolak-ibb-sorusturmasi-kapsaminda-gozaltina-alindi-4858589",
+      "published": "2026-09-24T07:21:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:32.636495+00:00"
+    },
+    {
+      "id": "dcf6f57ce7ada80e",
+      "source": "Milliyet",
+      "title": "Son dakika...Terminatör zirvesi! Trump'ın Xi'yi karşıladığı törene damga vuran anlar",
+      "summary": "Çin Devlet Başkanı Xi Jinping, 11 yıl aradan sonra ABD'ye resmi ziyarette bulundu. Devlet Başkanı Xi ve eşi, Maryland eyaletindeki Andrews Hava Üssü'nde ABD Başkanı Donald Trump ve eşi Melania Trump tarafından karşılandı. Xi, ülkeye varışında yaptığı yazılı açıklamada, Çin ve ABD'nin rakip değil, ortak olması gerektiği belirtti. \"Çin halkının büyük dirilişi\" ile \"Amerika'yı yeniden büyük yapma\" vi",
+      "link": "https://www.milliyet.com.tr/dunya/11-yil-sonra-abdde-trump-cin-devlet-baskani-jingpingi-etkileyemedi-7666466",
+      "published": "2026-09-24T07:21:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:31.668660+00:00"
+    },
+    {
+      "id": "66bb64c9f9d11146",
+      "source": "Gazete Pencere",
+      "title": "UEFA Uluslar Ligi'nde günün maçları",
+      "summary": "UEFA Uluslar Ligi ilk hafta mücadelesi bugün oynanacak 8 karşılaşmayla başlayacak.",
+      "link": "https://www.gazetepencere.com/spor/uefa-uluslar-liginde-gunun-maclari-716624h",
+      "published": "2026-09-24T07:21:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:35.207309+00:00"
+    },
+    {
+      "id": "adf8ed44ae380b61",
+      "source": "Cumhuriyet",
+      "title": "Son Dakika... MSB'den Yunanistan'a 'adalar' mesajı: 'Yunanistan barışa zarar verebilecek faaliyetlerden kaçınmalı'",
+      "summary": "Son dakika haberi... Milli Savunma Bakanlığı, Yunanistan'ın adaları silahlandırmasıyla ilgili \"Beklentimiz, Yunanistan’ın bölgede barış ve istikrara zarar verebilecek bu tür faaliyetlerden kaçınması ve antlaşmalardan kaynaklanan yükümlülüklerine riayet etmesidir\" açıklamasını yaptı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-msb-den-yunanistan-a-adalar-mesaji-yunanistan-barisa-zarar-verebilecek-faaliyetlerden-kacinmali-2540543",
+      "published": "2026-09-24T07:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:29.124183+00:00"
+    },
+    {
+      "id": "3547860cd9c96901",
+      "source": "Yeni Yaşam",
+      "title": "Ayşegül Doğan: Abdullah Öcalan’ın doğrudan kamuoyuna seslenebileceği gelişmeleri bekliyoruz",
+      "summary": "Silahsızlanma ve demokratik siyasete geçiş sürecinde önümüzdeki günlerde atılması gereken adımları değerlendiren DEM Parti Sözcüsü Ayşegül Doğan, Abdullah Öcalan’ın doğrudan temas olanaklarına kadar birçok başlıkta adım atılmasını beklediklerini söyledi Barış ve Demokratik Toplum Süreci kapsamında hazırlanan ve kamuoyunda “çerçeve yasa” olarak anılan 7595 sayılı kanunun yürürlüğe girmesiyle birlik",
+      "link": "https://yeniyasamgazetesi9.com/aysegul-dogan-abdullah-ocalanin-dogrudan-kamuoyuna-seslenebilecegi-gelismeleri-bekliyoruz/",
+      "published": "2026-09-24T07:20:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:38.951126+00:00"
+    },
+    {
+      "id": "db56905545e169ed",
+      "source": "Aydınlık",
+      "title": "GKRY-İsrail hattına MSB’den uyarı: 'İzinsiz faaliyetlere müsaade etmeyeceğiz'",
+      "summary": "Milli Savunma Bakanlığı basın toplantısında GKRY ile İsrail’i birbirine bağlaması planlanan denizaltı elektrik kablosu faaliyetine ilişkin &quot;izinsiz faaliyetlere müsaade etmeyeceğiz&quot; açıklamasında bulundu.",
+      "link": "https://www.aydinlik.com.tr/haber/gkry-israil-hattina-msbden-uyari-izinsiz-faaliyetlere-musaade-etmeyecegiz-591330",
+      "published": "2026-09-24T07:20:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:34.742371+00:00"
+    },
     {
       "id": "8922c6d9888e6b06",
       "source": "ShiftDelete.Net",
@@ -17,6 +248,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T07:20:49.444224+00:00"
+    },
+    {
+      "id": "c6ac7b2229977d6d",
+      "source": "Cumhuriyet",
+      "title": "Uzmanlar açıkladı: Günde 3 porsiyon tam tahıl tüketmek kalp hastalığı riskini düşürüyor",
+      "summary": "Imperial College London ve Harvard bağlantılı beslenme uzmanlarının yürüttüğü uluslararası araştırma, tam tahıl tüketiminin kalp ve damar sağlığı üzerindeki etkilerini moleküler düzeyde kanıtladı.",
+      "link": "https://www.cumhuriyet.com.tr/yasam/uzmanlar-acikladi-gunde-3-porsiyon-tam-tahil-tuketmek-kalp-hastaligi-riskini-dusuruyor-2540542",
+      "published": "2026-09-24T07:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:29.124218+00:00"
+    },
+    {
+      "id": "3ed2e3f2fadd55be",
+      "source": "Akşam",
+      "title": "Belediyeye yolsuzluk operasyonu: 4 ilde 31 şüpheli yakalandı",
+      "summary": "Yahşihan Belediyesine yönelik yolsuzluk soruşturmasında Kırıkkale merkezli 4 ilde düzenlenen eş zamanlı operasyonda 31 şüpheli gözaltına alındı.",
+      "link": "https://www.aksam.com.tr/guncel/4-ilde-es-zamanli-yolsuzluk-operasyonu-31-supheli-gozaltina-alindi/haber-1700920",
+      "published": "2026-09-24T07:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:32.215240+00:00"
+    },
+    {
+      "id": "54492abf274e5b20",
+      "source": "Ekonomim",
+      "title": "Trump'a Türk damat geliyor!",
+      "summary": "ABD Başkanı Donald Trump’ın eski hukuk danışmanı Alina Habba ile Miller Holding CEO’su Turhan Mildon, bu hafta sonu New York’ta evleniyor. Trump çevresi ile Türk iş dünyasını buluşturan düğün, Mildon’un Afrika ve Venezuela’daki yatırımları nedeniyle siyasi kulislerde de dikkat çekti.",
+      "link": "https://www.ekonomim.com/dunya/trumpa-turk-damat-geliyor-haberi-920408",
+      "published": "2026-09-24T07:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:40.435255+00:00"
     },
     {
       "id": "b3f1101da77e50db",
@@ -50,6 +314,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T07:20:38.480760+00:00"
+    },
+    {
+      "id": "621bd843f447154c",
+      "source": "Habertürk",
+      "title": "\"Bu Okan Buruk'a saygısızlık olur!\"",
+      "summary": "Galatasaray'ın efsane teknik direktörü Fatih Terim, Trabzonspor maçının ardından tepki alan Okan Buruk hakkında Youtube kanalında açıklamalarda bulundu",
+      "link": "https://www.haberturk.com/spor/foto/fatih-terim-den-okan-buruk-sozleri-bu-ona-saygisizlik-olur-3914714",
+      "published": "2026-09-24T07:19:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:26.921365+00:00"
     },
     {
       "id": "6eae4ede6c9a0f8d",
@@ -107,6 +382,17 @@
       "fetched_at": "2026-09-24T07:20:36.273151+00:00"
     },
     {
+      "id": "2a7269900981b77b",
+      "source": "Habertürk",
+      "title": "İşte yeni isimlerin 6 haftalık performansı",
+      "summary": "Yaz transfer dönemini hareketli geçiren Beşiktaş, Fenerbahçe ve Galatasaray birbirinden önemli isimleri Türkiye'ye getirdi. İşte 3 büyüklerde Dusan Vlahovic, Vedat Muriqi, Rafael Leao ve diğer yeni transferlerin milli araya kadar gösterdiği performanslar...",
+      "link": "https://www.haberturk.com/spor/foto/iste-3-buyuklerde-dusan-vlahovic-vedat-muriqi-rafael-leao-ve-diger-yeni-transferlerin-milli-araya-kadar-gosterdigi-performans-3914718",
+      "published": "2026-09-24T07:18:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:26.921419+00:00"
+    },
+    {
       "id": "c82fca5ba88f7591",
       "source": "Türkiye Gazetesi",
       "title": "İstanbul'da El Kaide ve DEAŞ’a operasyon! 11 kişi gözaltında",
@@ -116,6 +402,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T07:20:35.184850+00:00"
+    },
+    {
+      "id": "3d11da86ed6167e6",
+      "source": "Ekonomim",
+      "title": "A101'DE BÜYÜK ÇILGINLIK! İNTERNETE ÖZEL DEV İNDİRİM KATALOĞU YAYINDA (A101 24-30 EYLÜL)",
+      "summary": "A101 24-30 Eylül tarihleri arasında geçerli olan yeni &quot;Aldın Aldın Ekstra&quot; kataloğu yayınlandı! Sadece A101 Ekstra internete özel olarak hazırlanan bu dev kampanya, evinizin ve hayatınızın tüm ihtiyaçlarını tek adreste topluyor. Beyaz eşyadan akıllı televizyonlara, cep telefonlarından klimalara kadar büyük teknoloji yatırımlarının yanı sıra; giyim, ayakkabı, küçük ev aletleri, tamir araç",
+      "link": "https://www.ekonomim.com/foto-galeri/aktuel/a101de-buyuk-cilginlik-internete-ozel-dev-indirim-katalogu-yayinda-a101-24-30-eylul-s1-galeri-920404",
+      "published": "2026-09-24T07:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:40.435345+00:00"
     },
     {
       "id": "fd3e96d59faf2588",
@@ -228,6 +525,17 @@
       "fetched_at": "2026-09-24T07:20:35.330464+00:00"
     },
     {
+      "id": "5b6a24ef8814b400",
+      "source": "Ekonomim",
+      "title": "Sektörel güvende ayrışma: Perakende yükseldi, inşaat geriledi",
+      "summary": "TÜİK verilerine göre eylülde mevsim etkilerinden arındırılmış güven endeksi hizmet sektöründe 111,9 ile değişmezken, perakende ticarette yüzde 1,1 artarak 111,3&#039;e yükseldi. İnşaat sektöründe ise güven endeksi yüzde 0,2 düşüşle 83,0 seviyesine geriledi.",
+      "link": "https://www.ekonomim.com/ekonomi/sektorel-guvende-ayrisma-perakende-yukseldi-insaat-geriledi-haberi-920403",
+      "published": "2026-09-24T07:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:40.435382+00:00"
+    },
+    {
       "id": "d37718ab1cd891fa",
       "source": "Star",
       "title": "Felaketi yaşayan mahallede yeniden doğuş! 80 bin konutta yaşam başladı",
@@ -259,6 +567,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T07:15:59.565175+00:00"
+    },
+    {
+      "id": "72e11d94387717e3",
+      "source": "Habertürk",
+      "title": "Ümit Boyner’in oğlu gözaltında",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı'nda yürütülen İBB soruşturması kapsamında eski TÜSİAD Başkanı Ümit Boyner'in oğlu Sinan Bolak gözaltına alındı",
+      "link": "https://www.haberturk.com/gundem/umit-boynerin-oglu-sinan-bolak-ibb-sorusturmasi-kapsaminda-gozaltina-alindi-3914719",
+      "published": "2026-09-24T07:15:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:26.921451+00:00"
     },
     {
       "id": "e4f7ed510a049a7d",
@@ -338,6 +657,17 @@
       "fetched_at": "2026-09-24T07:15:49.492731+00:00"
     },
     {
+      "id": "261e5a850e0ca072",
+      "source": "Halk TV",
+      "title": "YENİ Parti'den iktidara sert İBB uyarısı!",
+      "summary": "YENİ Parti Grup Başkanvekili Gökhan Günaydın, meclis üyelerine yönelik operasyonlar sonrası iktidara sert tepki gösterdi.",
+      "link": "https://halktv.com.tr/turkiye/yeni-partiden-iktidara-sert-ibb-uyarisi-19-mart-benzeri-bir-isi-tetikler-1057149h",
+      "published": "2026-09-24T07:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:35.610191+00:00"
+    },
+    {
       "id": "2174062f1a3b4a14",
       "source": "Yeni Akit",
       "title": "İstanbul’da El Kaide ve DEAŞ’a yönelik operasyon: 11 gözaltı",
@@ -391,6 +721,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T07:15:42.329931+00:00"
+    },
+    {
+      "id": "ce6a1153e7f0e330",
+      "source": "Finans Gündem",
+      "title": "Eski TÜSİAD Başkanı Ümit Boyner'in oğlu Sinan Bolak gözaltında",
+      "summary": "İBB davasında hakkında ifade amaçlı yakalama kararı bulunan eski TÜSİAD Başkanı Ümit Boyner’in oğlu Mithat Sinan Bolak, İstanbul Havalimanı’nda gözaltına alındı",
+      "link": "https://www.finansingundemi.com/haber/eski-tusiad-baskani-umit-boynerin-oglu-sinan-bolak-gozaltinda/1909369",
+      "published": "2026-09-24T07:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:42.320792+00:00"
     },
     {
       "id": "f867f7c4b525ce5a",
@@ -655,6 +996,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T07:10:56.070202+00:00"
+    },
+    {
+      "id": "b2c4048639d50203",
+      "source": "Sözcü",
+      "title": "SON DAKİKA... Ümit Boyner'in oğlu Sinan Bolak gözaltına alındı",
+      "summary": "SON DAKİKA... Ümit Boyner'in oğlu Sinan Bolak gözaltına alındı",
+      "link": "https://www.sozcu.com.tr/son-dakika-umit-boyner-in-oglu-sinan-bolak-gozaltina-alindi-p363019",
+      "published": "2026-09-24T07:08:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:30.376017+00:00"
     },
     {
       "id": "55ba0b2d1676d726",
@@ -1064,6 +1416,17 @@
       "fetched_at": "2026-09-24T07:10:33.051330+00:00"
     },
     {
+      "id": "87b0524043f2eb46",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Fenerbahçe Tarfin, Avrupa Ligi'nin ilk haftasında Virtus Bologna'yı ağırlayacak",
+      "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) ilk haftasında yarın İtalya temsilcisi Virtus Bologna ile karşılaşacak.",
+      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-avrupa-liginin-ilk-haftasinda-virtus-bolognayi-agirlayacak/4067296",
+      "published": "2026-09-24T07:02:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:28.778083+00:00"
+    },
+    {
       "id": "814f11b27b5b8377",
       "source": "Yeni Şafak",
       "title": "İstanbul'da 2 ilçede 12 saatlik su kesintisi: İSKİ mahalleleri açıkladı",
@@ -1073,6 +1436,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T07:05:33.945197+00:00"
+    },
+    {
+      "id": "86061872fae2916d",
+      "source": "Sabah",
+      "title": "SON DAKİKA... MSB: Kıbrıs'taki gelişmeler izleniyor",
+      "summary": "SON DAKİKA... Mili Savunma Bakanlığı'nın haftalık basın toplantısında Kıbrıs'tak gelişmeler ve Mekke Ortak Savunma Anlaşması'na ilişkin pek çok konu ele alındı. MSB'den yapılan açıklamada \"Kıbrıs'taki... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/09/24/son-dakika-msb-kibristaki-gelismeler-izleniyor",
+      "published": "2026-09-24T07:02:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:31.982609+00:00"
     },
     {
       "id": "bdec71d95db68048",
@@ -1117,6 +1491,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T07:05:34.781086+00:00"
+    },
+    {
+      "id": "7ff8181554506623",
+      "source": "Star",
+      "title": "MSB'den 3'lü şer ittifakına sert uyarı: İzinsiz adıma müsaade yok",
+      "summary": "Milli Savunma Bakanlığı, Yunanistan, GKRY ve İsrail'i birbirine bağlaması planlanan denizaltı elektrik kablosu ile ilgili soruya, \"Uluslararası hukuk uyarınca kıta sahanlığımızda gerçekleştirilecek kablo veya boru döşeme ile bilimsel araştırma gibi faaliyetlerin ülkemizle önceden koordine edilmesi gerekmektedir. Bu kapsamda, ülkemizin hak ve menfaatlerini göz ardı eden izinsiz faaliyetlere müsaade",
+      "link": "https://www.star.com.tr/guncel/yunanistana-adalar-uyarisi-msb-baris-ve-istikrara-zarar-verebilecek-faaliyetlerden-kacinmali-haber-2042218/",
+      "published": "2026-09-24T07:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:32.971004+00:00"
     },
     {
       "id": "cb6074b2ddb06570",
@@ -1823,6 +2208,17 @@
       "fetched_at": "2026-09-24T06:55:46.643968+00:00"
     },
     {
+      "id": "e37a1579839b5499",
+      "source": "Hürriyet",
+      "title": "Netanyahu son seçim anketlinde muhalefet adayının gerisine düştü: Fark açılıyor",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun partisi Likud, seçim öncesi yapılan anketlerde kan kaybetmeye devam ediyor. İsrail medyasının son araştırmasına göre Netanyahu, muhalefetin başbakan adayı Gadi Eisenkot'un 12 puan arkasında kaldı.",
+      "link": "https://www.hurriyet.com.tr/dunya/netanyahu-son-secim-anketlinde-muhalefet-adayinin-gerisine-dustu-fark-aciliyor-43317579",
+      "published": "2026-09-24T06:52:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:31.185667+00:00"
+    },
+    {
       "id": "9c25dfbf85f8bd0d",
       "source": "Karar",
       "title": "İzmir’in emeklileri kenti keşfetmeye devam ediyor",
@@ -1876,6 +2272,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T06:55:37.919647+00:00"
+    },
+    {
+      "id": "02cac155e27c175a",
+      "source": "Sabah",
+      "title": "SON DAKİKA... Terör örgütü DEAŞ'a yönelik operasyon: 11 şüpheli gözaltına alındı",
+      "summary": "SON DAKİKA... İstanbul Emniyet Müdürlüğü, terör örgütü DEAŞ'a yönelik operasyonda 11 şüphelinin gözaltına alındığını açıkladı. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/09/24/son-dakika-teror-orgutu-deasa-yonelik-operasyon-11-supheli-gozaltina-alindi",
+      "published": "2026-09-24T06:51:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:31.982639+00:00"
     },
     {
       "id": "65a1484e4b81f463",
@@ -4518,6 +4925,17 @@
       "fetched_at": "2026-09-24T06:15:49.336261+00:00"
     },
     {
+      "id": "457d5157f0c600dd",
+      "source": "Yeniçağ",
+      "title": "İBB davasında yeni gelişme: Eski TÜSİAD Başkanı Ümit Boyner’in oğlu gözaltında",
+      "summary": "İBB soruşturması kapsamında hakkında yakalama kararı çıkartılan Ümit Boyner&#039;in oğlu Sinan Bolak İstanbul Havalimanı&#039;nda gözaltına alındı.",
+      "link": "https://www.yenicaggazetesi.com/ibb-davasinda-yeni-gelisme-eski-tusiad-baskani-umit-boynerin-oglu-gozaltinda-1074819h.htm",
+      "published": "2026-09-24T06:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T07:25:33.896773+00:00"
+    },
+    {
       "id": "ba27df40fadb106f",
       "source": "Evrensel",
       "title": "Galatasaray'da Okan Buruk için ayrılık iddiası: Arda Turan gündemde",
@@ -5088,424 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T06:05:41.244614+00:00"
-    },
-    {
-      "id": "bbed8bbb33f14c67",
-      "source": "Cumhuriyet",
-      "title": "Son dakika... Ümit Boyner'in oğlu Sinan Bolak gözaltına alındı!",
-      "summary": "Son dakika haberi... İBB soruşturması kapsamında hakkında yakalama kararı çıkartılan eski TÜSİAD Başkanı Ümit Boyner'in oğlu Sinan Bolak İstanbul Havalimanı'nda gözaltına alındı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-umit-boyner-in-oglu-sinan-bolak-gozaltina-alindi-2540502",
-      "published": "2026-09-24T06:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:34.586252+00:00"
-    },
-    {
-      "id": "a31739b9dfc4ed90",
-      "source": "Halk TV",
-      "title": "Son Dakika | Fonların tasfiyesi için toplantı yapılacak! Mehmet Şimşek başkanlık edecek",
-      "summary": "Son dakika... Hazine ve Maliye Bakanı Mehmet Şimşek&#039;in başkanlığında 131 fonun tasfiyesi ve ödeme süreci için toplantı yapılacak.",
-      "link": "https://halktv.com.tr/ekonomi/son-dakika-fonlarin-tasfiyesi-icin-toplanti-yapilacak-mehmet-simsek-baskanlik-edecek-1057124h",
-      "published": "2026-09-24T06:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:44.175567+00:00"
-    },
-    {
-      "id": "213e59222aeb4bf8",
-      "source": "Ekonomim",
-      "title": "Fon soruşturmasında tutuklanan Emre Tezmen’in milyarlık serveti ortaya çıktı",
-      "summary": "Fon soruşturması kapsamında tutuklanan Tera Holding’in kurucusu Emre Tezmen’in Türkiye, Almanya ve İspanya’daki milyarlık malları ortaya çıktı. Yüksek değerli onlarca taşınmaz dev servetin boyutlarını ortaya çıkardı.",
-      "link": "https://www.ekonomim.com/gundem/fon-sorusturmasinda-tutuklanan-emre-tezmenin-milyarlik-serveti-ortaya-cikti-haberi-920360",
-      "published": "2026-09-24T06:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:50.866301+00:00"
-    },
-    {
-      "id": "06f7f8e8b83ecf42",
-      "source": "Yeniçağ",
-      "title": "AB'den Türk TIR'larına 90 gün engeli: 25 bin şoför sınırdan dönüyor",
-      "summary": "AB sınır kapılarında Schengen 90/180 gün kuralı nedeniyle 25 bin Türk TIR şoförü engelle karşılaşıyor. UND Başkanı Şerafettin Aras, 111 milyar dolarlık karayolu ihracatını tehdit eden kriz için turist vizesi yerine D tipi çalışma vizesi anlaşması yapılması çağrısında bulundu.",
-      "link": "https://www.yenicaggazetesi.com/abden-turk-tirlarina-90-gun-engeli-25-bin-sofor-sinirdan-donuyor-1074817h.htm",
-      "published": "2026-09-24T06:01:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:41.766360+00:00"
-    },
-    {
-      "id": "75c47d8cb09dac13",
-      "source": "LOG",
-      "title": "Meta, kamerasız akıllı gözlük modelini, yeni VR gözlüğünü ve “Muse” merkezli yapay zeka cihazını tanıttı",
-      "summary": "Meta, Connect 2026 etkinliğinde kamerasız akıllı gözlük modelini, yeni VR gözlüğünü ve “Muse” merkezli yapay zeka cihazını görücüye çıkardı. Kameralı akıllı gözlüklere yönelik gizlilik endişelerinin arttığı son dönemde önemli bir adım atan şirket, &#8220;Ray-Ban Meta Audio&#8221; ile doğrudan sesli iletişime odaklanıyor. Yeni akıllı gözlüğünde herhangi bir kameraya yer vermeyen şirket, 43 gramlık ",
-      "link": "https://www.log.com.tr/meta-kamerasiz-akilli-gozluk-modelini-yeni-vr-gozlugunu-ve-muse-merkezli-yapay-zeka-cihazini-tanitti/",
-      "published": "2026-09-24T06:01:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:56.073735+00:00"
-    },
-    {
-      "id": "388ba426188bc5c0",
-      "source": "Habertürk",
-      "title": "Bakan Şimşek başkanlığında fon toplantısı",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.haberturk.com/ekonomi/son-dakika-bakan-simsek-baskanliginda-fon-toplantisi-3914694",
-      "published": "2026-09-24T06:01:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:10:31.782763+00:00"
-    },
-    {
-      "id": "d7d42da9eb65f2dd",
-      "source": "Bir Gün",
-      "title": "Motorine zam geliyor",
-      "summary": "Motorinin litre fiyatına yarından itibaren geçerli olmak üzere 2 lira 55 kuruş zam yapılması bekleniyor. Artışın pompaya yansıması halinde motorinin litresi İstanbul’da 93,45 TL’ye, Ankara’da 94,55 TL’ye, İzmir’de ise 94,85 TL’ye çıkacak.",
-      "link": "https://www.birgun.net/haber/motorine-zam-geliyor-736581",
-      "published": "2026-09-24T06:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:55:33.783553+00:00"
-    },
-    {
-      "id": "9936f71529b3b554",
-      "source": "Cumhuriyet",
-      "title": "Son dakika depremler! Deprem mi oldu? 24 Eylül 2026 nerede, ne zaman deprem oldu?",
-      "summary": "AFAD, Kandilli son deprem verileri açıklandı. Sarsıntı hisseden yurttaşlar, 24 Eylül 2026 Perşembe günü son depremlerin nerede ve kaç büyüklüğünde olduğunu merak ediyor. Peki, son dakika depremler! Deprem mi oldu? 24 Eylül 2026 nerede, ne zaman deprem oldu?",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremler-deprem-mi-oldu-24-eylul-2026-nerede-ne-zaman-deprem-oldu-2540501",
-      "published": "2026-09-24T06:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:34.586293+00:00"
-    },
-    {
-      "id": "ba8bcd7dac615537",
-      "source": "Star",
-      "title": "Nicolas Raskin'den Beşiktaş itirafı! İşte teklifi reddetmesinin nedeni",
-      "summary": "Yaz transfer döneminde Beşiktaş'ın kadrosuna katmak istediği Rangers forması giyen 23 yaşındaki orta saha oyuncusu Nicolas Raskin süreç hakkında açıklamalarda bulundu. İşte detaylar...",
-      "link": "https://www.star.com.tr/spor/nicolas-raskinden-besiktas-itirafi-iste-teklifi-reddetmesinin-nedeni-haber-2042202/",
-      "published": "2026-09-24T06:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:40.287019+00:00"
-    },
-    {
-      "id": "64441f8d15e69acb",
-      "source": "Halk TV",
-      "title": "Son dakika | Ümit Boyner'in oğlu gözaltında! Yakalama kararı çıkartılmıştı",
-      "summary": "Son dakika... İBB davasında hakkında yakalama kararı çıkartılan Ümit Boyner&#039;in oğlu Sinan Bolat gözaltında.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-umit-boynerin-oglu-gozaltinda-yakalama-karari-cikartilmisti-1057123h",
-      "published": "2026-09-24T06:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:44.175600+00:00"
-    },
-    {
-      "id": "367d1d99df435133",
-      "source": "ShiftDelete.Net",
-      "title": "Snapdragon X Serisi Dizüstü Bilgisayarlara Linux Desteği Geliyor",
-      "summary": "Qualcomm, Snapdragon X serisi dizüstü bilgisayarlar için Linux desteği sunacağını açıkladı. Debian ve Ubuntu uyumluluğu yolda.",
-      "link": "https://shiftdelete.net/snapdragon-x-serisi-linux-destegi",
-      "published": "2026-09-24T06:00:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:25.387618+00:00"
-    },
-    {
-      "id": "26ad67d34c2f5119",
-      "source": "Sabah",
-      "title": "SON DAKİKA! 455 bin yatırımcıya ödeme süreci masada! 131 fon için Bakan Şimşek başkanlığında kritik toplantı",
-      "summary": "Son dakika haberi... Hazine ve Maliye Bakanı Şimşek başkanlığında, 455 bini aşkın yatırımcının bulunduğu 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/ekonomi/son-dakika-131-fonun-tasfiye-ve-odeme-sureci-icin-bakan-simsek-baskanliginda-kritik-toplanti-7666866",
-      "published": "2026-09-24T06:00:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:25:36.388376+00:00"
-    },
-    {
-      "id": "74149f3971498643",
-      "source": "Sabah",
-      "title": "SON DAKİKA! 131 fonun tasfiye ve ödeme süreci kritik toplantı! Bakan Şimşek başkanlık edecek",
-      "summary": "Son dakika haberi... Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak. Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/ekonomi/son-dakika-131-fonun-tasfiye-ve-odeme-sureci-icin-bakan-simsek-baskanliginda-kritik-toplanti-7666866",
-      "published": "2026-09-24T06:00:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:20:40.285396+00:00"
-    },
-    {
-      "id": "2ac729508b06bad9",
-      "source": "Yeniçağ",
-      "title": "Fon krizinde yeni gelişme: Şimşek toplantı yapacak",
-      "summary": "Fon krizi&#039; gündemdeki yerini koruyor. Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.yenicaggazetesi.com/fon-krizinde-yeni-gelisme-simsek-toplanti-yapacak-1074816h.htm",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T07:00:59.856203+00:00"
-    },
-    {
-      "id": "85153e0f28de4624",
-      "source": "Yeniçağ",
-      "title": "Fon krizi'nde yeni gelişme: Şimşek toplantı yapacak",
-      "summary": "Fon krizi&#039; gündemdeki yerini koruyor. Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.yenicaggazetesi.com/fon-krizinde-yeni-gelisme-simsek-toplanti-yapacak-1074816h.htm",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:45:40.528845+00:00"
-    },
-    {
-      "id": "775f0f50fa49b969",
-      "source": "Akşam",
-      "title": "Yatırımcıyı koruma hamlesi: 131 fon için masa toplanıyor",
-      "summary": "Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.aksam.com.tr/ekonomi/yatirimciyi-koruma-hamlesi-131-fon-icin-toplantisi-yapilacak/haber-1700879",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:10:37.765158+00:00"
-    },
-    {
-      "id": "f7687d0363485fb5",
-      "source": "Akşam",
-      "title": "Yatırımcıyı koruma hamlesi: 131 fon için toplantı yapılacak",
-      "summary": "Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.aksam.com.tr/ekonomi/yatirimciyi-koruma-hamlesi-131-fon-icin-toplantisi-yapilacak/haber-1700879",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:39.239982+00:00"
-    },
-    {
-      "id": "7fbecad13efcb0ed",
-      "source": "Yeniçağ",
-      "title": "'Fon krizi'nde yeni gelişme: Şimşek toplantı yapacak",
-      "summary": "&#039;Fon krizi&#039; gündemdeki yerini koruyor. Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.yenicaggazetesi.com/fon-krizinde-yeni-gelisme-simsek-toplanti-yapacak-1074816h.htm",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:41.766403+00:00"
-    },
-    {
-      "id": "2a479c6265b43e3f",
-      "source": "Akşam",
-      "title": "Yatırımcıyı koruma hamlesi: 131 fon için toplantısı yapılacak",
-      "summary": "Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.aksam.com.tr/ekonomi/yatirimciyi-koruma-hamlesi-131-fon-icin-toplantisi-yapilacak/haber-1700879",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:00.242010+00:00"
-    },
-    {
-      "id": "d7aebbba7c11a99b",
-      "source": "Yeni Şafak",
-      "title": "ADALET BAKANLIĞI PERSONEL ALIMI SONUÇLARI 2026: Adalet Bakanlığı 15 bin personel alımı başvuru sonuçları ne zaman açıklanacak?",
-      "summary": "Adalet Bakanlığı'nın 2026 yılı personel alımı kapsamında başvuru süreci tamamlandı, şimdi gözler sonuç aşamasına çevrildi. Farklı unvanlarda binlerce kişinin istihdam edileceği alım için başvurularını tamamlayan adaylar, değerlendirme sonuçlarının açıklanacağı tarihi ve sonraki sınav sürecini yakından takip ediyor. Özellikle İnfaz ve Koruma Memuru (İKM) kadrosuna başvuran adaylar için boy-kilo ölç",
-      "link": "https://www.yenisafak.com/galeri/gundem/adalet-bakanligi-personel-alimi-sonuclari-2026-adalet-bakanligi-15-bin-personel-alimi-basvuru-sonuclari-ne-zaman-aciklanacak-4846525",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:00.820273+00:00"
-    },
-    {
-      "id": "c5989615a5d63625",
-      "source": "Yeni Şafak",
-      "title": "Kocaeli raylı sistemlerle büyüyor: 2,2 milyar dolarlık dev metro yatırımı",
-      "summary": "Türkiye’nin önemli sanayi ve ulaşım merkezlerinden Kocaeli’de Büyükşehir Belediyesi, artan nüfus ve ulaşım talebine karşı raylı sistem yatırımlarını büyütüyor. 2019’da 9,6 kilometre olan tramvay ağı 18,7 kilometreye ulaşırken, Akçaray’ın günlük yolcu sayısı yaklaşık 65 bine çıktı. Çift dizili tramvaylarla kapasite iki katına çıkarıldı. Kentin ulaşım geleceğinde ise 2,2 milyar dolarlık Körfezray, G",
-      "link": "https://www.yenisafak.com/gundem/kocaeli-rayli-sistemlerle-buyuyor-22-milyar-dolarlik-dev-metro-yatirimi-4858422",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:00.820304+00:00"
-    },
-    {
-      "id": "ac04fdf1560659a8",
-      "source": "Yeniçağ",
-      "title": "'Fon krizi'nde yeni gelişme",
-      "summary": "&#039;Fon krizi&#039; gündemdeki yerini koruyor. Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.yenicaggazetesi.com/fon-krizinde-yeni-gelisme-1074816h.htm",
-      "published": "2026-09-24T06:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:04.269166+00:00"
-    },
-    {
-      "id": "126500d68f58a5d2",
-      "source": "Star",
-      "title": "Bakan Şimşek başkanlığında 2 günlük kritik \"fon\" zirvesi! Yatırımcıların hakları masada",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.star.com.tr/ekonomi/bakan-simsek-baskanliginda-kritik-zirve-haber-2042201/",
-      "published": "2026-09-24T05:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:25:37.751991+00:00"
-    },
-    {
-      "id": "f2b0684de36a8c50",
-      "source": "Star",
-      "title": "Bakan Şimşek başkanlığında 2 günlük kritik \"fon\" zirvesi! Yatırımcıların hakları masada",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.star.com.tr/guncel/bakan-simsek-baskanliginda-kritik-zirve-haber-2042201/",
-      "published": "2026-09-24T05:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:10:38.676667+00:00"
-    },
-    {
-      "id": "594d0af882a9ae38",
-      "source": "Star",
-      "title": "Bakan Şimşek başkanlığında kritik \"fon\" zirvesi! Yatırımcıların hakları masada",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.star.com.tr/guncel/bakan-simsek-baskanliginda-kritik-zirve-haber-2042201/",
-      "published": "2026-09-24T05:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:40.287061+00:00"
-    },
-    {
-      "id": "d6452fdced22893b",
-      "source": "Star",
-      "title": "Bakan Şimşek başkanlığında kritik zirve",
-      "summary": "Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.star.com.tr/guncel/bakan-simsek-baskanliginda-kritik-zirve-haber-2042201/",
-      "published": "2026-09-24T05:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:01.467575+00:00"
-    },
-    {
-      "id": "3ef5a6f05524fdc9",
-      "source": "CNBC-e",
-      "title": "Bakanlık duyurdu: 131 fonun tasfiye ve ödeme işlemleri için toplantı kararı",
-      "summary": "Hazine ve Maliye Bakanı Şimşek başkanlığında, 131 fonun tasfiyesi ve ödeme süreçleri için toplantı yapılacak, yatırımcıların hak ve menfaatlerinin korunması öncelikli konu olacak.",
-      "link": "https://www.cnbce.com/haberler/bakanlik-duyurdu-131-fonun-tasfiye-ve-odeme-islemleri-icin-toplanti-karari-h37949",
-      "published": "2026-09-24T05:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:18.599806+00:00"
-    },
-    {
-      "id": "42b7857b5c884f51",
-      "source": "Karar",
-      "title": "Fon soruşturmasında tutuklu sayısı 17’ye çıktı: Abdulkadir Özkan ve Nihat Kırmızı da cezaevinde",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmasında yeni tutuklama kararları verildi. Tera Yatırım Yönetim Kurulu üyeleri Abdulkadir Özkan ve Bülent Uygun ile Doğa Sigorta Yönetim Kurulu Başkanı Nihat Kırmızı bu sabah tutuklandı. Soruşturma kapsamında daha önce 14 şüpheli tutuklanırken, 3 kişi adli kontrol şartıyla serbes",
-      "link": "https://www.karar.com/guncel-haberler/son-dakika-fon-sorusturmasinda-tutuklu-sayisi-17ye-cikti-abdulkadir-2073933",
-      "published": "2026-09-24T05:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:20:41.882371+00:00"
-    },
-    {
-      "id": "99d6f45af8294977",
-      "source": "Karar",
-      "title": "Son dakika! Fon soruşturmasında tutuklu sayısı 17’ye çıktı: Abdulkadir Özkan ve Nihat Kırmızı da cezaevinde",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmasında yeni tutuklama kararları verildi. Tera Yatırım Yönetim Kurulu üyeleri Abdulkadir Özkan ve Bülent Uygun ile Doğa Sigorta Yönetim Kurulu Başkanı Nihat Kırmızı bu sabah tutuklandı. Soruşturma kapsamında daha önce 14 şüpheli tutuklanırken, 3 kişi adli kontrol şartıyla serbes",
-      "link": "https://www.karar.com/guncel-haberler/son-dakika-fon-sorusturmasinda-tutuklu-sayisi-17ye-cikti-abdulkadir-2073933",
-      "published": "2026-09-24T05:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:41.244689+00:00"
-    },
-    {
-      "id": "25496110aff9efd3",
-      "source": "Yeni Akit",
-      "title": "Stockholm’deki frak ve bizim Stockholm sendromumuz! Yücel Kaya yazdı",
-      "summary": "Akit yazarı Yücel Kaya, Türkiye’nin Stockholm Büyükelçisi’nin İsveç Kralı’na güven mektubunu frak, beyaz eldiven ve silindir şapkayla sunmasını köşesine taşıdı. İran ve diğer ülkelerin diplomatlarının farklı kıyafetlerle saraya çıkabildiğine dikkat çeken Kaya, tartışmayı “frak”ın ötesine taşıyarak, “Batı’yla eşit ilişki kurmak mı istiyoruz, yoksa Batı’nın bizi beğenmesini mi?” sorusunu yöneltti.",
-      "link": "https://www.yeniakit.com.tr/haber/stockholmdeki-frak-ve-bizim-stockholm-sendromumuz-yucel-kaya-yazdi-2024587.html",
-      "published": "2026-09-24T05:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:01.978398+00:00"
-    },
-    {
-      "id": "e70f69d11f8ea64e",
-      "source": "Karar",
-      "title": "Son dakika! Tera Holding Yönetim Kurulu üyelerine tutuklama",
-      "summary": "Tera Holding Yönetim Kurulu üyeleri Abdulkadir Özkan ve Bülent Uygun ile Nihat Kırmızı fon soruşturması kapsamında tutuklandı.",
-      "link": "https://www.karar.com/guncel-haberler/son-dakika-tera-holding-yonetim-kurulu-uyelerine-tutuklama-2073933",
-      "published": "2026-09-24T05:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:03.597720+00:00"
-    },
-    {
-      "id": "09ef4ccf1ecaabc3",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Bakan Şimşek başkanlığında fon yatırımcılarının hakları için kritik toplantı yapılacak",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek başkanlığında, ilgili kurum ve kuruluşların katılımıyla, 7 portföy yönetim şirketinin 131 yatırım fonuna ilişkin tasfiye ve ödeme süreçlerine yönelik teknik çalışmalar ele alınacak.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-baskanliginda-fon-yatirimcilarinin-haklari-icin-kritik-toplanti-yapilacak/4067229",
-      "published": "2026-09-24T05:57:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:05:34.176318+00:00"
-    },
-    {
-      "id": "e31f6e37d45242af",
-      "source": "Gazete Pencere",
-      "title": "Milli voleybol ve futbol ödüllerindeki farka Sayıştay el attı",
-      "summary": "Milli voleybol ve futbol takımlarının uluslararası karşılaşmalarda aldığı ödüller son dönemde tartışma ve kıyas konusu olurken Sayıştay, bu konularda bir düzenleme yapılması gerektiğini belirtti.",
-      "link": "https://www.gazetepencere.com/spor/milli-voleybol-ve-futbol-odullerindeki-farka-sayistay-el-atti-716614h",
-      "published": "2026-09-24T05:57:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:06.403703+00:00"
-    },
-    {
-      "id": "469c753d82c04ed3",
-      "source": "Yeni Şafak",
-      "title": "Tera Holding yönetim kurulu üyeleri tutuklandı",
-      "summary": "Tera Holding Yönetim Kurulu üyeleri Abdulkadir Özkan ve Bülent Uygun ile Nihat Kırmızı fon soruşturması kapsamında tutuklandı",
-      "link": "https://www.yenisafak.com/gundem/tera-holding-yonetim-kurulu-uyeleri-tutuklandi-4858553",
-      "published": "2026-09-24T05:57:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:00.820318+00:00"
-    },
-    {
-      "id": "2caea06512ef3597",
-      "source": "Bir Gün",
-      "title": "Ümit Boyner'in oğlu Sinan Bolak gözaltına alındı",
-      "summary": "İBB davasında, ifade vermeye gelmediği gerekçesiyle hakkında yakalama kararı çıkarılan eski TÜSİAD Başkanı Ümit Boyner’in oğlu Mithat Sinan Bolak, İstanbul Havalimanı’nda gözaltına alındı. Bolak, kararın ardından yaptığı açıklamada yurt dışında yaşadığını ve en kısa sürede Türkiye’ye gelerek ifade vereceğini söylemişti.",
-      "link": "https://www.birgun.net/haber/umit-boyner-in-oglu-sinan-bolak-gozaltina-alindi-736580",
-      "published": "2026-09-24T05:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:55:33.783577+00:00"
-    },
-    {
-      "id": "17f17825490a74dd",
-      "source": "Halk TV",
-      "title": "Kıyma diye bize neler neler yedirmişler! 7 ildeki işletmelerin hepsi ifşa edildi",
-      "summary": "Bakanlığın güncellediği denetim listesinde, lokantaların tüketicilerin sağlığıyla oynandığı bir kez daha gözler önüne serildi. Yapılan analizlerde, kıyma olarak satılan ürünlerin içerisinde kanatlı eti ve sakatat çıktı.",
-      "link": "https://halktv.com.tr/turkiye/kiyma-diye-bize-neler-neler-yedirmisler-7-ildeki-isletmelerin-hepsi-ifsa-edildi-1057122h",
-      "published": "2026-09-24T05:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:07.173464+00:00"
-    },
-    {
-      "id": "d6bf8937f2146474",
-      "source": "Yeniçağ",
-      "title": "10 katlı binada yangın: Çıkış nedeni belli oldu",
-      "summary": "Bursa’nın Nilüfer ilçesinde 10 katlı apartmanın 6’ncı katındaki yangına ilişkin yeni bilgiler ortaya çıktı.",
-      "link": "https://www.yenicaggazetesi.com/10-katli-binada-yangin-cikis-nedeni-belli-oldu-1074815h.htm",
-      "published": "2026-09-24T05:56:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:04.269184+00:00"
-    },
-    {
-      "id": "8676eb2f51328865",
-      "source": "CNBC-e",
-      "title": "Bitcoin ve Ethereum ETF'lerinde para girişi hızlandı",
-      "summary": "ABD’de işlem gören spot Bitcoin ve Ethereum ETF’lerine 23 Eylül’de toplam 451,61 milyon dolarlık net para girişi gerçekleşti. Bitcoin ETF’lerinde BlackRock, Ethereum ETF’lerinde ise yine BlackRock’ın fonu en yüksek günlük girişleri kaydetti.",
-      "link": "https://www.cnbce.com/kripto/bitcoin-ve-ethereum-etflerinde-para-girisi-hizlandi-h37948",
-      "published": "2026-09-24T05:56:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T06:01:18.599827+00:00"
     }
   ]
 }

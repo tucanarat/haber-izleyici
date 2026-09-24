@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-09-24T05:01:19.658158+00:00",
+  "last_updated": "2026-09-24T05:05:53.389502+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 550,
+  "new_items_this_run": 555,
   "items": [
+    {
+      "id": "d07f9b57aab65cd9",
+      "source": "Akşam",
+      "title": "Kastamonu Merkez'de mankemeden satılık tarla!",
+      "summary": "Kastamonu Merkez'de 8.676 m² tarla mankemeden satışa sunuluyor...",
+      "link": "https://www.aksam.com.tr/ekonomi/kastamonu-merkezde-mankemeden-satilik-tarla/haber-1700866",
+      "published": "2026-09-24T05:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:34.162579+00:00"
+    },
+    {
+      "id": "4cbcf897069669ec",
+      "source": "Star",
+      "title": "ABD'den dikkat çeken Türkiye açıklaması! S-400 ve F-35 sorusuna cevap",
+      "summary": "ABD'nin Ankara Büyükelçisi, Suriye ve Irak Özel Temsilcisi Tom Barrack, Cumhurbaşkanı Recep Tayyip Erdoğan ile ABD Başkanı Donald Trump arasında \"bir uyum\" olduğunu, iki liderin \"çok iyi ve etkili şekilde iletişim\" kurduğunu belirtti. Barrack, iki ülke arasındaki masada bekleyen S-400 ve F-35 meselesi hakkında da Kongrenin bu konuda çalıştığını ancak CAATSA ile NDAA düzenlemelerinin zaman aldığını",
+      "link": "https://www.star.com.tr/dunya/abdden-dikkat-ceken-turkiye-aciklamasi-s-400-ve-f-35-sorusuna-cevap-haber-2042188/",
+      "published": "2026-09-24T05:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:35.303536+00:00"
+    },
+    {
+      "id": "b91e665daed556fe",
+      "source": "Gazete Pencere",
+      "title": "10 katlı binada yangın: 19 kişiyi hastanelik eden yangının nasıl çıktığı belli oldu",
+      "summary": "Bursa’nın Nilüfer ilçesinde 10 katlı apartmanın 6’ncı katında çıkan yangının, evdeki bir çocuğun çakmakla oynadığı sırada salondaki perdelerin tutuşması sonucu başladığı öğrenildi. 19 kişi hastaneye kaldırıldı.",
+      "link": "https://www.gazetepencere.com/gundem/10-katli-binada-yangin-19-kisiyi-hastanelik-eden-yanginin-nasil-ciktigi-belli-716609h",
+      "published": "2026-09-24T05:03:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:38.055514+00:00"
+    },
+    {
+      "id": "f42b2d77073febf1",
+      "source": "Akşam",
+      "title": "Kia yaptı yapacağını: İndirimli XCeed satışı başladı! İşte güncel fiyat listesi...",
+      "summary": "Kia otomotiv şirketi, XCeed modeliyle Türkiye'de sıfır araç satın almayı düşünen pek çok otomobil tutkununun ilgisini çekiyor. Şık ve sportif görünümü ile ön plana çıkabilen bu araç, hem şehir içinde hem de uzun yolda tercih edilebiliyor. Kia otomotiv markasının güncel fiyat listesi kontrol edildiğinde ise, indirimli XCeed otomobil satışının başladığı görüldü. Ayrıca Sportage ve Stonic modellerind",
+      "link": "https://www.aksam.com.tr/pusula/kia-yapti-yapacagini-indirimli-xceed-satisi-basladi-iste-guncel-fiyat-listesi/haber-1700865",
+      "published": "2026-09-24T05:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:34.162631+00:00"
+    },
+    {
+      "id": "9c7e0de369d396be",
+      "source": "Star",
+      "title": "Belçika'dan Fenerbahçe'ye Lukaku raporu! Gerçek ortaya çıktı",
+      "summary": "Romelu Lukaku'nun Fenerbahçe'ye transferinde Belçika Futbol Federasyonu'nun kulübe ilettiği fiziksel verilerin önemli rol oynadığı öğrenildi. Lukaku'nun performansından hayal kırıklığı yaşayan yönetimin devre arasında ayrılık seçeneğini değerlendirdiği aktarıldı. İşte detaylar...",
+      "link": "https://www.star.com.tr/spor/belcikadan-fenerbahceye-lukaku-raporu-gercek-ortaya-cikti-haber-2042187/",
+      "published": "2026-09-24T05:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:35.303577+00:00"
+    },
+    {
+      "id": "b4993b8067786b5b",
+      "source": "CNBC-e",
+      "title": "Kanser tespitinde çığır açan kan testi için kritik adım! FDA'dan olumlu sinyal",
+      "summary": "ABD'de FDA danışma paneli, Grail'in birden fazla kanser türünü tek kan testiyle tespit eden \"Galleri\" testine onay verilmesi yönünde tavsiye kararı aldı; uzmanlar testin standart taramaların yerine değil, ek olarak uygulanması gerektiğinin altını çiziyor.",
+      "link": "https://www.cnbce.com/haberler/kanser-tespitinde-cigir-acan-kan-testi-icin-kritik-adim-fdadan-olumlu-sinyal-g37939",
+      "published": "2026-09-24T05:02:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:46.258725+00:00"
+    },
+    {
+      "id": "f0d4aa9ca1408005",
+      "source": "Akşam",
+      "title": "Adana Sarıçam'da mahkemeden satılık arsa!",
+      "summary": "Adana Sarıçam'da 461 m² arsa mahkemeden satışa sunuluyor...",
+      "link": "https://www.aksam.com.tr/ekonomi/adana-saricamda-mahkemeden-satilik-arsa/haber-1700864",
+      "published": "2026-09-24T05:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:34.162655+00:00"
+    },
     {
       "id": "c258961a7a66e7bd",
       "source": "ShiftDelete.Net",
@@ -17,6 +94,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T05:01:15.696119+00:00"
+    },
+    {
+      "id": "741a0b1f76186dc1",
+      "source": "Habertürk",
+      "title": "\"Venezuela'da demokratik geçiş süreci başladı\"",
+      "summary": "Venezuela Geçici Devlet Başkanı Delcy Rodriguez, ülkesinin diplomatik ilişkileri yeniden tesis etmeye çalıştığını belirterek ülkede \"düzenli, kurumsal ve doğrulanabilir\" bir demokratik geçiş sürecinin başladığını söyledi.",
+      "link": "https://www.haberturk.com/dunya/venezuela-gecici-devlet-baskani-rodriguez-ulkede-demokratik-gecis-surecinin-basladigini-soyledi-3914681",
+      "published": "2026-09-24T04:59:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:26.232446+00:00"
     },
     {
       "id": "d8735f944e14a5a8",
@@ -72,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T05:01:12.210061+00:00"
+    },
+    {
+      "id": "c5ae6d23e2777942",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Avrupa İmar ve Kalkınma Bankası, Türkiye ekonomisinin bu yıl yüzde 3 büyüyeceğini öngördü",
+      "summary": "Avrupa İmar ve Kalkınma Bankası (EBRD), Türkiye ekonomisinin bu yıl yüzde 3 ve 2027'de yüzde 4 büyüyeceğini öngördü.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-imar-ve-kalkinma-bankasi-turkiye-ekonomisinin-bu-yil-yuzde-3-buyuyecegini-ongordu/4067209",
+      "published": "2026-09-24T04:56:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:29.380848+00:00"
     },
     {
       "id": "4b898d64f5b4d136",
@@ -778,6 +877,17 @@
       "fetched_at": "2026-09-24T04:35:37.634652+00:00"
     },
     {
+      "id": "7684570f7b88e1a1",
+      "source": "Sabah",
+      "title": "MSB acı haberi duyurdu: Uzman Çavuş görev sırasında rahatsızlanarak şehit oldu",
+      "summary": "Milli Savunma Bakanlığı, \"Zeytin Dalı Harekat Bölgesinde görevli kahraman silah arkadaşımız Tank Uzman Çavuş Coşkun Sevim görev sırasında rahatsızlanarak 23 Eylül’de şehit olmuştur.\" dedi. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/09/24/msb-aci-haberi-duyurdu-uzman-cavus-gorev-sirasinda-rahatsizlanarak-sehit-oldu",
+      "published": "2026-09-24T04:32:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:33.749086+00:00"
+    },
+    {
       "id": "8f9adf77d44ecf8d",
       "source": "OdaTV",
       "title": "İki çocuğunun annesi eşini tüfekle vurdu",
@@ -974,6 +1084,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T04:30:49.722665+00:00"
+    },
+    {
+      "id": "e56ca871efa0eaad",
+      "source": "Bir Gün",
+      "title": "Fiyatlar değişti: Motorine indirim geldi",
+      "summary": "Motorinin litre fiyatına 24 Eylül itibarıyla 5 lira 57 kuruş indirim geldi. İndirimin ardından motorinin litresi İstanbul’da yaklaşık 90,8 TL’ye, Ankara’da 91,9 TL’ye, İzmir’de ise 92,2 TL’ye gerilerken benzin fiyatlarında değişiklik olmadı.",
+      "link": "https://www.birgun.net/haber/fiyatlar-degisti-motorine-indirim-geldi-736576",
+      "published": "2026-09-24T04:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:32.305619+00:00"
     },
     {
       "id": "603c9c14368ef872",
@@ -1977,6 +2098,17 @@
       "fetched_at": "2026-09-24T03:40:35.272765+00:00"
     },
     {
+      "id": "0602773a31ceaab6",
+      "source": "Bir Gün",
+      "title": "ABD ile Çin’den Busan mutabakatını uzatma kararı",
+      "summary": "ABD Hazine Bakanı Scott Bessent, Çin ile kasım ayında sona erecek Busan mutabakatının 10 Ocak’a kadar uzatılması konusunda anlaşmaya vardıklarını açıkladı. Bessent, uzatmanın iki ülkeye ekonomik alanda daha kapsamlı bir anlaşma için ek süre sağlayacağını belirtti.",
+      "link": "https://www.birgun.net/haber/abd-ile-cinden-busan-mutabakatini-uzatma-karari-736575",
+      "published": "2026-09-24T03:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:32.305661+00:00"
+    },
+    {
       "id": "868db335bf46009a",
       "source": "OdaTV",
       "title": "Odatv Husi Dışişleri Bakanı'nın toplantısına davet edildi: 'Mekke'ye saldırı iddiasına ne dedi",
@@ -2239,6 +2371,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T02:05:39.869448+00:00"
+    },
+    {
+      "id": "dada0660b28fa06c",
+      "source": "Bir Gün",
+      "title": "Öğrencilere icra, TFF'ye mahsuplaşma",
+      "summary": "Yüz binlerce öğrencinin banka hesaplarına, ödenemeyen KYK borçları nedeniyle e-haciz uygulandı. Borçlarını yapılandıran çok sayıda öğrenci, yapılandırma taksitlerini dahi ödeyemedi. Gençlerin borçlarına yönelik çözüm üretilemezken Gençlik ve Spor Bakanlığı’nın mali denetimleri, çarpıcı bir gerçeği gün yüzüne çıkardı. Bakanlığın Türkiye Futbol Federasyonu’ndan (TFF) protokol kaynaklarını tahsil ede",
+      "link": "https://www.birgun.net/haber/ogrencilere-icra-tff-ye-mahsuplasma-736542",
+      "published": "2026-09-24T02:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:32.305830+00:00"
+    },
+    {
+      "id": "dea8004ffdf9c2e5",
+      "source": "Bir Gün",
+      "title": "Şiddet yapısal, önlemler polisiye",
+      "summary": "Manisa’daki okul saldırısı, eğitimde şiddetin önlenmesine yönelik politikaları bir kez daha gündeme getirdi. Raporlarda kalıcı çözümün polisiye önlemlerden değil yapısal sorunların giderilmesinden geçtiğine dikkat çekildi.",
+      "link": "https://www.birgun.net/haber/siddet-yapisal-onlemler-polisiye-736540",
+      "published": "2026-09-24T02:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:32.308483+00:00"
     },
     {
       "id": "2babd7e392b3395c",
@@ -4584,6 +4738,17 @@
       "fetched_at": "2026-09-23T22:55:46.357619+00:00"
     },
     {
+      "id": "706373883a0a577b",
+      "source": "Habertürk",
+      "title": "Motorin indirimi geldi mi?",
+      "summary": "Akaryakıt indirim veya zam haberleri yakından takip ediliyor. Dolar/TL kurunda yaşanan hareketlilik, Brent petrol varil fiyatındaki değişimler akaryakıt pompa fiyatlarını doğrudan etkilemeye devam ediyor. Benzin fiyatlarında şu an herhangi bir değişiklik öngörülmüyor. Peki Motorin indirimi var mı? 24 Eylül İstanbul, Ankara, İzmir benzin ve motorin litre fiyatı ne kadar oldu? İşte, İstanbul, Ankara",
+      "link": "https://www.haberturk.com/bilgi/foto/motorin-indirimi-son-dakika-motorin-indirimi-geldi-mi-24-eylul-benzin-ve-motorin-litre-fiyati-ne-kadar-oldu-istanbul-ankara-izmir-guncel-akaryakit-fiyatlari-3914646",
+      "published": "2026-09-23T22:47:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T05:05:26.233872+00:00"
+    },
+    {
       "id": "f96df0ecae334e6f",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Gastronomi kenti Gaziantep'te gıda güvenliği de ön planda tutuluyor",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-23T21:55:35.036255+00:00"
-    },
-    {
-      "id": "2054cc6d3d3634e7",
-      "source": "Halk TV",
-      "title": "İki başlı doğdu! Şimdi İki başıyla birden hayata tutunuyor: İki başı da yemek yiyor",
-      "summary": "ABD’nin Cape Cod bölgesinde bir nikelden bile hafif, iki başlı minik kaplumbağa bulundu. Her iki başının da canlı ve tepkili olduğu görülürken, yavrunun durumunun iyi olduğu belirtildi.",
-      "link": "https://halktv.com.tr/yasam/iki-basli-dogdu-simdi-iki-basiyla-birden-hayata-tutunuyor-iki-basi-da-yemek-yiyor-1057100h",
-      "published": "2026-09-23T21:48:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:50:43.338741+00:00"
-    },
-    {
-      "id": "e2c16be7356abd91",
-      "source": "Evrensel",
-      "title": "Cumhurbaşkanı Erdoğan, ABD'li şirketlerle görüşmesini paylaştı: ABD ile 100 milyar dolarlık ticaret hacmi hedefimize kısa sürede ulaşacağımıza inanıyorum",
-      "summary": "Cumhurbaşkanı Erdoğan, New York'ta şirket temsilcileriyle gerçekleştirdiği görüşmeye ilişkin paylaşımında, ABD ile ekonomik alandaki ivmeyi sürdüreceklerini ve 100 milyar dolarlık ticaret hacmi hedefine kısa sürede ulaşacaklarına inandığını söyledi.",
-      "link": "https://www.evrensel.net/haber/6001820/cumhurbaskani-erdogan-abd-li-sirketlerle-gorusmesini-paylasti-abd-ile-100-milyar-dolarlik-ticaret-hacmi-hedefimize-kisa-surede-ulasacagimiza-inaniyorum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-23T21:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T22:05:30.172660+00:00"
-    },
-    {
-      "id": "7756e55a4f8ff33c",
-      "source": "Habertürk",
-      "title": "Masterchef eleme adayı kim oldu?",
-      "summary": "TV8 ekranlarında yayınlanan Masterchef Türkiye’de haftanın eleme adayları belirleniyor. Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu'nun değerlendirmesiyle yemekte en iyi performansı sergileyen yarışmacı dokunulmazlığın sahibi oluyor. Yayınlanan son bölümde dokunulmazlık oyununun kazananı mavi takım oldu. İlk eleme adayı Recep ikinci eleme adayı Armağan oldu. Peki Masterchef eleme adayı kim ",
-      "link": "https://www.haberturk.com/bilgi/foto/masterchef-eleme-adayi-kim-oldu-dokunulmazligi-hangi-takim-kazandi-23-eylul-masterchef-34-eleme-adaylari-3914656",
-      "published": "2026-09-23T21:47:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:10:32.274245+00:00"
-    },
-    {
-      "id": "a5d8d4ca4dcb7424",
-      "source": "Yeni Şafak",
-      "title": "Nevşehir’de iki otomobil birbirine girdi: Dört yaralı",
-      "summary": "Nevşehir’de Aksaray-Nevşehir kara yolunda iki otomobilin çarpışması sonucu meydana gelen kazada 4 kişi yaralandı. Yaralılar, kentteki çeşitli hastanelere kaldırılarak tedavi altına alındı.",
-      "link": "https://www.yenisafak.com/gundem/nevsehirde-iki-otomobil-birbirine-girdi-dort-yarali-4858497",
-      "published": "2026-09-23T21:46:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:50:40.246067+00:00"
-    },
-    {
-      "id": "319f75583c9ffabf",
-      "source": "Diken",
-      "title": "Rüşvet soruşturması: Bodrum bölge liman başkanı gözaltına alındı",
-      "summary": "Rüşvet soruşturması: Bodrum bölge liman başkanı gözaltına alındı 24.09.2026 Diken Muğla'nın Bodrum ilçesinde liman başkanlığında rüşvet aldıkları gerekçesiyle iki kişi gözaltına alındı. The post Rüşvet soruşturması: Bodrum bölge liman başkanı gözaltına alındı appeared first on #site_linkat 24.09.2026 .",
-      "link": "https://www.diken.com.tr/rusvet-sorusturmasi-bodrum-bolge-liman-baskani-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=rusvet-sorusturmasi-bodrum-bolge-liman-baskani-gozaltina-alindi",
-      "published": "2026-09-23T21:46:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:50:43.543305+00:00"
-    },
-    {
-      "id": "a807a650070148e3",
-      "source": "Yeniçağ",
-      "title": "Cumhurbaşkanı Erdoğan, Ukrayna Devlet Başkanı Zelenski ile bir araya geldi",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Ukrayna Devlet Başkanı Volodimir Zelenski ile görüştü.",
-      "link": "https://www.yenicaggazetesi.com/cumhurbaskani-erdogan-ukrayna-devlet-baskani-zelenski-ile-bir-araya-geldi-1074781h.htm",
-      "published": "2026-09-23T21:44:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:40.630135+00:00"
-    },
-    {
-      "id": "5e4cc83c8f284534",
-      "source": "Habertürk",
-      "title": "Türkiye Fransa maçı hangi kanalda yayınlanacak?",
-      "summary": "UEFA Uluslar A Ligi’nde mücadele eden A Millî Takım Türkiye, Fransa ile karşı karşıya gelecek. Mücadeleyi canlı ve şifresiz izlemek isteyenler Türkiye Fransa maçı hangi kanalda canlı yayınlanacak, saat kaçta ve ne zaman sorusuna yanıt arıyor. Futbolseverler, milli takımın Uluslar Ligi'ndeki ilk maçını televizyon ekranlarından takip edebilecek. UEFA Uluslar Ligi'ndeki Türkiye - Fransa maçının hakem",
-      "link": "https://www.haberturk.com/bilgi/foto/turkiye-fransa-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-yayinlanacak-turkiye-fransa-maci-canli-yayin-bilgisi-3914631",
-      "published": "2026-09-23T21:44:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:55:31.500703+00:00"
-    },
-    {
-      "id": "da58d5506c073d9f",
-      "source": "Yeni Şafak",
-      "title": "Muş’ta tarlasında yetiştirdiği sebzeleri yurt içi ve yurt dışına gönderiyor",
-      "summary": "Muş’un Mercimekkale köyünde yaşayan Yücel Levent, kendi tarlasında yetiştirdiği biber, kabak, patlıcan ve domatesleri Erzurum yolu üzerinde kurduğu tezgahta taze ve kurutulmuş olarak satışa sunuyor.",
-      "link": "https://www.yenisafak.com/galeri/ekonomi/musta-tarlasinda-yetistirdigi-sebzeleri-yurt-ici-ve-yurt-disina-gonderiyor-4858496",
-      "published": "2026-09-23T21:44:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:38.910916+00:00"
-    },
-    {
-      "id": "cec0c33fd19fa0fb",
-      "source": "Yeni Şafak",
-      "title": "Köpeğe sopalı şiddet kamerada: Önce kovaladı sonra saldırdı",
-      "summary": "Adana’da inşaatta yatan bir köpeğe sopayla şiddet uygulayan kimliği belirsiz kişinin görüntüleri güvenlik kamerasına yansıdı. Vatandaşların şikayeti üzerine olayla ilgili soruşturma başlatıldı.",
-      "link": "https://www.yenisafak.com/gundem/kopege-sopali-siddet-kamerada-once-kovaladi-sonra-saldirdi-4858495",
-      "published": "2026-09-23T21:43:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:38.910950+00:00"
-    },
-    {
-      "id": "291dd26fa9582934",
-      "source": "Yeniçağ",
-      "title": "New York borsası düşüşle kapandı",
-      "summary": "New York borsası, petrol fiyatları ve ABD Hazine tahvillerinin getirilerindeki yükselişin etkisiyle günü düşüşle tamamladı.",
-      "link": "https://www.yenicaggazetesi.com/new-york-borsasi-dususle-kapandi-1074780h.htm",
-      "published": "2026-09-23T21:43:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:40.630167+00:00"
-    },
-    {
-      "id": "ddcc77172b8ad92b",
-      "source": "Cumhuriyet",
-      "title": "Tünelde feci kaza: 1 ölü, 2 yaralı",
-      "summary": "Artvin’in Yusufeli ilçesinde, Artvin-Erzurum kara yolu üzerindeki T-26 Tüneli’nde bir kamyonet ile iki tırın karıştığı kazada İran uyruklu tır sürücüsü Nadir Meyranver hayatını kaybetti, 2 kişi yaralandı. Kazayla ilgili inceleme başlatıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/tunelde-feci-kaza-1-olu-2-yarali-2540496",
-      "published": "2026-09-23T21:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:33.875369+00:00"
-    },
-    {
-      "id": "007079c0856056b3",
-      "source": "Halk TV",
-      "title": "Lise yurdunda asansör kazası! 15 yaşındaki öğrenci yaralandı",
-      "summary": "Bingöl&#039;ün Solhan ilçesindeki Hüseyin Artunç Lisesi&#039;nin pansiyonunda meydana gelen asansör kazasında 15 yaşındaki bir öğrenci yaralandı. Öğrenci hastaneye sevk edilirken kazayla ilgili adli ve idari inceleme başlatıldı.",
-      "link": "https://halktv.com.tr/turkiye/lise-yurdunda-asansor-kazasi-15-yasindaki-ogrenci-yaralandi-1057099h",
-      "published": "2026-09-23T21:42:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:42.867451+00:00"
-    },
-    {
-      "id": "a0b204b800442a8c",
-      "source": "Halk TV",
-      "title": "Bakanlık tek tek listeledi: Onlarca zeytinyağı markasında hile tespit edildi",
-      "summary": "Tarım ve Orman Bakanlığı’nın 23 Eylül tarihli güncel taklit ve tağşiş listesinde zeytinyağı ürünlerinde hile tespit edildi; bazı ürünlere daha ucuz tohum yağları karıştırıldığı belirlenirken 21 marka ve ürün listeye girdi.",
-      "link": "https://halktv.com.tr/turkiye/bakanlik-tek-tek-listeledi-onlarca-zeytinyagi-markasinda-hile-tespit-edildi-1057098h",
-      "published": "2026-09-23T21:41:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:42.867491+00:00"
-    },
-    {
-      "id": "34d66dc5dc785a33",
-      "source": "Yeni Şafak",
-      "title": "Hatay’da yangın paniği: Evden son anda kurtarıldılar",
-      "summary": "Hatay’da bir evde çıkan yangında içeride mahsur kalan 2’si çocuk 4 kişi, itfaiye ekiplerince kurtarıldı. Dumandan etkilenen 4 kişi hastaneye kaldırılırken, yangın büyümeden söndürüldü.",
-      "link": "https://www.yenisafak.com/gundem/hatayda-yangin-panigi-evden-son-anda-kurtarildilar-4858494",
-      "published": "2026-09-23T21:41:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:38.910977+00:00"
-    },
-    {
-      "id": "e15ef4790a580417",
-      "source": "Yeniçağ",
-      "title": "Bakan Bayraktar, Lübnan Enerji ve Su Bakanı Saddi ile görüştü",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Lübnan Enerji ve Su Bakanı Joseph Saddi ile görüştü. Bayraktar, görüşmede elektrik bağlantıları ve hidrokarbonların boru hatlarıyla taşınmasına yönelik ortak çalışma imkânlarını ele aldıklarını bildirdi.",
-      "link": "https://www.yenicaggazetesi.com/bakan-bayraktar-lubnan-enerji-ve-su-bakani-saddi-ile-gorustu-1074779h.htm",
-      "published": "2026-09-23T21:41:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T21:45:40.630202+00:00"
     }
   ]
 }

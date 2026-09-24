@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-24T01:26:26.021446+00:00",
+  "last_updated": "2026-09-24T01:31:14.697145+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 552,
+  "new_items_this_run": 553,
   "items": [
+    {
+      "id": "b4b7eb71f637b190",
+      "source": "Türkiye Gazetesi",
+      "title": "Cumhurbaşkanı Erdoğan’dan ABD'de Türk pastanesine ziyaret",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkevi’nin karşısında bulunan pastaneyi ziyaret ederek pastanenin sahibi ve pastanede bulunanlarla sohbet etti. Pastanede Cumhurbaşkanı Erdoğan ve heyetine çay ikram edildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/cumhurbaskani-erdogandan-new-yorkta-turk-pastanesine-ziyaret-1818132",
+      "published": "2026-09-24T01:28:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T01:30:50.063348+00:00"
+    },
     {
       "id": "f3c52962a5c4a458",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-23T20:15:45.142879+00:00"
-    },
-    {
-      "id": "215377cf080f574d",
-      "source": "Halk TV",
-      "title": "Amedspor'un rakibi belli oldu",
-      "summary": "Süper Lig&#039;de liderlik koltuğuna oturan Amedspor milli arada hazırlık maçı yapacak.",
-      "link": "https://halktv.com.tr/spor/amedsporun-rakibi-belli-oldu-1057080h",
-      "published": "2026-09-23T20:11:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-23T20:15:45.142907+00:00"
     }
   ]
 }

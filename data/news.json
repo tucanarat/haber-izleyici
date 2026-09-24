@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-24T03:11:02.121657+00:00",
+  "last_updated": "2026-09-24T03:16:32.787118+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 542,
+  "new_items_this_run": 540,
   "items": [
+    {
+      "id": "e5ccf2f2d803e946",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Cumhurbaşkanı Erdoğan ABD'den ayrıldı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler (BM) 81. Genel Kurulu'na katılmak ve çeşitli temaslarda bulunmak üzere geldiği ABD'nin New York şehrinden \"TUR\" uçağıyla İstanbul'a gitti.",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abdden-ayrildi/4067195",
+      "published": "2026-09-24T03:10:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T03:16:12.743086+00:00"
+    },
     {
       "id": "4c99baa8609bbab5",
       "source": "Habertürk",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-23T20:50:39.504253+00:00"
-    },
-    {
-      "id": "28bdbdd4c0cc595c",
-      "source": "Habertürk",
-      "title": "Alkin kardeşlerin ifadesi ortaya çıktı",
-      "summary": "Tera Grubu şirketlerinde bağımsız yönetim kurulu üyeliği yapan Kerem Alkin ve Emre Alkin’in ifadeleri ortaya çıktı. Savcılık, şirketin piyasa değerindeki hızlı yükseliş, yönetim kurulu görevlerinden ayrılmaları ve fon krizi sürecine ilişkin sorular yöneltti. Diğer yandan Gözaltı görüntüleri yayınlanan Tera Grubu Yönetim Kurulu Başkanı Emre Tezmen ve eski Genel Müdür Alper Öztürk, fon alımları, his",
-      "link": "https://www.haberturk.com/gundem/sermaye-piyasasi-sorusturmasinda-alkin-kardeslerin-ifadelerine-ulasildi-3914633",
-      "published": "2026-09-23T20:46:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T02:50:33.249055+00:00"
     }
   ]
 }

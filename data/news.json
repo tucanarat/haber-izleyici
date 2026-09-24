@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-09-24T21:31:13.657118+00:00",
+  "last_updated": "2026-09-24T21:35:51.638384+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 540,
+  "new_items_this_run": 537,
   "items": [
+    {
+      "id": "0ba4421cbcc34845",
+      "source": "Akşam",
+      "title": "Ankara Açık'ta Deniz Dilek çeyrek finale yükseldi",
+      "summary": "Türk Telekom Ankara Açık WTA 125 Tenis Turnuvası'nda milli tenisçilerden Deniz Dilek, son 16 turunda Çağla Büyükakçay'ı 2-1 yenerek çeyrek finale çıktı.",
+      "link": "https://www.aksam.com.tr/spor/ankara-acikta-deniz-dilek-ceyrek-finale-yukseldi/haber-1701172",
+      "published": "2026-09-24T21:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T21:35:33.322054+00:00"
+    },
+    {
+      "id": "34b4670f42466bed",
+      "source": "Yeniçağ",
+      "title": "Kaçak kazı yapanlara suçüstü",
+      "summary": "Aydın&#039;da serada kaçak kazı yapan 6 kişi suçüstü yakalandı.",
+      "link": "https://www.yenicaggazetesi.com/kacak-kazi-yapanlara-sucustu-1075145h.htm",
+      "published": "2026-09-24T21:34:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T21:35:35.435845+00:00"
+    },
+    {
+      "id": "2dec2e035ae8301b",
+      "source": "Gazete Pencere",
+      "title": "Dünya Eczacılar Günü",
+      "summary": "Dünya Eczacılar Günü 25 Eylül 2026",
+      "link": "https://www.gazetepencere.com/muhalif-takvimi/dunya-eczacilar-gunu-5-716733h",
+      "published": "2026-09-24T21:34:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T21:35:37.132526+00:00"
+    },
+    {
+      "id": "94bccbe945ba2ea3",
+      "source": "Yeniçağ",
+      "title": "WhatsApp'tan devrim niteliğinde karar: 1 Ekim'den itibaren ücretli olacak",
+      "summary": "WhatsApp, 1 Ekim’den itibaren bazı durumlarda mesajlaşmayı ücretlendirecek yeni uygulamasını duyurdu. Belirlenen mesaj sınırının aşılması halinde gönderilen her mesaj için ücret alınacak.",
+      "link": "https://www.yenicaggazetesi.com/whatsapptan-devrim-niteliginde-karar-1-ekimden-itibaren-ucretli-olacak-1075144h.htm",
+      "published": "2026-09-24T21:33:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T21:35:35.435887+00:00"
+    },
+    {
+      "id": "819aee3c5882e2cc",
+      "source": "Gazete Pencere",
+      "title": "Ekim öncesi İş Bankası emekli promosyonunda yeni dönem! Rakam netleşti",
+      "summary": "Ekim ayında İş Bankası 25 bin TL'ye varan promosyon ödemesi yapıyor.",
+      "link": "https://www.gazetepencere.com/gozden-kacmasin/ekim-oncesi-is-bankasi-emekli-promosyonunda-yeni-donem-rakam-netlesti-716732h",
+      "published": "2026-09-24T21:30:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T21:35:37.132562+00:00"
+    },
+    {
+      "id": "799bd53697590a2e",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Mamdani, Netanyahu'nun BM'deki konuşmasını \"asılsız yalanların tekrarı\" şeklinde yorumladı",
+      "summary": "New York Belediye Başkanı Zohran Mamdani, İsrail Başbakanı Binyamin Netanyahu'nun Birleşmiş Milletler (BM) Genel Kurulunda yaptığı konuşmanın içeriğine tepki göstererek, \"asılsız yalanları tekrarladığını\" belirtti.",
+      "link": "https://www.aa.com.tr/tr/dunya/mamdani-netanyahunun-bmdeki-konusmasini-asilsiz-yalanlarin-tekrari-seklinde-yorumladi/4068638",
+      "published": "2026-09-24T21:30:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T21:35:28.355800+00:00"
+    },
     {
       "id": "cba6aadcb9aceb00",
       "source": "Akşam",
@@ -17,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T21:30:51.450392+00:00"
+    },
+    {
+      "id": "2628f1338ba4e761",
+      "source": "Euronews Türkçe",
+      "title": "Erdoğan: Türkiye'nin F-35 programına dönüşü için ABD'den somut adım bekliyoruz",
+      "summary": "Erdoğan, Türkiye'nin ABD'nin F-35 savaş uçağı programına yeniden dahil olacağı konusunda umutlu olduğunu belirterek, Washington'dan bu yönde “somut” adımlar beklediğini söyledi.",
+      "link": "https://tr.euronews.com/2026/09/24/erdogan-turkiyenin-f-35-programina-donusu-icin-abdden-somut-adim-bekliyoruz",
+      "published": "2026-09-24T21:28:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T21:35:51.637126+00:00"
     },
     {
       "id": "db23cd4617e154f3",
@@ -3539,6 +3616,17 @@
       "fetched_at": "2026-09-24T19:20:37.849818+00:00"
     },
     {
+      "id": "0416bf6bc4770423",
+      "source": "Euronews Türkçe",
+      "title": "NATO Genel Sekreteri Rutte: “Rusya tehdidine karşı hazırız\"",
+      "summary": "NATO Genel Sekreteri Rutte, Danimarka istihbaratının Rusya kaynaklı tehditlere ilişkin yeni uyarılarının ardından ittifakın Avrupa ülkelerine yönelik Rusya kaynaklı hibrit saldırılara karşı hazırlıklı olduğunu belirtti.",
+      "link": "https://tr.euronews.com/2026/09/24/nato-genel-sekreteri-rutte-rusya-tehdidine-karsi-haziriz",
+      "published": "2026-09-24T19:15:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-24T21:35:51.637191+00:00"
+    },
+    {
       "id": "1a592a45f5b42aeb",
       "source": "Milliyet",
       "title": "Son dakika... Sermaye piyasası soruşturmasında 8 şüpheli hakkında karar",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T18:11:00.933284+00:00"
-    },
-    {
-      "id": "853820b3b9c80cdd",
-      "source": "Yeni Şafak",
-      "title": "Türkiye Yazarlar Birliği'nden Ersin Çelik'e destek: Haksız kampanyaları şiddetle kınıyoruz",
-      "summary": "Türkiye Yazarlar Birliği, Yeni Şafak yazarı Ersin Çelik’in fon krizine ilişkin yazısının ardından sanal medyada hedef gösterilmesine tepki gösterdi. Birlik, fikirlerin eleştirilmesinin demokratik bir hak olduğunu ancak linç kampanyaları ve itibarsızlaştırma girişimlerinin düşünce özgürlüğünün kendisine “ağır bir darbe” olduğunu belirterek Çelik’e destek verdi. Birlikten yapılan açıklamada Ersin Çe",
-      "link": "https://www.yenisafak.com/gundem/turkiye-yazarlar-birliginden-ersin-celike-destek-haksiz-kampanyalari-siddetle-kiniyoruz-4858758",
-      "published": "2026-09-24T18:04:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T18:05:35.549032+00:00"
-    },
-    {
-      "id": "781915eeb0bc2467",
-      "source": "DonanımHaber",
-      "title": "Xiaomi 18 Pro Max vs iPhone 18 Pro Max: Apple mı, Xiaomi mi?",
-      "summary": "Apple'ın iPhone 18 Pro modelleri tanıtmasından birkaç hafta sonra Xiaomi de kendi 18 Pro serisini tanıttı. Peki, hangisi daha iyi? Xiaomi 18 Pro Max vs iPhone 18 Pro Max karşılaştırması sizlerle.",
-      "link": "https://www.donanimhaber.com/xiaomi-18-pro-max-vs-iphone-18-pro-max-karsilastirma--210880",
-      "published": "2026-09-24T18:04:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T18:05:54.149898+00:00"
-    },
-    {
-      "id": "8b1887537cf88b93",
-      "source": "Star",
-      "title": "Montella'dan Fransa maçı öncesi dikkat çeken açıklamalar! \"Buradaki işimiz henüz bitmedi\"",
-      "summary": "Vincenzo Montella, A Milli Takım'daki geleceği ve Fransa maçı öncesi hedefleri hakkında konuştu. İtalyan teknik adam, işlerinin henüz bitmediğini ve yeniden ayağa kalkmak istediğini söyledi.",
-      "link": "https://www.star.com.tr/spor/montelladan-fransa-maci-oncesi-dikkat-ceken-aciklamalar-buradaki-isimiz-henuz-bitmedi-haber-2042384/",
-      "published": "2026-09-24T18:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T18:05:35.887538+00:00"
-    },
-    {
-      "id": "ff497514365427af",
-      "source": "Evrensel",
-      "title": "Engelli Emeklilik Dayanışma Derneği: 7538 sayılı Kanun değişikliği engelli bireyleri mağdur etti",
-      "summary": "Engelli Emeklilik Dayanışma Derneği, 15 Ocak 2025 tarihinde yürürlüğe giren 7538 sayılı Kanun değişikliği sonrasında yüz binlerce engelli yurttaşını ve ailelerini derin hak gasbı ile karşı karşıya geldiğini ve mağdur olduğunu belirtti.",
-      "link": "https://www.evrensel.net/haber/6001969/engelli-emeklilik-dayanisma-dernegi-7538-sayili-kanun-degisikligi-engelli-bireyleri-magdur-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-24T18:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T18:10:47.374007+00:00"
-    },
-    {
-      "id": "a95fed34b0edd1a6",
-      "source": "Aydınlık",
-      "title": "BAE, İran hava yolu şirketlerinin uçuşlarını askıya aldı",
-      "summary": "Birleşik Arap Emirlikleri (BAE), İran merkezli hava yolu şirketlerinin ülkeye ve ülkeden gerçekleştirdiği uçuşların ikinci bir duyuruya kadar durdurulduğunu açıkladı.",
-      "link": "https://www.aydinlik.com.tr/haber/bae-iran-hava-yolu-sirketlerinin-ucuslarini-askiya-aldi-591417",
-      "published": "2026-09-24T18:02:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T18:10:54.894739+00:00"
-    },
-    {
-      "id": "49bc64b5b2ee28e2",
-      "source": "Halk TV",
-      "title": "Zinedine Zidane'dan Arda Güler açıklaması",
-      "summary": "Fransa Milli Takım teknik direktörü Zinedine Zidane, Türkiye ile oynanacak UEFA Uluslar Ligi maçı öncesi açıklamalarda bulundu.",
-      "link": "https://halktv.com.tr/spor/zinedine-zidanedan-arda-guler-aciklamasi-1057324h",
-      "published": "2026-09-24T18:02:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T18:05:39.857959+00:00"
-    },
-    {
-      "id": "31ed08dd88e41e19",
-      "source": "Finans Gündem",
-      "title": "Fon soruşturmasında 8 tutuklama daha: Toplam sayı 34'e yükseldi",
-      "summary": "Fon soruşturmasında kapsamında gözaltına alınan 21 şüpheliden 8'i tutuklandı, toplam tutuklu sayısı 34'e yükseldi.",
-      "link": "https://www.finansingundemi.com/haber/fon-sorusturmasinda-8-tutuklama-daha-toplam-sayi-34e-yukseldi/1909430",
-      "published": "2026-09-24T18:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T19:35:54.699085+00:00"
-    },
-    {
-      "id": "664b31aa7a5c9b78",
-      "source": "Finans Gündem",
-      "title": "Eski TCMB yöneticisinin de aralarında bulunduğu 16 kişiye tutuklama talebi",
-      "summary": "Fon soruşturmasında eski TCMB Başkan Yardımcısı Erkan Kilimci, Ali Rıza İncekaya, Haldun Saffet İnal'ın da aralarında bulunduğu 16 şüpheli tutuklama talebiyle mahkemeye sevk edildi",
-      "link": "https://www.finansingundemi.com/haber/eski-tcmb-yoneticisinin-de-aralarinda-bulundugu-16-kisiye-tutuklama-talebi/1909430",
-      "published": "2026-09-24T18:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T18:20:50.026336+00:00"
     }
   ]
 }

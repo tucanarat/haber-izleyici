@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-25T23:25:45.252334+00:00",
+  "last_updated": "2026-09-25T23:31:05.917632+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 541,
+  "new_items_this_run": 539,
   "items": [
+    {
+      "id": "57d17aac414349cf",
+      "source": "BBC News Türkçe",
+      "title": "OpenAI, yapay zekanın uygunsuz davrandığı 'onlarca' vakayı araştırıyor",
+      "summary": "OpenAI Cuma günü yaptığı açıklamada, yapay zeka ajanlarının uygunsuz davranması nedeniyle web sitelerinin etkilenmiş olabileceği konusunda küresel ölçekte \"onlarca\" kurumu uyardığını belirtti.",
+      "link": "https://www.bbc.com/turkce/articles/c6ly77km30rzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T23:25:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T23:31:05.096502+00:00"
+    },
     {
       "id": "9252fd841595f3f9",
       "source": "Halk TV",
@@ -721,6 +732,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T22:20:43.124954+00:00"
+    },
+    {
+      "id": "d3a26621f2102270",
+      "source": "Yeniçağ",
+      "title": "Afyonkarahisar’da tır ile otomobiller çarpıştı: 1 ölü, 7 yaralı",
+      "summary": "Afyonkarahisar’da tuğla yüklü tır ve otomobillerin karıştığı kazada ortalık savaş alanına döndü. Kazada 1 kişi hayatını kaybetti, 7 kişi yaralandı.",
+      "link": "https://www.yenicaggazetesi.com/afyonkarahisarda-tir-ile-otomobiller-carpisti-1-olu-7-yarali-1075493h.htm",
+      "published": "2026-09-25T22:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T23:30:49.896929+00:00"
     },
     {
       "id": "5c1452440de4a387",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T19:20:46.107978+00:00"
-    },
-    {
-      "id": "863b6c53c7657b59",
-      "source": "Habertürk",
-      "title": "SPK’dan Özata Denizcilik kararı",
-      "summary": "Sermaye Piyasası Kurulu, Özata Denizcilik Sanayi ve Ticaret AŞ pay piyasasında gerçekleştirilen işlemlerle ilgili incelemesini tamamladı. Bazı kişiler hakkında suç duyurusu yapılırken, 2 yıl işlem yasağı ve lisans iptali kararları alındı",
-      "link": "https://www.haberturk.com/ekonomi/spk-ozatd-islemleri-nedeniyle-suc-duyurusu-yapti-3915171",
-      "published": "2026-09-25T19:17:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T19:25:24.786773+00:00"
-    },
-    {
-      "id": "1f540fcf50ded206",
-      "source": "Finans Gündem",
-      "title": "Tanju Özcan için istenen ceza belli oldu",
-      "summary": "Bolu Belediye Başkanı Tanju Özcan’ın da aralarında bulunduğu 19 sanığın yargılandığı davada savcılık mütalaasını sundu. Mütalaada Özcan hakkında toplam 69,5 yıldan 217 yıla kadar hapis cezası talep edildi.",
-      "link": "https://www.finansingundemi.com/haber/tanju-ozcan-icin-istenen-ceza-belli-oldu/1909555",
-      "published": "2026-09-25T19:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T19:31:01.601985+00:00"
     }
   ]
 }

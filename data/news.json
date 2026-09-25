@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-09-25T22:35:52.059631+00:00",
+  "last_updated": "2026-09-25T22:41:02.204339+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 514,
+  "new_items_this_run": 545,
   "items": [
+    {
+      "id": "5d1cee5fc30d0b78",
+      "source": "Akşam",
+      "title": "Gabigol gelmek istiyor",
+      "summary": "Brezilya basını, yükselişe geçen 30 yaşındaki Gabigol'ün Türk devlerine sıcak baktığını yazdı. Bonservisi Santos'ta olan yıldız golcünün ABD, Suudi Arabistan ve Katar'a kapıyı kapattığı belirtildi.",
+      "link": "https://www.aksam.com.tr/spor/gabigol-gelmek-istiyor/haber-1701433",
+      "published": "2026-09-25T22:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T22:40:40.915231+00:00"
+    },
+    {
+      "id": "853dec6b2a27c8e8",
+      "source": "Akşam",
+      "title": "Zinedine Zidane: Mbappe kamptan ayrılmak zorunda kaldı",
+      "summary": "Fransa Teknik Direktörü Zinedine Zidane, Türkiye maçının ardından yaptığı açıklamada, Mbappe'nin sakatlığı nedeniyle milli takım kampından ayrılmak zorunda kaldığını açıkladı. Zidane ayrıca \"Bugün bize galibiyeti getiren bireysel oyuncuların oluşturduğu takım ruhu\" dedi.",
+      "link": "https://www.aksam.com.tr/spor/zinedine-zidane-mbappe-kamptan-ayrilmak-zorunda-kaldi/haber-1701432",
+      "published": "2026-09-25T22:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T22:40:40.915269+00:00"
+    },
+    {
+      "id": "409de989af1f7299",
+      "source": "Akşam",
+      "title": "Arda Güler: Elimizden geleni yaptık",
+      "summary": "A Milli Futbol Takımı'nın genç yıldızı Arda Güler, Fransa maçının ardından, \"Son performanslarımızı unutturmak için elimizden geleni yaptık\" dedi.",
+      "link": "https://www.aksam.com.tr/spor/arda-guler-elimizden-geleni-yaptik/haber-1701431",
+      "published": "2026-09-25T22:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T22:40:40.915297+00:00"
+    },
     {
       "id": "d193188283e82078",
       "source": "Yeniçağ",
@@ -83,6 +116,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T22:20:43.124918+00:00"
+    },
+    {
+      "id": "20aa51aee8f0fc5a",
+      "source": "Finans Gündem",
+      "title": "Hürmüz Boğazı için kritik teklif: İran'dan ABD'ye 7 günlük plan",
+      "summary": "İran Dışişleri Bakanı Abbas Erakçi, Hürmüz Boğazı'nın gemi trafiğine açılması için arabulucular aracılığıyla ABD'ye 7 günlük \"kesin\" bir plan sunduklarını belirterek, kararın Washington'a ait olduğunu söyledi.",
+      "link": "https://www.finansingundemi.com/haber/hurmuz-bogazi-icin-kritik-teklif-irandan-abdye-7-gunluk-plan/1909571",
+      "published": "2026-09-25T22:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T22:40:53.229092+00:00"
     },
     {
       "id": "f3c32aff7dbc173e",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T19:35:37.148300+00:00"
-    },
-    {
-      "id": "61055a9da464babe",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Haaretz: Netanyahu, İsrail'in ABD'deki itibarını tarihin en dip seviyesine sürükledi",
-      "summary": "Birleşmiş Milletler (BM) 81. Genel Kurulu'nda protestolarla karşılaşan İsrail Başbakanı Binyamin Netanyahu'nun ABD'deki konumu ve itibarını yeni bir dip noktasına doğru sürüklediği bildirildi.",
-      "link": "https://www.aa.com.tr/tr/dunya/haaretz-netanyahu-israilin-abddeki-itibarini-tarihin-en-dip-seviyesine-surukledi/4069668",
-      "published": "2026-09-25T18:56:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T19:00:54.185144+00:00"
-    },
-    {
-      "id": "81948c02e03d23e3",
-      "source": "Gazete Pencere",
-      "title": "DMM’den fon piyasası açıklaması: 'Ekonomiyi tehdit eden bir risk yok'",
-      "summary": "Dezenformasyonla Mücadele Merkezi'nin açıklamasında fon piyasasında yaşanan gelişmelerin Türkiye ekonomisinin genelini kapsayan ciddi olumsuz sonuçlar doğuracağı yönündeki iddiaların gerçeği yansıtmadığı savunuldu.",
-      "link": "https://www.gazetepencere.com/gundem/dmmden-fon-piyasasi-aciklamasi-ekonomiyi-tehdit-eden-bir-risk-yok-716861h",
-      "published": "2026-09-25T18:55:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T18:55:39.707450+00:00"
-    },
-    {
-      "id": "fabbcd0461b03be0",
-      "source": "Cumhuriyet",
-      "title": "İtalya’da terör saldırısı hazırlığı: Neonazi gruba operasyon",
-      "summary": "İtalya’da terör saldırısı hazırlığında olduğu değerlendirilen Neonazi gruba yönelik 11 kentte operasyon düzenlendi. Operasyonda 14’ü çocuk 17 şüphelinin ev, iş yeri ve bilişim sistemlerinde arama yapıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/italya-da-teror-saldirisi-hazirligi-neonazi-gruba-operasyon-2541078",
-      "published": "2026-09-25T18:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T19:00:54.843081+00:00"
-    },
-    {
-      "id": "2dc756ec97bed4a2",
-      "source": "Yeni Akit",
-      "title": "Bolu davasında savcılık mütalaasını açıkladı! Tanju Özcan hakkında rekor hapis cezası...",
-      "summary": "Bolu Belediyesi'ne yönelik yürütülen irtikap soruşturması kapsamında yargılanan, görevden uzaklaştırılan Tanju Özcan hakkında savcılık mütalaasını sundu. Çeşitli usulsüzlük iddialarıyla hazırlanan dosyada Özcan için 69,5 yıldan 217 yıla kadar hapis cezası talep edilirken, tutuklu sanıkların mevcut hallerinin devamına karar verilmesi istendi.",
-      "link": "https://www.yeniakit.com.tr/haber/bolu-davasinda-savcilik-mutalaasini-acikladi-tanju-ozcan-hakkinda-rekor-hapis-cezasi-2024853.html",
-      "published": "2026-09-25T18:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T19:01:02.872225+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-25T01:21:01.956709+00:00",
+  "last_updated": "2026-09-25T01:26:24.458163+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 565,
+  "new_items_this_run": 564,
   "items": [
+    {
+      "id": "5628ced62c620e30",
+      "source": "Türkiye Gazetesi",
+      "title": "\"TARİHÎ DÖNÜM NOKTASI\"",
+      "summary": "ABD Başkanı Donald Trump, Beyaz Saray'daki akşam yemeğinde Çin Devlet Başkanı Şi Cinping'i ağırladı. Trump burada yaptığı açıklamada \"İlişkilerimiz hiç bu kadar iyi olmamıştı.\" ifadelerini kullandı. Şi Cinping ise \"Bugün, Çin-ABD ilişkileri açısından bir başka tarihi dönüm noktasına geldik.\" dedi.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/abd-ve-cin-arasinda-yeni-donem-sinyali-tarihi-donum-noktasina-geldik-1818394",
+      "published": "2026-09-25T01:18:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T01:26:04.568664+00:00"
+    },
     {
       "id": "5b7729e185a3b8ab",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T20:10:43.434405+00:00"
-    },
-    {
-      "id": "c4f5450e0a30e5fe",
-      "source": "Cumhuriyet",
-      "title": "Barcelona'dan Julian Alvarez açıklaması: 'Teklif yaptık ancak...'",
-      "summary": "Barcelona Sportif Direktörü Deco, Atletico Madrid forması giyen 26 yaşındaki Arjantinli forvet Julian Alvarez'in transferi hakkında açıklamalarda bulundu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/barcelona-dan-julian-alvarez-aciklamasi-teklif-yaptik-ancak-2540766",
-      "published": "2026-09-24T20:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T20:10:34.152481+00:00"
     }
   ]
 }

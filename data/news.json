@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T00:40:58.987316+00:00",
+  "last_updated": "2026-09-25T00:45:58.666960+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 523,
   "items": [
+    {
+      "id": "133b72ed9a11de99",
+      "source": "OdaTV",
+      "title": "Market hırsızı yakalandı",
+      "summary": "Ankara’nın Keçiören ilçesinde bir marketten oyuncak ve tespih çalan şahıs gözaltına alındı.",
+      "link": "https://www.odatv.com/guncel/market-hirsizi-yakalandi-120163970",
+      "published": "2026-09-25T00:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T00:45:43.408804+00:00"
+    },
     {
       "id": "09bbba34d1133754",
       "source": "Kısa Dalga",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T19:25:47.210942+00:00"
-    },
-    {
-      "id": "be965a6f7ad79c44",
-      "source": "Karar",
-      "title": "Şanlıurfa'da okul tatili uzatıldı mı? 25 Eylül 2026 Cuma hangi illerde eğitime ara verildi?",
-      "summary": "Merkez üssü Şanlıurfa Karaköprü olan 5.4 büyüklüğündeki depremin ardından, Şanlıurfa'da 24 Eylül Perşembe günü eğitime verilen 1 günlük aranın Cuma gününe uzatılıp uzatılmadığı merak ediliyor.",
-      "link": "https://www.karar.com/guncel-haberler/sanliurfada-okul-tatili-uzatildi-mi-25-eylul-2026-cuma-hangi-illerde-2074123",
-      "published": "2026-09-24T19:24:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T19:25:32.780585+00:00"
     }
   ]
 }

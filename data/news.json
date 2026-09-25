@@ -1,12 +1,309 @@
 {
-  "last_updated": "2026-09-25T11:41:02.960174+00:00",
+  "last_updated": "2026-09-25T11:46:03.731076+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 547,
+  "new_items_this_run": 550,
   "items": [
+    {
+      "id": "7e1a0269311130f9",
+      "source": "CNBC-e",
+      "title": "Garanti BBVA ve BBVA, New York İklim Haftası’nda Küresel İklim Gündeminin Merkezinde Yer Aldı",
+      "summary": "Garanti BBVA, 20-27 Eylül tarihlerinde gerçekleşen New York İklim Haftası boyunca, küresel iklim ve sürdürülebilirlik gündeminin ele alındığı farklı platformlarda yer aldı.",
+      "link": "https://www.cnbce.com/sirket-haberleri/garanti-bbva-ve-bbva-new-york-iklim-haftasinda-kuresel-iklim-gundeminin-merkezinde-yer-aldi-h38046",
+      "published": "2026-09-25T11:45:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:55.472278+00:00"
+    },
+    {
+      "id": "7a502bd3ed7b4c28",
+      "source": "Yeni Yaşam",
+      "title": "Fransa’da anaokulu öğretmenine tecavüz ve şiddet soruşturması",
+      "summary": "Paris’teki bir özel anaokulunda İngilizce öğretmeni, 22 çocuğa yönelik tecavüz, cinsel saldırı ve şiddet suçlamalarıyla tutuklandı Paris’in 10’uncu bölgesindeki özel Saint-Laurent Anaokulu’nda İngilizce dersi veren 31 yaşındaki Yasser G., 22 çocuğa yönelik tecavüz, cinsel saldırı ve şiddet suçlamalarıyla dün hakim karşısına çıkarılarak tutuklu yargılanmak üzere cezaevine gönderildi. Şüphelinin, Ey",
+      "link": "https://yeniyasamgazetesi9.com/fransada-anaokulu-ogretmenine-tecavuz-ve-siddet-sorusturmasi/",
+      "published": "2026-09-25T11:45:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:52.581121+00:00"
+    },
+    {
+      "id": "d537f308ad6a911c",
+      "source": "OdaTV",
+      "title": "İstanbul ve Diyarbakır'da 'Dragon Hacker' operasyonu",
+      "summary": "İstanbul ile Diyarbakır&#039;da, kişisel verileri yasa dışı sorgulamak için kullanılan &quot;Dragon Hacker&quot; isimli sorgu paneli tespit edildi. Ekipler, iki ilde de harekete geçti.",
+      "link": "https://www.odatv.com/guncel/iki-ilde-dragon-hacker-operasyonu-120164039",
+      "published": "2026-09-25T11:44:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:46.415847+00:00"
+    },
+    {
+      "id": "af7c066b9664b167",
+      "source": "Cumhuriyet",
+      "title": "The Economist'ten Türkiye için uyarı: 'Gelişmekte olan piyasa' statüsü risk altında",
+      "summary": "The Economist’in Türkiye’deki fon krizine ilişkin analizinde, yaşanan gelişmelerin sermaye piyasalarına ve Türkiye’nin uluslararası yatırımcılar nezdindeki konumuna etkileri ele alındı. Dergi, bazı fonlardaki olağanüstü yükselişlerin ardından yaşanan sert düşüşlere ve SPK’nin tasfiye sürecine dikkat çekti. The Economist, gerekli adımların atılmaması halinde Türkiye’nin \"gelişmekte olan piyasa\" sta",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/the-economist-ten-turkiye-icin-uyari-gelismekte-olan-piyasa-statusu-risk-altinda-2540968",
+      "published": "2026-09-25T11:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:37.286763+00:00"
+    },
+    {
+      "id": "6970bbab9d061b91",
+      "source": "Cumhuriyet",
+      "title": "90 milyonluk TOKİ vurgunu... 5 ilde operasyon, 8 gözaltı",
+      "summary": "TOKİ arsasını kooperatif mülkü gibi gösteren şahıslar, 17 kişiyi yaklaşık 90 milyon TL dolandırdı. Ankara merkezli 5 ilde düzenlenen eş zamanlı operasyonda, 9 şüpheliden 8'i gözaltına alındı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/90-milyonluk-toki-vurgunu-5-ilde-operasyon-8-gozalti-2540969",
+      "published": "2026-09-25T11:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:37.286801+00:00"
+    },
+    {
+      "id": "61ef8065618af6e5",
+      "source": "Star",
+      "title": "Sahte tapu tuzağı! TOKİ arsası üzerinden 90 milyon liralık vurgun",
+      "summary": "Ankara merkezli 5 ilde düzenlenen operasyonda, Toplu Konut İdaresi Başkanlığına (TOKİ) ait arsayı kurdukları kooperatifin mülkiyetindeymiş gibi göstererek 17 kişiyi yaklaşık 90 milyon lira dolandırdıkları iddiasıyla 8 şüpheli gözaltına alındı.",
+      "link": "https://www.star.com.tr/guncel/sahte-tapu-tuzagi-toki-arsasi-uzerinden-90-milyon-liralik-vurgun-haber-2042524/",
+      "published": "2026-09-25T11:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:42.859976+00:00"
+    },
+    {
+      "id": "34eab65241a3d80c",
+      "source": "Yeniçağ",
+      "title": "EspressoLab Araplara satılıyor: Boykotlara damga vurmuştu",
+      "summary": "2025 yılında boykotlara damga vuran Türk kahve zinciri EspressoLab için dikkat çeken satış anlaşması imzalandı. Şirketin yüzde 70 hissesinin BAE merkezli MAIR Group&#039;a devredilmesi için anlaşmaya varıldı. İşlemin tamamlanması düzenleyici kurumların onayına bağlı olacak.",
+      "link": "https://www.yenicaggazetesi.com/espressolab-araplara-satiliyor-boykotlara-damga-vurmustu-1075310h.htm",
+      "published": "2026-09-25T11:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:44.364381+00:00"
+    },
+    {
+      "id": "570a991081bde2f0",
+      "source": "Ekonomim",
+      "title": "BIST100 Sert Düştü! Piyasalar Haftayı Nasıl Kapatacak? | Ekonomi Masası | 25 Eylül",
+      "summary": "Berfin Çipa’nın moderatörlüğünde Ekonomi Masası, Türkiye ekonomisini ve küresel piyasaları gazetecilerin saha notları ve uzmanların yorumlarıyla takip ediyor.",
+      "link": "https://www.ekonomim.com/video-galeri/gundem/bist100-sert-dustu-piyasalar-haftayi-nasil-kapatacak-ekonomi-masasi-25-eylul-video-920741",
+      "published": "2026-09-25T11:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:54.323536+00:00"
+    },
+    {
+      "id": "8842d56ba8c6c381",
+      "source": "Yeniçağ",
+      "title": "Vakıf yönetimini eleştirdi, bıçaklı saldırıya uğradı: Sonrasında yaşananlar tepki çekti",
+      "summary": "Daha önce 7 kız çocuğunun cinsel istismara uğradığı olayla gündeme gelen Uygur İlim Marifet Vakfı, bu kez bıçaklı saldırı iddiasıyla gündemde. Vakıf yönetimini eleştiren Mümin Muhammed saldırıya uğrarken, yönetici Habibullah Küseni’nin serbest bırakılan iki şüpheliyle video çekmesi tepki topladı.",
+      "link": "https://www.yenicaggazetesi.com/vakif-yonetimini-elestirdi-bicakli-saldiriya-ugradi-sonrasinda-yasananlar-tepki-cekti-1075309h.htm",
+      "published": "2026-09-25T11:43:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:44.364429+00:00"
+    },
+    {
+      "id": "d813881d60f1f8be",
+      "source": "Star",
+      "title": "Kirli ocak başlıklarını temizlemenin yolu! Basitçe uygulanıyor...",
+      "summary": "Türkiye'deki hemen her evde ocak görmek mümkün. Çünkü yemeklerin pişirilmesine ve ısıtılmasına yardımcı oluyor. Ancak bazen hiç istenmese de tencere veya tavadaki yağlar ya da yemek kalıntıları ocağa sıçrayabiliyor. Kısa sürede temizlenmediğinde ise, daha inatçı bir leke haline gelebiliyor. Peki, kirli ocak başlıkları nasıl temizlenir? İşte detaylar...",
+      "link": "https://www.star.com.tr/ekstra/kirli-ocak-basliklarini-temizlemenin-yolu-basitce-uygulaniyor-haber-2042523/",
+      "published": "2026-09-25T11:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:42.860022+00:00"
+    },
+    {
+      "id": "98dafedf1a648fb4",
+      "source": "Yeni Akit",
+      "title": "Dragon Hacker’a 2 gözaltı! 101 milyon kimlik 118 milyon GSM numarası satmışlar",
+      "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında, kişisel verilerin yasa dışı olarak sorgulanmasına imkân sağlayan “Dragon Hacker” isimli sorgu paneli tespit edildi. Panele ait sunucuda; 101 milyon kimlik bilgisi, 118 milyon GSM numarası ile eşleştirilmiş T.C. kimlik numarası verisi bulunduğu belirlendi. Sistemin kurucusu ve reklamcısı olan 2 kişi yakalandı.",
+      "link": "https://www.yeniakit.com.tr/haber/dragon-hackera-2-gozalti-101-milyon-kimlik-118-milyon-gsm-numarasi-satmislar-2024789.html",
+      "published": "2026-09-25T11:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:43.425803+00:00"
+    },
+    {
+      "id": "7982f7b224a4f228",
+      "source": "Gazete Pencere",
+      "title": "10 Ekim Gar Katliamı davası ertelendi",
+      "summary": "10 Ekim 2015'te gerçekleşen ve 103 kişinin yaşamını yitirdiği 10 Ekim Gar Katliamı davası 3 Aralık'a ertelendi.",
+      "link": "https://www.gazetepencere.com/gundem/10-ekim-gar-katliami-davasi-ertelendi-716811h",
+      "published": "2026-09-25T11:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:46.193945+00:00"
+    },
+    {
+      "id": "8763e2475b242a77",
+      "source": "Serbestiyet",
+      "title": "Dev kahve zinciri Espressolab Arap devine satıldı",
+      "summary": "Boykot çağrıları ile bir süre gündeme oturan EspressoLab'ın büyük hissesi satıldı. Yeni sahiplerinin Birleşik Arap Emirlikleri'nden olduğu öğrenildi. Dev kahve zinciri Espressolab Arap devine satıldı yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
+      "link": "https://serbestiyet.com/featured/dev-kahve-zinciri-espressolab-arap-devine-satildi-249555/",
+      "published": "2026-09-25T11:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:51.498212+00:00"
+    },
+    {
+      "id": "4a60f4a5ea3ccec7",
+      "source": "Halk TV",
+      "title": "Trabzonspor'dan Salah hamlesi: Yasal işlem başlatılacak",
+      "summary": "Trabzonspor, Mohamed Salah&#039;ın adı ve görsellerinin izinsiz olarak ticari amaçlarla kullanılması sonrası harekete geçti.",
+      "link": "https://halktv.com.tr/spor/trabzonspordan-salah-hamlesi-yasal-islem-baslatilacak-1057494h",
+      "published": "2026-09-25T11:42:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:46.778186+00:00"
+    },
+    {
+      "id": "18f32a883a00e2e3",
+      "source": "Gazete Pencere",
+      "title": "Bendevi Palandöken'den rakibine suç duyurusu: Şantaj ve usulsüz para transferi iddiası",
+      "summary": "TESK Genel Başkanı Bendevi Palandöken, 22. Olağan Genel Kurulu öncesinde düzenlediği basın toplantısında, rakibi TŞOF Genel Başkanı Mehmet Yiğiner hakkında şantaj ve usulsüz para transferleri yapıldığı iddiasıyla suç duyurusunda bulunduğunu açıkladı.",
+      "link": "https://www.gazetepencere.com/ekonomi/bendevi-palandokenden-rakibine-suc-duyurusu-santaj-ve-usulsuz-para-transferi-716810h",
+      "published": "2026-09-25T11:42:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:46.193987+00:00"
+    },
+    {
+      "id": "ff555b414c0a58c7",
+      "source": "Yeniçağ",
+      "title": "AK Parti tartışmalı seçimle almıştı: Üsküdar anketinde son durum",
+      "summary": "YENİ Parti Grup Başkanvekili Gökhan Günaydın, Üsküdar&#039;a ilişkin Ağustos 2026 tarihli seçim anketini paylaştı. Paylaşımında Günaydın “Üsküdar&#039;a çöktünüz, Üsküdar&#039;ı kazanamadınız. İstanbul sonunuz olacak” ifadelerini kullandı.",
+      "link": "https://www.yenicaggazetesi.com/ak-parti-tartismali-secimle-almisti-uskudar-anketinde-son-durum-1075308h.htm",
+      "published": "2026-09-25T11:42:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:44.364466+00:00"
+    },
+    {
+      "id": "a012b6d3b256be82",
+      "source": "Halk TV",
+      "title": "Şimşek istifası yalanı 56 milyarı yuttu",
+      "summary": "Bakan Şimşek&#039;in istifa ettiğine yönelik sosyal medyada dolaşıma sokulan asılsız iddia, Borsa İstanbul&#039;da büyük kayıp getirdi. Zaten fon skandalıyla diplerde seyreden borsada, seansın kapanmasına dakikalar kala 56 milyar lira eridi.",
+      "link": "https://halktv.com.tr/ekonomi/simsek-istifasi-yalani-56-milyari-yuttu-1057493h",
+      "published": "2026-09-25T11:42:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:46.778228+00:00"
+    },
+    {
+      "id": "9b7bd0b8888a7757",
+      "source": "Cumhuriyet",
+      "title": "Hastalık vurdu, fiyatı uçtu! İlçenin geçim kaynağı pazara indi...",
+      "summary": "Kastamonu'nun İnebolu ilçesinde yetişen kestaneler ağaçlardan toplanmaya başlandı.",
+      "link": "https://www.cumhuriyet.com.tr/yasam/hastalik-vurdu-fiyati-uctu-ilcenin-gecim-kaynagi-pazara-indi-2540967",
+      "published": "2026-09-25T11:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:37.286827+00:00"
+    },
+    {
+      "id": "12ce550b39e548c3",
+      "source": "Star",
+      "title": "Netanyahu rezil rüsva oldu! Liberman: Trump, Başkan Erdoğan ile görüştü seninle görüşmedi",
+      "summary": "İsrailli siyasetçi Avigdor Liberman, katil Netanyahu'nun BM Genel Kurulu'ndaki konuşması esnasındaki tabloyla, ülkesinin dünyadaki konumunun \"eşi benzeri görülmemiş\" şekilde düştüğünü itiraf etti. Liberman, \"ABD Başkanı Trump, Türkiye ve Orta Doğu ülkelerinin liderleri dahil çok sayıda liderle bir araya geldi ancak Netanyahu ile görüşmedi çünkü onu bir yük olarak görüyor.\" dedi. İsrail basını da N",
+      "link": "https://www.star.com.tr/dunya/netanyahu-rezil-rusva-oldu-liberman-trump-baskan-erdogan-ile-gorustu-seninle-gorusmedi-haber-2042522/",
+      "published": "2026-09-25T11:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:42.860094+00:00"
+    },
+    {
+      "id": "349c9344bece918f",
+      "source": "Yeni Şafak",
+      "title": "Şırnak balı dünyada zirveye yerleşti: Yusuf Göktepe Paris'in ardından Londra'dan da altın madalya ile döndü",
+      "summary": "Şırnak'ta bal üreten Yusuf Göktepe, 2 yıl önce Paris'ten sonra, bu sene Londra'da düzenlenen yarışmadan da altın madalya ile döndü.Kendi markasıyla bal üretimini sürdüren Göktepe, bu yıl da London İnternatıonal Honey Quality Competition (Londra Uluslararası Kaliteli Bal Yarışması'nda) altın madalya kazandı.",
+      "link": "https://www.yenisafak.com/galeri/gundem/sirnak-bali-dunyada-zirveye-yerlesti-yusuf-goktepe-parisin-ardindan-londradan-da-altin-madalya-ile-dondu-4858961",
+      "published": "2026-09-25T11:41:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:42.261494+00:00"
+    },
+    {
+      "id": "d4df016b300a5a1c",
+      "source": "Yeni Şafak",
+      "title": "Cumhurbaşkanı Erdoğan cuma namazını Üsküdar'da kıldı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, cuma namazını İstanbul Üsküdar'daki Hz. Ali Camisi'nde kıldı. Erdoğan, namazın ardından vatandaşlarla bir süre sohbet ederek camiden ayrıldı.",
+      "link": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-cuma-namazini-uskudarda-kildi-4858960",
+      "published": "2026-09-25T11:41:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:42.261529+00:00"
+    },
+    {
+      "id": "e46f69c14b0ca2ce",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "TSK Güçlendirme Vakfı, 39. kuruluş yıl dönümünü öğrencilerle kutladı",
+      "summary": "Türk Silahlı Kuvvetlerini Güçlendirme Vakfı (TSKGV), 39. kuruluş yıl dönümünü, Türkiye'nin farklı illerinden gelen ve vakıf yararına çalışmalar yürüten 400 öğrencinin katılımıyla gerçekleştirilen tesis ziyaretleriyle kutladı.",
+      "link": "https://www.aa.com.tr/tr/gundem/tsk-guclendirme-vakfi-39-kurulus-yil-donumunu-ogrencilerle-kutladi/4069192",
+      "published": "2026-09-25T11:41:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:37.025574+00:00"
+    },
+    {
+      "id": "7a54e4a50d3de674",
+      "source": "Halk TV",
+      "title": "Fenerbahçe'nin 2 transferi şimdiden ortaya çıktı: 1'i İngiltere'de olay oldu",
+      "summary": "Fenerbahçe&#039;nin ara dönem için 2 transferi şimdiden ortaya çıktı. 1&#039;i İngiltere&#039;de olay oldu.",
+      "link": "https://halktv.com.tr/spor/fenerbahcenin-2-transferi-simdiden-ortaya-cikti-1i-ingilterede-olay-oldu-1057492h",
+      "published": "2026-09-25T11:41:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:46.778259+00:00"
+    },
+    {
+      "id": "7cd74e640207bec7",
+      "source": "OdaTV",
+      "title": "Gar Katliamı davasında yeni gelişme: 3 Aralık'a ertelendi",
+      "summary": "10 Ekim Gar Katliamı davası 3 Aralık&#039;a ertelendi.",
+      "link": "https://www.odatv.com/guncel/gar-katliami-davasinda-yeni-gelisme-3-aralika-ertelendi-120164038",
+      "published": "2026-09-25T11:40:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:46.415877+00:00"
+    },
+    {
+      "id": "afd2f46c0637587d",
+      "source": "Milliyet",
+      "title": "Ankara merkezli 5 ilde 'konut dolandırıcılığı' operasyonu",
+      "summary": "Ankara Cumhuriyet Başsavcılığından yapılan açıklamaya göre, \"nitelikli dolandırıcılık\" ve \"resmi belgede sahtecilik\" suçları kapsamında yürütülen soruşturmada, bir yapı kooperatifi üzerinden haksız kazanç sağlandığı belirlendi. Soruşturma dosyasına göre, şüpheli G.K'nin kurucusu olduğu kooperatif aracılığıyla TOKİ mülkiyetindeki bir arsa, kooperatife ait gibi tanıtıldı. Zanlıların, mağdurların güv",
+      "link": "https://www.milliyet.com.tr/gundem/ankara-merkezli-5-ilde-konut-dolandiriciligi-operasyonu-7667339",
+      "published": "2026-09-25T11:40:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:41.028355+00:00"
+    },
+    {
+      "id": "0d666525ea8c05c9",
+      "source": "Türkiye Gazetesi",
+      "title": "Real Madrid'de kriz: Mourinho'nun başı dertte",
+      "summary": "İspanya LaLiga'nın ilk 7 haftasında 2 yenilgi alan ve lider Barcelona'nın 6 puan gerisine düşen Real Madrid'de kriz çıktı. Atletico Madrid derbisinde alınan 2-1'lik mağlubiyet bardağı taşırırken, Başkan Florentino Perez ile teknik direktör Jose Mourinho arasında tansiyonun yükseldiği öne sürüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/real-madridde-el-clasico-oncesi-ortalik-karisti-mourinhoyu-bekleyen-tehlike-1818513",
+      "published": "2026-09-25T11:39:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:39.183031+00:00"
+    },
+    {
+      "id": "d5e5bb0e0211681d",
+      "source": "Habertürk",
+      "title": "Fon ödemeleriyle ilgili iddialara yalanlama",
+      "summary": "Dezenformasyonla Mücadele Merkezi, tasfiye edilen veya edilecek fonların yatırımcı ödemelerini karşılamak amacıyla vatandaşlardan ücret, vergi ya da katkı payı alınacağı yönündeki iddiaların asılsız olduğunu açıkladı",
+      "link": "https://www.haberturk.com/ekonomi/dezenformasyonla-mucadele-merkezinden-fon-odemeleri-aciklamasi-3915070",
+      "published": "2026-09-25T11:39:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:33.950888+00:00"
+    },
     {
       "id": "8338ec161162ca70",
       "source": "Karar",
@@ -85,6 +382,17 @@
       "fetched_at": "2026-09-25T11:40:34.569366+00:00"
     },
     {
+      "id": "0555d139d5ae32eb",
+      "source": "Habertürk",
+      "title": "Galatasaray’a GSYİAD desteği!",
+      "summary": "1905 Galatasaraylı Yönetici ve İş İnsanları Derneği (GSYİAD), Galatasaray Kadın Voleybol Takımı’nın forma ve sırt sponsorluğunu üstlendi.",
+      "link": "https://www.haberturk.com/spor/galatasaray-kadin-voleybol-takimina-gsyiad-destegi-3915057",
+      "published": "2026-09-25T11:35:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:33.950957+00:00"
+    },
+    {
       "id": "3248fab8a09885e3",
       "source": "Halk TV",
       "title": "Yıllarca 'zararsız' dediler: 485 kimyasal için kanser alarmı verildi",
@@ -94,6 +402,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T11:40:44.695364+00:00"
+    },
+    {
+      "id": "ff40f41e60b5181f",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Yemen'de hükümet güçleri Lahic'teki stratejik Numan Dağı'nı ele geçirdiklerini duyurdu",
+      "summary": "Yemen hükümetine bağlı Vatan Kalkanı Güçleri, Amalika Tugayları ve aşiret mensuplarının desteğiyle Lahic vilayetindeki stratejik Numan Dağı'nın zirvesi ile Dar el-Kafir bölgesini ele geçirdiklerini açıkladı.",
+      "link": "https://www.aa.com.tr/tr/dunya/yemende-hukumet-gucleri-lahicteki-stratejik-numan-dagini-ele-gecirdiklerini-duyurdu/4069187",
+      "published": "2026-09-25T11:35:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:37.025613+00:00"
     },
     {
       "id": "130e0b6b0e7a53e9",
@@ -305,6 +624,17 @@
       "fetched_at": "2026-09-25T11:40:44.304748+00:00"
     },
     {
+      "id": "bcf6d2c67ed3444a",
+      "source": "Habertürk",
+      "title": "\"MASAK'ın üzerine düşeni yapması gerekiyor\"",
+      "summary": "YENİ Parti Genel Başkanı Özgür Özel, fon piyasalarına ilişkin İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmaya ilişkin, \"Maliye Bakanına ve ona bağlı MASAK’a çok önemli görev düşüyor. MASAK’ın hızlı bir şekilde üzerine düşeni yapması gerekiyor\" dedi",
+      "link": "https://www.haberturk.com/gundem/ozgur-ozel-masak-in-uzerine-duseni-yapmasi-gerekiyor-3915069",
+      "published": "2026-09-25T11:32:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:33.950998+00:00"
+    },
+    {
       "id": "8f368950f085ca67",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Ankara merkezli 5 ilde \"konut dolandırıcılığı\" soruşturmasında 8 gözaltı",
@@ -314,6 +644,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T11:35:26.768629+00:00"
+    },
+    {
+      "id": "966b85c228a2e8a9",
+      "source": "Habertürk",
+      "title": "Sinner, Çin Açık'tan çekildi!",
+      "summary": "Teniste tek erkeklerin 1 numarası Jannik Sinner, sakatlığı sebebiyle Çin Açık Tenis Turnuvası'nda yer almayacağını açıkladı.",
+      "link": "https://www.haberturk.com/spor/jannik-sinner-cin-acik-tan-cekildi-3915067",
+      "published": "2026-09-25T11:32:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:33.951082+00:00"
     },
     {
       "id": "187f45c71afd9caf",
@@ -646,6 +987,17 @@
       "fetched_at": "2026-09-25T11:35:45.147986+00:00"
     },
     {
+      "id": "06f22ce7be3f9a27",
+      "source": "Habertürk",
+      "title": "Aynı mağazada benzer olay... Ressam suçüstü yakalandı",
+      "summary": "İstanbul’da ressam Dem Sevinç K. (28), bir mağazadan toplam değeri 47 bin 860 lira olan 24 parça ürünü alarak ödeme yapmadan dışarı çıktı. Görevliler tarafından yakalanan Dem Sevinç K., polis ekipleri tarafından emniyete götürülürken, ürünler mağazaya teslim edildi. İfadesinde arkadaşını beklediğini ve ürünlerin ücretini ödemek istediğini söyleyen şüpheli, işlemlerin ardından serbest bırakıldı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-ayni-magazada-benzer-olay-ressam-sucustu-yakalandi-3914968",
+      "published": "2026-09-25T11:25:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:33.951197+00:00"
+    },
+    {
       "id": "d567ac28725fc154",
       "source": "Habertürk",
       "title": "101 milyon kimlik verisiyle ilgili flaş gelişme",
@@ -655,6 +1007,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T11:30:42.462052+00:00"
+    },
+    {
+      "id": "e61d5608da9266a8",
+      "source": "Habertürk",
+      "title": "Çifte ölümde sır çözüldü",
+      "summary": "Ankara'da, çalışır durumda park halindeki otomobilde cansız bedenleri bulunan 31 yaşındaki Berkay Yitkin ile 37 yaşındaki Emre Aktunç'un, ölüm nedeni belli oldu. İki arkadaşın, egzozdan sızan karbonmonoksit gazından zehirlendiği ortaya çıktı. Yitkin ve Aktunç'un cenazeleri toprağa verildi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-otomobilde-cansiz-bulunmuslardi-olum-nedenleri-belli-oldu-3914981",
+      "published": "2026-09-25T11:25:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:33.951229+00:00"
     },
     {
       "id": "e8fed89f7eea7c7d",
@@ -1326,6 +1689,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T11:15:39.008364+00:00"
+    },
+    {
+      "id": "5ff7d3b551d5907b",
+      "source": "Independent Türkçe",
+      "title": "Sevilen dizinin yaratıcıları, yeni filmdeki eksik oyuncularla ilgili konuştu",
+      "summary": "The Inbetweeners hayranları, popüler sitcomun gelecek yıl üçüncü bir sinema uyarlamasıyla geri döneceği haberini hâlâ kutluyor ancak oyuncu kadrosundan bir ismin eksikliği gündemden düşmüyor. Orijinal dizinin 4 başrol oyuncusunun (Simon Bird, Joe Thomas, Blake Harrison ve James Buckley) filmde yer alacağı kesinleşirken, popüler karakter Charlotte Hinchcliffe'i canlandıran Emily Atack, katılımı hen",
+      "link": "https://www.indyturk.com/node/782950/k%C3%BClt%C3%BCr/sevilen-dizinin-yarat%C4%B1c%C4%B1lar%C4%B1-yeni-filmdeki-eksik-oyuncularla-ilgili-konu%C5%9Ftu",
+      "published": "2026-09-25T11:11:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T11:45:51.597895+00:00"
     },
     {
       "id": "f49c8693d936dd81",
@@ -5132,380 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T09:55:37.815267+00:00"
-    },
-    {
-      "id": "04ee77f64cd8c5e2",
-      "source": "Karar",
-      "title": "Ümit Özdağ'dan İsviçre'de 'fon' iddiası: Türk bürokratın parasına el konulduğunu öne sürdü",
-      "summary": "Zafer Partisi lideri Özdağ, Türkiye'deki bir devlet görevlisinin İsviçre'de bir bankaya fon geliri beyanıyla yüklü miktarda para yatırmak istediğini, ancak işlemin şüpheli bulunarak incelemeye alındığını iddia etti.",
-      "link": "https://www.karar.com/guncel-haberler/umit-ozdagdan-isvicrede-fon-iddiasi-turk-burokratin-parasina-el-2074249",
-      "published": "2026-09-25T09:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:38.515555+00:00"
-    },
-    {
-      "id": "f2d10b5365d38a48",
-      "source": "Yeniçağ",
-      "title": "Radar denetimi yapan polis aracına çarpmıştı: Hastaneden acı haber gildi",
-      "summary": "Sakarya’nın Arifiye ilçesinde radar görevi yapan polis aracına ve kamyona çarparak ağır yaralanan TIR sürücüsü İsa Himmetoğlu (43), kaldırıldığı hastanede yapılan tüm müdahalelere rağmen hayatını kaybetti. Cenazesi memleketi Karabük’e gönderileceği öğrenildi.",
-      "link": "https://www.yenicaggazetesi.com/radar-denetimi-yapan-polis-aracina-carpmisti-hastaneden-aci-haber-gildi-1075265h.htm",
-      "published": "2026-09-25T09:51:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:39.137930+00:00"
-    },
-    {
-      "id": "f1dffe56c245da75",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Kazakistan'da Hazar Denizi'ndeki tatbikatta 14 asker hayatını kaybetti",
-      "summary": "Kazakistan'da Hazar Denizi'nde dün düzenlenen tatbikat sırasında şiddetli rüzgar nedeniyle denize sürüklenen 17 askerden 14'ü hayatını kaybetti, 3 asker kurtarıldı.",
-      "link": "https://www.aa.com.tr/tr/dunya/kazakistanda-hazar-denizindeki-tatbikatta-14-asker-hayatini-kaybetti/4069052",
-      "published": "2026-09-25T09:51:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:32.468939+00:00"
-    },
-    {
-      "id": "a7cf5a0c5fc94f53",
-      "source": "Habertürk",
-      "title": "Türk Diline Hizmet Ödülleri sahiplerini buldu",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, 26 Eylül Dil Bayramı’nın 94. yılında Türkçenin milletin hafızasını, kimliğini ve istiklalini taşıdığını vurguladı. Sosyal medya dili, yabancı kavramların kontrolsüz kullanımı ve dijital dünyanın oluşturduğu alışkanlıklara karşı Türkçenin korunması gerektiğine dikkati çeken Ersoy, Türk Diline Hizmet Ödülleri’ne layık görülen bilim, kültür ve sanat insanlar",
-      "link": "https://www.haberturk.com/kultur-sanat/turk-diline-hizmet-odulleri-sahiplerini-buldu-3915038",
-      "published": "2026-09-25T09:51:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T10:00:51.796925+00:00"
-    },
-    {
-      "id": "8a1e05b43ac189f1",
-      "source": "Akşam",
-      "title": "Kazakistan'da askeri tatbikat! Çelik'ten taziye mesajı",
-      "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Kazakistan'da Hazar Denizi'nde dün düzenlenen tatbikatta hayatını kaybeden askerler için taziye mesajı yayımladı.",
-      "link": "https://www.aksam.com.tr/guncel/kazakistanda-askeri-tatbikat-celikten-taziye-mesaji/haber-1701295",
-      "published": "2026-09-25T09:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:36.662075+00:00"
-    },
-    {
-      "id": "a83b51b3a3e9f0d4",
-      "source": "Yeni Yaşam",
-      "title": "SAMER, Rojava-Suriye’de entegrasyon ve medya söylemleri raporunu yayımladı",
-      "summary": "SAMER, Rojava ve Suriye’de QSD&#8217;nin feshi, entegrasyon ve yeni siyasal düzene ilişkin hazırladığı sosyal medya nitel analiz raporunu kamuoyuyla paylaştı Saha Araştırmaları Merkezi (SAMER), 22 Ağustos ile 15 Eylül 2026 tarihleri arasında yaşanan gelişmeler ışığında hazırladığı &#8220;Rojava/Suriye’de entegrasyon, SDG’nin feshi ve yeni siyasal düzene ilişkin sosyal medya söylemlerinin nitel ana",
-      "link": "https://yeniyasamgazetesi9.com/samer-rojava-suriyede-entegrasyon-ve-medya-soylemleri-raporunu-yayimladi/",
-      "published": "2026-09-25T09:50:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:42.778240+00:00"
-    },
-    {
-      "id": "74d458c012656011",
-      "source": "Karar",
-      "title": "Milli basketbolcu Alperen Şengün, en iyi 100 listesinde 30. sırada",
-      "summary": "Milli basketbolcu Alperen Şengün, ESPN’in yeni sezon öncesinde hazırladığı NBA’in en iyi 100 oyuncusu listesinde 30. sırada yer aldı. Houston Rockets’ın 24 yaşındaki yıldızı, ligin öne çıkan isimleri arasındaki yerini bir kez daha gösterdi.",
-      "link": "https://www.karar.com/spor-haberleri/milli-basketbolcu-alperen-sengun-en-iyi-100-listesinde-30-sirada-2074248",
-      "published": "2026-09-25T09:50:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:38.515577+00:00"
-    },
-    {
-      "id": "92a8a7a7e7689c32",
-      "source": "Türkiye Gazetesi",
-      "title": "Baraj gölünde 30 kiloluk turna balığı yakaladı",
-      "summary": "Elazığ’da Keban Baraj Gölü’nde amatör balıkçılık yapan vatandaş, 30 kilogram ağırlığında turna balığı yakaladı.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/baraj-golunde-30-kiloluk-turna-baligi-yakaladi-1818485",
-      "published": "2026-09-25T09:50:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:34.419661+00:00"
-    },
-    {
-      "id": "75365e25793eeed8",
-      "source": "Evrensel",
-      "title": "Deprem paylaşımları gerekçe gösterildi: Gözaltındaki 3 gazeteci adliyeye sevk edildi",
-      "summary": "Urfa’da meydana gelen 5,8 büyüklüğündeki depreme ilişkin sosyal medya paylaşımları nedeniyle gözaltına alınan gazeteciler Mehmet Toprak, Halil Biter ve Kenan Bayık adliyeye sevk edildi.",
-      "link": "https://www.evrensel.net/haber/6002045/deprem-paylasimlari-gerekce-gosterildi-gozaltindaki-3-gazeteci-adliyeye-sevk-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-25T09:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T10:05:30.034464+00:00"
-    },
-    {
-      "id": "a477febd180c73d6",
-      "source": "Evrensel",
-      "title": "Mars’ta sıcak yeraltı suyu izleri buldu",
-      "summary": "NASA’nın Perseverance keşif aracı, Mars’taki Jezero Krateri’nde suyun kayalarla etkileşime girdiği en az üç farklı döneme ait kanıtlar tespit etti. Bulgular arasında geçmişte yeraltında sıcak su dolaştığına işaret eden mineral damarlar da yer aldı.",
-      "link": "https://www.evrensel.net/haber/6002044/marsta-sicak-yeralti-suyu-izleri-buldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-25T09:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T10:05:30.034489+00:00"
-    },
-    {
-      "id": "078f69090b4b6a84",
-      "source": "Habertürk",
-      "title": "Dursun Özbek tek tek açıkladı!",
-      "summary": "Galatasaray Başkanı Dursun Özbek, sponsorluk anlaşması için düzenlenen imza töreninde açıklamalarda bulundu. İşte Özbek'in açıklamaları...",
-      "link": "https://www.haberturk.com/spor/dursun-ozbek-tek-tek-acikladi-singo-ilkay-gundogan-aziz-yildirim-okan-buruk-sampiyonluk-3915033",
-      "published": "2026-09-25T09:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:29.900611+00:00"
-    },
-    {
-      "id": "1758ed0f782593cd",
-      "source": "Cumhuriyet",
-      "title": "33 yıldır korunuyor: Turgut Özal’ın hayatını kaybettiği ambulansın içinden ne çıktı?",
-      "summary": "8. Cumhurbaşkanı Turgut Özal’ın 17 Nisan 1993’te rahatsızlanmasının ardından hastaneye götürüldüğü 1970 model ambulans, koleksiyoner Gürsev Gür tarafından muhafaza ediliyor. Devlet Denetleme Kurulu’nun (DDK) 2012’deki incelemesinde araçta sedye dışında tıbbi donanım ve ilk yardım malzemesi bulunmadığı tespit edilmişti.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/33-yildir-korunuyor-turgut-ozal-in-hayatini-kaybettigi-ambulansin-icinden-ne-cikti-2540933",
-      "published": "2026-09-25T09:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:32.808781+00:00"
-    },
-    {
-      "id": "f815d20ccb038056",
-      "source": "Star",
-      "title": "Boş salon zorlarına gitti! İsrail'den BM'de fişleme skandalı",
-      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun BM 81. Genel Kurulu'ndaki hitabı sırasında eşi benzeri görülmemiş bir skandal kameralara yansıdı. Netanyahu kürsüye yöneldiği an çok sayıda ülke temsilcisi tepki amacıyla ayağa kalkarak salonu boşaltırken, İsrail heyetinin o esnada Genel Kurul'u terk eden ülkelerin isimlerini tek tek not alarak fişleme yaptığı ortaya çıktı.",
-      "link": "https://www.star.com.tr/dunya/bos-salon-zorlarina-gitti-israilden-bmde-fisleme-skandali-haber-2042493/",
-      "published": "2026-09-25T09:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:37.815302+00:00"
-    },
-    {
-      "id": "33bdc6da4bdfa8a9",
-      "source": "Star",
-      "title": "Tepki yağınca çeteleye sarıldılar! Soykırımcı heyet BM'de protestocuları hedef tahtasına koydu",
-      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun BM 81. Genel Kurulu'ndaki hitabı sırasında eşi benzeri görülmemiş bir skandal kameralara yansıdı. Netanyahu kürsüye yöneldiği an çok sayıda ülke temsilcisi tepki amacıyla ayağa kalkarak salonu boşaltırken, İsrail heyetinin o esnada Genel Kurul'u terk eden ülkelerin isimlerini tek tek not alarak fişleme yaptığı ortaya çıktı.",
-      "link": "https://www.star.com.tr/dunya/tepki-yaginca-ceteleye-sarildilar-soykirimci-heyet-bmde-protestoculari-hedef-tahtasina-koydu-haber-2042493/",
-      "published": "2026-09-25T09:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:36.709197+00:00"
-    },
-    {
-      "id": "3bcf0eb9dd3dba7f",
-      "source": "Yeni Yaşam",
-      "title": "Selçuk Bayraktaroğlu Mekke’ye gidiyor: Savunma paktı Husilerle ilgili acil toplanacak",
-      "summary": "Türkiye Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Mekke Savunma İttifakı Genelkurmay Başkanları Toplantısı’na katılacak Selçuk Bayraktaroğlu&#8217;nun Mekke Savunma İttifakı Genelkurmay Başkanları Toplantısı&#8217;na katılmak üzere Suudi Arabistan&#8217;a gideceği açıklandı. Yemen&#8217;de Husi Yönetimi&#8217;nin (Ensarullah) Kızıldeniz&#8217;in kıyı kentlerini ve Babülmendeb Boğazı&#821",
-      "link": "https://yeniyasamgazetesi9.com/selcuk-bayraktaroglu-mekkeye-gidiyor-savunma-pakti-husilerle-ilgili-acil-toplanacak/",
-      "published": "2026-09-25T09:48:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:42.778294+00:00"
-    },
-    {
-      "id": "3a595f10dad3b2dd",
-      "source": "Gazete Pencere",
-      "title": "Çocukların sevdiği yapımlar geri dönüyor: Yeni diziler, filmler ve oyunlar yolda",
-      "summary": "Netflix, okul öncesi ve okul çağındaki çocuklara yönelik yeni dizi, film ve oyunlarını açıkladı. “Susam Sokağı” için yeni bir film hazırlanırken anlaşma 62. sezona kadar uzatıldı.",
-      "link": "https://www.gazetepencere.com/kultur-sanat/cocuklarin-sevdigi-yapimlar-geri-donuyor-yeni-diziler-filmler-ve-oyunlar-716783h",
-      "published": "2026-09-25T09:48:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:38.948332+00:00"
-    },
-    {
-      "id": "e0976cd79aadbadc",
-      "source": "Türkiye Gazetesi",
-      "title": "MERDİVEN ALTI İŞ YERİ AÇMIŞLAR",
-      "summary": "Antalya'da bir vatandaş, online yemek siparişi uygulamasından söylediği makarna nedeniyle rahatsızlanınca siparişi verdiği işletmenin adresine gitti. Gittiği adresin tadilatta olduğunu ve işletmenin 2022 yılında kapandığını öğrenince araştırmasını derinleştiren vatandaş, şahsın herhangi bir ruhsatı olmadan yemekleri evde yaptığını ortaya çıkardı.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/gelen-siparisten-zehirlendi-adim-adim-iz-surup-merdiven-alti-isletmeyi-ortaya-cikardi-1818484",
-      "published": "2026-09-25T09:48:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T10:10:34.585589+00:00"
-    },
-    {
-      "id": "fe215349d021a43e",
-      "source": "Türkiye Gazetesi",
-      "title": "MERDİVEN ALTI ÜRETİM YAPMIŞLAR",
-      "summary": "Antalya'da bir vatandaş, online yemek siparişi uygulamasından söylediği makarna nedeniyle rahatsızlanınca siparişi verdiği işletmenin adresine gitti. Gittiği adresin tadilatta olduğunu ve işletmenin 2022 yılında kapandığını öğrenince araştırmasını derinleştiren vatandaş, şahsın herhangi bir ruhsatı olmadan yemekleri evde yaptığını ortaya çıkardı.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/gelen-siparisten-zehirlendi-adim-adim-iz-surup-merdiven-alti-isletmeyi-ortaya-cikardi-1818484",
-      "published": "2026-09-25T09:48:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T10:00:57.022028+00:00"
-    },
-    {
-      "id": "2a3cb04434fda6fd",
-      "source": "Yeni Şafak",
-      "title": "Rize’de çay fabrikasında korkutan yangın: Büyük faciayı kuru çay önledi",
-      "summary": "Rize’nin Çayeli ilçesinde özel bir çay firmasına ait fabrikanın ambalaj deposunda yangın çıktı. Depoda işlenmiş çayın bulunmaması yangının büyümesini önledi.",
-      "link": "https://www.yenisafak.com/gundem/rizede-cay-fabrikasinda-korkutan-yangin-buyuk-faciayi-kuru-cay-onledi-4858935",
-      "published": "2026-09-25T09:48:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:36.432311+00:00"
-    },
-    {
-      "id": "5a6f795990fce451",
-      "source": "Yeniçağ",
-      "title": "Bilecik’te apartman dairesinde yangın: Ekipler seferber oldu",
-      "summary": "Bilecik’te 5 katlı bir apartmanın 4’üncü katındaki dairede çıkan yangın, mahalle sakinlerinde paniğe neden oldu. Yangın, itfaiye ekiplerinin müdahalesiyle diğer dairelere sıçramadan söndürüldü.",
-      "link": "https://www.yenicaggazetesi.com/bilecikte-apartman-dairesinde-yangin-ekipler-seferber-oldu-1075264h.htm",
-      "published": "2026-09-25T09:47:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:37.584034+00:00"
-    },
-    {
-      "id": "d607edbe2419eb84",
-      "source": "Habertürk",
-      "title": "Turizmde teknoloji dönüşümü",
-      "summary": "İstanbul Turizm Fuarı ile 29 ülkeden 300'ün üzerinde firma bir araya geldi. Bahçeşehir Üniversitesi mezunları tarafından kurulan Here Event'in ortaklarından Gökhan Malkoç, turizm sektörünün teknolojiyle birlikte dönüşen yönüne dikkat çekti",
-      "link": "https://www.haberturk.com/ekonomi/turizmde-teknoloji-donusumu-3915037",
-      "published": "2026-09-25T09:47:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:55:29.900649+00:00"
-    },
-    {
-      "id": "0747e2b7ccbdc62b",
-      "source": "Yeni Yaşam",
-      "title": "Kurtulmuş atılacak adımları yine şartlara bağladı",
-      "summary": "Barış ve Demokratik Toplum Süreci için Numan Kurtulmuş, ‘Örgütün fesih ve silahsızlanması sağlanmadan yasa uygulanmayacak’ diyerek, atılacak adımları yine şarta bağladı Ankara&#8217;da düzenlenen 28&#8217;inci Dönem 4&#8217;üncü Yasama Yılı Değerlendirme Toplantısı&#8217;na katılan Meclis Başkanı Numan Kurtulmuş, gazetecilerin sorularını yanıtladı. Seçim ve erken seçim tartışmalarına değinen Numan",
-      "link": "https://yeniyasamgazetesi9.com/kurtulmus-atilacak-adimlari-yine-sartlara-bagladi/",
-      "published": "2026-09-25T09:47:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:42.778338+00:00"
-    },
-    {
-      "id": "51c62b8b0f384664",
-      "source": "Cumhuriyet",
-      "title": "İYİ Partili Usta'dan '20 milyar dolarlık vurgun' çıkışı: 'Hükümet desteği olmadan yapılması mümkün değil!'",
-      "summary": "İYİ Partili Erhan Usta, Borsa İstanbul’da yaşanan manipülatif işlemlerde piyasadaki fon büyüklüğünün 17-20 milyar doları bulduğunu belirterek, süreci banker krizinden bu yana görülen \"üçüncü büyük soygun\" olarak nitelendirdi. Usta, \"Dünyanın hiçbir yerinde hükümet desteği olmadan 20 milyar dolarlık bu kadar büyük bir vurgunun yapılması imkanı yoktur\" dedi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/iyi-partili-usta-dan-20-milyar-dolarlik-vurgun-cikisi-hukumet-destegi-olmadan-yapilmasi-mumkun-degil-2540932",
-      "published": "2026-09-25T09:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:32.504835+00:00"
-    },
-    {
-      "id": "77cb41f4b8687d30",
-      "source": "Star",
-      "title": "Lekeli bardak temizlemenin pratik yolu! Zorlu lekelere elveda",
-      "summary": "Lekeli bardak temizlemenin pratik yolu birçok kişi tarafından bazen araştırılıyor. Çünkü bardaklarda devamlı çay ve kahve içilmesi, zamanla leke oluşumuna sebep olabiliyor. Normal yıkamalarda ise oluşan bu leke her zaman kolayca çıkmıyor. Peki, lekeli bardak nasıl temizlenir? İşte detaylar...",
-      "link": "https://www.star.com.tr/ekstra/lekeli-bardak-temizlemenin-pratik-yolu-zorlu-lekelere-elveda-haber-2042492/",
-      "published": "2026-09-25T09:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:36.709238+00:00"
-    },
-    {
-      "id": "2f11035dfff0ffca",
-      "source": "OdaTV",
-      "title": "Milli maç öncesi 26 yıllık sır yeniden gündemde: Zidane geldi ama: Djorkaeff neden gelmedi",
-      "summary": "20 yıl önce Türkiye-Fransa maçında Zidane İstanbul’da resital verirken, Ermeni kökenli Youri Djorkaeff kafaları karıştıran bir nedenle kadroda yoktu. Ölüm tehditleri iddiası, sakatlık açıklaması ve yıllar sonra gelen “siyasi nedenler” ifadesi tartışmayı yeniden alevlendirdi.",
-      "link": "https://www.odatv.com/spor/milli-mac-oncesi-26-yillik-sir-yeniden-gundemde-zinedine-zidane-geldi-ama-djorkaeff-neden-gelmedi-120163994",
-      "published": "2026-09-25T09:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:39.185976+00:00"
-    },
-    {
-      "id": "d46b54e93776dfd2",
-      "source": "İklim Haber",
-      "title": "BM’de Dünyaya Çağrı: “İklim Krizi, Küresel Adalet ve Hakkaniyetin En Büyük Sınavıdır”",
-      "summary": "Dünyanın dört bir yanından liderler, BM&#8217;de iklim değişikliğine karşı eylem çağrısında bulunuyor. BM Genel Kurulu&#8217;nun deniz seviyesinin yükselmesine ilişkin ilk bildirgesini kabul ettiği Perşembe günü BM Genel Sekreteri Antonio Guterres, dünyanın &#8220;ülkelerin ve kültürlerin dalgalar altında kaybolup gitmesine izin veremeyeceğini&#8221; söyledi. Bildirge, insan faaliyetlerinin neden ",
-      "link": "https://www.iklimhaber.org/bmde-dunyaya-cagri-iklim-krizi-kuresel-adalet-ve-hakkaniyetin-en-buyuk-sinavidir/",
-      "published": "2026-09-25T09:46:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:49.304233+00:00"
-    },
-    {
-      "id": "f5898ddd6c365362",
-      "source": "Aydınlık",
-      "title": "Dursun Özbek'ten Okan Buruk mesajı: İstikrarı bozmak istemiyorum",
-      "summary": "Galatasaray Başkanı Dursun Özbek, son 4 sezonun şampiyonu Teknik Direktör Okan Buruk&#039;a yönelik eleştirilere tepki göstererek, gelecek sezon da yollarına devam etmek istediğini söyledi.",
-      "link": "https://www.aydinlik.com.tr/haber/dursun-ozbekten-okan-buruk-mesaji-istikrari-bozmak-istemiyorum-591462",
-      "published": "2026-09-25T09:46:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:38.447194+00:00"
-    },
-    {
-      "id": "a4382cfdbaad8fca",
-      "source": "Gazete Pencere",
-      "title": "Gökhan Günaydın’dan 1 milyar 159 milyon TL’lik para transferi çıkışı",
-      "summary": "Gökhan Günaydın, fon soruşturmasında Emre Tezmen’den Özen Kuzu’ya 1 milyar 159 milyon TL’lik para transferine dikkat çekti. Günaydın, “Siyasetin dahli olmadan bu işlerin bu memlekette yürütülemeyeceğini dağdaki çoban bilir” dedi.",
-      "link": "https://www.gazetepencere.com/siyaset/gokhan-gunaydindan-1-milyar-159-milyon-tllik-para-transferi-cikisi-716782h",
-      "published": "2026-09-25T09:46:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:38.948395+00:00"
-    },
-    {
-      "id": "682797c1402e10ee",
-      "source": "Cumhuriyet",
-      "title": "Kademeli erken emeklilik çıkacak mı? Kademeli erken emeklilik Meclis'e geldi mi?",
-      "summary": "EYT düzenlemesinin dışında kalan çalışanların yakından takip ettiği kademeli emeklilikte son durum yeniden gündemde. Peki, Kademeli erken emeklilik çıkacak mı? Kademeli erken emeklilik Meclis'e geldi mi?",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/kademeli-erken-emeklilik-cikacak-mi-kademeli-erken-emeklilik-meclis-e-geldi-mi-2540931",
-      "published": "2026-09-25T09:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:32.504874+00:00"
-    },
-    {
-      "id": "34b18a987cca4639",
-      "source": "Milliyet",
-      "title": "Kazakistan’da tatbikatta 12 şehit! AK Parti Sözcüsü Çelik: Acınız acımızdır",
-      "summary": "AK Parti Sözcüsü Ömer Çelik'in sosyal medya hesabından yaptığı açıklama şöyle: Kardeş Kazakistan’da, Hazar Denizi’ndeki askerî tatbikat sırasında yaşanan kaza sonucu 12 askerin şehit olduğunu derin bir üzüntüyle öğrendik. Hayatını kaybeden askerlere Allah’tan rahmet; ailelerine, yakınlarına, dost ve kardeş Kazakistan halkına taziyelerimizi sunuyoruz. İlan edilen ulusal yas gününde Kazakistanlı kar",
-      "link": "https://www.milliyet.com.tr/gundem/kazakistanda-tatbikatta-12-sehit-ak-parti-sozcusu-celik-aciniz-acimizdir-7667288",
-      "published": "2026-09-25T09:45:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:35.584058+00:00"
-    },
-    {
-      "id": "a4e12ad5d28cd881",
-      "source": "Karar",
-      "title": "Volkswagen 2,8 milyon aracı geri çağıracak",
-      "summary": "Almanya Federal Motorlu Taşıtlar Dairesi, Volkswagen ve Audi’nin bazı modellerinde direksiyon kontrolünün kaybedilmesine yol açabilecek üretim hatası tespit edildiğini açıkladı. Sorunun Volkswagen Grubu’nda dünya genelinde yaklaşık 2,8 milyon, Audi Q3 modellerinde ise yaklaşık 700 bin aracı etkilemesi bekleniyor.",
-      "link": "https://www.karar.com/ekonomi-haberleri/volkswagen-28-milyon-araci-geri-cagiracak-2074247",
-      "published": "2026-09-25T09:45:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:45:38.299188+00:00"
-    },
-    {
-      "id": "58602a4cd6cec6ff",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "UNICEF: Yemen'de 5 yaş altı 2,2 milyon çocuk akut yetersiz beslenme sorunu yaşıyor",
-      "summary": "Birleşmiş Milletler Çocuklara Yardım Fonu (UNICEF) Yemen Temsilcisi Akhil Iyer, Yemen'de 5 yaşın altı 2,2 milyondan fazla çocuğun akut yetersiz beslenme sorunu yaşadığını bildirdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/unicef-yemende-5-yas-alti-2-2-milyon-cocuk-akut-yetersiz-beslenme-sorunu-yasiyor/4069044",
-      "published": "2026-09-25T09:45:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T10:15:41.954877+00:00"
-    },
-    {
-      "id": "df3025f8ba2e3655",
-      "source": "Halk TV",
-      "title": "Son dakika | Özgür Özel'den Erdoğan'a fon yanıtı: İnsanlar size güvenip soyuldu",
-      "summary": "Son dakika haberi... YENİ Parti Lideri Özgür Özel: Buraya para koydular ve düpedüz soyuldular. Bu insanlar açısından neresi güvende?",
-      "link": "https://halktv.com.tr/turkiye/son-dakiak-ozgur-ozelden-erdogana-fon-yaniti-insanlar-size-guvenip-soyuldu-1057462h",
-      "published": "2026-09-25T09:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:39.514281+00:00"
-    },
-    {
-      "id": "4a5d08cd17699bf9",
-      "source": "Finans Gündem",
-      "title": "Banka-MASAK-Savcı iş birliğinde, büyük kazançlara yönelik operasyon başladı!",
-      "summary": "Fon soruşturmasında yeni ve önemli detaylar ortaya çıktı. Fonların kurulduğu tarihten itibaren olağandışı ve fahiş fiyat hareketleri görülen hisselerle bağlantılı hesaplar mercek altına alındı. Para hareketleri de geriye dönük incelemeye alındı.",
-      "link": "https://www.finansingundemi.com/haber/banka-masak-savci-is-birliginde-buyuk-kazanclara-yonelik-operasyon-basladi/1909494",
-      "published": "2026-09-25T09:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T09:50:45.192182+00:00"
     }
   ]
 }

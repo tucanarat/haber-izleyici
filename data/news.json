@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-25T03:05:52.494578+00:00",
+  "last_updated": "2026-09-25T03:11:02.140918+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 555,
+  "new_items_this_run": 553,
   "items": [
+    {
+      "id": "53a8429484a7799f",
+      "source": "Türkiye Gazetesi",
+      "title": "AFAD duyurdu! Karadeniz'de deprem oldu",
+      "summary": "AFAD, merkez üssü Karadeniz açıkları olan 4,0 büyüklüğünde bir deprem olduğunu duyurdu.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/afad-duyurdu-karadenizde-deprem-oldu-1818400",
+      "published": "2026-09-25T03:01:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T03:10:38.910607+00:00"
+    },
     {
       "id": "0a4f86444ce9f7be",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T20:50:48.218030+00:00"
-    },
-    {
-      "id": "db4ea3db6c76dd5a",
-      "source": "Yeni Şafak",
-      "title": "İletişim Başkanı Duran'dan Netanyahu'ya sert tepki: 'Hadsiz sözler katliamları gizleyemez'",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, BM kürsüsünde Türkiye'yi ve Cumhurbaşkanı Erdoğan'ı hedef alan Netanyahu'ya tepki göstererek, \"Bu hadsiz ve alçak sözler, Gazze'de yaşanan katliamları ve uluslararası hukuk süreçlerini gizleyemez\" dedi.",
-      "link": "https://www.yenisafak.com/gundem/iletisim-baskani-durandan-netanyahuya-sert-tepki-hadsiz-sozler-katliamlari-gizleyemez-4858792",
-      "published": "2026-09-24T20:46:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T20:50:44.962833+00:00"
     }
   ]
 }

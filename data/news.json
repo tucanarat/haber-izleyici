@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-25T00:26:17.845468+00:00",
+  "last_updated": "2026-09-25T00:31:09.450499+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 536,
+  "new_items_this_run": 524,
   "items": [
+    {
+      "id": "c605012d8666124a",
+      "source": "Türkiye Gazetesi",
+      "title": "Logo Yazılım’dan Logo Cloud ve Logo Edge çözümleri!",
+      "summary": "Logo Yazılım, yapay zekâ yetenekleri ve ek fonksiyonlarla geliştirilen yeni Logo Cloud ve Logo Edge çözümleri işletmelerin kullanımına sundu.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/logo-yazilimdan-logo-cloud-ve-logo-edge-cozumleri-hibrit-bulut-donemi-1818389",
+      "published": "2026-09-25T00:27:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T00:30:44.358190+00:00"
+    },
     {
       "id": "82fcc4867e82aa99",
       "source": "Türkiye Gazetesi",
@@ -28,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T00:25:30.250758+00:00"
+    },
+    {
+      "id": "3acbdb1af5a1810a",
+      "source": "OdaTV",
+      "title": "Keban Baraj Gölü’nde 30 kiloluk dev turna balığı",
+      "summary": "Elazığ’da Keban Baraj Gölü’nde yaklaşık 30 kilogram ağırlığında turna balığı yakalandı.",
+      "link": "https://www.odatv.com/guncel/keban-baraj-golunde-30-kiloluk-dev-turna-baligi-120163969",
+      "published": "2026-09-25T00:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-25T00:30:51.996407+00:00"
     },
     {
       "id": "6732f21382500ff1",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-24T19:25:31.285736+00:00"
-    },
-    {
-      "id": "b6684a9dcdae2fcb",
-      "source": "Cumhuriyet",
-      "title": "Panda diplomasisi geri döndü: Çin, ABD’ye iki panda gönderiyor",
-      "summary": "Bir dönem askıya alınan “panda diplomasisi” yeniden devrede. Çin, ABD’deki Atlanta Hayvanat Bahçesi’ne iki panda gönderirken, Şi Cinping bu adımı iki ülke halkları arasındaki dostluğun göstergesi olarak nitelendirdi.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/panda-diplomasisi-geri-dondu-cin-abd-ye-iki-panda-gonderiyor-2540755",
-      "published": "2026-09-24T19:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T19:25:27.025228+00:00"
-    },
-    {
-      "id": "8c78ba76d7a1168b",
-      "source": "Cumhuriyet",
-      "title": "İstanbul'da tiyatro zamanı: Dört yeni prömiyerle sahnede...",
-      "summary": "İstanbul Devlet Tiyatrosu, ekim ayı boyunca dolu dolu bir program ile sanat tutkunlarını buluşturacak.",
-      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/istanbul-da-tiyatro-zamani-dort-yeni-promiyerle-sahnede-2540754",
-      "published": "2026-09-24T19:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-24T19:25:27.025261+00:00"
     }
   ]
 }

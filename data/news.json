@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-26T03:25:45.065773+00:00",
+  "last_updated": "2026-09-26T03:31:10.113213+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 541,
+  "new_items_this_run": 542,
   "items": [
+    {
+      "id": "f5cfeed38763812b",
+      "source": "Habertürk",
+      "title": "Balkanlardan geliyor... Sıcaklık düşüyor! Bu hafta hava nasıl olacak?",
+      "summary": "Meteoroloji Genel Müdürlüğü Hava Tahmin Uzmanı Cengiz Çelik, hafta sonu Balkanlar üzerinden yeni bir serin ve yağışlı sistemin Türkiye’yi etkisi altına alacağını belirterek, “Pazartesi, salı ve çarşamba günleri sıcaklıklar özellikle batı ve iç bölgelerde 4-5 derece kadar azalacak” dedi. İşte önümüzdeki hafta hava durumu...",
+      "link": "https://www.haberturk.com/gundem/hava-durumu-son-dakika-balkanlardan-geliyor-sicaklik-dusuyor-bu-hafta-hava-nasil-olacak-3915073",
+      "published": "2026-09-26T03:26:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T03:30:40.071908+00:00"
+    },
     {
       "id": "d7039c21bcb58673",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T20:25:37.222882+00:00"
-    },
-    {
-      "id": "48dd26a6f5d4857b",
-      "source": "Cumhuriyet",
-      "title": "Hesap tartışması can aldı: Köfteci 3 günlük yaşam mücadelesini kaybetti",
-      "summary": "Ankara’nın Altındağ ilçesinde hesabı ödemesini istediği müşterisinin kaldırım taşıyla saldırısında ağır yaralanan 46 yaşındaki köfteci Ali Arduç, tedavi gördüğü hastanede yaşamını yitirdi. Saldırgan İ.Ö. gözaltına alındı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/hesap-tartismasi-can-aldi-kofteci-3-gunluk-yasam-mucadelesini-kaybetti-2541106",
-      "published": "2026-09-25T20:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T20:25:26.030343+00:00"
     }
   ]
 }

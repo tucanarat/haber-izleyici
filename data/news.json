@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-26T23:31:00.069149+00:00",
+  "last_updated": "2026-09-26T23:35:47.046450+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 550,
+  "new_items_this_run": 549,
   "items": [
+    {
+      "id": "2123dfe7054bdd88",
+      "source": "Türkiye Gazetesi",
+      "title": "Tazminat davasında emsal karar!",
+      "summary": "2019’daki trafik kazasında yaralanan kişinin 50 bin liradan 200 bin liraya çıkardığı tazminat talebinde zaman aşımı kararı çıktı. Yargıtay Hukuk Genel Kurulu, artırılan kısmın beş yıllık süre nedeniyle zaman aşımına uğradığına hükmetti.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/son-noktayi-yargitay-koydu-7-yil-sonra-artirilan-kaza-tazminatina-zaman-asimi-reddi-1818843",
+      "published": "2026-09-26T23:30:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T23:35:31.344946+00:00"
+    },
     {
       "id": "032bf8b74a735cee",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-26T23:25:24.134628+00:00"
-    },
-    {
-      "id": "8b8c30af8874e0ba",
-      "source": "Star",
-      "title": "İranlı yetkili açıkladı: Mücteba Hamaney enkazdan çıkarıldı",
-      "summary": "İran Uzmanlar Meclisi Üyesi Ayetullah Muhsin Haydari, İran lideri Mücteba Hamaney'in, savaşın başında yaralanmasının ardından kaldırıldığı hastanenin bombalandığını ve enkazdan çıkarıldığını söyledi.",
-      "link": "https://www.star.com.tr/dunya/iran-yetkili-acikladi-mucteba-hamaney-enkazdan-cikarildi-haber-2042780/",
-      "published": "2026-09-26T18:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-26T19:25:41.209213+00:00"
     }
   ]
 }

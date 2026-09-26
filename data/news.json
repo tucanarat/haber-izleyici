@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-26T02:25:44.109056+00:00",
+  "last_updated": "2026-09-26T02:31:07.702748+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 484,
+  "new_items_this_run": 513,
   "items": [
+    {
+      "id": "c477558912ac0ba5",
+      "source": "Türkiye Gazetesi",
+      "title": "3 DÖNEM TRANSFER YASAĞI",
+      "summary": "FIFA, Fenerbahçe'ye 3 dönem transfer yasağı cezası verdi. FIFA'nın resmi transfer yasağı kayıtlarında Fenerbahçe için 3 transfer dönemini kapsayan bir yaptırım yer aldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fifa-duyurdu-fenerbahceye-3-donem-transfer-yasagi-1818643",
+      "published": "2026-09-26T02:25:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T02:30:42.899182+00:00"
+    },
     {
       "id": "6526625605e42d8a",
       "source": "Aydınlık",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T20:20:42.314369+00:00"
-    },
-    {
-      "id": "05e89707a19e98b5",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Lübnan haber ajansı NNA: İsrail, Lübnan'ın güneyini fosforlu mühimmat ve topçu atışıyla vurdu",
-      "summary": "İsrail ordusunun, Lübnan'ın güneyindeki Nebatiye el-Favka beldesini fosforlu mühimmat ile, bölgedeki bazı beldeleri ise topçu atışlarıyla vurduğu bildirildi.",
-      "link": "https://www.aa.com.tr/tr/dunya/lubnan-haber-ajansi-nna-israil-lubnanin-guneyini-fosforlu-muhimmat-ve-topcu-atisiyla-vurdu/4069715",
-      "published": "2026-09-25T20:19:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T20:25:25.760949+00:00"
     }
   ]
 }

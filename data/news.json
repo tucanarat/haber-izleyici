@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-26T01:15:56.671931+00:00",
+  "last_updated": "2026-09-26T01:20:57.119047+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 551,
+  "new_items_this_run": 552,
   "items": [
+    {
+      "id": "320396ee8684ccfe",
+      "source": "Türkiye Gazetesi",
+      "title": "Kayseri'de ağabey-kardeş kavgasında kan aktı!",
+      "summary": "Kayseri'nin Kocasinan ilçesinde müstakil ikamette ağabey-kardeş arasında kavga çıktı. Bıçaklı kavgada iki kardeş vücutlarının çeşitli yerlerinden yaralandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/kayseride-agabey-kardes-kavgasinda-kan-akti-1818640",
+      "published": "2026-09-26T01:17:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T01:20:35.304525+00:00"
+    },
     {
       "id": "83cf0af7df5e9b0b",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T20:15:42.805415+00:00"
-    },
-    {
-      "id": "6681667edac916f4",
-      "source": "Akşam",
-      "title": "Vekiller iflas etti, Türkiye sahaya indi",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/vekiller-iflas-etti-turkiye-sahaya-indi/haber-1701411",
-      "published": "2026-09-25T20:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T21:00:55.066166+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-26T00:31:12.532178+00:00",
+  "last_updated": "2026-09-26T00:35:42.850245+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 545,
+  "new_items_this_run": 543,
   "items": [
+    {
+      "id": "fbc079f169cccc48",
+      "source": "Aydınlık",
+      "title": "Ersin Bilge, 25 ilde yaklaşık 18 bin çocuğa ulaştı",
+      "summary": "‘Eşekle Gelen Dostoyevski’ projesiyle Türkiye’yi gezen Ersin Bilge, Karabük’ün Eflani ilçesindeki iki okulda öğrencilere kitap ve kırtasiye malzemesi dağıttı. Bilge, bugüne kadar 25 ilde yaklaşık 18 bin köy çocuğuna ulaştı.",
+      "link": "https://www.aydinlik.com.tr/haber/ersin-bilgeden-koy-cocuklarina-kitap-ve-kirtasiye-destegi-591572",
+      "published": "2026-09-26T00:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T00:35:31.232396+00:00"
+    },
     {
       "id": "8d2b9a571d1a7c11",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T19:30:52.949667+00:00"
-    },
-    {
-      "id": "ce3498718cb18999",
-      "source": "DonanımHaber",
-      "title": "Bitget borsası saldırıya uğradı, 352 milyon dolar çalındı",
-      "summary": "Bitget borsasına farklı bir yoldan sızan siber saldırganlar güvenlik sistemlerini yanıltınca cüzdanlarda bulunan 352 milyon dolarlık varlığı borsa dışına çıkarabilmiş.",
-      "link": "https://www.donanimhaber.com/bitget-borsasina-dev-saldiri--210925",
-      "published": "2026-09-25T19:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-26T00:31:10.094174+00:00"
     }
   ]
 }

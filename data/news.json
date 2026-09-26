@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-26T04:50:53.896379+00:00",
+  "last_updated": "2026-09-26T04:55:52.284230+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 555,
+  "new_items_this_run": 556,
   "items": [
+    {
+      "id": "48a7df961e715486",
+      "source": "Akşam",
+      "title": "İzleme komisyonu kurulacak... Terörsüz Türkiye'de yeni adım",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, ‘Terörsüz Türkiye' sürecinin millete ait olduğunu vurgulayarak, 1 Ekim'de tüm siyasi partilerin katılımıyla Meclis çatısı altında bir ‘İzleme Komisyonu' kurulacağını açıkladı.",
+      "link": "https://www.aksam.com.tr/guncel/izleme-komisyonu-kurulacak-terorsuz-turkiyede-yeni-adim/haber-1701451",
+      "published": "2026-09-26T04:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T04:55:33.339249+00:00"
+    },
     {
       "id": "8a0f75c5e123a79b",
       "source": "Akşam",
@@ -28,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-26T04:50:38.650351+00:00"
+    },
+    {
+      "id": "5e23418d4b827340",
+      "source": "Finans Gündem",
+      "title": "HSK, birinci sınıfa ayrılma incelemesine girecek hakim ve savcıları açıkladı",
+      "summary": "Hakimler ve Savcılar Kurulu'nun Resmi Gazete’de yer alan kararına göre adli yargıdan 35 hakim ve 23 Cumhuriyet savcısı ile idari yargıdan 28 hakim olmak üzere toplam 86 yargı mensubu incelemeye tabi tutulacak.",
+      "link": "https://www.finansingundemi.com/haber/hsk-birinci-sinifa-ayrilma-incelemesine-girecek-hakim-ve-savcilari-acikladi/1909583",
+      "published": "2026-09-26T04:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T04:55:45.472034+00:00"
     },
     {
       "id": "5b274986d20b3faf",
@@ -5101,6 +5123,50 @@
       "fetched_at": "2026-09-25T21:05:56.345654+00:00"
     },
     {
+      "id": "8b6ed511baa75402",
+      "source": "Karar",
+      "title": "Foncular yediyse biz niye ödeyelim?",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/akif-beki/foncular-yediyse-biz-niye-odeyelim-1609273",
+      "published": "2026-09-25T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T04:55:35.260202+00:00"
+    },
+    {
+      "id": "224607577fccfc5a",
+      "source": "Karar",
+      "title": "Geleceği kim okuyor?",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/gulay-erdemli/gelecegi-kim-okuyor-1609274",
+      "published": "2026-09-25T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T04:55:35.260218+00:00"
+    },
+    {
+      "id": "e1f959c8fed5ff45",
+      "source": "Karar",
+      "title": "Fon krizinin temelindeki hırs",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/sacide-ozlem/fon-krizinin-temelindeki-hirs-1609275",
+      "published": "2026-09-25T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T04:55:35.260235+00:00"
+    },
+    {
+      "id": "571c73751a6c30f3",
+      "source": "Karar",
+      "title": "Bugün fon skandalı yarın başka bir skandal…",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/elif-cakir/bugun-fon-skandali-yarin-baska-bir-skandal-1609277",
+      "published": "2026-09-25T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T04:55:35.260252+00:00"
+    },
+    {
       "id": "499f837d297da072",
       "source": "Karar",
       "title": "Devler arenasında",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T21:05:56.345740+00:00"
-    },
-    {
-      "id": "fa1b74b81d668c98",
-      "source": "Karar",
-      "title": "Emeksiz hayat…",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/omer-erdem/emeksiz-hayat-1609267",
-      "published": "2026-09-25T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T21:05:56.345753+00:00"
-    },
-    {
-      "id": "e3b5b6d17c8a06fb",
-      "source": "Karar",
-      "title": "Yeni Şafak’ın üç yazarının endişeleri yersiz mi?",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/ismet-berkan/yeni-safakin-uc-yazarinin-endiseleri-yersiz-mi-1609268",
-      "published": "2026-09-25T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T21:05:56.345767+00:00"
-    },
-    {
-      "id": "4d84741eb2852cfd",
-      "source": "Karar",
-      "title": "‘Beni bir kere dövdüler çok gözlüklüydüm’",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/ibrahim-kiras/beni-bir-kere-dovduler-cok-gozlukluydum-1609269",
-      "published": "2026-09-25T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T21:05:56.345781+00:00"
-    },
-    {
-      "id": "796711bd82387ee5",
-      "source": "Karar",
-      "title": "Foncular bu cesareti nereden buldu?",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/mustafa-karaalioglu/foncular-bu-cesareti-nereden-buldu-1609270",
-      "published": "2026-09-25T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T21:05:56.345795+00:00"
-    },
-    {
-      "id": "9856dc34ef13f893",
-      "source": "Karar",
-      "title": "Üç kuruşa satılan büyük hayallere müşteri olmak",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/salih-cenap-baydar/uc-kurusa-satilan-buyuk-hayallere-musteri-olmak-1609271",
-      "published": "2026-09-25T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T21:05:56.345809+00:00"
-    },
-    {
-      "id": "f6ea75e9e86877e5",
-      "source": "Karar",
-      "title": "Düzeni bozulan Birleşmiş Milletler düzeni",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/mark-leonard/duzeni-bozulan-birlesmis-milletler-duzeni-1609272",
-      "published": "2026-09-25T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T21:05:56.345821+00:00"
     }
   ]
 }

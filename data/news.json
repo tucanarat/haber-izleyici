@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-26T00:50:57.482129+00:00",
+  "last_updated": "2026-09-26T00:55:46.766442+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 547,
+  "new_items_this_run": 546,
   "items": [
+    {
+      "id": "6aa6e0075ff52771",
+      "source": "Habertürk",
+      "title": "Balkonda çay içerken düşüp öldü",
+      "summary": "Aksaray'da 5'inci kattaki evinin balkonundan düşen 49 yaşındaki Erol Baysal, ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/balkonda-cay-icerken-dustu-3915164",
+      "published": "2026-09-26T00:43:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-26T00:55:24.208461+00:00"
+    },
     {
       "id": "3e94c9d31015c07e",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-25T19:40:34.143852+00:00"
-    },
-    {
-      "id": "e9c1634db7228578",
-      "source": "Habertürk",
-      "title": "Masterchef ödül oyununu kim kazandı?",
-      "summary": "TV8 ekranlarında yayınlanan Masterchef’te ödül oyunu heyecanı kaldığı yerden devam ediyor. Haftanın beşinci gününde Masterchef Türkiye’de mavi ve kırmızı takım sebze yemekleriyle karşı karşıya geliyor. Yayınlanan son bölümde şeflerin değerlendirmesi sonucunda gecenin dokunulmazlığını kazanan takım Kırmızı takım olurken, dokunulmazlığı alan isim ise Şiringül oldu. Peki Masterchef ödül oyununu kim k",
-      "link": "https://www.haberturk.com/masterchef-odul-oyununu-kim-kazandi-eleme-potasinda-kim-var-25-eylul-masterchef-hangi-takim-kazandi-3915174",
-      "published": "2026-09-25T19:34:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-25T19:50:31.089566+00:00"
     }
   ]
 }

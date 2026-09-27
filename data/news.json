@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-27T02:05:45.097828+00:00",
+  "last_updated": "2026-09-27T02:10:54.097639+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 547,
+  "new_items_this_run": 548,
   "items": [
+    {
+      "id": "4b9462438f62e9b1",
+      "source": "Halk TV",
+      "title": "Üniversiteler nereye gidiyor?",
+      "summary": "Şahin Aybek yazdı... Üniversiteler nereye gidiyor?",
+      "link": "https://halktv.com.tr/makale/universiteler-nereye-gidiyor-1057769",
+      "published": "2026-09-27T02:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-27T02:10:40.717154+00:00"
+    },
     {
       "id": "1441c962e67ae5cc",
       "source": "Halk TV",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-27T02:05:33.759228+00:00"
+    },
+    {
+      "id": "ce551be76f342f93",
+      "source": "Aydınlık",
+      "title": "Esenler'de polisin müdahale ettiği şüpheli bacağından vuruldu",
+      "summary": "Esenler Turgutreis Mahallesi’nde polise bıçakla yaklaştığı belirtilen S.Ş. (45), “dur” ihtarına uymayınca bacağından vuruldu. Olayda hafif yaralanan bir mahalle bekçisiyle şüpheli hastaneye kaldırıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/esenlerde-bicakli-supheli-bacagindan-vuruldu-591739",
+      "published": "2026-09-27T02:01:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-27T02:10:39.679017+00:00"
     },
     {
       "id": "ac263edb4ad3fcde",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-26T19:35:30.940715+00:00"
-    },
-    {
-      "id": "ef0f2a1699c1965c",
-      "source": "Yeni Şafak",
-      "title": "Muğla'da kaçak tütün şebekesine darbe: 91 bini aşkın sahte bandrol yakalandı 4 kişi tutuklandı",
-      "summary": "Muğla İl Emniyet Müdürlüğü İstihbarat ve KOM Şube Müdürlüğü ekipleri, Emniyet Genel Müdürlüğü KOM Başkanlığı koordinesinde Marmaris'te kaçak tütün üretimi yapılan 2 depo ve iş yerine eş zamanlı baskın düzenledi. Aramalarda piyasaya sürülmeye hazır 91 bin 860 adet sahte TAPDK bandrolü, 885 kilogram kıyılmış tütün, on binlerce ambalaj ve barkod basımında kullanılan lazer makineleri ele geçirildi. Ad",
-      "link": "https://www.yenisafak.com/video/gundem/muglada-kacak-tutun-sebekesine-darbe-91-bini-askin-sahte-bandrol-yakalandi-4-kisi-tutuklandi-4859251",
-      "published": "2026-09-26T19:25:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-26T19:25:40.952504+00:00"
-    },
-    {
-      "id": "8a66a621afa81976",
-      "source": "Halk TV",
-      "title": "Fon skandalındaki iddialara AKİT bile dayanamadı! \"Ya istifa et ya açıklama yap\"",
-      "summary": "AAKP Genel Başkan Yardımcısı Fatma Betül Sayan Kaya ve eşi İlyas Kaya’nın borsa işlemlerine ilişkin iddialara AKP’ye yakınlığıyla bilinen Yeni Akit de dayanamadı. Yeni Akit Sayan Kaya için &quot;Ya istifa et, ya açıklama yap&quot; manşetini attı.",
-      "link": "https://halktv.com.tr/gundem/fon-skandalindaki-iddialara-akit-bile-dayanamadi-ya-istifa-et-ya-aciklama-yap-1057772h",
-      "published": "2026-09-26T19:25:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-26T19:25:44.497910+00:00"
     }
   ]
 }

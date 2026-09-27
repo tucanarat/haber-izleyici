@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-27T03:01:11.084685+00:00",
+  "last_updated": "2026-09-27T03:05:57.350393+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 520,
+  "new_items_this_run": 490,
   "items": [
+    {
+      "id": "b35f42f4a42eeab6",
+      "source": "Habertürk",
+      "title": "Çanakkale Boğazı’nda gemi arızası",
+      "summary": "Çanakkale Boğazı’nda, makine arızası yapan 182 metre uzunluğundaki kimyasal tanker gemisi, römorkörler eşliğinde Karanlık Liman Demir Sahası’na demirletildi",
+      "link": "https://www.haberturk.com/gundem/canakkale-bogazinda-gemi-arizasi-3915369",
+      "published": "2026-09-27T03:01:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-27T03:05:25.436769+00:00"
+    },
     {
       "id": "2d767788de083805",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-26T19:35:40.882761+00:00"
-    },
-    {
-      "id": "ba51afee9470bc8b",
-      "source": "Yeniçağ",
-      "title": "Osmancık'ta başpehlivan Bekir Eryücel oldu",
-      "summary": "Çorum&#039;un Osmancık ilçesinde Pırlanta Pirinç Kültür ve Sanat Festivali kapsamında düzenlenen Yağlı Pehlivan Güreşleri&#039;nde Muhammet Enes Özcan&#039;ı finalde mağlup eden Bekir Eryücel başpehlivanlığa ulaştı.",
-      "link": "https://www.yenicaggazetesi.com/osmancikta-baspehlivan-bekir-eryucel-oldu-1075741h.htm",
-      "published": "2026-09-26T19:27:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-26T19:30:57.217529+00:00"
     }
   ]
 }

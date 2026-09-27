@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-27T23:35:52.852917+00:00",
+  "last_updated": "2026-09-27T23:41:28.459230+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 533,
+  "new_items_this_run": 531,
   "items": [
+    {
+      "id": "eb5276201495fafb",
+      "source": "BBC News Türkçe",
+      "title": "Emniyet Genel Müdürlüğü polislerin iş bırakacağı haberlerini yalanladı",
+      "summary": "Ankara'da seyyanen zam talebiyle 25 Eylül'de Anayasa Mahkemesi (AYM) önünde eylem yapan emeklilerin protestosunda emekli polis memuru Ali Şekeroğlu beylik tabancasıyla hayatına son verdi",
+      "link": "https://www.bbc.com/turkce/articles/c9zrzz1z3g1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T23:37:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-27T23:41:28.051718+00:00"
+    },
     {
       "id": "3fdee7d7010c9a3a",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-27T19:10:44.180368+00:00"
-    },
-    {
-      "id": "e7b3518ef340a776",
-      "source": "ShiftDelete.Net",
-      "title": "FreeSync Nedir, Ne İşe Yarar?",
-      "summary": "FreeSync, monitör ile ekran kartı arasındaki yenileme hızını senkronize etmeye yarayan bir teknolojidir. Özellikle oyunlarda daha akıcı ve pürüzsüz bir görüntü elde edilmesini sağlayan FreeSync, ekran yırtılması ve takılma gibi sorunların azaltılmasına yardımcı olur. Peki, FreeSync nedir, ne işe yarar? Bu rehberde yakından bakıyoruz. FreeSync, AMD’nin değişken yenileme hızı teknolojisidir. Ekran y",
-      "link": "https://shiftdelete.net/freesync-nedir-ne-ise-yarar",
-      "published": "2026-09-27T19:02:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T19:05:45.201889+00:00"
     }
   ]
 }

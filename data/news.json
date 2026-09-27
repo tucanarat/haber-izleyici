@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-27T00:15:56.466973+00:00",
+  "last_updated": "2026-09-27T00:20:50.074142+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 556,
+  "new_items_this_run": 557,
   "items": [
+    {
+      "id": "1adacbde1ff3ef02",
+      "source": "Aydınlık",
+      "title": "Adana’da 1591 polisin katıldığı denetimde 64 kişi yakalandı",
+      "summary": "Adana genelinde 1591 polisin katılımıyla yapılan ‘Huzur ve Güven’ denetiminde, çeşitli suçlardan aranan 64 kişi yakalandı. Trafik ihlalleri nedeniyle 191 sürücüye toplam 1 milyon 139 bin 784 TL ceza kesildi.",
+      "link": "https://www.aydinlik.com.tr/haber/adanada-denetim-64-aranan-kisi-yakalandi-591738",
+      "published": "2026-09-27T00:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-27T00:20:37.927023+00:00"
+    },
     {
       "id": "19cb49e631ee813f",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-26T19:00:58.867352+00:00"
-    },
-    {
-      "id": "5cd2a60bfaebf3a3",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "ABD ve Çin 30 milyar dolarlık mallar için daha elverişli tarife uygulamasında uzlaştı",
-      "summary": "Çin Devlet Başkanı Şi Cinping'in 23-25 Eylül'de ABD'ye yaptığı ziyaretin ardından, iki ülkenin her iki yönde 30 milyar dolarlık hassas olmayan mal için daha elverişli tarife uygulamasına yönelik tavsiyeler konusunda uzlaştığı bildirildi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/abd-ve-cin-30-milyar-dolarlik-mallar-icin-daha-elverisli-tarife-uygulamasinda-uzlasti/4070373",
-      "published": "2026-09-26T18:57:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-26T19:00:50.581031+00:00"
     }
   ]
 }

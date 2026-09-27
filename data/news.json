@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-27T22:51:37.926295+00:00",
+  "last_updated": "2026-09-27T22:55:58.602850+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 542,
+  "new_items_this_run": 541,
   "items": [
+    {
+      "id": "0ff83c2d35b3e521",
+      "source": "OdaTV",
+      "title": "Sırbistan Cumhurbaşkanı Vucic istifa etti",
+      "summary": "Sırbistan&#039;da siyasi gündem, Cumhurbaşkanı Aleksandar Vucic&#039;in geleceğine ilişkin yaşanan son gelişmeyle hareketlendi.",
+      "link": "https://www.odatv.com/guncel/sirbistan-cumhurbaskani-vucic-istifa-etti-120164259",
+      "published": "2026-09-27T22:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-27T22:55:41.059779+00:00"
+    },
     {
       "id": "3fe456a1a1e2d2af",
       "source": "Yeniçağ",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-27T22:51:18.722498+00:00"
+    },
+    {
+      "id": "03cd908d4c416338",
+      "source": "CNBC-e",
+      "title": "SPK'dan tasfiye edilen fonların işlemlerine ilişkin yeni açıklama",
+      "summary": "SPK, tasfiyeye konu edilen fonların 17 Eylül 2026 itibarıyla TEFAS üzerinden işlemlere kapatıldığını hatırlatarak, bu tarihte platforma iletilen ve iptal edilen talimatların sahiplerine tasfiye bakiyesinden ödeme yapılacağını açıkladı.",
+      "link": "https://www.cnbce.com/haberler/spkdan-tasfiye-edilen-fonlarin-islemlerine-iliskin-yeni-aciklama-h38146",
+      "published": "2026-09-27T22:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-27T22:55:49.200720+00:00"
     },
     {
       "id": "b3278e4d18b72a08",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-27T18:30:55.479909+00:00"
-    },
-    {
-      "id": "f32e6096454a9123",
-      "source": "Halk TV",
-      "title": "Arkadaşını öldürüp intihar etti: Silah sesleri mahalleyi ayağa kaldırdı",
-      "summary": "Gaziantep&#039;te Sungu Başkaya, evinde arkadaşı Çağlar Köylüoğlu&#039;nu öldürdükten sonra intihar etti. İkilinin cansız bedenlerini, silah seslerini duyan komşuların ihbarı üzerine adrese gelen ekipler buldu.",
-      "link": "https://halktv.com.tr/turkiye/arkadasini-oldurup-intihar-etti-sesleri-komsular-duydu-1057909h",
-      "published": "2026-09-27T18:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T18:30:57.409769+00:00"
-    },
-    {
-      "id": "6e07f3615f59fd8b",
-      "source": "DonanımHaber",
-      "title": "Star Wars: Episode 10 geliyor: Örümcek-Adam'ın yönetmeni çekecek",
-      "summary": "Star Wars, ana seriyi devam ettirecek yeni bir üçleme başlatmaya hazırlanıyor. Bir süredir hazırlık aşamasında olan Star Wars: Episode 10'u yönetmesi için Örümcek-Adam'ın yönetmeniyle anlaşıldı.",
-      "link": "https://www.donanimhaber.com/star-wars-10-geliyor-orumcek-adam-in-yonetmeni-cekecek--210967",
-      "published": "2026-09-27T18:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T18:31:09.367277+00:00"
     }
   ]
 }

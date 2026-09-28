@@ -1,12 +1,188 @@
 {
-  "last_updated": "2026-09-28T07:21:01.669991+00:00",
+  "last_updated": "2026-09-28T07:25:58.585338+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 546,
+  "new_items_this_run": 515,
   "items": [
+    {
+      "id": "c9a90e2daf3f0036",
+      "source": "CNBC-e",
+      "title": "Bill Gates'ten yapay zeka öngörüsü: “Bolluk çağı” yolunda",
+      "summary": "Bill Gates, yapay zekanın iki aşamalı bir dönüşümden geçeceğini belirterek insansı robotlarla birleşeceği dönemi \"bolluk çağı\" olarak tanımladı. Milyarder iş insanı, bu uyum sürecinde iş piyasası ve güvenlik risklerine karşı önlem alınması gerektiğine dikkat çekti.",
+      "link": "https://www.cnbce.com/yapay-zeka/bill-gatesten-yapay-zeka-ongorusu-bolluk-cagi-yolunda-g38169",
+      "published": "2026-09-28T07:25:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:49.939421+00:00"
+    },
+    {
+      "id": "cb56bdd6d5eb1234",
+      "source": "Kısa Dalga",
+      "title": "Destek Yatırım Bankası ve Özata Denizcilik’e operasyon: Genel Müdür Özgür Akayoğlu dahil 9 gözaltı kararı",
+      "summary": "Fon soruşturması kapsamında Destek Yatırım Bankası ve Özata Denizcilk'e yönelik operasyon düzenlendi. Aralarında üst düzeyi isimlerin olduğu 9 kişi hakkında gözaltı kararı verildi, 6 kişi gözaltına alındı. Gözaltına alınanlar arasında Destek Yatırım Bankası Genel Müdürü Özgür Akayoğlu da bulunuyor.",
+      "link": "https://kisadalga.net/haber/gundem/destek-yatirim-bankasi-ve-ozata-denizcilike-operasyon-genel-mudur-ozgur-akayoglu-dahil-9-gozalti-karari-140613",
+      "published": "2026-09-28T07:25:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:43.062001+00:00"
+    },
+    {
+      "id": "a31c575cda075604",
+      "source": "Yeniçağ",
+      "title": "Türkiye’de elektriğin en çok tüketildiği saat açıklandı (28 Eylül 2026)",
+      "summary": "Türkiye’de dün 861 bin 984 megavatsaat elektrik üretildi, tüketim 842 bin 810 megavatsaat oldu. Günün en yüksek elektrik tüketimi 40 bin 640 megavatsaatle saat 20.00’de, en düşük tüketim ise 30 bin 729 megavatsaatle 05.00’te gerçekleşti.",
+      "link": "https://www.yenicaggazetesi.com/turkiyede-elektrigin-en-cok-tuketildigi-saat-aciklandi-28-eylul-2026-1076072h.htm",
+      "published": "2026-09-28T07:24:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:38.417099+00:00"
+    },
+    {
+      "id": "f3cc1e04719bf505",
+      "source": "Yeniçağ",
+      "title": "OpenAI'ın yapay zekaları DNS protokolü üzerinden internete sızdı",
+      "summary": "Yapay zeka devi OpenAI, en gelişmiş modellerinin güvenlik protokollerini aşarak yetkisiz internet erişimi sağlaması, kullanıcı görsellerini sızdırması ve kamu kurumlarının sistemleriyle şüpheli etkileşimlere girmesi üzerine devrim niteliğindeki eğitim süreçlerini askıya aldı.",
+      "link": "https://www.yenicaggazetesi.com/openaiin-yapay-zekalari-dns-protokolu-uzerinden-internete-sizdi-1076071h.htm",
+      "published": "2026-09-28T07:24:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:38.417126+00:00"
+    },
+    {
+      "id": "1089e5cabf33946e",
+      "source": "OdaTV",
+      "title": "Uzun saçlarıyla rakibine iki kırmızı kart aldırdı",
+      "summary": "CONCACAF Uluslar Ligi&#039;nde oynanan Antigua &amp; Barbuda - Anguilla maçında oyuna sonradan dahil olan Aedan Scipio, ayaklarına kadar uzanan saçlarını çeken iki rakibine kırmızı kart aldırdı.",
+      "link": "https://www.odatv.com/spor/uzun-saclariyla-rakibine-iki-kirmizi-kart-aldirdi-120164286",
+      "published": "2026-09-28T07:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:40.414181+00:00"
+    },
+    {
+      "id": "b0e36653e7692ad2",
+      "source": "Milliyet",
+      "title": "Tayland'daki sel felaketinde can kaybı artıyor! '545 binden fazla kişi etkilendi'",
+      "summary": "Tayland'da şiddetli yağışlar hayatı olumsuz etkiliyor. Tayland Afet Önleme ve Azaltma Dairesi (DDPM) verilerine göre, ülke genelinde 25 ilde etkili olan şiddetli yağışlardan 545 binden fazla kişi etkilenirken, son 10 günde sel nedeniyle 8 kişi hayatını kaybetti. DDPM tarafından yapılan açıklamada, 50 ilçesi afet bölgesi ilan edilen başkent Bangkok'ta yaklaşık 52 bin hanenin selden etkilendiği, yak",
+      "link": "https://www.milliyet.com.tr/dunya/taylanddaki-sel-felaketinde-can-kaybi-8e-cikti-7668949",
+      "published": "2026-09-28T07:23:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:35.115028+00:00"
+    },
+    {
+      "id": "65988277cd49c21b",
+      "source": "Halk TV",
+      "title": "Sigara içti, gözlerini yabancı bir evde açtı! Antalya’da düğün fotoğrafçısı cinsel saldırıya uğradı",
+      "summary": "Antalya’da 25 yaşındaki düğün fotoğrafçısı, kendisine ikram edilen sigarayı içtikten sonra bayıldığını ve gözlerini yabancı bir evde açtığını öne sürdü. Genç kadın, cinsel saldırıya uğradığını iddia ederek şikâyetçi oldu.",
+      "link": "https://halktv.com.tr/turkiye/sigara-icti-gozlerini-yabanci-bir-evde-acti-antalyada-dugun-fotografcisi-cinsel-saldiriya-ugradi-1057972h",
+      "published": "2026-09-28T07:23:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:40.867939+00:00"
+    },
+    {
+      "id": "7c3d22747fafb822",
+      "source": "Cumhuriyet",
+      "title": "Ekvador’un suç örgütü lideri 'Fito'nun eşi ve kızı Kolombiya’da yakalandı",
+      "summary": "Ekvador’un en güçlü suç örgütlerinden Los Choneros’un lideri José Adolfo Macías Villamar’ın, “Fito” lakaplı suç örgütü liderinin eşi ve kızı Kolombiya’da düzenlenen operasyonla yakalandı. Ekvador’da kara para aklama suçlamasıyla aranan iki kadının ülkeye iade edilmesi bekleniyor.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/ekvador-un-suc-orgutu-lideri-fito-nun-esi-ve-kizi-kolombiya-da-yakalandi-2541680",
+      "published": "2026-09-28T07:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:30.056492+00:00"
+    },
+    {
+      "id": "4acf0ea1014de792",
+      "source": "Karar",
+      "title": "Ticaret Bakanlığı'ndan boğulma riski taşıyan ürün için geri çağırma kararı",
+      "summary": "Ticaret Bakanlığı, boğulma riski taşıyan Intex marka yüzme yardımcısı için geri çağırma kararı aldı; ürünü satın alan tüketicilere para iadesi, değişim veya sorun giderme hakkı tanındı.",
+      "link": "https://www.karar.com/guncel-haberler/ticaret-bakanligindan-bogulma-riski-tasiyan-urun-icin-geri-cagirma-2074746",
+      "published": "2026-09-28T07:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:37.908299+00:00"
+    },
+    {
+      "id": "78ffab467cfdb504",
+      "source": "Yeniçağ",
+      "title": "TEKNOFEST 2026’da Eskişehir damgası: 4 Türkiye derecesi birden",
+      "summary": "TEKNOFEST 2026 kapsamında düzenlenen Mesleki Yetenek Yarışması’nda Eskişehir Özel EOSB Mesleki ve Teknik Anadolu Lisesi öğrencileri, farklı kategorilerde elde ettikleri 4 Türkiye derecesiyle dikkat çekti.",
+      "link": "https://www.yenicaggazetesi.com/teknofest-2026da-eskisehir-damgasi-4-turkiye-derecesi-birden-1076070h.htm",
+      "published": "2026-09-28T07:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:38.417145+00:00"
+    },
+    {
+      "id": "753450d494d4df28",
+      "source": "Independent Türkçe",
+      "title": "Sermaye piyasası işlemleri soruşturmalarında 7 zanlı daha gözaltına alındı",
+      "summary": "İstanbul'da sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar kapsamında düzenlenen operasyonda 7 şüpheli daha gözaltına alındı. Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosunca, sermaye piyasasında gerçekleştirilen işlemlere ilişkin soruşturmalar sürüyor. Soruşturma kapsamında Destek Holding AŞ ve Özata Gemicilik şirketleriyle bağlantılı 7 şü",
+      "link": "https://www.indyturk.com/node/783061/haber/sermaye-piyasas%C4%B1-i%C5%9Flemleri-soru%C5%9Fturmalar%C4%B1nda-7-zanl%C4%B1-daha-g%C3%B6zalt%C4%B1na-al%C4%B1nd%C4%B1",
+      "published": "2026-09-28T07:22:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:46.262974+00:00"
+    },
+    {
+      "id": "e77884ecd0cf03d0",
+      "source": "Cumhuriyet",
+      "title": "Enner Valencia hat-trick yaptı: Boca Juniors, Racing karşısında 2-0'dan geri döndü",
+      "summary": "Boca Juniors, Arjantin Kupası'nda karşılaştığı Racing Club'ı 3-2 mağlup etti. 56. dakikada oyuna dahil olan Enner Valencia, karşılaşmada hat-trick yaptı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/enner-valencia-hat-trick-yapti-boca-juniors-racing-karsisinda-2-0-dan-geri-dondu-2541679",
+      "published": "2026-09-28T07:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:30.056523+00:00"
+    },
+    {
+      "id": "11ec84ba292d24c6",
+      "source": "Ekonomim",
+      "title": "Endüstriyel mutfakta ABD mayası tuttu, İstanbul'a yeni alıcılar geliyor",
+      "summary": "Endüstriyel Mutfak, Çamaşırhane, Servis ve İkram Ekipmanları Sanayici ve İş İnsanları Derneği (TUSİD) ve EMPERO Yönetim Kurulu Başkanı Bekir Topuz, Türk endüstriyel mutfak sektörünün ABD pazarında son yıllarda hızla ilerlediğini belirterek, &quot;Her yıl yüzde 10-15 büyümeyi ve 5 yıl içinde ABD&#039;deki ihracatımızı iki katına çıkarmayı hedefliyoruz. Bu stratejinin önemli bir ayağı da TÜYAP’ta dü",
+      "link": "https://www.ekonomim.com/sektorler/endustriyel-mutfakta-abd-mayasi-tuttu-istanbula-yeni-alicilar-geliyor-haberi-921154",
+      "published": "2026-09-28T07:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:48.345532+00:00"
+    },
+    {
+      "id": "609dc23edae98ae2",
+      "source": "Aydınlık",
+      "title": "ABD ve Çin anlaştı: Tarifeler karşılıklı düşüyor",
+      "summary": "Çin ve ABD, 30 milyar dolarlık ticarette tarife indirimi ve kömür ithalatı dahil kritik konularda kapsamlı mutabakata vardı.",
+      "link": "https://www.aydinlik.com.tr/haber/abd-ve-cin-anlasti-tarifeler-karsilikli-dusuyor-591945",
+      "published": "2026-09-28T07:21:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:39.591901+00:00"
+    },
+    {
+      "id": "887ccdba5d920aa3",
+      "source": "LOG",
+      "title": "Microsoft CEO’su Satya Nadella, Xbox tarafındaki işten çıkarmalara yönelik tepki çeken bir açıklamada bulundu",
+      "summary": "Son dönemde &#8220;reset&#8221; adı altında Xbox departmanındaki çok sayıda kişinin işine son veren Microsoft CEO&#8217;su Satya Nadella, bu sefer işten çıkarmaları güzelleyen açıklamasıyla gündemde ses getirdi. Alex Heath&#8217;in sunduğu Sources Podcast programında Nadella, “Şu anda sahip olduğumuz oyun serileri (IP) konusunda kendimi son derece iyi hissediyorum. Stüdyolarımıza, sahip olduğumuz ",
+      "link": "https://www.log.com.tr/microsoft-ceosu-satya-nadella-xbox-tarafindaki-isten-cikarmalara-yonelik-tepki-ceken-bir-aciklamada-bulundu/",
+      "published": "2026-09-28T07:21:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:53.777842+00:00"
+    },
+    {
+      "id": "3952b79b798d0493",
+      "source": "Star",
+      "title": "6 ilde yasa dışı bahis ağına operasyon! 25 şüpheliden 12'si cezaevine gönderildi",
+      "summary": "Kırklareli merkezli 6 ilde yasa dışı bahis, suç örgütü kurma ve suçtan kaynaklanan mal varlığı değerlerini aklama suçlarına yönelik operasyonda gözaltına alınan 25 şüpheliden 12'si tutuklandı.",
+      "link": "https://www.star.com.tr/guncel/6-ilde-yasa-disi-bahis-agina-operasyon-25-supheliden-12si-cezaevine-gonderildi-haber-2043027/",
+      "published": "2026-09-28T07:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:36.687733+00:00"
+    },
     {
       "id": "19359168b240016c",
       "source": "Yeniçağ",
@@ -94,6 +270,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T07:20:45.859325+00:00"
+    },
+    {
+      "id": "b189133dc23a3618",
+      "source": "Aydınlık",
+      "title": "İstanbul'da sağanak yağışın biteceği gün belli oldu! Valilikten açıklama geldi",
+      "summary": "İstanbul Valiliği, hafta boyunca sürecek kuvvetli sağanak yağış ve rüzgara karşı vatandaşları sel ve ulaşımda aksamalara karşı uyardı.",
+      "link": "https://www.aydinlik.com.tr/fotogaleri/istanbulda-saganak-yagisin-bitecegi-gun-belli-oldu-valilikten-aciklama-geldi-591944",
+      "published": "2026-09-28T07:18:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:39.591927+00:00"
+    },
+    {
+      "id": "4e051a6b843a1c75",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "ABD'de Apple'a 5,7 milyar dolarlık patent cezası",
+      "summary": "ABD'de mahkeme, teknoloji şirketi Apple'ın iki patenti ihlal ettiğine hükmederek şirketin yaklaşık 5,72 milyar dolar tazminat ödemesine karar verdi.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abdde-applea-5-7-milyar-dolarlik-patent-cezasi/4071217",
+      "published": "2026-09-28T07:18:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:29.746203+00:00"
     },
     {
       "id": "4c7267d300df4019",
@@ -259,6 +457,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T07:20:45.276502+00:00"
+    },
+    {
+      "id": "90d6b75b581228de",
+      "source": "Türkiye Gazetesi",
+      "title": "İtalyan eski yıldızından Türkiye maçı sözleri: 3 isim zorluk çıkarır",
+      "summary": "Süper Lig'de 2022-2023 sezonunda Fatih Karagümrük forması giyen Matteo Ricci, UEFA Uluslar A Ligi 1'inci Grup'taki ikinci maçında Bursa'da bugün oynanacak Türkiye-İtalya karşılaşması öncesi Türkiye Gazetesi'ne açıklamalarda bulundu. İtalya'nın 2026 Dünya Kupası'nı kaçırmasının ardından yapılanma sürecinden geçtiğini belirten Ricci, A Milli Takımımız'dan Arda Güler, Can Uzun, Kerem Aktürkoğlu'na ve",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/ozel-karagumrukun-eski-yildizi-ricciden-turkiye-maci-sozleri-italyaya-zorluk-cikaraca-1819090",
+      "published": "2026-09-28T07:16:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:32.739685+00:00"
     },
     {
       "id": "760cbcc2b605bdf2",
@@ -910,6 +1119,17 @@
       "fetched_at": "2026-09-28T07:05:33.128679+00:00"
     },
     {
+      "id": "1cdc16915b1431ef",
+      "source": "Evrensel",
+      "title": "Bingöl’de mera ve ormanlık alanlara GES projesi: Hukuk mücadelesi başlatıldı",
+      "summary": "Bingöl Solhan’da 60 binden fazla hayvanın otlama ve geçiş güzergahı olan mera alanında yapılmak istenen GES projelerine karşı bölge halkı harekete geçti. Muhtarlar ortak dilekçe verirken, projeye ilişkin suç duyurusunda bulunuldu.",
+      "link": "https://www.evrensel.net/haber/6002420/bingolde-mera-ve-ormanlik-alanlara-ges-projesi-hukuk-mucadelesi-baslatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-28T07:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:33.361262+00:00"
+    },
+    {
       "id": "733f181efeab8d08",
       "source": "Akşam",
       "title": "Valilikten İstanbul'a kuvvetli sağanak uyarısı",
@@ -1372,6 +1592,17 @@
       "fetched_at": "2026-09-28T07:01:09.295838+00:00"
     },
     {
+      "id": "2879b5cdc4c10a59",
+      "source": "Diken",
+      "title": "Fon soruşturmasında yedi gözaltı",
+      "summary": "Fon soruşturmasında yedi gözaltı 28.09.2026 Diken İstanbul başsavcılığının yürüttüğü fon soruşturmasında yedi kişi gözaltına alındı. The post Fon soruşturmasında yedi gözaltı appeared first on #site_linkat 28.09.2026 .",
+      "link": "https://www.diken.com.tr/fon-sorusturmasinda-yedi-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=fon-sorusturmasinda-yedi-gozalti",
+      "published": "2026-09-28T06:57:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:40.988499+00:00"
+    },
+    {
       "id": "2879c11d08da75d3",
       "source": "Aydınlık",
       "title": "Van’da okula tüfekle gelen öğrenci paniğe neden oldu",
@@ -1722,6 +1953,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T06:55:38.088232+00:00"
+    },
+    {
+      "id": "2b967206a63aa11d",
+      "source": "Hürriyet",
+      "title": "Park yeri tartışması silahlı kavgaya dönüştü: 2 kişi gözaltına alındı",
+      "summary": "Beylikdüzü'nde bir sitenin otoparkında çıkan araç park etme tartışması silahlı kavgaya dönüştü. Olay yerinde silah çekilmesi üzerine kavgayı ayırmaKk isteyen bir mahalle sakini araya girerken, olaya karışan şüpheliler polis tarafından gözaltına alındı.",
+      "link": "https://www.hurriyet.com.tr/gundem/park-yeri-tartismasi-silahli-kavgaya-donustu-2-kisi-gozaltina-alindi-43321874",
+      "published": "2026-09-28T06:51:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:34.186605+00:00"
     },
     {
       "id": "ca1301e5a66d3693",
@@ -4210,6 +4452,17 @@
       "fetched_at": "2026-09-28T06:20:35.913613+00:00"
     },
     {
+      "id": "2b09c40ab8d229be",
+      "source": "Habertürk",
+      "title": "\"Bekliyorum\"",
+      "summary": "İlk çocuğunu kucağına almak için gün sayan şarkıcı Melike Şahin, karnı burnunda pozlarını yayımladı",
+      "link": "https://www.haberturk.com/magazin/foto/melike-sahin-bekliyorum-3915519",
+      "published": "2026-09-28T06:12:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T07:25:27.645916+00:00"
+    },
+    {
       "id": "b7164006220f669f",
       "source": "Cumhuriyet",
       "title": "Kabine Toplantısı ne zaman, saat kaçta yapılacak? 28 Eylül Kabine Toplantısı gündeminde hangi konular var?",
@@ -5253,259 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T05:50:40.948594+00:00"
-    },
-    {
-      "id": "a4fa1862c5af007f",
-      "source": "Evrensel",
-      "title": "Fon soruşturmasında yeni operasyon: Destek Yatırım Bankası Genel Müdürü dahil 7 kişi gözaltına alındı",
-      "summary": "Destek Yatırım Bankası ve Özata Denizcilik’e ilişkin yürütülen fon soruşturmasında 7 kişi gözaltına alındı. Gözaltına alınanlar arasında bankanın Genel Müdürü ve kurucu ortaklarından Özgür Akayoğlu da bulunuyor.",
-      "link": "https://www.evrensel.net/haber/6002406/fon-sorusturmasinda-yeni-operasyon-destek-yatirim-bankasi-genel-muduru-dahil-7-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-28T05:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T06:10:38.055801+00:00"
-    },
-    {
-      "id": "e4514c4b0893948a",
-      "source": "Evrensel",
-      "title": "Fon soruşturması sürüyor: Destek Yatırım Bankası Genel Müdürü Akayoğlu gözaltına alındı",
-      "summary": "Destek Yatırım Bankası Genel Müdürü Özgür Akayoğlu, fon soruşturması kapsamında gözaltına alındı. Bankanın sahibi Altunç Kumova da aynı soruşturma kapsamında daha önce tutuklanmıştı.",
-      "link": "https://www.evrensel.net/haber/6002406/fon-sorusturmasi-suruyor-destek-yatirim-bankasi-genel-muduru-akayoglu-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-28T05:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:55:28.818101+00:00"
-    },
-    {
-      "id": "179fabdcfd5cc83e",
-      "source": "Finans Gündem",
-      "title": "Hurda zamlandı, demir fiyatı uçtu",
-      "summary": "Hurdadaki hızlı yükseliş, inşaat demiri fiyatlarını yukarı taşırken çimento ve hazır betondaki artışlarla birlikte sektörde maliyet baskısını daha da artırdı.",
-      "link": "https://www.finansingundemi.com/haber/hurda-zamlandi-demir-fiyati-uctu/1909709",
-      "published": "2026-09-28T05:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:55:39.395098+00:00"
-    },
-    {
-      "id": "08ad0b14b16cf6d4",
-      "source": "Akşam",
-      "title": "Bakan Şimşek'ten piyasalara net mesaj: İlgisi olmayanlara işlem yok",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, piyasa bozucu işlemlere karışanlara yönelik hukuki sürecin sürdüğünü belirterek, bu faaliyetlerle ilgisi bulunmayan kişi ve şirketler hakkında işlem yapılmayacağını açıkladı.",
-      "link": "https://www.aksam.com.tr/ekonomi/bakan-simsekten-piyasalara-net-mesaj-ilgisi-olmayanlara-islem-yok/haber-1701892",
-      "published": "2026-09-28T05:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:40.300298+00:00"
-    },
-    {
-      "id": "7b1ead730394e2e4",
-      "source": "Star",
-      "title": "Bakan Şimşek: Fon yatırımcılarımızın meşru haklarını gözetiyoruz",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Adalet Bakanlığımız ile koordinasyon içinde fon yatırımcılarımızın meşru haklarını gözetiyoruz.\" dedi.",
-      "link": "https://www.star.com.tr/ekonomi/bakan-simsek-fon-yatirimcilarimizin-mesru-haklarini-gozetiyoruz-haber-2042996/",
-      "published": "2026-09-28T05:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:41.170050+00:00"
-    },
-    {
-      "id": "3b445aaa78848a20",
-      "source": "Halk TV",
-      "title": "Son dakika | Mehmet Şimşek'ten fon skandalına ilişkin açıklama",
-      "summary": "Son dakika açıklaması... Fon skandalına ilişkin açıklama yapan Bakan Şimşek, sürecin devam ettiğini faaliyetlerle ilgisi olmayan kişi ve kuruluşlara herhangi bir işlem yapılmayacağını bildirdi. Şimşek tedbirlerin sürdüğünü söyledi.",
-      "link": "https://halktv.com.tr/ekonomi/son-dakika-mehmet-simsekten-fon-skandalina-iliskin-aciklama-1057947h",
-      "published": "2026-09-28T05:48:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:45.019095+00:00"
-    },
-    {
-      "id": "e1fa6b1c11284c8f",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Bakan Şimşek: Piyasa bozucu işlemlere karışanlara yönelik hukuki süreç devam ediyor",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Piyasa bozucu işlemlere karışanlara yönelik hukuki süreç devam ediyor, bu faaliyetlerle ilgisi bulunmayan kişi ve şirketlere yönelik bir işlem yapılmayacaktır.\" ifadesini kullandı.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-piyasa-bozucu-islemlere-karisanlara-yonelik-hukuki-surec-devam-ediyor/4071135",
-      "published": "2026-09-28T05:48:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:55:26.032668+00:00"
-    },
-    {
-      "id": "8652ebd6a4a4ec92",
-      "source": "Bir Gün",
-      "title": "Mehmet Şimşek’ten fon soruşturmasına ilişkin açıklama",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon soruşturmasına ilişkin yaptığı açıklamada, piyasa bozucu işlemlerle ilgisi bulunmayan kişi ve şirketler hakkında işlem yapılmayacağını bildirdi. Şimşek, fon yatırımcılarının haklarına ilişkin Adalet Bakanlığı ile koordinasyon içinde çalışıldığını ve piyasaya yönelik tedbirlerin sürdürüleceğini belirtti.",
-      "link": "https://www.birgun.net/haber/mehmet-simsekten-fon-sorusturmasina-iliskin-aciklama-737329",
-      "published": "2026-09-28T05:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T06:30:44.951600+00:00"
-    },
-    {
-      "id": "4bdc4dc6fb830b39",
-      "source": "Finans Gündem",
-      "title": "Merkez Bankası'ndan döviz dönüşüm desteği için açıklama",
-      "summary": "Merkez Bankası blog sayfasında, firmalara yönelik döviz dönüşüm desteğinin, 1 Ekim'de başlayacak yeni dönemiyle ilgili açıklama yapıldı.",
-      "link": "https://www.finansingundemi.com/haber/merkez-bankasindan-doviz-donusum-destegi-icin-aciklama/1909711",
-      "published": "2026-09-28T05:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:55:39.395153+00:00"
-    },
-    {
-      "id": "47ab820b0033b317",
-      "source": "Euronews Türkçe",
-      "title": "Trump İran'ın ateşkes teklifini reddetti, petrol fiyatları yükseldi",
-      "summary": "Petrol fiyatları yükselirken hisse senetleri ve tahviller, Trump'ın İran'ın Hürmüz Boğazı'nı açma teklifini reddetmesiyle düştü; geçen haftaki iyimserlik azaldı.",
-      "link": "https://tr.euronews.com/2026/09/28/trump-iranin-ateskes-teklifini-reddetti-petrol-fiyatlari-yukseldi",
-      "published": "2026-09-28T05:47:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:51:00.107627+00:00"
-    },
-    {
-      "id": "e6c291af7505c4d0",
-      "source": "Bir Gün",
-      "title": "Gram altın sert düştü",
-      "summary": "Piyasa açılışında yüksek seyirle başlayan gram altın, saat 09.01 itibarıyla yüzde 2,27 değer kaybıyla 6 bin 587 liradan işlem görüyor. Çeyrek altın 10 bin 779, Cumhuriyet altını ise 42 bin liradan satılıyor.",
-      "link": "https://www.birgun.net/haber/gram-altin-sert-dustu-737328",
-      "published": "2026-09-28T05:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T06:30:44.951629+00:00"
-    },
-    {
-      "id": "140451e4e8bd2679",
-      "source": "Finans Gündem",
-      "title": "Fon soruşturmasında yol haritası Kabine’de",
-      "summary": "Cumhurbaşkanlığı Kabinesi bugün Cumhurbaşkanı Erdoğan başkanlığında toplanacak. Fon soruşturmasında gelinen aşama ile tasfiye ve ödeme sürecinin Kabine'de ele alınması beklenirken, soruşturmada bu sabah iki önemli gelişme yaşandı",
-      "link": "https://www.finansingundemi.com/haber/fon-sorusturmasinda-yol-haritasi-kabinede/1909710",
-      "published": "2026-09-28T05:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:55:39.395208+00:00"
-    },
-    {
-      "id": "23eee5eb6dde5bb8",
-      "source": "Akşam",
-      "title": "Dünyanın en iyi dron pilotları TEKNOFEST Güneydoğu'da",
-      "summary": "TEKNOFEST Güneydoğu kapsamında 1 Ekim'de başlayacak Dünya Drone Şampiyonası'nda 32 ülkeden gelen pilotlar, kendi tasarım ve montajlarını yaptıkları yüksek hızlı FPV dronlarla mücadele edecek.",
-      "link": "https://www.aksam.com.tr/teknoloji/dunyanin-en-iyi-dron-pilotlari-teknofest-guneydoguda/haber-1701891",
-      "published": "2026-09-28T05:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:40.300327+00:00"
-    },
-    {
-      "id": "258a9d4a1f00e3a7",
-      "source": "OdaTV",
-      "title": "Yatırımcıyı ilgilendiren hesap: Fon tasfiyesinden vergi çıkabilir",
-      "summary": "Yusuf İleri yazdı...",
-      "link": "https://www.odatv.com/yazarlar/yusuf-ileri/yatirimciyi-ilgilendiren-hesap-fon-tasfiyesinden-vergi-cikabilir-120164246",
-      "published": "2026-09-28T05:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:44.619128+00:00"
-    },
-    {
-      "id": "4ae39e5978eecc75",
-      "source": "OdaTV",
-      "title": "Feyza Altun aldatıldı: Mesajları tek tek ifşa etti",
-      "summary": "Avukat Feyza Altun, 10 yıllık ilişkisinin ardından 2021&#039;de evlenip 2023&#039;te boşandığı, sonrasında yeniden barıştığı İlker Sungurlar&#039;ın kendisini aldattığını açıkladı.",
-      "link": "https://www.odatv.com/magazin/feyza-altun-aldatildi-mesajlari-tek-tek-ifsa-etti-120164275",
-      "published": "2026-09-28T05:46:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:44.619156+00:00"
-    },
-    {
-      "id": "9255b8b89d7bfaf8",
-      "source": "Sabah",
-      "title": "SON DAKİKA! Bakan Şimşek'ten fon açıklaması: Yatırımcılarımızın meşru haklarını gözetiyoruz",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, fon soruşturmasına yönelik yaptığı açıklamada \"Adalet Bakanlığımız ile koordinasyon içinde fon yatırımcılarımızın meşru haklarını gözetiyoruz\" dedi. Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/ekonomi/son-dakika-bakan-simsekten-fon-aciklamasi-yatirimcilarimizin-mesru-haklarini-gozetiyoruz-7669318",
-      "published": "2026-09-28T05:46:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T06:05:33.180445+00:00"
-    },
-    {
-      "id": "75d768e7a8c09101",
-      "source": "Halk TV",
-      "title": "İngiltere'de taç antrenörüydü: TFF 1. Lig ekibine transfer oldu",
-      "summary": "İngiltere&#039;de taç antrenörü olarak görev yapan Thomas Gronnemark, TFF 1. Lig ekibine transfer oldu.",
-      "link": "https://halktv.com.tr/spor/ingilterede-tac-antrenoruydu-tff-1-lig-ekibine-transfer-oldu-1057946h",
-      "published": "2026-09-28T05:46:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:45.019138+00:00"
-    },
-    {
-      "id": "6d73f4d6075c3e57",
-      "source": "LOG",
-      "title": "Yeni BMW 3 serisi 30 Eylül’de görücüye çıkarılacak",
-      "summary": "Tamamen elektrikli “Neue Klasse” serisi i3&#8217;ü resmi olarak mart ayında tanıtan BMW, içten yanmalı motorlara sahip yeni &#8220;3&#8221; serisini 30 Eylül&#8217;de karşımıza çıkaracak. Tasarımsal olarak i3&#8217;ün çizgisini benimseyecek yeni model, halihazırda kullanılan &#8220;CLAR&#8221; mimarisinin güncellenmiş versiyonunu temel alacak. Önümüzdeki yıl Türkiye&#8217;de de satılacak sedan, şi",
-      "link": "https://www.log.com.tr/yeni-bmw-3-serisi-30-eylulde-gorucuye-cikarilacak/",
-      "published": "2026-09-28T05:46:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:55.786975+00:00"
-    },
-    {
-      "id": "981be9a7ebc1db59",
-      "source": "Sözcü",
-      "title": "Bakan Şimşek'ten fon açıklaması",
-      "summary": "Bakan Şimşek'ten fon açıklaması",
-      "link": "https://www.sozcu.com.tr/bakan-simsek-ten-fon-aciklamasi-p364080",
-      "published": "2026-09-28T05:45:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:38.333748+00:00"
-    },
-    {
-      "id": "9ca7fd3f21c4a0cf",
-      "source": "OdaTV",
-      "title": "Çakmak gazı soluyan çocuk hayatını kaybetti",
-      "summary": "Afyonkarahisar&#039;da bir markette, çakmak gazı doldurmaya yarayan spreyle oynadığı ve gazı soluduğu ileri sürülen 7 yaşındaki Mustafa Ali Avcı yaşamını yitirdi.",
-      "link": "https://www.odatv.com/guncel/cakmak-gazi-soluyan-mustafa-ali-avci-hayatini-kaybetti-120164274",
-      "published": "2026-09-28T05:45:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:50:44.619177+00:00"
-    },
-    {
-      "id": "d59b026c0bab047f",
-      "source": "Diken",
-      "title": "Şimşek: Piyasayı bozmayanlara işlem yapılmayacak",
-      "summary": "Şimşek: Piyasayı bozmayanlara işlem yapılmayacak 28.09.2026 Diken Hazine ve Maliye Bakanı Mehmet Şimşek, 'piyasa bozucu işlemlere karışmayan kişi ve şirketlere işlem yapılmayacağını' duyurdu. The post Şimşek: Piyasayı bozmayanlara işlem yapılmayacak appeared first on #site_linkat 28.09.2026 .",
-      "link": "https://www.diken.com.tr/simsek-piyasayi-bozmayanlara-islem-yapilmayacak/?utm_source=rss&utm_medium=rss&utm_campaign=simsek-piyasayi-bozmayanlara-islem-yapilmayacak",
-      "published": "2026-09-28T05:44:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T06:15:52.769333+00:00"
-    },
-    {
-      "id": "817dbfed3da5c102",
-      "source": "Diken",
-      "title": "Şimşek: Piyasa bozucu işlemlere karışmayanlara işlem yapılmayacak",
-      "summary": "Şimşek: Piyasa bozucu işlemlere karışmayanlara işlem yapılmayacak 28.09.2026 Diken Hazine ve Maliye Bakanı Mehmet Şimşek, 'piyasa bozucu işlemlere karışmayan kişi ve şirketlere işlem yapılmayacağını' duyurdu. The post Şimşek: Piyasa bozucu işlemlere karışmayanlara işlem yapılmayacak appeared first on #site_linkat 28.09.2026 .",
-      "link": "https://www.diken.com.tr/simsek-piyasa-bozucu-islemlere-karismayanlara-islem-yapilmayacak/?utm_source=rss&utm_medium=rss&utm_campaign=simsek-piyasa-bozucu-islemlere-karismayanlara-islem-yapilmayacak",
-      "published": "2026-09-28T05:44:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:45:47.592195+00:00"
-    },
-    {
-      "id": "f484076ad29dfe92",
-      "source": "Yeniçağ",
-      "title": "Gece yarısı sağanak dehşeti: Binaları su bastı, vatandaş isyan etti",
-      "summary": "Ankara’da gece saatlerinde etkili olan şiddetli sağanak cadde ve bulvarları göle çevirirken Keçiören’de bazı binaların giriş ve bodrum katlarını su bastı. Yağış sonrası lağım sularıyla dolan binalarda vatandaşlar kendi imkânlarıyla tahliye çalışması yaptı.",
-      "link": "https://www.yenicaggazetesi.com/gece-yarisi-saganak-dehseti-binalari-su-basti-vatandas-isyan-etti-1076041h.htm",
-      "published": "2026-09-28T05:44:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T05:45:44.691526+00:00"
     }
   ]
 }

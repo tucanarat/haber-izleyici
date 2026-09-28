@@ -1,12 +1,210 @@
 {
-  "last_updated": "2026-09-28T11:11:00.534347+00:00",
+  "last_updated": "2026-09-28T11:16:03.652529+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 536,
+  "new_items_this_run": 544,
   "items": [
+    {
+      "id": "bb7f51b1c201ad09",
+      "source": "DonanımHaber",
+      "title": "BYD, katı hal bataryalı ilk elektrikli otomobilini 2027'de tanıtacak",
+      "summary": "BYD, katı hal bataryalı ilk elektrikli otomobilini 2027'de göstermeye hazırlanıyor. Şirket, yeni bataryaların seri üretimine ise 2030 civarında başlamayı hedefliyor.",
+      "link": "https://www.donanimhaber.com/byd-kati-hal-bataryali-ilk-elektrikli-aracini-2027-de-tanitacak--210992",
+      "published": "2026-09-28T11:15:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:16:00.835393+00:00"
+    },
+    {
+      "id": "2d351f10f442f1f8",
+      "source": "Yeniçağ",
+      "title": "Bodrum’a ilk kez yanaştı: Tek seferde 1952 yolcu getirdi",
+      "summary": "Santorini’den yola çıkan 285 metrelik dev kruvaziyer, Bodrum’a ilk seferini gerçekleştirdi. Çoğunluğu ABD vatandaşı 1952 yolcu ve 797 mürettebat taşıyan gemi, akşam saatlerinde Kuşadası’na hareket edecek.",
+      "link": "https://www.yenicaggazetesi.com/bodruma-ilk-kez-yanasti-tek-seferde-1952-yolcu-getirdi-1076207h.htm",
+      "published": "2026-09-28T11:14:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:46.323850+00:00"
+    },
+    {
+      "id": "f6d261c80d3d831d",
+      "source": "Akşam",
+      "title": "Kapalıçarşı'dan Çin'e film gibi soygun! Vurgun kasayı açınca çıktı",
+      "summary": "Kapalıçarşı'da, döviz ve değerli madenlerin satıldığı iş yeri kasasının 4 yıldır dükkanda çalışan eleman tarafından soyulduğu olaya ilişkin iddianame düzenlendi. Hazırlanan iddinamede, iş yeri çalışanının, 699 bin 366 dolar ve 430 bin 758 Türk Lirası ile 806 Euroyu çelik kasa içerisinden alarak ortadan kaybolduğu belirtildi. Kasadan içinde mutfak malzemeleri bulunan bir çanta çıktığı, şüphelinin e",
+      "link": "https://www.aksam.com.tr/yasam/kapalicarsidan-cine-film-gibi-soygun-vurgun-kasayi-acinca-cikti/haber-1701980",
+      "published": "2026-09-28T11:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:43.641886+00:00"
+    },
+    {
+      "id": "d27619b5c965a729",
+      "source": "Karar",
+      "title": "Çorlu`da yol yapım ve yenileme çalışmaları devam ediyor",
+      "summary": "Çorlu Belediyesi, kent genelindeki altyapı ve üstyapı hamlelerini aralıksız sürdürüyor. Çorlu Belediye Başkanı Ahmet Sarıkurt, Fen İşleri Müdürlüğünden sorumlu Başkan Yardımcısı Adnan Kum ile birlikte Zafer Mahallesi’nde devam eden yol çalışmalarını yerinde inceledi.",
+      "link": "https://www.karar.com/sehir-haberleri/corluda-yol-yapim-ve-yenileme-calismalari-devam-ediyor-1-2074834",
+      "published": "2026-09-28T11:13:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:45.647677+00:00"
+    },
+    {
+      "id": "26ff3c80feb2e99f",
+      "source": "Karar",
+      "title": "Çorlu`da yol yapım ve yenileme çalışmaları devam ediyor",
+      "summary": "Çorlu Belediyesi, kent genelindeki altyapı ve üstyapı hamlelerini aralıksız sürdürüyor. Çorlu Belediye Başkanı Ahmet Sarıkurt, Fen İşleri Müdürlüğünden sorumlu Başkan Yardımcısı Adnan Kum ile birlikte Zafer Mahallesi’nde devam eden yol çalışmalarını yerinde inceledi.",
+      "link": "https://www.karar.com/sehir-haberleri/corluda-yol-yapim-ve-yenileme-calismalari-devam-ediyor-2074833",
+      "published": "2026-09-28T11:13:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:45.647709+00:00"
+    },
+    {
+      "id": "aade0dfb0a56dd4d",
+      "source": "Cumhuriyet",
+      "title": "Erdoğan ve yakınlarının bilgileri sorgulanmış: Eski MASAK yöneticisi de aralarında 4 kişiye tutuklama istemi",
+      "summary": "'Siyasal veya Askeri Casusluk' soruşturmasında, MASAK’ın Entegre Mali İstihbarat Sistemi üzerinden AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan, yakınları ve bazı bakanlara ilişkin sorgulamalar yapıldığı belirlendi. Şüphelilerden eski MASAK daire başkan yardımcısının da aralarında bulunduğu 4 kişi tutuklamaya sevk edildi.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/erdogan-ve-yakinlarinin-bilgileri-sorgulanmis-eski-masak-yoneticisi-de-aralarinda-4-kisiye-tutuklama-istemi-2541768",
+      "published": "2026-09-28T11:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:38.030995+00:00"
+    },
+    {
+      "id": "10ab6e09151cc52d",
+      "source": "Cumhuriyet",
+      "title": "Manisa'daki okulda 'silahlı saldırı' sonrası ilk ders",
+      "summary": "Manisa'nın Turgutlu ilçesinde H.O.'nun (15) öğrencilerin okula geldiği sokakta av tüfeğiyle ateş edip 3'ü ağır, 11 öğrenciyi yaraladığı olayın ardından eğitime 3 gün ara verilen Turgutlu İnci Üzmez Mesleki Teknik ve Anadolu Lisesi'nde bugün yeniden dersbaşı yapıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/manisa-daki-okulda-silahli-saldiri-sonrasi-ilk-ders-2541769",
+      "published": "2026-09-28T11:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:38.031028+00:00"
+    },
+    {
+      "id": "0097d2e56f63ba45",
+      "source": "Gazete Pencere",
+      "title": "Özel'den gündemi sarsacak yeni iddia: Kabinedeki bakan adına 200 milyon euroluk işlem yapıldı",
+      "summary": "YENİ Parti lideri Özgür Özel, fon krizine ilişkin yeni bir iddia ortaya attı. Özel halen bakanlık görevinde bulunan bir isim adına üçüncü bir kişi tarafından fonlarda 200 milyon euronun üzerinde işlem yapıldığını öne sürdü.",
+      "link": "https://www.gazetepencere.com/gundem/ozelden-gundemi-sarsacak-yeni-iddia-kabinedeki-bakan-adina-200-milyon-euroluk-717087h",
+      "published": "2026-09-28T11:12:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:47.564954+00:00"
+    },
+    {
+      "id": "23ac1747fdcfb10e",
+      "source": "Türkiye Gazetesi",
+      "title": "F.Bahçe'nin eski yıldızı tarih yazdı: Yıllar sonra ilki başardı",
+      "summary": "Arjantin'in köklü kulübü Boca Juniors'ın başarısı için mücadele eden Enner Valencia, 3-2 kazandıkları Racing maçında müthiş bir performansa imza attı. Fenerbahçe'de 2020-2023 yılları arasında forma giyen golcü oyuncunun ulaşılması güç istatistiği gündem oldu.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcenin-eski-golcusu-tarih-yazdi-yillar-sonra-bir-ilki-basardi-1819146",
+      "published": "2026-09-28T11:12:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:40.191208+00:00"
+    },
+    {
+      "id": "1359e16311ccf1a7",
+      "source": "Yeniçağ",
+      "title": "INSURE Projesi kapsamında Çeltik’te mevsimlik hayvancılık eğitimi tamamlandı",
+      "summary": "AB tarafından finanse edilen, Tarım ve Orman Bakanlığı iş birliği ve Türk Kızılay çözüm ortaklığında, UNDP Türkiye tarafından yürütülen INSURE Projesi kapsamında Konya Çeltik’te düzenlenen “Mevsimlik Mera Hayvancılığı Elemanı Kursu” tamamlandı. 7 kursiyer sertifikalarını aldı.",
+      "link": "https://www.yenicaggazetesi.com/insure-projesi-kapsaminda-celtikte-mevsimlik-hayvancilik-egitimi-tamamlandi-1076206h.htm",
+      "published": "2026-09-28T11:12:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:46.323887+00:00"
+    },
+    {
+      "id": "6b518ace4325268b",
+      "source": "Karar",
+      "title": "17 yıl aranın ardından tekrar ekranlarda! Yasemin Ergene’den yıllar sonra samimi açıklama",
+      "summary": "17 yıllık aranın ardandan tekrar ekranlarda sevenleriyle buluşan Yasemin Ergene, oyunculuğa verdiği arayla ilgili ilk kez konuştu. Ergene, “Pişman mısınız” sorusuna bakın nasıl yanıt verdi?",
+      "link": "https://www.karar.com/hayat-haberleri/17-yil-aranin-ardindan-tekrar-ekranlarda-yasemin-ergeneden-yillar-sonra-2074832",
+      "published": "2026-09-28T11:12:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:45.647735+00:00"
+    },
+    {
+      "id": "8852de9611636f71",
+      "source": "Diken",
+      "title": "Gıda etiketindeki 'E kodu' nedir?",
+      "summary": "Gıda etiketindeki 'E kodu' nedir? 28.09.2026 Diken Etiket üstündeki 'E kodu' Avrupa Birliği (AB) tarafından onaylanmış gıda katkı maddesi için belirlenen kod numarasını gösteriyor. The post Gıda etiketindeki 'E kodu' nedir? appeared first on #site_linkat 28.09.2026 .",
+      "link": "https://www.diken.com.tr/gida-etiketindeki-e-kodu-nedir/?utm_source=rss&utm_medium=rss&utm_campaign=gida-etiketindeki-e-kodu-nedir",
+      "published": "2026-09-28T11:11:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:48.876199+00:00"
+    },
+    {
+      "id": "54c4d28e86a54036",
+      "source": "Türkiye Gazetesi",
+      "title": "Elbistan Adliyesi önünde silahlı kavga: Yaralılar var",
+      "summary": "Kahramanmaraş'ın Elbistan ilçesinde adliye önünde meydana gelen silahlı kavgada 3 kişi yaralandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/elbistan-adliyesi-onunde-silahli-kavga-yaralilar-var-1819145",
+      "published": "2026-09-28T11:11:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:40.191235+00:00"
+    },
+    {
+      "id": "82ba0a5277da258d",
+      "source": "Yeniçağ",
+      "title": "Rober Hatemo verdiği kararla şaşırttı: Eski mesleğine geri dönecek",
+      "summary": "Rober Hatemo, müzik kariyerine ilişkin radikal bir karar aldı. Yeni şarkılar üretme konusunda eskisi kadar istekli olmadığını söyleyen ünlü sanatçı, planladığı son projelerin ardından eski mesleğine dönmeyi düşündüğünü açıkladı.",
+      "link": "https://www.yenicaggazetesi.com/rober-hatemo-verdigi-kararla-sasirtti-eski-meslegine-geri-donecek-1076205h.htm",
+      "published": "2026-09-28T11:11:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:46.323915+00:00"
+    },
+    {
+      "id": "3fa680daa2e7dbd1",
+      "source": "Karar",
+      "title": "Çorlu’da kitap rüzgârı esti",
+      "summary": "Çorlu Belediyesi tarafından bu yıl 14.`sü düzenlenen geleneksel Kitap ve Kırtasiye Fuarı, zengin etkinlik programı, ünlü yazarları ve yoğun katılımla gerçekleştirildi. Atakent Kapalı Pazar Yeri’nde düzenlenen fuar, dört gün boyunca edebiyatseverlere unutulmaz anlar yaşattı.",
+      "link": "https://www.karar.com/sehir-haberleri/corluda-kitap-ruzgari-esti-2074831",
+      "published": "2026-09-28T11:11:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:45.647761+00:00"
+    },
+    {
+      "id": "6770b0b0c1491535",
+      "source": "Akşam",
+      "title": "Akşam Gazetesi yazarı Hüseyin Besli yazdı: 'Rabbani'lerden Süleymancılar'a",
+      "summary": "Akşam Gazetesi yazarı Hüseyin Besli, Süleymancılar cemaatinin kuruluşundan bugüne uzanan süreçte liderlik mücadelelerini ve siyasi ilişkilerini kaleme aldı. Besli, cemaat içindeki kırılmalara ilişkin dikkat çeken iddiaları aktarırken, milyonlarca mensubun gelecekte kimler tarafından ve nasıl yönetileceği sorusunu gündeme taşıdı.",
+      "link": "https://www.aksam.com.tr/guncel/aksam-gazetesi-yazari-huseyin-besli-yazdi-rabbanilerden-suleymancilara/haber-1701979",
+      "published": "2026-09-28T11:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:43.641922+00:00"
+    },
+    {
+      "id": "45d9e645ee9c4c41",
+      "source": "Star",
+      "title": "UEFA'dan Halil Umut Meler'e görev",
+      "summary": "FIFA kokartlı hakem Halil Umut Meler, Çekya ile İngiltere arasında yarın oynanacak UEFA Uluslar A Ligi 3. Grup müsabakasını yönetecek.",
+      "link": "https://www.star.com.tr/spor/uefadan-halil-umut-melere-gorev-haber-2043068/",
+      "published": "2026-09-28T11:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:44.807139+00:00"
+    },
+    {
+      "id": "9ff8377f124634df",
+      "source": "Karar",
+      "title": "Rıdvan Dilmen'den İsmail Kartal'a destek",
+      "summary": "Fenerbahçe'nin eski golcüsü ve spor yorumcusu Rıdvan Dilmen, İsmail Kartal'ın, sarı-lacivertlileri şampiyon yapacağını düşündüğünü belirtti. Dilmen, \"İsmail Kartal'ın artık rahatladığını düşünüyorum. Kendisinin görüşüne inanan bir insanım, şampiyonluğa götüreceğini düşünüyorum\" dedi.",
+      "link": "https://www.karar.com/spor-haberleri/ridvan-dilmenden-ismail-kartala-destek-2074830",
+      "published": "2026-09-28T11:10:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:45.647786+00:00"
+    },
     {
       "id": "295d7629005bfa9b",
       "source": "Karar",
@@ -61,6 +259,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T11:10:50.490517+00:00"
+    },
+    {
+      "id": "e9b83aa4597b98ce",
+      "source": "Aydınlık",
+      "title": "Yunan siyasetçiden İsrailli casus yazılım şirketine suç duyurusu",
+      "summary": "Yunanistanlı eski AP milletvekili Stelios Kuloglu, telefonuna sızan Pegasus casus yazılımı nedeniyle İsrailli NSO Group hakkında suç duyurusunda bulundu.",
+      "link": "https://www.aydinlik.com.tr/haber/yunan-siyasetciden-israilli-casus-yazilim-sirketine-suc-duyurusu-591988",
+      "published": "2026-09-28T11:08:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:46.830398+00:00"
     },
     {
       "id": "a45662bb6fc05d9c",
@@ -492,6 +701,17 @@
       "fetched_at": "2026-09-28T11:05:37.485349+00:00"
     },
     {
+      "id": "62e65dd5f8295779",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail basını: Netanyahu, BAE liderinden 7 Ekim uyarısına ilişkin haberleri yalanlamasını istedi",
+      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun, Birleşik Arap Emirlikleri (BAE) Devlet Başkanı Muhammed bin Zayid Al Nahyan'dan, \"7 Ekim'e ilişkin Netanyahu'yu uyardığı\" yönündeki haberleri yalanlamasını istediği belirtildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-bae-liderinden-7-ekim-uyarisina-iliskin-haberleri-yalanlamasini-istedi/4071509",
+      "published": "2026-09-28T10:59:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:37.664277+00:00"
+    },
+    {
       "id": "7dffd35507592f34",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "İsrail basını: Netenyahu, BAE liderinden 7 Ekim uyarısına ilişkin haberleri yalanlamasını istedi",
@@ -523,6 +743,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T11:00:59.008805+00:00"
+    },
+    {
+      "id": "25fa138e4bcba460",
+      "source": "Evrensel",
+      "title": "İstanbul'un zam şampiyonu belli oldu: Kilogram fiyatı 184 lirayı aştı",
+      "summary": "İstanbul'un Bayrampaşa ve Ataşehir hallerinde ağustosta 274 bin 157 ton ürün satışa sunuldu. En çok karpuz ve domates satılırken, kilogramı ortalama 184,13 liraya ulaşan nar en pahalı ürün oldu.",
+      "link": "https://www.evrensel.net/haber/6002454/istanbul-un-zam-sampiyonu-belli-oldu-kilogram-fiyati-184-lirayi-asti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-28T10:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:40.718315+00:00"
     },
     {
       "id": "232723950d86ccb7",
@@ -688,6 +919,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T11:00:50.537806+00:00"
+    },
+    {
+      "id": "f73e59837f8e5cb8",
+      "source": "OdaTV",
+      "title": "Bolu Belediyesi'ne bu kez 'mantar çadırı' soruşturması... İhalede 23,9 milyon TL'lik fark... 9 kişi gözaltında",
+      "summary": "Bolu Belediyesi iştiraki Boltartek’in 2023 yılında gerçekleştirdiği kültür mantarı yetiştirme çadırı ihalesine yönelik soruşturmada 21 çadırın 34 milyon 20 bin liraya satın alındığı, rayiç değerinin ise 10 milyon 97 bin 189 lira olduğu belirtildi. 9 kişi hakkında gözaltı kararı verildi.",
+      "link": "https://www.odatv.com/guncel/bolu-belediyesine-bu-kez-mantar-cadiri-sorusturmasi-ihalede-239-milyon-tllik-fark-9-kisi-gozaltinda-120164329",
+      "published": "2026-09-28T10:55:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:47.762758+00:00"
     },
     {
       "id": "b30c12137e3fcc67",
@@ -4375,6 +4617,17 @@
       "fetched_at": "2026-09-28T09:46:02.412920+00:00"
     },
     {
+      "id": "ecf5f2eebd5cd960",
+      "source": "Türkiye Gazetesi",
+      "title": "Yeğeni tarafından vurulan öğretmen hayatını kaybetti",
+      "summary": "Osmaniye'deki Farabi Anadolu Lisesi'nde görev yapan edebiyat öğretmeni Mehmet Bilgili, okul bahçesinde uğradığı silahlı saldırıda hayatını kaybetti. İlk bilgilere göre Bilgili'nin yeğeni olan A.B., tabancayla birlikte yakalanarak gözaltına alındı. Saldırının aile içi husumetten kaynaklandığı iddia edilirken olayla ilgili adli soruşturma sürüyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/okul-bahcesinde-ogretmene-silahli-saldiri-1819129",
+      "published": "2026-09-28T09:45:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T11:15:40.191512+00:00"
+    },
+    {
       "id": "7ace523db56823f1",
       "source": "Türkiye Gazetesi",
       "title": "ACI HABER GELDİ!",
@@ -5253,259 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T10:30:51.366415+00:00"
-    },
-    {
-      "id": "66f5cc4acd849852",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "WSJ: ABD'nin Atina Büyükelçisi Guilfoyle, Yunanistan'da hükümeti düşürebileceklerini söyledi",
-      "summary": "The Wall Street Journal (WSJ) gazetesi, ABD'nin Atina Büyükelçisi Kimberly Guilfoyle'nin, Yunanistan hükümetini düşürebileceklerini söylediğini iddia etti.",
-      "link": "https://www.aa.com.tr/tr/dunya/wsj-abdnin-atina-buyukelcisi-guilfoyle-yunanistanda-hukumeti-dusurebileceklerini-soyledi/4071408",
-      "published": "2026-09-28T09:27:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T10:00:51.318120+00:00"
-    },
-    {
-      "id": "0fa3a512ae966468",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Yunanistan muhalefeti, ABD Büyükelçisi Guilfoyle hakkındaki iddialar nedeniyle hükümeti eleştirdi",
-      "summary": "Yunanistan'da muhalefet, ABD'nin Atina Büyükelçisi Kimberly Guilfoyle'un Romanya hükümetinin düşüşüne atıfla \"Bunu istediğimiz herhangi bir ülkede yapabiliriz. Burada da yapabiliriz.\" dediği iddiaları karşısında hükümeti sessiz kalmakla eleştirdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/yunanistan-muhalefeti-abd-buyukelcisi-guilfoyle-hakkindaki-iddialar-nedeniyle-hukumeti-elestirdi/4071408",
-      "published": "2026-09-28T09:27:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:35:31.093296+00:00"
-    },
-    {
-      "id": "a24b813ed11811b0",
-      "source": "Halk TV",
-      "title": "Son Dakika | Kemal Kılıçdaroğlu hakkında Sosyal Demokrasi Derneği'nden ihraç kararı",
-      "summary": "Son dakika haberi... Sosyal Demokrasi Derneği, Kemal Kılıçdaroğlu&#039;nun dernek üyeliğinden ihraç edildiğini duyurdu.",
-      "link": "https://halktv.com.tr/siyaset/son-dakika-kemal-kilicdaroglu-hakkinda-sosyal-demokrasi-derneginden-ihrac-karari-1058011h",
-      "published": "2026-09-28T09:27:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:31:01.836241+00:00"
-    },
-    {
-      "id": "e5a1adf1328ddb64",
-      "source": "Yeni Şafak",
-      "title": "Okulların altına bile döşemişler: YPG'nin Tel Abyad'daki mayınları temizleniyor",
-      "summary": "Suriye ordusuna bağlı istihkâm birlikleri, Türk askerinin de desteğiyle Şanlıurfa'nın Akçakale ilçesine sınır Tel Abyad'da mayın temizleme çalışmalarını sürdürüyor. 25 Ağustos'ta feshedilen terör örgütü YPG tarafından bölgedeki evlerin, yolların, arazilerin ve tarlaların hatta okulların altına dahi mayın döşendiğine şahitlik ediliyor.",
-      "link": "https://www.yenisafak.com/video/dunya/okullarin-altina-bile-dosemisler-ypgnin-tel-abyaddaki-mayinlari-temizleniyor-4859639",
-      "published": "2026-09-28T09:27:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:30:56.807070+00:00"
-    },
-    {
-      "id": "c68f61bc5c3a52ee",
-      "source": "Finans Gündem",
-      "title": "İstanbul'da iki tekstil şirketi için iflas kararı!",
-      "summary": "İstanbul’da faaliyet gösteren iki tekstil şirketi hakkında mahkemeden iflas kararı çıktı. Kararla birlikte şirketler için tasfiye süreci başlarken, alacaklıları ilgilendiren işlemler de başlayacak. İşte detaylar...",
-      "link": "https://www.finansingundemi.com/haber/istanbulda-iki-tekstil-sirketi-icin-iflas-karari/1909748",
-      "published": "2026-09-28T09:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:35:52.186048+00:00"
-    },
-    {
-      "id": "7e1c894a42234d7d",
-      "source": "Cumhuriyet",
-      "title": "Sevtap Parman kimdir, kaç yaşında? Sevtap Parman filmleri...",
-      "summary": "Yeşilçam’ın unutulmaz isimlerinden Sevtap Parman yıllar sonra yeniden gündeme geldi. Alzheimer teşhisi konulan oyuncunun bakımevindeki yaşamı dikkat çekti. Peki, Sevtap Parman kimdir, kaç yaşında? Sevtap Parman filmleri...",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/sevtap-parman-kimdir-kac-yasinda-sevtap-parman-filmleri-2541732",
-      "published": "2026-09-28T09:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:30:49.402469+00:00"
-    },
-    {
-      "id": "64c6f57220fd6855",
-      "source": "CNBC-e",
-      "title": "OpenAI ajanlarının hedefinde ABD hükümet siteleri var! SEC ve bakanlıklara erişmeye çalıştı",
-      "summary": "OpenAI, bazı yapay zeka ajanlarının yaz aylarında ABD hükümetine ait internet sitelerine erişmeye ve veri toplamaya çalıştığını açıkladı. Eğitim Bakanlığı, Ticaret Bakanlığına bağlı Nüfus Sayım Bürosu ve SEC'in sitelerinin de yer aldığı faaliyetler, güvenlik araştırmacıları tarafından tespit edildi.",
-      "link": "https://www.cnbce.com/yapay-zeka/openai-ajanlarinin-hedefinde-abd-hukumet-siteleri-var-sec-ve-bakanliklara-erismeye-calisti-h38184",
-      "published": "2026-09-28T09:26:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:31:14.717247+00:00"
-    },
-    {
-      "id": "60ff183469d7ba3f",
-      "source": "Gazete Pencere",
-      "title": "Girne'de gemi faciası: 2 kişinin daha cansız bedenine ulaşıldı",
-      "summary": "KKTC Başbakanı Ünal Üstel, Girne'de batan yolcu gemisinin enkazının yakınında iki kişinin daha cesedine ulaşıldığını açıkladı.",
-      "link": "https://www.gazetepencere.com/gundem/girnede-gemi-faciasi-2-kisinin-daha-cansiz-bedenine-ulasildi-717064h",
-      "published": "2026-09-28T09:26:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:31:00.957995+00:00"
-    },
-    {
-      "id": "fd0e8f66b533abae",
-      "source": "Gazete Pencere",
-      "title": "ABD ordusu Irak'tan tamamen çekildi: Ülkede 4 gün kutlama var",
-      "summary": "Irak hükümeti, ABD askerlerinin ülkeden tamamen çekildiğini duyurdu. Çekilmenin tamamlanmasının ardından ülkede 4 günlük bayram ilan edildi.",
-      "link": "https://www.gazetepencere.com/dis-haber/abd-ordusu-iraktan-tamamen-cekildi-ulkede-4-gun-kutlama-var-717065h",
-      "published": "2026-09-28T09:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:31:00.958031+00:00"
-    },
-    {
-      "id": "241361ee4a7c2853",
-      "source": "Ekonomim",
-      "title": "KKTC'de batan gemiye ilişkin aramalarda 2 kişinin daha cansız bedenine ulaşıldı",
-      "summary": "Girne açıklarında batan geminin yaklaşık bin metre uzağında ve 570 metre derinlikte yürütülen dip arama çalışmalarında iki kişinin daha cansız bedenine ulaşıldı.",
-      "link": "https://www.ekonomim.com/gundem/kktcde-batan-gemiye-iliskin-aramalarda-2-kisinin-daha-cansiz-bedenine-ulasildi-haberi-921186",
-      "published": "2026-09-28T09:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:31:12.641640+00:00"
-    },
-    {
-      "id": "6949440ee491c076",
-      "source": "Karar",
-      "title": "Özgür Özel'den iktidara öneri: Fon krizinin çözümü için ortak masa kurulmalı",
-      "summary": "YENİ Parti Genel Başkanı Özgür Özel, yatırım fonları krizinin çözümü amacıyla tüm siyasi partilerin katılımıyla ortak bir masa kurulmasını önerdi. ABD'deki Madoff krizi modelini esas alan 15 maddelik kanun teklifi hazırladıklarını belirten Özel, düzenlemenin 1 Ekim'de Meclis açıldıktan sonra ilk gündem maddesi olarak görüşülmesini teklif etti.",
-      "link": "https://www.karar.com/guncel-haberler/ozgur-ozelden-iktidara-oneri-fon-krizinin-cozumu-icin-ortak-masa-2074793",
-      "published": "2026-09-28T09:25:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:30:58.312014+00:00"
-    },
-    {
-      "id": "fbdc99f15b9e16fd",
-      "source": "Yeniçağ",
-      "title": "Türkiye Sinema Festivali iki günde 777 bin seyirciyle rekor kırdı",
-      "summary": "GNÇ Türkiye Sinema Festivali, ikinci yılında 26-27 Eylül tarihlerinde 777 bin seyirciyi sinema salonlarında buluşturdu. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, bu ilginin birlikte film izleme kültürünün gücünü gösterdiğini belirterek Türk sinemasına yönelik desteklerin süreceğini söyledi.",
-      "link": "https://www.yenicaggazetesi.com/turkiye-sinema-festivali-iki-gunde-777-bin-seyirciyle-rekor-kirdi-1076151h.htm",
-      "published": "2026-09-28T09:25:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:25:33.589976+00:00"
-    },
-    {
-      "id": "af130567438d7265",
-      "source": "Karar",
-      "title": "‘Ormanın Yüzüğü’ yenilenen yüzüyle büyüledi! Artvin’in doğa harikasına ziyaretçi akını",
-      "summary": "Artvin’de bulunan ve ‘Ormanın Yüzüğü’ olarak anılan Delikli Kaya Şelalesi yenilenen yüzüyle büyüledi. Ziyaretçiler için daha konforlu hale getirilen alan çalışmalar sonrası akın başladı.",
-      "link": "https://www.karar.com/guncel-haberler/ormanin-yuzugu-yenilenen-yuzuyle-buyuledi-artvinin-doga-harikasina-2074792",
-      "published": "2026-09-28T09:25:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:25:33.188673+00:00"
-    },
-    {
-      "id": "44823411f360359d",
-      "source": "Yeniçağ",
-      "title": "Otobüs şirketleri tek tek iflas eşiğinde",
-      "summary": "Otobüs sektörü alarm veriyor. Yüksek enflasyon ve savaşların tetiklediği akaryakıt zamları otobüs sektörünü etkiledi. Pek çok firma iflasın eşiğine geldi.",
-      "link": "https://www.yenicaggazetesi.com/otobus-sirketleri-tek-tek-iflas-esiginde-1076150h.htm",
-      "published": "2026-09-28T09:25:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:25:33.590016+00:00"
-    },
-    {
-      "id": "106a8b470a122188",
-      "source": "Yeniçağ",
-      "title": "Kudüs'te gerilimi tırmandıran adım: Kutsal mekanda provokasyon ve baskı artıyor",
-      "summary": "İşgal altındaki Doğu Kudüs&#039;te Yahudilerin Sukot Bayramı gerekçesiyle uygulanan kısıtlamalar ve üst düzey yetkililerin baskınları bölgedeki tansiyonu zirveye çıkardı. Mescid-i Aksa&#039;ya düzenlenen baskınların yanı sıra Filistinli esnaf ve bölge sakinlerine yönelik sert tedbirler tepkilere yol açıyor.",
-      "link": "https://www.yenicaggazetesi.com/kuduste-gerilimi-tirmandiran-adim-kutsal-mekanda-provokasyon-ve-baski-artiyor-1076149h.htm",
-      "published": "2026-09-28T09:25:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:25:33.590057+00:00"
-    },
-    {
-      "id": "4e1552203df4dc94",
-      "source": "Evrensel",
-      "title": "Rusya'dan Ukrayna'ya hava saldırıları: 2 kişi hayatını kaybetti",
-      "summary": "Rusya’nın Ukrayna'nın farklı bölgelerine düzenlediği hava saldırılarında 2 kişi hayatını kaybetti, onlarca kişi yaralandı. Harkiv'de 9'u çocuk 28 kişi yaralandı. Ukrayna, 165 İHA'dan 112'sinin etkisiz hale getirildiğini açıkladı.",
-      "link": "https://www.evrensel.net/haber/6002433/rusya-dan-ukrayna-ya-hava-saldirilari-2-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-28T09:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:45:44.013038+00:00"
-    },
-    {
-      "id": "ebc495107e683ccb",
-      "source": "Cumhuriyet",
-      "title": "Girne'deki gemi faciasında yeni gelişme: 2 naaş daha bulundu",
-      "summary": "Girne açıklarındaki gemi faciasının ardından yapılan arama çalışmalarında iki kişinin daha cansız bedenine ulaşıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/girne-deki-gemi-faciasinda-yeni-gelisme-2-naas-daha-bulundu-2541731",
-      "published": "2026-09-28T09:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:30:49.402504+00:00"
-    },
-    {
-      "id": "cf7deb05a8c91fc7",
-      "source": "Halk TV",
-      "title": "Dünya bu düğünü konuşuyor! Çorum FK Asbaşkanı Turhan Mildon’un düğününde yıldızlar geçidi",
-      "summary": "Çorum FK Asbaşkanı Turhan Mildon’un, ABD Başkanı Trump’ın eski kişisel avukatı Alina Habba ile gerçekleştirdiği görkemli düğünden yeni görüntüler gelmeye devam ediyor. Dünyaca ünlü isimlerin katıldığı düğünde çekilen renkli görüntüler dikkat çekti.",
-      "link": "https://halktv.com.tr/magazin/dunya-bu-dugunu-konusuyor-corum-fk-asbaskani-turhan-mildonun-dugununde-yildizlar-gecidi-1058010h",
-      "published": "2026-09-28T09:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:31:01.836282+00:00"
-    },
-    {
-      "id": "353e8da45ac80220",
-      "source": "Yeniçağ",
-      "title": "Ali Babacan: 20 milyar doları vurup geçiyorlar",
-      "summary": "Ali Babacan, Sakarya Kocaali&#039;de fındık üreticilerinin dertlerini dinleyen Deva Partisi Genel Başkanı Ali Babacan : &quot;Birileri yirmi milyar dolar vuruyor geçiyor. Türkiye&#039;nin toplam fındık ihracatının tamamı yaklaşık iki buçuk milyar dolar. Ama Yirmi milyar doları bir kaç kişi vurup geçiyor.",
-      "link": "https://www.yenicaggazetesi.com/ali-babacan-20-milyar-dolari-vurup-geciyorlar-1076148h.htm",
-      "published": "2026-09-28T09:24:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:25:33.590093+00:00"
-    },
-    {
-      "id": "5b31ce7e7dcf3312",
-      "source": "Yeni Yaşam",
-      "title": "Kabil’de 16 kadın 7 gündür gözaltında tutuluyor",
-      "summary": "Taliban’ın Kabil’de gözaltına aldığı 20 kadından 16’sının hâlâ serbest bırakılmadığı belirtildi Afganistan&#8217;ın başkenti Kabil’in Şah Doşamşira bölgesinde 20 kadın 22 Eylül’de Taliban’ın “İyiliği Emretme ve Kötülükten Sakındırma” görevlileri tarafından gözaltına alınmıştı. 20 kadından 16’sının hâlâ serbest bırakılmadığı belirtildi. Dört kadının ise telefonları kontrol edilip ailelerinden kefal",
-      "link": "https://yeniyasamgazetesi9.com/kabilde-16-kadin-7-gundur-gozaltinda-tutuluyor/",
-      "published": "2026-09-28T09:24:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:25:39.729662+00:00"
-    },
-    {
-      "id": "390cbb38d756148d",
-      "source": "Halk TV",
-      "title": "Kapısı açılan otomobil sonu oldu: Motosikletli sürücü öldü",
-      "summary": "Diyarbakır&#039;da açılan araç kapısına çarpıp kamyonetin altında kalarak can veren motosikletli Berat Gülmüş&#039;ün ölümü kameraya yansıdı. Bir cana mal olan olayın ardından gözaltına alınan sürücü F.K., adli kontrol şartıyla serbest bırakıldı.",
-      "link": "https://halktv.com.tr/turkiye/kapisi-acilan-otomobil-sonu-oldu-motosikletli-surucu-oldu-1058008h",
-      "published": "2026-09-28T09:24:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:25:35.174207+00:00"
-    },
-    {
-      "id": "eae125c3ffcf307e",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Claude'un keşfettiği açıklanan enzim sistemini 4 yıldır çalışan biyolog, yapay zekayı eğittiğinden şüpheleniyor",
-      "summary": "Biyolog Mario Rodriguez Mestre, enzim sistemine ilişkin yaptığı çalışmalarda Anthropic'in yapay zeka modeli Claude'dan sık sık yararlandıklarını ve bu süreçte yapay zekaya önemli bulgular sağlamış olduklarını belirtti.",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/claudeun-kesfettigi-aciklanan-enzim-sistemini-4-yildir-calisan-biyolog-yapay-zekayi-egittiginden-supheleniyor/4071403",
-      "published": "2026-09-28T09:24:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T09:30:48.920035+00:00"
-    },
-    {
-      "id": "665ec2516a7a242a",
-      "source": "Hürriyet",
-      "title": "Girne açıklarındaki faciada yeni gelişme: 2 naaşa daha ulaşıldı",
-      "summary": "Girne açıklarında batan gemiye ilişkin sürdürülen dip arama çalışmalarında iki kişinin daha cansız bedenine ulaşıldı. KKTC Başbakanlığı tarafından yapılan açıklamada, \"kayıp 11 kişiyi arama çalışmaları devam ediyor\" denildi.",
-      "link": "https://www.hurriyet.com.tr/dunya/girne-aciklarindaki-faciada-yeni-gelisme-2-naasa-daha-ulasildi-43322154",
-      "published": "2026-09-28T09:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T11:00:54.805874+00:00"
     }
   ]
 }

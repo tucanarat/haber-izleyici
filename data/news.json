@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T00:01:12.112233+00:00",
+  "last_updated": "2026-09-28T00:06:00.348006+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 534,
   "items": [
+    {
+      "id": "e8980c5d8a994851",
+      "source": "Aydınlık",
+      "title": "Karaman'da düğün konvoyundaki otomobil karşı yönden gelen araçla çarpıştı",
+      "summary": "Karaman&#039;da düğün konvoyundaki otomobil ile karşı yönden gelen otomobilin çarpışması sonucu 2 kişi hayatını kaybetti, 5 kişi yaralandı. Kaza, saat 19.30 sıralarında merkeze bağlı Zengen köyü yakınlarında meydana geldi.",
+      "link": "https://www.aydinlik.com.tr/haber/karamanda-trafik-kazasi-2-kisi-oldu-5-kisi-yaralandi-591919",
+      "published": "2026-09-28T00:01:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T00:05:44.393352+00:00"
+    },
     {
       "id": "1cfe672987850462",
       "source": "OdaTV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-27T19:20:37.716493+00:00"
-    },
-    {
-      "id": "c108e48b2ed4af25",
-      "source": "Gazete Pencere",
-      "title": "MKE fabrikasında iş kazası: 1 işçi hayatını kaybetti",
-      "summary": "MKE Gazi Fişek Fabrikası'ndaki kazada 1 için yaşamını yitirdi, 4 işçi yaralandı.",
-      "link": "https://www.gazetepencere.com/gundem/mke-fabrikasinda-is-kazasi-1-isci-hayatini-kaybetti-717006h",
-      "published": "2026-09-27T19:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T19:10:45.202919+00:00"
     }
   ]
 }

@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-09-28T03:05:48.949281+00:00",
+  "last_updated": "2026-09-28T03:10:58.365726+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 526,
+  "new_items_this_run": 553,
   "items": [
+    {
+      "id": "8ea615daf38e2bad",
+      "source": "Milliyet",
+      "title": "Ankara'da gece saatlerinde şiddetli yağmur! Binaları su bastı",
+      "summary": "Ankara'da gece saatlerinde başlayan sağanak yağış kent merkezinde etkili oldu. Keçiören ilçesinde kanalizasyon taşması sonucunda birçok apartmanın giriş katında bulunan dairelerini kanalizasyon ve yağmur suyu bastı. İlginizi Çekebilir Ankara'da saat 00.00 sıralarında başlayan sağanak yağış, kent merkezinde etkili oldu. Şiddetli yağışın etkisiyle çöpler yollara savruldu. Keçiören ilçesi Çiçekli Mah",
+      "link": "https://www.milliyet.com.tr/gundem/ankarada-gece-saatlerinde-siddetli-yagmur-binalari-su-basti-7668880",
+      "published": "2026-09-28T03:08:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T03:10:40.360837+00:00"
+    },
+    {
+      "id": "97c90cc7f10af67b",
+      "source": "OdaTV",
+      "title": "28 Eylül yıldönümü: Bankerlerden fonlara uzanan 44 yıl... Özal istifa etti... Kastelli canına kıydı... Düzen hiç değişmedi",
+      "summary": "Ahmet Kurtoğlu yazdı...",
+      "link": "https://www.odatv.com/ozel/28-eylul-yildonumu-bankerlerden-fonlara-uzanan-44-yil-turgut-ozal-istifa-etti-banker-kastelli-canina-kiydi-duzen-hic-degismedi-120164150",
+      "published": "2026-09-28T03:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T03:10:45.277429+00:00"
+    },
+    {
+      "id": "a30fdee68ca30083",
+      "source": "Türkiye Gazetesi",
+      "title": "Ankara'da sağanak etkili oldu! Belediyeye tepki var",
+      "summary": "Ankara'da gece saatlerinde başlayan sağanak yağış kent merkezinde etkili oldu. Keçiören ilçesinde kanalizasyon taşması sonucunda birçok apartmanın giriş katında bulunan daireleri su bastı. Vatandaşlar altyapı çalışmalarının aksamasından ve yetersizliğinden dolayı mağdur olduklarını söyledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/ankarada-saganak-etkili-oldu-belediyeye-tepki-var-1819054",
+      "published": "2026-09-28T03:06:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T03:10:38.215402+00:00"
+    },
     {
       "id": "f4706e15973890d1",
       "source": "Milliyet",
@@ -39,6 +72,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T03:05:31.644147+00:00"
+    },
+    {
+      "id": "1ceaf75d3c0dbec0",
+      "source": "Habertürk",
+      "title": "Ankara'da sağanak su baskınlarına neden oldu",
+      "summary": "Ankara'da etkili olan sağanak nedeniyle bazı binaların giriş ve bodrum katlarını su bastı",
+      "link": "https://www.haberturk.com/gundem/ankara-da-saganak-su-baskinlarina-neden-oldu-3915497",
+      "published": "2026-09-28T02:54:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T03:10:33.267676+00:00"
     },
     {
       "id": "3da9f82fb3c451c1",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-27T20:15:46.114134+00:00"
-    },
-    {
-      "id": "22daa37c7ab896a8",
-      "source": "Aydınlık",
-      "title": "Anadolu Efes, Beşiktaş'ı 95-81 mağlup etti",
-      "summary": "Türkiye Basketbol Süper Ligi&#039;nin ilk haftasında Anadolu Efes, sahasında karşılaştığı Beşiktaş&#039;ı 95-81 yenerek sezona galibiyetle başladı.",
-      "link": "https://www.aydinlik.com.tr/haber/anadolu-efes-besiktasi-95-81-maglup-etti-591911",
-      "published": "2026-09-27T20:15:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T20:20:46.501856+00:00"
-    },
-    {
-      "id": "e089a1dc3d0546fd",
-      "source": "Aydınlık",
-      "title": "Destici, Yazıcıoğlu dosyasında hakikatin ortaya çıkmasını bekliyor",
-      "summary": "BBP Genel Başkanı Mustafa Destici, Denizli&#039;de Muhsin Yazıcıoğlu’nun ölümüyle ilgili soruşturmanın tüm şüpheleri kapsaması gerektiğini söyledi. Fon soruşturmasında ise kamu kurumlarının denetimini sorguladı ve küçük yatırımcıların mağduriyetlerinin giderilmesini beklediğini belirtti.",
-      "link": "https://www.aydinlik.com.tr/haber/desticiden-yazicioglu-ve-fon-sorusturmasi-aciklamasi-591909",
-      "published": "2026-09-27T20:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T20:20:46.501908+00:00"
-    },
-    {
-      "id": "34fa1507371016cd",
-      "source": "Akşam",
-      "title": "Anadolu Efes'ten Beşiktaş karşısında galibiyet",
-      "summary": "Anadolu Efes, Türkiye Sigorta Basketbol Süper Ligi'nin ilk haftasında Beşiktaş'ı 95-81 mağlup etti.",
-      "link": "https://www.aksam.com.tr/spor/anadolu-efesten-besiktas-karsisinda-galibiyet/haber-1701848",
-      "published": "2026-09-27T20:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T20:15:43.091165+00:00"
-    },
-    {
-      "id": "50901af74802f10f",
-      "source": "Yeniçağ",
-      "title": "Büyükusta Yağız Kaan Erdoğmuş Satranç Olimpiyatı'nda gümüş madalya kazandı",
-      "summary": "Milli satranççı Yağız Kaan Erdoğmuş, Özbekistan&#039;da düzenlenen 46. FIDE Satranç Olimpiyatı&#039;nda çıktığı 10 karşılaşmada yenilgi yüzü görmedi. 8 puan toplayan genç Büyükusta, 1. masada ikinci olarak gümüş madalya kazandı.",
-      "link": "https://www.yenicaggazetesi.com/buyukusta-yagiz-kaan-erdogmus-satranc-olimpiyatinda-gumus-madalya-kazandi-1075996h.htm",
-      "published": "2026-09-27T20:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T20:15:44.830705+00:00"
     }
   ]
 }

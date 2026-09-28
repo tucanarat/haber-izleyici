@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-28T02:16:07.413753+00:00",
+  "last_updated": "2026-09-28T02:21:06.356779+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 556,
+  "new_items_this_run": 557,
   "items": [
+    {
+      "id": "da30bbd926064aaf",
+      "source": "Türkiye Gazetesi",
+      "title": "Babasının kucağındayken başına kaya parçası düşen bebek öldü",
+      "summary": "Kayseri'de kayalık alanda yürüyen baba R.Ş.'nin kucağındayken kayadan kopan taş parçasının başına isabet etmesi sonucu ağır yaralanan 3 yaşındaki K.Ş. hastanede hayatını kaybetti.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/kayseride-korkunc-olay-babasinin-kucagindayken-basina-kaya-parcasi-dusen-bebek-oldu-1819052",
+      "published": "2026-09-28T02:17:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T02:20:38.962877+00:00"
+    },
     {
       "id": "0ae7e05f076b7747",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-27T20:10:31.464046+00:00"
-    },
-    {
-      "id": "7f993bbfb4b958b9",
-      "source": "BBC News Türkçe",
-      "title": "Fon soruşturmasında 46 şirket, 18 fon ve 42 kişinin malvarlığı donduruldu",
-      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, fonlardaki varlıkların transferi ve yatırımcılarına ödemelerle ilgili iki gündür kurum ve kuruluşlarla toplantı halinde.",
-      "link": "https://www.bbc.com/turkce/articles/ck5ywrewe8dxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T20:05:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T20:06:06.928485+00:00"
     }
   ]
 }

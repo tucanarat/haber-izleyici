@@ -1,12 +1,155 @@
 {
-  "last_updated": "2026-09-28T06:05:56.938316+00:00",
+  "last_updated": "2026-09-28T06:10:55.768867+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 531,
+  "new_items_this_run": 528,
   "items": [
+    {
+      "id": "7d9a39b06f1fb1d8",
+      "source": "Akşam",
+      "title": "İstanbul'da yağış sonrası trafik yoğunluğu",
+      "summary": "İstanbul'da, haftanın ilk iş günü sabah saatlerinde yağışın da etkisiyle bazı bölgelerde trafik yoğunluğu oluştu.",
+      "link": "https://www.aksam.com.tr/guncel/istanbulda-yagis-sonrasi-trafik-yogunlugu/haber-1701899",
+      "published": "2026-09-28T06:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:40.096054+00:00"
+    },
+    {
+      "id": "f4334f65a22f8d64",
+      "source": "Star",
+      "title": "İstanbul'da yağmur çilesi: Trafik durma noktasına geldi",
+      "summary": "İstanbul'da, haftanın ilk iş günü sabah saatlerinde yağışın da etkisiyle bazı bölgelerde trafik yoğunluğu oluştu. İstanbul Büyükşehir Belediyesi (İBB) Cep Trafik Haritası verilerine göre, kent genelindeki trafik yoğunluğu sabah saatlerinde yüzde 72'ye kadar çıktı. Yoğunluk, Anadolu Yakası'nda yüzde 89, Avrupa Yakası'nda ise yüzde 58 olarak ölçüldü.",
+      "link": "https://www.star.com.tr/guncel/istanbulda-yagmur-cilesi-trafik-durma-noktasina-geldi-haber-2043001/",
+      "published": "2026-09-28T06:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:41.031437+00:00"
+    },
+    {
+      "id": "58330b213212e9da",
+      "source": "Gazete Pencere",
+      "title": "Bakan Mehmet Şimşek'ten fon kriziyle ilgili açıklama",
+      "summary": "Fon skandalına ilişkin açıklama yapan Bakan Şimşek, sürecin devam ettiğini faaliyetlerle ilgisi olmayan kişi ve kuruluşlara herhangi bir işlem yapılmayacağını bildirdi. Şimşek tedbirlerin sürdüğünü söyledi.",
+      "link": "https://www.gazetepencere.com/ekonomi/bakan-mehmet-simsekten-fon-kriziyle-ilgili-aciklama-717030h",
+      "published": "2026-09-28T06:08:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:43.146969+00:00"
+    },
+    {
+      "id": "aae27696b4d76d2a",
+      "source": "Kısa Dalga",
+      "title": "Fon soruşturmasında yeni gelişme: 45 firma ve 19 fonun tedbiri kaldırıldı",
+      "summary": "Sermaye piyasası soruşturması kapsamında 46 tüzel kişi, 18 fon ve 42 gerçek kişi hakkında malvarlığı tedbiri talep edilirken, SPK’nın yeni değerlendirme ve bildirimleri sonrası 45 firma ve 19 fon üzerindeki tedbirler kaldırıldı. 42 gerçek kişi hakkındaki malvarlığı tedbirlerinin ise devam ettiği bildirildi.",
+      "link": "https://kisadalga.net/haber/ekonomi/fon-sorusturmasinda-yeni-gelisme-45-firma-ve-19-fonun-tedbiri-kaldirildi-140610",
+      "published": "2026-09-28T06:07:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:44.384028+00:00"
+    },
+    {
+      "id": "bb16934db3b037b0",
+      "source": "Independent Türkçe",
+      "title": "Şimşek: Fon yatırımcılarının meşru haklarını gözetiyoruz",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, piyasa bozucu işlemlere karışanlara yönelik hukuki sürecin devam ettiğini, bu faaliyetlerle ilgisi bulunmayan kişi ve şirketlere yönelik herhangi bir işlem yapılmayacağını belirterek, \"Adalet Bakanlığımız ile koordinasyon içinde fon yatırımcılarımızın meşru haklarını gözetiyoruz.\" ifadesini kullandı. Şimşek, NSosyal hesabından fon soruşturması kapsamında deva",
+      "link": "https://www.indyturk.com/node/783051/ekonomi%CC%87/%C5%9Fim%C5%9Fek-fon-yat%C4%B1r%C4%B1mc%C4%B1lar%C4%B1n%C4%B1n-me%C5%9Fru-haklar%C4%B1n%C4%B1-g%C3%B6zetiyoruz",
+      "published": "2026-09-28T06:07:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:46.983414+00:00"
+    },
+    {
+      "id": "870425db27927b25",
+      "source": "Akşam",
+      "title": "Robotun mürekkebi edebiyatı kirletti",
+      "summary": "Thelyson Orelien, ‘Ya Bunu Yapacaktım ya Ölecektim' adlı çok satan romanını yapay zeka programı Claude'ye yazdırdığı iddia edildi.",
+      "link": "https://www.aksam.com.tr/trend/robotun-murekkebi-edebiyati-kirletti/haber-1701898",
+      "published": "2026-09-28T06:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:40.096079+00:00"
+    },
+    {
+      "id": "08916d11d460e165",
+      "source": "Star",
+      "title": "Teklifin detayları belli oldu! Galatasaray'ın ilk hamlesi Ermedin Demirovic",
+      "summary": "Ara transfer dönemi için çalışmalara başlayan Galatasaray'ın Stuttgart forması giyen Bosna Hersekli golcü Ermedin Demirovic'i yeniden gündemine aldığı öne sürüldü. Sarı kırmızılı ekip, oyuncuya 3 yıllık sözleşme ve sezon başına net 4 milyon euro maaş teklif etmişti.",
+      "link": "https://www.star.com.tr/spor/teklifin-detaylari-belli-oldu-galatasarayin-ilk-hamlesi-ermedin-demirovic-haber-2043000/",
+      "published": "2026-09-28T06:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:41.031471+00:00"
+    },
+    {
+      "id": "56c753363a3f7130",
+      "source": "Diken",
+      "title": "Gram altın güne nasıl başladı? – 28 Eylül 2026",
+      "summary": "Gram altın güne nasıl başladı? – 28 Eylül 2026 28.09.2026 Diken Bugün (28 Eylül) bir gram altın (9:04) 6.582,97 liradan işlem görüyor. The post Gram altın güne nasıl başladı? – 28 Eylül 2026 appeared first on #site_linkat 28.09.2026 .",
+      "link": "https://www.diken.com.tr/gram-altin-gune-nasil-basladi-28-eylul-2026/?utm_source=rss&utm_medium=rss&utm_campaign=gram-altin-gune-nasil-basladi-28-eylul-2026",
+      "published": "2026-09-28T06:06:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:43.587734+00:00"
+    },
+    {
+      "id": "7d56912cfdbb00f3",
+      "source": "Türkiye Gazetesi",
+      "title": "Tayland'ı sel vurdu! 50 ilçe afet bölgesi ilan edildi, can kayıpları var",
+      "summary": "Tayland'da şiddetli yağışların neden olduğu sel ve su baskınlarında son 10 günde 8 kişi hayatını kaybetti. Başkent Bangkok'ta 50 ilçe afet bölgesi ilan edilirken, binlerce kişi tahliye edildi. Şiddetli yağışlar yolları göle çevirirken, vatandaşların bot ve şişme havuzlarla ilerlemeye çalıştığı görüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/taylandi-sel-vurdu-50-ilce-afet-bolgesi-ilan-edildi-can-kayiplari-var-1819069",
+      "published": "2026-09-28T06:06:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:37.702849+00:00"
+    },
+    {
+      "id": "da87bf3f87584730",
+      "source": "Cumhuriyet",
+      "title": "İSKİ açıkladı: 28 Eylül İstanbul baraj doluluk oranı yüzde kaç?",
+      "summary": "İSKİ 28 Eylül 2026 İstanbul baraj doluluk oranını duyurdu. Yaz ve kış aylarında yağışların azalmasıyla birlikte, büyükşehirlerde su azalması yaşanabiliyor. İstanbul’daki barajların doluluk oranlarındaki son durum için gözler İSKİ baraj doluluk oranlarına çevrildi. Peki, 28 Eylül İstanbul baraj doluluk oranı yüzde kaç?",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/iski-acikladi-28-eylul-istanbul-baraj-doluluk-orani-yuzde-kac-2541634",
+      "published": "2026-09-28T06:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:35.684980+00:00"
+    },
+    {
+      "id": "41d334b5b810dfa1",
+      "source": "Star",
+      "title": "Halime KÖKCE yazdı... \"Sorumluluğu olan kim varsa hesap sorulacak\"",
+      "summary": "Halime KÖKCE yazdı... \"Sorumluluğu olan kim varsa hesap sorulacak\"",
+      "link": "https://www.star.com.tr/guncel/halime-kokce-yazdi-sorumlulugu-olan-kim-varsa-hesap-sorulacak-haber-2042999/",
+      "published": "2026-09-28T06:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:41.031490+00:00"
+    },
+    {
+      "id": "0c994b308dfa644f",
+      "source": "Star",
+      "title": "Mevlit yemeği sonrası hastanelik oldular! Zehirlenme şüphesiyle 20 kişi tedaviye alındı",
+      "summary": "Sakarya'nın Adapazarı ilçesinde bebek mevlidinde ikram edilen yemekten yiyen 20 kişi, gıda zehirlenmesi şüphesiyle hastaneye sevk edildi.",
+      "link": "https://www.star.com.tr/yasam/mevlit-yemegi-sonrasi-hastanelik-oldular-zehirlenme-suphesiyle-20-kisi-tedaviye-alindi-haber-2042998/",
+      "published": "2026-09-28T06:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:41.031511+00:00"
+    },
+    {
+      "id": "d8a0ab4f3106e22e",
+      "source": "Cumhuriyet",
+      "title": "Altın fiyatları haftaya düşüşle başladı: Gram, çeyrek ve Cumhuriyet altını bugün ne kadar oldu? Güncel altın fiyatları 28 Eylül 2026 Pazartesi...",
+      "summary": "28 Eylül 2026 Pazartesi güncel altın fiyatları ve piyasa verileri netleşti. Gram altın, çeyrek altın ve Cumhuriyet altını fiyatları belli oldu. İşte serbest piyasa verileriyle hazırlanan 28 Eylül 2026 Pazartesi güncel altın fiyatları listesi ve satış rakamları...",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlari-haftaya-dususle-basladi-gram-ceyrek-ve-cumhuriyet-altini-bugun-ne-kadar-oldu-guncel-altin-fiyatlari-28-eylul-2026-pazartesi-2541633",
+      "published": "2026-09-28T06:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:35.685017+00:00"
+    },
     {
       "id": "aea027c7eff3ee3d",
       "source": "Gazete Pencere",
@@ -129,6 +272,17 @@
       "fetched_at": "2026-09-28T06:05:56.471041+00:00"
     },
     {
+      "id": "af43b49ea9ca1280",
+      "source": "OdaTV",
+      "title": "Akılalmaz olay: 'Yanlış kulağımı ameliyat ettiler'",
+      "summary": "Tuzla&#039;daki üniversite hastanesinde sağ kulağı yerine, yanlışlıkla sol kulağına tüp takılan adam hayatının şokunu yaşadı. Hata fark edilince ikinci kez ameliyata alınan sağ kulağına da işlem yapılan hasta, işitme ve denge kaybı yaşadığını öne sürerek hukuki süreç başlattı.",
+      "link": "https://www.odatv.com/saglik-tip/tuzlada-magdur-hasta-sikayetci-oldu-yanlis-kulagimi-ameliyat-ettiler-120164277",
+      "published": "2026-09-28T06:01:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:43.216198+00:00"
+    },
+    {
       "id": "1167feea4a75d6e2",
       "source": "Star",
       "title": "Beşiktaş'tan Premier Lig çıkarması! Rota yeniden Joe Willock",
@@ -173,6 +327,28 @@
       "fetched_at": "2026-09-28T06:00:57.382065+00:00"
     },
     {
+      "id": "9f083066863bfe26",
+      "source": "Euronews Türkçe",
+      "title": "Euronews Travel & Tourism Summit 2026: Konuşmacılar, ana başlıklar ve yayını nasıl izlersiniz",
+      "summary": "29 Eylül'deki Euronews Seyahat ve Turizm Zirvesi, karar vericilerle sektör uzmanlarını buluşturup seyahatin geleceğini belirleyen ana konuları tartışıyor.",
+      "link": "https://tr.euronews.com/2026/09/28/euronews-travel-tourism-summit-2026-konusmacilar-ana-basliklar-ve-yayini-nasil-izlersiniz",
+      "published": "2026-09-28T06:00:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:55.767826+00:00"
+    },
+    {
+      "id": "fd0f3049b7df0ff9",
+      "source": "Evrensel",
+      "title": "Tayland'da sel felaketi: 10 günde 8 kişi hayatını kaybetti",
+      "summary": "Tayland'da muson yağmurlarının yol açtığı sel ve su baskınlarında son 10 günde 8 kişi yaşamını yitirdi. Şiddetli yağışlardan ülke genelinde yaklaşık 600 bin kişi etkilendi.",
+      "link": "https://www.evrensel.net/haber/6002408/tayland-da-sel-felaketi-10-gunde-8-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-28T06:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:38.055742+00:00"
+    },
+    {
       "id": "58032824ae761783",
       "source": "Ekonomim",
       "title": "Güvenli ödeme sisteminin devreye alınma tarihi ertelendi",
@@ -215,6 +391,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T06:01:02.962896+00:00"
+    },
+    {
+      "id": "10e14712143a0d30",
+      "source": "OdaTV",
+      "title": "Düğünde maganda dehşeti: Uzman çavuş yaşamını yitirdi",
+      "summary": "Konya’nın Emirgazi ilçesinde düzenlenen düğünde ateşlenen silahtan çıkan kurşun memleketine izne gelen 25 yaşındaki Uzman Çavuş Serkan Deveci’ye isabet etti. Ağır yaralanan Deveci hastanede tüm müdahalelere rağmen kurtarılamayarak hayatını kaybetti.",
+      "link": "https://www.odatv.com/guncel/dugunde-maganda-dehseti-uzman-cavus-yasamini-yitirdi-120164276",
+      "published": "2026-09-28T05:59:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:43.216228+00:00"
+    },
+    {
+      "id": "c5516a0e3de6b916",
+      "source": "Habertürk",
+      "title": "Yanlış kulağı ameliyat ettiler! Hastanede skandal",
+      "summary": "Kocaeli'nin Gebze ilçesinde yaşayan Murat Tarakçı'nın, tedavi için gittiği Tuzla'daki üniversite hastanesinde sağ kulağı yerine yanlışlıkla sol kulağına cerrahi müdahale yapıldı. Hatanın fark edilmesinin ardından aynı gün içinde ikinci kez ameliyata alınarak sağ kulağına da işlem yapılan Tarakçı, işitme ve denge kaybı yaşadığını öne sürerek hukuki süreç başlattı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-akilalmaz-olay-yanlis-kulagi-ameliyat-ettiler-hastanede-skandal-3915520",
+      "published": "2026-09-28T05:59:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:33.006358+00:00"
     },
     {
       "id": "e33af817421ef04a",
@@ -404,6 +602,17 @@
       "fetched_at": "2026-09-28T05:55:36.908134+00:00"
     },
     {
+      "id": "4d137ab22b05dd22",
+      "source": "Bianet",
+      "title": "SPK'dan fon tasfiye sürecine ilişkin açıklama",
+      "summary": "Sermaye Piyasası Kurulu (SPK), tasfiyeye konu edilen fonlarda 17 Eylül'de TEFAS'a iletilip platform tarafından iptal edilen alım ve satım talimatlarının sahiplerine, tasfiye bakiyesinden fondaki katılma payı sahipliği oranında ödeme yapılacağını açıkladı.",
+      "link": "https://bianet.org/haber/spk-dan-fon-tasfiye-surecine-iliskin-aciklama-323829",
+      "published": "2026-09-28T05:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:43.907236+00:00"
+    },
+    {
       "id": "b056f18288e6d01b",
       "source": "Yeniçağ",
       "title": "Son anket İzmit'ten: Dengeler değişti, zirvede sürpriz",
@@ -424,6 +633,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T05:55:33.587445+00:00"
+    },
+    {
+      "id": "5112f29377686c82",
+      "source": "Evrensel",
+      "title": "Arakçi: Savaşa da, diplomasiye de hazırız, karar Trump’ın",
+      "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD ile müzakerelere hazır olduklarını ancak yeni bir saldırıya karşı da hazırlıklı olduklarını söyledi. Arakçi, İran’ın sunduğu 7 maddelik önerinin Trump tarafından reddedildiğini duyduklarını belirtti.",
+      "link": "https://www.evrensel.net/haber/6002407/arakci-savasa-da-diplomasiye-de-haziriz-karar-trumpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-28T05:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:38.055775+00:00"
     },
     {
       "id": "59b5e15de1503e87",
@@ -534,6 +754,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T05:50:40.948594+00:00"
+    },
+    {
+      "id": "a4fa1862c5af007f",
+      "source": "Evrensel",
+      "title": "Fon soruşturmasında yeni operasyon: Destek Yatırım Bankası Genel Müdürü dahil 7 kişi gözaltına alındı",
+      "summary": "Destek Yatırım Bankası ve Özata Denizcilik’e ilişkin yürütülen fon soruşturmasında 7 kişi gözaltına alındı. Gözaltına alınanlar arasında bankanın Genel Müdürü ve kurucu ortaklarından Özgür Akayoğlu da bulunuyor.",
+      "link": "https://www.evrensel.net/haber/6002406/fon-sorusturmasinda-yeni-operasyon-destek-yatirim-bankasi-genel-muduru-dahil-7-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-09-28T05:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-28T06:10:38.055801+00:00"
     },
     {
       "id": "e4514c4b0893948a",
@@ -5275,237 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-27T23:50:47.325255+00:00"
-    },
-    {
-      "id": "04713355925eba43",
-      "source": "Ekonomim",
-      "title": "SPK duyurdu: Tasfiye edilen fonlarda ödeme yol haritası belli oldu",
-      "summary": "Sermaye Piyasası Kurulu (SPK), tasfiye edilen fonlarda 17 Eylül&#039;de TEFAS tarafından iptal edilen alım-satım talimat sahiplerine katılma payı oranında ödeme yapılacağını, ayrıca 16 Eylül ve öncesinde gerçekleşmeyen talimatların da tasfiye kapsamında değerlendirileceğini duyurdu.",
-      "link": "https://www.ekonomim.com/ekonomi/spkdan-tasfiye-edilen-fonlara-iliskin-aciklama-haberi-921120",
-      "published": "2026-09-27T23:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:55:49.837467+00:00"
-    },
-    {
-      "id": "4eb42b1726694257",
-      "source": "Ekonomim",
-      "title": "SPK’dan tasfiye edilen fonlara ilişkin açıklama",
-      "summary": "Sermaye Piyasası Kurulu (SPK), tasfiye edilen fonlarda 17 Eylül&#039;de TEFAS tarafından iptal edilen alım-satım talimat sahiplerine katılma payı oranında ödeme yapılacağını, ayrıca 16 Eylül ve öncesinde gerçekleşmeyen talimatların da tasfiye kapsamında değerlendirileceğini duyurdu.",
-      "link": "https://www.ekonomim.com/ekonomi/spkdan-tasfiye-edilen-fonlara-iliskin-aciklama-haberi-921120",
-      "published": "2026-09-27T23:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:50:57.253570+00:00"
-    },
-    {
-      "id": "83d2ebdb59f3b04e",
-      "source": "Yeniçağ",
-      "title": "Sanatçı Sami Yusuf, İstanbul'da konser verdi",
-      "summary": "Besteci, söz yazarı ve yorumcu Sami Yusuf, İstanbul Kongre Merkezi Harbiye Oditoryumu&#039;nda müzikseverlerle buluştu.",
-      "link": "https://www.yenicaggazetesi.com/sanatci-sami-yusuf-istanbulda-konser-verdi-1076027h.htm",
-      "published": "2026-09-27T23:41:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:45:39.896940+00:00"
-    },
-    {
-      "id": "eb5276201495fafb",
-      "source": "BBC News Türkçe",
-      "title": "Emniyet Genel Müdürlüğü polislerin iş bırakacağı haberlerini yalanladı",
-      "summary": "Ankara'da seyyanen zam talebiyle 25 Eylül'de Anayasa Mahkemesi (AYM) önünde eylem yapan emeklilerin protestosunda emekli polis memuru Ali Şekeroğlu beylik tabancasıyla hayatına son verdi",
-      "link": "https://www.bbc.com/turkce/articles/c9zrzz1z3g1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-27T23:37:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:41:28.051718+00:00"
-    },
-    {
-      "id": "3fdee7d7010c9a3a",
-      "source": "Yeniçağ",
-      "title": "YENİÇAĞ Gazetesi: Borsada krizin siyasi faturası ağır olacak",
-      "summary": "YENİÇAĞ Gazetesi bugün, &#039;Borsada krizin siyasi faturası ağır olacak&#039; başlığıyla çıktı.",
-      "link": "https://www.yenicaggazetesi.com/yenicag-gazetesi-borsada-krizin-siyasi-faturasi-agir-olacak-1076026h.htm",
-      "published": "2026-09-27T23:33:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:35:36.409402+00:00"
-    },
-    {
-      "id": "9ada81c0af53a6e2",
-      "source": "Türkiye Gazetesi",
-      "title": "Meteoroloji uyardı: Fırtına, yıldırımlar ve sağanak geliyor",
-      "summary": "Balkanlardan gelen yağışlı hava Türkiye’yi saracak. Meteoroloji, saatteki hızı 60 kilometreyi bulacak fırtına ile yıldırım ve kuvvetli sağanağa karşı dikkatli olunmasını istedi. İstanbul’a 100 kilûonun üzerinde yağış düşeceği tahmin ediliyor. Sıcaklıklar 15 dereceye kadar inecek. İç Anadolu, Akdeniz ve Karadeniz’de de yağış bekleniyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/kisliklari-hazirlayin-meteoroloji-uyardi-firtina-yildirimlar-ve-saganak-geliyor-1819031",
-      "published": "2026-09-27T23:30:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:35:31.719437+00:00"
-    },
-    {
-      "id": "22d42e55af0f3cc6",
-      "source": "Türkiye Gazetesi",
-      "title": "KIŞLIKLARI HAZIRLAYIN!",
-      "summary": "Balkanlardan gelen yağışlı hava Türkiye’yi saracak. Meteoroloji, saatteki hızı 60 kilometreyi bulacak fırtına ile yıldırım ve kuvvetli sağanağa karşı dikkatli olunmasını istedi. İstanbul’a 100 kilûonun üzerinde yağış düşeceği tahmin ediliyor. Sıcaklıklar 15 dereceye kadar inecek. İç Anadolu, Akdeniz ve Karadeniz’de de yağış bekleniyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/kisliklari-hazirlayin-meteoroloji-uyardi-firtina-yildirimlar-ve-saganak-geliyor-1819031",
-      "published": "2026-09-27T23:30:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:35:31.719461+00:00"
-    },
-    {
-      "id": "209dae3b1904b8d5",
-      "source": "Karar",
-      "title": "201 bin kişi oyladı: Üniversiteli gençlerin çalışmak için can attığı gözde şirketler",
-      "summary": "Üniversite gençliğinin kariyer tercihlerini belirleyen Youth Awards 2026 sonuçlandı. Türkiye genelinde 227 üniversiteden 200 bini aşkın öğrencinin kullandığı oylar; finans, teknoloji ve otomotiv başta olmak üzere 32 sektörde çalışılmak istenen en gözde kurumları ve genç yeteneklere yol gösteren liderleri ortaya koydu.",
-      "link": "https://www.karar.com/guncel-haberler/gencler-nerede-calismak-istiyor-is-arayan-gencler-tarafindan-en-cok-2074686",
-      "published": "2026-09-27T23:29:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:30:57.101538+00:00"
-    },
-    {
-      "id": "bb51fef0a213233f",
-      "source": "Yeniçağ",
-      "title": "Rojin Kabaiş için Van'da yürüyüş gerçekleştirildi",
-      "summary": "Tevgera Jinên Azad (TJA) öncülüğünde Van’da bir araya gelen kadınlar, Rojin Kabaiş’in ölümünün tüm yönleriyle aydınlatılması talebiyle yürüyüş yaptı.",
-      "link": "https://www.yenicaggazetesi.com/rojin-kabais-icin-vanda-yuruyus-gerceklestirildi-1076025h.htm",
-      "published": "2026-09-27T23:27:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:30:57.721005+00:00"
-    },
-    {
-      "id": "3da158dcd23c5703",
-      "source": "Yeniçağ",
-      "title": "SPK’dan fon sahiplerine kritik duyuru: Tarih verildi",
-      "summary": "Sermaye Piyasası Kurulu (SPK), tasfiyeye konu edilen fonlarda 17 Eylül&#039;de TEFAS&#039;a iletilip platform tarafından iptal edilen alım ve satım talimatlarının sahiplerine, tasfiye bakiyesinden fondaki katılma payı sahipliği oranında ödeme yapılacağını açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/spkdan-fon-sahiplerine-kritik-duyuru-tarih-verildi-1076024h.htm",
-      "published": "2026-09-27T23:26:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:30:57.721049+00:00"
-    },
-    {
-      "id": "f37a8d79c4f3a6b5",
-      "source": "Türkiye Gazetesi",
-      "title": "‘Arap Orkestrası’ başkentte sahne aldı",
-      "summary": "Dünyaca tanınan Ulusal Arap Orkestrası, Ankara Kültür Yolu Festivali kapsamında başkentte sahne aldı. Orkestra, Filistinli vokalist Nai Barghouti’nin eşlik ettiği konserde Arap müziğinin sevilen eserlerini seslendirdi.",
-      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/orta-dogudan-eserler-seslendirildi-arap-orkestrasi-baskentte-sahne-aldi-1819026",
-      "published": "2026-09-27T23:25:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:30:51.858257+00:00"
-    },
-    {
-      "id": "f37a8d79c4f3a6b5",
-      "source": "Türkiye Gazetesi",
-      "title": "‘Arap Orkestrası’ başkentte sahne aldı",
-      "summary": "Dünyaca tanınan Ulusal Arap Orkestrası, Ankara Kültür Yolu Festivali kapsamında başkentte sahne aldı. Orkestra, Filistinli vokalist Nai Barghouti’nin eşlik ettiği konserde Arap müziğinin sevilen eserlerini seslendirdi.",
-      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/orta-dogudan-eserler-seslendirildi-arap-orkestrasi-baskentte-sahne-aldi-1819026",
-      "published": "2026-09-27T23:25:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:30:51.858295+00:00"
-    },
-    {
-      "id": "2eb233a19586a552",
-      "source": "Türkiye Gazetesi",
-      "title": "Altın Koza emek ödülleriyle kapılarını açtı",
-      "summary": "33. Uluslararası Adana Altın Koza Film Festivali, sinema dünyasını Adana’da buluşturdu. Açılış gecesinde Orhan Kemal Emek Ödülleri sahiplerini bulurken, Menderes Samancılar’ın Gazze mesajı geceye damga vurdu.",
-      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/adanada-33-bulusma-altin-koza-emek-odulleriyle-kapilarini-acti-1819025",
-      "published": "2026-09-27T23:25:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:30:51.858332+00:00"
-    },
-    {
-      "id": "2eb233a19586a552",
-      "source": "Türkiye Gazetesi",
-      "title": "Altın Koza emek ödülleriyle kapılarını açtı",
-      "summary": "33. Uluslararası Adana Altın Koza Film Festivali, sinema dünyasını Adana’da buluşturdu. Açılış gecesinde Orhan Kemal Emek Ödülleri sahiplerini bulurken, Menderes Samancılar’ın Gazze mesajı geceye damga vurdu.",
-      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/adanada-33-bulusma-altin-koza-emek-odulleriyle-kapilarini-acti-1819025",
-      "published": "2026-09-27T23:25:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:30:51.858362+00:00"
-    },
-    {
-      "id": "a5858cf85fa66d4e",
-      "source": "OdaTV",
-      "title": "İsviçreli seçmenler, daha katı uygulanacak tarafsızlık teklifini reddetti",
-      "summary": "İsviçre’de seçmenler, ülkenin tarafsızlık politikasını anayasal güvence altına alarak daha katı kurallar getirilmesini öngören teklifi yüzde 70,15 oyla reddetti.",
-      "link": "https://www.odatv.com/guncel/isvicreli-secmenler-daha-kati-uygulanacak-tarafsizlik-teklifini-reddetti-120164262",
-      "published": "2026-09-27T23:20:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:20:43.412112+00:00"
-    },
-    {
-      "id": "01e73c629e380564",
-      "source": "Yeniçağ",
-      "title": "AKOM duyurdu: İstanbul’da sağanak ve fırtına hazırlığı",
-      "summary": "İstanbul’da beklenen kuvvetli sağanak ve fırtına öncesi ekipler alarma geçti. AKOM’da gelişmeler anlık izlenirken, binlerce personel ve araç kent genelinde yaşanabilecek olumsuzluklara karşı hazır bekletiliyor.",
-      "link": "https://www.yenicaggazetesi.com/akom-duyurdu-istanbulda-saganak-ve-firtina-hazirligi-1076023h.htm",
-      "published": "2026-09-27T23:19:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:20:41.465567+00:00"
-    },
-    {
-      "id": "dab58e9f92571ac2",
-      "source": "Türkiye Gazetesi",
-      "title": "İspanya'da Mari nine isyanı!",
-      "summary": "İspanya’da artan kiralar ve ev sahibi olmanın giderek zorlaşması, Madrid’de binlerce kişiyi sokağa döktü. 70 yıldır yaşadığı evden çıkarılan 87 yaşındaki Mari Carmen’in hikâyesiyle büyüyen protestolarda göstericiler, barınma hakkı için Sol Meydanı’nda çadır kurarak eylemlerini sürdürme kararı aldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/mari-nine-isyani-87-yasindaki-kadin-evinden-polisle-cikarildi-ispanya-ayaga-kalkti-1819027",
-      "published": "2026-09-27T23:15:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:20:37.296932+00:00"
-    },
-    {
-      "id": "47a3b8ebe339b024",
-      "source": "Türkiye Gazetesi",
-      "title": "MARİ NİNE İSYANI!",
-      "summary": "İspanya’da artan kiralar ve ev sahibi olmanın giderek zorlaşması, Madrid’de binlerce kişiyi sokağa döktü. 70 yıldır yaşadığı evden çıkarılan 87 yaşındaki Mari Carmen’in hikâyesiyle büyüyen protestolarda göstericiler, barınma hakkı için Sol Meydanı’nda çadır kurarak eylemlerini sürdürme kararı aldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/mari-nine-isyani-87-yasindaki-kadin-evinden-polisle-cikarildi-ispanya-ayaga-kalkti-1819027",
-      "published": "2026-09-27T23:15:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:20:37.296958+00:00"
-    },
-    {
-      "id": "5649021ff1c3b5e0",
-      "source": "Türkiye Gazetesi",
-      "title": "Kültür Yolu doğduğu yere geri döndü",
-      "summary": "Türkiye Kültür Yolu Festivali’nin 20’nci durağı İstanbul oldu. 4 Ekim’e kadar sürecek festival, 23 farklı mekân ve 50’den fazla noktada konserden sergilere, tiyatrodan fotoğraf etkinliklerine uzanan geniş bir programla sanatseverleri buluşturuyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/istanbulda-9-gunluk-maraton-kultur-yolu-dogdugu-yere-geri-dondu-1819024",
-      "published": "2026-09-27T23:15:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:20:37.296979+00:00"
-    },
-    {
-      "id": "5649021ff1c3b5e0",
-      "source": "Türkiye Gazetesi",
-      "title": "Kültür Yolu doğduğu yere geri döndü",
-      "summary": "Türkiye Kültür Yolu Festivali’nin 20’nci durağı İstanbul oldu. 4 Ekim’e kadar sürecek festival, 23 farklı mekân ve 50’den fazla noktada konserden sergilere, tiyatrodan fotoğraf etkinliklerine uzanan geniş bir programla sanatseverleri buluşturuyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/istanbulda-9-gunluk-maraton-kultur-yolu-dogdugu-yere-geri-dondu-1819024",
-      "published": "2026-09-27T23:15:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:20:37.296996+00:00"
-    },
-    {
-      "id": "5649021ff1c3b5e0",
-      "source": "Türkiye Gazetesi",
-      "title": "Kültür Yolu doğduğu yere geri döndü",
-      "summary": "Türkiye Kültür Yolu Festivali’nin 20’nci durağı İstanbul oldu. 4 Ekim’e kadar sürecek festival, 23 farklı mekân ve 50’den fazla noktada konserden sergilere, tiyatrodan fotoğraf etkinliklerine uzanan geniş bir programla sanatseverleri buluşturuyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/istanbulda-9-gunluk-maraton-kultur-yolu-dogdugu-yere-geri-dondu-1819024",
-      "published": "2026-09-27T23:15:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-27T23:20:37.297012+00:00"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-29T22:35:53.215623+00:00",
+  "last_updated": "2026-09-29T22:41:02.181739+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 541,
+  "new_items_this_run": 542,
   "items": [
+    {
+      "id": "313fb5263fc99852",
+      "source": "Akşam",
+      "title": "Trump'tan Yapay Zeka'ya alternatif isim: Süper Zeka",
+      "summary": "ABD Başkanı Donald Trump, tüm resmi yazışma ve belgelerde \"yapay zeka\" (AI) yerine \"süper zeka\" (SI) teriminin kullanılmasını zorunlu kılan bir kararname imzaladı. Trump ayrıca Alphabet, Meta, OpenAI, xAI ve Nvidia gibi şirketlerin CEO'larıyla birlikte \"Beyaz Saray Süper Zeka Mutabakatı\" başlıklı belgeyi imzaladı.",
+      "link": "https://www.aksam.com.tr/dunya/trumptan-yapay-zekaya-alternatif-isim-super-zeka/haber-1702373",
+      "published": "2026-09-29T22:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T22:40:39.451835+00:00"
+    },
+    {
+      "id": "5359785dfe75f0a2",
+      "source": "Star",
+      "title": "Batı Trakya Türk derneklerinin feshedilmesi ve tescil reddi AKPM raporunda",
+      "summary": "Avrupa Konseyi Parlamenter Meclisinde (AKPM), Yunanistan'ın Avrupa Konseyi üyeliğinden kaynaklanan yükümlülüklerini yerine getirmesine ilişkin periyodik izleme raporu onaylandı.",
+      "link": "https://www.star.com.tr/dunya/bati-trakya-turk-derneklerinin-feshedilmesi-ve-tescil-reddi-akpm-raporunda-haber-2043425/",
+      "published": "2026-09-29T22:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T22:40:40.966874+00:00"
+    },
     {
       "id": "0812ffc0ef1528ca",
       "source": "Halk TV",
@@ -116,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T22:20:43.004371+00:00"
+    },
+    {
+      "id": "bb52f4cffd0f7093",
+      "source": "Karar",
+      "title": "AYM'nin süresiz nafakayı iptal eden kararı Resmi Gazete'de",
+      "summary": "Anayasa Mahkemesi, Türk Medeni Kanunu’nun yoksulluk nafakasını düzenleyen 175’inci maddesinde yer alan “süresiz olarak” ibaresini Anayasa’ya aykırı bularak iptal etti. Karar, Resmi Gazete’de yayımlanmasından dokuz ay sonra yürürlüğe girecek.",
+      "link": "https://www.karar.com/guncel-haberler/aymnin-suresiz-nafakayi-iptal-eden-karari-resmi-gazetede-2075183",
+      "published": "2026-09-29T22:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T22:40:42.058562+00:00"
     },
     {
       "id": "2e1c88bacd8dc6eb",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T19:10:45.345066+00:00"
-    },
-    {
-      "id": "97b557f64b408cc9",
-      "source": "Evrensel",
-      "title": "EuroLeague'de ikinci hafta: Anadolu Efes ve Fenerbahçe kazandı",
-      "summary": "EuroLeague'de ikinci hafta maçında Anadolu Efes, Real Madrid'i 94-84 yendi. Fenerbahçe ise Bayern Münih'i rahat geçti: 100-76.",
-      "link": "https://www.evrensel.net/haber/6002683/euroleague-de-ikinci-hafta-anadolu-efes-ve-fenerbahce-kazandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-29T19:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:40:37.532832+00:00"
-    },
-    {
-      "id": "6394d6bcb8530a5c",
-      "source": "Evrensel",
-      "title": "EuroLeague'de ikinci hafta: Anadolu Efes, Real Madrid'i 94-84 yendi",
-      "summary": "EuroLeague'de ikinci hafta maçında Anadolu Efes, Real Madrid'i 94-84 yendi.",
-      "link": "https://www.evrensel.net/haber/6002683/euroleaguede-ikinci-hafta-anadolu-efes-real-madridi-94-84-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-29T19:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T19:25:35.106734+00:00"
-    },
-    {
-      "id": "81b4a1d43d732f32",
-      "source": "DonanımHaber",
-      "title": "True Detective'e benzetilen Apple dizisi Nocturne'un ilk fragmanı yayınlandı",
-      "summary": "Apple TV, yine dikkat çekici bir suç dizisiyle karşımızda. Liev Schreiber, Stephen Graham, Zazie Beetz gibi isimleri bir araya getiren Nocturne dizisinden ilk fragman yayınlandı.",
-      "link": "https://www.donanimhaber.com/apple-tv-den-yeni-gizem-dizisi-nocturne-dan-ilk-fragmani-geldi--211045",
-      "published": "2026-09-29T19:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T19:11:01.248494+00:00"
     }
   ]
 }

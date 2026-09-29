@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-29T00:01:28.029268+00:00",
+  "last_updated": "2026-09-29T00:05:58.889031+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 540,
+  "new_items_this_run": 510,
   "items": [
+    {
+      "id": "899e570e38ae5098",
+      "source": "OdaTV",
+      "title": "İzmit'te korkutan köpükler",
+      "summary": "Kocaeli’nin İzmit ilçesindeki Sekapark sahilinde görülen yoğun köpükle ilgili yapılan ilk analizlerde, halk sağlığı ve deniz ekosistemi açısından tehlikeli bir bulguya rastlanmadığı öğrenildi.",
+      "link": "https://www.odatv.com/guncel/izmitte-korkutan-kopukler-120164394",
+      "published": "2026-09-29T00:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T00:05:43.249333+00:00"
+    },
     {
       "id": "cb9c591830e2ff6d",
       "source": "Yeniçağ",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T00:01:04.361615+00:00"
+    },
+    {
+      "id": "bd4011f93765de72",
+      "source": "Türkiye Gazetesi",
+      "title": "Uyarı geldi! Kalp krizi genç yaşlara indi",
+      "summary": "Kalp yetersizliğinin yalnızca ileri yaşlarda görülen bir hastalık olmadığına dikkat çeken Bilkent Şehir Hastanesi Kardiyoloji Kliniği Uzmanı Dr. Habibe Kafes, gençlerde de kalp yetersizliği görülebildiğini belirterek, “Genç olmak bu hastalıktan muafiyet getirmiyor” uyarısında bulundu.",
+      "link": "https://www.turkiyegazetesi.com.tr/saglik/kalp-yetersizligi-gencleri-de-vuruyor-1819268",
+      "published": "2026-09-28T23:59:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T00:05:36.678158+00:00"
     },
     {
       "id": "7fb2895d58045270",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T19:30:54.336197+00:00"
-    },
-    {
-      "id": "ee69960b81013ceb",
-      "source": "Gazete Pencere",
-      "title": "Bursa'da protesto sesleri: Taraftarlar Montella ve TFF'yi istifaya çağırdı",
-      "summary": "A Milli Takım'ın İtalya karşısında maçın henüz 27. dakikasında 3-0 yenik duruma düşmesi sonrası taraftarlar, teknik direktör Vincenzo Montella ve Türkiye Futbol Federasyonu'nu (TFF) istifaya davet etti.",
-      "link": "https://www.gazetepencere.com/spor/bursada-protesto-sesleri-taraftalar-montella-ve-tffyi-istifaya-cagirdi-717167h",
-      "published": "2026-09-28T19:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T19:45:41.313168+00:00"
-    },
-    {
-      "id": "8e8e95cd2179b38f",
-      "source": "BBC News Türkçe",
-      "title": "UEFA Uluslar Ligi: İtalya, Türkiye karşısında 3. golü buldu",
-      "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki ikinci maçında bugün Bursa'da İtalya ile karşı karşıya geliyor. Maçın ilk yarısında İtalya 9, 22 ve 27. dakikalarda üç gol buldu.",
-      "link": "https://www.bbc.com/turkce/articles/cve8xk9kwxz5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-28T19:24:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T19:25:50.074199+00:00"
     }
   ]
 }

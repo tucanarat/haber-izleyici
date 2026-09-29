@@ -1,12 +1,232 @@
 {
-  "last_updated": "2026-09-29T12:41:07.610249+00:00",
+  "last_updated": "2026-09-29T12:46:08.205637+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 548,
+  "new_items_this_run": 544,
   "items": [
+    {
+      "id": "92d0c7aab9fce488",
+      "source": "Cumhuriyet",
+      "title": "Düzce Akçakoca'da sel ve fırtına: Esmahanım köyünde evleri su bastı, balıkçı barınağında tekneler battı",
+      "summary": "Düzce’nin Akçakoca ilçesinde iki gündür etkisini sürdüren şiddetli sağanak nedeniyle derenin taşması sonucu Esmahanım köyünde 3 evi su bastı. Gece saatlerinde etkili olan fırtına ve dev dalgalar ise balıkçı barınağındaki 14 teknede hasara yol açtı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/duzce-akcakoca-da-sel-ve-firtina-esmahanim-koyunde-evleri-su-basti-balikci-barinaginda-tekneler-batti-2542147",
+      "published": "2026-09-29T12:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:36.612678+00:00"
+    },
+    {
+      "id": "c413bd2a7ff36c7f",
+      "source": "Bir Gün",
+      "title": "Anadolu Efes-Real Madrid maçı saat kaçta ve hangi kanalda?",
+      "summary": "Anadolu Efes-Real Madrid EuroLeague maçı ne zaman oynanacak? Karşılaşma saat kaçta başlayacak ve hangi kanaldan canlı yayınlanacak? Maç şifresiz mi? Yanıtlar haberimizde.",
+      "link": "https://www.birgun.net/haber/anadolu-efes-real-madrid-maci-saat-kacta-ve-hangi-kanalda-737563",
+      "published": "2026-09-29T12:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:39.153143+00:00"
+    },
+    {
+      "id": "ecf2656df5e9d733",
+      "source": "Yeniçağ",
+      "title": "Türk şirketler çıtayı yükseltiyor: Mısır’da yeni fabrika",
+      "summary": "Eroğlu Global Holding’in Mısır’da hayata geçireceği 140 milyon dolarlık EMS projesine Mısırlı banka CIB tarafından 80 milyon dolarlık kredi sağlandı. Tesisin tamamlanmasıyla yaklaşık 5 bin kişiye istihdam sağlanması ve yıllık 165 milyon dolar gelir elde edilmesi hedefleniyor.",
+      "link": "https://www.yenicaggazetesi.com/turk-sirketler-citayi-yukseltiyor-misirda-yeni-fabrika-1076700h.htm",
+      "published": "2026-09-29T12:44:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:43.420169+00:00"
+    },
+    {
+      "id": "794fea4fd89833c3",
+      "source": "Aydınlık",
+      "title": "Gülistan Doku soruşturmasında \"iki büyük bavul\" detayı: Komutanın eşi anlattı",
+      "summary": "Gülistan Doku&#039;nun kaybolmasına ilişkin soruşturma dosyasına, jandarma komutanı Ali Kahraman&#039;ın eşi Burçin Kahraman&#039;ın ifadesi yansıdı. Kahraman, 2024&#039;te Tuncay Sonel ve ailesiyle Japonya tatilinde otelden ayrılırken iki büyük bavulun Sonel ve kızına verildiğini anlattı.",
+      "link": "https://www.aydinlik.com.tr/haber/gulistan-doku-sorusturmasinda-iki-buyuk-bavul-detayi-komutanin-esi-anlatti-592159",
+      "published": "2026-09-29T12:44:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:44.605136+00:00"
+    },
+    {
+      "id": "ebd7a07e469d4fa0",
+      "source": "Gazete Pencere",
+      "title": "Fon krizindeki şirketin AK Parti bağlantıları ortaya çıktı",
+      "summary": "YENİ Parti Grup Başkanvekili Gökhan Günaydın, fon skandalındaki Gündoğdu Gıda’nın sahibi Kopuz ailesinin AK Parti ilişkilerini açıkladı. Üretimi duran şirketin değerinin 105 milyar lirayı aştığını söyleyen Günaydın, SPK ve MASAK’a tepki gösterdi.",
+      "link": "https://www.gazetepencere.com/gundem/fon-krizindeki-sirketin-ak-parti-baglantilari-ortaya-cikti-717280h",
+      "published": "2026-09-29T12:44:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:44.946061+00:00"
+    },
+    {
+      "id": "fa0875bfd5254496",
+      "source": "Yeni Şafak",
+      "title": "İngiliz öğrenciler Türkiye’deki eğitim sistemine şaşırdı: Türk akademisyen aldığı tepkiyi paylaştı",
+      "summary": "İngiltere’de görev yapan Türk akademisyen, sınıfındaki yabancı öğrencilerin Türkiye’deki üniversite sistemiyle ilgili yaşadığı şaşkınlığı anlattı. Türkiye’de devlet üniversitelerinde eğitimin ücretsiz olduğunu söylediğinde öğrencilerinin şaşırdığını belirten akademisyen, İngiltere’de ise üniversite eğitiminin aileler için ciddi bir mali yük oluşturduğunu ifade etti.",
+      "link": "https://www.yenisafak.com/video/dunya/ingiliz-ogrenciler-turkiyedeki-egitim-sistemine-sasirdi-turk-akademisyen-aldigi-tepkiyi-paylasti-4860044",
+      "published": "2026-09-29T12:44:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:41.707858+00:00"
+    },
+    {
+      "id": "1bd4fa3508405b19",
+      "source": "Karar",
+      "title": "Yeni Partili Yavuzyılmaz’dan Emre Tezmen iddiası ‘Güya tutuklu, nerede tutuklu olduğu da belli değil’",
+      "summary": "Yeni Parti Zonguldak Milletvekili Deniz Yavuzyılmaz, fon soruşturmasına ilişkin iddialarda bulundu. Tera Yatırım Yönetim Kurulu Başkanı Emre Tezmen için “Şu anda güya tutuklu. Güya tutuklu diyorum; nerede tutuklu olduğu da belli değil” ifadelerini kullanan Yavuzyılmaz, “Yarın bir gün Reza Zarrab gibi şak diye başka bir kıtadan mı çıkar karşımıza bilmiyorum” dedi.",
+      "link": "https://www.karar.com/guncel-haberler/yavuzyilmazdan-tezmen-iddiasi-guya-tutuklu-nerede-tutuklu-oldugu-da-2075097",
+      "published": "2026-09-29T12:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:42.821228+00:00"
+    },
+    {
+      "id": "361d0540ebe0219b",
+      "source": "Cumhuriyet",
+      "title": "Kayyımlık görevi sona ermişti: Kemal Kılıçdaroğlu, Gürsel Tekin ile görüştü!",
+      "summary": "Butlan CHP'sinin Genel Başkanı Kemal Kılıçdaroğlu ile eski CHP İstanbul İl Başkanlığı kayyımı Gürsel Tekin görüştü. Görüşmenin, CHP Genel Merkezi'nde gerçekleştiği aktarıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/kayyimlik-gorevi-sona-ermisti-kemal-kilicdaroglu-gursel-tekin-ile-gorustu-2542146",
+      "published": "2026-09-29T12:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:36.612713+00:00"
+    },
+    {
+      "id": "285f6938c317ae52",
+      "source": "Star",
+      "title": "TEKNOFEST Güneydoğu için geri sayım! Selçuk Bayraktar hazırlıkları yerinde inceledi",
+      "summary": "T3 Vakfı Mütevelli Heyeti Başkanı ve TEKNOFEST Yönetim Kurulu Başkanı Selçuk Bayraktar, dünyanın en büyük havacılık, uzay ve teknoloji festivali olan TEKNOFEST Güneydoğu'nun düzenleneceği Şanlıurfa GAP Havalimanı'nda incelemelerde bulundu.",
+      "link": "https://www.star.com.tr/guncel/teknofest-guneydogu-icin-geri-sayim-selcuk-bayraktar-hazirliklari-yerinde-inceledi-haber-2043327/",
+      "published": "2026-09-29T12:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:42.087379+00:00"
+    },
+    {
+      "id": "6043c3d993455ac6",
+      "source": "Yeniçağ",
+      "title": "Düzce'de dere taştı, evleri sel bastı: İşte iki günlük bilanço",
+      "summary": "Düzce’nin Akçakoca ilçesinde iki gündür aralıksız devam eden şiddetli sağanak ve fırtına hayatı felç etti. Derenin taşması sonucu Esmahanım köyünde 3 evi su basarken, balıkçı barınağındaki 14 tekne fırtınanın etkisiyle zarar gördü.",
+      "link": "https://www.yenicaggazetesi.com/duzcede-dere-tasti-evleri-sel-basti-iste-iki-gunluk-bilanco-1076699h.htm",
+      "published": "2026-09-29T12:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:43.420212+00:00"
+    },
+    {
+      "id": "8de6c4c886fbda93",
+      "source": "Gazete Pencere",
+      "title": "İstanbul atamasından önce Kılıçdaroğlu ile Gürsel Tekin görüştü",
+      "summary": "‘Mutlak butlan’ kararıyla CHP Genel Başkanlığı’na atanan Kılıçdaroğlu, mahkeme kararıyla İstanbul İl Başkanlığı görevi sona eren Gürsel Tekin ile Genel Merkez'de görüştü.",
+      "link": "https://www.gazetepencere.com/siyaset/istanbul-atamasindan-once-kilicdaroglu-ile-gursel-tekin-gorustu-717279h",
+      "published": "2026-09-29T12:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:44.946118+00:00"
+    },
+    {
+      "id": "d873542990190665",
+      "source": "Halk TV",
+      "title": "Galatasaray resmen açıkladı: Sözleşme imzalandı",
+      "summary": "Galatasaray Kulübü yeni anlaşmasını resmen açıkladı. Sözleşme imzalandı.",
+      "link": "https://halktv.com.tr/spor/galatasaray-resmen-acikladi-sozlesme-imzalandi-1058316h",
+      "published": "2026-09-29T12:42:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:45.555718+00:00"
+    },
+    {
+      "id": "a206721fe0fa667c",
+      "source": "Akşam",
+      "title": "Selçuk Bayraktar, TEKNOFEST Güneydoğu festival alanında",
+      "summary": "T3 Vakfı Mütevelli Heyeti Başkanı ve TEKNOFEST Yönetim Kurulu Başkanı Selçuk Bayraktar, dünyanın en büyük havacılık, uzay ve teknoloji festivali olan TEKNOFEST Güneydoğu'nun düzenleneceği Şanlıurfa GAP Havalimanı'nda incelemelerde bulundu.",
+      "link": "https://www.aksam.com.tr/guncel/selcuk-bayraktar-teknofest-guneydogu-festival-alaninda/haber-1702273",
+      "published": "2026-09-29T12:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:40.890849+00:00"
+    },
+    {
+      "id": "a62f14df63e39614",
+      "source": "Star",
+      "title": "ABD'ye kaçırılan eserler ana vatanında! Yıllar sonra iade edildi",
+      "summary": "ABD'den Suriye'ye iade edilen 21 arkeolojik eser başkent Şam'daki Ulusal Müzeye konuldu.",
+      "link": "https://www.star.com.tr/dunya/abdye-kacirilan-eserler-ana-vataninda-yillar-sonra-iade-edildi-haber-2043326/",
+      "published": "2026-09-29T12:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:42.087410+00:00"
+    },
+    {
+      "id": "8688c21c0715878a",
+      "source": "LOG",
+      "title": "Huawei Mate 90 Pro Max için kendi sensörüne sahip bir kamera aksesuarı sunulacak [Video]",
+      "summary": "Resmi olarak 1 Ekim&#8217;de tanıtılacak Huawei Mate 90 Pro Max için kendi sensörüne sahip bir kamera aksesuarı hazırlanmış. Sayfanın altındaki videoda izleyebileceğiniz &#8220;XMAGE Z10&#8221; isimli ürün, doğrudan arka kamera modülüne takılıyor ancak görüntüyü bünyesindeki 1 inç boyutundaki sensör aracılığıyla yakalıyor. 10 kat optik ve 100 kat dijital yakınlaştırma sunacağı aktarılan kamera, 24",
+      "link": "https://www.log.com.tr/huawei-mate-90-pro-max-icin-kendi-sensorune-sahip-bir-kamera-aksesuari-sunulacak-video/",
+      "published": "2026-09-29T12:41:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:46:03.826336+00:00"
+    },
+    {
+      "id": "4b1b04ecd7b9e861",
+      "source": "Gazete Pencere",
+      "title": "Fon soruşturmasında yeni gelişme: Geçgel ailesine yurt dışı çıkış yasağı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı’nın yürüttüğü fon soruşturmasında, malvarlıklarına tedbir konulan Astor Enerji Yönetim Kurulu Başkanı Feridun Geçgel ve kardeşi Enver Geçgel hakkında yeni bir karar alındı. İki isim hakkında yurtdışı yasağı kararı verildi.",
+      "link": "https://www.gazetepencere.com/gundem/fon-sorusturmasinda-yeni-gelisme-gecgel-ailesine-yurt-disi-cikis-yasagi-717278h",
+      "published": "2026-09-29T12:41:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:44.946154+00:00"
+    },
+    {
+      "id": "c97045f75be9760e",
+      "source": "Halk TV",
+      "title": "Türkiye dondurma pazarında büyümenin motoru, premium ürünler ve genç tüketici oldu",
+      "summary": "Karkayalar Dondurma, &quot;Dondurma Kafe&quot; konseptini hayata geçirdi",
+      "link": "https://halktv.com.tr/tanitim-bulteni/turkiye-dondurma-pazarinda-buyumenin-motoru-premium-urunler-ve-genc-tuketici-oldu-1058315h",
+      "published": "2026-09-29T12:41:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:45.555753+00:00"
+    },
+    {
+      "id": "85ff053a471337e5",
+      "source": "Türkiye Gazetesi",
+      "title": "Ekonomistlerin eylül ayı enflasyon tahmini belli oldu",
+      "summary": "AA Finans Enflasyon Beklenti Anketi'ne katılan ekonomistler, eylül ayında enflasyonun yüzde 2,18 gelmesini bekliyor. Ekonomistlerin yıl sonu enflasyon tahmini ise yüzde 30,16.",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/ekonomistlerin-eylul-ayi-enflasyon-tahmini-belli-oldu-1819413",
+      "published": "2026-09-29T12:41:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:38.576851+00:00"
+    },
+    {
+      "id": "48e4f023ac5f99d8",
+      "source": "Halk TV",
+      "title": "İsmail Kartal milli arada özel formül geliştirdi",
+      "summary": "Fenerbahçe&#039;de sezon başında büyük beklentilerle kadroya dahil edilen Belçikalı golcü, geride kalan haftalarda ortaya koyduğu performansla beklentilerin altında kaldı.",
+      "link": "https://halktv.com.tr/spor/ismail-kartal-milli-arada-ozel-formul-gelistirdi-1058314h",
+      "published": "2026-09-29T12:41:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:45.555787+00:00"
+    },
+    {
+      "id": "db044343ba302c19",
+      "source": "Ekonomim",
+      "title": "Deutsche Bank’tan Fed için iki faiz artırımı beklentisi",
+      "summary": "Deutsche Bank, Fed’in sıkı para politikası duruşunu koruduğuna dikkat çekerek aralık ve mart aylarında 25’er baz puanlık iki faiz artırımı öngördü. Banka, belirli ekonomik koşulların gerçekleşmesi halinde ekim ayında da faiz artırımının yeniden gündeme gelebileceğini belirtti.",
+      "link": "https://www.ekonomim.com/kuresel-ekonomi/deutsche-banktan-fed-icin-iki-faiz-artirimi-beklentisi-haberi-921433",
+      "published": "2026-09-29T12:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:51.971346+00:00"
+    },
     {
       "id": "df7ec3d2fc178790",
       "source": "Karar",
@@ -28,6 +248,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T12:40:44.721185+00:00"
+    },
+    {
+      "id": "e20d696dbea8ab00",
+      "source": "Cumhuriyet",
+      "title": "‘Ayla’ ve ‘Müslüm’ün yapımcısı Mustafa Uslu’ya tehdit: 3,5 milyon Euro istedikleri iddia edildi",
+      "summary": "İstanbul'da 12 ayrı tehdit ve iş yeri kurşunlama olayına ilişkin düzenlenen eş zamanlı operasyonlarda 11 şüpheli gözaltına alındı. Şüphelilerden bazılarının “Ayla” ve “Müslüm” filmlerinin yapımcısı Mustafa Uslu ile kızı Ecem Uslu'dan 3,5 milyon Euro istediği öne sürüldü. Şüpheliler arasında Ecem Uslu'nun eski eşi F.D.'nin de bulunduğu belirtildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/ayla-ve-muslum-un-yapimcisi-mustafa-uslu-ya-tehdit-3-5-milyon-euro-istedikleri-iddia-edildi-2542145",
+      "published": "2026-09-29T12:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:36.612756+00:00"
+    },
+    {
+      "id": "03aa11adfb2a001b",
+      "source": "Cumhuriyet",
+      "title": "Şanlıurfa mutfağının geleneksel lezzeti: MasterChef çiğ köfte tarifi",
+      "summary": "İsotun yoğun aroması ve kendine özgü acısıyla sofraların sevilen lezzetlerinden biri olan etli çiğ köfte, geleneksel tatları sevenlerin favorileri arasında yer alıyor.",
+      "link": "https://www.cumhuriyet.com.tr/gurme/sanliurfa-mutfaginin-geleneksel-lezzeti-masterchef-cig-kofte-tarifi-2542144",
+      "published": "2026-09-29T12:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:36.612785+00:00"
+    },
+    {
+      "id": "6afcf2c32ac063cb",
+      "source": "Ekonomim",
+      "title": "Fon iddiası sonrası Mustafa Sandal’dan mesaj: “Tek ortaklığımız evlilik”",
+      "summary": "Şarkıcı Mustafa Sandal, eşi Melis Sandal&#039;ın tasfiye kararı alınan fonlardan 11 milyarı aşkın para çektiği iddiaları üzerine sosyal medya hesabından açıklama yaptı. Şarkıcı Mustafa Sandal, &quot;Eşim Melis ve babası Cihan Sütşurup ile ilgili iddiaların şahsımla ilişkilendirilmesi haksızdır, kötü niyetlidir. Melis ile karı koca olmak dışında maddi anlamda hiçbir ortak işimiz olmamıştır&quot; de",
+      "link": "https://www.ekonomim.com/gundem/fon-iddiasi-sonrasi-mustafa-sandaldan-mesaj-tek-ortakligimiz-evlilik-haberi-921432",
+      "published": "2026-09-29T12:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:51.971398+00:00"
     },
     {
       "id": "c1b26d9092e193c6",
@@ -83,6 +336,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T12:40:44.721248+00:00"
+    },
+    {
+      "id": "89c2febfbc6f32de",
+      "source": "Türkiye Gazetesi",
+      "title": "Meteoroloji’den 3 bölgeye şiddetli fırtına uyarısı",
+      "summary": "Ekim ayına sayılı günler kala bahar havasının yerini serin ve sağanak yağışlı hava alırken, Meteoroloji ve Prof. Dr. Orhan Şen’den uyarılar peş peşe sıralandı. Meteoroloji yarın Marmara, Karadeniz ve Kuzey Ege’de şiddetli fırtına beklendiğini, fırtına etkisinin akşam saatlerine kadar süreceğini belirtti. Orhan Şen ise “Cumartesi iç ve kuzey batı dan yağış çekilmeye başlayacak. Pazar günü çekilip d",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/etkisi-sabahtan-aksama-kadar-surecek-ne-yagmur-ne-dolu-meteoroloji-3-bolgeyi-siraladi-1819412",
+      "published": "2026-09-29T12:38:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:38.576900+00:00"
+    },
+    {
+      "id": "5d95cc67d05b95b9",
+      "source": "Türkiye Gazetesi",
+      "title": "ETKİSİ YARIN TÜM GÜN SÜRECEK!",
+      "summary": "Ekim ayına sayılı günler kala bahar havasının yerini serin ve sağanak yağışlı hava alırken, Meteoroloji ve Prof. Dr. Orhan Şen’den uyarılar peş peşe sıralandı. Meteoroloji yarın Marmara, Karadeniz ve Kuzey Ege’de şiddetli fırtına beklendiğini, fırtına etkisinin akşam saatlerine kadar süreceğini belirtti. Orhan Şen ise “Cumartesi iç ve kuzey batı dan yağış çekilmeye başlayacak. Pazar günü çekilip d",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/etkisi-sabahtan-aksama-kadar-surecek-ne-yagmur-ne-dolu-meteoroloji-3-bolgeyi-siraladi-1819412",
+      "published": "2026-09-29T12:38:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:38.576941+00:00"
     },
     {
       "id": "7fa1328a4dbbfdf7",
@@ -149,6 +424,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T12:40:34.952094+00:00"
+    },
+    {
+      "id": "198901d3aeeb6040",
+      "source": "Finans Gündem",
+      "title": "Bankacılık sektörünün aktif büyüklüğü 55.7 trilyon lira",
+      "summary": "BDDK verilerine göre bankacılık sektörünün aktif büyüklüğü ağustosta 55,7 trilyon liraya çıktı. Krediler 28,2 trilyon liraya ulaşırken sektörün 8 aylık net kârı 676,3 milyar lira oldu",
+      "link": "https://www.finansingundemi.com/haber/bankacilik-sektorunun-aktif-buyuklugu-557-trilyon-lira/1909891",
+      "published": "2026-09-29T12:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:53.871162+00:00"
     },
     {
       "id": "872f4a29fd5439a5",
@@ -316,6 +602,17 @@
       "fetched_at": "2026-09-29T12:35:37.078297+00:00"
     },
     {
+      "id": "2d2256ab8934233a",
+      "source": "Türkiye Gazetesi",
+      "title": "\"YARDIM\" DEDİLER, TERÖR ÇIKTI",
+      "summary": "İstanbul'da çökertilen terör örgütü DEAŞ'ın finans hücresinin, yardım kılıfıyla topladığı fonları ve yurt dışı kaynaklı paraları cezaevindeki örgüt mensuplarına aktardığı ortaya çıkarıldı. Şüphelilerden Akide İ.'nin hesabına 1,2 milyon lirayı aşkın para ile 276 bin dolar girdiği, bu kaynakların tutuklu teröristlere transfer edildiği belgelendi. MASAK takibiyle deşifre edilen ve operasyonla yakalan",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/deasin-cezaevine-uzanan-para-trafigi-desifre-oldu-yardim-dediler-teror-kasasi-cikti-1819410",
+      "published": "2026-09-29T12:34:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:38.576981+00:00"
+    },
+    {
       "id": "ce11a56f7afb4862",
       "source": "Yeni Şafak",
       "title": "Boşanma aşamasındaki eşi okul bahçesinde öldürmüştü: Tehdit mesajları ortaya çıktı",
@@ -325,6 +622,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T12:35:36.092873+00:00"
+    },
+    {
+      "id": "061cd10b6e9695d9",
+      "source": "Halk TV",
+      "title": "Sinop’ta sanat denizle buluştu! 12 ülkeden 25 sanatçı aynı sergide bir araya geldi",
+      "summary": "20. yılında “Karada Akıl Yürür, Denizde Sezgi” başlığıyla düzenlenen Sinopale - Uluslararası Sinop Bienali’nin 10. edisyonu, Eski Askeri Gazino Binası’nda sanatseverlerle buluştu.",
+      "link": "https://halktv.com.tr/turkiye/sinopta-tarihi-bulusma-12-ulkeden-25-sanatci-ayni-sergide-bir-araya-geldi-1058305h",
+      "published": "2026-09-29T12:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:45.556064+00:00"
     },
     {
       "id": "b7c1c98daf2959db",
@@ -2283,6 +2591,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T11:55:36.003754+00:00"
+    },
+    {
+      "id": "c1e5b769486a3aa1",
+      "source": "Sabah",
+      "title": "Bektaş Can kurşun yağmuruna tutularak katledilmişti! Kokoreççi cinayetinde dikkat çeken bağlantı: Meğer daha önce…",
+      "summary": "İstanbul’da seyyar kokoreç tezgâhında çalışan Bektaş Can, motosikletle gelen iki kişinin silahlı saldırısında hayatını kaybetti. Cinayetin ardından çalışma başlatan Asayiş Şube Müdürlüğü Cinayet Büro Amirliği... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/sancaktepede-kokorecci-bektas-cana-motosikletli-2-kisi-kursun-yagdirmisti-cinayette-8-kisi-yakalandi-meger-sebep-7670174",
+      "published": "2026-09-29T11:54:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T12:45:40.506506+00:00"
     },
     {
       "id": "28621573a8613da2",
@@ -5187,325 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T11:01:00.188876+00:00"
-    },
-    {
-      "id": "f9f7e084e828a15c",
-      "source": "Gazete Pencere",
-      "title": "Fon soruşturmasının haritası: Son tutuklanan 5 kişi kim?",
-      "summary": "Fon soruşturmasıyla ilgili gözaltına alınan 12 kişiden 5'i tutuklandı, 7 kişi ise adli kontrolle serbest kaldı. Peki, tutuklanan ve serbest kalanlar kim? İşte fon soruşturmasının detayları...",
-      "link": "https://www.gazetepencere.com/gundem/fon-sorusturmasinin-haritasi-son-tutuklanan-5-kisi-kim-717256h",
-      "published": "2026-09-29T11:00:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:02.556924+00:00"
-    },
-    {
-      "id": "67de115308fdb849",
-      "source": "Halk TV",
-      "title": "Fon skandalı borsayı da vurdu! 9 ayın dibini gördü",
-      "summary": "Fon skandalının sarsıntısıyla Borsa İstanbul&#039;da BIST 100 endeksi gün içinde 12 bin 468 puana gerileyerek son 9 ayın en düşük seviyelerine geriledi. Borsa skandalın patlak vermesinin ardından düşüşünü sürdürüyor.",
-      "link": "https://halktv.com.tr/ekonomi/fon-skandali-borsayi-da-vurdu-9-ayin-dibini-gordu-1058278h",
-      "published": "2026-09-29T11:00:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:03.032201+00:00"
-    },
-    {
-      "id": "7b30185f19f65892",
-      "source": "Aydınlık",
-      "title": "Fatma Betül Sayan Kaya ve eşi 2,2 milyar lirayı iade etti",
-      "summary": "Fon soruşturmasında Özata Denizcilik hisselerindeki işlemlerle gündeme gelen eski AK Parti Genel Başkan Yardımcısı Fatma Betül Sayan Kaya ve eşi İlyas Kaya&#039;nın, yaklaşık 2,2 milyar lirayı Hazine ve Maliye Bakanlığının bildirdiği hesaba aktardığı bildirildi.",
-      "link": "https://www.aydinlik.com.tr/haber/fatma-betul-sayan-kaya-ve-esi-22-milyar-lirayi-iade-etti-592140",
-      "published": "2026-09-29T11:00:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:05:47.740646+00:00"
-    },
-    {
-      "id": "d3c31dc5e45e1e44",
-      "source": "Akşam",
-      "title": "İftiraları karşılıksız kalmayacak! Bakan Gürlek'ten Ahmet Şık'a suç duyurusu ve dava",
-      "summary": "Adalet Bakanı Akın Gürlek'in avukatı Abdullah Adır, TİP İstanbul Milletvekili Ahmet Şık'ın Bakan Gürlek ve eşi Elif Gülşah Gürlek hakkında ortaya attığı kira iftiralarına ilişkin suç duyurusunda bulunulduğunu ve manevi tazminat davası açıldığını açıkladı.",
-      "link": "https://www.aksam.com.tr/guncel/ahmet-sik-hakkinda-suc-duyurusu/haber-1702228",
-      "published": "2026-09-29T11:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:40:40.273291+00:00"
-    },
-    {
-      "id": "379953f55cabebc7",
-      "source": "Ekonomim",
-      "title": "E-ticarette dev iş birliği: Ups ve Tiktok Shop iade süreçlerini kolaylaştırıyor",
-      "summary": "Lojistik devi Ups, sosyal ticaret platformu Tiktok Shop ile özel bir ortaklığa imza attı. Anlaşma kapsamında Amerika Birleşik Devletleri&#039;ndeki Tiktok Shop satıcılarına kutusuz ve etiketsiz iade hizmeti sunularak müşterilerin geri gönderim süreçleri basitleştirilecek.",
-      "link": "https://www.ekonomim.com/sirketler/e-ticarette-dev-is-birligi-ups-ve-tiktok-shop-iade-sureclerini-kolaylastiriyor-haberi-921412",
-      "published": "2026-09-29T11:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:05:55.572745+00:00"
-    },
-    {
-      "id": "2fd7616974d9acd1",
-      "source": "Akşam",
-      "title": "Pendikspor'un taç atışı antrenörü Gronnemark: Taç atışları kazanmada bir etken",
-      "summary": "Trendyol 1. Lig ekibi Pendikspor'un teknik heyetine katılan dünyaca ünlü taç atışı antrenörü Thomas Gronnemark, bir maçta ortalama 40-50 taç atışı kullanıldığına dikkat çekerek, \"Taç atışlarında takım arkadaşlarına opsiyon oluşturmak çok ciddi bir etken. Taçlarda kötüyseniz kaybediyor, iyiyseniz kazanıyorsunuz\" dedi.",
-      "link": "https://www.aksam.com.tr/spor/pendiksporun-tac-atisi-antrenoru-gronnemark-tac-atislari-kazanmada-bir-etken/haber-1702229",
-      "published": "2026-09-29T11:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:57.535796+00:00"
-    },
-    {
-      "id": "c22f1b061d4ac314",
-      "source": "Akşam",
-      "title": "Ahmet Şık hakkında suç duyurusu",
-      "summary": "Adalet Bakanı Akın Gürlek'in avukatı Abdullah Adır, TİP İstanbul Milletvekili Ahmet Şık'ın Gürlek ve eşi Elif Gülşah Gürlek hakkında ortaya attığı kira iddialarına ilişkin suç duyurusunda bulunulduğunu ve manevi tazminat davası açıldığını açıkladı.",
-      "link": "https://www.aksam.com.tr/guncel/ahmet-sik-hakkinda-suc-duyurusu/haber-1702228",
-      "published": "2026-09-29T11:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:57.535835+00:00"
-    },
-    {
-      "id": "e61cfada80a99bc1",
-      "source": "Webrazzi",
-      "title": "Meta, şirketlere yönelik yapay zeka platformu Meta Enterprise Platform'u duyurdu",
-      "summary": "Meta, yapay zeka alanındaki yatırımlarını kurumsal pazara taşıyor. Şirket, işletmelerin Meta'nın yapay zeka modellerini, ajanlarını ve altyapısını kendi ürün ve operasyonlarında kullanmasını amaçlayan...",
-      "link": "https://webrazzi.com/2026/09/29/meta-sirketlere-yonelik-yapay-zeka-platformu-meta-enterprise-platform-u-duyurdu/",
-      "published": "2026-09-29T11:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:13.904382+00:00"
-    },
-    {
-      "id": "6cb7fb6989c4cded",
-      "source": "Gazete Pencere",
-      "title": "Akın Gürlek'ten Ahmet Şık hakkında suç duyurusu",
-      "summary": "Adalet Bakanı Akın Gürlek, fon soruşturması kapsamında birçok iddiayı gündeme getiren TİP Milletvekili ve gazeteci Ahmet Şık hakkında suç duyurusunda bulundu ve tazminat davası açtı. Şık son olarak Gürlek'e Süzer Plaza ile ilgili sorular yöneltmişti.",
-      "link": "https://www.gazetepencere.com/gundem/akin-gurlekten-ahmet-sik-hakkinda-suc-duyurusu-717255h",
-      "published": "2026-09-29T10:59:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:02.556966+00:00"
-    },
-    {
-      "id": "f3a4ee8b8484a76e",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "AB Savunma Bakanları Toplantısı: Birlik savunma kapasitesini artırabilecek mi?",
-      "summary": "AB, bir taraftan savunma kapasitesini somut projelerle güçlendirmeye çalışırken diğer taraftan bu kapasitenin hangi güvenlik krizlerinde ve hangi siyasi mekanizma üzerinden kullanılacağı konusunda görüş ayrılıklarını gidermeye çalışıyor.",
-      "link": "https://www.aa.com.tr/tr/analiz/ab-savunma-bakanlari-toplantisi-birlik-savunma-kapasitesini-artirabilecek-mi/4072510",
-      "published": "2026-09-29T10:59:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:05:39.231451+00:00"
-    },
-    {
-      "id": "a66eeb58cfce54b1",
-      "source": "Yeni Akit",
-      "title": "İçişleri Bakanlığı açıkladı! Siber operasyonlarda binlerce kişi gözaltına alındı",
-      "summary": "İçişleri Bakanlığı, siber suçlarla mücadele kapsamında düzenlenen operasyonun sonuçlarını açıkladı. Operasyonlarda 3 bin 810 şüpheli gözaltına alınırken, 12 bin 141 sosyal medya hesabına erişim engellendi.",
-      "link": "https://www.yeniakit.com.tr/haber/icisleri-bakanligi-acikladi-siber-operasyonlarda-binlerce-kisi-gozaltina-alindi-2025444.html",
-      "published": "2026-09-29T10:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:59.422062+00:00"
-    },
-    {
-      "id": "32be48d1f86a9a6a",
-      "source": "Habertürk",
-      "title": "Huzurevi sakinleri topladı: Kompost gübreye dönüştü",
-      "summary": "İstanbul'da Etiler Huzurevi Yaşlı Bakım ve Rehabilitasyon Merkezi'nde mutfaktan çıkan meyve ve sebze atıkları, huzurevi sakinlerinin de katıldığı çalışmayla kompost gübreye dönüştürüldü. Elde edilen kompost gübre daha sonra yeniden huzurevine getirildi. Sakinler, kendi mutfaklarından çıkan atıkların dönüşmesiyle elde edilen gübreyi kullanarak saksılara çiçek fideleri dikecek",
-      "link": "https://www.haberturk.com/gundem/huzurevi-sakinleri-topladi-kompost-gubreye-donustu-3915893",
-      "published": "2026-09-29T10:58:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:10:34.786437+00:00"
-    },
-    {
-      "id": "422d56cd6bba518d",
-      "source": "Cumhuriyet",
-      "title": "Serdal Adalı'dan transfer müjdesi: 'Devre arasında kısmetse alacağız onu'",
-      "summary": "Beşiktaş Başkanı Serdal Adalı, siyah beyazlı kulübün gündemine dair açıklamalarda bulundu. Adalı, ocak ayında yapacakları transferler hakkında çarpıcı sözler sarf etti.",
-      "link": "https://www.cumhuriyet.com.tr/spor/serdal-adali-dan-transfer-mujdesi-devre-arasinda-kismetse-alacagiz-onu-2542112",
-      "published": "2026-09-29T10:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:53.136469+00:00"
-    },
-    {
-      "id": "9e2caaa0323b71fc",
-      "source": "Star",
-      "title": "NATO'dan insansız hava araçlarına karşı yeni savunma hamlesi! Rutte: Düşük maliyetli İHA karşıtı sistemleri güçlendireceğiz",
-      "summary": "NATO Genel Sekreteri Mark Rutte, Ankara Zirvesi'nde duyurulan \"Drone Edge\" gibi girişimlerle İHA tehditlerine karşı önlemler aldıklarını belirtti. Rutte, düşük maliyetli tehditlere karşı daha düşük maliyetli savunma sistemlerinin güçlendirileceğini söyledi.",
-      "link": "https://www.star.com.tr/savunma/natodan-insansiz-hava-araclarina-karsi-yeni-savunma-hamlesi-rutte-dusuk-maliyetli-iha-kars-haber-2043298/",
-      "published": "2026-09-29T10:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:59.004019+00:00"
-    },
-    {
-      "id": "46219431f4c97e84",
-      "source": "Yeni Yaşam",
-      "title": "Akın Gürlek’ten Ahmet Şık’a suç duyurusu ve tazminat davası",
-      "summary": "Adalet Bakanı Akın Gürlek, TİP Milletvekili Ahmet Şık hakkında suç duyurusunda bulunarak manevi tazminat davası açtı Adalet Bakanı Akın Gürlek, Türkiye İşçi Partisi (TİP) Milletvekili Ahmet Şık hakkında suç duyurusunda bulundu ve manevi tazminat davası açtı. Adalet Bakanı Akın Gürlek’in avukatı Abdullah Adır, Ahmet Şık’ın Gürlek ve eşi Elif Gülşah Gürlek hakkında ortaya attığı iddialara [&#8230;]",
-      "link": "https://yeniyasamgazetesi9.com/akin-gurlekten-ahmet-sika-suc-duyurusu-ve-tazminat-davasi/",
-      "published": "2026-09-29T10:57:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:09.816802+00:00"
-    },
-    {
-      "id": "a8924b444f834e84",
-      "source": "Karar",
-      "title": "Genç liderler ve girişimciler Ankara’da bir araya geldi",
-      "summary": "Ankara Büyükşehir Belediyesi’nin ana paydaşlığında düzenlenen Girişimcilik ve Liderlik Zirvesi 2026, gençleri, girişimcileri, akademisyenleri ve farklı sektörlerden temsilcileri bir araya getirdi. “Sürdürülebilir Gelecek İçin” temalı zirvede sürdürülebilirlik, girişimcilik, gençlik katılımı, iklim politikaları ve yeni nesil liderlik başlıkları ele alındı.",
-      "link": "https://www.karar.com/sehir-haberleri/genc-liderler-ve-girisimciler-ankarada-bir-araya-geldi-2075070",
-      "published": "2026-09-29T10:57:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:59.736346+00:00"
-    },
-    {
-      "id": "d64bdb1f4fbbe0ee",
-      "source": "OdaTV",
-      "title": "Besler’den yeşil dönüşüm hamlesi: Yatırımlar 90 milyona çıktı",
-      "summary": "Besler, 9. Sürdürülebilirlik Raporu’nu yayımladı. Şirket, 2025’te emisyonlarını yüzde 21 azaltırken enerji verimliliği, kapsayıcı tarım ve Ar-Ge yatırımlarını sürdürdü. Raporda 2 bin 181 kadın üreticiye ulaşan projeler de öne çıktı.",
-      "link": "https://www.odatv.com/bilim-ve-teknoloji/beslerden-yesil-donusum-hamlesi-yatirimlar-90-milyona-cikti-120164452",
-      "published": "2026-09-29T10:57:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:02.788850+00:00"
-    },
-    {
-      "id": "cb5e8bda4a1dadcb",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Azerbaycan Cumhurbaşkanı Aliyev, İran Cumhurbaşkanı Pezeşkiyan ile telefonda görüştü",
-      "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, İran Cumhurbaşkanı Mesud Pezeşkiyan ile telefon görüşmesi yaptı.",
-      "link": "https://www.aa.com.tr/tr/dunya/azerbaycan-cumhurbaskani-aliyev-iran-cumhurbaskani-pezeskiyan-ile-telefonda-gorustu/4072506",
-      "published": "2026-09-29T10:57:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:52.865655+00:00"
-    },
-    {
-      "id": "01bd5fe77335800d",
-      "source": "CNBC-e",
-      "title": "Ulusoy Un'dan tasfiye sürecindeki fon açıklaması",
-      "summary": "Ulusoy Un, Sermaye Piyasası Kurulu (SPK) tarafından tasfiye sürecine alınan yatırım fonlarında herhangi bir yatırımı veya ilişkisi bulunmadığını duyurdu.",
-      "link": "https://www.cnbce.com/borsa/ulusoy-undan-tasfiye-surecindeki-fon-aciklamasi-h38301",
-      "published": "2026-09-29T10:57:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:12.103559+00:00"
-    },
-    {
-      "id": "1298d4049b4c9f9b",
-      "source": "Yeniçağ",
-      "title": "TIR’dan milyonluk kaçakçılık çıktı",
-      "summary": "Taşpınar Yol Kontrol Noktası’nda durdurulan bir TIR’da piyasa değeri yaklaşık 5 milyon 500 bin TL olduğu değerlendirilen çok sayıda gümrük kaçağı tütün ve tütün mamulü ele geçirildi.",
-      "link": "https://www.yenicaggazetesi.com/tirdan-milyonluk-kacakcilik-cikti-1076647h.htm",
-      "published": "2026-09-29T10:57:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:00.188910+00:00"
-    },
-    {
-      "id": "585cdc4db587f314",
-      "source": "Aydınlık",
-      "title": "İsviçre’de halkın yüzde 30’u ‘savaşa hayır’ dedi",
-      "summary": "İsviçre&#039;de 27 Eylül&#039;de yapılan “Tarafsızlık Girişimi” referandumunda girişim kabul edilmezken, oy kullananların yüzde 29,85&#039;i, ülkenin tarafsızlığının anayasada güçlendirilmesine ve NATO ile askeri işbirliğinin sınırlandırılmasına &quot;evet&quot; dedi.",
-      "link": "https://www.aydinlik.com.tr/haber/isvicrede-halkin-yuzde-30u-savasa-hayir-dedi-592139",
-      "published": "2026-09-29T10:57:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:05:47.740666+00:00"
-    },
-    {
-      "id": "9e2853d7f7549e9d",
-      "source": "Star",
-      "title": "Pendikspor'un Bolu kampı devam ediyor",
-      "summary": "Trendyol 1. Lig ekiplerinden Orfa Yapı Pendikspor, milli maçlar nedeniyle lige verilen arayı Bolu'da kamp yaparak değerlendiriyor.",
-      "link": "https://www.star.com.tr/spor/pendiksporun-bolu-kampi-devam-ediyor-haber-2043297/",
-      "published": "2026-09-29T10:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:59.004051+00:00"
-    },
-    {
-      "id": "ed5cf0c109429150",
-      "source": "Yeni Akit",
-      "title": "Sınav belgesiyle oynanıp, ‘bahis hesabın var’ denmiş! Soruşturmanın fitilini o hakem ateşlemiş",
-      "summary": "İstanbul merkezli 4 ilde başlatılan soruşturmada MHK Başkanı Ferhat Gündoğdu'nun da aralarında bulunduğu 7 isim gözaltına alınırken, eski Süper Lig yardımcı hakemi Ali Tuna'yla ilgili dikkat çeken ayrıntılar ortaya çıktı. Soruşturma dosyasına giren bilirkişi raporunda, Tuna adına düzenlenen sınav kâğıdındaki yazıların kendisine ait olmadığı belirlenirken, Tuna'nın daha önce “bahis oynayan hakemler",
-      "link": "https://www.yeniakit.com.tr/haber/sinav-belgesiyle-oynanip-bahis-hesabin-var-denmis-sorusturmanin-fitilini-o-hakem-ateslemis-2025442.html",
-      "published": "2026-09-29T10:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:59.422119+00:00"
-    },
-    {
-      "id": "31cf01d41b520c66",
-      "source": "Ekonomim",
-      "title": "Yunan basını yazdı: Küçük adacık ve kayalıklara asker çıkarma tatbikatı yapıldı",
-      "summary": "Kathimerini gazetesi, Yunanistan Silahlı Kuvvetlerinin, küçük adacık ve üzerinde yerleşim bulunmayan kayalıklara asker çıkarılması ve gece ele geçirme senaryolarının yer aldığı tatbikat yaptığını belirtti.",
-      "link": "https://www.ekonomim.com/dunya/yunan-basini-yazdi-kucuk-adacik-ve-kayaliklara-asker-cikarma-tatbikati-yapildi-haberi-921411",
-      "published": "2026-09-29T10:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:11.298466+00:00"
-    },
-    {
-      "id": "6363f587ecb7b96a",
-      "source": "Yeniçağ",
-      "title": "Alacak verecek kavgası kanlı bitti: Kardeşini tabancayla vurdu",
-      "summary": "Sakarya’nın Akyazı ilçesinde iki kardeş arasında alacak verecek meselesi nedeniyle çıkan tartışma silahlı kavgaya dönüştü. Ağabeyini tabancayla vurarak ağır yaralayan şüpheli olay yerinden kaçtı, polis ekiplerinin çalışması sonucu yakalandı.",
-      "link": "https://www.yenicaggazetesi.com/alacak-verecek-kavgasi-kanli-bitti-kardesini-tabancayla-vurdu-1076646h.htm",
-      "published": "2026-09-29T10:56:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:00.188944+00:00"
-    },
-    {
-      "id": "ae71ac1a07f70ada",
-      "source": "Habertürk",
-      "title": "Huzurevi sakinlerinin topladı: Kompost gübreye dönüştü",
-      "summary": "İstanbul'da Etiler Huzurevi Yaşlı Bakım ve Rehabilitasyon Merkezi'nde mutfaktan çıkan meyve ve sebze atıkları, huzurevi sakinlerinin de katıldığı çalışmayla kompost gübreye dönüştürüldü. Elde edilen kompost gübre daha sonra yeniden huzurevine getirildi. Sakinler, kendi mutfaklarından çıkan atıkların dönüşmesiyle elde edilen gübreyi kullanarak saksılara çiçek fideleri dikecek",
-      "link": "https://www.haberturk.com/gundem/huzurevi-sakinlerinin-topladi-kompost-gubreye-donustu-3915893",
-      "published": "2026-09-29T10:56:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:00:50.240919+00:00"
-    },
-    {
-      "id": "ea4db04204a604ad",
-      "source": "Gazete Pencere",
-      "title": "Kurtlar Vadisi’nin senaristi ve direktörü FETÖ sorusuna ne yanıt verdi?",
-      "summary": "“Kurtlar Vadisi Pusu” soruşturmasında Onur Tan ile İhsan Karademir, FETÖ müdahalesi iddiası sorulunca Pana Film’i işaret etti. Savcılık, senaryo süreci ve Kaşif Kozinoğlu dosyasıyla bağlantılı sahneleri inceliyor.",
-      "link": "https://www.gazetepencere.com/gundem/kurtlar-vadisinin-senaristi-ve-direktoru-feto-sorusuna-ne-yanit-verdi-717254h",
-      "published": "2026-09-29T10:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:02.557000+00:00"
-    },
-    {
-      "id": "98bfd506eeef83d6",
-      "source": "CNBC-e",
-      "title": "Volkwagen'e bir darbe de İngiltere'den geldi: Dev tazminat kapıda",
-      "summary": "Volkswagen’in İngiltere’de yanlış ürün satışı mağdurlarına yönelik 9 milyar sterlinlik tazminat programı kapsamında yüz milyonlarca sterlin karşılık ayırdığı hesaplarını bu hafta açıklaması bekleniyor. Şirketin toplam maliyetinin 1,5 milyar sterline ulaşabileceği tahmin ediliyor.",
-      "link": "https://www.cnbce.com/otomotiv/volkwagene-bir-darbe-de-ingiltereden-geldi-dev-tazminat-kapida-h38300",
-      "published": "2026-09-29T10:55:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:12.103600+00:00"
-    },
-    {
-      "id": "6fceb0eddf88528b",
-      "source": "Yeniçağ",
-      "title": "Erdoğan’a sorulan 2 milyarlık soruya “hesaptan” yanıt: 2,2 milyar Hazine’ye yattı mı?",
-      "summary": "Fon krizinde dikkat çeken yeni bir gelişme yaşandı. Özgür Özel’in Cumhurbaşkanı Erdoğan’a “Fatma Betül Sayan Kaya’dan bu milletin parasını geri alacak mısın?” diye seslenmesinin ardından, eski Bakan Kaya ile eşi İlyas Kaya’nın Özata Denizcilik hisselerindeki işlemlerden elde ettikleri öne sürülen ya",
-      "link": "https://www.yenicaggazetesi.com/erdogana-sorulan-2-milyarlik-soruya-hesaptan-yanit-22-milyar-hazineye-yatti-mi-1076645h.htm",
-      "published": "2026-09-29T10:55:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:01:00.188984+00:00"
     }
   ]
 }

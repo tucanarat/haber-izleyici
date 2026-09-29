@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-09-29T20:25:55.166664+00:00",
+  "last_updated": "2026-09-29T20:31:10.738499+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 524,
+  "new_items_this_run": 521,
   "items": [
+    {
+      "id": "dfcc1b38b5b10709",
+      "source": "Halk TV",
+      "title": "Sakarya'da kuvvetli sağanak: Okullar tatil edildi",
+      "summary": "Sakarya&#039;da iki gündür etkili olan kuvvetli yağış nedeniyle Akyazı, Erenler, Karapürçek ve Karasu ilçelerindeki bazı okullarda yarın eğitime ara verildi.",
+      "link": "https://halktv.com.tr/turkiye/sakaryada-kuvvetli-saganak-okullar-tatil-edildi-1058394h",
+      "published": "2026-09-29T20:30:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T20:30:55.473667+00:00"
+    },
+    {
+      "id": "fef8d170ab7359fd",
+      "source": "Star",
+      "title": "İsrail'den yurt dışındaki Hamas yetkililerine suikast tehdidi",
+      "summary": "İsrail Savunma Bakanı Yisrael Katz, \"Yurtdışındaki Hamas liderleri de hedefte.\" diyerek diğer ülkelerde bulunan Hamas yetkililerini suikastla tehdit etti.",
+      "link": "https://www.star.com.tr/dunya/israilden-yurt-disindaki-hamas-yetkililerine-suikast-tehdidi-haber-2043413/",
+      "published": "2026-09-29T20:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T20:30:52.280107+00:00"
+    },
     {
       "id": "463fc5e8a885070d",
       "source": "Anadolu Ajansı (Güncel)",
@@ -4111,6 +4133,17 @@
       "fetched_at": "2026-09-29T17:45:51.632682+00:00"
     },
     {
+      "id": "78c21c690f69f75c",
+      "source": "Sözcü",
+      "title": "Fatma Betül Sayan Kaya ve eşinin mal varlıklarının dondurulması talebi",
+      "summary": "Fatma Betül Sayan Kaya ve eşinin mal varlıklarının dondurulması talebi",
+      "link": "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-mal-varligina-dondurma-talebi-p364615",
+      "published": "2026-09-29T17:44:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T20:30:49.025161+00:00"
+    },
+    {
       "id": "b271cf42903d6c14",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Bahçelievler'de bir kadını 22 bıçak darbesiyle öldüren sanığa ağırlaştırılmış müebbet istemi",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T17:01:01.050572+00:00"
-    },
-    {
-      "id": "0d15c199e0d9dec1",
-      "source": "Türkiye Gazetesi",
-      "title": "Eğitim uçuşunda facia! Tu-95 düştü, 6 mürettebat öldü",
-      "summary": "Rusya'nın Amur bölgesinde eğitim uçuşu yapan Tu-95 tipi stratejik bombardıman uçağı düştü. Yerleşim olmayan bölgeye düşen uçaktaki 7 kişilik mürettebattan 6'sı hayatını kaybetti, 1 kişi yaralandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/egitim-ucusunda-facia-tu-95-dustu-6-murettebat-oldu-1819468",
-      "published": "2026-09-29T16:56:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T17:00:57.057849+00:00"
-    },
-    {
-      "id": "bdd966f960e9052a",
-      "source": "Habertürk",
-      "title": "Kaya ailesinin mal varlıklarının dondurulması talebi",
-      "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturma kapsamında, İstanbul Cumhuriyet Başsavcılığı tarafından İlyas Kaya ve eşi Fatma Betül Sayan Kaya’nın mal varlıklarının dondurulması talep edildi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-bassavcilik-kaya-ailesinin-mal-varliklarinin-dondurulmasi-icin-harekete-gecti-3915978",
-      "published": "2026-09-29T16:55:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T17:00:52.765179+00:00"
-    },
-    {
-      "id": "13a25b44b5fadc00",
-      "source": "OdaTV",
-      "title": "Fatma Betül Sayan Kaya ve Eşi İlyas Kaya'nın mal varlıkları donduruluyor",
-      "summary": "Eski Bakan Fatma Betül Sayan Kaya ve Eşi İlyas Kaya’nın tüm mal varlıklarının dondurulması istendi.",
-      "link": "https://www.odatv.com/guncel/fatma-betul-sayan-kaya-ve-esi-ilyas-kayanin-mal-varliklari-donduruluyor-120164491",
-      "published": "2026-09-29T16:55:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T17:01:03.620896+00:00"
     }
   ]
 }

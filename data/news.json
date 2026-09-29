@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-29T02:35:55.080039+00:00",
+  "last_updated": "2026-09-29T02:41:06.509074+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 532,
+  "new_items_this_run": 520,
   "items": [
     {
       "id": "3f6ebfd979d819b4",
@@ -413,6 +413,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T01:10:35.561924+00:00"
+    },
+    {
+      "id": "91ae162066e1c7e2",
+      "source": "Yeni Şafak",
+      "title": "Kurul'dan ikinci toplantı",
+      "summary": "",
+      "link": "https://www.yenisafak.com/gundem/kuruldan-ikinci-toplanti-4859837",
+      "published": "2026-09-29T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T02:40:36.435491+00:00"
     },
     {
       "id": "593677506b2761ef",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-28T20:35:29.446370+00:00"
-    },
-    {
-      "id": "8bd4a0ac203a37ad",
-      "source": "Halk TV",
-      "title": "Sakarya'da sahte içki operasyonu: Yüzlerce litre yakalandı",
-      "summary": "Sakarya&#039;nın Karasu ilçesinde düzenlenen operasyonda 400 litre etil alkol ile çok miktarda sahte ve kaçak içki ele geçirildi, 1 şüpheli gözaltına alındı.",
-      "link": "https://halktv.com.tr/turkiye/sakaryada-sahte-icki-operasyonu-yuzlerce-litre-yakalandi-1058132h",
-      "published": "2026-09-28T20:26:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-28T20:30:53.294229+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-29T22:45:59.685684+00:00",
+  "last_updated": "2026-09-29T22:50:56.654478+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 545,
+  "new_items_this_run": 543,
   "items": [
+    {
+      "id": "eb1365ee24e609f8",
+      "source": "BBC News Türkçe",
+      "title": "AYM'nin süresiz nafaka düzenlemesini iptaline ilişkin gerekçe Resmi Gazete'de yayımlandı",
+      "summary": "Anayasa Mahkemesi (AYM), boşanan eşlere verilen yoksulluk nafakasının süresiz uygulanmasına ilişkin düzenlemeyi oy çokluğuyla iptal etti. Kararın gerekçesi daha sonra açıklanacak.",
+      "link": "https://www.bbc.com/turkce/articles/c70v2pp0lz4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-29T22:48:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T22:50:56.336470+00:00"
+    },
     {
       "id": "3badbfd21c64c4c0",
       "source": "Yeniçağ",
@@ -17,6 +28,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T22:45:41.914355+00:00"
+    },
+    {
+      "id": "d6074ff00d1f6b9f",
+      "source": "Ekonomim",
+      "title": "ABD, Küba'ya yönelik yaptırımlarını genişletti",
+      "summary": "ABD yönetimi, Küba&#039;ya yönelik seyahatlerde yeni kısıtlamalar getirirken, bazı finansal işlemlere ilişkin yasakları genişletti ve özel sektöre yönelik bankacılık kısıtlamaları duyurdu.",
+      "link": "https://www.ekonomim.com/dunya/abd-kubaya-yonelik-yaptirimlarini-genisletti-haberi-921536",
+      "published": "2026-09-29T22:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T22:50:50.076959+00:00"
+    },
+    {
+      "id": "8163ae5c487d0f77",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Filistin'de Hamas, İslami Cihad ve Dahlan grubundan sürpriz seçim ittifakı",
+      "summary": "Hamas ve Filistin İslami Cihad Hareketinin Fetih Hareketinin eski yöneticilerinden Muhammed Dahlan liderliğindeki grupla \"sürpriz\" bir seçim ittifakı kurma konusunda anlaşmaya vardığı belirtildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/filistinde-hamas-islami-cihad-ve-dahlan-grubundan-surpriz-secim-ittifaki/4073177",
+      "published": "2026-09-29T22:43:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T22:50:35.106753+00:00"
     },
     {
       "id": "c589aaa11d12eada",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T19:15:40.802687+00:00"
-    },
-    {
-      "id": "df38ac5b7dbb001c",
-      "source": "Yeniçağ",
-      "title": "İkinci el fiyatına sıfır sedan geliyor: Fiyatı 5 bin euro bile değil",
-      "summary": "Otomobil fiyatlarının dünya genelinde hızla yükseldiği bir dönemde satışa çıkmaya hazırlanan yeni sedan modeli fiyatıyla dikkatleri üzerine çekti. 5 bin euronun altında başlangıç fiyatına sahip olacak otomobil, kompakt yapısına rağmen sunduğu özelliklerle öne çıkıyor.",
-      "link": "https://www.yenicaggazetesi.com/ikinci-el-fiyatina-sifir-sedan-geliyor-fiyati-5-bin-euro-bile-degil-1076820h.htm",
-      "published": "2026-09-29T19:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T19:15:49.251816+00:00"
-    },
-    {
-      "id": "82b7ae2333adcdf4",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İsrail Savunma Bakanı'ndan, başka ülkelerde bulunan Hamas liderlerine suikast tehdidi",
-      "summary": "İsrail Savunma Bakanı Yisrael Katz, \"Yurtdışındaki Hamas liderleri de hedefte.\" diyerek diğer ülkelerde bulunan Hamas yetkililerini suikastla tehdit etti.",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakanindan-baska-ulkelerde-bulunan-hamas-liderlerine-suikast-tehdidi/4073071",
-      "published": "2026-09-29T19:13:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T19:30:46.463618+00:00"
-    },
-    {
-      "id": "9e4025c04199524f",
-      "source": "Milliyet",
-      "title": "Çatışmalar şiddetlendi! Yemen'deki Husiler: Suudi Arabistan son 24 saatte 5 kente 35 hava saldırısı düzenledi",
-      "summary": "Husilere bağlı Sebe haber ajansı, ismi açıklanmayan yerel bir kaynağa dayandırdığı haberinde, Husilerin ana merkezi olan ülkenin kuzeybatısındaki Sada iline Suudi Arabistan tarafından 8 hava saldırısı düzenlendiğini iddia etti. Habere göre, Suudi Arabistan'a ait savaş uçakları Sada'nın Zahir ilçesine 3, Mecz ilçesine 1, Sehar ilçesine ise 4 saldırı düzenledi. Ajans, daha sonra yayımladığı haberde ",
-      "link": "https://www.milliyet.com.tr/dunya/catismalar-siddetlendi-yemendeki-husiler-suudi-arabistan-son-24-saatte-5-kente-35-hava-saldirisi-duzenledi-7670030",
-      "published": "2026-09-29T19:13:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T19:15:45.835939+00:00"
     }
   ]
 }

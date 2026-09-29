@@ -1,12 +1,199 @@
 {
-  "last_updated": "2026-09-29T11:46:01.392303+00:00",
+  "last_updated": "2026-09-29T11:51:05.776383+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 510,
+  "new_items_this_run": 531,
   "items": [
+    {
+      "id": "8a90e61ab44127a7",
+      "source": "Akşam",
+      "title": "Bölgede füze ve İHA alarmı! Suudi Arabistan'da acil durum uyarısı",
+      "summary": "Suudi Arabistan'da, ülkenin güneybatısındaki Yemen sınırı yakınında bulunan Necran bölgesi için acil uyarı alarmı verildi.",
+      "link": "https://www.aksam.com.tr/dunya/bolgede-fuze-ve-iha-alarmi-suudi-arabistanda-acil-durum-uyarisi/haber-1702244",
+      "published": "2026-09-29T11:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:41.958784+00:00"
+    },
+    {
+      "id": "cd368c1c6ab0f7e9",
+      "source": "Star",
+      "title": "Suudi Arabistan'da alarm! Necran için acil uyarı verildi",
+      "summary": "Suudi Arabistan'da, ülkenin güneybatısındaki Yemen sınırı yakınında bulunan Necran bölgesi için acil uyarı alarmı verildi.",
+      "link": "https://www.star.com.tr/dunya/suudi-arabistanda-alarm-necran-icin-acil-uyari-verildi-haber-2043313/",
+      "published": "2026-09-29T11:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:43.263938+00:00"
+    },
+    {
+      "id": "a6bece9d6b5203cb",
+      "source": "Euronews Türkçe",
+      "title": "Avrupa Seyahat Komisyonu Başkanı: İklim değişikliği şu anda turizme yönelik en büyük tehdit",
+      "summary": "Avrupa hâlâ dünyanın turizm oyun alanı olsa da, Avrupa Seyahat Komisyonu’ndan Eduardo Santander Euronews’e, kıtanın iklim sorunları ve yoğunlukla mücadelede daha iyi koordinasyona ihtiyaç duyduğunu söyledi.",
+      "link": "https://tr.euronews.com/2026/09/29/avrupa-seyahat-komisyonu-baskani-iklim-degisikligi-su-anda-turizme-yonelik-en-buyuk-tehdit",
+      "published": "2026-09-29T11:49:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:51:05.775175+00:00"
+    },
+    {
+      "id": "ea00e6488af3ed60",
+      "source": "Star",
+      "title": "Katıldığı düğün, uzman çavuşun sonu oldu! 1 tutuklama",
+      "summary": "Konya'nın Emirgazi ilçesinde düğünde kurşun isabet eden uzman çavuşun yaşamını yitirdiği olaya ilişkin 1 kişi tutuklandı.",
+      "link": "https://www.star.com.tr/guncel/katildigi-dugun-uzman-cavusun-sonu-oldu-1-tutuklama-haber-2043312/",
+      "published": "2026-09-29T11:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:43.263993+00:00"
+    },
+    {
+      "id": "c6a17395a2401586",
+      "source": "Halk TV",
+      "title": "Söndürülmeyen sigara İstanbul'u yaktı",
+      "summary": "Megakentte 8 ayda çıkan binlerce yangının ardından risk haritası netleşti. İtfaiye verileriyle söndürülmemiş sigaraların yol açtığı felaketin boyutu ortaya çıkarken, en çok ve en az yangın çıkan ilçeler tek tek sıralandı.",
+      "link": "https://halktv.com.tr/turkiye/sondurulmeyen-sigara-istanbulu-yakti-1058293h",
+      "published": "2026-09-29T11:48:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:47.817579+00:00"
+    },
+    {
+      "id": "eba271e9ac9181a1",
+      "source": "Star",
+      "title": "Fenerbahçe, Çaykur Rizespor maçına salonda çalıştı",
+      "summary": "Trendyol Süper Lig'in 7. haftasında Çaykur Rizespor ile karşılaşacak Fenerbahçe maçın hazırlıklarını salonda gerçekleştirdi.",
+      "link": "https://www.star.com.tr/spor/fenerbahce-caykur-rizespor-macina-salonda-calisti-haber-2043311/",
+      "published": "2026-09-29T11:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:43.264019+00:00"
+    },
+    {
+      "id": "f06c57df3a9363c2",
+      "source": "Karar",
+      "title": "Silahlı saldırıya uğramıştı: Okul bahçesinde vurulan öğretmene son görev",
+      "summary": "Osmaniye’de görev yaptığı okulun bahçesinde yeğeni tarafından silahlı saldırıya uğrayan Türk dili ve edebiyatı öğretmeni Mehmet Bilgili, düzenlenen cenaze töreninin ardından Asri Mezarlık’ta toprağa verildi.",
+      "link": "https://www.karar.com/guncel-haberler/silahli-saldiriya-ugramisti-okul-bahcesinde-vurulan-ogretmene-son-gorev-2075083",
+      "published": "2026-09-29T11:47:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:44.321322+00:00"
+    },
+    {
+      "id": "78481b1757e4d0e7",
+      "source": "Gazete Pencere",
+      "title": "OpenAI güvenlik nedeniyle yeni modelinin lansmanını iptal etti",
+      "summary": "ABD merkezli yapay zeka şirketi OpenAI, yeni geliştirdiği yapay zeka modeli GPT-6.1 Astra'nın lansmanını güvenlik endişeleri nedeniyle iptal ettiğini duyurdu.",
+      "link": "https://www.gazetepencere.com/bilim-teknoloji/openai-guvenlik-nedeniyle-yeni-modelinin-lansmanini-iptal-etti-717268h",
+      "published": "2026-09-29T11:47:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:47.074089+00:00"
+    },
+    {
+      "id": "83915ffcb0736750",
+      "source": "Türkiye Gazetesi",
+      "title": "Yanan araçta mahsur kalan sürücü saniyelerle ölümden döndü",
+      "summary": "Beylikdüzü'nde direksiyon hakimiyetini kaybeden sürücü yaptığı kaza sonrasında yanan araçta mahsur kaldı. Kazayı gören bir vatandaşın sürücüyü kurtarma anları ise güvenlik kamerasına yansıdı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/beylikduzunde-korku-dolu-anlar-yanan-aracta-mahsur-kalan-surucu-saniyelerle-olumden-d-1819395",
+      "published": "2026-09-29T11:47:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:38.059719+00:00"
+    },
+    {
+      "id": "4df297fa946b3748",
+      "source": "OdaTV",
+      "title": "IMEI kayıt harcında 2027 alarmı: 70 bin liraya dayanabilir",
+      "summary": "Yurt dışından getirilen cep telefonlarının IMEI kayıt harcında yeni yıl zammı gündemde. Beklenen yeniden değerleme oranının yaklaşık yüzde 27,85 olması halinde 54 bin 258 liralık harç 69 bin 450 liraya yükselebilir. Böylece IMEI kayıt ücreti 12 yılda 500 katın üzerinde artmış olacak.",
+      "link": "https://www.odatv.com/guncel/imei-kayit-harci-2027de-70-bin-liraya-dayanabilir-120164463",
+      "published": "2026-09-29T11:47:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:47.338547+00:00"
+    },
+    {
+      "id": "940a477b9737ff0d",
+      "source": "Cumhuriyet",
+      "title": "Gazipaşa'da nohut hasadı tamamlandı",
+      "summary": "Antalya Gazipaşa Belediyesi tarafından Mayıs ayında Cimbiti Yaylası’na ekilen nohutlar hasat edildi.",
+      "link": "https://www.cumhuriyet.com.tr/yerel-gundem/gazipasa-da-nohut-hasadi-tamamlandi-2542127",
+      "published": "2026-09-29T11:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:35.490335+00:00"
+    },
+    {
+      "id": "0f300008b513a812",
+      "source": "Halk TV",
+      "title": "“Ayla” ve “Müslüm”ün yapımcısı ve fenomen kızından 3.5 milyon euro haraç! İsteyen de eski damat",
+      "summary": "İstanbul’daki haraç amaçlı kurşunlama soruşturmasında, “Ayla” ve “Müslüm” filmlerinin yapımcısı Mustafa Uslu ve kızı Ecem Uslu’dan 3,5 milyon avro istediği öne sürülen eski damat F.D. de gözaltına alındı.",
+      "link": "https://halktv.com.tr/turkiye/ayla-ve-muslumun-yapimcisi-ve-fenomen-kizindan-35-milyon-euro-harac-isteyen-de-eski-damat-1058292h",
+      "published": "2026-09-29T11:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:47.817623+00:00"
+    },
+    {
+      "id": "1226beedc440d298",
+      "source": "Yeni Şafak",
+      "title": "Komşuların şikayet ettiği evden 2 kamyon çöp çıktı",
+      "summary": "Bursa’da Osmangazi Belediyesi ekipleri, 'çevreye kötü koku yayıldığı' ihbarı üzerine girdikleri evden 2 kamyon çöp ve atık malzeme çıkardı.",
+      "link": "https://www.yenisafak.com/galeri/gundem/komsularin-sikayet-ettigi-evden-2-kamyon-cop-cikti-4860007",
+      "published": "2026-09-29T11:46:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:42.797696+00:00"
+    },
+    {
+      "id": "582f0335ed4a5c09",
+      "source": "Karar",
+      "title": "Akın Gürlek’in avukatından Süzer Plaza iddialarına cevap: Ahmet Şık hakkında suç duyurusu",
+      "summary": "Bakan Gürlek’in avukatı Abdullah Adır, İstanbul Milletvekili Ahmet Şık’ın Gürlek ve eşi Elif Gülşah Gürlek’in Süzer Plaza’daki bir dairede kiracı olduklarına ilişkin iddialarını reddetti. Adır, Gürlek ailesinin lojmanda ikamet ettiğini belirterek Şık hakkında “iftira” suçlamasıyla Cumhuriyet Başsavcılığına suç duyurusunda bulunulduğunu ve manevi tazminat davası açıldığını açıkladı.",
+      "link": "https://www.karar.com/guncel-haberler/akin-gurlekin-avukatindan-suzer-plaza-iddialarina-cevap-ahmet-sik-2075082",
+      "published": "2026-09-29T11:46:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:44.321373+00:00"
+    },
+    {
+      "id": "e0fa9db1c0dda2d6",
+      "source": "Cumhuriyet",
+      "title": "Rubio’dan İran ve Küba çıkışı: Biri felakete gidiyor, diğeri çoktan düştü",
+      "summary": "ABD Dışişleri Bakanı Marco Rubio, İran'ın \"iflasa yakın olup olmadığı\" sorusuna karşılık ülkenin \"hızla felakete doğru gittiğini\", Küba'nın da \"çoktan düştüğünü\" öne sürdü.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/rubio-dan-iran-ve-kuba-cikisi-biri-felakete-gidiyor-digeri-coktan-dustu-2542126",
+      "published": "2026-09-29T11:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:35.490373+00:00"
+    },
+    {
+      "id": "06b07dc189dd07f2",
+      "source": "OdaTV",
+      "title": "Galatasaray Başkanı Dursun Özbek, Avrupa Kulüpler Birliği toplantısına katıldı",
+      "summary": "Galatasaray Başkanı Dursun Özbek, Avrupa futbolunun geleceğinin değerlendirildiği Avrupa Kulüpler Birliği&#039;nin (ECA) 2026 yılı toplantısında sarı-kırmızılı kulübü temsil etti.",
+      "link": "https://www.odatv.com/spor/dursun-ozbek-avrupa-kulupler-birligi-toplantisina-katildi-120164462",
+      "published": "2026-09-29T11:45:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:47.338583+00:00"
+    },
+    {
+      "id": "74f07612c0e28b75",
+      "source": "Aydınlık",
+      "title": "Aliyev’den Pezeşkiyan’a ‘doğum günü’ telefonu",
+      "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, İran Cumhurbaşkanı Mesud Pezeşkiyan ile telefonda görüşerek doğum gününü kutladı. İki lider görüşmede Bişkek&#039;teki son temaslarını hatırlatırken, Tahran&#039;da bulunan Azerbaycan heyetinin sürdürdüğü ikili ilişkiler gündemini de değerlendirdi.",
+      "link": "https://www.aydinlik.com.tr/haber/aliyevden-pezeskiyana-dogum-gunu-telefonu-592146",
+      "published": "2026-09-29T11:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:46.176655+00:00"
+    },
     {
       "id": "365c2b6280fdb6b6",
       "source": "Cumhuriyet",
@@ -74,6 +261,17 @@
       "fetched_at": "2026-09-29T11:45:41.824538+00:00"
     },
     {
+      "id": "dd33384708d47530",
+      "source": "Independent Türkçe",
+      "title": "Tasfiye edilecek 131 fon hakkında bilgiler: Yatırımcılar paralarını ne ölçüde geri alabilecek?",
+      "summary": "Türkiye sermaye piyasaları tarihinde yaşanan en büyük fon krizinin ardından tasfiyesine karar verilen 131 yatırım fonunun toplam büyüklüğü 16 Eylül itibarıyla yaklaşık 1 trilyon lira seviyesindeyken, fon varlıklarının yaklaşık yüzde 70'inin yoğunlaştığı beş büyük fon yatırımcılara yapılacak geri ödemeler açısından yakından izlenecek. TEFAS verilerinden yapılan hesaplamalara göre tasfiye kapsamında",
+      "link": "https://www.indyturk.com/node/783129/haber/tasfiye-edilecek-131-fon-hakk%C4%B1nda-bilgiler-yat%C4%B1r%C4%B1mc%C4%B1lar-paralar%C4%B1n%C4%B1-ne-%C3%B6l%C3%A7%C3%BCde-geri",
+      "published": "2026-09-29T11:42:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:52.682261+00:00"
+    },
+    {
       "id": "3beb626be6c5058a",
       "source": "Milliyet",
       "title": "Haraç çetesinden eski damat çıktı! Ünlü yapımcı şikayetçi oldu: 3,5 milyon Euro’yu vereceksin",
@@ -83,6 +281,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T11:45:40.232881+00:00"
+    },
+    {
+      "id": "15a6b16d0dcc1cdd",
+      "source": "Ekonomim",
+      "title": "Fon soruşturması: Cumhurbaşkanı Erdoğan liderliğinde toplantı başladı",
+      "summary": "Fon soruşturmasıyla ilgili yeni bir gelişme yaşandı. Cumhurbaşkanı Erdoğan, ekonomi yönetimi ve düzenleyici-denetleyici kurumların başkanlarıyla bir araya geldi. Toplantıya Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek, Borsa İstanbul, SPK, BDDK başkanları da katıldı.",
+      "link": "https://www.ekonomim.com/ekonomi/son-dakika-fon-sorusturmasi-cumhurbaskani-erdogan-liderliginde-toplanti-basladi-haberi-921421",
+      "published": "2026-09-29T11:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:55.726054+00:00"
     },
     {
       "id": "1c2e9cbebe13d828",
@@ -105,6 +314,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T11:45:53.212224+00:00"
+    },
+    {
+      "id": "9b5ed7b9768f5189",
+      "source": "Ekonomim",
+      "title": "Fatih Birol: Gerekirse stratejik petrol rezervlerini görüşeceğiz",
+      "summary": "Uluslararası Enerji Ajansı Başkanı Fatih Birol, enerji piyasalarının yakından takip edildiğini belirterek, ihtiyaç oluşması halinde üye ülkelerle daha fazla stratejik petrol rezervinin piyasaya sürülmesinin görüşülebileceğini söyledi.",
+      "link": "https://www.ekonomim.com/ekonomi/fatih-birol-gerekirse-stratejik-petrol-rezervlerini-gorusecegiz-haberi-921422",
+      "published": "2026-09-29T11:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:55.726097+00:00"
     },
     {
       "id": "20dd5547f5b9ede0",
@@ -866,6 +1086,28 @@
       "fetched_at": "2026-09-29T11:25:42.152952+00:00"
     },
     {
+      "id": "e769f5beae9f23a8",
+      "source": "Bir Gün",
+      "title": "8 belediye başkanı AKP’ye katılıyor iddiası: 4'ü CHP, 3'ü Yeniden Refah, 1'i İYİ Parti'den",
+      "summary": "CHP, Yeniden Refah ve İYİ Parti'den toplam 8 belediye başkanının AKP'ye katılacağı iddia edildi. Bu belediye başkanlarının 4'ü CHP, 3'ü Yeniden Refah ve 1'i de İYİ Parti'den.",
+      "link": "https://www.birgun.net/haber/8-belediye-baskani-akpye-katiliyor-iddiasi-4-u-chp-3-u-yeniden-refah-1-i-iyi-parti-den-737630",
+      "published": "2026-09-29T11:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199209+00:00"
+    },
+    {
+      "id": "00b921ea1cc67365",
+      "source": "Bir Gün",
+      "title": "Kocaelispor’da Beşiktaş maçı öncesi sakatlık krizi: 10 futbolcu tedavide",
+      "summary": "Kocaelispor Teknik Direktörü Selçuk İnan, Beşiktaş karşılaşması öncesinde 10 futbolcunun sakatlığının bulunduğunu açıkladı. İnan, Matej Maglica, Tobias Gulliksen ve Rigoberto Rivas’ın maç kadrosunda yer almasını beklediklerini söyledi.",
+      "link": "https://www.birgun.net/haber/kocaelisporda-besiktas-maci-oncesi-sakatlik-krizi-10-futbolcu-tedavide-737628",
+      "published": "2026-09-29T11:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199248+00:00"
+    },
+    {
       "id": "e4f3d87b017e5ac6",
       "source": "Halk TV",
       "title": "Manchester City davasında Acun Ilıcalı sert çıkıştı",
@@ -998,6 +1240,17 @@
       "fetched_at": "2026-09-29T11:25:34.056353+00:00"
     },
     {
+      "id": "7fc51ff0930c21eb",
+      "source": "Bir Gün",
+      "title": "Euro, dolar karşısında son 3 ayın en düşük seviyesinde",
+      "summary": "Fed’in enflasyonla mücadelede daha sıkı bir para politikası izleyebileceği beklentisi ve Avrupa’da yükselen enerji fiyatları euro üzerindeki baskıyı artırdı. Euro/dolar paritesi yüzde 0,3 gerileyerek 1,1332’ye indi ve 24 Haziran’dan bu yana en düşük seviyeyi gördü.",
+      "link": "https://www.birgun.net/haber/euro-dolar-karsisinda-son-3-ayin-en-dusuk-seviyesinde-737627",
+      "published": "2026-09-29T11:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199282+00:00"
+    },
+    {
       "id": "96aec2439c573c1d",
       "source": "Cumhuriyet",
       "title": "YENİ Parti'den 'erişim engelleri' sonrası X ve Meta'ya çağrı: 'Gelin Meclis'te hesap verin!'",
@@ -1097,6 +1350,17 @@
       "fetched_at": "2026-09-29T11:25:23.366846+00:00"
     },
     {
+      "id": "6f7f1ec4a7c67fce",
+      "source": "Bir Gün",
+      "title": "Fransa'da prestijli edebiyat ödülünde yapay zeka krizi: Neler biliyoruz?",
+      "summary": "Paris merkezli edebiyat topluluğu Académie Goncourt, Haiti doğumlu Kanadalı yazar Thélyson Orélien’in C'était ça ou mourir (Ya bu ya da ölüm) romanının Goncourt Ödülü listesinden çıkartıldığını duyurdu. Romanın yapay zekayla yazıldığı iddiasına karşı yazar \"Yaratmayı ve yazmayı her zaman sevdim. Neden makine kullanayım ki?\" ifadeleriyle kendini savundu.",
+      "link": "https://www.birgun.net/haber/fransa-da-prestijli-edebiyat-odulunde-yapay-zeka-krizi-neler-biliyoruz-737626",
+      "published": "2026-09-29T11:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199320+00:00"
+    },
+    {
       "id": "6073d505b1cb2758",
       "source": "Akşam",
       "title": "Yıllar sonra tekrar açılacak: Türkiye-Suriye sınırında çalışmalar başladı",
@@ -1161,6 +1425,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T11:16:21.309828+00:00"
+    },
+    {
+      "id": "e6707768edfb34ad",
+      "source": "Bir Gün",
+      "title": "Fon skandalındaki gelişmeye YENİ Parti'den ilk yorum: \"4,4 milyar TL ödemesi gerekiyordu\"",
+      "summary": "AKP'li eski Bakan Fatma Betül Sayan Kaya ve eşi İlyas Kaya'nın yaklaşık 2,2 milyar TL'lik kazancı iade ettikleri öne sürüldü. YENİ Parti Grup Başkanvekili Gökhan Günaydın, \"Oysa ödemesi gereken neydi? Haksız ediniminin iki katıydı değil mi? Yani 4,4 milyar TL ödemesi gerekiyordu\" ifadelerini kullandı.",
+      "link": "https://www.birgun.net/haber/fon-skandalindaki-gelismeye-yeni-parti-den-ilk-yorum-4-4-milyar-tl-odemesi-gerekiyordu-737629",
+      "published": "2026-09-29T11:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199355+00:00"
     },
     {
       "id": "89d3c21a771fa7d4",
@@ -1392,6 +1667,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T11:10:55.948216+00:00"
+    },
+    {
+      "id": "06a9cecfb72e48a6",
+      "source": "Bir Gün",
+      "title": "Türkiye-Suriye arasında 7. sınır kapısı açılacak",
+      "summary": "Suriye, Kamışlı-Nusaybin Sınır Kapısı’nın yeniden açılması için çalışmalara başladı. Kamışlı-Nusaybin Sınır Kapısı, Suriye’de başlayan iç savaşın ardından 2012 yılında kapanmıştı.",
+      "link": "https://www.birgun.net/haber/turkiye-suriye-arasinda-7-sinir-kapisi-acilacak-737624",
+      "published": "2026-09-29T11:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199381+00:00"
     },
     {
       "id": "3a8b3ff6ae751792",
@@ -2283,6 +2569,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T11:00:57.113836+00:00"
+    },
+    {
+      "id": "becd1d63e168fe39",
+      "source": "Bir Gün",
+      "title": "Serdal Adalı: \"Beşiktaş’ın şampiyonluktan başka düşüncesi olamaz\"",
+      "summary": "Beşiktaş Başkanı Serdal Adalı, futbol takımının büyük ölçüde yenilendiğini belirterek şampiyonluk hedefinden vazgeçmediklerini ancak zamana ihtiyaç duyduklarını söyledi. Adalı, ocak ayında bir transfer daha yapacaklarını, yayın ihalesinde 500 milyon doların altındaki teklifi kabul etmeyeceklerini açıkladı.",
+      "link": "https://www.birgun.net/haber/serdal-adali-besiktasin-sampiyonluktan-baska-dusuncesi-olamaz-737623",
+      "published": "2026-09-29T10:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199413+00:00"
     },
     {
       "id": "68ffd4df2389b020",
@@ -3385,6 +3682,17 @@
       "fetched_at": "2026-09-29T10:35:38.207543+00:00"
     },
     {
+      "id": "9549fe1bada8c090",
+      "source": "Bir Gün",
+      "title": "New York Times yöneticisi silahlı saldırıda öldürüldü",
+      "summary": "New York Times yöneticisi 40 yaşındaki Jonathan McKinsey, California’da silahlı saldırıda hayatını kaybetti. McKinsey’nin ölümüyle ilgili eşinin anne ve babası gözaltına alındı.",
+      "link": "https://www.birgun.net/haber/new-york-times-yoneticisi-silahli-saldirida-olduruldu-737615",
+      "published": "2026-09-29T10:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199470+00:00"
+    },
+    {
       "id": "39ae481e89f6f0cc",
       "source": "Cumhuriyet",
       "title": "'Fon' vurgununda çarpıcı gelişme: Fatma Betül Sayan Kaya 2 milyar doları iade mi etti?",
@@ -3702,6 +4010,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T10:50:33.392374+00:00"
+    },
+    {
+      "id": "bae783b046664520",
+      "source": "Bir Gün",
+      "title": "Fatma Betül Sayan Kaya'nın 2,2 milyar TL'yi iade ettiği öne sürüldü: Amaç 'etkin pişmanlık' mı?",
+      "summary": "AKP'li eski Bakan Fatma Betül Sayan Kaya ve eşi İlyas Kaya'nın, 5 ay içinde hisse alıp satarak elde ettikleri yaklaşık 2,2 milyar TL'lik kazancı iade ettikleri öne sürüldü. SPK Kanunu çerçevesinde hakkında suç duyurusu kararı alınan şahıslar elde ettiği kazancın iki katını geri ödemeleri halinde etkin pişmanlıktan yararlanabiliyor.",
+      "link": "https://www.birgun.net/haber/fatma-betul-sayan-kaya-nin-2-2-milyar-tl-yi-iade-ettigi-one-suruldu-amac-etkin-pismanlik-mi-737612",
+      "published": "2026-09-29T10:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:39.199539+00:00"
     },
     {
       "id": "fd18b88a1eb6eca9",
@@ -4285,6 +4604,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T10:25:40.411759+00:00"
+    },
+    {
+      "id": "70225294849fe8d2",
+      "source": "OdaTV",
+      "title": "Deniz Göktaş tahliyesinin ardından sahneye koştu",
+      "summary": "88 günlük tutukluluğun ardından tahliye edilen komedyen Deniz Göktaş, özgürlüğüne kavuşmasının ardından ilk olarak Kadıköy&#039;deki sahnesine gitti.",
+      "link": "https://www.odatv.com/guncel/deniz-goktas-tahliyesinin-ardindan-sahneye-kostu-120164448",
+      "published": "2026-09-29T10:22:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-29T11:50:47.338905+00:00"
     },
     {
       "id": "a861e7b37bdbd8de",
@@ -5176,336 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T10:10:48.461291+00:00"
-    },
-    {
-      "id": "b7a97141fb00eab5",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 30 Eylül Çarşamba Yay Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 30 Eylül Çarşamba Yay Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/yay-burcu/gunluk-burc-yorumlari-30-eylul-carsamba-yay-burcu-yorumu-2542093",
-      "published": "2026-09-29T10:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:36.172878+00:00"
-    },
-    {
-      "id": "9a69b4f49af5c7db",
-      "source": "DonanımHaber",
-      "title": "Nvidia'dan kontrolden çıkan yapay zekalara karşı yeni sistem",
-      "summary": "Nvidia, kontrolden çıkan yapay zeka ajanlarını milisaniyeler içinde karantinaya alabilen yeni güvenlik platformunu duyurdu. Sistem, yazılım ve donanım tabanlı denetim sunuyor.",
-      "link": "https://www.donanimhaber.com/nvidia-dan-kontrolden-cikan-yapay-zekalara-karsi-yeni-sistem--211019",
-      "published": "2026-09-29T10:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:58.904365+00:00"
-    },
-    {
-      "id": "8afe4fe9aee7f011",
-      "source": "Independent Türkçe",
-      "title": "AK Parti'li Çelik'ten Özgür Özel'e: İçine düştüğünüz bu çarpıklıktan Cumhurbaşkanımıza saldırarak sıyrılamazsınız",
-      "summary": "AK Parti Sözcüsü Ömer Çelik, YENİ Parti Genel Başkanı Özgür Özel'in \"fon krizi\" üzerinden Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik ifadelerine sosyal medya hesabından yaptığı açıklamayla tepki gösterdi. Çelik, açıklamasında şunları kaydetti: Sayın Özgür Özel’in 'siyasi sorumluluğun alfabesi' hakkındaki bilgisizliği çok nettir. Sayın Özel ve arkadaşları hiçbir ilke ve sorumluluk barındırmayan a",
-      "link": "https://www.indyturk.com/node/783124/haber/ak-partili-%C3%A7elikten-%C3%B6zg%C3%BCr-%C3%B6zele-i%CC%87%C3%A7ine-d%C3%BC%C5%9Ft%C3%BC%C4%9F%C3%BCn%C3%BCz-bu-%C3%A7arp%C4%B1kl%C4%B1ktan",
-      "published": "2026-09-29T10:07:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:47.656653+00:00"
-    },
-    {
-      "id": "132e16b8dc12cad3",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 30 Eylül Çarşamba Akrep Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 30 Eylül Çarşamba Akrep Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/akrep-burcu/gunluk-burc-yorumlari-30-eylul-carsamba-akrep-burcu-yorumu-2542091",
-      "published": "2026-09-29T10:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:36.172913+00:00"
-    },
-    {
-      "id": "67d03edf725d7b78",
-      "source": "Cumhuriyet",
-      "title": "Savcı 'işkence' dedi: Otizmli çocuğa şiddet dosyası Ağır Ceza'ya taşındı",
-      "summary": "Mersin'de 5 yaşındaki otizmli çocuğa şiddet uyguladığı iddiasıyla tutuklu yargılanan öğretmen S.P.C.'nin davasında mahkeme görevsizlik kararı verdi. Savcının eylemlerin “işkence” suçu kapsamında değerlendirilmesi talebi üzerine dosyanın Ağır Ceza Mahkemesi'ne gönderilmesine hükmedilirken, sanığın tutukluluk halinin devamına karar verildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/savci-iskence-dedi-otizmli-cocuga-siddet-dosyasi-agir-ceza-ya-tasindi-2542092",
-      "published": "2026-09-29T10:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:36.172952+00:00"
-    },
-    {
-      "id": "27b281719d6a32ab",
-      "source": "Star",
-      "title": "11 milyar çekildi, rota Dubai oldu! Sandal çiftinin fon trafiğinde dikkat çeken detay",
-      "summary": "Fon soruşturması kapsamında, Melis Sütşurup Sandal'ın soruşturma öncesinde tasfiye edilen fonlardan 11 milyar 126 milyon lirayı aşkın para çekerek Dubai'ye gittiği ortaya çıktı. Aynı dönemde Mustafa Sandal'ın Dubai'de oturum izni için başvurduğu ortaya çıktı.",
-      "link": "https://www.star.com.tr/guncel/11-milyar-cekildi-rota-dubai-oldu-sandal-ciftinin-fon-trafiginde-dikkat-ceken-detay-haber-2043286/",
-      "published": "2026-09-29T10:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:41.488453+00:00"
-    },
-    {
-      "id": "b2b993859450a604",
-      "source": "Karar",
-      "title": "AYM’den işçi lehine emsal niteliğinde karar: Banka çalışanının işe iade mücadelesinde hak ihlali tespiti",
-      "summary": "Banka çalışanının işe iade davasında fesih bildiriminin düzenlenme ve tebliğ tarihleri arasındaki 5 günlük fark uyuşmazlığa yol açtı. Altı aylık kıdem şartının sağlanmadığı gerekçesiyle davayı reddeden istinaf kararını inceleyen Anayasa Mahkemesi, kilit iddiaların yeterli gerekçeyle karşılanmadığını belirterek gerekçeli karar hakkının ihlal edildiğine ve yeniden yargılama yapılmasına hükmetti.",
-      "link": "https://www.karar.com/guncel-haberler/aymden-isci-lehine-emsal-niteliginde-karar-kidem-hesabinda-teblig-2075053",
-      "published": "2026-09-29T10:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:42.121528+00:00"
-    },
-    {
-      "id": "08e51560b0e5344f",
-      "source": "Independent Türkçe",
-      "title": "Casey Affleck'ten Oscar itirafı: \"Biraz travmatikti\"",
-      "summary": "Casey Affleck , Oscar kazanmasını \"biraz travmatik\" bir deneyim diye niteledi. 51 yaşındaki Affleck, Kenneth Lonergan imzalı drama Yaşamın Kıyısında'daki (Manchester by the Sea) performansıyla 2017 töreninde En İyi Erkek Oyuncu ödülünü kazanmıştı. Ancak o gece adının okunmasını beklemiyormuş. fazla oku Bu bölüm, konuyla ilgili referans noktalarını içerir. (Related Nodes field) Oyuncu, Variety'ye v",
-      "link": "https://www.indyturk.com/node/783123/k%C3%BClt%C3%BCr/casey-affleckten-oscar-itiraf%C4%B1-biraz-travmatikti",
-      "published": "2026-09-29T10:06:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T11:10:48.102954+00:00"
-    },
-    {
-      "id": "75deb152b5dbe6fd",
-      "source": "Evrensel",
-      "title": "ABD'nin Irak'taki 23 yıllık askeri varlığı sona eriyor",
-      "summary": "ABD öncülüğündeki koalisyonun Irak’taki askeri misyonu 30 Eylül’de sona eriyor. 2003 işgaliyle başlayan ve IŞİD gerekçesiyle 2014’te yeniden kurulan ABD askeri varlığı çekilirken, Bağdat-Washington ilişkileri güvenlik işbirliğiyle devam edecek.",
-      "link": "https://www.evrensel.net/haber/6002605/abdnin-iraktaki-23-yillik-askeri-varligi-sona-eriyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-29T10:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:15:35.896040+00:00"
-    },
-    {
-      "id": "dd0529707af44107",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 30 Eylül Çarşamba Terazi Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 30 Eylül Çarşamba Terazi Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/terazi-burcu/gunluk-burc-yorumlari-30-eylul-carsamba-terazi-burcu-yorumu-2542090",
-      "published": "2026-09-29T10:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:36.172986+00:00"
-    },
-    {
-      "id": "d59125e04386ded8",
-      "source": "Akşam",
-      "title": "Komşuda terörle mücadele skandalı: Takip sistemleri yetersiz kaldı",
-      "summary": "Yunanistan'da Predator dinleme skandalının ardından terörle mücadele biriminin eski takip sistemlerine yöneldiği ve iletişimin yalnızca yüzde 10 ila 15'ini takip edebildiği ileri sürüldü. Güvenlik açığı tartışmaları sürerken alternatif olarak gündeme gelen 6 milyon avroluk sistemin WhatsApp ve Viber gibi uygulamaları takip edemediği belirtildi.",
-      "link": "https://www.aksam.com.tr/dunya/komsuda-terorle-mucadele-skandali-takip-sistemleri-yetersiz-kaldi/haber-1702212",
-      "published": "2026-09-29T10:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:40.531890+00:00"
-    },
-    {
-      "id": "62ab7c5866e98d52",
-      "source": "Ekonomim",
-      "title": "Zelenskiy: Kuzey Kore, Rusya'ya 10 bin asker daha konuşlandırmaya hazırlanıyor",
-      "summary": "Ukrayna Devlet Başkanı Vladimir Zelenskiy, Rus topraklarında 8 binden fazla Kuzey Kore askeri bulunduğunu, 10 bin askerin daha konuşlandırılması için hazırlıkların sürdüğünü belirtti.",
-      "link": "https://www.ekonomim.com/dunya/zelenskiy-kuzey-kore-rusyaya-10-bin-asker-daha-konuslandirmaya-hazirlaniyor-haberi-921394",
-      "published": "2026-09-29T10:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:49.696969+00:00"
-    },
-    {
-      "id": "f8bd99edabd33c45",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 30 Eylül Çarşamba Başak Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 30 Eylül Çarşamba Başak Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/basak-burcu/gunluk-burc-yorumlari-30-eylul-carsamba-basak-burcu-yorumu-2542089",
-      "published": "2026-09-29T10:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:36.173039+00:00"
-    },
-    {
-      "id": "faffac6f4991cb68",
-      "source": "Karar",
-      "title": "İzmir Karşıyaka’da gençler için yeni eğitim fırsatı",
-      "summary": "Karşıyaka Belediyesi ile İzmir Bakırçay Üniversitesi iş birliğiyle hayata geçirilen Karşıyaka Meslek Yüksekokulu, düzenlenen törenle açıldı. Deniz Baykal Kültür Merkezi binasında hizmet verecek yüksekokulda, Laborant ve Veteriner Sağlık Programı eğitim verecek. 2026-2027 eğitim döneminde faaliyete başlayan okulun bölgeye akademik, sosyal ve ekonomik katkı sunması hedefleniyor.",
-      "link": "https://www.karar.com/sehir-haberleri/izmir-karsiyakada-gencler-icin-yeni-egitim-firsati-2075052",
-      "published": "2026-09-29T10:04:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:05:58.851034+00:00"
-    },
-    {
-      "id": "a63776f1f46faa00",
-      "source": "Diken",
-      "title": "Sağanak yağış geliyor: Dört ile sarı kodlu uyarı",
-      "summary": "Sağanak yağış geliyor: Dört ile sarı kodlu uyarı 29.09.2026 Diken Meteoroloji Genel Müdürlüğü (MGM) sağanak yağış nedeniyle dört ili uyardı. The post Sağanak yağış geliyor: Dört ile sarı kodlu uyarı appeared first on #site_linkat 29.09.2026 .",
-      "link": "https://www.diken.com.tr/saganak-yagis-geliyor-dort-ile-sari-kodlu-uyari-6/?utm_source=rss&utm_medium=rss&utm_campaign=saganak-yagis-geliyor-dort-ile-sari-kodlu-uyari-6",
-      "published": "2026-09-29T10:04:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:06:03.758305+00:00"
-    },
-    {
-      "id": "7fd0e87ae8a71023",
-      "source": "Gazete Pencere",
-      "title": "Müze ve ören yerlerinde çifte rekor: 34,8 milyon ziyaretçi, 7,3 milyar gelir",
-      "summary": "Türkiye’nin müze ve ören yerleri 2025 yılında hem ziyaretçi sayısında hem de gelirde tarihi seviyeye ulaştı. En çok ziyaret edilen ören yeri ise 2,5 milyondan fazla ziyaretçiyle Efes oldu.",
-      "link": "https://www.gazetepencere.com/kultur-sanat/muze-ve-oren-yerlerinde-cifte-rekor-348-milyon-ziyaretci-73-milyar-gelir-717246h",
-      "published": "2026-09-29T10:04:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:06:02.702869+00:00"
-    },
-    {
-      "id": "be10777cb448d9cf",
-      "source": "Türkiye Gazetesi",
-      "title": "Bir ülkede daha tek kullanımlık elektronik sigaralara yasak geliyor!",
-      "summary": "ABD'nin California eyaletinde tek kullanımlık elektronik sigara kullanma devri kapanıyor. California Valisi Gavin Newsom, çevre kirliliğiyle mücadele kapsamında tek kullanımlık elektronik sigaraların üretiminin, ithalatının ve perakende satışının yasaklanmasını öngören kararnameye imza attı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/californiada-tek-kullanimlik-elektronik-sigaralara-yasak-geliyor-tarih-belli-ihlal-ed-1819376",
-      "published": "2026-09-29T10:04:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:38.459903+00:00"
-    },
-    {
-      "id": "be10777cb448d9cf",
-      "source": "Türkiye Gazetesi",
-      "title": "Bir ülkede daha tek kullanımlık elektronik sigaralara yasak geliyor!",
-      "summary": "ABD'nin California eyaletinde tek kullanımlık elektronik sigara kullanma devri kapanıyor. California Valisi Gavin Newsom, çevre kirliliğiyle mücadele kapsamında tek kullanımlık elektronik sigaraların üretiminin, ithalatının ve perakende satışının yasaklanmasını öngören kararnameye imza attı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/californiada-tek-kullanimlik-elektronik-sigaralara-yasak-geliyor-tarih-belli-ihlal-ed-1819376",
-      "published": "2026-09-29T10:04:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:38.459944+00:00"
-    },
-    {
-      "id": "becc218b72f682ca",
-      "source": "Cumhuriyet",
-      "title": "Eski hakem Deniz Ateş Bitnel duyurdu: 'Tanık olarak emniyete çağrıldım'",
-      "summary": "\"Hakemler dosyası\" soruşturması sonrası eski hakem Deniz Ateş Bitnel, \"Tanık ifademe başvurulmak üzere Vatan Emniyete davet edildim\" paylaşımı yaptı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/eski-hakem-deniz-ates-bitnel-duyurdu-tanik-olarak-emniyete-cagrildim-2542087",
-      "published": "2026-09-29T10:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:36.173075+00:00"
-    },
-    {
-      "id": "149ab4db5cb9824a",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 30 Eylül Çarşamba Aslan Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 30 Eylül Çarşamba Aslan Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/aslan-burcu/gunluk-burc-yorumlari-30-eylul-carsamba-aslan-burcu-yorumu-2542088",
-      "published": "2026-09-29T10:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:36.173097+00:00"
-    },
-    {
-      "id": "be458c30d13d1f24",
-      "source": "Yeni Şafak",
-      "title": "Bilal Erdoğan İspanya Süper Kupası'nın perde arkasını anlattı: ABD 11 milyon dolar fazla vermesine rağmen İstanbul'u seçtiler",
-      "summary": "Dünya Etnospor Birliği Başkanı Necmeddin Bilal Erdoğan, 2027 İspanya Süper Kupası’nın İstanbul’a geliş sürecinin Dünya Etnospor Birliği’nin yürüttüğü sivil diplomasi çalışmalarıyla başladığını anlattı. Erdoğan, organizasyon için ABD’nin Türkiye’den 11 milyon dolar daha yüksek teklif verdiğini belirterek, \"Takımların İstanbul’u istemesi, Türkiye-İspanya ilişkilerinin iyi olması ve Türkiye-Suudi Ara",
-      "link": "https://www.yenisafak.com/gundem/bilal-erdogan-ispanya-super-kupasinin-perde-arkasini-anlatti-abd-11-milyon-dolar-fazla-vermesine-ragmen-istanbulu-sectiler-4859964",
-      "published": "2026-09-29T10:03:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:05:57.594389+00:00"
-    },
-    {
-      "id": "23f3401eec9f2187",
-      "source": "Habertürk",
-      "title": "AB'nin enerji faturası 100 milyar Euro arttı",
-      "summary": "Avrupa Birliği (AB) Komisyonunun Enerjiden Sorumlu Üyesi Dan Jorgensen, AB'nin bu yıl aynı miktarda petrol ve doğal gaz için 100 milyar Euro'dan fazla ek ödeme yaptığını, ithal fosil yakıtlara bağımlılığın azaltılması gerektiğini söyledi.",
-      "link": "https://www.haberturk.com/ekonomi/ab-nin-enerji-faturasi-100-milyar-euro-artti-3915879",
-      "published": "2026-09-29T10:03:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:15:31.033674+00:00"
-    },
-    {
-      "id": "ab64de4c43788176",
-      "source": "Ekonomim",
-      "title": "Son dakika: Fatma Betül Sayan Kaya 2,2 milyar lirayı iade etti!",
-      "summary": "Fon soruşturması kapsamında adı gündeme gelen eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya ile eşi İlyas Kaya’nın, Özata Denizcilik hisselerindeki işlemlerden elde ettikleri öne sürülen yaklaşık 2,2 milyar lirayı iade ettiği öğrenildi. ekonomim.com&#039;un edindiği bilgilere göre söz konusu tutar, Hazine ve Maliye Bakanlığı tarafından bildirilen hesaba aktarıldı.",
-      "link": "https://www.ekonomim.com/gundem/fatma-betul-sayan-kaya-22-milyar-lirayi-iade-etti-haberi-921396",
-      "published": "2026-09-29T10:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:20:55.359947+00:00"
-    },
-    {
-      "id": "47ff679c646d119e",
-      "source": "Ekonomim",
-      "title": "Fatma Betül Sayan Kaya 2,2 milyar lirayı iade etti!",
-      "summary": "Fon soruşturması kapsamında adı gündeme gelen eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya ile eşi İlyas Kaya’nın, Özata Denizcilik hisselerindeki işlemlerden elde ettikleri öne sürülen yaklaşık 2,2 milyar lirayı iade ettiği öğrenildi. ekonomim.com&#039;un edindiği bilgilere göre söz konusu tutar, Hazine ve Maliye Bakanlığı tarafından bildirilen hesaba aktarıldı.",
-      "link": "https://www.ekonomim.com/gundem/fatma-betul-sayan-kaya-22-milyar-lirayi-iade-etti-haberi-921396",
-      "published": "2026-09-29T10:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:15:46.233212+00:00"
-    },
-    {
-      "id": "5e19f31b4ea4ef3b",
-      "source": "OdaTV",
-      "title": "Galatasaray'da Mbappe sevinci",
-      "summary": "Galatasaray&#039;ın Şampiyonlar Ligi’ndeki rakibi Lille&#039;e, Ethan Mbappe’den kötü haber geldi. Real Betis maçında gördüğü kırmızı kart nedeniyle UEFA’dan 3 maç men cezası alan genç futbolcu, Lille&#039;in Galatasaray ile oynayacağı karşılaşmada forma giyemeyecek.",
-      "link": "https://www.odatv.com/spor/galatasaraya-mbappeden-mujdeli-haber-120164445",
-      "published": "2026-09-29T10:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:10:43.953239+00:00"
-    },
-    {
-      "id": "c12c4c383f3c6a9e",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 30 Eylül Çarşamba Yengeç Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 30 Eylül Çarşamba Yengeç Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/yengec-burcu/gunluk-burc-yorumlari-30-eylul-carsamba-yengec-burcu-yorumu-2542086",
-      "published": "2026-09-29T10:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:05:40.051485+00:00"
-    },
-    {
-      "id": "5b170ff646c4432f",
-      "source": "Türkiye Gazetesi",
-      "title": "SİZİN DE BAŞINIZA GELEBİLİR",
-      "summary": "AYM, 6 aylık kıdem şartını sağlayamadığı gerekçesiyle işe iade davası reddedilen çalışanı haklı buldu. 6 ayına 2 gün kala işten çıkarılan çalışanın, adil yargılanma hakkı kapsamındaki gerekçeli karar hakkının ihlal edildiğine karar verildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/sizin-de-basiniza-gelebilir-aymden-kidem-hakkiyla-ilgili-dikkat-ceken-karar-1819375",
-      "published": "2026-09-29T10:02:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:05:42.062062+00:00"
-    },
-    {
-      "id": "e145f7730a771b8e",
-      "source": "Euronews Türkçe",
-      "title": "Erken Cumhuriyet İstanbul’unun 'kamera arkası' Pera Müzesi’nde",
-      "summary": "'Cumhuriyetin Kamera Arkası', 90 bini aşkın negatiften oluşan Basın Fotoğrafları Arşivi’nden seçilen görüntülerle erken Cumhuriyet İstanbul’unun gündelik hayatını ve görünmeyen hikâyelerini ortaya çıkarıyor.",
-      "link": "https://tr.euronews.com/2026/09/29/erken-cumhuriyet-istanbulunun-kamera-arkasi-pera-muzesinde",
-      "published": "2026-09-29T10:02:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:11:00.543678+00:00"
-    },
-    {
-      "id": "d2422374e2817b21",
-      "source": "Ekonomim",
-      "title": "Euro/dolar paritesi 3 ayın en düşüğünde",
-      "summary": "Euro, Fed&#039;in ekim ayında ECB&#039;ye kıyasla faiz artırma ihtimalinin daha yüksek fiyatlanmasıyla dolar karşısında üç ayın en düşük seviyesine geriledi.",
-      "link": "https://www.ekonomim.com/finans/haberler/eurodolar-paritesi-3-ayin-en-dusugunde-haberi-921398",
-      "published": "2026-09-29T10:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:20:55.359968+00:00"
-    },
-    {
-      "id": "92ea009d58cd6f49",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 30 Eylül Çarşamba İkizler Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 30 Eylül Çarşamba İkizler Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/ikizler-burcu/gunluk-burc-yorumlari-30-eylul-carsamba-ikizler-burcu-yorumu-2542085",
-      "published": "2026-09-29T10:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T10:05:40.051513+00:00"
     }
   ]
 }

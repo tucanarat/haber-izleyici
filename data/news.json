@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-09-30T22:35:57.536540+00:00",
+  "last_updated": "2026-09-30T22:40:59.118289+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 524,
+  "new_items_this_run": 523,
   "items": [
+    {
+      "id": "0b9eb4fb87103295",
+      "source": "Akşam",
+      "title": "Şampiyonluğa inancım tam",
+      "summary": "“Şampiyonluk yolunda futbolcularım takım olarak inançlı. İçerde atmosfer güzel, takımın enerjisi oldukça iyi. İnşallah sezon sonunda bu sene hep birlikte şampiyon olacağız. Buna inancım tam.”",
+      "link": "https://www.aksam.com.tr/spor/sampiyonluga-inancim-tam/haber-1702674",
+      "published": "2026-09-30T22:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T22:40:39.817268+00:00"
+    },
+    {
+      "id": "442ff0bb66d79eb2",
+      "source": "Karar",
+      "title": "Eğlence sektöründe ilginç akım: Dans pistlerine halı serip kitap okuyorlar",
+      "summary": "Dans pistine serilen halıların üzerinde kitap okuyan Japon gençleri, gece hayatını baştan yazıyor. Shimokitazawa semtindeki kulüplerde toplanan kitle, ambient müzik eşliğinde sessizliği paylaşıyor. Alkol tüketiminin hızla gerilediği ülkede işletmeler, boş dans pistlerini edebi bir dinlenme alanına dönüştürüyor.",
+      "link": "https://www.karar.com/dunya-haberleri/kitap-rave-akimi-nedir-gencler-neden-kulupte-kitap-okuyor-dans-2075438",
+      "published": "2026-09-30T22:38:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T22:40:42.194363+00:00"
+    },
+    {
+      "id": "17295e01dcaf2c6c",
+      "source": "Akşam",
+      "title": "448 yöneticiye bahis şoku",
+      "summary": "TFF, bahis oynadığı tespit edilen 448 kulüp yöneticisini tek tek açıkladı ve disipline sevk etti. Listede 4 büyüklerden yöneticilerin yanı sıra Trabzonspor Başkanı Ertuğrul Doğan da yer aldı.",
+      "link": "https://www.aksam.com.tr/spor/448-yoneticiye-bahis-soku/haber-1702673",
+      "published": "2026-09-30T22:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T22:40:39.817296+00:00"
+    },
     {
       "id": "2fdcfccb06ca23bc",
       "source": "Akşam",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T19:35:33.991713+00:00"
-    },
-    {
-      "id": "19df289bade9c25c",
-      "source": "Milliyet",
-      "title": "AYM'nin süresiz nafaka iptali Resmi Gazete'de! İşte merak edilen 7 soru ve cevabı",
-      "summary": "Anayasa Mahkemesi (AYM), Türk Medeni Kanunu’nun 175. maddesinin 1. fıkrasında yer alan ve yoksulluk nafakasının \"süresiz olarak\" istenebilmesine imkân tanıyan ibareyi kaldırdı ve nafakanın süresiz olmasına ilişkin iptal kararı Resmî Gazete’de yayımlandı. Avukat Hasan Can, kamuoyunda geniş yankı uyandıran bu önemli hukuki gelişmeyi, uygulamadaki yansımaları ve hak kayıplarının önüne geçilmesi adına",
-      "link": "https://www.milliyet.com.tr/gundem/aymnin-suresiz-nafaka-iptali-resmi-gazetede-iste-merak-edilen-7-soru-ve-cevabi-7670683",
-      "published": "2026-09-30T19:12:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:15:40.541301+00:00"
-    },
-    {
-      "id": "986985a7aeabd15c",
-      "source": "Ekonomim",
-      "title": "Cristiano Ronaldo, Portekiz kampını terk etti",
-      "summary": "Portekizli futbolcu Cristiano Ronaldo, milli takım kampından ayrıldığını açıkladı.",
-      "link": "https://www.ekonomim.com/spor/cristiano-ronaldo-portekiz-kampini-terk-etti-haberi-921773",
-      "published": "2026-09-30T19:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:55:47.073353+00:00"
-    },
-    {
-      "id": "0c8a93ab639d6349",
-      "source": "Star",
-      "title": "Fransa ekibi Bordeaux, 1 euroya satıldı",
-      "summary": "Fransa'nın köklü futbol takımlarından Bordeaux, borçlarında üstlenilmesi karşılığında 1 euroya satıldı.",
-      "link": "https://www.star.com.tr/spor/fransa-ekibi-bordeaux-1-euroya-satildi-haber-2043620/",
-      "published": "2026-09-30T19:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:15:42.348061+00:00"
     }
   ]
 }

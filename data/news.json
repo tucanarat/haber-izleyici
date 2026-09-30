@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-30T02:06:00.498232+00:00",
+  "last_updated": "2026-09-30T02:10:59.410506+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 548,
+  "new_items_this_run": 540,
   "items": [
+    {
+      "id": "d4bbb27c821bb17e",
+      "source": "Euronews Türkçe",
+      "title": "Az bilinen sera gazı Avrupa'nın yarısına sessizce zarar veriyor: En ağır darbe Milano'da",
+      "summary": "Astım hastaları, bu tür durumlarda en fazla etkilenen, en savunmasız ve en büyük risk altında bulunan kesimdir.",
+      "link": "https://tr.euronews.com/2026/09/30/az-bilinen-sera-gazi-avrupanin-yarisina-sessizce-zarar-veriyor-en-agir-darbe-milanoda",
+      "published": "2026-09-30T02:02:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T02:10:59.409294+00:00"
+    },
     {
       "id": "868a6d7a6bea3606",
       "source": "Halk TV",
@@ -248,6 +259,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T01:50:42.824564+00:00"
+    },
+    {
+      "id": "190c5f8fc8b96886",
+      "source": "Finans Gündem",
+      "title": "Katar Başbakanı Al Sani, Netanyahu'yu savaş suçlusu olmakla suçladı",
+      "summary": "Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani, İsrail Başbakanı Binyamin Netanyahu'yu sert sözlerle eleştirdi.",
+      "link": "https://www.finansingundemi.com/haber/katar-basbakani-al-sani-netanyahuyu-savas-suclusu-olmakla-sucladi/1909943",
+      "published": "2026-09-30T01:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T02:10:53.426613+00:00"
     },
     {
       "id": "4bdc370edd281968",
@@ -3077,6 +3099,17 @@
       "fetched_at": "2026-09-29T21:35:43.867639+00:00"
     },
     {
+      "id": "28e7be5fa23b91c8",
+      "source": "Sözcü",
+      "title": "Fon soruşturmasında 1,2 milyar lira değerinde 5 lüks villaya el konuldu",
+      "summary": "Fon soruşturmasında 1,2 milyar lira değerinde 5 lüks villaya el konuldu",
+      "link": "https://www.sozcu.com.tr/fon-sorusturmasinda-yeni-el-koyma-islemleri-p364652",
+      "published": "2026-09-29T21:23:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T02:10:40.878339+00:00"
+    },
+    {
       "id": "8d80826c278e63f5",
       "source": "Yeni Şafak",
       "title": "Kavşakta feci çarpışma: İkisi Norveçli üç yaralı",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T20:35:51.049344+00:00"
-    },
-    {
-      "id": "fef8d170ab7359fd",
-      "source": "Star",
-      "title": "İsrail'den yurt dışındaki Hamas yetkililerine suikast tehdidi",
-      "summary": "İsrail Savunma Bakanı Yisrael Katz, \"Yurtdışındaki Hamas liderleri de hedefte.\" diyerek diğer ülkelerde bulunan Hamas yetkililerini suikastla tehdit etti.",
-      "link": "https://www.star.com.tr/dunya/israilden-yurt-disindaki-hamas-yetkililerine-suikast-tehdidi-haber-2043413/",
-      "published": "2026-09-29T20:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:30:52.280107+00:00"
-    },
-    {
-      "id": "12043ff327ee65ef",
-      "source": "Habertürk",
-      "title": "Devlet Denetleme Kurulu süreci başlattı",
-      "summary": "Fon piyasalarında yaşanan gelişmelerin ardından Devlet Denetleme Kurulu (DDK), yatırım fonlarının işlemleri ve denetim faaliyetlerinin mevzuata uygunluğunu incelemek üzere çalışma başlattı. DDK Başkanı Salih Tanrıkulu, inceleme ve denetim sürecinin Cumhurbaşkanı Erdoğan'ın talimatıyla yürütüldüğünü açıkladı",
-      "link": "https://www.haberturk.com/gundem/devlet-denetleme-kurulu-yatirim-fonlari-icin-inceleme-baslatti-3916011",
-      "published": "2026-09-29T20:27:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:35:36.655804+00:00"
-    },
-    {
-      "id": "602eae3e432a3769",
-      "source": "Evrensel",
-      "title": "Netanyahu gizli BAE ziyaretinde 9 ülkenin temsilcileriyle bir araya gelmiş",
-      "summary": "İsrail basını, Başbakan Benyamin Netanyahu'nun, 27 Eylül'de Birleşik Arap Emirlikleri'ne (BAE) yaptığı gizli ziyarette, BAE dahil 9 ülkenin yetkilileriyle bir toplantı düzenlediğini ileri sürdü.",
-      "link": "https://www.evrensel.net/haber/6002698/netanyahu-gizli-bae-ziyaretinde-9-ulkenin-temsilcileriyle-bir-araya-gelmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-09-29T20:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:40:37.532361+00:00"
     }
   ]
 }

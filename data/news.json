@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-09-30T02:35:53.594741+00:00",
+  "last_updated": "2026-09-30T02:41:06.957404+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 539,
+  "new_items_this_run": 484,
   "items": [
+    {
+      "id": "feffe4337fdee9ab",
+      "source": "Türkiye Gazetesi",
+      "title": "Tramvayda genç doktora taciz! Sapığı ifşa etti",
+      "summary": "İstanbul'da T1 tramvay hattında yolculuk yapan stajyer bir doktor, tacize uğradı. Yaşadıklarını sosyal medya hesabında anlatan ve şüphelinin görüntüsünü paylaşan genç doktor, \"Hayatımda ilk defa tacize uğradım. Sinirden elim ayağım titriyor.\" ifadelerini kullandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/tramvayda-mide-bulandiran-olay-genc-doktor-sapigi-ifsa-etti-1819539",
+      "published": "2026-09-30T02:37:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T02:40:38.151326+00:00"
+    },
     {
       "id": "b0500c5603b6ad5c",
       "source": "Yeni Akit",
@@ -369,6 +380,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T01:35:35.462383+00:00"
+    },
+    {
+      "id": "b607daf1a52c7bea",
+      "source": "Karar",
+      "title": "Tümör sinyallerini kanda tespit eden test geliştirildi",
+      "summary": "Kanser teşhisinde yeni bir dönem başlatan Galleri kan testi, ABD Gıda ve İlaç Dairesi (FDA) danışma panelinden 7'ye 2 oyla tavsiye kararı aldı. Tek kan alımıyla onlarca kanser türünü erken evrede yakalayan sistem, 50 yaş üstü bireylerde standart taramalara ek bir güvence sunacak.",
+      "link": "https://www.karar.com/saglik-haberleri/kanser-kandan-anlasilir-mi-kanser-kan-testi-nasil-yapilir-tumor-2075186",
+      "published": "2026-09-30T01:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T02:40:44.709754+00:00"
     },
     {
       "id": "db2887fed042d9a7",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T20:35:47.688855+00:00"
-    },
-    {
-      "id": "7c6d188f0d225d87",
-      "source": "Yeni Yaşam",
-      "title": "Londra’daki konferansın ilk günü sona erdi: Özerklik ve barış deneyimleri ele alındı",
-      "summary": "Londra’da düzenlenen Barış ve Demokratik Entegrasyon Konferansı’nın birinci günü sona erdi. Konferansın üçüncü panelinde Bask, Katalonya ve Güney Tirol deneyimleri üzerinden özerklik, öz yönetim, ulusal tanınma ve geçiş dönemi adaleti tartışıldı İngiltere’nin başkenti Londra’da düzenlenen Barış ve Demokratik Entegrasyon Konferansı’nın birinci günü, “Özerklik, Yetki Devri ve Öz Yönetim” başlıklı üç",
-      "link": "https://yeniyasamgazetesi9.com/londradaki-konferansin-ilk-gunu-sona-erdi-ozerklik-ve-baris-deneyimleri-ele-alindi/",
-      "published": "2026-09-29T20:32:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:35:58.482133+00:00"
-    },
-    {
-      "id": "7df23201ec42403c",
-      "source": "Cumhuriyet",
-      "title": "Erdoğan talimat vermişti… DDK Başkanı Tanrıkulu’nun Borsa İstanbul’daki görevinden ayrıldı",
-      "summary": "AKP’li Cumhurbaşkanı Recep Tayyip Erdoğan’ın Devlet Denetleme Kurulu’nu görevlendirmesinin ardından DDK Başkanı Salih Tanrıkulu’nun, Borsa İstanbul’daki görevinden ayrıldı. Adı Borsa İstanbul'un sitesinden kaldırıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/erdogan-talimat-vermisti-ddk-baskani-tanrikulu-nun-borsa-istanbul-daki-gorevinden-ayrildigi-iddia-edildi-2542302",
-      "published": "2026-09-29T20:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T21:50:35.962996+00:00"
     }
   ]
 }

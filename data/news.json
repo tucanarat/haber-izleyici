@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-09-30T16:06:09.809343+00:00",
+  "last_updated": "2026-09-30T16:11:02.023170+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 558,
+  "new_items_this_run": 530,
   "items": [
+    {
+      "id": "0c7d67ef5cb505e8",
+      "source": "CNBC-e",
+      "title": "Faizler yükseliyor, hisseler baskı altında: Uzmanlar açıkladı, dengeler değişiyor",
+      "summary": "ABD'de tahvil faizleri yükselirken hisse senetleri üzerindeki baskı artıyor. CNBC Investing Club analizi, yüksek faizlerin değerlemeleri zorlaştırdığını ancak güçlü ekonomik büyüme ve şirketlerin kendi temellerinin hisse performansında belirleyici olabileceğini ortaya koyuyor.",
+      "link": "https://www.cnbce.com/borsa/faizler-yukseliyor-hisseler-baski-altinda-uzmanlar-acikladi-dengeler-degisiyor-g38435",
+      "published": "2026-09-30T16:10:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T16:10:54.503274+00:00"
+    },
+    {
+      "id": "357af4521ca267d4",
+      "source": "Yeni Şafak",
+      "title": "Avcılar'da bastığı kapak açılınca rögara düştü: O anlar kamerada",
+      "summary": "İstanbul Avcılar Gümüşpala Mahallesi Zabit Sokak üzerinde yürüyen yaşlı bir kadın, adımını attığı rögar kapağının aniden ters dönerek açılması sonucu kanalizasyon çukuruna düştü. Çevredekilerin panik içinde durumu bildirmesi üzerine adrese hızla polis, sağlık ve itfaiye ekipleri yönlendirildi. İtfaiye ekiplerinin titiz çalışması sonucu düştüğü çukurdan çıkarılan yaralı kadın, sağlık görevlilerinin",
+      "link": "https://www.yenisafak.com/video/gundem/avcilarda-bastigi-kapak-acilinca-rogara-dustu-o-anlar-kamerada-4860419",
+      "published": "2026-09-30T16:09:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T16:10:42.776530+00:00"
+    },
+    {
+      "id": "f092f54e8092da63",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Volkswagen, sendikayla imzaladığı toplu iş sözleşmelerini tek taraflı feshedecek",
+      "summary": "Alman otomotiv üreticisi Volkswagen (VW), krizle mücadele kapsamında IG Metall sendikası ile imzalanan çok sayıda şirket içi toplu iş sözleşmesini tek taraflı feshedeceğini duyurdu.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/volkswagen-sendikayla-imzaladigi-toplu-is-sozlesmelerini-tek-tarafli-feshedecek/4074033",
+      "published": "2026-09-30T16:06:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T16:10:35.638536+00:00"
+    },
+    {
+      "id": "ead66c04687e9226",
+      "source": "Halk TV",
+      "title": "Hacıosmanoğlu'na büyük şok: TFF'de 2 isim ortalığı karıştırdı",
+      "summary": "Türkiye Futbol Federasyonu (TFF) bahis oynadığı gerekçesiyle 448 ismi PFDK&#039;ya sevk etti. Ancak listedeki 2 isim dikkat çekti.",
+      "link": "https://halktv.com.tr/spor/haciosmanogluna-buyuk-sok-tffde-2-isim-ortaligi-karistirdi-1058599h",
+      "published": "2026-09-30T16:06:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T16:10:47.159183+00:00"
+    },
     {
       "id": "c4662cb0e26db20a",
       "source": "Yeni Akit",
@@ -85,6 +129,39 @@
       "fetched_at": "2026-09-30T16:05:45.062219+00:00"
     },
     {
+      "id": "24ba871c429618bf",
+      "source": "Habertürk",
+      "title": "İşte Süper Lig'in en değerlileri!",
+      "summary": "2026-2027 sezonunda ilk 6 haftanın tamamlanmasının ardından Süper Lig'de forma giyen futbolcuların güncel piyasa değerleri açıklandı. Yapılan son güncellemeyle birlikte zirvede Victor Osimhen'in yeri değişmezken; ilk 10'daki isimler de belli oldu...",
+      "link": "https://www.haberturk.com/spor/foto/iste-super-lig-in-en-degerli-futbolculari-3916245",
+      "published": "2026-09-30T16:02:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T16:10:30.917819+00:00"
+    },
+    {
+      "id": "0097c8ccd4742ec3",
+      "source": "Habertürk",
+      "title": "\"Putin NATO'yu asla yenemeyeceğini biliyor\"",
+      "summary": "NATO Genel Sekreteri Mark Rutte, Rusya Devlet Başkanı Vladimir Putin'e ilişkin açıklamasında \"Putin, NATO’yu asla yenemeyeceğini biliyor. Dolayısıyla o kadar ciddiye almıyorum.\" ifadelerini kullandı.",
+      "link": "https://www.haberturk.com/dunya/nato-topraklarina-yonelik-yakin-vadeli-bir-tehdit-soz-konusu-degil-3916255",
+      "published": "2026-09-30T16:01:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T16:10:30.917849+00:00"
+    },
+    {
+      "id": "b579bdabd05c3c18",
+      "source": "Habertürk",
+      "title": "\"İnanmak istemiyorum\"",
+      "summary": "Güllü'nün ölümüne ilişkin davanın ilk duruşması yarın görülecek. Şarkıcının oğlu Tuğberk Yağız Gülter, ağırlaştırılmış müebbetle yargılanan kardeşi Tuğyan Ülkem Gülter hakkında, \"Annemin kızının anneme zarar vermiş olma ihtimaline inanmak istemiyorum\" dedi",
+      "link": "https://www.haberturk.com/magazin/tugberk-yagiz-gulter-inanmak-istemiyorum-3916249",
+      "published": "2026-09-30T16:01:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T16:10:30.917881+00:00"
+    },
+    {
       "id": "53f6628c8e2a5d4b",
       "source": "Diken",
       "title": "13 basın meslek örgütünden T24'e erişim engeline ortak tepki",
@@ -160,6 +237,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T16:01:06.906197+00:00"
+    },
+    {
+      "id": "a114a7a649390055",
+      "source": "Habertürk",
+      "title": "Emekli maaş zammı ne zaman belli olacak?",
+      "summary": "Milyonlarca emeklinin gözü kulağı ocak ayı emekli zammı son dakika gelişmelerine çevrildi. 2026 yılının ikinci yarısında gerçekleşen 6 aylık enflasyon verisi, memur emeklisi ve SSK/Bağ-Kur emeklilerinin zam oranlarını doğrudan belirliyor. Temmuz ayında en düşük emekli aylığı 23 bin 552 lira olduğu açıklanmıştı. TÜİK tarafından aralık ayı enflasyonunun ardından 6 aylık enflasyon farkı kesinleşecek.",
+      "link": "https://www.haberturk.com/bilgi/foto/emekli-maas-zammi-ocak-2026-ssk-bag-kur-emekli-sandigi-6-aylik-enflasyon-farkina-gore-emekli-maasi-ne-kadar-yuzde-kac-zam-olacak-3916254",
+      "published": "2026-09-30T15:57:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T16:10:30.917966+00:00"
     },
     {
       "id": "5035819b4b23e775",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T15:01:09.459903+00:00"
-    },
-    {
-      "id": "3f57fbf09cc7b2dd",
-      "source": "Sabah",
-      "title": "SON DAKİKA! CHP'den 3 belediye başkanına ihraç kararı",
-      "summary": "SON DAKİKA! CHP, Sarıyer Belediye Başkanı Mustafa Oktay Aksu, Kadıköy Belediye Başkanı Mesut Kösedağı ve Sancaktepe Belediye Başkanı Alper Yeğin'i partiden ihraç etti. Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/gundem/2026/09/30/son-dakika-chpden-3-belediye-baskanina-ihrac-karari",
-      "published": "2026-09-30T14:00:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T14:15:43.917826+00:00"
-    },
-    {
-      "id": "8f9d2df9ae90d663",
-      "source": "Habertürk",
-      "title": "Ağrı Dağı'na mevsimin ilk karı yağdı",
-      "summary": "Türkiye'nin en yüksek noktası olan Ağrı Dağı'na mevsimin ilk karı yağdı. Bölgede \"kışın habercisi\" olarak tanımlanan Ağrı Dağı'nın zirvesine kar yağmasıyla güzel görüntüler oluştu",
-      "link": "https://www.haberturk.com/gundem/agri-dagi-na-mevsimin-ilk-kari-yagdi-3916226",
-      "published": "2026-09-30T14:00:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T14:05:25.966961+00:00"
-    },
-    {
-      "id": "859788c403318ee8",
-      "source": "Halk TV",
-      "title": "Özata Denizcilik ve iki şirket halka arzdan çıkarıldı",
-      "summary": "Borsa İstanbul&#039;un kural setleri gereği sürelerini tamamlayan Özata Denizcilik ile birlikte üç şirketin halka arz endeksinden çıkarıldı.",
-      "link": "https://halktv.com.tr/ekonomi/ozata-denizcilik-ve-iki-sirket-halka-arzdan-cikarildi-1058573h",
-      "published": "2026-09-30T14:00:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T14:01:07.504916+00:00"
-    },
-    {
-      "id": "0bde18b798feacdb",
-      "source": "Ekonomim",
-      "title": "Rusya dizel ihracat yasağını uzattı",
-      "summary": "Rus hükümeti dizel, gemi yakıtı ve gaz yağı ihracatına yönelik yasağı 31 Ekim’e kadar uzattı.",
-      "link": "https://www.ekonomim.com/kuresel-ekonomi/rusya-dizel-ihracat-yasagini-uzatti-haberi-921726",
-      "published": "2026-09-30T14:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T14:05:42.025852+00:00"
-    },
-    {
-      "id": "18f98abe0560eb9d",
-      "source": "Cumhuriyet",
-      "title": "Kiğı'da ayı katliamı: Vurulmuş halde ölü bulundular",
-      "summary": "Bingöl'ün Kiğı ilçesinde çöplükte 3 ayı silahla vurulmuş halde ölü bulundu. Başlarında ve sırtlarında kurşun izleri bulunan ayıların katledilmesiyle ilgili yetkililerden araştırma talep edildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/kigi-da-ayi-katliami-vurulmus-halde-olu-bulundular-2542507",
-      "published": "2026-09-30T14:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T14:01:00.018300+00:00"
-    },
-    {
-      "id": "b96f6252e1ba043f",
-      "source": "Star",
-      "title": "Bakan Işıkhan'dan ilave istihdam vurgusu: İşsizlik oranı 7,6'ya inecek",
-      "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Hedefimiz, 2027-2029 döneminde ülkemizde yaklaşık 2,1 milyon ilave istihdam oluşturmak ve işsizlik oranını kademeli olarak düşürerek 2029 yılında yüzde 7,6'ya indirmek\" dedi.",
-      "link": "https://www.star.com.tr/ekonomi/bakan-isikhandan-ilave-istihdam-vurgusu-issizlik-orani-76ya-inecek-haber-2043565/",
-      "published": "2026-09-30T14:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T14:01:04.606759+00:00"
-    },
-    {
-      "id": "fd301edd399c9608",
-      "source": "Webrazzi",
-      "title": "Efficient Computer, 650 milyon dolar değerlemeyle 97 milyon dolar yatırım aldı",
-      "summary": "Enerji verimli işlemciler geliştiren Efficient Computer, Seri B yatırım turunda 97 milyon dolar yatırım aldı. TQ Ventures liderliğindeki tur, şirketin değerlemesini 650 milyon dolara, bugüne kadar ald...",
-      "link": "https://webrazzi.com/2026/09/30/efficient-computer-650-milyon-dolar-degerlemeyle-97-milyon-dolar-yatirim-aldi/",
-      "published": "2026-09-30T14:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T14:01:16.115050+00:00"
-    },
-    {
-      "id": "36787fc47dae0ca4",
-      "source": "Yeniçağ",
-      "title": "Jandarma öğrencileri güvenli internet ve siber risklere karşı bilgilendirdi",
-      "summary": "Bilecik İl Jandarma Komutanlığı ekipleri tarafından okullarda öğrencilere yönelik güvenlik ve farkındalık eğitimleri gerçekleştirildi.",
-      "link": "https://www.yenicaggazetesi.com/jandarma-ogrencileri-guvenli-internet-ve-siber-risklere-karsi-bilgilendirdi-1077086h.htm",
-      "published": "2026-09-30T13:59:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T14:01:06.082180+00:00"
     }
   ]
 }

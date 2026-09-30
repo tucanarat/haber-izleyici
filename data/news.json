@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-09-30T03:55:54.161265+00:00",
+  "last_updated": "2026-09-30T04:01:16.671133+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 532,
+  "new_items_this_run": 531,
   "items": [
+    {
+      "id": "c63318923742f6bc",
+      "source": "Akşam",
+      "title": "Ali Hürol hayatını kaybetti! Devlet Tiyatrolarından taziye mesajı geldi",
+      "summary": "Ali Hürol 76 yaşında hayatını kaybetti. Devlet Tiyatroları (DT) Genel Müdürlüğü, Ali Hürol için bir taziye mesajı yayımladı.",
+      "link": "https://www.aksam.com.tr/venus/ali-hurol-hayatini-kaybetti-devlet-tiyatrolarindan-taziye-mesaji-geldi/haber-1702375",
+      "published": "2026-09-30T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T04:00:57.394884+00:00"
+    },
+    {
+      "id": "1580df046bf082bf",
+      "source": "Yeni Akit",
+      "title": "İmamoğlu davasında 8 milyon dolarlık çarpıcı beyan: “Çaresizlikten verdik”",
+      "summary": "İmamoğlu’nun da sanıkları arasında bulunduğu davanın 89. duruşmasında Medicana Hastaneler Grubu’ndan Hüseyin Bozkurt ile Mehmet Fatih Bozkurt’un Şişli’deki hastane projesinin izin sürecine ilişkin anlatımları gündem oldu. Mehmet Fatih Bozkurt, 4 milyon doların Şişli Belediyesi’ne bağış olarak yatırıldığını, 4 milyon doların ise Adem Altıntaş’a elden verildiğini söyledi. Hüseyin Bozkurt ise söz kon",
+      "link": "https://www.yeniakit.com.tr/haber/imamoglu-davasinda-8-milyon-dolarlik-carpici-beyan-caresizlikten-verdik-2025560.html",
+      "published": "2026-09-30T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T04:00:58.810091+00:00"
+    },
+    {
+      "id": "8d2aad551f69be81",
+      "source": "Gazete Pencere",
+      "title": "Kazanma sanatı mı, tiyatro mu?",
+      "summary": "Kazanma sanatı mı, tiyatro mu? Boray Acar yazdı",
+      "link": "https://www.gazetepencere.com/yazarlar/kazanma-sanati-mi-tiyatro-mu-717212h",
+      "published": "2026-09-30T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T04:01:01.736056+00:00"
+    },
+    {
+      "id": "d514d9cd46894bf0",
+      "source": "OdaTV",
+      "title": "Türk kitaplarına yapay zeka kıskacı",
+      "summary": "Batılı yapay zeka şirketleri, dil modellerini eğitmek için Türk yayınevlerine kitap başına 100-200 euro teklif etmeye başladı. Yasal boşluklara dikkat çeken yayıncılar, telif haklarının korunması için acil mevzuat güncellemesi çağrısı yapıyor.",
+      "link": "https://www.odatv.com/kultur-sanat/turk-kitaplarina-yapay-zeka-kiskaci-120164517",
+      "published": "2026-09-30T03:58:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T04:01:02.022250+00:00"
+    },
     {
       "id": "ce523015aca308a6",
       "source": "Halk TV",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T20:55:40.444763+00:00"
-    },
-    {
-      "id": "8f99e679b6771d92",
-      "source": "Habertürk",
-      "title": "\"Yine terk ettin beni\"",
-      "summary": "SHOW TV'nin sevilen dizisi 'Muhtemel Aşk'ın yeni bölümünden ikinci tanıtım yayınlandı",
-      "link": "https://www.haberturk.com/magazin/muhtemel-ask-tan-yeni-tanitim-3916013",
-      "published": "2026-09-29T20:54:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T21:00:55.156873+00:00"
-    },
-    {
-      "id": "b5401df362782af2",
-      "source": "Star",
-      "title": "Katil İsrail'in Gazze'ye saldırıları sürüyor! 8 Filistinli hayatını kaybetti",
-      "summary": "İsrail ordusunun, Gazze Şeridi'nin farklı bölgelerine düzenlediği saldırılarda 8 Filistinli yaşamını yitirdi, aralarında çocukların da bulunduğu çok sayıda kişi yaralandı.",
-      "link": "https://www.star.com.tr/dunya/katil-israilin-gazzeye-saldirilari-suruyor-8-filistinli-hayatini-kaybetti-haber-2043416/",
-      "published": "2026-09-29T20:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:55:38.723834+00:00"
-    },
-    {
-      "id": "52139107f1e632e0",
-      "source": "Yeni Şafak",
-      "title": "CHP’de peş peşe istifalar: İstanbul'da altı meclis üyesi AK Parti'ye geçti",
-      "summary": "CHP’de son dönemde yaşanan parti değişimlerine bir yenisi daha eklendi. İstanbul Büyükşehir Belediyesi ve Ataşehir Belediyesi’nin CHP’li meclis üyesi Oğuz Sarul ile birlikte beş CHP’li meclis üyesi daha AK Parti’ye katıldı.",
-      "link": "https://www.yenisafak.com/gundem/chpde-pes-pese-istifalar-istanbulda-alti-meclis-uyesi-ak-partiye-gecti-4860138",
-      "published": "2026-09-29T20:53:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:55:38.263814+00:00"
-    },
-    {
-      "id": "b16b0b7527b710c7",
-      "source": "Serbestiyet",
-      "title": "“Yönettiği Borsa’yı nasıl denetleyecek” diye eleştirilmişti: Erdoğan konuştu, DDK Başkanı Borsa İstanbul’dan ayrıldı",
-      "summary": "Devlet Denetleme Kurulu Başkanı Salih Tanrıkulu’nun adı, Cumhurbaşkanı Erdoğan’ın fonlar için Devlet Denetleme Kurulu’nu görevlendirdiğini açıklamasından sonra Borsa İstanbul yönetim kurulu listesinden çıkarıldı. “Yönettiği Borsa’yı nasıl denetleyecek” diye eleştirilmişti: Erdoğan konuştu, DDK Başkanı Borsa İstanbul&#8217;dan ayrıldı yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/featured/yonettigi-borsayi-nasil-denetleyecek-diye-elestiriliyordu-erdogan-konustu-ddk-baskani-borsa-istanbul-yonetiminden-sessizce-ayrildi-249902/",
-      "published": "2026-09-29T20:53:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T21:01:08.974687+00:00"
     }
   ]
 }

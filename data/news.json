@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T22:50:59.987154+00:00",
+  "last_updated": "2026-09-30T22:55:49.959610+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,39 @@
   "total_items": 500,
   "new_items_this_run": 530,
   "items": [
+    {
+      "id": "0e40653c365f577f",
+      "source": "Habertürk",
+      "title": "Dizel ihracat yasağını değerlendiriyor",
+      "summary": "ABD Başkanı Donald Trump, dizel ihracatının yasaklanması seçeneğini değerlendirdiğini ancak bunun benzin fiyatları üzerinde olumsuz etkisinin olabileceğini belirtti.",
+      "link": "https://www.haberturk.com/dunya/dizel-ihracat-yasagini-degerlendiriyor-3916326",
+      "published": "2026-09-30T22:52:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T22:55:27.415207+00:00"
+    },
+    {
+      "id": "f53ce86427d400ca",
+      "source": "Türkiye Gazetesi",
+      "title": "ŞOVU ELİNDE PATLADI!",
+      "summary": "Slovenya Başbakanı Janez Janşa, parlamentoda Gazze'deki soykırımı aklamaya ve İsrail'e desteğini savunmaya çalışırken skandal bir manipülasyona imza attı. Elindeki fotoğrafı \"Sudan'da katledilen Hristiyanlar\" diye sunan Janşa'nın gösterdiği karenin, aslında Gazze'de çekildiği ortaya çıktı. Gazze'deki insani dramı istemeden teyit eden Başbakana, muhalefet \"İsrail'in taşeronu\" deyip özür dilemeye ça",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/gazzeyi-yok-saymaya-calisti-kendi-gosterdigi-fotografla-rezil-oldu-israil-taseronu-ja-1819767",
+      "published": "2026-09-30T22:52:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T22:55:31.392317+00:00"
+    },
+    {
+      "id": "55324efae440a0de",
+      "source": "Ekonomim",
+      "title": "Trump: Dizel ihracatını yasaklama seçeneğini değerlendiriyoruz",
+      "summary": "ABD Başkanı Donald Trump, dizel ihracatının yasaklanması seçeneğini değerlendirdiklerini ancak bunun benzin fiyatları üzerinde olumsuz etkisi olabileceğini belirtti.",
+      "link": "https://www.ekonomim.com/ekonomi/trump-dizel-ihracatini-yasaklama-secenegini-degerlendiriyoruz-haberi-921811",
+      "published": "2026-09-30T22:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T22:55:42.460767+00:00"
+    },
     {
       "id": "4e7c0e8c252c45c8",
       "source": "Akşam",
@@ -39,6 +72,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T22:50:50.668728+00:00"
+    },
+    {
+      "id": "724ba64e559e8d69",
+      "source": "Habertürk",
+      "title": "Balkondan düşen yaşlı kadın öldü",
+      "summary": "Erzincan'da 4. kattaki evinin balkonundan düşerek ağır yaralanan yaşlı kadın, kaldırıldığı hastanede hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/erzincan-da-balkondan-dusen-yasli-kadin-oldu-3916325",
+      "published": "2026-09-30T22:45:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T22:55:27.415237+00:00"
     },
     {
       "id": "a2dd6d2c67875f83",
@@ -4012,6 +4056,17 @@
       "fetched_at": "2026-09-30T20:15:42.108842+00:00"
     },
     {
+      "id": "e9be4682f30a432e",
+      "source": "Habertürk",
+      "title": "Nil Özalp gözaltına alındı",
+      "summary": "Borsa manipülasyonu soruşturması kapsamında şarkıcı Nil Özalp gözaltına alındı, evinde arama yapılıyor",
+      "link": "https://www.haberturk.com/gundem/son-dakika-nil-ozalp-gozaltina-alindi-3916300",
+      "published": "2026-09-30T20:11:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T22:55:27.415815+00:00"
+    },
+    {
       "id": "0ee304afb41c8ee5",
       "source": "Cumhuriyet",
       "title": "Suriye'de gaz hattında patlama! 3 elektrik santrali devre dışı kaldı",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T19:26:07.429347+00:00"
-    },
-    {
-      "id": "635def4684d0a3b7",
-      "source": "Star",
-      "title": "Borsa manipülasyonu soruşturması! Şarkıcı Nil Özalp gözaltına alındı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından borsa manipülasyonu soruşturması kapsamında şarkıcı Nil Özalp gözaltına alındı.",
-      "link": "https://www.star.com.tr/guncel/borsa-manipulasyonu-sorusturmasi-sarkici-nil-ozalp-gozaltina-alindi-haber-2043621/",
-      "published": "2026-09-30T19:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:20:40.126841+00:00"
-    },
-    {
-      "id": "d9cec1c136e80a8b",
-      "source": "Gazete Pencere",
-      "title": "Şarkıcı Nil Özalp, 'borsa manipülasyonu' soruşturmasında gözaltına alındı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından borsa manipülasyonu soruşturması kapsamında şarkıcı Nil Özalp gözaltına alındı.",
-      "link": "https://www.gazetepencere.com/gundem/sarkici-nil-ozalp-borsa-manipulasyonu-sorusturmasinda-gozaltina-alindi-717449h",
-      "published": "2026-09-30T19:19:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:20:43.382652+00:00"
-    },
-    {
-      "id": "741d675d918d62f1",
-      "source": "Halk TV",
-      "title": "Fenerbahçe'ye tek gol yetti: Avrupa'da son 16 turuna kaldı",
-      "summary": "Minsk&#039;i tek golle mağlup eden Fenerbahçe arsaVev toplam skorda 5-1 öne geçti ve adını UEFA Kadınlar Avrupa Kupası&#039;nda son 16 turuna yazdırdı.",
-      "link": "https://halktv.com.tr/spor/fenerbahceye-tek-gol-yetti-avrupada-son-16-turuna-kaldi-1058628h",
-      "published": "2026-09-30T19:19:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:20:43.977662+00:00"
-    },
-    {
-      "id": "2953c69b46626de9",
-      "source": "Diken",
-      "title": "Cemil Tugay külliyeye gitti",
-      "summary": "Cemil Tugay külliyeye gitti 30.09.2026 Diken İzmir Büyükşehir Belediye Başkanı Cemil Tugay, Cumhurbaşkanı Tayyip Erdoğan'la görüşmek için külliyeye gitti. The post Cemil Tugay külliyeye gitti appeared first on #site_linkat 30.09.2026 .",
-      "link": "https://www.diken.com.tr/cemil-tugay-kulliyeye-gitti/?utm_source=rss&utm_medium=rss&utm_campaign=cemil-tugay-kulliyeye-gitti",
-      "published": "2026-09-30T19:19:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:20:44.129216+00:00"
-    },
-    {
-      "id": "ae10f9ee973e9188",
-      "source": "Karar",
-      "title": "Türkiye'de sadece Manisa seçildi: Belediye otobüsleri uzaydan santimetre hassasiyetiyle takip edilecek",
-      "summary": "Avrupa Birliği Uzay Programı Ajansı desteğiyle hayata geçen JULIA Projesi, Türkiye'de yalnızca Manisa'da uygulanıyor. Belediye otobüslerine yerleştirilen Galileo uydu donanımları, araçların santimetre düzeyinde takibini mümkün kılarken durak bekleme sürelerindeki belirsizliği bitiriyor. Proje tümüyle hibe fonuyla yürüyor.",
-      "link": "https://www.karar.com/sehir-haberleri/turkiyede-sadece-manisa-secildi-belediye-otobusleri-uzaydan-santimetre-2075415",
-      "published": "2026-09-30T19:19:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:20:40.854969+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T02:50:53.412460+00:00",
+  "last_updated": "2026-09-30T02:55:53.985249+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 538,
   "items": [
+    {
+      "id": "b482257610c98bae",
+      "source": "Halk TV",
+      "title": "ABD-İran temasları tıkandı: İki taraf da taviz vermiyor",
+      "summary": "Katar&#039;ın ABD ile İran arasında diplomatik bir atılım sağlama çabaları çok az ilerleme kaydetti; taraflardan hiçbiri taviz vermeye yanaşmıyor.",
+      "link": "https://halktv.com.tr/dunya/abd-iran-temaslari-tikandi-iki-taraf-da-taviz-vermiyor-1058413h",
+      "published": "2026-09-30T02:51:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T02:55:41.726507+00:00"
+    },
     {
       "id": "04808c8f106dfd38",
       "source": "Finans Gündem",
@@ -501,6 +512,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T01:05:44.472192+00:00"
+    },
+    {
+      "id": "ad8879627f55df14",
+      "source": "Yeni Şafak",
+      "title": "Yeni Parti’ye 30 gün süre",
+      "summary": "",
+      "link": "https://www.yenisafak.com/gundem/yeni-partiye-30-gun-sure-4860175",
+      "published": "2026-09-30T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T02:55:32.684710+00:00"
+    },
+    {
+      "id": "0c9125bebabed779",
+      "source": "Yeni Şafak",
+      "title": "Milletimiz CHP’ye sahip çıkacak",
+      "summary": "",
+      "link": "https://www.yenisafak.com/gundem/milletimiz-chpye-sahip-cikacak-4860176",
+      "published": "2026-09-30T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-09-30T02:55:32.684753+00:00"
     },
     {
       "id": "6b6f65ba8e530e5a",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-29T21:01:02.020649+00:00"
-    },
-    {
-      "id": "ec48cf5bb86619ab",
-      "source": "Akşam",
-      "title": "Akşam Gazetesi yazarı Hüseyin Besli yazdı: 'Rabbani'lerden Süleymancılar'a (III)",
-      "summary": "Akşam Gazetesi yazarı Hüseyin Besli, Süleymancılar cemaatinin cemaat-para ilişkisini, yapılan operasyonları ve geçmişten günümüze serüvenlerini yazdı. Besli, son dönemde şüpheli ölümüyle sıkça gündeme gelen Ahmet Denizolgun'un cemaat içindeki konumuna dikkat çekti.",
-      "link": "https://www.aksam.com.tr/guncel/aksam-gazetesi-yazari-huseyin-besli-yazdi-rabbanilerden-suleymancilara-iii/haber-1702355",
-      "published": "2026-09-29T20:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T21:01:02.020683+00:00"
-    },
-    {
-      "id": "138aa20b95ec3e59",
-      "source": "Star",
-      "title": "UEFA'dan kulüplere dev ödeme! 611 takım para alacak",
-      "summary": "UEFA, 2024-2025 sezonunda milli takımlara futbolcu gönderen 611 kulübe toplam 31,5 milyon avro ödeme yapacak.",
-      "link": "https://www.star.com.tr/spor/uefadan-kuluplere-dev-odeme-611-takim-para-alacak-haber-2043415/",
-      "published": "2026-09-29T20:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:35:48.201229+00:00"
-    },
-    {
-      "id": "61823a96cc0b0fbc",
-      "source": "Star",
-      "title": "Yıl sonuna kadar teslimatı tamamlanacak: 3 adet F-16 satışı resmileşti",
-      "summary": "Ukrayna Devlet Başkanı Vladimir Zelenski, \"Bu yılın sonuna kadar üç adet F-16 savaş uçağının tarafımıza teslim edilmesi konusunda Belçika ile önemli bir anlaşmaya vardık\" dedi.",
-      "link": "https://www.star.com.tr/dunya/yil-sonuna-kadar-teslimati-tamamlanacak-3-adet-f-16-satisi-resmilesti-haber-2043414/",
-      "published": "2026-09-29T20:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-29T20:35:48.201258+00:00"
     }
   ]
 }

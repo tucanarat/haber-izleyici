@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-01T00:50:57.979095+00:00",
+  "last_updated": "2026-10-01T00:55:45.135679+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 533,
+  "new_items_this_run": 531,
   "items": [
+    {
+      "id": "8eb9f6ab449113c3",
+      "source": "Halk TV",
+      "title": "16 yaşındaki çocuk traktör yıkarken yaşamını yitirdi",
+      "summary": "Sinop&#039;un Boyabat ilçesinde babasına ait traktörü yıkadığı sırada elektrik akımına kapılan 16 yaşındaki genç hayatını kaybetti.",
+      "link": "https://halktv.com.tr/turkiye/16-yasindaki-cocuk-traktor-yikarken-yasamini-yitirdi-1058659h",
+      "published": "2026-10-01T00:52:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T00:55:33.776427+00:00"
+    },
     {
       "id": "458c67ba0f5954c1",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T19:56:06.718689+00:00"
-    },
-    {
-      "id": "79da5d2c77d3904f",
-      "source": "OdaTV",
-      "title": "Adalet Bakanlığı'ndan Akın Gürlek'in fotoğrafına açıklama",
-      "summary": "Adalet Bakanlığı, Bakan Akın Gürlek&#039;in New York&#039;taki Türkevi programı sırasında hakkında yakalama kararı bulunan B.Ç. ile aynı fotoğraf karesinde yer almasına ilişkin açıklama yaptı.",
-      "link": "https://www.odatv.com/guncel/adalet-bakanligindan-akin-gurlekin-fotografina-aciklama-120164649",
-      "published": "2026-09-30T19:51:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:55:39.832513+00:00"
     }
   ]
 }

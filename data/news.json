@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-01T00:05:49.457115+00:00",
+  "last_updated": "2026-10-01T00:10:56.644082+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 524,
+  "new_items_this_run": 526,
   "items": [
+    {
+      "id": "7eb33d89423d48d9",
+      "source": "Türkiye Gazetesi",
+      "title": "Galatasaray teknik heyetinden ilginç karar: Dövüşmek yasak!",
+      "summary": "Galatasaray’da teknik heyet, sezon boyunca sakatlık riskini azaltmak için futbolculara kick boks yasağı getirdi. Oyuncuların idman dışındaki ekstra çalışmalarını da teknik ekip ve sağlık kuruluna bildirmesi istendi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/galatasaray-teknik-heyetinden-ilginc-karar-dovusmek-yasak-1819753",
+      "published": "2026-10-01T00:07:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T00:10:37.069524+00:00"
+    },
+    {
+      "id": "e4083bf008930807",
+      "source": "Türkiye Gazetesi",
+      "title": "G.Saray teknik heyetinden ilginç karar: Dövüşmek yasak",
+      "summary": "Galatasaray’da teknik heyet, sezon boyunca sakatlık riskini azaltmak için futbolculara kick boks yasağı getirdi. Oyuncuların idman dışındaki ekstra çalışmalarını da teknik ekip ve sağlık kuruluna bildirmesi istendi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/galatasaray-teknik-heyetinden-ilginc-karar-dovusmek-yasak-1819753",
+      "published": "2026-10-01T00:07:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T00:10:37.069564+00:00"
+    },
     {
       "id": "17278dece029b167",
       "source": "Türkiye Gazetesi",
@@ -72,6 +94,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T00:05:37.180441+00:00"
+    },
+    {
+      "id": "b105156170518452",
+      "source": "Ekonomim",
+      "title": "SPK açıkladı: İşte tasfiye edilen fonlarda ara ödeme planı...",
+      "summary": "Sermaye Piyasası Kurulu (SPK), Tera Yatırım Menkul Değerler&#039;in sermaye piyasası faaliyetlerini geçici olarak durdurdu. Kurul ayrıca tasfiye sürecindeki fonlarda mutabakatı tamamlanan yatırımcılara 1 milyon TL&#039;ye kadar ara ödeme yapılmasına karar verdi.",
+      "link": "https://www.ekonomim.com/ekonomi/spk-acikladi-iste-tasfiye-edilen-fonlarda-ara-odeme-plani-haberi-921812",
+      "published": "2026-09-30T23:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T00:10:47.522494+00:00"
     },
     {
       "id": "7907353f0bbc2ef4",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T20:15:47.748010+00:00"
-    },
-    {
-      "id": "f76cc70a6f614f03",
-      "source": "Ekonomim",
-      "title": "Fon soruşturması: Şarkıcı Nil Özalp gözaltına alındı",
-      "summary": "Sermaye piyasası işlemlerine ilişkin yürütülen soruşturmada, şarkıcı Nil Özalp gözaltına alındı.",
-      "link": "https://www.ekonomim.com/gundem/fon-sorusturmasi-sarkici-nil-ozalp-gozaltina-alindi-haberi-921771",
-      "published": "2026-09-30T19:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:50:46.323507+00:00"
-    },
-    {
-      "id": "daf4781d843256cd",
-      "source": "Türkiye Gazetesi",
-      "title": "Trump duyurdu: ABD 23 yıl sonra Irak'tan çekiliyor",
-      "summary": "ABD Başkanı Donald Trump, ABD'nin Irak'tan 23 yıl sonra çekilmesine ilişkin açıklamalarda bulundu. Trump, Irak'taki savaşın sona erdiğini savunurken İran'la devam eden savaş için de \"Şu veya bu şekilde hızlıca sona erdireceğiz\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/23-yillik-savas-sona-eriyor-trump-iraktan-defolup-gidiyoruz-1819728",
-      "published": "2026-09-30T19:44:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:50:35.027487+00:00"
-    },
-    {
-      "id": "63854914a3476231",
-      "source": "Yeni Şafak",
-      "title": "Kuşadası’nda uyuşturucu operasyonu: 12 paket esrar ele geçirildi",
-      "summary": "Aydın’ın Kuşadası ilçesinde uyuşturucu satışı yaptığı değerlendirilen şüphelinin adresine operasyon düzenlendi. Baskında satışa hazır halde paketlenmiş 14,90 gram esrar ele geçirilirken gözaltına alınan S.K. çıkarıldığı mahkemece tutuklandı.",
-      "link": "https://www.yenisafak.com/gundem/kusadasinda-uyusturucu-operasyonu-12-paket-esrar-ele-gecirildi-4860454",
-      "published": "2026-09-30T19:44:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T19:45:38.743357+00:00"
     }
   ]
 }

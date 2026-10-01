@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-01T02:50:56.376469+00:00",
+  "last_updated": "2026-10-01T02:55:46.906881+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 533,
+  "new_items_this_run": 532,
   "items": [
+    {
+      "id": "1f060deff397af22",
+      "source": "Finans Gündem",
+      "title": "AJet taşkınlık çıkaran yolcuyu kara listeye alarak uçuşlarından menetti",
+      "summary": "AJet, bugün icra edilen Londra Stansted-Sabiha Gökçen seferinde taşkınlık çıkaran yabancı uyruklu yolcunun kara listeye alınarak uçuşlardan menedildiğini duyurdu.",
+      "link": "https://www.finansingundemi.com/haber/ajet-taskinlik-cikaran-yolcuyu-kara-listeye-alarak-ucuslarindan-menetti/1910085",
+      "published": "2026-10-01T02:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T02:55:41.772076+00:00"
+    },
     {
       "id": "7136c71320657709",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T20:50:39.131831+00:00"
-    },
-    {
-      "id": "6d79dd0f6c17e9c8",
-      "source": "Halk TV",
-      "title": "TFF açıkladı: Son durumu belli oldu",
-      "summary": "A Milli Futbol Takımımız, Belçika maçının hazırlıklarını sürdürdü. Önceki antrenmana katılamayan Emirhan Topçu takımla birlikte çalıştı.",
-      "link": "https://halktv.com.tr/spor/tff-acikladi-son-durumu-belli-oldu-1058641h",
-      "published": "2026-09-30T20:36:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T20:40:39.068295+00:00"
     }
   ]
 }

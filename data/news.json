@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-01T23:40:51.174206+00:00",
+  "last_updated": "2026-10-01T23:46:00.424098+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 517,
+  "new_items_this_run": 486,
   "items": [
+    {
+      "id": "319718ab3c69c98b",
+      "source": "BBC News Türkçe",
+      "title": "Türkiye, Yunanistan ve Kıbrıs Cumhuriyeti'nin Doğu Akdeniz'deki 'kablo' projesine neden tepkili?",
+      "summary": "Ankara, Yunanistan’ın Girit adasıyla Kıbrıs Cumhuriyeti arasına döşenecek denizaltı elektrik kablo projesinin yaşama geçirilmesinden önce Türkiye’ye bilgi verilmesini istedi. Milli Savunma Bakanlığı, sürecin önceden koordine edilmesi gerektiğini vurguladı. Türkiye, \"Aksi takdirde projeye izin vermeyiz\" diyor.",
+      "link": "https://www.bbc.com/turkce/articles/cm78081vxg3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01T23:40:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T23:45:59.646633+00:00"
+    },
     {
       "id": "25a63fb71a41bdf6",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T19:40:48.661233+00:00"
-    },
-    {
-      "id": "b94cead149678c1b",
-      "source": "Karar",
-      "title": "Süper Lig hakemi Yasin Kol gözaltına alındı",
-      "summary": "Süper Lig hakemi Yasin Kol ile Süper Lig yardımcı hakemi Göktuğ Hazar Erel gözaltına alındı. Yasin Kol’un, Trabzonspor ile İrlanda ekibi Drogheda United arasında Papara Park’ta oynanan dostluk maçını yönettikten sonra gözaltına alındığı belirtildi.",
-      "link": "https://www.karar.com/spor-haberleri/super-lig-hakemi-yasin-kol-gozaltina-alindi-2075664",
-      "published": "2026-10-01T19:35:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:35:36.389204+00:00"
     }
   ]
 }

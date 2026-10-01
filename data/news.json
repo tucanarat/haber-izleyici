@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T22:25:47.983996+00:00",
+  "last_updated": "2026-10-01T22:30:58.607678+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 525,
   "items": [
+    {
+      "id": "b489fa9ab70207b9",
+      "source": "OdaTV",
+      "title": "Antalya'da faciadan dönüldü",
+      "summary": "Antalya&#039;nın Manavgat ilçesinde ışık ihlali sonucu meydana gelen zincirleme kazada 2&#039;si Alman turist olmak üzere 3 kişi yaralandı.",
+      "link": "https://www.odatv.com/guncel/antalyada-faciadan-donuldu-120164806",
+      "published": "2026-10-01T22:26:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:30:47.859211+00:00"
+    },
+    {
+      "id": "c66da1b3d304feeb",
+      "source": "OdaTV",
+      "title": "Minibüsün kapısı otomobilde asılı kaldı",
+      "summary": "Mersin&#039;de meydana gelen kazada minibüsün kapısı, otomobilde asılı kaldı.",
+      "link": "https://www.odatv.com/guncel/minibusun-kapisi-otomobilde-asili-kaldi-120164805",
+      "published": "2026-10-01T22:24:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:30:47.859243+00:00"
+    },
     {
       "id": "ed11b068425d5ff8",
       "source": "Akşam",
@@ -118,6 +140,17 @@
       "fetched_at": "2026-10-01T22:25:25.476581+00:00"
     },
     {
+      "id": "3e6924141d2e9786",
+      "source": "Ekonomim",
+      "title": "Bessent küresel dizel arzı için Avrupa'ya çağrı yaptı",
+      "summary": "ABD Hazine Bakanı Scott Bessent, küresel dizel piyasasındaki aksaklıkların giderilmesi amacıyla Avrupalı müttefiklerine taahhütlerini hızlandırma ve acil arz sağlama çağrısında bulundu.",
+      "link": "https://www.ekonomim.com/ekonomi/bessent-kuresel-dizel-arzi-icin-avrupaya-cagri-yapti-haberi-922056",
+      "published": "2026-10-01T22:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:30:52.293816+00:00"
+    },
+    {
       "id": "5e6e19a47e1a2ccb",
       "source": "Finans Gündem",
       "title": "Fon soruşturmasında 4 kişi tutuklandı: Tutuklu sayısı 65’e yükseldi",
@@ -149,6 +182,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T22:20:40.453012+00:00"
+    },
+    {
+      "id": "b176a13693878758",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "A Milli Futbol Takımı Teknik Direktörü Montella: Oyuncularımıza bazen haksız eleştiriler olduğuna inanıyorum",
+      "summary": "A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella, milli futbolculara haksız eleştiriler yapıldığını söyledi.",
+      "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-montella-oyuncularimiza-bazen-haksiz-elestiriler-olduguna-inaniyorum/4075593",
+      "published": "2026-10-01T22:12:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:30:40.338268+00:00"
     },
     {
       "id": "e48c08fb6b190c63",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T19:05:31.844715+00:00"
-    },
-    {
-      "id": "38b862e9527af1e9",
-      "source": "Euronews Türkçe",
-      "title": "Yunanistan’dan göç krizlerinde sığınma hakkının askıya alınması önerisi",
-      "summary": "Yunanistan, düzensiz göçmenlerin kitlesel giriş yaptığı durumlarda Avrupa Birliği’nde sığınma başvurusunda bulunma hakkının geçici olarak askıya alınmasını önerdi.",
-      "link": "https://tr.euronews.com/2026/10/01/yunanistandan-goc-krizlerinde-siginma-hakkinin-askiya-alinmasi-onerisi",
-      "published": "2026-10-01T19:02:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:05:50.394840+00:00"
-    },
-    {
-      "id": "98d64ecb5169076d",
-      "source": "Aydınlık",
-      "title": "Kahramanmaraş’ta kazı alanındaki kayma nedeniyle 2 bina boşaltıldı",
-      "summary": "Kahramanmaraş’ın Dulkadiroğlu ilçesinde temel kazısı sırasında meydana gelen toprak kayması, çevredeki binalar için yıkılma riski oluşturdu. Kontrollerin ardından 2 bina boşaltılırken belediye temel alanını toprakla doldurmaya başladı.",
-      "link": "https://www.aydinlik.com.tr/haber/kahramanmarasta-toprak-kaymasi-2-bina-bosaltildi-592545",
-      "published": "2026-10-01T19:01:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:05:38.100914+00:00"
-    },
-    {
-      "id": "ba1382fe5bd031c2",
-      "source": "Akşam",
-      "title": "Fon krizi ve casusluk faaliyeti",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/fon-krizi-ve-casusluk-faaliyeti/haber-1702950",
-      "published": "2026-10-01T19:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T21:00:53.880455+00:00"
-    },
-    {
-      "id": "c43e502d86b50f2e",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Putin, Rusya'ya doğrudan saldırıda tüm silahların kullanılmasının gündeme geleceğini belirtti",
-      "summary": "Rusya Devlet Başkanı Putin, Avrupa'ya saldırmayı planlamadıklarını belirterek, \"Rusya'ya Kaliningrad dahil doğrudan saldırı söz konusu olursa, sahip olduğumuz tüm silahların kullanılması meselesi kaçınılmaz olarak ve derhal gündeme gelecektir.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/dunya/putin-rusyaya-dogrudan-saldirida-tum-silahlarin-kullanilmasinin-gundeme-gelecegini-belirtti/4075475",
-      "published": "2026-10-01T19:00:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:10:37.332533+00:00"
     }
   ]
 }

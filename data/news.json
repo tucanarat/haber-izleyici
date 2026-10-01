@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-01T01:31:06.206683+00:00",
+  "last_updated": "2026-10-01T01:35:54.349609+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 537,
+  "new_items_this_run": 535,
   "items": [
     {
       "id": "df18c70adaa3e815",
@@ -710,6 +710,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T00:20:50.329109+00:00"
+    },
+    {
+      "id": "169cfa05545c42e7",
+      "source": "Bir Gün",
+      "title": "Erdoğan imzaladı: Atama kararları Resmi Gazete'de",
+      "summary": "AKP'li Cumhurbaşkanı Tayyip Erdoğan’ın imzasıyla Resmi Gazete’de yayımlanan kararlarla Siber Güvenlik Başkanlığı’nda iki başkan yardımcısı, dört genel müdür ve bir hukuk müşaviri atandı; Kamu Yapay Zekâ Genel Müdürlüğüne ise Osman Gazi Güçlütürk görevlendirildi.",
+      "link": "https://www.birgun.net/haber/erdogan-imzaladi-atama-kararlari-resmi-gazete-de-737972",
+      "published": "2026-10-01T00:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T01:35:31.785694+00:00"
     },
     {
       "id": "d3c87eaf3ba8bca9",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T20:25:24.669287+00:00"
-    },
-    {
-      "id": "ddd1155334ddc055",
-      "source": "Yeni Şafak",
-      "title": "Bilecik'te otomobilin tıra çarpması sonucu beş kişi yaralandı",
-      "summary": "Bilecik'in Osmaneli ilçesinde otomobilin tıra çarpması sonucu beş kişi yaralandı.",
-      "link": "https://www.yenisafak.com/gundem/bilecikte-otomobilin-tira-carpmasi-sonucu-bes-kisi-yaralandi-4860462",
-      "published": "2026-09-30T20:18:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T20:20:44.141091+00:00"
     }
   ]
 }

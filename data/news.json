@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T01:15:58.451537+00:00",
+  "last_updated": "2026-10-01T01:20:54.750970+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 538,
   "items": [
+    {
+      "id": "0eaf51430cdd2532",
+      "source": "Habertürk",
+      "title": "Kamyonun çarptığı motosikletli genç öldü",
+      "summary": "Tekirdağ Çorlu'da kamyonun çarptığı motosikletin sürücüsü kaza yerinde hayatını kaybetti. Ekipler, kaçan kamyon sürücüsünün bulunması için çalışma başlattı",
+      "link": "https://www.haberturk.com/gundem/corlu-da-kamyonun-carptigi-motosikletli-genc-oldu-3916329",
+      "published": "2026-10-01T01:10:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T01:20:29.960041+00:00"
+    },
     {
       "id": "142bd3bc8704e5b2",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-09-30T20:20:43.281878+00:00"
-    },
-    {
-      "id": "f917316fe8f9d86a",
-      "source": "Karar",
-      "title": "Ronaldo milli takım kampından ayrıldı: Zehir zemberek mesaj paylaştı",
-      "summary": "Portekiz Milli Takımı’nın dünyaca ünlü kaptanı Ronaldo, UEFA Uluslar Ligi’ndeki Danimarka maçı öncesinde Kopenhag’daki milli takım kampından ayrıldı. Teknik Direktör Jesus’un basın toplantısı ve Portekiz Futbol Federasyonu Başkanı Pedro Proença ile yaptığı görüşmenin ardından resmî sosyal medya hesabından açıklama yayımlayan efsane yıldız, \"Her zaman kendimi adadığım milli takımdan ayrılmama neden",
-      "link": "https://www.karar.com/spor-haberleri/ronaldo-milli-takim-kampindan-ayrildi-zehir-zemberek-mesaj-paylasti-2075422",
-      "published": "2026-09-30T20:15:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-09-30T20:15:40.078535+00:00"
     }
   ]
 }

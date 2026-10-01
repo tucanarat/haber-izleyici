@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-10-01T22:20:54.508476+00:00",
+  "last_updated": "2026-10-01T22:25:47.983996+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 530,
+  "new_items_this_run": 525,
   "items": [
+    {
+      "id": "ed11b068425d5ff8",
+      "source": "Akşam",
+      "title": "Yasin Kol gözaltında",
+      "summary": "Hakemler soruşturması kapsamında aktif Süper Lig hakemi Yasin Kol ile Süper Lig yardımcı hakemlerinden Göktuğ Hazar Erel gözaltına alındı.",
+      "link": "https://www.aksam.com.tr/spor/yasin-kol-gozaltinda/haber-1702973",
+      "published": "2026-10-01T22:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:25:30.176668+00:00"
+    },
+    {
+      "id": "af36b409bdc17557",
+      "source": "Star",
+      "title": "UEFA Uluslar Ligi'nde üçüncü hafta 8 maçla başladı",
+      "summary": "UEFA Uluslar Ligi'nde üçüncü hafta, A, B ve D liglerinde oynanan 8 karşılaşmayla başladı. İşte gecenin sonuçları...",
+      "link": "https://www.star.com.tr/spor/uefa-uluslar-liginde-ucuncu-hafta-8-macla-basladi-haber-2043886/",
+      "published": "2026-10-01T22:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:25:31.139199+00:00"
+    },
+    {
+      "id": "98ce1fe76efb993c",
+      "source": "OdaTV",
+      "title": "CHP'den istifa eden Konyaaltı Belediye Başkanı Kotan'ın katıldığı meclis toplantısında kavga çıktı",
+      "summary": "Cumhuriyet Halk Partisi&#039;nin (CHP) ‘kesin ihraç&#039; talebiyle disipline sevk ettiği ve bu sabah partisinden istifa ettiğini açıklayan Konyaaltı Belediye Başkanı Cem Kotan&#039;ın katıldığı meclis toplantısında gergin anlar yaşandı.",
+      "link": "https://www.odatv.com/guncel/chpden-istifa-eden-konyaalti-belediye-baskani-cem-kotanin-katildigi-meclis-toplantisinda-kavga-cikti-120164804",
+      "published": "2026-10-01T22:20:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:25:34.049078+00:00"
+    },
     {
       "id": "1d2abce0626f45f8",
       "source": "Halk TV",
@@ -52,6 +85,17 @@
       "fetched_at": "2026-10-01T22:20:38.463958+00:00"
     },
     {
+      "id": "b017ef47f0a335d2",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "AB aday ülkelerine üyelik öncesi Komisyonda temsil imkanı gündemde",
+      "summary": "Avrupa Birliği (AB) Komisyonunun üyelik sürecinin son aşamasındaki aday ülkelerin, Birliğe resmen katılmadan önce Komisyon çalışmalarına daha fazla dahil edilmesini öngören yeni genişleme stratejisi üzerinde çalıştığı bildirildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/ab-aday-ulkelerine-uyelik-oncesi-komisyonda-temsil-imkani-gundemde/4075596",
+      "published": "2026-10-01T22:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:25:25.476543+00:00"
+    },
+    {
       "id": "d5d3ef001ce21814",
       "source": "Yeniçağ",
       "title": "Hürmüz Boğazı'nda petrol tankerine saldırı",
@@ -61,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T22:20:38.463982+00:00"
+    },
+    {
+      "id": "ac3a6452dee08fe2",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İran Devrim Muhafızlarından, ABD'nin Irak'taki işgalini sonlandırmasına \"tarihi bir zafer\" değerlendirmesi",
+      "summary": "İran Devrim Muhafızları Ordusu, ABD'nin 2003'te işgal ettiği Irak'tan 23 yıl sonra çekilerek bu ülkedeki askeri varlığını tamamen sonlandırmasını \"tarihi bir zafer\" olarak nitelendirdi.",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlarindan-abdnin-iraktaki-isgalini-sonlandirmasina-tarihi-bir-zafer-degerlendirmesi/4075595",
+      "published": "2026-10-01T22:16:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-01T22:25:25.476581+00:00"
     },
     {
       "id": "5e6e19a47e1a2ccb",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T19:10:37.332533+00:00"
-    },
-    {
-      "id": "3948db213cb89eb6",
-      "source": "Diken",
-      "title": "MB, KOBİ kredilerinde büyüme sınırını yüzde 5'e çıkardı",
-      "summary": "MB, KOBİ kredilerinde büyüme sınırını yüzde 5'e çıkardı 01.10.2026 Diken Merkez Bankası (MB), zorunlu karşılık uygulamasında yaptığı değişiklikler kapsamında Küçük ve orta büyüklükteki işletmelerin (KOBİ) kredileri için yüzde 4,5 olan büyüme sınırının yüzde 5’e yükseltildiğini duyurdu. The post MB, KOBİ kredilerinde büyüme sınırını yüzde 5'e çıkardı appeared first on #site_linkat 01.10.2026 .",
-      "link": "https://www.diken.com.tr/mb-kobi-kredilerinde-buyume-siniri-yuzde-5e-cikardi/?utm_source=rss&utm_medium=rss&utm_campaign=mb-kobi-kredilerinde-buyume-siniri-yuzde-5e-cikardi",
-      "published": "2026-10-01T19:00:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:05:39.111193+00:00"
-    },
-    {
-      "id": "6ee0d2484ca00dbe",
-      "source": "Diken",
-      "title": "MB, KOBİ kredilerinde büyüme sınırı yüzde 5'e çıkardı",
-      "summary": "MB, KOBİ kredilerinde büyüme sınırı yüzde 5'e çıkardı 01.10.2026 Diken Merkez Bankası (MB), zorunlu karşılık uygulamasında yaptığı değişiklikler kapsamında Küçük ve orta büyüklükteki işletmelerin (KOBİ) kredileri için yüzde 4,5 olan büyüme sınırının yüzde 5’e yükseltildiğini duyurdu. The post MB, KOBİ kredilerinde büyüme sınırı yüzde 5'e çıkardı appeared first on #site_linkat 01.10.2026 .",
-      "link": "https://www.diken.com.tr/mb-kobi-kredilerinde-buyume-siniri-yuzde-5e-cikardi/?utm_source=rss&utm_medium=rss&utm_campaign=mb-kobi-kredilerinde-buyume-siniri-yuzde-5e-cikardi",
-      "published": "2026-10-01T19:00:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:01:01.511850+00:00"
-    },
-    {
-      "id": "da35a62cd70ad291",
-      "source": "Habertürk",
-      "title": "Merkez Bankası’ndan KOBİ kredilerine yeni sınır",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası, makrofinansal istikrar ve bankaların likidite yönetimini desteklemek amacıyla zorunlu karşılık uygulamasında değişikliğe gitti. KOBİ kredilerinde yüzde 4,5 olan büyüme sınırı yüzde 5’e çıkarılırken Türk lirası zorunlu karşılıklarda bloke tesis oranları düşürüldü",
-      "link": "https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasindan-kobi-kredilerine-yeni-sinir-3916578",
-      "published": "2026-10-01T19:00:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T21:50:31.958517+00:00"
-    },
-    {
-      "id": "fd9409d684b4870e",
-      "source": "Halk TV",
-      "title": "Telefonunu çaldı, saniyeler içinde yakalandı! Kapkaç anı kamerada!",
-      "summary": "Taksim İstiklal Caddesi’nde arkadaşıyla sohbet eden kadının cep telefonunu kapkaçla çalan M.K. , devriye gezen polis ekipleri tarafından anında suçüstü yakalandı. Kapkaç ve yakalama anı güvenlik kameralarınca saniye saniye kaydedildi.",
-      "link": "https://halktv.com.tr/turkiye/telefonunu-caldi-saniyeler-icinde-yakalandi-kapkac-ani-kamerada-1058835h",
-      "published": "2026-10-01T19:00:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:01:01.296925+00:00"
-    },
-    {
-      "id": "030d106d462bbfb6",
-      "source": "Gazete Pencere",
-      "title": "Bahçeli, Demirtaş'ın tahliyesine ilişkin soruya yanıt verdi",
-      "summary": "MHP lideri Devlet Bahçeli, DEM Parti İmralı Heyeti üyelerine Selahattin Demirtaş'ı sordu ve selamını iletmelerini istedi. Bahçeli, Demirtaş'ın tahliyesine ilişkin soruya ise 'O kadar derine inemem' yanıtını verdi.",
-      "link": "https://www.gazetepencere.com/gundem/bahceli-demirtasin-tahliyesine-iliskin-soruya-yanit-verdi-717566h",
-      "published": "2026-10-01T19:00:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:01:00.885612+00:00"
     }
   ]
 }

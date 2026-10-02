@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-02T00:01:14.556817+00:00",
+  "last_updated": "2026-10-02T00:06:05.160810+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 489,
+  "new_items_this_run": 491,
   "items": [
+    {
+      "id": "136f3ca403ed7fdb",
+      "source": "Yeniçağ",
+      "title": "Eskişehir’de iki otomobilin çarpıştığı kaza kamerada: 7 yaralı",
+      "summary": "Eskişehir’de iki otomobilin çarpışması sonucu meydana gelen kazada 1’i çocuk 7 kişi yaralandı. Kaza anı bir işyerinin güvenlik kamerasına yansıdı.",
+      "link": "https://www.yenicaggazetesi.com/eskisehirde-iki-otomobilin-carpistigi-kaza-kamerada-7-yarali-1077560h.htm",
+      "published": "2026-10-02T00:01:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T00:05:47.825165+00:00"
+    },
+    {
+      "id": "b39cffbf0bdff3b6",
+      "source": "Evrensel",
+      "title": "MHK soruşturması: Görevli ve eski hakemler müşteki ve tanık olarak ifade verdi",
+      "summary": "İstanbul'da MHK soruşturma kapsamında aralarında Zorbay Küçük, Tugay Kaan Numanoğlu, Hüseyin Göçek, Mete Kalkavan, Süleyman Abay gibi hakemlerin olduğu çok sayıda görevli ve eski hakem, müşteki ve tanık olarak ifade verdi.",
+      "link": "https://www.evrensel.net/haber/6003049/mhk-sorusturmasi-gorevli-ve-eski-hakemler-musteki-ve-tanik-olarak-ifade-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-01T23:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T00:05:44.057261+00:00"
+    },
     {
       "id": "160329ec372f1abf",
       "source": "Türkiye Gazetesi",
@@ -94,6 +116,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T23:40:37.443936+00:00"
+    },
+    {
+      "id": "db04d4856a88e062",
+      "source": "Yeniçağ",
+      "title": "Eski kocasından kaçarken canından oldu",
+      "summary": "Sevgilisinin eski kocasından kaçmak isterken 3&#039;üncü kattan düşüp, yaşamını yitirdi.",
+      "link": "https://www.yenicaggazetesi.com/eski-kocasindan-kacarken-canindan-oldu-1077558h.htm",
+      "published": "2026-10-01T23:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T00:05:47.825237+00:00"
     },
     {
       "id": "930fea544fdebf0a",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T19:40:58.531812+00:00"
-    },
-    {
-      "id": "5afa8e471c4af8ce",
-      "source": "Evrensel",
-      "title": "Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel gözaltına alındı",
-      "summary": "İstanbul'da \"hakemler dosyası\" olarak bilinen soruşturma kapsamında Süper Lig hakemi Yasin Kol ile Süper Lig yardımcı hakemi Göktuğ Hazar Erel gözaltına alındı.",
-      "link": "https://www.evrensel.net/haber/6003026/super-lig-hakemi-yasin-kol-ve-yardimci-hakem-goktug-hazar-erel-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-01T19:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T20:00:55.607586+00:00"
-    },
-    {
-      "id": "753d7131f3d5d07d",
-      "source": "Evrensel",
-      "title": "Süper Lig hakemi Yasin Kol gözaltına alındı",
-      "summary": "Trabzon bölgesi Süper Lig hakemi Yasin Kol, Trabzonspor-Drogheda United hazırlık maçı sonrası gözaltına alındı.",
-      "link": "https://www.evrensel.net/haber/6003026/super-lig-hakemi-yasin-kol-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-01T19:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:45:43.516933+00:00"
-    },
-    {
-      "id": "27cf96a47cb3ad10",
-      "source": "Star",
-      "title": "Hakem Yasin Kol gözaltına alındı",
-      "summary": "Merkez Hakem Kurulu'na yönelik soruşturma kapsamında, Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel gözaltına alındı.",
-      "link": "https://www.star.com.tr/guncel/hakem-yasin-kol-gozaltina-alindi-haber-2043857/",
-      "published": "2026-10-01T19:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T19:40:46.887379+00:00"
     }
   ]
 }

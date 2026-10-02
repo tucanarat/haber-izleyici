@@ -1,12 +1,155 @@
 {
-  "last_updated": "2026-10-02T16:26:00.812817+00:00",
+  "last_updated": "2026-10-02T16:31:11.811978+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 533,
+  "new_items_this_run": 535,
   "items": [
+    {
+      "id": "df727d22170c6658",
+      "source": "CNBC-e",
+      "title": "Paramount ve Warner Bros. birleşiyor: Yeni şirketin adı belli oldu",
+      "summary": "Paramount Skydance CEO'su David Ellison, Paramount ile Warner Bros. Discovery'nin birleşmesinin tamamlanmasının ardından kurulacak şirketin adının Skydance olacağını açıkladı.",
+      "link": "https://www.cnbce.com/sirket-haberleri/paramount-ve-warner-bros-birlesiyor-yeni-sirketin-adi-belli-oldu-h38613",
+      "published": "2026-10-02T16:30:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:31:03.394452+00:00"
+    },
+    {
+      "id": "31ea848cd3fb885e",
+      "source": "Yeniçağ",
+      "title": "Konut alırken dikkat: Bu rapor alıcıların elini güçlendiriyor",
+      "summary": "Milyonlarca liralık konut alımında ekspertiz raporunun önemine dikkat çeken sektör temsilcileri, gayrimenkul değerleme raporlarında hukuki durumdan deprem riskine, kaçak imalattan tesisata kadar 200’e yakın verinin incelendiğini belirtti.",
+      "link": "https://www.yenicaggazetesi.com/konut-alirken-dikkat-bu-rapor-alicilarin-elini-guclendiriyor-1077835h.htm",
+      "published": "2026-10-02T16:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:54.498651+00:00"
+    },
+    {
+      "id": "5d3bf39b75303408",
+      "source": "Ekonomim",
+      "title": "Borsa günü yükselişle tamamladı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, günü yüzde 0,17 değer kazanarak 12.270,18 puandan tamamladı.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/borsa-istanbul-gune-yukselisle-basladi-haberi-922109",
+      "published": "2026-10-02T16:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:31:02.746505+00:00"
+    },
+    {
+      "id": "542fc8659d0116e9",
+      "source": "Yeniçağ",
+      "title": "MHK Başkanı Ferhat Gündoğdu'nun ifadesi ortaya çıktı",
+      "summary": "MHK soruşturmasında gözaltına alınan Ferhat Gündoğdu&#039;nun 51 sayfalık emniyet ifadesinin ayrıntıları ortaya çıktı. Hakem atamalarından sınav sorularına, ses kayıtlarından milyonlarca liralık para hareketlerine kadar birçok konuda soruları yanıtlayan Gündoğdu&#039;nun ifadesi şöyle...",
+      "link": "https://www.yenicaggazetesi.com/mhk-baskani-ferhat-gundogdunun-ifadesi-ortaya-cikti-1077851h.htm",
+      "published": "2026-10-02T16:29:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:54.498679+00:00"
+    },
+    {
+      "id": "bf2fd0d90777a991",
+      "source": "Star",
+      "title": "Çanakkale'de feribot seferleri iptal edildi",
+      "summary": "Çanakkale'nin Bozcaada ve Gökçeada ilçelerine yarın yapılması planlanan bazı feribot seferleri, olumsuz hava şartları nedeniyle iptal edildi.",
+      "link": "https://www.star.com.tr/guncel/canakkalede-feribot-seferleri-iptal-edildi-haber-2044047/",
+      "published": "2026-10-02T16:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:53.396593+00:00"
+    },
+    {
+      "id": "e1d850d609ad52b3",
+      "source": "DonanımHaber",
+      "title": "One UI 9.0 bazı Samsung telefonlarda şarj hızını yavaşlattı",
+      "summary": "Bazı Samsung telefon kullanıcıları, sosyal medyadan One UI 9.0 güncellemesinin ardından şarj hızının düştüğünü bildirmeye başladı. Yavaş şarj sorunu Galaxy S25 ve daha eski modelleri etkiliyor.",
+      "link": "https://www.donanimhaber.com/one-ui-9-0-bazi-samsung-telefonlarda-sarj-hizini-yavaslatti--211163",
+      "published": "2026-10-02T16:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:31:09.317589+00:00"
+    },
+    {
+      "id": "177507e20ad94b20",
+      "source": "Akşam",
+      "title": "Katil İsrail ateşkese rağmen saldırdı! 3 Filistinli hayatını kaybetti",
+      "summary": "Katil İsrail ordusu, ateşkese rağmen Gazze Şeridi'nin farklı noktalarına düzenlediği saldırılarda 3 Filistinliyi öldürdü, 1 kişiyi yaraladı. Saldırılarda insansız hava araçları kullanıldı.",
+      "link": "https://www.aksam.com.tr/dunya/katil-israil-ateskese-ragmen-saldirdi-3-filistinli-hayatini-kaybetti/haber-1703151",
+      "published": "2026-10-02T16:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:52.417585+00:00"
+    },
+    {
+      "id": "599c37a7db840b71",
+      "source": "Halk TV",
+      "title": "Son dakika | İzmir Büyükşehir Belediye Başkanı Cemil Tugay ADD üyeliğinden ayrıldı",
+      "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, ADD Karşıyaka Şubesi üyeliğinden ayrıldığı öğrenildi.",
+      "link": "https://halktv.com.tr/siyaset/son-dakika-izmir-buyuksehir-belediye-baskani-cemil-tugay-add-uyeliginden-ayrildi-1059058h",
+      "published": "2026-10-02T16:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:57.261747+00:00"
+    },
+    {
+      "id": "ad898df72d037873",
+      "source": "Yeni Yaşam",
+      "title": "3 yaşındaki Yakup’un ölümü: 14 yıl sonra baba tutuklandı",
+      "summary": "Eskişehir’in Seyitgazi ilçesinde 2012 yılında kaybolduktan 12 gün sonra cansız bedeni toprağa gömülü halde bulunan 3 yaşındaki Yakup Bozkurt’un faili meçhul kalan dosyası yeniden açıldı. Soruşturma kapsamında gözaltına alınan baba Abdurrezzak Bozkurt tutuklandı Eskişehir’in Seyitgazi ilçesinde 2012 yılında kaybolduktan 12 gün sonra cansız bedeni toprağa gömülü halde bulunan 3 yaşındaki Yakup Bozku",
+      "link": "https://yeniyasamgazetesi9.com/3-yasindaki-yakupun-olumu-14-yil-sonra-baba-tutuklandi/",
+      "published": "2026-10-02T16:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:31:01.415610+00:00"
+    },
+    {
+      "id": "6967b3a1e372b81e",
+      "source": "Milliyet",
+      "title": "Kuryeden iğrenç hareket! Yere düşen pizzayı kutusuna koyup teslimata gitti",
+      "summary": "Görüntüler Rusya'da kayda geçti. Siparişi götürmek üzere yolda yürüyen sipariş kuryesi dengesini kaybetti. Düşmenin etkisiyle kuryenin elindeki kutu açılarak içindeki pizza yere saçıldı. TEKRAR KUTUYA KOYDU Kaza sonrası kuryenin yaptığı hareket ise tepki çekti. Yere düşen pizzayı toplayarak yeniden kutunun içine koyan kurye, hiçbir şey olmamış gibi yoluna devam etti. Güvenlik kameralarına da yansı",
+      "link": "https://www.milliyet.com.tr/dunya/kuryeden-igrenc-hareket-yere-dusen-pizzayi-kutusuna-koyup-teslimata-gitti-7671897",
+      "published": "2026-10-02T16:26:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:50.875463+00:00"
+    },
+    {
+      "id": "55b7dc11409441ab",
+      "source": "Yeni Akit",
+      "title": "Resmen duyurdular: Tel Aviv’e tüm uçuşlar askıya alındı",
+      "summary": "Tel Aviv'e gerçekleştirilen uçuşlarla ilgili dikkat çeken bir karar alındı. Flydubai, FZ1073 sefer sayılı uçakta yaşanan ve kaptan pilotun yaralanmasıyla sonuçlanan güvenlik olayının ardından Tel Aviv uçuşlarının ikinci bir duyuruya kadar geçici olarak askıya alındığını açıkladı.",
+      "link": "https://www.yeniakit.com.tr/haber/resmen-duyurdular-tel-avive-tum-ucuslar-askiya-alindi-2026065.html",
+      "published": "2026-10-02T16:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:53.707264+00:00"
+    },
+    {
+      "id": "8e98101a424600a0",
+      "source": "Karar",
+      "title": "Lezzeti dillere destan fiyatı ceplere uygun! Burhaniye’de 3 tanesi 100 TL’den satışta",
+      "summary": "Balıkesir Burhaniye’de sezonun son turfanda güz karpuzu tezgaha çıktı. Lezzeti dillere destan fiyatı ceplere uygun olan karpuzun 3 tanesi 100 TL’den satışta.",
+      "link": "https://www.karar.com/guncel-haberler/lezzeti-dillere-destan-fiyati-ceplere-uygun-burhaniyede-3-tanesi-100-2075900",
+      "published": "2026-10-02T16:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:54.136497+00:00"
+    },
+    {
+      "id": "ff247ddc9930c5b7",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrailli aşırı sağcı Bakan, işgal altındaki Batı Şeria'nın \"İsrail'in mülkü\" olduğunu iddia etti",
+      "summary": "İsrail'in aşırı sağcı Ulusal Güvenlik Bakanı Itamar Ben-Gvir, işgal altındaki Batı Şeria’nın \"İsrail'in mülkü\" olduğunu iddia ederek Oslo Anlaşmaları'nı yok saydı.",
+      "link": "https://www.aa.com.tr/tr/dunya/israilli-asiri-sagci-bakan-isgal-altindaki-bati-serianin-israilin-mulku-oldugunu-iddia-etti/4076422",
+      "published": "2026-10-02T16:25:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:45.860186+00:00"
+    },
     {
       "id": "059a58a2f3f8608a",
       "source": "Halk TV",
@@ -50,6 +193,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T16:25:40.584684+00:00"
+    },
+    {
+      "id": "5bb01b91d458e966",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Yatırım araçlarının haftalık performansı belli oldu",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi haftalık bazda yüzde 4,88, altının gram fiyatı yüzde 1,53 ve avro/TL yüzde 0,69 değer kaybederken, dolar/TL yüzde 0,14 değer kazandı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/yatirim-araclarinin-haftalik-performansi-belli-oldu/4076420",
+      "published": "2026-10-02T16:23:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:45.860209+00:00"
     },
     {
       "id": "b23a9d3dfc9dd99b",
@@ -270,6 +424,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T16:15:42.224176+00:00"
+    },
+    {
+      "id": "14e5e44ae4d9b675",
+      "source": "Türkiye Gazetesi",
+      "title": "\"LİGLER ERTELENSİN\"",
+      "summary": "Beşiktaş Kulübü Başkanı Serdal Adalı, Türk futbolundaki \"hakemler dosyası\" soruşturmasına ilişkin değerlendirmelerde bulundu. Adalı, devam eden adli süreçte tüm detayların ortaya çıkarılması gerektiğini belirterek gerekirse liglerin 2 hafta ertelenmesini ve MHK konusunda yeni bir yapılanmaya gidilmesi gerektiğini kaydetti.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/serdal-adalidan-tffye-cagri-ligler-ertelensin-temizlik-yapilsin-1820174",
+      "published": "2026-10-02T16:11:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:30:48.439007+00:00"
     },
     {
       "id": "e926c6219898b567",
@@ -4474,6 +4639,17 @@
       "fetched_at": "2026-10-02T14:20:40.692152+00:00"
     },
     {
+      "id": "e2d0c245fed3b282",
+      "source": "DonanımHaber",
+      "title": "Vodafone ve Samsung 5G'ye geçişi hızlandırıyor: Galaxy A27 5G'ye yoğun ilgi",
+      "summary": "Vodafone ve Samsung, 5G'li telefonlara erişimi kolaylaştırmak için iş birliğini sürdürüyor. Vodafone FLEX'te 12 ay taksit avantajıyla sunulan Galaxy A27 5G, ilk üç ayda 60 bini aşkın müşteriye ulaştı.",
+      "link": "https://www.donanimhaber.com/vodafone-5g-ye-gecisi-hizlandiriyor-samsung-galaxy-a27-firsati--211173",
+      "published": "2026-10-02T14:17:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T16:31:09.317770+00:00"
+    },
+    {
       "id": "cbb5b93d0b108604",
       "source": "Bir Gün",
       "title": "İLK 11'LER BELLİ OLDU! Galatasaray-Pendikspor Maçı Hangi Gün, Saat Kaçta ve Hangi Kanalda?",
@@ -5330,182 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T14:06:21.067031+00:00"
-    },
-    {
-      "id": "1c550fbef36f7c6c",
-      "source": "Milliyet",
-      "title": "Zonguldak’ta kaçak maden ocağında göçük! Acı haber geldi",
-      "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesi Esen Mahallesi'nde öğlen saatlerinde ruhsatsız olarak işletilen maden ocağında göçük meydana geldi. BİR İŞÇİ HAYATINI KAYBETTİ Kaçak ocakta çalışan Muhammet Çelik’in (51) üzerine kömür, toprak ve kaya parçaları düştü. İhbar üzerine bölgeye sağlık ve jandarma ekipleri sevk edildi. Mesai arkadaşları tarafından yüzeye çıkarılan Çelik, ambulansla Atatü",
-      "link": "https://www.milliyet.com.tr/gundem/zonguldakta-kacak-maden-ocaginda-gocuk-aci-haber-geldi-7671821",
-      "published": "2026-10-02T14:01:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:06:06.303507+00:00"
-    },
-    {
-      "id": "32a5a43cf2c41738",
-      "source": "Türkiye Gazetesi",
-      "title": "14 yıl sonra sır perdesi aralandı, baba tutuklandı",
-      "summary": "Eskişehir’de 14 yıl önce cansız bedeni toprağa gömülü halde bulunan 2,5 yaşındaki Yakup Bozkurt cinayetinde sır perdesi aralandı. Minik Yakup’un babası tutuklandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/25-yasindaki-yakup-topraga-gomulu-bulunmustu-14-yil-sonra-sir-perdesi-aralandi-baba-t-1820156",
-      "published": "2026-10-02T14:01:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:06:04.661189+00:00"
-    },
-    {
-      "id": "2a419c6df36ce907",
-      "source": "Milliyet",
-      "title": "Bakan Kurum’dan TEKNOFEST paylaşımı",
-      "summary": "Sanayi ve Teknoloji Bakanlığı ile T3 Vakfı yürütücülüğündeki Havacılık, Uzay ve Teknoloji Festivali (TEKNOFEST) Şanlıurfa GAP Havalimanı'nda devam ediyor. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı da 14 stantla TEKNOFEST Güneydoğu’da yerini aldı. İlginizi Çekebilir COP31'İN MASKOTU DA TEKNOFEST'TE İklim Değişikliği Başkanlığı standında Türkiye’nin bu yıl ilk kez ev sahipliği yapacağı COP31 ",
-      "link": "https://www.milliyet.com.tr/ekonomi/bakan-kurumdan-teknofest-paylasimi-7671822",
-      "published": "2026-10-02T14:01:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:06:06.305236+00:00"
-    },
-    {
-      "id": "dba887d083647146",
-      "source": "Akşam",
-      "title": "Fenerbahçe arsaVev, UEFA Kadınlar Avrupa Kupası'nda rakibi belli oldu",
-      "summary": "UEFA Kadınlar Avrupa Kupası son 16 turu mücadelesinde Fenerbahçe arsaVev, İspanyol ekibi Real Sociedad ile eşleşti.",
-      "link": "https://www.aksam.com.tr/spor/fenerbahce-arsavev-uefa-kadinlar-avrupa-kupasinda-rakibi-belli-oldu/haber-1703126",
-      "published": "2026-10-02T14:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:06:06.716940+00:00"
-    },
-    {
-      "id": "15c793e75f57ae6a",
-      "source": "Gazete Pencere",
-      "title": "İş Sanat’tan çocuklar için ücretsiz Renkli Ekim Atölyeleri",
-      "summary": "İş Sanat müzelerinde sürdürdüğü ücretsiz sanat atölyeleri ile minik sanatseverleri rengârenk bir dünya bekliyor. Keyif dolu buluşmaların kalbinde ise Cumhuriyetimizin 103. yaşını kutlayacağımız coşku dolu bayram atölyeleri yer alıyor.",
-      "link": "https://www.gazetepencere.com/kultur-sanat/is-sanattan-cocuklar-icin-ucretsiz-renkli-ekim-atolyeleri-717670h",
-      "published": "2026-10-02T14:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:06:09.882676+00:00"
-    },
-    {
-      "id": "3ab4cabcb69d6e61",
-      "source": "Ekonomim",
-      "title": "Avrupa’da Çin gerilimi: İspanya’nın Pekin hamleleri dikkat çekiyor",
-      "summary": "İspanya ile Çin arasındaki ilişkiler son dönemde dikkat çeken bir ivme kazanırken, Madrid’in Pekin’le geliştirdiği yakın temaslar Avrupa Birliği içinde tartışma yaratıyor. Barcelona’daki La Mercè festivali kapsamında Şanghay’ın “onur şehri” olarak yer alması, iki ülke arasındaki yakınlaşmanın dikkat çeken örneklerinden biri oldu.",
-      "link": "https://www.ekonomim.com/dunya/avrupada-cin-gerilimi-ispanyanin-pekin-hamleleri-dikkat-cekiyor-haberi-922211",
-      "published": "2026-10-02T14:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:06:14.784388+00:00"
-    },
-    {
-      "id": "7b8dd172f37c1572",
-      "source": "Yeniçağ",
-      "title": "Kocaeli’de kaçakçılara çifte darbe: Bir araçtan tonlarca tütün, şüpheliden 511 tarihi eser çıktı",
-      "summary": "Kocaeli’de jandarmanın düzenlediği iki operasyonda piyasa değeri yaklaşık 7 milyon TL olan 6 ton 250 kilogram kıyılmış tütün ile Roma ve Helenistik dönemlere ait olduğu değerlendirilen 511 tarihi eser ele geçirildi. 3 şüpheli hakkında adli işlem başlatıldı.",
-      "link": "https://www.yenicaggazetesi.com/kocaelide-kacakcilara-cifte-darbe-bir-aractan-tonlarca-tutun-supheliden-511-tarihi-eser-cikti-1077802h.htm",
-      "published": "2026-10-02T14:00:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:01:00.856010+00:00"
-    },
-    {
-      "id": "a6501a7f5b2ec792",
-      "source": "Karar",
-      "title": "Netanyahu: Pilotu kim gönderdiyse ağır bedel ödeyecek",
-      "summary": "İsrail Başbakanı Netanyahu, Flydubai’nin Dubai-Tel Aviv seferinde yaşanan olayla ilgili açıklamasında, pilotun birileri tarafından gönderilip gönderilmediğinin araştırıldığını söyledi. Netanyahu, olayın saldırı amacı taşıdığını öne sürerek pilotu gönderenlerin ağır bir bedel ödeyeceğini belirtti.",
-      "link": "https://www.karar.com/dunya-haberleri/netanyahu-pilotu-kim-gonderdiyse-agir-bedel-odeyecek-2075879",
-      "published": "2026-10-02T14:00:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:01:00.122631+00:00"
-    },
-    {
-      "id": "c01844b1c45473e9",
-      "source": "Akşam",
-      "title": "6 asırlık buluşma adresi: Filibe'nin en eski camisi! Balkanlar'a yolunuz düşerse uğramadan dönmeyin",
-      "summary": "Roma ve Osmanlı medeniyetlerinin buluştuğu Filibe merkezinde, Sultan I. Murad döneminden günümüze uzanan Hüdavendigar (Cuma) Camisi; 9 kubbeli eşsiz yapısı ve tarihi atmosferiyle bölgeye seyahat eden turistlerin en gözde adresi oluyor.",
-      "link": "https://www.aksam.com.tr/seyahat/6-asirlik-bulusma-adresi-filibenin-en-eski-camisi-balkanlara-yolunuz-duserse-ugramadan-donmeyin/haber-1703125",
-      "published": "2026-10-02T14:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:00:58.029109+00:00"
-    },
-    {
-      "id": "93eba2505dffe16c",
-      "source": "Webrazzi",
-      "title": "Yapay Zeka Gündemi #65",
-      "summary": "OpenAI’ın yapay zeka agent'larının kontrolden çıkmasına ilişkin gelişmeler sektörün güvenlik yaklaşımını yeniden gündeme taşırken Google, Anthropic ve OpenAI yeni modellerini tanıttı. ABD yönetimi ise...",
-      "link": "https://webrazzi.com/2026/10/02/yapay-zeka-gundemi-65/",
-      "published": "2026-10-02T14:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:01:12.976388+00:00"
-    },
-    {
-      "id": "fe0dd3f0ea78ac28",
-      "source": "Habertürk",
-      "title": "Göçükte kalan madenci kurtarılamadı",
-      "summary": "Zonguldak’ta ruhsatsız olarak işletildiği belirtilen maden ocağındaki göçükte toprak altında kalan 51 yaşındaki Muhammet Çelik, kaldırıldığı hastanede hayatını kaybetti. Ocağın 15 gün önce göçertilerek kapatıldığı ve girişinin mühürlendiği öğrenildi",
-      "link": "https://www.haberturk.com/zonguldakta-ruhsatsiz-olarak-isletilen-gocukte-kalan-madenci-muhammet-celik-hayatini-kaybetti-3916805",
-      "published": "2026-10-02T13:59:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:10:30.112268+00:00"
-    },
-    {
-      "id": "4074c265a0807750",
-      "source": "Karar",
-      "title": "Balık sevmeyene bile tabak tabak yedirir: Adım adım Karadeniz'in hakiki hamsi kuşu tarifi",
-      "summary": "Balık sezonunun açılmasıyla tezgâhlarda bolluk yaşanırken, Karadeniz mutfağının en sevilen lezzetlerinden hamsi kuşu sofralara konuk oluyor. Kılçıkları temizlenen taze hamsilerin yeşillikli iç harçla buluşup mısır ununa bulanarak pişirildiği bu geleneksel tarif, balık yemeyenlerin bile favorisi haline geliyor.",
-      "link": "https://www.karar.com/yemek-tarifleri/balik-sevmeyene-bile-tabak-tabak-yedirir-adim-adim-karadenizin-hakiki-2075878",
-      "published": "2026-10-02T13:59:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:01:00.122666+00:00"
-    },
-    {
-      "id": "fbd996d82ac52a40",
-      "source": "BBC News Türkçe",
-      "title": "Fransa'da yüzlerce lisenin kapatıldığı protestolar hükümet için ne anlama geliyor?",
-      "summary": "Şu anda Fransız gençleri barikatlarda ve görünürde öfkeli olmasalar da (hâkim duygu daha çok heyecan), kesin olan bir şey var ki, Cumhurbaşkanı Emmanuel Macron'un hükümetini Le Monde gazetesinin cuma günü ifade ettiği şekliyle \"soğuk ter dökecek\" bir duruma sokmuş bulunuyorlar. Yaklaşık iki hafta önce Paris'in kuzeyindeki düşük gelirli Seine-Saint-Denis bölgesinde başlayan hareket, son birkaç gün ",
-      "link": "https://www.bbc.com/turkce/articles/cwp8g114x64zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T13:59:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:01:18.775892+00:00"
-    },
-    {
-      "id": "4badf9ec092153fd",
-      "source": "Türkiye Gazetesi",
-      "title": "'PLANLARIMIZ ALTÜST OLDU'",
-      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun eski danışmanı Ran Baratz, Suriye'de Esad yönetiminin devrilmesinin İsrail'in çıkarına olmadığını söyledi. Türkiye'nin bölgedeki etkisine işaret eden Baratz, \"Türkler Esad'ı bizim yararımıza devirmediler. Esad bizim için daha rahattı. Esad saldırgan değildi\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/netanyahunun-eski-danismanindan-turkiye-itirafi-tum-planlarimizi-altust-ettiler-1820154",
-      "published": "2026-10-02T13:59:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:45:36.661957+00:00"
-    },
-    {
-      "id": "ce9ca99f062a7ba6",
-      "source": "Türkiye Gazetesi",
-      "title": "Netanyahu'nun eski danışmanından Türkiye itirafı!",
-      "summary": "İsrail Başbakanı Binyamin Netanyahu'nun eski danışmanı Ran Baratz, Suriye'de Esad yönetiminin devrilmesinin İsrail'in çıkarına olmadığını söyledi. Türkiye'nin bölgedeki etkisine işaret eden Baratz, \"Türkler Esad'ı bizim yararımıza devirmediler. Esad bizim için daha rahattı. Esad saldırgan değildi\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/netanyahunun-eski-danismanindan-turkiye-itirafi-tum-planlarimizi-altust-ettiler-1820154",
-      "published": "2026-10-02T13:59:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:06:04.661230+00:00"
-    },
-    {
-      "id": "d89a1968d45412c1",
-      "source": "Yeni Yaşam",
-      "title": "Amedspor İstanbul’da dayanışma gecesi düzenleyecek",
-      "summary": "Amedspor, 8 Ekim’de İstanbul’da geniş katılımlı bir &#8216;Dayanışma Gecesi&#8217; düzenleyecek. Yapılan açıklamada buluşmanın yalnızca bir etkinlik değil, kulübün yarınlarına sahip çıkma çağrısı olduğu belirtildi Süper Lig’de mücadele eden Amedspor, 8 Ekim’de İstanbul’da geniş katılımlı bir “Dayanışma Gecesi” düzenleyeceğini duyurdu. Amedspor Kulübü tarafından yapılan yazılı açıklamada, “yeşil-kı",
-      "link": "https://yeniyasamgazetesi9.com/amedspor-istanbulda-dayanisma-gecesi-duzenleyecek/",
-      "published": "2026-10-02T13:59:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T14:01:08.657687+00:00"
     }
   ]
 }

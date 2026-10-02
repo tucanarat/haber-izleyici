@@ -1,12 +1,276 @@
 {
-  "last_updated": "2026-10-02T12:11:01.525855+00:00",
+  "last_updated": "2026-10-02T12:15:50.825750+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 540,
+  "new_items_this_run": 547,
   "items": [
+    {
+      "id": "0dde35fd9d740d6a",
+      "source": "Yeniçağ",
+      "title": "Maçka Parkı'nda dehşet: Dev ağaç otomobilin üzerine yıkıldı",
+      "summary": "Şişli Maçka Parkı girişinde büyük bir ağaç, park halindeki otomobilin üzerine devrildi. Mim Kemal Öke Caddesi trafiğe kapanırken itfaiye olay yerine sevk edildi.",
+      "link": "https://www.yenicaggazetesi.com/macka-parkinda-dehset-dev-agac-otomobilin-uzerine-yikildi-1077751h.htm",
+      "published": "2026-10-02T12:15:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.716054+00:00"
+    },
+    {
+      "id": "bea0f71b20ada12b",
+      "source": "Akşam",
+      "title": "Başkan Erdoğan, Çekmeköy Belediye Başkanı Çerkez'i kabul etti",
+      "summary": "Başkan Erdoğan, Çekmeköy Belediye Başkanı Orhan Çerkez'i kabul etti.",
+      "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-cekmekoy-belediye-baskani-cerkezi-kabul-etti/haber-1703105",
+      "published": "2026-10-02T12:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:36.963986+00:00"
+    },
+    {
+      "id": "05b5a14478c92d5a",
+      "source": "Karar",
+      "title": "Burhaniye Belediyesinde kurumsal arşiv çalışmaları başladı",
+      "summary": "Burhaniye Belediyesi İmar ve Şehircilik Müdürlüğü arşivinde bulunan yapı dosyalarının düzenlenmesine yönelik kurumsal arşiv çalışmaları başlatıldı.",
+      "link": "https://www.karar.com/sehir-haberleri/burhaniye-belediyesinde-kurumsal-arsiv-calismalari-basladi-2075840",
+      "published": "2026-10-02T12:14:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.243163+00:00"
+    },
+    {
+      "id": "740e1fae6e88e7c9",
+      "source": "Yeniçağ",
+      "title": "Van'da Tevrat olduğu değerlendirilen tarihi eser ele geçirildi",
+      "summary": "Van’ın İpekyolu ilçesinde deri üzerinde şamdan, Davut Yıldızı sembolleri ile İbranice yazılar olan altın yaldız işlemeli Tevrat olduğu değerlendirilen tarihi eser ele geçirildi.",
+      "link": "https://www.yenicaggazetesi.com/vanda-tevrat-oldugu-degerlendirilen-tarihi-eser-ele-gecirildi-1077750h.htm",
+      "published": "2026-10-02T12:14:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.716094+00:00"
+    },
+    {
+      "id": "77c2d23e7094ed9a",
+      "source": "Cumhuriyet",
+      "title": "Germiyan’ın kültürü, lezzetleri ve hafızası bu şenlikte buluşuyor",
+      "summary": "Çeşme’nin köklü üretim kültürünü, geleneklerini ve yerel değerlerini yaşatmayı sürdüren 12. Germiyan Şenliği, 3-4 Ekim tarihlerinde Germiyan Köyü’nde gerçekleştirilecek. İki gün sürecek şenlik; atölyelerden söyleşilere, sergilerden geleneksel lezzetlere, halk oyunlarından müzik performanslarına uzanan zengin programıyla ziyaretçilerini ağırlayacak",
+      "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/germiyan-in-kulturu-lezzetleri-ve-hafizasi-bu-senlikte-bulusuyor-2543093",
+      "published": "2026-10-02T12:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:33.270059+00:00"
+    },
+    {
+      "id": "9da63c4d0f8a0a06",
+      "source": "Akşam",
+      "title": "TEKNOFEST'i ziyaret eden öğrenci sayısı 500 bini aştı",
+      "summary": "Şanlıurfa'da düzenlenen TEKNOFEST Güneydoğu'yu ziyaret eden öğrencilerin sayısı 500 bini aştı.",
+      "link": "https://www.aksam.com.tr/guncel/teknofesti-ziyaret-eden-ogrenci-sayisi-500-bini-asti/haber-1703104",
+      "published": "2026-10-02T12:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:36.964018+00:00"
+    },
+    {
+      "id": "c608dc928a399180",
+      "source": "Star",
+      "title": "Cumhurbaşkanı Erdoğan, Orhan Çerkez'i kabul etti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Çekmeköy Belediye Başkanı Orhan Çerkez'i İstanbul'da kabul etti.",
+      "link": "https://www.star.com.tr/guncel/cumhurbaskani-erdogan-orhan-cerkezi-kabul-etti-haber-2044007/",
+      "published": "2026-10-02T12:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:37.653471+00:00"
+    },
+    {
+      "id": "903000a4ca752c00",
+      "source": "Halk TV",
+      "title": "Özlem Gültekin'in otopsi raporu her şeyi ortaya çıkardı: Propofol tespit edildi, \"Getirme\" diye yalvarmış!",
+      "summary": "&quot;Kalp krizi&quot; denilen ölümün ardından otopsi raporu çıktı. Doktor Özlem Gültekin Çelik’in yüksek dozda propofol nedeniyle hayatını kaybettiği belirtilirken, ilacın temininde rolü olduğu öne sürülen 5 kişi gözaltına alındı.",
+      "link": "https://halktv.com.tr/turkiye/ozlem-gultekinin-otopsi-raporu-her-seyi-ortaya-cikardi-propofol-tespit-edildi-getirme-diye-yalvarmis-1059006h",
+      "published": "2026-10-02T12:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:39.967498+00:00"
+    },
+    {
+      "id": "704c94a5c4577e17",
+      "source": "Gazete Pencere",
+      "title": "Gaziosmanpaşa Belediyesi davasında Baki Aydöner'in tahliyesine karar verildi",
+      "summary": "Gaziosmanpaşa Belediyesi'ne yönelik davada eski CHP PM üyesi Baki Aydöner'in tahliyesine hükmedildi. Belediye Başkanı Hakan Bahçetepe'nin tutukluluk hali ise devam edecek.",
+      "link": "https://www.gazetepencere.com/gundem/gaziosmanpasa-belediyesi-davasinda-baki-aydonerin-tahliyesine-karar-verildi-717659h",
+      "published": "2026-10-02T12:12:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:39.552835+00:00"
+    },
+    {
+      "id": "01e20d7af96f152a",
+      "source": "Yeniçağ",
+      "title": "Danimarkalı yıldız Ronaldo'ya destek verdi: Jorge Jesus'la gerilim gündem oldu.",
+      "summary": "Danimarka&#039;nın Portekiz&#039;e 4-2 yenildiği maçta Rasmus Höjlund, attığı golün ardından Cristiano Ronaldo&#039;nun ikonikleşen gol sevincini yaptı. Danimarkalı futbolcu, maçın ardından Portekiz Teknik Direktörü Jorge Jesus ile yaşadığı olayla da dünya gündemine oturdu.",
+      "link": "https://www.yenicaggazetesi.com/danimarkali-yildiz-ronaldoya-destek-verdi-jorge-jesusla-gerilim-gundem-oldu-1077749h.htm",
+      "published": "2026-10-02T12:12:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.716134+00:00"
+    },
+    {
+      "id": "c7aea809171d49b5",
+      "source": "Karar",
+      "title": "İFÖD'den x engelleme raporu: Sansür dalgası Eylül’de tsunamiye dönüştü",
+      "summary": "İfade Özgürlüğü Derneği, Eylül 2026’da sosyal medyaya yönelik engelleme kararlarının eşi benzeri görülmemiş bir boyuta ulaştığını duyurdu. Yalnızca bir ayda en az 1.270 X hesabının erişime engellendiğini ve 2025 yılının toplamının geride bırakıldığını açıklayan dernek, Türkiye’deki internet sansürünü 2008 yılından bu yana kayıt altına alan EngelliWeb’in hesabının da görünmez kılındığını bildirdi.",
+      "link": "https://www.karar.com/guncel-haberler/ifodden-x-engelleme-raporu-sansur-dalgasi-eylulde-tsunamiye-donustu-2075839",
+      "published": "2026-10-02T12:12:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.243214+00:00"
+    },
+    {
+      "id": "88291c27a8d7005e",
+      "source": "OdaTV",
+      "title": "Slash 14 yıl sonra Türkiye'ye geliyor",
+      "summary": "Slash Featuring Myles Kennedy And The Conspirators, Flying Blind World Tour 2027 kapsamında 22 Temmuz 2027’de İstanbul Bonus Parkorman’da sahne alacak. Konserin bilet satışları 7 Ekim’de sanatçı ön satışıyla başlayacak.",
+      "link": "https://www.odatv.com/kultur-sanat/efsane-gitarist-slash-14-yil-sonra-turkiyeye-geliyor-120164900",
+      "published": "2026-10-02T12:12:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:39.743123+00:00"
+    },
+    {
+      "id": "166cec892de52ee1",
+      "source": "Karar",
+      "title": "81 ilde gıda güvenliği denetimi: 73 şüpheliye adli işlem",
+      "summary": "Yurt genelinde 81 ilde gerçekleştirilen “gıda güvenliği” denetimlerinde 1908 adres kontrol edildi. Toplam 3 bin 50 personelin katıldığı çalışmalarda piyasa değeri yaklaşık 61 milyon lira olan çok sayıda gıda, içecek, takviye edici ürün ve üretimde kullanılan materyal ele geçirildi. Denetimler kapsamında 73 şüpheli hakkında adli işlem yapıldı.",
+      "link": "https://www.karar.com/guncel-haberler/81-ilde-gida-guvenligi-denetimi-73-supheliye-adli-islem-2075838",
+      "published": "2026-10-02T12:12:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.243254+00:00"
+    },
+    {
+      "id": "330bd5dddb1bfc96",
+      "source": "Cumhuriyet",
+      "title": "Inter'den Hakan Çalhanoğlu kararı",
+      "summary": "İtalya Serie A devi Inter'in milli futbolcu Hakan Çalhanoğlu'na yeni sözleşme teklifi yapmak için harekete geçtiği iddia edildi.",
+      "link": "https://www.cumhuriyet.com.tr/spor/inter-den-hakan-calhanoglu-karari-2543090",
+      "published": "2026-10-02T12:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:33.270092+00:00"
+    },
+    {
+      "id": "25d758cd39cb75a8",
+      "source": "Cumhuriyet",
+      "title": "Uyuşturucu testi 'pozitif' çıkan Melisa Şenolsun'dan ilk açıklama",
+      "summary": "İstanbul Cumhuriyet Başsavcılığınca yürütülen ünlülere yönelik uyuşturucu soruşturması kapsamında gözaltına alınan ünlü oyuncu Melisa Şenolsun, hakkındaki \"saç örneğinin pozitif çıktığı\" yönündeki haberlerin ardından açıklama yaptı.",
+      "link": "https://www.cumhuriyet.com.tr/yasam/uyusturucu-testi-pozitif-cikan-melisa-senolsun-dan-ilk-aciklama-2543091",
+      "published": "2026-10-02T12:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:33.270129+00:00"
+    },
+    {
+      "id": "46f6074c4843a345",
+      "source": "Star",
+      "title": "Nihat Özbağı'dan stat projesine 1 milyon dolarlık destek",
+      "summary": "Fenerbahçe Kulübü Yönetim Kurulu Üyesi Nihat Özbağı, Chobani Stadı'nın yenileme projesine 1 milyon dolarlık destek sağlayacağını açıkladı.",
+      "link": "https://www.star.com.tr/spor/nihat-ozbagidan-stat-projesine-1-milyon-dolarlik-destek-haber-2044006/",
+      "published": "2026-10-02T12:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:37.653504+00:00"
+    },
+    {
+      "id": "112e57533cb5b852",
+      "source": "Aydınlık",
+      "title": "81 ilde gıda güvenliği operasyonu: 73 şüpheli hakkında adli işlem",
+      "summary": "81 ilde düzenlenen gıda güvenliği operasyonlarında 1908 adres denetlendi. Yaklaşık 61 milyon lira değerinde gıda, içecek ve takviye edici ürün ile üretimde kullanılan materyaller ele geçirilirken 73 şüpheli hakkında adli işlem yapıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/81-ilde-gida-guvenligi-operasyonu-73-supheli-hakkinda-adli-islem-592624",
+      "published": "2026-10-02T12:11:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:39.112792+00:00"
+    },
+    {
+      "id": "67b8827d183f3be1",
+      "source": "Halk TV",
+      "title": "Kaşif Kozinoğlu soruşturmasında tutuklanan Selahattin Günday için tahliye talebi",
+      "summary": "MİT görevlisi Kaşif Kozinoğlu&#039;nun ölümüne ilişkin soruşturmada tutuklanan gazeteci Selahattin Günday&#039;ın tutukluluğunun 22. gününde avukatı Hüseyin Ersöz, zamanaşımı ve delil durumunu gerekçe göstererek tahliye dilekçesi sundu.",
+      "link": "https://halktv.com.tr/turkiye/kasif-kozinoglu-sorusturmasinda-tutuklanan-selahattin-gunday-icin-tahliye-talebi-1059005h",
+      "published": "2026-10-02T12:11:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:39.967541+00:00"
+    },
+    {
+      "id": "d987e1869c835c79",
+      "source": "Halk TV",
+      "title": "Resmen provokasyon! Türk bayrağını yırtan da çöpten çıkarıp paylaşım yapan da aynı kişi çıktı",
+      "summary": "Tekirdağ&#039;ın Çerkezköy ilçesinde Türk bayrağını çöp konteynerine atıp &#039;Vatan hainleri bir sürü bayrak atmışlar&#039; şeklinde paylaşım yapan Yasin Türk çıkarıldığı mahkemece tutuklandı.",
+      "link": "https://halktv.com.tr/turkiye/resmen-provokasyon-turk-bayragini-yirtan-da-copten-cikarip-paylasim-yapan-da-ayni-kisi-cikti-1059004h",
+      "published": "2026-10-02T12:11:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:39.967578+00:00"
+    },
+    {
+      "id": "435b10b93910de33",
+      "source": "Karar",
+      "title": "Eskşehir’de 2026-2027 Kültür ve Sanat Sezonu açıldı",
+      "summary": "Eskişehir Büyükşehir Belediyesi Şehir Tiyatroları ve Senfoni Orkestrası’nın 2026-2027 Kültür ve Sanat Sezonu Tanıtım Lansmanı, Haller Gençlik Merkezi Haldun Dormen Sahnesi’nde gerçekleştirildi.",
+      "link": "https://www.karar.com/sehir-haberleri/esksehirde-2026-2027-kultur-ve-sanat-sezonu-acildi-2075837",
+      "published": "2026-10-02T12:11:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.243282+00:00"
+    },
+    {
+      "id": "9672ded35d8ca5df",
+      "source": "Yeniçağ",
+      "title": "Özgür Özel'den fon skandalına tepki: 'Vatandaşın parasına çöktüler'",
+      "summary": "YENİ Parti Genel Başkanı Özgür Özel, Artvin&#039;deki mitingde gündeme ilişkin açıklamalarda bulundu. Fon skandalına da değinen Özel, dikkat çeken ifadeler kullanırken Mersin&#039;de üç belediyeye yönelik operasyona ve kamuoyuna yansıyan görüntülere de tepki gösterdi.",
+      "link": "https://www.yenicaggazetesi.com/ozgur-ozelden-fon-skandalina-tepki-vatandasin-parasina-coktuler-1077748h.htm",
+      "published": "2026-10-02T12:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.716171+00:00"
+    },
+    {
+      "id": "4ae8bebf4ca74708",
+      "source": "Halk TV",
+      "title": "Özgür Özel yeni fonzi AKP'liyi açıkladı! Türkiye Yüzyılı onun sloganıymış",
+      "summary": "Özgür Özel, Artvin mitinginde fon krizine ilişkin yeni iddialar ortaya attı. Özel, “Türkiye Yüzyılı” kampanyasının mimarı AKP’li Ertan Aydın’ın fon şüphelisi olduğunu açıkladı.",
+      "link": "https://halktv.com.tr/siyaset/ozgur-ozel-yeni-fonzi-akpliyi-acikladi-turkiye-yuzyili-onun-sloganiymis-1059003h",
+      "published": "2026-10-02T12:10:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:39.967612+00:00"
+    },
+    {
+      "id": "651d9e3039b1b7da",
+      "source": "Türkiye Gazetesi",
+      "title": "Van'da altın yaldız işlemeli Tevrat ele geçirildi",
+      "summary": "Van'ın İpekyolu ilçesinde bir adrese yapılan operasyonda 310 santimetre uzunluğunda, deri üstünde şamdan ve Davut Yıldızı sembolleri ile İbranice yazılar olan, altın yaldız işlemeli ve Tevrat olduğu düşünülen tarihi eser ele geçirildi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/vanda-altin-yaldiz-islemeli-tevrat-oldugu-tahmin-edilen-tarihi-eser-ele-gecirildi-1820126",
+      "published": "2026-10-02T12:10:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:35.106477+00:00"
+    },
+    {
+      "id": "2fb835564929c3e1",
+      "source": "Cumhuriyet",
+      "title": "Ezgi Apartmanı davasında yeni gelişme: Mimara yeniden yurt dışı çıkış yasağı ve imza şartı",
+      "summary": "Kahramanmaraş 5. Ağır Ceza Mahkemesi, 6 Şubat depremlerinde 35 kişinin yaşamını yitirdiği Ezgi Apartmanı davasında beraat eden mimar Ertan Danacı hakkında, Cumhuriyet Başsavcılığı'nın itirazı üzerine yeniden adli kontrol tedbiri uygulanmasına karar verdi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/ezgi-apartmani-davasinda-yeni-gelisme-mimara-yeniden-yurt-disi-cikis-yasagi-ve-imza-sarti-2543089",
+      "published": "2026-10-02T12:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:33.270163+00:00"
+    },
     {
       "id": "af67a3f96bba347c",
       "source": "Halk TV",
@@ -61,6 +325,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T12:10:39.689039+00:00"
+    },
+    {
+      "id": "7fc03bb6dd9bb8ed",
+      "source": "Euronews Türkçe",
+      "title": "ABD, Orta Doğu'daki askeri varlığını artırıyor: Üçüncü uçak gemisi yola çıktı",
+      "summary": "USS Theodore Roosevelt, 2 binden fazla askerden oluşan bir Deniz Seferi Birliği eşliğinde pazar günü San Diego'dan ayrıldı. Bu sevkiyatla birlikte ABD'nin bölgedeki toplam askeri varlığının 60 bini aşması bekleniyor.",
+      "link": "https://tr.euronews.com/2026/10/02/abd-orta-dogudaki-askeri-varligini-artiriyor-ucuncu-ucak-gemisi-yola-cikti",
+      "published": "2026-10-02T12:07:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:50.824535+00:00"
     },
     {
       "id": "2169a683da01f252",
@@ -369,6 +644,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T12:01:06.631555+00:00"
+    },
+    {
+      "id": "6bb41f0361fc6048",
+      "source": "Habertürk",
+      "title": "\"Müniroğlu'nun MHK Başkanı olma ihtimali yüksek\"",
+      "summary": "MHK Başkanı Ferhat Gündoğdu da dahil olmak üzere birçok kişi, İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü 'Hakemler dosyası' kapsamında gözaltına aldındı. Soruşturmada Ferhat Gündoğdu için olumsuz bir karar çıkması halinde, TFF kısa süre içerisinde MHK'nin başına yeni bir isim atayacak. HT Spor İstihbarat Şefi Sezgin Gelmez, eski hakem Sürhat Müniroğlu'nun yeni MHK Başkanı olabileceğini ifade e",
+      "link": "https://www.haberturk.com/spor/ferhat-gundogdu-icin-olumsuz-sonuc-cikmasi-halinde-yeni-mhk-baskani-nin-surhat-muniroglu-olma-ihtimali-yuksek-3916782",
+      "published": "2026-10-02T12:00:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:30.434431+00:00"
     },
     {
       "id": "d5d6fed691d1614d",
@@ -3528,6 +3814,17 @@
       "fetched_at": "2026-10-02T11:00:56.785365+00:00"
     },
     {
+      "id": "f874ab3472240fc3",
+      "source": "Karar",
+      "title": "Özlem Gültekin Çelik’in ölümünde yeni gelişme: Propofol temin eden 5 şüpheliye gözaltı",
+      "summary": "Spiker Erhan Çelik’in boşanma aşamasındaki eşi doktor Özlem Gültekin Çelik’in ölümüne ilişkin soruşturmada 5 şüpheli gözaltına alındı. Otopsi sonucunda Çelik’in yüksek dozda propofol indüksiyonu nedeniyle hayatını kaybettiği belirlenirken, şüphelilerin söz konusu maddeleri temin ettiği tespit edildi.",
+      "link": "https://www.karar.com/guncel-haberler/ozlem-gultekin-celikin-olumuyle-ilgili-5-gozalti-2075820",
+      "published": "2026-10-02T10:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T12:15:38.243869+00:00"
+    },
+    {
       "id": "9552cf3ff1925f3a",
       "source": "Yeni Şafak",
       "title": "Susuz yetişiyor herkes kilo kilo alıyor: Sarı Türk altınını en çok Japonlar istiyor",
@@ -5209,303 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T10:35:41.010414+00:00"
-    },
-    {
-      "id": "35c02404095bd37a",
-      "source": "Karar",
-      "title": "Fenerbahçe Medicana yıldızı Gizem Örge: Hedef Şampiyonlar Ligi kupası",
-      "summary": "Fenerbahçe Medicana’nın yıldızları Gizem Örge ile Arina Fedorovtseva, 2026-27 sezonunda takımın kadro kalitesine güvendiklerini söyledi. Gizem Şampiyonlar Ligi kupasını en büyük hedef olarak gösterirken, Arina sezon boyunca tüm kupaları kazanmak istediklerini belirtti.",
-      "link": "https://www.karar.com/spor-haberleri/fenerbahce-medicana-yildizi-gizem-orge-hedef-sampiyonlar-ligi-kupasi-2075811",
-      "published": "2026-10-02T10:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:30:49.521243+00:00"
-    },
-    {
-      "id": "0a9021899c0808a1",
-      "source": "Yeniçağ",
-      "title": "Chobani Stadı projesinde 1 milyon dolarlık destek",
-      "summary": "Fenerbahçe&#039;de stat kapasitesini artıracak proje için hazırlıklar tamamlanırken, Nihat Özbağı üstleneceği maliyetin kapsamını açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/chobani-stadi-projesinde-1-milyon-dolarlik-destek-1077700h.htm",
-      "published": "2026-10-02T10:25:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:30:50.143689+00:00"
-    },
-    {
-      "id": "c244bf38d6cb3111",
-      "source": "OdaTV",
-      "title": "Yine adrese teslim ilan... 'Arhavi' şartı kenti salladı: Rektörden Odatv'ye açıklama",
-      "summary": "Iğdır Üniversitesi’nin akademik personel ilanındaki özel şartlar dikkat çekti. İlanda adaylardan “Camiler ve Arhavi serenderleri” konularında çalışmış olma şartı aranması, ilanın belirli bir adayı işaret ettiği değerlendirmelerine neden oldu. Üniversitenin rektörü Odatv&#039;ye açıklama yaptı.",
-      "link": "https://www.odatv.com/ozel/arhavi-sarti-igdir-universitesini-salladi-rektorden-odatvye-aciklama-120164885",
-      "published": "2026-10-02T10:25:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T11:20:44.324062+00:00"
-    },
-    {
-      "id": "ab66102ab4af06f1",
-      "source": "OdaTV",
-      "title": "Iğdır Üniversitesi'nde skandal: Adrese teslim ilan",
-      "summary": "Iğdır Üniversitesi’nin akademik personel ilanındaki özel şartlar dikkat çekti. Doktor Öğretim Üyesi kadrosu için adaylardan “Camiler ve Arhavi serenderleri” konularında çalışmış olma şartı aranması, ilanın belirli bir adayı işaret ettiği değerlendirmelerine neden oldu.",
-      "link": "https://www.odatv.com/ozel/igdir-universitesinde-skandal-adrese-teslim-ilan-120164885",
-      "published": "2026-10-02T10:25:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:35:34.326448+00:00"
-    },
-    {
-      "id": "22bef1b4f6e9f7b8",
-      "source": "OdaTV",
-      "title": "Iğdır Üniversitesi'nde 'adrese teslim ilan' iddiası",
-      "summary": "Iğdır Üniversitesi’nin akademik personel ilanındaki özel şartlar dikkat çekti. Doktor Öğretim Üyesi kadrosu için adaylardan “Camiler ve Arhavi serenderleri” konularında çalışmış olma şartı aranması, ilanın belirli bir adayı işaret ettiği değerlendirmelerine neden oldu.",
-      "link": "https://www.odatv.com/ozel/igdir-universitesinde-adrese-teslim-ilan-iddiasi-120164885",
-      "published": "2026-10-02T10:25:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:30:52.134810+00:00"
-    },
-    {
-      "id": "027adc0e6ece7a53",
-      "source": "Yeniçağ",
-      "title": "Gazeteci Yavuz Demirağ davasında yeni mütalaa: Azmettiriciler için suç duyurusu",
-      "summary": "Gazeteci Yavuz Selim Demirağ’a yönelik saldırı davasında savcı, 6 sanığın cezasının artırılmasını ve olayı planlayan azmettiricilerin tespiti için suç duyurusunda bulunulmasını istedi. Duruşma 12 Ocak’a ertelendi.",
-      "link": "https://www.yenicaggazetesi.com/gazeteci-yavuz-demirag-davasinda-yeni-mutalaa-azmettiriciler-icin-suc-duyurusu-1077699h.htm",
-      "published": "2026-10-02T10:25:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:31.868578+00:00"
-    },
-    {
-      "id": "e48cf4f3db08795b",
-      "source": "Cumhuriyet",
-      "title": "Klasik balık tariflerini unutturan lezzet: Palamut köftesi tarifi",
-      "summary": "Palamutla hazırlanan bu farklı köfte tarifi, balık sofralarına lezzetli ve pratik bir alternatif sunuyor. Yumuşak balık eti ve aromatik malzemelerle hazırlanan palamut köftesi, kolay yapımıyla sofralara farklılık katıyor.",
-      "link": "https://www.cumhuriyet.com.tr/gurme/klasik-balik-tariflerini-unutturan-lezzet-palamut-koftesi-tarifi-2543061",
-      "published": "2026-10-02T10:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:30:43.747661+00:00"
-    },
-    {
-      "id": "b0934d395517d1f8",
-      "source": "Ekonomim",
-      "title": "Enda Enerji, İzmir’deki kapasitesini 10 milyon dolarlık yatırımla artırıyor",
-      "summary": "Türkiye ve Avrupa’daki yenilenebilir enerji yatırımlarını sürdüren Enda Enerji Holding, İzmir Urla’daki Rüzgâr Enerjisi Santrali’nin (RES) kapasite artışı için 10 milyon dolarlık yatırımı hayata geçiriyor. Urla RES’te iki yeni türbinin kurulacağı yatırımın temel atma töreni gerçekleştirildi. Yatırımla santralin elektriksel kurulu gücü yaklaşık yüzde 65 artışla 13 MWe’den 21,4 MWe’ye, mekanik kurul",
-      "link": "https://www.ekonomim.com/sirketler/enda-enerji-izmirdeki-kapasitesini-10-milyon-dolarlik-yatirimla-artiriyor-haberi-922167",
-      "published": "2026-10-02T10:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:30:58.754922+00:00"
-    },
-    {
-      "id": "cd4605a25a054b77",
-      "source": "Star",
-      "title": "Bakan Uraloğlu: (Fon soruşturması) Ucu kime dokunuyorsa gereği yapılacak",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, fon soruşturmasına ilişkin, \"Cumhurbaşkanımız radikal bir şekilde kararını verdi. Ucu kime dokunuyorsa gereği yapılacak. Bir taraftan gerçek anlamdaki mağdurlar korunurken diğer taraftan da 86 milyonun kaynakları oraya aktarılmayacak.\" dedi.",
-      "link": "https://www.star.com.tr/politika/bakan-uraloglu-fon-sorusturmasi-ucu-kime-dokunuyorsa-geregi-yapilacak-haber-2043981/",
-      "published": "2026-10-02T10:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:30.910352+00:00"
-    },
-    {
-      "id": "956c888c15985514",
-      "source": "Karar",
-      "title": "Melisa Şenolsun’: Test sonucu yeniden değerlendirilmeli",
-      "summary": "Bakırköy Cumhuriyet Başsavcılığı tarafından yürütülen yasaklı madde soruşturması kapsamında gözaltına alınan oyuncu Melisa Şenolsun’un Adli Tıp Kurumu raporunda saç örneğinin pozitif çıktığı öğrenildi. Şenolsun, kan ve idrar testlerinin negatif olduğunu belirterek rapora itiraz edeceğini açıkladı.",
-      "link": "https://www.karar.com/guncel-haberler/melisa-senolsun-test-sonucu-yeniden-degerlendirilmeli-2075810",
-      "published": "2026-10-02T10:24:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:31.526512+00:00"
-    },
-    {
-      "id": "a3d9b3f6b20a505d",
-      "source": "Aydınlık",
-      "title": "Formula 1'de sıradaki durak Malezya",
-      "summary": "Formula 1&#039;de sezonun 16. yarışı, güvenlik endişeleri nedeniyle Bahreyn yerine Malezya&#039;da düzenlenecek. Yarış, 4 Ekim Pazar günü TSİ 10.00&#039;da başlayacak.",
-      "link": "https://www.aydinlik.com.tr/haber/formula-1de-siradaki-durak-malezya-592613",
-      "published": "2026-10-02T10:24:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:30:51.037982+00:00"
-    },
-    {
-      "id": "82ab9fc36178ab05",
-      "source": "Karar",
-      "title": "Bayrağı çöpe attı, 'vatan hainleri' diyerek paylaştı: Gözaltına alındı",
-      "summary": "Tekirdağ’ın Çerkezköy ilçesinde Türk bayraklarını çöpe attığı ve görüntüleri sosyal medyada paylaştığı belirlenen Y.T. gözaltına alındı. Y.T.’nin paylaşımında, “Vatan hainleri bir sürü bayrak atmışlar” demişti.",
-      "link": "https://www.karar.com/guncel-haberler/bayragi-cope-atti-vatan-hainleri-diyerek-paylasti-gozaltina-alindi-2075809",
-      "published": "2026-10-02T10:24:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:31.526553+00:00"
-    },
-    {
-      "id": "d220e9a752ad67c3",
-      "source": "Halk TV",
-      "title": "TFF’den son dakika açıklaması: Gerçeğe aykırı",
-      "summary": "Türkiye Futbol Federasyonu, A Milli Takım kafilesinin Belçika&#039;ya girişinde havalimanında arama ve sorun yaşandığı yönündeki haberlerin gerçeği yansıtmadığını açıkladı.",
-      "link": "https://halktv.com.tr/spor/tffden-son-dakika-aciklamasi-gercege-aykiri-1058971h",
-      "published": "2026-10-02T10:24:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:33.534943+00:00"
-    },
-    {
-      "id": "033411307943c29f",
-      "source": "Karar",
-      "title": "Bayrağı çöpe attı, 'vatan hainleri' diyerek paylaştı: Tutuklandı",
-      "summary": "Tekirdağ’ın Çerkezköy ilçesinde Türk bayraklarını çöpe attığı ve görüntüleri sosyal medyada “Vatan hainleri bir sürü bayrak atmışlar” diyerek paylaştığı belirlenen Yasin Türk gözaltına alındı. Türk, 'Halkı yanıltıcı bilgiyi alenen yayma' suçundan tutuklandı.",
-      "link": "https://www.karar.com/guncel-haberler/bayragi-cope-atti-vatan-hainleri-diyerek-paylasti-gozaltina-alindi-2075809",
-      "published": "2026-10-02T10:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T12:10:42.400114+00:00"
-    },
-    {
-      "id": "8a38211411285fc9",
-      "source": "Cumhuriyet",
-      "title": "'Bütün yollar Roma'ya çıkar' sözüne bilimsel sürpriz: İstanbul Roma'yı geride bıraktı",
-      "summary": "Nature Communications dergisinde yayımlanan yeni bir araştırma, Roma İmparatorluğu'nun yaklaşık 299 bin kilometrelik kara yolu ağını mercek altına aldı. Ağ bilimi yöntemleriyle yapılan incelemede İstanbul, Ankara, Antakya ve Korint'in kara ulaşımındaki geçiş noktaları açısından Roma'dan daha merkezi konumda olduğu belirlendi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/butun-yollar-roma-ya-cikar-sozune-bilimsel-surpriz-istanbul-roma-yi-geride-birakti-2543062",
-      "published": "2026-10-02T10:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:30:43.747698+00:00"
-    },
-    {
-      "id": "e229171f5a513364",
-      "source": "Karar",
-      "title": "Melisa Şenolsun: Test sonucu yeniden değerlendirilmeli",
-      "summary": "Bakırköy Cumhuriyet Başsavcılığı tarafından yürütülen yasaklı madde soruşturması kapsamında gözaltına alınan oyuncu Melisa Şenolsun’un Adli Tıp Kurumu raporunda saç örneğinin pozitif çıktığı öğrenildi. Şenolsun, kan ve idrar testlerinin negatif olduğunu belirterek rapora itiraz edeceğini açıkladı.",
-      "link": "https://www.karar.com/guncel-haberler/melisa-senolsun-test-sonucu-yeniden-degerlendirilmeli-2075810",
-      "published": "2026-10-02T10:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:30:49.521312+00:00"
-    },
-    {
-      "id": "fd97f54b5b8002a3",
-      "source": "Akşam",
-      "title": "Ziraat Bankası ve TKDK'den tarım ve gıda yatırımlarına finansman desteği",
-      "summary": "Ziraat Bankası ile Tarım ve Kırsal Kalkınmayı Destekleme Kurumu (TKDK), tarım ve gıda sektöründe yapılacak yatırımlara 10 milyon dolara kadar finansman imkanı sunuyor.",
-      "link": "https://www.aksam.com.tr/ekonomi/ziraat-bankasi-ve-tkdkden-tarim-ve-gida-yatirimlarina-finansman-destegi/haber-1703071",
-      "published": "2026-10-02T10:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:30.058941+00:00"
-    },
-    {
-      "id": "613e1f4d73eea338",
-      "source": "Gazete Pencere",
-      "title": "Galatasaray'a Osimhen müjdesi",
-      "summary": "Galatasaray'da tedavileri devam eden Victor Osimhen ve Mario Lemina'nın Kasımpaşa maçına kadar hazır olacakları iddia edildi.",
-      "link": "https://www.gazetepencere.com/spor/galatasaraya-osimhen-mujdesi-1-717645h",
-      "published": "2026-10-02T10:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:33.094423+00:00"
-    },
-    {
-      "id": "7507a8693b103b3a",
-      "source": "Yeniçağ",
-      "title": "Bitcoin 86 bin doların üzerine çıktı",
-      "summary": "Eylül ayındaki kayıplarını silen Bitcoin, tarihsel yükseliş dönemi &#039;Uptober&#039; rüzgarını arkasına alarak yeniden 86 bin doların üzerine çıktı.",
-      "link": "https://www.yenicaggazetesi.com/bitcoin-86-bin-dolarin-uzerine-cikti-1077698h.htm",
-      "published": "2026-10-02T10:23:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:31.868616+00:00"
-    },
-    {
-      "id": "a0679fee420e5f5a",
-      "source": "BBC News Türkçe",
-      "title": "Fon Koordinasyon Kurulu ikinci toplantısını yaptı: 'Ödeme takvimi değerlendirildi'",
-      "summary": "Fon Koordinasyon Kurulu, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında ikinci toplantısını yaptı. Cumhurbaşkanlığı'na bağlı İletişim Başkanlığı tarafından yapılan yazılı açıklamaya göre, toplantıda yatırımcılara ödemeler ve ödeme takvimi konuları ele alındı.",
-      "link": "https://www.bbc.com/turkce/articles/cm36l6gzjnpwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T10:23:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:44.292456+00:00"
-    },
-    {
-      "id": "6c7d7d5c7d22ee6a",
-      "source": "OdaTV",
-      "title": "Gaziosmanpaşa Belediyesi davasında Hakan Bahçetepe'nin tutukluğuna devam kararı",
-      "summary": "Gaziosmanpaşa Belediyesi davasının ikinci duruşmasında Baki Aydöner’in tahliyesine karar verilirken, Hakan Bahçetepe’nin ise tutukluluk halinin devamı kararı çıktı.",
-      "link": "https://www.odatv.com/guncel/gaziosmanpasa-belediyesi-davasinda-hakan-bahcetepenin-tutukluguna-devam-karari-120164884",
-      "published": "2026-10-02T10:23:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T11:05:38.779887+00:00"
-    },
-    {
-      "id": "542d5e1d716aee38",
-      "source": "OdaTV",
-      "title": "Gaziosmanpaşa Belediyesi davasında Hakan Bahçetepe için tutukluğa devam talebi",
-      "summary": "Gaziosmanpaşa Belediyesi davasının ikinci duruşmasında savcı, Baki Aydöner’in tahliyesini, Hakan Bahçetepe’nin ise tutukluluk halinin devamını talep etti. Mahkeme, ara karar için duruşmaya ara verdi.",
-      "link": "https://www.odatv.com/guncel/gaziosmanpasa-belediyesi-davasinda-hakan-bahcetepe-icin-tutukluga-devam-talebi-120164884",
-      "published": "2026-10-02T10:23:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:35:34.326481+00:00"
-    },
-    {
-      "id": "fb3f3cd173baeab2",
-      "source": "Akşam",
-      "title": "Tokat'taki olay sonrası uzmanlardan uyarı: Bu çiçek çocuklar için zehirli olabilir! 1 yaprağı bile riskli",
-      "summary": "Tokat'ta “ağlayan çiçek” olarak bilinen difenbahyayı yiyen 2 yaşındaki çocuğun yoğun bakıma alınması, evlerdeki zehirli süs bitkilerini yeniden gündeme getirdi. Uzmanlar, özellikle küçük çocukların bulunduğu evlerde bu bitkilere karşı dikkatli olunması gerektiğini belirtiyor. Peki, evdeki hangi bitkiler çocuklar için tehlikeli?",
-      "link": "https://www.aksam.com.tr/mor-papatya/tokattaki-olay-sonrasi-uzmanlardan-uyari-bu-cicek-cocuklar-icin-zehirli-olabilir-1-yapragi/haber-1703070",
-      "published": "2026-10-02T10:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:30.058987+00:00"
-    },
-    {
-      "id": "dd866103ed05c6f7",
-      "source": "Star",
-      "title": "Ziraat Bankası ve TKDK'den tarım ve gıda yatırımlarına finansman desteği",
-      "summary": "Ziraat Bankası ile Tarım ve Kırsal Kalkınmayı Destekleme Kurumu (TKDK), tarım ve gıda sektöründe yapılacak yatırımlara 10 milyon dolara kadar finansman imkanı sunuyor.",
-      "link": "https://www.star.com.tr/ekonomi/ziraat-bankasi-ve-tkdkden-tarim-ve-gida-yatirimlarina-finansman-destegi-haber-2043980/",
-      "published": "2026-10-02T10:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:30.910389+00:00"
-    },
-    {
-      "id": "b76bcb0bce9d2703",
-      "source": "Milliyet",
-      "title": "Liselilerin öfkesi dinmiyor! Fransa'da gözaltı sayısı 2 bini aştı, okullar kapatıldı",
-      "summary": "Fransa'nın başkenti Paris bölgesinde 21 Eylül'de başlayan ve hızla ülke geneline yayılan protestolar, lise son sınıflardaki öğrencilerin binalara erişimi engellemesi ve polisle çatışmasına yol açtı.Okul saatlerinin aşırı uzun olmasından şikayetçi olan öğrenciler aynı zamanda koşulların yetersizliği, sınıfların aşırı ısınması ve öğretmelerin çok fazla devamsızlık yaptığından da mustarip olduklarını",
-      "link": "https://www.milliyet.com.tr/dunya/liselilerin-ofkesi-dinmiyor-fransada-gozalti-sayisi-2-bini-asti-okullar-kapatildi-7671615",
-      "published": "2026-10-02T10:21:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:29.546257+00:00"
-    },
-    {
-      "id": "3762cb6796512cca",
-      "source": "Euronews Türkçe",
-      "title": "Yapay zekâ veri merkezlerinin geleceği uzayda mı? Google yanıt arıyor",
-      "summary": "Teknoloji devi, yapay zekâ çiplerini taşıyan bir prototip uydu fırlattı; güneş enerjili yörünge altyapısının gelecekte büyük ölçekli hesaplamayı destekleyip destekleyemeyeceğini araştırıyor.",
-      "link": "https://tr.euronews.com/2026/10/02/yapay-zeka-veri-merkezlerinin-gelecegi-uzayda-mi-google-yanit-ariyor",
-      "published": "2026-10-02T10:20:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:40:55.615934+00:00"
-    },
-    {
-      "id": "e4758264f3dadc16",
-      "source": "Euronews Türkçe",
-      "title": "Yapay zekâ veri merkezlerinin geleceği uzayda mı: Google yanıtı arıyor",
-      "summary": "Teknoloji devi, bir gün yörüngedeki güneş enerjili altyapının büyük ölçekli hesaplamayı destekleyip destekleyemeyeceğini görmek için yapay zekâ çiplerini taşıyan bir prototip uydu fırlattı.",
-      "link": "https://tr.euronews.com/2026/10/02/yapay-zeka-veri-merkezlerinin-gelecegi-uzayda-mi-google-yaniti-ariyor",
-      "published": "2026-10-02T10:20:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T10:25:44.765097+00:00"
     }
   ]
 }

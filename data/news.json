@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-10-02T18:21:02.648657+00:00",
+  "last_updated": "2026-10-02T18:25:58.018700+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 501,
+  "new_items_this_run": 519,
   "items": [
+    {
+      "id": "8e0b1e9870b41d3f",
+      "source": "Akşam",
+      "title": "Çanakkale'de feribot seferleri iptal edildi",
+      "summary": "Ege Denizi'nin kuzeyindeki olumsuz hava koşulları nedeniyle Bozcaada ve Gökçeada hatlarında yarınki bazı feribot seferleri iptal edildi.",
+      "link": "https://www.aksam.com.tr/guncel/canakkalede-feribot-seferleri-iptal-edildi/haber-1703163",
+      "published": "2026-10-02T18:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T18:25:39.697625+00:00"
+    },
+    {
+      "id": "5b49d223eff8a574",
+      "source": "Gazete Pencere",
+      "title": "Köpüklü kahve pişirme tüyosu! Karaköylü kahveci açıkladı",
+      "summary": "Türk kahvesinin köpüğünü tutturmak için pahalı bir makineye gerek yok. Karaköy’de yıllardır kahve hazırlayan ustaların kullandığı yöntem oldukça basit:",
+      "link": "https://www.gazetepencere.com/gozden-kacmasin/kopuklu-kahve-pisirme-tuyosu-karakoylu-kahveci-acikladi-717701h",
+      "published": "2026-10-02T18:22:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T18:25:43.817634+00:00"
+    },
+    {
+      "id": "88b786010601433c",
+      "source": "Türkiye Gazetesi",
+      "title": "Siirt'te aileler çatıştı! Can kayıpları ve yaralılar...",
+      "summary": "Siirt’te akraba aileler arasında alacak-verecek meselesi nedeniyle çıkan tartışma silahlı çatışmaya dönüştü. Olayda 2 kişi hayatını kaybetti, 5 kişi ağır yaralandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/siirtte-aileler-catisti-can-kayiplari-ve-yaralilar-var-1820187",
+      "published": "2026-10-02T18:20:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T18:25:37.584526+00:00"
+    },
     {
       "id": "1861cbec1fd7a8c6",
       "source": "Star",
@@ -127,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T18:20:43.900942+00:00"
+    },
+    {
+      "id": "e67b6b29e208b9ca",
+      "source": "Habertürk",
+      "title": "Merkez Bankası faiz kararı ne zaman açıklanacak?",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası'nın (TCMB) Para Politikası Kurulu (PPK) toplantı tarihi belli oldu. Geçtiğimiz ay politika faizi olan bir hafta vadeli repo ihale faiz oranı yüzde 37’de sabit tutulurken TCMB'nin, ekim ayında uygulayacağı faiz politikası merak ediliyor. Peki Merkez Bankası faiz kararı ne zaman açıklanacak, saat kaçta? İşte, TCMB Merkez Bankası faiz kararı toplantı tarihi",
+      "link": "https://www.haberturk.com/bilgi/foto/merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-tcmb-merkez-bankasi-faiz-karari-toplanti-tarihi-3916851",
+      "published": "2026-10-02T18:16:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T18:25:31.920003+00:00"
     },
     {
       "id": "7cb7c29b10d63ceb",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T15:10:40.216052+00:00"
-    },
-    {
-      "id": "5a78b2d3fbe43929",
-      "source": "Ekonomim",
-      "title": "MHK Başkanı Ferhat Gündoğdu'nun ifadesi ortaya çıktı",
-      "summary": "MHK (Merkez Hakem Kurulu) Başkanı Ferhat Gündoğdu&#039;nun emniyetteki ifadesi ortaya çıktı. Gündoğdu, bazı hakemleri maç öncesi aradığını kabul ederken, klasman değişimlerinin TFF iradesiyle yapıldığını söyledi.",
-      "link": "https://www.ekonomim.com/gundem/son-dakika-mhk-baskani-ferhat-gundogdunun-ifadesi-ortaya-cikti-haberi-922221",
-      "published": "2026-10-02T15:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T17:15:53.073454+00:00"
-    },
-    {
-      "id": "159f5192d041bfd8",
-      "source": "Evrensel",
-      "title": "Soma'da maden ocağında iş cinayeti: Birleşik Metal-İş'ten “kamulaştırma” çağrısı",
-      "summary": "Birleşik Metal-İş, Soma’daki iş cinayeti ile ilgili yaptığı açıklamada, \"301 sınıf kardeşimizi yitirdiğimiz Soma Katliamı'nın ardından hiçbir şey değişmedi. Madenler kamulaştırılmalı, özelleştirme ve taşeronlaştırma politikalarına son verilmeli\" dedi",
-      "link": "https://www.evrensel.net/haber/6003159/somada-maden-ocaginda-is-cinayeti-birlesik-metal-isten-kamulastirma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-02T15:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T15:30:46.637095+00:00"
-    },
-    {
-      "id": "a816f9fea2c97ee5",
-      "source": "Ekonomim",
-      "title": "Son dakika MHK Başkanı Ferhat Gündoğdu'nun ifadesi ortaya çıktı",
-      "summary": "MHK Başkanı Ferhat Gündoğdu&#039;nun emniyetteki ifadesi ortaya çıktı. Gündoğdu, bazı hakemleri maç öncesi aradığını kabul ederken, klasman değişimlerinin TFF iradesiyle yapıldığını söyledi.",
-      "link": "https://www.ekonomim.com/gundem/son-dakika-mhk-baskani-ferhat-gundogdunun-ifadesi-ortaya-cikti-haberi-922221",
-      "published": "2026-10-02T15:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T15:15:52.965535+00:00"
-    },
-    {
-      "id": "3c8114411fde8342",
-      "source": "Yeni Akit",
-      "title": "ABD'den Avrupa'ya dizel şoku! Trump'ın tehdidi sonrası milyonlarca varil rezerv piyasaya sürülecek",
-      "summary": "ABD Başkanı Donald Trump'ın ihracat kısıtlama tehdidinin ardından Avrupa ülkeleri geri adım atarak acil durum dizel rezervlerini piyasaya sürmeyi kabul ederken, Fransa Cumhurbaşkanı Emmanuel Macron G7 ülkelerinin 100 milyon varile kadar yakıt ve ham petrolü serbest bırakacağını açıkladı.",
-      "link": "https://www.yeniakit.com.tr/haber/abdden-avrupaya-dizel-soku-trumpin-tehdidi-sonrasi-milyonlarca-varil-rezerv-piyasaya-surulecek-2026053.html",
-      "published": "2026-10-02T15:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T15:10:37.716118+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-02T01:31:15.100894+00:00",
+  "last_updated": "2026-10-02T01:35:43.951695+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 502,
+  "new_items_this_run": 532,
   "items": [
+    {
+      "id": "deec98d12490bb48",
+      "source": "Karar",
+      "title": "İran medyasından Flydubai iddiası: Netanyahu her şeyi üç gün önceden planlamıştı",
+      "summary": "İran devlet kanalı Press TV, İsrail Başbakanı Binyamin Netanyahu'nun ABD'yi İran'la yeni bir savaşa çekmek amacıyla Birleşik Arap Emirlikleri uçağına yönelik 'sahte bayrak' operasyonu planladığını öne sürdü. İddiaya göre, Netanyahu BAE ziyaretinde, bu operasyona dair görüşme yaptı.",
+      "link": "https://www.karar.com/dunya-haberleri/iran-medyasindan-flydubai-iddiasi-israil-her-seyi-uc-gun-once-2075683",
+      "published": "2026-10-02T01:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T01:35:31.730099+00:00"
+    },
     {
       "id": "f24a3b9be72d5cf4",
       "source": "Karar",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T01:30:55.498962+00:00"
+    },
+    {
+      "id": "8deb0615008a5089",
+      "source": "Finans Gündem",
+      "title": "ABD'den Avrupa'ya dizel çağrısı: İlave arzı derhal piyasaya sürün",
+      "summary": "ABD Hazine Bakanı Scott Bessent, küresel dizel arzındaki aksaklıkların giderilmesi için Avrupalı ortaklarına mevcut taahhütlerini yerine getirme sürecini hızlandırma ve ilave arzı derhal piyasaya sunma çağrısında bulundu.",
+      "link": "https://www.finansingundemi.com/haber/abdden-avrupaya-dizel-cagrisi-ilave-arzi-derhal-piyasaya-surun/1910197",
+      "published": "2026-10-02T01:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-02T01:35:38.924503+00:00"
     },
     {
       "id": "d60141ba2c157e5c",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-01T20:20:53.670352+00:00"
-    },
-    {
-      "id": "988bf497bf8223a6",
-      "source": "Cumhuriyet",
-      "title": "Ziraat Bankası'ndan 'Tera Yatırım' iddialarına açıklama: 'Tamamen asılsız'",
-      "summary": "Ziraat Bankası'ndan yapılan açıklamada, Tera Yatırım'a 600 milyon ABD doları kredi kullandırıldığı, bu kaynağın belirli kişi ve gruplara aktarıldığı ve kredinin geri ödenmediği yönündeki iddiaların \"tamamen asılsız\" olduğu bildirildi. Açıklamada, Tera Yatırım'ın Ziraat Bankası nezdinde herhangi bir nakdi ve gayrinakdi riskinin bulunmadığı kaydedildi.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/ziraat-bankasi-ndan-tera-yatirim-iddialarina-aciklama-tamamen-asilsiz-2542909",
-      "published": "2026-10-01T20:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T20:15:38.766045+00:00"
-    },
-    {
-      "id": "2261377dd1d19e0a",
-      "source": "Akşam",
-      "title": "Anadolu Efes, Kızılyıldız'a diş geçiremedi",
-      "summary": "THY EuroLeague'de Anadolu Efes, 3. hafta karşılaşmasında deplasmanda Kızılyıldız'a konuk oldu. Mücadeleden Anadolu Efes, 77-72'lik skorla mağlup ayrıldı.",
-      "link": "https://www.aksam.com.tr/spor/anadolu-efes-kizilyildiza-dis-geciremedi/haber-1702957",
-      "published": "2026-10-01T20:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-01T20:15:44.145105+00:00"
     }
   ]
 }

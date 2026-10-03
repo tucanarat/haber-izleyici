@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-03T01:31:02.093678+00:00",
+  "last_updated": "2026-10-03T01:35:50.572103+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 542,
+  "new_items_this_run": 543,
   "items": [
+    {
+      "id": "ac31071e9fb0f009",
+      "source": "Habertürk",
+      "title": "9 ilde dolandırıcılık operasyonu: 31 tutuklama",
+      "summary": "Kocaeli merkezli 9 ilde düzenlenen nitelikli dolandırıcılık operasyonunda gözaltına alınan 52 zanlıdan 31'i tutuklandı",
+      "link": "https://www.haberturk.com/gundem/9-ilde-nitelik-dolandiricilik-operasyonu-31-tutuklama-3916898",
+      "published": "2026-10-03T01:30:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T01:35:24.147396+00:00"
+    },
     {
       "id": "b08fa209cb9d2f51",
       "source": "Habertürk",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T20:20:39.711398+00:00"
-    },
-    {
-      "id": "5899a42626e552a2",
-      "source": "Milliyet",
-      "title": "CNN Türk, Trump'a CAATSA yaptırımlarını sordu: Türkiye'yi çok seviyorum, CAATSA'da engel yok",
-      "summary": "Ayrıntılar geliyor...",
-      "link": "https://www.milliyet.com.tr/dunya/cnn-turk-trumpa-caatsa-yaptirimlarini-sordu-turkiyeyi-cok-seviyorum-caatsada-engel-yok-7672045",
-      "published": "2026-10-02T20:15:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T20:20:38.457759+00:00"
     }
   ]
 }

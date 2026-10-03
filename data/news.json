@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-03T02:25:49.973039+00:00",
+  "last_updated": "2026-10-03T02:31:13.227616+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 534,
+  "new_items_this_run": 512,
   "items": [
+    {
+      "id": "4ac24a8b730667e4",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Yemen ordusu: Taiz'de Husilere ait noktalara 71 saldırı düzenledik",
+      "summary": "Yemen ordusu, ülkenin batısındaki Taiz vilayetinin 10 bölgesinde İran destekli Husilere ait noktalara 71 saldırı düzenlediklerini açıkladı.",
+      "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-taizde-husilere-ait-noktalara-71-saldiri-duzenledik/4076668",
+      "published": "2026-10-03T02:25:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T02:30:48.329760+00:00"
+    },
     {
       "id": "9744d33573138bcd",
       "source": "Halk TV",
@@ -2250,6 +2261,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-03T00:30:42.637095+00:00"
+    },
+    {
+      "id": "839d7bf7a2502716",
+      "source": "Habertürk",
+      "title": "AÖL sınavları ne zaman?",
+      "summary": "AÖL sınav takvimi duyuruldu. Açık Öğretim Lisesi sınavları öncesi AÖL sınav giriş belgesi MEB duyurusu ile erişime açılacak. Öğrenciler dönem sınavlarına fotoğraflı sınav giriş belgesi ve geçerli bir kimlik belgesiyle girecekler. Peki AÖL sınavları ne zaman, hangi tarihte yapılacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/aol-sinavlari-ne-zaman-meb-acik-lise-2026-2027-aol-sinav-takvimi-3916874",
+      "published": "2026-10-02T22:02:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T02:30:42.560413+00:00"
     },
     {
       "id": "bcc07853533293e1",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T20:40:42.534114+00:00"
-    },
-    {
-      "id": "1a906749d365acac",
-      "source": "Halk TV",
-      "title": "Villayı uyuşturucu imalathanesine çevirmiş: Yüzlerce kök kenevir ele geçirildi",
-      "summary": "İzmir’in Kemalpaşa ilçesinde uyuşturucu imalathanesine dönüştürüldüğü belirlenen villaya düzenlenen operasyonda, sera düzeneği ve 300 kök kenevir ele geçirildi. Bir şüpheli gözaltına alındı.",
-      "link": "https://halktv.com.tr/turkiye/villayi-uyusturucu-imalathanesine-cevirmis-yuzlerce-kok-kenevir-ele-gecirildi-1059084h",
-      "published": "2026-10-02T20:32:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T20:35:39.396626+00:00"
-    },
-    {
-      "id": "9264d97b62801e43",
-      "source": "Karar",
-      "title": "Belçika karşısında ağır yenilgi: Türkiye sahadan 3-0 mağlup ayrıldı",
-      "summary": "A Milli Futbol Takımı, deplasmanda karşılaştığı Belçika’ya 3-0 mağlup oldu. Belçika’ya galibiyeti getiren golleri Kevin De Bruyne ve Romelu Lukaku kaydetti.",
-      "link": "https://www.karar.com/spor-haberleri/belcika-karsisinda-agir-yenilgi-turkiye-sahadan-3-0-maglup-ayrildi-2075922",
-      "published": "2026-10-02T20:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T20:40:37.226075+00:00"
     }
   ]
 }

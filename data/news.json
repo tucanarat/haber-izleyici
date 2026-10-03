@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-03T01:20:51.981732+00:00",
+  "last_updated": "2026-10-03T01:25:56.456746+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 542,
+  "new_items_this_run": 543,
   "items": [
+    {
+      "id": "b08fa209cb9d2f51",
+      "source": "Habertürk",
+      "title": "Yolcu otobüsünün çarptığı yaya öldü",
+      "summary": "Kastamonu'da kara yolunda ilerleyen yolcu otobüsünün çarptığı yaya, kaldırıldığı hastanede hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/kastamonu-da-yolcu-otobusunun-carptigi-yaya-oldu-3916897",
+      "published": "2026-10-03T01:16:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T01:25:27.087088+00:00"
+    },
     {
       "id": "3da6aa58823b9811",
       "source": "Türkiye Gazetesi",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-03T01:20:35.635764+00:00"
+    },
+    {
+      "id": "739e0053cbfd6358",
+      "source": "Finans Gündem",
+      "title": "TFFHGD İstanbul Şubesine fesih davası",
+      "summary": "Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği İstanbul Şubesinin feshedilmesi istemiyle davaname hazırlandı.",
+      "link": "https://www.finansingundemi.com/haber/tffhgd-istanbul-subesine-fesih-davasi/1910306",
+      "published": "2026-10-03T01:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T01:25:48.948320+00:00"
     },
     {
       "id": "5100a142d15266c1",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T20:20:38.457759+00:00"
-    },
-    {
-      "id": "bc491afdb829f590",
-      "source": "Habertürk",
-      "title": "Maçta ikinci gol sesi!",
-      "summary": "Belçika-Türkiye maçının canlı anlatımı HT SPOR'da... A Milli Futbol Takımımız, UEFA Uluslar Ligi'ndeki 3. maçında Belçika'ya konuk oluyor. Uluslar Ligi'nde oynadığı ilk iki mücadelede Fransa ve İtalya'ya mağlup olan ay-yıldızlılar, Belçika deplasmanında ilk puanlarını almak için sahaya çıkıyor. Belçika karşısında alınacak olası bir mağlubiyet halinde ise teknik direktör Vincenzo Montella'nın koltu",
-      "link": "https://www.haberturk.com/spor/belcika-turkiye-maci-canli-anlatim-belcika-turkiye-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-3916662",
-      "published": "2026-10-02T20:15:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T20:20:31.929067+00:00"
-    },
-    {
-      "id": "e84d9dc4f5bc9189",
-      "source": "Evrensel",
-      "title": "EuroLeague'de üçüncü hafta: Beşiktaş, Barcelona'ya evinde kaybetti",
-      "summary": "Erkekler EuroLeague'de üçüncü hafta maçında Beşiktaş, Barcelona'ya 95-82 kaybetti. Beşiktaş Başantrenörü Dusan Alimpijevic, \"10 yeni oyuncu olunca bir şeyleri oturtmak için zamana ihtiyacınız oluyor\" dedi.",
-      "link": "https://www.evrensel.net/haber/6003192/euroleague-de-ucuncu-hafta-besiktas-barcelona-ya-evinde-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-02T20:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-03T01:20:35.931763+00:00"
     }
   ]
 }

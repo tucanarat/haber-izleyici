@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-03T02:36:04.595603+00:00",
+  "last_updated": "2026-10-03T02:41:05.614572+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 532,
+  "new_items_this_run": 503,
   "items": [
+    {
+      "id": "ccab1aa138423fec",
+      "source": "Türkiye Gazetesi",
+      "title": "İstanbul'un merkezinde gece operasyonu!",
+      "summary": "İstanbul Beyoğlu'nda güvenlik ve kamu düzenini sağlamaya yönelik geniş kapsamlı denetimlerde, aranan 11 şüpheli yakalanırken mevzuata aykırı 20 iş yeri kapatıldı. Hanutçuluk, dilencilik ve değnekçilik yapan onlarca kişiye adli ve idari işlem uygulanırken, kurallara uymayan eğlence mekanlarına 725 bin lira ceza kesildi, dilendirilen 25 çocuk ise muhafaza altına alındı.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/istanbulun-merkezinde-gece-operasyonu-dilenci-hanutcu-ve-degnekcilere-agir-darbe-1820236",
+      "published": "2026-10-03T02:35:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T02:40:40.007998+00:00"
+    },
     {
       "id": "4ac24a8b730667e4",
       "source": "Anadolu Ajansı (Güncel)",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T20:40:31.905098+00:00"
-    },
-    {
-      "id": "4cf225bee6ef3806",
-      "source": "Independent Türkçe",
-      "title": "AK Parti Milletvekili Bayram'dan iktidarın uygulamalarına eleştiri: Adalette güveni sağlayalım",
-      "summary": "AK Parti İstanbul Milletvekili Serkan Bayram, NOW TV'de katıldığı programda \"fon krizi\" olarak gündeme gelen soruşturmaya ve adalet politikalarına ilişkin değerlendirmelerde bulundu. Bayram, soruşturma kapsamında gündeme gelen isimlere ilişkin, \"Bir sürü engelli kardeşimizin hakkını elinden aldı. Fatma Betül yesin diye mi? Bir de sosyal politikalara bakıyordu. Bedelini ödesin. Artık içim acıyor\" i",
-      "link": "https://www.indyturk.com/node/783296/haber/ak-parti-milletvekili-bayramdan-iktidar%C4%B1n-uygulamalar%C4%B1na-ele%C5%9Ftiri-adalette-g%C3%BCveni",
-      "published": "2026-10-02T20:33:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T20:40:42.534114+00:00"
     }
   ]
 }

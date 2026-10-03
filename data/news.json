@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-03T22:50:59.947734+00:00",
+  "last_updated": "2026-10-03T22:56:08.509904+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 529,
+  "new_items_this_run": 530,
   "items": [
+    {
+      "id": "bd872a0443875d83",
+      "source": "Karar",
+      "title": "İrlanda - İsrail maçı öncesi \"maymun\" krizi: Basın toplantısı yarıda kesildi",
+      "summary": "İrlanda Milli Takımı’nın UEFA Uluslar Ligi’nde İsrail ile oynayacağı karşılaşma öncesinde düzenlenen basın toplantısı, İsrailli bir gazetecinin İrlandalı futbolculara yönelik \"maymun\" iddiasının ardından yarıda kesildi. İrlanda Futbol Federasyonu İletişim Sorumlusu Kieran Crowley, iddiayı “tamamen gerçek dışı” olarak nitelendirdi.",
+      "link": "https://www.karar.com/spor-haberleri/irlanda-cephesinden-israilli-gazetecinin-iddiasi-sonrasi-sert-yanit-2076133",
+      "published": "2026-10-03T22:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T22:55:35.348971+00:00"
+    },
     {
       "id": "eb26ee711f52b1f9",
       "source": "Yeniçağ",
@@ -39,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-03T22:45:37.500198+00:00"
+    },
+    {
+      "id": "d0dc83ba8c49814e",
+      "source": "Habertürk",
+      "title": "İsrail, yolcu listesini 2 gün önce almış",
+      "summary": "İsrail'in, Dubai-Tel Aviv seferini yaptığı sırada Suudi Arabistan’a acil iniş yapmak zorunda kalan Flydubai uçağındaki yolcu ve mürettebat listesini 2 gün öncesinden aldığı bildirildi.",
+      "link": "https://www.haberturk.com/dunya/israilin-flydubai-ucagindaki-yolcu-ve-murettebat-listesini-48-saat-oncesinden-aldigi-ortaya-cikti-3917060",
+      "published": "2026-10-03T22:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T22:55:24.235018+00:00"
     },
     {
       "id": "64f42163ba7ec4a8",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-03T18:15:45.003206+00:00"
-    },
-    {
-      "id": "dde1840bcb977a14",
-      "source": "Yeniçağ",
-      "title": "Bilic ve Livakovic kabusu yaşadı: İngiltere'den Hırvatistan'a tarihi fark",
-      "summary": "UEFA Uluslar Ligi&#039;nde İngiltere, deplasmanda Slaven Bilic&#039;in çalıştırdığı Hırvatistan&#039;ı 7-0 mağlup etti. Harry Kane ve Bukayo Saka&#039;nın ikişer gol attığı karşılaşmada Hırvatistan, tarihinin en ağır yenilgisini yaşadı.",
-      "link": "https://www.yenicaggazetesi.com/bilic-ve-livakovic-kabusu-yasadi-ingiltereden-hirvatistana-tarihi-fark-1078140h.htm",
-      "published": "2026-10-03T18:08:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-03T18:10:43.665873+00:00"
-    },
-    {
-      "id": "3c1094f64221e5f5",
-      "source": "Akşam",
-      "title": "Suudi Arabistan'dan Yemen'e 26 hava saldırısı",
-      "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan güçlerinin başkent Sana'ya 26 hava saldırısı düzenlediğini bildirdi.",
-      "link": "https://www.aksam.com.tr/dunya/suudi-arabistandan-yemene-26-hava-saldirisi/haber-1703379",
-      "published": "2026-10-03T18:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-03T18:10:41.942158+00:00"
     }
   ]
 }

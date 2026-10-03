@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-03T01:35:50.572103+00:00",
+  "last_updated": "2026-10-03T01:40:56.375056+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 543,
+  "new_items_this_run": 544,
   "items": [
+    {
+      "id": "45810a44d5e416cd",
+      "source": "Habertürk",
+      "title": "9 ilde dolandırıcılık operasyonu: 31 tutuklama",
+      "summary": "Kocaeli merkezli 9 ilde düzenlenen nitelikli dolandırıcılık operasyonunda gözaltına alınan 52 zanlıdan 31'i tutuklandı",
+      "link": "https://www.haberturk.com/gundem/kocaeli-merkezli-dolandiricilik-operasyonu-31-tutuklama-3916898",
+      "published": "2026-10-03T01:31:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T01:40:30.238742+00:00"
+    },
     {
       "id": "ac31071e9fb0f009",
       "source": "Habertürk",
@@ -2824,6 +2835,17 @@
       "fetched_at": "2026-10-02T21:35:35.286722+00:00"
     },
     {
+      "id": "d36241b4dd092e70",
+      "source": "Sabah",
+      "title": "Beyoğlu’nda hareketli saatler: Gece kulüplerine operasyon düzenlendi!",
+      "summary": "Beyoğlu İlçe Emniyet Müdürlüğü’nce İstiklal Caddesi ve çevresindeki ara sokaklarda operasyon başlatıldı. Bazı gece kulüpleri ve eğlence mekanlarına baskın yapıldı. Turistlere \"Yüksek Hesap\" yazılan söz... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/beyoglunda-hareketli-saatler-gece-kuluplerine-operasyon-7672605",
+      "published": "2026-10-02T21:33:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-03T01:40:36.514069+00:00"
+    },
+    {
       "id": "20561cbbbd715ab5",
       "source": "Sabah",
       "title": "Beyoğlu’nda hareketli saatler: Gece kulüplerine operasyon!",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-02T20:20:36.842187+00:00"
-    },
-    {
-      "id": "89de1a237d0e7058",
-      "source": "Akşam",
-      "title": "Trump'tan Türkiye mesajı: Cumhurbaşkanı Erdoğan benim dostum",
-      "summary": "ABD Başkanı Trump, Türkiye'ye ve Başkan Erdoğan'a ilişkin açıklamalarda bulundu. Trump, Başkan Erdoğan'ın arkadaşı olduğunu vurgularken Türkiye'yi sevdiğini belirtti.",
-      "link": "https://www.aksam.com.tr/guncel/trumptan-turkiye-mesaji-cumhurbaskani-erdogan-benim-dostum/haber-1703175",
-      "published": "2026-10-02T20:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T20:20:38.891788+00:00"
-    },
-    {
-      "id": "80e27288ad0c6bcd",
-      "source": "Yeni Şafak",
-      "title": "Malatya’da tefecilik operasyonu: 20 milyon liralık senet ele geçirildi",
-      "summary": "Malatya’da tefecilik, organ ve doku ticareti ile yağma suçlarına yönelik operasyonda 13 şüpheli gözaltına alındı. Baskınlarda 19 milyon 905 bin lira değerinde senet ile ruhsatsız silahlar ve mühimmat ele geçirildi.",
-      "link": "https://www.yenisafak.com/gundem/malatyada-tefecilik-operasyonu-20-milyon-liralik-senet-ele-gecirildi-4861095",
-      "published": "2026-10-02T20:16:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-02T20:20:39.711398+00:00"
     }
   ]
 }

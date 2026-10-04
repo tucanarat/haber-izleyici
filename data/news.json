@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-10-04T15:45:52.699107+00:00",
+  "last_updated": "2026-10-04T15:51:02.368247+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 557,
+  "new_items_this_run": 559,
   "items": [
+    {
+      "id": "d8e56fe033bfc0a9",
+      "source": "Gazete Pencere",
+      "title": "Beşiktaş'ta Serdal Adalı yeniden başkan seçildi",
+      "summary": "Beşiktaş Kulübü Olağanüstü Seçimli Genel Kurul Toplantısı'nda Serdal Adalı, yeniden başkanlığa seçildi.",
+      "link": "https://www.gazetepencere.com/gundem/besiktasta-serdal-adali-yeniden-baskan-secildi-717872h",
+      "published": "2026-10-04T15:50:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:46.665049+00:00"
+    },
+    {
+      "id": "4dd927090ce27790",
+      "source": "Yeniçağ",
+      "title": "Altın fiyatları bugünü ne kadarla kapattı? Gram altın, çeyrek altın kaç TL oldu? (4 Ekim)",
+      "summary": "Altın alım satımı yapacak yatırımcılar 4 Ekim 2026 Pazar gününde güncel altın fiyatlarını yakından takip ediyor. Piyasaların tatil olduğu hafta sonunda gram altın, çeyrek altın, yarım altın ve ons altındaki son satış rakamları ortaya çıktı. İşte güncel altın fiyatları...",
+      "link": "https://www.yenicaggazetesi.com/altin-fiyatlari-bugunu-ne-kadarla-kapatti-gram-altin-ceyrek-altin-kac-tl-oldu-4-ekim-1078408h.htm",
+      "published": "2026-10-04T15:49:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:44.638343+00:00"
+    },
+    {
+      "id": "5b95da604fa99928",
+      "source": "Milliyet",
+      "title": "Osmaniye ve Adana'da peş peşe depremler! AK Parti Sözcüsü Ömer Çelik'ten önemli açıklamalar",
+      "summary": "AK Parti Sözcüsü Çelik'in açıklamalarından öne çıkan satırlar şöyle oldu: Deprem gerçeğiyle yaşamak zorunda olan bir ülkeyiz. Cumhurbaşkanımızın verdiği talimatla tüm kurumlarımız anında müdahale edecek durumdalar. Bir yerde deprem olduğunda tek bir vatandaşımız dahi sahipsiz kalmıyor. Adana ve Osmaniye'de bugün meydana gelen depremlerde çok şükür bir olumsuzluk yaşanmadı. Şimdiye kadar yapılan ta",
+      "link": "https://www.milliyet.com.tr/gundem/osmaniye-ve-adanada-pes-pese-depremler-ak-parti-sozcusu-omer-celikten-onemli-aciklamalar-7673007",
+      "published": "2026-10-04T15:48:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:41.820995+00:00"
+    },
+    {
+      "id": "c95a02ce24cf0c74",
+      "source": "Yeniçağ",
+      "title": "2. Lig maçında ağır yenilgi sonrası ortalık karıştı: Taraftar isyan etti",
+      "summary": "Kütahyaspor&#039;un sahasında 52 Orduspor FK&#039;ye 4-0 mağlup olmasının ardından taraftarlar isyan etti. Teknik direktör Erkan Sözeri&#039;yi istifaya çağıran taraftarların tepkisi stadyum çevresinde de devam ederken Kütahyaspor kafilesi bir süre stattan ayrılamadı.",
+      "link": "https://www.yenicaggazetesi.com/2-lig-macinda-agir-yenilgi-sonrasi-ortalik-karisti-taraftar-isyan-etti-1078407h.htm",
+      "published": "2026-10-04T15:47:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:44.638388+00:00"
+    },
+    {
+      "id": "75a75baa523c9f72",
+      "source": "Yeniçağ",
+      "title": "Üretim alanlarında zararlı organizmalara karşı mercek altı",
+      "summary": "Bayburt’ta İl Tarım ve Orman Müdürlüğü ekipleri, tohumluk patates üretim alanlarında karantinaya tabi zararlı organizmaların varlığını tespit etmek amacıyla toprak analiz çalışmaları gerçekleştirdi.",
+      "link": "https://www.yenicaggazetesi.com/uretim-alanlarinda-zararli-organizmalara-karsi-mercek-alti-1078406h.htm",
+      "published": "2026-10-04T15:47:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:44.638435+00:00"
+    },
+    {
+      "id": "83fc23296dfb1447",
+      "source": "Cumhuriyet",
+      "title": "Tutuklu Buğra Gökce, cezaevindeki 'enflasyonu' hesapladı: 'TÜİK'in 2 katı' dedi, 'şampiyonu' da söyledi",
+      "summary": "Tutuklu bulunan İPA Başkanı Buğra Gökçe, paylaşımında cezaevinin enflasyonunu hesapladı. Enflasyonun TÜİK'in açıkladığı oranın 2 katı olduğunu ifade eden Gökce, enflasyon şampiyonu ürünü de bildirdi. İşte ayrıntılar...",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/tutuklu-bugra-gokce-cezaevindeki-enflasyonu-hesapladi-tuik-in-2-kati-dedi-sampiyonu-da-soyledi-2543646",
+      "published": "2026-10-04T15:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:37.416032+00:00"
+    },
+    {
+      "id": "24eadf02bf5b1992",
+      "source": "Yeni Akit",
+      "title": "AK Parti Sözcüsü Ömer Çelik: Ekiplerimiz sahada can kaybı yok",
+      "summary": "Adana ve Osmaniye'de peş peşe meydana gelen depremlerin ardından açıklama yapan AK Parti Sözcüsü Ömer Çelik \"Ekiplerimiz sahada can kaybı yok\" ifadelerini kullandı.",
+      "link": "https://www.yeniakit.com.tr/haber/ak-parti-sozcusu-omer-celik-ekiplerimiz-sahada-can-kaybi-yok-2026377.html",
+      "published": "2026-10-04T15:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:43.667278+00:00"
+    },
     {
       "id": "99538183d0c39e8f",
       "source": "Yeniçağ",
@@ -30,6 +107,17 @@
       "fetched_at": "2026-10-04T15:45:37.873427+00:00"
     },
     {
+      "id": "68db8aea371f2faf",
+      "source": "Aydınlık",
+      "title": "Beşiktaş’ta olağanüstü seçim: Tek aday olan Serdal Adalı yeniden başkan seçildi",
+      "summary": "Beşiktaş Kulübü&#039;nde gerçekleştirilen Olağanüstü Seçimli Genel Kurul Toplantısı&#039;nda tek aday olan Serdal Adalı, yeniden başkanlığa seçildi.",
+      "link": "https://www.aydinlik.com.tr/haber/besiktasta-olaganustu-secim-tek-aday-olan-serdal-adali-yeniden-baskan-secildi-592942",
+      "published": "2026-10-04T15:44:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:45.629184+00:00"
+    },
+    {
       "id": "c6560e2f2d8be2f9",
       "source": "Yeniçağ",
       "title": "Görüntüler Yalova'dan: Deniz bir anda kırmızıya boyandı",
@@ -39,6 +127,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T15:45:37.873448+00:00"
+    },
+    {
+      "id": "fb1a24cc3cdb11bd",
+      "source": "Akşam",
+      "title": "Osmaniye ve Adana'da korkutan deprem! AK Parti Sözcüsü Çelik: \"Okullarda hasar yok, eğitim öğretime devam edilecek\"",
+      "summary": "AK Parti Sözcüsü Ömer Çelik önemli Adana ve Osmaniye'deki depreme ilişkin Deprem Koordinasyon Merkezi'nde önemli açıklamalarda bulundu.",
+      "link": "https://www.aksam.com.tr/guncel/osmaniye-ve-adanada-korkutan-deprem-ak-parti-sozcusu-omer-celikten-onemli-aciklamalar/haber-1703597",
+      "published": "2026-10-04T15:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:42.487478+00:00"
     },
     {
       "id": "21573b7a77bfc97a",
@@ -215,6 +314,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T15:35:40.036629+00:00"
+    },
+    {
+      "id": "d1b717c330e6342b",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "TÜME'den tarımın geleceği için ortak masa",
+      "summary": "Tarım Teknolojileri Kümelenmesi (TÜME) Vakfı, Tarım ve Orman Bakanı Yumaklı, YÖK Başkanı Özvar, Ziraat Bankası Genel Müdürü Çakar ile TÜME Mütevelli Heyeti Başkanı Karagöz’ü festivalin son gününde “Tarım, Gençlik ve Teknoloji” Paneli’nde buluşturdu.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/tumeden-tarimin-gelecegi-icin-ortak-masa/4077765",
+      "published": "2026-10-04T15:30:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:36.624664+00:00"
     },
     {
       "id": "933a797fcb3ed2df",
@@ -655,6 +765,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T15:20:34.444151+00:00"
+    },
+    {
+      "id": "e88aa16f9ea0dfab",
+      "source": "Ekonomim",
+      "title": "Serdal Adalı, yeniden Beşiktaş başkanı seçildi",
+      "summary": "Beşiktaş&#039;ta tek aday olarak seçime giren Serdal Adalı, 3 bin 815 geçerli oy alarak yeniden başkan seçildi.",
+      "link": "https://www.ekonomim.com/spor/besiktasta-secim-gunu-oy-verme-sona-erdi-haberi-922502",
+      "published": "2026-10-04T15:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:50:53.758161+00:00"
     },
     {
       "id": "5b850cc9a2551cdc",
@@ -5385,127 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T12:55:32.877849+00:00"
-    },
-    {
-      "id": "4f52083746c40377",
-      "source": "Star",
-      "title": "Türk halkına teşekkür! Rıfai: Zaferimizde Türkiye'nin desteği başta geliyor",
-      "summary": "Suriye Başmüftüsü Usame er-Rıfai, İstanbul'da düzenlenen 13. Uluslararası Bediüzzaman Sempozyumu'nda yaptığı konuşmada, Suriye'nin eski rejimden kurtulması ve yeniden inşa sürecinde Türkiye'nin verdiği desteğe dikkati çekti. Cumhurbaşkanı Recep Tayyip Erdoğan, Türk hükümeti ve Türk halkına teşekkür eden Rıfai, Suriye'nin zaferinde farklı kesimlerin desteğinin bulunduğunu belirterek, bu desteğin ba",
-      "link": "https://www.star.com.tr/dunya/turk-halkina-tesekkur-rifai-zaferimizde-turkiyenin-destegi-basta-geliyor-haber-2044406/",
-      "published": "2026-10-04T12:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:55:33.741831+00:00"
-    },
-    {
-      "id": "0cbdef835c53efab",
-      "source": "Habertürk",
-      "title": "Ekim 2026 emekli promosyon kampanyası",
-      "summary": "Ekim ayı emekli promosyon kampanyası yenilendi. Maaşını en yüksek promosyon veren bankaya taşımak isteyenler güncel tutarları araştırıyor. İş Bankası, ING, Yapı Kredi, DenizBank, Akbank, Garanti BBVA, QNB ve diğer bankaların promosyon tutarı ve şartları değişiklik gösteriyor. Bankalar, emeklinin aldığı maaş miktarına göre farklı promosyon tutarları belirleyebildiği gibi, bazı kampanyalarda ek ürün",
-      "link": "https://www.haberturk.com/bilgi/foto/ekim-emekli-promosyon-kampanyasi-guncellendi-2026-en-yuksek-emekli-promosyon-veren-banka-hangisi-ve-ne-kadar-3916841",
-      "published": "2026-10-04T12:54:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T13:00:57.050256+00:00"
-    },
-    {
-      "id": "431bbb570654577f",
-      "source": "Bir Gün",
-      "title": "SPK'den \"Yatırımcı Tazmin Merkezi\" mal varlığının korunmasına ilişkin açıklama",
-      "summary": "SPK, Yatırımcı Tazmin Merkezi’nin (YTM) mal varlığının korunmasına ilişkin düzenlemenin Temmuz 2026’da ilk kez getirildiği yönündeki iddiaları yalanladı. Kurul, söz konusu hükmün 2012’den bu yana Sermaye Piyasası Kanunu’nda, 2013’ten bu yana da ilgili yönetmeliklerde yer aldığını bildirdi.",
-      "link": "https://www.birgun.net/haber/spk-den-yatirimci-tazmin-merkezi-mal-varliginin-korunmasina-iliskin-aciklama-738548",
-      "published": "2026-10-04T12:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T13:40:37.431356+00:00"
-    },
-    {
-      "id": "77d5d62313addb6a",
-      "source": "Türkiye Gazetesi",
-      "title": "GÖKÇE'Yİ ORMANDA KATLETTİ",
-      "summary": "Bursa’nın Karacabey ilçesinde 18 yaşındaki Gökçe Alkan, tartıştığı sevgilisi Mustafa B. tarafından otomobilde boğazı kesilerek öldürüldü. Ormanda yaşanan olayın ardından mahalleye yaya olarak gelen 24 yaşındaki şüphelinin, tartıştığı kişinin öldüğünü anlattığı ve yardım istediği öğrenildi. Boynundan kendisinin de yaralandığı belirlenen şüpheli, tedavisi için hastaneye kaldırıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/gokcenin-bogazini-kesti-mahalleye-gidip-cinayeti-anlatmis-1820516",
-      "published": "2026-10-04T12:53:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T13:05:31.299475+00:00"
-    },
-    {
-      "id": "016a0518a46f7939",
-      "source": "Milliyet",
-      "title": "Brezilya halkı sandık başında! İlk sonuçlar ne zaman açıklanacak?",
-      "summary": "Brezilya'da halkın, devlet başkanının yanı sıra eyalet valileri, Kongre üyeleri ve eyalet meclisi üyelerini belirlemek üzere sandık başına gittiği seçimlerde oy verme işlemi başladı. İlginizi Çekebilir Ülkede yaklaşık 159 milyon seçmen, yerel saatle 08.00'de sandık başına gitti. Yerel saatle 17.00'de bitecek oy verme işlemi sonucunda seçmenler, yeni devlet başkanını belirleyecek. Devlet Başkanlığı",
-      "link": "https://www.milliyet.com.tr/dunya/brezilya-halki-sandik-basinda-ilk-sonuclar-ne-zaman-aciklanacak-7672915",
-      "published": "2026-10-04T12:52:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:55:32.364689+00:00"
-    },
-    {
-      "id": "bddfc887bfe55dab",
-      "source": "Independent Türkçe",
-      "title": "Felsefeci Prof. Dr. İoanna Kuçuradi son yolculuğuna uğurlandı",
-      "summary": "Felsefe ve insan hakları alanındaki çalışmalarıyla tanınan, Türkiye Felsefe Kurumu Başkanı ve Dünya Felsefe Kuruluşları Federasyonu Onursal Başkanı Prof. Dr. İoanna Kuçuradi için Maltepe Üniversitesi Mimar Vedat Çakırca Konferans Salonu'nda cenaze töreni düzenlendi. AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik'in yanı sıra törene siyaset ve akademi dünyasından çok sayıda kişi katıl",
-      "link": "https://www.indyturk.com/node/783361/haber/felsefeci-prof-dr-i%CC%87oanna-ku%C3%A7uradi-son-yolculu%C4%9Funa-u%C4%9Furland%C4%B1",
-      "published": "2026-10-04T12:52:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:55:40.778895+00:00"
-    },
-    {
-      "id": "ddc4b278ce130c7f",
-      "source": "Yeniçağ",
-      "title": "Oto galeride kundaklama: 6 araç kullanılamaz hale geldi",
-      "summary": "Antalya’nın Serik ilçesinde bir oto galeride bulunan 6 araç, benzin dökülerek kundaklandı. Olay anı güvenlik kamerasına yansırken, şüpheli S.K. daha sonra polise teslim oldu.",
-      "link": "https://www.yenicaggazetesi.com/oto-galeride-kundaklama-6-arac-kullanilamaz-hale-geldi-1078343h.htm",
-      "published": "2026-10-04T12:52:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:55:34.948592+00:00"
-    },
-    {
-      "id": "64be9d854949d69b",
-      "source": "Cumhuriyet",
-      "title": "Kış sofralarının farklı lezzeti: Pancar çorbası tarifi",
-      "summary": "Farklı ve besleyici bir çorba tarifi arayanların favorisi olan pancar çorbası, canlı rengi ve kendine özgü lezzetiyle dikkat çekiyor. Peki pancar çorbası nasıl yapılır, malzemeleri neler?",
-      "link": "https://www.cumhuriyet.com.tr/gurme/kis-sofralarinin-farkli-lezzeti-pancar-corbasi-tarifi-2543609",
-      "published": "2026-10-04T12:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:55:28.462030+00:00"
-    },
-    {
-      "id": "0ca9d09e215b0916",
-      "source": "Karar",
-      "title": "İZBAN 90 dakika aktarma geri mi dönüyor? Cemil Tugay'dan yeni talimat",
-      "summary": "İzmir ulaşımında yeni bir dönem başlıyor! Büyükşehir Belediye Başkanı Cemil Tugay'ın Ankara temaslarının ardından, İZBAN'da kaldırılan 90 dakika ücretsiz aktarma sisteminin geri getirilmesi için resmi çalışma başlatıldı.",
-      "link": "https://www.karar.com/guncel-haberler/izban-90-dakika-aktarma-geri-mi-donuyor-cemil-tugaydan-yeni-talimat-2076204",
-      "published": "2026-10-04T12:51:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:55:34.480107+00:00"
-    },
-    {
-      "id": "ea29e05dcc08d950",
-      "source": "Bir Gün",
-      "title": "Luciano Spalletti’den Kenan Yıldız’a Kvaratskhelia benzetmesi",
-      "summary": "Juventus Teknik Direktörü Luciano Spalletti, Kenan Yıldız’ın oyun tarzını Khvicha Kvaratskhelia’ya benzetti. Sakatlığı nedeniyle ameliyat olan milli futbolcunun aralık ayında sahalara dönmesi bekleniyor.",
-      "link": "https://www.birgun.net/haber/luciano-spallettiden-kenan-yildiza-kvaratskhelia-benzetmesi-738547",
-      "published": "2026-10-04T12:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T13:40:37.431381+00:00"
-    },
-    {
-      "id": "a47aab6a98fdfff6",
-      "source": "Akşam",
-      "title": "Anderson Talisca'dan dikkat çeken paylaşım",
-      "summary": "Sezon başında Fenerbahçe'den ayrılarak Al-Jazira'ya transfer olan Anderson Talisca, dikkat çeken bir paylaşım geldi.",
-      "link": "https://www.aksam.com.tr/spor/anderson-taliscadan-dikkat-ceken-paylasim/haber-1703543",
-      "published": "2026-10-04T12:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:55:32.877880+00:00"
     }
   ]
 }

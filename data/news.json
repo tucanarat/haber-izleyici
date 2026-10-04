@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-04T02:50:53.289112+00:00",
+  "last_updated": "2026-10-04T02:55:48.430744+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 517,
+  "new_items_this_run": 518,
   "items": [
+    {
+      "id": "3dc15d4041ed23b4",
+      "source": "Türkiye Gazetesi",
+      "title": "Ege Denizi'nde korkutan deprem!",
+      "summary": "Ege Denizi'nde, Yunanistan'ın Girit Adası açıklarında 4,4 büyüklüğünde deprem meydana geldi. AFAD'dan yapılan açıklamaya göre deprem, yerin 6 kilometre derinliğinde gerçekleşti.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/ege-denizinde-korkutan-deprem-afad-ilk-verileri-paylasti-1820441",
+      "published": "2026-10-04T02:52:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T02:55:31.035100+00:00"
+    },
     {
       "id": "b442aa52801027e7",
       "source": "Bir Gün",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-03T19:30:47.345625+00:00"
-    },
-    {
-      "id": "5ac02e7bf001f8f9",
-      "source": "Türkiye Gazetesi",
-      "title": "KOLTUĞU İÇİN SAVAŞ ÇIKARTACAK",
-      "summary": "Binlerce masumun katledilmesinden sorumlu Netanyahu, yaklaşan seçimlerde koltuğunu kaybetme korkusuyla yeni bir savaşın altyapısını hazırlıyor. Eski İsrail Başbakanı Ehud Barak, Gazze’deki yıkımın mimarı olan Netanyahu’nun seçimleri erteletmek amacıyla bilinçli olarak bir savaş iklimi kurguladığını söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/eski-basbakan-netanyahunun-planini-anlatti-koltugu-icin-yeni-savas-cikartacak-1820399",
-      "published": "2026-10-03T19:27:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-03T19:30:47.345646+00:00"
     }
   ]
 }

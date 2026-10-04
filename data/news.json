@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-10-04T15:35:57.864572+00:00",
+  "last_updated": "2026-10-04T15:41:01.592560+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 551,
+  "new_items_this_run": 553,
   "items": [
+    {
+      "id": "bdfc8c9bf5750b0c",
+      "source": "Karar",
+      "title": "Mekke Anlaşması kapsamında kurulan savunma komitesi toplanıyor",
+      "summary": "Ortak Savunma için Mekke Anlaşması kapsamında oluşturulan Stratejik Siyasi ve Savunma Komitesi yarın Riyad’da toplanacak. Toplantıda bölgesel gelişmeler ve ittifakın kurumsallaşma sürecindeki son durum değerlendirilecek.",
+      "link": "https://www.karar.com/guncel-haberler/mekke-anlasmasi-kapsaminda-kurulan-savunma-komitesi-toplaniyor-2076223",
+      "published": "2026-10-04T15:40:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:40:43.621993+00:00"
+    },
+    {
+      "id": "3b6280f0a96ddb65",
+      "source": "Akşam",
+      "title": "Polisten kaçtı cezayı yedi: Kayseri'de \"dur\" ihtarına uymayan gence 351 bin TL kesildi",
+      "summary": "Kayseri'de polisin \"dur\" ihtarına uymayan ehliyetsiz 16 yaşındaki motosiklet sürücüsüne 351 bin lira idari para cezası uygulandı.",
+      "link": "https://www.aksam.com.tr/yasam/polisten-kacti-cezayi-yedi-kayseride-dur-ihtarina-uymayan-gence-351-bin-tl-kesildi/haber-1703596",
+      "published": "2026-10-04T15:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:40:41.820096+00:00"
+    },
+    {
+      "id": "c6f553e5d627a2d8",
+      "source": "Yeniçağ",
+      "title": "TEKNOFEST Güneydoğu'da rekor kırdı: 1,5 milyondan fazla ziyaretçi",
+      "summary": "Şanlıurfa’da düzenlenen TEKNOFEST Güneydoğu sona erdi. Selçuk Bayraktar, kentte 1,3 milyon, bölgedeki tüm etkinliklerde ise 1,5 milyondan fazla ziyaretçiye ulaşılarak rekor kırıldığını açıkladı.",
+      "link": "https://www.yenicaggazetesi.com/teknofest-guneydoguda-rekor-kirdi-15-milyondan-fazla-ziyaretci-1078399h.htm",
+      "published": "2026-10-04T15:38:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:40:44.067715+00:00"
+    },
+    {
+      "id": "82f1048e7572a10e",
+      "source": "Star",
+      "title": "Milli takımı olmayan kaleci: Mile Svilar",
+      "summary": "Serie A'da Roma'nın kalesini koruyan ve sergilediği performansla üst üste iki sezondur İtalya'da sezonun en iyi kalecisi seçilen Mile Svilar, milli takım konusunda ise aradığını bulamadı.",
+      "link": "https://www.star.com.tr/spor/milli-takimi-olmayan-kaleci-mile-svilar-haber-2044432/",
+      "published": "2026-10-04T15:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:40:42.831489+00:00"
+    },
     {
       "id": "7343011cdc34399d",
       "source": "Halk TV",
@@ -28,6 +72,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T15:35:36.308290+00:00"
+    },
+    {
+      "id": "ffd15d7086253140",
+      "source": "Cumhuriyet",
+      "title": "Yavuz Ağıralioğlu'ndan Erdoğan’a çağrı: 'Muhalefeti cezalandırdığınız gibi...'",
+      "summary": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'a, \"İlk defa makam, mevki verdiklerinizle, rol ve unvan dağıttıklarınızla kendi yürüdüğünüz yolu lekelettiniz. Şimdi aklanabilmelisiniz. Muhalefeti cezalandırdığınız gibi, milletin parasını yiyenleri de cezalandırır mısınız?\" dedi.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/yavuz-agiralioglu-ndan-erdogan-a-cagri-muhalefeti-cezalandirdiginiz-gibi-2543645",
+      "published": "2026-10-04T15:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:40:36.919799+00:00"
+    },
+    {
+      "id": "2cca13ba7bed67f5",
+      "source": "Habertürk",
+      "title": "\"Türkiye Yüzyılı, milli teknoloji hamlemizin yüzyılı olacak\"",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye Yüzyılı, milli teknoloji hamlemizin yüzyılı olacak. Türkiye Yüzyılı, TEKNOFEST gençliğinin yüzyılı olacak inşallah.\" diye konuştu.",
+      "link": "https://www.haberturk.com/gundem/turkiye-yuzyili-milli-teknoloji-hamlemizin-yuzyili-olacak-3917176",
+      "published": "2026-10-04T15:33:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:40:34.148113+00:00"
     },
     {
       "id": "1d75a71684e2fc60",
@@ -558,6 +624,17 @@
       "fetched_at": "2026-10-04T15:10:35.905724+00:00"
     },
     {
+      "id": "08f3cf0dc113214e",
+      "source": "Ekonomim",
+      "title": "Sason balı için yarıştılar: Kilosu 400 bin liraya satıldı",
+      "summary": "Sason&#039;da insan eli değmeden, arıların yüksek rakımlı dağlarda yetişen bitkilerle beslenerek ürettiği tescilli bal satışa çıktı. Normalde kilosu 1500 -5000 lira aralığında alıcı bulun Sason balı, festivalde yapılan açık artırmada rekor kırarak kilosu 400 bin liraya satıldı.",
+      "link": "https://www.ekonomim.com/ekonomi/kilosu-400-bin-liralik-sason-bali-icin-yaristilar-haberi-922503",
+      "published": "2026-10-04T15:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:40:52.506788+00:00"
+    },
+    {
       "id": "8775ed6c771aeec4",
       "source": "Ekonomim",
       "title": "Kilosu 400 bin liralık Sason balı için yarıştılar",
@@ -666,6 +743,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T15:05:54.445018+00:00"
+    },
+    {
+      "id": "9dbc05f37b52ee9c",
+      "source": "Evrensel",
+      "title": "Oklahoma'daki meteor krateri sanılandan 100 milyon yıl daha genç çıktı",
+      "summary": "ABD'nin Oklahoma eyaletinde yer altında gömülü bulunan Ames meteor kraterinin sanılandan 100 milyon yıl daha genç olduğu tespit edildi. Zirkon kristalleriyle yapılan tarihlendirme, çarpmanın kitlesel yok oluşla aynı döneme denk geldiğini gösterdi.",
+      "link": "https://www.evrensel.net/haber/6003429/oklahomadaki-meteor-krateri-sanilandan-100-milyon-yil-daha-genc-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-04T15:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T15:40:39.605022+00:00"
     },
     {
       "id": "9dbb7b63fd509e97",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T13:45:32.854408+00:00"
-    },
-    {
-      "id": "d78fa9aab2607559",
-      "source": "Türkiye Gazetesi",
-      "title": "Trabzonspor istedi, değeri 1150 kat arttı",
-      "summary": "Bordo-mavililerin ara transferde kadrosuna katmak istediği Eddy Doue, performansıyla değerini adeta katladı. 20 yaşındaki ön liberonun piyasa değeri 400 bin eurodan 5 milyon euroya yükseldi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/trabzonspor-istedi-degeri-yuzde-1150-artti-1820515",
-      "published": "2026-10-04T12:47:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:50:34.317317+00:00"
-    },
-    {
-      "id": "c164eb88520efc19",
-      "source": "Karar",
-      "title": "Milliler İtalya deplasmanında",
-      "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup’taki dördüncü maçında yarın deplasmanda İtalya ile karşılaşacak. İlk üç maçını kaybeden ay-yıldızlılar, Bologna’da gruptaki ilk puanlarını almak için sahaya çıkacak.",
-      "link": "https://www.karar.com/spor-haberleri/milliler-italya-deplasmaninda-2076203",
-      "published": "2026-10-04T12:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:50:37.942587+00:00"
-    },
-    {
-      "id": "98ccfa04d8c01fe3",
-      "source": "Habertürk",
-      "title": "Ethem Özbora hayatını kaybetti",
-      "summary": "Devlet Tiyatroları'nın emekli dekoratörlerinden Ethem Özbora, hayata veda etti. Acı haberi, Devlet Tiyatrosu'nda birlikte çalıştığı sınıf arkadaşı Selçuk Yöntem duyurdu",
-      "link": "https://www.haberturk.com/magazin/ethem-ozbora-hayatini-kaybetti-aci-haberi-devlet-tiyatrosu-nda-birlikte-calistigi-sinif-arkadasi-3917133",
-      "published": "2026-10-04T12:46:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:55:23.173689+00:00"
-    },
-    {
-      "id": "4e7c17cc94848f03",
-      "source": "Yeniçağ",
-      "title": "Antalya’da “Ekim Geçidi” sergisi sanatseverlerle buluşacak",
-      "summary": "Antalya’da 29 Ekim Cumhuriyet Bayramı dolayısıyla düzenlenecek “Ekim Geçidi” sergisi, 6 Ekim’de sanatseverlerin ziyaretine açılacak. Sergide farklı kuşaklardan ve sanat anlayışlarından 59 sanatçının eserleri yer alacak.",
-      "link": "https://www.yenicaggazetesi.com/antalyada-ekim-gecidi-sergisi-sanatseverlerle-bulusacak-1078341h.htm",
-      "published": "2026-10-04T12:46:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:50:38.314761+00:00"
-    },
-    {
-      "id": "ec95b254077551e1",
-      "source": "Yeniçağ",
-      "title": "Yaşlanan beyin sanıldığı gibi gerilemiyor: Yeni araştırma ezber bozdu",
-      "summary": "ABD&#039;de yapılan yeni bir araştırma, ilerleyen yaşlarda beyinde görülen değişimlerin yalnızca zihinsel gerileme olarak değerlendirilmemesi gerektiğini ortaya koydu. Bulgular, beynin yaş aldıkça farklı işlevlere öncelik verebildiğine işaret ediyor.",
-      "link": "https://www.yenicaggazetesi.com/yaslanan-beyin-sanildigi-gibi-gerilemiyor-yeni-arastirma-ezber-bozdu-1078340h.htm",
-      "published": "2026-10-04T12:46:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:50:38.314798+00:00"
-    },
-    {
-      "id": "76fdf8a3462606db",
-      "source": "Yeni Şafak",
-      "title": "Seyahat süresi 4 saatten 1,5 saate düşüyor: Cumhurbaşkanı Erdoğan 9 Ekim’de hizmete açacak",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Türkiye’nin Avrupa’ya açılan en önemli demiryolu bağlantılarından Halkalı-Kapıkule Hızlı Tren Hattı’nın 153 kilometrelik Çerkezköy-Kapıkule kesiminin 9 Ekim’de Cumhurbaşkanı Recep Tayyip Erdoğan tarafından hizmete açılacağını duyurdu. Uraloğlu, hattın hizmete girmesiyle hızlı tren ağının Kapıkule’ye, Avrupa sınırına kadar ulaşacağını belirtti.",
-      "link": "https://www.yenisafak.com/gundem/seyahat-suresi-4-saatten-15-saate-dusuyor-cumhurbaskani-erdogan-9-ekimde-hizmete-acacak-4861443",
-      "published": "2026-10-04T12:46:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:50:36.937510+00:00"
-    },
-    {
-      "id": "982c90095a7cd60b",
-      "source": "Karar",
-      "title": "Prof. Dr. İoanna Kuçuradi son yolculuğuna uğurlandı",
-      "summary": "Felsefe, etik ve insan hakları alanındaki çalışmalarıyla tanınan Türkiye Felsefe Kurumu Başkanı Prof. Dr. İoanna Kuçuradi, 90 yaşında hayatını kaybetti. Maltepe Üniversitesi’nde düzenlenen törenin ardından Kuçuradi, meslektaşları, öğrencileri ve sevenlerinin katılımıyla Şişli Rum Ortodoks Mezarlığı’nda toprağa verildi.",
-      "link": "https://www.karar.com/guncel-haberler/prof-dr-ioanna-kucuradi-son-yolculuguna-ugurlandi-2076202",
-      "published": "2026-10-04T12:45:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:45:41.878505+00:00"
-    },
-    {
-      "id": "482b80a3d102af2a",
-      "source": "Milliyet",
-      "title": "Adana ve Osmaniye depremleri sonrası uzmanlardan peş peşe değerlendirme! '4.8’ten 5.2’ye çıkması tedirgin etti'",
-      "summary": "Adana ve Osmaniye’de peş peşe meydana gelen 4.8, 4.9 ve 5.2 büyüklüğündeki depremlerin ardından gözler kritik soruya çevrildi. Bölgede daha büyük bir deprem ihtimali var mı? Prof. Dr. Osman Bektaş, son sarsıntılarda büyüklüğün 4.5’ten 4.9 ve 5.2’ye yükselmesinin kendisini tedirgin ettiğini belirtirken, bölgede yaklaşık 6 büyüklüğünde bir deprem ihtimalinden söz etti. Prof. Dr. Süleyman Pampal da b",
-      "link": "https://www.milliyet.com.tr/gundem/adana-ve-osmaniye-depremleri-sonrasi-uzmanlardan-pes-pese-degerlendirme-4-8ten-5-2ye-cikmasi-tedirgin-etti-7672907",
-      "published": "2026-10-04T12:45:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T12:45:39.847563+00:00"
     }
   ]
 }

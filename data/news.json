@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-10-04T21:40:59.283395+00:00",
+  "last_updated": "2026-10-04T21:46:10.945030+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 537,
+  "new_items_this_run": 517,
   "items": [
+    {
+      "id": "c4c3a5423d93d44a",
+      "source": "Akşam",
+      "title": "El Clasico'da Barcelona'dan Real Madrid'e 7 gol!",
+      "summary": "İspanya Kadınlar La Liga'nın 6. haftasında Barcelona, deplasmanda Real Madrid'i 7-0 mağlup etti.",
+      "link": "https://www.aksam.com.tr/spor/el-clasicoda-barcelonadan-real-madride-7-gol/haber-1703634",
+      "published": "2026-10-04T21:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:45:38.029534+00:00"
+    },
+    {
+      "id": "c8c39792c9452aad",
+      "source": "OdaTV",
+      "title": "Mihraç Ural'ın yardımcısı yakalandı",
+      "summary": "Suriye İçişleri Bakanlığı, &quot;Mihraç Ural&quot; olarak bilinen Ali Keyyali&#039;nin yardımcısı Cemal Trablusi’yi yakaladığını duyurdu.",
+      "link": "https://www.odatv.com/guncel/mihrac-uralin-yardimcisi-yakalandi-120165225",
+      "published": "2026-10-04T21:41:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:45:41.769396+00:00"
+    },
+    {
+      "id": "7c3268d551a86dba",
+      "source": "Cumhuriyet",
+      "title": "Otomobil yol kenarındaki büfeye çarptı: 5 kişi yaralandı",
+      "summary": "Tunceli’de bir otomobilin yol kenarındaki büfeye çarpması sonucu, araçta ve büfenin önünde bulunan toplam 5 kişi yaralandı. Kazayla ilgili inceleme başlatıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/otomobil-yol-kenarindaki-bufeye-carpti-5-kisi-yaralandi-2543716",
+      "published": "2026-10-04T21:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:45:33.911503+00:00"
+    },
+    {
+      "id": "43eddd5bc1e050f0",
+      "source": "Ekonomim",
+      "title": "Bosna Hersek'te seçimler: Üç üye zaferini ilan etti",
+      "summary": "Bosna Hersek&#039;te bugün gerçekleştirilen genel seçimlerin ardından Devlet Başkanlığı Konseyi üyeliği yarışında Boşnak üyeliğinde Denis Becirovic, Hırvat üyeliğinde Darijana Filipovic ve Sırp üyeliğinde Zeljka Cvijanovic zaferlerini ilan etti.",
+      "link": "https://www.ekonomim.com/dunya/bosna-hersekte-secimler-uc-uye-zaferini-ilan-etti-haberi-922548",
+      "published": "2026-10-04T21:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:45:48.000512+00:00"
+    },
     {
       "id": "b20219df15b05f29",
       "source": "Halk TV",
@@ -28,6 +72,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T21:40:49.122168+00:00"
+    },
+    {
+      "id": "334172dcfd65ec96",
+      "source": "Ekonomim",
+      "title": "Bir televizyon kanalı daha ekranlara veda ediyor: \"Çelme takmaya çalışanlar çok oldu\"",
+      "summary": "TELE2&#039;nin yayınlarını sonlandırma kararı almasının ardından 11 Mart&#039;ta yeniden yayın hayatına başlayan Cem TV, mali sıkıntıla nedeniyle yaklaşık 6,5 ayın ardından yayınlarını sonlandırma kararı aldı.",
+      "link": "https://www.ekonomim.com/gundem/bir-televizyon-kanali-daha-ekranlara-veda-ediyor-celme-takmaya-calisanlar-cok-oldu-haberi-922547",
+      "published": "2026-10-04T21:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:45:48.000587+00:00"
+    },
+    {
+      "id": "ce175b223e9f223a",
+      "source": "Habertürk",
+      "title": "'Bir Çeyiz Sözleşmesi' Tiyatro Festivali'nde",
+      "summary": "30. İstanbul Tiyatro Festivali’nin merakla beklenen, yapımlarından Bir Çeyiz Sözleşmesi’nin afişi yayınlandı",
+      "link": "https://www.haberturk.com/kultur-sanat/bir-ceyiz-sozlesmesi-tiyatro-festivali-nde-3917046",
+      "published": "2026-10-04T21:36:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:45:30.434165+00:00"
+    },
+    {
+      "id": "642a5c5246e74328",
+      "source": "Habertürk",
+      "title": "Pera Müzesi'nde üç ücretsiz etkinlik",
+      "summary": "Pera Müzesi, İstanbul’un farklı noktalarında fotoğraf sergilerini ve disiplinlerarası etkinlikleri sanatseverlerle buluşturan 212 Photography Istanbul kapsamında üç ücretsiz etkinliğe ev sahipliği yapıyor. 6 ve 8 Ekim’de gerçekleştirilecek belgesel gösterimi ve söyleşilerde, fotoğrafın aile hikâyelerini kayda geçirme biçiminden yapay zekâ çağında geçirdiği dönüşüme uzanan farklı başlıklar ele alın",
+      "link": "https://www.haberturk.com/kultur-sanat/pera-muzesi-nde-uc-ucretsiz-etkinlik-3917042",
+      "published": "2026-10-04T21:36:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:45:30.434217+00:00"
     },
     {
       "id": "8eafe28f566105ef",
@@ -5429,83 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T17:20:40.637497+00:00"
-    },
-    {
-      "id": "a492bd16a559fbb4",
-      "source": "Yeni Yaşam",
-      "title": "İstanbul’da Filistin için yürüyüş",
-      "summary": "İstanbul&#8217;da Filistin için Atatürk Kültür Merkezi (AKM) önünden Dolmabahçe’ye yürüyüş düzenlendi Filistin Eylem Komitesi öncülüğünde “Filistin için yürüyoruz” şiarıyla Atatürk Kültür Merkezi (AKM) önünden Dolmabahçe’ye yürüyüş düzenlendi. Siyasi parti ve gençlik örgütlerinin yanı sıra çok sayıda kişinin katıldığı yürüyüşte, “Gazze 3 yıldır soykırıma direniyor” ve “Filistin’e özgürlük! İsrail’",
-      "link": "https://yeniyasamgazetesi9.com/istanbulda-filistin-icin-yuruyus/",
-      "published": "2026-10-04T17:16:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:20:44.953146+00:00"
-    },
-    {
-      "id": "2b954cdabf7e0191",
-      "source": "Yeniçağ",
-      "title": "Ümit Özdağ kadınların yaşadığı korkuya dikkat çekti: Neden metroya binmekten çekinsinler?",
-      "summary": "Zafer Partisi Genel Başkanı Ümit Özdağ, Adana&#039;da düzenlenen “Atatürk&#039;ün Kızları Buluşuyor” programında sığınmacı politikası, güvenlik, uyuşturucu ve sanal kumar bağımlılığı ile kadına yönelik şiddet hakkında açıklamalarda bulundu.",
-      "link": "https://www.yenicaggazetesi.com/umit-ozdag-kadinlarin-yasadigi-korkuya-dikkat-cekti-neden-metroya-binmekten-cekinsinler-1078425h.htm",
-      "published": "2026-10-04T17:15:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:20:39.088155+00:00"
-    },
-    {
-      "id": "1230038a180e937c",
-      "source": "Türkiye Gazetesi",
-      "title": "HESAPLAŞMA BAŞLADI!",
-      "summary": "Daha önce Mekke ve Medine yönüne attıkları füzelerle kutsal toprakları hedef alan ve tüm İslam dünyasını ayağa kaldıran Husilere karşı harekete geçildi. Yemen ordusu, ülkede kontrolü yeniden sağlamak, darbeyi tamamen bitirmek ve devlet kurumlarını ayağa kaldırmak amacıyla geniş kapsamlı bir \"kurtuluş savaşı\" başlatıldığını duyurdu.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/mekke-ve-medineyi-hedef-almislardi-yemende-buyuk-hesaplasma-basladi-kurtulus-savasini-1820558",
-      "published": "2026-10-04T17:15:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:20:33.162395+00:00"
-    },
-    {
-      "id": "88a29e1ee8a18b52",
-      "source": "Star",
-      "title": "Arjantin basını duyurdu... Galatasaray taraftarının sevgilisi geri dönebilir!",
-      "summary": "Arjantin basınında yer alan iddiaya göre Mauro Icardi, Galatasaray'a yeniden dönmek için mali şartlarını önemli ölçüde düşürdü. Tecrübeli golcünün yıllık 3,5 milyon euro seviyesinden görüşmeye hazır olduğu, anlaşma için 2 milyon euroya kadar inmeyi kabul edebileceği öne sürüldü. İşte detaylar...",
-      "link": "https://www.star.com.tr/spor/arjantin-basini-duyurdu-galatasaray-taraftarinin-sevgilisi-geri-donebilir-haber-2044444/",
-      "published": "2026-10-04T17:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:40:36.032777+00:00"
-    },
-    {
-      "id": "49379daabedf3186",
-      "source": "Aydınlık",
-      "title": "ATSO seçimlerinde Torunoğlu’nun sarı listesi 18 grupta kazandı",
-      "summary": "Adıyaman Ticaret ve Sanayi Odası’ndaki seçimlerde Mehmet Torunoğlu’nun sarı listesi, 18 meslek grubunun tamamında kazandı. Oy verme işlemi saat 17.00’de sona erdi.",
-      "link": "https://www.aydinlik.com.tr/haber/atso-secimlerinde-sari-liste-18-grupta-kazandi-592949",
-      "published": "2026-10-04T17:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:20:39.970345+00:00"
-    },
-    {
-      "id": "a6029044f70dd7e7",
-      "source": "Star",
-      "title": "Arjantin basını duyurdu... Galatasaray taraftarının sevgilisi geri dönüyor!",
-      "summary": "Arjantin basınında yer alan iddiaya göre Mauro Icardi, Galatasaray'a yeniden dönmek için mali şartlarını önemli ölçüde düşürdü. Tecrübeli golcünün yıllık 3,5 milyon euro seviyesinden görüşmeye hazır olduğu, anlaşma için 2 milyon euroya kadar inmeyi kabul edebileceği öne sürüldü. İşte detaylar...",
-      "link": "https://www.star.com.tr/spor/arjantin-basini-duyurdu-galatasaray-taraftarinin-sevgilisi-geri-donuyor-haber-2044444/",
-      "published": "2026-10-04T17:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:15:44.849125+00:00"
-    },
-    {
-      "id": "e2cf3382f88f7e04",
-      "source": "Diken",
-      "title": "Türk Toraks Derneği uyardı: Sarı kantaron akciğer hastalıklarına iyi gelmez",
-      "summary": "Türk Toraks Derneği uyardı: Sarı kantaron akciğer hastalıklarına iyi gelmez 04.10.2026 Diken Türk Toraks Derneği sarı kantaron bitkisinin, her derde devaymış gibi, gelişigüzel kullanılmasına karşı uyardı. Dernek Başkan Yardımcısı Prof. Dr. Oğuz Kılınç, sarı kantaronun faydalarına dair hiçbir bilimsel çalışma bulunmadığını, aksine sağlığa ciddi zararları dokunduğunu söyledi. The post Türk Toraks De",
-      "link": "https://www.diken.com.tr/turk-toraks-dernegi-uyardi-sari-kantaron-akciger-hastaliklarina-iyi-gelmez/?utm_source=rss&utm_medium=rss&utm_campaign=turk-toraks-dernegi-uyardi-sari-kantaron-akciger-hastaliklarina-iyi-gelmez",
-      "published": "2026-10-04T17:14:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:15:49.751429+00:00"
     }
   ]
 }

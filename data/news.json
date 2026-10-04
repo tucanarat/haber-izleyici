@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-10-04T21:20:57.456121+00:00",
+  "last_updated": "2026-10-04T21:25:49.165556+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 540,
+  "new_items_this_run": 536,
   "items": [
+    {
+      "id": "f889d35911cac649",
+      "source": "Gazete Pencere",
+      "title": "Koç Katımı Fırtınası",
+      "summary": "Koç Katımı Fırtınası 5 Ekim 2026",
+      "link": "https://www.gazetepencere.com/muhalif-takvimi/koc-katimi-firtinasi-4-717888h",
+      "published": "2026-10-04T21:25:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:25:35.561916+00:00"
+    },
+    {
+      "id": "9dc832e1c5dd51e9",
+      "source": "Cumhuriyet",
+      "title": "Portekiz Uluslar Ligi'nde 4'te 4 yaptı!",
+      "summary": "Portekiz, UEFA Uluslar Ligi'nin 4. haftasında kendi sahasında ağırladığı Norveç'i 2-1 mağlup etti.",
+      "link": "https://www.cumhuriyet.com.tr/spor/portekiz-uluslar-ligi-nde-4-te-4-yapti-2543711",
+      "published": "2026-10-04T21:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:25:28.506510+00:00"
+    },
+    {
+      "id": "d3ecd0a431abad7d",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Bulgaristan'da başlayan yangın Yunanistan'a sıçradı",
+      "summary": "Bulgaristan’da başlayan orman yangınının Yunanistan'ın Meriç Bölgesi'ne geçtiği belirtildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-baslayan-yangin-yunanistana-sicradi/4077924",
+      "published": "2026-10-04T21:22:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:25:28.272114+00:00"
+    },
+    {
+      "id": "f360dda9e9ac121a",
+      "source": "Yeniçağ",
+      "title": "Kamyon devrildi, savrulan karpuzların çarptığı 2 kişi yaralandı",
+      "summary": "Mersin’in Tarsus ilçesinde kamyonun devrilmesi sırasında kasasında bulunan karpuzların savrulduğu yol kenarındaki 2 kişi yaralındı.",
+      "link": "https://www.yenicaggazetesi.com/kamyon-devrildi-savrulan-karpuzlarin-carptigi-2-kisi-yaralandi-1078472h.htm",
+      "published": "2026-10-04T21:21:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:25:34.399118+00:00"
+    },
     {
       "id": "730e27b5598a135a",
       "source": "CNBC-e",
@@ -1161,6 +1205,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T21:01:07.166361+00:00"
+    },
+    {
+      "id": "543bbbe03a403819",
+      "source": "Ekonomim",
+      "title": "Mansur Yavaş, Vahap Seçer için Mersin’e gidecek",
+      "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, gözaltına alınan Türkiye Belediyeler Birliği (TBB) ve Mersin Büyükşehir Belediye Başkanı Vahap Seçer&#039;e destek olmak amacıyla Mersin&#039;e gidecek.",
+      "link": "https://www.ekonomim.com/gundem/mansur-yavas-vahap-secer-icin-mersine-gidecek-haberi-922542",
+      "published": "2026-10-04T20:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T21:25:41.201678+00:00"
     },
     {
       "id": "53dce8e39b28a59d",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T17:01:02.612319+00:00"
-    },
-    {
-      "id": "43b6d83ae3c822c5",
-      "source": "OdaTV",
-      "title": "İran Hürmüz'ü açma şartlarını duyurdu",
-      "summary": "İran Meclis Başkanı Muhammed Bakır Galibaf, başkent Tahran&#039;da Mecliste yaptığı konuşmada, &quot;İran&#039;ın tutumu tamamen açık ve kesindir: İslamabad Mutabakatı temelinde yedi şartımız yerine getirilmediği sürece Hürmüz Boğazı açılmayacaktır&quot; dedi.",
-      "link": "https://www.odatv.com/guncel/iran-hurmuzu-acma-sartlarini-duyurdu-120165193",
-      "published": "2026-10-04T17:00:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:01:04.680652+00:00"
-    },
-    {
-      "id": "0c279aff74ffa044",
-      "source": "DonanımHaber",
-      "title": "Google Gemini Harita aracını yeniledi: Komutlar değişti",
-      "summary": "Google Gemini uygulaması, Android ve iOS kullanıcıları için etkileşimli Harita aracını yaygınlaştırırken \"/\" komutlarını \"@\" sembolü altında birleştiren yeni arayüzü test ediyor.",
-      "link": "https://www.donanimhaber.com/google-gemini-harita-aracini-yeniledi-komutlar-degisti--211221",
-      "published": "2026-10-04T17:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:01:18.195469+00:00"
-    },
-    {
-      "id": "45d4bc246ecbe89e",
-      "source": "Türkiye Gazetesi",
-      "title": "\"LİGLER ERTELENMELİ\"",
-      "summary": "Beşiktaş Kulübü Başkanı Serdal Adalı, siyah-beyazlı camianın birlik ve beraberlik içinde olduğunda başarının kaçınılmaz olacağını söyledi. Camiaya desteklerinden ötürü teşekkür eden Adalı, \"Bizlere güvendikleri için, destekleri için camiamıza teşekkür ediyorum. Önümüzde çok daha başarılı, önü açık bir Beşiktaş var\" diye konuştu. MHK soruşturmasına ilişkin de konuşan Başkan Adalı, \"Gerekirse ara ve",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/besiktasta-serdal-adalindan-tffye-cagri-temizlik-bitene-kadar-ligler-ertelenmeli-1820556",
-      "published": "2026-10-04T16:59:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:05:30.447768+00:00"
-    },
-    {
-      "id": "7c55eaaed09faa81",
-      "source": "Milliyet",
-      "title": "Fon soruşturmasında son durum! Tutuklanan şüpheli sayısı 85'e ulaştı",
-      "summary": "Başsavcılığın Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosunca, sermaye piyasasında gerçekleştirilen işlemlere ilişkin yürütülen soruşturmalar sürüyor. Sermaye Piyasası Kurulunun (SPK) yaptığı incelemeler ve suç duyuruları doğrultusunda başlatılan soruşturmalar kapsamında, Başsavcılığın Mali Suçları Araştırma Kurulu'na (MASAK) 17 Eylül'de gönderdiği müzekkerede, Pusula Finans Holding A",
-      "link": "https://www.milliyet.com.tr/gundem/fon-sorusturmasinda-son-durum-tutuklanan-supheli-sayisi-85e-ulasti-7673016",
-      "published": "2026-10-04T16:59:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:00:59.506636+00:00"
-    },
-    {
-      "id": "d3e2eaa1c8ed3406",
-      "source": "Star",
-      "title": "Beşiktaş'ta zincirleme trafik kazası: 2 kişi yaralandı",
-      "summary": "Beşiktaş'ta Barbaros Bulvarı'nda sol şeride yanaşan bir otomobilin başka bir araçla çarpışması sonucu arkadan gelen 3 araç daha kazaya karıştı. 5 aracın karıştığı zincirleme kazada 2 kişi yaralandı.",
-      "link": "https://www.star.com.tr/guncel/besiktasta-zincirleme-trafik-kazasi-2-kisi-yaralandi-haber-2044441/",
-      "published": "2026-10-04T16:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T17:01:01.405010+00:00"
     }
   ]
 }

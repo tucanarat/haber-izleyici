@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T02:10:57.223937+00:00",
+  "last_updated": "2026-10-04T02:15:50.127253+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 523,
   "items": [
+    {
+      "id": "d4da94812ffcb504",
+      "source": "Habertürk",
+      "title": "AFAD duyurdu: Ege Denizi’nde deprem",
+      "summary": "AFAD Ege Denizi'nde 4.4 büyüklüğünde bir deprem meydana geldiğini bildirdi.",
+      "link": "https://www.haberturk.com/dunya/afad-duyurdu-ege-denizinde-deprem-3917064",
+      "published": "2026-10-04T02:10:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-04T02:15:30.302194+00:00"
+    },
     {
       "id": "223e0853a7ef7fce",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-03T19:20:41.434485+00:00"
-    },
-    {
-      "id": "293676caeb7c980a",
-      "source": "Evrensel",
-      "title": "İngiltere’den Hırvatistan’a tarihi fark: 7-0’lık galibiyet",
-      "summary": "UEFA Uluslar Ligi A Ligi 3. Grup’ta İngiltere, deplasmanda karşılaştığı Hırvatistan’ı 7-0 yendi.",
-      "link": "https://www.evrensel.net/haber/6003331/ingiltereden-hirvatistana-tarihi-fark-7-0lik-galibiyet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-03T19:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-03T19:30:48.003005+00:00"
     }
   ]
 }

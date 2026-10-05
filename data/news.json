@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-05T03:05:55.309801+00:00",
+  "last_updated": "2026-10-05T03:10:54.575846+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 542,
+  "new_items_this_run": 541,
   "items": [
+    {
+      "id": "4440874a70903c75",
+      "source": "Halk TV",
+      "title": "Balık tutarken yaşamını yitirdi",
+      "summary": "Kastamonu&#039;nun Cide ilçesinde balık tutmak için denize açılan Mustafa Türcan (65), geçirdiği kalp krizi sonucu hayatını kaybetti.",
+      "link": "https://halktv.com.tr/turkiye/balik-tutarken-yasamini-yitirdi-1059413h",
+      "published": "2026-10-05T03:05:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T03:10:41.833527+00:00"
+    },
     {
       "id": "a1802268f7be8b00",
       "source": "Aydınlık",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T19:20:42.920650+00:00"
-    },
-    {
-      "id": "35d383077fa7d54e",
-      "source": "Akşam",
-      "title": "Erdoğan'ın yeni mücadelesi",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/erdoganin-yeni-mucadelesi/haber-1703618",
-      "published": "2026-10-04T19:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T21:01:04.493276+00:00"
     }
   ]
 }

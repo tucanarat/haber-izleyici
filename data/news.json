@@ -1,12 +1,199 @@
 {
-  "last_updated": "2026-10-05T15:55:54.335705+00:00",
+  "last_updated": "2026-10-05T16:01:25.254391+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 544,
+  "new_items_this_run": 552,
   "items": [
+    {
+      "id": "51d20fb606b88441",
+      "source": "BBC News Türkçe",
+      "title": "Hakem Yasin Kol ile Göktuğ Hazar Erel tutuklandı",
+      "summary": "\"Hakemler dosyası\" adı verilen soruşturma kapsamında gözaltına alınan Süper Lig hakemleri Yasin Kol ile Göktuğ Hazar Erel savcılık ifadelerinin ardından çıkarıldıkları mahkemece tutuklandı",
+      "link": "https://www.bbc.com/turkce/articles/cm62kp4k28gro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T16:00:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:25.111570+00:00"
+    },
+    {
+      "id": "22f98ab56644a81f",
+      "source": "ShiftDelete.Net",
+      "title": "TUSAŞ Yeni Nesil Gözlem Uyduları HÜRSAT’ı Tanıttı",
+      "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ), Türkiye’nin yer gözlem kabiliyetini genişletmeye yönelik yeni uydu ailesi HÜRSAT’ı IAC 2026’da kamuoyuna tanıttı. Fuarda HÜRSAT EO ve HÜRSAT SAR olmak üzere iki farklı uydu konsepti öne çıktı. HÜRSAT, TUSAŞ’ın daha büyük GÖKTÜRK sınıfı uydularına kıyasla daha kompakt bir platform olarak geliştiriliyor. Şirketin bu yaklaşımla daha düşük kütleli ve [&#8230;]",
+      "link": "https://shiftdelete.net/tusas-yeni-nesil-gozlem-uydulari-hursati-tanitti",
+      "published": "2026-10-05T16:00:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:21.777853+00:00"
+    },
+    {
+      "id": "e4040ede2c59612a",
+      "source": "CNBC-e",
+      "title": "Wall Street'te teknoloji rallisi: Nasdaq tüm zamanların zirvesini gördü",
+      "summary": "Nasdaq Composite, teknoloji ve yapay zeka hisselerindeki yükselişin desteğiyle tüm zamanların en yüksek seviyesine çıktı. Piyasalar ABD tahvil faizlerini, petrol fiyatlarını ve Fed'in eylül toplantısına ilişkin tutanakları takip ediyor.",
+      "link": "https://www.cnbce.com/borsa/wall-streette-teknoloji-rallisi-nasdaq-tum-zamanlarin-zirvesini-gordu-h38765",
+      "published": "2026-10-05T16:00:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:11.337209+00:00"
+    },
+    {
+      "id": "45b9b0febb66640b",
+      "source": "Yeni Yaşam",
+      "title": "Marmaray’da intihar: Seferler tek hata indirildi",
+      "summary": "Marmaray tarafından yapılan açıklamada, Sirkeci istasyonunda bir kişinin intihar ettiği belirtildi Marmaray’ın Sirkeci istasyonunda bir kişinin intihar ettiği belirtildi. Marmaray tarafından yapılan açıklamada, “Sirkeci istasyonunda yaşanan üzücü bir olay nedeniyle tek hat işletmeciliği yapılmakta olup, #Marmaray seferlerinde gecikmeler yaşanmaktadır. Yolcularımızın gecikmelerden etkilenmemesi içi",
+      "link": "https://yeniyasamgazetesi9.com/marmarayda-intihar-seferler-tek-hata-indirildi/",
+      "published": "2026-10-05T15:59:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:08.852279+00:00"
+    },
+    {
+      "id": "5f9ea9b2af6f4ad6",
+      "source": "Yeniçağ",
+      "title": "Süper Lig hakemi Yasin Kol tutuklandı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen ve kamuoyunda &quot;Hakemler Dosyası&quot; olarak bilinen soruşturmada yeni bir gelişme yaşandı. Soruşturma kapsamında gözaltına alınan hakemler Yasin Kol ve Göktuğ Hazar Erel&#039;in emniyetteki işlemlerinin ardından haklarında tutuklama kararı verildi.",
+      "link": "https://www.yenicaggazetesi.com/super-lig-hakemi-yasin-kol-tutuklandi-1078778h.htm",
+      "published": "2026-10-05T15:59:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:00.453868+00:00"
+    },
+    {
+      "id": "2ac7552223f1c286",
+      "source": "Cumhuriyet",
+      "title": "Üretken yapay zekâ, ERP uygulama eforunu %40’a kadar azaltabilir",
+      "summary": "Yapay zekâ ERP, CRM ve diğer kurumsal yazılım dönüşümlerinde hazırlık ve uygulama işlerini hızlandırırken, kapsamın nasıl doğrulandığı ve uygulamanın nasıl fiyatlandığı da yeniden gündeme geliyor. MindDX, Türkiye’de kullanıma sunduğu dijital dönüşüm platformuyla gerçek ihtiyacı uygulama öncesinde doğrulamayı, tasarım, uygulama ve kabul sürecini kanıt ve insan onayıyla yönetmeyi hedefliyor. Lansman",
+      "link": "https://www.cumhuriyet.com.tr/is-dunyasi/uretken-yapay-zeka-erp-uygulama-eforunu-40-a-kadar-azaltabilir-2543969",
+      "published": "2026-10-05T15:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:54.265905+00:00"
+    },
+    {
+      "id": "09f4f8e189449558",
+      "source": "Yeniçağ",
+      "title": "Yeni akıllı telefon hem ucuz, hem bataryası devasa: Türkiye’de çok satılıyor",
+      "summary": "vivo&#039;nun yeni akıllı telefonu Y600i resmen tanıtıldı. 6,87 inçlik 120 Hz LCD ekran taşıyan model; Snapdragon 4 Gen 2 işlemci, 6 GB RAM, 256 GB depolama ve 8.000 mAh kapasiteli bataryayla geliyor. Telefonun başlangıç fiyatı 300 dolar.",
+      "link": "https://www.yenicaggazetesi.com/yeni-akilli-telefon-hem-ucuz-hem-bataryasi-devasa-turkiyede-cok-satiliyor-1078777h.htm",
+      "published": "2026-10-05T15:58:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:00.453904+00:00"
+    },
+    {
+      "id": "ea5224e55d283771",
+      "source": "Milliyet",
+      "title": "Son dakika... MHK soruşturmasında hakem Yasin Kol ve Göktuğ Hazar Erel tutuklandı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından Merkez Hakem Kurulu'na yönelik yürütülen soruşturma kapsamında Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel, Trabzon'da Trabzonspor- Drogheda United arasında oynanan hazırlık maçının ardından '7258 sayılı kanuna muhalefet', 'Evrakta sahtecilik suçuna iştirak' ve 'Görevi kötüye kullanma' suçları iddiasıyla gözaltına alındı. Şüpheliler bu",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-mhk-sorusturmasinda-hakem-yasin-kol-ve-goktug-hazar-erel-tutuklandi-7673654",
+      "published": "2026-10-05T15:58:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:57.358258+00:00"
+    },
+    {
+      "id": "33344a2b4942ef8a",
+      "source": "Akşam",
+      "title": "Hakan Çalhanoğlu'ndan büyük fedakarlık! Resmen imzayı atıyor",
+      "summary": "Inter'de forma giyen milli futbolcumuz Hakan Çalhanoğlu ile ilgili flaş gelişmeyi duyurdular... İtalyan ekibi, milli yıldızın sözleşmesini yenilemeyi planlarken, sürpriz bir takım Hakan Çalhanoğlu için devreye girdi. İşte detaylar...",
+      "link": "https://www.aksam.com.tr/sporplus/hakan-calhanoglundan-buyuk-fedakarlik-resmen-imzayi-atiyor/haber-1703843",
+      "published": "2026-10-05T15:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:57.907176+00:00"
+    },
+    {
+      "id": "dbd3b82ad3e9f2bc",
+      "source": "Star",
+      "title": "Aydın'da aile faciası... Tartıştığı babasını bıçakla öldürdü, tutuklanarak cezaevine gönderildi",
+      "summary": "Aydın'ın Germencik ilçesinde, tartıştığı babasını bıçakla öldüren kişi tutuklandı.",
+      "link": "https://www.star.com.tr/guncel/aydinda-aile-faciasi-tartistigi-babasini-bicakla-oldurdu-tutuklanarak-cezaevine-gonderildi-haber-2044651/",
+      "published": "2026-10-05T15:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:58.585779+00:00"
+    },
+    {
+      "id": "ef883b1d6981be13",
+      "source": "Yeniçağ",
+      "title": "Yılın sahne olayı: Shakira Ve Dua Lipa ortalığı salladı",
+      "summary": "Kolombiyalı dünya yıldızı Shakira, Madrid turnesinde İngiliz şarkıcı Dua Lipa&#039;yı sahnesinde ağırlayarak izleyenlere unutulmaz bir gece yaşattı. Dev ikilinin sürpriz İspanyolca düeti sosyal medyayı salladı.",
+      "link": "https://www.yenicaggazetesi.com/yilin-sahne-olayi-shakira-ve-dua-lipa-ortaligi-salladi-1078776h.htm",
+      "published": "2026-10-05T15:57:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:00.453930+00:00"
+    },
+    {
+      "id": "76d32d6f6405b6b2",
+      "source": "Milliyet",
+      "title": "Fon soruşturması: Başsavcılık'tan 3 ismin hisse hareketlerinin incelenmesi talebi",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından Türkiye Bankalar Birliği Başkanlığı ile Aracılık Faaliyetleri Dairesi Başkanlığına gönderilen müzekkerede, sermaye piyasası soruşturması kapsamında Serdar Turhan, Muhammed Yarız ve Şaban Serkan İlaldı’nın banka ve aracı kurum hesaplarındaki hisse senedi hareketlerinin belirlenmesi istendi. Müzekkerede, hisse senetlerinin talimat veya virman yoluyla başka",
+      "link": "https://www.milliyet.com.tr/gundem/fon-sorusturmasi-bassavciliktan-3-ismin-hisse-hareketlerinin-incelenmesi-talebi-7673651",
+      "published": "2026-10-05T15:57:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:57.358385+00:00"
+    },
+    {
+      "id": "b67808d91b98150b",
+      "source": "Ekonomim",
+      "title": "Ataşehir Belediyesi Başkan Vekili hakkında tutuklama talebi",
+      "summary": "Ataşehir Belediyesi yolsuzluk soruşturması kapsamında 14 şüpheli sulh ceza hakimliğine sevk edildi. Ataşehir Belediyesi Başkan Vekili Murat Güneş dahil 5 kişi için tutuklama, 9 kişi için ise adli kontrol talep edildi.",
+      "link": "https://www.ekonomim.com/gundem/atasehir-belediyesi-baskan-vekili-hakkinda-tutuklama-talebi-haberi-922713",
+      "published": "2026-10-05T15:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:10.426526+00:00"
+    },
+    {
+      "id": "0833b50623965969",
+      "source": "Cumhuriyet",
+      "title": "Son Dakika: Süper Lig hakemi Yasin Kol tutuklandı!",
+      "summary": "Son dakika haberi... Süper Lig hakemlerinden Yasin Kol ile Yardımcı Hakem Göktuğ Hazar Erel tutuklandı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/son-dakika-super-lig-hakemi-yasin-kol-tutuklandi-2543968",
+      "published": "2026-10-05T15:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:54.265929+00:00"
+    },
+    {
+      "id": "ffee1894600e96e3",
+      "source": "Diken",
+      "title": "Hakem Yasin Kol tutuklandı",
+      "summary": "Hakem Yasin Kol tutuklandı 05.10.2026 Diken Hakemler Yasin Kol ve Göktuğ Hazar Erel tutuklandı. The post Hakem Yasin Kol tutuklandı appeared first on #site_linkat 05.10.2026 .",
+      "link": "https://www.diken.com.tr/hakem-yasin-kol-tutuklandi/?utm_source=rss&utm_medium=rss&utm_campaign=hakem-yasin-kol-tutuklandi",
+      "published": "2026-10-05T15:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:04.346592+00:00"
+    },
+    {
+      "id": "1285752d39237bd6",
+      "source": "Aydınlık",
+      "title": "Süper Lig hakemleri Yasin Kol ve Göktuğ Hazar Erel tutuklandı",
+      "summary": "Hakemle dosyası kapsamında gözaltın alınan Süper Lig hakemleri Yasin Kol ve Göktuğ Hazar Erel tutuklandı.",
+      "link": "https://www.aydinlik.com.tr/haber/super-lig-hakemleri-yasin-kol-ve-goktug-hazar-erel-tutuklandi-593093",
+      "published": "2026-10-05T15:55:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:01.546525+00:00"
+    },
+    {
+      "id": "bfcfd0f85b57b81a",
+      "source": "Türkiye Gazetesi",
+      "title": "İNCELEME TAMAMLANDI",
+      "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevindeki ölümüne ilişkin yeniden başlatılan soruşturma kapsamında açılan mezarından alınan örneklerin incelenmesi tamamlandı. Örnekler, uzman heyetin çalışmasının ardından yeniden kabrine konuldu ve mezar kapatıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/kasif-kozinoglunun-olumune-iliskin-sorusturmada-kritik-asama-tamamlandi-1820768",
+      "published": "2026-10-05T15:55:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:55.609856+00:00"
+    },
     {
       "id": "26815366d4ef0ea6",
       "source": "Halk TV",
@@ -17,6 +204,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T15:55:39.477716+00:00"
+    },
+    {
+      "id": "e27eace613150f07",
+      "source": "Cumhuriyet",
+      "title": "Atakum'da etkinliklerin adresi: Hasan Ali Yücel Bilim ve Sanat Merkezi",
+      "summary": "Samsun Atakum’da bulunan Hasan Ali Yücel Gençlik Bilim ve Sanat Merkezi kültür ve sosyal etkinliklerin adresi olmaya devam ediyor.",
+      "link": "https://www.cumhuriyet.com.tr/yerel-gundem/atakum-da-etkinliklerin-adresi-hasan-ali-yucel-bilim-ve-sanat-merkezi-2543967",
+      "published": "2026-10-05T15:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:54.265952+00:00"
+    },
+    {
+      "id": "d6177ab084a183bb",
+      "source": "Star",
+      "title": "Bakan Ersoy, Cumhurbaşkanı Erdoğan'a Bursevi'nin Kur'an-ı Kerim tefsirini takdim takdim etti",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Cumhurbaşkanı Recep Tayyip Erdoğan'a takdim ettiği müfessir ve şair İsmail Hakkı Bursevi'nin Kur'an-ı Kerim tefsirine ilişkin paylaşımda bulundu.",
+      "link": "https://www.star.com.tr/guncel/bakan-ersoy-cumhhurbaskani-erdogana-bursevinin-kuran-i-kerim-tefsirini-takdim-takdim-etti-haber-2044650/",
+      "published": "2026-10-05T15:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:58.585810+00:00"
     },
     {
       "id": "32db469825691f8d",
@@ -107,6 +316,17 @@
       "fetched_at": "2026-10-05T15:55:51.710284+00:00"
     },
     {
+      "id": "5a868b39309843d7",
+      "source": "Aydınlık",
+      "title": "Referandumdan ‘hayır’ çıktı! İsviçre savaşın tarafı haline geliyor",
+      "summary": "İsviçre’de tarafsızlığın anayasal güvenceye alınmasını öngören girişim reddedildi. Oyların yüzde 29,85’i “evet” derken, eski Adalet Bakanı Christoph Blocher, “Savaş tehlikesi bugün arttı” dedi. Tarafsızlık için mücadele eden siyasi güçler ise mücadelenin süreceğini açıkladı",
+      "link": "https://www.aydinlik.com.tr/haber/referandumdan-hayir-cikti-isvicre-savasin-tarafi-haline-geliyor-593092",
+      "published": "2026-10-05T15:53:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:01:01.546562+00:00"
+    },
+    {
       "id": "abb5186cea459a4c",
       "source": "Yeniçağ",
       "title": "Reis onay verdi: Trabzonspor Beşiktaş'ın eski yıldızı için masaya oturuyor",
@@ -129,6 +349,28 @@
       "fetched_at": "2026-10-05T15:55:33.377027+00:00"
     },
     {
+      "id": "53fcd2f2fdd30e09",
+      "source": "Habertürk",
+      "title": "Hakem Yasin Kol için tutuklandı!",
+      "summary": "“MHK Dosyası” soruşturması kapsamında gözaltına alınan Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel tutuklandı.",
+      "link": "https://www.haberturk.com/spor/son-dakika-hakem-yasin-kol-icin-tutuklandi-3917422",
+      "published": "2026-10-05T15:53:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:51.175753+00:00"
+    },
+    {
+      "id": "388157595e4b29b8",
+      "source": "Akşam",
+      "title": "Futbolda MHK soruşturması: Yasin Kol ve Hazar Erel tutuklandı",
+      "summary": "Süper Lig hakemi Yasin Kol ve yardımcı hakem Göktuğ Hazar Erel çıkarıldıkları sulh ceza hakimliğince tutuklanarak cezaevine gönderildi.",
+      "link": "https://www.aksam.com.tr/guncel/futbolda-hakemler-sorusturmasi-super-lig-hakemi-yasin-kol-tutuklandi/haber-1703842",
+      "published": "2026-10-05T15:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:57.907203+00:00"
+    },
+    {
       "id": "a52ee2830e7fcc20",
       "source": "Akşam",
       "title": "Futbolda \"Hakemler\" soruşturması: Süper Lig hakemi Yasin Kol tutuklandı",
@@ -149,6 +391,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T15:55:31.348527+00:00"
+    },
+    {
+      "id": "d03c66df67bca181",
+      "source": "Habertürk",
+      "title": "Uluslararası Su Ürünleri Zirvesi Elazığ'da düzenlenecek",
+      "summary": "Uluslararası Su Ürünleri Zirvesi Elazığ 2026, 19-23 Ekim 2026 tarihleri arasında Türkiye'nin ve dünyanın su ürünleri aktörlerini Elazığ'da buluşturacak. Sektörün en büyük buluşmalarından biri olarak kurgulanan organizasyon, geleneksel kongre anlayışının ötesine geçerek tamamen ticaret, ihracat ve yatırım odaklı bir platform sunmayı hedefliyor",
+      "link": "https://www.haberturk.com/gundem/uluslararasi-su-urunleri-zirvesi-elazig-da-duzenlenecek-3917420",
+      "published": "2026-10-05T15:52:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:51.175816+00:00"
+    },
+    {
+      "id": "1416e5487300748e",
+      "source": "Türkiye Gazetesi",
+      "title": "İşçiler hastanelik oldu! Fabrikada korkutan olay",
+      "summary": "Tokat'ın Turhal ilçesindeki şeker fabrikasında kireç ocağında yürütülen çalışma sırasında gazdan etkilenen 26 işçi hastaneye kaldırıldı. İşçilerden birinin durumunun ağır olduğu öğrenilirken, fabrika müdürü gazın ters rüzgar nedeniyle fabrika içerisine dolduğunu belirtti.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/bir-anda-fenalasan-isciler-hastanelik-oldu-seker-fabrikasinda-korkutan-olay-1820767",
+      "published": "2026-10-05T15:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:55.609888+00:00"
+    },
+    {
+      "id": "9a08a6ce35befd94",
+      "source": "Sabah",
+      "title": "Hakemler soruşturmasında yeni gelişme! Yasin Kol tutuklandı",
+      "summary": "\"Hakemler\" soruşturmasında Süper Lig Hakemi Yasin Kol ve Göktuğ Hazar Erel tutuklandı. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/hakemler-sorusturmasinda-yeni-gelisme-yasin-kol-tutuklandi-7674323",
+      "published": "2026-10-05T15:51:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T16:00:57.525803+00:00"
     },
     {
       "id": "53246dc23a56799d",
@@ -5231,281 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T13:55:41.837736+00:00"
-    },
-    {
-      "id": "538d18c380cffe88",
-      "source": "OdaTV",
-      "title": "Serebral Palsi için farkındalık koşusu gerçekleştirildi",
-      "summary": "Türkiye Spastik Çocuklar Vakfı - Cerebral Palsy Türkiye, 6 Ekim Dünya Cerebral Palsy Günü kapsamında üçüncü Serebral Palsi Farkındalık Koşusu&#039;nu Veliefendi Hipodromu&#039;nda düzenledi.",
-      "link": "https://www.odatv.com/spor/serebral-palsi-icin-farkindalik-kosusu-gerceklestirildi-120165355",
-      "published": "2026-10-05T13:50:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T14:35:35.221273+00:00"
-    },
-    {
-      "id": "2dc381fdd7c59d92",
-      "source": "Karar",
-      "title": "COP31’in tematik programı açıklandı: Yapay Zeka da ele alınacak",
-      "summary": "Antalya'da 9-20 Kasım tarihlerinde düzenlenecek Birleşmiş Milletler İklim Değişikliği Konferansı'nın (COP31) tematik programı belli oldu. Konferans boyunca gıda ve tarımdan enerjiye, iklim finansmanından yapay zekaya, kentlerden sosyal kalkınmaya kadar farklı başlıklar ele alınacak.",
-      "link": "https://www.karar.com/guncel-haberler/cop31in-tematik-programi-aciklandi-yapay-zeka-da-ele-alinacak-2076440",
-      "published": "2026-10-05T13:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:55:38.089403+00:00"
-    },
-    {
-      "id": "1d9e113476164acb",
-      "source": "DonanımHaber",
-      "title": "Türkiye’nin Starlink’i GÖKBAĞ: 198 uyduluk ağın ilk uydusu gösterildi",
-      "summary": "ASELSAN’ın 198 uydudan oluşacak GÖKBAĞ projesinde ilk gerçek uydu sergilendi. 2028-2029’da fırlatılacak ağ, haberleşme ve navigasyon alanlarında Türkiye’nin uzaydaki bağımsızlığını güçlendirecek.",
-      "link": "https://www.donanimhaber.com/aselsan-gokbag-projesinin-ilk-gercek-uydusunu-gosterdi--211261",
-      "published": "2026-10-05T13:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:57.016305+00:00"
-    },
-    {
-      "id": "03fbb45bbee97e54",
-      "source": "Finans Gündem",
-      "title": "MASAK soruşturmasından KPSS skandalı çıktı",
-      "summary": "MASAK'taki casusluk soruşturmasının kritik isimlerinden Eda Aydoğan'ın usulsüz olarak 'Admin’ yetkisiyle Entegre Mali İstihbarat Sistemi’ne giriş yaptığı, 2013 KPSS’den iki gün önce FETÖ hücre evine şıkları işaretli sınav sorularını getirdiği belirlendi.",
-      "link": "https://www.finansingundemi.com/haber/masak-sorusturmasindan-kpss-skandali-cikti/1910500",
-      "published": "2026-10-05T13:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T14:01:03.026046+00:00"
-    },
-    {
-      "id": "79f14bb6d046b3d2",
-      "source": "Akşam",
-      "title": "Tek bir cümle söylersin tüm hayatını anlatır! Bu kişilerin ardındaki 3 psikoloji gerçeği",
-      "summary": "Bazı insanlar vardır; bir ortamda sarf ettikleri tek bir cümle, kurdukları tek bir benzetiş veya kullandıkları tek bir kelimeyle tüm yaşam öykülerini, kırılmalarını ve ruh hallerini açığa çıkarırlar. Peki, ağzımızdan dökülen o kısa ifadeler nasıl oluyor da tüm geçmişimizin aynası haline geliyor? İşte tek bir cümleyle hayatını özetleyen kişilerin ardındaki 3 çarpıcı psikoloji gerçeği...",
-      "link": "https://www.aksam.com.tr/mor-papatya/tek-bir-cumle-soylersin-tum-hayatini-anlatir-bu-kisilerin-ardindaki-3-psikoloji-gercegi/haber-1703809",
-      "published": "2026-10-05T13:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:36.547810+00:00"
-    },
-    {
-      "id": "8481efcb7c690c71",
-      "source": "Star",
-      "title": "Filenin Sultanları, 2027 Kadınlar Voleybol Dünya Kupası'nda mücadele edecek",
-      "summary": "Son Avrupa ve VNL Şampiyonu A Milli Kadın Voleybol Takımı, 2027 Kadınlar Voleybol Dünya Kupası'nda Türkiye'yi temsil edecek.",
-      "link": "https://www.star.com.tr/spor/filenin-sultanlari-2027-kadinlar-voleybol-dunya-kupasinda-mucadele-edecek-haber-2044625/",
-      "published": "2026-10-05T13:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:37.279464+00:00"
-    },
-    {
-      "id": "fd9ab8fd323ec074",
-      "source": "Yeni Akit",
-      "title": "Cumhurbaşkanı Başdanışmanı Saral'dan çağrı: Fon krizinde süreç şeffaf yürütülsün",
-      "summary": "Cumhurbaşkanı Başdanışmanı Saral, kamuoyunun gündemindeki fon krizine ilişkin soruşturmanın hassasiyetle ve şeffaf bir şekilde yürütüldüğünü belirtti. Dezenformasyon söylemlerine karşı dikkatli olunması çağrısında bulunan Saral, \"Süreç nereye giderse gitsin, kime uzanırsa uzansın; devletimizin gereğini yapacağından kimsenin şüphesi olmasın\" ifadelerini kullanarak adli ve idari mekanizmaların karar",
-      "link": "https://www.yeniakit.com.tr/haber/cumhurbaskani-basdanismani-saraldan-cagri-fon-krizinde-surec-seffaf-yurutulsun-2026555.html",
-      "published": "2026-10-05T13:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:37.593856+00:00"
-    },
-    {
-      "id": "5a111863e15ab49d",
-      "source": "Yeniçağ",
-      "title": "İbrahim Hacıosmanoğlu'na Devlet Bahçeli'den destek: 'Yalnız değilsin'",
-      "summary": "Türk futbolunda yaşanan gelişmelerin ardından istifa iddialarını reddeden TFF Başkanı İbrahim Hacıosmanoğlu&#039;na MHP Genel Başkanı Devlet Bahçeli&#039;den destek geldi. Bahçeli, Hacıosmanoğlu&#039;na &quot;Yalnız değilsin&quot; notunun yer aldığı bir çiçek gönderdi.",
-      "link": "https://www.yenicaggazetesi.com/ibrahim-haciosmanogluna-devlet-bahceliden-destek-yalniz-degilsin-1078717h.htm",
-      "published": "2026-10-05T13:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:38.362225+00:00"
-    },
-    {
-      "id": "038f1cf0a12a962d",
-      "source": "LOG",
-      "title": "Mini LED TV alırken kontrol etmeniz gerekenler",
-      "summary": "&#8220;Mini LED&#8221; ifadesi artık hemen her yerde karşımıza çıkıyor ancak tüm Mini LED TV&#8217;ler aynı performansı sunmuyor. Mini LED, arka aydınlatmada daha küçük LED&#8217;lerin kullanılmasını ifade etse de bu teknoloji farklı televizyonlarda birbirinden oldukça farklı şekillerde uygulanabiliyor. Tüketiciler için bu durum, yalnızca Mini LED etiketine bakmanın bir televizyonun gerçekte nasıl",
-      "link": "https://www.log.com.tr/mini-led-tv-alirken-kontrol-etmeniz-gerekenler/",
-      "published": "2026-10-05T13:48:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:55.664442+00:00"
-    },
-    {
-      "id": "5802938603951b5d",
-      "source": "Cumhuriyet",
-      "title": "Ali Fuat Diriker kimdir? Galatasaray’ın en kıdemli üyesi Ali Fuat Diriker neden öldü?",
-      "summary": "Galatasaray, 1947 sicil numaralı Divan Kurulu üyesi Ali Fuat Diriker’in hayatını kaybettiğini açıkladı. Peki, Ali Fuat Diriker kimdir? Galatasaray’ın en kıdemli üyesi Ali Fuat Diriker neden öldü?",
-      "link": "https://www.cumhuriyet.com.tr/spor/ali-fuat-diriker-kimdir-galatasaray-in-en-kidemli-uyesi-ali-fuat-diriker-neden-oldu-2543928",
-      "published": "2026-10-05T13:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:55:29.550589+00:00"
-    },
-    {
-      "id": "ecc4ac04451d2e22",
-      "source": "Yeni Yaşam",
-      "title": "Gülistan Doku soruşturması: Sonel’in uyuşturucu ve gayrimenkul yazışmaları dosyada",
-      "summary": "Gülistan Doku soruşturması kapsamında tutuklu bulunan dönemin Tunceli Valisi Tuncay Sonel’in, tutuklu şüpheli Gökhan Ertok ile 300 kilo uyuşturucu madde ve 400 milyonluk gayrimenkule dair yazışmaları dosyada yer aldı Munzur Üniversitesi öğrencisi Gülistan Doku’nun kaybedilmesine dair yürütülen soruşturma devam ediyor. Soruşturma kapsamında tutuklu bulunan dönemin Tunceli Valisi Tuncay Sonel’in, tu",
-      "link": "https://yeniyasamgazetesi9.com/gulistan-doku-sorusturmasi-sonelin-uyusturucu-ve-gayrimenkul-yazismalari-dosyada/",
-      "published": "2026-10-05T13:47:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:43.530540+00:00"
-    },
-    {
-      "id": "d2206b4fb148946e",
-      "source": "Habertürk",
-      "title": "Sultanlar, Dünya Kupası’nda mücadele edecek!",
-      "summary": "Son Avrupa ve VNL Şampiyonu A Milli Kadın Voleybol Takımı, 2027 Kadınlar Voleybol Dünya Kupası’nda Türkiye’yi temsil edecek.",
-      "link": "https://www.haberturk.com/spor/a-milli-kadin-voleybol-takimi-2027-kadinlar-voleybol-dunya-kupasinda-mucadele-edecek-3917394",
-      "published": "2026-10-05T13:47:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:55:26.565576+00:00"
-    },
-    {
-      "id": "523b364bb4c8470f",
-      "source": "OdaTV",
-      "title": "Arkadaşı Sağlamer'den Göksel Arsoy anısı: Yaprak Dökümü isyanı",
-      "summary": "Odatv programcısı Mustafa Sağlamer, bugün hayatını kaybeden Göksel Arsoy’la arasında geçen &quot;Tarub&quot; anısı ve ilk &quot;Yaprak Dökümü&quot; filmine dair sohbetini yazdı.",
-      "link": "https://www.odatv.com/ozel/mustafa-saglamerden-goksel-arsoy-anisi-yaprak-dokumu-isyani-120165351",
-      "published": "2026-10-05T13:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T14:10:46.457711+00:00"
-    },
-    {
-      "id": "633ce76bd47ad033",
-      "source": "DW Türkçe",
-      "title": "Dünya Türkiye'de yapılacak İklim Konferansı COP31'e hazırlanıyor",
-      "summary": "Dünya liderleri, Fiji'de düzenlenen zirvede Türkiye'de yapılacak İklim Konferansı'nın hazırlıklarını yapıyor.",
-      "link": "https://www.dw.com/tr/dünya-türkiye-de-yapılacak-iklim-konferansı-cop31-e-hazırlanıyor/a-79549797?maca=tur-rss-tur-all-1495-rdf",
-      "published": "2026-10-05T13:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T14:01:13.439128+00:00"
-    },
-    {
-      "id": "36644935c5a7de99",
-      "source": "OdaTV",
-      "title": "Arkadaşı Sağlamer'den Göksel Arsoy anısı: Yaprak dökümü isyanı",
-      "summary": "Odatv programcısı Mustafa Sağlamer, bugün hayatını kaybeden Göksel Arsoy’la arasında geçen &quot;Tarub&quot; anısı ve ilk &quot;Yaprak Dökümü&quot; filmine dair sohbetini yazdı.",
-      "link": "https://www.odatv.com/ozel/mustafa-saglamerden-goksel-arsoy-anisi-yaprak-dokumu-isyani-120165351",
-      "published": "2026-10-05T13:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:55:41.191343+00:00"
-    },
-    {
-      "id": "3dff8c91a9a95a8f",
-      "source": "Ekonomim",
-      "title": "Devlet Bahçeli, İbrahim Hacıosmanoğlu'na çelenk göndererek destek verdi: Yalnız değilsin",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, TFF Başkanı İbrahim Hacıosmanoğlu&#039;na çelenk göndererek destek verdi. Çelenkte, &quot;Sayın İbrahim Hacıosmanoğlu başarı dileklerimle, yalnız değilsin&quot; notu yer aldı.",
-      "link": "https://www.ekonomim.com/gundem/devlet-bahceli-ibrahim-haciosmanogluna-celenk-gondererek-destek-verdi-yalniz-degilsin-haberi-922693",
-      "published": "2026-10-05T13:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:55:49.017293+00:00"
-    },
-    {
-      "id": "a7b07b56b6cdb61e",
-      "source": "Akşam",
-      "title": "Thomas Tuchel: Çekya'dan topu almak oldukça zor",
-      "summary": "UEFA Uluslar A Ligi 3. Grup'ta Çekya ile karşılaşacak olan İngiltere Milli Takımı'nda teknik direktör Thomas Tuchel, maç öncesi açıklamalarda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/thomas-tuchel-cekyadan-topu-almak-oldukca-zor/haber-1703808",
-      "published": "2026-10-05T13:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:36.547869+00:00"
-    },
-    {
-      "id": "1d3b74febf3ae775",
-      "source": "Türkiye Gazetesi",
-      "title": "Adana'da 180 bin liralık ceza korkusu! Yol verme kavgasını 'camdan cama' yaptılar",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem-videolari/adanada-180-bin-liralik-ceza-korkusu-yol-verme-kavgasini-camdan-cama-yaptilar-1820747",
-      "published": "2026-10-05T13:46:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:34.285887+00:00"
-    },
-    {
-      "id": "da1e082a531c0947",
-      "source": "Euronews Türkçe",
-      "title": "Japonya’daki yeni yürüyüş rotası 320 km boyunca altı kenti bağlıyor",
-      "summary": "Japonya’nın en uzun döngü parkuru artık tamamen açık. 320 kilometrelik Hitachinokuni Uzun Parkuru, yürüyüşçüleri dağlardan kırsal köylere, şelalelerden plajlara ve tarihi kalıntılara götürüyor.",
-      "link": "https://tr.euronews.com/2026/10/05/japonyadaki-yeni-yuruyus-rotasi-320-km-boyunca-alti-kenti-bagliyor",
-      "published": "2026-10-05T13:46:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:58.866447+00:00"
-    },
-    {
-      "id": "36e8b39f58490696",
-      "source": "Bir Gün",
-      "title": "Romanya-İsveç maçı hangi kanalda, saat kaçta?",
-      "summary": "Romanya-İsveç maçı ne zaman, saat kaçta ve hangi kanalda yayınlanacak? UEFA Uluslar Ligi'ndeki Romanya-İsveç karşılaşmasının yayın bilgileri ve takımların son durumu merak ediliyor. Yanıtlar haberimizde.",
-      "link": "https://www.birgun.net/haber/romanya-isvec-maci-hangi-kanalda-saat-kacta-738733",
-      "published": "2026-10-05T13:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T14:25:29.473573+00:00"
-    },
-    {
-      "id": "c90578212171c477",
-      "source": "Akşam",
-      "title": "Eyüpsultan'daki yediemin icra deposunda yangın",
-      "summary": "Eyüpsultan'daki yediemin icra deposunda yangın çıktı.",
-      "link": "https://www.aksam.com.tr/guncel/eyupsultandaki-yediemin-icra-deposunda-yangin/haber-1703807",
-      "published": "2026-10-05T13:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:36.547892+00:00"
-    },
-    {
-      "id": "af454f515e29b9b2",
-      "source": "Yeniçağ",
-      "title": "Turan Yaldır İç Anadolu Araştırmasında ilk sırada",
-      "summary": "ORC Araştırma tarafından 25–27 Eylül 2026 tarihleri arasında gerçekleştirildiği belirtilen araştırmada, Aksaray Milletvekili ve İYİ Parti Genel Başkan Yardımcısı Turan Yaldır’ın yüzde 41,2 beğeni oranına ulaştığı ve İç Anadolu Bölgesi milletvekilleri arasında ilk sırada yer aldığı ifade edildi.",
-      "link": "https://www.yenicaggazetesi.com/turan-yaldir-ic-anadolu-arastirmasinda-ilk-sirada-1078715h.htm",
-      "published": "2026-10-05T13:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:38.362273+00:00"
-    },
-    {
-      "id": "e2fcb3b555c2c724",
-      "source": "Habertürk",
-      "title": "Kaç bakıcısının olduğunu açıkladı",
-      "summary": "Kim Kardashian, 2021'de ayrılıp bir yıl sonra resmen boşandığı eski eşi Kanye West'ten olan dört çocuğuna nasıl baktığını anlatırken, bakıcı sayısını da verdi",
-      "link": "https://www.haberturk.com/magazin/kim-kardashian-dort-cocuk-icin-kac-bakisinin-oldugunu-acikladi-3917392",
-      "published": "2026-10-05T13:45:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:29.709050+00:00"
-    },
-    {
-      "id": "406fa33348268e39",
-      "source": "BBC News Türkçe",
-      "title": "Cumhurbaşkanı Başdanışmanı Saral: Fon soruşturmasında 'hiç kimse süreci kendi siyasi hesabına alet etmesin'",
-      "summary": "Türkiye'de sermaye piyasalarında türbülansa neden olan fon kriziyle ilgili savcılık eski SPK Başkanı İbrahim Ömer Gönül için soruşturma izni istedi.",
-      "link": "https://www.bbc.com/turkce/articles/cm36l6gzjnpwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05T13:45:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T15:55:53.918774+00:00"
-    },
-    {
-      "id": "998fededf1c60cdc",
-      "source": "Diken",
-      "title": "Yasin Kol, MASAK'ın 135 milyon liralık işlem hacmi tespitini 'hatalı' buldu",
-      "summary": "Yasin Kol, MASAK'ın 135 milyon liralık işlem hacmi tespitini 'hatalı' buldu 05.10.2026 Diken 'Şike'yle suçlanan hakem Yasin Kol, işlem hacminin 135 milyon lira olduğu yönündeki Mali Suçları Araştırma Kurulu (MASAK) tespitini 'hatalı' buldu. The post Yasin Kol, MASAK'ın 135 milyon liralık işlem hacmi tespitini 'hatalı' buldu appeared first on #site_linkat 05.10.2026 .",
-      "link": "https://www.diken.com.tr/yasin-kol-masakin-135-milyon-liralik-islem-hacmi-tespitini-hatali-buldu/?utm_source=rss&utm_medium=rss&utm_campaign=yasin-kol-masakin-135-milyon-liralik-islem-hacmi-tespitini-hatali-buldu",
-      "published": "2026-10-05T13:45:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T13:50:40.244592+00:00"
     }
   ]
 }

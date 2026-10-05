@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-05T02:31:49.318337+00:00",
+  "last_updated": "2026-10-05T02:35:57.734522+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 518,
+  "new_items_this_run": 542,
   "items": [
     {
       "id": "4e4db6493d6a9aa1",
@@ -4859,6 +4859,17 @@
       "fetched_at": "2026-10-04T19:50:33.194283+00:00"
     },
     {
+      "id": "4bb8731b5af2926f",
+      "source": "Habertürk",
+      "title": "İsrail'e ek asker ve uçak sevkiyatı iddiası",
+      "summary": "İsrail basınında ABD'nin, Orta Doğu'da olası gerilime karşı hazırlık kapsamında İsrail'e ek asker ve uçak göndermeye hazırlandığı öne sürüldü.",
+      "link": "https://www.haberturk.com/dunya/israil-e-ek-asker-ve-ucak-sevkiyati-iddiasi-3917199",
+      "published": "2026-10-04T19:45:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T02:35:26.803056+00:00"
+    },
+    {
       "id": "f58b63e11c96ff78",
       "source": "Evrensel",
       "title": "Adana’nın Saimbeyli ilçesinde 4,4 büyüklüğünde deprem",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T19:15:40.932523+00:00"
-    },
-    {
-      "id": "3449d67a559219f2",
-      "source": "Akşam",
-      "title": "Soykırımcı İsrail'in ‘işgal aparatı' sendikaları",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/soykirimci-israilin-isgal-aparati-sendikalari/haber-1703616",
-      "published": "2026-10-04T19:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T21:01:04.493300+00:00"
     }
   ]
 }

@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-10-05T21:41:05.930912+00:00",
+  "last_updated": "2026-10-05T21:46:00.621520+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 540,
+  "new_items_this_run": 543,
   "items": [
+    {
+      "id": "27685f0c73d8addb",
+      "source": "Yeni Şafak",
+      "title": "Fatih’te iki katlı bina alev alev yandı",
+      "summary": "İstanbul Fatih’te iki katlı binada bilinmeyen nedenle yangın çıktı. Alev alev yanan bina itfaiye ekiplerince söndürüldü.",
+      "link": "https://www.yenisafak.com/galeri/gundem/fatihte-iki-katli-bina-alev-alev-yandi-4861833",
+      "published": "2026-10-05T21:44:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:42.088872+00:00"
+    },
+    {
+      "id": "8377e73af39eaf45",
+      "source": "Akşam",
+      "title": "Vincenzo Montella'dan mağlubiyet açıklaması! \"Ben çok umutluyum\"",
+      "summary": "A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella, Uluslar A Ligi'nde İtalya'ya 3-1 mağlup olduğumuz maçın ardından açıklamalarda bulundu. Deneyimli teknik adam, \"Bu deneyimler bizi geliştirecek. Ben çok umutluyum. İlk hedefimiz Avrupa Şampiyonası. Uluslar Ligi'nde tam kadro mücadele edemedik. Bu deneyimler, bu seviyede önemli.\" dedi.",
+      "link": "https://www.aksam.com.tr/spor/vincenzo-montelladan-maglubiyet-aciklamasi-ben-cok-umutluyum/haber-1703879",
+      "published": "2026-10-05T21:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:41.358212+00:00"
+    },
+    {
+      "id": "ee05fb497e102eb1",
+      "source": "Yeniçağ",
+      "title": "Fatih’te 2 katlı bina alev alev yandı",
+      "summary": "İstanbul Fatih’te 2 katlı binada bilinmeyen nedenle yangın çıktı. Alev alev yanan bina itfaiye ekiplerince söndürüldü.",
+      "link": "https://www.yenicaggazetesi.com/fatihte-2-katli-bina-alev-alev-yandi-1078850h.htm",
+      "published": "2026-10-05T21:42:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:44.388298+00:00"
+    },
+    {
+      "id": "9b6f394e94fdcf35",
+      "source": "Ekonomim",
+      "title": "Soma'daki maden faciası soruşturması: 9 şüpheli tutuklandı",
+      "summary": "Manisa&#039;nın Soma ilçesindeki 5 işçinin yaşamını yitirdiği maden faciasına ilişkin 9 zanlı tutuklandı.",
+      "link": "https://www.ekonomim.com/gundem/somadaki-maden-faciasi-sorusturmasi-9-supheli-tutuklandi-haberi-922774",
+      "published": "2026-10-05T21:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:52.211324+00:00"
+    },
+    {
+      "id": "4c52878fd3686ae4",
+      "source": "Halk TV",
+      "title": "Tarihi resmen açıkladılar: Her evde bulunuyordu, dev yasak geliyor!",
+      "summary": "Milyonların her gün kullandığı ürüne yasak geliyor. Tarihi resmen duyurulan radikal kararla birlikte raflardan tamamen kaldırılacak. Herkesi yakından ilgilendiren dev kararın detayları açıklandı.",
+      "link": "https://halktv.com.tr/dunya/tarihi-resmen-acikladilar-her-evde-bulunuyordu-dev-yasak-geliyor-1059675h",
+      "published": "2026-10-05T21:41:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:46.187980+00:00"
+    },
+    {
+      "id": "609bbbe1a3c0bdbb",
+      "source": "Yeniçağ",
+      "title": "Montella'dan İtalya mağlubiyeti sonrası 400 milyon Euro vurgusu",
+      "summary": "A Milli Takım&#039;ın İtalya&#039;ya 3-1 mağlup olduğu karşılaşmanın ardından Vincenzo Montella ve Roberto Mancini açıklamalarda bulundu. Montella, rakibin kadro değerine dikkat çekerken Mancini, Türkiye&#039;nin iyi mücadele ettiğini söyledi.",
+      "link": "https://www.yenicaggazetesi.com/montelladan-italya-maglubiyeti-sonrasi-400-milyon-euro-vurgusu-1078849h.htm",
+      "published": "2026-10-05T21:41:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:44.388323+00:00"
+    },
     {
       "id": "3e648d3308605a1b",
       "source": "Akşam",
@@ -17,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T21:40:42.768396+00:00"
+    },
+    {
+      "id": "6380b8f0d7c27dd5",
+      "source": "Ekonomim",
+      "title": "New York borsası günü yükselişle kapattı",
+      "summary": "Haftanın ilk işlem gününü New York borsası yükselişle tamamladı.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-yukselisle-kapatti-haberi-922772",
+      "published": "2026-10-05T21:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:52.211342+00:00"
     },
     {
       "id": "bc12669cbc013899",
@@ -83,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T21:40:36.031115+00:00"
+    },
+    {
+      "id": "08c7f67878792e26",
+      "source": "Ekonomim",
+      "title": "AYM'den 'Tayfun Kahraman' kararı: Yeniden yargılama yolu açıldı, 100 bin lira manevi tazminat",
+      "summary": "AYM, Kahraman’ın adil yargılanma hakkı ile kişi özgürlüğü ve güvenliği hakkının ihlal edildiğine karar verirken, yeniden yargılama yapılmasına ve 100 bin lira manevi tazminat ödenmesine hükmetti.",
+      "link": "https://www.ekonomim.com/gundem/aymden-tayfun-kahraman-karari-yeniden-yargilama-yolu-acildi-100-bin-lira-manevi-tazminat-haberi-922773",
+      "published": "2026-10-05T21:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:52.211362+00:00"
     },
     {
       "id": "5c8e14ec23fa0add",
@@ -413,6 +501,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T21:27:45.499496+00:00"
+    },
+    {
+      "id": "105cddf4ee4fc886",
+      "source": "Yeniçağ",
+      "title": "Yenişehir Belediye Başkanı Abdullah Özyiğit tutuklandı",
+      "summary": "Mersin’de Büyükşehir, Yenişehir ve Mezitli belediyelerine yönelik yürütülen yolsuzluk soruşturması kapsamında gözaltına alınarak adliyeye sevk edilen Yenişehir Belediye Başkanı Abdullah Özyiğit, çıkarıldığı mahkemece tutuklandı.",
+      "link": "https://www.yenicaggazetesi.com/yenisehir-belediye-baskani-abdullah-ozyigit-tutuklandi-1078844h.htm",
+      "published": "2026-10-05T21:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:44.388403+00:00"
     },
     {
       "id": "ee723e84e953675e",
@@ -5387,6 +5486,17 @@
       "fetched_at": "2026-10-05T18:40:55.352331+00:00"
     },
     {
+      "id": "652fe3468d68aac6",
+      "source": "Sözcü",
+      "title": "Mekke Savunma İttifakı'ndan ortak savunma kararı",
+      "summary": "Mekke Savunma İttifakı'ndan ortak savunma kararı",
+      "link": "https://www.sozcu.com.tr/mekke-ittifaki-riyad-da-toplandi-5-ekim-2026-p366427",
+      "published": "2026-10-05T18:39:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:45:38.845905+00:00"
+    },
+    {
       "id": "45ea48bac95a47fd",
       "source": "Milliyet",
       "title": "Gaziantep'te firari FETÖ hükümlüsü yakalandı",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T18:45:37.471608+00:00"
-    },
-    {
-      "id": "c5aebc422901dc10",
-      "source": "Habertürk",
-      "title": "Orkun Işıtmak baba oluyor",
-      "summary": "Orkun Işıtmak ve Merve Yorgancılar, anne-baba olacaklarını duyurdu. 2021 yılında evlenen çift, bebek haberini New York gezileri sırasında paylaştı",
-      "link": "https://www.haberturk.com/magazin/foto/orkun-isitmak-baba-oluyor-3917452",
-      "published": "2026-10-05T18:39:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:45:31.718659+00:00"
-    },
-    {
-      "id": "8a082a6a944a663e",
-      "source": "Habertürk",
-      "title": "İlk 11'ler belli oldu!",
-      "summary": "UEFA Uluslar A Ligi 1. Grubu'nda mücadele veren A Milli Takımımız, deplasmanda İtalya'ya konuk oluyor. Zorlu mücadele öncesi oynadığı ilk 3 maçta mağlup olan Vincenzo Montella'nın öğrencileri, İtalya'da moral arayacak. İtalya ise grupta 4 puan ile üçüncü sırada yer alıyor. İtalya - Türkiye karşılaşması ile ilgili bilinmesi gereken tüm detaylar ve ilk 11'ler haberimizde...",
-      "link": "https://www.haberturk.com/spor/italya-turkiye-maci-canli-anlatim-italya-turkiye-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-onemli-3917241",
-      "published": "2026-10-05T18:38:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:45:31.718753+00:00"
-    },
-    {
-      "id": "bf63eaa92d3fc71c",
-      "source": "Habertürk",
-      "title": "‘Sahte şube’ aldatmacasına idari yaptırım",
-      "summary": "Ticaret Bakanlığı, tek bir gerçek restorana sahip olmalarına rağmen yemek sipariş platformlarında çok sayıda restoran hizmet veriyormuş izlenimi oluşturarak tüketicileri yanıltan 2 ayrı şirkete idari yaptırım uyguladı",
-      "link": "https://www.haberturk.com/gundem/sahte-sube-aldatmacasina-idari-yaptirim-3917453",
-      "published": "2026-10-05T18:37:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:45:31.718786+00:00"
-    },
-    {
-      "id": "1b6d1f9275e29920",
-      "source": "Cumhuriyet",
-      "title": "Başkan istifa ettiğini duyurmuştu: Gençlerbirliği'nde Metin Diyadin gelişmesi!",
-      "summary": "Gençlerbirliği Başkanı Arda Çakmak, Teknik Direktör Metin Diyadin'in istifa ettiğini duyurmuştu. Başkent ekibinden yapılan açıklamada Metin Diyadin'in istifasının kabul edilmediği belirtildi.",
-      "link": "https://www.cumhuriyet.com.tr/spor/baskan-istifa-ettigini-duyurmustu-genclerbirligi-nde-metin-diyadin-gelismesi-2544002",
-      "published": "2026-10-05T18:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T20:31:28.599111+00:00"
-    },
-    {
-      "id": "cf28069b971f1da4",
-      "source": "Bianet",
-      "title": "\"Çerçeve Yasa\"nın uygulanması beklenirken süren \"infaz yakma\"lara Sincan'da protesto",
-      "summary": "Ankara, Sincan Kadın Cezaevi önündeki eylemde İdare ve Gözlem Kurullarının \"infaz yakma\"sı yeniden gündeme taşındı. Yeni çıkarılan \"Çerçeve Yasa\"yla tahliyeler beklenirken, aralarında ağır hastaların da bulunduğu siyasiler, “pişmanlık” göstermedikleri gerekçesiyle zamanı geldiği halde salıverilmiyor.",
-      "link": "https://bianet.org/haber/cerceve-yasa-nin-uygulanmasi-beklenirken-suren-infaz-yakma-lara-sincan-da-protesto-324129",
-      "published": "2026-10-05T18:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T20:31:40.170323+00:00"
-    },
-    {
-      "id": "c9d0033aea3258a8",
-      "source": "Bianet",
-      "title": "\"Çerçeve Yasa\"nın uygulanması beklenirken süren \"İnfaz yakma\"lara Sincan'da protesto",
-      "summary": "Ankara, Sincan Kadın Cezaevi önündeki eylemde İdare ve Gözlem Kurullarının \"infaz yakma\"sı yeniden gündeme taşındı. Yeni çıkarılan \"Çerçeve Yasa\"yla tahliyeler beklenirken, aralarında ağır hastaların da bulunduğu siyasiler, “pişmanlık” göstermedikleri gerekçesiyle zamanı geldiği halde salıverilmiyor.",
-      "link": "https://bianet.org/haber/cerceve-yasa-nin-uygulanmasi-beklenirken-suren-infaz-yakma-lara-sincan-da-protesto-324129",
-      "published": "2026-10-05T18:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T19:26:01.987540+00:00"
-    },
-    {
-      "id": "febf7adc9a622be7",
-      "source": "Cumhuriyet",
-      "title": "Gençlerbirliği Başkanı açıkladı: Metin Diyadin'den istifa kararı!",
-      "summary": "Gençlerbirliği Başkanı Arda Çakmak, Teknik Direktör Metin Diyadin'in istifa ettiğini duyurdu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/genclerbirligi-baskani-acikladi-metin-diyadin-den-istifa-karari-2544002",
-      "published": "2026-10-05T18:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:40:35.473395+00:00"
-    },
-    {
-      "id": "316c359b9b50f0b6",
-      "source": "Cumhuriyet",
-      "title": "Asla yırtılmayan ve yapışmayan ev yapımı taze makarna hamurunun tüm sırları: Evde makarna nasıl yapılır?",
-      "summary": "Sadece un ve yumurtanın, usta işi bir yoğurma tekniği ve sabırla buluşarak ipeksi bir gastronomi şaheserine dönüştüğü o kusursuz formül sahnede. Hamurun esnekliğini belirleyen un seçiminden, glüteni uyandıran bilek hareketlerine ve ipek gibi açılmasını sağlayan dinlendirme sırlarına kadar; taze makarna hamurunun tüm ayrıntıları...",
-      "link": "https://www.cumhuriyet.com.tr/gurme/asla-yirtilmayan-ve-yapismayan-ev-yapimi-taze-makarna-hamurunun-tum-sirlari-evde-makarna-nasil-yapilir-2543990",
-      "published": "2026-10-05T18:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:40:35.473443+00:00"
-    },
-    {
-      "id": "b503204884104328",
-      "source": "Cumhuriyet",
-      "title": "Riyad’da kritik toplantı, Mekke İttifakı harekete geçti: Kolektif caydırıcılık devreye giriyor",
-      "summary": "Suudi Arabistan, Türkiye ve Pakistan’ın taraf olduğu Mekke İttifakı kapsamında Riyad’da düzenlenen acil toplantıda, Husilerin saldırılarına karşı “kolektif caydırıcılık önlemlerinin” devreye alınması kararlaştırıldı. Suudi Arabistan Savunma Bakanı Prens Halid bin Selman, üç ülkenin saldırılara karşı ortak hareket etme konusunda uzlaştığını açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/riyad-da-kritik-toplanti-mekke-ittifaki-harekete-gecti-kolektif-caydiricilik-devreye-giriyor-2544001",
-      "published": "2026-10-05T18:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:40:35.473487+00:00"
-    },
-    {
-      "id": "01a2229aae9d3b29",
-      "source": "Cumhuriyet",
-      "title": "Son Dakika... Mekke Savunma İttifakı'ndan ortak açıklama: 'Üzerinde mutabık kalınan askeri kuvvetler...'",
-      "summary": "Suudi Arabistan’da Pakistan, Türkiye ve Suudi Arabistan arasındaki Mekke İttifakı'nın Stratejik Siyasi ve Savunma Komitesi toplantısı yapıldı. Toplantının ardından yapılan ortak açıklamada \"Tarafların ulusal mevzuatlarına uygun olmak kaydıyla, üzerinde mutabık kalınan askeri kuvvetler ile yeteneklerin uzlaşılan düzenlemeler çerçevesinde Suudi Arabistan’a sağlanmasına ve bunların hızla konuşlandırı",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-mekke-savunma-ittifaki-ndan-ortak-aciklama-uzerinde-mutabik-kalinan-askeri-kuvvetler-2544000",
-      "published": "2026-10-05T18:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:40:35.473534+00:00"
     }
   ]
 }

@@ -1,12 +1,397 @@
 {
-  "last_updated": "2026-10-05T21:11:08.735811+00:00",
+  "last_updated": "2026-10-05T21:28:07.353288+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 522,
+  "new_items_this_run": 537,
   "items": [
+    {
+      "id": "a2d2dd28121d4757",
+      "source": "Akşam",
+      "title": "Fransa'dan Belçika'ya 4 gollü tarife!",
+      "summary": "UEFA Uluslar Ligi'nin dördüncü haftasında heyecan devam ediyor. A Ligi 1. Grup'ta oynanan maçta Fransa, Belçika'yı 4-1 mağlup etti.",
+      "link": "https://www.aksam.com.tr/spor/fransadan-belcikaya-4-gollu-tarife/haber-1703875",
+      "published": "2026-10-05T21:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:42.031152+00:00"
+    },
+    {
+      "id": "c3327b531837ce9e",
+      "source": "Cumhuriyet",
+      "title": "Sibirya’da gizemli zatürre vakası! Temaslılarda Kovid-19 ve rinovirüs çıktı",
+      "summary": "Rusya İnsan Sağlığı ve Tüketici Haklarını Koruma Servisi (Rospotrebnadzor), Sibirya'daki İrkutsk bölgesinde \"nedeni belirlenemeyen zatürre\" teşhisi konulan kadınla temas eden kişiler arasında 2 Kovid-19 ve 2 rinovirüs vakasının belirlendiğini bildirdi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/sibirya-da-gizemli-zaturre-vakasi-temaslilarda-kovid-19-ve-rinovirus-cikti-2544053",
+      "published": "2026-10-05T21:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:37.258283+00:00"
+    },
+    {
+      "id": "466ceeb2476f2360",
+      "source": "Evrensel",
+      "title": "Eruslu işçisi: Bu yumruğu yersek daha büyüğü sırada!",
+      "summary": "\"Bir sonraki yumruğu yememek için beklemeye, daha da fazla dişimizi sıkmaya gerek yok. Artık yumruğumuzu ekmeğimizle oynayan, lavabolara turnike kurarak küçük düşüren bu anlayışın tam da tepesine vurmalıyız.\"",
+      "link": "https://www.evrensel.net/haber/6003593/eruslu-iscisi-bu-yumrugu-yersek-daha-buyugu-sirada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-05T21:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:39.852935+00:00"
+    },
+    {
+      "id": "8b473c5f5c8523b4",
+      "source": "Star",
+      "title": "Pezeşkiyan'dan ABD'ye sert rest: Müzakere etmenin anlamı yok",
+      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Ermenistan Dışişleri Bakanı Ararat Mirzoyan ile yaptığı görüşmede, \"Devamlı yaptırımlar uygulayan, suikastlar düzenleyen ve anlaşmaları bozan bir düşmanla (ABD) müzakere etmenin anlamı yok.\" dedi.",
+      "link": "https://www.star.com.tr/dunya/pezeskiyandan-abdye-sert-rest-muzakere-etmenin-anlami-yok-haber-2044690/",
+      "published": "2026-10-05T21:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:42.931041+00:00"
+    },
+    {
+      "id": "d28392e273e02921",
+      "source": "Yeni Şafak",
+      "title": "Kazada takla atan otomobil iki tır sürücüsünün üzerine uçtu: Altı kişi yaralandı",
+      "summary": "Hatay’da hafif ticari araçla çarpışan otomobilin takla atarak iki tır sürücüsüne çarptığı kazada altı kişi yaralandı.",
+      "link": "https://www.yenisafak.com/galeri/gundem/kazada-takla-atan-otomobil-iki-tir-surucusunun-uzerine-uctu-alti-kisi-yaralandi-4861828",
+      "published": "2026-10-05T21:24:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:42.598951+00:00"
+    },
+    {
+      "id": "9708aec667cd97aa",
+      "source": "Yeniçağ",
+      "title": "Gece saatlerinde balık avına çıkan su samuru görüntülendi",
+      "summary": "Elazığ’da, koruma altında bulunan su samuru Keban Baraj Gölü’nde gece saatlerinde görüntülendi.",
+      "link": "https://www.yenicaggazetesi.com/gece-saatlerinde-balik-avina-cikan-su-samuru-goruntulendi-1078845h.htm",
+      "published": "2026-10-05T21:23:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:43.884906+00:00"
+    },
+    {
+      "id": "ff8db8387699df66",
+      "source": "Cumhuriyet",
+      "title": "Fenerbahçe'nin efsane kalecisi Ilie Datcu hayatını kaybetti",
+      "summary": "Fenerbahçe'nin eski kalecisi ve teknik direktörü Rumen Ilie Datcu, 89 yaşında yaşamını yitirdi.",
+      "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-nin-efsane-kalecisi-ilie-datcu-hayatini-kaybetti-2544052",
+      "published": "2026-10-05T21:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:37.258317+00:00"
+    },
+    {
+      "id": "745caf35ca87e281",
+      "source": "Bir Gün",
+      "title": "Akın Gürlek'in avukatı duyurdu: Ahmet Şık hakkında suç duyurusu",
+      "summary": "Adalet Bakanı Akın Gürlek'in avukatı Abdullah Adır, TİP İstanbul Milletvekili Ahmet Şık'ın dile getirdiği iddialara ilişkin açıklama yaptı. Adır, Şık'ın iddialarını destekleyen belge sunmadığını savunarak, hakkında suç duyurusunda bulunulduğunu ve tazminat davası açıldığını bildirdi.",
+      "link": "https://www.birgun.net/haber/akin-gurlek-in-avukati-duyurdu-ahmet-sik-hakkinda-suc-duyurusu-738763",
+      "published": "2026-10-05T21:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.077680+00:00"
+    },
+    {
+      "id": "d3785afeee934eab",
+      "source": "OdaTV",
+      "title": "Icardi dönüyor mu: Dursun Özbek açıkladı",
+      "summary": "Galatasaray Başkanı Dursun Özbek, Mauro Icardi&#039;nin geleceğiyle ilgili çıkan iddialara açıklık getirdi. Özbek, Arjantinli yıldız için veda organizasyonu planladıklarını ve golcü oyuncudan bu konuda cevap beklediklerini söyledi.",
+      "link": "https://www.odatv.com/spor/icardi-galatasaraya-donuyor-mu-dursun-ozbek-acikladi-120165388",
+      "published": "2026-10-05T21:21:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:45.499462+00:00"
+    },
+    {
+      "id": "2c20cc829a12675b",
+      "source": "Yeniçağ",
+      "title": "CHP'li bir belediye başkanı daha tutuklandı",
+      "summary": "Mersin’de Büyükşehir, Yenişehir ve Mezitli belediyelerine yönelik yürütülen yolsuzluk soruşturması kapsamında gözaltına alınarak adliyeye sevk edilen Yenişehir Belediye Başkanı Abdullah Özyiğit, çıkarıldığı mahkemece tutuklandı.",
+      "link": "https://www.yenicaggazetesi.com/chpli-bir-belediye-baskani-daha-tutuklandi-1078844h.htm",
+      "published": "2026-10-05T21:20:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:43.884945+00:00"
+    },
+    {
+      "id": "f685a9de41d810e5",
+      "source": "Milliyet",
+      "title": "Koruma altındaki gizemli avcı kamerada! Keban Baraj Gölü'nde zifiri karanlıkta avlanırken yakalandı",
+      "summary": "Keban Baraj Gölü’nde sportif olta balıkçılığı yapan Mehmet Tuncay, gece saatlerinde balık avladığı sırada su samurunu fark etti. Tuncay, su samurunun su içerisinde balık avlamak için dolaştığı anları cep telefonu kamerasıyla kaydetti. Doğal yaşam alanlarında nadir görülmesi nedeniyle dikkat çeken su samurunun görüntüleri, bölgedeki yaban hayatının zenginliğini bir kez daha gözler önüne serdi. Fatm",
+      "link": "https://www.milliyet.com.tr/gundem/koruma-altindaki-gizemli-avci-kamerada-keban-baraj-golunde-zifiri-karanlikta-avlanirken-yakalandi-7673797",
+      "published": "2026-10-05T21:20:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:41.540159+00:00"
+    },
+    {
+      "id": "2fd086a1bf742b86",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Soma'da 5 işçinin öldüğü maden göçüğü soruşturmasında 9 şüpheli tutuklandı",
+      "summary": "Manisa'nın Soma ilçesindeki bir maden işletmesinde 5 işçinin yaşamını yitirdiği göçüğe ilişkin soruşturmada gözaltına alınan, ilgili firmanın genel müdürünün de aralarında bulunduğu 9 zanlı tutuklandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/somada-5-iscinin-oldugu-maden-gocugu-sorusturmasinda-9-supheli-tutuklandi/4079078",
+      "published": "2026-10-05T21:20:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:36.896936+00:00"
+    },
+    {
+      "id": "1455069debcb8f0b",
+      "source": "OdaTV",
+      "title": "Metin Diyadin istifa etti",
+      "summary": "Gençlerbirliği Kulübü, teknik direktör Metin Diyadin&#039;in görevinden istifa etmek istediğini ancak bu talebin yönetim tarafından kabul edilmediğini açıkladı.",
+      "link": "https://www.odatv.com/spor/metin-diyadin-istifa-etti-120165387",
+      "published": "2026-10-05T21:20:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:45.499496+00:00"
+    },
+    {
+      "id": "ee723e84e953675e",
+      "source": "Evrensel",
+      "title": "Çocuklarımız için güvenli ve sağlıklı okullar istiyoruz",
+      "summary": "Eğitim güvenliğiyle, temizliğiyle, fiziki şartlarıyla ve eğitim materyalleriyle birlikte ele alınmalı. Çocuklarımızın geleceği için bu konuların göz ardı edilmemesi gerekiyor. Eğitim kurumlarının ihtiyaçları velilerin maddi imkanlarına bırakılmamalı.",
+      "link": "https://www.evrensel.net/haber/6003564/cocuklarimiz-icin-guvenli-ve-saglikli-okullar-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-05T21:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:39.852976+00:00"
+    },
+    {
+      "id": "f40c8eb86e592f7a",
+      "source": "Halk TV",
+      "title": "Dinlenme tesisi yakınında durduruldu: Araçtaki siyah poşetin içinden 50 kilo çıktı! 2 gözaltı",
+      "summary": "Eyüpsultan’da jandarma ekiplerinin durdurduğu araçta, daralı ağırlığı 50 kilogram olan ve kokain olduğu değerlendirilen uyuşturucu madde ele geçirildi. Araçtaki 2 şüpheli gözaltına alındı.",
+      "link": "https://halktv.com.tr/turkiye/dinlenme-tesisi-yakininda-durduruldu-aractaki-siyah-posetin-icinden-50-kilo-cikti-2-gozalti-1059670h",
+      "published": "2026-10-05T21:19:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:45.826274+00:00"
+    },
+    {
+      "id": "a888ef75b3b6ce5a",
+      "source": "Cumhuriyet",
+      "title": "Araçta silahlı saldırıya uğrayan şahıs hayatını kaybetti: Saldırganlar aranıyor",
+      "summary": "Gaziantep’te araç içerisinde otururken silahlı saldırıya uğrayan şahıs, ağır yaralı olarak kaldırıldığı hastanede hayatını kaybetti. Kaçan zanlıları yakalamak için çalışma başlatıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/aracta-silahli-saldiriya-ugrayan-sahis-hayatini-kaybetti-saldirganlar-araniyor-2544050",
+      "published": "2026-10-05T21:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:37.258371+00:00"
+    },
+    {
+      "id": "29ae2b11097cf150",
+      "source": "Habertürk",
+      "title": "TOKİ İstanbul kiralık konut kurası ne zaman?",
+      "summary": "TOKİ İstanbul kiralık sosyal konut projesinde başvuru süreci tamamlandı. Başvuruların değerlendirilmesinin ardından şartları taşıyan vatandaşlar kura çekimi ardından kiralık konutlarına kavuşacak. İlk etapta 1.071 konutun hak sahipleri Ekim ayında gerçekleştirilecek kura ile belirlenecek. Kura çekiminin TOKİ'nin resmi YouTube hesabı üzerinden canlı yayın ile yapılması öngörülüyor. Peki TOKİ kiralı",
+      "link": "https://www.haberturk.com/bilgi/foto/toki-kiralik-konut-kurasi-cekim-tarihi-toki-istanbul-kiralik-konut-kurasi-ne-zaman-cekilecek-hangi-tarihte-3917432",
+      "published": "2026-10-05T21:17:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:34.528087+00:00"
+    },
+    {
+      "id": "64bfff77d2c11fc6",
+      "source": "Habertürk",
+      "title": "İstanbul'da baraj doluluk oranı yüzde kaç oldu?",
+      "summary": "İstanbul baraj doluluk oranı güncel olarak açıklanıyor. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre barajlardaki su seviyesi yüzde 35 oranının üzerine çıktı. Yağan yağmur ve kar yağışı barajdaki doluluk oranını arttırıyor. İstanbul Aydın Üniversitesi Dr. Öğretim Üyesi ve Meteoroloji Mühendisi Güven Özdemir, AA muhabirine yaptığı değerlendirmede, Yağışlı sistemlerin etkisini sürdürme",
+      "link": "https://www.haberturk.com/bilgi/foto/iski-5-ekim-baraj-doluluk-orani-istanbul-barajlarinda-doluluk-orani-yuzde-kac-oldu-3917413",
+      "published": "2026-10-05T21:17:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:34.528166+00:00"
+    },
+    {
+      "id": "9c4c35923c1e74b9",
+      "source": "Yeniçağ",
+      "title": "Kazada takla atan otomobil 2 tır sürücüsünün üzerine uçtu: 6 yaralı",
+      "summary": "Hatay’da hafif ticari araçla çarpışan otomobilin takla atarak 2 tır sürücüsüne çarptığı kazada 6 kişi yaralandı.",
+      "link": "https://www.yenicaggazetesi.com/kazada-takla-atan-otomobil-2-tir-surucusunun-uzerine-uctu-6-yarali-1078843h.htm",
+      "published": "2026-10-05T21:16:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:43.884978+00:00"
+    },
+    {
+      "id": "a7561d58fe9b79d7",
+      "source": "Gazete Pencere",
+      "title": "Soma'da 5 işçi yaşamını yitirmişti: Maden faciası soruşturmasında 9 tutuklama",
+      "summary": "Manisa’nın Soma ilçesinde meydana gelen maden göçüğünde 5 işçinin hayatını kaybetmesine ilişkin yürütülen soruşturmada aralarında işletmenin genel müdürü ve yöneticilerinin de bulunduğu 9 kişi tutuklandı.",
+      "link": "https://www.gazetepencere.com/gundem/somada-5-iscinin-yasamini-yitirmisti-maden-faciasi-sorusturmasinda-9-tutuklama-718037h",
+      "published": "2026-10-05T21:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:45.257935+00:00"
+    },
+    {
+      "id": "ac0fab4c9dee4245",
+      "source": "Habertürk",
+      "title": "TFF'den 7 kulübe puan silme cezası!",
+      "summary": "Türkiye Futbol Federasyonu (TFF), 2026-2027 Kulüp Lisans Sürecinin tamamlandığını açıkladı. Profesyonel futbol liglerinde mücadele eden kulüplerden 11'i UEFA, 44'ü ulusal lisans aldı. 2. Lig'de mücadele eden 7 kulübe ise puan silme cezası verildi.",
+      "link": "https://www.haberturk.com/spor/tff-den-7-kulube-puan-silme-cezasi-3917470",
+      "published": "2026-10-05T21:15:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:34.528203+00:00"
+    },
+    {
+      "id": "7d03e01359678541",
+      "source": "Milliyet",
+      "title": "Yemen’deki Husiler, Suudi Arabistan’a düzenledikleri saldırılarda Riyad’daki havalimanını vurduklarını öne sürdü",
+      "summary": "Husilerin askeri sözcüsü Yahya Seri, ABD merkezli X şirketinin sosyal medya platformundaki hesabından yaptığı açıklamada, Suudi Arabistan’ın Yemen’e yönelik saldırılarına karşılık çok sayıda balistik ve seyir füzesi ile insansız hava aracı (İHA) kullanılarak üç saldırı düzenlendiğini belirtti. Seri, ilk saldırıda Uluslararası Kral Halid Havalimanı’nın doğrudan vurulduğunu ve hava trafiğinin aksadı",
+      "link": "https://www.milliyet.com.tr/dunya/yemendeki-husiler-suudi-arabistana-duzenledikleri-saldirilarda-riyaddaki-havalimanini-vurduklarini-one-surdu-7673796",
+      "published": "2026-10-05T21:15:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:41.539554+00:00"
+    },
+    {
+      "id": "fee6b78ae1a8c659",
+      "source": "Yeniçağ",
+      "title": "Dışişleri Bakanlığı’ndan Nijerya’daki askeri uçak kazası için taziye mesajı",
+      "summary": "Dışişleri Bakanlığı, Nijerya’nın Ondo eyaletinde meydana gelen askeri uçak kazasında yaşanan can kayıpları nedeniyle taziye mesajı yayımladı.",
+      "link": "https://www.yenicaggazetesi.com/disisleri-bakanligindan-nijeryadaki-askeri-ucak-kazasi-icin-taziye-mesaji-1078842h.htm",
+      "published": "2026-10-05T21:15:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:43.885009+00:00"
+    },
+    {
+      "id": "c2e4f3713788af1d",
+      "source": "Cumhuriyet",
+      "title": "Yunus Akgün'den özeleştiri: 'Ülkemizi çok üzdük'",
+      "summary": "Milli oyuncu Yunus Akgün, 3-1 kaybettikleri İtalya maçının ardından görüşlerini aktardı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/yunus-akgun-den-ozelestiri-ulkemizi-cok-uzduk-2544049",
+      "published": "2026-10-05T21:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:37.258398+00:00"
+    },
+    {
+      "id": "44ab3063021dc264",
+      "source": "Star",
+      "title": "Roberto Mancini: Türkiye yine iyi mücadele etti",
+      "summary": "İtalya Teknik Direktörü Roberto Mancini, A Milli Futbol Takımını 3-1 mağlup ettikleri karşılaşmanın ardından, \"Türkiye yine iyi mücadele etti\" dedi.",
+      "link": "https://www.star.com.tr/spor/roberto-mancini-turkiye-yine-iyi-mucadele-etti-haber-2044688/",
+      "published": "2026-10-05T21:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:42.931075+00:00"
+    },
+    {
+      "id": "ce08a477064cc4fd",
+      "source": "Aydınlık",
+      "title": "Samsunspor, PFDK'ya sevk edilen 7 isim için itiraz etti",
+      "summary": "Samsunspor Başkanı Yüksel Yıldırım, 30 Eylül&#039;den itibaren tedbirli olarak PFDK&#039;ya sevk edilen 7 kişinin Futbol A.Ş. ile resmi ve idari bağı olmadığını belirtti. Kulüp, sevk kararlarına itiraz etti.",
+      "link": "https://www.aydinlik.com.tr/haber/samsunspordan-pfdkya-sevk-edilen-7-kisi-icin-itiraz-593146",
+      "published": "2026-10-05T21:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:44.741674+00:00"
+    },
+    {
+      "id": "eecd35358933110b",
+      "source": "Halk TV",
+      "title": "Dursun Özbek'ten Icardi açıklaması: İddialar üzerine kararını açıkladı",
+      "summary": "Galatasaray Başkanı Dursun Özbek, Mauro Icardi&#039;nin dönmek istediğine dair çıkan iddialar üzerine konuştu.",
+      "link": "https://halktv.com.tr/spor/dursun-ozbekten-icardi-aciklamasi-iddialar-uzerine-kararini-acikladi-1059668h",
+      "published": "2026-10-05T21:14:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:45.826311+00:00"
+    },
+    {
+      "id": "148567d80b77d75d",
+      "source": "Yeniçağ",
+      "title": "Milli Eğitim Bakanı Tekin, Hakkari'de gençlerle bir araya geldi",
+      "summary": "Milli Eğitim Bakanı Yusuf Tekin, &quot;PISA sınavında bir hafta boyunca Fransa, İngiltere, İspanya, Almanya, &#039;Biz nasıl oldu da Türkiye&#039;nin gerisinde kaldık?&#039; diye tartışıyor. OECD üyesi ülkeleri bırak, toplam 91 ülke yani OECD&#039;nin de içinde olduğu 91 ülkede ilk 15 içindeyiz artık.&quot; dedi.",
+      "link": "https://www.yenicaggazetesi.com/milli-egitim-bakani-tekin-hakkaride-genclerle-bir-araya-geldi-1078841h.htm",
+      "published": "2026-10-05T21:14:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:43.885048+00:00"
+    },
+    {
+      "id": "0673fe2a7a33216d",
+      "source": "Cumhuriyet",
+      "title": "MasterChef'te kim kaptanlığı kazandı? 5 Ekim 2026 MasterChef'te ödül oyununu kim kazandı?",
+      "summary": "MasterChef Türkiye 2026'da haftanın ilk gününde yarışmacılar ödül oyunu için kıyasıya rekabet etti. Peki, MasterChef'te kim kaptanlığı kazandı? 5 Ekim 2026 MasterChef'te ödül oyununu kim kazandı?",
+      "link": "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-te-kim-kaptanligi-kazandi-5-ekim-2026-masterchef-te-odul-oyununu-kim-kazandi-2544048",
+      "published": "2026-10-05T21:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:37.258430+00:00"
+    },
+    {
+      "id": "1c57545fe979266c",
+      "source": "Gazete Pencere",
+      "title": "İ. Bülent Çelik'in 6 Ekim 2026 tarihli karikatürü",
+      "summary": "Türkiye'nin 6 Ekim 2026 tarihli gündemi İ. Bülent Çelik'in çizimiyle her gün Gazete Pencere'de.",
+      "link": "https://www.gazetepencere.com/karikatur/i-bulent-celikin-6-ekim-2026-tarihli-karikaturu-718036h",
+      "published": "2026-10-05T21:11:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:45.257968+00:00"
+    },
+    {
+      "id": "16d6c17780f57f9f",
+      "source": "Halk TV",
+      "title": "Kazmayı vurdular, milyonluk servet fışkırdı: Dünyada resmen 2 tane varmış!",
+      "summary": "Rusya’da arkeologlar, toprağın altında yüzyıllarca saklı kalan 2 kilogramdan fazla gümüş hazine buldu. İçinden çıkan 2 nadir İsveç sikkesi, dünyada bilinen örneklerin sayısını dörde çıkardı.",
+      "link": "https://halktv.com.tr/yasam/kazmayi-vurdular-milyonluk-servet-fiskirdi-dunyada-resmen-2-tane-varmis-1059666h",
+      "published": "2026-10-05T21:11:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:45.826369+00:00"
+    },
+    {
+      "id": "be543c69eaca3abc",
+      "source": "Habertürk",
+      "title": "Milli Takım'dan 4'te 0!",
+      "summary": "A Milli Takımımız, UEFA Uluslar A Ligi 1. Grup'taki dördüncü maçında İtalya'ya deplasmanda 3-1 mağlup oldu. Gök Mavililer'e galibiyeti getiren golleri Scamacca, Calafiori ve Pio Esposito kaydederken, ay-yıldızlıların tek golü Aral Şimşir'den geldi. Dört maç sonunda puanla tanışamayan Milliler, grubunu son sırada bitirmeyi garantiledi. İtalya ise puanını 7'ye çıkardı.",
+      "link": "https://www.haberturk.com/spor/italya-turkiye-mac-sonucu-iste-italya-turkiye-maci-ozeti-ve-golleri-uefa-uluslar-ligi-3917241",
+      "published": "2026-10-05T21:11:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:34.528244+00:00"
+    },
+    {
+      "id": "7efc6a2861e34013",
+      "source": "Evrensel",
+      "title": "Husiler: Mekke ve Medine hariç tüm Suudi hava sahası operasyon alanıdır",
+      "summary": "Yemen'de Husiler, Riyad'daki Uluslararası Kral Halid Havalimanı'nı vurduklarını açıkladı ve Mekke-Medine hariç tüm Suudi Arabistan hava sahasının operasyon alanı olduğunu belirterek hava yolu şirketlerine uyarıda bulundu.",
+      "link": "https://www.evrensel.net/haber/6003601/husiler-mekke-ve-medine-haric-tum-suudi-hava-sahasi-operasyon-alanidir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-05T21:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:39.853009+00:00"
+    },
+    {
+      "id": "c9d47b03a3e03098",
+      "source": "Evrensel",
+      "title": "Yönetmen Melik Kuru ile ‘İsimsiz Eserler Mezarlığı’ filmini konuştuk: Sanat dünyası yerine kendimle alay ettim",
+      "summary": "Melik Kuru’nun filmi ‘İsimsiz Eserler Mezarlığı’’, iki genç sanatçının hikayesi üzerinden sanat üretimi, değer ve sanat endüstrisinin işleyişine odaklanıyor.",
+      "link": "https://www.evrensel.net/haber/6003574/yonetmen-melik-kuru-ile-isimsiz-eserler-mezarligi-filmini-konustuk-sanat-dunyasi-yerine-kendimle-alay-ettim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-05T21:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:39.853040+00:00"
+    },
+    {
+      "id": "30fb943dfea18b83",
+      "source": "Diken",
+      "title": "Sağanak yağış geliyor: 19 ile sarı kodlu uyarı",
+      "summary": "Sağanak yağış geliyor: 19 ile sarı kodlu uyarı 06.10.2026 Diken Meteoroloji Genel Müdürlüğü (MGM) sağanak yağış nedeniyle bugün (6 Ekim Salı) 19 ili sarı kodla uyardı. The post Sağanak yağış geliyor: 19 ile sarı kodlu uyarı appeared first on #site_linkat 06.10.2026 .",
+      "link": "https://www.diken.com.tr/saganak-yagis-geliyor-19-ile-sari-kodlu-uyari-2/?utm_source=rss&utm_medium=rss&utm_campaign=saganak-yagis-geliyor-19-ile-sari-kodlu-uyari-2",
+      "published": "2026-10-05T21:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:46.079960+00:00"
+    },
     {
       "id": "0f672b1a83f4f717",
       "source": "Yeniçağ",
@@ -19,6 +404,28 @@
       "fetched_at": "2026-10-05T21:10:50.620498+00:00"
     },
     {
+      "id": "9f1f8ced8330c063",
+      "source": "Evrensel",
+      "title": "Soma B Termik Santrali ikinci kez icrada",
+      "summary": "Madenlere milyarlarca lira borç takan Soma B Termik Santrali, iflas başvurusunda bulunurken, ikinci icra ihalesi 7 Ekim'de. IC Holding ve Limak gibi devlerin göz diktiği tesiste işçiler hem ücret gaspına hem de iş cinayetlerine karşı direniyor.",
+      "link": "https://www.evrensel.net/haber/6003557/soma-b-termik-santrali-ikinci-kez-icrada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-05T21:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:39.853071+00:00"
+    },
+    {
+      "id": "90f662227875b2f2",
+      "source": "Ekonomim",
+      "title": "Tofaş, Hierapolis kazılarını 21 yıldır destekliyor",
+      "summary": "",
+      "link": "https://www.ekonomim.com/kose-yazisi/tofas-hierapolis-kazilarini-21-yildir-destekliyor/922769",
+      "published": "2026-10-05T21:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:51.536752+00:00"
+    },
+    {
       "id": "e1d47b1cfb6b6e4f",
       "source": "Kısa Dalga",
       "title": "Ete kemiğe bürünmüş yapay zekâ neye teselli olacak?",
@@ -28,6 +435,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T21:10:53.973603+00:00"
+    },
+    {
+      "id": "9295a1a7857895ca",
+      "source": "Karar",
+      "title": "ABD, Türkiye'nin bölgeye asker gönderme kararı için teşekkür etti: İran saldırganlığına karşı koyduğunuz için minnetarız",
+      "summary": "Yemen’deki Husi saldırılarına karşı Mekke İttifakı bünyesinde ortak askeri intikal kararı alan Türkiye, Pakistan ve Suudi Arabistan’a ABD’den ilk üst düzey destek ve teşekkür geldi. ABD Temsilciler Meclisi Üyesi Joe Wilson, ittifakın \"Orta Doğu’nun NATO’su\" haline gelebileceğini belirterek, İran destekli saldırganlığa karşı paktı devreye sokan müttefiklere minnettar olduklarını bildirdi.",
+      "link": "https://www.karar.com/dunya-haberleri/abd-turkiyenin-bolgeye-asker-gonderme-karari-icin-tesekkur-etti-iran-2076504",
+      "published": "2026-10-05T21:09:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:43.607869+00:00"
+    },
+    {
+      "id": "765ee03f01f0d254",
+      "source": "Bloomberg HT",
+      "title": "Resmi Gazete'de bugün (06.10.2026)",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-06102026-3790402",
+      "published": "2026-10-05T21:08:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:50.854664+00:00"
     },
     {
       "id": "6f4aaa26e4d6c907",
@@ -74,6 +503,17 @@
       "fetched_at": "2026-10-05T21:11:00.764106+00:00"
     },
     {
+      "id": "61ba2916145df58c",
+      "source": "Evrensel",
+      "title": "Ankara-Bakü 'kardeşliğinin' bölgesel dizayn sınavı",
+      "summary": "Aliyev'in partisinin 8. kongresinde sarf ettiği “Bizim kimsenin yardımına da himayesine de ihtiyacımız yok. Ne aldıysak parayla aldık” sözlerinin etkisi bölgesel oldu. Güney Kafkasya'da siyasi pozisyonlar yer değiştirirken oluşan sarsıntı sürüyor.",
+      "link": "https://www.evrensel.net/haber/6003565/ankara-baku-kardesliginin-bolgesel-dizayn-sinavi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-05T21:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:39.853103+00:00"
+    },
+    {
       "id": "32210ec12eca798c",
       "source": "Cumhuriyet",
       "title": "Roberto Mancini'den galibiyet açıklaması: 'Türkiye yine iyi mücadele etti ama...'",
@@ -83,6 +523,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T21:10:44.335469+00:00"
+    },
+    {
+      "id": "ca4ae8ab3a0c6c97",
+      "source": "Bir Gün",
+      "title": "Soma’daki maden katliamına ilişkin gözaltına alınan 9 kişi tutuklandı",
+      "summary": "Manisa’nın Soma ilçesinde meydana gelen maden göçüğünde 5 işçinin hayatını kaybetmesine ilişkin yürütülen soruşturma kapsamında gözaltına alınan, aralarında işletmenin genel müdürü ve yöneticilerinin de bulunduğu 9 kişi tutuklandı.",
+      "link": "https://www.birgun.net/haber/somadaki-maden-katliamina-iliskin-gozaltina-alinan-9-kisi-tutuklandi-738762",
+      "published": "2026-10-05T21:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.077722+00:00"
     },
     {
       "id": "3e5ce00e285c6bbf",
@@ -138,6 +589,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T21:10:41.197142+00:00"
+    },
+    {
+      "id": "8982ac074b9a5912",
+      "source": "Ekonomim",
+      "title": "Pasifik'ten COP31 öncesi dünyaya mesaj “Boş koltuktan daha tehlikelisi boş vaat”",
+      "summary": "",
+      "link": "https://www.ekonomim.com/kose-yazisi/pasifikten-cop31-oncesi-dunyaya-mesaj-bos-koltuktan-daha-tehlikelisi-bos-vaat/922768",
+      "published": "2026-10-05T21:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:51.536836+00:00"
     },
     {
       "id": "eb3152f28661e50f",
@@ -1240,6 +1702,17 @@
       "fetched_at": "2026-10-05T21:03:13.722424+00:00"
     },
     {
+      "id": "7f5ca938e148914a",
+      "source": "Hürriyet",
+      "title": "A Milli Takım'dan tarihi kötü seri: 38 yıl sonra bir ilk!",
+      "summary": "Uluslar Ligi’nde bu sezon oynadığı dört karşılaşmanın tamamını kaybeden A Milli Takım, uzun yıllar sonra bir ilki yaşadı.",
+      "link": "https://www.hurriyet.com.tr/sporarena/a-milli-takimdan-tarihi-kotu-seri-38-yil-sonra-bir-ilk-43330756",
+      "published": "2026-10-05T20:53:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.617841+00:00"
+    },
+    {
       "id": "8251e962aabdbaf5",
       "source": "Yeni Şafak",
       "title": "365 gündür süren McDonald’s protestosunda yeni gelişme: 'Üç gün süreniz var'",
@@ -1394,6 +1867,17 @@
       "fetched_at": "2026-10-05T21:03:09.902533+00:00"
     },
     {
+      "id": "b1f7f59e27cfaddb",
+      "source": "Karar",
+      "title": "Kurşun geçirmeyen okul çantası Türkiye'de ilk kez üretildi: 44 Magnum mermilerini durduruyor",
+      "summary": "Okullarda tırmanan güvenlik endişelerine karşı harekete geçen savunma sanayisi uzmanları, öğrenciler için mermi ve bıçak saldırılarına dirençli koruyucu çanta geliştirdi. Atış poligonunda test edilen ve saldırı sırasında gövdeye kalkan olması hedeflenen koruyucu ekipman, okul güvenliği tartışmalarını alevlendirerek tartışma konusu oldu.",
+      "link": "https://www.karar.com/guncel-haberler/kursun-gecirmez-okul-cantasi-fiyati-ne-kadar-zirhli-sirt-cantasi-hangi-2076499",
+      "published": "2026-10-05T20:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:43.608426+00:00"
+    },
+    {
       "id": "9db3e40f8c012a1b",
       "source": "Karar",
       "title": "Kurşun geçirmeyen okul çantası Türkiye'de ilk kez üretildi: 44 Magnum mermilerini ve şarapnel parçalarını durduruyor",
@@ -1502,6 +1986,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T21:03:21.538552+00:00"
+    },
+    {
+      "id": "622aaeb54d5dd58b",
+      "source": "Bir Gün",
+      "title": "Milliler, İtalya’da da kaybetti: Dört maçta sıfır puan",
+      "summary": "A Milli Futbol Takımı, UEFA Uluslar Ligi’nde deplasmanda İtalya’ya 3-1 yenildi. Aral Şimşir’in golüyle beraberliği yakalayan milliler, gruptaki dördüncü maçından da puansız ayrıldı.",
+      "link": "https://www.birgun.net/haber/milliler-italyada-da-kaybetti-dort-macta-sifir-puan-738761",
+      "published": "2026-10-05T20:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.077754+00:00"
     },
     {
       "id": "7070deafdf72e528",
@@ -1669,6 +2164,28 @@
       "fetched_at": "2026-10-05T21:03:05.422381+00:00"
     },
     {
+      "id": "01b40f4ee63af15d",
+      "source": "Evrensel",
+      "title": "Fon vurgunu soruşturması: Fatma Betül Sayan Kaya'nın ödeme talebine savcılıktan izin",
+      "summary": "Fatma Betül Sayan Kaya ve İlyas Kaya’nın SPK’nın açıkladığı gönüllü ödeme yöntemi doğrultusunda yaptığı başvuruya Başsavcılık tarafından izin verildi.",
+      "link": "https://www.evrensel.net/haber/6003600/fon-vurgunu-sorusturmasi-fatma-betul-sayan-kaya-nin-odeme-talebine-savciliktan-izin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-05T20:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:39.853130+00:00"
+    },
+    {
+      "id": "c43b0305370cbe0c",
+      "source": "Bir Gün",
+      "title": "Tele3 Haber, yayın hayatına başladı",
+      "summary": "TELE1’e kayyum atanmasının ardından kanaldan ayrılan gazetecilerin kurduğu TELE2 Haber, RTÜK’ün talep ettiği lisans bedelini karşılayamayınca yayınlarını sonlandırdı. TELE2 Haber Genel Yayın Yönetmeni Süleyman Sarılar, ekibin yeni adresinin “Tele3 Haber” olduğunu duyurdu.",
+      "link": "https://www.birgun.net/haber/tele3-haber-yayin-hayatina-basladi-738760",
+      "published": "2026-10-05T20:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.077787+00:00"
+    },
+    {
       "id": "5a0f9fd830d6ee16",
       "source": "Evrensel",
       "title": "Fon soruşturması: Fatma Betül Sayan Kaya'nın gönüllü ödeme talebine savcılıktan izin",
@@ -1801,6 +2318,17 @@
       "fetched_at": "2026-10-05T21:03:03.278739+00:00"
     },
     {
+      "id": "60c770669d89021b",
+      "source": "Bir Gün",
+      "title": "Fethiye’de yedi filmlik uzun metraj seçkisi",
+      "summary": "4–8 Kasım tarihleri arasında düzenlenecek 4. Fethiye Uluslararası Film Festivali’nin Ulusal Uzun Metraj Gösterim Seçkisi açıklandı. Güncel yapımlarla Türk sinemasının klasiklerini buluşturan seçkide yedi film yer alıyor. Fethiye Fotoğraf ve Sinema Sanatı Derneği tarafından Fethiye Belediyesi’nin desteğiyle düzenlenen 4. Fethiye Uluslararası Film Festivali, Ulusal Uzun Metraj Gösterim Seçkisi’ni aç",
+      "link": "https://www.birgun.net/haber/fethiyede-yedi-filmlik-uzun-metraj-seckisi-738759",
+      "published": "2026-10-05T20:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.077871+00:00"
+    },
+    {
       "id": "2b3eeb007a78c313",
       "source": "ShiftDelete.Net",
       "title": "Avrupa’dan Visa ve Mastercard’a Karşı Dev Hamle: Avrupalı Ödeme Altyapısı",
@@ -1834,6 +2362,17 @@
       "fetched_at": "2026-10-05T21:03:14.187694+00:00"
     },
     {
+      "id": "63f964388d471d80",
+      "source": "Bir Gün",
+      "title": "Şile’de yedi günün ardından: Kıyı Hafızası",
+      "summary": "Dokuz sanatçının Şile’nin Karadeniz kıyısında geçirdiği yedi günlük misafir sanatçı programında ortaya çıkan eserler “Kıyı Hafızası” sergisinde bir araya geliyor. Sanatçıların kıyıyla kurdukları ilişkinin üretimlerine bıraktığı izleri odağına alan sergi, 6 Ekim’de Decollage Art Space’te açılacak. Dokuz sanatçının Şile’de bir araya geldiği misafir sanatçı programının ardından hazırlanan “Kıyı Hafız",
+      "link": "https://www.birgun.net/haber/silede-yedi-gunun-ardindan-kiyi-hafizasi-738758",
+      "published": "2026-10-05T20:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.077992+00:00"
+    },
+    {
       "id": "34a628985d02cc15",
       "source": "OdaTV",
       "title": "Başsavcılık izin verdi: Fatma Betül Sayan Kaya ve eşi parayı iade ediyor",
@@ -1843,6 +2382,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T20:31:39.058130+00:00"
+    },
+    {
+      "id": "7a455ecaa80c5a4f",
+      "source": "Bir Gün",
+      "title": "Boğaziçi Film Festivali’nin afişi belli oldu",
+      "summary": "8–15 Kasım tarihleri arasında düzenlenecek 14. Boğaziçi Film Festivali’nin afişi açıklandı. Fatma Betül Okuyucu’nun tasarladığı afiş, İstanbul ile festivalin sinema atmosferini kolaj tekniğiyle bir araya getiriyor. Boğaziçi Kültür Sanat Vakfı tarafından, Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü’nün desteğiyle düzenlenen 14. Boğaziçi Film Festivali’nin bu yılki afişini Fatma Betül Okuyucu ",
+      "link": "https://www.birgun.net/haber/bogazici-film-festivalinin-afisi-belli-oldu-738757",
+      "published": "2026-10-05T20:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.078065+00:00"
     },
     {
       "id": "545061f31a6a4c05",
@@ -1887,6 +2437,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T20:31:36.820028+00:00"
+    },
+    {
+      "id": "3a6f56e48bf7b5fd",
+      "source": "Bir Gün",
+      "title": "Halis Dokgöz, Avrupa Karikatür Ödülü’nün listesinde",
+      "summary": "BirGün çizeri Halis Dokgöz, European Cartoon Award 2026’nın uzun listesine seçildi. Dokgöz, BirGün’de yayımlanan karikatürüyle 34 karikatüristin 40 çalışmasının yer aldığı seçkide Türkiye’den listeye giren isim oldu.",
+      "link": "https://www.birgun.net/haber/halis-dokgoz-avrupa-karikatur-odulunun-listesinde-738756",
+      "published": "2026-10-05T20:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.078096+00:00"
     },
     {
       "id": "c4889be887db158a",
@@ -2912,6 +3473,17 @@
       "fetched_at": "2026-10-05T20:31:31.303416+00:00"
     },
     {
+      "id": "64de3cc07d1d2134",
+      "source": "ShiftDelete.Net",
+      "title": "Android Auto Desteği Eski Telefonlarda Sona mı Eriyor?",
+      "summary": "Android Auto desteklenen Android sürümleri değişiyor. Google'ın eski Android sürümleri için desteği sonlandıracağı iddiaları gündemde.",
+      "link": "https://shiftdelete.net/android-auto-eski-surum-destegi",
+      "published": "2026-10-05T19:30:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:28:04.992495+00:00"
+    },
+    {
       "id": "c8d13c8de89d8be1",
       "source": "Akşam",
       "title": "Türkiye'nin sekülerleri dinsiz değildir",
@@ -3506,6 +4078,17 @@
       "fetched_at": "2026-10-05T19:09:12.174411+00:00"
     },
     {
+      "id": "79dea2bd9a6e7714",
+      "source": "Evrensel",
+      "title": "Ankara-Şanlıurfa uçağında patlayıcı bulunmadı: GAP Havalimanı yeniden hava trafiğine açıldı",
+      "summary": "Şanlıurfa GAP Havalimanı’na iniş yapan yolcu uçağında patlayıcı madde bulunduğuna ilişkin not tespit edildi. Yolcular ve mürettebat tahliye edildi, uçakta yapılan aramada patlayıcı bulunmadı.",
+      "link": "https://www.evrensel.net/haber/6003595/ankara-sanliurfa-ucaginda-patlayici-bulunmadi-gap-havalimani-yeniden-hava-trafigine-acildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-05T19:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:39.853271+00:00"
+    },
+    {
       "id": "e0d4dfdf953ee53e",
       "source": "Evrensel",
       "title": "Ankara-Şanlıurfa uçağında patlayıcı şüphesi: Arama yapılıyor",
@@ -3911,6 +4494,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T18:55:37.521227+00:00"
+    },
+    {
+      "id": "3adfe68f01791d1b",
+      "source": "Bir Gün",
+      "title": "Şanlıurfa’daki uçakta patlayıcı madde bulunmadı: GAP Havalimanı yeniden hava trafiğine açıldı",
+      "summary": "Şanlıurfa Valisi Hasan Şıldak, patlayıcı madde bulunduğuna ilişkin not tespit edilmesinin ardından arama yapılan yolcu uçağına ilişkin yeni açıklama yaptı. Öte yandan aramanın ardından Şanlıurfa GAP Havalimanı yeniden hava trafiğine açıldı.",
+      "link": "https://www.birgun.net/haber/sanliurfadaki-ucakta-patlayici-madde-bulunmadi-gap-havalimani-yeniden-hava-trafigine-acildi-738753",
+      "published": "2026-10-05T18:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T21:27:40.078204+00:00"
     },
     {
       "id": "9ec13393391f6ce4",
@@ -4912,600 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T18:40:38.455275+00:00"
-    },
-    {
-      "id": "e53579c5c6035f35",
-      "source": "Yeniçağ",
-      "title": "Yıllardır rafta bulunuyordu: Artık tüm marketlerden kaldırılıyor",
-      "summary": "Market raflarında geleneksel üretimi vurgulayan bazı ifadelerin ticari ürünlerde kullanımı yasaklanacak.",
-      "link": "https://www.yenicaggazetesi.com/yillardir-rafta-bulunuyordu-artik-tum-marketlerden-kaldiriliyor-1078819h.htm",
-      "published": "2026-10-05T18:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:31:24.336441+00:00"
-    },
-    {
-      "id": "f55da3c9d01894a6",
-      "source": "Karar",
-      "title": "Matematik bu kez dedektifliğe dönüşüyor: \"Pırıl 3: Kayıp Anahtarın Gizemi\" 13 Kasım'da beyazperdede",
-      "summary": "Çocuklara matematiği sevdiren yerli animasyon serisi \"Pırıl\", üçüncü halkası \"Kayıp Anahtarın Gizemi\" ile sinema salonlarına dönüyor. Çarpma ve toplamanın ardından bu kez çıkarma işlemi ile \"çıkarım yapmak\" kavramı arasında köprü kuran film, 13 Kasım 2026'da vizyona girecek.",
-      "link": "https://www.karar.com/kultur-sanat-haberleri/matematik-bu-kez-dedektiflige-donusuyor-piril-3-kayip-anahtarin-2076480",
-      "published": "2026-10-05T18:25:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:31:23.331358+00:00"
-    },
-    {
-      "id": "1adaed130f61e6c6",
-      "source": "Yeniçağ",
-      "title": "Ümit Milli Takım Macaristan maçına hazır",
-      "summary": "Ümit Milli Takım, 2027 UEFA Avrupa U21 Şampiyonası Elemeleri&#039;nde Macaristan ile oynayacağı son grup maçının hazırlıklarını tamamladı. Play-off&#039;u daha önce garantileyen Ay-yıldızlıların rakibi ise 9 Ekim&#039;de çekilecek kurayla belli olacak.",
-      "link": "https://www.yenicaggazetesi.com/umit-milli-takim-macaristan-macina-hazir-1078818h.htm",
-      "published": "2026-10-05T18:25:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:32.913787+00:00"
-    },
-    {
-      "id": "f249221f37db70ab",
-      "source": "Evrensel",
-      "title": "TİP'ten Ahmet Şık'a destek açıklaması: Mücadelesi bizim mücadelemizdir",
-      "summary": "TİP, İstanbul Milletvekili Ahmet Şık'ın fon dosyasına ilişkin yürüttüğü araştırmalar nedeniyle hedef haline getirildiğini belirterek, “Halkımızdan çalınan ne varsa hepsini geri alacağız ve mutlaka hesap soracağız\" açıklamasını yaptı.",
-      "link": "https://www.evrensel.net/haber/6003590/tipten-ahmet-sika-destek-aciklamasi-mucadelesi-bizim-mucadelemizdir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-05T18:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:40:38.455313+00:00"
-    },
-    {
-      "id": "5229950059e0196a",
-      "source": "Cumhuriyet",
-      "title": "Kütahya'da polis memuru intihar etti: 'Trafiğin ablası' hayatına son verdi",
-      "summary": "Kütahya’da 'Trafiğin ablası' olarak bilinen kıdemli polis memuru Yasemin Bodur Karasu'nun beylik silahı ile yaşamına son verdiği öğrenildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/kutahya-da-polis-memuru-intihar-etti-trafigin-ablasi-hayatina-son-verdi-2543998",
-      "published": "2026-10-05T18:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:31:13.854181+00:00"
-    },
-    {
-      "id": "8a969e78c6adb609",
-      "source": "Milliyet",
-      "title": "Milli Eğitim Bakanı Tekin Hakkari'de konuştu",
-      "summary": "Çeşitli programlara katılmak üzere Hakkari'ye gelen Tekin, Valiliği ziyaret ederek Vali ve Belediye Başkan Vekili İbrahim Taşyapan'dan kentteki çalışmalar hakkında bilgi aldı. Ardından \"İl Eğitim Değerlendirme Toplantısı\"na katılan Tekin, Milli Eğitim Bakan Yardımcısı Celile Eren Ökten, bakanlık yöneticileri, il ve ilçe milli eğitim müdürleriyle kentteki eğitim faaliyetlerini değerlendirdi. Tekin,",
-      "link": "https://www.milliyet.com.tr/gundem/milli-egitim-bakani-tekin-hakkaride-konustu-7673691",
-      "published": "2026-10-05T18:24:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:31:19.123375+00:00"
-    },
-    {
-      "id": "bcbb4606a533d09e",
-      "source": "Türkiye Gazetesi",
-      "title": "Diyadin istifa etti, yönetim kabul etmedi",
-      "summary": "Süper Lig ekibi Gençlerbirliği, Teknik Direktör Metin Diyadin'in istifa ettiğini ancak istifanın kabul edilmediğini açıkladı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/super-ligde-surpriz-istifa-ikna-edemedik-yollarimiz-ayrildi-1820784",
-      "published": "2026-10-05T18:24:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T20:31:30.929621+00:00"
-    },
-    {
-      "id": "162d3b98226c8ebb",
-      "source": "Yeni Akit",
-      "title": "Kritik zirve sonrası bildiri! Mekke İttifakı'nın ilk genel sekreteri belli oldu",
-      "summary": "Dışişleri Bakanı Hakan Fidan ile Milli Savunma Bakanı Yaşar Güler’in de katıldığı Riyad'daki \"Mekke Savunma İttifakı\" toplantısı sonrası açıklama yapıldı. Mekke ve Medine'yi hedef alma girişimleri kınandı. İttifakın Genel Sekreterliğine ise Pakistanlı Korgeneral Nauman Mahmood seçildi.",
-      "link": "https://www.yeniakit.com.tr/haber/mekke-ittifakinin-genel-sekreterligine-kimin-secildigi-belli-oldu-2026608.html",
-      "published": "2026-10-05T18:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:50:43.564729+00:00"
-    },
-    {
-      "id": "4e6605d3fb8c7acf",
-      "source": "Yeni Akit",
-      "title": "Mekke İttifakı'nın genel sekreterliğine kimin seçildiği belli oldu",
-      "summary": "Mekke İttifakı Genel Sekreteri olarak Pakistanlı Nauman Mahmood seçildi.",
-      "link": "https://www.yeniakit.com.tr/haber/mekke-ittifakinin-genel-sekreterligine-kimin-secildigi-belli-oldu-2026608.html",
-      "published": "2026-10-05T18:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:32.023365+00:00"
-    },
-    {
-      "id": "69b883b1b620f01d",
-      "source": "Karar",
-      "title": "Gül'den İran analizi: Fırsat penceresi kapanıyor",
-      "summary": "Abdullah Gül, uluslararası düşünce ve analiz platformu Project Syndicate için kaleme aldığı makalede, ABD ve İsrail’in İran’a yönelik askeri müdahalelerinin uluslararası meşruiyetten yoksun olduğunu ve tüm bölgeyi istikrarsızlaştırdığını belirtti. İran yönetimine de açık uyarılarda bulunan Gül, \"Kısa vadeli avantajları uzun vadeli kazanımlarla karıştırmayın; maksimalist politikalardan kaçınarak Kö",
-      "link": "https://www.karar.com/guncel-haberler/gulden-iran-analizi-firsat-penceresi-kapaniyor-2076479",
-      "published": "2026-10-05T18:23:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:32.388718+00:00"
-    },
-    {
-      "id": "2ea29fa84b24e926",
-      "source": "Halk TV",
-      "title": "Son dakika | Riyad’daki toplantının ardından belli oldu: Mekke İttifakı’nın genel sekreteri seçildi",
-      "summary": "Ortak Savunma için Mekke Anlaşması kapsamında Riyad’da toplanan Stratejik Siyasi ve Savunma Komitesi’ne Hakan Fidan, Yaşar Güler ve Selçuk Bayraktaroğlu katıldı. Mekke İttifakı’nın genel sekreterliğine ise Nauman Mahmood seçildi.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-riyaddaki-toplantinin-ardindan-belli-oldu-mekke-ittifakinin-genel-sekreteri-secildi-1059645h",
-      "published": "2026-10-05T18:22:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:35.080491+00:00"
-    },
-    {
-      "id": "92998c29846bc886",
-      "source": "Halk TV",
-      "title": "Son dakika | Mekke İttifakı’ndan kritik karar: Kolektif caydırıcılık önlemleri etkinleştirilecek",
-      "summary": "Mekke Savunma İttifakı’nın Stratejik Siyasi ve Savunma Komitesi Riyad’da acil toplandı. Toplantıya Hakan Fidan, Yaşar Güler ve Selçuk Bayraktaroğlu katıldı. İttifak, kolektif caydırıcılık önlemlerini etkinleştirme kararı aldı.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-riyaddaki-toplantinin-ardindan-belli-oldu-mekke-ittifakinin-genel-sekreteri-secildi-1059645h",
-      "published": "2026-10-05T18:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:35:38.930752+00:00"
-    },
-    {
-      "id": "b3fbb8d380ef66c9",
-      "source": "Karar",
-      "title": "Yemek sipariş platformlarında tüketiciyi yanıltan 2 şirkete ceza",
-      "summary": "Ticaret Bakanlığı, tek bir gerçek restorana sahip olmalarına rağmen yemek sipariş platformlarında çok sayıda restoran hizmet veriyormuş izlenimi oluşturarak tüketicileri yanıltan 2 ayrı şirkete idari yaptırım uyguladı.",
-      "link": "https://www.karar.com/guncel-haberler/yemek-siparis-platformlarinda-tuketiciyi-yaniltan-2-sirkete-ceza-2076478",
-      "published": "2026-10-05T18:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:32.388759+00:00"
-    },
-    {
-      "id": "79ef8a010f5824ba",
-      "source": "Yeniçağ",
-      "title": "Sedat Peker'e hakaretleriyle gündeme gelmişti: Dalaman'da silahlı saldırıya uğradı",
-      "summary": "TikTok&#039;taki canlı yayınlarında Sedat Peker ve ailesine yönelik hakaretlerde bulunduğu belirtilen M.A.S., Muğla&#039;nın Dalaman ilçesinde silahlı saldırıya uğradı. M.A.S.&#039;ın saldırıda yaralandığı öğrenildi.",
-      "link": "https://www.yenicaggazetesi.com/sedat-pekere-hakaretleriyle-gundeme-gelmisti-dalamanda-silahli-saldiriya-ugradi-1078817h.htm",
-      "published": "2026-10-05T18:20:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:32.913831+00:00"
-    },
-    {
-      "id": "ccdd27b1997222fa",
-      "source": "Star",
-      "title": "Vincenzo Montella: Negatif dönemi bitirmek istiyoruz",
-      "summary": "UEFA Uluslar A Ligi 1. Grup'taki dördüncü maçında deplasmanda İtalya ile karşı karşıya gelecek olan A Milli Futbol Takımı'nın teknik direktörü Vincenzo Montella, \"Negatif dönemi bitirmek istiyoruz\" dedi.",
-      "link": "https://www.star.com.tr/spor/vincenzo-montella-negatif-donemi-bitirmek-istiyoruz-haber-2044667/",
-      "published": "2026-10-05T18:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:20:42.070110+00:00"
-    },
-    {
-      "id": "e641f75335aa222d",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Bakan Tekin: Türkiye, OECD ve PISA'nın ölçtüğü her alanda ortalamasını yükselten tek OECD ülkesi",
-      "summary": "Milli Eğitim Bakanı Tekin, 2025 PISA skorlarının Türkiye'nin eğitimdeki yükselişini ve başarısını teyit ettiğini vurgulayarak, \"OECD'nin ölçtüğü her alanda, PISA'nın ölçtüğü her alanda ortalamasını yükselten tek OECD ülkesi Türkiye.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-tekin-turkiye-oecd-ve-pisanin-olctugu-her-alanda-ortalamasini-yukselten-tek-oecd-ulkesi/4078924",
-      "published": "2026-10-05T18:19:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:35:26.993929+00:00"
-    },
-    {
-      "id": "27cce7b40a6a7421",
-      "source": "Milliyet",
-      "title": "Mekke İttifakı Toplantısı'ndan ortak açıklama: Genel Sekreter belirlendi",
-      "summary": "Mekke İttifakı Toplantısı'ndan ortak açıklaması şu şekilde: Onaylanan düzenlemeler ve Taraf Devletlerin ulusal mevzuatları uyarınca ortak savunma taahhütlerinin pratik uygulamasına derhal geçilmesine ve kararlaştırılan askeri güç ile kabiliyetlerin sağlanması ve bunların Suudi Arabistan Krallığı’na hızlı bir şekilde konuşlandırılmasının temin edilmesi için gerekli tedbirlerin alınmasına, böylece h",
-      "link": "https://www.milliyet.com.tr/dunya/mekke-ittifaki-toplantisindan-ortak-aciklama-genel-sekreter-belirlendi-7673689",
-      "published": "2026-10-05T18:19:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:20:40.440961+00:00"
-    },
-    {
-      "id": "82ad6d5fec050c85",
-      "source": "CNBC-e",
-      "title": "41 şirket borsada kendi paylarını aldı: İşte hisse geri alım yapan şirketler",
-      "summary": "Borsa İstanbul'da şirketler pay piyasasında sağlıklı fiyat oluşumunu desteklemek ve yatırımcı güvenini korumak amacıyla geri alım hamlelerini sürdürüyor. Son duyurularla birlikte birçok şirket yeni program başlattı.",
-      "link": "https://www.cnbce.com/borsa/41-sirket-borsada-kendi-paylarini-aldi-iste-hisse-geri-alim-yapan-sirketler-g38775",
-      "published": "2026-10-05T18:16:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:20:50.773280+00:00"
-    },
-    {
-      "id": "8d44090065e7c48b",
-      "source": "Yeniçağ",
-      "title": "Pota derbisinde Beşiktaş evinde Trabzonspor'u devirdi",
-      "summary": "Türkiye Sigorta Basketbol Süper Ligi&#039;nin ikinci haftasında Beşiktaş, sahasında Trabzonspor&#039;u 90-81 mağlup etti. Siyah-beyazlılar sezonun ilk galibiyetini alırken Trabzonspor ilk kez kaybetti.",
-      "link": "https://www.yenicaggazetesi.com/pota-derbisinde-besiktas-evinde-trabzonsporu-devirdi-1078814h.htm",
-      "published": "2026-10-05T18:16:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:20:43.543401+00:00"
-    },
-    {
-      "id": "e3f6e94d741a7ba9",
-      "source": "Cumhuriyet",
-      "title": "Meteoroloji'den uyarı: 17 ile kuvvetli sağanak geliyor",
-      "summary": "İçişleri Bakanlığı, Meteoroloji Genel Müdürlüğü'nün son değerlendirmelerine göre 6 Ekim Salı günü birçok ilde yerel olarak kuvvetli sağanak ve gök gürültülü sağanak beklendiğini duyurdu. Vatandaşlardan ani sel, su baskını, yıldırım, dolu, kuvvetli rüzgar ve ulaşımda aksamalara karşı tedbirli olmaları istendi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-den-uyari-17-ile-kuvvetli-saganak-geliyor-2543997",
-      "published": "2026-10-05T18:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:20:36.869293+00:00"
-    },
-    {
-      "id": "2642f1d1821ad306",
-      "source": "Milliyet",
-      "title": "Bakan Çiftçi, Türkiye Muharip Gaziler Derneği'ni ziyaret etti",
-      "summary": "Çiftçi, NSosyal hesabından \"Gazilerimize vefa, vatana vefadır\" başlığıyla yaptığı paylaşımda, Türkiye Muharip Gaziler Derneğinde, vatan için canını ortaya koyan gazilerle bir araya geldiklerini belirtti. Vatan, bayrak ve mukaddesat uğruna fedakarlık gösteren gazilerin, milletin gönlünde daima müstesna bir yere sahip olduğunu vurgulayan Çiftçi, gaziliğin, yalnızca bir unvan değil, ömür boyu onurla ",
-      "link": "https://www.milliyet.com.tr/gundem/bakan-ciftci-turkiye-muharip-gaziler-dernegini-ziyaret-etti-7673687",
-      "published": "2026-10-05T18:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:20:40.441294+00:00"
-    },
-    {
-      "id": "dbed051d83d13753",
-      "source": "Yeni Yaşam",
-      "title": "ABD’den Mısır, Kuveyt ve BAE’ye 2,27 milyar dolarlık silah satışına onay",
-      "summary": "ABD Dışişleri Bakanlığı, Mısır, Kuveyt ve Birleşik Arap Emirlikleri&#8217;ne (BAE) 2,27 milyar dolarlık silah satışını onayladı ABD Dışişleri Bakanlığı Mısır, Kuveyt ve Birleşik Arap Emirlikleri&#8217;ne (BAE) 2,27 milyar dolarlık silah satışını onayladığını duyurdu. Bakanlıktan yapılan açıklamaya göre; söz konusu satıştaki en büyük payı yaklaşık 1 milyar 41 milyon dolar değerindeki APKWS-II güdüm",
-      "link": "https://yeniyasamgazetesi9.com/abdden-misir-kuveyt-ve-baeye-227-milyar-dolarlik-silah-satisina-onay/",
-      "published": "2026-10-05T18:15:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:15:53.189313+00:00"
-    },
-    {
-      "id": "8a0e14c762192422",
-      "source": "Star",
-      "title": "MAÇ SONUCU: Beşiktaş 90-81 Trabzonspor",
-      "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin ikinci haftasında Beşiktaş, konuk ettiği Trabzonspor'u 90-81 mağlup etti.",
-      "link": "https://www.star.com.tr/spor/mac-sonucu-besiktas-90-81-trabzonspor-haber-2044666/",
-      "published": "2026-10-05T18:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:55:34.290474+00:00"
-    },
-    {
-      "id": "f0859f8b37321e65",
-      "source": "Habertürk",
-      "title": "Mekke İttifakı'nın genel sekreteri seçildi",
-      "summary": "Mekke İttifakı toplantısı sona erdi Genel Sekreter Pakistanlı Nauman Mahmood seçildi",
-      "link": "https://www.haberturk.com/dunya/son-dakika-mekke-ittifaki-nin-genel-sekreteri-secildi-3917450",
-      "published": "2026-10-05T18:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:20:33.358555+00:00"
-    },
-    {
-      "id": "7c0757030006f5f1",
-      "source": "Aydınlık",
-      "title": "Muğla’da arananlara yönelik çalışmalarda 121 kişi yakalandı",
-      "summary": "Muğla’da 28 Eylül-5 Ekim tarihleri arasında yürütülen çalışmalarda, kesinleşmiş hapis cezası bulunan 29 kişi ve ifadeye yönelik yakalama emri olan 92 kişi yakalandı.",
-      "link": "https://www.aydinlik.com.tr/haber/muglada-arananlara-yonelik-operasyonlarda-121-yakalama-593131",
-      "published": "2026-10-05T18:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:20:43.951517+00:00"
-    },
-    {
-      "id": "01f59b23724cf598",
-      "source": "Cumhuriyet",
-      "title": "Eylül 2026'da en güçlü Android telefonlar açıklandı",
-      "summary": "Eylül ayında en güçlü olan Android telefonların bir listesi AnTuTu tarafından açıklandı.",
-      "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/eylul-2026-da-en-guclu-android-telefonlar-aciklandi-2543996",
-      "published": "2026-10-05T18:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:15:38.688864+00:00"
-    },
-    {
-      "id": "8b9adbb063a5e94e",
-      "source": "Akşam",
-      "title": "Vincenzo Montella: Bu negatif dönemi bitirmek istiyoruz",
-      "summary": "A Milli Takım'da Teknik Direktör Vincenzo Montella, UEFA Uluslar A Ligi 1. Grup'ta İtalya'ya konuk olacaklar maç öncesinde açıklamalarda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/vincenzo-montella-bu-negatif-donemi-bitirmek-istiyoruz/haber-1703855",
-      "published": "2026-10-05T18:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:15:44.386116+00:00"
-    },
-    {
-      "id": "9e89461c4c80d19e",
-      "source": "Star",
-      "title": "MAÇ SONUCU: Beşiktaş 81-90 Trabzonspor",
-      "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin ikinci haftasında Beşiktaş, konuk ettiği Trabzonspor'u 90-81 mağlup etti.",
-      "link": "https://www.star.com.tr/spor/mac-sonucu-besiktas-81-90-trabzonspor-haber-2044666/",
-      "published": "2026-10-05T18:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:15:45.816713+00:00"
-    },
-    {
-      "id": "ad801b4568a21c51",
-      "source": "Evrensel",
-      "title": "ABD, Ortadoğu'ya silah yığıyor: Mısır, Kuveyt ve BAE'ye 2,27 milyar dolarlık satış",
-      "summary": "ABD Dışişleri Bakanlığı, Mısır, Kuveyt ve Birleşik Arap Emirlikleri'ne (BAE) 2,27 milyar dolarlık silah satışını onayladı.",
-      "link": "https://www.evrensel.net/haber/6003589/abd-ortadoguya-silah-yigiyor-misir-kuveyt-ve-baeye-227-milyar-dolarlik-satis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-05T18:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:28.743029+00:00"
-    },
-    {
-      "id": "a45dd58b7de97954",
-      "source": "Halk TV",
-      "title": "Yoldan geçenler fark etti! İstanbul'da surların dibinde erkek cesedi bulundu",
-      "summary": "Zeytinburnu’nda surların çevresinde hareketsiz halde bulunan 68 yaşındaki Nazmi Altuntaş’ın hayatını kaybettiği belirlendi. Altuntaş’ın cenazesi kesin ölüm nedeninin belirlenmesi için Adli Tıp Kurumu’na götürüldü.",
-      "link": "https://halktv.com.tr/turkiye/yoldan-gecenler-fark-etti-istanbulda-surlarin-dibinde-erkek-cesedi-bulundu-1059644h",
-      "published": "2026-10-05T18:12:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:15:49.334476+00:00"
-    },
-    {
-      "id": "6c79af49cc07a2bc",
-      "source": "OdaTV",
-      "title": "İzmir'de polisten Cemil Tugay müdahalesi",
-      "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay’ın AK Parti’ye geçeceği yönündeki iddialara karşı İzmir Emek ve Demokrasi Güçleri tarafından yapılmak istenen eylem polis tarafından engellendi.",
-      "link": "https://www.odatv.com/guncel/izmirde-polisten-cemil-tugay-mudahalesi-120165377",
-      "published": "2026-10-05T18:12:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:15:48.898934+00:00"
-    },
-    {
-      "id": "35b14084e6d0c8a8",
-      "source": "Aydınlık",
-      "title": "Nijerya'da askeri uçak kazası! 32 kişi hayatını kaybetti",
-      "summary": "Nijerya ordusuna ait ATR-42 tipi uçağın düşmesi sonucu 25’i yolcu, 7’si mürettebat olmak üzere toplam 32 kişi hayatını kaybetti. Nijerya Devlet Başkanı yaptığı açıklamada olayla ilgili olarak soruşturma başlattıklarını duyurdu.",
-      "link": "https://www.aydinlik.com.tr/haber/nijeryada-askeri-ucak-kazasi-32-kisi-hayatini-kaybetti-593133",
-      "published": "2026-10-05T18:11:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:15:48.066092+00:00"
-    },
-    {
-      "id": "9f6761c51098318c",
-      "source": "Star",
-      "title": "Eyüpsultan Belediyesine yönelik soruşturma... Aralarında Belediye Başkanı Özmen'in de bulunduğu 17 şüpheliye tutuklama talebi",
-      "summary": "Ankara Cumhuriyet Başsavcılığınca, Eyüpsultan Belediyesine yönelik soruşturma kapsamında gözaltına alınan, aralarında Belediye Başkanı Mithat Bülent Özmen'in de bulunduğu 17 şüpheli tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-      "link": "https://www.star.com.tr/guncel/eyupsultan-belediyesine-yonelik-sorusturma-aralarinda-belediye-baskani-ozmenin-de-bulundug-haber-2044665/",
-      "published": "2026-10-05T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:41.263804+00:00"
-    },
-    {
-      "id": "9ab09eec4a597c31",
-      "source": "Yeni Akit",
-      "title": "Yusuf Tekin, Türkiye’nin eğitimde kat ettiği mesafeyi anlatı: 2003’te 38 ülke arasından 30’a giremiyorduk! Bugün 91 ülke arasında 15’inciyiz",
-      "summary": "Hakkari’de düzenlenen İl Eğitim Değerlendirme Toplantısı’nda AK Parti iktidarında Türkiye’nin eğitimde kat ettiği mesafeyi anlatan Milli Eğitim Bakanı Tekin, “Türkiye eğitimde önemli noktaya geldi. 2003 sınavlarında 38 OECD ülkesi arasında ilk 30’a giremezken, şu anda 91 ülke arasında ilk 15’in içerisindeyiz. OECD’nin ölçtüğü her alanda, PISA’nın ölçtüğü her alanda; matematik, okuma becerileri ve ",
-      "link": "https://www.yeniakit.com.tr/haber/yusuf-tekin-turkiyenin-egitimde-kat-ettigi-mesafeyi-anlati-2003te-38-ulke-arasindan-30a-giremiyorduk-bugun-91-ulke-arasinda-15inciyiz-2026607.html",
-      "published": "2026-10-05T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:41.676731+00:00"
-    },
-    {
-      "id": "ddf815ec330ccae4",
-      "source": "Yeniçağ",
-      "title": "Tuğla yüklü tır bariyerlere çarpıp devrildi: Sürücü kendi imkanlarıyla çıktı",
-      "summary": "Sakarya’da D-650 kara yolunda kontrolden çıkan tuğla yüklü tır bariyerlere çarparak devrildi. Araçta sıkışan sürücü kendi imkanlarıyla dışarı çıkarken kazayı hafif sıyrıklarla atlattı. Yola saçılan tuğlalar nedeniyle ulaşım bir süre tek şeritten sağlandı.",
-      "link": "https://www.yenicaggazetesi.com/tugla-yuklu-tir-bariyerlere-carpip-devrildi-surucu-kendi-imkanlariyla-cikti-1078811h.htm",
-      "published": "2026-10-05T18:09:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:42.711775+00:00"
-    },
-    {
-      "id": "09ad1941611b6512",
-      "source": "Gazete Pencere",
-      "title": "Sipariş verenler dikkat: Kuryenin getirdiği yemek 'sahte restoran'dan çıkabilir",
-      "summary": "Yemek sipariş platformlarında tek bir gerçek restoranı farklı isim, adres ve yorumlarla birden fazla işletme gibi gösteren iki şirkete Ticaret Bakanlığı Reklam Kurulu tarafından ceza yaptırımı uygulandı.",
-      "link": "https://www.gazetepencere.com/gundem/siparis-verenler-dikkat-kuryenin-getirdigi-yemek-sahte-restorandan-cikabilir-718027h",
-      "published": "2026-10-05T18:09:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:44.044186+00:00"
-    },
-    {
-      "id": "03c00982c34f7a9a",
-      "source": "Evrensel",
-      "title": "Boğaziçi’nde peş peşe yemekhane zamlarına karşı eylem",
-      "summary": "Boğaziçi Üniversitesi’nde bir yıl içinde yemekhane ücretlerine yapılan üçüncü zamma karşı ÖTK’nın çağrısıyla yemekhanede bir araya gelen yüzlerce öğrenci, fahiş zamları protesto ederek turnikeleri aştı, ücretsiz yemek dağıtıldı.",
-      "link": "https://www.evrensel.net/haber/6003588/bogazici-nde-pes-pese-yemekhane-zamlarina-karsi-eylem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-05T18:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:40:38.455375+00:00"
-    },
-    {
-      "id": "a9e476df3eea7b9b",
-      "source": "Evrensel",
-      "title": "Boğaziçi’nde peş peşe yemekhane zamlarına karşı eylem",
-      "summary": "Boğaziçi Üniversitesi’nde bir yıl içinde yemekhane ücretlerine yapılan üçüncü zamma karşı ÖTK’nın çağrısıyla yemekhanede bir araya gelen yüzlerce öğrenci, fahiş zamları protesto ederek turnikeleri aştı, ücretsiz yemek dağıtıldı.",
-      "link": "https://www.evrensel.net/haber/6003588/bogazicinde-pes-pese-yemekhane-zamlarina-karsi-eylem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-05T18:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:28.743069+00:00"
-    },
-    {
-      "id": "072d78f6dab390dd",
-      "source": "Halk TV",
-      "title": "Husiler'in saldırılarının ardından ABD'den Suudi Arabistan uyarısı",
-      "summary": "Husilerin saldırılarının ardından ABD Dışişleri Bakanlığı, Suudi Arabistan&#039;daki vatandaşlarına &quot;dikkatli olun&quot; çağrısı yaptı.",
-      "link": "https://halktv.com.tr/dunya/husilerin-saldirilarinin-ardindan-abdden-suudi-arabistan-uyarisi-1059643h",
-      "published": "2026-10-05T18:08:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:44.646270+00:00"
-    },
-    {
-      "id": "4d7976c19b12a286",
-      "source": "Yeni Şafak",
-      "title": "Eyüpsultan Belediyesine yönelik soruşturmada Başkan Mithat Bülent Özmen dahil 17 kişiye tutuklama talebi",
-      "summary": "Ankara Cumhuriyet Başsavcılığınca Eyüpsultan Belediyesine yönelik yürüttüğü rüşvet ve yolsuzluk soruşturmasında, Belediye Başkanı Mithat Bülent Özmen’in aralarında bulunduğu 17 kişi tutuklama talebiyle hakimliğe sevk edildi.",
-      "link": "https://www.yenisafak.com/gundem/eyupsultan-belediyesine-yonelik-sorusturmada-baskan-mithat-bulent-ozmen-dahil-17-kisiye-tutuklama-talebi-4861794",
-      "published": "2026-10-05T18:08:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:40.944493+00:00"
-    },
-    {
-      "id": "94c39ae23af0b99d",
-      "source": "Karar",
-      "title": "Büyükşehirde 5 kişilik ailenin insanca yaşam maliyeti dudak uçuklattı",
-      "summary": "Büyükşehirlerde artan yaşam maliyetleri karşısında TEÇ-SEN, 5 kişilik bir ailenin insanca yaşam maliyetini aylık 377 bin TL olarak belirledi. Raporda tek bir çalışanın asgari gideri 125 bin TL hesaplanırken, sendika memur maaşlarında resmi enflasyon yerine gerçek harcamaların esas alınmasını istedi.",
-      "link": "https://www.karar.com/guncel-haberler/5-kisilik-ailenin-yasam-maliyeti-ne-kadar-turkiyede-yasamak-icin-kac-2076477",
-      "published": "2026-10-05T18:08:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:42.110330+00:00"
-    },
-    {
-      "id": "87a82c5de74ef9bb",
-      "source": "Cumhuriyet",
-      "title": "Lâl Denizli: Görev süremde hesabı verilemeyecek tek bir kuruş yok",
-      "summary": "Çeşme Belediye Başkanı Lâl Denizli, Ekim Ayı Olağan Meclis Toplantısı’nda belediyeye yönelik arsa satışı ve “kaynakların nereye harcandığı” eleştirilerine yanıt verdi. Görev süresince gerçekleştirilen yatırımları ve sosyal destekleri kalem kalem anlatan Denizli, “Halkın cebinden çıkan parayı yine halka hizmet olarak döndürüyoruz. Biz kimseye lütufta bulunmuyoruz. Benim görev süremde Çeşme Belediye",
-      "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/lal-denizli-gorev-suremde-hesabi-verilemeyecek-tek-bir-kurus-yok-2543995",
-      "published": "2026-10-05T18:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:35.340057+00:00"
-    },
-    {
-      "id": "9b68158fb8243493",
-      "source": "DonanımHaber",
-      "title": "Türkiye'de yapay zekâ destekli otonom çiftlik dönemi başlıyor: İlk çiftlikler kuruldu",
-      "summary": "Türkiye'de 12 şehirden seçilen 22 tarım girişimcisi, yapay zekâ destekli otonom çiftliklere geçiyor. Sağım ve yemlemeden hayvan takibine kadar pek çok süreç robotlar ve sensörlerle yürütülecek.",
-      "link": "https://www.donanimhaber.com/turkiye-de-yapay-zekali-otonom-ciftlik-donemi-basliyor--211263",
-      "published": "2026-10-05T18:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:56.815665+00:00"
-    },
-    {
-      "id": "b7ba72510faed283",
-      "source": "Cumhuriyet",
-      "title": "Demet Sağıroğlu ve Barbaros aynı sahnede: Unutulmaz şarkılarla Türkiye turnesi başlıyor",
-      "summary": "Türk pop müziğinin unutulmaz hitlerine imza atan Demet Sağıroğlu ile güçlü yorumu ve geniş repertuvarıyla tanınan Barbaros, aynı sahnede buluşuyor. İki başarılı sanatçı, özel bir repertuvarla müzikseverleri Türkiye turnesinde ağırlayacak.",
-      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/demet-sagiroglu-ve-barbaros-ayni-sahnede-unutulmaz-sarkilarla-turkiye-turnesi-basliyor-2543994",
-      "published": "2026-10-05T18:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:35.340124+00:00"
-    },
-    {
-      "id": "3bf41d01ebeea04e",
-      "source": "Diken",
-      "title": "Slash, 14 yıl sonra İstanbul'da konser verecek",
-      "summary": "Slash, 14 yıl sonra İstanbul'da konser verecek 05.10.2026 Diken Rock müzik tarihinin efsane gitaristlerinden Slash, 'Flying Blind World Tour 2027' kapsamında 22 Temmuz 2027'de Bonus Parkorman’da dinleyiciyle buluşacak. The post Slash, 14 yıl sonra İstanbul'da konser verecek appeared first on #site_linkat 05.10.2026 .",
-      "link": "https://www.diken.com.tr/slash-14-yil-sonra-istanbulda-konser-verecek/?utm_source=rss&utm_medium=rss&utm_campaign=slash-14-yil-sonra-istanbulda-konser-verecek",
-      "published": "2026-10-05T18:06:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:44.877311+00:00"
-    },
-    {
-      "id": "d18deb5f9a29fba7",
-      "source": "Ekonomim",
-      "title": "Bakanlıktan ‘sahte şube’ aldatmacasına idari yaptırım",
-      "summary": "Ticaret Bakanlığı, tek bir gerçek restorana sahip olmalarına rağmen yemek sipariş platformlarında çok sayıda restoran hizmet veriyormuş izlenimi oluşturarak tüketicileri yanıltan 2 ayrı şirkete idari yaptırım uyguladı.",
-      "link": "https://www.ekonomim.com/ekonomi/bakanliktan-sahte-sube-aldatmacasina-idari-yaptirim-haberi-922726",
-      "published": "2026-10-05T18:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:35:46.469454+00:00"
-    },
-    {
-      "id": "8343f7efa308865a",
-      "source": "Evrensel",
-      "title": "Fon vurgununu yazan Erdal Sağlam'ın X hesabı erişime engellendi",
-      "summary": "Son dönemde fon vurgunu üzerine değerlendirmeler yapan ekonomi yazarı Erdal Sağlam’ın X hesabı Türkiye’de erişime kapatıldı.",
-      "link": "https://www.evrensel.net/haber/6003587/fon-vurgununu-yazan-erdal-saglam-in-x-hesabi-erisime-engellendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-05T18:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:25:28.743099+00:00"
-    },
-    {
-      "id": "ea2c2b9bc0fddf01",
-      "source": "Habertürk",
-      "title": "Beşiktaş'tan Trabzonspor'a geçit yok!",
-      "summary": "Beşiktaş, Basketbol Süper Ligi'nin 2. haftasında ağırladığı Trabzonspor'u 90-81 yenerek ligde ilk galibiyetini aldı.",
-      "link": "https://www.haberturk.com/spor/besiktas-90-trabzonspor-81-mac-sonucu-turkiye-sigorta-basketbol-super-ligi-3917449",
-      "published": "2026-10-05T18:04:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:31.643269+00:00"
-    },
-    {
-      "id": "6692af4ef9bf5b21",
-      "source": "Independent Türkçe",
-      "title": "Bakan Göktaş, Katar, Umman, Bahreyn ve Suudi Arabistanlı mevkidaşlarıyla görüştü",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Suudi Arabistan'ın başkenti Riyad'da düzenlenen Uluslararası Sosyal Sorumluluk Forumu kapsamında çeşitli temaslarda bulundu. Göktaş, Katar Sosyal Kalkınma ve Aile Bakanı Buthaina bint Ali Al Jabr Al Nuaimi, Umman Sosyal Kalkınma Bakanı Laila bint Ahmed bin Awad al Najjar, Bahreyn Sosyal Kalkınma Bakanı Osama bin Saleh Al Alawi ve Suudi Arabis",
-      "link": "https://www.indyturk.com/node/783404/haber/bakan-g%C3%B6kta%C5%9F-katar-umman-bahreyn-ve-suudi-arabistanl%C4%B1-mevkida%C5%9Flar%C4%B1yla-g%C3%B6r%C3%BC%C5%9Ft%C3%BC",
-      "published": "2026-10-05T18:04:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:10:48.182115+00:00"
-    },
-    {
-      "id": "6baf2dc630e72836",
-      "source": "Yeniçağ",
-      "title": "Beşiktaş'ın eski yıldızı 70 metreden gol attı",
-      "summary": "Bir dönem Beşiktaş&#039;ta kiralık olarak forma giyen Fiorentina&#039;nın orta saha oyuncusu Cher Ndour, İtalya U21 Milli Takımı ile Polonya karşısında attığı golle geceye damga vurdu. Ndour, yaklaşık 70 metreden rakip fileleri havalandırdı",
-      "link": "https://www.yenicaggazetesi.com/besiktasin-eski-yildizi-70-metreden-gol-atti-1078809h.htm",
-      "published": "2026-10-05T18:04:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:05:39.484491+00:00"
-    },
-    {
-      "id": "3b6d478375a8e5c8",
-      "source": "Türkiye Gazetesi",
-      "title": "'Türkiye, eğitimde OECD ülkelerini geride bıraktı'",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, Türkiye’nin eğitimde son yıllarda önemli ilerleme kaydettiğini belirterek, PISA’da matematik, okuma ve fen bilimlerinde ortalamasını yükselten tek OECD ülkesinin Türkiye olduğunu söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/bakan-tekin-acikladi-turkiye-egitimde-oecd-ulkelerini-geride-birakti-1820783",
-      "published": "2026-10-05T18:04:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:45:35.374238+00:00"
-    },
-    {
-      "id": "c5e28544c1393e5d",
-      "source": "Yeniçağ",
-      "title": "Türkiye, Suudi Arabistan ve Pakistan’dan Riyad’da savunma zirvesi",
-      "summary": "Millî Savunma Bakanı Yaşar Güler ve Dışişleri Bakanı Hakan Fidan, Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu ile birlikte Riyad’da düzenlenen Stratejik Siyasi ve Savunma Komitesi Toplantısı’na katıldı. Görüşmede Suudi Arabistan ve Pakistanlı mevkidaşları da yer aldı.",
-      "link": "https://www.yenicaggazetesi.com/turkiye-suudi-arabistan-ve-pakistandan-riyadda-savunma-zirvesi-1078807h.htm",
-      "published": "2026-10-05T18:04:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:05:39.484526+00:00"
-    },
-    {
-      "id": "850088b62f368b2b",
-      "source": "Yeniçağ",
-      "title": "Şeker fabrikasında zehirlenme faciası: 45 kişi hastanelik oldu",
-      "summary": "Kayseri Şeker&#039;e bağlı Turhal Şeker Fabrikası&#039;nda kireç ocağından sızan karbonmonoksit gazından etkilenenlerin sayısı 45&#039;e yükseldi. Tokat Valisi Abdullah Köklü, 35 kişinin durumunun iyi, 10 kişinin ise orta düzeyde olduğunu açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/seker-fabrikasinda-zehirlenme-faciasi-45-kisi-hastanelik-oldu-1078806h.htm",
-      "published": "2026-10-05T18:04:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:05:39.484553+00:00"
-    },
-    {
-      "id": "13fae1faefe6c8a4",
-      "source": "Ekonomim",
-      "title": "Avrupa borsaları, Fransa hariç yükselişle kapandı",
-      "summary": "Avrupa borsaları, Fransa&#039;daki mali endişeler nedeniyle haftanın ilk işlem gününde Fransa hariç yükselişle kapandı.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-fransa-haric-yukselisle-kapandi-haberi-922725",
-      "published": "2026-10-05T18:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T18:05:49.086812+00:00"
     }
   ]
 }

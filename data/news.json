@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T00:21:01.649399+00:00",
+  "last_updated": "2026-10-05T00:25:45.610538+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 551,
   "items": [
+    {
+      "id": "faa9c411e9a3e3a9",
+      "source": "BBC News Türkçe",
+      "title": "Lula ve oğul Bolsonaro'nun yarıştığı Brezilya başkanlık seçimleri ikinci tura kaldı",
+      "summary": "Yüz altmış milyon kayıtlı seçmenin bulunduğu Brezilya'daki başkanlık seçimlerinde anketler doğru çıktı, seçim ikinci tura kaldı.",
+      "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05T00:25:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T00:25:45.071812+00:00"
+    },
     {
       "id": "a3502f4d14d74ba7",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T18:30:48.714108+00:00"
-    },
-    {
-      "id": "b8189b99cbdd747c",
-      "source": "Star",
-      "title": "\"Siyonizm ırkçılıktır\" dediler... Resmi parti politikası haline getirildi",
-      "summary": "İngiltere ve Galler Yeşiller Partisi, Brighton'daki yıllık konferansında \"Siyonizm ırkçılıktır\" başlıklı önergeyi kabul ederek bunu resmi parti politikası haline getirdi. Karar, parti içinde ciddi görüş ayrılıklarına yol açtı.",
-      "link": "https://www.star.com.tr/dunya/siyonizm-irkciliktir-dediler-resmi-parti-politikasi-haline-getirildi-haber-2044452/",
-      "published": "2026-10-04T18:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T18:30:48.989230+00:00"
     }
   ]
 }

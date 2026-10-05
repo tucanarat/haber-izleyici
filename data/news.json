@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-05T03:25:46.101493+00:00",
+  "last_updated": "2026-10-05T03:31:16.083952+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 541,
+  "new_items_this_run": 509,
   "items": [
     {
       "id": "8d0d4cc9eb9b2385",
@@ -39,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T03:25:32.725378+00:00"
+    },
+    {
+      "id": "001fb05041873cc2",
+      "source": "Bloomberg HT",
+      "title": "Ekonomi ve siyaset gündemi- 5 Ekim 2026",
+      "summary": "Ekonomi ve siyaset gündeminde öne çıkanlar...",
+      "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-5-ekim-2026-3790288",
+      "published": "2026-10-05T03:20:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T03:31:05.070557+00:00"
     },
     {
       "id": "6543745eb15df5e5",
@@ -5310,6 +5321,17 @@
       "fetched_at": "2026-10-04T19:40:39.013658+00:00"
     },
     {
+      "id": "bd312965ce2293aa",
+      "source": "Habertürk",
+      "title": "Yeni bölüm tanıtımı yayınlandı",
+      "summary": "SHOW TV’nin sevilen dizisi 'Muhtemel Aşk'ın yeni bölümünden merak uyandıran tanıtım izleyiciyle buluştu",
+      "link": "https://www.haberturk.com/magazin/muhtemel-ask-in-yeni-bolum-tanitimi-yayinlandi-3917200",
+      "published": "2026-10-04T19:30:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T03:30:44.214466+00:00"
+    },
+    {
       "id": "eed43513bf83a582",
       "source": "Yeni Şafak",
       "title": "Bayrampaşa'da şafak baskını: Evden tabanca ve tüfek cephaneliği çıktı",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T20:20:35.742021+00:00"
-    },
-    {
-      "id": "78439c54a8cd187e",
-      "source": "Yeni Akit",
-      "title": "Suriye'de dev operasyon! Reyhanlı katliamının faillerinden Mihraç Ural'ın sağ kolu yakalandı",
-      "summary": "Suriye İçişleri Bakanlığı, \"Mihraç Ural\" olarak bilinen terörist Ali Keyyali'nin yardımcısı ve örgütün sözde Halep temsilcisi Cemal Trablusi'nin yakalandığını ilan etti.",
-      "link": "https://www.yeniakit.com.tr/haber/suriyede-dev-operasyon-reyhanli-katliaminin-faillerinden-mihrac-uralin-sag-kolu-yakalandi-2026413.html",
-      "published": "2026-10-04T19:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T19:25:30.666498+00:00"
-    },
-    {
-      "id": "acc4c63509670169",
-      "source": "Akşam",
-      "title": "Vincenzo Montella'dan İtalya maçı sözleri! \"Ben ümitliyim\"",
-      "summary": "A Milli Takım'ın teknik direktörü Vincenzo Montella, İtalya maçı öncesi basın toplantısında açıklamalarda bulundu. Montella, \"Ben ümitliyim yarın güzel bir sonuç alacağımıza dair\" dedi.",
-      "link": "https://www.aksam.com.tr/spor/vincenzo-montelladan-italya-maci-sozleri-ben-umitliyim/haber-1703620",
-      "published": "2026-10-04T19:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T19:20:44.106876+00:00"
     }
   ]
 }

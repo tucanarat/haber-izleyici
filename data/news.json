@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-05T00:01:09.852393+00:00",
+  "last_updated": "2026-10-05T00:05:48.520720+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 520,
+  "new_items_this_run": 550,
   "items": [
+    {
+      "id": "1bcba775aa1c8656",
+      "source": "Aydınlık",
+      "title": "Hatay'da ceviz büyüklüğündeki dolu trafikte güçlük yarattı",
+      "summary": "Hatay&#039;da akşam saatlerinde Antakya, Altınözü, Hassa ve Defne&#039;nin kırsal mahallelerinde ceviz büyüklüğünde dolu yağdı. Yolları kısa sürede beyaza çeviren yağış bazı araçlarda hasara yol açarken sürücüler ilerlemekte güçlük çekti.",
+      "link": "https://www.aydinlik.com.tr/haber/hatayda-dolu-yagisi-bazi-araclarda-hasara-yol-acti-592989",
+      "published": "2026-10-05T00:01:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-05T00:05:34.922590+00:00"
+    },
     {
       "id": "07382be4191a13cd",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-04T18:25:34.172818+00:00"
-    },
-    {
-      "id": "add3f728a3d54aa4",
-      "source": "Habertürk",
-      "title": "Aldığı karar yüzünden milli takımsız kaldı",
-      "summary": "U15'ten U21'e kadar Belçika forması giydikten sonra ilk ve tek milli maçına Sırbistan forması ile çıkan Mile Svilar, aldığı karar sonrası bir daha milli takıma davet alamadı.",
-      "link": "https://www.haberturk.com/spor/sirbistan-dan-belcika-ya-gecme-karari-alan-mile-svilar-hayatinin-sokunu-yasadi-yillardir-milli-takim-formasi-giyemiyor-3917190",
-      "published": "2026-10-04T18:20:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-04T18:25:26.923815+00:00"
     }
   ]
 }

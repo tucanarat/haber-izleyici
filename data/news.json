@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-10-06T22:21:03.071053+00:00",
+  "last_updated": "2026-10-06T22:25:54.127305+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 523,
+  "new_items_this_run": 528,
   "items": [
+    {
+      "id": "ca3ea9eed4723dc1",
+      "source": "Gazete Pencere",
+      "title": "Ankara'da polislere ateş açıldı: Bir polis hayatını kaybetti",
+      "summary": "Ankara'nın Pursaklar ilçesinde uygulama noktasındaki polislere ateş açıldı. Çıkan çatışmada 1 polis memuru hayatını kaybetti.",
+      "link": "https://www.gazetepencere.com/gundem/ankarada-polislere-ates-acildi-bir-polis-hayatini-kaybetti-718189h",
+      "published": "2026-10-06T22:25:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:39.006126+00:00"
+    },
+    {
+      "id": "8757dca859505144",
+      "source": "Akşam",
+      "title": "Şampiyon VakıfBank",
+      "summary": "VakıfBank, Eczacıbaşı Peron İstanbul'u 3-2 mağlup ederek 2026 Kadınlar AXA Sigorta Şampiyonlar Kupası'nın şampiyonu oldu.",
+      "link": "https://www.aksam.com.tr/spor/sampiyon-vakifbank/haber-1704158",
+      "published": "2026-10-06T22:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:34.515004+00:00"
+    },
+    {
+      "id": "944bdc7e33f9140c",
+      "source": "Yeniçağ",
+      "title": "Gece saatlerinde motosikletli saldırgan dehşeti: Bir anda kurşunların hedefi oldu",
+      "summary": "Küçükçekmece’de iş yerinin önünde oturan kişiye, motosikletli 2 şüpheli tarafından silahlı saldırı düzenlendi. Ağır yaralanan kişi ambulansla hastaneye kaldırılırken, polis ekipleri kaçan şüphelileri yakalamak için çalışma başlattı.",
+      "link": "https://www.yenicaggazetesi.com/gece-saatlerinde-motosikletli-saldirgan-dehseti-bir-anda-kursunlarin-hedefi-oldu-1079220h.htm",
+      "published": "2026-10-06T22:23:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:37.414149+00:00"
+    },
+    {
+      "id": "2b6af58f8709a9a1",
+      "source": "Yeniçağ",
+      "title": "Gökçe Alkan cinayetinde zanlı tutuklandı",
+      "summary": "Karacabey’de 5 Ekim’de meydana gelen ve genç Gökçe Alkan’ın hayatını kaybetmesiyle sonuçlanan cinayetin ardından gözaltına alınan 24 yaşındaki Mustafa Bağ, kasten planlayarak adam öldürme suçundan çıkarıldığı nöbetçi Sulh Ceza Hakimliği tarafından tutuklanarak cezaevine gönderildi.",
+      "link": "https://www.yenicaggazetesi.com/gokce-alkan-cinayetinde-zanli-tutuklandi-1079219h.htm",
+      "published": "2026-10-06T22:22:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:37.414183+00:00"
+    },
+    {
+      "id": "e45cf93332b61520",
+      "source": "Cumhuriyet",
+      "title": "New York borsası günü yükselişle kapandı",
+      "summary": "New York borsası, teknoloji hisselerindeki yükseliş ve tahvil faizlerindeki artışın duraksamasıyla günü yükselişle tamamladı.",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/new-york-borsasi-gunu-yukselisle-kapandi-2544434",
+      "published": "2026-10-06T22:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:29.414418+00:00"
+    },
+    {
+      "id": "532b363c03ad33f0",
+      "source": "Türkiye Gazetesi",
+      "title": "İtalyanlar yazdı: Vincenzo Montella tehlikede!",
+      "summary": "İtalyan basını, Gök Maviler'in Türkiye’yi 3-1 mağlup ederek grupta ikinci sıraya yükseldiği mücadeleye geniş yer ayırdı. Gazeteler, İtalya’nın galibiyetini öne çıkarırken Montella’nın geleceğiyle ilgili baskının arttığını vurguladı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/italyanlar-yazdi-vincenzo-montella-tehlikede-1821060",
+      "published": "2026-10-06T22:18:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:31.480937+00:00"
+    },
     {
       "id": "48a870b222d7ea40",
       "source": "CNBC-e",
@@ -116,6 +182,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-06T22:15:34.924109+00:00"
+    },
+    {
+      "id": "27d4f8dbffd0b9b1",
+      "source": "Evrensel",
+      "title": "Cristiano Ronaldo: Milli takımı bırakmadım",
+      "summary": "Cristiano Ronaldo, Portekiz Milli Takımı’nı bırakmadığını açıkladı ve teknik direktör Jorge Jesus’u eleştirdi.",
+      "link": "https://www.evrensel.net/haber/6003770/cristiano-ronaldo-milli-takimi-birakmadim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-06T22:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:31.901346+00:00"
     },
     {
       "id": "7e88641f995189ff",
@@ -2525,6 +2602,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-06T20:50:37.518280+00:00"
+    },
+    {
+      "id": "127710676b8d9332",
+      "source": "Evrensel",
+      "title": "Mersin'de tutuklanan belediye başkanları görevden uzaklaştırıldı",
+      "summary": "İçişleri Bakanlığı, Mersin'de tutuklanan belediye başkanlarının görevlerinden uzaklaştırıldığını duyurdu. Belediye başkanları ise tutuklanmalarının ardından ilk mesajlarını verdi.",
+      "link": "https://www.evrensel.net/haber/6003764/mersin-de-tutuklanan-belediye-baskanlari-gorevden-uzaklastirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-06T20:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:31.901574+00:00"
     },
     {
       "id": "d5c80ec0a54a2249",
@@ -5156,6 +5244,17 @@
       "fetched_at": "2026-10-06T19:00:52.392098+00:00"
     },
     {
+      "id": "a20544742b4d5134",
+      "source": "Evrensel",
+      "title": "Ataşehir Belediyesi'nde Başkan Vekili seçimi 10 Ekim'de yapılacak",
+      "summary": "Ataşehir Belediye Başkan Vekili Murat Güneş’in görevinden uzaklaştırılmasının ardından açıklama yapan İstanbul Valiliği, yeni belediye başkan vekili seçiminin 10 Ekim'de yapılacağını duyurdu.",
+      "link": "https://www.evrensel.net/haber/6003756/atasehir-belediyesi-nde-baskan-vekili-secimi-10-ekim-de-yapilacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-06T18:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:25:31.901733+00:00"
+    },
+    {
       "id": "e1cd0e9c40090800",
       "source": "Akşam",
       "title": "Finansal Krizler ve Ulusal Güvenlik",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-06T18:50:38.187356+00:00"
-    },
-    {
-      "id": "2b59517dfefbf40b",
-      "source": "Türkiye Gazetesi",
-      "title": "Başkanvekili seçimleri için tarih belli oldu",
-      "summary": "Ataşehir ve Eyüpsultan'da 10 Ekim'de başkanvekili seçimleri yapılacak.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/atasehir-ve-eyupsultanda-baskanvekili-secimi-icin-tarih-belli-oldu-1821018",
-      "published": "2026-10-06T18:48:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T19:00:52.392130+00:00"
-    },
-    {
-      "id": "52bb51bd2b79e30a",
-      "source": "Halk TV",
-      "title": "Hindistan'da 5,1 büyüklüğünde deprem!",
-      "summary": "Hindistan&#039;da 5,1 büyüklüğünde deprem meydana geldi.",
-      "link": "https://halktv.com.tr/dunya/hindistanda-51-buyuklugunde-deprem-1059918h",
-      "published": "2026-10-06T18:48:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T18:50:40.847832+00:00"
-    },
-    {
-      "id": "25704ffd187c0c27",
-      "source": "Karar",
-      "title": "Cemil Tugay'ın AK Parti'ye geçişine YENİ Parti'den ilk tepki: \"Yazıklar olsun sana, istifa et\"",
-      "summary": "YENİ Parti İzmir Milletvekili Tuncay Özkan, AK Parti’nin Cemil Tugay’ın partiye katılımı öncesinde yayımladığı “İzmir’in dağlarında çiçekler açar” temalı videoya sert tepki gösterdi. Videonun İzmir’e yönelik hakaret içerdiğini savunan Özkan, Tugay’a “Yazıklar olsun sana. İstifa et, kurtul bu utançtan” sözleriyle seslendi.",
-      "link": "https://www.karar.com/guncel-haberler/cemil-tugayin-ak-partiye-gecisine-yeni-partiden-ilk-tepki-yaziklar-2076720",
-      "published": "2026-10-06T18:48:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T18:50:39.114943+00:00"
-    },
-    {
-      "id": "dd4f18205ea9953c",
-      "source": "Gazete Pencere",
-      "title": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen görevden uzaklaştırıldı",
-      "summary": "Tutuklanan Eyüpsultan Belediye Başkanı Mithat Bülent Özmen görevden uzaklaştırıldı.",
-      "link": "https://www.gazetepencere.com/gundem/eyupsultan-belediye-baskani-mithat-bulent-ozmen-gorevden-uzaklastirildi-718178h",
-      "published": "2026-10-06T18:48:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T18:50:40.463294+00:00"
-    },
-    {
-      "id": "6ac3a6d23409ebec",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Ankara'da yarın bazı yollar araç trafiğine kapatılacak",
-      "summary": "Başkentte, Filistin'e destek amacıyla düzenlenecek yürüyüş nedeniyle yarın bazı yolların araç trafiğine kapatılacağı bildirildi.",
-      "link": "https://www.aa.com.tr/tr/gundem/ankarada-yarin-bazi-yollar-arac-trafigine-kapatilacak/4080198",
-      "published": "2026-10-06T18:48:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T18:50:33.137199+00:00"
-    },
-    {
-      "id": "f3d6d6340822e7a5",
-      "source": "Karar",
-      "title": "Çin ile ABD arasında Tayvan krizi: F-16 satışına karşı çıkılıyor",
-      "summary": "Çin, Tayvan’a yönelik ABD silah satışlarına tepki göstererek Washington’a “tek Çin” ilkesine uyma ve Tayvan konusunda ihtiyatlı hareket etme çağrısında bulundu. Açıklama, Tayvan’ın ABD’den satın aldığı modernize edilmiş F-16V Block 70 savaş uçaklarının ilk ikisinin teslim edilmesinin ardından geldi.",
-      "link": "https://www.karar.com/dunya-haberleri/cin-ile-abd-arasinda-tayvan-krizi-f-16-satisina-karsi-cikiliyor-2076719",
-      "published": "2026-10-06T18:48:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T18:50:39.114988+00:00"
-    },
-    {
-      "id": "6f2cb88ccbd8fbba",
-      "source": "Yeniçağ",
-      "title": "37 yıl hapis cezasıyla aranıyordu: Polisten kaçamadı",
-      "summary": "Kırıkkale’de aranan hükümlülere yönelik operasyonda 2 kişi yakalandı. Hırsızlık suçundan 37 yıl 3 ay 20 gün kesinleşmiş hapis cezası bulunan H.B. ile yağma ve hırsızlık suçlarından aranan E.Ş. cezaevine gönderildi.",
-      "link": "https://www.yenicaggazetesi.com/37-yil-hapis-cezasiyla-araniyordu-polisten-kacamadi-1079188h.htm",
-      "published": "2026-10-06T18:48:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T18:50:39.377768+00:00"
-    },
-    {
-      "id": "512166e54a3378a3",
-      "source": "Sabah",
-      "title": "Eyüpsultan ve Ataşehir belediyeleri için tarih verildi! 5 belediye başkanı ve başkanvekili görevden alındı",
-      "summary": "İstanbul Valiliği, tutuklanarak görevden uzaklaştırılan Eyüpsultan Belediye Başkanı Mithat Bülent Özmen ile Ataşehir Belediye Başkan Vekili Murat Güneş’in yerine belediye başkan vekillerinin seçilmesi... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/gundem/2026/10/06/eyupsultan-ve-atasehir-belediyeleri-icin-tarih-verildi",
-      "published": "2026-10-06T18:48:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T20:15:35.271921+00:00"
-    },
-    {
-      "id": "0180c452941a4a48",
-      "source": "Sabah",
-      "title": "Eyüpsultan ve Ataşehir belediyeleri için tarih verildi!",
-      "summary": "İstanbul Valiliği, tutuklanarak görevden uzaklaştırılan Eyüpsultan Belediye Başkanı Mithat Bülent Özmen ile Ataşehir Belediye Başkan Vekili Murat Güneş’in yerine belediye başkan vekillerinin seçilmesi... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/gundem/2026/10/06/eyupsultan-ve-atasehir-belediyeleri-icin-tarih-verildi",
-      "published": "2026-10-06T18:48:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T19:20:43.184276+00:00"
     }
   ]
 }

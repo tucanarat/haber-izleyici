@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-06T01:25:58.573979+00:00",
+  "last_updated": "2026-10-06T01:31:21.481816+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 540,
+  "new_items_this_run": 512,
   "items": [
+    {
+      "id": "1f3e394a991ddfa1",
+      "source": "Türkiye Gazetesi",
+      "title": "Eczacılıkta dijital dönem başlıyor",
+      "summary": "Eczacılık mesleği, dijital danışmanlık ve yeni teknolojilerle birlikte değişiyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/saglik/eczacilikta-dijital-donem-basliyor-1820822",
+      "published": "2026-10-06T01:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T01:30:52.375750+00:00"
+    },
     {
       "id": "d5ca8b85651c70f1",
       "source": "Yeni Akit",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T20:31:37.866733+00:00"
-    },
-    {
-      "id": "b739c64959951cb9",
-      "source": "Yeni Şafak",
-      "title": "Kırıkkale’de narkotik ve asayiş ekiplerinden operasyon: İki kişi tutuklandı",
-      "summary": "Kırıkkale’de polis ekiplerince düzenlenen operasyonlarda uyuşturucu madde ticareti suçundan bir şüpheli tutuklanırken, hakkında kesinleşmiş hapis cezası bulunan bir hükümlü de yakalandı.",
-      "link": "https://www.yenisafak.com/gundem/kirikkalede-narkotik-ve-asayis-ekiplerinden-operasyon-iki-kisi-tutuklandi-4861813",
-      "published": "2026-10-05T20:08:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T20:31:34.672986+00:00"
     }
   ]
 }

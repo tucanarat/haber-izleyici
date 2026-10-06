@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-06T22:01:21.265537+00:00",
+  "last_updated": "2026-10-06T22:05:54.553898+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 527,
+  "new_items_this_run": 523,
   "items": [
+    {
+      "id": "114fd183d6adae39",
+      "source": "Gazete Pencere",
+      "title": "İdam edildi ama ölmedi! İnfazdan sağ çıkan mahkûm konuşmaya başladı",
+      "summary": "ABD'de idam cezasına çarptırılan Christa Pike, infaz edildikten sonra hayatta kaldı. Zehirli iğneyle idam edildikten sonra hayat belirtileri gösteren Pike'nin bilincinin açıldığı ve konuşabildiği bildirildi.",
+      "link": "https://www.gazetepencere.com/dis-haber/idam-edildi-ama-olmedi-infazdan-sag-cikan-mahkum-konusmaya-basladi-718188h",
+      "published": "2026-10-06T22:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:05:38.745567+00:00"
+    },
     {
       "id": "f28f5e1c6522964d",
       "source": "Karar",
@@ -39,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-06T22:00:52.703471+00:00"
+    },
+    {
+      "id": "09e5d3e5063a9b26",
+      "source": "OdaTV",
+      "title": "Derin Mermerci'nin yalısına vapur girdi: 'Yalı hayatı sandığınız kadar iyi değil' demişti",
+      "summary": "Üsküdar’da seyir halindeki bir vapur, iş insanı Derin Mermerci’ye ait yalıya ve önündeki tekneye çarptı. Yalı ve teknede hasar meydana gelirken, kaza anı güvenlik kamerasına yansıdı.",
+      "link": "https://www.odatv.com/guncel/derin-mermercinin-yalisina-vapur-girdi-yali-hayati-sandiginiz-kadar-iyi-degil-demisti-120165565",
+      "published": "2026-10-06T21:58:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T22:05:39.081839+00:00"
     },
     {
       "id": "b64935a386c6c60e",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-06T18:45:45.798521+00:00"
-    },
-    {
-      "id": "2c4f30851620aba1",
-      "source": "OdaTV",
-      "title": "Ekrem İmamoğlu'ndan Başakşehir'deki okul saldırısı sonrası açıklama: Kendinize gelin, önlem alın",
-      "summary": "İstanbul Başakşehir&#039;deki okul saldırısına ilişkin açıklamada bulunan Ekrem İmamoğlu, &quot;Çocuklarını koruyamayan bir ülkeye dönüşmemizin sorumluları koltuklarında oturmaya devam ediyor&quot; dedi.",
-      "link": "https://www.odatv.com/guncel/ekrem-imamoglundan-basaksehirdeki-okul-saldirisi-sonrasi-aciklama-kendinize-gelin-onlem-alin-120165549",
-      "published": "2026-10-06T18:41:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T18:50:40.594731+00:00"
-    },
-    {
-      "id": "1d2f04f5bad6a90e",
-      "source": "Ekonomim",
-      "title": "Ankaralılar dikkat: Yarın bu yollar trafiğe kapatılacak",
-      "summary": "Ankara&#039;da yarın Filistin&#039;e destek amacıyla düzenlenecek yürüyüş nedeniyle trafiğe kapatılacak yollar açıklandı.",
-      "link": "https://www.ekonomim.com/gundem/ankaralilar-dikkat-yarin-bu-yollar-trafige-kapatilacak-haberi-922990",
-      "published": "2026-10-06T18:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T18:45:50.707854+00:00"
     }
   ]
 }

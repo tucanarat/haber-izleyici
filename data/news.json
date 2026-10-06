@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-06T03:05:57.829115+00:00",
+  "last_updated": "2026-10-06T03:10:57.586216+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 539,
+  "new_items_this_run": 538,
   "items": [
+    {
+      "id": "1e8be978072e7afb",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Eyüpsultan Belediye Başkanı Özmen'in de aralarında bulunduğu 13 şüpheli tutuklandı",
+      "summary": "Ankara Cumhuriyet Başsavcılığınca Eyüpsultan Belediyesine yönelik yürütülen soruşturma kapsamında gözaltına alınan, aralarında Belediye Başkanı Mithat Bülent Özmen'in de bulunduğu 13 şüpheli tutuklandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/eyupsultan-belediye-baskani-ozmenin-de-aralarinda-bulundugu-13-supheli-tutuklandi/4079122",
+      "published": "2026-10-06T03:07:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T03:10:33.157488+00:00"
+    },
     {
       "id": "458d57c1ab5e7e95",
       "source": "Finans Gündem",
@@ -578,6 +589,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-06T01:20:49.799410+00:00"
+    },
+    {
+      "id": "aa57c3d52e2a004a",
+      "source": "Yeni Şafak",
+      "title": "Yeni Parti’de örgüt için güç yarışı",
+      "summary": "Yeni Parti'de ilçe ön seçimleriyle başlayan örgüt yarışı, il başkanlığı seçimleri öncesinde vekiller ile Genel Merkez arasında güç mücadelesine dönüştü.",
+      "link": "https://www.yenisafak.com/gundem/yeni-partide-orgut-icin-guc-yarisi-4861859",
+      "published": "2026-10-06T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T03:10:38.700488+00:00"
     },
     {
       "id": "0d58fa5c3c1f013f",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T21:03:12.289211+00:00"
-    },
-    {
-      "id": "798bc9b2ba979af3",
-      "source": "Aydınlık",
-      "title": "A Milli Takım İtalya'ya 3-1 kaybetti! Montella için yine istifa tezahüratları yükseldi",
-      "summary": "A Milli Takım UEFA Uluslar Ligi&#039;nde kötü bir periyottan geçti. Gruptaki 4 maçını da kaybeden Milli Takım, bu maçlarda sadece 2 gol attı. Faturanın büyük kısmı ise Vincenzo Montella&#039;ya kesildi. İstifa tezahüratları; Kocaeli, Bursa ve Belçika&#039;dan sonra İtalya&#039;da da yükseldi.",
-      "link": "https://www.aydinlik.com.tr/haber/a-milli-takim-italyaya-3-1-kaybetti-montella-icin-yine-istifa-tezahuratlari-yukseldi-593144",
-      "published": "2026-10-05T20:37:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T21:03:14.187666+00:00"
-    },
-    {
-      "id": "81651783c1e2ec01",
-      "source": "Habertürk",
-      "title": "Milli Takım'dan 4'te 0!",
-      "summary": "A Milli Takımımız, UEFA Uluslar A Ligi 1. Grup'taki dördüncü maçında İtalya'ya deplasmanda 3-1 mağlup oldu. Gök Mavililer'e galibiyeti getiren golleri Scamacca, Calafiori ve Pio Esposito kaydederken, ay-yıldızlıların tek golü Aral Şimşir'den geldi. Dört maç sonunda puanla tanışamayan Milliler, grubunu son sırada bitirmeyi garantiledi. İtalya ise puanını 7'ye çıkardı.",
-      "link": "https://www.haberturk.com/spor/italya-turkiye-maci-canli-anlatim-italya-turkiye-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-onemli-3917241",
-      "published": "2026-10-05T20:37:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T21:03:03.278712+00:00"
     }
   ]
 }

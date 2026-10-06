@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T00:35:52.795098+00:00",
+  "last_updated": "2026-10-06T00:41:09.461594+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 543,
   "items": [
+    {
+      "id": "b78b7620d9fd61fd",
+      "source": "BBC News Türkçe",
+      "title": "Eyüpsultan Belediye Başkanı Mithat Bülent Özmen tutuklandı",
+      "summary": "Ankara Cumhuriyet Başsavcılığınca Eyüpsultan Belediyesi'ne yönelik yürütülen soruşturmada Belediye Başkanı Mithat Bülent Özmen tutuklandı.",
+      "link": "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06T00:35:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T00:41:08.832864+00:00"
+    },
     {
       "id": "5ea62c7c25c29262",
       "source": "Halk TV",
@@ -5431,6 +5442,17 @@
       "fetched_at": "2026-10-05T20:31:36.820183+00:00"
     },
     {
+      "id": "af3bf29c78967c7c",
+      "source": "Bir Gün",
+      "title": "Fatma Betül Sayan Kaya'dan iade hamlesi: Ana parayı ayırıp kalanı TMSF'ye yatırdılar",
+      "summary": "Fon vurgununda yaklaşık 2 milyar TL kazanç sağlayan AKP'li Fatma Betül Sayan Kaya ve eşi İlyas Kaya, yatırımlarının ana para dışındaki kısmını TMSF'ye iade etti. Sermaye Piyasası Kanunu'na göre ise çiftin etkin pişmanlık hükümlerinden yararlanmak istemesi durumunda elde ettikleri haksız kazancın iki katını Hazine'ye aktarılmak üzere TMSF'ye ödemesi gerekiyor.",
+      "link": "https://www.birgun.net/haber/fatma-betul-sayan-kaya-dan-iade-hamlesi-ana-parayi-ayirip-kalani-tmsf-ye-yatirdilar-738755",
+      "published": "2026-10-05T19:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-06T00:40:43.783463+00:00"
+    },
+    {
       "id": "ef09d876e71c9aa4",
       "source": "Bir Gün",
       "title": "Fatma Betül Sayan Kaya'dan iade hamlesi: Ana parayı ayırıp kalanı TMSF'ye yatırdılar!",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-05T20:31:36.116953+00:00"
-    },
-    {
-      "id": "630d1e24e02725f0",
-      "source": "Yeni Yaşam",
-      "title": "Riyad’da Mekke Anlaşması toplantısı: Suudi Arabistan’a askeri güç sevk edilecek",
-      "summary": "Mekke Anlaşması kapsamında Suudi Arabistan, Türkiye ve Pakistan dışişleri ve savunma bakanları ile genelkurmay başkanları bir araya geldi. Yapılan ortak açıklamada, Yemen’deki gelişmeler nedeniyle askeri kuvvetlerin Suudi Arabistan’a sevkine onay verildiği duyuruldu Mekke Ortak Savunma Anlaşması kapsamında oluşturulan Stratejik Siyasi ve Savunma Komitesi toplantısı, Suudi Arabistan&#8217;ın başken",
-      "link": "https://yeniyasamgazetesi9.com/riyadda-mekke-anlasmasi-toplantisi-suudi-arabistana-askeri-guc-sevk-edilecek/",
-      "published": "2026-10-05T19:46:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T20:31:44.388293+00:00"
-    },
-    {
-      "id": "96af65b7a1307d2e",
-      "source": "Cumhuriyet",
-      "title": "Taraftarlardan İtalya'da Vincenzo Montella'ya tepki!",
-      "summary": "A Milli Futbol Takımı Vincenzo Montella, deplasmanda oynanan İtalya mücadelesinde taraftarlar tarafından istifaya davet edildi.",
-      "link": "https://www.cumhuriyet.com.tr/spor/taraftarlardan-italya-da-vincenzo-montella-ya-tepki-2544027",
-      "published": "2026-10-05T19:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-05T20:31:28.598816+00:00"
     }
   ]
 }

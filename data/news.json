@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-07T23:10:59.159113+00:00",
+  "last_updated": "2026-10-07T23:16:05.099132+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 528,
+  "new_items_this_run": 527,
   "items": [
+    {
+      "id": "ab6b727ed3c74a15",
+      "source": "Halk TV",
+      "title": "Arınç’tan tutuklu belediye başkanları için mesaj: Gözyaşları gayretullaha dokunursa...",
+      "summary": "Eski TBMM Başkanı Bülent Arınç, tutuklu belediye başkanları Murat Çalık ve Mithat Bülent Özmen üzerinden adalet ve hukuk mesajı verdi. Arınç, “Eğer bu gözyaşları gayretullaha dokunursa, Türkiye’de biz felah bulamayız” dedi.",
+      "link": "https://halktv.com.tr/turkiye/arinctan-tutuklu-belediye-baskanlari-icin-mesaj-gozyaslari-gayretullaha-dokunursa-1060190h",
+      "published": "2026-10-07T23:12:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T23:15:49.142134+00:00"
+    },
+    {
+      "id": "f178ab36aa369b10",
+      "source": "Karar",
+      "title": "Gaziantep’te 16 yaşındaki çocuk bıçaklanarak öldürüldü",
+      "summary": "Gaziantep’te 16 yaşındaki Muhammed Salih, tartıştığı 2 kişi tarafından bıçaklandı. Ağır yaralanan çocuk, kaldırıldığı hastanede yapılan tüm müdahalelere rağmen hayatını kaybetti. Olayın ardından kaçan kişilerin yakalanması için çalışma başlatıldı.",
+      "link": "https://www.karar.com/guncel-haberler/gaziantepte-16-yasindaki-cocuk-bicaklanarak-olduruldu-2076960",
+      "published": "2026-10-07T23:12:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T23:15:45.267483+00:00"
+    },
     {
       "id": "6070a5ffe4fa8363",
       "source": "Yeniçağ",
@@ -61,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T23:10:36.679486+00:00"
+    },
+    {
+      "id": "f168c06c3dd7f871",
+      "source": "Finans Gündem",
+      "title": "Fon vurgununda adı geçen bakan Ömer Bolat: İthamlar iftira niteliğindedir",
+      "summary": "Ticaret Bakanı Ömer Bolat, hakkında ortaya atılan \"400 koydu, 800 aldı\" iddiasına \"kara propaganda yalanı\" sözleriyle yanıt verdi.",
+      "link": "https://www.finansingundemi.com/haber/fon-vurgununda-adi-gecen-bakan-omer-bolat-ithamlar-iftira-niteligindedir/1910793",
+      "published": "2026-10-07T23:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T23:15:57.470341+00:00"
     },
     {
       "id": "6598a3f83694cea1",
@@ -5464,48 +5497,15 @@
       "fetched_at": "2026-10-07T19:30:56.723885+00:00"
     },
     {
-      "id": "198c1535ea1e7b89",
+      "id": "462d4ea89d4e2100",
       "source": "OdaTV",
-      "title": "Meclis’in gündeminde fon var",
+      "title": "Meclis’in gündeminde foncular var",
       "summary": "YENİ Parti&#039;li Ümit Özlale, bir bakanın babasının kriz öncesi fona 470 milyon yatırıp 830 milyon lira alarak çıktığını iddia etti. YENİ Parti herkesin merak ettiği bakan ile ilgili detaylar için Pazartesi gününü işaret etti.",
       "link": "https://www.odatv.com/guncel/meclisin-gundeminde-fon-var-yeni-partili-umit-ozlale-hangi-bakani-isaret-etti-120165702",
       "published": "2026-10-07T19:26:10+00:00",
       "matched": false,
       "matched_keywords": [],
-      "fetched_at": "2026-10-07T19:30:51.651879+00:00"
-    },
-    {
-      "id": "bbdbc82ce2c722f1",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Galata Kulesi Filistin bayrağının renklerine büründü",
-      "summary": "İstanbul'un simge yapılarından Galata Kulesi'ne Filistin bayrağı yansıtıldı.",
-      "link": "https://www.aa.com.tr/tr/gundem/galata-kulesi-filistin-bayraginin-renklerine-burundu/4081455",
-      "published": "2026-10-07T19:25:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T19:30:43.019835+00:00"
-    },
-    {
-      "id": "0d7ac5e1b445ab28",
-      "source": "Türkiye Gazetesi",
-      "title": "Türkiye Kupası'nda sürpriz sonuçlar",
-      "summary": "Ziraat Türkiye Kupası 2. eleme turunda bugün 24 karşılaşma yapılırken bir üst tura çıkan takımlar belli oldu.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/turkiye-kupasinda-surpriz-sonuclar-turlayan-takimlar-belli-oldu-1821272",
-      "published": "2026-10-07T19:25:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T19:30:45.428857+00:00"
-    },
-    {
-      "id": "c2ff449c5c756fcf",
-      "source": "Habertürk",
-      "title": "AÖL 1.dönem sınavları ne zaman?",
-      "summary": "Açık Öğretim Lisesi öğrencileri AÖL 1.dönem sınav tarihlerini duyurdu.Liseyi açıktan bitirmek zorunda kalan öğrenciler AÖL sınavlarına katılım sağlaması gerekiyor. AÖL sınav yerleri ve giriş belgeleri aol.meb.gov.tr üzerinden yayınlanıyor. Peki AÖL 1.dönem sınavları ne zaman, sınav giriş belgesi yayınlandı mı?",
-      "link": "https://www.haberturk.com/bilgi/foto/aol-1donem-sinavlari-ne-zaman-meb-aol-1donem-sinav-giris-belgesi-yayinlandi-mi-3918008",
-      "published": "2026-10-07T19:25:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T19:30:40.273299+00:00"
+      "fetched_at": "2026-10-07T23:15:48.676648+00:00"
     }
   ]
 }

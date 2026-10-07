@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-07T02:05:58.673441+00:00",
+  "last_updated": "2026-10-07T02:11:04.412515+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 549,
+  "new_items_this_run": 539,
   "items": [
     {
       "id": "a4f99072c5cd5acf",
@@ -3253,6 +3253,17 @@
       "fetched_at": "2026-10-06T21:30:53.240921+00:00"
     },
     {
+      "id": "0e605258cc25a69c",
+      "source": "Habertürk",
+      "title": "Donald Trump: Milyonlarca varil petrol taşındı",
+      "summary": "ABD Başkanı Donald Trump, Hürmüz Boğazı’ndaki duruma dair yaptığı açıklamada, \"Son birkaç günde çok büyük miktarda, milyonlarca varil petrol taşındı. Şu anda, savaş öncesindekiyle aynı, hatta bazen daha yüksek seviyelerde sevkiyat gerçekleştiriyoruz.\" ifadelerini kullandı.",
+      "link": "https://www.haberturk.com/dunya/donald-trump-milyonlarca-varil-petrol-tasindi-3917773",
+      "published": "2026-10-06T21:23:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T02:10:33.030851+00:00"
+    },
+    {
       "id": "4a7629e28b7cf234",
       "source": "Yeni Şafak",
       "title": "Aydın'da kaçak tütün operasyonu: 138 bini aşkın makaron ele geçirildi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-06T20:21:00.037518+00:00"
-    },
-    {
-      "id": "f2d44fb37e5a6574",
-      "source": "Euronews Türkçe",
-      "title": "Kanada Başbakanı Carney, Türkiye'yi ziyaret edecek",
-      "summary": "Kanada Başbakanı Carney, 21-23 Ekim tarihlerinde Ankara ve İstanbul'u ziyaret edecek. Carney, Türkiye'yi ziyaret eden ilk Kanada başbakanı olacak.",
-      "link": "https://tr.euronews.com/2026/10/06/kanada-basbakani-carney-turkiyeyi-ziyaret-edecek",
-      "published": "2026-10-06T20:19:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-06T20:25:48.194032+00:00"
     }
   ]
 }

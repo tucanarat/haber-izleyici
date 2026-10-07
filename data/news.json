@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-07T19:35:51.714932+00:00",
+  "last_updated": "2026-10-07T19:40:53.785739+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 518,
+  "new_items_this_run": 519,
   "items": [
+    {
+      "id": "dc3cd8b22197f2e8",
+      "source": "Gazete Pencere",
+      "title": "Zara, H&M ve Mavi’ye kumaş tedarik ediyordu: Türk tekstil firması iflasın eşiğinde",
+      "summary": "Bursa'da 20 yıldır tekstil sektöründe faaliyet gösteren ve Zara, H&amp;M, DeFacto, Mavi ile LCW gibi markalara kumaş tedarik eden Bursa Knitted Fabric konkordato sürecine girdi.",
+      "link": "https://www.gazetepencere.com/ekonomi/zara-hm-ve-maviye-kumas-tedarik-ediyordu-turk-tekstil-firmasi-iflasin-esiginde-718306h",
+      "published": "2026-10-07T19:39:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T19:40:40.513158+00:00"
+    },
     {
       "id": "e20b1aa990867384",
       "source": "Yeni Şafak",
@@ -19,6 +30,17 @@
       "fetched_at": "2026-10-07T19:35:34.932927+00:00"
     },
     {
+      "id": "165ffd9fd16ac9aa",
+      "source": "Cumhuriyet",
+      "title": "Okula silah getiren öğrenci yakalandı: Ailesiyle beraber gözaltına alındı!",
+      "summary": "Edirne'de bir ortaokulda eğitim gören 8. sınıf öğrencisinin çantasında kurusıkı tabanca bulundu. Öğrenci ve ailesi, polis ekiplerince gözaltına alındı. Olayla ilgili inceleme başlatıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/okula-silah-getiren-ogrenci-yakalandi-ailesiyle-beraber-gozaltina-alindi-2544687",
+      "published": "2026-10-07T19:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T19:40:32.391616+00:00"
+    },
+    {
       "id": "692f6da62b55cd2e",
       "source": "Akşam",
       "title": "İspanya'da konut krizinin sembolü Mari Carmen hayatını kaybetti",
@@ -28,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T19:35:34.408920+00:00"
+    },
+    {
+      "id": "dd6b118ddcbe3d3f",
+      "source": "Euronews Türkçe",
+      "title": "OpenAI, yapay zekanın gerçekleştirdiği 722 matematik keşfini yayımladı",
+      "summary": "2020'lerin başında matematik sınavlarından geçer not almakta bile zorlanan yapay zeka sistemleri, bugün matematiğin onlarca yıldır çözülemeyen problemlerine yanıt üretebiliyor.",
+      "link": "https://tr.euronews.com/2026/10/07/openai-yapay-zekanin-gerceklestirdigi-722-matematik-kesfini-yayimladi",
+      "published": "2026-10-07T19:34:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T19:40:53.784804+00:00"
     },
     {
       "id": "633d2d2b3033f933",
@@ -52,6 +85,17 @@
       "fetched_at": "2026-10-07T19:35:38.915456+00:00"
     },
     {
+      "id": "e0ff79e6aea0813b",
+      "source": "Euronews Türkçe",
+      "title": "Sibirya'da ikinci veba vakası iddiası: Rusya şeffaflık çağrılarını reddetti",
+      "summary": "Rospotrebnadzor, yaklaşık 5 bin testte tehlikeli patojen bulunmadığını ve 'salgın riski olmadığını' açıkladı. Kremlin ise haberlerin çoğunu 'yanlış' olarak nitelendirerek ABD'nin resmi bilgi talebinden haberdar olmadığını söyledi.",
+      "link": "https://tr.euronews.com/2026/10/07/sibiryada-ikinci-veba-vakasi-iddiasi-rusya-seffaflik-cagrilarini-reddetti",
+      "published": "2026-10-07T19:33:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T19:40:53.784834+00:00"
+    },
+    {
       "id": "fc1baeba2cedcec8",
       "source": "Independent Türkçe",
       "title": "Suudi Arabistan: Abha ve Riyad'daki havalimanlarına saldırılarda 3 kişi öldü, 36 kişi yaralandı",
@@ -72,6 +116,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T19:35:35.340150+00:00"
+    },
+    {
+      "id": "ae00e969e5d1dca6",
+      "source": "Cumhuriyet",
+      "title": "TİP'ten Cemil Tugay’ın AKP'ye katılmasına tepki: 'Oyunu aldığı halkın umuduna pusu kurdu'",
+      "summary": "TİP İzmir İl Örgütü, İzmir Büyükşehir Belediye Başkanı Cemil Tugay’ın AKP’ye katılmasına tepki gösterdi. TİP İzmir yöneticileri, Tugay’ın parti değişikliğini “seçmen iradesinin yok sayılması” olarak değerlendirdi. Açıklamada, \"Halkın oylarıyla muhalif diye seçilip rotasını Saraya kıran Cemil Tugay, sadece bir tercih yapmamış, oyunu aldığı halkın umuduna bir pusu kurmuştur\" denildi.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/tip-ten-cemil-tugay-in-akp-ye-katilmasina-tepki-oyunu-aldigi-halkin-umuduna-pusu-kurdu-2544685",
+      "published": "2026-10-07T19:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T19:40:32.391654+00:00"
+    },
+    {
+      "id": "449d5ea42f8b2b15",
+      "source": "Ekonomim",
+      "title": "Körfez Ticaret Odası’nda Recep Öztürk güven tazeledi",
+      "summary": "Körfez Ticaret Odası’nda 22 meslek komitesinin seçimlerinde Recep Öztürk’ün Yeşil Listesi 757 oyla seçimi kazanırken, Öztürk yeni dönemde üniversiteler ve meslek liseleriyle iş dünyası arasındaki iş birliğini güçlendirecek projelere odaklanacaklarını söyledi.",
+      "link": "https://www.ekonomim.com/sehirler/korfez-ticaret-odasinda-recep-ozturk-guven-tazeledi-haberi-923245",
+      "published": "2026-10-07T19:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T19:40:46.839001+00:00"
     },
     {
       "id": "39acd10b083d8c0e",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T15:55:24.880462+00:00"
-    },
-    {
-      "id": "783ec2b53db58aaa",
-      "source": "Finans Gündem",
-      "title": "Küresel borç 15 yılda 62 triyon dolar arttı",
-      "summary": "UNCTAD) yeni raporuna göre küresel kamu borcu 2010'daki 49 trilyon dolar seviyesinden 2025'te 111 trilyon dolara yükseldi",
-      "link": "https://www.finansingundemi.com/haber/kuresel-borc-15-yilda-62-triyon-dolar-artti/1910765",
-      "published": "2026-10-07T15:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T17:26:03.058555+00:00"
-    },
-    {
-      "id": "253540bce6dcf114",
-      "source": "Finans Gündem",
-      "title": "Birleşmiş Milletler'den 'küresel borç krizi' uyarısı",
-      "summary": "UNCTAD, artan borçlanma maliyetlerinin gelişmekte olan ülkelerin kamu maliyesi üzerindeki baskıyı artırdığı ve sağlık ile eğitim gibi temel kalkınma önceliklerine ayrılan kaynakları ciddi şekilde kısıtladığı uyarısında bulundu.",
-      "link": "https://www.finansingundemi.com/haber/birlesmis-milletlerden-kuresel-borc-krizi-uyarisi/1910765",
-      "published": "2026-10-07T15:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T16:25:51.252170+00:00"
-    },
-    {
-      "id": "737f5a1d09d19361",
-      "source": "Cumhuriyet",
-      "title": "İsmi fon krizinde geçiyordu: Aracında ölü bulunan AKP’li Yazıcı’nın oğlunun ortağı toprağa verildi",
-      "summary": "Geçen hafta \"Fon krizi\" soruşturmasında adı gündeme gelen, dün 15.40 sıralarında da Çekmeköy'de aracının içinde ölü bulunan Finansal Kurumlar Birliği Başkanı ve Adil Varlık Yönetim Kurulu Başkanı Ali Emre Ballı, Büyük Çamlıca Camiinde kılınan namazın ardından Ihlamurkuyu Mezarlığı'nda toprağa verildi.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/ismi-fon-krizinde-geciyordu-aracinda-olu-bulunan-akp-li-yazici-nin-oglunun-ortagi-topraga-verildi-2544640",
-      "published": "2026-10-07T15:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T15:55:27.219978+00:00"
-    },
-    {
-      "id": "ea3525dde18f178e",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Avrupa'nın uzay keşif hedefleri IAC 2026'da ele alındı",
-      "summary": "Uluslararası Uzay Federasyonu (IAF) tarafından yapılan 77. Uluslararası Uzay Kongresi'nde (IAC) Avrupa'nın uzay keşif faaliyetlerinin yol haritası ele alındı.",
-      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/avrupanin-uzay-kesif-hedefleri-iac-2026da-ele-alindi/4081258",
-      "published": "2026-10-07T15:47:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T15:50:38.497700+00:00"
-    },
-    {
-      "id": "edba512fa953565c",
-      "source": "Habertürk",
-      "title": "CHP'den Cemil Tugay açıklaması",
-      "summary": "CHP Genel Başkan Yardımcısı ve Parti Sözcüsü Müslim Sarı, İzmir Büyükşehir Belediye Başkanı Cemil Tugay'ın AK Parti'ye katılmasına ilişkin, \"Muhalefet partisinden seçilmiş bir belediye başkanının başka bir partiye geçişi, hele ki siyasal mücadelesinin tamamında onun karşıtlığı üzerine kurulmuş iktidar partisine geçiyor olması, bir defa dünyada eşi benzeri olmayan ya da çok az olan ve hiçbir biçimd",
-      "link": "https://www.haberturk.com/gundem/chp-den-cemil-tugay-aciklamasi-3917974",
-      "published": "2026-10-07T15:46:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T15:55:24.880507+00:00"
-    },
-    {
-      "id": "d9e60307194dff44",
-      "source": "Habertürk",
-      "title": "'Pembe Top' 13'üncü kez sahada",
-      "summary": "Meme kanserinde erken tanının önemine dikkat çekmek için 13 yıldır düzenlenen 'Pembe Top Sahada' projesinde bu yıl Pembe Top'u oyuncu Cemre Baysel havaya atacak",
-      "link": "https://www.haberturk.com/magazin/pembe-top-cemre-baysel-in-elinde-havalanacak-3917971",
-      "published": "2026-10-07T15:46:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T15:55:24.880537+00:00"
     }
   ]
 }

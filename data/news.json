@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-10-07T18:21:12.406426+00:00",
+  "last_updated": "2026-10-07T18:25:54.529756+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 534,
+  "new_items_this_run": 510,
   "items": [
+    {
+      "id": "fb599c670e66af7f",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Başakşehir'deki okulda bıçaklı saldırıya ilişkin 3 şüpheli tutuklandı",
+      "summary": "Başakşehir'de ortaokulda 1 öğrencinin hayatını kaybettiği, 7 öğrencinin yaralandığı bıçaklı saldırıyı gerçekleştiren şüpheli ile annesi ve babası tutuklandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/basaksehirdeki-okulda-bicakli-saldiriya-iliskin-3-supheli-tutuklandi/4081385",
+      "published": "2026-10-07T18:23:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:29.273302+00:00"
+    },
+    {
+      "id": "b2df498842550446",
+      "source": "Star",
+      "title": "Gaziantep FK'dan sakatlık açıklaması!",
+      "summary": "Trendyol Süper Lig ekiplerinden Gaziantep FK, Fuat Bavuk'un sağlık durumuna ilişkin açıklama yayımladı.",
+      "link": "https://www.star.com.tr/spor/gaziantep-fkdan-sakatlik-aciklamasi-haber-2045141/",
+      "published": "2026-10-07T18:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:37.126835+00:00"
+    },
+    {
+      "id": "d50ff0a0855949a7",
+      "source": "CNBC-e",
+      "title": "Fed yeniden faiz artışı dedi, Trump sert eleştirdi: “Ülkenin kötü gitmesini istiyorlar”",
+      "summary": "ABD Başkanı Donald Trump, mortgage faizleriyle ilgili değerlendirmesinde Fed Yönetim Kurulu’nun faizlerin düşmesini istemediğini savundu. Hazine Bakanı Scott Bessent ise enerji şokunun sona ermesiyle enflasyon ve mortgage faizlerinin gerileyeceğini söyledi.",
+      "link": "https://www.cnbce.com/haberler/fed-yeniden-faiz-artisi-dedi-trump-sert-elestirdi-ulkenin-kotu-gitmesini-istiyorlar-h38952",
+      "published": "2026-10-07T18:22:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:46.994071+00:00"
+    },
+    {
+      "id": "1ecfad2b334aa915",
+      "source": "ShiftDelete.Net",
+      "title": "Intel İşlemcili Surface Laptop 15 Yine Öne Geçti",
+      "summary": "Microsoft&#8217;un Windows ekosisteminde ARM mimarisine geçiş ısrarı sürerken, yeni nesil test sonuçları dengeleri bir kez daha x86 lehine çeviriyor. Şirketin kurumsal müşteriler için satışa sunduğu Intel Panther Lake mimarili yeni nesil Surface Laptop 15 Gen 8 modeli, son performans ve pil ömrü testlerinde son Snapdragon çiplerini geride bırakmayı başarıyor. Sonuçlar, ARM tabanlı Windows bilgisay",
+      "link": "https://shiftdelete.net/intel-islemcili-surface-laptop-15-yine-one-gecti",
+      "published": "2026-10-07T18:22:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:51.609416+00:00"
+    },
     {
       "id": "a841202ada2041d1",
       "source": "Yeniçağ",
@@ -17,6 +61,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T18:20:38.812889+00:00"
+    },
+    {
+      "id": "5f2096760c5ca8da",
+      "source": "Cumhuriyet",
+      "title": "Az malzemeyle enfes lezzet: MasterChef Sivas köfte tarifi",
+      "summary": "Yalnızca birkaç malzemeyle hazırlanan Sivas köftesi, kendine özgü hazırlanışı ve odun ateşinde pişirilmesiyle klasik köfte tariflerinden ayrılıyor.",
+      "link": "https://www.cumhuriyet.com.tr/gurme/az-malzemeyle-enfes-lezzet-masterchef-sivas-kofte-tarifi-2544663",
+      "published": "2026-10-07T18:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:29.578878+00:00"
+    },
+    {
+      "id": "c3d009d4962fd650",
+      "source": "Yeni Akit",
+      "title": "Belediye Meclisi'nde ‘satılık’ kavgası: CHP'li meclis üyeleri birbirine girdi! Kadın üyeyi yumruklamaya çalıştı",
+      "summary": "Adana'nın Yüreğir Belediye Meclisi'ndeki ekim ayı oturumunda CHP'li meclis üyeleri Ertan Sümer ile Zeycan Kılıçarslan arasında kavga çıktı. Meclis salonunda başlayan tartışma koridorda kavgaya dönüştü. Sümer, kadın meclis üyesi Kılıçarslan'ın üzerine yürüyerek yumruk atmaya kalktı.",
+      "link": "https://www.yeniakit.com.tr/haber/belediye-meclisinde-satilik-kavgasi-chpli-meclis-uyeleri-birbirine-girdi-kadin-uyeyi-yumruklamaya-calisti-2026973.html",
+      "published": "2026-10-07T18:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:37.480222+00:00"
     },
     {
       "id": "a83e224074b4b24d",
@@ -107,6 +173,17 @@
       "fetched_at": "2026-10-07T18:21:08.451652+00:00"
     },
     {
+      "id": "c9cffe2b6452ad13",
+      "source": "Habertürk",
+      "title": "Galata’da Filistin’in ışığı",
+      "summary": "Galata Kulesi, Filistin halkıyla dayanışma amacıyla bir kez daha Filistin bayrağının renkleriyle aydınlatıldı. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Gazze’de yaşananların unutturulmaması ve zulme sessiz kalınmaması gerektiğini vurguladı",
+      "link": "https://www.haberturk.com/gundem/tarihi-kule-filistin-halkiyla-dayanismanin-simgesi-olarak-aydinlandi-3918000",
+      "published": "2026-10-07T18:16:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:26.308692+00:00"
+    },
+    {
       "id": "e07571c77d65984f",
       "source": "Cumhuriyet",
       "title": "Özgür Çelik'ten Kent Uzlaşısı Davası açıklaması: ‘Siyasetin kriminalize edilmesine dayanan adaletsiz düzeni mutlaka değiştireceğiz’",
@@ -182,6 +259,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T18:15:39.490438+00:00"
+    },
+    {
+      "id": "b4b28f06427fb6bf",
+      "source": "Sabah",
+      "title": "İstanbul Gazze için tek yürek: Bakan Ersoy'dan zulme karşı birlik çağrısı! Galata Kulesi Filistin bayrağıyla aydınlandı",
+      "summary": "Galata Kulesi’ne bir kez daha Filistin bayrağı yansıtıldı. Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Gazze’de yaşananları unutturmamanın ve zulme sessiz kalmamanın insanlığın ortak sorumluluğu olduğunu... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/istanbul-gazze-icin-tek-yurek-bakan-ersoydan-zulme-karsi-birlik-cagrisi-galata-kulesi-filistin-bayragiyla-aydinlandi-7675916",
+      "published": "2026-10-07T18:12:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:35.635675+00:00"
     },
     {
       "id": "64440e9657036f61",
@@ -3077,6 +3165,17 @@
       "fetched_at": "2026-10-07T17:05:30.461152+00:00"
     },
     {
+      "id": "5c3021b1e988c654",
+      "source": "BBC News Türkçe",
+      "title": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay: 'AKP kimsesizlerin kimsesidir'",
+      "summary": "Mutlak butlan kararı sonrası haziran ayında CHP'den istifa eden İzmir Büyükşehir Belediye Başkanı Cemil Tugay bugün AKP'ye katıldı.",
+      "link": "https://www.bbc.com/turkce/articles/cmlyl2rx4xjvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07T16:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-07T18:25:54.318302+00:00"
+    },
+    {
       "id": "e3904710b94abc70",
       "source": "Halk TV",
       "title": "Son Dakika | Berna Laçin gözaltına alındı: Evinde arama yapılıyor!",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T15:01:13.722628+00:00"
-    },
-    {
-      "id": "f6fcb223c9e2c8bf",
-      "source": "Evrensel",
-      "title": "Bir dönem 100’den fazla şubesi vardı: Dev pizza zinciri şimdi 11 restorana düştü",
-      "summary": "Bir dönem 100’den fazla restorana ulaşan Bertucci’s, yıllar içinde şube sayısını büyük ölçüde azalttı. 2025’te üçüncü kez iflas başvurusunda bulunan zincir, 2026’da da şubelerini kapatmayı sürdürüyor.",
-      "link": "https://www.evrensel.net/haber/6003893/bir-donem-100den-fazla-subesi-vardi-dev-pizza-zinciri-simdi-11-restorana-dustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-07T14:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T15:20:36.055766+00:00"
-    },
-    {
-      "id": "8880fb23d872cda7",
-      "source": "Yeniçağ",
-      "title": "Yolun karşısına geçmek isterken canından oluyordu: İnegöl’de otobüs kazası",
-      "summary": "Bursa İnegöl’de yolun karşısına geçmeye çalışırken özel halk otobüsünün çarptığı 24 yaşındaki yaya yaralandı.",
-      "link": "https://www.yenicaggazetesi.com/yolun-karsisina-gecmek-isterken-canindan-oluyordu-inegolde-otobus-kazasi-1079552h.htm",
-      "published": "2026-10-07T14:55:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T14:55:34.594001+00:00"
-    },
-    {
-      "id": "e9b79dcb27972c1d",
-      "source": "Yeniçağ",
-      "title": "Alman otomobil üreticisi kuralları yıkıyor: Efsane markada yeni strateji",
-      "summary": "Volkswagen, Porsche’de satışların uzun süre toparlanmaması ihtimalini değerlendiriyor. Alman üretici, daha az araç satarak daha yüksek kâr elde etmeye yönelik yeni bir stratejiyle üst segment modellere ağırlık vermeye hazırlanıyor.",
-      "link": "https://www.yenicaggazetesi.com/alman-otomobil-ureticisi-kurallari-yikiyor-efsane-markada-yeni-strateji-1079551h.htm",
-      "published": "2026-10-07T14:55:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T14:55:34.594046+00:00"
-    },
-    {
-      "id": "aaa96c1a30283d52",
-      "source": "Bianet",
-      "title": "AYM önünde “sansüre hayır” çağrısı: “İfade özgürlüğü yoksa geriye hiçbir şey kalmaz”",
-      "summary": "Hesapları erişime engellenen gazetecilerden akademisyenlere, meslek örgütlerinden hak savunucularına çok sayıda kişi AYM önünde buluştu. Erişim engeli düzenlemesinin yürürlüğünün durdurulmasını ve iptal edilmesini istedi.",
-      "link": "https://bianet.org/haber/aym-onunde-sansure-hayir-cagrisi-ifade-ozgurlugu-yoksa-geriye-hicbir-sey-kalmaz-324207",
-      "published": "2026-10-07T14:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T15:01:09.669796+00:00"
-    },
-    {
-      "id": "0156c52eca39668f",
-      "source": "Karar",
-      "title": "Askere gidecekler dikkat! Askerlik süresi 9 aya mı çıkıyor? İşte Meclis ve MSB gündemi",
-      "summary": "Sosyal medyada hızla yayılan \"askerlik süresi 9 aya çıkarılıyor\" iddiaları, silahaltına alınmayı bekleyen milyonlarca genç ve ailesi arasında büyük merak uyandırdı. Milli Savunma Bakanlığı (MSB) ve TBMM kaynaklarına göre şu an için askerlik süresini uzatan herhangi bir yasa tasarısı bulunmazken, zorunlu hizmet süresi er ve erbaşlar için 6 ay olarak devam etmektedir.",
-      "link": "https://www.karar.com/guncel-haberler/askere-gidecekler-dikkat-askerlik-suresi-9-aya-mi-cikiyor-iste-meclis-2076918",
-      "published": "2026-10-07T14:54:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T14:55:34.300587+00:00"
-    },
-    {
-      "id": "5b24bdd5f2d5a37e",
-      "source": "CNBC-e",
-      "title": "İran'da enerji alarmı: Kullanılmayan binaların elektriği kesilecek",
-      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, üretim faaliyetlerinin aksamaması için gerekirse kullanılmayan binalar ile kültür ve spor komplekslerinin enerjisinin geçici olarak kesileceğini açıkladı. Pezeşkiyan, elektrik, doğalgaz, benzin ve su dahil tüm alanlarda tüketimin azaltılması gerektiğini söyledi.",
-      "link": "https://www.cnbce.com/enerji/iranda-enerji-alarmi-kullanilmayan-binalarin-elektrigi-kesilecek-h38941",
-      "published": "2026-10-07T14:54:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T14:55:41.715797+00:00"
-    },
-    {
-      "id": "c9923980a2998ed1",
-      "source": "Star",
-      "title": "İstikrarın adı Semedo! Teknik heyetin vazgeçilmezi oldu",
-      "summary": "Fenerbahçe'de Nelson Semedo, istikrarlı performansıyla öne çıkıyor. Portekizli sağ bek, bu sezon forma giydiği 12 maçın 10'unda ilk 11'de yer alarak teknik heyetin değişmez isimlerinden biri oldu.",
-      "link": "https://www.star.com.tr/spor/istikrarin-adi-semedo-teknik-heyetin-vazgecilmezi-oldu-haber-2045118/",
-      "published": "2026-10-07T14:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T14:55:33.254957+00:00"
-    },
-    {
-      "id": "9deb49dd7a6c1cef",
-      "source": "Milliyet",
-      "title": "Ülkedeki salgında bilanço ağırlaşıyor! Can kaybı 4 bini aştı",
-      "summary": "Kongo Demokratik Cumhuriyeti (KDC) Sağlık Bakanlığı, ülkede 15 Mayıs'ta ilan edilen Ebola salgınında doğrulanmış vaka sayısının 8 bin 665’e, hayatını kaybedenlerin sayısının ise 4 bin 178’e yükseldiğini açıkladı. Ülkenin 7 eyaletini etkileyen salgında, 2 bin 259 kişinin iyileştiği, ölüm oranının yüzde 48,2 olarak güncellendiği belirtildi. 10 BİNDEN FAZLA KİŞİ ÖLMÜŞTÜ Bir tür kanamalı ateşe yol aça",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-ulkedeki-salginda-bilanco-agirlasiyor-can-kaybi-4-bini-asti-7675146",
-      "published": "2026-10-07T14:53:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T15:01:02.935611+00:00"
-    },
-    {
-      "id": "20a07deb08d28635",
-      "source": "Ekonomim",
-      "title": "Tim Cook’tan Apple’da dev hisse satışı: 63,8 milyon dolarlık işlem",
-      "summary": "Apple’ın Yönetim Kurulu Başkanı Tim Cook, şirketteki 191 bin 753 hissesini yaklaşık 63,8 milyon dolar karşılığında sattı. SEC kayıtlarına yansıyan işlem, Cook’un Apple’daki doğrudan payında da düşüşe neden oldu.",
-      "link": "https://www.ekonomim.com/dunya/tim-cooktan-appleda-dev-hisse-satisi-638-milyon-dolarlik-islem-haberi-923217",
-      "published": "2026-10-07T14:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T14:55:41.129772+00:00"
     }
   ]
 }

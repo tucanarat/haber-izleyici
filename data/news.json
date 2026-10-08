@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-08T02:15:57.030518+00:00",
+  "last_updated": "2026-10-08T02:21:09.025519+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 501,
+  "new_items_this_run": 531,
   "items": [
+    {
+      "id": "37fefd18ed7daeaa",
+      "source": "Habertürk",
+      "title": "Yemen'de Husilere ait 82 askeri hedef vuruldu",
+      "summary": "Suudi Arabistan liderliğindeki Arap Koalisyonu, Husilerin Suudi Arabistan'daki sivil yerleşim ve tesislere yönelik saldırılarının ardından Yemen'in 4 vilayetinde Husilere ait 82 askeri hedefi imha ettiğini açıkladı",
+      "link": "https://www.haberturk.com/dunya/arap-koalisyonu-husilerin-82-askeri-hedefini-imha-etti-3918034",
+      "published": "2026-10-08T02:06:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T02:20:35.246699+00:00"
+    },
     {
       "id": "798c6edd5db4ac52",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T20:25:38.821458+00:00"
-    },
-    {
-      "id": "a00be5a97df3d686",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Fed tutanakları, bu yıl bir faiz artışı daha yapılabileceğine işaret etti",
-      "summary": "ABD Merkez Bankasının (Fed) son toplantısına ilişkin tutanakları, yıl sonuna kadar politika faizinde bir artışa daha gidilmesinin muhtemel olduğunu ortaya koydu.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-bu-yil-bir-faiz-artisi-daha-yapilabilecegine-isaret-etti/4081509",
-      "published": "2026-10-07T20:21:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T20:25:31.086036+00:00"
     }
   ]
 }

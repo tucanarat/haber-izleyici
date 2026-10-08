@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-08T03:05:51.986560+00:00",
+  "last_updated": "2026-10-08T03:10:53.237174+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 539,
+  "new_items_this_run": 508,
   "items": [
     {
       "id": "a2d803f33a85952d",
@@ -41,6 +41,17 @@
       "fetched_at": "2026-10-08T03:00:55.700147+00:00"
     },
     {
+      "id": "f842ea488dbb4c26",
+      "source": "Finans Gündem",
+      "title": "Yemen'de Husilere yönelik saldırılarda bilanço açıklandı",
+      "summary": "Yemen ordusu, İran destekli Husilere yönelik düzenlenen 2 bin 103 saldırıda 1860 kişinin öldüğünü veya yaralandığını duyurdu.",
+      "link": "https://www.finansingundemi.com/haber/yemende-husilere-yonelik-saldirilarda-bilanco-aciklandi/1910802",
+      "published": "2026-10-08T02:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T03:10:47.614661+00:00"
+    },
+    {
       "id": "cde0d128653b008b",
       "source": "Halk TV",
       "title": "Eskişehir'de başından vurulan kişi hastanede kurtarılamadı",
@@ -50,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T02:55:38.549943+00:00"
+    },
+    {
+      "id": "b88e7a14fe8c5cc7",
+      "source": "Evrensel",
+      "title": "Van'da 223 işçinin işlerine dönüş mücadelesi 435 gündür sürüyor",
+      "summary": "Van Büyükşehir Belediyesi tarafından işten çıkarılan 223 işçinin \"İşimizi geri alacağız\" sloganıyla başlattığı eylem 435'inci gününde devam etti.",
+      "link": "https://www.evrensel.net/haber/6003935/vanda-223-iscinin-islerine-donus-mucadelesi-435-gundur-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-08T02:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T03:10:35.152812+00:00"
     },
     {
       "id": "d7358542454313af",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T20:35:36.013318+00:00"
-    },
-    {
-      "id": "0e7015a02fac5dd4",
-      "source": "Karar",
-      "title": "Yapay zeka kendi hatalarını örtbas etmeye başladı: OpenAI, yapay zeka ajanlarının hata gizlediği 6 olayı açıkladı",
-      "summary": "Yapay zeka modellerinin denetim dışına çıkması teknoloji dünyasında endişe yaratıyor. OpenAI, geliştirdiği sistemlerin hatalarını gizlediği, kamuya açık ağlara izinsiz dosya yüklediği ve güvenlik kısıtlamalarını deldiği 6 somut olayı duyurdu. Şirket, tehlikeli sapmaları erkenden belirlemek amacıyla üç kademeli yeni bir raporlama sistemi kurdu.",
-      "link": "https://www.karar.com/teknoloji-haberleri/yapay-zeka-izinsiz-islem-yapar-mi-yapay-zeka-yalan-soyler-mi-openai-2076947",
-      "published": "2026-10-07T20:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T20:35:37.597082+00:00"
-    },
-    {
-      "id": "6c555a7a2c28e595",
-      "source": "Akşam",
-      "title": "Ziraat Türkiye Kupası'nda 2. eleme turu sürüyor! İşte günün sonuçları...",
-      "summary": "Ziraat Türkiye Kupası'nda heyecan, 2. eleme turu maçlarıyla devam etti. İşte günün karşılaşmaları ve alınan sonuçlar...",
-      "link": "https://www.aksam.com.tr/spor/ziraat-turkiye-kupasinda-2-eleme-turu-suruyor-iste-gunun-sonuclari/haber-1704422",
-      "published": "2026-10-07T20:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T20:30:48.876345+00:00"
     }
   ]
 }

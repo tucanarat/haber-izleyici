@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-08T21:35:59.516013+00:00",
+  "last_updated": "2026-10-08T21:40:53.555769+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 533,
+  "new_items_this_run": 555,
   "items": [
+    {
+      "id": "8f95c74790a65baf",
+      "source": "Akşam",
+      "title": "Aksaray'da yol ortasında dehşet: Omuz atma bahanesiyle kadını yere yatırıp darbettiler",
+      "summary": "Aksaray'da işinden çıkıp evine dönen kadın, tanımadığı 2 kadın tarafından yol ortasında yeri yatırılıp darp edildi. O anlar güvenlik kamerasına böyle yansıdı.",
+      "link": "https://www.aksam.com.tr/yasam/aksarayda-yol-ortasinda-dehset-omuz-atma-bahanesiyle-kadini-yere-yatirip-darbettiler/haber-1704743",
+      "published": "2026-10-08T21:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T21:40:36.950325+00:00"
+    },
+    {
+      "id": "c5a2c1aaca79bd65",
+      "source": "OdaTV",
+      "title": "Burdur'da 52 üniversite öğrencisi zehirlenme şüphesiyle hastaneye başvurdu",
+      "summary": "Burdur&#039;da Mehmet Akif Ersoy Üniversitesi&#039;nde (MAKÜ) eğitim gören 52 öğrenci, zehirlenme şüphesiyle hastaneye başvurdu.",
+      "link": "https://www.odatv.com/guncel/burdurda-52-universite-ogrencisi-zehirlenme-suphesiyle-hastaneye-basvurdu-120165838",
+      "published": "2026-10-08T21:36:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T21:40:39.743969+00:00"
+    },
     {
       "id": "d33eb51ffede972b",
       "source": "Akşam",
@@ -28,6 +50,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T21:35:42.387530+00:00"
+    },
+    {
+      "id": "b2c2edbae3cb7847",
+      "source": "Cumhuriyet",
+      "title": "Aydın merkezli uyuşturucu operasyonu: 111 şüpheliden 11'i tutuklandı",
+      "summary": "Aydın merkezli 3 ilde düzenlenen uyuşturucu operasyonunda gözaltına alınan 111 şüpheliden 11’i tutuklandı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/aydin-merkezli-uyusturucu-operasyonu-111-supheliden-11-i-tutuklandi-2545020",
+      "published": "2026-10-08T21:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T21:40:33.209474+00:00"
+    },
+    {
+      "id": "b2448b033f341710",
+      "source": "OdaTV",
+      "title": "Harvard’da dekanlık görevine gelen ilk Türk",
+      "summary": "Prof. Dr. Rıfat Atun, Harvard Üniversitesi T.H. Chan Halk Sağlığı Okulu’nun Eğitim ve İnovasyon Dekanı oldu. 1 Ağustos 2026’da göreve başlayan Atun, Harvard’ın eğitim programları ve yapay zekâ odaklı çalışmalarına yön verecek.",
+      "link": "https://www.odatv.com/guncel/harvardda-dekanlik-gorevine-gelen-ilk-turk-120165837",
+      "published": "2026-10-08T21:32:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T21:40:39.744009+00:00"
     },
     {
       "id": "9546c0d4ee5992b3",
@@ -127,6 +171,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T21:30:52.313407+00:00"
+    },
+    {
+      "id": "e305a1c6c4cdf0e5",
+      "source": "Türkiye Gazetesi",
+      "title": "CAN KAYBI 3'E YÜKSELDİ",
+      "summary": "Maltepe'de çöken binadaki arama çalışmalarında bir kişinin daha cansız bedeni çıkarıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/maltepedeki-enkazdan-1-kisinin-daha-cansiz-bedeni-cikarildi-1821511",
+      "published": "2026-10-08T21:27:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T21:40:35.145668+00:00"
     },
     {
       "id": "cc33e5393e827b87",
@@ -369,6 +424,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T21:15:43.843419+00:00"
+    },
+    {
+      "id": "09dac4b093674836",
+      "source": "Bianet",
+      "title": "Muhalefet sordu: Fondan kim kazandı, para nereye gitti, kim göz yumdu? AKP ve MHP TBMM araştırmasını reddetti",
+      "summary": "5 muhalefet partisinin fon krizinin araştırılmasına ilişkin grup önerileri TBMM Genel Kurulunda AKP ve MHP oylarıyla reddedildi. CHP milyarlarca dolarlık dijital varlık transferi iddialarını gündeme getirdi, DEM Parti haksız kazançların iadesini istedi; AKP \"iftira etmeyin\" dedi.",
+      "link": "https://bianet.org/haber/muhalefet-sordu-fondan-kim-kazandi-para-nereye-gitti-kim-goz-yumdu-akp-ve-mhp-tbmm-arastirmasini-reddetti-324241",
+      "published": "2026-10-08T21:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T21:40:40.663461+00:00"
     },
     {
       "id": "b3cf6eb91db3e087",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T18:55:46.273280+00:00"
-    },
-    {
-      "id": "046ac87a144456b9",
-      "source": "Star",
-      "title": "Süheyl ve Behzat Uygur'un annesi Necla Uygur 89 yaşında vefat etti",
-      "summary": "Türk tiyatrosunun usta isimlerinden merhum Nejat Uygur'un eşi, Süheyl ve Behzat Uygur'un annesi Necla Uygur, 89 yaşında hayatını kaybetti.",
-      "link": "https://www.star.com.tr/guncel/suheyl-ve-behzat-uygurun-annesi-necla-uygur-89-yasinda-vefat-etti-haber-2045373/",
-      "published": "2026-10-08T18:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T18:40:44.693909+00:00"
-    },
-    {
-      "id": "8ad61f875b0836f3",
-      "source": "Halk TV",
-      "title": "Ömer Bolat'tan \"170 milyon liralık para transferi\" iddiasına yanıt! 50’den fazla bankaya sorabilirsiniz",
-      "summary": "Ticaret Bakanı Ömer Bolat, fon soruşturması kapsamında gündeme getirilen “170 milyon liralık para transferi” iddiasını reddetti.",
-      "link": "https://halktv.com.tr/turkiye/omer-bolattan-170-milyon-liralik-para-transferi-iddiasina-yanit-50den-fazla-bankaya-sorabilirsiniz-1060392h",
-      "published": "2026-10-08T18:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T18:40:49.627630+00:00"
-    },
-    {
-      "id": "2570e6dac5bf44a5",
-      "source": "Independent Türkçe",
-      "title": "AK Parti'nin Meclis'in çalışma takvimine ilişkin grup önerisi kabul edildi",
-      "summary": "TBMM Genel Kurulu'nda AK Parti'nin Meclis'in çalışma takvimi ve çalışma saatlerinin yeniden düzenlenmesine ilişkin grup önerisi kabul edildi. TBMM Genel Kurulu, Başkanvekili Celal Adan başkanlığında toplandı. Genel Kurulda siyasi partilerin grup önerileri görüşüldü. AK Parti'nin Meclis gündemi ile çalışma saatlerinin yeniden düzenlenmesine ilişkin grup önerisi görüşülerek kabul edildi. Buna göre, ",
-      "link": "https://www.indyturk.com/node/783569/haber/ak-partinin-meclisin-%C3%A7al%C4%B1%C5%9Fma-takvimine-ili%C5%9Fkin-grup-%C3%B6nerisi-kabul-edildi",
-      "published": "2026-10-08T18:36:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T18:40:53.745357+00:00"
-    },
-    {
-      "id": "a5ef472e778d3c05",
-      "source": "Akşam",
-      "title": "Nejat Uygur'un eşi Necla Uygur hayatını kaybetti",
-      "summary": "Türk tiyatrosunun usta isimlerinden merhum Nejat Uygur'un eşi, Süheyl ve Behzat Uygur'un annesi Necla Uygur, 89 yaşında hayatını kaybetti. Uygur ailesi acı haberi sosyal medya hesabından duyurdu.",
-      "link": "https://www.aksam.com.tr/venus/nejat-uygurun-esi-necla-uygur-vefat-etti-iste-cenaze-programi/haber-1704717",
-      "published": "2026-10-08T18:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T18:50:47.676054+00:00"
-    },
-    {
-      "id": "6d0b525e78f57c74",
-      "source": "Akşam",
-      "title": "Nejat Uygur'un eşi Necla Uygur vefat etti! İşte cenaze programı",
-      "summary": "Tiyatro oyuncusu Necla Uygur, tedavi gördüğü hastanede vefat etti. Haberi, oğlu Behzat Uygur duyurdu.",
-      "link": "https://www.aksam.com.tr/venus/nejat-uygurun-esi-necla-uygur-vefat-etti-iste-cenaze-programi/haber-1704717",
-      "published": "2026-10-08T18:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T18:46:17.095720+00:00"
-    },
-    {
-      "id": "b8334c4e06f6f34e",
-      "source": "Karar",
-      "title": "Bakan Göktaş’tan fon iddialarına yanıt: Baştan sona yalan ve iftiradır",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, CNN Türk’te fon iddialarına yanıt verdi. Kendisini ve ailesini hedef alan iddiaların gerçeği yansıtmadığını söyleyen Göktaş, “Fon meselesinde şahsımı ve ailemi hedef alan iddialar baştan sona yalandır ve iftiradır” dedi. Göktaş, suç duyurusunda bulunduğunu ve tazminat davası açtığını da açıkladı.",
-      "link": "https://www.karar.com/guncel-haberler/bakan-goktastan-fon-iddialarina-yanit-bastan-sona-yalan-ve-iftiradir-2077159",
-      "published": "2026-10-08T18:35:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T18:35:41.322450+00:00"
     }
   ]
 }

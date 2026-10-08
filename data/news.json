@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-08T22:40:59.937726+00:00",
+  "last_updated": "2026-10-08T22:46:02.455812+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 551,
+  "new_items_this_run": 528,
   "items": [
+    {
+      "id": "e1aeda037ba4e262",
+      "source": "Star",
+      "title": "SpaceX'ten ABD devlerine dev hamle: Starlink kendi mobil operatörünü kuruyor",
+      "summary": "SpaceX, ABD genelinde kullanılabilecek düşük bant spektrumu lisansı portföyünü satın almak üzere anlaşmaya vardığını duyurdu. Elon Musk, anlaşmanın kesintisiz telefon kapsaması için gereken son kritik parça olduğunu belirtirken, haberin ardından AT&amp;T, T-Mobile ve Verizon hisseleri düşüş yaşadı.",
+      "link": "https://www.star.com.tr/dunya/spacexten-abd-devlerine-dev-hamle-starlink-kendi-mobil-operatorunu-kuruyor-haber-2045400/",
+      "published": "2026-10-08T22:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T22:45:41.941404+00:00"
+    },
     {
       "id": "d05b9b800287c897",
       "source": "Star",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T22:40:39.308260+00:00"
+    },
+    {
+      "id": "c87a5d51087c07ea",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "NYT: ABD ordusu, Trump'ın seçimlere kadar saldırıları \"durdurduğu\" İran'a karşı seçenekleri değerlendiriyor",
+      "summary": "ABD Başkanı Donald Trump'ın 3 Kasım'daki ara seçimlere kadar İran'a karşı herhangi bir saldırı düzenlenmeyeceğini açıklamasının ardından ABD ordusunun, İran'a saldırı seçeneklerini değerlendirdiği öne sürüldü.",
+      "link": "https://www.aa.com.tr/tr/dunya/nyt-abd-ordusu-trumpin-secimlere-kadar-saldirilari-durdurdugu-irana-karsi-secenekleri-degerlendiriyor/4082840",
+      "published": "2026-10-08T22:39:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T22:45:34.325243+00:00"
     },
     {
       "id": "ce33c364fcf3126f",
@@ -39,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T22:35:37.589699+00:00"
+    },
+    {
+      "id": "e83e8de61c8082f4",
+      "source": "Habertürk",
+      "title": "ABD'de \"halka açık\" infaz kararı",
+      "summary": "ABD Savunma Bakanı Pete Hegseth, halkın Fort Hood Üssü'nde saldırı gerçekleştiren Nidal Hasan adlı Amerikan askerinin kurşuna dizilerek idam edilmesini izleyebileceğini bildirdi.",
+      "link": "https://www.haberturk.com/dunya/abd-de-halka-acik-infaz-karari-3918316",
+      "published": "2026-10-08T22:34:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T22:45:31.434641+00:00"
     },
     {
       "id": "862c046129943a6c",
@@ -479,6 +512,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T22:01:03.958521+00:00"
+    },
+    {
+      "id": "a2eeed8b5cf7fcb7",
+      "source": "Bianet",
+      "title": "Fransa: Öğrenciler alanlara egemen oluyor; sokaklar 13 Ekim'de yeni dalgaya hazırlanıyor",
+      "summary": "Fransa'da liselilerin eğitim hakkı mücadelesi 3. haftada Paris'in Bastille Meydanı'na aktı. Dün ülke genelinde 71 bin 500 kişi gösterilere katıldı, 504 kişi gözaltına alındı. Öğrenciler hükümetin 3 bin öğretmen vaadini yetersiz buldu. 13 Ekim yeni ulusal eylem ve grev günü ilan etti.",
+      "link": "https://bianet.org/haber/fransa-ogrenciler-alanlara-egemen-oluyor-sokaklar-13-ekim-de-yeni-dalgaya-hazirlaniyor-324242",
+      "published": "2026-10-08T21:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T22:45:46.413152+00:00"
     },
     {
       "id": "a669e5c884d566e5",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T19:05:34.004295+00:00"
-    },
-    {
-      "id": "21c83d52f26c5c6e",
-      "source": "Aydınlık",
-      "title": "Konya Şeker üretici ortaklarına 890 milyon TL avans verecek",
-      "summary": "Konya Şeker, 2026-2027 kampanya döneminde üretici ortaklarına motorin ve söküm avansı olarak toplam 890 milyon 478 bin TL ödeyecek. Ödemeler 9 Ekim 2026 saat 17.00 itibarıyla hesaplara yatırılmaya başlanacak.",
-      "link": "https://www.aydinlik.com.tr/haber/konya-sekerden-uretici-ortaklarina-890-milyon-tl-avans-593612",
-      "published": "2026-10-08T19:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T19:10:47.944135+00:00"
-    },
-    {
-      "id": "60ce0901856365cf",
-      "source": "Akşam",
-      "title": "Aleksander Ceferin UEFA başkanlığına yeniden aday",
-      "summary": "UEFA Başkanı Aleksander Ceferin, yeniden aday olacağını duyurdu. Ceferin, 4. dönem için aday olma kararını açıkladı.",
-      "link": "https://www.aksam.com.tr/spor/aleksander-ceferin-uefa-baskanligina-yeniden-aday/haber-1704724",
-      "published": "2026-10-08T19:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T19:05:32.141833+00:00"
-    },
-    {
-      "id": "7ba35d1aea496524",
-      "source": "Yeniçağ",
-      "title": "Kayıp öğrenci için seferberlik",
-      "summary": "Karabük’ün Yenice ilçesinde okuldan çıktıktan sonra ormanlık alana giden ve kendisinden haber alınamayan Rıdvan Dereli isimli lise öğrencisi için arama çalışması başlatıldı.",
-      "link": "https://www.yenicaggazetesi.com/kayip-ogrenci-icin-seferberlik-1080007h.htm",
-      "published": "2026-10-08T19:00:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T19:00:57.162168+00:00"
-    },
-    {
-      "id": "4a8beda921d5547a",
-      "source": "Halk TV",
-      "title": "Takım halinde yapanlar yatakta coşuyor: Uygulayıp kanıtladılar!",
-      "summary": "Testosteron için spor yapıyorsanız dikkat! Bazı antrenmanların seviyeyi yükselttiği, bazılarının ise tam tersine düşürdüğü ortaya çıktı.",
-      "link": "https://halktv.com.tr/yasam/takim-halinde-yapanlar-yatakta-cosuyor-uygulayip-kanitladilar-1060337h",
-      "published": "2026-10-08T19:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T19:00:58.888970+00:00"
     }
   ]
 }

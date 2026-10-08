@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-08T03:31:03.948539+00:00",
+  "last_updated": "2026-10-08T03:35:48.380838+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 537,
+  "new_items_this_run": 536,
   "items": [
+    {
+      "id": "3a2c427b9a937e6c",
+      "source": "Milliyet",
+      "title": "SON DAKİKA | Maltepe'de 6 katlı bina çöktü",
+      "summary": "Maltepe'de 6 katlı bina çöktü. Olay yerine çok sayıda arama kurtarma ekibi sevk edildi. Maltepe Cevizli Mahallesi'nde 6 katlı bina çöktü. Binada kalanların olduğu belirtilirken, olay yerine çok sayıda ekip sevk edildi.",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-maltepede-6-katli-bina-coktu-7675398",
+      "published": "2026-10-08T03:32:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T03:35:34.027947+00:00"
+    },
     {
       "id": "8a3261c709dd9f25",
       "source": "Yeni Akit",
@@ -72,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T03:20:53.536288+00:00"
+    },
+    {
+      "id": "f60a8d8b6422dc64",
+      "source": "Bloomberg HT",
+      "title": "İran, ABD'nin müzakerelerde sunduğu önerilere yanıtını arabulucular üzerinden iletecek",
+      "summary": "İran, ABD'nin müzakerelerde sunduğu önerilere ilişkin yanıtını arabulucular aracılığıyla ileteceğini açıkladı.",
+      "link": "https://www.bloomberght.com/iran-abd-nin-muzakerelerde-sundugu-onerilere-yanitini-arabulucular-uzerinden-iletecek-3790716",
+      "published": "2026-10-08T03:14:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T03:35:41.719481+00:00"
     },
     {
       "id": "47d2d398b6fbb019",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-07T21:35:26.380112+00:00"
-    },
-    {
-      "id": "ab41eb787255291b",
-      "source": "Evrensel",
-      "title": "SPK Odine hisselerine yönelik incelemeyi tamamladı: 21 kişi hakkında suç duyurusunda bulundu",
-      "summary": "Odine hisselerine yönelik inceleme ve denetim faaliyetlerini tamamlayan SPK 21 kişi hakkında suç duyurusunda bulundu.",
-      "link": "https://www.evrensel.net/haber/6003924/spk-odine-hisselerine-yonelik-incelemeyi-tamamladi-21-kisi-hakkinda-suc-duyurusunda-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-07T20:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T20:50:34.787993+00:00"
-    },
-    {
-      "id": "373890c67c86159a",
-      "source": "Karar",
-      "title": "Trabzonspor, Nanterre 92'yi 93-83 mağlup etti",
-      "summary": "Basketbol Şampiyonlar Ligi'nde mücadele eden Trabzonspor, Fransız ekibi Nanterre 92'yi 93-83 mağlup etti.",
-      "link": "https://www.karar.com/spor-haberleri/trabzonspor-nanterre-92yi-93-83-maglup-etti-2076949",
-      "published": "2026-10-07T20:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-07T20:40:42.026941+00:00"
     }
   ]
 }

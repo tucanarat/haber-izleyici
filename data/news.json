@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-08T22:35:56.429895+00:00",
+  "last_updated": "2026-10-08T22:40:59.937726+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 550,
+  "new_items_this_run": 551,
   "items": [
+    {
+      "id": "d05b9b800287c897",
+      "source": "Star",
+      "title": "NBA yıldızı, Atletico Madrid'e ortak oldu",
+      "summary": "Oklahoma City Thunder'ın yıldızı Shai Gilgeous-Alexander, İspanya La Liga ekiplerinden Atletico Madrid'in hissedarı oldu.",
+      "link": "https://www.star.com.tr/spor/nba-yildizi-atletico-madride-ortak-oldu-haber-2045399/",
+      "published": "2026-10-08T22:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T22:40:39.308260+00:00"
+    },
+    {
+      "id": "ce33c364fcf3126f",
+      "source": "Yeniçağ",
+      "title": "Destek Finans Faktoring’e TMSF kayyımı: Şirket yönetiminde yeni dönem",
+      "summary": "Destek Finans Faktoring A.Ş., Tasarruf Mevduatı Sigorta Fonu&#039;nun (TMSF) şirkete kayyum olarak görevlendirildiğini duyurdu. Şirketin açıklamasıyla birlikte yönetimine ilişkin yeni süreç resmen gündeme gelirken, kararın gerekçesi ve faaliyetlere etkisine ilişkin ayrıntılar henüz netleşmedi.",
+      "link": "https://www.yenicaggazetesi.com/destek-finans-faktoringe-tmsf-kayyimi-sirket-yonetiminde-yeni-donem-1080043h.htm",
+      "published": "2026-10-08T22:35:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T22:40:40.734809+00:00"
+    },
     {
       "id": "80ae6a0452acb95f",
       "source": "Halk TV",
@@ -28,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T22:35:34.999741+00:00"
+    },
+    {
+      "id": "11fe07063fe18876",
+      "source": "Habertürk",
+      "title": "Aydın merkezli uyuşturucu operasyonunda 11 tutuklama",
+      "summary": "Aydın merkezli 3 ilde uyuşturucu ticareti yapanlara ve kullananlara yönelik operasyonda gözaltına alınan 111 şüpheliden 11'i tutuklandı",
+      "link": "https://www.haberturk.com/gundem/aydin-merkezli-uyusturucu-operasyonunda-11-tutuklama-3918315",
+      "published": "2026-10-08T22:31:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T22:40:30.250334+00:00"
     },
     {
       "id": "9dbd7b2156ee830c",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T19:00:58.888970+00:00"
-    },
-    {
-      "id": "ec0bfd745239b068",
-      "source": "Yeniçağ",
-      "title": "Milli sporculardan Paris'te madalya yağmuru: 6 kez kürsüye çıktılar",
-      "summary": "Milli sporcular, Fransa&#039;nın başkenti Paris&#039;te düzenlenen Para Tekvando Grand Prix&#039;sini 1 altın, 1 gümüş ve 4 bronz olmak üzere toplam 6 madalyayla tamamladı.",
-      "link": "https://www.yenicaggazetesi.com/milli-sporculardan-pariste-madalya-yagmuru-6-kez-kursuye-ciktilar-1080006h.htm",
-      "published": "2026-10-08T18:59:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T19:00:57.162208+00:00"
-    },
-    {
-      "id": "74a22169e81f6129",
-      "source": "Cumhuriyet",
-      "title": "Galatasaray sözleri gündem olmuştu: Kerem Demirbay'dan açıklama geldi!",
-      "summary": "Süper Lig ekibi Kasımpaşa'nın 33 yaşındaki orta saha oyuncusu Kerem Demirbay, Galatasaray'daki dönemine dair açıklamalarda bulunmuştu. Kerem Demirbay, sarı-kırmızılı taraftarların tepkisini çeken sözleri üzerine bir açıklama yayımladı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/galatasaray-sozleri-gundem-olmustu-kerem-demirbay-dan-aciklama-geldi-2544970",
-      "published": "2026-10-08T18:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T19:10:38.440609+00:00"
-    },
-    {
-      "id": "096c481536a65f1c",
-      "source": "Akşam",
-      "title": "İsrail'de kriz tırmanıyor: Yargı kararı sonrası sokaklar alev aldı",
-      "summary": "Batı Kudüs ve Bnei Brak'ta zorunlu askerliğe karşı çıkan Ultra-Ortodoks Yahudilerin düzenlediği protestolara İsrail polisi sert müdahalede bulundu. Göstericiler polise Naziler diye seslendi, iki kişi gözaltına alındı.",
-      "link": "https://www.aksam.com.tr/dunya/israilde-kriz-tirmaniyor-yargi-karari-sonrasi-sokaklar-alev-aldi/haber-1704723",
-      "published": "2026-10-08T18:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T19:00:55.233441+00:00"
     }
   ]
 }

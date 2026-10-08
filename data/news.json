@@ -1,12 +1,232 @@
 {
-  "last_updated": "2026-10-08T14:21:03.016642+00:00",
+  "last_updated": "2026-10-08T14:25:48.789282+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 545,
+  "new_items_this_run": 551,
   "items": [
+    {
+      "id": "5bf3633d51a9c5ba",
+      "source": "Akşam",
+      "title": "Aşk-ı Memnu'nun Nesrin'iydi… Evren Duyal son haliyle şoke etti!",
+      "summary": "Aşk-ı Memnu dizisinin Nesrin'i olarak hafızalara kazınan Evren Duyal, Sevdan Bir Ateş dizisiyle geri döndü. Mukaddes rolünü oynayan Duyal, değişimiyle şoke etti.",
+      "link": "https://www.aksam.com.tr/venus/ask-i-memnunun-nesriniydi-evren-duyal-son-haliyle-soke-etti/haber-1704677",
+      "published": "2026-10-08T14:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.227821+00:00"
+    },
+    {
+      "id": "6c2b961e57f0b6ae",
+      "source": "Akşam",
+      "title": "Optik illüzyon: Resimde ilk ne gördün? Sayısal zekân mı, sözel zekân mı önde?",
+      "summary": "Zekâ ve görsel algı arasındaki ilişki, optik illüzyon testlerine olan ilgiyi artırıyor. Aynı resimde farklı şekillerin görülebildiği bu görsel, ilk bakışta dikkat çeken detayları sorgulatıyor. Peki, resimde ne gördün? İki genç kadın mı, yoksa satranç kraliçesi silueti mi? Sayısal zekâ ve sözel zekâ arasındaki farkları keşfetmek için görsele dikkatlice bakın.",
+      "link": "https://www.aksam.com.tr/mor-papatya/optik-illuzyon-resimde-ilk-ne-gordun-sayisal-zekan-mi-sozel-zekan-mi-onde/haber-1704676",
+      "published": "2026-10-08T14:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.227870+00:00"
+    },
+    {
+      "id": "e5271a2549414f26",
+      "source": "Karar",
+      "title": "İstanbul-Kapıkule arası 1,5 saate düşüyor! Trakya'da hızlı tren dönemi başladı",
+      "summary": "Halkalı-Kapıkule Hızlı Tren Hattı'nın 153 kilometrelik Çerkezköy-Kapıkule kesimi hizmete açılıyor. Trakya'yı yüksek standartlı demir yolu ağıyla Avrupa'ya bağlayan projeyle birlikte Tekirdağ, Kırklareli ve Edirne hızlı tren konforuna kavuşurken, seyahat süresi 4 saatten 1,5 saate düşecek.",
+      "link": "https://www.karar.com/guncel-haberler/istanbul-kapikule-arasi-15-saate-dusuyor-trakyada-hizli-tren-donemi-2077130",
+      "published": "2026-10-08T14:24:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:33.630863+00:00"
+    },
+    {
+      "id": "f23398a06a21df70",
+      "source": "Star",
+      "title": "Nijerya'da terör saldırısı: 8 asker öldü",
+      "summary": "Nijerya'nın Borno eyaletinde terör örgütü DEAŞ'ın Batı Afrika kolu ISWAP'ın düzenlediği saldırıda 8 asker yaşamını yitirdi.",
+      "link": "https://www.star.com.tr/dunya/nijeryada-teror-saldirisi-8-asker-oldu-haber-2045341/",
+      "published": "2026-10-08T14:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.949826+00:00"
+    },
+    {
+      "id": "f144897024e8671d",
+      "source": "Star",
+      "title": "İngiltere Merkez Bankası Başkanı Bailey: Daha büyük şokların istisna olmadığı bir dünyaya hazırlıklı olmalıyız",
+      "summary": "İngiltere Merkez Bankası (BoE) Başkanı Andrew Bailey, artan belirsizliklere rağmen küresel finansal sistemin direncini koruduğunu ancak rehavete kapılmamak gerektiğini belirterek, \"Bu nedenle, daha büyük şokların istisna olmadığı bir dünyaya hazırlıklı olmalıyız.\" dedi.",
+      "link": "https://www.star.com.tr/ekonomi/ingiltere-merkez-bankasi-baskani-bailey-daha-buyuk-soklarin-istisna-olmadigi-bir-dunyaya-h-haber-2045340/",
+      "published": "2026-10-08T14:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.949868+00:00"
+    },
+    {
+      "id": "ec8e9f915a3b6878",
+      "source": "Yeni Şafak",
+      "title": "Denizli'de uyuşturucu operasyonunda 10 şahıs tutuklandı",
+      "summary": "Denizli'de, İl Emniyet Müdürlüğü Narkotik Suçlarla Mücadele Şubesi ekipleri, uyuşturucu ticareti yapan 'torbacı' olarak tabir edilen sokak satıcılarına yönelik önceki gün, sabah erken saatlerde operasyon düzenledi. 12 şüpheli evlerinde gözaltına alındı. Ev ve iş yerlerindeki aramalarda 14 parça halinde 525 gram metamfetamin, 15 parça halinde 3 bin 538 kullanımlık kağıda emdirilmiş sentetik kannabi",
+      "link": "https://www.yenisafak.com/video/gundem/denizlide-uyusturucu-operasyonunda-10-sahis-tutuklandi-4862625",
+      "published": "2026-10-08T14:23:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.657719+00:00"
+    },
+    {
+      "id": "b42a9d3cba65f494",
+      "source": "Euronews Türkçe",
+      "title": "Fransa'da lise öğrencileri, süren okul protestolarında polisle karşı karşıya",
+      "summary": "Fransa’daki okulların önünde öğrenciler polisle çatıştı; barikatlar, gaz ve yangınlar 2027 seçimi öncesi yeni bir ülke çapı seferberliği simgeledi.",
+      "link": "https://tr.euronews.com/video/2026/10/08/fransada-lise-ogrencileri-suren-okul-protestolarinda-polisle-karsi-karsiya",
+      "published": "2026-10-08T14:23:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:48.788098+00:00"
+    },
+    {
+      "id": "d02ff3100a8571ce",
+      "source": "Gazete Pencere",
+      "title": "4 partiden tutuklu gazeteci Derya Okatan için ortak soru önergesi",
+      "summary": "YENİ Parti, DEM Parti, Türkiye İşçi Partisi ve Emek Partisi milletvekilleri gazeteci ve Basın-İş Sendikası Disiplin Kurulu üyesi Derya Okatan Albayrak’ın tutuklanmasına ilişkin Adalet Bakanı Akın Gürlek'in yanıtlaması istemiyle soru önergesi verdi.",
+      "link": "https://www.gazetepencere.com/gundem/4-partiden-tutuklu-gazeteci-derya-okatan-icin-ortak-soru-onergesi-718450h",
+      "published": "2026-10-08T14:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:35.057387+00:00"
+    },
+    {
+      "id": "10ba1105a9057c29",
+      "source": "DonanımHaber",
+      "title": "Sony'nin yeni patenti oyun dünyasını değiştirebilir: Boss'lar artık öğrenecek",
+      "summary": "Sony'nin yeni patent başvurusu, oyunlardaki boss ve NPC'lerin oyuncunun tepki süresi, kaçınma oranı ve tekrar denemelerine göre davranışlarını değiştirebileceğini gösteriyor.",
+      "link": "https://www.donanimhaber.com/sony-nin-yeni-patenti-oyun-dunyasini-degistirebilir-iste-nedeni--211388",
+      "published": "2026-10-08T14:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:46.657198+00:00"
+    },
+    {
+      "id": "72daf5488fe1a54b",
+      "source": "Gazete Pencere",
+      "title": "'Biga Belediyesi fon vurgununda 100 milyon TL kazandı' iddiası: Belediye Başkanı'ndan açıklama",
+      "summary": "Türkiye'nin gündeminde yer alan fon vurgununda Biga Belediyesi'nin 100 milyon Türk Lirası kar elde ettiği iddiasının ardından Biga Belediye Başkanı Alper Şen açıklama yaparak Mali Hizmetler Müdürü, tedbiren görevden uzaklaştırıldığını duyurdu.",
+      "link": "https://www.gazetepencere.com/gundem/biga-belediyesi-fon-vurgununda-100-milyon-tl-kazandi-iddiasi-belediye-718449h",
+      "published": "2026-10-08T14:22:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:35.057432+00:00"
+    },
+    {
+      "id": "61ed56953b1b0857",
+      "source": "Akşam",
+      "title": "Kalyon PV, yeni fabrikasını ABD'de kuracak",
+      "summary": "Türkiye'nin güneş teknolojileri üretiminde öncü şirketlerinden Kalyon PV, global büyüme stratejisi doğrultusunda ABD pazarına yönelik önemli bir yatırım kararı aldı.",
+      "link": "https://www.aksam.com.tr/ekonomi/kalyon-pv-yeni-fabrikasini-abdde-kuracak/haber-1704675",
+      "published": "2026-10-08T14:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.227898+00:00"
+    },
+    {
+      "id": "d3d3f6acb25104dd",
+      "source": "Akşam",
+      "title": "Bakan Kacır: Salda Gölü doğal bir laboratuvar",
+      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Mars'taki Jezero Krateri ile benzerlik gösteren jeolojik oluşumlara sahip Burdur'daki Salda Gölü'nün doğal bir laboratuvar olduğunu belirterek, \"Bu yönüyle uzay araştırmacılarının ilgi odağı olan Salda'daki bilimsel faaliyetler, Mars'ta yürütülen çalışmaların yol haritasına çok özgün katkılar sunuyor.\" dedi.",
+      "link": "https://www.aksam.com.tr/siyaset/bakan-kacir-salda-golu-dogal-bir-laboratuvar/haber-1704674",
+      "published": "2026-10-08T14:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.227933+00:00"
+    },
+    {
+      "id": "79d7ff549b67a156",
+      "source": "Yeniçağ",
+      "title": "Tünelde feci kaza: 1 ölü, 1 yaralı var",
+      "summary": "Trafik kazaları engellenemiyor. Bursa’da tünelde otomobille motosiklet çarpıştı. Feci kazada 1 ölü, 1 yaralı var.",
+      "link": "https://www.yenicaggazetesi.com/tunelde-feci-kaza-1-olu-1-yarali-var-1079908h.htm",
+      "published": "2026-10-08T14:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:34.067303+00:00"
+    },
+    {
+      "id": "96d13a7c11dc763d",
+      "source": "Ekonomim",
+      "title": "Deniz Akkaya hakkında yakalama kararı çıkarıldı",
+      "summary": "Gazeteci İlknur Yılmaz’a yönelik hakaret suçlamasıyla hakkında soruşturma yürütülen Deniz Akkaya için yakalama kararı çıkarıldı. Akkaya’nın, yapılan arama ve çağrılara rağmen ifade vermeye gitmediği öne sürüldü.",
+      "link": "https://www.ekonomim.com/gundem/deniz-akkaya-hakkinda-yakalama-karari-cikarildi-haberi-923457",
+      "published": "2026-10-08T14:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:41.587028+00:00"
+    },
+    {
+      "id": "baa039adc5762c18",
+      "source": "Halk TV",
+      "title": "Montella alacaklarından vazgeçti: Adana Demirspor açıkladı",
+      "summary": "Teknik direktör Vincenzo Montella 330 bin euroluk alacağından vazgeçti. Kararı Adana Demirspor yönetimi duyurdu.",
+      "link": "https://halktv.com.tr/spor/montella-alacaklarindan-vazgecti-adana-demirspor-acikladi-1060357h",
+      "published": "2026-10-08T14:21:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:35.540389+00:00"
+    },
+    {
+      "id": "139dce0762f3a073",
+      "source": "Cumhuriyet",
+      "title": "Maltepe'deki facia geçmişi hatırlattı: İstanbul'da çöken binalar...",
+      "summary": "İstanbul'un Maltepe ilçesinde 7 katlı bir binanın çökmesi, kentte son yıllarda meydana gelen benzer olayları yeniden gündeme getirdi. Kimi binalar kentsel dönüşüm ve restorasyon çalışmaları sırasında, kimileri ise farklı nedenlerle çöktü.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/maltepe-deki-facia-gecmisi-hatirlatti-istanbul-da-coken-binalar-2544899",
+      "published": "2026-10-08T14:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:28.185069+00:00"
+    },
+    {
+      "id": "b063d221bd47a71d",
+      "source": "Cumhuriyet",
+      "title": "Rahmi Göktaş kimdir? Mahinur Özdemir Göktaş'ın eşi Rahmi Göktaş ne iş yapıyor?",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş'ın eşi Rahmi Göktaş'ın kim olduğu araştırılıyor. Peki, Rahmi Göktaş kimdir? Mahinur Özdemir Göktaş'ın eşi Rahmi Göktaş ne iş yapıyor?",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/rahmi-goktas-kimdir-mahinur-ozdemir-goktas-in-esi-rahmi-goktas-ne-is-yapiyor-2544902",
+      "published": "2026-10-08T14:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:28.185109+00:00"
+    },
+    {
+      "id": "cf21f39923f6a575",
+      "source": "Akşam",
+      "title": "Arda Güler ödülüne kavuştu",
+      "summary": "İspanya La Liga devi Real Madrid'de forma giyen milli yıldız Arda Güler, Eylül ayının en iyi oyuncusu seçildi ve ödülüne kavuştu.",
+      "link": "https://www.aksam.com.tr/spor/arda-guler-odulune-kavustu/haber-1704673",
+      "published": "2026-10-08T14:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.227957+00:00"
+    },
+    {
+      "id": "67c2ef134c52a497",
+      "source": "Star",
+      "title": "Kalyon PV, yeni fabrikasını ABD'de kuracak",
+      "summary": "Türkiye'nin güneş teknolojileri üretiminde öncü şirketlerinden Kalyon PV, global büyüme stratejisi doğrultusunda ABD pazarına yönelik önemli bir yatırım kararı aldı. ABD'de kuruluşu tamamlanan ve Kalyon PV'nin çoğunluk hissedarı olduğu şirket bünyesinde, başta güneş panelleri olmak üzere güneş enerjisi teknolojilerinin üretileceği ve ABD pazarına doğrudan ürün satacak yeni bir fabrika kurulması pl",
+      "link": "https://www.star.com.tr/ekonomi/kalyon-pv-yeni-fabrikasini-abdde-kuracak-haber-2045339/",
+      "published": "2026-10-08T14:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.949908+00:00"
+    },
+    {
+      "id": "8805720a4d42b791",
+      "source": "Ekonomim",
+      "title": "VEIR’den süperiletken güç teknolojisi için 110 milyon dolarlık dev finansman",
+      "summary": "Yapay zeka veri merkezleri için süperiletken güç dağıtım sistemleri geliştiren ABD merkezli VEIR, C Serisi yatırım turunda 110 milyon dolar topladı. Yeni finansmanla üretim kapasitesini artırmayı ve teknolojisini ticari kullanıma taşımayı hedefleyen şirketin toplam sermayesi 225 milyon dolara ulaştı.",
+      "link": "https://www.ekonomim.com/sektorler/teknoloji/veirden-superiletken-guc-teknolojisi-icin-110-milyon-dolarlik-dev-finansman-haberi-923456",
+      "published": "2026-10-08T14:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:41.587077+00:00"
+    },
     {
       "id": "0568be3590007e7a",
       "source": "Yeniçağ",
@@ -17,6 +237,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T14:20:44.644111+00:00"
+    },
+    {
+      "id": "12001b8d8d304390",
+      "source": "Cumhuriyet",
+      "title": "Maltepe’de bina faciası: Hayatını kaybeden 2 kişinin kimliği açıklandı",
+      "summary": "İstanbul Maltepe’de 7 katlı binanın alttaki 3 katının çökmesi sonucu hayatını kaybeden 2 kişinin kimliği belli oldu. Enkazdan çıkarılan kişilerin Gülce Turhan ve Ahmet Muhammet İnan olduğu öğrenildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/maltepe-de-bina-faciasi-hayatini-kaybeden-2-kisinin-kimligi-aciklandi-2544901",
+      "published": "2026-10-08T14:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:28.185141+00:00"
+    },
+    {
+      "id": "7f542943a207aa16",
+      "source": "Türkiye Gazetesi",
+      "title": "İspanya'da konut krizinin sembol ismi hayatını kaybetti",
+      "summary": "İspanya'da son birkaç haftadır ülkenin ana gündemini oluşturan konut krizinin sembol ismi olan 87 yaşındaki Mari Carmen Abascal tedavi gördüğü hastanede hayatını kaybetti.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/ispanyada-konut-krizinin-sembol-ismiydi-87-yasindaki-maricarmen-abascal-hayatini-kayb-1821445",
+      "published": "2026-10-08T14:19:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:30.288685+00:00"
     },
     {
       "id": "8665847f08b1cf4e",
@@ -272,6 +514,17 @@
       "fetched_at": "2026-10-08T14:15:45.952792+00:00"
     },
     {
+      "id": "873be50dd0adee65",
+      "source": "Bloomberg HT",
+      "title": "ABD'de işsizlik maaşı başvuruları beklentilerin altında",
+      "summary": "ABD'de ilk kez işsizlik maaşına başvuranların sayısı, 3 Ekim'de sona eren haftada 197 bine gerileyerek piyasa beklentilerinin altında gerçekleşti.",
+      "link": "https://www.bloomberght.com/abd-de-issizlik-maasi-basvurulari-beklentilerin-altinda-3790871",
+      "published": "2026-10-08T14:13:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:40.877190+00:00"
+    },
+    {
       "id": "848e8d3b8e684085",
       "source": "BBC News Türkçe",
       "title": "17 yatırım fonuna ait ödemeler başladı",
@@ -281,6 +534,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T14:16:01.264114+00:00"
+    },
+    {
+      "id": "a31823fb0327b781",
+      "source": "Finans Gündem",
+      "title": "Yapay zekâ destekli saldırı! Güney Kore bankalarında veri sızıntısı",
+      "summary": "Güney Kore’de bankaları hedef alan siber saldırılarda binlerce müşterinin kişisel bilgileri sızdırıldı. Saldırılarda yapay zekâ kullanıldığına ilişkin bulgular üzerine kapsamlı soruşturma ve güvenlik incelemesi başlatıldı.",
+      "link": "https://www.finansingundemi.com/haber/yapay-zeka-destekli-saldiri-guney-kore-bankalarinda-veri-sizintisi/1910871",
+      "published": "2026-10-08T14:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:43.263228+00:00"
     },
     {
       "id": "63f68d4c5a14487e",
@@ -457,6 +721,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T14:10:47.040587+00:00"
+    },
+    {
+      "id": "3f853c289f93e7a0",
+      "source": "Habertürk",
+      "title": "43 bin fon yatırımcısının paraları yatırıldı",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"17 fonun tasfiyesi yapıldı. 43 bin fon katılımcısının bugün itibarıyla paraları ilgili bankalara transfer edildi\" dedi",
+      "link": "https://www.haberturk.com/ekonomi/son-dakika-43-bin-fon-yatirimcisinin-paralari-yatirildi-3918205",
+      "published": "2026-10-08T14:09:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:26.210265+00:00"
     },
     {
       "id": "77d1a2ac81c7d6c6",
@@ -668,6 +943,17 @@
       "fetched_at": "2026-10-08T14:10:43.194120+00:00"
     },
     {
+      "id": "827540aac3ff58c6",
+      "source": "Yeni Şafak",
+      "title": "65 bin öğrenciye 65 bin çift yeni ayakkabı ulaşacak",
+      "summary": "Gaziantep'te ihtiyaç sahibi öğrenciler için önemli bir sosyal destek daha hayata geçiriliyor. Hayırsever iş adamları Ercan Göğüş ve Mehmet Yasav'ın desteğiyle 65 bin öğrenciye 65 bin çift ayakkabı ulaştırılacak. Yardıma ilişkin protokol Gaziantep Valiliği'nde düzenlenen törenle imzalandı.",
+      "link": "https://www.yenisafak.com/gundem/65-bin-ogrenciye-65-bin-cift-yeni-ayakkabi-ulasacak-4862620",
+      "published": "2026-10-08T14:04:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:32.657838+00:00"
+    },
+    {
       "id": "11b93199a2530375",
       "source": "Yeni Şafak",
       "title": "Altmış beş bin öğrenciye 8 yıldır giyim desteği sağlıyor",
@@ -743,6 +1029,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T14:05:53.937086+00:00"
+    },
+    {
+      "id": "4a8886c1f387b2ce",
+      "source": "Karar",
+      "title": "Atilla Taş'ın kızı hayatını kaybetti",
+      "summary": "Atilla Taş’ın kızı Sezen Taş’ın Mersin’de hayatını kaybettiği öne sürüldü. Gazeteci Burhan Akdağ, Sezen Taş’ın yaşadığı binanın 14. katından düştüğü ve cenazesinin Adli Tıp Kurumuna götürüldüğü yönünde bilgi aldığını açıkladı. Olayın nasıl gerçekleştiğine ilişkin resmi makamlardan henüz açıklama yapılmadı.",
+      "link": "https://www.karar.com/guncel-haberler/son-dakika-atilla-tasin-kizi-hayatini-kaybetti-2077126",
+      "published": "2026-10-08T14:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:33.631016+00:00"
     },
     {
       "id": "5a27b06301ac1b1a",
@@ -985,6 +1282,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T14:01:02.133097+00:00"
+    },
+    {
+      "id": "c05107603b76a9c7",
+      "source": "Bloomberg HT",
+      "title": "Dünya ticaretinin yeni rotası İstanbul'da çiziliyor",
+      "summary": "T.C. Ticaret Bakanlığı himayelerinde ve Türk Amerikan İş Adamları Derneği (TABA-AmCham) ev sahipliğinde hayata geçirilen ACE BPSC 2026 Zirvesi, Ticaret Bakanı Prof. Dr. Ömer Bolat, Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, 30 ülkeden 70 AmCham lideri ve 250 küresel CEO'nun katılımıyla İstanbul'da kapılarını açtı.",
+      "link": "https://www.bloomberght.com/dunya-ticaretinin-yeni-rotasi-istanbul-da-ciziliyor-3790869",
+      "published": "2026-10-08T13:57:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:40.877234+00:00"
     },
     {
       "id": "ecba5aef537f8e86",
@@ -1381,6 +1689,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T13:50:52.120169+00:00"
+    },
+    {
+      "id": "31ad1d2a82b00dd7",
+      "source": "Hürriyet",
+      "title": "Motosikletle giderken cebindeki paraları düşürmüştü: Servis şoförü parayı sahibine ulaştırdı",
+      "summary": "Antalya’nın Serik ilçesinde yeni aldığı motosikletle giderken cebindeki parasını düşüren Emre Demir, yola savrulan paraları toplayıp sosyal medyadaki duyuru sayesinde kendisine ulaştıran servis şoförü Tunahan Çavuş sayesinde parasının büyük kısmına kavuştu.",
+      "link": "https://www.hurriyet.com.tr/gundem/motosikletle-giderken-cebindeki-paralari-dusurmustu-servis-soforu-parayi-sahibine-ulastirdi-43334336",
+      "published": "2026-10-08T13:48:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-08T14:25:31.206666+00:00"
     },
     {
       "id": "1172726f41f4c19e",
@@ -5187,325 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-08T12:45:36.930792+00:00"
-    },
-    {
-      "id": "ff54b752c2c558ab",
-      "source": "Cumhuriyet",
-      "title": "Smart Güneş’te 74 işçi işten çıkarıldı: Fabrika önünde direniş yeniden başladı",
-      "summary": "Aliağa’daki Smart Güneş Fabrikası’nda işçiler, işverenin daha önce varılan mutabakata uymadığını belirterek yeniden eyleme geçti. Çok sayıda işçinin işten çıkarılmasının ardından direniş çadırı kuran işçiler, sendikal haklar, ücret farkları ve işe iadeler için mücadeleyi sürdüreceklerini açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/calisma-yasami/smart-gunes-te-74-isci-isten-cikarildi-fabrika-onunde-direnis-yeniden-basladi-2544860",
-      "published": "2026-10-08T12:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:36.930821+00:00"
-    },
-    {
-      "id": "f37715a0f1be67a5",
-      "source": "Akşam",
-      "title": "Milli uyduların görüntüleri tek adreste: GEZGİN'e yeni takviye",
-      "summary": "TÜBİTAK UZAY, milli uydu görüntülerini tek platformda buluşturan GEZGİN'i yeniledi. GÖKTÜRK-2'nin arşiv görüntülerinin de eklendiği portal, tarımdan afet yönetimine, şehir planlamasından çevre takibine kadar birçok alanda kullanılabilecek uydu verilerini vatandaşların erişimine sunuyor.",
-      "link": "https://www.aksam.com.tr/guncel/milli-uydularin-goruntuleri-tek-adreste-gezgine-yeni-takviye/haber-1704642",
-      "published": "2026-10-08T12:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:40.404325+00:00"
-    },
-    {
-      "id": "d6f275774aa42fc8",
-      "source": "Star",
-      "title": "\"İsrail'e silah vermiyoruz\" diyen Fransız hükümetine yalanlama! Sevkiyat milyonlarca avro arttı",
-      "summary": "Uluslararası Af Örgütü Fransa Ofisi, Gazze'de 3 yılı geride bırakan soykırıma rağmen Paris yönetiminin İsrail'e savaş malzemesi ihracatını artırmasına sert tepki gösterdi. Fransa Savunma Bakanlığı verilerine göre İsrail'e silah satışının 2024'teki 16,1 milyon avro seviyesinden 2025'te 19,8 milyon avroya yükseldiğini belirten Af Örgütü, Fransız makamlarını \"İsrail'e silah vermiyoruz\" söylemleri üze",
-      "link": "https://www.star.com.tr/dunya/israile-silah-vermiyoruz-diyen-fransiz-hukumetine-yalanlama-sevkiyat-milyonlarca-avro-artti-haber-2045313/",
-      "published": "2026-10-08T12:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:41.259683+00:00"
-    },
-    {
-      "id": "e0fb9176460abad1",
-      "source": "Ekonomim",
-      "title": "İzmir paylaşımı nedeniyle gözaltına alınmıştı: Berna Laçin tutuklamaya sevk edildi",
-      "summary": "İzmir Büyükşehir Belediyesi Başkanı Cemil Tugay&#039;ın AKP&#039;ye katılmasının ardından &quot;İzmir daha önce de işgal edildi, Korkma!&quot; şeklinde paylaşım yapan ve gözaltına alınan Berna Laçin, tutuklamaya sevk edildi.",
-      "link": "https://www.ekonomim.com/gundem/izmir-paylasimi-nedeniyle-gozaltina-alinmisti-berna-lacin-tutuklamaya-sevk-edildi-haberi-923433",
-      "published": "2026-10-08T12:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:49.563288+00:00"
-    },
-    {
-      "id": "296c583a4ed7ca07",
-      "source": "Türkiye Gazetesi",
-      "title": "Diriker'e veda: Her zaman hafızamızda kalacak",
-      "summary": "Galatasaray'ın 5 Ekim'de 108 yaşında vefat eden en kıdemli üyesi Ali Fuat Diriker için RAMS Park'ta cenaze töreni düzenlendi. Törene; sarı-kırmızılı kulübün başkanı Dursun Özbek, yönetim kurulu üyeleri, divan kurulu başkanı Aykutalp Derkan ve Diriker'in ailesi ile sevenleri katıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/galatasaray-ali-fuat-dirikere-veda-etti-her-zaman-hafizamizda-kalacak-1821420",
-      "published": "2026-10-08T12:43:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:50:34.238482+00:00"
-    },
-    {
-      "id": "515f88af7deee072",
-      "source": "Habertürk",
-      "title": "Önce oğlu sonra anneyi öldürdüler",
-      "summary": "Ordu'da, iki gün önce arazide yaşanan yol verme kavgasında bıçaklanarak hayatını kaybeden 40 yaşındaki Orhan Artça'nın annesi 62 yaşındaki Nezaket Artça da husumetli oldukları aileyle yaşanan olayda tabancayla vurularak hayatını kaybetti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-once-oglu-sonra-anneyi-oldurduler-ordu-haberleri-3918218",
-      "published": "2026-10-08T12:43:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:55:24.702263+00:00"
-    },
-    {
-      "id": "2fba0a65a6cd5625",
-      "source": "Sözcü",
-      "title": "Berna Laçin'e tutuklama talebi",
-      "summary": "Berna Laçin'e tutuklama talebi",
-      "link": "https://www.sozcu.com.tr/berna-lacin-e-tutuklama-talebi-p367370",
-      "published": "2026-10-08T12:43:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:38.001982+00:00"
-    },
-    {
-      "id": "f4e5d58bed73749a",
-      "source": "Kısa Dalga",
-      "title": "Özel'den Erdoğan'a fon skandalı nedeniyle istifa çağrısı: Haberi varsa suçlu, yoksa yönetemiyor",
-      "summary": "Özgür Özel, yüz binlerce yatırımcıyı etkileyen fon skandalında Cumhurbaşkanı Erdoğan'ı doğrudan sorumlu tuttu. “Bilgisi dahilinde ise derhal istifa edip hesap vermeli, haberi yoksa seçim kararı almalı” diyen Özel, AKP Sözcüsü Ömer Çelik'in fonlardan milyarlarca lira kazandığını iddia ettiği Osman Arıkan Nacar'la ilişkisini de sorguladı. Özel, skandalın Meclis'te araştırılmasını istedi.",
-      "link": "https://kisadalga.net/haber/gundem/ozelden-erdogana-fon-skandali-nedeniyle-istifa-cagrisi-haberi-varsa-suclu-yoksa-yonetemiyor-140829",
-      "published": "2026-10-08T12:43:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:44.901855+00:00"
-    },
-    {
-      "id": "f7d4d969ec59117a",
-      "source": "Yeniçağ",
-      "title": "45 kamu kurumu TBMM’de incelenecek: Komisyon toplantıları başlıyor",
-      "summary": "TBMM KİT Komisyonu; TOKİ, TPAO, TRT ve kamu bankalarının da bulunduğu 45 kurumun 2023-2024 dönemi bilançolarını incelemek üzere 13 Ekim&#039;de mesaiye başlıyor.",
-      "link": "https://www.yenicaggazetesi.com/45-kamu-kurumu-tbmmde-incelenecek-komisyon-toplantilari-basliyor-1079835h.htm",
-      "published": "2026-10-08T12:43:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:42.335638+00:00"
-    },
-    {
-      "id": "b77adbefc619c685",
-      "source": "Habertürk",
-      "title": "Birleşik Krallık, AB'ye yakınlaşıyor",
-      "summary": "Birleşik Krallık Başbakanı Andy Burnham, Almanya Başbakanı Friedrich Merz ile Berlin'de yaptığı görüşmede, ülkesini Avrupa'ya yakınlaştırmak istediğini belirtti.",
-      "link": "https://www.haberturk.com/dunya/birlesik-krallik-basbakani-burnham-ulkesini-avrupa-ya-yakinlastirmak-istedigini-soyledi-3918220",
-      "published": "2026-10-08T12:43:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:55:24.702285+00:00"
-    },
-    {
-      "id": "0a66becedf7a35e6",
-      "source": "Sabah",
-      "title": "Aile Bakanı Göktaş'tan fon açıklaması: İddialar tamamen asılsızdır",
-      "summary": "Aile Bakanı Mahinur Özdemir Göktaş, fon soruşturması ile ilgili yaptığı açıklamada \"Fon meselesiyle ilgili şahsımı ve ailemi hedef alan iddialar tamamen yalandır. Bu iftiraları yayanlar hakkında gerekli... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/gundem/2026/10/08/aile-bakani-goktastan-fon-aciklamasi-iddialar-tamamen-asilsizdir",
-      "published": "2026-10-08T12:43:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:55:30.997513+00:00"
-    },
-    {
-      "id": "8c45aacb1ae4f01c",
-      "source": "Akşam",
-      "title": "Bakan Göktaş'tan fon iddialarına sert tepki! Baştan sona yalan ve iftira",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Fon meselesiyle ilgili şahsımı ve ailemi hedef alan iddialar tamamen yalandır. Bu iftiraları yayanlar hakkında gerekli hukuki süreçler başlatılacaktır. İsim benzerliğini kullanıp şahsımın ve ailemin iftira kampanyalarına bilinçli olarak alet edilmesine asla müsamaha göstermeyeceğim\" dedi.",
-      "link": "https://www.aksam.com.tr/guncel/bakan-goktas-sahsimin-ve-ailemin-iftira-kampanyalarina-bilincli-olarak-alet-edilmesine-asl/haber-1704641",
-      "published": "2026-10-08T12:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:55:31.300363+00:00"
-    },
-    {
-      "id": "cea1673b7a0e417d",
-      "source": "Akşam",
-      "title": "Bakan Göktaş'tan sert tepki! İftiralara müsamaha göstermeyeceğim",
-      "summary": "Bakan Göktaş: \"Fon meselesiyle ilgili şahsımı ve ailemi hedef alan iddialar tamamen yalandır. Bu iftiraları yayanlar hakkında gerekli hukuki süreçler başlatılacaktır\". İsim benzerliğini kullanıp şahsımın ve ailemin iftira kampanyalarına bilinçli olarak alet edilmesine asla müsamaha göstermeyeceğim\"",
-      "link": "https://www.aksam.com.tr/guncel/bakan-goktas-sahsimin-ve-ailemin-iftira-kampanyalarina-bilincli-olarak-alet-edilmesine-asl/haber-1704641",
-      "published": "2026-10-08T12:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:40.404358+00:00"
-    },
-    {
-      "id": "52bfad49579f6c5d",
-      "source": "Ekonomim",
-      "title": "Çöken binadaki çatlaklar böyle kaydedildi: 'Korkutmak istemem ama çatlaklar büyüyor' (Video)",
-      "summary": "Maltepe’de 7 katlı binanın alttaki 3 katının çökmesi sonucu enkaz altında kalan 2 kişi hayatını kaybetti, 3’ü çocuk 10 kişi yaralı kurtarıldı. Binanın alt katındaki tekstil atölyesinde çalışan bir kişinin, duvardaki çatlakları cep telefonu kamerasıyla kaydettiği görüntüler ortaya çıktı. Görüntüleri kaydeden tekstil atölyesi çalışanı Fatma Kaya &quot;Elif, korkutmak istemem ama bizde böyle çatlakla",
-      "link": "https://www.ekonomim.com/gundem/coken-binadaki-catlaklar-boyle-kaydedildi-korkutmak-istemem-ama-catlaklar-buyuyor-video-haberi-923432",
-      "published": "2026-10-08T12:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:49.563335+00:00"
-    },
-    {
-      "id": "682e344b1c334176",
-      "source": "Yeni Şafak",
-      "title": "Antalya'da bir evden 6 kamyon çöp çıkarıldı",
-      "summary": "Antalya'nın Kepez ilçesinde, belediye ekiplerince temizlenen bir ev ve çevresinden 6 kamyon çöp ile atık malzeme çıkarıldı.",
-      "link": "https://www.yenisafak.com/gundem/antalyada-bir-evden-6-kamyon-cop-cikarildi-4862597",
-      "published": "2026-10-08T12:42:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:40.945951+00:00"
-    },
-    {
-      "id": "e5de023a23dfa257",
-      "source": "Türkiye Gazetesi",
-      "title": "\"İSPAT EDİN İSTİFA EDEYİM\"",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, babası Hasan Özdemir'in 830 milyon liralık fon işlemi yaptığı iddialarını kesin bir dille yalanladı. İddiaların isim benzerliğinden kaynaklandığını belirten Göktaş, “İddialarınızı somut delillerle ispatlayın, görevimi derhal bırakacağım” dedi. TBMM'de de açıklamalarda bulunan Göktaş, “Burası Türkiye Büyük Millet Meclisi, yalan ve iftira makin",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/bakan-goktastan-fon-iddialarina-sert-tepki-tamamen-yalan-1821419",
-      "published": "2026-10-08T12:42:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T13:40:36.030670+00:00"
-    },
-    {
-      "id": "3e1af249775620a8",
-      "source": "Türkiye Gazetesi",
-      "title": "\"İddialarınızı ispatlayın, görevimi derhal bırakacağım\"",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, fon soruşturması üzerinden kendisini ve ailesini hedef alan iddialara sert tepki gösterdi. İddiaların isim benzerliğinden kaynaklandığını belirten Göktaş, “İddialarınızı somut delillerle ispatlayın, görevimi derhal bırakacağım” dedi. Göktaş, iddiaları ortaya atanlar hakkında hukuki süreç başlatılacağını duyurdu.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/bakan-goktastan-fon-iddialarina-sert-tepki-tamamen-yalan-1821419",
-      "published": "2026-10-08T12:42:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T13:01:09.576039+00:00"
-    },
-    {
-      "id": "b12aa15aa86c0e7c",
-      "source": "Türkiye Gazetesi",
-      "title": "Bakan Göktaş'tan fon iddialarına sert tepki: Tamamen yalan",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, fon soruşturması kapsamında kendisini ve ailesini hedef alan iddiaların gerçeği yansıtmadığını açıkladı. İsim benzerliği üzerinden iftira kampanyası yürütüldüğünü belirten Göktaş, “Bu iftiraları yayanlar hakkında gerekli hukuki süreçler başlatılacaktır” dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/bakan-goktastan-fon-iddialarina-sert-tepki-tamamen-yalan-1821419",
-      "published": "2026-10-08T12:42:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:50:34.238524+00:00"
-    },
-    {
-      "id": "1b5b85472288ba1e",
-      "source": "Türkiye Gazetesi",
-      "title": "Bakan Göktaş'dan 'fon' iftirasına suç duyurusu",
-      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, fon soruşturması kapsamında kendisini ve ailesini hedef alan iddiaların gerçeği yansıtmadığını açıkladı. İsim benzerliği üzerinden iftira kampanyası yürütüldüğünü belirten Göktaş, “Bu iftiraları yayanlar hakkında gerekli hukuki süreçler başlatılacaktır” dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/bakan-goktastan-fon-iddialarina-sert-tepki-tamamen-yalan-1821419",
-      "published": "2026-10-08T12:42:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:37.807447+00:00"
-    },
-    {
-      "id": "785020dfeca83b11",
-      "source": "Halk TV",
-      "title": "Son Dakika | Oyuncu Berna Laçin hakkında tutuklama talebi",
-      "summary": "Son dakika haberi... Oyuncu Berna Laçin hakkında tutuklama talep edildi.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-oyuncu-berna-lacin-hakkinda-tutuklama-talebi-1060330h",
-      "published": "2026-10-08T12:42:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:43.995506+00:00"
-    },
-    {
-      "id": "013d5486c451a73f",
-      "source": "Milliyet",
-      "title": "New York Times'tan flaş iddia! 'Büyükelçilikte raporları İsrail lehine değiştirdi'",
-      "summary": "NYT'nin konuya yakın kaynaklara ve çeşitli belgelere dayandırdığı habere göre, 36 yaşındaki ABD'li diplomat Milstein son dönemde ABD yönetimine gönderilen raporlardaki bilgilerde değişiklik yaptı. Gazeteye konuşan yetkililere göre mart ayı sonunda, İsrail, işgal altındaki Batı Şeria'da gasp ettiği topraklarda daha fazla yerleşim yeri kurulması planını onayladı. ABD'nin İsrail Büyükelçiliği'nde çal",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-new-york-timestan-flas-iddia-buyukelcilikte-raporlari-israil-lehine-degistirdi-7675687",
-      "published": "2026-10-08T12:42:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:39.787035+00:00"
-    },
-    {
-      "id": "bc47250bc78734c1",
-      "source": "CNBC-e",
-      "title": "QatarEnergy Brezilya'da 7 petrol ve doğal gaz sahasına ortak oldu",
-      "summary": "QatarEnergy, Brezilya açıklarındaki 7 petrol ve doğal gaz arama sahasında yüzde 30 pay aldı. Sahaların yüzde 70'i ve işletme hakkı Petrobras'ta kalırken, toplam 4 bin 700 kilometrekarelik alanı kapsayan sözleşmelerin 2027'nin ilk yarısında imzalanması bekleniyor.",
-      "link": "https://www.cnbce.com/enerji/qatarenergy-brezilyada-7-petrol-ve-dogal-gaz-sahasina-ortak-oldu-h39022",
-      "published": "2026-10-08T12:42:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:50.484432+00:00"
-    },
-    {
-      "id": "6b9a6bbd2226cd22",
-      "source": "Karar",
-      "title": "Doğada 2 yılda bir yetişiyor, kilosu 200 TL'den ön siparişle kapış kapış satılıyor! Şifa deposu üvez meyvesi yok satıyor",
-      "summary": "Sivas'ın yüksek rakımlı dağlarında kendiliğinden yetişen ve iki yılda bir meyve vermesiyle bilinen şifa kaynağı üvez meyvesi, bu sezon yaşanan dolu afetinin ardından adeta karaborsaya düştü. Bağışıklık ve metabolizma üzerindeki faydalarıyla yoğun talep gören nadir meyve, kilosu 200 liradan satışa çıkar çıkmaz günler içinde tükenirken, esnaf siparişleri yetiştirmekte güçlük çekiyor.",
-      "link": "https://www.karar.com/saglik-haberleri/dogada-2-yilda-bir-yetisiyor-kilosu-200-tlden-on-siparisle-kapis-kapis-2077106",
-      "published": "2026-10-08T12:42:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:41.934930+00:00"
-    },
-    {
-      "id": "ad6141f3c3896c24",
-      "source": "Euronews Türkçe",
-      "title": "Fransa'da lise öğrencileri yeniden sokakta: Paris'te büyük miting planlanıyor",
-      "summary": "Fransa Başbakanı Sébastien Lecornu, krizi yatıştırmak amacıyla çarşamba akşamı halka seslenerek hükümetin duruma yönelik çözüm planını ekim ayı sonuna kadar paylaşacağını açıkladı.",
-      "link": "https://tr.euronews.com/2026/10/08/fransada-lise-ogrencileri-yeniden-sokakta-pariste-buyuk-miting-planlaniyor",
-      "published": "2026-10-08T12:42:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:56.903219+00:00"
-    },
-    {
-      "id": "1c5ed3368523410a",
-      "source": "Yeni Akit",
-      "title": "Bakanlıktan İsmail Saymaz ve Murat Ağırel hakkında suç duyurusu",
-      "summary": "Fon soruşturması kapsamında Ticaret Bakanı Ömer Bolat'a yönelik ifadeleri ve sosyal medya paylaşımları nedeniyle İsmail Saymaz ve Murat Ağırel hakkında suç duyurusunda bulunuldu.",
-      "link": "https://www.yeniakit.com.tr/haber/ticaret-bakani-omer-bolattan-ismail-saymaz-ve-murat-agirele-suc-duyurusu-2027115.html",
-      "published": "2026-10-08T12:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T13:15:40.984265+00:00"
-    },
-    {
-      "id": "9b351eb683e436ca",
-      "source": "Halk TV",
-      "title": "Son Dakika | Oyuncu Berna Laçin serbest bırakıldı",
-      "summary": "Son dakika haberi... &quot;İzmir&quot; paylaşımına soruşturma başlatılan ve gözaltına alınan oyuncu Berna Laçin hakkında tutuklama talep edildi. Berna Laçin serbest bırakıldı.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-oyuncu-berna-lacin-hakkinda-tutuklama-talebi-1060330h",
-      "published": "2026-10-08T12:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T13:10:48.184563+00:00"
-    },
-    {
-      "id": "5e4f316762c479d9",
-      "source": "Halk TV",
-      "title": "Son dakika | Mahinur Özdemir Göktaş'tan fon iddialarına isim benzerliği yanıtı",
-      "summary": "Son dakika... YENİ Partili Ümit Özlale, Aile Bakanı Mahinur Özdemir Göktaş&#039;ın babasının fon vurgunundan 830 milyon liralık işlem yaptığını ifade etmişti. Bakan Göktaş bu iddialara sosyal medya hesabından &#039;isim benzerliği&#039; yanıtını verdi.",
-      "link": "https://halktv.com.tr/turkiye/son-dakika-mahinur-ozdemir-goktastan-ilk-aciklama-1060329h",
-      "published": "2026-10-08T12:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:50:41.421517+00:00"
-    },
-    {
-      "id": "754ad666d5d7443d",
-      "source": "Finans Gündem",
-      "title": "17 fon tasfiye edildi! 43 bin yatırımcının parası aktarıldı",
-      "summary": "Bakan Şimşek, fon piyasasındaki tasfiye sürecinde 17 fonun işlemlerinin tamamlandığını ve 43 bin yatırımcının parasının ilgili bankalara aktarıldığını açıkladı.",
-      "link": "https://www.finansingundemi.com/haber/17-fon-tasfiye-edildi-43-bin-yatirimcinin-parasi-aktarildi/1910865",
-      "published": "2026-10-08T12:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:50:49.254025+00:00"
-    },
-    {
-      "id": "c13fe3af5595c41b",
-      "source": "Akşam",
-      "title": "Beşiktaş, Kocaelispor mesaisinde",
-      "summary": "Trendyol Süper Lig'in 7. haftasında 11 Ekim Pazar günü sahasında Kocaelispor'la karşılaşacak Beşiktaş, maçın hazırlıklarına devam etti.",
-      "link": "https://www.aksam.com.tr/spor/besiktas-kocaelispor-mesaisinde/haber-1704640",
-      "published": "2026-10-08T12:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-08T12:45:40.404378+00:00"
     }
   ]
 }

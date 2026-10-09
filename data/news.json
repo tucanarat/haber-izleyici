@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-09T23:10:53.326163+00:00",
+  "last_updated": "2026-10-09T23:16:04.760086+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 555,
+  "new_items_this_run": 557,
   "items": [
+    {
+      "id": "c83e86173a72967b",
+      "source": "Türkiye Gazetesi",
+      "title": "HESAPLARI KAPANACAK!",
+      "summary": "Resmi Gazete’de yayımlanan yönetmelikle sosyal medyada 15 yaş sınırı getirildi. 15 yaşını doldurmamış çocukların hesap açması engellenecek, mevcut hesapları kapatılacak. Platformlar için yaş doğrulama sürecinde son tarih 31 Mart 2027 olacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/sosyal-medyada-yeni-donem-15-yas-altindakilerin-hesaplari-kapanacak-1821737",
+      "published": "2026-10-09T23:12:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T23:15:38.872160+00:00"
+    },
+    {
+      "id": "e99043f2ee1e5a3d",
+      "source": "OdaTV",
+      "title": "Muharrem İnce'den İmamoğlu'na Silivri'de ziyaret",
+      "summary": "Muharrem İnce yaptığı açıklamayla Silivri Cezaevi&#039;nde Ekrem İmamoğlu, Hasan Akgün ve Doruk Bulut’u ziyaret ettiğini bildirdi.",
+      "link": "https://www.odatv.com/guncel/muharrem-inceden-imamogluna-silivride-ziyaret-120166001",
+      "published": "2026-10-09T23:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T23:15:47.171462+00:00"
+    },
     {
       "id": "478df3fdc4d16164",
       "source": "Türkiye Gazetesi",
@@ -1051,6 +1073,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-09T21:55:38.479487+00:00"
+    },
+    {
+      "id": "be98aa1efe51d2b4",
+      "source": "Yeni Şafak",
+      "title": "Vatman koltuğuna oturan Erdoğan'dan Avrupa Komisyonu üyesi Kos'a: Biz buradayken korkmayın",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkiye'yi Avrupa'ya bağlayan Çerkezköy-Kapıkule Hızlı Tren Hattı'nın açılış töreninin ardından vatman koltuğuna geçerek Babaeski-Lüleburgaz etabında test sürüşü gerçekleştirdi. Sürüş sırasında Erdoğan'a eşlik eden Avrupa Komisyonu Genişlemeden Sorumlu Komiseri Marta Kos ile Cumhurbaşkanı arasında geçen samimi diyalog dikkat çekti. Trenin hızlanmasıyla Kos'un \"K",
+      "link": "https://www.yenisafak.com/video/gundem/vatman-koltuguna-oturan-erdogandan-avrupa-komisyonu-uyesi-kosa-biz-buradayken-korkmayin-4863024",
+      "published": "2026-10-09T21:50:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T23:15:43.146856+00:00"
     },
     {
       "id": "c498ce9957f1cae8",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-09T19:20:44.877256+00:00"
-    },
-    {
-      "id": "193ba161c22d8b8c",
-      "source": "Yeniçağ",
-      "title": "Edirne'de motosiklet kontrolden çıkarak direğe çarptı: O anlar kamerada",
-      "summary": "Edirne’de midibüsü geçmek isterken kontrolden çıkan motosikletin kaldırıma ve aydınlatma direğine çarptığı kaza, araç kamerasına yansıdı.",
-      "link": "https://www.yenicaggazetesi.com/edirnede-motosiklet-kontrolden-cikarak-direge-carpti-o-anlar-kamerada-1080505h.htm",
-      "published": "2026-10-09T19:13:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T19:15:42.121342+00:00"
-    },
-    {
-      "id": "a6c30173b665ac0b",
-      "source": "Akşam",
-      "title": "Başkan Erdoğan vatman koltuğunda: Dev projede ilk sürüş gerçekleşti",
-      "summary": "Halkalı–Kapıkule Hızlı Tren Hattı'nın 153 kilometrelik Çerkezköy–Kapıkule etabı bugün hizmete açıldı. Açılış töreninin ardından Cumhurbaşkanı Erdoğan, hattın ilk seferini başlattı.",
-      "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-vatman-koltugunda-dev-projede-ilk-surus-gerceklesti/haber-1704940",
-      "published": "2026-10-09T19:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T19:15:39.167541+00:00"
-    },
-    {
-      "id": "af83341684a4421f",
-      "source": "CNBC-e",
-      "title": "Panama’da 7,7 büyüklüğünde deprem: Tsunami uyarısı yapıldı",
-      "summary": "Panama’nın güneyinde meydana gelen 7,7 büyüklüğündeki deprem başkent Panama City’de de hissedildi. Yaklaşık 10 kilometre derinlikte kaydedilen depremin ardından doğu Pasifik kıyıları için tsunami uyarısı verildi.",
-      "link": "https://www.cnbce.com/haberler/panamada-77-buyuklugunde-deprem-tsunami-uyarisi-yapildi-h39141",
-      "published": "2026-10-09T19:12:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T19:15:52.356661+00:00"
     }
   ]
 }

@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-10-09T20:41:04.268630+00:00",
+  "last_updated": "2026-10-09T20:46:02.888886+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 561,
+  "new_items_this_run": 556,
   "items": [
+    {
+      "id": "caa7d8f1e71a4303",
+      "source": "Halk TV",
+      "title": "Maltepe faciasından saatler sonra enkazdan sağ çıktı!",
+      "summary": "Maltepe&#039;de meydana gelen facianın ardından devam eden enkaz kaldırma çalışmaları sırasında beton parçaları arasından bir kedi canlı çıkarıldı. O anlar cep telefonu kamerasıyla kaydedildi.",
+      "link": "https://halktv.com.tr/gundem/maltepe-faciasindan-saatler-sonra-enkazdan-sag-cikti-1060663h",
+      "published": "2026-10-09T20:45:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T20:45:45.892473+00:00"
+    },
+    {
+      "id": "cae63447561d7282",
+      "source": "Akşam",
+      "title": "Bolu'da korkutan ev yangını: Alevler samanlık, ahır ve traktöre sıçradı",
+      "summary": "Bolu'da evde çıkan ve bitişikteki samanlık, odunluk ve ahıra sıçrayan yangın hasara neden oldu.",
+      "link": "https://www.aksam.com.tr/guncel/boluda-korkutan-ev-yangini-alevler-samanlik-ahir-ve-traktore-sicradi/haber-1704959",
+      "published": "2026-10-09T20:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T20:45:40.121020+00:00"
+    },
+    {
+      "id": "4002de0048390a90",
+      "source": "Star",
+      "title": "Jakobs'tan Barcelona maçı açıklaması! \"Stat alev alev olacak\"",
+      "summary": "Galatasaray'ın Kasımpaşa'yı 3-1 mağlup ettiği karşılaşmanın ardından Ismail Jakobs, Barcelona ile oynayacakları mücadeleye ilişkin, \"Stat alev alev olacak\" dedi.",
+      "link": "https://www.star.com.tr/spor/jakobstan-barcelona-maci-aciklamasi-stat-alev-alev-olacak-haber-2045598/",
+      "published": "2026-10-09T20:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T20:45:41.489008+00:00"
+    },
+    {
+      "id": "2b2c3e7c05697fe8",
+      "source": "Yeni Akit",
+      "title": "11 gün aradan sonra... İran uçağı İstanbul'dan havalandı",
+      "summary": "Dünyanın en büyük havalimanları arasında yer alan İstanbul Havalimanı'nda kalkışa hazırlanırken 3 milyon avroluk borcu nedeniyle haciz işlem uygulanan İran havayolu şirketine ait uçak, paranın ödenmesi ardından 11 gün sonra Tahran'a gitmek üzere kalkış yaptı.",
+      "link": "https://www.yeniakit.com.tr/haber/11-gun-aradan-sonra-iran-ucagi-istanbuldan-havalandi-2027349.html",
+      "published": "2026-10-09T20:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T20:45:41.976712+00:00"
+    },
+    {
+      "id": "0dc7f51f8a267388",
+      "source": "Finans Gündem",
+      "title": "S&P, İngiltere'nin kredi notunu açıkladı",
+      "summary": "S&amp;P, İngiltere'nin kredi notunu \"AA/A-1+\" seviyesinde teyit ederken, not görünümünü \"durağan\" olarak korudu.",
+      "link": "https://www.finansingundemi.com/haber/sp-ingilterenin-kredi-notunu-acikladi/1911008",
+      "published": "2026-10-09T20:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T20:45:55.335236+00:00"
+    },
+    {
+      "id": "987f2e0acadd71e4",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Beyaz Saray'ın yeni sözcüsü, Trump'ın iletişim danışmanlarından Katie Zacharia oluyor",
+      "summary": "ABD Başkanı Donald Trump, Beyaz Saray'ın yeni sözcüsünün, halen kendisinin iletişim danışmanlarından biri olarak görev yapan Katie Zacharia olacağını açıkladı.",
+      "link": "https://www.aa.com.tr/tr/dunya/beyaz-sarayin-yeni-sozcusu-trumpin-iletisim-danismanlarindan-katie-zacharia-oluyor/4084079",
+      "published": "2026-10-09T20:42:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T20:45:33.312497+00:00"
+    },
     {
       "id": "5c0f33bedabe8cc8",
       "source": "Gazete Pencere",
@@ -72,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-09T20:40:38.787580+00:00"
+    },
+    {
+      "id": "3c5108bf46bd6ddc",
+      "source": "Finans Gündem",
+      "title": "CSO'dan Leyla Gencer anısına özel konser",
+      "summary": "Cumhurbaşkanlığı Senfoni Orkestrası, dünyaca ünlü Türk opera sanatçısı Leyla Gencer'i “La Diva Turca, Leyla Gencer'in Anısına” konseriyle andı.",
+      "link": "https://www.finansingundemi.com/haber/csodan-leyla-gencer-anisina-ozel-konser/1911007",
+      "published": "2026-10-09T20:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T20:45:55.335260+00:00"
     },
     {
       "id": "bcc0032978638f21",
@@ -5429,83 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-09T17:05:31.693716+00:00"
-    },
-    {
-      "id": "42d7e45ebb82164a",
-      "source": "CNBC-e",
-      "title": "Trump’tan Fed Yönetim Kurulu Üyesi Lisa Cook’a soruşturma",
-      "summary": "ABD Başkanı Donald Trump, Fed Yönetim Kurulu Üyesi Lisa Cook’un mortgage belgelerinde gerçeğe aykırı beyanda bulunduğu iddialarını incelemek üzere soruşturma komitesi kurdu. Komite, Cook’un görevden alınması için “haklı neden” bulunup bulunmadığına ilişkin rapor hazırlayacak.",
-      "link": "https://www.cnbce.com/haberler/trumptan-fed-yonetim-kurulu-uyesi-lisa-cooka-sorusturma-h39136",
-      "published": "2026-10-09T16:59:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T17:01:14.165345+00:00"
-    },
-    {
-      "id": "90872f24846918cd",
-      "source": "Bir Gün",
-      "title": "ABD'nin Uluslararası Ceza Mahkemesi'ne yaptırım kararına 8 ülkeden tepki",
-      "summary": "UCM'nin kurucu sözleşmesi Roma Statüsü'ne taraf olan İngiltere, Kanada, Danimarka, Almanya, Fransa, İtalya, Japonya ve Hollanda dışişleri bakanları, ABD'nin UCM'ye yaptırım uygulama kararına ilişkin ortak yazılı açıklama yaptı.",
-      "link": "https://www.birgun.net/haber/abd-nin-uluslararasi-ceza-mahkemesi-ne-yaptirim-kararina-8-ulkeden-tepki-739618",
-      "published": "2026-10-09T16:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T17:25:28.056228+00:00"
-    },
-    {
-      "id": "000812188b4bba1e",
-      "source": "Evrensel",
-      "title": "İsmail Saymaz ve Murat Ağırel için adli kontrol talebi",
-      "summary": "Fon soruşturmasıyla ilgili yorumları nedeniyle savcıya ifade veren İsmail Saymaz ve Murat Ağırel, yurt dışına çıkış yasağı ve adli kontrol talebiyle hakimliğe sevk edildi.",
-      "link": "https://www.evrensel.net/haber/6004235/ismail-saymaz-ve-murat-agirel-icin-adli-kontrol-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-09T16:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T17:20:43.743017+00:00"
-    },
-    {
-      "id": "4b97a52c2ff7b628",
-      "source": "Finans Gündem",
-      "title": "Trump: İran nükleer silah edinme kapasitesini kaybetti",
-      "summary": "ABD Başkanı Donald Trump, İran'ın artık nükleer silah edinme kapasitesini kaybettiğini savunarak, yakında \"savaşın\" sona ereceğini ve benzin fiyatlarının hızla düşeceğini ifade etti.",
-      "link": "https://www.finansingundemi.com/haber/trump-iran-nukleer-silah-edinme-kapasitesini-kaybetti/1910988",
-      "published": "2026-10-09T16:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T17:05:50.176214+00:00"
-    },
-    {
-      "id": "e5ca61c095a0e422",
-      "source": "Akşam",
-      "title": "Rize gastronomisinden Sıfır Atık Hareketi'ne horonlu destek",
-      "summary": "6. GastronomiRize Günleri, “Sofrada Yaşayan Miras” mottosuyla başladı, 12 ilçeden 100'ü aşkın yemek aynı sofrada buluştu",
-      "link": "https://www.aksam.com.tr/guncel/rize-gastronomisinden-sifir-atik-hareketine-horonlu-destek/haber-1704920",
-      "published": "2026-10-09T16:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T17:00:58.267988+00:00"
-    },
-    {
-      "id": "c37c20325c0c568d",
-      "source": "Karar",
-      "title": "Eski telefonlar yürüyen robota dönüşüyor: PhoneBot geliştirildi",
-      "summary": "UCLA araştırmacıları, eski Android telefonları algılama ve hareket kontrolü için kullanan PhoneBot adlı insansı robotu geliştirdi. Telefon hariç donanım maliyeti yaklaşık 400 dolar olarak hesaplanan robot, iki ayak üzerinde yürüyebiliyor, insanları takip edebiliyor ve yüzüstü düştüğünde yeniden ayağa kalkabiliyor.",
-      "link": "https://www.karar.com/teknoloji-haberleri/eski-telefonlar-yuruyen-robota-donusuyor-phonebot-gelistirildi-2077415",
-      "published": "2026-10-09T16:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T17:01:00.912431+00:00"
-    },
-    {
-      "id": "93ac1f3cf7fc3fe5",
-      "source": "Habertürk",
-      "title": "Trump'tan \"benzin fiyatları düşecek\" açıklaması",
-      "summary": "İran ile savaşın sona ermesinin ardından benzin fiyatlarının düşeceğini belirten ABD Başkanı Donald Trump, \"Bir dönem fiyatlar 1.95 dolar civarına düşmüştü, yeniden o seviyelere inecek.\" değerlendirmesini yaptı.",
-      "link": "https://www.haberturk.com/dunya/trump-tan-benzin-fiyatlari-dusecek-mesaji-3918553",
-      "published": "2026-10-09T16:56:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T17:00:48.206578+00:00"
     }
   ]
 }

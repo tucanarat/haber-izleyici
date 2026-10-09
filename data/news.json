@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-09T22:50:52.433923+00:00",
+  "last_updated": "2026-10-09T22:56:03.642879+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 562,
+  "new_items_this_run": 533,
   "items": [
+    {
+      "id": "0db30e2b8395ad5b",
+      "source": "OdaTV",
+      "title": "İlkay Gündoğan'dan sitem dolu yanıt",
+      "summary": "Süper Lig’in 7. haftasında Kasımpaşa’yı 3-1 mağlup ederek önemli bir zafer elde eden Galatasaray’da maç sonu yaşanan bir diyalog geceye damga vurdu.",
+      "link": "https://www.odatv.com/spor/ilkay-gundogandan-sitem-dolu-yanit-120165999",
+      "published": "2026-10-09T22:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-09T22:55:43.601646+00:00"
+    },
     {
       "id": "464870a9b7fc72cd",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-09T19:20:55.560697+00:00"
-    },
-    {
-      "id": "4140d659e0081455",
-      "source": "Habertürk",
-      "title": "Ankara'da bazı yollar kapalı olacak",
-      "summary": "Ankara Tren Garı önünde Cumartesi günü düzenlenecek anma programı nedeniyle bazı yollar araç trafiğine kapatılacak",
-      "link": "https://www.haberturk.com/gundem/ankara-da-bazi-yollar-kapali-olacak-3918579",
-      "published": "2026-10-09T19:01:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-09T19:10:31.670605+00:00"
     }
   ]
 }

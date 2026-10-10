@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-10T23:31:13.427297+00:00",
+  "last_updated": "2026-10-10T23:35:52.905724+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 533,
+  "new_items_this_run": 534,
   "items": [
+    {
+      "id": "9b022bbe022754ed",
+      "source": "BBC News Türkçe",
+      "title": "Riyad'da havalimanına saldırı: 12 ölü, 309 yaralı",
+      "summary": "Suudi Arabistan'ın başkenti Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda en az 12 kişi hayatını kaybetti, 309 kişi yaralandı. Yemen'deki Husi isyancılar, birkaç gün önce aynı havalimanını hedef alan benzer saldırıları üstlendiklerini açıklamışlardı.",
+      "link": "https://www.bbc.com/turkce/articles/cw8rz5268e26o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T23:35:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T23:35:52.264943+00:00"
+    },
     {
       "id": "ec74472140ef3339",
       "source": "Türkiye Gazetesi",
@@ -292,6 +303,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-10T23:00:54.680711+00:00"
+    },
+    {
+      "id": "d98cb6e653794bc1",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "TUSAŞ Motor Sanayii Genel Müdürü Akşit: Yabancı elektrikli arabaları artık kampüsün içine sokmuyoruz",
+      "summary": "TUSAŞ Motor Sanayii (TEI) Genel Müdürü Mahmut Faruk Akşit, \"Biz Türkiye olarak, ASELSAN, ROKETSAN, HAVELSAN ve TEI olarak yabancı elektrikli arabaları artık kampüsün içine sokmuyoruz.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/tusas-motor-sanayii-genel-muduru-aksit-yabanci-elektrikli-arabalari-artik-kampusun-icine-sokmuyoruz/4084822",
+      "published": "2026-10-10T22:59:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T23:35:28.925163+00:00"
     },
     {
       "id": "10b5e57eb8465ce4",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-10T18:45:38.138409+00:00"
-    },
-    {
-      "id": "949ee9cdb2bcd74a",
-      "source": "Akşam",
-      "title": "Hakan Çalhanoğlu attı, Inter ligde hata yapmadı",
-      "summary": "İtalya Serie A'nın 6. haftasında Inter, Parma ile karşı karşıya geldi. Müsabakayı Inter, 3-0'lık skorla kazandı.",
-      "link": "https://www.aksam.com.tr/spor/hakan-calhanoglu-atti-inter-ligde-hata-yapmadi/haber-1705157",
-      "published": "2026-10-10T18:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T18:45:34.923745+00:00"
-    },
-    {
-      "id": "9302767a12e8a871",
-      "source": "Yeni Yaşam",
-      "title": "Trump’tan Zelenskiy’e: Ukrayna’nın yeni bir devlet başkanı seçmesinin vakti geldi",
-      "summary": "ABD Başkanı Donald Trump, Ukrayna’nın Rusya’daki dizel rafinerilerine yönelik saldırılarını eleştirerek Volodimir Zelenskiy’i barış anlaşması yapmamakla suçladı. Trump, ‘Bence Ukrayna’nın yeni bir devlet başkanı seçmesinin vakti geldi’ dedi ABD Başkanı Donald Trump, ara seçimler öncesindeki Cumhuriyetçi partili adayları desteklemek için çıktığı Tennessee seyahati öncesinde Beyaz Saray’dan ayrılırk",
-      "link": "https://yeniyasamgazetesi9.com/trumptan-zelenskiye-ukraynanin-yeni-bir-devlet-baskani-secmesinin-vakti-geldi/",
-      "published": "2026-10-10T18:42:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T18:45:42.065000+00:00"
     }
   ]
 }

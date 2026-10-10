@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-10-10T16:01:11.344031+00:00",
+  "last_updated": "2026-10-10T16:06:07.231571+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 539,
+  "new_items_this_run": 533,
   "items": [
+    {
+      "id": "1a45f4d8bb7d5245",
+      "source": "Gazete Pencere",
+      "title": "Fenerbahçe, Çaykur Rizespor deplasmanında",
+      "summary": "Süper Lig mücadelesinde Çaykur Rizespor, Fenerbahçe'yi konuk ediyor.",
+      "link": "https://www.gazetepencere.com/spor/fenerbahce-caykur-rizespor-deplasmaninda-718745h",
+      "published": "2026-10-10T16:04:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:37.600225+00:00"
+    },
+    {
+      "id": "91cd28bd3245bc29",
+      "source": "BBC News Türkçe",
+      "title": "Ataşehir Belediyesi AKP'ye geçti, Eyüpsultan'da Yeni Parti-CHP adayı kazandı",
+      "summary": "Eyüpsultan Belediyesi'ndeki başkanvekilliği seçimini CHP ile YENİ Parti'nin adayı Cafer Parlak kazandı. Ataşehir Belediyesi'nde ise başkan vekilliği seçiminde ise AKP ve MHP'nin adayı Serdar Orhan 18 oy alarak başkan vekili seçildi.",
+      "link": "https://www.bbc.com/turkce/articles/cmy83n4l3qexo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-10T16:02:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:06:06.403270+00:00"
+    },
+    {
+      "id": "e9975cbf94f1a42a",
+      "source": "Yeni Şafak",
+      "title": "Eyüpsultan Belediye Başkan Vekili belli oldu",
+      "summary": "Eyüpsultan Belediye Başkan Vekilliği seçimi, ilk üç turda adayların gerekli çoğunluğa ulaşamaması üzerine dördüncü tura taşındı. Son turda yapılan oylamada seçimi kazanan CHP'li Cafer Parlak, Eyüpsultan Belediye Başkan Vekili seçildi.",
+      "link": "https://www.yenisafak.com/gundem/eyupsultan-belediye-baskan-vekili-belli-oldu-4863197",
+      "published": "2026-10-10T16:02:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:34.743697+00:00"
+    },
+    {
+      "id": "b068c096bef56724",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Augsburg 2-2 Bayern Münih",
+      "summary": "Almanya 1. Bundesliga'nın 5. haftasında Augsburg ile Bayern Münih karşı karşıya geldi. WWK Arena'da oynanan mücadele 2-2 sona erdi.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-augsburg-2-2-bayern-munih-haber-2045757/",
+      "published": "2026-10-10T16:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:35.029848+00:00"
+    },
+    {
+      "id": "ed79979f7e19b972",
+      "source": "Aydınlık",
+      "title": "Trabzonspor, Samsunspor deplasmanında 3-0 galip",
+      "summary": "Trabzonspor, Süper Lig’in 7’nci haftasında 19 Mayıs Stadı’nda karşılaştığı Samsunspor’u 3-0 yendi. Muçi, Nwaiwu ve Franculino’nun golleriyle ilk yarıda farkı üçe çıkaran konuk ekipte Melih Kabasakal 43’üncü dakikada kırmızı kart gördü.",
+      "link": "https://www.aydinlik.com.tr/haber/samsunspor-0-3-trabzonspor-deplasmanda-net-galibiyet-593891",
+      "published": "2026-10-10T16:01:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:36.995856+00:00"
+    },
+    {
+      "id": "6ffa675a32e7e3d9",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Ticaret Bakanı Bolat'tan hakkındaki iddialara ilişkin yeni açıklama",
+      "summary": "Ticaret Bakanı Bolat, fon soruşturmaları kapsamında hakkında dile getirilen iddialara ilişkin AA muhabirine değerlendirme yaptı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolattan-hakkindaki-iddialara-iliskin-yeni-aciklama/4084618",
+      "published": "2026-10-10T16:01:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:28.220804+00:00"
+    },
+    {
+      "id": "6d04d85d9420989e",
+      "source": "Habertürk",
+      "title": "Ataşehir Belediyesi AK Parti'ye geçti",
+      "summary": "İstanbul'da, Ataşehir Belediyesi Başkan Vekili seçimi saat: 10.00'da başladı. İlk üç turda Cumhur İttifakı'nın adayı Serdar Orhan 18 oy alırken, CHP'den ayrılıp bağımsız kalan 2 üye boş oy attı. CHP'li belediye meclisi üyelerinin büyük bölümünün katılmadığı seçimde Orhan, 4. turun sonunda başkan vekili seçildi.",
+      "link": "https://www.haberturk.com/gundem/atasehir-belediye-baskan-vekilligi-secimi-sonucu-3918639",
+      "published": "2026-10-10T16:00:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:25.452724+00:00"
+    },
     {
       "id": "b03501ba0a1b0692",
       "source": "ShiftDelete.Net",
@@ -52,6 +129,17 @@
       "fetched_at": "2026-10-10T16:00:56.392792+00:00"
     },
     {
+      "id": "a6a79bf00eaff965",
+      "source": "Habertürk",
+      "title": "Heyecan sürüyor!",
+      "summary": "Fenerbahçe, Süper Lig'in 7. haftasında bu akşam Çaykur Rizespor ile deplasmanda karşı karşıya geliyor. Beşiktaş ve Gaziantep FK maçlarında yaşadığı puan kayıplarıyla zirvenin gerisinde kalan Fenerbahçe, rakiplerinin puan kaybettiği haftada Eyüpspor'u 8-0'lık tarihi skorla yenerek yeniden zirve yarışına dahil oldu. Sarı-lacivertliler bu maçtan da galip ayrılarak çıkışını sürdürmek istiyor. Çaykur R",
+      "link": "https://www.haberturk.com/spor/caykur-rizespor-fenerbahce-maci-canli-anlatim-rz-fb-trendyol-super-lig-maci-kac-kac-mac-skoru-ve-3918641",
+      "published": "2026-10-10T15:58:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:25.452787+00:00"
+    },
+    {
       "id": "1a743c1a2c22c163",
       "source": "Yeniçağ",
       "title": "Alanyaspor ile Erzurumspor FK yenişemedi: Alanya'da gol sesi çıkmadı",
@@ -61,6 +149,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-10T16:00:57.022702+00:00"
+    },
+    {
+      "id": "8745b49d65ff3b48",
+      "source": "Ekonomim",
+      "title": "ABD'de ölümcül ilaç verilen idam mahkumu hayatta kalmıştı, tedavi edilerek taburcu edildi",
+      "summary": "ABD&#039;nin Tennessee eyaletinde 30 Eylül&#039;de iki doz ölümcül ilaç verilmesine rağmen hayatta kalan idam mahkumu Christa Pike&#039;ın, tedavisi tamamlanarak hapishaneye nakledildiği belirtildi.",
+      "link": "https://www.ekonomim.com/dunya/abdde-olumcul-ilac-verilen-idam-mahkumu-hayatta-kalmisti-tedavi-edilerek-taburcu-edildi-haberi-923872",
+      "published": "2026-10-10T15:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:59.629945+00:00"
     },
     {
       "id": "38ac9ea6872a2e34",
@@ -226,6 +325,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-10T15:50:51.309886+00:00"
+    },
+    {
+      "id": "68d14d2a11a97f9b",
+      "source": "Habertürk",
+      "title": "Eyüpsultan Belediyesi CHP'de kaldı",
+      "summary": "CHP'nin adayı Cafer Parlak Başkanvekili oldu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-eyupsultan-belediyesi-chp-de-kaldi-3918778",
+      "published": "2026-10-10T15:50:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:25.452813+00:00"
     },
     {
       "id": "c5cfe6fbb2fd5c6d",
@@ -1229,6 +1339,17 @@
       "fetched_at": "2026-10-10T15:10:44.910230+00:00"
     },
     {
+      "id": "9ab5eb0f4faf0859",
+      "source": "Yeniçağ",
+      "title": "Çaykur Rizespor-Fenerbahçe (Canlı Anlatım)",
+      "summary": "Trendyol Süper Lig&#039;in 7. haftasında Fenerbahçe Çaykur Rizespor ile deplasmanda karşı karşıya geliyor. Rize&#039;de saat 19.00&#039;da başlayan karşılaşmayı hakem Ozan Ergün yönetiyor.",
+      "link": "https://www.yenicaggazetesi.com/caykur-rizespor-fenerbahce-canli-anlatim-1080742h.htm",
+      "published": "2026-10-10T15:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:36.173685+00:00"
+    },
+    {
       "id": "1e29f411218d9b0a",
       "source": "Kısa Dalga",
       "title": "Bir dakikada bugün ne oldu?",
@@ -1414,6 +1535,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-10T15:05:37.543879+00:00"
+    },
+    {
+      "id": "33ba96de6bdb445c",
+      "source": "Yeniçağ",
+      "title": "150 dekar alan zarar gördü: Servetleri biranda yok oldu",
+      "summary": "Manisa Alaşehir&#039;de çıkan ot yangını rüzgarla büyüyerek zeytinlik ve bahçelere sıçradı. Evlere ramak köylülerin ve itfaiyenin yoğun çabası sonrası kontrol altına alındı. Yangında 150 dekar alan zarar görürken 12 dekar zeytinlik küle döndü.150 dekar alan zarar gördü",
+      "link": "https://www.yenicaggazetesi.com/150-dekar-alan-zarar-gordu-servetleri-biranda-yok-oldu-1080740h.htm",
+      "published": "2026-10-10T15:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:36.173753+00:00"
     },
     {
       "id": "5a547dfdb92dd24c",
@@ -1634,6 +1766,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-10T15:01:12.671710+00:00"
+    },
+    {
+      "id": "ea7fbf48de9ae1de",
+      "source": "Türkiye Gazetesi",
+      "title": "İŞTE SEÇİM SONUCU",
+      "summary": "Eyüpsultan Belediye Başkanvekilliği seçimini CHP’nin adayı kazandı. Dördüncü tur oylamasında CHP adayı 19 oy, Cumhur İttifakı’nın adayı 16 oy alırken, 2 oy geçersiz sayıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/eyupsultanda-baskanvekilligi-yarisi-kizisti-chpnin-hesabi-sasti-gozler-dorduncu-turda-1821877",
+      "published": "2026-10-10T14:53:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:31.081631+00:00"
     },
     {
       "id": "ab1946ca03582d27",
@@ -3792,6 +3935,17 @@
       "fetched_at": "2026-10-10T13:45:38.963150+00:00"
     },
     {
+      "id": "7e1d611de21f522b",
+      "source": "Sabah",
+      "title": "CANLI | Süper Lig’de Rizespor – Fenerbahçe maçı! İlk yarı oynanıyor",
+      "summary": "Rizespor, Süper Lig’in 7. haftasında Fenerbahçe’yi konuk ediyor. Karşılaşmanın canlı anlatımını haberimizden takip edebilirsiniz. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/spor/futbol/2026/10/10/canli-super-ligde-rizespor-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda",
+      "published": "2026-10-10T13:41:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-10T16:05:33.730756+00:00"
+    },
+    {
       "id": "41f0f54767f2bd6a",
       "source": "Sabah",
       "title": "CANLI | Süper Lig’de Rizespor – Fenerbahçe maçı! İlk 11'ler belli oldu",
@@ -5352,160 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-10T13:05:44.597436+00:00"
-    },
-    {
-      "id": "1463e205c4fe7830",
-      "source": "Karar",
-      "title": "Lefkoşa'da \"Türk Dünyası Diyalogları\" paneli düzenlenecek",
-      "summary": "İletişim Başkanlığı, \"Türk Dünyası Diyalogları: Ortak Gelecek, Ortak Vizyon\" panelini Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) başkenti Lefkoşa'da düzenleyecek.",
-      "link": "https://www.karar.com/guncel-haberler/lefkosada-turk-dunyasi-diyaloglari-paneli-duzenlenecek-2077561",
-      "published": "2026-10-10T12:57:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:04.245164+00:00"
-    },
-    {
-      "id": "e2598159510eb33c",
-      "source": "Yeni Şafak",
-      "title": "Bolu'da keşfedildi: Birçok sektöre ham madde olabilecek",
-      "summary": "Bolu’da, doktora öğrencisi Elif Akbulut, Karca-Kabak Yaylası mevkisindeki kayaçlar üzerinde Ar-Ge çalışması yaptı. Çalışmasında, kayacın seramik üretiminin yanı sıra inşaat, yapı kimyasalları, boya ve kaplama sanayi ile yalıtım teknolojilerinde de kullanılabileceği sonucuna varan Akbulut, “Bölgede daha önce bu kayaç türü üzerine yapılmış herhangi bir jeolojik veya seramik tabanlı araştırma bulunma",
-      "link": "https://www.yenisafak.com/galeri/gundem/boluda-kesfedildi-bircok-sektore-ham-madde-olabilecek-4863168",
-      "published": "2026-10-10T12:57:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:01.499093+00:00"
-    },
-    {
-      "id": "3468a4fee4634b76",
-      "source": "Diken",
-      "title": "Ronaldo Portekiz'de kadro dışı: Disiplin soruşturması başlatıldı",
-      "summary": "Ronaldo Portekiz'de kadro dışı: Disiplin soruşturması başlatıldı 10.10.2026 Diken Portekiz Futbol Federasyonu, Cristiano Ronaldo hakkında disiplin soruşturması başlatarak geçici olarak kadrodan çıkardı. The post Ronaldo Portekiz'de kadro dışı: Disiplin soruşturması başlatıldı appeared first on #site_linkat 10.10.2026 .",
-      "link": "https://www.diken.com.tr/ronaldo-portekizde-kadro-disi-disiplin-sorusturmasi-baslatildi/?utm_source=rss&utm_medium=rss&utm_campaign=ronaldo-portekizde-kadro-disi-disiplin-sorusturmasi-baslatildi",
-      "published": "2026-10-10T12:57:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:05:38.183816+00:00"
-    },
-    {
-      "id": "d9ce8e293ce2439b",
-      "source": "Diken",
-      "title": "Portekiz'de Ronaldo kadro dışı: Disiplin soruşturması başlatıldı",
-      "summary": "Portekiz'de Ronaldo kadro dışı: Disiplin soruşturması başlatıldı 10.10.2026 Diken Portekiz Futbol Federasyonu, Cristiano Ronaldo hakkında disiplin soruşturması başlatarak geçici olarak kadrodan çıkardı. The post Portekiz'de Ronaldo kadro dışı: Disiplin soruşturması başlatıldı appeared first on #site_linkat 10.10.2026 .",
-      "link": "https://www.diken.com.tr/portekizde-ronaldo-kadro-disi-disiplin-sorusturmasi-baslatildi/?utm_source=rss&utm_medium=rss&utm_campaign=portekizde-ronaldo-kadro-disi-disiplin-sorusturmasi-baslatildi",
-      "published": "2026-10-10T12:57:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:07.922939+00:00"
-    },
-    {
-      "id": "cc3790a93b9b505c",
-      "source": "Yeniçağ",
-      "title": "Özlem Zengin'den Özgür Özel'e: Birbirlerini yemekten memlekete hayırları dokunmuyor",
-      "summary": "AK Parti Grup Başkanvekili Özlem Zengin, CHP lideri Özgür Özel&#039;in TBMM&#039;deki fon tartışmalarına ilişkin sözlerine tepki gösterdi. Özel&#039;i yalan söylemekle suçlayan Zengin, Meclis oturumuna sağlık sorunları nedeniyle katılamadığını belirterek, &quot;Bu ne insanidir ne de ahlakidir&quot; dedi.",
-      "link": "https://www.yenicaggazetesi.com/ozlem-zenginden-ozgur-ozele-birbirlerini-yemekten-memlekete-hayirlari-dokunmuyor-1080691h.htm",
-      "published": "2026-10-10T12:57:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:04.935424+00:00"
-    },
-    {
-      "id": "d75dc09424fd797e",
-      "source": "Yeni Yaşam",
-      "title": "Amedspor, galibiyeti uzatmalarda yediği golle kaçırdı",
-      "summary": "Amedspor, Süper Lig’in 7’nci haftasında deplasmanda karşılaştığı Gençlerbirliği ile 2-2 berabere kaldı Süper Lig’in 7’nci haftasında Amedspor, Ankara’daki Eryaman Stadyumu’nda Gençlerbirliği’ne konuk oldu. Saat 13.30’da başlayan karşılaşmayı hakem Ümit Öztürk yönetti. Karşılaşmanın 25’inci dakikasında kazanılan penaltıda topun başına geçen Dia Saba, topu ağlarla buluşturarak Amedspor’u 1-0 öne geç",
-      "link": "https://yeniyasamgazetesi9.com/amedspor-galibiyeti-uzatmalarda-yedigi-golle-kacirdi/",
-      "published": "2026-10-10T12:57:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:18.316911+00:00"
-    },
-    {
-      "id": "600858ebdaead48f",
-      "source": "Evrensel",
-      "title": "Londra'da binler Filistin için yürüdü: İsrail'e silah satışları durdurulsun",
-      "summary": "İngiltere’nin başkenti Londra’da binlerce kişi, İsrail’in Filistin halkına yönelik saldırılarının ve soykırımın durdurulması talebiyle yürüyüş düzenledi.",
-      "link": "https://www.evrensel.net/haber/6004336/londrada-binler-filistin-icin-yurudu-israile-silah-satislari-durdurulsun?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-10T12:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:10:35.925353+00:00"
-    },
-    {
-      "id": "03d6252928de1afa",
-      "source": "Star",
-      "title": "Yolsuzluk soruşturmasında yeni gelişme: Şüpheliler adliyede",
-      "summary": "Esenyurt Belediyesine yönelik yolsuzluk soruşturması kapsamında düzenlenen operasyonlarda gözaltına alınan aralarında belediye başkan yardımcısının da bulunduğu 17 zanlı adliyeye sevk edildi.",
-      "link": "https://www.star.com.tr/guncel/yolsuzluk-sorusturmasinda-yeni-gelisme-supheliler-adliyede-haber-2045725/",
-      "published": "2026-10-10T12:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:01.883062+00:00"
-    },
-    {
-      "id": "29ead4289acdc9c3",
-      "source": "Karar",
-      "title": "Microsoft, Win 11 arama çubuğunu komut merkezine dönüştürdü: Sistem belleği rahatlayacak",
-      "summary": "Windows 11 kullanıcılarını yakından ilgilendiren arama çubuğu, WinUI 3 altyapısıyla sıfırdan inşa edilerek doğrudan komut merkezine dönüşüyor. Test kullanıcılarına açılan yeni arayüz sayesinde Ayarlar menüsünü açmadan tek komutla sistem tercihleri değiştirilebiliyor, bellek kullanımı azalırken arama hızı katlanıyor.",
-      "link": "https://www.karar.com/teknoloji-haberleri/windows-11-arama-cubugu-nasil-ozellestirilir-windows-11-yeni-arama-2077560",
-      "published": "2026-10-10T12:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:04.245212+00:00"
-    },
-    {
-      "id": "5890da2fd6927ea0",
-      "source": "Bianet",
-      "title": "“Okulda ölmek istemiyoruz” diyen öğretmene disiplin cezası",
-      "summary": "Açıklamayı sendikal faaliyetleri kapsamında yaptığını söyleyen Toy, bu gerekçeyle savunma vermeyi reddetti.",
-      "link": "https://bianet.org/haber/okulda-olmek-istemiyoruz-diyen-ogretmene-disiplin-cezasi-324297",
-      "published": "2026-10-10T12:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:11.919328+00:00"
-    },
-    {
-      "id": "58b7d9f70f820013",
-      "source": "Gazete Pencere",
-      "title": "Cafer Mahiroğlu'ndan Kılıçdaroğlu'na yanıt: Sayın butlan...",
-      "summary": "Halk TV'nin sahibi Cafer Mahiroğlu, Kemal Kılıçdaroğlu’nun Halk TV’yi hedef alan açıklamalarına tepki gösterdi: Sayın butlan...",
-      "link": "https://www.gazetepencere.com/gundem/cafer-mahiroglundan-kilicdarogluna-yanit-sayin-butlan-718726h",
-      "published": "2026-10-10T12:55:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:06.872004+00:00"
-    },
-    {
-      "id": "190f850020462412",
-      "source": "Yeni Şafak",
-      "title": "X-Ray öncesi yaptığı hareket yakalattı: Araçtan binlerce hap çıktı",
-      "summary": "Edirne’den Yunanistan'a açılan İpsala Sınır Kapısı'nda, Türkiye'ye giriş yapacak araçta 17 bin 121 uyuşturucu hap ele geçirildi. Gözaltına alınan 1 kişi tutuklandı.",
-      "link": "https://www.yenisafak.com/galeri/gundem/x-ray-oncesi-yaptigi-hareket-yakalatti-aractan-binlerce-hap-cikti-4863167",
-      "published": "2026-10-10T12:55:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:01:01.499132+00:00"
-    },
-    {
-      "id": "248f81d7bab95133",
-      "source": "Bir Gün",
-      "title": "Iğdırspor-Batman Petrol maçı saat kaçta ve hangi kanalda?",
-      "summary": "Iğdırspor-Batman Petrol maçı hangi kanalda yayınlanacak, şifresiz izlenebilecek mi? Trendyol 1. Lig karşılaşması saat kaçta başlayacak ve nerede oynanacak? Yanıtlar haberimizde.",
-      "link": "https://www.birgun.net/haber/igdirspor-batman-petrol-maci-saat-kacta-ve-hangi-kanalda-739764",
-      "published": "2026-10-10T12:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T13:40:36.913437+00:00"
-    },
-    {
-      "id": "cdeff46b77136241",
-      "source": "Yeniçağ",
-      "title": "Ölümün pençesinden aldığı eşini öldürdü: Kan donduran itiraf",
-      "summary": "Trabzon’un Arsin ilçesinde yaşanan kadın cinayeti, arkasında acı bir dram bıraktı. 20 gün önce borç ve icra problemleri nedeniyle eşinden anlaşmalı olarak boşanan 33 yaşındaki adam eşini ölümden kurtardı. Sonra sokakta kurşun yağmuruna tuttu. Cani adam cinayeti soğukkanlı bir şekilde anlattı.",
-      "link": "https://www.yenicaggazetesi.com/olumun-pencesinden-aldigi-esini-oldurdu-kan-donduran-itiraf-1080690h.htm",
-      "published": "2026-10-10T12:54:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T12:55:40.116242+00:00"
     }
   ]
 }

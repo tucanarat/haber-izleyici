@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-10-11T11:11:02.267712+00:00",
+  "last_updated": "2026-10-11T11:15:57.260699+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 531,
+  "new_items_this_run": 505,
   "items": [
+    {
+      "id": "9841d395664aaa7c",
+      "source": "Akşam",
+      "title": "Sarıyer'de şüpheli ölüm! Mide ameliyatı geçiren kadından acı haber",
+      "summary": "Sarıyer'de, bir süre önce mide küçültme ameliyatı olduğu öğrenilen 48 yaşındaki Müyesser Kartav, 16 yaşındaki kızı tarafından evinde ölü bulundu. Şüpheli bulunan ölümle ilgili soruşturma başlatıldı.",
+      "link": "https://www.aksam.com.tr/guncel/sariyerde-supheli-olum-mide-ameliyati-geciren-kadindan-aci-/haber-1705299",
+      "published": "2026-10-11T11:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:39.344218+00:00"
+    },
+    {
+      "id": "8d30186fe5bb4b26",
+      "source": "Star",
+      "title": "Manchester United'da Julian Nagelsmann sesleri",
+      "summary": "Premier Lig ekibi Manchester United'da mevcut teknik direktör Michael Carrick'in geleceği yönetim tarafından değerlendirmeye alında. Olası bir ayrılık durumunda ise Julian Nagelsmann'ın adaylar arasında yer aldığı iddia edildi.",
+      "link": "https://www.star.com.tr/spor/manchester-unitedda-julian-nagelsmann-sesleri-haber-2045872/",
+      "published": "2026-10-11T11:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:40.225767+00:00"
+    },
+    {
+      "id": "7127ac99a417ab6f",
+      "source": "Yeni Yaşam",
+      "title": "Paraguay’da kadınlar binlerce kadın sokakta",
+      "summary": "Deisy Paola Gimenez’in ayrılma kararı aldığı erkek tarafından katledilmesinin ardından binlerce kadın sokağa çıktı Paraguay’da 22 yaşındaki Deisy Paola Gimenez’in ayrılma kararı aldığı erkek tarafından katledilmesinin ardından binlerce kadın, başkent Asunción’un kent merkezinde yürüyüş gerçekleştirdi. Paraguay Feminist Koalisyonu ve çeşitli insan hakları kolektiflerinin çağrısıyla bir araya gelen ",
+      "link": "https://yeniyasamgazetesi9.com/paraguayda-kadinlar-binlerce-kadin-sokakta/",
+      "published": "2026-10-11T11:13:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:46.587712+00:00"
+    },
+    {
+      "id": "2250e6be73216bf4",
+      "source": "Gazete Pencere",
+      "title": "Ankara Barosu’nda seçim günü",
+      "summary": "Ankara Barosu’nun 69. Olağan Genel Kurulu’nda oy verme işlemi başladı. Başkanlık için dört aday yarışıyor.",
+      "link": "https://www.gazetepencere.com/gundem/ankara-barosunda-secim-gunu-718810h",
+      "published": "2026-10-11T11:13:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:42.041850+00:00"
+    },
+    {
+      "id": "8f630427782b037c",
+      "source": "Milliyet",
+      "title": "Türkiye ile KKTC arasında ödemelerde yeni dönem",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından İstanbul Finans Merkezi'nde (İFM) düzenlenen İstanbul Ekonomi Forumu, 8-9 Ekim'de dünyanın dört bir yanından merkez bankası başkanları ile üst düzey politika yapıcılarını bir araya getirdi. KKTC Merkez Bankası Başkanı Rifat Günay, forumda yaptığı değerlendirmede, küresel ekonomide mevcut sorunların devam ettiğini belirterek, bu problemlerin tedar",
+      "link": "https://www.milliyet.com.tr/ekonomi/turkiye-ile-kktc-arasinda-odemelerde-yeni-donem-7677297",
+      "published": "2026-10-11T11:12:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:38.688759+00:00"
+    },
+    {
+      "id": "e19d49e22f0e853f",
+      "source": "Akşam",
+      "title": "Şebnem Ferah'tan Antalya'da konser!",
+      "summary": "Rock müzik şarkıcısı Şebnem Ferah, Antalya'da verdiği konserde 15 bin müzikseverle bir araya geldi.",
+      "link": "https://www.aksam.com.tr/venus/sebnem-ferahtan-antalyada-konser/haber-1705298",
+      "published": "2026-10-11T11:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:39.344249+00:00"
+    },
+    {
+      "id": "44493bf70b582262",
+      "source": "Karar",
+      "title": "Bakan Memişoğlu’ndan sigara düzenlemesi açıklaması: “Önceliğimiz 18 yaş altı”",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, 18 yaş altındakilere tütün ürünü satışının önüne geçilmesi amacıyla yaş doğrulama sistemleri üzerinde çalışıldığını açıkladı. Elektronik sistemler dahil farklı seçeneklerin değerlendirildiğini belirten Memişoğlu, yeni kanun taslağı ve mevzuat çalışmalarında kişisel verilerin korunması ile mahremiyetin gözetileceğini vurguladı. Memişoğlu, sigara içmeyenlerin “temiz ha",
+      "link": "https://www.karar.com/saglik-haberleri/bakan-memisoglundan-sigara-duzenlemesi-aciklamasi-onceligimiz-18-yas-2077671",
+      "published": "2026-10-11T11:11:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:40.760374+00:00"
+    },
+    {
+      "id": "66ea5175989480e8",
+      "source": "Akşam",
+      "title": "Bakan Memişoğlu: Önceliğimiz çocukları tütünün zararlı etkilerinden korumak",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Vatandaşlarımız müsterih olsun, önceliğimiz 18 yaş altındaki çocuklarımıza yaş doğrulaması yaparak tütün ürünü satışını önlemek ve onları tütünün zararlı etkilerinden korumaktır.\" açıklamasında bulundu.",
+      "link": "https://www.aksam.com.tr/guncel/bakan-memisoglu-onceligimiz-cocuklari-tutunun-zararli-etkilerinden-korumak/haber-1705297",
+      "published": "2026-10-11T11:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:39.344283+00:00"
+    },
     {
       "id": "52844fd132d8bbba",
       "source": "Gazete Pencere",
@@ -17,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T11:10:43.180796+00:00"
+    },
+    {
+      "id": "2aa693ad2add9c5a",
+      "source": "Milliyet",
+      "title": "Hava 27 dereceye çıktı, İstanbullular denize koştu! 'Pastırma yazını nihayet gördük'",
+      "summary": "İstanbul’da sıcak havanın etkisini sürdürdüğü pazar günü, haftasonunu değerlendirmek isteyenler Aşiyan Sahili’ne akın etti. Sıcak havanın keyfini çıkarmak isteyenler sahilde yürüyüş yaparken bazıları da denize girerek yüzdü. Dün 28 derece bugün ise 27 dereceye kadar çıkan hava sıcaklığını fırsat bilenler haftasonunu deniz kenarlarında ve parklarda geçirdi. 'HERKESİ DENİZE GİRMEYE DAVET EDİYORUZ' S",
+      "link": "https://www.milliyet.com.tr/gundem/hava-27-dereceye-cikti-istanbullular-denize-kostu-pastirma-yazini-nihayet-gorduk-7677296",
+      "published": "2026-10-11T11:10:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:38.687334+00:00"
     },
     {
       "id": "d6c1050c59af59a5",
@@ -3231,6 +3330,17 @@
       "fetched_at": "2026-10-11T09:40:31.695881+00:00"
     },
     {
+      "id": "953fd1082305cc07",
+      "source": "OdaTV",
+      "title": "Tır ile kamyon çarpıştı: Çok sayıda can kaybı, onlarca yaralı",
+      "summary": "Manisa&#039;da bir Tır ile yolcu otobüsü çarpıştı. Kazada 11 kişi hayatını kaybetti, 27 kişi yaralandı.",
+      "link": "https://www.odatv.com/guncel/manisada-tir-ile-kamyon-carpisti-cok-sayida-can-kaybi-onlarca-yarali-120166167",
+      "published": "2026-10-11T09:36:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:15:42.222406+00:00"
+    },
+    {
       "id": "39ba6329a534fac1",
       "source": "OdaTV",
       "title": "TIR ile kamyon çarpıştı: Çok sayıda can kaybı, onlarca yaralı",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T09:01:06.754489+00:00"
-    },
-    {
-      "id": "4509bb0402b20426",
-      "source": "Star",
-      "title": "Rusya'dan Elon Musk'a dikkat çeken çağrı: Putin-Trump Tüneli'ne başlamanın zamanı geldi",
-      "summary": "Rusya Devlet Başkanı Vladimir Putin'in uluslararası ekonomik işbirliğinden sorumlu özel temsilcisi Kiril Dmitriyev, ABD'li iş insanı Elon Musk'ın şirketi The Boring Company'ye Rusya ile ABD arasında tünel inşa etme çağrısında bulundu.",
-      "link": "https://www.star.com.tr/dunya/rusyadan-elon-muska-dikkat-ceken-cagri-putin-trump-tuneline-baslamanin-zamani-geldi-haber-2045856/",
-      "published": "2026-10-11T08:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T08:50:41.031293+00:00"
-    },
-    {
-      "id": "0434499b4086d3e5",
-      "source": "Habertürk",
-      "title": "MotoGP Endonezya'da zafer Bezzecchi'nin!",
-      "summary": "MotoGP Dünya Şampiyonası'nda Endonezya Grand Prix'sini, Aprilia takımından İtalyan Marco Bezzecchi kazandı. Milli motosikletçi Toprak Razgatlıoğlu ise yaşadığı mekanik sorun nedeniyle yarışı tamamlayamadı.",
-      "link": "https://www.haberturk.com/spor/motogp-endonezya-grand-prix-sini-marco-bezzecchi-kazandi-3918857",
-      "published": "2026-10-11T08:47:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:00:50.640943+00:00"
-    },
-    {
-      "id": "554cef3d433ccc89",
-      "source": "Aydınlık",
-      "title": "Cumhurbaşkanı Erdoğan'dan ‘Türk Dünyası Gençlik Buluşması’na mesaj",
-      "summary": "Cumhurbaşkanı Erdoğan, Kocaeli&#039;de düzenlenen &#039;Türk Dünyası Gençlik Buluşması&#039;na bir video mesaj gönderdi. Türkiye&#039;nin gençlere olan desteğinin süreceğini belirten Erdoğan, &quot;Dilde, fikirde, işte birlik&quot; mefkuresini daha da ileriye taşımayı hedeflediklerini ifade etti.",
-      "link": "https://www.aydinlik.com.tr/haber/cumhurbaskani-erdogandan-turk-dunyasi-genclik-bulusmasina-mesaj-593965",
-      "published": "2026-10-11T08:47:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T08:50:43.349781+00:00"
-    },
-    {
-      "id": "520b932faf243621",
-      "source": "Bianet",
-      "title": "Husiler Riyad Havalimanı'nı bir haftada üçüncü kez vurdu: 12 ölü",
-      "summary": "Suudi Arabistan'ın başkenti Riyad'daki uluslararası havalimanına düzenlenen füze saldırısında 12 kişi hayatını kaybetti, 309 kişi yaralandı. Suudi Arabistan öncülüğündeki koalisyon saldırıdan Husileri sorumlu tutarken, ABD Başkanı Donald Trump, Yemen'deki Husilere yönelik askeri operasyonlara katılabileceklerini söyledi.",
-      "link": "https://bianet.org/haber/husiler-riyad-havalimani-ni-bir-haftada-ucuncu-kez-vurdu-12-olu-324303",
-      "published": "2026-10-11T08:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:50:45.590812+00:00"
-    },
-    {
-      "id": "ae7d9b106d023ee0",
-      "source": "Bir Gün",
-      "title": "Galatasaray-Barcelona maçının hakemi belli",
-      "summary": "Galatasaray’ın Şampiyonlar Ligi’nde Barcelona’yı konuk edeceği karşılaşmada İtalyan hakem Marco Guida görev yapacak.",
-      "link": "https://www.birgun.net/haber/galatasaray-barcelona-macinin-hakemi-belli-739866",
-      "published": "2026-10-11T08:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:35:30.168529+00:00"
-    },
-    {
-      "id": "8195e5949cee819c",
-      "source": "Bianet",
-      "title": "Husiler Riyad Havalimanı bir haftada üçüncü kez vurdu: 12 ölü",
-      "summary": "Suudi Arabistan'ın başkenti Riyad'daki uluslararası havalimanına düzenlenen füze saldırısında 12 kişi hayatını kaybetti, 309 kişi yaralandı. Suudi Arabistan öncülüğündeki koalisyon saldırıdan Husileri sorumlu tutarken, ABD Başkanı Donald Trump, Yemen'deki Husilere yönelik askeri operasyonlara katılabileceklerini söyledi.",
-      "link": "https://bianet.org/haber/husiler-riyad-havalimani-bir-haftada-ucuncu-kez-vurdu-12-olu-324303",
-      "published": "2026-10-11T08:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:05:38.652161+00:00"
-    },
-    {
-      "id": "2f9f8c59f1cc7add",
-      "source": "Akşam",
-      "title": "Bakan Memişoğlu: Beyindeki nikotin reseptörleri üç günde sönüyor",
-      "summary": "Sağlık Bakanı Kemal Memişoğlu, nikotin bağımlılığı sona erdiğinde beyindeki nikotin reseptörlerinin üç günde kapanmaya başladığını bildirdi.",
-      "link": "https://www.aksam.com.tr/guncel/bakan-memisoglu-beyindeki-nikotin-reseptorleri-uc-gunde-sonuyor/haber-1705269",
-      "published": "2026-10-11T08:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T08:50:39.567625+00:00"
-    },
-    {
-      "id": "24436cb273156ec8",
-      "source": "Akşam",
-      "title": "Çocuklar Duymasın'daki o sahne gündem oldu: İşte ölmeden önce mutlaka görmeniz gereken 6 yer!",
-      "summary": "Çocuklar Duymasın dizisinin bölümlerinden birinde, Haluk ve Meltem karakterleri ülkemizde mutlaka görülmesi gereken yerleri anlatmış ve bu sahne, sosyal medyada yıllar sonra gündem olmuştu. Peki o sahneye göre; ülkemizde ölmeden önce mutlaka görmemiz gereken yerler arasında nereler bulunuyor?",
-      "link": "https://www.aksam.com.tr/seyahat/cocuklar-duymasindaki-o-sahne-gundem-oldu-iste-olmeden-once-mutlaka-gormeniz-gereken-6-yer/haber-1705268",
-      "published": "2026-10-11T08:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T08:50:39.567665+00:00"
-    },
-    {
-      "id": "52b5f81df4a21b61",
-      "source": "Ekonomim",
-      "title": "Güney Kıbrıs’tan Doğu Akdeniz’de 205 milyon Euro'luk askeri üs planı",
-      "summary": "Güney Kıbrıs Rum Yönetimi (GKRY), Doğu Akdeniz’de askeri üslerini genişletmek için 205 milyon euroluk deniz üssü projesini hayata geçirmeye hazırlanırken, ABD’nin desteğiyle Baf’taki hava üssünü modernize etmeyi ve Avrupa Birliği’nden 1,2 milyar euroluk savunma finansmanı sağlamayı hedefliyor.",
-      "link": "https://www.ekonomim.com/dunya/guney-kibristan-dogu-akdenizde-205-milyon-euroluk-askeri-us-plani-haberi-923944",
-      "published": "2026-10-11T08:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T08:50:51.648104+00:00"
-    },
-    {
-      "id": "2cf228347e4eabe5",
-      "source": "Karar",
-      "title": "İstanbul’a 250 yeni taksi geliyor: İhale tarihi belli oldu",
-      "summary": "İBB Uygulama Bazlı Taksi Modeli kapsamında 250 yeni taksi plakası için 10’uncu ihale gerçekleştirilecek. 13 Ekim Salı günü Yenikapı Etkinlik Alanı’nda yapılacak ihalede plakalar, gerçek kişilere 29 yıl süreyle işletme hakkı verilerek tahsis edilecek. Bugüne kadar model kapsamında 691 plaka ihale edilirken, 615 araç ruhsat alarak hizmet vermeye başladı.",
-      "link": "https://www.karar.com/sehir-haberleri/istanbula-250-yeni-taksi-geliyor-ihale-tarihi-belli-oldu-2077643",
-      "published": "2026-10-11T08:45:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T08:50:41.804688+00:00"
     }
   ]
 }

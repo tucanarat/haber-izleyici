@@ -1,12 +1,133 @@
 {
-  "last_updated": "2026-10-11T09:15:58.436471+00:00",
+  "last_updated": "2026-10-11T09:21:04.640587+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 494,
+  "new_items_this_run": 520,
   "items": [
+    {
+      "id": "2e43696543f4dbe5",
+      "source": "Gazete Pencere",
+      "title": "İstanbul'da taksiler için yeni dönem",
+      "summary": "İBB’nin “Uygulama Bazlı Taksi Modeli” büyümeye ve İstanbul genelinde yaygınlaşmaya devam ederken, sistemin yeni etabı için ihale süreci devam ediyor.",
+      "link": "https://www.gazetepencere.com/gundem/istanbulda-taksiler-icin-yeni-donem-718788h",
+      "published": "2026-10-11T09:20:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:48.175684+00:00"
+    },
+    {
+      "id": "531a941a92f5ee40",
+      "source": "Karar",
+      "title": "8 yaşındaki Oğuzhan'ın ölümünde kan donduran ifade: Dayım ağabeyimi camdan attı",
+      "summary": "İstanbul Bahçelievler'de 8 yaşındaki Oğuzhan Moğol'un 6'ncı kattaki evin penceresinden düşerek hayatını kaybetmesine ilişkin soruşturma tamamlandı. Oğuzhan'ın ablası G.H.M.'nin, kardeşini dayısı Mustafa Uğur S.'nin camdan aşağı attığını söylemesi üzerine yürütülen soruşturmada iddianame hazırlandı. Savcılık, dayı Mustafa Uğur S.'nin \"çocuğu kasten öldürme\" suçundan ağırlaştırılmış müebbet hapisle ",
+      "link": "https://www.karar.com/guncel-haberler/8-yasindaki-oguzhanin-olumunde-kan-donduran-ifade-dayim-agabeyimi-2077650",
+      "published": "2026-10-11T09:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:45.727207+00:00"
+    },
+    {
+      "id": "a8fd37be451a945b",
+      "source": "Türkiye Gazetesi",
+      "title": "FATİH TERİM’E VETO",
+      "summary": "Vincenzo Montella ile yollarını ayıran TFF’de yeni teknik direktör arayışı hız kazandı. Arda Turan’ın ilk sırada yer aldığı yerli adaylar arasında Fatih Terim’e soğuk bakılırken, yabancı listesinde Nagelsmann, Deschamps ve Pereira gibi dikkat çeken isimler bulunuyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/a-milli-takimda-fatih-terime-veto-montella-sonrasi-6-adayli-yaris-1821977",
+      "published": "2026-10-11T09:17:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:39.417308+00:00"
+    },
+    {
+      "id": "af10fae5d24714f7",
+      "source": "Akşam",
+      "title": "Alanya'da oto yıkamada silahlı kavga! Ölü sayısı 2'ye yükseldi",
+      "summary": "Antalya'nın Alanya ilçesindeki bir oto yıkamada çıkan silahlı kavgada hayatını kaybedenlerin sayısı 2'ye çıktı.",
+      "link": "https://www.aksam.com.tr/yasam/alanyada-oto-yikamada-silahli-kavga-olu-sayisi-2ye-yukseldi/haber-1705279",
+      "published": "2026-10-11T09:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:43.197269+00:00"
+    },
+    {
+      "id": "aa331f7e9afdbf6d",
+      "source": "Halk TV",
+      "title": "Okan Buruk'un yerden yere vurduğu hakem yine Galatasaray maçında",
+      "summary": "Galatasaray&#039;ın 13 Ekim Salı günü Barcelona ile oynayacağı Şampiyonlar Ligi karşılaşmasına İtalyan hakem Marco Guida atandı.",
+      "link": "https://halktv.com.tr/spor/okan-burukun-yerden-yere-vurdugu-hakem-yine-galatasay-macinda-1060898h",
+      "published": "2026-10-11T09:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:48.969401+00:00"
+    },
+    {
+      "id": "358562b5235971ef",
+      "source": "Habertürk",
+      "title": "\"'Film yıldızı olamazsın' dediler\"",
+      "summary": "Oscar, Altın Küre, BAFTA, Tony ödüllerinin sahibi olan İngiliz oyuncu Judi Dench, kariyerinin başlarında kendisine neden film yıldızı olamayacağının söylendiğini açıkladı",
+      "link": "https://www.haberturk.com/magazin/kariyerinin-basinda-judi-dench-e-soylendi-sinema-yildizi-olamazsin-cunku-yuzunde-her-sey-yanlis-3918863",
+      "published": "2026-10-11T09:16:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:32.091881+00:00"
+    },
+    {
+      "id": "d769cc374c68dd48",
+      "source": "LOG",
+      "title": "Anthropic, iç testlerde yapay zeka modellerinin internet erişimini kapattı",
+      "summary": "Anthropic, yapay zeka modellerinin/sistemlerinin aralarında ABD devlet kurumlarına ait olanların da bulunduğu bazı web sitelerindeki açıkları istismar ettiğini belirterek bu riske karşı tüm iç değerlendirmelerde canlı internet erişimini kapattığını açıkladı. İç değerlendirme, bir yapay zeka şirketinin modellerini kendi bünyesinde ya da anlaştığı dış ortaklarla test etmesi anlamına geliyor. Amaç, m",
+      "link": "https://www.log.com.tr/anthropic-ic-testlerde-yapay-zeka-modellerinin-internet-erisimini-kapatti/",
+      "published": "2026-10-11T09:16:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:21:00.913837+00:00"
+    },
+    {
+      "id": "08e0b05441e63e0c",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine hava ve topçu saldırıları düzenledi",
+      "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldeleri hava ve topçu saldırılarıyla hedef aldı.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-ve-topcu-saldirilari-duzenledi/4085009",
+      "published": "2026-10-11T09:16:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:37.961338+00:00"
+    },
+    {
+      "id": "e4b1618aafea235f",
+      "source": "Karar",
+      "title": "Mersin'de 51 yaşındaki imam mezarlıkta ölü bulundu",
+      "summary": "Mersin'in Tarsus ilçesinde Yanıkdam Camisi'nde görev yapan 51 yaşındaki imam Halil Kısa, odun kesmek için gittiği Alibeyli Mahallesi'ndeki mezarlıkta ölü bulundu. Yakınlarının ihbarı üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Kısa'nın ağaçtan düşmesi sonucu hayatını kaybettiği değerlendirilirken cenazesi otopsi için morga kaldırıldı.",
+      "link": "https://www.karar.com/sehir-haberleri/mersinde-51-yasindaki-imam-mezarlikta-olu-bulundu-2077649",
+      "published": "2026-10-11T09:16:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:45.727251+00:00"
+    },
+    {
+      "id": "1dc8f7578175c0ae",
+      "source": "Cumhuriyet",
+      "title": "Yozgat'ta tarımda ekim sezonu başladı: Çiftçiler sezona borçlu girdi",
+      "summary": "Yozgat’ta, şekerpancarı ve yağlık ayçiçeğinde hasat devam ederken, diğer taraftan da 2026-2027 sezonuna yönelik ekim sezonuna yönelik çalışmalara başlandı. Hububat fiyatları ile mazot ve gübre maliyetleri arasındaki makasın açılması, üreticinin yeni sezon öncesi endişelerini artırdı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/yozgat-ta-tarimda-ekim-sezonu-basladi-ciftciler-sezona-borclu-girdi-2545583",
+      "published": "2026-10-11T09:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:38.306620+00:00"
+    },
+    {
+      "id": "1f6194b9e7510b64",
+      "source": "Aydınlık",
+      "title": "Dilek Yarımadası’nda doğal yaşam ve tarihi miras incelendi",
+      "summary": "Aydın Valisi Dr. Osman Varol, 804 bitki türünün bulunduğu Dilek Yarımadası Büyük Menderes Deltası Milli Parkı’nda doğal yaşamın korunması, güvenlik ve tarihi yapıların durumu hakkında incelemelerde bulundu.",
+      "link": "https://www.aydinlik.com.tr/haber/dilek-yarimadasinda-dogal-yasam-ve-miras-incelemesi-593970",
+      "published": "2026-10-11T09:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:47.385191+00:00"
+    },
     {
       "id": "5a01f1df0a583d02",
       "source": "Akşam",
@@ -39,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T09:15:40.155871+00:00"
+    },
+    {
+      "id": "8bae3574398d5246",
+      "source": "Ekonomim",
+      "title": "IMF ve Dünya Bankası’ndan Bangkok’ta kritik ekonomi mesaisi",
+      "summary": "Bu yıl Tayland&#039;ın başkenti Bangkok&#039;ta 12-18 Ekim&#039;de düzenlenecek toplantılar, küresel ekonomide belirsizliklerin devam ettiği, yükselen enerji maliyetleri, enflasyon ve artan borç yüküne yönelik endişelerin derinleştiği bir dönemde gerçekleşecek.",
+      "link": "https://www.ekonomim.com/kuresel-ekonomi/imf-ve-dunya-bankasindan-bangkokta-kritik-ekonomi-mesaisi-haberi-923947",
+      "published": "2026-10-11T09:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:55.451106+00:00"
     },
     {
       "id": "66c754611c60c9b8",
@@ -303,6 +435,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T09:05:35.192009+00:00"
+    },
+    {
+      "id": "c48ef51d9f1105ba",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İran Dışişleri Bakanı Erakçi: ABD ve İsrail'in enerji tesislerine saldırıları çevresel sonuçlara yol açtı",
+      "summary": "Erakçi, ABD ve İsrail'in İran'ın enerji tesislerine yönelik saldırılarının geniş çaplı çevresel sonuçlara yol açtığını, çevrenin siyasi baskı aracı veya kısa vadeli ekonomik ve askeri çıkarların kurbanı haline getirilmemesi gerektiğini söyledi.",
+      "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-abd-ve-israilin-enerji-tesislerine-saldirilari-cevresel-sonuclara-yol-acti/4085001",
+      "published": "2026-10-11T09:01:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:37.961377+00:00"
     },
     {
       "id": "6e4a0cd115ba5921",
@@ -3363,6 +3506,17 @@
       "fetched_at": "2026-10-11T07:55:29.611864+00:00"
     },
     {
+      "id": "8f0103486320710f",
+      "source": "Independent Türkçe",
+      "title": "Türkiye'nin Irak'tan çekilmesi ne anlama geliyor?",
+      "summary": "Amerikan kuvvetleri 30 Eylül 2026’da Irak’tan çekilip komşu ülkelere konuşlandığında, hükümet ve İran bağlantılı Şii Haşdi Şabi milisleri çekilme tarihini \"millî egemenlik günü\" olarak kutladılar. Buna karşılık Irak Kürdistan Bölgesi yönetimi telaşlandı ve endişelerini kamuoyuyla paylaştı. Diğer yandan, çekilme olayının tam anlamıyla \"egemenliğini tekrar elde etme\" olup olmadığı tartışmalıdır. Zir",
+      "link": "https://www.indyturk.com/node/783680/t%C3%BCrki%CC%87yeden-sesler/t%C3%BCrkiyenin-iraktan-%C3%A7ekilmesi-ne-anlama-geliyor",
+      "published": "2026-10-11T07:48:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:52.842861+00:00"
+    },
+    {
       "id": "1c43742735c7e34a",
       "source": "Yeni Yaşam",
       "title": "3’üncü kez ÇED olumlu raporu verildi: Bağımsız inceleme yapılsın",
@@ -4991,6 +5145,17 @@
       "fetched_at": "2026-10-11T07:10:34.613708+00:00"
     },
     {
+      "id": "db3f2c15921e169e",
+      "source": "Habertürk",
+      "title": "Park etme sırasında facia! Çarptığı kocası hayatını kaybetti!",
+      "summary": "İstanbul Sultangazi'de Mehrınoz B. adlı kadın, aracını kaldırıma park etmek isterken kendisine yön tarifi yapan dini nikahlı eşi Hayrettin Şen'e çarptı. Feci olayda, aracın altında kalan Şen hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/park-etme-sirasinda-facia-carptigi-kocasi-hayatini-kaybetti-3918842",
+      "published": "2026-10-11T07:05:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T09:20:32.092469+00:00"
+    },
+    {
       "id": "beafdc10934b8f29",
       "source": "Independent Türkçe",
       "title": "Nâzım Hikmet'in açlık grevinin ardında aşk mı vardı?",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T07:00:58.517299+00:00"
-    },
-    {
-      "id": "714b9c82c0e613e2",
-      "source": "Serbestiyet",
-      "title": "Suudi- Husi savaşı kızışıyor: Husiler Riyad Havalimanı’nı vurdu: 12 ölü",
-      "summary": "Yemen’de İran destekli Husiler Suudi Arabistan’ın başkenti Riyad’da havalimanını vurdu: 12 kişi hayatını kaybetti, 309 kişi yaralandı. Suudi- Husi savaşı kızışıyor: Husiler Riyad Havalimanı’nı vurdu: 12 ölü yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/featured/suudi-husi-savasi-kizisiyor-husiler-riyad-havalimanini-vurdu-12-olu-251121/",
-      "published": "2026-10-11T06:57:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:01:07.768766+00:00"
-    },
-    {
-      "id": "019fc0b33af3660a",
-      "source": "Bir Gün",
-      "title": "Hakan Akkaya’dan Avrupa Şampiyonası’nda bir madalya daha",
-      "summary": "Milli para eskrimci Hakan Akkaya, Cardiff’te düzenlenen Avrupa Şampiyonası’nda erkekler flöre A kategorisinde bronz madalya kazandı. Akkaya, epede de gümüş madalya elde etmişti.",
-      "link": "https://www.birgun.net/haber/hakan-akkayadan-avrupa-sampiyonasinda-bir-madalya-daha-739852",
-      "published": "2026-10-11T06:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:45:38.075064+00:00"
-    },
-    {
-      "id": "b955cdac66ee2baf",
-      "source": "Finans Gündem",
-      "title": "e-Tebligat sisteminde yeni düzenleme! 30 Kasım vurgusu",
-      "summary": "Yeni düzenlemeye göre kurumlar vergisi ve gerçek usulde vergilendirilen gelir vergisi mükellefleri ile belirli şirketlerin e-Tebligat sistemine 30 Kasım’a kadar dahil olması gerekiyor. İşte detaylar...",
-      "link": "https://www.finansingundemi.com/haber/e-tebligat-sisteminde-yeni-duzenleme-30-kasim-vurgusu/1911106",
-      "published": "2026-10-11T06:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:05:50.700847+00:00"
-    },
-    {
-      "id": "23c95694be65ca4f",
-      "source": "Cumhuriyet",
-      "title": "Mide küçültme ameliyatı olmuş... İstanbul'da şüpheli ölüm: 16 yaşındaki kızı annesini yatağında ölü buldu",
-      "summary": "İstanbul Sarıyer'de 48 yaşındaki Müyesser Kartav, okuldan eve dönen 16 yaşındaki kızı tarafından yatağında ölü bulundu. Yaklaşık 5 ay önce mide küçültme ameliyatı geçirdiği ve sonrasında sık sık rahatsızlandığı öğrenilen Kartav'ın ölümü şüpheli bulundu. Kesin ölüm nedeninin belirlenmesi için inceleme başlatılırken, ölüm haberini alan akrabalar arasında kavga çıktı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/mide-kucultme-ameliyati-olmus-istanbul-da-supheli-olum-16-yasindaki-kizi-annesini-yataginda-olu-buldu-2545545",
-      "published": "2026-10-11T06:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:00:53.640859+00:00"
-    },
-    {
-      "id": "30ecc734516922ae",
-      "source": "Kısa Dalga",
-      "title": "Özgür Özel: AKP’ye gitmeyenin hapse atıldığı, gidenin kürsüye çağırıldığı bir dönemdeyiz",
-      "summary": "Özgür Özel, \"İzmir, Aydın, Afyon gibi belediye başkanları gibi karakter zaafiyeti olanlar böyle dönemlerde kendilerinin yaptığı usulsüzlükler önlerine konunca AKP’ye gidiyor. AKP’ye gitmeyenin hapse atıldığı, gidenin kürsüye çağırıldığı bir dönemdeyiz. Hırsıza değil, mağdura gelip hesap soran bir anlayışa teslim olacak değilim\" dedi.",
-      "link": "https://kisadalga.net/haber/gundem/ozgur-ozel-akpye-gitmeyenin-hapse-atildigi-gidenin-kursuye-cagirildigi-bir-donemdeyiz-140874",
-      "published": "2026-10-11T06:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:01:05.910145+00:00"
-    },
-    {
-      "id": "7f1995cfc984dc65",
-      "source": "CNBC-e",
-      "title": "Rusya, dizel ihracat yasağını ABD için kaldırdı: İşte dünyaya sevk edilecek dizel yakıt miktarı",
-      "summary": "Rusya, dizel ihracat yasağını kısmen kaldırdığını açıkladı. ABD Başkanı Trump ile Rusya Devlet Başkanı Putin arasında varılan mutabakat doğrultusunda karar alındığını bildiren Rus hükümeti, ilk aşamada 500 bin ton dizel yakıtın dünya piyasalarına sevk edilmesine olanak sağlanacağını aktardı.",
-      "link": "https://www.cnbce.com/enerji/rusya-dizel-ihracat-yasagini-abd-icin-kaldirdi-iste-dunyaya-sevk-edilecek-dizel-yakit-miktari-h39182",
-      "published": "2026-10-11T06:56:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:01:10.584203+00:00"
-    },
-    {
-      "id": "1f570e93b6da1fda",
-      "source": "Habertürk",
-      "title": "Beşiktaş'ın Kocaelispor 11'i",
-      "summary": "Beşiktaş, Süper Lig'in 7. haftasında bu akşam Kocaelispor'u konuk ediyor. Siyah-beyazlılar milli ara dönüşü lige üç puanla başlayıp zirve iddiasını sürdürmek istiyor. Körfez ekibi Kocaelispor da güçlü rakibinden puan veya puanlar almayı hedefliyor. İki takım da ilk 6 haftada 4'er galibiyet ve 2'şer mağlubiyetle 12 puan topladı. Beşiktaş Teknik Direktörü Vincenzo Italiano, kritik karşılaşmada sahay",
-      "link": "https://www.haberturk.com/spor/besiktas-kocaelispor-maci-ne-zaman-saat-kacta-hangi-kanalda-bjk-kocaeli-super-lig-maci-canli-izle-besiktas-kocaelispor-muhtemel-11-ler-3918838",
-      "published": "2026-10-11T06:56:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:05:24.742988+00:00"
-    },
-    {
-      "id": "296447898dc80121",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Voleybolda Erkekler Şampiyonlar Kupası yarın sahibini bulacak",
-      "summary": "Ziraat Bankkart ile Galatasaray voleybol takımları arasındaki 2026 Erkekler AXA Sigorta Şampiyonlar Kupası maçı, yarın Kırıkkale'de oynanacak.",
-      "link": "https://www.aa.com.tr/tr/spor/voleybolda-erkekler-sampiyonlar-kupasi-yarin-sahibini-bulacak/4084879",
-      "published": "2026-10-11T06:56:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:00:53.327215+00:00"
-    },
-    {
-      "id": "535eeee30e50f783",
-      "source": "Cumhuriyet",
-      "title": "Cemil Tugay 'transfer' sürecini anlattı: 'Keşke AK Parti'ye gelsen de daha uyumlu çalışsak'",
-      "summary": "İzmir Büyükşehir Belediye Başkanı Cemil Tugay, AKP'ye geçiş sürecinde \"kırılma\"yı Çevre ve Şehircilik Bakanı Murat Kurum'la yaptığı görüşmeyle yaşadığını söyledi. Tugay, Kurum'un \"Keşke sen AK Parti'ye gelsen de daha uyumlu çalışsak. AK Parti'yle olursan daha da başarılı işler yaparsın\" dediğini belirtti.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/cemil-tugay-transfer-surecini-anlatti-keske-ak-parti-ye-gelsen-de-daha-uyumlu-calissak-2545544",
-      "published": "2026-10-11T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:00:53.640905+00:00"
-    },
-    {
-      "id": "a6bf123b0f8fde51",
-      "source": "OdaTV",
-      "title": "35'ten dördü gitti: Sezon başında peş peşe finaller... Dizilerde anneler çocuklarıyla yaşıt oldu... TRT Müzik yeni nesli unuttu",
-      "summary": "Sina Koloğlu yazdı...",
-      "link": "https://www.odatv.com/yazarlar/sina-kologlu/35-diziden-dordu-gitti-sezon-basinda-pes-pese-finaller-120166139",
-      "published": "2026-10-11T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:01:01.691322+00:00"
-    },
-    {
-      "id": "896b13ebd332ccce",
-      "source": "Star",
-      "title": "Semih Güler Antalyaspor maçında yok",
-      "summary": "1. Lig ekiplerinden Kayserispor'un takım kaptanı Semih Güler, sarı kart cezalısı olduğu için Antalyaspor maçında forma giyemeyecek.",
-      "link": "https://www.star.com.tr/spor/semih-guler-antalyaspor-macinda-yok-haber-2045840/",
-      "published": "2026-10-11T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T06:55:32.130393+00:00"
-    },
-    {
-      "id": "48d0c867e8260ba1",
-      "source": "Türkiye Gazetesi",
-      "title": "Ulu Cami'de sabah namazı şehri kilitledi",
-      "summary": "Sabah namazını Ulu Cami'de kılmak isteyenlerin oluşturduğu yoğunluk, Bursa Atatürk Caddesi'nde trafiği kilitledi. 3 şeritli cadde, vatandaşların yola taşmasıyla tek şeride düşürdü.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/ulu-camide-sabah-namazi-sehri-kilitledi-bursada-yol-tek-seride-dustu-1821957",
-      "published": "2026-10-11T06:54:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:05:31.591398+00:00"
-    },
-    {
-      "id": "b175b02bd189ac2e",
-      "source": "Türkiye Gazetesi",
-      "title": "Ulu Cami'de sabah namazı",
-      "summary": "Sabah namazını Ulu Cami'de kılmak isteyenlerin oluşturduğu yoğunluk, Bursa Atatürk Caddesi'nde trafiği kilitledi. 3 şeritli cadde, vatandaşların yola taşmasıyla tek şeride düşürdü.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/ulu-camide-sabah-namazi-sehri-kilitledi-bursada-yol-tek-seride-dustu-1821957",
-      "published": "2026-10-11T06:54:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:00:54.515015+00:00"
-    },
-    {
-      "id": "3a52e8173d26afd8",
-      "source": "Independent Türkçe",
-      "title": "İngiltere'nin Irak'taki görünmez nüfuz harekâtı",
-      "summary": "Bir ülkenin askerleri çekilebilir, üsleri kapanabilir ve askerî operasyonları sona erebilir. Ancak siyasi etkisini korumak isteyen bir devletin faaliyetleri aynı anda sona ermez. Mücadelenin araçları değişir. Medya, sosyal medya platformları, reklam şirketleri ve davranış bilimleri, bilgi ortamında yürütülen harekâtın araçları haline gelebilir. Irak’ta İngiltere’nin yürüttüğü ileri sürülen örtülü ",
-      "link": "https://www.indyturk.com/node/783676/t%C3%BCrki%CC%87yeden-sesler/i%CC%87ngilterenin-iraktaki-g%C3%B6r%C3%BCnmez-n%C3%BCfuz-harek%C3%A2t%C4%B1",
-      "published": "2026-10-11T06:53:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T07:05:45.727504+00:00"
-    },
-    {
-      "id": "6f90ebf2e9428e04",
-      "source": "Halk TV",
-      "title": "Riyad’da okullarda yüz yüze eğitime bir hafta ara verildi",
-      "summary": "Yemen&#039;deki Husilerin saldırılarının hedefinde Suudi Arabistan var. Başkent Riyad&#039;da saldırılarının ardından okullarda yüz yüze eğitime bir hafta ara verilerek uzaktan eğitime geçildi.",
-      "link": "https://halktv.com.tr/dunya/riyadda-okullarda-yuz-yuze-egitime-bir-hafta-ara-verildi-1060878h",
-      "published": "2026-10-11T06:53:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T06:55:36.425672+00:00"
     }
   ]
 }

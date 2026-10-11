@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-11T23:31:19.144114+00:00",
+  "last_updated": "2026-10-11T23:35:50.333291+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 562,
+  "new_items_this_run": 531,
   "items": [
+    {
+      "id": "a8f0be44991474f6",
+      "source": "OdaTV",
+      "title": "Küçükçekmece'de yıkılan bina çöktü",
+      "summary": "Küçükçekmece&#039;de kentsel dönüşüm kapsamında yıkımı gerçekleştirilen 7 katlı binanın çökme anı, cep telefonu kamerasına yansıdı.",
+      "link": "https://www.odatv.com/guncel/kucukcekmecede-yikilan-bina-coktu-120166226",
+      "published": "2026-10-11T23:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T23:35:35.993817+00:00"
+    },
     {
       "id": "8eb915a2ab845723",
       "source": "Yeniçağ",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T18:35:40.800489+00:00"
-    },
-    {
-      "id": "210bc4ccffb92cf7",
-      "source": "Milliyet",
-      "title": "Husiler havalimanını vurdu! Suudi Arabistan'ın başkentinden korkunç görüntüler: Can kaybı artıyor, yüzlerce yaralı var",
-      "summary": "Suudi Arabistan'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda hayatını kaybedenlerin sayısının 13'e yükseldiği belirtildi. Hindistan'ın Riyad Büyükelçiliğinden yapılan yazılı açıklamaya göre, dün düzenlenen saldırıda yaralanan bir Hindistan vatandaşı yaşamını yitirdi. Böylece dünkü saldırıda ölenlerin sayısı 13'e yükselmiş oldu. Suudi Arabistan Sivil Havacılık Genel Kurulu (GACA)",
-      "link": "https://www.milliyet.com.tr/dunya/husiler-havalimanini-vurdu-suudi-arabistanin-baskentinden-korkunc-goruntuler-can-kaybi-artiyor-yuzlerce-yarali-var-7677426",
-      "published": "2026-10-11T18:31:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T18:35:36.986187+00:00"
     }
   ]
 }

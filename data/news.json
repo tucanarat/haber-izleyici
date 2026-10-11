@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-11T22:35:47.291385+00:00",
+  "last_updated": "2026-10-11T22:40:54.740450+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 564,
+  "new_items_this_run": 559,
   "items": [
+    {
+      "id": "ec25a9ca1c2d512c",
+      "source": "Star",
+      "title": "Marsilya, Troyes deplasmanında kazandı",
+      "summary": "Fransa Ligue 1'in 6. haftasında Marsilya, deplasmanda Troyes'i mağlup ederek haftayı 3 puanla tamamladı.",
+      "link": "https://www.star.com.tr/spor/marsilya-troyes-deplasmaninda-kazandi-haber-2045983/",
+      "published": "2026-10-11T22:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T22:40:37.775802+00:00"
+    },
     {
       "id": "1deaf00f69c66e8c",
       "source": "Akşam",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T18:10:35.626057+00:00"
-    },
-    {
-      "id": "f0073c480d9faeef",
-      "source": "Halk TV",
-      "title": "Beşiktaş bir galibiyetle üç kuş birden vurdu",
-      "summary": "Sedat KAYA yazdı: Beşiktaş bir galibiyetle üç kuş birden vurdu",
-      "link": "https://halktv.com.tr/makale/besiktas-bir-galibiyetle-uc-kus-birden-vurdu-1060970",
-      "published": "2026-10-11T18:07:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T18:10:44.610320+00:00"
     }
   ]
 }

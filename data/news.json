@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-10-11T11:46:07.936360+00:00",
+  "last_updated": "2026-10-11T11:51:02.241086+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 532,
+  "new_items_this_run": 533,
   "items": [
+    {
+      "id": "f88a7460da23d7c2",
+      "source": "Akşam",
+      "title": "ABD'de silahlı saldırı: 8 can kaybı",
+      "summary": "ABD'nin Pensilvanya eyaletinde 45 yaşındaki bir adam, hamile bir kadın ve iki çocuğun da aralarında bulunduğu 8 kişiyi vurarak öldürdü.",
+      "link": "https://www.aksam.com.tr/dunya/abdde-silahli-saldiri-8-can-kaybi/haber-1705305",
+      "published": "2026-10-11T11:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:38.701743+00:00"
+    },
+    {
+      "id": "541bc3944f07a96d",
+      "source": "Yeni Şafak",
+      "title": "MSB acı haberi duyurdu: Bir askerimiz görev sırasında rahatsızlanarak şehit oldu",
+      "summary": "MSB: Kara Kuvvetleri Komutanlığı emrinde görevli silah arkadaşımız Piyade Uzman Çavuş Yusuf Güneş görev esnasında rahatsızlanarak hastaneye sevk edilmiş, yapılan tüm müdahalelere rağmen kurtarılamayarak 11 Ekim’de şehit olmuştur.",
+      "link": "https://www.yenisafak.com/gundem/msb-aci-haberi-duyurdu-bir-askerimiz-gorev-sirasinda-rahatsizlanarak-sehit-oldu-4863387",
+      "published": "2026-10-11T11:48:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:39.475997+00:00"
+    },
+    {
+      "id": "154d49f5c03ffb9b",
+      "source": "Milliyet",
+      "title": "MSB duyurdu: Piyade Uzman Çavuş Yusuf Güneş şehit oldu",
+      "summary": "Bakanlığın sanal medya hesabından yapılan açıklamada, \"Kara Kuvvetleri Komutanlığı emrinde görevli silah arkadaşımız Piyade Uzman Çavuş Yusuf Güneş, görev esnasında rahatsızlanarak hastaneye sevk edilmiş, yapılan tüm müdahalelere rağmen kurtarılamayarak 11 Ekim 2026 tarihinde şehit olmuştur. Bizleri derin bir acı ve üzüntüye boğan bu olayda hayatını kaybeden aziz şehidimize Allah’tan rahmet; keder",
+      "link": "https://www.milliyet.com.tr/gundem/msb-duyurdu-piyade-uzman-cavus-yusuf-gunes-sehit-oldu-7677309",
+      "published": "2026-10-11T11:48:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:38.044198+00:00"
+    },
+    {
+      "id": "0d610a0c533cd592",
+      "source": "Yeniçağ",
+      "title": "Çağla Şıkel'in en mutlu günü: Oğlu Kuzey Türkiye şampiyonu oldu",
+      "summary": "Çağla Şıkel ile Emre Altuğ, oğulları Kuzey&#039;in büyük başarısıyla bir kez daha gururlandı. Türkiye İzeltaş MotoSurf ve Su Jeti Şampiyonası&#039;nda nefes kesen bir mücadeleye imza atan Kuzey Altuğ, dördüncü sıradan başladığı yarışı birincilikle tamamlayarak Türkiye Şampiyonu oldu.",
+      "link": "https://www.yenicaggazetesi.com/cagla-sikelin-en-mutlu-gunu-oglu-kuzey-turkiye-sampiyonu-oldu-1080944h.htm",
+      "published": "2026-10-11T11:47:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:41.739700+00:00"
+    },
+    {
+      "id": "8ba11e36c0110cf0",
+      "source": "Yeniçağ",
+      "title": "Motorlu testereyle üzerine koştu: O anlar kamerada",
+      "summary": "Bursa’nın Orhangazi ilçesine bağlı Yeniköy Mahallesi&#039;nde akıllara durgunluk veren ve güvenlik kameralarına saniye saniye yansıyan skandal bir olay meydana geldi. Yolda kendi halinde yürüyen 76 yaşındaki yaşlı adam, hiç beklemediği bir anda korku yaşadı.",
+      "link": "https://www.yenicaggazetesi.com/motorlu-testereyle-uzerine-kostu-o-anlar-kamerada-1080943h.htm",
+      "published": "2026-10-11T11:47:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:41.739723+00:00"
+    },
+    {
+      "id": "3cc47bc16c62e255",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Papa 14. Leo, Karadeniz'de tahılın güvenli biçimde taşınmasına izin verilmesi çağrısı yaptı",
+      "summary": "Papa 14. Leo, Rusya-Ukrayna Savaşı’nın özellikle tahıl ithalatına bağımlı en yoksul ülkeleri etkilediğini belirterek, \"Çatışmanın taraflarına, Karadeniz'den tahılın güvenli bir şekilde taşınmasına izin vermeleri için çağrıda bulunuyorum.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-karadenizde-tahilin-guvenli-bicimde-tasinmasina-izin-verilmesi-cagrisi-yapti/4085129",
+      "published": "2026-10-11T11:47:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:32.373557+00:00"
+    },
+    {
+      "id": "817fec52787d2fb1",
+      "source": "Halk TV",
+      "title": "İmamoğlu AKP'nin 10 yıllık karnesini paylaştı! \"Düşün milletin yakasından artık\"",
+      "summary": "Cumhurbaşkanı adayı Ekrem İmamoğlu, &quot;Yönetemiyorsunuz… Düşün milletin yakasından artık!&quot; diyerek AKP&#039;nin son 10 yıllık karnesini paylaştı.",
+      "link": "https://halktv.com.tr/turkiye/imamoglu-akpnin-10-yillik-karnesini-paylasti-dusun-milletin-yakasindan-artik-1060922h",
+      "published": "2026-10-11T11:46:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:44.350593+00:00"
+    },
+    {
+      "id": "a532c74ddc8a2191",
+      "source": "Halk TV",
+      "title": "Katliam gibi kazada yeni görüntüler: Otobüsün Bursa'dan yolcu aldığı anlar ortaya çıktı",
+      "summary": "Manisa&#039;nın Akhisar ilçesinde 11 kişinin hayatını kaybettiği, 26 kişinin yaralandığı kazada tur otobüsünün Bursa&#039;dan yolcu aldığı anlara ilişkin güvenlik kamerası kayıtlarına ulaşıldı.",
+      "link": "https://halktv.com.tr/turkiye/katliam-gibi-kazada-yeni-goruntuler-otobusun-bursadan-yolcu-aldigi-anlar-ortaya-cikti-1060921h",
+      "published": "2026-10-11T11:45:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:44.350616+00:00"
+    },
     {
       "id": "414713ca7f1b3d2e",
       "source": "Halk TV",
@@ -28,6 +116,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T11:45:40.627325+00:00"
+    },
+    {
+      "id": "ff3ea937cd46f74d",
+      "source": "Ekonomim",
+      "title": "Türkiye'nin 9 aylık fındık ihracatı 1,9 milyar doları aştı",
+      "summary": "Türkiye’nin ocak-eylül dönemindeki fındık ihracatı, geçen yılın aynı dönemine göre miktar bazında gerilerken gelir bazında artış gösterdi. 152 bin 543 ton fındık ihracatından 1 milyar 919 milyon 691 bin dolar gelir elde edildi.",
+      "link": "https://www.ekonomim.com/ekonomi/turkiyenin-9-aylik-findik-ihracati-19-milyar-dolari-asti-haberi-923971",
+      "published": "2026-10-11T11:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:51.318706+00:00"
     },
     {
       "id": "4ed81e3321c2cca7",
@@ -798,6 +897,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T11:20:41.177661+00:00"
+    },
+    {
+      "id": "b57ebb668bc962da",
+      "source": "Hürriyet",
+      "title": "Yürekleri ağza getiren ev Diyarbakır'da ilgi odağı oldu: Kanyonun ortasında yaşıyorlar",
+      "summary": "Diyarbakır'ın Çüngüş ilçesinde, kanyonda yaklaşık 168 metre yükseklikteki kayalık üzerinde bulunan ve bir vatandaşın oturduğu ev ile bitişiğindeki bahçe görenlerin dikkatini çekiyor. İki ayrı kaya üzerindeki ev ile bahçesini birbirine bağlayan köprüsüyle hayrete düşüren yapının, 1965'ten sonra Murat Aktaş'ın dedeleri tarafından inşa edildiği belirtildi.",
+      "link": "https://www.hurriyet.com.tr/gundem/yurekleri-agza-getiren-ev-diyarbakirda-ilgi-odagi-oldu-kanyonun-ortasinda-yasiyorlar-43337625",
+      "published": "2026-10-11T11:15:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T11:50:36.662158+00:00"
     },
     {
       "id": "9cd421101a37d761",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T09:55:28.660157+00:00"
-    },
-    {
-      "id": "531a941a92f5ee40",
-      "source": "Karar",
-      "title": "8 yaşındaki Oğuzhan'ın ölümünde kan donduran ifade: Dayım ağabeyimi camdan attı",
-      "summary": "İstanbul Bahçelievler'de 8 yaşındaki Oğuzhan Moğol'un 6'ncı kattaki evin penceresinden düşerek hayatını kaybetmesine ilişkin soruşturma tamamlandı. Oğuzhan'ın ablası G.H.M.'nin, kardeşini dayısı Mustafa Uğur S.'nin camdan aşağı attığını söylemesi üzerine yürütülen soruşturmada iddianame hazırlandı. Savcılık, dayı Mustafa Uğur S.'nin \"çocuğu kasten öldürme\" suçundan ağırlaştırılmış müebbet hapisle ",
-      "link": "https://www.karar.com/guncel-haberler/8-yasindaki-oguzhanin-olumunde-kan-donduran-ifade-dayim-agabeyimi-2077650",
-      "published": "2026-10-11T09:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:20:45.727207+00:00"
-    },
-    {
-      "id": "52c17777abbdd41e",
-      "source": "Türkiye Gazetesi",
-      "title": "A Milli Takım’da Fatih Terim’e veto: Montella sonrası 6 adaylı yarış",
-      "summary": "Vincenzo Montella ile yollarını ayıran TFF’de yeni teknik direktör arayışı hız kazandı. Arda Turan’ın ilk sırada yer aldığı yerli adaylar arasında Fatih Terim’e soğuk bakılırken, yabancı listesinde Nagelsmann, Deschamps ve Pereira gibi dikkat çeken isimler bulunuyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/a-milli-takimda-fatih-terime-veto-montella-sonrasi-6-adayli-yaris-1821977",
-      "published": "2026-10-11T09:17:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T11:35:31.253659+00:00"
-    },
-    {
-      "id": "a8fd37be451a945b",
-      "source": "Türkiye Gazetesi",
-      "title": "FATİH TERİM’E VETO",
-      "summary": "Vincenzo Montella ile yollarını ayıran TFF’de yeni teknik direktör arayışı hız kazandı. Arda Turan’ın ilk sırada yer aldığı yerli adaylar arasında Fatih Terim’e soğuk bakılırken, yabancı listesinde Nagelsmann, Deschamps ve Pereira gibi dikkat çeken isimler bulunuyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/a-milli-takimda-fatih-terime-veto-montella-sonrasi-6-adayli-yaris-1821977",
-      "published": "2026-10-11T09:17:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:20:39.417308+00:00"
-    },
-    {
-      "id": "af10fae5d24714f7",
-      "source": "Akşam",
-      "title": "Alanya'da oto yıkamada silahlı kavga! Ölü sayısı 2'ye yükseldi",
-      "summary": "Antalya'nın Alanya ilçesindeki bir oto yıkamada çıkan silahlı kavgada hayatını kaybedenlerin sayısı 2'ye çıktı.",
-      "link": "https://www.aksam.com.tr/yasam/alanyada-oto-yikamada-silahli-kavga-olu-sayisi-2ye-yukseldi/haber-1705279",
-      "published": "2026-10-11T09:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:20:43.197269+00:00"
-    },
-    {
-      "id": "aa331f7e9afdbf6d",
-      "source": "Halk TV",
-      "title": "Okan Buruk'un yerden yere vurduğu hakem yine Galatasaray maçında",
-      "summary": "Galatasaray&#039;ın 13 Ekim Salı günü Barcelona ile oynayacağı Şampiyonlar Ligi karşılaşmasına İtalyan hakem Marco Guida atandı.",
-      "link": "https://halktv.com.tr/spor/okan-burukun-yerden-yere-vurdugu-hakem-yine-galatasay-macinda-1060898h",
-      "published": "2026-10-11T09:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:20:48.969401+00:00"
-    },
-    {
-      "id": "358562b5235971ef",
-      "source": "Habertürk",
-      "title": "\"'Film yıldızı olamazsın' dediler\"",
-      "summary": "Oscar, Altın Küre, BAFTA, Tony ödüllerinin sahibi olan İngiliz oyuncu Judi Dench, kariyerinin başlarında kendisine neden film yıldızı olamayacağının söylendiğini açıkladı",
-      "link": "https://www.haberturk.com/magazin/kariyerinin-basinda-judi-dench-e-soylendi-sinema-yildizi-olamazsin-cunku-yuzunde-her-sey-yanlis-3918863",
-      "published": "2026-10-11T09:16:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:20:32.091881+00:00"
-    },
-    {
-      "id": "d769cc374c68dd48",
-      "source": "LOG",
-      "title": "Anthropic, iç testlerde yapay zeka modellerinin internet erişimini kapattı",
-      "summary": "Anthropic, yapay zeka modellerinin/sistemlerinin aralarında ABD devlet kurumlarına ait olanların da bulunduğu bazı web sitelerindeki açıkları istismar ettiğini belirterek bu riske karşı tüm iç değerlendirmelerde canlı internet erişimini kapattığını açıkladı. İç değerlendirme, bir yapay zeka şirketinin modellerini kendi bünyesinde ya da anlaştığı dış ortaklarla test etmesi anlamına geliyor. Amaç, m",
-      "link": "https://www.log.com.tr/anthropic-ic-testlerde-yapay-zeka-modellerinin-internet-erisimini-kapatti/",
-      "published": "2026-10-11T09:16:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:21:00.913837+00:00"
-    },
-    {
-      "id": "08e0b05441e63e0c",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine hava ve topçu saldırıları düzenledi",
-      "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldeleri hava ve topçu saldırılarıyla hedef aldı.",
-      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-ve-topcu-saldirilari-duzenledi/4085009",
-      "published": "2026-10-11T09:16:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:20:37.961338+00:00"
-    },
-    {
-      "id": "e4b1618aafea235f",
-      "source": "Karar",
-      "title": "Mersin'de 51 yaşındaki imam mezarlıkta ölü bulundu",
-      "summary": "Mersin'in Tarsus ilçesinde Yanıkdam Camisi'nde görev yapan 51 yaşındaki imam Halil Kısa, odun kesmek için gittiği Alibeyli Mahallesi'ndeki mezarlıkta ölü bulundu. Yakınlarının ihbarı üzerine olay yerine sağlık ve polis ekipleri sevk edildi. Kısa'nın ağaçtan düşmesi sonucu hayatını kaybettiği değerlendirilirken cenazesi otopsi için morga kaldırıldı.",
-      "link": "https://www.karar.com/sehir-haberleri/mersinde-51-yasindaki-imam-mezarlikta-olu-bulundu-2077649",
-      "published": "2026-10-11T09:16:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:20:45.727251+00:00"
-    },
-    {
-      "id": "1dc8f7578175c0ae",
-      "source": "Cumhuriyet",
-      "title": "Yozgat'ta tarımda ekim sezonu başladı: Çiftçiler sezona borçlu girdi",
-      "summary": "Yozgat’ta, şekerpancarı ve yağlık ayçiçeğinde hasat devam ederken, diğer taraftan da 2026-2027 sezonuna yönelik ekim sezonuna yönelik çalışmalara başlandı. Hububat fiyatları ile mazot ve gübre maliyetleri arasındaki makasın açılması, üreticinin yeni sezon öncesi endişelerini artırdı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/yozgat-ta-tarimda-ekim-sezonu-basladi-ciftciler-sezona-borclu-girdi-2545583",
-      "published": "2026-10-11T09:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T09:20:38.306620+00:00"
     }
   ]
 }

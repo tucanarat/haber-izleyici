@@ -1,12 +1,133 @@
 {
-  "last_updated": "2026-10-11T15:35:51.630287+00:00",
+  "last_updated": "2026-10-11T15:40:51.393973+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 570,
+  "new_items_this_run": 572,
   "items": [
+    {
+      "id": "fbeed09857d6a7ee",
+      "source": "Akşam",
+      "title": "Vincenzo Italiano'dan Orkun Kökçü açıklaması",
+      "summary": "Trendyol Süper Lig'in 7. haftasında bugün sahasında Kocaelispor'u konuk edecek olan Beşiktaş'ta teknik direktör Vincenzo Italiano, Orkun Kökçü hakkında \"Orkun'un ayağında bir problem vardı ama aradan zaman geçti ve şu anda iyi durumda. Yüzde yüz değil ama iyileşti. Şu anda oynayabilir durumda\" dedi.",
+      "link": "https://www.aksam.com.tr/spor/vincenzo-italianodan-orkun-kokcu-aciklamasi/haber-1705359",
+      "published": "2026-10-11T15:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:36.535925+00:00"
+    },
+    {
+      "id": "cc3d2dbcfdb7187f",
+      "source": "Türkiye Gazetesi",
+      "title": "Yunanistan'da kritik zirve! Türk heyeti neler söyledi?",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/kose-yazilari/muzeyyen-biyik/yunanistanda-kritik-zirve-turk-heyeti-neler-soyledi-1822032",
+      "published": "2026-10-11T15:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:34.417932+00:00"
+    },
+    {
+      "id": "0890e4795ac815b5",
+      "source": "Yeni Akit",
+      "title": "İran’dan yeni savaş hazırlığı! Komutandan dikkat çeken mesaj: Sınırda bekliyoruz",
+      "summary": "ABD ile İran arasındaki gerilim sürerken Tahran’dan yeni bir savaşa ilişkin dikkat çeken açıklama geldi. İran Kara Kuvvetleri Komutanı Ali Cihanşahi, geçmiş çatışmalardan çıkarılan derslerin ardından savunma planlarının yeniden düzenlendiğini açıkladı. İran’ın sınır hattında kapsamlı askeri tedbirler aldığını belirten Cihanşahi, muharebe ve destek birliklerinin kritik bölgelerde görevlerini sürdür",
+      "link": "https://www.yeniakit.com.tr/haber/irandan-yeni-savas-hazirligi-komutandan-dikkat-ceken-mesaj-sinirda-bekliyoruz-2027608.html",
+      "published": "2026-10-11T15:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:37.538498+00:00"
+    },
+    {
+      "id": "406eeeec7db044c8",
+      "source": "Yeni Akit",
+      "title": "11 kişi böyle ölmüş! Manisa'daki korkunç kazanın görüntüleri ortaya çıktı!",
+      "summary": "Manisa'nın Akhisar ilçesinde tur otobüsü ile TIR’ın çarpışması sonucu 11 kişinin hayatını kaybettiği, 27 kişinin yaralandığı korkunç kazanın görüntüleri ortaya çıktı.",
+      "link": "https://www.yeniakit.com.tr/haber/11-kisi-boyle-olmus-manisadaki-korkunc-kazanin-goruntuleri-ortaya-cikti-2027607.html",
+      "published": "2026-10-11T15:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:37.538535+00:00"
+    },
+    {
+      "id": "1796e93c9554ad45",
+      "source": "Yeni Şafak",
+      "title": "İletişim Başkanı Duran'dan İsrail'e tepki: Tehditler Türkiye’nin duruşunu değiştirmeyecek",
+      "summary": "İletişim Başkanı Burhanettin Duran, İsrail Savunma Bakanı Israel Katz’ın Cumhurbaşkanı Recep Tayyip Erdoğan’ı ve Türkiye’yi hedef alan ifadelerine tepki gösterdi. Katz’ın açıklamalarını İsrail’de yaklaşan seçimler öncesindeki siyasi çaresizliğin göstergesi olarak nitelendiren Duran, ateşkes ve barış müzakerelerinde yer alan isimlerin ölümle tehdit edilmesini de eleştirdi.",
+      "link": "https://www.yenisafak.com/gundem/iletisim-baskani-durandan-israile-tepki-tehditler-turkiyenin-durusunu-degistirmeyecek-4863437",
+      "published": "2026-10-11T15:38:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:36.948206+00:00"
+    },
+    {
+      "id": "cd9d6f4bf690153f",
+      "source": "Cumhuriyet",
+      "title": "Son Dakika... AFAD duyurdu: Marmara Denizi'nde deprem! İstanbul'dan da hissedildi",
+      "summary": "AFAD, Marmara Denizi'nde Yalova açıklarında 2.9 büyüklüğünde bir deprem olduğunu duyurdu. Söz konusu deprem İstanbul'un belirli kesimlerinde hissedildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-afad-duyurdu-marmara-denizi-nden-deprem-istanbul-dan-da-hissedildi-2545679",
+      "published": "2026-10-11T15:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:32.448004+00:00"
+    },
+    {
+      "id": "56faca9fa82903a5",
+      "source": "Cumhuriyet",
+      "title": "Hull City, Everton'a geçit vermedi! Üst üste 4. beraberlik...",
+      "summary": "Hull City, İngiltere Premier Lig'in 6. haftasında kendi sahasında ağırladığı Everton ile 2-2 berabere kaldı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/hull-city-everton-a-gecit-vermedi-ust-uste-4-beraberlik-2545680",
+      "published": "2026-10-11T15:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:32.448038+00:00"
+    },
+    {
+      "id": "562040d654edbafe",
+      "source": "Aydınlık",
+      "title": "Trump: Rusya ve Ukrayna arasında enerji ateşkesi ilan edildi",
+      "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında enerji altyapılarına yönelik saldırıların durdurulması konusunda ateşkes sağlandığını açıkladı. Trump, anlaşmanın derhal yürürlüğe girdiğini belirterek taraflara uzlaşmaya bağlı kalmaları çağrısında bulundu.",
+      "link": "https://www.aydinlik.com.tr/haber/trump-rusya-ve-ukrayna-arasinda-enerji-ateskesi-ilan-edildi-594031",
+      "published": "2026-10-11T15:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:38.559302+00:00"
+    },
+    {
+      "id": "1bd2ac43b2c8c6ec",
+      "source": "Independent Türkçe",
+      "title": "YENİ Parti Genel Başkanı Özel: Bu millet sandıktan çıkan iradesini kimseye teslim etmeyecek",
+      "summary": "YENİ Parti Genel Başkanı Özgür Özel, Mütareke Meydanı'nda düzenlenen Mudanya Mütarekesi'nin 104'üncü Yıl Dönümü Töreni'ne katıldı. Törene, eski Başbakan Yardımcısı Murat Karayalçın ve İnönü Vakfı Başkanı, 2. Cumhurbaşkanı İsmet İnönü'nün kızı Özden Toker de katıldı. Özel yaptığı konuşmada, Mudanya Mütarekesi'nin cumhuriyete giden yolun en önemli taşlarından birini döşediğini dile getirerek, şunlar",
+      "link": "https://www.indyturk.com/node/783698/siyaset/yeni%CC%87-parti-genel-ba%C5%9Fkan%C4%B1-%C3%B6zel-bu-millet-sand%C4%B1ktan-%C3%A7%C4%B1kan-iradesini-kimseye",
+      "published": "2026-10-11T15:37:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:42.478336+00:00"
+    },
+    {
+      "id": "832f71d8a484b64b",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Eczacıbaşı: 3 - Aras Kargo: 0",
+      "summary": "Sultanlar Ligi'nin 2. haftasında Eczacıbaşı, evinde ağırladığı Aras Kargo'yu 3-0 yendi.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-eczacibasi-3-aras-kargo-0-haber-2045923/",
+      "published": "2026-10-11T15:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:37.212884+00:00"
+    },
+    {
+      "id": "ba098f426c4f42cb",
+      "source": "Yeniçağ",
+      "title": "Trump duyurdu: Rusya ve Ukrayna arasında 'enerji' ateşkesi",
+      "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında &quot;derhal yürürlüğe girecek&quot; bir &quot;enerji ateşkesi&quot; konusunda anlaşmaya varıldığını ve her iki tarafın da bunu kabul ettiğini söyledi.",
+      "link": "https://www.yenicaggazetesi.com/trump-duyurdu-rusya-ve-ukrayna-arasinda-enerji-ateskesi-1081059h.htm",
+      "published": "2026-10-11T15:36:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:38.252122+00:00"
+    },
     {
       "id": "acbfee8a7fdb93e9",
       "source": "Akşam",
@@ -96,6 +217,17 @@
       "fetched_at": "2026-10-11T15:35:40.509454+00:00"
     },
     {
+      "id": "eb38b4bc4ffe0e51",
+      "source": "OdaTV",
+      "title": "Kayseri Barosu’nda seçim sonucu belli oldu: Murat Tolga Özsoy kazandı",
+      "summary": "Kayseri Barosu’nda üç adayın yarıştığı başkanlık seçiminde mevcut başkan Murat Tolga Özsoy, yeniden başkan seçildi.",
+      "link": "https://www.odatv.com/diger-haberler/kayseri-barosunda-secim-sonucu-belli-oldu-murat-tolga-ozsoy-kazandi-120166208",
+      "published": "2026-10-11T15:31:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:39.165109+00:00"
+    },
+    {
       "id": "3cc922efbca08de3",
       "source": "Akşam",
       "title": "Hull City, Everton ile puanları paylaştı",
@@ -138,6 +270,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T15:30:52.509575+00:00"
+    },
+    {
+      "id": "061044e46e27cbbe",
+      "source": "Habertürk",
+      "title": "\"Yaz bitti. Sözde\"",
+      "summary": "Nesrin Cavadzade, yaz sezonu sona ermesine rağmen Bodrum'da güneşli günlerin tadını çıkarmayı sürdürüyor. Siyah bikinili pozlarını sosyal medya hesabından paylaşan oyuncu, fotoğraflarına \"Yaz bitti. Sözde\" notunu düştü",
+      "link": "https://www.haberturk.com/magazin/foto/nesrin-cavadzade-yaz-sezonunu-kapatmadi-3918912",
+      "published": "2026-10-11T15:30:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:29.801884+00:00"
     },
     {
       "id": "cc30e6399bb1315a",
@@ -204,6 +347,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T15:30:50.430079+00:00"
+    },
+    {
+      "id": "116e2bac327e502b",
+      "source": "Finans Gündem",
+      "title": "Avrupa piyasalarında İtalya endişesi: Goldman Sachs'tan yüzde 137 uyarısı",
+      "summary": "İtalya'nın savunma ve enerji için planladığı 28 milyar euroluk ek borçlanma paketi piyasaları tedirgin etti. Goldman Sachs, ülkenin borç/GSYİH oranının 2028'e kadar yüzde 137'ye ulaşabileceği uyarısında bulundu",
+      "link": "https://www.finansingundemi.com/haber/avrupa-piyasalarinda-italya-endisesi-goldman-sachstan-yuzde-137-uyarisi/1911144",
+      "published": "2026-10-11T15:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:45.128360+00:00"
     },
     {
       "id": "e6b113e7bcaafe3a",
@@ -281,6 +435,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T15:30:59.900858+00:00"
+    },
+    {
+      "id": "8531bb9bfce54f1b",
+      "source": "Gazete Pencere",
+      "title": "Marmara Denizi'nde deprem! İstanbul'dan da hissedildi",
+      "summary": "AFAD, Marmara Denizi'nde Yalova açıklarında 2.9 büyüklüğünde bir deprem olduğunu bildirdi. Deprem İstanbul'un çeşitli noktalarında da hissedildi.",
+      "link": "https://www.gazetepencere.com/gundem/istanbulda-hissedilen-bir-deprem-meydana-geldi-4-718837h",
+      "published": "2026-10-11T15:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T15:40:39.000680+00:00"
     },
     {
       "id": "096246da22a3af76",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T13:40:34.236860+00:00"
-    },
-    {
-      "id": "3bcd3a1bafd446d0",
-      "source": "Hürriyet",
-      "title": "Caddede röntgenci gerilimi: Kadının görüntüleri telefonundan çıktı",
-      "summary": "Zonguldak'ta caddede yürüyen kadın, bir erkeğin izinsiz olarak görüntülerini çektiğini fark etti. İhbar üzerine olay yerine polis ekipleri sevk edildi. Gizlice kayıt aldığı iddia edilen 58 yaşındaki şüphelinin telefonundan kadına ait görüntüler çıktı.",
-      "link": "https://www.hurriyet.com.tr/gundem/caddede-rontgenci-gerilimi-kadinin-goruntuleri-telefonundan-cikti-43337745",
-      "published": "2026-10-11T13:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:35:31.719508+00:00"
-    },
-    {
-      "id": "c496114821613429",
-      "source": "Akşam",
-      "title": "İletişim Başkanı Duran'dan Suudi Arabistan'a yönelik saldırılara kınama",
-      "summary": "İletişim Başkanı Burhanettin Duran, \"Suudi Arabistan'da sivilleri ve havalimanlarını hedef alan, can kayıplarına ve yaralanmalara yol açan saldırıları şiddetle lanetliyorum.\" ifadelerini kullandı.",
-      "link": "https://www.aksam.com.tr/guncel/iletisim-baskani-durandan-suudi-arabistana-yonelik-saldirilara-kinama/haber-1705328",
-      "published": "2026-10-11T13:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:35.999305+00:00"
-    },
-    {
-      "id": "e27640424fef90a1",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "60 saniyede bugün (11 Ekim 2026)",
-      "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
-      "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-11-ekim-2026/4085173",
-      "published": "2026-10-11T13:03:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T14:10:31.641883+00:00"
-    },
-    {
-      "id": "b72306d1d9b9583a",
-      "source": "Halk TV",
-      "title": "Arda Turan için flaş iddia: Maç bitti İstanbul'a uçtu",
-      "summary": "A Milli Futbol Takımı&#039;nda Vincenzo Montella&#039;nın ayrılığının ardından teknik direktörlük için adı öne çıkan Arda Turan hakkında dikkat çeken bir iddia ortaya atıldı.",
-      "link": "https://halktv.com.tr/spor/arda-turan-icin-flas-iddia-mac-bitti-istanbula-uctu-1060933h",
-      "published": "2026-10-11T13:02:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:41.548539+00:00"
-    },
-    {
-      "id": "6c8122da4664d7b5",
-      "source": "Aydınlık",
-      "title": "Özgür Özel: Çiftçi için alım garantili tarım dönemi başlatılmalı",
-      "summary": "Mudanya’da üzüm üreticileriyle buluşan Yeni Parti Genel Başkanı Özgür Özel, üretimin planlanması ve ürünlere alım garantisi verilmesi gerektiğini söyledi. Özel, çiftçiye düşük veya sıfır faizli kredi sağlanmasını önerdi.",
-      "link": "https://www.aydinlik.com.tr/haber/ozgur-ozelden-alim-garantili-tarim-donemi-cagrisi-594016",
-      "published": "2026-10-11T13:02:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:39.784584+00:00"
-    },
-    {
-      "id": "5195dcae9ef07360",
-      "source": "Star",
-      "title": "Fon soruşturması için yeni yasa önerisi! Bakan Çiftçi: Devletimiz vatandaşını mağdur etmeyecek",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Konya'da özel bir televizyon kanalı yayınında, fon soruşturması kapsamında mağduriyet yaşayan vatandaşların zararlarının karşılanmasına yönelik açıklamalarda bulundu. Bakan Çiftçi, \"Devletimiz hiçbir zaman vatandaşını mahrum etmedi, bundan sonra da etmeyecektir. Önümüzdeki günlerde somut adımlar da atılacak, bununla ilgili yasal düzenleme hazırlığı olduğunu da biliy",
-      "link": "https://www.star.com.tr/politika/fon-sorusturmasi-icin-yeni-yasa-onerisi-bakan-ciftci-devletimiz-vatandasini-magdur-etmeyecek-haber-2045888/",
-      "published": "2026-10-11T13:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:37.090530+00:00"
-    },
-    {
-      "id": "e6d688a42b87e51b",
-      "source": "Yeniçağ",
-      "title": "Türk-Japon Dostluk hurdacıya düştü: Tam 87 kiloydu: Polis devreye girdi",
-      "summary": "Buda oldu dedirten bir haber. 37 yıl önce Yalova ile Japonya’nın Tonami şehri arasında bir parka konulan Barış Çanı’nı çaldılar. 87 kilogram ağırlığında olan can bir hurdacıya 26 bin liraya satıldı. 1 kişinin yakalandığı 2 kişinin arandığı olayla ile ilgi detaylar haberimizde.",
-      "link": "https://www.yenicaggazetesi.com/turk-japon-dostluk-hurdaciya-dustu-tam-87-kiloydu-polis-devreye-girdi-1080990h.htm",
-      "published": "2026-10-11T13:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:38.859947+00:00"
-    },
-    {
-      "id": "d2d78e24206f6ef6",
-      "source": "Yeniçağ",
-      "title": "Bingöl'de iki araç çarpıştı! 5 kişi yaralandı",
-      "summary": "Bingöl&#039;de meydana gelen trafik kazasında 5 kişi yaralandı.",
-      "link": "https://www.yenicaggazetesi.com/bingolde-iki-arac-carpisti-5-kisi-yaralandi-1080989h.htm",
-      "published": "2026-10-11T13:01:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:38.859971+00:00"
-    },
-    {
-      "id": "dbb4ac020c226ef0",
-      "source": "Türkiye Gazetesi",
-      "title": "Pakistan'da OHAL kararı!",
-      "summary": "Pakistan'da siyasi gerilim tırmandı. Cumhurbaşkanı Asıf Ali Zerdari, tutuklu eski Başbakan İmran Han'ın partisinin yönettiği Hayber Pahtunhva eyaletinde olağanüstü hal ilan ederek eyalet hükümetini askıya aldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/pakistanda-ohal-karari-imran-hanin-partisi-hedefte-1822008",
-      "published": "2026-10-11T13:01:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:32.715003+00:00"
-    },
-    {
-      "id": "7a43714c6e64c89c",
-      "source": "Cumhuriyet",
-      "title": "Parolaları ifşa oldu... 8 ilde dolandırıcılık operasyonu: 18 tutuklama",
-      "summary": "Ankara İl Emniyet Müdürlüğü ekiplerince, kendilerini polis, savcı ve MİT personeli olarak tanıtarak vatandaşları dolandıran şüphelilere yönelik 8 ilde gerçekleştirilen eş zamanlı operasyonlarda, 21 şüphelinin tamamı gerçekleştirilen operasyonlar sonucu yakalanırken 18'i tutuklandı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/parolalari-ifsa-oldu-8-ilde-dolandiricilik-operasyonu-18-tutuklama-2545641",
-      "published": "2026-10-11T13:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:30.396580+00:00"
-    },
-    {
-      "id": "06faa3847582b5f1",
-      "source": "Yeniçağ",
-      "title": "Caddede yürüyen kadının fotoğraflarını izinsiz çekti",
-      "summary": "Zonguldak kent merkezinde yolda yürüyen bir kadının fotoğraflarını izinsiz ve gizlice çektiği tespit edilen şahıs hakkında flaş bir yargı kararı çıktı.",
-      "link": "https://www.yenicaggazetesi.com/caddede-yuruyen-kadinin-fotograflarini-izinsiz-cekti-1080988h.htm",
-      "published": "2026-10-11T13:00:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:38.859991+00:00"
-    },
-    {
-      "id": "ea97b7657c73adfe",
-      "source": "Türkiye Gazetesi",
-      "title": "13 ilde sarı kodlu alarm! Meteoroloji tek tek sıraladı",
-      "summary": "Meteoroloji, toplamda 13 il için gök gürültülü sağanak uyarısı yaptı. Yağışların aralıklı olarak devam edeceği belirtilirken ani sel, su baskını, yıldırım, yerel dolu yağışına karşı vatandaşlara ‘Tedbirli olun’ çağrısında bulunuldu.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/gok-gurultulu-saganak-yolda-meteorolojiden-13-ile-sari-kodlu-uyari-1822007",
-      "published": "2026-10-11T13:00:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:32.715033+00:00"
-    },
-    {
-      "id": "c654abae37fb315c",
-      "source": "ShiftDelete.Net",
-      "title": "Elektrikli Araçlar Giderken Şarj Olacak: Honda’dan Yeni Teknoloji",
-      "summary": "Honda ve Taisei Group, elektrikli araçları yolda şarj etme teknolojisi olan WPT sistemi üzerinde çalışıyor. İşte yeni sistemin detayları.",
-      "link": "https://shiftdelete.net/honda-elektrikli-araclari-yolda-sarj-etme-teknolojisi",
-      "published": "2026-10-11T13:00:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:01:09.798675+00:00"
-    },
-    {
-      "id": "8b9609b63fbbd10a",
-      "source": "Evrensel",
-      "title": "Küçükçekmece'de yıkımı yapılan 7 katlı bina çöktü",
-      "summary": "Küçükçekmece'de kentsel dönüşüm kapsamında yıkım çalışması yapılan 7 katlı bina çöktü. Çevredeki binalar ile doğal gaz ve su tesisatlarının zarar gördüğü olayda enkaz altında kimsenin kalmadığı belirlendi.",
-      "link": "https://www.evrensel.net/haber/6004449/kucukcekmecede-yikimi-yapilan-7-katli-bina-coktu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-11T13:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:15:35.720568+00:00"
-    },
-    {
-      "id": "dee9c268628b2edb",
-      "source": "Ekonomim",
-      "title": "Ankara merkezli 8 ilde dolandırıcılık operasyonu: 18 tutuklama",
-      "summary": "Ankara İl Emniyet Müdürlüğü ekiplerince, kendilerini polis, savcı ve MİT personeli olarak tanıtarak vatandaşları dolandıran şüphelilere yönelik 8 ilde gerçekleştirilen eş zamanlı operasyonlarda, 21 şüphelinin tamamı gerçekleştirilen operasyonlar sonucu yakalanırken 18&#039;i tutuklandı.",
-      "link": "https://www.ekonomim.com/gundem/ankara-merkezli-8-ilde-dolandiricilik-operasyonu-18-tutuklama-haberi-923975",
-      "published": "2026-10-11T13:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T13:05:48.373258+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-11T23:15:58.102469+00:00",
+  "last_updated": "2026-10-11T23:20:49.964291+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 562,
+  "new_items_this_run": 559,
   "items": [
+    {
+      "id": "bbe4a22450dcf96d",
+      "source": "OdaTV",
+      "title": "Zelenskiy Trump'a şart koştu",
+      "summary": "Ukrayna Devlet Başkanı Vladimir Zelenskiy, Rusya ile 60 günlük bir ateşkes konusunda anlaşmaya varılması halinde ülkede seçim düzenleyebileceklerini belirtti.",
+      "link": "https://www.odatv.com/guncel/zelenskiy-trumpa-sart-kostu-120166225",
+      "published": "2026-10-11T23:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T23:20:38.554524+00:00"
+    },
     {
       "id": "2caa82832a4fd2f0",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T18:30:55.437012+00:00"
-    },
-    {
-      "id": "553cf052d07e0a4c",
-      "source": "Star",
-      "title": "Emir Ortakaya'dan penaltı tepkisi! \"Es geçildi\"",
-      "summary": "Kocaelisporlu Emir Ortakaya, Beşiktaş karşılaşmasının ardından yaptığı açıklamada, Metehan Altunbaş'ın pozisyonunda penaltı verilmemesine tepki gösterdi.",
-      "link": "https://www.star.com.tr/spor/emir-ortakayadan-penalti-tepkisi-es-gecildi-haber-2045954/",
-      "published": "2026-10-11T18:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-11T18:30:54.121255+00:00"
     }
   ]
 }

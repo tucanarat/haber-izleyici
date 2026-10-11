@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-11T01:45:51.684600+00:00",
+  "last_updated": "2026-10-11T01:50:57.972471+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 517,
+  "new_items_this_run": 546,
   "items": [
+    {
+      "id": "2e9602911d6ea27e",
+      "source": "Halk TV",
+      "title": "Zindan gibi kafesler bu kez can aldı: Kaplan alanına girdi, feci şekilde öldü!",
+      "summary": "İngiltere’de bir hayvanat bahçesinde kaplan alanına giren şahıs saldırı sonucu öldü. Hayvanların psikolojisini bozan bu alanların varlığı tartışılırken, dehşet anlarının ardından tesis kapatıldı ve ziyaretçiler tahliye edildi.",
+      "link": "https://halktv.com.tr/dunya/zindan-gibi-kafesler-bu-kez-can-aldi-kaplan-alanina-girdi-feci-sekilde-oldu-1060847h",
+      "published": "2026-10-11T01:48:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T01:50:43.183655+00:00"
+    },
     {
       "id": "c1265bb9094be9a1",
       "source": "Ekonomim",
@@ -657,6 +668,17 @@
       "fetched_at": "2026-10-11T00:35:30.282930+00:00"
     },
     {
+      "id": "43041c880d1b4121",
+      "source": "Bir Gün",
+      "title": "Onlara mali rant halka ise talan",
+      "summary": "HABER MERKEZİ Bingöl’ün Solhan ilçesinde 60 binden fazla hayvanın otlama alanı ile arıcılık yapılan mera ve ormanlık sahalara kurulması planlanan Güneş Enerji Santralı (GES) projelerine karşı yurttaşlar sokağa çıktı. Solhan Ekoloji Platformu öncülüğünde ilçe merkezinde gerçekleştirilen basın açıklamasında “Şirketlerin zenginleşmesi için mera ve ormanlık alanlarımız yok ediliyor. Urfa’da, Mardin’de",
+      "link": "https://www.birgun.net/haber/onlara-mali-rant-halka-ise-talan-739817",
+      "published": "2026-10-11T00:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T01:50:35.084751+00:00"
+    },
+    {
       "id": "bfa30bf8195d9042",
       "source": "Halk TV",
       "title": "Son Dakika | Kayseri'de deprem",
@@ -688,6 +710,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-11T00:30:45.007387+00:00"
+    },
+    {
+      "id": "37807142c13aa90c",
+      "source": "Bir Gün",
+      "title": "Ortada rapor yok",
+      "summary": "Depremde yıkılan binaların bazılarında karar duruşmaları görülürken bazı dosyalarda ise skandal gecikmeler yaşanıyor. Birçok bilirkişi raporunun dahi dosyalara girmediğini ifade eden avukatlar tepki gösterdi.",
+      "link": "https://www.birgun.net/haber/ortada-rapor-yok-739816",
+      "published": "2026-10-11T00:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T01:50:35.084782+00:00"
+    },
+    {
+      "id": "7e68a74a68db22fa",
+      "source": "Bir Gün",
+      "title": "Adaletin cinsiyeti var mı?",
+      "summary": "Yoksulluk, gericilik ve eşitsizlik kıskacındaki kız çocukları, yaşam, eğitim ve güvenlik haklarından koparılıyor. Çocuklar adeta istismar ve ağır sömürüye terk ediliyor.",
+      "link": "https://www.birgun.net/haber/adaletin-cinsiyeti-var-mi-739813",
+      "published": "2026-10-11T00:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-11T01:50:35.084808+00:00"
     },
     {
       "id": "a325a94b12049a9d",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-10T19:30:41.470494+00:00"
-    },
-    {
-      "id": "74bc5a8f30ef2aaf",
-      "source": "Akşam",
-      "title": "Manchester United ile Tottenham, puanları paylaştı",
-      "summary": "İngiltere Premier Lig'in 6. haftasında Manchester United ile Tottenham, kozlarını paylaştı. Müsabaka, 1-1'lik eşitlikle noktalandı.",
-      "link": "https://www.aksam.com.tr/spor/manchester-united-ile-tottenham-puanlari-paylasti/haber-1705164",
-      "published": "2026-10-10T19:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T19:20:40.504104+00:00"
-    },
-    {
-      "id": "c4e0c29f25a9cec7",
-      "source": "Star",
-      "title": "Nathan Ake: Maçı gol yemeden tamamlamak mutluluk verici",
-      "summary": "Trendyol Süper Lig'in 7. haftasında deplasmanda Çaykur Rizespor'u 3-0 mağlup eden Fenerbahçe'de Nathan Ake, \"Maçı gol yemeden tamamlamak mutluluk verici\" dedi.",
-      "link": "https://www.star.com.tr/spor/nathan-ake-maci-gol-yemeden-tamamlamak-mutluluk-verici-haber-2045790/",
-      "published": "2026-10-10T19:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T19:20:40.938955+00:00"
-    },
-    {
-      "id": "055fe6bb6f492e7e",
-      "source": "Yeniçağ",
-      "title": "Mersin'de cami imamı mezarlıkta ölü bulundu",
-      "summary": "Mersin&#039;in Tarsus ilçesinde ikindi namazına gelmeyen 51 yaşındaki imam Halil Kısa, mezarlıkta ölü bulundu. Kısa&#039;nın kuru ağaç keserken düşerek hayatını kaybettiği değerlendiriliyor.",
-      "link": "https://www.yenicaggazetesi.com/mersinde-cami-imami-mezarlikta-olu-bulundu-1080823h.htm",
-      "published": "2026-10-10T19:19:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T19:20:42.569094+00:00"
-    },
-    {
-      "id": "fa94caa3ee03ee0f",
-      "source": "Milliyet",
-      "title": "Son dakika: İstanbul'da hissedilen bir deprem meydana geldi",
-      "summary": "İstanbul'da hissedilen bir deprem meydana geldi. AFAD depremin 3.5 büyüklüğünde olduğunu duyurdu. 22.08'de gerçekleşen sarsıntının Marmara'nın Yalova açıklarında olduğu bildirildi. Depremin derinliği ise7.96 kilometre olarak ölçüldü. Büyüklük:3.5 (Ml) Yer:Marmara Denizi - [04.66 km] Merkez (Yalova) Tarih:2026-10-10 Saat:22:08:49 TSİ Enlem:40.698 N Boylam:29.25633 E Derinlik:7.96 km Son dakika… Kar",
-      "link": "https://www.milliyet.com.tr/gundem/son-dakika-istanbulda-hissedilen-bir-deprem-meydana-geldi-7676981",
-      "published": "2026-10-10T19:19:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-10T19:20:39.814237+00:00"
     }
   ]
 }

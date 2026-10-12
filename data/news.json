@@ -1,12 +1,122 @@
 {
-  "last_updated": "2026-10-12T07:46:30.567242+00:00",
+  "last_updated": "2026-10-12T07:50:55.078698+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 497,
+  "new_items_this_run": 515,
   "items": [
+    {
+      "id": "365db4974a383341",
+      "source": "BBC News Türkçe",
+      "title": "Cevdet Yılmaz: DDK bütün kurumları inceliyor",
+      "summary": "Fon skandalı sonrası tasfiye sürecini yönetmek üzere kurulan Fon Koordinasyon Kurulu'na başkanlık eden Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, ilgili kurumlarla ilgili Devlet Denetleme Kurulu'nun denetlemesinin sürdüğünü söyledi.",
+      "link": "https://www.bbc.com/turkce/articles/cxr5y2jrzjeeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-12T07:49:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:54.400053+00:00"
+    },
+    {
+      "id": "a2f3b7030dfa0cfc",
+      "source": "Star",
+      "title": "Bahçeşehir Koleji'nin konuğu Manresa",
+      "summary": "BKT Avrupa Kupası 3. haftasında Bahçeşehir Koleji yarın sahasında Kids&amp;Us Manresa'yı konuk edecek.",
+      "link": "https://www.star.com.tr/spor/bahcesehir-kolejinin-konugu-manresa-haber-2046032/",
+      "published": "2026-10-12T07:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:39.532074+00:00"
+    },
+    {
+      "id": "422958cb7f4a1d70",
+      "source": "Star",
+      "title": "İş Kurma Desteği kapsamında 31 bin 250 işletmeye 645 milyon TL destek verildi",
+      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"2024 yılında uygulamaya aldığımız program ile İş Kurma Desteği kapsamında bugüne kadar 31 bin 250 işletmeye 645 milyon lira katkı sağladık.\" açıklamasında bulundu.",
+      "link": "https://www.star.com.tr/ekonomi/is-kurma-destegi-kapsaminda-31-bin-250-isletmeye-645-milyon-tl-destek-verildi-haber-2046031/",
+      "published": "2026-10-12T07:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:39.532114+00:00"
+    },
+    {
+      "id": "d46c0bf79ac2ed6e",
+      "source": "Karar",
+      "title": "Cevdet Yılmaz 'görüşmeler başladı' diyerek duyurdu: Atlas Portföy de tasfiye ediliyor",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon soruşturması kapsamında tasfiye kararı alınan Atlas Portföy için görüşmelerin sürdüğünü açıkladı.",
+      "link": "https://www.karar.com/ekonomi-haberleri/cevdet-yilmaz-gorusmeler-basladi-diyerek-duyurdu-atlas-portfoy-de-2077801",
+      "published": "2026-10-12T07:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:40.069948+00:00"
+    },
+    {
+      "id": "9d86c3e134a63dea",
+      "source": "Karar",
+      "title": "Babacan'dan fon skandalı için 'kanalizasyon taştı' benzetmesi: AK Parti seçmeninin dünyası yıkıldı",
+      "summary": "DEVA Partisi lideri Babacan, fon skandalının AK Parti tabanında büyük bir kırılmaya yol açtığını savunarak, “Bir sürü pislik oldu, üzeri kapatıldı ama şu anda artık kanalizasyon taştı. AK Parti seçmeninin dünyası yıkıldı.” dedi. Bu büyüklükteki bir dolandırıcılığın siyasi ve bürokratik destek olmadan sürdürülemeyeceğini ileri süren Babacan, Erdoğan'a “Bu işten haberi var mıydı, yok muydu?” sorusun",
+      "link": "https://www.karar.com/guncel-haberler/babacandan-fon-skandali-icin-kanalizasyon-tasti-benzetmesi-ak-parti-2077800",
+      "published": "2026-10-12T07:47:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:40.070002+00:00"
+    },
+    {
+      "id": "d82e1316fa76e97b",
+      "source": "Yeni Şafak",
+      "title": "Manisa'da 11 kişinin ölümüyle sonuçlanan kaza sonrası tur şirketinden açıklama: Sorumluluk şoföre ait",
+      "summary": "Manisa’nın Akhisar ilçesinde otoyolda meydana gelen feci kazada, geri manevra yapan tur otobüsüne çekici çarptı. Kazada 11 kişi yaşamını yitirirken, 27 kişi yaralandı. Tedavisinin ardından gözaltına alınan otobüs şoförünün ardından tur şirketinden de açıklama geldi. Şirket, kazada sorumluluğu olmadığını savunarak olayın sürücünün bireysel hatasından kaynaklandığını öne sürdü.",
+      "link": "https://www.yenisafak.com/gundem/manisada-11-kisinin-olumuyle-sonuclanan-kaza-sonrasi-tur-sirketinden-aciklama-sorumluluk-sofore-ait-4863577",
+      "published": "2026-10-12T07:47:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:39.223674+00:00"
+    },
+    {
+      "id": "695d80fe8e2c3cd8",
+      "source": "Ekonomim",
+      "title": "Sterlinin yeni yüzleri doğadan geliyor",
+      "summary": "",
+      "link": "https://www.ekonomim.com/kose-yazisi/sterlinin-yeni-yuzleri-dogadan-geliyor/924109",
+      "published": "2026-10-12T07:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:47.398844+00:00"
+    },
+    {
+      "id": "63c8a393af1e4f1a",
+      "source": "Yeniçağ",
+      "title": "Bakan Osman Aşkın Bak duyurdu: KYK başvuruları başladı",
+      "summary": "KYK burs ve öğrenim kredisi için 2026-2027 dönemi başvuru süreci başladı. Gençlik ve Spor Bakanı Osman Aşkın Bak, öğrencilerin e-Devlet üzerinden yapacağı başvuruların 16 Ekim saat 23.59’da sona ereceğini açıkladı.",
+      "link": "https://www.yenicaggazetesi.com/bakan-osman-askin-bak-duyurdu-kyk-basvurulari-basladi-1081201h.htm",
+      "published": "2026-10-12T07:46:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:40.429976+00:00"
+    },
+    {
+      "id": "72d6d2647d6f9bdb",
+      "source": "Akşam",
+      "title": "Başakşehir'de meydan kavgası: Kurye ile esnaf birbirine girdi",
+      "summary": "Başakşehir'de motosikletli kurye ile esnaf arasında iddiaya göre para anlaşmazlığı nedeniyle çıkan tartışma, yumruklu kavgaya dönüştü. Esnafın iş önlükleriyle kavgaya karıştığı anlar cep telefonu kamerasına yansırken, olay yerine polis ekipleri sevk edildi.",
+      "link": "https://www.aksam.com.tr/guncel/basaksehirde-meydan-kavgasi-kurye-ile-esnaf-birbirine-girdi/haber-1705487",
+      "published": "2026-10-12T07:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:38.753947+00:00"
+    },
+    {
+      "id": "12224937eeae7492",
+      "source": "OdaTV",
+      "title": "Medya Ombudsmanı Bildirici'nin gözüne takılan kesme işareti",
+      "summary": "Medya ombudsmanı Faruk Bildirici, Türkiye gazetesinin birinci sayfa başlıklarında kesme işareti yerine &quot;X&quot; karakteri kullanıldığını ve 13 Ağustos&#039;tan beri süren aksaklığın giderilemediğini yazdı.",
+      "link": "https://www.odatv.com/medya/medya-ombudsmani-faruk-bildiricinin-gozune-takilan-kesme-isareti-120166268",
+      "published": "2026-10-12T07:45:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:41.884174+00:00"
+    },
     {
       "id": "3783bc7ea079a0e3",
       "source": "ShiftDelete.Net",
@@ -63,6 +173,17 @@
       "fetched_at": "2026-10-12T07:46:01.993772+00:00"
     },
     {
+      "id": "f748baccc863a343",
+      "source": "Yeni Akit",
+      "title": "Kaynaklar Ekosistem’e akınca, Üsküdar’ın en değerli arazisine göz diktiler! İBB’den ihanet gibi satış",
+      "summary": "İstanbul’un bütçesini konser, heykel ve yandaş semirtmeye harcayan ve taşınmaz satışını rutin hale getiren CHP’li İstanbul Büyükşehir Belediyesi yönetimi, şimdi de Üsküdar’ın en değerli arazisini bugün satışa çıkarıyor.",
+      "link": "https://www.yeniakit.com.tr/haber/kaynaklar-ekosisteme-akinca-uskudarin-en-degerli-arazisine-goz-diktiler-ibbden-ihanet-gibi-satis-2027708.html",
+      "published": "2026-10-12T07:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:39.813034+00:00"
+    },
+    {
       "id": "a85e4458ee21fe3e",
       "source": "Halk TV",
       "title": "Almanya’da gündem yaratan istifa! Hem bakanlığı hem parti yönetimini bırakıyor",
@@ -94,6 +215,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T07:45:53.576462+00:00"
+    },
+    {
+      "id": "1955b80318dbf858",
+      "source": "Türkiye Gazetesi",
+      "title": "2 İLÇE HASSAS SEVİYEDE!",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/2-ilce-hassas-seviyede-istanbulun-havasinda-alarm-iste-ilce-ilce-hava-kalitesi-1822141",
+      "published": "2026-10-12T07:44:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:36.158416+00:00"
+    },
+    {
+      "id": "5bc89072c93cd6a8",
+      "source": "Türkiye Gazetesi",
+      "title": "2 ilçe hassas seviyede! İstanbul’un havasında alarm, işte ilçe ilçe hava kalitesi",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/2-ilce-hassas-seviyede-istanbulun-havasinda-alarm-iste-ilce-ilce-hava-kalitesi-1822141",
+      "published": "2026-10-12T07:44:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:36.158446+00:00"
+    },
+    {
+      "id": "5bc89072c93cd6a8",
+      "source": "Türkiye Gazetesi",
+      "title": "2 ilçe hassas seviyede! İstanbul’un havasında alarm, işte ilçe ilçe hava kalitesi",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/2-ilce-hassas-seviyede-istanbulun-havasinda-alarm-iste-ilce-ilce-hava-kalitesi-1822141",
+      "published": "2026-10-12T07:44:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:36.158466+00:00"
     },
     {
       "id": "a0f53731f3ebe9be",
@@ -182,6 +336,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T07:46:11.435959+00:00"
+    },
+    {
+      "id": "39737fa9979f040a",
+      "source": "OdaTV",
+      "title": "Barcelona'nın Galatasaray maçı kadrosu açıklandı",
+      "summary": "Barcelona&#039;nın Galatasaray ile oynayacağı Şampiyonlar Ligi maçının kamp kadrosu açıklandı. İspanyol ekibinde sakatlığı bulunan Raphinha kadroda yer almazken, gözler yarın oynanacak kritik mücadeleye çevrildi.",
+      "link": "https://www.odatv.com/spor/barcelonanin-galatasaray-maci-kadrosu-aciklandi-120166266",
+      "published": "2026-10-12T07:42:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:41.884210+00:00"
     },
     {
       "id": "98bf1db087367be9",
@@ -336,6 +501,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T07:40:41.551009+00:00"
+    },
+    {
+      "id": "cc7285e1af8f7bc0",
+      "source": "Habertürk",
+      "title": "Devler Ligi'nde 2. hafta heyecanı!",
+      "summary": "UEFA Şampiyonlar Ligi’nde ikinci hafta, yarın oynanacak karşılaşmalarla başlayacak. Temsilcilerimizden Galatasaray, İspanyol devi Barcelona’yı sahasında ağırlarken Fenerbahçe ise İngiliz ekibi Aston Villa’ya konuk olacak.",
+      "link": "https://www.haberturk.com/spor/sampiyonlar-ligi-nde-2-hafta-heyecani-3919027",
+      "published": "2026-10-12T07:37:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:32.735760+00:00"
     },
     {
       "id": "24e5952ef489caa5",
@@ -556,6 +732,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T07:40:37.820232+00:00"
+    },
+    {
+      "id": "b9299a13dd492454",
+      "source": "Habertürk",
+      "title": "A Milliler, tur peşinde!",
+      "summary": "A Milli Kadın Futbol Takımı, 2027 FIFA Kadınlar Dünya Kupası Avrupa Elemeleri play-off 1. turu rövanş maçında yarın Slovenya'ya konuk olacak.",
+      "link": "https://www.haberturk.com/spor/a-milliler-slovenya-da-tur-pesinde-3919015",
+      "published": "2026-10-12T07:34:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:32.735814+00:00"
     },
     {
       "id": "4a24791f6057d751",
@@ -897,6 +1084,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T07:30:48.990952+00:00"
+    },
+    {
+      "id": "2b63e08f2c967639",
+      "source": "Ekonomim",
+      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon soruşturmasında 15 müfettiş görevlendirildi",
+      "summary": "Fon soruşturmasıyla ilgili açıklama yapan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, &quot;Ne olağan tasfiyede, ne olağanüstü tasfiyede kamu kaynağının kullanılması söz konusu değil&quot; dedi. Yılmaz, ayrıca &quot;Fon Koordinasyon Kurulu kuruldu, önemli kararlar alındı. Devlet Denetleme Kurulu görevlendirildi. Toplamda 15 civarı denetmenle, müfettişle DDK çok yönlü olarak çalışmasını sahada başlatmı",
+      "link": "https://www.ekonomim.com/ekonomi/cumhurbaskani-yardimcisi-yilmazdan-fon-aciklamasi-kamu-kaynagi-kullanilmayacak-haberi-924104",
+      "published": "2026-10-12T07:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:47.399027+00:00"
     },
     {
       "id": "a668daad8e52b4de",
@@ -2525,6 +2723,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T07:10:40.819527+00:00"
+    },
+    {
+      "id": "1327d9adaae7b3b7",
+      "source": "Sabah",
+      "title": "SON DAKİKA! Cevdet Yılmaz'dan kritik fon açıklaması: Kamu kaynakları kullanılmayacak",
+      "summary": "Son dakika haberi: Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, kamuoyunda \"fon soruşturması\" olarak bilinen sürece ilişkin önemli açıklamalarda bulunarak \"Ne olağan tasfiyede, ne olağanüstü tasfiyede kamu... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/ekonomi/son-dakika-cevdet-yilmazdan-kritik-fon-aciklamasi-kamu-kaynaklari-kullanilmayacak-7678868",
+      "published": "2026-10-12T07:07:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T07:50:38.597769+00:00"
     },
     {
       "id": "f287f33b171d198e",
@@ -5297,215 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T06:30:49.360767+00:00"
-    },
-    {
-      "id": "bb88691da7b4810d",
-      "source": "Türkiye Gazetesi",
-      "title": "EYLÜLDE 26 MİLYAR DOLAR!",
-      "summary": "Ticaret Bakanlığı eylül ayında ihracatın yüzde 15,4 oranında artarak 26 milyar dolar olduğunu açıkladı. Bakanlık; 4 ilimizde 3 haneli, 39 ilimizde ise çift haneli ihracat artışları olduğunu belirtti. İşte en çok ihracat yapan iller sıralaması...",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/eylulde-26-milyar-dolarlik-ihracat-iste-en-fazla-ihracat-yapan-iller-siralamasi-1822114",
-      "published": "2026-10-12T06:30:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:35:34.175810+00:00"
-    },
-    {
-      "id": "06440bd761f2a9c9",
-      "source": "Türkiye Gazetesi",
-      "title": "Eylülde 26 milyar dolarlık ihracat! İşte en fazla ihracat yapan iller sıralaması",
-      "summary": "Ticaret Bakanlığı eylül ayında ihracatın yüzde 15,4 oranında artarak 26 milyar dolar olduğunu açıkladı. Bakanlık; 4 ilimizde 3 haneli, 39 ilimizde ise çift haneli ihracat artışları olduğunu belirtti. İşte en çok ihracat yapan iller sıralaması...",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/eylulde-26-milyar-dolarlik-ihracat-iste-en-fazla-ihracat-yapan-iller-siralamasi-1822114",
-      "published": "2026-10-12T06:30:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:35:34.175840+00:00"
-    },
-    {
-      "id": "67f1091ba7c10fca",
-      "source": "Gazete Pencere",
-      "title": "Çatışmalar şiddetlenirken Suudi Arabistan ve İran arasında kritik temas",
-      "summary": "Suudi Arabistan ve Yemen'deki Husiler ile ülkedeki iç savaşta çatışmaların yeniden şiddetlenmesinin ardından Suudi Arabistan ve İran dışişleri bakanları telefon görüşmesi gerçekleştirdi.",
-      "link": "https://www.gazetepencere.com/dis-haber/catismalar-siddetlenirken-suudi-arabistan-ve-iran-arasinda-kritik-temas-718874h",
-      "published": "2026-10-12T06:30:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:50.201812+00:00"
-    },
-    {
-      "id": "60a534fae252dc69",
-      "source": "Bloomberg HT",
-      "title": "Dolar ve Euro kuru bugün ne kadar oldu? 12 Ekim 2026 döviz fiyatları…",
-      "summary": "Serbest piyasada dolar 49.3358 liradan güne başladı. Euro ise 55.3254 lirayı gördü. Dolar, euro ve diğer döviz kurlarıyla ile ilgili en son gelişmeler hakkında aradığınız tüm detayları; 1 dolar/euro kaç TL, dolar/euro ne kadar? gibi merak edilenleri sayfamızda bulabilirsiniz...",
-      "link": "https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-12-ekim-2026-doviz-fiyatlari-pkh2-3791050",
-      "published": "2026-10-12T06:30:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:40:54.136577+00:00"
-    },
-    {
-      "id": "73a77538c59f6eef",
-      "source": "Habertürk",
-      "title": "Gizli belgeleri paylaşanlara soruşturma",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturmasına ilişkin \"gizli\" ibareli belgeleri sosyal medya platformları ve dijital mecralarda paylaşanlar hakkında \"soruşturmanın gizliliğini ihlal\" suçundan resen soruşturma başlattı",
-      "link": "https://www.haberturk.com/gundem/fon-sorusturmasinda-gizli-belgeleri-paylasanlar-hakkinda-sorusturma-baslatildi-3918999",
-      "published": "2026-10-12T06:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:35:29.681396+00:00"
-    },
-    {
-      "id": "15066d61b8d58a9d",
-      "source": "Ekonomim",
-      "title": "VİOP'ta endeks kontratı haftaya yükselişle başladı",
-      "summary": "Borsa İstanbul Vadeli İşlem ve Opsiyon Piyasası&#039;nda (VİOP) BIST 30 endeksine dayalı ekim vadeli kontrat haftaya yüzde 0,14 yükselişle 15.415,00 puandan başladı.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/viopta-endeks-kontrati-haftaya-yukselisle-basladi-haberi-924078",
-      "published": "2026-10-12T06:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:35:54.090750+00:00"
-    },
-    {
-      "id": "a847838103bf1496",
-      "source": "Yeniçağ",
-      "title": "Motosikletin çarptığı yaşlı adam hayatını kaybetti",
-      "summary": "Şanlıurfa&#039;nın Harran ilçesinde yolun karşı tarafına geçmeye çalışırken motosikletin çarptığı 72 yaşındaki adam tedavi gördüğü hastanede 13 gün sonra hayatını kaybetti.",
-      "link": "https://www.yenicaggazetesi.com/motosikletin-carptigi-yasli-adam-hayatini-kaybetti-1081178h.htm",
-      "published": "2026-10-12T06:29:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:49.360801+00:00"
-    },
-    {
-      "id": "2642799eef22846f",
-      "source": "Serbestiyet",
-      "title": "Erdoğan, Terörsüz Türkiye ve fon skandalı için kabineyi topluyor",
-      "summary": "Cumhurbaşkanlığı Kabinesi bugün toplanıyor. Toplantının ana gündem başlıklarının fon soruşturması ile Terörsüz Türkiye süreci olması bekleniyor. Erdoğan, Terörsüz Türkiye ve fon skandalı için kabineyi topluyor yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/haberler/politika/erdogan-terorsuz-turkiye-ve-fon-skandali-icin-kabineyi-topluyor-251191/",
-      "published": "2026-10-12T06:29:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:54.424126+00:00"
-    },
-    {
-      "id": "b4bd04756eda20ef",
-      "source": "Karar",
-      "title": "KPSS'li ve KPSS'siz Kamu Personeli Alımı başvurusu nasıl yapılır? Kariyer Kapısı, ÖSYM ve İŞKUR ilanları nereden takip edilir?",
-      "summary": "2026 yılı kamu personeli, sözleşmeli memur ve sürekli işçi alımı duyuruları; ÖSYM, Cumhurbaşkanlığı Kariyer Kapısı, İŞKUR ve Resmî Gazete üzerinden adayların erişimine açılıyor. Lise, ön lisans ve lisans mezunlarının KPSS puanıyla veya KPSS şartsız olarak başvuru yapabileceği güncel kamu iş ilanlarını doğru kanallardan takip etmenin yolları ve başvuru şartları netleşti.",
-      "link": "https://www.karar.com/guncel-haberler/kpssli-ve-kpsssiz-kamu-personeli-alimi-basvurusu-nasil-yapilir-kariyer-2077765",
-      "published": "2026-10-12T06:29:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:49.099511+00:00"
-    },
-    {
-      "id": "5b2af206c6d13ef4",
-      "source": "Karar",
-      "title": "Beslenme çantalarının ve kahvaltıların yeni gözdesi! Puf puf kabaran kat kat cepli poğaça tarifi",
-      "summary": "Hem görsel şıklığı hem de pratik sunumuyla çay saatlerinin vazgeçilmezi haline gelen cepli poğaça, yumuşacık dokusuyla sofralara lezzet katıyor. Pişerken birbirinden ayrılan katları sayesinde arasına domates, peynir ve yeşillik gibi taze lezzetlerin kolayca eklenebildiği bu özel hamur işi, gün boyu tazeliğini koruyan yapısıyla mutfakların kurtarıcısı oluyor.",
-      "link": "https://www.karar.com/yemek-tarifleri/beslenme-cantalarinin-ve-kahvaltilarin-yeni-gozdesi-puf-puf-kabaran-kat-2077764",
-      "published": "2026-10-12T06:29:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:49.099556+00:00"
-    },
-    {
-      "id": "aba0a0fd4c64af9c",
-      "source": "Star",
-      "title": "TMSF 75 personel alacak! Başvurular için son tarih belli oldu",
-      "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF) fon denetçi yardımcılığı, fon uzman yardımcılığı ve fon avukatlığı görevlerini yürütmek üzere 75 personel alımı gerçekleştirecek. Adaylar başvurularını bugünden itibaren 30 Ekim saat 17.00'ye kadar e-Devlet üzerinden gerçekleştirebilir.",
-      "link": "https://www.star.com.tr/ekonomi/tmsf-75-personel-alacak-basvurular-icin-son-tarih-belli-oldu-haber-2046004/",
-      "published": "2026-10-12T06:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:48.465624+00:00"
-    },
-    {
-      "id": "c3ac5101f59f7355",
-      "source": "Türkiye Gazetesi",
-      "title": "Kocaelispor'da VAR öfkesi: iyi çalışıyorlar",
-      "summary": "Kocaelispor Kulübü Başkanı Recep Durul, deplasmanda 2-1 kaybettikleri Beşiktaş maçının ardından sosyal medya hesabından yaptığı paylaşımla hakem kararlarına tepki gösterdi. Durul, \"Bu VAR niye var, kimler için var? Ama bir gerçek var ki çifte standart konusunda iyiler, iyi çalışıyorlar\" ifadelerini kullandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/kocaelisporda-var-ofkesi-penalti-ve-kirmizi-kart-renklere-gore-degismis-1822113",
-      "published": "2026-10-12T06:28:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:44.782935+00:00"
-    },
-    {
-      "id": "9f5042a559a02cea",
-      "source": "Aydınlık",
-      "title": "Vatandaşlık maaşı için tarih ve şartlar belli oluyor: Kimler alacak, ne kadar ödenecek?",
-      "summary": "GETAD kapsamında, geliri 23 bin 552 TL’nin altında kalan hanelere kira, enerji ve gıda desteği sağlanması planlanıyor. 2,5 milyon haneyi kapsaması hedeflenen sistemde ödemelerin 2027’nin ilk çeyreğinde başlaması öngörülüyor.",
-      "link": "https://www.aydinlik.com.tr/haber/vatandaslik-maasi-icin-tarih-ve-sartlar-belli-oluyor-kimler-alacak-ne-kadar-odenecek-594085",
-      "published": "2026-10-12T06:28:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:35:41.611919+00:00"
-    },
-    {
-      "id": "b3f97d037e4ac19e",
-      "source": "CNBC-e",
-      "title": "Fon soruşturmasında gizli belge uyarısı! Paylaşım yapanlar hakkında işlem başlatıldı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturması kapsamında kurumlara gönderilen gizli ibareli belgelerin sosyal medyada paylaşılması üzerine harekete geçti. Paylaşımlar hakkında soruşturma başlatılırken, eylemin TCK’nın 285. maddesi kapsamında değerlendirileceği bildirildi.",
-      "link": "https://www.cnbce.com/haberler/fon-sorusturmasinda-gizli-belge-uyarisi-paylasim-yapanlar-hakkinda-islem-baslatildi-h39232",
-      "published": "2026-10-12T06:28:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:57.650709+00:00"
-    },
-    {
-      "id": "d6016a75db7ad208",
-      "source": "Evrensel",
-      "title": "İddia: Antalya Büyükşehir Belediye Başkanvekili Büşra Özdemir AKP’ye geçiyor",
-      "summary": "AKP Genel Başkan Yardımcısı Hasan Basri Yalçın’ın \"Sırada bir büyükşehir var\" çıkışının ardından Antalya Büyükşehir Belediye Başkan Vekilliğine seçilen CHP’li Büşra Özdemir’in AKP’ye katılacağı öne sürüldü.",
-      "link": "https://www.evrensel.net/haber/6004492/iddia-antalya-buyuksehir-belediye-baskanvekili-busra-ozdemir-akpye-geciyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-12T06:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:55:28.530457+00:00"
-    },
-    {
-      "id": "bb8fb412071bb850",
-      "source": "Akşam",
-      "title": "Kabine toplanıyor: Masada fon soruşturması var",
-      "summary": "Cumhurbaşkanlığı Kabinesi, Başkan Erdoğan başkanlığında bugün Beştepe'de toplanacak. Toplantının öncelikli gündemini fon piyasalarındaki gelişmeler ve fonların tasfiyesine yönelik adımlar oluştururken, Terörsüz Türkiye süreci ile bölgesel ve küresel gelişmeler de ele alınacak.",
-      "link": "https://www.aksam.com.tr/guncel/kabine-toplaniyor-masada-fon-sorusturmasi-var/haber-1705459",
-      "published": "2026-10-12T06:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:47.441991+00:00"
-    },
-    {
-      "id": "8d9ebfdf39d3d5c5",
-      "source": "Star",
-      "title": "Fon soruşturmasında yeni gelişme! Başsavcılıktan \"gizli belge\" adımı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturmasına ilişkin \"gizli\" ibareli belgeleri sosyal medya platformları ve dijital mecralarda paylaşanlar hakkında \"soruşturmanın gizliliğini ihlal\" suçundan resen soruşturma başlattı.",
-      "link": "https://www.star.com.tr/guncel/fon-sorusturmasinda-yeni-gelisme-bassavciliktan-gizli-belge-adimi-haber-2046003/",
-      "published": "2026-10-12T06:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:30:48.465658+00:00"
-    },
-    {
-      "id": "47ccda6bd4a45215",
-      "source": "LOG",
-      "title": "Alfa Romeo’dan etkileyici konsept: “Cuorerosso”",
-      "summary": "Markanın yeni &#8220;Bellezza Necessaria&#8221; tasarım felsefesi için bir ön gösterim yaptığı belirtilen Alfa Romeo Cuorerosso, özellikle ön yüzüyle dikkat çekiyor. Dört kapılı (arka kapılar tersine açılıyor) ve dört koltuklu olarak tasarlanan konsept, 4,7 metre uzunluğa ve 2 metrelik genişliğe sahip. Kalbinde çift turbo ile desteklenen bir 2.9 litrelik V6&#8217;nın yer aldığı model, arka tasarım",
-      "link": "https://www.log.com.tr/alfa-romeodan-etkileyici-konsept-cuorerosso/",
-      "published": "2026-10-12T06:27:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:31:02.134675+00:00"
-    },
-    {
-      "id": "59a8cca364f0c215",
-      "source": "Habertürk",
-      "title": "Üniversiteli şefler GastroAntep'te yerel lezzetler için yarıştı",
-      "summary": "GastroAntep Kültür Yolu Festivali kapsamında düzenlenen Üniversiteli Şefler Yarışması’nda farklı üniversitelerden gastronomi öğrencileri, Gaziantep’in yöresel ürünleriyle hazırladıkları başlangıç, ana yemek ve tatlılardan oluşan menülerle yarıştı. Yarışmada Gaziantep İslam Bilim ve Teknoloji Üniversitesi birinciliği kazandı",
-      "link": "https://www.haberturk.com/yasam/universiteli-sefler-gastroantep-te-yerel-lezzetler-icin-yaristi-3918996",
-      "published": "2026-10-12T06:27:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T06:35:29.681450+00:00"
     }
   ]
 }

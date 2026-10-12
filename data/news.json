@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-12T22:50:59.655530+00:00",
+  "last_updated": "2026-10-12T22:56:02.861522+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 512,
+  "new_items_this_run": 514,
   "items": [
+    {
+      "id": "f220461f9aab712c",
+      "source": "Ekonomim",
+      "title": "Borsa herkese açık ama yarış eşit mi?",
+      "summary": "",
+      "link": "https://www.ekonomim.com/kose-yazisi/borsa-herkese-acik-ama-yaris-esit-mi/924260",
+      "published": "2026-10-12T22:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T22:55:47.679919+00:00"
+    },
     {
       "id": "078d76cfc0ef9abb",
       "source": "Halk TV",
@@ -3583,6 +3594,17 @@
       "fetched_at": "2026-10-12T20:20:43.291899+00:00"
     },
     {
+      "id": "c30f79dd4bef0700",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Esenyurt'ta atölyede çıkan yangın hasara yol açtı",
+      "summary": "Esenyurt'ta yorgan üretimi yapılan atölyede çıkan yangın itfaiye ekiplerinin müdahalesiyle söndürüldü.",
+      "link": "https://www.aa.com.tr/tr/gundem/esenyurtta-atolyede-cikan-yangin-hasara-yol-acti/4086630",
+      "published": "2026-10-12T20:17:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-12T22:55:28.557431+00:00"
+    },
+    {
       "id": "a1f8fc15f4bb0443",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Esenyurt'ta mobilya atölyesinde çıkan yangına müdahale ediliyor",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T19:01:07.311368+00:00"
-    },
-    {
-      "id": "cf79170bcc350f01",
-      "source": "Diken",
-      "title": "Hackerlar Fransa'da market buzdolaplarını 50 dereceye kadar ısıttı",
-      "summary": "Hackerlar Fransa'da market buzdolaplarını 50 dereceye kadar ısıttı 12.10.2026 Diken Fransa'da Intermarché ve Coopérative U market zincirleri 'benzeri görülmemiş' bir siber saldırının hedefi oldu. Hackerlar marketlerdeki akıllı buzdolaplarını 50 dereceye kadar ısıttı ve sayısız ürün bozulduğu için imha edildi. Hollanda'da da benzer bir saldırı düzenlendiğinden endişe ediliyor. The post Hackerlar Fr",
-      "link": "https://www.diken.com.tr/hackerlar-fransada-market-buzdolaplarini-50-dereceye-kadar-isitti/?utm_source=rss&utm_medium=rss&utm_campaign=hackerlar-fransada-market-buzdolaplarini-50-dereceye-kadar-isitti",
-      "published": "2026-10-12T18:57:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T19:01:10.468288+00:00"
-    },
-    {
-      "id": "88ab2c4a02653145",
-      "source": "Star",
-      "title": "Riyad'da peş peşe patlama sesleri: sirenler devreye girdi",
-      "summary": "Suudi Arabistan'ın başkenti Riyad'da erken uyarı sisteminin tehlike alarmı vermesinin ardından kentte 3 ayrı patlama sesi duyuldu.",
-      "link": "https://www.star.com.tr/dunya/riyadda-pes-pese-patlama-sesleri-sirenler-devreye-girdi-haber-2046184/",
-      "published": "2026-10-12T18:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T19:01:05.261455+00:00"
     }
   ]
 }

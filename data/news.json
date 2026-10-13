@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-13T03:25:55.806470+00:00",
+  "last_updated": "2026-10-13T03:31:16.148462+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 502,
+  "new_items_this_run": 501,
   "items": [
+    {
+      "id": "edace0b357d65358",
+      "source": "Habertürk",
+      "title": "PKK Kuzey Irak'taki 4 kampı boşalttı",
+      "summary": "Güvenlik birimlerinden alınan bilgilere göre PKK'nın, Irak'ın kuzeyindeki 4 kampı boşalttığı öğrenildi. Kampların Metina'nın Baze bölgesinde olduğu bildirildi. Kampların boşaltıldığına dair görüntüler de ortaya çıktı. Güvenlik Kaynakları, \"Bu gelişme, sürecin kararlılıkla devam ettiğinin bir göstergesidir\" değerlendirmesinde bulundu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-pkk-kuzey-irak-taki-4-kampi-bosaltti-3919108",
+      "published": "2026-10-13T03:22:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T03:30:43.546209+00:00"
+    },
     {
       "id": "ad1721b42410a39b",
       "source": "Halk TV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T20:20:42.278623+00:00"
-    },
-    {
-      "id": "1210660101f3421d",
-      "source": "Finans Gündem",
-      "title": "Esenyurt'ta mobilya atölyesinde yangın",
-      "summary": "Esenyurt'ta mobilya atölyesinde çıkan yangına itfaiye ekipleri müdahale ediyor.",
-      "link": "https://www.finansingundemi.com/haber/esenyurtta-mobilya-atolyesinde-yangin/1911259",
-      "published": "2026-10-12T20:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T20:20:53.377463+00:00"
     }
   ]
 }

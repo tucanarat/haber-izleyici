@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-10-13T12:40:58.333217+00:00",
+  "last_updated": "2026-10-13T12:46:05.045647+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 533,
+  "new_items_this_run": 529,
   "items": [
+    {
+      "id": "222a7b6e19c6f36e",
+      "source": "LOG",
+      "title": "Nvidia, DLSS 5’in performansını iki katına çıkarıyor",
+      "summary": "Nvidia, geçen ay NBA 2K27 ile resmi olarak kullanıma sunduğu DLSS 5 teknolojisinin performansını artıracak bir güncelleme yayınlayacak. Şirketin açıklamasına göre GPU&#8217;ya ciddi bir yük bindiren DLSS 5&#8217;in 3D-Guided Neural Rendering modeli, 16 Ekim&#8217;de yayınlanacak güncellemeyle birlikte iki kat daha hızlı çalışmaya başlayacak. &#8220;İşlem hattında yapılan optimizasyonlar ve nöral m",
+      "link": "https://www.log.com.tr/nvidia-dlss-5in-performansini-iki-katina-cikariyor/",
+      "published": "2026-10-13T12:45:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:46:01.787906+00:00"
+    },
+    {
+      "id": "6062e681c49bb6ad",
+      "source": "Star",
+      "title": "Sigara satışında karekodlu yaş doğrulaması! Bakan Memişoğlu: 18 yaş altına satışı tamamen engelleyeceğiz",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, tütün ve tütün ürünleriyle mücadele kapsamında hazırlanan yeni kanun taslağının detaylarını açıkladı. Türkiye'de sigaraya başlama yaşının 17'ye gerilediğini ve 13-15 yaş grubundaki gençlerin %73,3'ünün sigaraya kolayca erişebildiğini belirten Memişoğlu, 18 yaş altı satışı fiilen engellemek için karekod veya dijital yaş doğrulaması sisteminin devreye gireceğini duyurd",
+      "link": "https://www.star.com.tr/saglik/sigara-satisinda-karekodlu-yas-dogrulamasi-bakan-memisoglu-18-yas-altina-satisi-tamamen-en-haber-2046341/",
+      "published": "2026-10-13T12:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:42.275346+00:00"
+    },
+    {
+      "id": "4d8ee083857fa5f9",
+      "source": "Ekonomim",
+      "title": "Cumhurbaşkanı Erdoğan, Suudi Arabistan Veliaht Prensi Selman ile telefonda görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile telefon görüşmesi gerçekleştirdi.",
+      "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogan-suudi-arabistan-veliaht-prensi-selman-ile-telefonda-gorustu-haberi-924436",
+      "published": "2026-10-13T12:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:52.293073+00:00"
+    },
+    {
+      "id": "74407b7087458206",
+      "source": "Yeniçağ",
+      "title": "YENİ Parti lideri Özgür Özel, iş dünyasıyla görüştü",
+      "summary": "YENİ Parti Genel Başkanı Özgür Özel, TÜSİAD Yönetim Kurulu Başkanı Ozan Diren ve TÜSİAD Ankara Temsilcisi Barış Urhan ile partisinin genel merkezinde ağırladı.",
+      "link": "https://www.yenicaggazetesi.com/yeni-parti-lideri-ozgur-ozel-is-dunyasiyla-gorustu-1081785h.htm",
+      "published": "2026-10-13T12:44:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:43.677791+00:00"
+    },
+    {
+      "id": "128de0a42e0f76c9",
+      "source": "Yeniçağ",
+      "title": "Dünya Kupası yayınlarında yeni dönem: Netflix 2030'un yayın haklarını satın aldı",
+      "summary": "Netflix, 2030 FIFA Dünya Kupası&#039;nın İspanya ve Andorra&#039;daki münhasır yayın haklarını aldığını duyurdu. Anlaşma kapsamında turnuvadaki tüm karşılaşmalar iki ülkede yalnızca Netflix üzerinden canlı yayınlanacak.",
+      "link": "https://www.yenicaggazetesi.com/dunya-kupasi-yayinlarinda-yeni-donem-netflix-2030un-yayin-haklarini-satin-aldi-1081784h.htm",
+      "published": "2026-10-13T12:44:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:43.677833+00:00"
+    },
+    {
+      "id": "473783f2701590ba",
+      "source": "Star",
+      "title": "Suudi Arabistan'a destek telefonu! Cumhurbaşkanı Erdoğan: Husi saldırılarını en güçlü şekilde kınıyoruz",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir telefon görüşmesi gerçekleştirdi. Cumhurbaşkanı Erdoğan, Türkiye olarak Suudi Arabistan topraklarını hedef alan Husi saldırılarını en güçlü şekilde kınandığını belirtti, hayatını kaybedenler için üzüntülerini ve başsağlığı dileklerini ifade etti.",
+      "link": "https://www.star.com.tr/politika/cumhurbaskani-erdogan-prens-selman-ile-gorustu-saldirilari-en-guclu-sekilde-kiniyoruz-haber-2046338/",
+      "published": "2026-10-13T12:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:42.275444+00:00"
+    },
+    {
+      "id": "346f716c97f55664",
+      "source": "Yeni Şafak",
+      "title": "Cumhurbaşkanı Erdoğan büyükelçilerin güven mektuplarını kabul etti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Hindistan, Mali, Hollanda, El Salvador ve Nijerya büyükelçilerinin güven mektuplarını kabul etti.",
+      "link": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-buyukelcilerin-guven-mektuplarini-kabul-etti-4863976",
+      "published": "2026-10-13T12:43:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:41.974534+00:00"
+    },
+    {
+      "id": "5fb0dba2e1771616",
+      "source": "Akşam",
+      "title": "Sincar Dağı için geri sayım başladı: Silahlı varlık bir ayda bitecek",
+      "summary": "Irak Ulusal Güvenlik Danışmanı Kasım Abbudi, Sincar Dağı'ndaki \"silahlı varlığın\" yaklaşık 1 ay içinde sona ermesinin hedeflendiğini belirtti.",
+      "link": "https://www.aksam.com.tr/dunya/sincar-dagi-icin-geri-sayim-basladi-silahli-varlik-bir-ayda-bitecek/haber-1705871",
+      "published": "2026-10-13T12:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:41.280041+00:00"
+    },
+    {
+      "id": "422a317733876dda",
+      "source": "Akşam",
+      "title": "Hülya Avşar'dan Erkan Petekkaya'nın olay yorumuna cevap!",
+      "summary": "Erkan Petekkaya, Hülya Avşar'ın videosuna yaptığı, 'Yürümeyen kadın ya da bir insan bir canlı ama yürüyemiyor' yorumuyla ses getirmişti. Avşar'dan o yoruma cevap geldi.",
+      "link": "https://www.aksam.com.tr/venus/hulya-avsardan-erkan-petekkayanin-olay-yorumuna-cevap/haber-1705870",
+      "published": "2026-10-13T12:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:41.280075+00:00"
+    },
+    {
+      "id": "4f5935a24fde8c83",
+      "source": "Gazete Pencere",
+      "title": "YENİ Parti Grup Başkanvekili Gökhan Günaydın: ‘214 üst düzey AKP’linin bu işin içerisinde parmağının olduğu belli’",
+      "summary": "YENİ Parti Grup Başkanvekili Gökhan Günaydın, “214 tane üst düzey AKP’linin bu işin içerisinde parmağının olduğu” iddiasını dile getirerek Merkezi Kayıt Kuruluşu kayıtlarının açıklanmasını istedi.",
+      "link": "https://www.gazetepencere.com/siyaset/yeni-parti-grup-baskanvekili-gokhan-gunaydin-214-ust-duzey-akplinin-bu-isin-719088h",
+      "published": "2026-10-13T12:42:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:45.412945+00:00"
+    },
+    {
+      "id": "2f4dd2a81b89010f",
+      "source": "Star",
+      "title": "Özgür Özel'den vekillerine \"iftiraya devam\" talimatı! Kürsüden fon yalanlarına sahip çıktı",
+      "summary": "Kürsüden açık açık vekillerine \"iftira furyasını sürdürün\" çağrısında bulunan Yeni Parti Genel Başkanı Özgür Özel, fon yalanlarına resmen sahip çıktığını ilan etti.",
+      "link": "https://www.star.com.tr/politika/ozgur-ozelden-vekillerine-iftiraya-devam-talimati-kursuden-fon-yalanlarina-sahip-cikti-haber-2046340/",
+      "published": "2026-10-13T12:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:42.275382+00:00"
+    },
+    {
+      "id": "c45375db1468f796",
+      "source": "Karar",
+      "title": "Erdoğan, büyükelçilerin güven mektuplarını kabul etti",
+      "summary": "Cumhurbaşkanı Erdoğan, Hindistan, Mali, Hollanda, El Salvador ve Nijerya büyükelçilerini Cumhurbaşkanlığı Külliyesi'nde kabul ederek güven mektuplarını kabul etti.",
+      "link": "https://www.karar.com/guncel-haberler/erdogan-buyukelcilerin-guven-mektuplarini-kabul-etti-1-2078138",
+      "published": "2026-10-13T12:41:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:43.019252+00:00"
+    },
+    {
+      "id": "6b12312878c5e755",
+      "source": "Cumhuriyet",
+      "title": "Yargıdaki ‘torpil’ itirafına suç duyurusu: İstanbul Barosu'ndan 'rüşvet ve nüfuz ticareti' suçlaması",
+      "summary": "Ankara 2 No’lu Baro Başkanı Gökhan Ağdemir’in “70 üyemizi referansla hâkim ve savcı yaptık, bakanlık bize ayrıcalık tanıdı” sözlerinin ardından İstanbul Barosu suç duyurusunda bulundu. Dilekçede, Ağdemir ve sorumluluğu tespit edilecek kamu görevlileri hakkında “rüşvet”, “nüfuz ticareti” ve “görevi kötüye kullanma” suçlarından soruşturma başlatılması istendi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/yargidaki-torpil-itirafina-suc-duyurusu-istanbul-barosu-ndan-rusvet-ve-nufuz-ticareti-suclamasi-2546322",
+      "published": "2026-10-13T12:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:38.117973+00:00"
+    },
+    {
+      "id": "9a798cbeded79c0a",
+      "source": "Karar",
+      "title": "İşsizliğin fotoğrafı: 93 kişilik kadroya 21 bin 623 başvuru",
+      "summary": "Tokat Gaziosmanpaşa Üniversitesi'nin açtığı 93 sözleşmeli personel kadrosuna 21 bin 623 kişi başvurdu. Sağlık, büro ve destek hizmetlerinde istihdam edilmek isteyen binlerce adayın yarıştığı alımlarda, kadro başına ortalama 233 başvuru düştü. Özellikle iki kişilik büro personeli kontenjanına 3 bin 105, altı kişilik temizlik görevlisi kadrosuna ise 3 bin 311 kişinin başvurması dikkat çekti. Ünivers",
+      "link": "https://www.karar.com/ekonomi-haberleri/issizligin-fotografi-93-kisilik-kadroya-21-bin-623-basvuru-2078139",
+      "published": "2026-10-13T12:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:43.019308+00:00"
+    },
     {
       "id": "65452c14b507e09c",
       "source": "Karar",
@@ -28,6 +182,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T12:40:43.636823+00:00"
+    },
+    {
+      "id": "acb5da219ad168e9",
+      "source": "Türkiye Gazetesi",
+      "title": "HAKARET ÜSTÜNE HAKARET!",
+      "summary": "Geçtiğimiz günlerde AK Parti'ye katılan İzmir Büyükşehir Belediye Başkanı Cemil Tugay'a 'Sütü bozuk' diyen Özgür Özel, hakaretin dozunu artırdı. Özel bugün grup toplantısında \"Cemil Tugay'a eğer son imzayı bu el attıysa, bu el kırılsaydı, bu kafa kırılsaydı bugünü görmeseydi de o namussuzu aday yapmasaydı\" ifadelerini kullandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/hakaret-ustune-hakaret-ozgur-ozel-bu-kez-de-cemil-tugaya-namussuz-dedi-1822450",
+      "published": "2026-10-13T12:40:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:39.024676+00:00"
+    },
+    {
+      "id": "3fde8f08bd957e07",
+      "source": "Cumhuriyet",
+      "title": "İngiliz basınından flaş iddia: FIFA Başkanı Infantino'ya kayıt dışı ödeme",
+      "summary": "FIFA Başkanı Gianni Infantino'nun 2024 yılında açıklanan maaş ve primlerinin dışında 1,6 milyon Euro daha aldığı iddia edildi. Ek ödemenin bir bölümünün Miami Beach'teki lüks bir konutun kirası için kullanıldığı öne sürüldü.",
+      "link": "https://www.cumhuriyet.com.tr/spor/ingiliz-basinindan-flas-iddia-fifa-baskani-infantino-ya-kayit-disi-odeme-2546320",
+      "published": "2026-10-13T12:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:38.118012+00:00"
+    },
+    {
+      "id": "bc57a6edc346e462",
+      "source": "Cumhuriyet",
+      "title": "Forex operasyonunda ortaya çıktı! İşe girenleri yalan makinesine sokmuşlar",
+      "summary": "İstanbul'da uluslararası forex dolandırıcılığına yönelik soruşturmada, Beyoğlu ve Şişli’de kurulan çağrı merkezlerinde işe girmek ve işten ayrılmak isteyenlerin ‘yalan makinesi’ testine tabi tutulduğu belirlendi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/forex-operasyonunda-ortaya-cikti-ise-girenleri-yalan-makinesine-sokmuslar-2546321",
+      "published": "2026-10-13T12:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:38.118042+00:00"
     },
     {
       "id": "5171f9adc5d84f99",
@@ -107,6 +294,17 @@
       "fetched_at": "2026-10-13T12:40:40.549824+00:00"
     },
     {
+      "id": "5464b44d91697398",
+      "source": "OdaTV",
+      "title": "Almanya’da havalimanı kapatıldı: Eurofighterlar yolcu uçağına eşlik etti",
+      "summary": "Almanya’daki Nürnberg Havalimanı, hava acil durumu nedeniyle yaklaşık bir saat uçuşlara kapatıldı. Korfu’dan gelen Corendon Airlines uçağına Eurofighter savaş uçakları eşlik ederken şirket, acil durum kodunun teknik arıza nedeniyle verildiğini açıkladı.",
+      "link": "https://www.odatv.com/dunya/almanyada-havalimani-kapatildi-eurofighterlar-yolcu-ucagina-eslik-etti-120166507",
+      "published": "2026-10-13T12:38:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:45.689719+00:00"
+    },
+    {
       "id": "90a526511ecb9a7e",
       "source": "LOG",
       "title": "Honor’dan tam 12.070 mAh bataryalı bir telefon geliyor",
@@ -149,6 +347,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T12:40:41.151283+00:00"
+    },
+    {
+      "id": "5b1812c7dfe97575",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "39 ildeki yatırım dolandırıcılığı soruşturmasında 159 şüpheli gözaltına alındı",
+      "summary": "Adalet Bakanı Akın Gürlek, 39 ildeki yatırım dolandırıcılığı soruşturmasında 159 şüphelinin gözaltına alındığını bildirdi.",
+      "link": "https://www.aa.com.tr/tr/gundem/39-ildeki-yatirim-dolandiriciligi-sorusturmasinda-159-supheli-gozaltina-alindi/4087351",
+      "published": "2026-10-13T12:36:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:37.785225+00:00"
     },
     {
       "id": "cccda113fd3b9b60",
@@ -470,6 +679,17 @@
       "fetched_at": "2026-10-13T12:35:41.944229+00:00"
     },
     {
+      "id": "9bc8558c173ba200",
+      "source": "Bloomberg HT",
+      "title": "Erdoğan, Suudi Veliaht Prensi ile görüştü",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile bir telefon görüşmesi gerçekleştirdi.",
+      "link": "https://www.bloomberght.com/erdogan-suudi-veliaht-prensi-ile-gorustu-3791238",
+      "published": "2026-10-13T12:31:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:51.382442+00:00"
+    },
+    {
       "id": "450d9c854cf25d7b",
       "source": "Habertürk",
       "title": "Cumhurbaşkanı Erdoğan'dan Suudi Veliaht Prens'e telefon",
@@ -523,6 +743,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T12:31:19.977051+00:00"
+    },
+    {
+      "id": "990c0258b88e91c9",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "MHP Genel Başkanı Bahçeli, CHP Genel Başkanı Kılıçdaroğlu ile görüştü",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, CHP Genel Başkanı Kemal Kılıçdaroğlu ile bir araya geldi.",
+      "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceli-chp-genel-baskani-kilicdaroglu-ile-gorustu/4087324",
+      "published": "2026-10-13T12:30:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:37.785255+00:00"
     },
     {
       "id": "034c84f48f45a6c2",
@@ -611,6 +842,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T12:30:55.312996+00:00"
+    },
+    {
+      "id": "35cb7c4a05a916fe",
+      "source": "Türkiye Gazetesi",
+      "title": "RİYAD'A TAM DESTEK!",
+      "summary": "Cumhurbaşkanı Erdoğan, Suudi Arabistan Veliaht Prensi Selman ile telefonda görüştü. Görüşmede, bölgedeki son gelişmeler ve Suudi Arabistan'a yönelik saldırılar ele alındı. Cumhurbaşkanı Erdoğan, görüşmede, Suudi Arabistan topraklarını hedef alan Husi saldırılarını en güçlü şekilde kınadı, hayatını kaybedenler için başsağlığı diledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/selman-ile-husi-saldirilari-gorusmesi-cumhurbaskani-erdogandan-suudi-arabistana-deste-1822447",
+      "published": "2026-10-13T12:28:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:39.024752+00:00"
     },
     {
       "id": "e621b9f6372ac10f",
@@ -2140,6 +2382,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T12:10:40.984961+00:00"
+    },
+    {
+      "id": "b787d747fa221ee0",
+      "source": "OdaTV",
+      "title": "Hatimoğulları’ndan Öcalan çağrısı: MGK toplantısı beklenmesin",
+      "summary": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Abdullah Öcalan’ın koordinatörü olacağı “Barış ve Siyasallaşma Kurulu”nun acilen çalışmaya başlaması gerektiğini belirterek “Özgür yaşar ve özgür çalışabilir koşulları acilen sağlanmalıdır” dedi.",
+      "link": "https://www.odatv.com/siyaset/hatimogullarindan-ocalan-cagrisi-mgk-toplantisi-beklenmesin-120166498",
+      "published": "2026-10-13T12:05:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T12:45:45.689845+00:00"
     },
     {
       "id": "012e59ee6f51576d",
@@ -5253,259 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T11:25:23.472246+00:00"
-    },
-    {
-      "id": "636af9e815d3fa0d",
-      "source": "Ekonomim",
-      "title": "Borsada bilanço dönemi başlıyor: İlk tarihler ve kar tahminleri belli oldu",
-      "summary": "Borsa İstanbul&#039;da işlem gören şirketlerin 2026 yılı üçüncü çeyrek finansal sonuçlarını açıklayacağı dönem yaklaşıyor. İlk bilançonun 19 Ekim&#039;de Türkiye Sigorta&#039;dan gelmesi beklenirken, aracı kurumlar banka ve şirketlere ilişkin kâr tahminlerini paylaşmaya başladı.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/borsada-bilanco-donemi-basliyor-ilk-tarihler-ve-kar-tahminleri-belli-oldu-haberi-924410",
-      "published": "2026-10-13T11:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:25:46.155534+00:00"
-    },
-    {
-      "id": "5d81d0669aeb4d03",
-      "source": "Cumhuriyet",
-      "title": "3,5 milyar lirayı aşan işlem hacmi... Mersin'de 'yasa dışı bahis' operasyonu: 37 gözaltı",
-      "summary": "Mersin’de yasa dışı bahis ve dolandırıcılık suçlarına yönelik düzenlenen operasyonda 37 şüpheli gözaltına alındı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/3-5-milyar-lirayi-asan-islem-hacmi-mersin-de-yasa-disi-bahis-operasyonu-37-gozalti-2546293",
-      "published": "2026-10-13T11:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:20:34.372412+00:00"
-    },
-    {
-      "id": "90cfdedb671b1cad",
-      "source": "Aydınlık",
-      "title": "Dallıkavak Tüneli ve 9 kilometrelik kesim 16 Ekim’de açılacak",
-      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Erzurum-Rize Yolu’ndaki Dallıkavak Tüneli’nin de yer aldığı toplam 9 kilometrelik kesimin 16 Ekim’de hizmete açılacağını bildirdi.",
-      "link": "https://www.aydinlik.com.tr/haber/dallikavak-tuneli-16-ekimde-hizmete-acilacak-594280",
-      "published": "2026-10-13T11:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:20:44.719289+00:00"
-    },
-    {
-      "id": "8dffe582b57b7705",
-      "source": "Yeni Şafak",
-      "title": "Suudi Arabistan'a saldırılar sonrası Ankara-İslamabad hattında kritik temas",
-      "summary": "Husilerin saldırılarının ardından gözlerin çevrildiği Mekke Ortak Savunma Anlaşması gündemdeki yerini korurken Genelkurmay Başkanı Selçuk Bayraktaroğlu, Pakistanlı mevkidaşı Mareşal Asim Munir ile görüştü.",
-      "link": "https://www.yenisafak.com/gundem/suudi-arabistana-saldirilar-sonrasi-ankara-islamabad-hattinda-kritik-temas-4863940",
-      "published": "2026-10-13T11:14:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:36.956027+00:00"
-    },
-    {
-      "id": "371c9b6fc22fa903",
-      "source": "Star",
-      "title": "Aston Villa, Fenerbahçe maçının hazırlıklarını tamamladı",
-      "summary": "Şampiyonlar Ligi'nin ikinci haftasında evinde Fenerbahçe'yi konuk edecek Aston Villa maçın hazırlıklarını tamamladı.",
-      "link": "https://www.star.com.tr/spor/aston-villa-fenerbahce-macinin-hazirliklarini-tamamladi-haber-2046317/",
-      "published": "2026-10-13T11:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:37.281579+00:00"
-    },
-    {
-      "id": "9f12cdf5f59dd8d4",
-      "source": "DonanımHaber",
-      "title": "Avatar: The Last Airbender serisi büyüyor; Yeni bir dizi daha gelecek",
-      "summary": "Paramount+, Avatar: The Last Airbender serisini yeni animasyon dizileriyle büyütmeye devam edecek. Epey başarılı olan Avatar: Seven Havens'tan sonra yeni bir dizi daha geliyor.",
-      "link": "https://www.donanimhaber.com/avatar-the-last-airbender-serisine-yeni-bir-dizi-daha-eklenecek--211555",
-      "published": "2026-10-13T11:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:50.804030+00:00"
-    },
-    {
-      "id": "e304d2f64ece3942",
-      "source": "Milliyet",
-      "title": "Ülkedeki salgın 7 eyaleti etkisi altına aldı! Vaka sayısı 8 bini aştı",
-      "summary": "Buna göre, ülkenin 7 eyaletinin 65 bölgesini etkileyen salgında doğrulanmış vaka sayısı 8 bin 978'e, hayatını kaybedenlerin sayısı 4 bin 336'ya yükseldi. Salgında 2 bin 356 kişi iyileşirken, virüsün ölüm oranı yüzde 48.3, temaslıların takip oranı ise yüzde 81 oldu. Son 24 saatte Tshopo eyaletindeki bir doktorun da aralarında bulunduğu 18 kişi iyileşti. Bas-Uele, Güney Kivu ve Güney Ubangi eyaletle",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-ulkedeki-salgin-7-eyaleti-etkisi-altina-aldi-vaka-sayisi-8-bini-asti-7678598",
-      "published": "2026-10-13T11:13:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:35.830494+00:00"
-    },
-    {
-      "id": "d5410db50996b86d",
-      "source": "Bir Gün",
-      "title": "AKP files defamation suit against BirGün TV, Timur Soykan, Şaban Sevinç and Zeynel Emre",
-      "summary": "The AKP has filed a defamation suit seeking 600,000 lira in damages against BirGün TV and Timur Soykan, citing their broadcasts and statements regarding the fund embezzlement scandal. Separate lawsuits seeking 500,000 lira each have also been filed against Şaban Sevinç and Zeynel Emre, spokesperson for the YENİ Party.",
-      "link": "https://www.birgun.net/haber/akp-files-defamation-suit-against-birgun-tv-timur-soykan-saban-sevinc-and-zeynel-emre-740182",
-      "published": "2026-10-13T11:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:50:38.063087+00:00"
-    },
-    {
-      "id": "f482afc4b2b539c3",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Dünya Bankasının 4 yılda Türkiye'de harekete geçirdiği özel sektör sermayesi 21 milyar doları aştı",
-      "summary": "Dünya Bankası Grubu, Türkiye'de 2022 yılından bu yana harekete geçirilen özel sektör sermayesinin toplamının 21 milyar doları aştığını bildirdi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasinin-4-yilda-turkiyede-harekete-gecirdigi-ozel-sektor-sermayesi-21-milyar-dolari-asti/4087199",
-      "published": "2026-10-13T11:12:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:20:33.973422+00:00"
-    },
-    {
-      "id": "6b575c9c826654cf",
-      "source": "Türkiye Gazetesi",
-      "title": "AK Parti'den 3 isim hakkında tazminat davası!",
-      "summary": "AK Parti, Yeni Parti Sözcüsü Zeynel Emre, gazeteciler Şaban Sevinç, Timur Soykan ile BirGün TV'ye manevi tazminat davası açtı. Konuya ilişkin açıklamalarda bulunan AK Parti Genel Sekreteri Eyyüp Kadir İnan, \"Hiçbir kişi, kurum veya siyasi oluşumun, basın özgürlüğü ya da siyasi eleştiri hakkını gerekçe göstererek partimizin kurumsal kimliğini ve saygınlığını haksız ithamlarla zedeleme hakkı bulunma",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/ak-partiden-3-isim-hakkinda-tazminat-davasi-yeni-parti-sozcusu-zeynel-emre-de-aralari-1822424",
-      "published": "2026-10-13T11:12:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:33.661615+00:00"
-    },
-    {
-      "id": "1284c2f5b5711b52",
-      "source": "Halk TV",
-      "title": "FIFA'da sular durulmuyor: Infantino yine çuvalladı",
-      "summary": "FIFA Başkanı Gianni Infantino&#039;nun gelirleri, İngiliz gazetesi The Times&#039;ın yayımladığı araştırmanın ardından tartışma konusu oldu.",
-      "link": "https://halktv.com.tr/spor/fifada-sular-durulmuyor-infantino-yine-cuvalladi-1061435h",
-      "published": "2026-10-13T11:12:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:40.118670+00:00"
-    },
-    {
-      "id": "d4dcd57ad004945f",
-      "source": "Aydınlık",
-      "title": "Çin'de uluslararası terörle mücadele forumu başladı",
-      "summary": "Çin’in başkenti Pekin’de düzenlenen Büyük Çin Seddi-2026 Uluslararası Terörle Mücadele Forumu’na 62 ülke ve uluslararası kuruluştan 320’den fazla temsilci katıldı. Forumda küresel güvenlik tehditleriyle mücadele ve uluslararası işbirliğinin geliştirilmesi konuları ele alınıyor.",
-      "link": "https://www.aydinlik.com.tr/haber/cinde-uluslararasi-terorle-mucadele-forumu-basladi-594282",
-      "published": "2026-10-13T11:12:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:39.187234+00:00"
-    },
-    {
-      "id": "eed42a533df038f5",
-      "source": "Independent Türkçe",
-      "title": "ABD'nin \"dizel stratejisi\" Rusya'yı müzakere masasına döndürür mü?",
-      "summary": "Washington ve Kremlin arasında yapılan dizel yakıt tedariki anlaşmasının yankıları sürüyor. Reuters'ın analizine göre Donald Trump yönetimi, anlaşma sayesinde Moskova'nın Ukrayna'yla barış görüşmelerine yönelik yaklaşımını \"yumuşatmayı\" amaçlıyor. Adlarının paylaşılmaması şartıyla konuşan kaynaklara göre ABD'li yetkililer, 9 Ekim'de Miami'de yapılan görüşmelerde Ukraynalı heyete, Rusya Devlet Başk",
-      "link": "https://www.indyturk.com/node/783771/d%C3%BCnya/abdnin-dizel-stratejisi-rusyay%C4%B1-m%C3%BCzakere-masas%C4%B1na-d%C3%B6nd%C3%BCr%C3%BCr-m%C3%BC",
-      "published": "2026-10-13T11:12:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:45:51.337955+00:00"
-    },
-    {
-      "id": "ef034a2f4a484a42",
-      "source": "Milliyet",
-      "title": "‘Bir kişi nasıl itilir?’ araması ortaya çıkmıştı! Yargıtay'dan dikkat çeken karar",
-      "summary": "Olay, 24 Ocak 2023’te saat 19.00 sıralarında Altınova ilçesine bağlı Soğuksu köyü Ballıkaya mevkisinde meydana geldi. Kocaeli’nin Karamürsel ilçesinde yaşayan Semiha Sözer, eşi Erdal Necip Sözer ile gittiği kayalıklarda yaklaşık 20 metre yükseklikten düştü. İhbar üzerine bölgeye AFAD ve itfaiye ekipleri sevk edildi. Kayalıklara inen ekipler, Semiha Sözer’in hayatını kaybettiğini belirledi. Sözer’i",
-      "link": "https://www.milliyet.com.tr/gundem/bir-kisi-nasil-itilir-aramasi-ortaya-cikmisti-yargitaydan-dikkat-ceken-karar-7678594",
-      "published": "2026-10-13T11:12:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:35.831160+00:00"
-    },
-    {
-      "id": "638a279170d46c7a",
-      "source": "Karar",
-      "title": "Fatma Betül Sayan Kaya ve eşinin mal varlıkları donduruldu: 141 kişilik listede yer aldılar",
-      "summary": "Fon soruşturmasında, Fatma Betül Sayan Kaya ile eşi İlyas Kaya'nın da aralarında bulunduğu 141 kişinin mal varlıklarının dondurulmasına yönelik işlem yapıldı. Kaya çifti, geçtiğimiz hafta TMSF'nin isteğe bağlı iade hesabına yatırımlarından elde ettikleri yaklaşık 1,86 milyar liralık kazancı göndermişti. Ancak Sermaye Piyasası Kanunu'nun 107. maddesinde düzenlenen etkin pişmanlık hükümlerinden yara",
-      "link": "https://www.karar.com/guncel-haberler/fatma-betul-sayan-kaya-ve-esinin-mal-varliklari-donduruldu-141-kisilik-2078115",
-      "published": "2026-10-13T11:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:38.007363+00:00"
-    },
-    {
-      "id": "34c2d43fb4a4fe09",
-      "source": "Halk TV",
-      "title": "Özgür Özel fon vurgununda Yazıcı'nın ortağının ölümünü şüpheli buldu: Daha dikkatli bakmak lazım",
-      "summary": "YENİ Parti Genel Başkanı Özgür Özel, fon soruşturmasında AKP’li Hayati Yazıcı’nın oğlu Mustafa Yazıcı’ya konulan tedbirin kaldırılmasına ve ortağı Ali Emre Ballı’nın ölümüne dikkat çekerek “çok daha dikkatli bakmak lazım” dedi.",
-      "link": "https://halktv.com.tr/siyaset/ozgur-ozel-fon-vurgununda-yazicinin-ortaginin-olumunu-supheli-buldu-daha-dikkatli-bakmak-lazim-1061434h",
-      "published": "2026-10-13T11:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:40.118719+00:00"
-    },
-    {
-      "id": "1df598237dd42cfa",
-      "source": "Ekonomim",
-      "title": "Kremlin: ABD'ye dizel ihracatı ile Ukrayna müzakereleri arasında bağlantı yok",
-      "summary": "Kremlin, Rusya&#039;nın ABD&#039;ye dizel ihracatına izin veren anlaşma ile Moskova&#039;nın Ukrayna barış görüşmelerindeki tutumu arasında doğrudan bir bağlantı bulunmadığını açıkladı.",
-      "link": "https://www.ekonomim.com/dunya/kremlin-abdye-dizel-ihracati-ile-ukrayna-muzakereleri-arasinda-baglanti-yok-haberi-924407",
-      "published": "2026-10-13T11:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:45.434472+00:00"
-    },
-    {
-      "id": "665f8af7083a459c",
-      "source": "Evrensel",
-      "title": "Bakırlıoğlu, Soma Termik Santrali’nde işçilerin ücretsiz izne çıkarılmasına tepki gösterdi",
-      "summary": "Soma Termik Santrali’nde işçilerin ücretsiz izne çıkarılmasına tepki gösteren Yeni Partili Ahmet Vehbi Bakırlıoğlu, devir teslim sürecinin hızlandırılmasını ve işçilerin ücret ile tazminat alacaklarına ilişkin belirsizliğin giderilmesini istedi.",
-      "link": "https://www.evrensel.net/haber/6004739/bakirlioglu-soma-termik-santralinde-iscilerin-ucretsiz-izne-cikarilmasina-tepki-gosterdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-13T11:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:35:47.148234+00:00"
-    },
-    {
-      "id": "ce3e9d42c25d8421",
-      "source": "Akşam",
-      "title": "Savunmada başarı getiren model sağlığa taşınıyor... Cumhurbaşkanı Yardımcısı Yılmaz yol haritasını açıkladı",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, savunma sanayisinde elde edilen başarının sağlık endüstrilerine de taşınacağını belirterek, kamunun alım ve düzenleme gücüyle yerlileşmenin hızlandırılabileceğini söyledi. Yılmaz, daha önce 5 bin dolara ithal edilen bir ürünün yerli üretim sayesinde 1000 dolara temin edildiğini vurguladı.",
-      "link": "https://www.aksam.com.tr/guncel/savunmada-basari-getiren-model-sagliga-tasiniyor-cumhurbaskani-yardimcisi-yilmaz-yol-harit/haber-1705834",
-      "published": "2026-10-13T11:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:15:36.370476+00:00"
-    },
-    {
-      "id": "d150c9b17870f9a3",
-      "source": "OdaTV",
-      "title": "Akıllı fırından televizyona: Kontrolsüz yayılma riski araştırıldı",
-      "summary": "Claude&#039;un geliştiricisi Anthropic, yapay zeka modellerinin veri merkezlerine ihtiyaç duymadan akıllı ev cihazları üzerinden çoğalabilecek düzeye aylar içinde ulaşabileceği uyarısında bulundu. Deneylerde önemli ilerleme kaydedilse de gerçek dünyada kendiliğinden yayılan bir model henüz gösterilemedi.",
-      "link": "https://www.odatv.com/bilim-ve-teknoloji/anthropicten-uyari-yapay-zeka-modelleri-kendi-kendini-cogaltabilir-120166483",
-      "published": "2026-10-13T11:10:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:20:45.743779+00:00"
-    },
-    {
-      "id": "2aa6c3671092f99e",
-      "source": "Karar",
-      "title": "Kremlin: AB'nin yeni yaptırımları ABD ile yakıt anlaşmamızı engelleyebilir",
-      "summary": "Kremlin Sözcüsü Dmitriy Peskov, Avrupa Birliği'nin (AB) Rusya'ya yönelik olası yeni yaptırımlarının Moskova ile Washington arasındaki dizel yakıt satış anlaşmasının uygulanmasını engelleyebileceğini söyledi. Avrupa ülkelerinin Rus petrolü ve petrol ürünlerini satın almaya devam ettiğini belirten Peskov, Rusya'nın dünya pazarlarına ürün sunmayı sürdüreceğini ifade etti.",
-      "link": "https://www.karar.com/dunya-haberleri/kremlin-abnin-yeni-yaptirimlari-abd-ile-yakit-anlasmamizi-engelleyebilir-2078114",
-      "published": "2026-10-13T11:10:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:10:44.889272+00:00"
-    },
-    {
-      "id": "3309f82539e71ce5",
-      "source": "Karar",
-      "title": "Yolcuların midelerinden 495 gram metamfetamin çıktı",
-      "summary": "İzmir Adnan Menderes Havalimanı'nda polisin şüphe üzerine sağlık kuruluşuna sevk ettiği 2 yolcunun midesinde 60 kapsül halinde toplam 495 gram metamfetamin ele geçirildi. Adliyeye sevk edilen şüpheliler tutuklandı.",
-      "link": "https://www.karar.com/guncel-haberler/yolcularin-midelerinden-495-gram-metamfetamin-cikti-2078113",
-      "published": "2026-10-13T11:10:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:10:44.889312+00:00"
-    },
-    {
-      "id": "c5df92191b48f1c5",
-      "source": "Bir Gün",
-      "title": "TMO, çeltik alım fiyatlarını açıkladı",
-      "summary": "TMO, 2026 dönemi çeltik alım fiyatlarını belirledi. Baldo grubu çeltik için ton başına 45 bin TL, cammeo için 43 bin TL, Osmancık için 38 bin TL fiyat açıklandı. Alımlar 15 Ekim'de başlayacak, randevular 13 Ekim'den itibaren alınabilecek.",
-      "link": "https://www.birgun.net/haber/tmo-celtik-alim-fiyatlarini-acikladi-740181",
-      "published": "2026-10-13T11:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T11:50:38.063115+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T01:20:58.727970+00:00",
+  "last_updated": "2026-10-13T01:26:10.012186+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 515,
   "items": [
+    {
+      "id": "1f93086f6fabbce4",
+      "source": "Finans Gündem",
+      "title": "Panama'da 6,1 büyüklüğünde deprem meydana geldi",
+      "summary": "Orta Amerika ülkesi Panama'da 6,1 büyüklüğünde deprem meydana geldi.",
+      "link": "https://www.finansingundemi.com/haber/panamada-61-buyuklugunde-deprem-meydana-geldi/1911280",
+      "published": "2026-10-13T01:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T01:25:51.718449+00:00"
+    },
     {
       "id": "32fa3a6a86e0d296",
       "source": "Anadolu Ajansı (Güncel)",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-12T19:55:24.234408+00:00"
-    },
-    {
-      "id": "3471e41f16ec2d08",
-      "source": "DonanımHaber",
-      "title": "Enerji depolama pazarında muazzam büyüme bekleniyor: Kapasite 7 TWh'ı aşacak",
-      "summary": "Küresel enerji depolama pazarının 2035'e kadar 7 kat büyümesi bekleniyor. Wood Mackenzie'ye göre bu büyümede, bugüne kadar gölgede kalan ticari ve endüstriyel batarya sistemleri önemli rol oynayacak.",
-      "link": "https://www.donanimhaber.com/kuresel-enerji-depolama-kapasitesi-2035-e-kadar-7-katina-cikacak--211538",
-      "published": "2026-10-12T19:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-12T19:45:49.842692+00:00"
     }
   ]
 }

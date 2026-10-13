@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T22:31:09.675461+00:00",
+  "last_updated": "2026-10-13T22:35:49.293968+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,61 @@
   "total_items": 500,
   "new_items_this_run": 532,
   "items": [
+    {
+      "id": "fbf1bc00630249b0",
+      "source": "CNBC-e",
+      "title": "OpenAI’ın ofisinde gizli dinleme cihazı skandalı: FBI’ın Suudi çalışanı gözaltına aldı",
+      "summary": "OpenAI’ın San Francisco’daki ofisinde toplantı odasına kayıt cihazı yerleştirildiği iddiasıyla FBI’ın Suudi Arabistan vatandaşı bir çalışanı gözaltına aldığı öne sürüldü. Şirket, olayla bağlantılı bir çalışanın işine son verildiğini ve konuyu FBI’a bildirdiğini açıklamıştı.",
+      "link": "https://www.cnbce.com/sirket-haberleri/openaiin-ofisinde-gizli-dinleme-cihazi-skandali-fbiin-suudi-calisani-gozaltina-aldi-h39415",
+      "published": "2026-10-13T22:33:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T22:35:42.510839+00:00"
+    },
+    {
+      "id": "41e88101d915c97c",
+      "source": "Star",
+      "title": "Galatasaray - Barcelona maçına basın mensuplarından yoğun ilgi",
+      "summary": "Galatasaray ile Barcelona arasında RAMS Park'ta oynanan Şampiyonlar Ligi mücadelesini 58'i yabancı toplam 299 basın mensubu takip etti.",
+      "link": "https://www.star.com.tr/spor/galatasaray-barcelona-macina-basin-mensuplarindan-yogun-ilgi-haber-2046430/",
+      "published": "2026-10-13T22:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T22:35:32.973755+00:00"
+    },
+    {
+      "id": "bd7c0f4972b6e81c",
+      "source": "Star",
+      "title": "Suudi destekli operasyon sürüyor... Yemen Başkanlık Konseyi'nden Husilere karşı kararlılık mesajı",
+      "summary": "Yemen Başkanlık Konseyi Başkanı Reşad el-Uleymi, Suudi Arabistan'ın desteğiyle sürdürülen 'Yemen Şafağı' operasyonunun kararlılıkla nihai hedefine ilerlediğini açıkladı. Uleymi, operasyonun amacının devlet kurumlarının yeniden tesisi ve vatandaşların korunması olduğunu vurguladı.",
+      "link": "https://www.star.com.tr/dunya/suudi-destekli-operasyon-suruyor-yemen-baskanlik-konseyinden-husilere-karsi-kararlilik-mesaji-haber-2046429/",
+      "published": "2026-10-13T22:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T22:35:32.973796+00:00"
+    },
+    {
+      "id": "4ba06084b05f086d",
+      "source": "Akşam",
+      "title": "Pedri: Bence inanılmazdık",
+      "summary": "Barcelona'da forma giyen Pedri, Galatasaray maçının ardından, \"Rakibimiz öne geçince, buradaki atmosferi de göz önünde bulundurursak işler bizim için oldukça zorlaştı. Ancak benim aklımda takımın gösterdiği reaksiyon ve ikinci yarıdaki performansımız kalacak. Bence inanılmazdık.\" dedi.",
+      "link": "https://www.aksam.com.tr/spor/pedri-bence-inanilmazdik/haber-1705984",
+      "published": "2026-10-13T22:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T22:35:32.494000+00:00"
+    },
+    {
+      "id": "8dd240f05ec65379",
+      "source": "Yeniçağ",
+      "title": "Ağıralioğlu'ndan dikkat çeken ifadeler: Kamuda lale, yönetimde sülale dönemi",
+      "summary": "Anahtar Parti lideri Yavuz Ağıralioğlu, kamudaki akraba kayırmacılığını eleştirerek iktidara gelmeleri halinde aile bağlantılarına dayalı atamaları bitireceklerini söyledi. Ağıralioğlu, mevcut yönetimi sert sözlerle hedef aldı.",
+      "link": "https://www.yenicaggazetesi.com/agiralioglundan-dikkat-ceken-ifadeler-kamuda-lale-yonetimde-sulale-donemi-1082007h.htm",
+      "published": "2026-10-13T22:31:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T22:35:34.169652+00:00"
+    },
     {
       "id": "6501b3d1f3fa13bf",
       "source": "Akşam",
@@ -105,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T22:15:45.578860+00:00"
+    },
+    {
+      "id": "d2fc601b5901b77b",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Suudi Arabistan Enerji Bakanlığı: Aramco'nun Zahran’daki idari binası hedef alındı",
+      "summary": "Suudi Arabistan Enerji Bakanlığı, ülkenin doğusunda bulunan Zahran kentindeki ulusal petrol şirketi Suudi Aramco’nun bir binasının hedef alındığını duyurdu.",
+      "link": "https://www.aa.com.tr/tr/live-blog/suudi-arabistan-enerji-bakanligi-aramconun-zahran-daki-idari-binasi-hedef-alindi/6869",
+      "published": "2026-10-13T22:15:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T22:35:28.084513+00:00"
     },
     {
       "id": "46610c244dbf2208",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T19:20:36.990429+00:00"
-    },
-    {
-      "id": "6c77b3deb5b99216",
-      "source": "Aydınlık",
-      "title": "Mansur Yavaş: Ankara'nın kimliği korunarak gelişmeli",
-      "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, kentin başkent oluşunun 103’üncü yılı dolayısıyla düzenlenen etkinlikte Ankara’nın tarihî kimliğini koruyarak gelişmesi gerektiğini söyledi.",
-      "link": "https://www.aydinlik.com.tr/haber/mansur-yavastan-ankaranin-gelecegine-iliskin-mesaj-594353",
-      "published": "2026-10-13T19:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:20:47.747164+00:00"
-    },
-    {
-      "id": "f4f2230cbbe44bda",
-      "source": "Euronews Türkçe",
-      "title": "Macaristan'ın vetosunu kaldırmasının ardından Ukrayna'nın AB üyelik süreci ilerliyor",
-      "summary": "Macaristan, Ukrayna'daki etnik Macar azınlığın hakları konusunda uzlaşmaya varılmasının ardından AB üyelik müzakerelerindeki vetosunu kaldırdı. İki yeni müzakere başlığının açılmasıyla toplam sayı dörde yükselirken, Zelenskiy ile Magyar'ın bu hafta Brüksel'de görüşmesi gündemde.",
-      "link": "https://tr.euronews.com/2026/10/13/macaristanin-vetosunu-kaldirmasinin-ardindan-ukraynanin-ab-uyelik-sureci-ilerliyor",
-      "published": "2026-10-13T19:14:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:16:10.620118+00:00"
-    },
-    {
-      "id": "56e97d72b3e44293",
-      "source": "Cumhuriyet",
-      "title": "Öbür Dünyadan filminin konusu ne? Öbür Dünyadan filminin oyuncuları kim?",
-      "summary": "Öbür Dünyadan (Here After) filmi televizyon ekranlarında izleyicisiyle buluşmaya hazırlanıyor. Öbür Dünyadan filminin konusu ve oyuncularının kimler olduğu merak ediliyor. Peki, Öbür Dünyadan filminin konusu ne? Öbür Dünyadan filminin oyuncuları kim?",
-      "link": "https://www.cumhuriyet.com.tr/tv-rehberi/obur-dunyadan-filminin-konusu-ne-obur-dunyadan-filminin-oyunculari-kim-2546455",
-      "published": "2026-10-13T19:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:15:33.521470+00:00"
-    },
-    {
-      "id": "7ec1a7f88f343942",
-      "source": "Star",
-      "title": "Bahçeşehir Koleji, Manresa'yı 100 sayıyla geçti!",
-      "summary": "BKT Avrupa Kupası D Grubu'nun 3. haftasında Bahçeşehir Koleji, sahasında İspanya temsilcisi Kids&amp;Us Manresa'yı 100-88 mağlup etti.",
-      "link": "https://www.star.com.tr/spor/bahcesehir-koleji-manresayi-100-sayiyla-gecti-haber-2046406/",
-      "published": "2026-10-13T19:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:15:38.215975+00:00"
-    },
-    {
-      "id": "8f30b412235e05f3",
-      "source": "Yeniçağ",
-      "title": "Suudi Arabistan saldırı altında: Başkent Riyad'da peş peşe patlama sesleri",
-      "summary": "Husilerin saldırı tehdidi altındaki Suudi Arabistan’ın başkenti Riyad’da saldırı uyarısı sonrası patlama sesi duyuldu.",
-      "link": "https://www.yenicaggazetesi.com/suudi-arabistan-saldiri-altinda-baskent-riyadda-pes-pese-patlama-sesleri-1081968h.htm",
-      "published": "2026-10-13T19:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:15:39.185245+00:00"
-    },
-    {
-      "id": "b2a8de98600ba6d9",
-      "source": "Karar",
-      "title": "DEVA Partisi'nden STK'lara fon yolsuzluğu çağrısı: Susmak, bu rezaleti onaylamaktır",
-      "summary": "DEVA Partisi Genel Başkan Yardımcısı Kerem Altun, fon soruşturması kapsamında ortaya çıkan iddiaların yalnızca ekonomik değil, aynı zamanda ahlaki bir mesele olduğunu belirterek sivil toplum kuruluşlarına sessiz kalmama çağrısında bulundu. Denetimsizlik ve emanete ihanet eleştirilerinde bulunan Altun, “Milletimizin malına, emeğine zarar veren, güveni sarsan bu rezalete sessiz kalmak, bu yanlışları",
-      "link": "https://www.karar.com/guncel-haberler/deva-partisinden-stklara-fon-yolsuzlugu-cagrisi-susmak-bu-rezaleti-2078205",
-      "published": "2026-10-13T19:13:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:15:38.834030+00:00"
     }
   ]
 }

@@ -1,12 +1,111 @@
 {
-  "last_updated": "2026-10-13T21:20:57.520663+00:00",
+  "last_updated": "2026-10-13T21:26:04.593114+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 537,
+  "new_items_this_run": 518,
   "items": [
+    {
+      "id": "17a81d99cfdc224b",
+      "source": "Akşam",
+      "title": "Büyük fiyasko",
+      "summary": "Dört büyüklerin mali tablosu alarm veriyor! Toplam borç 108 milyar lirayı aştı. Türk futbolunun devleri borç yükü altında eziliyor. Galatasaray 34,82 milyar lirayla ilk sırada yer alırken gelirine oranla en fazla borç Beşiktaş'ta. Üstelik gelecekte ödenecek futbolcu maaşları bu hesaba dahil değil.",
+      "link": "https://www.aksam.com.tr/spor/buyuk-fiyasko/haber-1705970",
+      "published": "2026-10-13T21:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:38.727908+00:00"
+    },
+    {
+      "id": "02d427c6add03cc7",
+      "source": "Gazete Pencere",
+      "title": "Meryem Ana Fırtınası",
+      "summary": "Meryem Ana Fırtınası 14 Ekim 2026",
+      "link": "https://www.gazetepencere.com/muhalif-takvimi/meryem-ana-firtinasi-1-719148h",
+      "published": "2026-10-13T21:23:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:44.511366+00:00"
+    },
+    {
+      "id": "226789b223047326",
+      "source": "Akşam",
+      "title": "İlkay Gündoğan Almanya yolcusu",
+      "summary": "Galatasaray'da bu sezon yalnızca 11 dakika süre alabilen İlkay Gündoğan'ın geleceği belirsizliğini koruyor. Alman basını, 35 yaşındaki yıldızın sezon sonunda eski kulübü Nürnberg'e dönebileceğini yazdı.",
+      "link": "https://www.aksam.com.tr/spor/ilkay-gundogan-almanya-yolcusu/haber-1705969",
+      "published": "2026-10-13T21:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:38.727943+00:00"
+    },
+    {
+      "id": "47af42b358a76a91",
+      "source": "Star",
+      "title": "Uğurcan Çakır: 2-0 olsa, daha farklı olabilirdi",
+      "summary": "Uğurcan Çakır, Barcelona karşısında taraftar desteğiyle iyi başladıklarını ancak iptal edilen golün ardından maçın seyrinin değiştiğini söyledi.",
+      "link": "https://www.star.com.tr/spor/ugurcan-cakir-2-0-olsa-daha-farkli-olabilirdi-haber-2046422/",
+      "published": "2026-10-13T21:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:40.056741+00:00"
+    },
+    {
+      "id": "8530777ae7f3b8bd",
+      "source": "Yeniçağ",
+      "title": "Uğurcan Çakır'dan Barcelona maçı sonrası dikkat çeken sözler: '2-0 olsaydı...'",
+      "summary": "Galatasaray&#039;ın Barcelona&#039;ya 4-1 mağlup olduğu karşılaşmanın ardından Uğurcan Çakır açıklamalarda bulundu. İptal edilen gole dikkat çeken milli kaleci, 2-0 öne geçmeleri halinde maçın farklı gelişebileceğini söyledi.",
+      "link": "https://www.yenicaggazetesi.com/ugurcan-cakirdan-barcelona-maci-sonrasi-dikkat-ceken-sozler-2-0-olsaydi-1081993h.htm",
+      "published": "2026-10-13T21:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:41.731245+00:00"
+    },
+    {
+      "id": "dbf74d4c58c19b9c",
+      "source": "Yeniçağ",
+      "title": "Galatasaray'da Torreira sakatlandı: Oyuna devam edemedi",
+      "summary": "Galatasaray&#039;ın Uruguaylı orta saha oyuncusu Lucas Torreira, Barcelona karşılaşmasında yaşadığı sakatlık nedeniyle mücadeleye devam edemedi. Deneyimli futbolcu, 81. dakikada yerini Renato Nhaga&#039;ya bıraktı.",
+      "link": "https://www.yenicaggazetesi.com/galatasarayda-torreira-sakatlandi-oyuna-devam-edemedi-1081992h.htm",
+      "published": "2026-10-13T21:21:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:41.731283+00:00"
+    },
+    {
+      "id": "c2bf3389e0bc3b41",
+      "source": "Evrensel",
+      "title": "Bakan ‘model’ anlattı, tarlada üç ayda 157 kişi öldü",
+      "summary": "Mevsimlik Tarım İşçiliği İzleme ve Değerlendirme Kurulu, Bakan Işıkhan başkanlığında toplandı. Bakan, barınma yükünü üreticiye ve yerele bırakan “mikro destek modelleri” anlattı; ölümler, sigortasızlık ve ücretler konuşmada yer almadı.",
+      "link": "https://www.evrensel.net/haber/6004807/bakan-model-anlatti-tarlada-uc-ayda-157-kisi-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-13T21:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:35.845996+00:00"
+    },
+    {
+      "id": "fbdcebf79f8deaf7",
+      "source": "Akşam",
+      "title": "Villa Park'ta hesap zamanı",
+      "summary": "Şampiyonlar Ligi'nde Aston Villa'ya konuk olacak Fenerbahçe, İngiliz ekibine karşı oynadığı üç maçı da kaybetti. Sarı-Lacivertliler, hem ilk galibiyetini almak hem de Avrupa'da kritik bir zafere imza atmak istiyor.",
+      "link": "https://www.aksam.com.tr/spor/villa-parkta-hesap-zamani/haber-1705968",
+      "published": "2026-10-13T21:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:38.727984+00:00"
+    },
+    {
+      "id": "00bc396a0adbb2f0",
+      "source": "Yeniçağ",
+      "title": "New York borsası düşüşle kapandı",
+      "summary": "New York borsası, çip şirketlerinin hisselerindeki satış baskısıyla günü düşüşle tamamladı. Kapanışta Dow Jones endeksi, yüzde 0,35 azalarak 51.670,10 puana indi.",
+      "link": "https://www.yenicaggazetesi.com/new-york-borsasi-dususle-kapandi-1081991h.htm",
+      "published": "2026-10-13T21:20:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:41.731313+00:00"
+    },
     {
       "id": "c457038ff1276f5f",
       "source": "Kısa Dalga",
@@ -30,6 +129,17 @@
       "fetched_at": "2026-10-13T21:20:41.182474+00:00"
     },
     {
+      "id": "dc214bf928186779",
+      "source": "Ekonomim",
+      "title": "SATIŞTA! BİM’E KUMTEL HAVA TEMİZLEYİCİ VE VANTİLATÖR GELDİ! (BİM 14-20 EKİM)",
+      "summary": "BİM, 14-20 Ekim aktüel kataloğunda ev teknolojilerine bütçe dostu bir alternatif ekliyor. İki farklı işlevi tek gövdede birleştiren Kumtel 2in1 Hava Temizleyici ve Vantilatör, 5.990 TL&#039;lik uygun fiyatıyla dikkat çekiyor. HEPA 13 filtresiyle ortamdaki partikülleri yüksek oranla arındıran cihaz, 9 kademeli fan ayarı, uzaktan kumandası ve ücretsiz eve teslimat avantajıyla BİM’de satışa sunuluyor",
+      "link": "https://www.ekonomim.com/foto-galeri/aktuel/satista-bime-kumtel-hava-temizleyici-ve-vantilator-geldi-bim-14-20-ekim-s1-galeri-924502",
+      "published": "2026-10-13T21:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:53.308208+00:00"
+    },
+    {
       "id": "6b3c5631a89d276e",
       "source": "Akşam",
       "title": "Başka bir seviye",
@@ -39,6 +149,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T21:20:38.346848+00:00"
+    },
+    {
+      "id": "a26914f1defa8636",
+      "source": "Finans Gündem",
+      "title": "Ameliyat geçiren Papa 14. Leo'ya akciğer kanseri tanısı kondu",
+      "summary": "Vatikan Devlet Başkanı Papa 14. Leo'nun, akciğerinde tespit edilen kitle (nodül) nedeniyle dünkü ameliyatının başarılı geçtiği ve öncesindeki testlerde şüphelenildiği gibi akciğer kanseri tanısının doğrulandığı bildirildi.",
+      "link": "https://www.finansingundemi.com/haber/ameliyat-geciren-papa-14-leoya-akciger-kanseri-tanisi-kondu/1911385",
+      "published": "2026-10-13T21:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:55.641114+00:00"
     },
     {
       "id": "f3dbfdc1fe8658b8",
@@ -74,6 +195,17 @@
       "fetched_at": "2026-10-13T21:20:40.537707+00:00"
     },
     {
+      "id": "32cffb36a371559e",
+      "source": "Habertürk",
+      "title": "Galatasaray, \"Devler Ligi\"nde puanla tanışamadı!",
+      "summary": "Galatasaray, Barcelona maçıyla UEFA Şampiyonlar Ligi’nde bu sezon 2. mağlubiyetini aldı. Şampiyonlar Ligi’nin ilk haftasında deplasmanda Portekiz takımı Sporting’e de 3-1 kaybeden sarı-kırmızılılar, bu sonuçla 2. yenilgisini aldı.",
+      "link": "https://www.haberturk.com/spor/foto/barcelona-ya-4-1-yenilen-galatasaray-devler-liginde-puanla-tanisamadi-3919499",
+      "published": "2026-10-13T21:17:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:25.089558+00:00"
+    },
+    {
       "id": "9b24a34b0389b3a1",
       "source": "Cumhuriyet",
       "title": "Nicolo Tresoldi'nin hat-trick: Inter kendi evinde yıkıldı!",
@@ -105,6 +237,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T21:20:41.182519+00:00"
+    },
+    {
+      "id": "a333f23e69de9bd7",
+      "source": "Evrensel",
+      "title": "Beykoz büyüklüğündeki alan jeotermal için ihaleye çıkarılıyor",
+      "summary": "Nevşehir İl Özel İdaresi, jeotermal kaynak ruhsat sahaları için ihaleye çıkıyor. Yaklaşık 48 bin 480 hektarlık alanda 16 adet jeotermal saha açılıyor. Yani, İstanbul’un Beykoz ilçesi büyüklüğünde bir alan jeotermal patronların hizmetine veriliyor.",
+      "link": "https://www.evrensel.net/haber/6004795/beykoz-buyuklugundeki-alan-jeotermal-icin-ihaleye-cikariliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-13T21:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:35.846034+00:00"
+    },
+    {
+      "id": "d270138ec019f671",
+      "source": "Evrensel",
+      "title": "‘Gerçekler’ diyerek korku yayan sendikacılar kimin safında?",
+      "summary": "Eski bir TKIS Blinds işçisi sendikanın “gerçekler” adı altında korku yaydığını belirterek işçilere fabrikada komiteler kurma ve birliği kendi elleriyle örme çağrısı yapıyor.",
+      "link": "https://www.evrensel.net/haber/6004806/gercekler-diyerek-korku-yayan-sendikacilar-kimin-safinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-13T21:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:35.846062+00:00"
     },
     {
       "id": "e533fca00d34ef3e",
@@ -316,6 +470,39 @@
       "fetched_at": "2026-10-13T21:10:47.639415+00:00"
     },
     {
+      "id": "45f67769ab0420e8",
+      "source": "Evrensel",
+      "title": "Mohr’un çocukları ve değişmeyen dünyanın hikayesi",
+      "summary": "İki yüzyıl önce Londra’nın karanlık işçi mahallelerinde başlayan çocuk emeği ve sömürü hikayesi, bugün başka biçimlerde devam ediyor. Vilmos ve Ilse Korn’un romanı, Marx’ın izinden çocukların dünyasına bakıyor.",
+      "link": "https://www.evrensel.net/haber/6004742/mohrun-cocuklari-ve-degismeyen-dunyanin-hikayesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-13T21:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:35.846090+00:00"
+    },
+    {
+      "id": "0adb57afac484a88",
+      "source": "Evrensel",
+      "title": "Maliyet 80 TL, satış 40 TL: Zeytin üreticisi zararına hasat yapıyor",
+      "summary": "İzmir’de zeytin üreticileri ‘var yılına’ rağmen artan girdi maliyetleri ve düşen alım fiyatları nedeniyle büyük bir kriz yaşıyor. Bir kilogram zeytinin üretim maliyeti 80 TL’ye ulaşırken, üretici ürününü ancak 40 TL’den satabiliyor.",
+      "link": "https://www.evrensel.net/haber/6004801/maliyet-80-tl-satis-40-tl-zeytin-ureticisi-zararina-hasat-yapiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-13T21:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:35.846118+00:00"
+    },
+    {
+      "id": "00daf8d25fc51b50",
+      "source": "Evrensel",
+      "title": "Diyarbakır Şehir Hastanesi şantiyesinde çalışan işçilerin direnişi 14. gününde: “Kazanılmış haklarımızdan taviz yok”",
+      "summary": "Diyarbakır Şehir Hastanesi şantiyesinde hakları için direnen işçiler, masada varılan uzlaşmanın patron tarafından bozulmasına tepkili. Şantiye önünden seslenen işçiler “Kazanılmış haklarımızdan taviz yok” dedi.",
+      "link": "https://www.evrensel.net/haber/6004816/diyarbakir-sehir-hastanesi-santiyesinde-calisan-iscilerin-direnisi-14-gununde-kazanilmis-haklarimizdan-taviz-yok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-13T21:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:35.846146+00:00"
+    },
+    {
       "id": "c6c7c28eaf527c24",
       "source": "Cumhuriyet",
       "title": "Şadi Yüksel'in ters kelepçe görüntülerine soruşturma",
@@ -358,6 +545,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T21:15:52.101669+00:00"
+    },
+    {
+      "id": "4125d5b084e6c226",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "UEFA Şampiyonlar Ligi'nin ikinci haftası 9 maçla başladı",
+      "summary": "Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasının lig aşamasında, ikinci haftanın ilk gününde 9 karşılaşma oynandı.",
+      "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ikinci-haftasi-9-macla-basladi/4087888",
+      "published": "2026-10-13T21:06:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:27.417654+00:00"
     },
     {
       "id": "a5bba0bd572372b9",
@@ -2228,6 +2426,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T20:20:47.237887+00:00"
+    },
+    {
+      "id": "5b60820d437d7073",
+      "source": "Evrensel",
+      "title": "Atina’da gençler Sintagma Meydanı’na kamp kurdu: Silahlanmaya değil eğitime bütçe",
+      "summary": "Yunanistan’da öğrenci örgütleri “Sıra bize geldi” diyerek gençlerin sorunlarının çözülmesi talebiyle eylem yaptı. Gençler Meclis binasının karşısındaki alana çadırlar kurarak “NATO’ya, silahlanmaya, bankacılara değil eğitime bütçe” talep etti.",
+      "link": "https://www.evrensel.net/haber/6004810/atina-da-gencler-sintagma-meydani-na-kamp-kurdu-silahlanmaya-degil-egitime-butce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-13T20:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-13T21:25:35.846269+00:00"
     },
     {
       "id": "eeb16e2c02648fd1",
@@ -5297,215 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T18:40:43.772824+00:00"
-    },
-    {
-      "id": "30889edf66c455ce",
-      "source": "Habertürk",
-      "title": "Can Baytak karikatürleri (Ekim 2026)",
-      "summary": "",
-      "link": "https://www.haberturk.com/can-baytak-karikaturleri-ekim-2026-3917701",
-      "published": "2026-10-13T18:33:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:40:40.820582+00:00"
-    },
-    {
-      "id": "87995518da07c952",
-      "source": "Akşam",
-      "title": "Turka ile TÜVTÜRK arasında araç muayene istasyonları için tarihi anlaşma imzalandı",
-      "summary": "Turka ile TÜVTÜRK arasında mevcut araç muayene istasyonlarının devralınmasına yönelik görüşmeler kapsamında iyi niyet anlaşması imzalandı. 15 Ağustos 2027'de başlayacak yeni dönemde araç muayene hizmetlerini üstlenecek olan Turka, TÜVTÜRK operasyonlarının tamamını devralmak için görüşmelere başladığını duyurdu.",
-      "link": "https://www.aksam.com.tr/guncel/turka-ile-tuvturk-arasinda-arac-muayene-istasyonlari-icin-tarihi-anlasma-imzalandi/haber-1705941",
-      "published": "2026-10-13T18:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:35:38.395336+00:00"
-    },
-    {
-      "id": "0c008c032bc1270d",
-      "source": "Star",
-      "title": "AK Parti'nin \"İstanbul'u Dinliyoruz\" buluşmaları Bayrampaşa'da gerçekleştirildi",
-      "summary": "AK Parti İstanbul İl Başkanlığınca düzenlenen İstanbul'u Dinliyoruz buluşmalarının ikincisi Bayrampaşa'da gerçekleştirildi. İl Başkanı Abdullah Özdemir, ilçelerin beklentileri doğrultusunda kentin geleceğine yönelik strateji ve hedefler belirleyeceklerini söyledi.",
-      "link": "https://www.star.com.tr/guncel/ak-partinin-istanbulu-dinliyoruz-bulusmalari-bayrampasada-gerceklestirildi-haber-2046400/",
-      "published": "2026-10-13T18:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:35:39.810327+00:00"
-    },
-    {
-      "id": "44c2added8d8f98e",
-      "source": "Star",
-      "title": "Abdullah Avcı'dan A Milli Takım açıklaması! Göreve gelecek mi?",
-      "summary": "A Milli Takım'ın teknik direktör adayları arasında adı geçen Abdullah Avcı, konuyla ilgili açıklamalarda bulundu. Tecrübeli teknik adam, isminin gündeme gelmesinden mutlu olduğunu ancak şu an için net bir durumun söz konusu olmadığını söyledi.",
-      "link": "https://www.star.com.tr/spor/abdullah-avcidan-a-milli-takim-aciklamasi-goreve-gelecek-mi-haber-2046399/",
-      "published": "2026-10-13T18:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:35:39.810353+00:00"
-    },
-    {
-      "id": "a83f624c70c494cc",
-      "source": "Türkiye Gazetesi",
-      "title": "Abdullah Avcı'dan A Milli Takım için net cevap",
-      "summary": "Abdullah Avcı, A Milli Futbol Takımı'nı çalıştırması için adının geçmesinin kendisini mutlu ettiğini belirterek, \"Şu an itibarıyla böyle bir durum net bir şekilde yok.\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/abdullah-avcidan-a-milli-takim-icin-net-cevap-1822515",
-      "published": "2026-10-13T18:31:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:35:33.564822+00:00"
-    },
-    {
-      "id": "ae638a86b3a7095f",
-      "source": "Yeniçağ",
-      "title": "Okan Buruk'tan maç öncesi Barcelona itirafı: 'Bunu beklemiyorduk'",
-      "summary": "Galatasaray Teknik Direktörü Okan Buruk, Şampiyonlar Ligi&#039;nde Barcelona ile oynanacak dev mücadele öncesi açıklamalarda bulundu. Deneyimli teknik adam, Barcelona&#039;nın sahaya Dani Olmo tercihiyle çıkmasını sürpriz olarak yorumladı.",
-      "link": "https://www.yenicaggazetesi.com/okan-buruktan-mac-oncesi-barcelona-itirafi-bunu-beklemiyorduk-1081948h.htm",
-      "published": "2026-10-13T18:31:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:35:42.199177+00:00"
-    },
-    {
-      "id": "967284dc92704633",
-      "source": "Sabah",
-      "title": "Fransa'da protestolar üçüncü haftasında: Yüzbinlerce öğrenci sokağa indi! Sarı Yelekliler yeniden sahnede...",
-      "summary": "Fransa'da üçüncü haftasında devam eden öğrenci protestolarında bugün 160 binden fazla kişi sokağa inerken, öğrenciler 17 Ekim'de Sarı Yeleklilerle düzenlenecek protestoya katılım çağrısında bulundu. Fransa... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/dunya/fransada-protestolar-ucuncu-haftasinda-yuzbinlerce-ogrenci-sokaga-indi-sari-yelekliler-yeniden-sahnede-7680011",
-      "published": "2026-10-13T18:31:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:05:33.561846+00:00"
-    },
-    {
-      "id": "fdb25398c69e0e25",
-      "source": "Bir Gün",
-      "title": "Ankara Film Festivali’nin afişi belli oldu",
-      "summary": "37. Ankara Film Festivali’nin Afiş Yarışması’nı tasarımcı Pınar Demir kazandı. Ankara’nın kent kimliğini ve güncel kent kültürünü mizahi bir dille ele alan tasarım, festivalin afişi olarak seçildi.",
-      "link": "https://www.birgun.net/haber/ankara-film-festivalinin-afisi-belli-oldu-740240",
-      "published": "2026-10-13T18:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:15:35.220698+00:00"
-    },
-    {
-      "id": "40d803d1adf26dd4",
-      "source": "Akşam",
-      "title": "İsmail Kartal'dan kadro açıklaması! \"Bazı oyuncuları oynatmayacağız\"",
-      "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, UEFA Şampiyonlar Ligi'nin ikinci haftasında İngiliz ekibi Aston Villa ile oynayacakları maç öncesinde açıklamalarda bulundu. Maç kadrosunda rotasyona gideceklerini açıklayan Kartal, \"Yarınki maçta belki bazı oyuncuları oynatmayacağız. Sakatlık riskini minimuma indirmek, dinlenmiş oyuncuları oynatmak ve takım bütünlüğünü korumak için bunları yapmak mecburi",
-      "link": "https://www.aksam.com.tr/spor/ismail-kartaldan-kadro-aciklamasi-bazi-oyunculari-oynatmayacagiz/haber-1705940",
-      "published": "2026-10-13T18:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:30:57.700529+00:00"
-    },
-    {
-      "id": "0fef6087d0f75a4d",
-      "source": "Aydınlık",
-      "title": "Aydın Atatürk Kent Meydanı’nda afetlere hazırlık etkinliği düzenlendi",
-      "summary": "13 Ekim Dünya Afet Risklerinin Azaltılması Günü kapsamında Aydın Atatürk Kent Meydanı’nda düzenlenen etkinlikte vatandaşlara afet çantası, arama kurtarma ekipmanları ve deprem sırasında alınabilecek önlemler uygulamalı olarak gösterildi.",
-      "link": "https://www.aydinlik.com.tr/haber/aydinda-afet-ve-deprem-hazirligi-anlatildi-594348",
-      "published": "2026-10-13T18:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:35:43.467239+00:00"
-    },
-    {
-      "id": "bfbd3aeec7d551f7",
-      "source": "Halk TV",
-      "title": "Boğaziçi'ndeki yemekhane zamları meclis gündeminde",
-      "summary": "YENİ Parti İstanbul Milletvekili Evrim Rızvanoğlu, Boğaziçi Üniversitesi öğrencilerinin yemekhane zamlarına karşı başlattıkları protestoları Meclis gündemine taşıdı.",
-      "link": "https://halktv.com.tr/turkiye/bogazicindeki-yemekhane-zamlari-meclis-gundeminde-1061537h",
-      "published": "2026-10-13T18:29:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:31:03.960407+00:00"
-    },
-    {
-      "id": "ef53ff083b81fe90",
-      "source": "Bir Gün",
-      "title": "Pera Müzesi’nde Cumhuriyet dönemi bestekârları konseri",
-      "summary": "Pera Müzesi Türk Müziği Konserleri, yeni sezonunu Cumhuriyet Bayramı’na özel bir programla açıyor. 25 Ekim’de düzenlenecek konserde Güzin Değişmez ve Furkan Akalın, Cumhuriyet dönemi bestekârlarının eserlerini seslendirecek.",
-      "link": "https://www.birgun.net/haber/pera-muzesinde-cumhuriyet-donemi-bestekarlari-konseri-740239",
-      "published": "2026-10-13T18:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:15:35.220726+00:00"
-    },
-    {
-      "id": "307d5d4364bb2d10",
-      "source": "Yeni Akit",
-      "title": "İletişim Başkanı Duran: Türkiye Yüzyılı'nı İletişimin de Yüzyılı haline getireceğiz",
-      "summary": "TRT Geleceğin İletişimcileri Yarışması Ödül Töreni’nde konuşan İletişim Başkanı Burhanettin Duran, \"Türkiye Yüzyılı’nı aynı zamanda İletişimin Yüzyılı haline getirmek; bu vizyon doğrultusunda adil ve etkili bir iletişim ekosistemi inşa etmek için gayret gösteriyoruz\" dedi.",
-      "link": "https://www.yeniakit.com.tr/haber/iletisim-baskani-duran-turkiye-yuzyilini-iletisimin-de-yuzyili-haline-getirecegiz-2027993.html",
-      "published": "2026-10-13T18:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:30:59.384713+00:00"
-    },
-    {
-      "id": "1fa79f4e2e8b435d",
-      "source": "Yeniçağ",
-      "title": "Kırıkkale’de elektrik akımına kapılan 66 yaşındaki vatandaş hayatını kaybetti",
-      "summary": "Kırıkkale’nin Ahılı köyünde elektrik direğine çıkan Zekeriya Doğan (66), akıma kapıldıktan sonra yere düştü. Hastaneye kaldırılan Doğan, doktorların çabasına rağmen kurtarılamadı.",
-      "link": "https://www.yenicaggazetesi.com/kirikkalede-elektrik-akimina-kapilan-66-yasindaki-vatandas-hayatini-kaybetti-1081947h.htm",
-      "published": "2026-10-13T18:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:31:00.484530+00:00"
-    },
-    {
-      "id": "eaf7a7d5eaada67f",
-      "source": "Gazete Pencere",
-      "title": "Karadeniz’de ticari gemilere insansız kamikaze saldırısı: 11 denizci kayıp!",
-      "summary": "Karadeniz’de Bulgaristan açıklarında insansız hava aracı (İHA) ve insansız deniz araçlarının (İDA) hedefi olan \"HS DIGNITY\" adlı gemi battı. 16 kişilik Suriyeli mürettebattan 5 kişi kurtarıldı. Kayıp 11 kişi için arama kurtarma çalışmaları devam ediyor.",
-      "link": "https://www.gazetepencere.com/dis-haber/karadenizde-ticari-gemilere-insansiz-kamikaze-saldirisi-11-denizci-kayip-719131h",
-      "published": "2026-10-13T18:28:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:31:03.324872+00:00"
-    },
-    {
-      "id": "26db819d8e99ad99",
-      "source": "Bir Gün",
-      "title": "Altın Portakal’da savaşın gölgesindeki sinemaya özel seçki",
-      "summary": "63. Uluslararası Antalya Altın Portakal Film Festivali, 24–31 Ekim tarihleri arasında düzenlenecek. Bu yıl “Daima” sloganıyla gerçekleştirilecek festivalde Filistin, Lübnan, Ukrayna ve İran’dan 13 film özel seçkide gösterilecek. Ulusal Uzun Metraj Film Yarışması’nda en iyi filme 5 milyon lira ödül verilecek.",
-      "link": "https://www.birgun.net/haber/altin-portakalda-savasin-golgesindeki-sinemaya-ozel-secki-740238",
-      "published": "2026-10-13T18:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T19:15:35.220759+00:00"
-    },
-    {
-      "id": "44f23e5ba0efb828",
-      "source": "Cumhuriyet",
-      "title": "Fransa’daki öğrenci eylemlerinde 160 binden fazla kişi sokağa indi: ‘Sarı Yelekliler’ de destek verecek",
-      "summary": "Fransa'da üçüncü haftasında devam eden öğrenci protestolarında bugün 160 binden fazla kişi sokağa inerken, öğrenciler 17 Ekim'de Sarı Yeleklilerle düzenlenecek protestoya katılım çağrısında bulundu.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/fransa-daki-ogrenci-eylemlerinde-160-binden-fazla-kisi-sokaga-indi-sari-yelekliler-de-destek-verecek-2546449",
-      "published": "2026-10-13T18:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:30:49.584961+00:00"
-    },
-    {
-      "id": "56e2422510140539",
-      "source": "Star",
-      "title": "Samsunspor, Kasımpaşa maçına hazırlanıyor",
-      "summary": "Samsunspor, Trendyol Süper Lig'in 8. haftasında deplasmanda Kasımpaşa ile oynayacağı maçın hazırlıklarına başladı.",
-      "link": "https://www.star.com.tr/spor/samsunspor-kasimpasa-macina-hazirlaniyor-haber-2046398/",
-      "published": "2026-10-13T18:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:30:58.976587+00:00"
-    },
-    {
-      "id": "54888a93d4924b54",
-      "source": "Yeniçağ",
-      "title": "Vincent Aboubakar şov yaptı: Bodrum FK deplasmanda farka koştu",
-      "summary": "Trendyol 1. Lig&#039;in 10. haftasında Bodrum FK, deplasmanda Sarıyer&#039;i 4-1 mağlup etti. Mücadeleye 2 golle damga vuran 34 yaşındaki Vincent Aboubakar, bu sezon ligdeki gol sayısını 3&#039;e yükseltti.",
-      "link": "https://www.yenicaggazetesi.com/vincent-aboubakar-sov-yapti-bodrum-fk-deplasmanda-farka-kostu-1081946h.htm",
-      "published": "2026-10-13T18:27:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T18:31:00.484569+00:00"
     }
   ]
 }

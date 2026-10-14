@@ -1,12 +1,320 @@
 {
-  "last_updated": "2026-10-14T07:01:20.379239+00:00",
+  "last_updated": "2026-10-14T07:05:48.528330+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 536,
+  "new_items_this_run": 532,
   "items": [
+    {
+      "id": "1d65cd617057ed0d",
+      "source": "CNBC-e",
+      "title": "TÜİK duyurdu: Tarım-ÜFE eylülde 3 ayın en düşük seviyesine indi",
+      "summary": "TÜİK verilerine göre Tarım Ürünleri Üretici Fiyat Endeksi, eylülde aylık yüzde 1,99 azalırken yıllık yüzde 12,93 arttı. Böylece veri, yıllık bazda son 3 ayın en düşük seviyesine indi.",
+      "link": "https://www.cnbce.com/veriler/tuik-duyurdu-tarim-ufe-eylulde-3-ayin-en-dusuk-seviyesine-indi-h39432",
+      "published": "2026-10-14T07:05:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:42.374301+00:00"
+    },
+    {
+      "id": "fcd137f4a7ff3894",
+      "source": "Akşam",
+      "title": "Çin menşeli sodyum glukonat ithalatına damping önlemi... Resmi Gazete'de yayımlandı",
+      "summary": "Çin menşeli sodyum glukonat ithalatında damping önlemi uygulanması kararlaştırıldı.",
+      "link": "https://www.aksam.com.tr/guncel/cin-menseli-sodyum-glukonat-ithalatina-damping-onlemi-resmi-gazetede-yayimlandi/haber-1706033",
+      "published": "2026-10-14T07:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:32.989624+00:00"
+    },
+    {
+      "id": "95470c7afdd2a366",
+      "source": "Akşam",
+      "title": "Tupac cinayetinde 30 yıl sonra karar! Eski çete liderine müebbet yolu",
+      "summary": "ABD'li rapçi Tupac Shakur'un 1996'da öldürülmesini organize etmekten suçlu bulunan eski çete elebaşı Duane Keith Davis, 40 yıldan müebbete kadar hapis cezasına çarptırıldı.",
+      "link": "https://www.aksam.com.tr/dunya/tupac-cinayetinde-30-yil-sonra-karar-eski-cete-liderine-muebbet-yolu/haber-1706032",
+      "published": "2026-10-14T07:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:32.989660+00:00"
+    },
+    {
+      "id": "64fed1ed25bb77b9",
+      "source": "Gazete Pencere",
+      "title": "Abdulkadir Selvi 'fon anketi'ne dikkat çekti: AK Parti'nin bunu çok iyi değerlendirmesi gerekiyor",
+      "summary": "Türkiye'nin sorunlarına dair ankette fon krizinin ikinci sırada çıktığını belirten Abdulkadir Selvi \"Siyasetin bunu çok iyi değerlendirmesi gerekiyor. Özellikle de AK Parti’nin. Çünkü AK Parti tabanında müthiş bir rahatsızlık söz konusu\" dedi.",
+      "link": "https://www.gazetepencere.com/gundem/abdulkadir-selvi-fon-anketine-dikkat-cekti-ak-partinin-bunu-cok-iyi-719164h",
+      "published": "2026-10-14T07:04:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:35.394279+00:00"
+    },
+    {
+      "id": "d2968271280020d4",
+      "source": "Star",
+      "title": "Husilerin hedefindeki Suudi Arabistan'ın başkentti Riyad'da saldırı uyarısı sonrası patlama sesleri duyuldu",
+      "summary": "Husilerin hedefindeki Suudi Arabistan'ın başkentti Riyad'da saldırı uyarısı sonrası patlama sesleri duyuldu",
+      "link": "https://www.star.com.tr/dunya/husilerin-hedefindeki-suudi-arabistanin-baskentti-riyadda-saldiri-uyarisi-sonrasi-patlama--haber-2046460/",
+      "published": "2026-10-14T07:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:33.773956+00:00"
+    },
+    {
+      "id": "d542389ea5f068a5",
+      "source": "Star",
+      "title": "Sodyum glukonat ithalatına damping önlemi: Karar Resmi Gazete'de",
+      "summary": "Çin menşeli sodyum glukonat ithalatında damping önlemi uygulanması kararlaştırıldı.",
+      "link": "https://www.star.com.tr/ekonomi/sodyum-glukonat-ithalatina-damping-onlemi-karar-resmi-gazetede-haber-2046459/",
+      "published": "2026-10-14T07:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:33.773988+00:00"
+    },
+    {
+      "id": "0e32ba6b01372d5d",
+      "source": "Milliyet",
+      "title": "Husilerin hedefindeydi! Suudi Arabistan'ın başkenti Riyad'da patlama sesleri",
+      "summary": "Husilerin hedefindeki Suudi Arabistan’ın başkenti Riyad’da saldırı uyarısı sonrası patlama sesleri duyuldu. AYRINTILAR GELİYOR",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-husilerin-hedefindeydi-suudi-arabistanin-baskenti-riyadda-patlama-sesleri-7679211",
+      "published": "2026-10-14T07:03:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:32.512098+00:00"
+    },
+    {
+      "id": "d2d61a2a85f0d467",
+      "source": "Aydınlık",
+      "title": "İstanbul'da sağanak yağış hayatı olumsuz etkiledi!",
+      "summary": "İstanbul&#039;da başlayan kuvvetli sağanak yağış kent genelinde hayatı olumsuz etkiledi, çok sayıda ev, iş yeri ve alt geçidi su bastı.",
+      "link": "https://www.aydinlik.com.tr/fotogaleri/istanbulda-saganak-yagis-hayati-olumsuz-etkiledi-594391",
+      "published": "2026-10-14T07:03:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:34.972759+00:00"
+    },
+    {
+      "id": "e961dbdb37280522",
+      "source": "Karar",
+      "title": "Dolar/TL 49,38 seviyesinde işlem görüyor",
+      "summary": "Dolar/TL, güne yatay başlamasının ardından 49,3820 seviyesinde işlem gördü. Avro/TL yüzde 0,2 artışla 55,4090, sterlin/TL ise yüzde 0,2 yükselişle 65,5870 seviyesinde bulundu. Küresel piyasalarda Orta Doğu’daki jeopolitik riskler ve enerji maliyetleri izlenirken, gözler ABD’de açıklanacak enflasyon verilerine çevrildi. Fed’in bu ay faizi sabit tutma ihtimali yüzde 80, aralık ayında faiz artışı iht",
+      "link": "https://www.karar.com/ekonomi-haberleri/dolartl-4938-seviyesinde-islem-goruyor-2078271",
+      "published": "2026-10-14T07:03:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:34.403601+00:00"
+    },
+    {
+      "id": "f99a719e8e2a98ff",
+      "source": "Halk TV",
+      "title": "Son Dakika | Halk TV'ye dayanışmaya gelenlere engel! Giriş kapısı kilitlendi",
+      "summary": "Son dakika haberi... Türkiye&#039;nin en çok izlenen haber kuruluşlarından Halk TV&#039;ye kayyum atanmasının ardından kanal binasının giriş kapısı polis ekiplerince kilitlendi.",
+      "link": "https://halktv.com.tr/turkiye/son-dakika-halk-tvye-dayanismaya-gelenlere-engel-giris-kapisi-kilitlendi-1061587h",
+      "published": "2026-10-14T07:03:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:35.868885+00:00"
+    },
+    {
+      "id": "657782bab14c2e9e",
+      "source": "Yeniçağ",
+      "title": "BŞEÜ’de öğrenci kulüpleri kampüse renk kattı",
+      "summary": "Bilecik Şeyh Edebali Üniversitesi’nde (BŞEÜ), 2026-2027 eğitim öğretim yılının başlamasıyla öğrenci kulüpleri tanıtım stantları açıldı. Merkez kampüste düzenlenen etkinlik, özellikle üniversiteye yeni başlayan öğrencilerden ilgi gördü.",
+      "link": "https://www.yenicaggazetesi.com/bseude-ogrenci-kulupleri-kampuse-renk-katti-1082059h.htm",
+      "published": "2026-10-14T07:03:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:34.658061+00:00"
+    },
+    {
+      "id": "2b4decfefd8be324",
+      "source": "Akşam",
+      "title": "Riyad'da patlama sesleri duyuldu",
+      "summary": "Husilerin hedefindeki Suudi Arabistan'ın başkentti Riyad'da saldırı uyarısı sonrası patlama sesleri duyuldu.",
+      "link": "https://www.aksam.com.tr/dunya/riyadda-patlama-sesleri-duyuldu/haber-1706031",
+      "published": "2026-10-14T07:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:32.989686+00:00"
+    },
+    {
+      "id": "a34e514cf9eeba15",
+      "source": "Karar",
+      "title": "Halk TV'nin kapatılmasına siyasilerden tepkiler: Kayyum atamak ancak diktatörlerin yapacağı iştir",
+      "summary": "İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında Halk TV'ye kayyum atanması ve operasyon düzenlenmesi üzerine YENİ Parti lideri Özel ve ABB Başkanı Yavaş karara çok sert tepki gösterdi. Özel, \"Kayyum atamak ancak diktatörlerin yapacağı iştir. Millet, fon soygununun hesabının sorulmasını isterken…\" derken Yavaş ise, \"Bu tablo, ülkemizde basın özgürlüğünün geldiği noktayı bütün a",
+      "link": "https://www.karar.com/guncel-haberler/halk-tvnin-kapatilmasina-siyasilerden-tepkiler-kayyum-atamak-ancak-2078270",
+      "published": "2026-10-14T07:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:34.403655+00:00"
+    },
+    {
+      "id": "e51d71f841245f48",
+      "source": "Yeniçağ",
+      "title": "Sabahın ilk ışıklarında emek kuyruğu: Kilosu 40 TL: Her akşam 4 TIR yola çıkıyor",
+      "summary": "Bilecik Büyükbelen’de üreticiler, ABD menşeili ince kabuklu Chandler cinsi cevizleri alım noktalarına ulaştırmak için sabahın ilk ışıklarıyla yola çıkıyor. Kilosu 40 liradan alıcı bulan cevizler için traktörler uzun kuyruklar oluşturuyor.",
+      "link": "https://www.yenicaggazetesi.com/sabahin-ilk-isiklarinda-emek-kuyrugu-kilosu-40-tl-her-aksam-4-tir-yola-cikiyor-1082060h.htm",
+      "published": "2026-10-14T07:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:34.658106+00:00"
+    },
+    {
+      "id": "7fa62b733c24b26a",
+      "source": "OdaTV",
+      "title": "CIA'den 50 yıllık uyarı: Ege'de savaş nasıl çıkabilir",
+      "summary": "CIA ve DIA’nın 1974 tarihli gizli raporu, Ege’de savaşın nasıl başlayabileceğine ilişkin bir uyarı içeriyordu. Washington’a göre iki ülke geniş çaplı bir savaş istemese de Ege’de yaşanacak bir askerî olay çatışmayı tetikleyebilirdi.",
+      "link": "https://www.odatv.com/ozel/ciaden-50-yillik-uyari-egede-savas-nasil-cikabilir-120166537",
+      "published": "2026-10-14T07:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:35.591326+00:00"
+    },
+    {
+      "id": "d969c465f0d483d8",
+      "source": "Ekonomim",
+      "title": "Sağanak etkisini artırdı, Hacıosman metro istasyonunda tavandan sular aktı (Video)",
+      "summary": "İstanbul&#039;da etkili olan sağanak yağış nedeniyle Hacıosman metro istasyonunun tavanından içeriye sular aktı.",
+      "link": "https://www.ekonomim.com/gundem/saganak-etkisini-artirdi-haciosman-metro-istasyonunda-tavandan-sular-akti-video-haberi-924564",
+      "published": "2026-10-14T07:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:41.504782+00:00"
+    },
+    {
+      "id": "bbb1d158d7a70262",
+      "source": "Aydınlık",
+      "title": "Smyrna kazıları 2 bin 700 yıllık kent planını ve gümüş hazinesini ortaya koyuyor",
+      "summary": "İzmir’deki Bayraklı Höyüğü’nde sürdürülen kazılar, milattan önce 7. yüzyıldaki kent düzenine ve 2019’da bulunan yaklaşık 406 gramlık gümüş takı hazinesine ilişkin bulgular sunuyor.",
+      "link": "https://www.aydinlik.com.tr/haber/smyrna-kazilarinda-planli-kent-ve-gumus-taki-hazinesi-594388",
+      "published": "2026-10-14T07:02:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:34.972801+00:00"
+    },
+    {
+      "id": "164b86837f90d9c4",
+      "source": "Euronews Türkçe",
+      "title": "Salvador Dalí’nin gerçeküstü dünyası dijital deneyimle İstanbul’da",
+      "summary": "İlk kez 2022’de Barselona’da açılan ve 14 şehirde yüz binlerce ziyaretçiye ulaşan 'Dali Cybernetics' sergisi, 22 Ekim’de İstanbul’da açılıyor. Dalí’nin sanatını bilim ve teknolojiyle buluşturan sergi, sanal gerçeklik uygulamalarından Ara Güler’in fotoğraflarına uzanan farklı deneyimler sunuyor.",
+      "link": "https://tr.euronews.com/2026/10/14/salvador-dalinin-gercekustu-dunyasi-dijital-deneyimle-istanbulda",
+      "published": "2026-10-14T07:02:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:48.527080+00:00"
+    },
+    {
+      "id": "fd5a99ad19efa67d",
+      "source": "Yeniçağ",
+      "title": "Küresel piyasalarda enflasyon alarmı: Gözler kritik ABD verisine çevrildi",
+      "summary": "Küresel piyasalar; teknoloji hisselerindeki dalgalanmalar, yükselen petrol fiyatları ve ABD banka bilançolarının ardından kritik ABD enflasyon verisine kilitlendi. Fed’in faiz patikasına yön vermesi beklenen veri öncesinde yatırımcılar Orta Doğu’daki jeopolitik riskleri de yakından izliyor.",
+      "link": "https://www.yenicaggazetesi.com/kuresel-piyasalarda-enflasyon-alarmi-gozler-kritik-abd-verisine-cevrildi-1082058h.htm",
+      "published": "2026-10-14T07:02:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:34.658178+00:00"
+    },
+    {
+      "id": "2207b3d09595d276",
+      "source": "Aydınlık",
+      "title": "Yamal’dan Galatasaray itirafı: “İkinci gol iptal edilmese işimiz çok zordu”",
+      "summary": "Barcelona’nın yıldızı Lamine Yamal, Galatasaray’ı 4-1 yendikleri maçın ardından RAMS Park atmosferine övgüde bulundu. Genç futbolcu, sarı-kırmızılıların iptal edilen ikinci golünün maçın seyrini değiştirebileceğini söyledi.",
+      "link": "https://www.aydinlik.com.tr/haber/yamaldan-galatasaray-itirafi-ikinci-gol-iptal-edilmese-isimiz-cok-zordu-594387",
+      "published": "2026-10-14T07:02:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:34.972837+00:00"
+    },
+    {
+      "id": "2648cc25cb01eecc",
+      "source": "Star",
+      "title": "Otogarda \"değnekçi\" dehşeti! Biletini iade etmek isterken hastanelik oldu",
+      "summary": "Adana'dan İstanbul'a gitmek için otogardaki 'değnekçi' diye tabir edilen görevlilerden bilet satın alan, ancak otobüs gecikince bileti iade etmek isteyen bir kişi saldırıya uğradı. Burnu kırılıp darbedilen vatandaş şikayetçi olurken, o anlar güvenlik kamerasınca görüntülendi.",
+      "link": "https://www.star.com.tr/yasam/otogarda-degnekci-dehseti-biletini-iade-etmek-isterken-hastanelik-oldu-haber-2046458/",
+      "published": "2026-10-14T07:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:33.774022+00:00"
+    },
+    {
+      "id": "9b56d6ac3af12cc8",
+      "source": "Türkiye Gazetesi",
+      "title": "İstanbul'da sağanak yağış metro istasyonunu vurdu",
+      "summary": "İstanbul'da etkisini sürdüren sağanak yağış, ulaşımı da olumsuz etkiledi. Sarıyer'deki Hacıosman Metro İstasyonu'nda tavandan akan yağmur suları istasyonun içine doldu. Metroyu kullanmak isteyen vatandaşlar, ıslanmamak için suyun akmadığı bölgelere yöneldi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/istanbulda-saganak-yagis-metro-istasyonunu-vurdu-tavandan-sular-akti-1822607",
+      "published": "2026-10-14T07:01:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:30.504200+00:00"
+    },
+    {
+      "id": "013f9c02eca8bf3e",
+      "source": "CNBC-e",
+      "title": "Borsa güne düşüşle başladı",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi güne 18,71 puan ve yüzde 0,15 azalışla 12.231,97 puandan başladı.",
+      "link": "https://www.cnbce.com/borsa/bist100-gune-dususle-basladi-iste-borsada-one-cikan-gelismeler-h39431",
+      "published": "2026-10-14T07:01:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:42.374333+00:00"
+    },
+    {
+      "id": "9e894697f7db0188",
+      "source": "ShiftDelete.Net",
+      "title": "TURKA, TÜVTÜRK İstasyonlarını Devralmak Üzere Görüşmelere Başladı",
+      "summary": "TURKA ile TÜVTÜRK tarafı arasında mevcut araç muayene istasyonlarının devralınmasına yönelik görüşmeler kapsamında iyi niyet anlaşması imzalandı.TÜVTÜRK’ün 15 Ağustos 2027’de devretmeye hazırlandığı araç muayene hizmetleri operasyonu, TURKA’nın yüksek teknoloji ve hizmet standartları doğrultusunda yenilenerek faaliyetlerini sürdürecek. Türkiye’de 15 Ağustos 2027 itibarıyla başlayacak yeni dönem ar",
+      "link": "https://shiftdelete.net/turka-tuvturk-istasyonlarini-devralmak-uzere-gorusmelere-basladi",
+      "published": "2026-10-14T07:01:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:46.068915+00:00"
+    },
+    {
+      "id": "f6d83158fe09e252",
+      "source": "Cumhuriyet",
+      "title": "Hürmüz Boğazı'nda tansiyon yükseldi: ABD kontrolün kendilerinde olduğunu savundu",
+      "summary": "ABD Merkez Kuvvetler Komutanlığı (CENTCOM), İran Devrim Muhafızları Ordusunun Hürmüz Boğazı'nı kontrol ettiği ve yaklaşan ABD donanmasına ait savaş gemilerini batıracağı yönündeki açıklamalarını reddetti.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/hurmuz-bogazi-nda-tansiyon-yukseldi-abd-kontrolun-kendilerinde-oldugunu-savundu-2546565",
+      "published": "2026-10-14T07:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:28.522875+00:00"
+    },
+    {
+      "id": "8b88c526cd12ac5f",
+      "source": "Halk TV",
+      "title": "Halk TV gasp edildi! Halk ‘felç’ edilmek isteniyor",
+      "summary": "Bahadır Özgür yazdı: Halk TV gasp edildi! Halk ‘felç’ edilmek isteniyor",
+      "link": "https://halktv.com.tr/makale/halk-tv-gasp-edildi-halk-felc-edilmek-isteniyor-1061586",
+      "published": "2026-10-14T07:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:35.868919+00:00"
+    },
+    {
+      "id": "8ba33c35114b9b92",
+      "source": "Ekonomim",
+      "title": "Borsa İstanbul günü ekside açtı",
+      "summary": "Borsa İstanbul&#039;da BIST 100 endeksi, güne yüzde 0,15 kayıpla 12.231,97 puandan başladı. Bankacılık ve holding endekslerinde düşüş yaşanırken yatırımcıların odağında ABD&#039;de açıklanacak enflasyon verisi bulunuyor.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/borsa-istanbul-gunu-ekside-acti-haberi-924562",
+      "published": "2026-10-14T07:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:41.504822+00:00"
+    },
+    {
+      "id": "3e6396e52b510f75",
+      "source": "OdaTV",
+      "title": "Ahu Tuğba'nın kızı Anjelik Calvin'den telif hamlesi",
+      "summary": "Yeşilçam&#039;ın unutulmaz ismi Ahu Tuğba&#039;nın kızı Anjelik Calvin, annesinin vefatının ardından Türkiye&#039;ye dönerek sinema mirasını ve telif haklarını korumak için hukukçularla görüşmelere başladı.",
+      "link": "https://www.odatv.com/magazin/ahu-tugbanin-kizi-anjelik-calvinden-telif-hamlesi-120166595",
+      "published": "2026-10-14T07:00:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:35.591361+00:00"
+    },
     {
       "id": "1be03f8638c23563",
       "source": "Yeni Yaşam",
@@ -17,6 +325,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T07:01:10.502463+00:00"
+    },
+    {
+      "id": "6cf9fe340d30bfa9",
+      "source": "LOG",
+      "title": "ttec’ten katlanabilir tasarımla 3’ü 1 arada şarj deneyimi",
+      "summary": "Şarj deneyimini tek bir noktada buluşturan ttec AirCharger Fold Pro 2 katlanabilir hızlı şarj standı, katlanabilir tasarımıyla kablosuz şarjı her yere taşıyor. Android telefonun yanı sıra iPhone, Apple Watch ve AirPods’u aynı anda şarj edebilen ürün; Qi2 25W teknolojisi, toplam 32,5W çıkış gücü ve kompakt yapısıyla masa başından seyahate kadar farklı kullanım senaryolarına uyum sağlıyor. Günün far",
+      "link": "https://www.log.com.tr/1034070-2/",
+      "published": "2026-10-14T07:00:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:45.422479+00:00"
+    },
+    {
+      "id": "7d670a1de589dd3e",
+      "source": "Habertürk",
+      "title": "Boğazını kesip öldürdü! Savunması şaşırttı",
+      "summary": "Bursa'da, tartıştığı 36 yaşındaki Hamdullah Yaman'ı boğazından bıçaklayıp öldüren tutuklu sanık 20 yaşındaki Maşallah Tan ile aynı yaştaki Mücahit Sertkaya'nın yargılanmasına devam edildi. Müebbet hapis cezası istenen Maşallah Tan, \"Olay sırasında K.E. ile birlikte 2-3 kişi beni tutuyordu. O sırada maktul, küfürler ederek üzerime koşmaya başladı. Korktum ve yerdeki bıçağı alarak panikle salladım. ",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-bogazini-kesip-oldurdu-savunmasi-sasirtti-bursa-haberleri-3919568",
+      "published": "2026-10-14T07:00:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:25.954732+00:00"
     },
     {
       "id": "e15f1bb566eae797",
@@ -30,6 +360,17 @@
       "fetched_at": "2026-10-14T07:01:17.570570+00:00"
     },
     {
+      "id": "9712132743506b1a",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Borsa güne düşüşle başladı",
+      "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,15 düşüşle 12.231,97 puandan başladı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4088031",
+      "published": "2026-10-14T07:00:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:28.240875+00:00"
+    },
+    {
       "id": "6f1f594228e8b0ae",
       "source": "Yeniçağ",
       "title": "Bilecik Gençlik ve Spor İl Müdürlüğünde kadroya alınan personel yemin etti",
@@ -39,6 +380,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T07:01:04.591245+00:00"
+    },
+    {
+      "id": "0b512ce8baf399d7",
+      "source": "Ekonomim",
+      "title": "Halk TV sahibi kimdir? Cafer Mahiroğlu kim, nereli ve ne iş yapıyor?",
+      "summary": "Halk TV sahibi kimdir? Son dakika gelişmesinin ardından Halk TV&#039;ye kayyum atandı ve canlı yayınlar durduruldu. Bunun üzerine Halk TV sahibi Cafer Mahiroğlu hemen akıllara geldi. İşte Mahiroğlu kim nereli ve ne iş yapıyor gibi soruların cevabı",
+      "link": "https://www.ekonomim.com/gundem/halk-tv-sahibi-kimdir-cafer-mahiroglu-kim-nereli-ve-ne-is-yapiyor-s1-haberi-924563",
+      "published": "2026-10-14T07:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:41.504860+00:00"
     },
     {
       "id": "8ab04a0507c17f2b",
@@ -61,6 +413,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T07:01:13.714467+00:00"
+    },
+    {
+      "id": "2902f3d49d7428fe",
+      "source": "Habertürk",
+      "title": "Ölüm nedeni açıklandı",
+      "summary": "'Breaking Bad' dizisinde canlandırdığı Walter White Jr. rolüyle tanınan RJ Mitte'nin 34 yaşında hayatını kaybetmesinin ardından, temsilcisi ölüm nedenini açıkladı",
+      "link": "https://www.haberturk.com/magazin/breaking-bad-oyuncusu-rj-mitte-nin-olum-nedeni-aciklandi-3919560",
+      "published": "2026-10-14T06:59:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:25.954773+00:00"
     },
     {
       "id": "651ff95b3be8d0f3",
@@ -193,6 +556,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T07:00:55.965428+00:00"
+    },
+    {
+      "id": "4f8a3e0937ec7ca4",
+      "source": "Evrensel",
+      "title": "Rusya ve Ukrayna'dan karşılıklı İHA saldırıları",
+      "summary": "Rusya Savunma Bakanlığı, Ukrayna’nın Kiev ve Harkiv bölgelerindeki enerji ve iletişim altyapısının hedef alındığını açıkladı. Bakanlık, Rusya’nın farklı bölgelerinde 12 saat içinde 902 Ukrayna İHA'sının düşürüldüğünü öne sürdü.",
+      "link": "https://www.evrensel.net/haber/6004834/rusya-ve-ukraynadan-karsilikli-iha-saldirilari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-14T06:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:30.742636+00:00"
     },
     {
       "id": "08ca1fa414a3cbda",
@@ -602,6 +976,17 @@
       "fetched_at": "2026-10-14T06:50:44.787075+00:00"
     },
     {
+      "id": "09e3f81bd537d2e6",
+      "source": "Evrensel",
+      "title": "37. Ankara Film Festivali 12 Kasım'da başlıyor: 10 film yarışacak",
+      "summary": "37. Ankara Film Festivali'nin Ulusal Uzun Film Yarışması finalistleri, 42 uzun metrajlı film arasından seçildi. Yarışmada 10 film yer alırken kazananlar, 20 Kasım'da düzenlenecek ödül töreninde açıklanacak.",
+      "link": "https://www.evrensel.net/haber/6004833/37-ankara-film-festivali-12-kasimda-basliyor-10-film-yarisacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-14T06:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:30.742673+00:00"
+    },
+    {
       "id": "19b3bfd823ca53d4",
       "source": "Akşam",
       "title": "Ajda Pekkan yeğeni Zoran Lalvani'nin düğününe neden katılmadı? Sebebini açıkladı",
@@ -864,6 +1249,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T06:50:45.789244+00:00"
+    },
+    {
+      "id": "758c448900fb863f",
+      "source": "Evrensel",
+      "title": "İstanbul'da etkili sağanakta yollar göle döndü, su baskınları yaşandı; trafik yoğunluğu yüzde 72’ye ulaştı",
+      "summary": "İstanbul'da sabah saatlerinde sağanak etkili olmaya başladı. Kentin birçok ilçesinde şiddetini artıran yağışın ardından sürücüler trafikte güçlükle ilerledi, su baskınları yaşandı. Trafik yoğunluğu saat 08.30 itibarıyla yüzde 72'ye ulaştı.",
+      "link": "https://www.evrensel.net/haber/6004831/istanbulda-etkili-saganakta-yollar-gole-dondu-su-baskinlari-yasandi-trafik-yogunlugu-yuzde-72ye-ulasti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-14T06:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:30.742707+00:00"
     },
     {
       "id": "ecfec5a244c54602",
@@ -1746,6 +2142,17 @@
       "fetched_at": "2026-10-14T06:35:33.521587+00:00"
     },
     {
+      "id": "3dde3c65b37d5f0c",
+      "source": "Hürriyet",
+      "title": "İstanbul'da sağanak kabusu: Suya batan motosikletlinin zor anları kamerada",
+      "summary": "İstanbul'da sağanak yolları göle çevirdi ve hayatı felç etti. Suya batan motosikletlinin yaşadığı zor anlar kameraya böyle yansıdı.",
+      "link": "https://www.hurriyet.com.tr/gundem/istanbulda-saganak-kabusu-suya-batan-motosikletlinin-zor-anlari-kamerada-43340805",
+      "published": "2026-10-14T06:29:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:31.543449+00:00"
+    },
+    {
       "id": "43f0c78cc4659dd4",
       "source": "Evrensel",
       "title": "Trump, Grönland'da petrol ve maden arama faaliyetlerinin başlayacağını duyurdu",
@@ -1788,6 +2195,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T06:30:51.438916+00:00"
+    },
+    {
+      "id": "27b868eaeb4d58ad",
+      "source": "Independent Türkçe",
+      "title": "Hülle mi siyasal istismar mı?",
+      "summary": "İstismarın fiziksel, psikolojik, cinsel, duygusal ve ekonomik türlerini biliyoruz. Peki ya siyasal istismar? CHP seçmeninin oylarıyla belediye başkanı seçilip ardından AK Parti’ye geçenlerin yarattığı tablo, bu kavramı tartışmaya açıyor. Çünkü burada iktidarıyla muhalefetiyle istismar edilen yalnızca seçmenin güveni değil, doğrudan siyasal iradesidir. Seçmenin bir siyasi kimliğe verdiği temsil yet",
+      "link": "https://www.indyturk.com/node/783797/t%C3%BCrki%CC%87yeden-sesler/h%C3%BClle-mi-siyasal-istismar-m%C4%B1",
+      "published": "2026-10-14T06:28:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:39.530542+00:00"
     },
     {
       "id": "35285d6c5c7f5709",
@@ -1909,6 +2327,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T06:30:56.736191+00:00"
+    },
+    {
+      "id": "f580325c4bcc6e58",
+      "source": "Sabah",
+      "title": "Süt üreticilerine ilave destek! Soğutulmuş çiğ süt için yeni kriterler... Mesleki yeterlilik belgesi şartı getirildi",
+      "summary": "Tarım ve Orman Bakanlığı, çiğ süt desteği ve süt piyasasının düzenlenmesine ilişkin uygulama tebliğinde değişikliğe gitti. Resmî Gazete’de yayımlanan düzenlemeyle, mesleki yeterlilik belgesine sahip personel... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/ekonomi/sut-ureticilerine-ilave-destek-sogutulmus-cig-sut-icin-yeni-kriterler-mesleki-yeterlilik-belgesi-sarti-getirildi-7680290",
+      "published": "2026-10-14T06:27:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:32.767043+00:00"
+    },
+    {
+      "id": "8578855dd79d5aac",
+      "source": "Evrensel",
+      "title": "Halk TV'ye kayyım operasyonu, Trump'a Yemen sorusunun ardından geldi",
+      "summary": "Halk TV'ye düzenlenen operasyonun kanalın Washington Temsilcisi Serra Karaçam'ın ABD Başkanı Donald Trump'a Türkiye'nin Yemen'deki olası rolünü sormasının ardından gerçekleşmesi dikkat çekti.",
+      "link": "https://www.evrensel.net/haber/6004832/halk-tv-ye-kayyim-operasyonu-trump-a-yemen-sorusunun-ardindan-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-14T06:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:30.742764+00:00"
+    },
+    {
+      "id": "cd9f9e297509a59a",
+      "source": "Hürriyet",
+      "title": "Amasra'da maden faciasında hayatını kaybeden 43 madenci anıldı",
+      "summary": "Bartın’ın Amasra ilçesinde, Türkiye Taşkömürü Kurumu (TTK) Amasra Müessese Müdürlüğü’ndeki maden faciasının 4’üncü yıl dönümünde hayatını kaybeden 43 madenci anıldı.",
+      "link": "https://www.hurriyet.com.tr/gundem/amasrada-maden-faciasinda-hayatini-kaybeden-43-madenci-anildi-43340804",
+      "published": "2026-10-14T06:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:31.543061+00:00"
     },
     {
       "id": "b3ac1e348ea457e6",
@@ -3273,6 +3724,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T06:15:45.973780+00:00"
+    },
+    {
+      "id": "0cc0b278f80c1972",
+      "source": "Sözcü",
+      "title": "Özgür Özel’den Halk TV’ye kayyum atanmasına sert tepki!",
+      "summary": "Özgür Özel’den Halk TV’ye kayyum atanmasına sert tepki!",
+      "link": "https://www.sozcu.com.tr/ozgur-ozel-den-halk-tv-ye-kayyum-atanmasina-sert-tepki-p368940",
+      "published": "2026-10-14T05:59:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T07:05:30.660035+00:00"
     },
     {
       "id": "a86daa234d3edf9b",
@@ -5044,468 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T05:05:29.367341+00:00"
-    },
-    {
-      "id": "6f209eb0971e8c9e",
-      "source": "Hürriyet",
-      "title": "Galatasaray'ın Barcelona yenilgisi sonrası dikkat çeken sözler! 'Aklımıza gelen başımıza geldi! Baş etmek mümkün değil'",
-      "summary": "Galatasaray, UEFA Şampiyonlar Ligi’nin 2. haftasında sahasında Barcelona’ya 4-1 mağlup oldu. Temsilcimizin maçını Hürriyet yazarları Güntekin Onay ve Mehmet Ayan değerlendirdi.",
-      "link": "https://www.hurriyet.com.tr/sporarena/galatasarayin-barcelona-yenilgisi-sonrasi-dikkat-ceken-sozler-aklimiza-gelen-basimiza-43340725",
-      "published": "2026-10-14T04:57:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:30:54.785845+00:00"
-    },
-    {
-      "id": "c937df3f4cb84ed3",
-      "source": "Ekonomim",
-      "title": "Fransa vizesi için randevu sistemi değişiyor: İşte yeni kurallar",
-      "summary": "Fransa, Türkiye’den yapılan Schengen vizesi başvurularında randevu prosedürünü yeniliyor. 15 Ekim itibarıyla turistik seyahat ve özel ziyaret başvuruları için bekleme listesi sistemi uygulanmaya başlanacak.",
-      "link": "https://www.ekonomim.com/dunya/fransa-vizesi-icin-randevu-sistemi-degisiyor-iste-yeni-kurallar-haberi-924528",
-      "published": "2026-10-14T04:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:01:16.649699+00:00"
-    },
-    {
-      "id": "da828190779a67a4",
-      "source": "Hürriyet",
-      "title": "Trabzonlu Terminatör",
-      "summary": "Trabzonspor’un eski yöneticisi Nevzat Aydın, “Terminatör”, “Predator” ve “Total Recall” gibi filmlerle hafızalara kazınan dünyaca ünlü oyuncu Arnold Schwarzenegger’e isminin yazılı olduğu Trabzonspor forması hediye etti.",
-      "link": "https://www.hurriyet.com.tr/kelebek/stil/trabzonlu-terminator-43340727",
-      "published": "2026-10-14T04:56:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:30:54.786568+00:00"
-    },
-    {
-      "id": "07b503ee74fec155",
-      "source": "Diken",
-      "title": "Özgür Özel'den Halk TV tepkisi: Ancak diktatörlerin yapacağı iş",
-      "summary": "Özgür Özel'den Halk TV tepkisi: Ancak diktatörlerin yapacağı iş 14.10.2026 Diken Siyasetçiler, Halk TV'ye kayyım atanıp yayının durdurulmasına tepki gösteriyor. The post Özgür Özel'den Halk TV tepkisi: Ancak diktatörlerin yapacağı iş appeared first on #site_linkat 14.10.2026 .",
-      "link": "https://www.diken.com.tr/ozgur-ozelden-halk-tv-tepkisi-ancak-diktatorlerin-yapacagi-is/?utm_source=rss&utm_medium=rss&utm_campaign=ozgur-ozelden-halk-tv-tepkisi-ancak-diktatorlerin-yapacagi-is",
-      "published": "2026-10-14T04:56:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:01:10.724395+00:00"
-    },
-    {
-      "id": "e5f0366d594f887b",
-      "source": "Yeni Şafak",
-      "title": "Tropikal iklim canlısı: 2 bin rakımlı vadide 'çiftçi dostu' peygamberdevesi sürprizi",
-      "summary": "Tropikal ve subtropikal bölgelerde yaygın olarak görülen peygamberdevesi, Kars'ın Sarıkamış ilçesindeki 2 bin rakımlı Sırataşlar Vadisi'nde görüntülendi.",
-      "link": "https://www.yenisafak.com/galeri/gundem/tropikal-iklim-canlisi-2-bin-rakimli-vadide-ciftci-dostu-peygamberdevesi-surprizi-4864120",
-      "published": "2026-10-14T04:56:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:01:05.725513+00:00"
-    },
-    {
-      "id": "dab02924325d788c",
-      "source": "Cumhuriyet",
-      "title": "Özgür Özel’den Halk TV’ye kayyım atanmasına sert tepki: 'Millet kazanacak'",
-      "summary": "Halk TV’nin İstanbul’daki binasına sabah saatlerinde polis baskını düzenlendi. Kanalın yayını durdurulurken, Halk TV Yönetim Kurulu Başkanı Cafer Mahiroğlu kayyım atandığını duyurdu. YENİ Parti Genel Başkanı Özgür Özel, baskına tepki göstererek “Millet kazanacak, darbeciler, vesayetçiler yenilecek” dedi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-den-halk-tv-ye-kayyim-atanmasina-sert-tepki-millet-kazanacak-2546533",
-      "published": "2026-10-14T04:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:00:59.710093+00:00"
-    },
-    {
-      "id": "a1f2fce2586e28f1",
-      "source": "Halk TV",
-      "title": "Son Dakika | Mansur Yavaş'tan Halk TV'ye kayyum atanmasına tepki: Haber alma hakkına yönelik açık müdahale",
-      "summary": "Son dakika... Halk TV&#039;ye kayyum atanmasına bir tepki de Ankara Büyükşehir Belediye Başkanı Mansur Yavaş&#039;tan geldi.",
-      "link": "https://halktv.com.tr/siyaset/son-dakika-mansur-yavastan-halk-tvye-kayyum-atanmasina-tepki-haber-alma-hakkina-yonelik-acik-mudahale-1061574h",
-      "published": "2026-10-14T04:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:01:10.387846+00:00"
-    },
-    {
-      "id": "14a884e9f7325ec7",
-      "source": "Hürriyet",
-      "title": "Anjelik polisliğe geri dönüyor",
-      "summary": "2024 yılında yaşamını kaybeden Yeşilçam yıldızı Ahu Tuğba’nın kızı Anjelik Alejnatij, Amerika’dan döndü.",
-      "link": "https://www.hurriyet.com.tr/kelebek/hayat/anjelik-polislige-geri-donuyor-43340726",
-      "published": "2026-10-14T04:54:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:30:54.786525+00:00"
-    },
-    {
-      "id": "2fc79965589b2308",
-      "source": "Habertürk",
-      "title": "Fransa vizesinde yeni dönem",
-      "summary": "Fransa vizesinde bazı başvurular için doğrudan randevu uygulaması yarından itibaren sona erecek. 15 Ekim'de başlayacak yeni sistemle başvuru sahipleri önce bekleme listesine kaydolacak",
-      "link": "https://www.haberturk.com/dunya/fransa-vizesinde-yeni-donem-randevu-icin-bekleme-listesi-baslayacak-3919528",
-      "published": "2026-10-14T04:54:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:05:29.367385+00:00"
-    },
-    {
-      "id": "cdf9317e2c7755c5",
-      "source": "Akşam",
-      "title": "Ticaret Bakanı Bolat: Hedef 15 milyar dolar",
-      "summary": "DEİK ile Belçika'da temaslarda bulunan Ticaret Bakanı Ömer Bolat, iki ülke arasındaki ticaret hacmini 15 milyar dolara çıkarmak istediklerini söyledi.",
-      "link": "https://www.aksam.com.tr/ekonomi/ticaret-bakani-bolat-hedef-15-milyar-dolar/haber-1706005",
-      "published": "2026-10-14T04:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:55:30.861423+00:00"
-    },
-    {
-      "id": "e20e4acdf7cf272d",
-      "source": "Star",
-      "title": "Katil Netanyahu, 7 Ekim 2023 öncesinde Mısır İstihbarat Başkanı'nın İsrail'e geldiğini kabul etti",
-      "summary": "İsrail Başbakanı Binyamin Netanyahu, 7 Ekim 2023 öncesinde Tel Aviv'e gelerek Gazze'den muhtemel bir saldırı konusunda uyardığı iddia edilen Mısır İstihbarat Başkanı Abbas Kamil'in söz konusu ziyaretini doğruladı.",
-      "link": "https://www.star.com.tr/dunya/katil-netanyahu-7-ekim-2023-oncesinde-misir-istihbarat-baskaninin-israile-geldigini-kabul-etti-haber-2046440/",
-      "published": "2026-10-14T04:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:55:31.660462+00:00"
-    },
-    {
-      "id": "e6535a9d14da45dc",
-      "source": "CNBC-e",
-      "title": "Altında \"bekle, gör\" modu: Gözler bugün açıklanacak veride!",
-      "summary": "Ons altın fiyatı, son haftalardaki gerilemesini yavaşlatarak ABD enflasyon verisi öncesinde güçlü kaldı. Analistler, bunun olumlu bir işaret olduğunu vurgulayarak saat 15:30'dan itibaren gelecek verilerin gösterge fiyat üzerinde yukarı yönlü ivme oluşturabileceğini belirtiyor.",
-      "link": "https://www.cnbce.com/altin/altinda-bekle-gor-modu-gozler-bugun-aciklanacak-veride-g39418",
-      "published": "2026-10-14T04:51:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:55:41.922250+00:00"
-    },
-    {
-      "id": "b8ca9acd7e2d5e5b",
-      "source": "Akşam",
-      "title": "7 Ekim öncesi 59 dakikalık sır ziyaret: “Gazze kasabı” Netanyahu gerçeği kabul etti",
-      "summary": "“Gazze kasabı” Binyamin Netanyahu, 7 Ekim 2023 saldırılarından kısa süre önce Mısır İstihbarat Başkanı Abbas Kamil'in İsrail'e geldiğini doğruladı. Netanyahu, 59 dakika süren ziyaret sırasında kendisiyle görüşmediğini öne sürerken, Kamil'in kimlerle görüştüğünü bilmediğini iddia etti.",
-      "link": "https://www.aksam.com.tr/dunya/7-ekim-oncesi-59-dakikalik-sir-ziyaret-gazze-kasabi-netanyahu-gercegi-kabul-etti/haber-1706004",
-      "published": "2026-10-14T04:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:55:30.861451+00:00"
-    },
-    {
-      "id": "9372062e70b53830",
-      "source": "Yeni Akit",
-      "title": "Şaibeli ihalelerle fonlanıyordu: Mali şube ekipleri Halk TV'nin merkezinde arama yapıyor",
-      "summary": "Mali Suçlarla Mücadele Şube Müdürlüğü ekipleri Halk TV'nin İstanbul'daki binasında arama yapıyor.",
-      "link": "https://www.yeniakit.com.tr/haber/saibeli-ihalelerle-fonlaniyordu-mali-sube-ekipleri-halk-tvnin-merkezinde-arama-yapiyor-2028037.html",
-      "published": "2026-10-14T04:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:55:31.976519+00:00"
-    },
-    {
-      "id": "2c963f1feb251785",
-      "source": "Ekonomim",
-      "title": "IMF uyardı: Küresel borçta tehlike çanları çalıyor",
-      "summary": "Uluslararası Para Fonu (IMF), yüksek borçluluk döneminde artan borçlanma maliyetlerinin kamu maliyesi üzerindeki baskıyı artırdığını ve güvenilir mali konsolidasyon adımlarının daha acil hale geldiğini belirtti.",
-      "link": "https://www.ekonomim.com/kuresel-ekonomi/imf-uyardi-kuresel-borcta-tehlike-canlari-caliyor-haberi-924527",
-      "published": "2026-10-14T04:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:55:40.997855+00:00"
-    },
-    {
-      "id": "725773ea9fdf22a3",
-      "source": "Habertürk",
-      "title": "Zirvedeki bağımlılığa karşı öncü adım",
-      "summary": "Sosyal medyada geçirilen süre ile Instagram ve TikTok kullanım oranlarına bakıldığında, Türkiye'nin ABD ve 10 Avrupa ülkesi arasında ilk sırada yer alması ülkemizdeki dijital bağımlılığın boyutlarını net bir şekilde gözler önüne seriyor. Sosyal medyanın yıkıcı etkilerine karşı tarihi bir adım atan Türkiye, hazırladığı yeni yönetmelikle çocukları koruma adına bu alanda dünyanın öncü ülkelerinden bi",
-      "link": "https://www.haberturk.com/kesfet/yikici-etkilerine-karsi-onlem-3919033",
-      "published": "2026-10-14T04:50:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:00:57.024626+00:00"
-    },
-    {
-      "id": "c60829c5b2a4696f",
-      "source": "Euronews Türkçe",
-      "title": "Kış faturaları: Avrupa'da en yüksek elektrik ve gaz fiyatları nerede?",
-      "summary": "Avrupa’da hane gaz ve elektrik fiyatlarındaki artış, benzin ve dizelden daha sınırlı kaldı. Kış öncesi Euronews Business, başkentlerdeki fiyatları ve İran savaşından önceye göre değişimini karşılaştırıyor.",
-      "link": "https://tr.euronews.com/2026/10/14/kis-faturalari-avrupada-en-yuksek-elektrik-ve-gaz-fiyatlari-nerede",
-      "published": "2026-10-14T04:50:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:55:48.686432+00:00"
-    },
-    {
-      "id": "686ef07f93a0690d",
-      "source": "Star",
-      "title": "Axios: Trump ve Netanyahu, İsrail ve ABD'deki seçimlerden önce İran'a saldırı ihtimalini görüştü",
-      "summary": "ABD Başkanı Donald Trump ve İsrail Başbakanı Binyamin Netanyahu'nun, İsrail'de 27 Ekim'de yapılacak genel seçimler ve ABD'de 3 Kasım'da gerçekleştirilecek Kongre ara seçimlerinden önce İran'a yeni bir saldırı düzenleme ihtimalini görüştüğü öne sürüldü.",
-      "link": "https://www.star.com.tr/dunya/axios-trump-ve-netanyahu-israil-ve-abddeki-secimlerden-once-irana-saldiri-ihtimalini-gorustu-haber-2046439/",
-      "published": "2026-10-14T04:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:50:44.824530+00:00"
-    },
-    {
-      "id": "ed3b2ea28e6c4ff5",
-      "source": "OdaTV",
-      "title": "Sosyal medyada doğrulanmamış ilanlara ceza yağdı",
-      "summary": "Ticaret Bakanlığı&#039;nın EİDS kapsamında sosyal medyada yürüttüğü denetimlerde, mevzuata aykırı ilan veren 70 emlak ve oto galeriye 7 milyon TL ceza kesildi.",
-      "link": "https://www.odatv.com/ekonomi/sosyal-medyada-dogrulanmamis-ilanlara-ceza-yagdi-120166579",
-      "published": "2026-10-14T04:48:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:50:48.051750+00:00"
-    },
-    {
-      "id": "8108bfefd8f8820e",
-      "source": "Habertürk",
-      "title": "IMF'den tahvil uyarısı",
-      "summary": "Uluslararası Para Fonu (IMF), yüksek borçluluk döneminde artan borçlanma maliyetlerinin kamu maliyesi üzerindeki baskıyı artırdığını ve güvenilir mali konsolidasyon adımlarının daha acil hale geldiğini bildirdi.",
-      "link": "https://www.haberturk.com/ekonomi/imf-den-tahvil-uyarisi-3919532",
-      "published": "2026-10-14T04:48:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:00:57.024661+00:00"
-    },
-    {
-      "id": "2a9809549a5eac25",
-      "source": "Hürriyet",
-      "title": "56 milyonluk tur",
-      "summary": "Galatasaray’ın Uruguaylı yıldızı Lucas Torreira, Lamborghini marka lüks otomobiliyle önceki akşam İstanbul turundaydı.",
-      "link": "https://www.hurriyet.com.tr/kelebek/stil/56-milyonluk-tur-43340724",
-      "published": "2026-10-14T04:46:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T05:25:33.629030+00:00"
-    },
-    {
-      "id": "b087d0cac4fd5ad2",
-      "source": "Akşam",
-      "title": "Çöpe giden gıdaya bilimsel çözüm",
-      "summary": "TİDER ve Özyeğin Üniversitesi, TÜBİTAK destekli projeyle gıda israfını azaltmak ve gıda bankacılığını güçlendirmek için 2029'a kadar bilimsel modeller geliştirecek.",
-      "link": "https://www.aksam.com.tr/ekonomi/cope-giden-gidaya-bilimsel-cozum/haber-1706003",
-      "published": "2026-10-14T04:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:50:43.553671+00:00"
-    },
-    {
-      "id": "d4aa45a344caa7da",
-      "source": "Star",
-      "title": "Taksici müşterisini arkadan kurşunladı! O anlar kamerada",
-      "summary": "Ankara'nın Yenimahalle ilçesinde bir taksici, yolcusunu varış noktasına bırakmasının ardından müşterisine arkasından tabanca ile ateş etti. Silahlı saldırı sonucunda müşteri ağır yaralandı.",
-      "link": "https://www.star.com.tr/yasam/taksici-musterisini-arkadan-kursunladi-o-anlar-kamerada-haber-2046438/",
-      "published": "2026-10-14T04:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:50:44.824565+00:00"
-    },
-    {
-      "id": "fac14a34e8cffebf",
-      "source": "Ekonomim",
-      "title": "ASELS, ULKER, BIMAS, MGROS, SOKM… Tam 34 hisse için aracı kurumlar fiyat tahmini açıkladı.",
-      "summary": "Borsa İstanbul’da işlem gören perakende ve savunma sanayi devleri dahil 34 şirketin hisseleri için aracı kurumlar fiyat tahminlerini açıkladı.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/asels-ulker-bimas-mgros-sokm-tam-34-hisse-icin-araci-kurumlar-fiyat-tahmini-acikladi-haberi-924526",
-      "published": "2026-10-14T04:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:50:55.372801+00:00"
-    },
-    {
-      "id": "58a1d3261eaccbd9",
-      "source": "OdaTV",
-      "title": "Görüntüler gündemde: 'Ünlü Kübalı boksör çöplükte yemek aradı'",
-      "summary": "Üç kez Olimpiyat boks şampiyonu olan Kübalı boksör Félix Savón&#039;un bir çöp konteynerinde yiyecek aradığını iddia eden görüntüler gündem oldu.",
-      "link": "https://www.odatv.com/spor/unlu-kubali-boksor-coplukte-yemek-aradi-goruntuler-gundemde-120166578",
-      "published": "2026-10-14T04:45:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:50:48.051785+00:00"
-    },
-    {
-      "id": "7c790b5e5307a2df",
-      "source": "Ekonomim",
-      "title": "Akaryakıta zam ya da indirim var mı? İşte 14 Ekim 2026 güncel benzin, motorin ve LPG fiyatları",
-      "summary": "Brent petrol fiyatlarındaki hareketlilik, döviz kurundaki dalgalanmalar ve vergi artışları, akaryakıt fiyatları üzerinde doğrudan etkili oluyor. Bu gelişmeler, vatandaşların “Benzin ne kadar oldu?”, “Motorin litre fiyatı kaç TL?”, “LPG fiyatları güncel ne kadar?” gibi sorulara yanıt aramasına neden oluyor. İşte 14 Ekim 2026 Çarşamba günü itibarıyla güncel benzin, motorin ve LPG fiyatları…",
-      "link": "https://www.ekonomim.com/foto-galeri/ekonomi/akaryakita-zam-ya-da-indirim-var-mi-iste-14-ekim-2026-guncel-benzin-motorin-ve-lpg-fiyatlari-galeri-924524",
-      "published": "2026-10-14T04:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:45:56.028065+00:00"
-    },
-    {
-      "id": "741a80e90290a742",
-      "source": "Habertürk",
-      "title": "Halk TV'de arama, kayyum atandı",
-      "summary": "Halk TV'nin İstanbul'daki binasında sabah saatlerinde Mali Şube ve KOM ekiplerinin arama yaptığı, tv kanalına kayyum atandığı öğrenildi.",
-      "link": "https://www.haberturk.com/gundem/son-dakika-halk-tv-de-arama-kayyum-atandi-3919531",
-      "published": "2026-10-14T04:44:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:50:33.957034+00:00"
-    },
-    {
-      "id": "3627d63db42dc670",
-      "source": "Ekonomim",
-      "title": "Saatlere artık saniye eklenmeyecek! Zaman ölçümünde yeni dönem",
-      "summary": "Dünya’nın dönüş hızı ile modern saatler arasındaki uyumu sağlamak amacıyla 1972’den bu yana uygulanan “artık saniye” sisteminin kaldırılması planlanıyor. Küresel teknoloji ve navigasyon sistemlerinde zaman zaman aksaklıklara neden olan uygulamanın sona ermesiyle, resmi zaman ölçümünün Dünya’nın hareketleriyle olan tarihsel bağı da zayıflayacak.",
-      "link": "https://www.ekonomim.com/yasam/saatlere-artik-saniye-eklenmeyecek-zaman-olcumunde-yeni-donem-haberi-924525",
-      "published": "2026-10-14T04:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:50:55.372901+00:00"
-    },
-    {
-      "id": "2ee97459c0a3c85f",
-      "source": "Karar",
-      "title": "Fotoğraftaki beyaz yansımayı sakın ihmal etmeyin! Göz tümörünün belirtileri neler?",
-      "summary": "Bandırmasporlu genç futbolcu Tolga Kalender’in 25 yaşında göz kanseri sebebiyle hayatını kaybetmesi göz tümörlerine yönelik farkındalığı artırdı. Manisa Şehir Hastanesi Göz Hastalıkları Hekimi Op. Dr. Melisa Yılmaz, hiçbir şikâyet oluşturmadan sinsi biçimde ilerleyebilen göz kanserinde erken teşhisin hem görme yetisini korumak hem de hayatta kalmak için kritik bir rol oynadığını vurguladı.",
-      "link": "https://www.karar.com/saglik-haberleri/fotograftaki-beyaz-yansimayi-sakin-ihmal-etmeyin-goz-tumorunun-2078234",
-      "published": "2026-10-14T04:42:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:45:46.508582+00:00"
-    },
-    {
-      "id": "39ccf68635a398b0",
-      "source": "Akşam",
-      "title": "Yapay zekada Bizans oyunları... \"Perde arkasında başka işler dönüyor\" iddiası",
-      "summary": "ABD'li şirketlerin yapay zekayı “yavaşlatma” çağrılarının perde arkası sorgulanıyor. Çağrıların arkasında rakibini yavaşlatarak konumunu korumak isteyen sermaye gruplarının olduğu iddiaları var.",
-      "link": "https://www.aksam.com.tr/teknoloji/yapay-zekada-bizans-oyunlari-perde-arkasinda-baska-isler-donuyor-iddiasi/haber-1706002",
-      "published": "2026-10-14T04:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:45:44.384902+00:00"
-    },
-    {
-      "id": "16b2d5356c0363b7",
-      "source": "Yeni Akit",
-      "title": "Ali Karahasanoğlu’ndan Azerbaycan’a başörtüsü uyarısı: Bu yanlıştan dönün",
-      "summary": "Akit yazarı Ali Karahasanoğlu, bugünkü köşe yazısında Azerbaycan’daki başörtüsü kısıtlamalarına sert tepki göstererek, Türkiye’nin 28 Şubat döneminde yaşadığı acıları hatırlattı. Karahasanoğlu, uygulamanın dindar kesimleri İran’a yakınlaştırma riski taşıdığı uyarısında bulunarak Azerbaycan yönetimine, “Yol yakınken bu yanlıştan dönünüz” çağrısı yaptı.",
-      "link": "https://www.yeniakit.com.tr/haber/ali-karahasanoglundan-azerbaycana-basortusu-uyarisi-bu-yanlistan-donun-2028036.html",
-      "published": "2026-10-14T04:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:45:46.162854+00:00"
-    },
-    {
-      "id": "dbce08fd70a8da12",
-      "source": "OdaTV",
-      "title": "Trump çok bozulacak... Barzani'den Erdoğan için 'Nobel Barış Ödülü' çıkışı",
-      "summary": "IKBY Başkanı Neçirvan Barzani’den Trump&#039;ı kızdıracak Cumhurbaşkanı Erdoğan için Nobel Barış Ödülü çıkışı geldi. Kürt meselesinin çözümünün Türkiye’yi farklı bir aşamaya taşıyacağını söyleyen Barzani, Bahçeli’nin hastalığı döneminde Erdoğan’la yaşadığı diyaloğu da paylaştı.",
-      "link": "https://www.odatv.com/siyaset/trump-cok-bozulacak-barzaniden-erdogan-icin-nobel-baris-odulu-cikisi-120166456",
-      "published": "2026-10-14T04:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:45:49.371531+00:00"
-    },
-    {
-      "id": "f2a091a468bf0cb1",
-      "source": "Akşam",
-      "title": "İstanbul Boğazı'nda haraketli gece: Sürüklenen gemi kurtarıldı",
-      "summary": "İstanbul Boğazı'nda sürüklenen konteyner gemisi Kıyı Emniyeti ekiplerinin müdahalesiyle emniyete alındı.",
-      "link": "https://www.aksam.com.tr/guncel/istanbul-bogazinda-haraketli-gece-suruklenen-gemi-kurtarildi/haber-1706001",
-      "published": "2026-10-14T04:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:40:43.180320+00:00"
-    },
-    {
-      "id": "3dc9b8a0dbc50490",
-      "source": "Yeniçağ",
-      "title": "Mansur Yavaş'tan Halk TV'ye kayyum atanmasına tepki",
-      "summary": "Halk TV&#039;nin İstanbul&#039;daki merkez binasına sabah saatlerinde polis eşliğinde giren ekip, kanala kayyum atandığını yönetime tebliğ etti. Karara Ankara Büyükşehir Belediye Başkanı Mansur Yavaş&#039;tan ilk tepki geldi.",
-      "link": "https://www.yenicaggazetesi.com/mansur-yavastan-halk-tvye-kayyum-atanmasina-tepki-1082026h.htm",
-      "published": "2026-10-14T04:38:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:40:46.382561+00:00"
-    },
-    {
-      "id": "a05020e03ad441a0",
-      "source": "DW Türkçe",
-      "title": "Halk TV'ye polis baskını",
-      "summary": "Halk TV'ye sabah saatlerinde operasyon düzenlendi. Halk TV'den yapılan açıklamada kanala kayyum atandığı ifade edildi.",
-      "link": "https://www.dw.com/tr/halk-tv-ye-polis-baskını/a-79656401?maca=tur-rss-tur-all-1495-rdf",
-      "published": "2026-10-14T04:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:51:04.125216+00:00"
-    },
-    {
-      "id": "d827ffcd1c537eba",
-      "source": "Akşam",
-      "title": "Nesnelerin interneti AI tarafından hacklenebilir",
-      "summary": "Anthropic, küçük yapay zeka modellerinin savunmasız Nesnelerin İnterneti (IoT) cihazlarına sızarak kendi kendini kopyalama yeteneğine ulaşmasına yalnızca aylar kalmış olabileceği uyarısında bulundu.",
-      "link": "https://www.aksam.com.tr/teknoloji/nesnelerin-interneti-ai-tarafindan-hacklenebilir/haber-1706000",
-      "published": "2026-10-14T04:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:40:43.180356+00:00"
-    },
-    {
-      "id": "4e8401da08d3eeb0",
-      "source": "Yeniçağ",
-      "title": "Özel'den Halk TV'ye kayyum atamasına tepki: Millet kazanacak, vesayetçiler yenilecek",
-      "summary": "YENİ Parti Lideri Özgür Özel, Halk TV&#039;ye şafak operasyonuna tepki gösterdi. Özel, &quot;Belediyelere kayyum atayıp milletin iradesine çökenler, şimdi milyonların izlediği Halk TV’ye kayyum atadılar. Millet kazanacak, vesayetçiler yenilecek.&quot; dedi.",
-      "link": "https://www.yenicaggazetesi.com/ozelden-halk-tvye-kayyum-atamasina-tepki-millet-kazanacak-vesayetciler-yenilecek-1082025h.htm",
-      "published": "2026-10-14T04:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T06:55:33.943356+00:00"
-    },
-    {
-      "id": "2fd80ec146b1f333",
-      "source": "Yeniçağ",
-      "title": "Özel'den Halk Tv'ye kayyum atamasına tepki: Millet kazanacak, vesayetçiler yenilecek",
-      "summary": "YENİ Parti Lideri Özgür Özel, Halk TV&#039;ye şafak operasyonuna tepki gösterdi. Özel, &quot;Belediyelere kayyum atayıp milletin iradesine çökenler, şimdi milyonların izlediği Halk TV’ye kayyum atadılar. Millet kazanacak, vesayetçiler yenilecek.&quot; dedi.",
-      "link": "https://www.yenicaggazetesi.com/ozelden-halk-tvye-kayyum-atamasina-tepki-millet-kazanacak-vesayetciler-yenilecek-1082025h.htm",
-      "published": "2026-10-14T04:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:40:46.382607+00:00"
-    },
-    {
-      "id": "ab4acf05373e19fc",
-      "source": "Akşam",
-      "title": "Bıçaklı kavgada kan aktı: Oğlu babasını öldürdü",
-      "summary": "Kayseri'nin Melikgazi ilçesinde tartıştığı oğlu tarafından bıçaklanan kişi hayatını kaybetti.",
-      "link": "https://www.aksam.com.tr/guncel/bicakli-kavgada-kan-akti-oglu-babasini-oldurdu/haber-1705999",
-      "published": "2026-10-14T04:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:40:43.180381+00:00"
-    },
-    {
-      "id": "3f8c3ef3e6af1238",
-      "source": "Ekonomim",
-      "title": "Meteoroloji 18 ili sarı ve turuncu kodla uyardı: Sağanak yağışa dikkat! İşte sıcaklık tahminleri...",
-      "summary": "Meteoroloji Genel Müdürlüğü tarafından yapılan son değerlendirmelere göre ülke genelinin gök gürültülü sağanak yağışlı geçeceği tahmin ediliyor. Yağışların; Marmara, Ege&#039;nin batısı, Adana ve Düzce çevreleri, Isparta ve Burdur&#039;un güneyi, Kahramanmaraş ve Osmaniye&#039;nin batısında kuvvetli; Antalya ve Muğla çevrelerinde çok şiddetli olması bekleniyor. Rüzgarın; Marmara ve Kuzey Ege kıyıl",
-      "link": "https://www.ekonomim.com/foto-galeri/gundem/meteoroloji-18-ili-sari-ve-turuncu-kodla-uyardi-saganak-yagisa-dikkat-iste-sicaklik-tahminleri-galeri-924523",
-      "published": "2026-10-14T04:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:40:56.540428+00:00"
-    },
-    {
-      "id": "a5d5e2c1a24f6232",
-      "source": "Akşam",
-      "title": "Tüketici elektroniği devi Hisense, Türkiye pazarına girdi",
-      "summary": "Küresel tüketici elektroniği markası Hisense, televizyon ve akıllı iklimlendirme sistemleriyle Türkiye operasyonlarını resmen başlattığını duyurdu.",
-      "link": "https://www.aksam.com.tr/teknoloji/tuketici-elektronigi-devi-hisense-turkiye-pazarina-girdi/haber-1705998",
-      "published": "2026-10-14T04:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:35:36.999736+00:00"
-    },
-    {
-      "id": "9cc8d29b8cfabd78",
-      "source": "Star",
-      "title": "İngiltere, Arjantin'in Falkland Adaları'ndaki petrol projesine ilişkin Interpol taleplerinin reddini istedi",
-      "summary": "İngiltere hükümeti, Arjantin'in Falkland Adaları'ndaki (Malvinas) petrol projesiyle bağlantılı kişilere yönelik Interpol taleplerinin \"siyasi nitelik\" taşıdığı gerekçesiyle reddedilmesini istedi.",
-      "link": "https://www.star.com.tr/dunya/ingiltere-arjantinin-falkland-adalarindaki-petrol-projesine-iliskin-interpol-taleplerinin--haber-2046437/",
-      "published": "2026-10-14T04:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T04:35:38.200284+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T01:35:57.966581+00:00",
+  "last_updated": "2026-10-14T01:41:05.402541+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 549,
   "items": [
+    {
+      "id": "06a6442653eb6107",
+      "source": "Habertürk",
+      "title": "İstanbul Boğazı'nda sürüklenen gemi kurtarıldı",
+      "summary": "İstanbul Boğazı'nda sürüklenen konteyner gemisi Kıyı Emniyeti ekiplerinin müdahalesiyle emniyete alındı. Gemi daha sonra seyrine devam etti",
+      "link": "https://www.haberturk.com/gundem/istanbul-bogazi-nda-suruklenen-gemi-kurtarildi-3919523",
+      "published": "2026-10-14T01:34:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T01:40:34.054844+00:00"
+    },
+    {
+      "id": "d65c8e85aee9679d",
+      "source": "Finans Gündem",
+      "title": "Yapay zeka devinin ofisinde dinleme cihazı bulundu",
+      "summary": "ABD'de Suudi Arabistan vatandaşı, OpenAI yönetici odasına kayıt cihazı yerleştirdiği iddiasıyla gözaltına alındı.",
+      "link": "https://www.finansingundemi.com/haber/yapay-zeka-devinin-ofisinde-dinleme-cihazi-bulundu/1911396",
+      "published": "2026-10-14T01:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T01:40:57.367730+00:00"
+    },
     {
       "id": "bdce47bea657c375",
       "source": "Halk TV",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T20:25:33.318620+00:00"
-    },
-    {
-      "id": "711dd37f17298e01",
-      "source": "Karar",
-      "title": "MÜSİAD Yüksek İstişare Heyeti Başkanı Asmalı'dan Erenköy cemaatinin fon skandalı açıklamasına destek: Altına imzamı atarım",
-      "summary": "Kamuoyunda Erenköy cemaati olarak bilinen Aziz Mahmud Hüdayi Vakfının fon skandalı, denetimsizlik, kayırmacılık ve yolsuzluklara karşı yayımladığı sert bildiriye iş dünyasından da destek geldi. MÜSİAD Yüksek İstişare Heyeti Başkanı Mahmut Asmalı, vakfın “Toplumsal Çürümeyi Kabullenmiyoruz” başlıklı açıklamasını X hesabından paylaşarak “Altına imzamı atarım” ifadelerini kullandı.",
-      "link": "https://www.karar.com/guncel-haberler/musiad-yuksek-istisare-heyeti-baskani-asmalidan-erenkoy-cemaatinin-fon-2078212",
-      "published": "2026-10-13T20:18:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T20:20:44.233473+00:00"
-    },
-    {
-      "id": "c1b9c698482e422d",
-      "source": "Halk TV",
-      "title": "Sinan Engin Aston Villa Fenerbahçe maçının sonucunu duyurdu",
-      "summary": "Sinan Engin, Aston Villa - Fenerbahçe maçı öncesi konuştu. Engin maç sonucunu tahmin etti.",
-      "link": "https://halktv.com.tr/spor/sinan-engin-aston-villa-fenerbahce-macinin-sonucunu-duyurdu-1061548h",
-      "published": "2026-10-13T20:18:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T20:20:47.237887+00:00"
     }
   ]
 }

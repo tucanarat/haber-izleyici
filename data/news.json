@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-10-14T21:55:55.908752+00:00",
+  "last_updated": "2026-10-14T22:01:23.072028+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 550,
+  "new_items_this_run": 555,
   "items": [
+    {
+      "id": "b6811f0f4c2c5aef",
+      "source": "Akşam",
+      "title": "Golf sahası için yüzlerce yıllık ağaçlar kesildi: Trump yönetimine yargı engeli",
+      "summary": "ABD'li Yargıç Ana C. Reyes, Trump yönetiminin başkent Washington'daki East Potomac Golf Links sahasında sürdürdüğü ağaç kesim işlemlerini durdurdu. Reyes, güzergahı kalıcı değiştirecek çalışmalar için 72 saat önceden bildirim şartı getirirken, yönetimi taleplerini görmezden geldiği için sert bir dille eleştirdi.",
+      "link": "https://www.aksam.com.tr/dunya/golf-sahasi-icin-yuzlerce-yillik-agaclar-kesildi-trump-yonetimine-yargi-engeli/haber-1706286",
+      "published": "2026-10-14T22:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:01:03.295175+00:00"
+    },
+    {
+      "id": "b7b60ffd7cc879df",
+      "source": "Cumhuriyet",
+      "title": "Sağanağın etkisiyle Kağıthane Deresi taşma noktasına geldi",
+      "summary": "İstanbul'da etkili olan sağanak yağış nedeniyle debisi yükselen Kağıthane Deresi taşma noktasına geldi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/saganagin-etkisiyle-kagithane-deresi-tasma-noktasina-geldi-2546898",
+      "published": "2026-10-14T22:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:00:59.011736+00:00"
+    },
+    {
+      "id": "0b384395b42db21c",
+      "source": "Cumhuriyet",
+      "title": "MHP’li ilçe Başkan Yardımcısı hayatını kaybetti: Nedeni belli oldu",
+      "summary": "MHP Gebze İlçe Başkan Yardımcısı Fatih Aksoy, geçirdiği ani kalp krizi sonucu yaşamını yitirdi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/mhp-li-ilce-baskan-yardimcisi-hayatini-kaybetti-nedeni-belli-oldu-2546897",
+      "published": "2026-10-14T21:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:00:59.011769+00:00"
+    },
+    {
+      "id": "1db9e6f7bc821067",
+      "source": "Habertürk",
+      "title": "İsrail'den Lübnan'a saldırı",
+      "summary": "İsrail ordusunun ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyine düzenlediği saldırılarda 1'i çocuk 2 kişi yaralandı.",
+      "link": "https://www.haberturk.com/dunya/israil-den-lubnan-a-saldiri-3919813",
+      "published": "2026-10-14T21:58:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:00:55.899060+00:00"
+    },
+    {
+      "id": "0b837c298c423b1d",
+      "source": "Cumhuriyet",
+      "title": "Bodo/Glimt'ten Borussia Dortmund'a çelme!",
+      "summary": "Bodo/Glimt, UEFA Şampiyonlar Ligi'nin ikinci haftasında kendi sahasında ağırladığı Borussia Dortmund'u 1-0 mağlup etti.",
+      "link": "https://www.cumhuriyet.com.tr/spor/bodo-glimt-ten-borussia-dortmund-a-celme-2546895",
+      "published": "2026-10-14T21:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:00:59.011796+00:00"
+    },
+    {
+      "id": "05868eb440d53862",
+      "source": "Star",
+      "title": "İşte Şampiyonlar Ligi'nde gecenin sonuçları!",
+      "summary": "UEFA Şampiyonlar Ligi'nin 2. haftası, oynanan 9 karşılaşmayla tamamlandı. İşte gecenin sonuçları...",
+      "link": "https://www.star.com.tr/spor/iste-sampiyonlar-liginde-gecenin-sonuclari-haber-2046637/",
+      "published": "2026-10-14T21:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:01:04.153129+00:00"
+    },
     {
       "id": "3233ed14205225a9",
       "source": "Gazete Pencere",
@@ -52,6 +118,17 @@
       "fetched_at": "2026-10-14T21:55:30.716145+00:00"
     },
     {
+      "id": "9a4aac44d8b80aa1",
+      "source": "Habertürk",
+      "title": "34 yıl sonra gelen 6 farklı mağlubiyet!",
+      "summary": "Temsilcimiz Fenerbahçe, UEFA Şampiyonlar Ligi'nde Aston Villa'ya 6-0 mağlup oldu. Sarı-lacivertliler, Devler Ligi'nde 34 yıl aradan sonra ilk kez ağır bir yenilgi aldı. Fenerbahçe son olarak 1992'de oynanan Sigma Olomouc maçını 7-1 kaybetmişti.",
+      "link": "https://www.haberturk.com/spor/foto/fenerbahce-34-yil-aradan-sonra-6-farkli-maglubiyeti-aston-villa-ya-karsi-aldi-1992-de-sigma-olomouc-a-7-1-kaybetmisti-3919811",
+      "published": "2026-10-14T21:51:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:00:55.899095+00:00"
+    },
+    {
       "id": "be1f7a8900b2f325",
       "source": "CNBC-e",
       "title": "53 kentte sağanak alarmı: Turuncu uyarı verilen iller için kritik çağrı",
@@ -63,6 +140,17 @@
       "fetched_at": "2026-10-14T21:55:48.159912+00:00"
     },
     {
+      "id": "ce709fda5f99255e",
+      "source": "Habertürk",
+      "title": "İstanbul'daki sel felaketi için başsağlığı ve geçmiş olsun mesajı",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"İstanbul Fatih'te sağanak yağış sonrası meydana gelen sel ve su baskınlarında hayatını kaybeden evladımıza Allah'tan rahmet, ailesine ve yakınlarına başsağlığı diliyor, il genelinde şiddetli yağıştan etkilenen tüm vatandaşlarımıza geçmiş olsun dileklerimi iletiyorum\" ifadesini kullandı",
+      "link": "https://www.haberturk.com/gundem/yilmaz-dan-istanbul-daki-sel-felaketi-icin-bassagligi-ve-gecmis-olsun-mesaji-3919810",
+      "published": "2026-10-14T21:51:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:00:55.899133+00:00"
+    },
+    {
       "id": "75061da89ff9d94f",
       "source": "Star",
       "title": "Batı Bibi'den ümidi kesti: ABD'li elçi ilk görüşmesini muhalefetle geçekleştirdi",
@@ -72,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T21:55:36.317567+00:00"
+    },
+    {
+      "id": "343a5283191bdb2b",
+      "source": "Habertürk",
+      "title": "\"Maçın hakkı bu değildi!\"",
+      "summary": "UEFA Şampiyonlar Ligi'nin 2. haftasında Fenerbahçe deplasmanda Aston Villa'ya 6-0 mağlup oldu. Sarı-lacivertlilerin teknik direktörü İsmail Kartal, mağlubiyetin ardından açıklamalarda bulundu.",
+      "link": "https://www.haberturk.com/spor/aston-villa-fenerbahce-maci-sonrasi-ismail-kartal-macin-hakki-bu-degildi-3919809",
+      "published": "2026-10-14T21:50:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:00:55.899160+00:00"
     },
     {
       "id": "b2fa8e28148e4309",
@@ -292,6 +391,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T21:40:48.358929+00:00"
+    },
+    {
+      "id": "d00e9ed1efc0e72f",
+      "source": "CNBC-e",
+      "title": "Sağanak alarmı büyüyor: İstanbul'un ardından 4 ilde daha okullar tatil edildi",
+      "summary": "Kocaeli, Sakarya, Yalova ve Zonguldak'ta beklenen şiddetli yağış ve olumsuz hava koşulları nedeniyle 15 Ekim Perşembe günü eğitime bir gün ara verildi. Yalova'da motosiklet ve scooter gibi iki tekerlekli araçların trafiğe çıkışı da yasaklandı.",
+      "link": "https://www.cnbce.com/haberler/saganak-alarmi-buyuyor-istanbulun-ardindan-4-ilde-daha-okullar-tatil-edildi-h39488",
+      "published": "2026-10-14T21:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:01:15.962682+00:00"
     },
     {
       "id": "989233e811dc3121",
@@ -864,6 +974,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T21:20:40.015512+00:00"
+    },
+    {
+      "id": "1843e00cab95f850",
+      "source": "Habertürk",
+      "title": "A101 aktüel ürünler kataloğu 15 Ekim 2026",
+      "summary": "A101 aktüel ürünler kataloğu yayınlandı. 15 Ekim Perşembe günü A101’de elektrikli çocuk motosikleti, oyuncak sesli ışıklı stantlı süpürge, elektrikli 4 tekerlekli kasalı golf arabası indirimde olacak. Dikkat çeken ürünler arasında ATV, Motosiklet, elektrikli ısıtıcı fan da yer aldı. İhtiyaçlarına yönelik alışveriş yapmak isteyenler A101 kataloğunun tamamına erişmek istiyor. İşte, A101 indirimli ür",
+      "link": "https://www.haberturk.com/bilgi/foto/a101-aktuel-urunler-katalogu-15-ekim-2026-atv-motosiklet-elektrikli-isitici-fan-a101-aktuel-urunler-katalogunda-neler-var-3919775",
+      "published": "2026-10-14T21:15:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T22:00:55.899527+00:00"
     },
     {
       "id": "3800d6dbb06d6f1c",
@@ -5385,127 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T19:05:59.049748+00:00"
-    },
-    {
-      "id": "2478163b2c91b08c",
-      "source": "Sabah",
-      "title": "İstanbul’da yollar göle döndü: Bir vatandaş sel sularına kapılmaktan böyle kurtuldu!",
-      "summary": "İstanbul’da etkili olan sağanak hayatı felç etti. Kentin birçok noktasında vatandaşlar zor anlar yaşarken, yollar göle döndü, iş yerleri ve araçlar sular altında kaldı. Öte yandan, Sarıyer’de göle dönen... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/istanbulda-yollar-gole-dondu-bir-vatandas-sel-sularina-kapilmaktan-boyle-kurtuldu-7680787",
-      "published": "2026-10-14T19:00:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:15:39.509028+00:00"
-    },
-    {
-      "id": "47b7fd6d2e39b446",
-      "source": "Cumhuriyet",
-      "title": "Aşk tek başına yetmiyor: İlişkide değerler uyumu neden önemli?",
-      "summary": "Aşk, iki insanı bir araya getiren güçlü bir duygu olsa da uzun süreli ve sağlıklı bir ilişki için tek başına yeterli olmayabilir. Hayata bakış, güven, sadakat, aile, para ve gelecek planları gibi konularda ortak bir zemin bulmak, ilişkinin geleceğini şekillendiren önemli unsurlar arasında yer alıyor.",
-      "link": "https://www.cumhuriyet.com.tr/yasam/ask-tek-basina-yetmiyor-iliskide-degerler-uyumu-neden-onemli-2546836",
-      "published": "2026-10-14T19:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:00:55.467048+00:00"
-    },
-    {
-      "id": "830f53ed596a051a",
-      "source": "Yeni Akit",
-      "title": "TBMM’den kritik finans adımı! Tasfiye edilecek yatırım fonlarına ilişkin kanun teklifi komisyondan geçti!",
-      "summary": "Tasfiye edilecek yatırım fonlarına ilişkin kanun teklifi TBMM Plan ve Bütçe Komisyonu’ndan geçti",
-      "link": "https://www.yeniakit.com.tr/haber/tbmmden-kritik-finans-adimi-tasfiye-edilecek-yatirim-fonlarina-iliskin-kanun-teklifi-komisyondan-gecti-2028210.html",
-      "published": "2026-10-14T19:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:01:01.280034+00:00"
-    },
-    {
-      "id": "6d2816e3a5bca3d9",
-      "source": "Milliyet",
-      "title": "Son dakika... Fon teklifi TBMM Plan ve Bütçe Komisyonu’nda kabul edildi",
-      "summary": "TBMM Plan ve Bütçe Komisyonu’nda Tasfiyesine Karar Verilen Bazı Yatırım Fonlarına İlişkin Kanun Teklifi kabul edildi. Detaylar geliyor...",
-      "link": "https://www.milliyet.com.tr/gundem/son-dakika-fon-teklifi-tbmm-plan-ve-butce-komisyonunda-kabul-edildi-7679765",
-      "published": "2026-10-14T18:59:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:05:34.394510+00:00"
-    },
-    {
-      "id": "0eeef14a12eaf208",
-      "source": "Serbestiyet",
-      "title": "Filistin’e desteğinin bedeli: Ünlü yazar Sally Rooney’nin kitapları İngiltere’de satıştan kaldırılıyor",
-      "summary": "Normal İnsanlar” romanıyla dünya çapında ün kazanan İrlandalı yazar Sally Rooney’nin kitapları, Filistin yanlısı Palestine Action grubuna verdiği destek nedeniyle İngiltere’de artık satılamayacak. Yayınevi, İngiliz terörle mücadele yasalarının Rooney’ye telif ücreti ödemesini engellediğini açıkladı. Filistin’e desteğinin bedeli: Ünlü yazar Sally Rooney’nin kitapları İngiltere’de satıştan kaldırılı",
-      "link": "https://serbestiyet.com/haberler/kultur-sanat/filistine-desteginin-bedeli-unlu-yazar-sally-rooneynin-kitaplari-ingilterede-satistan-kaldiriliyor-251433/",
-      "published": "2026-10-14T18:59:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:01:09.145804+00:00"
-    },
-    {
-      "id": "5e86034726f29c8a",
-      "source": "Yeni Akit",
-      "title": "20 KARGU'luk sürü Ateş Serbest-2026 Tatbikatı'nda hedefleri gerçek mühimmatla imha etti",
-      "summary": "STM'nin 20 KARGU'dan oluşan İHA sürüsü, Ateş Serbest-2026 Tatbikatı'nda tek operatör kontrolünde otonom saldırdı; BOYGA 81 mm mühimmatla tam isabet sağladı.",
-      "link": "https://www.yeniakit.com.tr/haber/20-karguluk-suru-ates-serbest-2026-tatbikatinda-hedefleri-gercek-muhimmatla-imha-etti-2028209.html",
-      "published": "2026-10-14T18:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:01:01.280064+00:00"
-    },
-    {
-      "id": "c596d7a63b9d0e24",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Yemen Başbakanı Zindani: Husilerin Taiz'i kuşatması ve sivilleri hedef alması savaş suçudur",
-      "summary": "Yemen Başbakanı Şayi Muhsin ez-Zindani, Husilerin sivilleri hedef almaya ve Taiz kentini kuşatmaya devam etmesinin zaman aşımına uğramayacak bir \"savaş suçu\" olduğunu belirterek, sorumluların cezasız kalmayacağını vurguladı.",
-      "link": "https://www.aa.com.tr/tr/dunya/yemen-basbakani-zindani-husilerin-taizi-kusatmasi-ve-sivilleri-hedef-almasi-savas-sucudur/4088987",
-      "published": "2026-10-14T18:58:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:20:43.336200+00:00"
-    },
-    {
-      "id": "c9076bd5da9ccbd1",
-      "source": "Gazete Pencere",
-      "title": "'Fon' yasa teklifi Meclis komisyonundan geçti",
-      "summary": "TBMM Plan ve Bütçe Komisyonu’nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi kabul edildi.",
-      "link": "https://www.gazetepencere.com/gundem/fon-yasa-teklifi-meclis-komisyonundan-gecti-719279h",
-      "published": "2026-10-14T18:58:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:01:04.605222+00:00"
-    },
-    {
-      "id": "243b1b5d425e8b9e",
-      "source": "Yeniçağ",
-      "title": "Yatırım fonları için yeni dönem: 1 milyon liraya kadar ara ödeme",
-      "summary": "TBMM Plan ve Bütçe Komisyonu’nda tasfiyesine karar verilen bazı yatırım fonlarına ilişkin kanun teklifi kabul edildi.",
-      "link": "https://www.yenicaggazetesi.com/yatirim-fonlari-icin-yeni-donem-1-milyon-liraya-kadar-ara-odeme-1082252h.htm",
-      "published": "2026-10-14T18:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:20:53.701530+00:00"
-    },
-    {
-      "id": "67f5e24b32fccfba",
-      "source": "Star",
-      "title": "Şampiyonlar Ligi'nde nefes kesen düello! Liverpool'dan 6 gollü galibiyet",
-      "summary": "UEFA Şampiyonlar Ligi'nin 2. haftasında Liverpool, deplasmanda LASK Linz'i 6-3 mağlup etti. İngiliz ekibi, bu sonuçla lig aşamasında ikide iki yaparak puanını 6'ya yükseltti.",
-      "link": "https://www.star.com.tr/spor/sampiyonlar-liginde-nefes-kesen-duello-liverpooldan-6-gollu-galibiyet-haber-2046605/",
-      "published": "2026-10-14T18:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:01:00.729689+00:00"
-    },
-    {
-      "id": "6384046f8e05073c",
-      "source": "Yeniçağ",
-      "title": "Fon düzenlemelerini içeren kanun teklifi komisyondan geçti",
-      "summary": "TBMM Plan ve Bütçe Komisyonu’nda Tasfiyesine Karar Verilen Bazı Yatırım Fonlarına İlişkin Kanun Teklifi kabul edildi.",
-      "link": "https://www.yenicaggazetesi.com/fon-duzenlemelerini-iceren-kanun-teklifi-komisyondan-gecti-1082252h.htm",
-      "published": "2026-10-14T18:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:01:02.836019+00:00"
     }
   ]
 }

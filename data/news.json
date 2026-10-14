@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T02:35:49.730676+00:00",
+  "last_updated": "2026-10-14T02:40:54.620888+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 537,
   "items": [
+    {
+      "id": "d9b5f9919e69f8c9",
+      "source": "Halk TV",
+      "title": "Son Dakika | Polis Halk TV binasında!",
+      "summary": "Son Dakika | Halk TV&#039;nin İstanbul&#039;daki binasına polis ekipleri girdi. Halk TV Yönetim Kurulu Başkanı Cafer Mahiroğlu konuya ilişkin paylaşımında: &quot;Butlan lideri Kılıçdaroglu ve ekibi mutlu olabilir. Polis Halk TV’de&quot; dedi.",
+      "link": "https://halktv.com.tr/turkiye/son-dakika-polis-halk-tv-binasinda-1061570h",
+      "published": "2026-10-14T02:40:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T02:40:41.977365+00:00"
+    },
     {
       "id": "4e4678c07affb655",
       "source": "Milliyet",
@@ -358,6 +369,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T01:05:38.081122+00:00"
+    },
+    {
+      "id": "7d40e144f8c86418",
+      "source": "Yeni Şafak",
+      "title": "TBMM'de sürpriz görüşme",
+      "summary": "",
+      "link": "https://www.yenisafak.com/gundem/tbmmde-surpriz-gorusme-4864110",
+      "published": "2026-10-14T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T02:40:38.941570+00:00"
+    },
+    {
+      "id": "7e3189ea00579628",
+      "source": "Yeni Şafak",
+      "title": "CHP’de aidat iadesi bilmecesi",
+      "summary": "",
+      "link": "https://www.yenisafak.com/gundem/chpde-aidat-iadesi-bilmecesi-4864111",
+      "published": "2026-10-14T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T02:40:38.941591+00:00"
     },
     {
       "id": "439d075aecf66ff3",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T20:40:41.878977+00:00"
-    },
-    {
-      "id": "134d7c5cd50ada10",
-      "source": "Yeniçağ",
-      "title": "Adıyaman'da otomobil şarampole yuvarlandı: 3 kişi yaralandı",
-      "summary": "Adıyaman&#039;ın Kahta ilçesinde sürücüsünün kontrolünden çıkan otomobil şarampole yuvarlandı. Kazada yaralanan 3 kişi hastaneye kaldırıldı.",
-      "link": "https://www.yenicaggazetesi.com/adiyamanda-otomobil-sarampole-yuvarlandi-3-kisi-yaralandi-1081983h.htm",
-      "published": "2026-10-13T20:37:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T20:40:42.261079+00:00"
-    },
-    {
-      "id": "d6163f0ee8a4a01d",
-      "source": "Yeniçağ",
-      "title": "Antalya’da kritik zirve: GKRY lideri Hristodulidis Türkiye’ye geliyor",
-      "summary": "Güney Kıbrıs Rum Yönetimi lideri Nikos Hristodulidis’in 2026 Birleşmiş Milletler İklim Değişikliği Konferansı (COP31) kapsamında Türkiye’yi ziyaret etmesi bekleniyor.",
-      "link": "https://www.yenicaggazetesi.com/antalyada-kritik-zirve-gkry-lideri-hristodulidis-turkiyeye-geliyor-1081982h.htm",
-      "published": "2026-10-13T20:37:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T20:40:42.261118+00:00"
-    },
-    {
-      "id": "fb035e60943d79d3",
-      "source": "Yeni Akit",
-      "title": "İzmir’den korkutan haber! 80 işçi hastanelere başvurdu",
-      "summary": "İzmir’de gıda zehirlenmesi şüphesiyle 80 işçi hastanelere başvurdu. Olayla ilgili soruşturma başlatıldı.",
-      "link": "https://www.yeniakit.com.tr/haber/izmirden-korkutan-haber-80-isci-hastanelere-basvurdu-2028012.html",
-      "published": "2026-10-13T20:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T20:40:41.448580+00:00"
     }
   ]
 }

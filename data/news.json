@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-10-14T23:20:53.030950+00:00",
+  "last_updated": "2026-10-14T23:26:10.465099+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 540,
+  "new_items_this_run": 542,
   "items": [
+    {
+      "id": "375638d6bb7c1381",
+      "source": "Türkiye Gazetesi",
+      "title": "Piraziz’e vefa eseri",
+      "summary": "Giresun’un Piraziz ilçesinde, Enver Yücel’in adını taşıyacak 6 bin 650 metrekarelik kültür merkezinin temeli atıldı. Konferans salonu, sergi alanları ve sanat atölyelerini barındıracak merkez, bölgenin önemli kültür ve kongre alanlarından biri olmayı hedefliyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/pirazize-vefa-eseri-1822786",
+      "published": "2026-10-14T23:25:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:25:31.088822+00:00"
+    },
+    {
+      "id": "ca1c9d45a959d0dd",
+      "source": "Türkiye Gazetesi",
+      "title": "Dördü bir arada...",
+      "summary": "Trabzonlu dördüz kardeşler, farklı mühendislik bölümlerinde eğitim gördükleri İstanbul Teknik Üniversitesinde yeniden buluştu",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/dordu-bir-arada-1822784",
+      "published": "2026-10-14T23:20:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:25:31.088844+00:00"
+    },
+    {
+      "id": "ca1c9d45a959d0dd",
+      "source": "Türkiye Gazetesi",
+      "title": "Dördü bir arada...",
+      "summary": "Trabzonlu dördüz kardeşler, farklı mühendislik bölümlerinde eğitim gördükleri İstanbul Teknik Üniversitesinde yeniden buluştu",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/dordu-bir-arada-1822784",
+      "published": "2026-10-14T23:20:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:25:31.088857+00:00"
+    },
     {
       "id": "bbdc8ad30aa084d6",
       "source": "OdaTV",
@@ -5387,6 +5420,17 @@
       "fetched_at": "2026-10-14T19:55:33.719691+00:00"
     },
     {
+      "id": "b36de69a7d6f45a5",
+      "source": "Karar",
+      "title": "İstanbul'un ardından 5 ilde daha okullar tatil edildi",
+      "summary": "Marmara Bölgesi'nde etkili olan şiddetli sağanak nedeniyle valiliklerden peş peşe tatil kararları geldi. İstanbul'un ardından Yalova, Kocaeli, Sakarya Zonguldak ve Düzce'de eğitim ve öğretime bir gün ara verildiği açıklandı. Olumsuz hava koşulları nedeniyle belirli gruplardaki kamu çalışanları idari izinli sayılırken Yalova'da motosiklet, scooter ve benzeri iki tekerlekli araçların trafiğe çıkışı ",
+      "link": "https://www.karar.com/guncel-haberler/istanbulun-ardindan-yalovada-da-okullar-tatil-edildi-2078445",
+      "published": "2026-10-14T19:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:25:37.096099+00:00"
+    },
+    {
       "id": "19e53a7cbb588b90",
       "source": "Karar",
       "title": "İstanbul'un ardından 4 ilde daha okullar tatil edildi",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T19:55:50.345980+00:00"
-    },
-    {
-      "id": "729f25ba47e8f4b7",
-      "source": "Finans Gündem",
-      "title": "Bej Kitap Raporu: Yükselen petrol fiyatları şirketlerin maliyetlerini artırdı",
-      "summary": "Fed'in Bej Kitap raporuna göre, yükselen petrol fiyatları tüm bölgelerde maliyet baskılarına yansıdı. 12 Fed bölgesinin sekizinde orta düzeyde fiyat artışı görülürken, tüketici harcamaları ve istihdam genel olarak sınırlı değişim gösterdi.",
-      "link": "https://www.finansingundemi.com/haber/bej-kitap-raporu-yukselen-petrol-fiyatlari-sirketlerin-maliyetlerini-artirdi/1911502",
-      "published": "2026-10-14T19:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:55:52.387454+00:00"
-    },
-    {
-      "id": "7227672eaf26d5d7",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İstanbul'da metro, tramvay ve füniküler hatlarında seferler saat 02.00'ye kadar uzatıldı",
-      "summary": "İstanbul'da etkili olan yoğun yağış ve olumsuz hava koşulları nedeniyle bazı metro, tramvay ve füniküler hatlarında seferlerin saat 02.00'ye kadar uzatıldığı bildirildi.",
-      "link": "https://www.aa.com.tr/tr/gundem/istanbulda-metro-tramvay-ve-funikuler-hatlarinda-seferler-saat-0200ye-kadar-uzatildi/4089027",
-      "published": "2026-10-14T19:48:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T20:25:28.738120+00:00"
-    },
-    {
-      "id": "8ca4c289457ed9e4",
-      "source": "Habertürk",
-      "title": "İstanbullulara tedbirli olun çağrısı",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, İstanbul'da etkili olan şiddetli yağışların ardından hasar tespit çalışmalarına başlandığını açıkladı. Meteoroloji Genel Müdürlüğünün 42 il için sarı, 6 il için turuncu kodlu uyarıda bulunduğunu belirten Kurum, vatandaşları dikkatli olmaya çağırdı",
-      "link": "https://www.haberturk.com/gundem/bakan-kurum-istanbul-da-hasar-tespit-calismalarinin-basladigini-duyurdu-3919786",
-      "published": "2026-10-14T19:48:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:55:27.793434+00:00"
-    },
-    {
-      "id": "40d0a86dea817070",
-      "source": "Yeni Akit",
-      "title": "Önce okullar şimdi ise... İstanbul Valiliğinden peş peşe yasak kararları",
-      "summary": "Kent genelinde etkili olan şiddetli sağanak yağış ve fırtına nedeniyle 15 Ekim Perşembe günü eğitime 1 gün ara verildiğini duyuran İstanbul Valiliği'nin yeni kararı doğrultusunda Motosiklet, scooter, ve motokuryelerin de trafiğe çıkışı yasaklandı.",
-      "link": "https://www.yeniakit.com.tr/haber/once-okullar-simdi-ise-istanbul-valiliginden-pes-pese-yasak-kararlari-2028224.html",
-      "published": "2026-10-14T19:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:50:40.770284+00:00"
     }
   ]
 }

@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-10-14T23:06:10.572582+00:00",
+  "last_updated": "2026-10-14T23:11:03.678439+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 548,
+  "new_items_this_run": 545,
   "items": [
+    {
+      "id": "ece7303071eafb46",
+      "source": "Karar",
+      "title": "İstanbul'daki sel felaketinden acı haber: Ayazağa'da 34 yaşındaki kişi hayatını kaybetti",
+      "summary": "İstanbul'da etkili olan şiddetli sağanak yağış, Sarıyer Ayazağa'da can kaybına yol açtı. Sel sularıyla kaplanan yolda karşıya geçmeye çalışan 34 yaşındaki S.Y., ayağının kayması sonucu düşerek başını kaldırıma çarptı. Su birikintisinden çıkamayan ve çevredeki vatandaşlar tarafından kurtarılan S.Y., kaldırıldığı hastanede tüm müdahalelere rağmen hayatını kaybetti.",
+      "link": "https://www.karar.com/guncel-haberler/istanbuldaki-sel-felaketinden-aci-haber-ayazagada-34-yasindaki-kisi-2078460",
+      "published": "2026-10-14T23:09:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:10:43.554035+00:00"
+    },
+    {
+      "id": "35ca9726dc1df7f2",
+      "source": "Türkiye Gazetesi",
+      "title": "ÜNİVERSİTELERDEN DAVET VAR",
+      "summary": "Türkiye’nin matematik, fen ve okumada PISA performansını yükseltmesi, uluslararası üniversitelerin Türk öğrencilere ilgisini artırdı. Oxford, Cambridge, Berkeley ve Cornell’in de aralarında bulunduğu yaklaşık 50 üniversite, Türkiye’de düzenlenecek fuarlarda burs ve finansal destek imkânlarını tanıtacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/oxfordda-berkeleye-dev-universiteler-turkiyeye-geliyor-pisa-yukselisi-kapilari-acti-1822781",
+      "published": "2026-10-14T23:05:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:10:37.666827+00:00"
+    },
+    {
+      "id": "f079591a46b39100",
+      "source": "Türkiye Gazetesi",
+      "title": "Oxford’da Berkeley’e dev üniversiteler Türkiye’ye geliyor",
+      "summary": "Türkiye’nin matematik, fen ve okumada PISA performansını yükseltmesi, uluslararası üniversitelerin Türk öğrencilere ilgisini artırdı. Oxford, Cambridge, Berkeley ve Cornell’in de aralarında bulunduğu yaklaşık 50 üniversite, Türkiye’de düzenlenecek fuarlarda burs ve finansal destek imkânlarını tanıtacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/oxfordda-berkeleye-dev-universiteler-turkiyeye-geliyor-pisa-yukselisi-kapilari-acti-1822781",
+      "published": "2026-10-14T23:05:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:10:37.666853+00:00"
+    },
     {
       "id": "85aad7a2cf57757d",
       "source": "Milliyet",
@@ -28,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T23:05:35.788507+00:00"
+    },
+    {
+      "id": "178a7627f84bea81",
+      "source": "Habertürk",
+      "title": "İstanbul'da metrekareye 242 kilogram yağış düştü",
+      "summary": "İstanbul Büyükşehir Belediyesi (İBB), bugünkü yağışlarda 1985 yılından bu yana kaydedilen en yüksek değerlerden birine ulaşıldığını belirterek, kentin bazı noktalarında metrekareye 242 kilogram yağış düştüğünü bildirdi",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-metrekareye-242-kilogram-yagis-dustu-3919821",
+      "published": "2026-10-14T23:02:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:10:32.449177+00:00"
     },
     {
       "id": "6748bb3751781188",
@@ -4507,6 +4551,17 @@
       "fetched_at": "2026-10-14T20:15:43.537880+00:00"
     },
     {
+      "id": "5a20a4aa1937b2ef",
+      "source": "Sözcü",
+      "title": "İstanbul'da metrolar gece 02.00'a kadar çalışacak",
+      "summary": "İstanbul'da metrolar gece 02.00'a kadar çalışacak",
+      "link": "https://www.sozcu.com.tr/istanbul-da-metrolar-gece-02-00-a-kadar-calisacak-p369232",
+      "published": "2026-10-14T20:13:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T23:10:38.045464+00:00"
+    },
+    {
       "id": "849c3393a9111bbd",
       "source": "Habertürk",
       "title": "3 ilde okullar tatil ilan edildi",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T19:45:46.600621+00:00"
-    },
-    {
-      "id": "10a036243de0cb0e",
-      "source": "Yeniçağ",
-      "title": "Su birikintisi can aldı: Elektrik akımına kapılan çocuk hayatını kaybetti",
-      "summary": "Fatih&#039;te Çukurbostan Parkı&#039;nda su birikintisine basan 14 yaşındaki çocuk, elektrik akımına kapılarak ağır yaralandı. Hastaneye kaldırılan çocuk, tüm müdahalelere rağmen kurtarılamadı.",
-      "link": "https://www.yenicaggazetesi.com/su-birikintisi-can-aldi-elektrik-akimina-kapilan-cocuk-hayatini-kaybetti-1082254h.htm",
-      "published": "2026-10-14T19:45:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:45:44.535254+00:00"
-    },
-    {
-      "id": "e7d9053cd1043189",
-      "source": "Yeni Yaşam",
-      "title": "İstanbul’da su birikintisine basan çocuk elektrik akımına kapılarak hayatını kaybetti",
-      "summary": "İstanbul’da kötü hava koşulları etkisini sürdürüyor. Çukurbostan Parkı’nda14 yaşındaki M.I. isimli çocuk, su birikintisine bastığı anda elektrik akımına kapılarak hayatını kaybetti İstanbul’da sağanak nedeniyle birçok ilçede cadde ve sokakları su bastı, yollar, alt geçitler ve tüneller ulaşıma kapandı. Araçların sel sularına kapıldığı kentte ev ve iş yerlerini su basarken, mahsur kalan yurttaşlar ",
-      "link": "https://yeniyasamgazetesi9.com/istanbulda-su-birikintisine-basan-cocuk-elektrik-akimina-kapilarak-hayatini-kaybetti/",
-      "published": "2026-10-14T19:45:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:45:51.780852+00:00"
-    },
-    {
-      "id": "3121e5e0085f9a0a",
-      "source": "Gazete Pencere",
-      "title": "İstanbul'da metrolara 'sağanak' düzenlemesi: Seferler gece 02.00'ye kadar uzatıldı",
-      "summary": "İstanbul'da sağanak yağışın olumsuz etkileri nedeniyle metrolar gece yarısı saat 02.00'a kadar çalışacak.",
-      "link": "https://www.gazetepencere.com/gundem/istanbulda-metrolara-saganak-duzenlemesi-seferler-gece-00-02ye-kadar-uzatildi-719281h",
-      "published": "2026-10-14T19:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T20:01:05.540738+00:00"
-    },
-    {
-      "id": "72d000754c6bd622",
-      "source": "Habertürk",
-      "title": "9 gollü mücadeleyi Liverpool kazandı!",
-      "summary": "UEFA Şampiyonlar Ligi'nin 2. hafta mücadelesinde LASK Linz ile Liverpool karşı karşıya geldi. 9 gollü müsabakayı İngiliz devi 6-3 kazandı.",
-      "link": "https://www.haberturk.com/spor/lask-linz-3-6-liverpool-mac-sonucu-ozeti-ve-golleri-9-gollu-mucadeleyi-liverpool-kazandi-3919785",
-      "published": "2026-10-14T19:44:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:50:33.237211+00:00"
-    },
-    {
-      "id": "51a736885a88ccc2",
-      "source": "Star",
-      "title": "Fenerbahçe taraftarı, takımını yalnız bırakmadı",
-      "summary": "Fenerbahçeli taraftarlar, UEFA Şampiyonlar Ligi'nde Aston Villa ile oynanan maçta takımlarını yalnız bırakmadı.",
-      "link": "https://www.star.com.tr/spor/fenerbahce-taraftari-takimini-yalniz-birakmadi-haber-2046612/",
-      "published": "2026-10-14T19:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T19:45:43.304342+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-14T03:01:25.758978+00:00",
+  "last_updated": "2026-10-14T03:05:58.542576+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 536,
+  "new_items_this_run": 535,
   "items": [
+    {
+      "id": "f8d2422fe3a63dbd",
+      "source": "Aydınlık",
+      "title": "TRT Geleceğin İletişimcileri Yarışması’nda ödüller verildi",
+      "summary": "TRT’nin 12’ncisini düzenlediği Geleceğin İletişimcileri Yarışması’nın ödül töreni MEB Şura Salonu’nda yapıldı. 15 kategoride düzenlenen yarışmada dereceye giren genç iletişimcilere ödülleri verildi.",
+      "link": "https://www.aydinlik.com.tr/haber/trt-gelecegin-iletisimcileri-yarismasi-odulleri-594369",
+      "published": "2026-10-14T03:01:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-14T03:05:38.928740+00:00"
+    },
     {
       "id": "2ea51699dffb039f",
       "source": "Evrensel",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-13T20:45:40.148353+00:00"
-    },
-    {
-      "id": "c58ef853c573abc5",
-      "source": "Halk TV",
-      "title": "Fransa'da marketler alarmda: Donduruculara ikinci saldırı",
-      "summary": "Fransa&#039;da marketlerin soğutma sistemine yönelik ikinci bir siber saldırı düzenlendi. Bu kez dondurucular -22&#039;den 150 dereceye çıktı.",
-      "link": "https://halktv.com.tr/dunya/fransada-marketler-alarmda-donduruculara-ikinci-saldiri-1061552h",
-      "published": "2026-10-13T20:40:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-13T20:40:44.363622+00:00"
     }
   ]
 }

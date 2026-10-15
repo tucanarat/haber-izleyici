@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T03:41:00.880562+00:00",
+  "last_updated": "2026-10-15T03:45:57.035077+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 534,
   "items": [
+    {
+      "id": "dc304c697e5b6764",
+      "source": "Türkiye Gazetesi",
+      "title": "RAPOR ÇIKACAK GEREKEN YAPILACAK",
+      "summary": "Devlet Denetleme Kurulunda 20 uzman şu anda fon krizini inceliyor. Çıkacak raporda hangi isim yer alırsa alsın gözünün yaşına bakılmayacak. Kurmaylar “Cumhurbaşkanı ‘onun adamı bunun adamı’ demeden gereğini yapmaya kararlı” diyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/ak-partinin-gundeminde-fon-sorusturmasi-var-ddk-aciklayacak-gereken-yapilacak-1822804",
+      "published": "2026-10-15T03:40:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T03:45:34.040306+00:00"
+    },
+    {
+      "id": "96e6943bc50e8b51",
+      "source": "Bloomberg HT",
+      "title": "Altın, doların gerilemesiyle yüzde 1,3 yükseldi",
+      "summary": "Altın, doların zayıflamasıyla perşembe günü yüzde 1'in üzerinde yükselerek önceki seansta gördüğü bir haftanın en düşük seviyesinden toparlandı.",
+      "link": "https://www.bloomberght.com/altin-dolarin-gerilemesiyle-yuzde-1-3-yukseldi-3791403",
+      "published": "2026-10-15T03:37:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T03:45:47.590533+00:00"
+    },
     {
       "id": "c13efb961df7780b",
       "source": "Yeni Akit",
@@ -17,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T03:40:42.708620+00:00"
+    },
+    {
+      "id": "a42a096e674dfde6",
+      "source": "Bloomberg HT",
+      "title": "Petrol, arz riskleri ve yaptırım hafifletme beklentileriyle geriledi",
+      "summary": "Petrol, Hürmüz Boğazı çevresindeki gemilere yönelik saldırıların arz risklerini artırmasına karşın ABD'nin petrol taşımacılığı maliyetlerini düşürmek amacıyla bazı gemilere yönelik yaptırımları hafifletmeyi değerlendirmesiyle perşembe günü erken işlemlerde 1 doların üzerinde geriledi.",
+      "link": "https://www.bloomberght.com/petrol-arz-riskleri-ve-yaptirim-hafifletme-beklentileriyle-geriledi-3791402",
+      "published": "2026-10-15T03:32:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T03:45:47.590555+00:00"
     },
     {
       "id": "0c362866689f9261",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T20:40:41.392847+00:00"
-    },
-    {
-      "id": "f50c41903573f90b",
-      "source": "Yeni Şafak",
-      "title": "Tek katlı ev yangın sonrası yıkıldı",
-      "summary": "Sakarya'nın Akyazı ilçesinde, Cemil B.’ye ait ev çıkan yangın sonrası yıkıldı.",
-      "link": "https://www.yenisafak.com/gundem/tek-katli-ev-yangin-sonrasi-yikildi-4864405",
-      "published": "2026-10-14T20:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T21:30:58.646089+00:00"
-    },
-    {
-      "id": "6a6efab4d5b24faf",
-      "source": "Yeni Akit",
-      "title": "İstanbul’da gece ulaşımına sağanak ayarı!",
-      "summary": "İstanbul’da etkisini sürdüren şiddetli yağış ve olumsuz hava koşulları nedeniyle toplu ulaşımda acil ek önlemler devreye sokuldu. Metro İstanbul tarafından yapılan resmi duyuruda, yoğun yağış nedeniyle vatandaşların mağduriyet yaşamaması ve güvenli ulaşımlarının sağlanması amacıyla kentteki 10 ayrı metro hattı ile bazı tramvay ve füniküler hatlarında sefer saatlerinin gece 02.00’ye kadar uzatıldığ",
-      "link": "https://www.yeniakit.com.tr/haber/istanbulda-gece-ulasimina-saganak-ayari-cok-sayida-hatta-seferler-0200ye-kadar-uzatildi-2028238.html",
-      "published": "2026-10-14T20:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T20:35:40.750786+00:00"
-    },
-    {
-      "id": "53d461042a65fbab",
-      "source": "Akşam",
-      "title": "Manisa'da zincirleme trafik kazası: 1'i ağır 5 yaralı",
-      "summary": "Manisa'nın Kula ilçesinde 3 aracın karıştığı zincirleme trafik kazasında biri ağır olmak üzere 5 kişi yaralandı. Yaralılardan birinin hayati tehlikesinin bulunduğu bildirildi.",
-      "link": "https://www.aksam.com.tr/guncel/manisada-zincirleme-trafik-kazasi-1i-agir-5-yarali/haber-1706266",
-      "published": "2026-10-14T20:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T20:35:39.117865+00:00"
     }
   ]
 }

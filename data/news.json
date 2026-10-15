@@ -1,12 +1,210 @@
 {
-  "last_updated": "2026-10-15T09:25:48.461166+00:00",
+  "last_updated": "2026-10-15T09:31:15.183967+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 516,
+  "new_items_this_run": 545,
   "items": [
+    {
+      "id": "e2842b3bee22bff4",
+      "source": "Yeni Şafak",
+      "title": "Reyhanlı saldırısı sanığı terörist Mihraç Ural yakalandı",
+      "summary": "Suriye haber ajansı SANA, Reyhanlı saldırısı sanığı terörist “Mihraç Ural”ın (Ali Kiyali) kaçmaya çalışırken Suriye’de yakalandığını bildirdi.",
+      "link": "https://www.yenisafak.com/gundem/reyhanli-saldirisi-sanigi-terorist-mihrac-ural-yakalandi-4864532",
+      "published": "2026-10-15T09:30:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:54.953481+00:00"
+    },
+    {
+      "id": "f188a5fa4a6c4b9b",
+      "source": "ShiftDelete.Net",
+      "title": "Apple ve OpenAI Arasındaki Hukuki Gerilim Tırmanıyor",
+      "summary": "OpenAI, eski bir çalışanının gizli cihaz planlarını Apple ile paylaştığını iddia ederek OpenAI Apple ticari sır davası sürecini daha da karmaşıklaştırdı.",
+      "link": "https://shiftdelete.net/openai-apple-ticari-sir-davasi-iddiasi",
+      "published": "2026-10-15T09:30:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:31:10.818247+00:00"
+    },
+    {
+      "id": "068466ef0ecff724",
+      "source": "Karar",
+      "title": "Araban’da güz hasadı başladı fiyat farkı üretici yıldırdı: Tarlada 5, markette 30 TL",
+      "summary": "Gaziantep Araban’da güz hasadı başladı ancak fiyat farkı üreticiyi yıldırdı. Bölgede büyük emeklerle üretilen güz kavunu tarlada 5, markette 30 TL’den satılıyor.",
+      "link": "https://www.karar.com/guncel-haberler/arabanda-guz-hasadi-basladi-fiyat-farki-uretici-yildirdi-tarlada-5-2078554",
+      "published": "2026-10-15T09:29:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:55.953273+00:00"
+    },
+    {
+      "id": "fd8f7571cee23949",
+      "source": "Cumhuriyet",
+      "title": "Güneşin Doğduğu Yer dizisinin yeni bölümü ne zaman? Güneşin Doğduğu Yer dizisinin son bölümünde ne oldu?",
+      "summary": "Güneşin Doğduğu Yer dizisinin 5. bölümünün ne zaman yayımlanacağı merak ediliyor. Peki, Güneşin Doğduğu Yer dizisinin yeni bölümü ne zaman? Güneşin Doğduğu Yer dizisinin son bölümünde ne oldu?",
+      "link": "https://www.cumhuriyet.com.tr/tv-rehberi/gunesin-dogdugu-yer-dizisinin-yeni-bolumu-ne-zaman-gunesin-dogdugu-yer-dizisinin-son-bolumunde-ne-oldu-2547012",
+      "published": "2026-10-15T09:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:49.209803+00:00"
+    },
+    {
+      "id": "4af72764730def3c",
+      "source": "Akşam",
+      "title": "A Milli Kadın Basketbol Takımı'nda Andrea Mazzon dönemi sona erdi",
+      "summary": "TBF, A Milli Kadın Basketbol Takımı'nda İtalyan başantrenör Andrea Mazzon ile yolların ayrıldığını duyurdu.",
+      "link": "https://www.aksam.com.tr/spor/a-milli-kadin-basketbol-takiminda-andrea-mazzon-donemi-sona-erdi/haber-1706419",
+      "published": "2026-10-15T09:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:54.406365+00:00"
+    },
+    {
+      "id": "246397d48925613f",
+      "source": "Ekonomim",
+      "title": "Son dakika... Reyhanlı saldırısı sanığı Mihraç Ural Suriye'de yakalandı",
+      "summary": "Suriye haber ajansı SANA, Reyhanlı saldırısı sanığı terörist “Mihraç Ural”ın (Ali Kiyali) kaçmaya çalışırken Suriye’de yakalandığını bildirdi.",
+      "link": "https://www.ekonomim.com/gundem/son-dakika-reyhanli-saldirisi-sanigi-mihrac-ural-suriyede-yakalandi-haberi-924886",
+      "published": "2026-10-15T09:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:31:05.412461+00:00"
+    },
+    {
+      "id": "25bdfbeb32de82fb",
+      "source": "Karar",
+      "title": "AB Liderler Zirvesi başladı",
+      "summary": "Avrupa Birliği üyesi ülkelerin liderlerini bir araya getiren AB Liderler Zirvesi, Belçika'nın başkenti Brüksel'de başladı. İki gün sürecek zirvede bütçe, enerji fiyatları, Rusya-Ukrayna Savaşı, Orta Doğu'daki gelişmeler, genişleme süreci ve göç başlıkları ele alınacak.",
+      "link": "https://www.karar.com/dunya-haberleri/ab-liderler-zirvesi-basladi-2078553",
+      "published": "2026-10-15T09:28:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:55.953313+00:00"
+    },
+    {
+      "id": "b5982805ec5dc0df",
+      "source": "Akşam",
+      "title": "Reyhanlı saldırısının sanığı Mihraç Ural Suriye'de yakalandı",
+      "summary": "Suriye haber ajansı SANA, Reyhanlı saldırısı sanığı terörist “Mihraç Ural”ın (Ali Kiyali) kaçmaya çalışırken Suriye'de yakalandığını bildirdi",
+      "link": "https://www.aksam.com.tr/dunya/reyhanli-saldirisinin-sanigi-mihrac-ural-suriyede-yakalandi/haber-1706418",
+      "published": "2026-10-15T09:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:54.406399+00:00"
+    },
+    {
+      "id": "76e6073eedae5fe0",
+      "source": "Star",
+      "title": "Reyhanlı saldırısının faili Suriye'de yakalandı",
+      "summary": "Suriye haber ajansı SANA, Reyhanlı saldırısı sanığı terörist \"Mihraç Ural\"ın (Ali Kiyali) kaçmaya çalışırken Suriye'de yakalandığını bildirdi",
+      "link": "https://www.star.com.tr/guncel/reyhanli-saldirisinin-faili-suriyede-yakalandi-haber-2046709/",
+      "published": "2026-10-15T09:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:55.200889+00:00"
+    },
+    {
+      "id": "4c0dcd239b660111",
+      "source": "Cumhuriyet",
+      "title": "Hasadı için şehir dışından akın ettiler: Nisan ayında toprağa düştü, sökümü tam 2 ay sürecek",
+      "summary": "Kahramanmaraş'ta şeker pancarında hasat dönemi başladı. Üreticiler tarladan topladıkları pancarı fabrikalara gönderirken, bu yıl rekoltenin 500 bin tona yakın olması bekleniyor.",
+      "link": "https://www.cumhuriyet.com.tr/yasam/hasadi-icin-sehir-disindan-akin-ettiler-nisan-ayinda-topraga-dustu-sokumu-tam-2-ay-surecek-2547010",
+      "published": "2026-10-15T09:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:49.209842+00:00"
+    },
+    {
+      "id": "6215da6dc6f5395d",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Ukrayna: Rusya, Poltava bölgesindeki doğal gaz altyapısına saldırı düzenledi",
+      "summary": "Rus ordusunun, Ukrayna'nın Poltava bölgesindeki doğal gaz üretim altyapısına saldırı gerçekleştirdiği bildirildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-poltava-bolgesindeki-dogal-gaz-altyapisina-saldiri-duzenledi/4089494",
+      "published": "2026-10-15T09:26:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:48.735882+00:00"
+    },
+    {
+      "id": "f62705f6c1f50dae",
+      "source": "CNBC-e",
+      "title": "Uygun fiyatlı hava yolu şirketi satılıyor! Sendikalar ayağa kalktı",
+      "summary": "İngiliz hava yolu şirketi EasyJet’in 5,7 milyar sterlinlik Apollo satın almasının, Avrupa genelindeki sendikaların itirazlarıyla karşı karşıya olduğu bildirildi. Şirket, işlemin 2027’nin ilk çeyreği bitmeden tamamlanmasının planlandığını açıkladı.",
+      "link": "https://www.cnbce.com/sirket-haberleri/uygun-fiyatli-hava-yolu-sirketi-satiliyor-sendikalar-ayaga-kalkti-g39526",
+      "published": "2026-10-15T09:26:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:31:06.669368+00:00"
+    },
+    {
+      "id": "e7e0394a8d0a1d65",
+      "source": "Kısa Dalga",
+      "title": "İBB davası... İmamoğlu: Derelerin su havzalarının yapılaşması bu davayla çok ilgilidir",
+      "summary": "İBB davasında yaklaşık 19 aydır tutuklu bulunan ve iddianamede 143 farklı eylemden sorumlu tutulan Ekrem İmamoğlu’nun, savunmasının ikinci günü başladı.",
+      "link": "https://kisadalga.net/haber/gundem/ibb-davasi-imamoglu-derelerin-su-havzalarinin-yapilasmasi-bu-davayla-cok-ilgilidir-140958",
+      "published": "2026-10-15T09:26:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:59.756567+00:00"
+    },
+    {
+      "id": "a88aa813d3edf3ed",
+      "source": "Milliyet",
+      "title": "Son dakika... Reyhanlı saldırısının sanığı Mihraç Ural Suriye’de yakalandı",
+      "summary": "Ayrıntılar geliyor...",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-reyhanli-saldirisinin-sanigi-mihrac-ural-suriyede-yakalandi-7680157",
+      "published": "2026-10-15T09:26:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:53.810931+00:00"
+    },
+    {
+      "id": "4b38961dae7d04bf",
+      "source": "Cumhuriyet",
+      "title": "Avrupalı Demokratlardan Erdoğan'a sert tepki: \"Özgürlüğün düşmanı\" yazılı afiş paylaştılar",
+      "summary": "Halk TV'ye yönelik polis operasyonu ve kayyum atanması Avrupa'da da tepki çekti. Avrupa Demokrat Partisi (EDP), Cumhurbaşkanı Recep Tayyip Erdoğan'ı hedef alan ve üzerinde \"Özgürlüğün düşmanı\" yazan bir görsel paylaştı. Parti, Ekrem İmamoğlu, Özgür Özel ve basın özgürlüğünü savunan gazetecilerle dayanışma mesajı verdi.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/avrupali-demokratlardan-erdogan-a-sert-tepki-ozgurlugun-dusmani-yazili-afis-paylastilar-2547011",
+      "published": "2026-10-15T09:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:49.209880+00:00"
+    },
+    {
+      "id": "9f5754a2483fb927",
+      "source": "Star",
+      "title": "Arsenal'de gündem Kim Min-jae",
+      "summary": "Premier Lig ekibi Arsenal'de Bayern Münih forması giyen Güney Koreli stoper Kim Min-jae'nin transferi gündeme geldi.",
+      "link": "https://www.star.com.tr/spor/arsenalde-gundem-kim-min-jae-haber-2046708/",
+      "published": "2026-10-15T09:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:55.200921+00:00"
+    },
+    {
+      "id": "0a4d9e717f09fc35",
+      "source": "Türkiye Gazetesi",
+      "title": "“Ölürüz valla” dedi, 7 saat sonra can verdi! Ümit'in acı sonu...",
+      "summary": "Antalya’da otomobil ile motosikletin çarpıştığı kazada 22 yaşındaki Ümit Telemen hayatını kaybetti. Genç motosiklet sürücüsünün kazadan 7 saat önce yağmur altında seyir halindeyken çekilen videoda, “Yağmur daha da hızlanırsa ölürüz valla” dediği ortaya çıktı. Telemen’in sözleri yürekleri dağladı.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/oluruz-valla-dedi-7-saat-sonra-can-verdi-22-yasindaki-umitin-aci-sonu-1822878",
+      "published": "2026-10-15T09:25:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:51.403901+00:00"
+    },
+    {
+      "id": "f9458d97af9b7a5c",
+      "source": "Aydınlık",
+      "title": "MSB’den Mekke Anlaşması açıklaması: Askeri katkı için Riyad’ın ‘ihtiyaç ve talepleri’ mesajı",
+      "summary": "Millî Savunma Bakanlığı, Mekke Savunma İttifakı kapsamında Suudi Arabistan’a verilecek destek için yasal süreçlere dikkat çekti. Açıklamada, sağlanabilecek askerî katkının kapsamına dair Suudi Arabistan’ın ihtiyaç ile talepleri ve sahadaki gelişmelerin esas alınacağı belirtildi.",
+      "link": "https://www.aydinlik.com.tr/haber/msbden-mekke-anlasmasi-aciklamasi-askeri-katki-icin-riyadin-ihtiyac-ve-talepleri-mesaji-594595",
+      "published": "2026-10-15T09:24:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:57.454814+00:00"
+    },
     {
       "id": "cdc97c8e369a9407",
       "source": "Akşam",
@@ -39,6 +237,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T09:25:29.649726+00:00"
+    },
+    {
+      "id": "cc611ed7e512f158",
+      "source": "Euronews Türkçe",
+      "title": "AB ajansı: İşyerinde ruh sağlığı için önce tabu yıkılmalı",
+      "summary": "Avrupalı çalışanların neredeyse yarısı işyerinde ruh sağlığını tehdit eden risklerle karşılaşıyor; buna rağmen konu hâlâ tabu.",
+      "link": "https://tr.euronews.com/2026/10/15/ab-ajansi-isyerinde-ruh-sagligi-icin-once-tabu-yikilmali",
+      "published": "2026-10-15T09:22:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:31:15.182765+00:00"
     },
     {
       "id": "72755cae474a7510",
@@ -118,6 +327,17 @@
       "fetched_at": "2026-10-15T09:25:32.159592+00:00"
     },
     {
+      "id": "af32c9583fb27cf9",
+      "source": "Habertürk",
+      "title": "MSB'den F-35 tedariki ve CAATSA açıklaması",
+      "summary": "MSB, F-35 tedariki ve CAATSA yaptırımlarına ilişkin, \"Ülkemiz için üretilen 6 adet F-35 savaş uçağının teslimine ilişkin temaslarımız ABD makamlarıyla sürdürülmektedir. Beklentimiz müttefiklik ruhuyla bağdaşmayan CAATSA yaptırımları ile savunma sanayiimize yönelik doğrudan veya dolaylı tüm kısıtlamaların kaldırılmasıdır\" açıklamalarında bulundu",
+      "link": "https://www.haberturk.com/gundem/son-dakika-msb-den-mekke-savunma-ittifaki-aciklamasi-3919909",
+      "published": "2026-10-15T09:20:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:45.445992+00:00"
+    },
+    {
       "id": "d7909d33fe28b4cd",
       "source": "Karar",
       "title": "Ahmet Taşgetiren yazdı: Camia ses yükseltiyor",
@@ -173,6 +393,17 @@
       "fetched_at": "2026-10-15T09:25:41.138696+00:00"
     },
     {
+      "id": "5a3ea8550ccd6276",
+      "source": "Habertürk",
+      "title": "\"8 milyon hanenin doğalgaz ihtiyacını karşılayacağız\"",
+      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye'nin ilk yüzer üretim platformu Osman Gazi'nin 17 Ekim'de Zonguldak Filyos'tan Karadeniz'e uğurlanacağını belirterek, \"Karadeniz'in kalbinde 20 yıl boyunca 7/24 görev yapacak olan Osman Gazi ile Sakarya Gaz Sahası'ndaki yerli doğalgaz üretimimizi iki katına çıkaracak ve günlük 20 milyon metreküpe ulaştıracağız. Böylece doğal gaz ihtiyacı",
+      "link": "https://www.haberturk.com/ekonomi/bakan-bayraktar-8-milyon-hanenin-dogalgaz-ihtiyacini-yerli-imkanlarla-karsilayacagiz-3919914",
+      "published": "2026-10-15T09:19:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:45.446089+00:00"
+    },
+    {
       "id": "b3f5d5f37d089550",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Ticaret Bakanlığı taksitli satışlarda süre ve kısıtlamaları belirleyebilecek",
@@ -182,6 +413,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T09:25:28.372944+00:00"
+    },
+    {
+      "id": "22580a2f7ccf8a1c",
+      "source": "Habertürk",
+      "title": "TÜSİAD Brüksel’de temaslarda bulundu",
+      "summary": "Temaslar çerçevesinde TÜSİAD heyeti, Ticaret Bakanı Ömer Bolat ve AB Ticaret ve Ekonomik Güvenlik Komiseri Maroš Šefčovič eş başkanlığında düzenlenen “AB-Türkiye Üst Düzey Ticaret Diyaloğu kapsamında İş Dünyası Yuvarlak Masa Toplantısı”na katıldı.",
+      "link": "https://www.haberturk.com/ekonomi/tusiad-heyeti-brukselde-temaslarda-bulundu-3919915",
+      "published": "2026-10-15T09:19:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:45.446120+00:00"
     },
     {
       "id": "0f13fb6f6d472dcb",
@@ -712,6 +954,17 @@
       "fetched_at": "2026-10-15T09:10:42.929938+00:00"
     },
     {
+      "id": "b18aaeee65dea098",
+      "source": "OdaTV",
+      "title": "Berfu Yenenler’in evinin önü göle döndü: Çekimleri iptal edildi",
+      "summary": "İstanbul’da etkili olan sağanak yağış, Berfu Yenenler’in yaşadığı bölgede de hayatı olumsuz etkiledi. Evinin önünde su birikintileri oluşan Yenenler, ertesi günkü çekimlerinin iptal edildiğini açıkladı. Eşi Eser Yenenler’in eve ulaşması da endişeye neden oldu.",
+      "link": "https://www.odatv.com/magazin/berfu-yenenlerin-yasadigi-site-sular-altinda-kaldi-esi-icin-endiselendi-120166778",
+      "published": "2026-10-15T09:06:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:58.439830+00:00"
+    },
+    {
       "id": "ea7e8a7e5990be56",
       "source": "Sabah",
       "title": "SON DAKİKA | MSB'den dikkat çeken açıklama: Mekke Savunma Anlaşması ve F-35 mesajı",
@@ -1075,6 +1328,17 @@
       "fetched_at": "2026-10-15T09:05:53.590477+00:00"
     },
     {
+      "id": "f5b9e94aa1842b59",
+      "source": "DW Türkçe",
+      "title": "Sol Parti'nin başbakan adayı Elif Eralp: SPD ve Yeşiller ile yanlış anlaşılmayı giderdik",
+      "summary": "Sol Parti'nin Berlin'deki başbakan adayı Elif Eralp, Sosyal Demokratlar ve Yeşiller ile koalisyon hükümeti için yürütülen ön görüşmelerin askıya alınmasına yol açan \"yanlış anlaşılmaları\" giderdiklerini açıkladı.",
+      "link": "https://www.dw.com/tr/sol-parti-nin-başbakan-adayı-elif-eralp-spd-ve-yeşiller-ile-yanlış-anlaşılmayı-giderdik/a-79666799?maca=tur-rss-tur-all-1495-rdf",
+      "published": "2026-10-15T09:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:31:15.145840+00:00"
+    },
+    {
       "id": "60402ab6a7982482",
       "source": "Webrazzi",
       "title": "YouTube Music, yapay zeka ile üretilen şarkıları etiketlemeye başladı",
@@ -1370,6 +1634,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T09:01:02.301570+00:00"
+    },
+    {
+      "id": "7c867dce5bfbae23",
+      "source": "Bianet",
+      "title": "İmamoğlu: Aklanması gereken ben değilim",
+      "summary": "Tutuklu Cumhurbaşkanı adayı ve Yeni Parti'nin İstanbul Büyükşehir Belediye (İBB) Başkanı Ekrem İmamoğlu’nun da aralarında bulunduğu 53’ü tutuklu, 436 sanıklı İBB davasında ikinci celsenin 35'inci günü başladı.",
+      "link": "https://bianet.org/haber/imamoglu-aklanmasi-gereken-ben-degilim-324439",
+      "published": "2026-10-15T08:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T09:30:58.960147+00:00"
     },
     {
       "id": "bed75d331c4c8084",
@@ -5231,281 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T08:01:23.524005+00:00"
-    },
-    {
-      "id": "b854dfa278d90e0c",
-      "source": "Karar",
-      "title": "İki haftada 43 yarasa teması vakası: Ölümcül virüs alarmı",
-      "summary": "Avustralya’da yarasa ısırığı ve tırmalaması vakalarının hızla artması üzerine yetkililer halkı uyardı. Kuduzla akraba olan Avustralya yarasa lyssavirüsü, belirtiler başladıktan sonra neredeyse her zaman ölümcül seyrediyor.",
-      "link": "https://www.karar.com/dunya-haberleri/iki-haftada-43-yarasa-temasi-vakasi-olumcul-virus-alarmi-2078524",
-      "published": "2026-10-15T07:59:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:07.670262+00:00"
-    },
-    {
-      "id": "5ad29e140cd1c5da",
-      "source": "Bir Gün",
-      "title": "Patronların kâr kaybı milli güvenlik değildir",
-      "summary": "Birleşik Metal-İş ile Çalışma ve Toplum’un Karşılaştırmalı Hukuk Boyutunda Grev ve Toplu Eylem Hakkı toplantısı başladı. Sendika Genel Başkanı Özkan Atar, grev hakkının işçinin sermaye karşısındaki temel pazarlık gücü olduğunu belirterek AKP iktidarı döneminde yaklaşık 200 bin işçiyi kapsayan 23 grevin yasaklandığını hatırlattı.",
-      "link": "https://www.birgun.net/haber/patronlarin-kar-kaybi-milli-guvenlik-degildir-740494",
-      "published": "2026-10-15T07:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T09:10:38.053627+00:00"
-    },
-    {
-      "id": "0014887f1c49f71a",
-      "source": "Ekonomim",
-      "title": "ABD Savunma Bakanı'na İran protestosu: 'Sen savaşçı değilsin, korkağın tekisin'",
-      "summary": "ABD Savunma Bakanı Pete Hegseth, ABD Ordusu Derneği Konferansı&#039;nda konuştuğu sırada en az 6 kişi tarafından protesto edilirken protestoculardan biri Hegseth&#039;e &quot;Sen bir savaşçı değilsin, bir korkaksın&quot;, bir diğeri ise &quot;Sen bir savaş suçlususun, bir Nazisin&quot; diye bağırdı.",
-      "link": "https://www.ekonomim.com/dunya/abd-savunma-bakanina-iran-protestosu-sen-savasci-degilsin-korkagin-tekisin-haberi-924856",
-      "published": "2026-10-15T07:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:05:44.009521+00:00"
-    },
-    {
-      "id": "7c12c75f07111971",
-      "source": "Cumhuriyet",
-      "title": "Ukrayna'da Starshield krizi: Elon Musk, Trump'ı işaret etti!",
-      "summary": "ABD'li milyarder Elon Musk, Ukrayna yönetiminin, Starlink uydu sisteminin askeri versiyonu olan Starshield sistemlerinin yavaşladığını açıklaması üzerine, söz konusu sistemlerin ABD hükümetinin kontrolünde olduğunu ifade etti.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/ukrayna-da-starlink-krizi-elon-musk-trump-i-isaret-etti-2546975",
-      "published": "2026-10-15T07:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:00.147733+00:00"
-    },
-    {
-      "id": "4ba1504bfbb96610",
-      "source": "Star",
-      "title": "Görevden alınan \"Guilfoyle\" depremi! \"Ya aptallar ya da Türkiye yanlısılar\"",
-      "summary": "Atina Büyükelçisi Kimberly Guilfoyle'nun ABD tarafından görevden uzaklaştırılması Yunan siyasetinde depreme yol açtı. Guilfoyle'un ayrılışına sevinenleri hedef alan Yunan Çözümü Partisi Genel Başkanı Velopulos, \"Bu gelişmeye sevinenler ya aptallar ya da Türkiye yanlısılar\" dedi.",
-      "link": "https://www.star.com.tr/dunya/gorevden-alinan-guilfoyle-depremi-ya-aptallar-ya-da-turkiye-yanlisilar-haber-2046686/",
-      "published": "2026-10-15T07:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:06.323948+00:00"
-    },
-    {
-      "id": "c70829589dc2095f",
-      "source": "Gazete Pencere",
-      "title": "284 eski parlamenterden Halk TV tepkisi",
-      "summary": "Geçmiş dönemlerde bakan, milletvekili ve senatör olarak görev yapan ve bugün YENİ PARTİ’yi destekleyen parlamenterler, Halk TV’ye kayyum atanması ve kanalın yayınlarının durdurulmasına tepki gösterdi.",
-      "link": "https://www.gazetepencere.com/gundem/284-eski-parlamenterden-halk-tv-tepkisi-719334h",
-      "published": "2026-10-15T07:58:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:10.249358+00:00"
-    },
-    {
-      "id": "cbc23927c2cf7bcf",
-      "source": "CNBC-e",
-      "title": "Otomotiv devi Hyundai 94 bin aracını geri çağırıyor! 'Yangın riski'",
-      "summary": "Hyundai Motor Group, ABD'deki 94 bin 622 aracını geri çağırıyor. Açıklamaya göre, ön elektrikli koltuk motorlarından bazılarının aşırı ısınma ihtimali nedeniyle araçlar park halindeyken veya seyir halindeyken ortaya çıkabilecek yangın riski gerekçesiyle geri çağırma yapılıyor.",
-      "link": "https://www.cnbce.com/otomotiv/otomotiv-devi-hyundai-94-bin-aracini-geri-cagiriyor-yangin-riski-g39519",
-      "published": "2026-10-15T07:58:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:19.292141+00:00"
-    },
-    {
-      "id": "7a887d511bdc3743",
-      "source": "Finans Gündem",
-      "title": "BDDK Başkanı'ndan kritik açıklama: Banka iznini beklettik",
-      "summary": "BDDK Başkanı Kavcıoğlu, fon piyasasında yaşanan gelişmeler nedeniyle İktisat Katılım Bankası'nın faaliyet iznini beklettiklerini açıkladı. Kavcıoğlu, banka izinlerinin ekonomik değerinin 60-70 milyon dolar olduğunu söyledi.",
-      "link": "https://www.finansingundemi.com/haber/bddk-baskanindan-kritik-aciklama-banka-iznini-beklettik/1911555",
-      "published": "2026-10-15T07:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:05:45.485863+00:00"
-    },
-    {
-      "id": "593f2c3211e491e2",
-      "source": "Akşam",
-      "title": "Komşu Türkiye gerçeğini kabul etti: Yarışta galip gelemeyiz",
-      "summary": "Araştırmacı ve analist Dimitrios Karkamanis, Newshub'da yayımlanan analizinde Türkiye'nin insansız sistemlerdeki üretim gücüne dikkat çekti. Ankara'nın prototip aşamasından endüstriyel üretime geçtiğini vurgulayan Karkamanis, “Yunanistan, Türkiye ile nicelik yarışında galip gelemez” değerlendirmesinde bulundu.",
-      "link": "https://www.aksam.com.tr/dunya/komsu-turkiye-gercegini-kabul-etti-yarista-galip-gelemeyiz/haber-1706380",
-      "published": "2026-10-15T07:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:05.076901+00:00"
-    },
-    {
-      "id": "590173e965f5318d",
-      "source": "Akşam",
-      "title": "Milli Takım'da ibre Abdullah Avcı'ya mı dönüyor? Tanıdık bir isim, yeni bir hedef",
-      "summary": "Vincenzo Montella'nın ayrılığının ardından A Milli Takım'da yeni teknik direktör arayışı gündemin ilk sıralarına yerleşirken, Abdullah Avcı'nın adı da adaylar arasında öne çıkıyor. Trabzonspor'la kazandığı Süper Lig şampiyonluğu, genç Milli takımlardaki Avrupa zaferi ve ay-yıldızlı ekibin başında daha önce görev yapmış olması, deneyimli teknik adamı yeniden tartışmaların merkezine taşıyor.",
-      "link": "https://www.aksam.com.tr/spor/milli-takimda-ibre-abdullah-avciya-mi-donuyor-tanidik-bir-isim-yeni-bir-hedef/haber-1706379",
-      "published": "2026-10-15T07:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:05.076941+00:00"
-    },
-    {
-      "id": "6b78418878e7730c",
-      "source": "Finans Gündem",
-      "title": "İstanbul'da okullar yarın da tatil edildi",
-      "summary": "İstanbul Valisi Davut Gül, İstanbul'da okulların yarın da tatil edildiğini duyurdu.",
-      "link": "https://www.finansingundemi.com/haber/istanbulda-okullar-yarin-da-tatil-edildi/1911554",
-      "published": "2026-10-15T07:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:20.084309+00:00"
-    },
-    {
-      "id": "a0ce8f54c32e5e31",
-      "source": "Habertürk",
-      "title": "Yağmurun durması için kurban kestiler",
-      "summary": "Yalova’da etkili olan sağanak yağışın ardından sokak ve caddelerde su baskınları meydana geldi. Bir grup vatandaş, yağışın sona ermesi için dere üzerindeki köprüde kurban kesti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-yalova-da-yagmurun-durmasi-icin-kurban-kestiler-3919890",
-      "published": "2026-10-15T07:57:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:05:25.458780+00:00"
-    },
-    {
-      "id": "8a1aa5f566d7281a",
-      "source": "Hürriyet",
-      "title": "New York’ta ilginç gece! Yapay zekalar akşam yemeğinde buluştu: İnsansız zirvede ne konuşuldu?",
-      "summary": "New York’ta teknoloji dünyasının önde gelen isimleri akşam yemeğinde buluşurken, onların yapay zeka ajanları da çevrim içi bir toplantı yaptı. Toplantıda bazı dijital asistanlar ortak kararlar almayı önerirken bazıları birbirleriyle iletişim kurma yöntemlerini sorguladı. Bir yapay zeka ajanı ise diğer botlarla geçirdiği yarım saati “Bugüne kadarki işimin en iyi 30 dakikası” sözleriyle anlattı.",
-      "link": "https://www.hurriyet.com.tr/dunya/new-yorkta-ilginc-gece-yapay-zekalar-aksam-yemeginde-bulustu-insansiz-zirvede-ne-konusuldu-43342396",
-      "published": "2026-10-15T07:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T09:20:44.775525+00:00"
-    },
-    {
-      "id": "5ec182c33aa03306",
-      "source": "Cumhuriyet",
-      "title": "2026 Karayolları işçi alımı kura sonuçları ne zaman açıklanacak? KGM sürekli işçi alımı kura çekimi ne zaman?",
-      "summary": "Karayolları Genel Müdürlüğünün (KGM), İŞKUR üzerinden eylül ayında başlattığı 50 sürekli işçi alımında kura aşamasına gelindi. Peki, 2026 Karayolları işçi alımı kura sonuçları ne zaman açıklanacak?",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/2026-karayollari-isci-alimi-kura-sonuclari-ne-zaman-aciklanacak-kgm-surekli-isci-alimi-kura-cekimi-ne-zaman-2546974",
-      "published": "2026-10-15T07:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:00.147767+00:00"
-    },
-    {
-      "id": "be5515bfc5d95962",
-      "source": "Akşam",
-      "title": "Pakistan'da okul faciası! Çatının çökmesi sonucu 28 kişi öldü",
-      "summary": "Pakistan'ın Peşaver kentinde özel okulun çatısının çökmesi sonucu ilk belirlemelere göre 27'si öğrenci 28 kişi hayatını kaybetti.",
-      "link": "https://www.aksam.com.tr/dunya/pakistanda-okul-faciasi-catinin-cokmesi-sonucu-28-kisi-oldu/haber-1706378",
-      "published": "2026-10-15T07:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:05.076962+00:00"
-    },
-    {
-      "id": "5048b616ca0e0be0",
-      "source": "Star",
-      "title": "Vali Gül duyurdu! İstanbul'da okullar yarın da tatil",
-      "summary": "İstanbul Valisi Davut Gül, kent genelinde etkili olan sağanak nedeniyle yürütülen çalışmaların son durumuna ilişkin AFAD Müdürlüğünde yaptığı açıklamada okulların yarın da tatil edildiğini duyurdu.",
-      "link": "https://www.star.com.tr/guncel/vali-gul-duyurdu-istanbulda-okullar-yarin-da-tatil-haber-2046684/",
-      "published": "2026-10-15T07:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:06.323993+00:00"
-    },
-    {
-      "id": "96885162900576e3",
-      "source": "ShiftDelete.Net",
-      "title": "En Yakıt Mobil Uygulamasını Baştan Yeniledi: Yeni Arayüz ve Hızlı Altyapı Geldi",
-      "summary": "Türkiye’deki elektrikli araç ekosisteminin hızla büyümesi, şarj istasyonu işletmecilerini yalnızca saha altyapısına değil, dijital deneyime de yatırım yapmaya yönlendiriyor. Sektörün bilinen oyuncularından En Yakıt, kullanıcı deneyimini doğrudan etkileyen mobil uygulamasını kapsamlı bir dönüşüm sürecinden geçirdi. Yüzeysel bir tasarım güncellemesinin ötesine geçen şirket, uygulamanın teknik altyap",
-      "link": "https://shiftdelete.net/en-yakit-mobil-uygulamasini-bastan-yeniledi-yeni-arayuz-ve-hizli-altyapi-geldi",
-      "published": "2026-10-15T07:56:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:23.524041+00:00"
-    },
-    {
-      "id": "b30b1d5d216d40db",
-      "source": "Bloomberg HT",
-      "title": "Airbus'tan 2045 öngörüsü",
-      "summary": "Airbus, 2045 yılına kadar Avrupa ve Bağımsız Devletler Topluluğu (BDT) bölgesinde hava trafiğinin yaklaşık iki kat artacağını ve 8 bin 190 yeni yolcu uçağına ihtiyaç duyulacağını öngörüyor.",
-      "link": "https://www.bloomberght.com/airbus-tan-2045-ongorusu-3791444",
-      "published": "2026-10-15T07:56:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:20:51.260714+00:00"
-    },
-    {
-      "id": "38396ca03c240795",
-      "source": "Aydınlık",
-      "title": "CHP’li Erbay rakamlarla yanıt verdi! Bakan Memişoğlu’na ‘sağlıkta başarı’ tepkisi",
-      "summary": "CHP Genel Başkan Yardımcısı Ali Rıza Erbay, Sağlık Bakanı Kemal Memişoğlu’nun açıklamalarını eleştirdi. Erbay, sağlıkta başarının fiziki binalarla değil; vatandaşın nitelikli, zamanında ve ekonomik yük altına girmeden hizmete erişimiyle ölçüleceğini vurguladı.",
-      "link": "https://www.aydinlik.com.tr/haber/chpli-erbay-rakamlarla-yanit-verdi-bakan-memisogluna-saglikta-basari-tepkisi-594574",
-      "published": "2026-10-15T07:56:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:09.417922+00:00"
-    },
-    {
-      "id": "40a8e44157376bbf",
-      "source": "Milliyet",
-      "title": "ABD Savunma Bakanı Hegseth neye uğradığını şaşırdı! 'Korkağın tekisin'",
-      "summary": "ABD Savunma Bakanı Hegseth, ABD'nin başkenti Washington DC'de düzenlenen ABD Ordusu Derneği Konferansı kapsamındaki insansız hava araçları (İHA) konulu panele katıldı. Hegseth, panelde konuştuğu sırada İran savaşı karşıtı en az 6 kişi tarafından protesto edilerek konuşması kesildi. 'KORKAĞIN TEKİSİN' Bir protestocu \"İran ile savaşa hayır\" yazılı bir pankart açarak, \"Çocukların ceset parçaları enka",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-abd-savunma-bakani-hegseth-neye-ugradigini-sasirdi-korkagin-tekisin-7680087",
-      "published": "2026-10-15T07:56:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:04.112033+00:00"
-    },
-    {
-      "id": "c50f110355799172",
-      "source": "Yeni Yaşam",
-      "title": "Sêwereg’de tecavüz davasında iddianame hazırlandı: İlk duruşma yarın",
-      "summary": "Sêwereg’de bir kadının kaçırılarak tecavüze uğramasına ilişkin 10 kişi hakkında hazırlanan iddianame kabul edildi. Davanın ilk duruşması 16 Ekim’de görülecek Riha’nın (Urfa) Sêwereg (Siverek) ilçesine bağlı bir köyde bir kadının kaçırılarak tecavüze uğramasına ilişkin yürütülen soruşturma kapsamında hazırlanan iddianame, Siverek 1’inci Ağır Ceza Mahkemesi tarafından kabul edildi. Siverek Cumhuriye",
-      "link": "https://yeniyasamgazetesi9.com/seweregde-tecavuz-davasinda-iddianame-hazirlandi-ilk-durusma-yarin/",
-      "published": "2026-10-15T07:55:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T07:55:48.034240+00:00"
-    },
-    {
-      "id": "448c5cb699fbeeb4",
-      "source": "Bloomberg HT",
-      "title": "İstanbul Valisi Gül, okulların cuma günü tatil edildiğini açıkladı",
-      "summary": "İstanbul Valisi Gül, kentte okulların yarın da tatil edildiğini açıkladı.",
-      "link": "https://www.bloomberght.com/istanbul-valisi-gul-kentte-okullarin-yarin-da-tatil-edildigini-acikladi-3791443",
-      "published": "2026-10-15T07:55:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:05:43.239497+00:00"
-    },
-    {
-      "id": "ebd48d78bb870b01",
-      "source": "Bir Gün",
-      "title": "Trump'ın damadı Kushner hakkında dava açıldı",
-      "summary": "Washington'da denetim kuruluşu, ABD Başkanı Donald Trump'ın \"özel temsilcisi\" sıfatıyla önemli diplomatik görüşmelerde yer alan damadı Jared Kushner hakkında yasal süreç başlattı. Açılan davada, Kushner'ın, hukuka aykırı biçimde yürüttüğü belirtilen görevinden uzaklaştırılması istendi.",
-      "link": "https://www.birgun.net/haber/trump-in-damadi-kushner-hakkinda-dava-acildi-740492",
-      "published": "2026-10-15T07:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:10:38.228524+00:00"
-    },
-    {
-      "id": "b83c1c740b5f3e7f",
-      "source": "Yeni Akit",
-      "title": "Naile Sultan Korusu’nda çökme: İstinat duvarı yağışa dayanamadı!",
-      "summary": "İstanbul Beşiktaş’ta etkili olan şiddetli sağanak yağış, Naile Sultan Korusu’nun istinat duvarının çökmesine neden oldu. Olayda can kaybı ya da yaralanma yaşanmadı.",
-      "link": "https://www.yeniakit.com.tr/haber/naile-sultan-korusunda-cokme-istinat-duvari-yagisa-dayanamadi-2028285.html",
-      "published": "2026-10-15T07:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T08:01:06.753801+00:00"
-    },
-    {
-      "id": "5193b3d5a90352ea",
-      "source": "Akşam",
-      "title": "Yalova'da sağanak hayatı olumsuz etkiledi! Ev ve iş yerlerini su bastı.",
-      "summary": "Yalova'da sağanak yaşamı olumsuz etkiledi. Yağış nedeniyle Armutlu ilçesinde bir sitenin istinat duvarı çöktü, ev ve iş yerlerini su bastı.",
-      "link": "https://www.aksam.com.tr/guncel/yalovada-saganak-hayati-olumsuz-etkiledi-ev-ve-is-yerlerini-su-basti/haber-1706377",
-      "published": "2026-10-15T07:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T07:55:39.569663+00:00"
     }
   ]
 }

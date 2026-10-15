@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T00:05:57.887834+00:00",
+  "last_updated": "2026-10-15T00:11:03.983517+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 543,
   "items": [
+    {
+      "id": "1c111e0aab341776",
+      "source": "Yeniçağ",
+      "title": "41 yıl sonra İstanbul'da rekor yağış: Metrekareye 242 kilogram",
+      "summary": "İstanbul’da etkili olan sağanak, Beykoz’da metrekareye 242 kilogramla rekor seviyelere ulaştı. İBB ekipleri sahada çalışmalarını sürdürürken sosyal tesisler açık tutuldu, toplu ulaşım seferleri uzatıldı.",
+      "link": "https://www.yenicaggazetesi.com/41-yil-sonra-istanbulda-rekor-yagis-metrekareye-242-kilogram-1082272h.htm",
+      "published": "2026-10-15T00:09:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T00:10:46.340043+00:00"
+    },
+    {
+      "id": "ede66ec80dea794e",
+      "source": "OdaTV",
+      "title": "Aks demiri kırılan otomobilin tekerleği yerinden çıktı",
+      "summary": "Kocaeli D-100 Karayolu’nda seyir halindeki otomobilin aks demiri kırılırken, arka tekerleklerinden biri yerinden çıktı.",
+      "link": "https://www.odatv.com/guncel/aks-demiri-kirilan-otomobilin-tekerlegi-yerinden-cikti-120166719",
+      "published": "2026-10-15T00:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T00:10:48.052992+00:00"
+    },
     {
       "id": "0b6c5441648eb99f",
       "source": "Türkiye Gazetesi",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T20:01:17.236879+00:00"
-    },
-    {
-      "id": "313e867f2eb88ba2",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Bazı illerde sağanak nedeniyle eğitime ara verildi",
-      "summary": "Bazı illerde etkisini sürdüren sağanak ve kuvvetli rüzgar nedeniyle perşembe günü eğitime ara verildi.",
-      "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-nedeniyle-egitime-ara-verildi/4089031",
-      "published": "2026-10-14T19:53:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T21:15:36.769246+00:00"
-    },
-    {
-      "id": "48b82c2e7f3ac9a7",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Bazı illerde sağanak nedeniyle yarın eğitime ara verildi",
-      "summary": "Kocaeli'de etkisini artırması beklenen sağanak nedeniyle yarın il genelindeki tüm eğitim kurumlarında eğitime bir gün ara verildi.",
-      "link": "https://www.aa.com.tr/tr/gundem/bazi-illerde-saganak-nedeniyle-yarin-egitime-ara-verildi/4089031",
-      "published": "2026-10-14T19:53:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T20:20:38.953024+00:00"
     }
   ]
 }

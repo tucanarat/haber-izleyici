@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-15T03:35:56.832902+00:00",
+  "last_updated": "2026-10-15T03:41:00.880562+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 504,
+  "new_items_this_run": 534,
   "items": [
+    {
+      "id": "c13efb961df7780b",
+      "source": "Yeni Akit",
+      "title": "İstanbul’da sağanak felaketi! Sel sularından çıkamadı, hayatını kaybetti",
+      "summary": "İstanbul’da etkisini artıran şiddetli sağanak can kaybına yol açtı. Sarıyer Ayazağa’da yolun karşısına geçmeye çalışırken ayağı kayan ve başını kaldırıma çarpan S.Y., oluşan su birikintisinden kendi imkanlarıyla çıkamadı. Vatandaşların kurtardığı S.Y., kaldırıldığı hastanede yapılan tüm müdahalelere rağmen hayatını kaybetti.",
+      "link": "https://www.yeniakit.com.tr/haber/istanbulda-saganak-felaketi-sel-sularindan-cikamadi-hayatini-kaybetti-2028250.html",
+      "published": "2026-10-15T03:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T03:40:42.708620+00:00"
+    },
     {
       "id": "0c362866689f9261",
       "source": "Bloomberg HT",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T03:35:45.915352+00:00"
+    },
+    {
+      "id": "f22db855c7eaec18",
+      "source": "Evrensel",
+      "title": "İstanbul'da sel gecesi: İş yerinde mahsur kalanlar iş makineleriyle kurtarıldı",
+      "summary": "İstanbul'da sağanak yağışın etkisiyle gece boyunca su baskınları ve taşkınlar yaşandı. Sarıyer ve Arnavutköy'de mahsur kalan yurttaşlar, iş makineleri ve botlarla tahliye edilirken sel sularına kapılan araçlar sürüklendi.",
+      "link": "https://www.evrensel.net/haber/6004987/istanbul-da-sel-gecesi-is-yerinde-mahsur-kalanlar-is-makineleriyle-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-15T03:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T03:40:38.600949+00:00"
     },
     {
       "id": "98c33f2e8832f544",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-14T20:35:39.117865+00:00"
-    },
-    {
-      "id": "bb2a183165d0d20e",
-      "source": "Milliyet",
-      "title": "Sarıyer'de İETT otobüsünde can pazarı kamerada! Mahsur kalan yolcular aracın üzerine tırmanarak kaçmak zorunda kaldı",
-      "summary": "İstanbul’da sabah saatlerinde başlayan ve ilerleyen saatlerde etkisini artıran sağanak , Sarıyer Ayazağa’da hayatı olumsuz etkiledi. Yağış sırasında cadde ve sokaklarda biriken sular nedeniyle bir İETT otobüsü ile bazı araçlar mahsur kaldı. Suların etkisiyle otobüs ve araçlar sürüklenirken, araçlarda bulunan vatandaşlar zor anlar yaşadı. ARAÇLARIN ÜZERİNE ÇIKARAK KURTARILMAYI BEKLEDİLER Su birikin",
-      "link": "https://www.milliyet.com.tr/gundem/sariyerde-iett-otobusunde-can-pazari-kamerada-mahsur-kalan-yolcular-aracin-uzerine-tirmanarak-kacmak-zorunda-kaldi-7679781",
-      "published": "2026-10-14T20:33:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T20:35:38.329599+00:00"
-    },
-    {
-      "id": "bd043dad3b2452be",
-      "source": "CNBC-e",
-      "title": "İstanbul'da toplu taşımaya yağmur düzenlemesi: Sefer saatleri uzatıldı",
-      "summary": "İstanbul'da etkili olan şiddetli yağış nedeniyle 10 metro, 3 tramvay ve 2 füniküler hattında seferler saat 02.00'ye kadar uzatıldı. Metro İstanbul, M9 hattında yaşanan teknik arıza nedeniyle bazı istasyonlar arasında ücretsiz otobüs seferleri düzenlendiğini de duyurdu.",
-      "link": "https://www.cnbce.com/haberler/istanbulda-toplu-tasimaya-yagmur-duzenlemesi-sefer-saatleri-uzatildi-h39484",
-      "published": "2026-10-14T20:32:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-14T20:35:51.711715+00:00"
     }
   ]
 }

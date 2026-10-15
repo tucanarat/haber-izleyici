@@ -1,12 +1,188 @@
 {
-  "last_updated": "2026-10-15T12:01:39.616832+00:00",
+  "last_updated": "2026-10-15T12:06:02.186676+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 562,
+  "new_items_this_run": 552,
   "items": [
+    {
+      "id": "c2dce672321ea62a",
+      "source": "Akşam",
+      "title": "İran'dan Hürmüz tehdidi! \"Koordinasyonsuz geçişe izin yok\"",
+      "summary": "İran Ordusu Koordinasyondan Sorumlu Komutan Yardımcısı Tuğamiral Habibullah Seyyari, Hürmüz Boğazı'nın kapalı olduğunu ve bölgede tam denetim sağladıklarını belirterek; koordinasyonsuz geçiş denemelerine karşı uyarıda bulundu ve ABD'deki benzin fiyatlarının artışını boğazın kapalı olmasına bağladı.",
+      "link": "https://www.aksam.com.tr/dunya/irandan-hurmuz-tehdidi-koordinasyonsuz-gecise-izin-yok/haber-1706483",
+      "published": "2026-10-15T12:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:37.573898+00:00"
+    },
+    {
+      "id": "834a2c83ec85ffc9",
+      "source": "Gazete Pencere",
+      "title": "30. İstanbul Tiyatro Festivali başlıyor",
+      "summary": "İstanbul Tiyatro Festivali, 30. yılında 22-23 Ekim’de Caroline Guiela Nguyen’in “Lacrima” adlı yapımıyla perdelerini açacak. Türkiye’den ve yurt dışından 17 tiyatro, performans ve dans gösterisini buluşturacak festival, 3 Aralık’a kadar sürecek.",
+      "link": "https://www.gazetepencere.com/kultur-sanat/30-istanbul-tiyatro-festivali-basliyor-719376h",
+      "published": "2026-10-15T12:05:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:40.254307+00:00"
+    },
+    {
+      "id": "1bf95b9fed1187a3",
+      "source": "Gazete Pencere",
+      "title": "İsrail Cumhurbaşkanı'nın bulunduğu uçak Türk hava sahasını kullandı: Yetkililerden açıklama geldi",
+      "summary": "İsrail Cumhurbaşkanı Herzog, Bakü'ye seyahat ederken Türk hava sahasını kullandı. Bir Türk yetkili, Herzog'un tarifeli uçakla seyahat ettiğini bu nedenle de özel olarak hava sahasının kullanımına ilişkin bir talepte bulunulmadığını söyledi.",
+      "link": "https://www.gazetepencere.com/gundem/israil-cumhurbaskaninin-bulundugu-ucak-turk-hava-sahasini-kullandi-yetkililerden-719375h",
+      "published": "2026-10-15T12:04:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:40.254348+00:00"
+    },
+    {
+      "id": "9df51049214446b9",
+      "source": "Karar",
+      "title": "HGS'de ödeme sistemi neden değişti, Artık başkasının plakasıyla borç ödenemeyecek mi?",
+      "summary": "Otoyol ve köprü geçişlerinde kullanılan Hızlı Geçiş Sistemi'nde (HGS) ihlalli geçiş borçlarının sorgulanması ve ödenmesine yönelik yeni bir dönem başlatıldı. e-Devlet üzerinden 9 adımda gerçekleştirilen yeni düzenlemeyle birlikte, başkasına ait araçların plakasıyla borç ödeme uygulaması sona ererken, süreç yalnızca ruhsat sahiplerinin erişimine açıldı.",
+      "link": "https://www.karar.com/guncel-haberler/hgsde-odeme-sistemi-neden-degisti-artik-baskasinin-plakasiyla-borc-2078610",
+      "published": "2026-10-15T12:04:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:38.854263+00:00"
+    },
+    {
+      "id": "57a713fbb94ff789",
+      "source": "Akşam",
+      "title": "Başkan Erdoğan, Özbekistan Cumhurbaşkanlığı İdaresi Başkanı Saida Mirziyoyeva'yı kabul etti",
+      "summary": "Başkan Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Özbekistan Cumhurbaşkanlığı İdaresi Başkanı Saida Mirziyoyeva'yı kabul etti.",
+      "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-ozbekistan-cumhurbaskanligi-idaresi-baskani-saida-mirziyoyevayi-kabul-etti/haber-1706482",
+      "published": "2026-10-15T12:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:37.573934+00:00"
+    },
+    {
+      "id": "d8246f05bc166b38",
+      "source": "Akşam",
+      "title": "Sivasspor'da Sarıyer mesaisi sürüyor",
+      "summary": "Trendyol 1. Lig'in 11. hafta mücadelesinde sahasında Sarıyer ile karşılaşacak olan Sivasspor'da maçın hazırlıkları devam etti.",
+      "link": "https://www.aksam.com.tr/spor/sivassporda-sariyer-mesaisi-suruyor/haber-1706481",
+      "published": "2026-10-15T12:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:37.573961+00:00"
+    },
+    {
+      "id": "0a61aa6b5445d8fd",
+      "source": "Akşam",
+      "title": "Çin ile Kuzey Kore arasında 12 yıl sonra bir ilk: Hizmete açıldı",
+      "summary": "Çin ile Kuzey Kore sınırında, Yalu Nehri üzerinde kurulan otoyol köprüsünün, inşasının tamamlanmasından 12 yıl sonra hizmete açıldığı ifade edildi.",
+      "link": "https://www.aksam.com.tr/dunya/cin-ile-kuzey-kore-arasinda-12-yil-sonra-bir-ilk-hizmete-acildi/haber-1706480",
+      "published": "2026-10-15T12:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:37.573988+00:00"
+    },
+    {
+      "id": "bb3cce6a8d9c384a",
+      "source": "Star",
+      "title": "Cumhurbaşkanı Erdoğan, Saida Mirziyoyeva'yı kabul etti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde Özbekistan Cumhurbaşkanlığı İdaresi Başkanı Saida Mirziyoyeva'yı kabul etti.",
+      "link": "https://www.star.com.tr/guncel/cumhurbaskani-erdogan-saida-mirziyoyevayi-kabul-etti-haber-2046741/",
+      "published": "2026-10-15T12:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:38.113922+00:00"
+    },
+    {
+      "id": "33d849e6ece05d95",
+      "source": "DonanımHaber",
+      "title": "Siri yapay zekasının geleceği Apple ev cihazları",
+      "summary": "HomePod mini 2'den 4. nesil Apple TV 4K'ya akıllı ev ekranı HomeView'dan Apple Home ekosistemine kadar yeni ev ürünleri Siri ile güçleniyor. Peki, Siri AI hangi cihazlara ne zaman gelecek?",
+      "link": "https://www.donanimhaber.com/siri-ai-hangi-apple-ev-cihazina-ne-zaman-gelecek--211659",
+      "published": "2026-10-15T12:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:06:00.530743+00:00"
+    },
+    {
+      "id": "d9450effac01dc2a",
+      "source": "Euronews Türkçe",
+      "title": "Türkiye, Kolombiya’nın Tel Aviv'deki büyükelçiliğini Kudüs’e taşımasını kınadı",
+      "summary": "Türkiye, Kolombiya’nın Tel Aviv’deki büyükelçiliğini Kudüs’e taşımasını kınayarak kararın geri alınmasını istedi. Bogota yönetimi ise adımı İsrail’le ilişkilerin yeniden tesisi ve stratejik işbirliğinin güçlendirilmesi kapsamında değerlendiriyor.",
+      "link": "https://tr.euronews.com/2026/10/15/turkiye-kolombiyanin-tel-avivdeki-buyukelciligini-kuduse-tasimasini-kinadi",
+      "published": "2026-10-15T12:03:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:06:02.185347+00:00"
+    },
+    {
+      "id": "5d54a6a51ac1f10e",
+      "source": "CNBC-e",
+      "title": "İngiliz ilaç devinden Belçika'da işten çıkarma planı",
+      "summary": "İngiliz ilaç şirketi GSK, üç yılda 1,9 milyar sterlin tasarruf hedefleyen yeniden yapılanma programı kapsamında Belçika'da 1217 kişiyi işten çıkarmayı planlıyor. Şirket, dijitalleşme ve otomasyonla faaliyetlerini sadeleştirmeyi amaçlıyor.",
+      "link": "https://www.cnbce.com/haberler/ingiliz-ilac-devinden-belcikada-isten-cikarma-plani-h39539",
+      "published": "2026-10-15T12:03:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:47.014782+00:00"
+    },
+    {
+      "id": "411cb7f24da0ec70",
+      "source": "Aydınlık",
+      "title": "Göktaş: Ekim ayı SED ödemeleri hesaplara yatırıldı",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, çocukların sosyal ve eğitim giderlerinin desteklenmesi için ekim ayına yönelik 2 milyar 233 milyon lira tutarındaki SED ödemesinin hesaplara yatırıldığını açıkladı.",
+      "link": "https://www.aydinlik.com.tr/haber/ekim-ayi-sed-odemeleri-hesaplara-yatirildi-594615",
+      "published": "2026-10-15T12:03:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:39.788738+00:00"
+    },
+    {
+      "id": "004d3f852d7f5dfb",
+      "source": "Gazete Pencere",
+      "title": "Karadeniz'de bir gemi fırtına nedeniyle karaya oturdu",
+      "summary": "Ulaştırma ve Altyapı Bakanlığı, olumsuz hava koşulları nedeniyle bir geminin karaya oturduğunu açıkladı. Karadeniz'de karaya oturan gemi için acil müdahale ekipleri yönlendirildi.",
+      "link": "https://www.gazetepencere.com/gundem/karadenizde-bir-gemi-firtina-nedeniyle-karaya-oturdu-719374h",
+      "published": "2026-10-15T12:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:40.254377+00:00"
+    },
+    {
+      "id": "d47d2e2f43c029cd",
+      "source": "Yeni Akit",
+      "title": "Türkiye Belediyeler Birliği’nde seçim başladı! Tahir Büyükakın ile Ayşe Ünlüce yarışıyor",
+      "summary": "Mersin Büyükşehir Belediye Başkanı Vahap Seçer’in yolsuzluk soruşturmasında tutuklanarak görevlerinrden uzaklaştırılmasının ardından boşalan Türkiye Belediyeler Birliği’nde (TBB) başkanlık koltuğu için seçim başladı. Cumhur İttifakı'nın adayı Tahir Büyükakın, CHP’nin desteklediği YENİ Parti'nin adayı Ayşe Ünlüce ile yarışıyor.",
+      "link": "https://www.yeniakit.com.tr/haber/turkiye-belediyeler-birliginde-secim-basladi-tahir-buyukakin-ile-ayse-unluce-yarisiyor-2028337.html",
+      "published": "2026-10-15T12:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:38.489330+00:00"
+    },
+    {
+      "id": "36d4ef4331c8366e",
+      "source": "Milliyet",
+      "title": "Anadolu Otoyolu'nda zincirleme kaza: Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin kaza geçirdi!",
+      "summary": "Anadolu Otoyolu'nun Düzce kesiminde meydana gelen zincirleme trafik kazasında 3 araç birbirine girdi. Kazada 1'i ağır olmak üzere 5 kişi yaralandı. Kazanın ardından olay yerinden geçmekte olan bir doktor, ağır yaralının kalbinin durduğunu fark ederek hemen müdahalede bulundu. Doktorun yaptığı kalp masajı sonucunda yaralının kalbi yeniden çalışmaya başladı. İstanbul'da sağanak yağış hayatı felç ett",
+      "link": "https://www.milliyet.com.tr/gundem/anadolu-otoyolunda-zincirleme-kaza-uskudar-belediye-baskan-vekili-de-yaralandi-7680324",
+      "published": "2026-10-15T12:01:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:34.863812+00:00"
+    },
+    {
+      "id": "d50bc0a22684a269",
+      "source": "Cumhuriyet",
+      "title": "Alanya'da Hollanda uyruklu çiftin ölümü: İntihar şüphesi araştırılıyor",
+      "summary": "Antalya'nın Alanya ilçesinde yerleşik yaşayan Hollanda uyruklu Adrianus Franciscus Henricus De Gouw (70) ile eşi Elisabeth Christina İsabella Antina De Connick (69), evlerinde ölü bulundu. Bir süredir kendilerinden haber alınamayan çiftin ölümüne ilişkin intihar şüphesi üzerinde durulurken, olayla ilgili soruşturma başlatıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/alanya-da-hollanda-uyruklu-ciftin-olumu-intihar-suphesi-arastiriliyor-2547061",
+      "published": "2026-10-15T12:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:30.473462+00:00"
+    },
     {
       "id": "0a6d60b9fdb9f162",
       "source": "ShiftDelete.Net",
@@ -17,6 +193,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T12:01:36.206512+00:00"
+    },
+    {
+      "id": "998646c352e30afa",
+      "source": "OdaTV",
+      "title": "Ferrari'nin gizli arşivi bu kitapta",
+      "summary": "İtalya’da yalnızca bir otomobil markası değil, kültürel bir simge olan Ferrari’nin 75 yılı aşkın geçmişi, yeni bir fotoğraf kitabında buluştu. Daha önce yayımlanmamış fotoğraflar, çizimler ve Enzo Ferrari’nin günlükleri ilk kez okurla paylaşılıyor.",
+      "link": "https://www.odatv.com/spor/ferrarinin-gizli-arsivi-bu-kitapta-120166820",
+      "published": "2026-10-15T12:00:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:40.579364+00:00"
     },
     {
       "id": "6bcc68e9b22d32c0",
@@ -74,6 +261,17 @@
       "fetched_at": "2026-10-15T12:01:39.295920+00:00"
     },
     {
+      "id": "8d4f652327e60428",
+      "source": "Finans Gündem",
+      "title": "Bankacılık sektörünün kredi hacmi 28,6 trilyon lira oldu",
+      "summary": "Bankacılık sektörünün kredi hacmi 9 Ekim itibarıyla 28,6 trilyon liraya geriledi. BDDK verilerine göre, bireysel kredi kartı alacakları 61,7 milyar lira azalırken takipteki alacaklar 14,2 milyar lira artarak 928,8 milyar liraya yükseldi.",
+      "link": "https://www.finansingundemi.com/haber/bankacilik-sektorunun-kredi-hacmi-286-trilyon-lira-oldu/1911581",
+      "published": "2026-10-15T11:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:47.623545+00:00"
+    },
+    {
       "id": "ddbf24b3f7f2edd4",
       "source": "Karar",
       "title": "Bakü'de İsrail Cumhurbaşkanı'na protesto: Hakan Fidan ve 10'dan fazla ülkenin heyeti salonu terk etti",
@@ -94,6 +292,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T12:01:11.123139+00:00"
+    },
+    {
+      "id": "0c786e7e4d18f576",
+      "source": "Türkiye Gazetesi",
+      "title": "ROTAYI O KENTLERE ÇEVİRDİ",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/saganak-istanbuldan-sonra-rotayi-o-illere-cevirdi-bir-ev-yikildi-camilerden-anonslar-1822903",
+      "published": "2026-10-15T11:57:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:32.070091+00:00"
     },
     {
       "id": "97b9f935982e985f",
@@ -259,6 +468,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T11:55:30.690751+00:00"
+    },
+    {
+      "id": "02bf5eedc7e0ca38",
+      "source": "Habertürk",
+      "title": "TCMB rezervlerinde artış",
+      "summary": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) toplam rezervleri, 9 Ekim haftasında bir önceki haftaya göre 4 milyar 187 milyon dolar artışla 171 milyar 575 milyon dolara yükseldi.",
+      "link": "https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-artis-3919962",
+      "published": "2026-10-15T11:54:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:28.509144+00:00"
     },
     {
       "id": "72ffa4067dc7ef87",
@@ -787,6 +1007,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T11:45:57.027485+00:00"
+    },
+    {
+      "id": "cb76e3d06c569540",
+      "source": "Ekonomim",
+      "title": "Yabancı, hissede satışa devam etti",
+      "summary": "Yurt dışı yerleşikler, geçen hafta 248 milyon dolarlık hisse senedi satışı gerçekleştirirken, 451,1 milyon dolarlık tahvil alımı yaptı.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/yabanci-hissede-satisa-devam-etti-haberi-924936",
+      "published": "2026-10-15T11:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:46.313298+00:00"
     },
     {
       "id": "e5f90e8f4a72f718",
@@ -2965,6 +3196,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T11:05:33.685636+00:00"
+    },
+    {
+      "id": "5a0ce7a294eb23ad",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "KKTC'de Şehit Yüzbaşı Cengiz Topel Akdeniz Fırtınası-2026 Tatbikatı icra edildi",
+      "summary": "Kuzey Kıbrıs Türk Cumhuriyeti’nde (KKTC) düzenlenen Şehit Yüzbaşı Cengiz Topel Akdeniz Fırtınası-2026 Tatbikatı'nın tüm safhaları, Türk Silahlı Kuvvetlerinin (TSK) kara, hava ve deniz unsurlarının katılımıyla başarıyla icra edildi.",
+      "link": "https://www.aa.com.tr/tr/gundem/kktcde-sehit-yuzbasi-cengiz-topel-akdeniz-firtinasi-2026-tatbikati-icra-edildi/4089654",
+      "published": "2026-10-15T11:00:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-15T12:05:30.126241+00:00"
     },
     {
       "id": "5c4694693a9df0b2",
@@ -5264,248 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T10:20:37.014220+00:00"
-    },
-    {
-      "id": "5e58c75024195352",
-      "source": "Karar",
-      "title": "Bursa'nın şampiyonlarına ve amatör spora dev destek",
-      "summary": "Bursa Büyükşehir Belediyesi tarafından düzenlenen ‘Amatör Spor Kulüplerine Destek ve Başarılı Sporcuları Ödüllendirme Töreni’nde konuşan Büyükşehir Belediye Başkan Vekili Şahin Biba, Bursa sporuna toplam 34 milyon 117 bin 500 TL’lik rekor kaynak ayırdıklarını belirterek gençlerin elde ettiği her başarının kendileri için gurur kaynağı olduğunu söyledi.",
-      "link": "https://www.karar.com/sehir-haberleri/bursanin-sampiyonlarina-ve-amator-spora-dev-destek-2078572",
-      "published": "2026-10-15T10:17:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:39.017514+00:00"
-    },
-    {
-      "id": "20ba62a71d891e3e",
-      "source": "Bir Gün",
-      "title": "Zonguldak’ta heyelan: 3 katlı bina boşaltıldı",
-      "summary": "Zonguldak’ın Karadeniz Ereğli ilçesinde sağanağın ardından meydana gelen heyelanda istinat duvarı çöktü, büyük taş parçaları anayolu kapattı. Tedbir amacıyla 3 katlı bina boşaltılırken bölgede güvenlik önlemleri alındı.",
-      "link": "https://www.birgun.net/haber/zonguldakta-heyelan-3-katli-bina-bosaltildi-740518",
-      "published": "2026-10-15T10:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T11:10:41.185278+00:00"
-    },
-    {
-      "id": "4fd41657d579d6c7",
-      "source": "Habertürk",
-      "title": "Türk senaristlerin hikayeleri dünya sahnesine çıkacak",
-      "summary": "Türk senaristlerin hikâyeleri Fransa'da dünya dizi sektörünün karşısına çıkacak. Serial Bridges İstanbul programına seçilecek 6 mini dizi projesi, Series Mania Forum’da uluslararası yatırımcı, yayıncı ve yapımcılara sunulacak. Kültür ve Turizm Bakanlığı Sinema Genel Müdürlüğü ile Series Mania Institute ortaklığında hayata geçirilen programın başvuruları başladı",
-      "link": "https://www.haberturk.com/magazin/turk-senaristlerin-hikayeleri-fransa-da-dunya-sahnesine-cikacak-3919926",
-      "published": "2026-10-15T10:16:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:25:26.745409+00:00"
-    },
-    {
-      "id": "459ca852d8e9bc74",
-      "source": "OdaTV",
-      "title": "Yok artık dedirten tescil: Steinbeck'in kitabına Türkiye'de ikinci yazar... Fareler ve İnsanlar'ın yazarı değişti...",
-      "summary": "Türkiye&#039;de bir vatandaş, John Steinbeck’in 1937’de yayımlanan ve dünya edebiyatının klasikleri arasına giren Fareler ve İnsanlar eserini üzerine tescilledi... &#039;Yok artık&#039; dedirten kararı inceledik.",
-      "link": "https://www.odatv.com/yazarlar/mustafa-ilker-yucel/yok-artik-dedirten-tescil-steinbeckin-kitabina-turkiyede-ikinci-yazar-fareler-ve-insanlarin-yazari-degisti-120166796",
-      "published": "2026-10-15T10:16:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:40.408847+00:00"
-    },
-    {
-      "id": "657947ce8caa1add",
-      "source": "Aydınlık",
-      "title": "Trabzonspor-Beşiktaş derbisinin hakemi belli oldu",
-      "summary": "Trendyol Süper Lig&#039;in 8. haftasında oynanacak Trabzonspor-Beşiktaş derbisini Cihan Aydın yönetecek. Türkiye Futbol Federasyonu, haftanın karşılaşmalarında görev alacak hakemleri açıkladı.",
-      "link": "https://www.aydinlik.com.tr/haber/trabzonspor-besiktas-derbisinin-hakemi-belli-oldu-594600",
-      "published": "2026-10-15T10:16:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:39.773157+00:00"
-    },
-    {
-      "id": "73810d59329611c2",
-      "source": "Euronews Türkçe",
-      "title": "Almanya'nın şekerli içecek vergisi: Bilmeniz gerekenler",
-      "summary": "Alman hükümeti, ülkede 1 Temmuz 2027’den itibaren şekerli içeceklerden vergi alınmasını öngören yasa tasarısını onayladı. Vergi gelirleri, zorunlu sağlık sigortasını destekleyerek primlerin artırılmasına yönelik baskıyı azaltmayı amaçlıyor.",
-      "link": "https://tr.euronews.com/2026/10/15/almanyanin-sekerli-icecek-vergisi-bilmeniz-gerekenler",
-      "published": "2026-10-15T10:16:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:52.329828+00:00"
-    },
-    {
-      "id": "d792a87b0b67ab80",
-      "source": "Cumhuriyet",
-      "title": "Özlem Ada Şahin'in 'Yeni bölüm' paylaşımı iddiaları güçlendirdi: Berkay Şahin ailesiyle Dubai'ye mi yerleşiyor?",
-      "summary": "Şarkıcı Berkay Şahin ile eşi Özlem Ada Şahin'in, çocuklarının eğitimi amacıyla Dubai'ye yerleşeceği öne sürüldü. Özlem Ada Şahin'in aile fotoğrafını \"Yeni bölüm\" notuyla paylaşması iddiaları alevlendirdi.",
-      "link": "https://www.cumhuriyet.com.tr/magazin/ozlem-ada-sahin-in-yeni-bolum-paylasimi-iddialari-guclendirdi-berkay-sahin-ailesiyle-dubai-ye-mi-yerlesiyor-2547034",
-      "published": "2026-10-15T10:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:33.262373+00:00"
-    },
-    {
-      "id": "9e258884c86f0a48",
-      "source": "Karar",
-      "title": "Bursa Büyükşehir'den besicilere önemli destek",
-      "summary": "Bursa Büyükşehir Belediyesi, kırsal kalkınmaya katkı sağlamak ve hayvancılıkta verimliliği artırmak amacıyla büyükbaş hayvan yetiştiricilerine yönelik yeni bir desteği hayata geçiriyor.",
-      "link": "https://www.karar.com/sehir-haberleri/bursa-buyuksehirden-besicilere-onemli-destek-2078571",
-      "published": "2026-10-15T10:15:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:39.017545+00:00"
-    },
-    {
-      "id": "81e5c6d545a61e3e",
-      "source": "Yeni Şafak",
-      "title": "Sağanak yağış hayatı durdurdu: Kocaeli'de eğitime bir gün daha ara verildi",
-      "summary": "Kocaeli'de hafta ortasından bu yana etkisini artıran ve birçok ilçede sel ile su baskınlarına neden olan şiddetli yağışların ardından Kocaeli Valiliği beklenen kararı duyurdu. Valilik, meteorolojik veriler ışığında il genelindeki tüm eğitim kurumlarında 16 Ekim Cuma günü itibarıyla eğitime bir gün süreyle ara verildiğini, risk grubundaki personelin idari izinli sayılacağını açıkladı.",
-      "link": "https://www.yenisafak.com/gundem/saganak-yagis-hayati-durdurdu-kocaelide-egitime-bir-gun-daha-ara-verildi-4864544",
-      "published": "2026-10-15T10:15:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:38.067813+00:00"
-    },
-    {
-      "id": "e78a55b60bacd4ea",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Süper Lig'de 8. hafta maçlarını yönetecek hakemler açıklandı",
-      "summary": "Trendyol Süper Lig'de 8. hafta maçlarını yönetecek hakemler belli oldu. Trabzonspor-Beşiktaş karşılaşmasında Cihan Aydın düdük çalacak.",
-      "link": "https://www.aa.com.tr/tr/spor/super-ligde-8-hafta-maclarini-yonetecek-hakemler-aciklandi/4089583",
-      "published": "2026-10-15T10:15:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:33.059382+00:00"
-    },
-    {
-      "id": "592ca3a745f7ee79",
-      "source": "Finans Gündem",
-      "title": "MASAK düğmeye bastı: Bankalar o hesapları anında kapatacak!",
-      "summary": "Mali Suçları Araştırma Kurulu (MASAK), şüpheli işlem kriterlerini yeniden belirledi. Yeni düzenlemeyle birlikte bankalar, kriterlere uymayan hesapları tespit ettiği an bloke edip kapatacak. İşte detaylar...",
-      "link": "https://www.finansingundemi.com/haber/masak-dugmeye-basti-bankalar-o-hesaplari-aninda-kapatacak/1911570",
-      "published": "2026-10-15T10:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:31:03.534028+00:00"
-    },
-    {
-      "id": "8ac43a9c3fd98b92",
-      "source": "Aydınlık",
-      "title": "Okul olaylarını araştıran komisyonda başkan İsa Mesih Şahin oldu",
-      "summary": "Şanlıurfa ve Kahramanmaraş’taki okul olayları ile dijital riskleri inceleyen TBMM komisyonunda başkanlık görevine AK Parti İstanbul Milletvekili İsa Mesih Şahin, sözcülüğe ise Yıldız Konal Süslü seçildi.",
-      "link": "https://www.aydinlik.com.tr/haber/isa-mesih-sahin-okul-olaylari-komisyonunun-baskani-oldu-594597",
-      "published": "2026-10-15T10:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:39.773193+00:00"
-    },
-    {
-      "id": "909c0edc50414390",
-      "source": "Karar",
-      "title": "Anadolu Efes Bayern Münih’e mağlup oldu",
-      "summary": "Anadolu Efes, EuroLeague’in 5. haftasında sahasında Bayern Münih’e 101-93 mağlup oldu. Lacivert-beyazlılar üst üste 3., toplamda ise 4. yenilgisini yaşarken Alman temsilcisi ikinci galibiyetini aldı.",
-      "link": "https://www.karar.com/spor-haberleri/anadolu-efes-bayern-munihe-maglup-oldu-2078570",
-      "published": "2026-10-15T10:14:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:15:42.533811+00:00"
-    },
-    {
-      "id": "c6694fe90962e706",
-      "source": "Yeniçağ",
-      "title": "MASAK şüpheli işlem kriterlerini belirledi: Hesaplar anında kapatılacak",
-      "summary": "MASAK, şüpheli işlem kriterlerini belirleyerek yasa dışı bahis ve dolandırıcılıkta kullanılan kiralık IBAN&#039;lara karşı yeni rehber yayımladı. Şüpheli hesapların mobil bankacılığı anında kapatılacak.",
-      "link": "https://www.yenicaggazetesi.com/masak-supheli-islem-kriterlerini-belirledi-hesaplar-aninda-kapatilacak-1082321h.htm",
-      "published": "2026-10-15T10:14:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:15:43.137015+00:00"
-    },
-    {
-      "id": "000cdfb5b1de4795",
-      "source": "Evrensel",
-      "title": "Yalova'da sağanak yağış nedeniyle bahçesi çöken bina tahliye edildi",
-      "summary": "Yalova'nın Çınarcık ilçesinde sağanak nedeniyle bahçesinde çökme meydana gelen 5 katlı bina tedbir amacıyla tahliye edildi.",
-      "link": "https://www.evrensel.net/haber/6005046/yalovada-saganak-yagis-nedeniyle-bahcesi-coken-bina-tahliye-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-15T10:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:30:49.375172+00:00"
-    },
-    {
-      "id": "948221627b3cdea2",
-      "source": "Karar",
-      "title": "Bursa'nın 700 yıllık mirası söyleşilerle anlatılacak",
-      "summary": "Bursa Büyükşehir Belediyesi, Bursa’nın fethinin 700. yılına özel hazırladığı ‘700. Yıl Söyleşileri’ ile şehrin tarihi birikimini gün yüzüne çıkarıyor. Söyleşi dizisinin ilk programında, Bursa’nın kuruluştan Osmanlı İmparatorluğu’na uzanan tarihsel yolculuğu ele alınacak. 17 Ekim Cumartesi günü başlayacak olan söyleşiler, Mart 2027’ye kadar hey ay farklı konuklarla Bursalılarla buluşacak.",
-      "link": "https://www.karar.com/sehir-haberleri/bursanin-700-yillik-mirasi-soylesilerle-anlatilacak-2078569",
-      "published": "2026-10-15T10:13:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:15:42.533860+00:00"
-    },
-    {
-      "id": "5d6c31cab33e531c",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Almanya'da tüm tren istasyonlarında alkol yasağı yürürlüğe girdi",
-      "summary": "Almanya'da, Alman Demir Yollarının (DB) tüm tren istasyonları için getirdiği alkol tüketimi yasağı bugün itibarıyla yürürlüğe girdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/almanyada-tum-tren-istasyonlarinda-alkol-yasagi-yururluge-girdi/4089575",
-      "published": "2026-10-15T10:13:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:15:35.208385+00:00"
-    },
-    {
-      "id": "37c083bcc23baeee",
-      "source": "Diken",
-      "title": "Trabzonspor-Beşiktaş derbisinin hakemi Cihan Aydın",
-      "summary": "Trabzonspor-Beşiktaş derbisinin hakemi Cihan Aydın 15.10.2026 Diken Süper Lig'de bu hafta oynanacak Trabzonspor-Beşiktaş derbisini hakem Cihan Aydın yönetecek. The post Trabzonspor-Beşiktaş derbisinin hakemi Cihan Aydın appeared first on #site_linkat 15.10.2026 .",
-      "link": "https://www.diken.com.tr/trabzonspor-besiktas-derbisinin-hakemi-cihan-aydin/?utm_source=rss&utm_medium=rss&utm_campaign=trabzonspor-besiktas-derbisinin-hakemi-cihan-aydin",
-      "published": "2026-10-15T10:13:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:15:45.373507+00:00"
-    },
-    {
-      "id": "bbdb140cc122f084",
-      "source": "Bianet",
-      "title": "The Guardian: İsrail, Trump'ın Gazze'de kurmayı planladığı askeri üssü engelliyor",
-      "summary": "ABD Başkanı Donald Trump'ın başkanlığındaki Barış Kurulu'nun Gazze'de 150 uluslararası asker için kurmayı planladığı askeri üssün inşası, İsrail'in sınır geçişlerine izin vermemesi nedeniyle başlayamadı. Projedeki gecikme Gazze'nin yeniden inşa sürecini de engelliyor.",
-      "link": "https://bianet.org/haber/the-guardian-israil-trump-in-gazze-de-kurmayi-planladigi-askeri-ussu-engelliyor-324442",
-      "published": "2026-10-15T10:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:30:56.610891+00:00"
-    },
-    {
-      "id": "5ce512cf9ae5c3ed",
-      "source": "DonanımHaber",
-      "title": "1.008 km menzilli BYD DaHan, otoyolda menzilinin neredeyse yarısını kaybetti",
-      "summary": "BYD DaHan, Xiaomi SU7 ve Tesla Model 3 otoyol testinde karşılaştı. 1.008 km menzil açıklanan DaHan 566,4 km yol yaparken, testin en uzun mesafesini Xiaomi SU7 katetti. İşte üç elektriklinin sonuçları.",
-      "link": "https://www.donanimhaber.com/1-008-km-menzilli-byd-dahan-in-otoyol-menzili-tartisma-yaratti--211657",
-      "published": "2026-10-15T10:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:16:00.216178+00:00"
-    },
-    {
-      "id": "f7167bf302ba9d52",
-      "source": "OdaTV",
-      "title": "Trabzonspor-Beşiktaş derbisinin hakemi belli oldu",
-      "summary": "Trendyol Süper Lig’in 8. haftasında oynanacak Trabzonspor-Beşiktaş derbisinin hakemi belli oldu. Mücadelede Cihan Aydın düdük çalacak.",
-      "link": "https://www.odatv.com/spor/trabzonspor-besiktas-derbisinin-hakemi-belli-oldu-120166795",
-      "published": "2026-10-15T10:12:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:20:40.408874+00:00"
-    },
-    {
-      "id": "196dd5a6b2ba0344",
-      "source": "Hürriyet",
-      "title": "Amasra'da fırtına alarmı: 2 metrelik dev dalgalar kıyıyı dövdü",
-      "summary": "Kuvvetli rüzgarın hayatı olumsuz etkilediği Amasra'da dalga boyu 2 metreyi buldu. Sahil Güvenlik ve polis ekipleri önlem alırken, tekneler limana demirledi, belediye ise vatandaşları dikkatli olmaları için uyardı.",
-      "link": "https://www.hurriyet.com.tr/gundem/amasrada-firtina-alarmi-2-metrelik-dev-dalgalar-kiyiyi-dovdu-43342684",
-      "published": "2026-10-15T10:12:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T10:45:38.513213+00:00"
     }
   ]
 }

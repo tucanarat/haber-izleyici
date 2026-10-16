@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-16T01:06:07.114677+00:00",
+  "last_updated": "2026-10-16T01:10:56.955484+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 534,
+  "new_items_this_run": 523,
   "items": [
     {
       "id": "6ccd7157877ef897",
@@ -624,6 +624,17 @@
       "fetched_at": "2026-10-16T00:35:34.939629+00:00"
     },
     {
+      "id": "0f6feb69650119cc",
+      "source": "Bir Gün",
+      "title": "Resmi Gazete'de yayımlandı: Kamu ihalelerinde yeni dönem",
+      "summary": "Kamu İhale Kurumu, kamu ihalelerine katılımda dikkate alınan kesinleşmiş sosyal güvenlik prim borcu ve vergi borcu sınırlarını 10 katına çıkardı. Yeni düzenleme 15 Kasım 2026'da yürürlüğe girecek. Bu tarihten önce ilan edilen veya yazılı olarak duyurulan ihalelerde ise eski hükümler uygulanacak.",
+      "link": "https://www.birgun.net/haber/resmi-gazete-de-yayimlandi-kamu-ihalelerinde-yeni-donem-740638",
+      "published": "2026-10-16T00:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:10:38.127178+00:00"
+    },
+    {
       "id": "cc54f7cbd8a017d6",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "İsrail basını: Ordu, İran veya Hizbullah ile olası bir gerilime hazırlanıyor",
@@ -699,6 +710,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T00:15:38.154576+00:00"
+    },
+    {
+      "id": "73f72f59eab4d3f9",
+      "source": "Bir Gün",
+      "title": "Kişisel Verileri Koruma Kurulu’na iki yeni üye: AKP'nin adayları seçildi",
+      "summary": "TBMM Genel Kurulu'nda yapılan seçimle Kişisel Verileri Koruma Kurulu'nda boş bulunan iki üyeliğe AKP Grubu tarafından aday gösterilen Recep Keskin ve Cennet Alas Şekerbay seçildi. Karar, Resmî Gazete'de yayımlandı.",
+      "link": "https://www.birgun.net/haber/kisisel-verileri-koruma-kuruluna-iki-yeni-uye-akp-nin-adaylari-secildi-740637",
+      "published": "2026-10-16T00:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:10:38.127219+00:00"
     },
     {
       "id": "8f8aaa0102ac8d07",
@@ -4089,6 +4111,61 @@
       "fetched_at": "2026-10-15T21:01:06.561293+00:00"
     },
     {
+      "id": "baee8ea48c460bef",
+      "source": "Yeni Yaşam",
+      "title": "Koridor arayışı mı, jeoekonomik çıkarlar mı?",
+      "summary": "ABD ve İsrail’in İran’a karşı başlattıkları saldırı savaşının sonucunda Hürmüz Boğazı ile Kızıldeniz’e giriş noktası olan Bab el-Mandab’ın fiilen kapatılması Avrupa’yı, ama özellikle enerji kaynakları ithalatına bağımlı olan Almanya’yı olumsuz etkilemektedir. Bu nedenle Avrupalı devletler risk oranını azaltan alternatif güzergâhlar arayışına girmekteler. Basına yansıyan haberlere göre Körfez ülkel",
+      "link": "https://yeniyasamgazetesi9.com/koridor-arayisi-mi-jeoekonomik-cikarlar-mi/",
+      "published": "2026-10-15T21:00:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:10:47.941982+00:00"
+    },
+    {
+      "id": "330c88fc92e011e5",
+      "source": "Yeni Yaşam",
+      "title": "Bir koyup üç almak",
+      "summary": "Hayatın acı gerçekleri dönüp dolaşıp iktidarı vuruyor. İktidardakiler nasıl düşünür? Herkes kendini kurtarır diye düşünür. Neoliberalizmin bireyci felsefesinden az öteye giden bir iç dünyaları yoktur; iş paraya, mala, mülke gelince. Belki çerçeveletip arkalarına asmak istedikleri söz “Can cümleden azizdir” olabilir. İktidarın yandaş elitleri köşeyi dönebilme fırsatı bulduğunda dönüp arkasına mı ba",
+      "link": "https://yeniyasamgazetesi9.com/bir-koyup-uc-almak/",
+      "published": "2026-10-15T21:00:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:10:47.942032+00:00"
+    },
+    {
+      "id": "feb70878f8ee143f",
+      "source": "Yeni Yaşam",
+      "title": "Güven değil, güvence…",
+      "summary": "Önceki yazıda özetle &#8220;Bu Cumhuriyet kimin cumhuriyeti olacak?&#8221; çerçevesi ile gitmiş bazı başlıklara kısaca değinmiştim. Bu soruyu duyan pek çok Kürdün (ve elbette başka halklardan arkadaşların) aklına ise başka bir soru geliyor: Neden bu kez? Kuşku haklıdır. Bu ülkenin siyasal takvimi, “açılımlarla kapanımların takvimidir.” 1921&#8217;in yerel muhtariyetini 1924 kaldırdı. 1991&#8217;de",
+      "link": "https://yeniyasamgazetesi9.com/guven-degil-guvence/",
+      "published": "2026-10-15T21:00:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:10:47.942074+00:00"
+    },
+    {
+      "id": "05e5ae46761c4eb6",
+      "source": "Yeni Yaşam",
+      "title": "Trakya kaya gazına karşı harekete geçti",
+      "summary": "Trakya’da kaya gazı sondajları 400’e ulaştı. yer altı suları 600 metreye geriledi. Süren sondajlara 500 milyon m2 daha eklenmek istenirken, bu yok oluşa karşı ortaya konan tepkiler ise Trakya için umut veriyor K. Bülent Ongun Trakya’da Türkiye Petrolleri Anonim Ortaklığı’nın (TPAO) Petrol ve Doğalgaz Arama (Kaya petrolü ve kaya gazı) ve Üretim Projesi kapsamında alınan [&#8230;]",
+      "link": "https://yeniyasamgazetesi9.com/trakya-kaya-gazina-karsi-harekete-gecti/",
+      "published": "2026-10-15T21:00:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:10:47.942112+00:00"
+    },
+    {
+      "id": "5a06a8f2d8b6b76d",
+      "source": "Yeni Yaşam",
+      "title": "Belediyeler neden hedefte?",
+      "summary": "Önce Kürt kentlerindeki, şimdilerde Türkiye genelinde muhalefetin yönetiminde olan belediyeler neden hedefte? Bu sorunun cevabı “Kürtlere yapıldığında neredeydiniz, bak sizin de başınıza geldi” cümlesindeki acı dersi ve vasat kıyası tekrarlamakla elde edemeyiz. İki olguyu birlikte düşünmemiz gerekiyor. İlk olgu sömürgeden ana karaya tahakküm transferi… Susan Buck-Morss, Hegel, Haiti ve Evrensel Ta",
+      "link": "https://yeniyasamgazetesi9.com/belediyeler-neden-hedefte/",
+      "published": "2026-10-15T21:00:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:10:47.942151+00:00"
+    },
+    {
       "id": "1bd7a4492e7049d6",
       "source": "Hürriyet",
       "title": "BURHANİYE BELEDİYE BAŞKANLIĞI",
@@ -5299,6 +5376,17 @@
       "fetched_at": "2026-10-15T20:10:45.115651+00:00"
     },
     {
+      "id": "41555a4c651462e1",
+      "source": "Habertürk",
+      "title": "Bakan Kurum: Zorunlu olmadıkça evden çıkmayın",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, İstanbul'da meydana gelen yağış ile ilgili açıklamalarda bulundu. Bakan Kurum \"Tedbiri elden bırakmayacağız. Metoroloji'nin uyarıları devam ediyor. Yarın Avrupa yakasında yağışlarımız var. 24 ilimiz için uyarılar devam ediyor. Cumartesi de yağışların İstanbul genelinde devam edeceğini Meteorolojimiz söylüyor. Vatandaşlarımızın zorunlu olma",
+      "link": "https://www.haberturk.com/gundem/son-dakika-bakan-kurum-aciklamalarda-bulunuyor-3920073",
+      "published": "2026-10-15T20:09:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:10:32.948912+00:00"
+    },
+    {
       "id": "a381696127d11ed1",
       "source": "Akşam",
       "title": "Rusya ne yapıyor: Müttefikin müttefike yaptığını!..",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T20:10:47.516677+00:00"
-    },
-    {
-      "id": "b456d511c8083d31",
-      "source": "CNBC-e",
-      "title": "ABD'de seçim öncesi şüpheli mektup alarmı: FBI soruşturma başlattı",
-      "summary": "ABD'de 3 Kasım'daki Kongre ara seçimleri öncesinde, Kongre üyeleri ve seçim yetkililerinin ofislerine bilinmeyen maddeler içeren şüpheli mektuplar gönderildi. Bazı seçim ofisleri tahliye edilirken FBI geniş çaplı soruşturma başlattı.",
-      "link": "https://www.cnbce.com/dunya/abdde-secim-oncesi-supheli-mektup-alarmi-fbi-sorusturma-baslatti-h39569",
-      "published": "2026-10-15T20:05:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T20:05:50.112971+00:00"
-    },
-    {
-      "id": "7538f8229b84d913",
-      "source": "Sözcü",
-      "title": "SON DAKİKA... İstanbul Valiliği uyardı: Yarın daha kötüsü geliyor",
-      "summary": "SON DAKİKA... İstanbul Valiliği uyardı: Yarın daha kötüsü geliyor",
-      "link": "https://www.sozcu.com.tr/son-dakika-istanbul-valiligi-nden-son-dakika-uyarisi-yarin-daha-kotusu-geliyor-p369502",
-      "published": "2026-10-15T20:05:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T20:10:40.653690+00:00"
-    },
-    {
-      "id": "210fe0a6a9015b43",
-      "source": "Yeniçağ",
-      "title": "AK Parti'den Mekke İttifakı açıklaması: Orta Koridor'un güney hattını güvence altına alıyoruz",
-      "summary": "AK Parti Genel Başkan Yardımcısı Kürşad Zorlu, “İmzalanan Mekke Anlaşması ile aslında biz Orta Koridor&#039;un güney hattını güvence altına alıyoruz.&quot; ifadelerini kullandı.",
-      "link": "https://www.yenicaggazetesi.com/ak-partiden-mekke-ittifaki-aciklamasi-orta-koridorun-guney-hattini-guvence-altina-aliyoruz-1082431h.htm",
-      "published": "2026-10-15T20:04:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T20:05:39.577651+00:00"
-    },
-    {
-      "id": "f6c9d4d7d23ce65a",
-      "source": "Bir Gün",
-      "title": "AKP'den Azerbaycan açıklaması: \"Erdoğan'ın Azerbaycan'a olan sevgisi yürektendir\"",
-      "summary": "AKP Genel Başkan Yardımcısı Zorlu \"Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın Azerbaycan'a olan sevgisi yürektendir, kalptendir ve geleceğe dimdik ilerleyecek bir muhtevayı da barındırmaktadır\" dedi.",
-      "link": "https://www.birgun.net/haber/akp-den-azerbaycan-aciklamasi-erdogan-in-azerbaycan-a-olan-sevgisi-yurektendir-740595",
-      "published": "2026-10-15T20:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T21:05:34.011386+00:00"
-    },
-    {
-      "id": "620e23867cf8b31a",
-      "source": "Milliyet",
-      "title": "Bakan Kurum'dan İstanbul'daki sel felaketiyle ilgili önemli açıklamalar: Tek bir mağdur kalmayacak",
-      "summary": "Çevre Şehircilik ve İklim Değişikliği Bakanı Murat Kurum: Metrekareye 273 kilogram yağış düştü. sel felaketi gören 39 ilçemizde, 14 ayrı noktada 110 aracımızla yine itfaiyemiz, belediyelerimiz vatandaşımıza sıcak çorba ve ihtiyaçlarını giderecek yardımları anbean yapmaktadır. Tabii, bu çerçevede 48 toprak kayması vakası gerçekleşti ve yine 39 ilçemizde 53 istinat duvarı da bu aşırı yağış sebebiyle",
-      "link": "https://www.milliyet.com.tr/gundem/bakan-kurum-istanbuldaki-sel-felaketinin-ardindan-onemli-aciklamalar-tek-magdur-kalmayacak-7680695",
-      "published": "2026-10-15T20:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T20:05:35.538057+00:00"
-    },
-    {
-      "id": "75d62cfa966adca6",
-      "source": "Yeni Yaşam",
-      "title": "Selahaddin Eyyubi’nin Şam’daki anıtının taşınmasına tepki",
-      "summary": "Mezopotamya İslami Araştırmaları Federasyonu, Selahaddin Eyyubi’nin Şam’daki anıtının taşınmasına dair yaptığı açıklamada, ‘Bu bir restorasyon değil, Kürtlerin tarihini kendi toprağından koparma ve hafızasını silme girişimidir’ diyerek anıtın derhal yerine konulmasını istedi Mezopotamya İslami Araştırmaları Federasyonu (MİA-FED), Şam’da Selahaddin Eyyubi’nin anıtının taşınmasına dair yazılı açıkla",
-      "link": "https://yeniyasamgazetesi9.com/selahaddin-eyyubinin-samdaki-anitinin-tasinmasina-tepki/",
-      "published": "2026-10-15T20:03:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T20:05:46.663244+00:00"
-    },
-    {
-      "id": "6f3fc5968c320b82",
-      "source": "Aydınlık",
-      "title": "Ayşe Ünlüce, TBB Başkan Vekilliğine seçildi",
-      "summary": "Türkiye Belediyeler Birliği Meclisi’nde yapılan başkan vekilliği seçimini 417 oy alan Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce kazandı. Kocaeli Büyükşehir Belediye Başkanı Tahir Büyükakın ise 369 oy aldı.",
-      "link": "https://www.aydinlik.com.tr/haber/ayse-unluce-tbb-baskan-vekili-oldu-594684",
-      "published": "2026-10-15T20:03:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T20:10:47.516711+00:00"
-    },
-    {
-      "id": "c093b35ddede239b",
-      "source": "Evrensel",
-      "title": "EuroLeague'de 6. hafta: Fenerbahçe, Partizan'ı 74-65 yendi",
-      "summary": "EuroLeague'de Fenerbahçe, Partizan'ı 74-65 yenerek 6. maçında 5. galibiyetini aldı.",
-      "link": "https://www.evrensel.net/haber/6005137/euroleaguede-6-hafta-fenerbahce-partizani-74-65-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-15T20:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T20:20:52.742051+00:00"
     }
   ]
 }

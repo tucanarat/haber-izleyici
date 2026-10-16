@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-16T01:10:56.955484+00:00",
+  "last_updated": "2026-10-16T01:16:02.248090+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 523,
+  "new_items_this_run": 522,
   "items": [
+    {
+      "id": "90677db973e7f7e2",
+      "source": "Yeni Şafak",
+      "title": "İstanbul çöktü",
+      "summary": "Yeni Şafak Gazetesi'nin 16 Ekim 2026 tarihli sayısına hoş geldiniz. Gündem, spor ve ekonomi sayfalarımızda bugünün öne çıkan haberlerini keşfedin.",
+      "link": "https://www.yenisafak.com/galeri/gundem/istanbul-coktu-4864734",
+      "published": "2026-10-16T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T01:15:41.324196+00:00"
+    },
     {
       "id": "6ccd7157877ef897",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T20:16:15.425133+00:00"
-    },
-    {
-      "id": "a820edcad1efe76f",
-      "source": "Aydınlık",
-      "title": "Fenerbahçe, Partizan'ı 74-65 mağlup etti",
-      "summary": "Fenerbahçe, Euroleague 6. hafta maçında sahasında Sırbistan ekibi Partizan’ı 74-65 mağlup etti.",
-      "link": "https://www.aydinlik.com.tr/haber/fenerbahce-partizani-74-65-maglup-etti-594687",
-      "published": "2026-10-15T20:05:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T20:10:47.516677+00:00"
     }
   ]
 }

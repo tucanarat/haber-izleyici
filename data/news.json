@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-16T23:35:48.021347+00:00",
+  "last_updated": "2026-10-16T23:40:52.321510+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 502,
+  "new_items_this_run": 473,
   "items": [
     {
       "id": "49437ead8f0d15e9",
@@ -19,6 +19,17 @@
       "fetched_at": "2026-10-16T11:20:37.358859+00:00"
     },
     {
+      "id": "1f7874c2148b1959",
+      "source": "BBC News Türkçe",
+      "title": "İstanbul'daki yağışlarda can kaybı dörde çıktı",
+      "summary": "İstanbul'da 14 Ekim'deki yağışlar nedeniyle can kaybı sayısı dörde yükseldi.",
+      "link": "https://www.bbc.com/turkce/articles/c9e8l1xvnv40o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T23:37:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T23:40:51.856846+00:00"
+    },
+    {
       "id": "66dbdc2084339c0f",
       "source": "Yeniçağ",
       "title": "Çiftçi maliyetler altında eziliyor: Zafer Partili isimden acil destek çağrısı",
@@ -28,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T23:35:33.717942+00:00"
+    },
+    {
+      "id": "7273f040d7ecab35",
+      "source": "OdaTV",
+      "title": "Yeni Beyaz Saray Sözcüsü Zacharia'nın görevine 5 gün sonra son verildi",
+      "summary": "ABD Başkanı Donald Trump&#039;ın 12 Ekim&#039;de Beyaz Saray Sözcüsü olarak atadığı Katie Zacharia&#039;nın görevine 5 gün sonra son verildi.",
+      "link": "https://www.odatv.com/guncel/yeni-beyaz-saray-sozcusu-zacharianin-gorevine-5-gun-sonra-son-verildi-120167025",
+      "published": "2026-10-16T23:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T23:40:41.140678+00:00"
     },
     {
       "id": "0204189d7f30f044",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T19:10:41.007006+00:00"
-    },
-    {
-      "id": "7d43bdf550ffdfc1",
-      "source": "Euronews Türkçe",
-      "title": "Dünya saat sistemi değişti: Artık saniye 2027’den itibaren kaldırılıyor",
-      "summary": "Bugüne kadar atom saatleriyle ölçülen zamanın Dünya'nın dönüşüyle uyumlu kalmasını sağlamak amacıyla belirli aralıklarla artık saniye eklendi. Ancak 20 Mayıs 2027'den itibaren Eşgüdümlü Evrensel Zaman (UTC), herhangi bir kesinti olmaksızın sürekli ilerleyecek.",
-      "link": "https://tr.euronews.com/2026/10/16/dunya-saat-sistemi-degisti-artik-saniye-2027den-itibaren-kaldiriliyor",
-      "published": "2026-10-16T18:51:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T18:55:56.628168+00:00"
-    },
-    {
-      "id": "ec00790e02786ec5",
-      "source": "Star",
-      "title": "Geldiği gibi gidiyor: Trump, Beyaz Saray Sözcüsü Zacharia'ya kapıyı gösterdi",
-      "summary": "ABD Başkanı Donald Trump, kısa süre önce göreve başlayan Beyaz Saray Sözcüsü Katie Zacharia'nın hakkındaki tartışmaların yoğunlaşmasının ardından \"görevden ayrılabileceği\" sinyalini verdi.",
-      "link": "https://www.star.com.tr/dunya/geldigi-gibi-gidiyor-trump-beyaz-saray-sozcusu-zachariaya-kapiyi-gosterdi-haber-2047043/",
-      "published": "2026-10-16T18:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T18:55:36.490986+00:00"
     }
   ]
 }

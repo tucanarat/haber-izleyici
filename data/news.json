@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-16T00:41:01.971183+00:00",
+  "last_updated": "2026-10-16T00:46:00.047297+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 517,
+  "new_items_this_run": 505,
   "items": [
+    {
+      "id": "2b8fc283bf3c25dd",
+      "source": "Habertürk",
+      "title": "Nevşehir'de otomobil devrildi, sürücü öldü",
+      "summary": "Nevşehir'de sürücüsünün kontrolünden çıkan otomobil devrildi. Kaza nedeniyle aracın içinde sıkışan sürücü hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/nevsehir-de-otomobil-devrildi-surucu-oldu-3920099",
+      "published": "2026-10-16T00:39:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T00:45:33.382492+00:00"
+    },
     {
       "id": "a1002ab30f540acd",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T19:45:37.726032+00:00"
-    },
-    {
-      "id": "33ee09628c225296",
-      "source": "Milliyet",
-      "title": "Zonguldak Valiliği duyurdu: Okullara bir gün ara, bazı personele idari izin",
-      "summary": "Kent genelinde etkisini sürdüren olumsuz hava şartlarının ardından Zonguldak Valiliği, yazılı açıklamayla alınan tedbirleri kamuoyuna duyurdu. Yağışların yol açabileceği tehlikeler dikkate alınarak alınan karar gereğince, 16 Ekim Cuma günü resmi ve özel eğitim kurumlarının tamamında yüz yüze eğitim faaliyetlerine bir gün süreyle ara verilecek. Kamu çalışanlarını ilgilendiren karara göre ise engell",
-      "link": "https://www.milliyet.com.tr/gundem/zonguldak-valiligi-duyurdu-okullara-bir-gun-ara-bazi-personele-idari-izin-7680689",
-      "published": "2026-10-15T19:42:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T19:45:36.876278+00:00"
     }
   ]
 }

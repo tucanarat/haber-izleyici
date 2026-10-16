@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-16T18:01:22.677931+00:00",
+  "last_updated": "2026-10-16T18:06:01.765952+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 498,
+  "new_items_this_run": 497,
   "items": [
     {
       "id": "49437ead8f0d15e9",
@@ -19,6 +19,72 @@
       "fetched_at": "2026-10-16T11:20:37.358859+00:00"
     },
     {
+      "id": "de8072a1412b6d05",
+      "source": "DonanımHaber",
+      "title": "Panasonic konutlar için yeni R454C havadan suya ısı pompasını duyurdu",
+      "summary": "Panasonic R454C yeni ısı pompası serisi farklı ısıtma kapasiteleri ile müstakil evlerden ziyade daire tabanlı konutlarda kullanılmak için tasarlanmış.",
+      "link": "https://www.donanimhaber.com/panasonic-r454c-isi-pompasi-tanitildi--211720",
+      "published": "2026-10-16T18:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T18:05:57.463545+00:00"
+    },
+    {
+      "id": "504396949d64507a",
+      "source": "Aydınlık",
+      "title": "ÖSYM'den İstanbul için hafta sonu kararı! Sınavlar ertelendi",
+      "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), İstanbul&#039;da hafta sonu beklenen şiddetli yağış nedeniyle kentte gerçekleştirilecek sınavların ertelendiğini bildirdi.",
+      "link": "https://www.aydinlik.com.tr/haber/osymden-istanbul-icin-hafta-sonu-karari-sinavlar-ertelendi-594817",
+      "published": "2026-10-16T18:03:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T18:05:41.469322+00:00"
+    },
+    {
+      "id": "e735db4fdd51b8a9",
+      "source": "Independent Türkçe",
+      "title": "Erbakan’dan fon krizi eleştirisi: Kendinize zaman kazandırıyor, Türkiye’ye kaybettiriyorsunuz",
+      "summary": "Yeniden Refah Partisi Genel Başkanı Fatih Erbakan, fon krizine ilişkin yürütülen soruşturma sürecini ve oluşturulan kurulları eleştirerek, sürecin TBMM’de kurulacak karma komisyona devredilmesini istedi. Erbakan, “Bir nebze samimiyet gösterin, kararlılık sergileyin, süreç yönetimini TBMM’de konuya hakim isimlerden oluşacak karma komisyona devredin” dedi. Yeniden Refah Partisi Genel Başkanı Fatih E",
+      "link": "https://www.indyturk.com/node/783941/haber/erbakan%E2%80%99dan-fon-krizi-ele%C5%9Ftirisi-kendinize-zaman-kazand%C4%B1r%C4%B1yor-t%C3%BCrkiye%E2%80%99ye",
+      "published": "2026-10-16T18:03:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T18:05:47.733500+00:00"
+    },
+    {
+      "id": "efb2c3245e4d1939",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "AB, yüksek enerji fiyatlarına karşı yeni önlemler hazırlıyor",
+      "summary": "AB Komisyonu Başkanı Von der Leyen, yüksek enerji fiyatlarının etkilerini hafifletmek için metan düzenlemesinin uygulanmasını 1 yıl erteleyeceklerini, ve geçici kamu yardımı çerçevesini genişleteceklerini söyledi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ab-yuksek-enerji-fiyatlarina-karsi-yeni-onlemler-hazirliyor/4091391",
+      "published": "2026-10-16T18:03:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T18:05:31.169526+00:00"
+    },
+    {
+      "id": "234925a6077741ce",
+      "source": "Aydınlık",
+      "title": "Özel ve Dervişoğlu, İmamoğlu’nun savunmasının ardından konuştu",
+      "summary": "YENİ Parti Genel Başkanı Özgür Özel ile İYİ Parti Genel Başkanı Müsavat Dervişoğlu, Silivri’deki 100’üncü duruşmada Ekrem İmamoğlu’nun savunmasını takip etti. İki genel başkan, duruşma sonrasında açıklama yaptı.",
+      "link": "https://www.aydinlik.com.tr/haber/ozel-ve-dervisoglundan-ibb-davasi-aciklamalari-594814",
+      "published": "2026-10-16T18:02:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T18:05:41.469359+00:00"
+    },
+    {
+      "id": "e6c7cc0164fb9e4e",
+      "source": "Milliyet",
+      "title": "'ABD ve İsrail İran'ı vuracak' iddiası! Brent petrol 110 dolara fırladı",
+      "summary": "ABD Başkanı Donald Trump, daha önce Savunma Bakanlığının (Pentagon) İran'ın enerji altyapısı ve nükleer tesislerine saldırı kapsamında GBU-43/B bombasını kullanmayı değerlendirdiği iddialarına dair Trump, kullanımı değerlendirdiği öne sürülen söz konusu silahın nükleer olmadığını söyledi. Program sunucusu Rob Finnerty’nin \"taktik nükleer silah\" kullanımının da seçenekler arasında olup olmadığı sor",
+      "link": "https://www.milliyet.com.tr/dunya/abd-ve-israil-irani-vuracak-iddiasi-brent-petrol-110-dolara-firladi-7681398",
+      "published": "2026-10-16T18:01:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T18:05:36.405916+00:00"
+    },
+    {
       "id": "0b19c68ac93e1b79",
       "source": "Akşam",
       "title": "Küllerinden doğdu! Herkes Cengiz Ünder'i konuşuyor...",
@@ -30,6 +96,17 @@
       "fetched_at": "2026-10-16T18:01:02.473192+00:00"
     },
     {
+      "id": "f98c9804774f6466",
+      "source": "ShiftDelete.Net",
+      "title": "Reklam Görmek Yetiyor: İsrail Telefonlara Sızıyor",
+      "summary": "İnternet reklamları üzerinden gerçekleştirilen yeni bir sıfır tıklama casus yazılım saldırısı ortaya çıkarıldı. Citizen Lab ve Confiant araştırmacıları, İsrail merkezli Discover-Tech&#8217;in dijital reklam altyapısını kullanarak milyonlarca kullanıcıyı takip edebildiğini ve seçilen hedeflere Candiru casus yazılımının bulaştırılmasına aracılık ettiğini tespit etti. Sistemin en dikkat çekici yanı i",
+      "link": "https://shiftdelete.net/reklam-gormek-yetiyor-israil-telefonlara-siziyor",
+      "published": "2026-10-16T18:00:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T18:05:56.460306+00:00"
+    },
+    {
       "id": "4a7c954f56099b62",
       "source": "Cumhuriyet",
       "title": "Alanyaspor maçı öncesi... Marco Asensio'dan Fenerbahçe'ye kötü haber",
@@ -39,6 +116,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T18:00:56.706811+00:00"
+    },
+    {
+      "id": "3fcd492b03662509",
+      "source": "Habertürk",
+      "title": "Sakarya'da eğitime iki gün ara",
+      "summary": "Sakarya'da beklenen şiddetli yağış nedeniyle bazı eğitim faaliyetlerine 17-18 Ekim tarihlerinde iki gün ara verildi. Valilik, özel kurslar, rehabilitasyon merkezleri, kreşler ve çeşitli sınavların da karar kapsamında olduğunu açıkladı",
+      "link": "https://www.haberturk.com/gundem/sakarya-valiligi-siddetli-yagis-nedeniyle-bazi-egitim-faaliyetlerini-durdurdu-3920320",
+      "published": "2026-10-16T17:57:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T18:05:28.228358+00:00"
     },
     {
       "id": "992518efd3d368b3",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T14:45:46.828299+00:00"
-    },
-    {
-      "id": "0a6602ffeb27b1a4",
-      "source": "Ekonomim",
-      "title": "Karbon kredileri Afrika için fırsat mı risk mi",
-      "summary": "Afrika ülkelerine, karbon kredilerini uluslararası piyasalara sunmadan önce kendi iklim hedeflerini ve ekonomik ihtiyaçlarını değerlendirmeleri çağrısı yapıldı. Uzmanlar, karbon kredilerinin kontrolsüz ihracatının ülkelerin emisyon azaltım planlarını zorlaştırabileceğine dikkat çekerken, bu kaynakların kıtanın sürdürülebilir kalkınması ve iklim finansmanı açısından stratejik önem taşıdığını vurgul",
-      "link": "https://www.ekonomim.com/dunya/karbon-kredileri-afrika-icin-firsat-mi-risk-mi-haberi-925208",
-      "published": "2026-10-16T14:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T14:45:57.284027+00:00"
-    },
-    {
-      "id": "bcc9dde5b0a86905",
-      "source": "Star",
-      "title": "İstanbul için bir uyarı daha! Valilik saat verdi",
-      "summary": "İstanbul Valiliği, kentte yarın akşam saatlerinden sonra beklenen fırtına için uyarıda bulundu.",
-      "link": "https://www.star.com.tr/guncel/istanbul-icin-bir-uyari-daha-valilik-saat-verdi-haber-2046999/",
-      "published": "2026-10-16T14:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T14:40:39.571977+00:00"
-    },
-    {
-      "id": "835b9b9977c8b1e4",
-      "source": "Sözcü",
-      "title": "Kubilay Kaan Kundakçı davasında karar çıktı: Kalaycıoğlu'na beraat, Kadayıfçıoğlu'na müebbet",
-      "summary": "Kubilay Kaan Kundakçı davasında karar çıktı: Kalaycıoğlu'na beraat, Kadayıfçıoğlu'na müebbet",
-      "link": "https://www.sozcu.com.tr/aleyna-kalaycioglu-hakkinda-karar-p369888",
-      "published": "2026-10-16T14:38:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T14:40:36.225266+00:00"
-    },
-    {
-      "id": "3a847ed9237f994e",
-      "source": "DW Türkçe",
-      "title": "AB zirvesine ABD-Rusya yakınlaşması ve Starlink krizi damgasını vurdu",
-      "summary": "AB liderler zirvesine ABD-Rusya yakınlaşması ve Başkan Trump'ın Ukrayna lideri Zelenskiy'e sert eleştirileri sonrası Ukrayna'ya hizmet veren Starlink uydu sistemlerinde yaşanan aksaklık damgasını vurdu.",
-      "link": "https://www.dw.com/tr/ab-zirvesine-abd-rusya-yakınlaşması-ve-starlink-krizi-damgasını-vurdu/a-79682436?maca=tur-rss-tur-all-1495-rdf",
-      "published": "2026-10-16T14:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T14:51:07.168652+00:00"
-    },
-    {
-      "id": "d6a1cc32386a00e7",
-      "source": "Star",
-      "title": "Bakan Bak'tan genç pilot Alp Aksoy'a tebrik mesajı",
-      "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, Ferrari'nin sürücü gelişim programına seçilen genç pilot Alp Aksoy'u tebrik etti.",
-      "link": "https://www.star.com.tr/spor/bakan-baktan-genc-pilot-alp-aksoya-tebrik-mesaji-haber-2046998/",
-      "published": "2026-10-16T14:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T14:40:39.572011+00:00"
-    },
-    {
-      "id": "56ff810557dfae5f",
-      "source": "Yeni Şafak",
-      "title": "Selden etkilenen 3 ile 40 milyon lira kaynak aktarıldı",
-      "summary": "Antalya, Kocaeli ve Sakarya'da meydana gelen sel felaketinden etkilenen vatandaşların acil ihtiyaçlarının karşılanması için toplam 40 milyon TL kaynak aktarıldı.",
-      "link": "https://www.yenisafak.com/gundem/selden-etkilenen-3-ile-40-milyon-lira-kaynak-aktarildi-4864933",
-      "published": "2026-10-16T14:37:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T14:40:39.280775+00:00"
-    },
-    {
-      "id": "25da76fc379f50e2",
-      "source": "Diken",
-      "title": "Kaan Kundakçı cinayeti davasında karar: Aleyna Kalaycıoğlu'na beraat",
-      "summary": "Kaan Kundakçı cinayeti davasında karar: Aleyna Kalaycıoğlu'na beraat 16.10.2026 Diken Futbolcu Kubilay Kaan Kundakçı cinayetinde Alaattin Kadayıfçıoğlu'na müebbet hapis cezası verilirken şarkıcı Aleyna Kalaycıoğlu beraat etti. The post Kaan Kundakçı cinayeti davasında karar: Aleyna Kalaycıoğlu'na beraat appeared first on #site_linkat 16.10.2026 .",
-      "link": "https://www.diken.com.tr/kaan-kundakci-cinayeti-davasinda-karar-aleyna-kalayciogluna-beraat/?utm_source=rss&utm_medium=rss&utm_campaign=kaan-kundakci-cinayeti-davasinda-karar-aleyna-kalayciogluna-beraat",
-      "published": "2026-10-16T14:37:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T14:40:42.283301+00:00"
-    },
-    {
-      "id": "1756b2aca4c8fab4",
-      "source": "Yeni Şafak",
-      "title": "İstanbul'da jandarma ekipleri sel sonrası temizlik çalışmalarına katıldı",
-      "summary": "İstanbul Sarıyer'de etkili olan selin ardından bölgede temizlik ve onarım çalışmaları gün boyu devam etti. İstanbul İl Jandarma Komutanlığı personeli de selden etkilenen alanlarda yürütülen çalışmalara katıldı. Ekipler, evlerde biriken suyun tahliyesi ve eşyaların çıkarılmasına yardımcı oldu.",
-      "link": "https://www.yenisafak.com/video/gundem/istanbulda-jandarma-ekipleri-sel-sonrasi-temizlik-calismalarina-katildi-4864932",
-      "published": "2026-10-16T14:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T14:40:39.280821+00:00"
     }
   ]
 }

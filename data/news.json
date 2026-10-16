@@ -1,12 +1,276 @@
 {
-  "last_updated": "2026-10-16T09:15:57.268618+00:00",
+  "last_updated": "2026-10-16T09:21:07.173450+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 478,
+  "new_items_this_run": 503,
   "items": [
+    {
+      "id": "923daf45903bf734",
+      "source": "CNBC-e",
+      "title": "Trenle ücretsiz seyahat edenler dikkat! 29 Ekim'de yeni dönem başlıyor",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, ücretsiz tren seyahati hakkı bulunan vatandaşlar için 29 Ekim'de dijital doğrulama sistemine geçileceğini açıkladı. Yeni uygulamayla bilet alırken T.C. kimlik numarasıyla hak sahipliği sorgulanacak, yolculuk sırasında ek belge gösterme zorunluluğu ka",
+      "link": "https://www.cnbce.com/haberler/trenle-ucretsiz-seyahat-edenler-dikkat-29-ekimde-yeni-donem-basliyor-h39604",
+      "published": "2026-10-16T09:20:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:58.372449+00:00"
+    },
+    {
+      "id": "227be0be7e5c2d0e",
+      "source": "Yeniçağ",
+      "title": "Resmi Gazete'de yayımlandı: AYM'den siyasi partiler için peş peşe suç duyurusu",
+      "summary": "Anayasa Mahkemesi (AYM), siyasi partilerin mali denetimleri sonucunda hazırlanan raporları karara bağladı. Kesin hesap incelemeleri neticesinde kanuna aykırılık tespit eden ve gerekli evrakları zamanında sunmayan 15 siyasi parti hakkında suç duyurusunda bulunulması kararlaştırıldı.",
+      "link": "https://www.yenicaggazetesi.com/resmi-gazetede-yayimlandi-aymden-siyasi-partiler-icin-pes-pese-suc-duyurusu-1082500h.htm",
+      "published": "2026-10-16T09:20:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:46.878423+00:00"
+    },
+    {
+      "id": "221ad3c6dded5c12",
+      "source": "CNBC-e",
+      "title": "Sermaye piyasalarında yeni adımlar: Şimşek'ten fon düzenlemesi açıklaması",
+      "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, sorunlu fonların tasfiyesi ve yatırımcı haklarının korunmasının öncelikli olduğunu belirtti. Şimşek, fonlardaki koordineli işlemler dahil sermaye piyasası suçlarına yönelik yasal düzenlemelerin 2027 başına kadar tamamlanacağını açıkladı.",
+      "link": "https://www.cnbce.com/haberler/sermaye-piyasalarinda-yeni-adimlar-simsekten-fon-duzenlemesi-aciklamasi-h39603",
+      "published": "2026-10-16T09:19:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:58.372492+00:00"
+    },
+    {
+      "id": "8ba326f0148d7ba0",
+      "source": "Aydınlık",
+      "title": "MSCI uyarısı Borsa İstanbul'u sarstı! Bankacılık ve sanayi hisselerinde sert kayıp",
+      "summary": "MSCI’nin Türkiye endekslerine ilişkin değişiklikleri dondurma kararı Borsa İstanbul’da satış baskısını artırdı. Bankacılık endeksi gerilerken sanayi endeksindeki kayıp yüzde 4’ü aştı. Ancak paylaşılan verilere göre BIST 100, yılbaşındaki seviyesinin üzerinde bulunuyor.",
+      "link": "https://www.aydinlik.com.tr/haber/msci-uyarisi-borsa-istanbulu-sarsti-bankacilik-ve-sanayi-hisselerinde-sert-kayip-594739",
+      "published": "2026-10-16T09:19:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:48.071030+00:00"
+    },
+    {
+      "id": "84a0608cf1645b39",
+      "source": "Yeniçağ",
+      "title": "İstanbul'dan 858 hasar ihbarı",
+      "summary": "İstanbul&#039;da şiddetli yağışların ardından sigorta şirketlerine 838 hasar ihbarı ulaştı. Türkiye Sigorta Birliği, başvuruların artmasını beklerken kentteki konut ve iş yerlerinde sigortalılık oranının yalnızca yüzde 17–20 düzeyinde olduğunu açıkladı.",
+      "link": "https://www.yenicaggazetesi.com/istanbuldan-858-hasar-ihbari-1082499h.htm",
+      "published": "2026-10-16T09:19:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:46.878466+00:00"
+    },
+    {
+      "id": "4ef5184dc17e2d3d",
+      "source": "Akşam",
+      "title": "Avrupa'nın kumbarasında Türk hesabı: Bir yıl içinde şebekeye verilecek",
+      "summary": "Romanya'nın yenilenebilir enerji hedeflerinde Türk yatırımcıların payı hızla artarken, 20 milyon avroluk güneş enerjisi ve depolama projesinin Haziran 2027'de şebekeye bağlanarak faaliyete geçmesi planlanıyor.",
+      "link": "https://www.aksam.com.tr/ekonomi/avrupanin-kumbarasinda-turk-hesabi-bir-yil-icinde-sebekeye-verilecek/haber-1706698",
+      "published": "2026-10-16T09:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:44.169262+00:00"
+    },
+    {
+      "id": "e205c098632140b0",
+      "source": "Star",
+      "title": "Normalleşme pekiştiriliyor! Türkiye'den \"Bağımsızlık Günü\"ne katılım",
+      "summary": "Dışişleri Bakan Yardımcısı Büyükelçi Berris Ekinci, İstanbul'da düzenlenen Ermenistan Bağımsızlık Günü resepsiyonunda yaptığı konuşmada, Türkiye ile Ermenistan arasındaki normalleşme sürecinin tam normalleşme hedefiyle, samimiyet ve kararlılıkla yürütüldüğünü belirtti. İki ülke arasında ulaştırma, enerji ve ticaret alanında somut adımlar atıldığını vurgulayan Ekinci, Ermenistan Başbaşkanı Paşinyan",
+      "link": "https://www.star.com.tr/dunya/turkiye-ile-ermenistan-arasinda-tam-normallesme-adimi-istanbulda-resepsiyon-gerceklestirildi-haber-2046931/",
+      "published": "2026-10-16T09:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:45.450470+00:00"
+    },
+    {
+      "id": "0e5fbf8972079e10",
+      "source": "Ekonomim",
+      "title": "Reuters duyurdu: Ukrayna'ya Starshield kısıtlaması Beyaz Saray'dan",
+      "summary": "Reuters&#039;ın özel haberine göre, Ukrayna ordusunun savaş alanında iletişim ve insansız hava aracı operasyonları için kullandığı SpaceX&#039;in Starshield uydu sistemine yönelik kısıtlama talimatı Beyaz Saray&#039;dan verildi. ABD&#039;li yetkililer, Savunma Bakanlığı yönetimine Ukrayna ordusuna sunulan Starshield hizmetinin sınırlandırılması gerektiği yönünde mesaj iletildiğini bildirdi.",
+      "link": "https://www.ekonomim.com/dunya/reuters-duyurdu-ukraynaya-starshield-kisitlamasi-beyaz-saraydan-haberi-925136",
+      "published": "2026-10-16T09:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:56.971411+00:00"
+    },
+    {
+      "id": "175562d026c2dac6",
+      "source": "Yeni Yaşam",
+      "title": "DEM Parti’den 2027 bütçe açıklaması: Bütçe faize, silaha ve ‘seçim’ yatırımına ayrıldı",
+      "summary": "Meclis&#8217;e sunulmak üzere hazırlanan 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi&#8217;nde bütçenin yüzde 10&#8217;una denk gelen yatırımlara, silaha ve faize ayrıldı AKP’li Cumhurbaşkanı Tayyip Erdoğan’ın imzasıyla Meclis&#8217;e sunulmak üzere hazırlanan 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi’nin ayrıntıları belli oldu. Gelecek yıl bütçe giderleri 27 trilyon 276 milyar lira, bütçe",
+      "link": "https://yeniyasamgazetesi9.com/dem-partiden-2027-butce-aciklamasi-butce-faize-silaha-ve-secim-yatirimina-ayrildi/",
+      "published": "2026-10-16T09:17:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:53.923636+00:00"
+    },
+    {
+      "id": "18f7333da74fc1c5",
+      "source": "Türkiye Gazetesi",
+      "title": "Eski milli yıldızdan Beşiktaş ve Galatasaray itirafı",
+      "summary": "Süper Lig ve Bundesliga’da uzun yıllar top koşturan eski milli futbolcu Tunay Torun, kariyeri ve teknik adamlık hedefleri hakkında Türkiye Gazetesi’ne özel röportaj verdi. Bundesliga’da yaşadığı unutulmaz anılardan Avrupa ve Süper Lig devlerinin peşinde olduğu döneme kadar birçok konuyu içtenlikle paylaşan Torun, eski teknik direktörleri Okan Buruk ve İsmail Kartal hakkında önemli değerlendirmeler",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/ozelsuper-ligin-eski-yildizindan-besiktas-ve-galatasaray-itirafi-basaksehiri-sectim-1823117",
+      "published": "2026-10-16T09:17:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:39.728430+00:00"
+    },
+    {
+      "id": "47a11c6fa7be9141",
+      "source": "Diken",
+      "title": "CHP, Selin Sayek Böke dahil 48 kişiyi ihraç etti",
+      "summary": "CHP, Selin Sayek Böke dahil 48 kişiyi ihraç etti 16.10.2026 Diken Cumhuriyet Halk Partisi (CHP) eski milletvekili Selin Sayek Böke dahil 48 kişiyi ihraç etti. The post CHP, Selin Sayek Böke dahil 48 kişiyi ihraç etti appeared first on #site_linkat 16.10.2026 .",
+      "link": "https://www.diken.com.tr/chp-selin-sayek-boke-dahil-48-kisiyi-ihrac-etti/?utm_source=rss&utm_medium=rss&utm_campaign=chp-selin-sayek-boke-dahil-48-kisiyi-ihrac-etti",
+      "published": "2026-10-16T09:17:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:49.358321+00:00"
+    },
+    {
+      "id": "b998e7923e45a5df",
+      "source": "Yeniçağ",
+      "title": "THY ve CFM'den 600’den fazla motor için iş birliği anlaşması",
+      "summary": "THY, THY Teknik AŞ ve CFM International, 600&#039;den fazla LEAP-1B motorunu kapsayan iş birliği için mutabakata vardı. Anlaşma, Türkiye&#039;de kurulması planlanan motor bakım tesisini de destekleyecek.",
+      "link": "https://www.yenicaggazetesi.com/thy-ve-cfmden-600den-fazla-motor-icin-is-birligi-anlasmasi-1082498h.htm",
+      "published": "2026-10-16T09:17:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:46.878502+00:00"
+    },
+    {
+      "id": "cbd340b1b92356c3",
+      "source": "Akşam",
+      "title": "Babası acı tabloyla karşılaştı! 16 yaşındaki kızın sır ölümü",
+      "summary": "Amasya'da 16 yaşındaki kız öğrenci sabah saatlerinde ailesiyle birlikte yaşadığı evinde ölü bulundu.",
+      "link": "https://www.aksam.com.tr/guncel/babasi-aci-tabloyla-karsilasti-16-yasindaki-kizin-sir-olumu/haber-1706697",
+      "published": "2026-10-16T09:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:44.169296+00:00"
+    },
+    {
+      "id": "6d81f253dab34381",
+      "source": "Star",
+      "title": "Depremde 16 kişiye mezar olmuştu: Hayat Sitesi A Blok davasında karar",
+      "summary": "Malatya'da, 6 Şubat 2023'teki Kahramanmaraş merkezli depremlerde 16 kişinin hayatını kaybettiği, 2 kişinin yaralandığı Hayat Sitesi A Blok'un yıkılmasına ilişkin davada 4 sanığa 10 yıl ile 13 yıl 9 ay arasında hapis cezası verildi.",
+      "link": "https://www.star.com.tr/guncel/depremde-16-kisiye-mezar-olmustu-hayat-sitesi-a-blok-davasinda-karar-haber-2046932/",
+      "published": "2026-10-16T09:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:45.450421+00:00"
+    },
+    {
+      "id": "6ffc224efa881219",
+      "source": "BBC News Türkçe",
+      "title": "Tesla roket teknolojisi destekli 'uçan' spor aracını tanıttı",
+      "summary": "Elektriki araç devi Tesla, 15 Ekim'de yaptığı sunumda, yeniden tasarlanmış \"uçan\" Roadster modelini dikkat çeken bir gösteriyle tanıttı.",
+      "link": "https://www.bbc.com/turkce/articles/cj93z97r50lxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16T09:16:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:21:06.514701+00:00"
+    },
+    {
+      "id": "13f2058552f7040a",
+      "source": "Karar",
+      "title": "Murat Ağırel'den ilk açıklama: Yapmadığım haberden gözaltındım",
+      "summary": "Başka bir soruşturma kapsamında ev hapsinde bulunurken Mali Şube ekiplerince gözaltına alınan gazeteci Murat Ağırel, el yazısıyla kaleme aldığı notta kendisine yöneltilen suçlamaya tepki gösterdi. “Yaptığım haber nedeniyle gözaltına alınmaya alıştım ancak yapmadığım haber nedeniyle gözaltına alınmak ilk defa nasip oldu” diyen Ağırel, mesajını “Adaletin tüm nimetlerinden sınırsız yararlanıyorum” sö",
+      "link": "https://www.karar.com/guncel-haberler/murat-agirelden-ilk-aciklama-yapmadigim-haberden-gozaltindim-2078805",
+      "published": "2026-10-16T09:16:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:46.219217+00:00"
+    },
+    {
+      "id": "f74c7dcfee473cb4",
+      "source": "Habertürk",
+      "title": "'Güldür Güldür Show'un yeni sezon heyecanı başlıyor!",
+      "summary": "SHOW TV'nin sevilen programı 'Güldür Güldür Show' 14'üncü sezonuyla izleyiciyle buluşuyor",
+      "link": "https://www.haberturk.com/magazin/guldur-guldur-show-un-yeni-sezon-heyecani-basliyor-3920183",
+      "published": "2026-10-16T09:16:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:33.974711+00:00"
+    },
+    {
+      "id": "681127fb37a44ae5",
+      "source": "Türkiye Gazetesi",
+      "title": "Bartın Irmağı köpürdü, ekipler teyakkuza geçti",
+      "summary": "Bartın Irmağı'nda suyun köpürmesiyle ilgili Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü ekipleri tarafından inceleme başlatıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/bartin-irmagi-kopurdu-ekipler-teyakkuza-gecti-1823116",
+      "published": "2026-10-16T09:16:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:39.728464+00:00"
+    },
+    {
+      "id": "681127fb37a44ae5",
+      "source": "Türkiye Gazetesi",
+      "title": "Bartın Irmağı köpürdü, ekipler teyakkuza geçti",
+      "summary": "Bartın Irmağı'nda suyun köpürmesiyle ilgili Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü ekipleri tarafından inceleme başlatıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/bartin-irmagi-kopurdu-ekipler-teyakkuza-gecti-1823116",
+      "published": "2026-10-16T09:16:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:39.728491+00:00"
+    },
+    {
+      "id": "95b8067065e751e0",
+      "source": "Milliyet",
+      "title": "Gambiya'da göçmen teknesi battı: 12 kişi hayatını kaybetti",
+      "summary": "Kızılhaç'ın açıklamasına göre, Gambiya kıyıları açıklarında göçmen taşıyan bir teknenin batması sonucu en az 12 kişi hayatını kaybetti. Gambiya Kızılhaç Derneği (GRCS) Perşembe günü yaptığı açıklamada, olayın ülkenin Kuzey Bankası bölgesindeki Jinack Kajata açıklarında meydana geldiğini belirtti. Göçmenlerin, Batı Afrika Atlantik Rotası üzerinden Avrupa'ya doğru ilerledikleri bildirildi. GRCS'den ",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-gambiyada-gocmen-teknesi-batti-12-kisi-hayatini-kaybetti-7680974",
+      "published": "2026-10-16T09:16:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:43.120219+00:00"
+    },
+    {
+      "id": "61e0d9890a672c01",
+      "source": "ShiftDelete.Net",
+      "title": "WhatsApp Silinen Mesajları Görme",
+      "summary": "WhatsApp silinen mesajları görmek çoğu zaman mümkündür. Yanlışlıkla silinen veya karşı tarafın herkes için sildiği mesajları görmek isteyen kullanıcılar bildirim geçmişi veya sohbet yedekleri sayesinde mesajların içeriğine ulaşabiliyor. Bu yazımızda, WhatsApp silinen mesajları görme nasıl yapılır? Adım adım anlatıyoruz. Bildirim geçmişi, WhatsApp mesajlarının bildirimde görünen kısmını gösterebili",
+      "link": "https://shiftdelete.net/whatsapp-silinen-mesajlari-gorme",
+      "published": "2026-10-16T09:16:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:21:03.402442+00:00"
+    },
+    {
+      "id": "459993a6cb5531a9",
+      "source": "Habertürk",
+      "title": "Ugochukwu'dan ayrılık isteği!",
+      "summary": "Galatasaray’ın sezon başındaki ilk hamlesi olarak büyük beklentilerle Burnley’den 1 yıllığına kiralanan Lesley Ugochukwu, sarı-kırmızılı kulüpte aradığını bulamadı.",
+      "link": "https://www.haberturk.com/spor/foto/galatasaray-da-lesley-ugochukwu-dan-ayrilik-istegi-3920184",
+      "published": "2026-10-16T09:15:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:33.974783+00:00"
+    },
+    {
+      "id": "4dd89f743071d487",
+      "source": "Star",
+      "title": "Ücretsiz tren seyahatlerinde yeni dönem! 29 Ekim itibariyle başlıyor",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, engelli, gazi, şehit yakını ve diğer ücretsiz seyahat hakkı bulunan vatandaşlara yönelik tren seyahatlerinde, 29 Ekim itibarıyla dijital doğrulama döneminin başlayacağını bildirdi.",
+      "link": "https://www.star.com.tr/ekonomi/ucretsiz-tren-seyahatlerinde-yeni-donem-29-ekim-itibariyle-basliyor-haber-2046930/",
+      "published": "2026-10-16T09:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:45.450502+00:00"
+    },
+    {
+      "id": "79f6c8e63512fc61",
+      "source": "OdaTV",
+      "title": "İdareten kurulan şehir sele teslim: Vitruvius kızgın",
+      "summary": "İstanbul’daki su baskınları; göç ve betonlaşmayla şekillenen şehirleşme tarihi yeniden önümüzde: Göçebelik geçmişimizi de hesaba katmak gerekiyor...",
+      "link": "https://www.odatv.com/yazarlar/gozde-sula/istanbulda-su-baskinlari-neden-yasaniyor-120166945",
+      "published": "2026-10-16T09:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:48.855716+00:00"
+    },
     {
       "id": "901a59082bc87fac",
       "source": "Star",
@@ -28,6 +292,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T09:15:43.058960+00:00"
+    },
+    {
+      "id": "36f880caf3acdb52",
+      "source": "Diken",
+      "title": "Sarıgül: İddialar gerçek dışı, konu ticari iş anlaşmazlığı",
+      "summary": "Sarıgül: İddialar gerçek dışı, konu ticari iş anlaşmazlığı 16.10.2026 Diken YENİ Parti Erzincan Milletvekili Mustafa Sarıgül, aile üyelerinin gözaltına alındığı soruşturmaya ilişkin &#8220;Konu ticari bir iş anlaşmazlığıdır. Karşı tarafın ileri sürdüğü iddialar gerçek dışıdır&#8221; dedi. İstanbul başsavcılığı, bugün Sarıgül ailesi hakkında ‘kara para aklama’ ve ‘tehdit’ suçlamalarıyla soruşturma ",
+      "link": "https://www.diken.com.tr/sarigul-iddialar-gercek-disi-konu-ticari-is-anlasmazligi/?utm_source=rss&utm_medium=rss&utm_campaign=sarigul-iddialar-gercek-disi-konu-ticari-is-anlasmazligi",
+      "published": "2026-10-16T09:14:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:49.358387+00:00"
     },
     {
       "id": "2077b13e8fde7af4",
@@ -105,6 +380,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T09:15:38.948888+00:00"
+    },
+    {
+      "id": "b666f559777ac2d1",
+      "source": "Ekonomim",
+      "title": "Türkiye’nin spor turizmi 1,4 milyar dolara yaklaştı",
+      "summary": "Türkiye’nin spor turizmi pazarı, uluslararası organizasyonlar, spor kampları ve golf turizminin katkısıyla 1,4 milyar dolara yaklaşırken, sektördeki harcamaların yüzde 50-60’ı yabancı ziyaretçilerden geliyor.",
+      "link": "https://www.ekonomim.com/sektorler/turizm/turkiyenin-spor-turizmi-14-milyar-dolara-yaklasti-haberi-925135",
+      "published": "2026-10-16T09:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:56.971452+00:00"
     },
     {
       "id": "9bb57b1359c22e12",
@@ -369,6 +655,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T09:10:42.965648+00:00"
+    },
+    {
+      "id": "fef0a4f0486a0308",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Türk Devletleri Teşkilatı üyeleri medya işbirliğini geliştirmek için toplandı",
+      "summary": "TDT Medya ve Enformasyondan Sorumlu Bakanlar ve Üst Düzey Yetkililer 8. Toplantısı'nda, üye ülkeler arasında medya işbirliğinin geliştirilmesi, dezenformasyonla mücadele ve yapay zeka teknolojilerinin medya alanında kullanılması ele alındı.",
+      "link": "https://www.aa.com.tr/tr/gundem/turk-devletleri-teskilati-uyeleri-medya-isbirligini-gelistirmek-icin-toplandi/4090752",
+      "published": "2026-10-16T09:06:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:36.874345+00:00"
     },
     {
       "id": "e9f4193906c7bab1",
@@ -3682,6 +3979,17 @@
       "fetched_at": "2026-10-16T09:05:33.255850+00:00"
     },
     {
+      "id": "a48ef5761225c25a",
+      "source": "OdaTV",
+      "title": "Türkiye Odatv'den öğrendi: Ankara Abi'si yakayı ele verdi... İkinci AHBAP vakası",
+      "summary": "Sosyal medyada “Ankara Abisi” olarak tanınan Yasin Oyanık’ın başkanlığını yaptığı derneğin hesapları, yasa dışı bahis soruşturmasında mercek altında. “Akif’in babasının zekâtı” açıklamasıyla derneğe 153,7 milyon TL aktarıldığı belirlenirken Oyanık’ın da aralarında bulunduğu 22 şüpheli tutuklandı.",
+      "link": "https://www.odatv.com/ekonomi/ankara-abisi-yasin-oyanik-tutuklandi-bagis-adi-altinda-153-milyon-tllik-bahis-trafigi-120166940",
+      "published": "2026-10-16T08:12:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:48.856016+00:00"
+    },
+    {
       "id": "f481349982a59058",
       "source": "Yeni Şafak",
       "title": "Ataköy'de İETT otobüslerinin park ettiği alanda yangın",
@@ -4208,6 +4516,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T08:05:38.051209+00:00"
+    },
+    {
+      "id": "a6646dc010d26d00",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Nene Hatun Anaokulu bir asırlık eğitim mirasıyla çocukları geleceğe hazırlıyor",
+      "summary": "Ümraniye'deki Nene Hatun Anaokulu olarak hizmet veren tarihi bina, Cumhuriyet'in ilk yıllarına uzanan geçmişiyle İstanbul'un eğitim tarihine tanıklık ediyor.",
+      "link": "https://www.aa.com.tr/tr/kultur/nene-hatun-anaokulu-bir-asirlik-egitim-mirasiyla-cocuklari-gelecege-hazirliyor/4090662",
+      "published": "2026-10-16T08:03:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T09:20:36.874381+00:00"
     },
     {
       "id": "7dfbb861f5e0b901",
@@ -5187,325 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T08:01:03.421426+00:00"
-    },
-    {
-      "id": "bd4926eecf82d85c",
-      "source": "Evrensel",
-      "title": "Benzinde 20 Ekim Salı günü 4 TL dolayında indirim bekleniyor",
-      "summary": "Uluslararası piyasalarda benzin ve motorinin fiyatlarının düşmesi, benzine gelecek hafta başında, motorine de izleyen günlerde indirim beklentilerini güçlendirdi. Sektör kaynakları 20 Ekim Salı günü 4 TL düzeyinde bir indirimin beklendiğini bildirdi.",
-      "link": "https://www.evrensel.net/haber/6005173/benzinde-20-ekim-sali-gunu-4-tl-dolayinda-indirim-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-16T07:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:50:39.588277+00:00"
-    },
-    {
-      "id": "b221f5a2420a745e",
-      "source": "Habertürk",
-      "title": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA REKTÖRLÜĞÜ",
-      "summary": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA REKTÖRLÜĞÜ",
-      "link": "https://www.haberturk.com/resmi-ilanlar/istanbul-universitesi-cerrahpasa-rektorlugu-3791600",
-      "published": "2026-10-16T07:43:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:50:33.557938+00:00"
-    },
-    {
-      "id": "8df8613f72092e3d",
-      "source": "CNBC-e",
-      "title": "Avrupa'da 28 şehrin kira-maaş dengesi karşılaştırıldı! İstanbul ne durumda?",
-      "summary": "Deutsche Bank Research Institute tarafından yayımlanan Mapping the World’s Prices 2026 raporuna göre Avrupa genelinde konut arzındaki yetersizlik ve yükselen kiraların, hane bütçeleri üzerindeki baskıyı artırdığı aktarıldı.",
-      "link": "https://www.cnbce.com/gayrimenkul/avrupada-28-sehrin-kira-maas-dengesi-karsilastirildi-istanbul-ne-durumda-g39596",
-      "published": "2026-10-16T07:43:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:56.530621+00:00"
-    },
-    {
-      "id": "2e7b575aa7afc5fd",
-      "source": "Milliyet",
-      "title": "'Avukatım' demişti gerçek bambaşka çıktı! Trump'ın yeni sözcüsü Zacharia'nın geçmişindeki sır",
-      "summary": "Beyaz Saray’ın yeni sözcüsü Katie Zacharia, ilk basın toplantısında kırdığı potun ardından geçmişine ilişkin tartışmalarla yeniden gündemde. Kendini avukat olarak tanıtan Zacharia’nın mesleki unvanı mercek altına alınırken, ABD’deki resmi kayıtlarda yapılan incelemeler dikkat çekici bir tabloyu ortaya çıkardı. Üstelik tartışma yalnızca kayıtlarla sınırlı değil. Zacharia’nın ilk basın toplantısının",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-avukatim-demisti-gercek-bambaska-cikti-trumpin-yeni-sozcusu-zacharianin-gecmisindeki-sir-7680913",
-      "published": "2026-10-16T07:43:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:42.535447+00:00"
-    },
-    {
-      "id": "a243f5b812779dfd",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Terör örgütü DEAŞ'a yönelik 22 ildeki operasyonlarda 59 kişi yakalandı",
-      "summary": "Terör örgütü DEAŞ'a yönelik 22 ilde jandarma tarafından düzenlenen operasyonlarda 59 şüpheli yakalandı.",
-      "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-deasa-yonelik-22-ildeki-operasyonlarda-59-kisi-yakalandi/4090634",
-      "published": "2026-10-16T07:43:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:55:27.558438+00:00"
-    },
-    {
-      "id": "7d277e03f67e4332",
-      "source": "Yeni Akit",
-      "title": "3 şüpheli için adli işlem başlatıldı: Niğde’de uyuşturucu tacirlerine geçit yok",
-      "summary": "Fesleğen köyünde düzenlenen operasyonda 10 kilo 15 gram kubar esrar, 44 kök kenevir bitkisi ve 84 adet fişek ele geçirildi.",
-      "link": "https://www.yeniakit.com.tr/haber/3-supheli-icin-adli-islem-baslatildi-nigdede-uyusturucu-tacirlerine-gecit-yok-2028494.html",
-      "published": "2026-10-16T07:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:45.154785+00:00"
-    },
-    {
-      "id": "2078a50ac1ee38ac",
-      "source": "Ekonomim",
-      "title": "İstanbul barajlarında iki günde rekor artış kaydedildi",
-      "summary": "İstanbul&#039;da 13 Ekim akşamı başlayıp ertesi gün etkisini artıran yağışların ardından barajların doluluk oranı iki günde 9,96 puan yükselerek yüzde 48,02&#039;ye ulaştı. Barajlardaki su miktarı 416,74 milyon metreküp olarak ölçülürken doluluk oranı son 10 yılın 16 Ekim verileri arasında en yüksek ikinci seviyeye çıktı.",
-      "link": "https://www.ekonomim.com/gundem/istanbul-barajlarinda-iki-gunde-rekor-artis-kaydedildi-haberi-925101",
-      "published": "2026-10-16T07:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:55.531075+00:00"
-    },
-    {
-      "id": "fcac0f3d3a89d8fc",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Kanada Başbakanı Carney: Sınırlarımızın dışındaki bazıları, bize sahip olabilmek için bizi ayırmaya çalışıyor",
-      "summary": "Kanada Başbakanı Mark Carney, Alberta eyaletinde düzenlenecek referandumun \"olabilecek en kötü zamanda\" yapıldığını belirterek, \"Sınırlarımızın dışındaki bazıları, bize sahip olabilmek için bizi ayırmaya çalışıyor.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-sinirlarimizin-disindaki-bazilari-bize-sahip-olabilmek-icin-bizi-ayirmaya-calisiyor/4090633",
-      "published": "2026-10-16T07:42:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:50:35.868268+00:00"
-    },
-    {
-      "id": "80e18c35f9254427",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Kanada Başbakanı Carney: \"Sınırlarımızın dışındaki bazıları, bize sahip olabilmek için bizi ayırmaya çalışıyor\"",
-      "summary": "Kanada Başbakanı Mark Carney, Alberta eyaletinde düzenlenecek referandumun \"olabilecek en kötü zamanda\" yapıldığını belirterek, \"Sınırlarımızın dışındaki bazıları, bize sahip olabilmek için bizi ayırmaya çalışıyor.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-sinirlarimizin-disindaki-bazilari-bize-sahip-olabilmek-icin-bizi-ayirmaya-calisiyor/4090633",
-      "published": "2026-10-16T07:42:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:37.009252+00:00"
-    },
-    {
-      "id": "3d2684cd6ccfd4e4",
-      "source": "Yeniçağ",
-      "title": "Esenler’de mermiler havada uçuştu: 2 yaralı, 3 gözaltı",
-      "summary": "İstanbul Esenler’de iki grup arasında çıkan silahlı düelloda 2 kişi yaralandı. Kameraya anbean yansıyan görüntü sonrası yapılan çalışmada 3 kişi yakalanarak gözaltına altına alındı. Soruşturma devam ediyor.",
-      "link": "https://www.yenicaggazetesi.com/esenlerde-mermiler-havada-ucustu-2-yarali-3-gozalti-1082478h.htm",
-      "published": "2026-10-16T07:42:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:46.250587+00:00"
-    },
-    {
-      "id": "2aa40e15b13fce04",
-      "source": "Evrensel",
-      "title": "Dergiden günlüğe, günlükten nakışa: Hafızanın Defterleri Sergisi açıldı",
-      "summary": "Kadın Eserleri Kütüphanesi ve Bilgi Merkezi Vakfının düzenlediği Hafızanın Defterleri Sergisi, Hay Gin dergisi ile Arşo'nun günlüklerini bir araya getiriyor. Sergi, 14 Kasım'a kadar ziyaret edilebilecek.",
-      "link": "https://www.evrensel.net/haber/6005176/dergiden-gunluge-gunlukten-nakisa-hafizanin-defterleri-sergisi-acildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-16T07:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T08:05:35.040857+00:00"
-    },
-    {
-      "id": "78f59503124a9c66",
-      "source": "Ekonomim",
-      "title": "Eksim Holding 40. yılını özel davetle kutladı",
-      "summary": "Gıda, yenilenebilir enerji ve elektrik dağıtımı başta olmak üzere farklı sektörlerde faaliyet gösteren Eksim Holding, kuruluşunun 40. yılını yıl boyunca düzenlediği etkinliklerle kutlamayı sürdürüyor. Bu kapsamda Eksim Holding Yönetim Kurulu Başkanı Ebubekir Tivnikli’nin ev sahipliğinde düzenlenen 40. Yıl Özel Davetine, Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır’ın yanı sıra çok sayıda davetli ",
-      "link": "https://www.ekonomim.com/sirketler/eksim-holding-40-yilini-ozel-davetle-kutladi-haberi-925100",
-      "published": "2026-10-16T07:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T08:01:03.492677+00:00"
-    },
-    {
-      "id": "d063ed4c2ff6a50a",
-      "source": "Evrensel",
-      "title": "19 ülkeden Kolombiya’ya Kudüs tepkisi: “Kararı geri al”",
-      "summary": "Türkiye’nin de aralarında bulunduğu 19 ülkenin dışişleri bakanı, Kolombiya’nın İsrail’deki büyükelçiliğini Kudüs’e taşımasını kınadı. Ortak açıklamada, kararın uluslararası hukuka ve Birleşmiş Milletler (BM) kararlarına aykırı olduğu belirtildi.",
-      "link": "https://www.evrensel.net/haber/6005174/19-ulkeden-kolombiyaya-kudus-tepkisi-karari-geri-al?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-16T07:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:50:39.588314+00:00"
-    },
-    {
-      "id": "5477f875e24a729f",
-      "source": "Ekonomim",
-      "title": "MSCI kararı Endonezya borsasını sarstı: Yüzde 11'i aşan düşüş",
-      "summary": "MSCI, Endonezya&#039;nın Gelişmekte Olan Piyasa statüsünden çıkarılarak Bağımsız Piyasa statüsüne alınması seçeneğini görüşe açtı. Şeffaflık ve piyasa işleyişine ilişkin endişelerin öne çıktığı açıklamanın ardından Endonezya borsasında kayıplar yüzde 11&#039;i aştı. Nihai kararın Haziran 2027 sonuna kadar açıklanması bekleniyor.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/msci-karari-endonezya-borsasini-sarsti-yuzde-11i-asan-dusus-haberi-925102",
-      "published": "2026-10-16T07:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:50:54.757904+00:00"
-    },
-    {
-      "id": "f016e858a269d835",
-      "source": "Akşam",
-      "title": "Galatasaray'ın rakibi Gençlerbirliği! 2 eksik var",
-      "summary": "Galatasaray, Trendyol Süper Lig'in 8. hafta mücadelesinde deplasmanda Gençlerbirliği ile karşı karşıya gelecek. İşte karşılaşma öncesi sarı-kırmızılılarda son durum...",
-      "link": "https://www.aksam.com.tr/spor/galatasarayin-rakibi-genclerbirligi-2-eksik-var/haber-1706678",
-      "published": "2026-10-16T07:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:43.365440+00:00"
-    },
-    {
-      "id": "0191f47a1ae5de2a",
-      "source": "Star",
-      "title": "Bütçe maratonu başladı! Cumhurbaşkanı Yardımcısı Yılmaz yıl sonu enflasyon tahminini açıkladı",
-      "summary": "2027 Yılı Merkezi Yönetim Bütçe Bağlama Töreni'nde açıklamalarda bulunan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Enflasyonun yıl sonunda 28,4 olmasını bekliyoruz. Temel önceliğimiz fiyat istikrarıdır. 2026 yılı bütçe açığının GSYH'ye oranının yüzde 3,1'e düşmesini öngörüyoruz. Tüketici enflasyonunun 2027 yılı sonunda yüzde 21 seviyesine gerilemesini öngörüyoruz. Orta vadede ise kalıcı tek haneli ",
-      "link": "https://www.star.com.tr/ekonomi/butce-maratonu-basliyor-cevdet-yilmaz-2026da-yuzde-33-buyume-beklentimiz-var-haber-2046904/",
-      "published": "2026-10-16T07:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:44.623898+00:00"
-    },
-    {
-      "id": "25f9440b538fe528",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Konut Fiyat Endeksi eylülde yüzde 1,2 arttı",
-      "summary": "Konut Fiyat Endeksi (KFE), eylülde aylık bazda yüzde 1,2, yıllık bazda ise yüzde 22,3 arttı.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-eylulde-yuzde-1-2-artti/4090631",
-      "published": "2026-10-16T07:41:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T08:05:31.763935+00:00"
-    },
-    {
-      "id": "dc5640c4a4eae726",
-      "source": "Karar",
-      "title": "Kamu ihalelerinde \"vergi ve prim borcu\" limiti yükseltildi",
-      "summary": "Kamu İhale Kurumu (KİK), kamu ihalelerine katılan isteklilerin ihale dışı bırakılmasına yol açan kesinleşmiş sosyal güvenlik prim ve vergi borcu eşik sınırını 5 bin liradan 50 bin liraya yükseltti.",
-      "link": "https://www.karar.com/ekonomi-haberleri/kamu-ihalelerinde-vergi-ve-prim-borcu-limiti-yukseltildi-2078764",
-      "published": "2026-10-16T07:41:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:45.538293+00:00"
-    },
-    {
-      "id": "cb47f6a7351b2410",
-      "source": "Sözcü",
-      "title": "MSCI kararı sonrası borsada sert düşüş",
-      "summary": "MSCI kararı sonrası borsada sert düşüş",
-      "link": "https://www.sozcu.com.tr/msci-karari-sonrasi-borsada-sert-dusus-p369728",
-      "published": "2026-10-16T07:41:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T08:45:38.913136+00:00"
-    },
-    {
-      "id": "5dfb4e295588bfd3",
-      "source": "Yeni Şafak",
-      "title": "AYM'den 15 siyasi parti için suç duyurusu kararı",
-      "summary": "Anayasa Mahkemesi (AYM), siyasi partilerin mali denetimlerine ilişkin incelemelerini tamamlayarak kararlarını Resmi Gazete'de yayımladı. Yüksek Mahkeme, kesin hesaplarında aykırılık tespit edilen veya gerekli belgeleri zamanında teslim etmeyen 15 siyasi partinin sorumluları hakkında Ankara Cumhuriyet Başsavcılığına suç duyurusunda bulunulmasına hükmetti.",
-      "link": "https://www.yenisafak.com/gundem/aymden-15-siyasi-parti-icin-suc-duyurusu-karari-4864783",
-      "published": "2026-10-16T07:40:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:44.206884+00:00"
-    },
-    {
-      "id": "8cc255e4db6a876e",
-      "source": "Bloomberg HT",
-      "title": "İstanbul kiraya, Güneydoğu Anadolu gıdaya en fazla payı ayırdı",
-      "summary": "Türkiye genelinde hanehalkı tüketim harcamalarının yüzde 25,6'sı İstanbul'da gerçekleşti. Harcamalar içinde konut ve kiranın payı İstanbul'da yüzde 29,6'ya, İzmir'de yüzde 30,2'ye çıkarken gıdaya en yüksek payı yüzde 29,6 ile Şanlıurfa ve Diyarbakır'ın yer aldığı bölge ayırdı.",
-      "link": "https://www.bloomberght.com/istanbul-kiraya-guneydogu-anadolu-gidaya-en-fazla-payi-ayirdi-3791624",
-      "published": "2026-10-16T07:40:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:55:39.165585+00:00"
-    },
-    {
-      "id": "6ab081a5fc69dd79",
-      "source": "Yeniçağ",
-      "title": "Maduro ABD’de hakim karşısına çıktı: İddiaları reddetti",
-      "summary": "3 Ocak’ta ABD’nin kaçırdığı eski Venezuela Devlet Başkanı Nicolas Maduro ve eşi Cilia Flores, New York’taki davada kendilerine yöneltilen suçlamaları reddetti. Maduro, yenilenen iddianamenin daha önceki asılsız iddiaların farklı biçimde sunulmasından ibaret olduğunu söyledi.",
-      "link": "https://www.yenicaggazetesi.com/maduro-abdde-hakim-karsisina-cikti-iddialari-reddetti-1082476h.htm",
-      "published": "2026-10-16T07:40:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:40:43.213149+00:00"
-    },
-    {
-      "id": "c80508e5b4425a98",
-      "source": "Bloomberg HT",
-      "title": "HSBC'den MSCI'ın Türkiye kararına ilişkin değerlendirme",
-      "summary": "HSBC, MSCI'ın Türkiye endekslerindeki dondurma kararının bir ikaz niteliği taşıdığını ancak derhal bir statü değişikliği istişaresi açılmamasının piyasaya zaman kazandırdığını belirtti.",
-      "link": "https://www.bloomberght.com/hsbc-den-msci-in-turkiye-kararina-iliskin-degerlendirme-3791623",
-      "published": "2026-10-16T07:40:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:50:54.337852+00:00"
-    },
-    {
-      "id": "d6c952cc0f842f37",
-      "source": "Bir Gün",
-      "title": "Müzisyen Soner Olgun hayatını kaybetti",
-      "summary": "Kanser tedavisi gören sanatçı Soner Olgun hayatını kaybetti. Olgun, 18 Ekim’de son yolculuğuna uğurlanacak.",
-      "link": "https://www.birgun.net/haber/muzisyen-soner-olgun-hayatini-kaybetti-740670",
-      "published": "2026-10-16T07:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T08:05:35.449718+00:00"
-    },
-    {
-      "id": "5fac03ff5aaa1fa6",
-      "source": "Cumhuriyet",
-      "title": "Beşiktaş - Bayern Münih maçı ne zaman, saat kaçta, hangi kanalda? Şifresiz mi?",
-      "summary": "Beşiktaş, EuroLeague'in 6. haftasında Bayern Münih'i konuk edecek. Siyah-beyazlılar, taraftarı önünde kazanarak organizasyondaki 3. galibiyetini elde etmeyi hedefliyor.",
-      "link": "https://www.cumhuriyet.com.tr/spor/besiktas-bayern-munih-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2547306",
-      "published": "2026-10-16T07:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:37.457243+00:00"
-    },
-    {
-      "id": "659da75fe1eda245",
-      "source": "Akşam",
-      "title": "Resmen açıklandı: 65 KPSS puanı yetiyor! Memur alımı yapılacak",
-      "summary": "Memur alımı ilanları kamu kurumlarında çalışmayı hedefleyen binlerce kişinin gündeminde. Özellikle özel sektörde çalışmak istemeyen ve yeni mezun olan pek çok vatandaş, duyurulan ilanları yakından takip ediyor. Bunun yanı sıra, İstanbul ili Şile Belediye Başkanlığı en az 65 KPSS puanı ile memur alımı yapılacağını duyurdu. Detaylar haberimizde...",
-      "link": "https://www.aksam.com.tr/pusula/resmen-aciklandi-65-kpss-puani-yetiyor-memur-alimi-yapilacak/haber-1706677",
-      "published": "2026-10-16T07:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:40:40.745120+00:00"
-    },
-    {
-      "id": "6bccbdbd134fb7e7",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Filistin topraklarının gasbedilmesini savunan İsrailli aşırılıkçı grup, Gazze sınırında yeni yerleşim kurdu",
-      "summary": "Filistinlilerin sürgün edilmesini ve topraklarının gasbedilmesini savunan Nahala Derneği, gece yarısı Gazze Şeridi sınırında yeni yasa dışı yerleşim kurdu.",
-      "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarinin-gasbedilmesini-savunan-israilli-asirilikci-grup-gazze-sinirinda-yeni-yerlesim-kurdu/4090629",
-      "published": "2026-10-16T07:39:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:37.009316+00:00"
-    },
-    {
-      "id": "6bf39b6196ea9f8d",
-      "source": "Yeni Yaşam",
-      "title": "Kayyım kapattı, kadınlar açtı: Vejîn Dayanışma Merkezi’nde dayanışma büyüyor",
-      "summary": "Şemrex’te kadınların talepleriyle kurulan Vejîn Kadın Dayanışma Merkezi, şiddete karşı mücadele, psikososyal destek ve ekonomik üretim çalışmalarıyla kadın dayanışmasını büyütüyor Halkların Eşitlik ve Demokrasi Partisi (DEM Parti) yönetimindeki belediyeler, 2016’da kayyımların kapattığı kadın kurumlarını aktifleştiriyor. DEM Partili belediyeler 9 Haziran 2026’ya kadar toplam 78 kadın merkezi aktif",
-      "link": "https://yeniyasamgazetesi9.com/kayyim-kapatti-kadinlar-acti-vejin-dayanisma-merkezinde-dayanisma-buyuyor/",
-      "published": "2026-10-16T07:39:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:40:50.471046+00:00"
-    },
-    {
-      "id": "8fe70e34df5eda46",
-      "source": "Habertürk",
-      "title": "İstanbul barajlarında 2 gündeki artış açıklandı",
-      "summary": "İstanbul'a su sağlayan barajlardaki ortalama doluluk oranı önceki günkü yağışların etkisiyle iki günde 9.96 puan artarak yüzde 38.06'dan yüzde 48.02 seviyesine yükseldi. İşte detaylar...",
-      "link": "https://www.haberturk.com/gundem/son-dakika-baraj-doluluk-orani-istanbul-barajlarinda-2-gundeki-artis-aciklandi-3920158",
-      "published": "2026-10-16T07:39:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-16T07:45:33.767279+00:00"
     }
   ]
 }

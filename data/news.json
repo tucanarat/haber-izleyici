@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-16T02:31:13.815884+00:00",
+  "last_updated": "2026-10-16T02:35:57.536231+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 522,
+  "new_items_this_run": 523,
   "items": [
+    {
+      "id": "0d5ddcd4ed8bb204",
+      "source": "Türkiye Gazetesi",
+      "title": "Gölge kabine yerine Politika Kurulları",
+      "summary": "CHP’de Genel Başkan Kemal Kılıçdaroğlu’na bağlı faaliyet gösterecek Parti Politikaları Kurulu kuruldu. Parti bünyesinde farklı alanlarda oluşturulması planlanan 18 politika kurulunun çalışmalarını koordine edecek yapı, hazırlayacağı rapor ve politika önerileriyle partinin kurumsal politikalarının belirlenmesine katkı sağlayacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/chpnin-yol-haritasini-belirleyecek-golge-kabine-yerine-politika-kurullari-1823034",
+      "published": "2026-10-16T02:32:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-16T02:35:31.641313+00:00"
+    },
     {
       "id": "736703b98cb942ac",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-15T20:25:39.102997+00:00"
-    },
-    {
-      "id": "fd91eae9ba76acd3",
-      "source": "Bir Gün",
-      "title": "Altın Portakal heyecanı 16 ilçeye yayılıyor",
-      "summary": "63. Uluslararası Antalya Altın Portakal Film Festivali kapsamında düzenlenen “Gezen Sinema” etkinliği, 16–23 Ekim tarihleri arasında Antalya’nın 16 ilçesinde gerçekleştirilecek. Dört filmin gösterileceği etkinlikte tüm seanslar ücretsiz olacak.",
-      "link": "https://www.birgun.net/haber/altin-portakal-heyecani-16-ilceye-yayiliyor-740597",
-      "published": "2026-10-15T20:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-15T21:05:34.011343+00:00"
     }
   ]
 }

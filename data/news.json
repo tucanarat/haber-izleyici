@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-17T18:01:15.652331+00:00",
+  "last_updated": "2026-10-17T18:05:55.400441+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 519,
+  "new_items_this_run": 513,
   "items": [
     {
       "id": "49437ead8f0d15e9",
@@ -30,6 +30,50 @@
       "fetched_at": "2026-10-17T10:40:38.986855+00:00"
     },
     {
+      "id": "8178588a89c7907d",
+      "source": "Karar",
+      "title": "Kendi sınırlarını aşan yapay zeka paniğe yol açtı: OpenAI en gelişmiş modellerin eğitimini durdurdu",
+      "summary": "Gelişmiş yapay zeka modellerinin güvenlik protokollerini delerek dış ağlara sızması üzerine OpenAI, tüm eğitim ve çıkarım süreçlerini acil kararla askıya aldı. Güvenlik açığının yetersiz DNS filtrelemesinden kaynaklandığı belirlenirken, otonom ajanların resmi kurumlara erişim denemeleri yeni güvenlik önlemlerini zorunlu kıldı.",
+      "link": "https://www.karar.com/teknoloji-haberleri/openai-guvenlik-acigi-nasil-olustu-yapay-zeka-guvenligi-tehlikede-2079110",
+      "published": "2026-10-17T18:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-17T18:05:37.313658+00:00"
+    },
+    {
+      "id": "b895e2335b2024b2",
+      "source": "Aydınlık",
+      "title": "Sivasspor ile Sarıyer’in mücadelesi 1-1 sona erdi",
+      "summary": "Trendyol 1. Lig’in 11. haftasında Sivasspor, sahasında Sarıyer’i konuk etti. İlk dakikada geriye düşen ev sahibi ekip, Manaj’ın golüyle eşitliği sağladı ve karşılaşma 1-1 tamamlandı.",
+      "link": "https://www.aydinlik.com.tr/haber/sivasspor-sariyer-macinda-kazanan-cikmadi-594955",
+      "published": "2026-10-17T18:02:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-17T18:05:39.079501+00:00"
+    },
+    {
+      "id": "28d9d8083a62ca19",
+      "source": "Aydınlık",
+      "title": "Cumhurbaşkanı Erdoğan, Ara Güler’i vefatının 8. yılında andı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, fotoğraf sanatçısı Ara Güler’in vefatının yıldönümü dolayısıyla yayımladığı mesajda, &quot;Fotoğraf sanatının en değerli ustalarından Ara Güler’i vefatının 8’inci yılında saygıyla yad ediyorum&quot; dedi.",
+      "link": "https://www.aydinlik.com.tr/haber/cumhurbaskani-erdogan-ara-guleri-vefatinin-8-yilinda-andi-594954",
+      "published": "2026-10-17T18:01:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-17T18:05:39.079543+00:00"
+    },
+    {
+      "id": "274f38f841dedb96",
+      "source": "Star",
+      "title": "MAÇ SONUCU: PSG 3-1 Strasbourg",
+      "summary": "Fransa Ligue 1'in 7. haftasında, Galatasaray'ın Şampiyonlar Ligi'ndeki rakibi PSG, deplasmanda Strasbourg'u 3-1 mağlup etti.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-psg-3-1-strasbourg-haber-2047265/",
+      "published": "2026-10-17T18:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-17T18:05:36.031997+00:00"
+    },
+    {
       "id": "b1ca51959f4bfbe5",
       "source": "ShiftDelete.Net",
       "title": "Qualcomm Snapdragon 8 Elite Extreme Gen 6’da Isınma Sorunu mu Var?",
@@ -39,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-17T18:01:12.991018+00:00"
+    },
+    {
+      "id": "3a24a5c2102d5909",
+      "source": "Aydınlık",
+      "title": "Fenerbahçe, Alanyaspor karşısında 3 puanı 3 golle aldı",
+      "summary": "Trendyol Süper Lig’in 8. haftasında Fenerbahçe, Corendon Alanyaspor’u konuk etti. Sarı lacivertliler mücadeleden 3 puanla ayrıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/fenerbahce-alanyaspor-karsisinda-3-puani-3-golle-aldi-594953",
+      "published": "2026-10-17T18:00:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-17T18:05:39.079575+00:00"
     },
     {
       "id": "cada0341c5f2a11f",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-17T14:35:25.460278+00:00"
-    },
-    {
-      "id": "d169a04ae69a1e60",
-      "source": "Yeni Şafak",
-      "title": "Eski damadından 5 yıllık kira istedi: Yargıtay'dan dikkat çeken karar",
-      "summary": "Yargıtay 3. Hukuk Dairesi, kızının boşandığı eşinden kira talep eden kayınbabanın açtığı davanın reddine ilişkin yerel mahkeme kararını hukuka uygun buldu.",
-      "link": "https://www.yenisafak.com/galeri/gundem/eski-damadindan-5-yillik-kira-istedi-yargitaydan-dikkat-ceken-karar-4865124",
-      "published": "2026-10-17T14:21:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T14:25:38.971107+00:00"
-    },
-    {
-      "id": "f52740afe9815f6b",
-      "source": "Karar",
-      "title": "Batı Trakya'da 8 Türk azınlık okulunun faaliyeti durduruldu",
-      "summary": "Yunanistan'da 2026-2027 eğitim öğretim yılında, öğrenci yetersizliği gerekçesiyle Rodop'ta 5, İskeçe'de 2 ve Meriç'te 1 olmak üzere toplam 8 Türk azınlık ilkokulunun faaliyeti askıya alındı.",
-      "link": "https://www.karar.com/guncel-haberler/bati-trakyada-8-turk-azinlik-okulunun-faaliyeti-durduruldu-2079082",
-      "published": "2026-10-17T14:21:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T14:25:40.541246+00:00"
-    },
-    {
-      "id": "62a01995b59df58a",
-      "source": "Yeniçağ",
-      "title": "Arda Güler'den hafızlık öğrencilerine jest: İmzalı forma gönderdi",
-      "summary": "Real Madrid takımında forma giyen milli yıldız futbolcu Arda Güler, memleketi Bolu&#039;nun Mengen ilçesinde hafızlık eğitimi alan öğrencilere imzalı forma hediye etti.",
-      "link": "https://www.yenicaggazetesi.com/arda-gulerden-hafizlik-ogrencilerine-jest-imzali-forma-gonderdi-1082763h.htm",
-      "published": "2026-10-17T14:21:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T14:25:41.183163+00:00"
-    },
-    {
-      "id": "4a973adda6190ab5",
-      "source": "Akşam",
-      "title": "CANLI: Fenerbahçe - Alanyaspor",
-      "summary": "Fenerbahçe, Trendyol Süper Lig'in 8. haftasında sahasında Alanyaspor ile karşı karşıya geliyor. Maçın canlı skorunu aksam.com.tr'den takip edebilirsiniz.",
-      "link": "https://www.aksam.com.tr/spor/canli-fenerbahce-alanyaspor/haber-1706991",
-      "published": "2026-10-17T14:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T15:30:54.470153+00:00"
-    },
-    {
-      "id": "b382dd0a7897aef6",
-      "source": "Akşam",
-      "title": "CANLI! Fenerbahçe - Alanyaspor",
-      "summary": "Fenerbahçe, Trendyol Süper Lig'in 8. haftasında sahasında Alanyaspor ile karşı karşıya geliyor. Maçın canlı skorunu aksam.com.tr'den takip edebilirsiniz.",
-      "link": "https://www.aksam.com.tr/spor/canli-fenerbahce-alanyaspor/haber-1706991",
-      "published": "2026-10-17T14:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T14:25:38.067219+00:00"
     }
   ]
 }

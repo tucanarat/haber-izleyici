@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-18T05:20:56.201114+00:00",
+  "last_updated": "2026-10-18T05:25:51.001586+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 469,
+  "new_items_this_run": 472,
   "items": [
     {
       "id": "49437ead8f0d15e9",
@@ -17,6 +17,61 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-16T11:20:37.358859+00:00"
+    },
+    {
+      "id": "591d0325fc81c6b3",
+      "source": "Cumhuriyet",
+      "title": "ABD'de Trump'a karşı protesto dalgası: Binlerce kişi sokaklara döküldü",
+      "summary": "ABD genelinde, \"Krallara Hayır (No Kings)\" protestolarında bir araya gelenler, Başkan Donald Trump'ın politikalarına yönelik tepkilerini ortaya koydu.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/abd-de-trump-a-karsi-protesto-dalgasi-binlerce-kisi-sokaklara-dokuldu-2547779",
+      "published": "2026-10-18T05:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:30.798911+00:00"
+    },
+    {
+      "id": "aef5b040a5ca2bda",
+      "source": "Akşam",
+      "title": "Şarj noktaları 49 bine dayandı",
+      "summary": "Türkiye genelinde şarj noktası sayısı yüzde 2.2 artışla 48 bin 971'e yükseldi. Toplam kurulu güç 3 bin 875 megavata çıkarken elektrikli araç sayısı 491 bin 492'ye ulaştı.",
+      "link": "https://www.aksam.com.tr/ekonomi/sarj-noktalari-49-bine-dayandi/haber-1707076",
+      "published": "2026-10-18T05:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:35.852817+00:00"
+    },
+    {
+      "id": "badf6dbb22517dba",
+      "source": "Türkiye Gazetesi",
+      "title": "2 KİŞİ HER YERDE ARANIYOR",
+      "summary": "İstanbul'un Pendik ilçesinde önceki akşam saatlerinde sağanak nedeniyle derenin taşması sonucu sürüklenen otomobildeki 3 kişiden biri kendi imkânlarıyla kurtuldu. Akıntıya kapılarak kaybolan 2 kişiyi bulmak için İstanbul ve Kocaeli sınırında geniş çaplı operasyon başlatıldı. Çok sayıda uzman ekibin katıldığı arama çalışmalarına dronlar da destek veriyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/istanbul-kocaeli-sinirinda-sel-felaketi-sulara-kapilan-2-kisi-her-yerde-araniyor-1823461",
+      "published": "2026-10-18T05:19:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:33.375983+00:00"
+    },
+    {
+      "id": "34cffa70ad8bcaf2",
+      "source": "Cumhuriyet",
+      "title": "Sınır hattında gerilim: Pakistan ordusu Taliban mevzilerini vurdu",
+      "summary": "Pakistan ordusu ve Taliban yönetimindeki Afgan güvenlik güçlerinin, Pakistan'ın kuzeybatısındaki Hayber Pahtunhva eyaleti sınırında çeşitli noktalarda karşılıklı çatışmaya girdiği bildirildi.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/sinir-hattinda-gerilim-pakistan-ordusu-taliban-mevzilerini-vurdu-2547778",
+      "published": "2026-10-18T05:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:30.798948+00:00"
+    },
+    {
+      "id": "74ee7b1c7f2bfe15",
+      "source": "Yeniçağ",
+      "title": "İstanbul'da bugün bu yollar kapalı",
+      "summary": "İstanbul’da düzenlenecek etkinlik nedeniyle 18 Ekim’de saat 09.00’dan etkinlik bitimine kadar çok sayıda cadde ve sokak araç trafiğine kapatılacak. İstanbul Emniyet Müdürlüğü, kapanacak yolları ve sürücülerin kullanabileceği alternatif güzergâhları duyurdu.",
+      "link": "https://www.yenicaggazetesi.com/istanbulda-bugun-bu-yollar-kapali-1082825h.htm",
+      "published": "2026-10-18T05:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:37.673800+00:00"
     },
     {
       "id": "50a0f2ff9c86db66",
@@ -369,6 +424,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-18T05:00:58.851545+00:00"
+    },
+    {
+      "id": "118693aeb2b039e2",
+      "source": "Hürriyet",
+      "title": "Gençlerbirliği-Galatasaray maçını yazdılar: Avrupa'da çöktü! Lig, rakip yetersiz",
+      "summary": "Süper Lig'in 8. haftasında Galatasaray, deplasmanda Gençlerbirliği ile karşı karşıya geldi. Mücadeleyi sarı kırmızılıları 1-0 kazandı. Hürriyet'in usta yazarları, müsabakayı değerlendirdi.",
+      "link": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-galatasaray-macini-yazdilar-avrupada-coktu-lig-rakip-yetersiz-43345797",
+      "published": "2026-10-18T04:52:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:34.460163+00:00"
     },
     {
       "id": "272fdd00de7daae5",
@@ -1062,6 +1128,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-18T04:05:37.261462+00:00"
+    },
+    {
+      "id": "15a144c7ebd7e039",
+      "source": "Hürriyet",
+      "title": "‘Bu işi çok seviyorum, sanki iş de beni seviyor!’",
+      "summary": "33. Uluslararası Adana Altın Koza Film Festivali’nde ölümcül bir hastalıkla mücadele eden İzzet’i canlandırarak Umut Veren Genç Erkek Oyuncu ödülüne layık görülen Onur Gözeten: “Film gösterildiğinden beri insanları iyi olduğuma ikna etmeye çalışıyorum.”",
+      "link": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/bu-isi-cok-seviyorum-sanki-is-de-beni-seviyor-43345730",
+      "published": "2026-10-18T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:34.460416+00:00"
+    },
+    {
+      "id": "d3a1140b2b7f17f1",
+      "source": "Hürriyet",
+      "title": "‘Başka kadınlara ilham olabildiğim için güç buluyorum’",
+      "summary": "Yüksek mimar ve sosyal medya içerik üreticisi Merve Veziroğlu, 4 Ağustos 2023’te eski eşi (Yunus Yıldırım) tarafından evinde 58 yerinden bıçaklandığı korkunç bir saldırıya uğramıştı. Geçen günlerde Yargıtay sanık Yıldırım’ın ‘öldürme kastım yoktu’ itirazı sonucu hakkındaki 26 yıl hapis cezasını bozdu. 5 Kasım’da dava yeniden görülmeye başlayacak. Merve Veziroğlu “Bu kararla birlikte yaşadığım her ",
+      "link": "https://www.hurriyet.com.tr/kelebek/hurriyet-pazar/baska-kadinlara-ilham-olabildigim-icin-guc-buluyorum-43345745",
+      "published": "2026-10-18T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:34.460458+00:00"
     },
     {
       "id": "5f7335fb756098e5",
@@ -4639,6 +4727,50 @@
       "fetched_at": "2026-10-17T21:05:44.023608+00:00"
     },
     {
+      "id": "04f4fea23ab6ec32",
+      "source": "Yeni Yaşam",
+      "title": "İşçileşme yaşı 10 -11’e kadar düştü",
+      "summary": "Çocuk işçiliği MESEM’in yanı sıra tarımda, sanayide, inşaatta ve hizmet sektöründe yaygınlaşıyor. Aslı Odman, çocuk emeğinin devlet eliyle &#8216;genç işçiliği&#8217; diye teşvik edilmesini, sınıfsal bir düzenin parçası olarak değerlendirdi Duygu Kıt Çocukların giderek daha büyük bir çalışan sınıf haline getirildiği bugün, mevcut durumun en önemli uygulamalarından olan Mesleki Eğitim Merkezi (MESE",
+      "link": "https://yeniyasamgazetesi9.com/iscilesme-yasi-10-11e-kadar-dustu/",
+      "published": "2026-10-17T21:00:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:43.385680+00:00"
+    },
+    {
+      "id": "15a8d647e027fc37",
+      "source": "Yeni Yaşam",
+      "title": "Êzidî kardeşlerin dramından HEVAL BIRAKO’ya",
+      "summary": "Yönetmen Numan Yiğit’in Heval Birako filmi, DAİŞ’in esir aldığı iki Êzidî kardeşin hikâyesi üzerinden savaşın yıkımını, özgürlük arayışını, direnişi ve hakikatin hafızasını beyazperdeye taşıyor Gazeteci Nazım Daştan’ın kaleme aldığı hikâyeden uyarlanan Heval Birako, iki Êzidî kardeşin yaşam mücadelesini anlatırken DAİŞ’e karşı verilen mücadelenin tarihsel hafızadaki önemini de hatırlatıyor Heval B",
+      "link": "https://yeniyasamgazetesi9.com/ezidi-kardeslerin-dramindan-heval-birakoya/",
+      "published": "2026-10-17T21:00:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:43.385720+00:00"
+    },
+    {
+      "id": "3a364be23fedc724",
+      "source": "Yeni Yaşam",
+      "title": "Fizik ve Kimya Nobel Ödülleri",
+      "summary": "Yaşamın gizemini çözme süreci bilim insanlarınca aralıksız olarak sürdürülürken, yeni çalışmalar yaşamı anlamamıza yardımcı oluyor. Bu yıl fizik ve kimya nobel ödülleri dikkat çekici K. Bülent Ongun Nobel ödülleri, dinamit ve daha başka birçok patlayıcıların mucidi, kimyacı, mühendis ve silah imalatçısı olan dönemin en zengin kapitalistlerinden İsveçli Alfred Nobel’in vasiyetine dayanıyor. Alfred ",
+      "link": "https://yeniyasamgazetesi9.com/fizik-ve-kimya-nobel-odulleri/",
+      "published": "2026-10-17T21:00:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:43.385760+00:00"
+    },
+    {
+      "id": "c20794656c19c772",
+      "source": "Yeni Yaşam",
+      "title": "Devlet korkuyor",
+      "summary": "Bazı gelişmeler hayatın akışı içinde unutulur gibi oluyor. Bu durumlarda konunun esası gözden kaçıyor ve başka tartışmalar gündemi meşgul ediyor. İki yıl önce başlayan Barış ve Demokratik Toplum sürecinde de benzer bir durum yaşanmaktadır. Hatırlayalım, süreç başladığında Bahçeli, “Öcalan gelsin Meclis’te konuşsun” demişti. Geçen iki yıl içinde bırakalım Öcalan’ın Meclis’e gelmesini, herhangi bir ",
+      "link": "https://yeniyasamgazetesi9.com/devlet-korkuyor/",
+      "published": "2026-10-17T21:00:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T05:25:43.385797+00:00"
+    },
+    {
       "id": "c0cc2be0b7d95ba0",
       "source": "Akşam",
       "title": "Barcelona rekor kırdı! Ligde durdurulamıyorlar...",
@@ -5374,138 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-17T20:15:34.953762+00:00"
-    },
-    {
-      "id": "ee4ce2fe5eebdf43",
-      "source": "Cumhuriyet",
-      "title": "Bağlanmaktan kaçıyorlar: Evlilikten en çok korkan 5 burç",
-      "summary": "Özgürlüklerine düşkünlükleri ve sorumluluklara temkinli yaklaşımlarıyla öne çıkan bazı burçlar, evlilik kararını kolay kolay vermiyor. İşte evlilikten en çok çekinen 5 burç...",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/baglanmaktan-kaciyorlar-evlilikten-en-cok-korkan-5-burc-2547753",
-      "published": "2026-10-17T20:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:10:33.102857+00:00"
-    },
-    {
-      "id": "632b7ed2c262008d",
-      "source": "Karar",
-      "title": "ChatGPT veri sızıntısı skandalı: Kullanıcıların yüklediği fotoğraflar internete düştü",
-      "summary": "OpenAI bünyesindeki araştırma ajanları, ChatGPT kullanıcılarına ait 53 görseli kontrol dışına çıkarak harici platformlara sızdırdı. Şirketin onayı olmadan gerçekleşen bu transfer, model eğitiminde kullanılan verilerin güvenliği ve kişisel gizlilik konusunda küresel çapta derin soru işaretlerine yol açtı.",
-      "link": "https://www.karar.com/teknoloji-haberleri/chatgpt-fotograflari-guvende-mi-openai-kullanici-verileri-sizdi-mi-2079125",
-      "published": "2026-10-17T20:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:10:37.467028+00:00"
-    },
-    {
-      "id": "1776f1be728ad198",
-      "source": "Akşam",
-      "title": "Aston Villa ligde Newcastle United'ı tek golle devirdi",
-      "summary": "İngiltere Premier Lig'de Aston Villa, deplasmanda Newcastle United'ı 1-0'lık skorla mağlup etmeyi başardı.",
-      "link": "https://www.aksam.com.tr/spor/aston-villa-ligde-newcastle-unitedi-tek-golle-devirdi/haber-1707041",
-      "published": "2026-10-17T20:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:10:36.563667+00:00"
-    },
-    {
-      "id": "9dd174932c55bc41",
-      "source": "Akşam",
-      "title": "İstanbul'da sel felaketinden etkilenen esnafa devlet eli: Ticaret Bakanlığı'ndan 80 milyon liralık paket",
-      "summary": "Ticaret Bakanı Ömer Bolat, 14-15 Ekim tarihlerinde İstanbul'da meydana gelen sel felaketinden etkilenen esnafa 80 milyon lira nakdi destek sağlanacağını açıkladı.",
-      "link": "https://www.aksam.com.tr/guncel/istanbulda-sel-felaketinden-etkilenen-esnafa-devlet-eli-ticaret-bakanligindan-80-milyon-li/haber-1707040",
-      "published": "2026-10-17T20:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:10:36.563705+00:00"
-    },
-    {
-      "id": "b1f7a1c961466efb",
-      "source": "Cumhuriyet",
-      "title": "Onlar TV paylaştı: Murat Ağırel’e operasyonun perde arkası…",
-      "summary": "Onlar TV, Murat Ağırel’in gözaltına alınmasına konu olan iddiaların arka planını paylaştı. Açıklamada, Ağırel’in Mustafa Sarıgül ve ailesine yönelik para transferi iddialarını belgeyle doğrulamaya çalıştığı, karşı tarafın yanıtını aldığı ve doğrulayamadığı bilgileri haberleştirmediği belirtildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/onlar-tv-paylasti-murat-agirel-e-operasyonun-perde-arkasi-2547752",
-      "published": "2026-10-17T20:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:10:33.102897+00:00"
-    },
-    {
-      "id": "96a33572fe35b8c8",
-      "source": "Yeni Şafak",
-      "title": "Gaziantep’te iki ayrı kazada 21 kişi yaralandı",
-      "summary": "Gaziantep'in Nurdağı ilçesinde, meydana gelen iki ayrı kazada 21 kişi yaralandı.",
-      "link": "https://www.yenisafak.com/galeri/gundem/gaziantepte-iki-ayri-kazada-21-kisi-yaralandi-4865175",
-      "published": "2026-10-17T20:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:05:39.308804+00:00"
-    },
-    {
-      "id": "5627c41e2a2f3f63",
-      "source": "Star",
-      "title": "MAÇ SONUCU: Villarreal 0-0 Elche",
-      "summary": "UEFA Şampiyonlar Ligi'nde temsilcimiz Fenerbahçe'nin rakiplerinden Villarreal, İspanya La Liga'nın 9. haftasında Elche ile 0-0 berabere kaldı.",
-      "link": "https://www.star.com.tr/spor/mac-sonucu-villarreal-0-0-elche-haber-2047291/",
-      "published": "2026-10-17T20:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:05:39.899814+00:00"
-    },
-    {
-      "id": "cd08b004d817714f",
-      "source": "Yeniçağ",
-      "title": "İçişleri Bakanı Çiftçi’den Terörsüz Türkiye açıklaması: Örgütlerle pazarlık yapılmadı",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Terörsüz Türkiye hedefi doğrultusunda terör örgütüyle herhangi bir anlaşmaya gidilmediğini söyledi. Meclis’te 467 milletvekilinin desteğiyle oluşan uzlaşmanın sivil anayasa için de umut verdiğini ifade etti.",
-      "link": "https://www.yenicaggazetesi.com/icisleri-bakani-ciftciden-terorsuz-turkiye-aciklamasi-orgutlerle-pazarlik-yapilmadi-1082813h.htm",
-      "published": "2026-10-17T20:02:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:05:42.155745+00:00"
-    },
-    {
-      "id": "b00b48eb0670412c",
-      "source": "DonanımHaber",
-      "title": "John Wick ve Sifu'ya benzetilen Spine'ın oynanış fragmanı yayınlandı",
-      "summary": "John Wick filmleriyle birlikte çok daha popüler hâle gelen \"gun fu\" dövüş stilini oyun dünyasına taşıyan Spine'ın oynanış fragmanı yayınlandı. Sifu'dan da izler taşıyan oyun, 2027'de çıkacak.",
-      "link": "https://www.donanimhaber.com/john-wick-ve-sifu-ya-benzetilen-spine-in-fragmani-yayinlandi--211774",
-      "published": "2026-10-17T20:02:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:06:04.070561+00:00"
-    },
-    {
-      "id": "08ba935039a8191e",
-      "source": "Yeni Yaşam",
-      "title": "Ereğli’de tahliyelere engel",
-      "summary": "Cezam Ekim’in 29’unda bir yılın altına düşüyor. Yasanın ekimde devreye gireceği belirtiliyor. Kasımda denetimli serbestlik için başvuracağım. Burası bırakmıyor, aksine 1-1,5 yıl uzatıyorlar. Hasan arkadaşın süresini yaklaşık bir yıl uzattılar Hüseyin Aykol / İçeriden Çarşamba S Tipi Kapalı Hapishanesi’nde tutulan Mahsum Arslan, 26.09.2026 tarihinde yazdığı mektubunda şöyle diyor: “6 ay aradan sonr",
-      "link": "https://yeniyasamgazetesi9.com/ereglide-tahliyelere-engel/",
-      "published": "2026-10-17T20:00:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:05:55.760488+00:00"
-    },
-    {
-      "id": "09fdd125dac19c2a",
-      "source": "Yeni Yaşam",
-      "title": "Rüzgârı okuyan devlet",
-      "summary": "Yükün ağırı Kürtlere düşüyor. Bölge krizsiz gün yaşamıyor ve her kriz yeni bir bekleme gerekçesi oluyor. Kasım geçer, sıra Irak&#8217;a gelir; ardından İran&#8217;ın iç çalkantısı ya da İsrail-Suriye hattı bekliyor Serdar Sincar TBMM Başkanı Kurtulmuş, bu hafta çerçeve yasaya &#8220;üç sigorta&#8221; yerleştirdiklerini anlatırken sözü Suriye&#8217;deki entegrasyona, oradan da Irak&#8217;taki milis",
-      "link": "https://yeniyasamgazetesi9.com/ruzgari-okuyan-devlet/",
-      "published": "2026-10-17T20:00:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:05:55.760532+00:00"
-    },
-    {
-      "id": "5d13eda6b080b22f",
-      "source": "Habertürk",
-      "title": "Sahalara dönen Mert Hakan: Çok mutluyum",
-      "summary": "Alanyaspor'u evinde 3-0 mağlup eden Fenerbahçe'de Mert Hakan Yandaş, 568 gün sonra sahalara döndü. Yaşadığı sakatlıklar ve yasa dışı bahis soruşturması nedeniyle bir süre hapis yattıktan sonra 6 ay futboldan men cezası alan deneyimli futbolcu, 28 Mart 2025'te Bodrum FK ile oynanan mücadelenin ardından yeşil sahaya adımını attı.",
-      "link": "https://www.haberturk.com/spor/mert-hakan-yandas-568-gun-sonra-sahalara-dondu-3920540",
-      "published": "2026-10-17T20:00:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-17T20:10:30.438282+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-18T22:26:21.444856+00:00",
+  "last_updated": "2026-10-18T22:31:14.572977+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 469,
+  "new_items_this_run": 466,
   "items": [
+    {
+      "id": "ff487b0c25c2df23",
+      "source": "Akşam",
+      "title": "Asensio 2 ay yok",
+      "summary": "30 yaşındaki tecrübeli isim 2 ay sahalardan uzak kalacak. Futbol Direktörü Oğuz Çetin, İsmail Kartal ile oyuncu arasında bir sorun olmadığını açıkladı...",
+      "link": "https://www.aksam.com.tr/spor/asensio-2-ay-yok/haber-1707302",
+      "published": "2026-10-18T22:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-18T22:30:53.052225+00:00"
+    },
     {
       "id": "c7e9bda3a0f6cc5c",
       "source": "Akşam",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-18T17:30:42.679686+00:00"
-    },
-    {
-      "id": "d27b5f4ffcb518ed",
-      "source": "CNBC-e",
-      "title": "Tasfiyedeki fon sayısı 131'den 65'e düştü: İşte tasfiye süreci devam eden fonların güncel listesi",
-      "summary": "Fon tasfiye sürecinde 66 yatırım fonunun işlemleri tamamlanırken, tasfiyesi devam eden fon sayısı 65'e geriledi. Toplam 40,8 milyar liralık işlemin tamamlandığı süreçte, yatırımcıların merak ettiği güncel fon listesi belli oldu. İşte tasfiye süreci devam eden 65 fonun tam listesi.",
-      "link": "https://www.cnbce.com/haberler/tasfiyedeki-fon-sayisi-131den-65e-dustu-iste-tasfiye-sureci-devam-eden-fonlarin-guncel-listesi-g39706",
-      "published": "2026-10-18T17:21:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-18T17:25:46.050522+00:00"
     }
   ]
 }

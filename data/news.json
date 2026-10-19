@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-19T00:10:56.794240+00:00",
+  "last_updated": "2026-10-19T00:16:18.434689+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 464,
+  "new_items_this_run": 494,
   "items": [
+    {
+      "id": "550b9d61bd3f7ffc",
+      "source": "OdaTV",
+      "title": "Aksaray’da gençlerin trafik kavgası kamerada",
+      "summary": "Aksaray’da trafikte yol verme meselesi yüzünden iki genç sürücü arasında çıkan ve 1 kişinin yaralandığı kavga kameraya yansıdı.",
+      "link": "https://www.odatv.com/guncel/aksarayda-genclerin-trafik-kavgasi-kamerada-120167265",
+      "published": "2026-10-19T00:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T00:15:48.993307+00:00"
+    },
     {
       "id": "227aab8f18bda213",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-18T18:20:40.466007+00:00"
-    },
-    {
-      "id": "00c406e16243b210",
-      "source": "CNBC-e",
-      "title": "Trump'a halk desteği geriledi mi? ABD'de dikkat çeken ara seçim anketi",
-      "summary": "ABD'de 3 Kasım'daki ara seçimler öncesinde yapılan ankette, katılımcıların yüzde 71'i ülkenin yanlış yolda ilerlediğini belirtti. Trump'ın görev performansını onaylamayanların oranı yüzde 66'ya ulaşırken, seçmenlerin yüzde 55'i Demokratları destekledi.",
-      "link": "https://www.cnbce.com/haberler/trumpa-halk-destegi-geriledi-mi-abdde-dikkat-ceken-ara-secim-anketi-h39711",
-      "published": "2026-10-18T18:15:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-18T18:15:47.318195+00:00"
     }
   ]
 }

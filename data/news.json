@@ -1,12 +1,364 @@
 {
-  "last_updated": "2026-10-19T21:01:28.356408+00:00",
+  "last_updated": "2026-10-19T21:05:58.443702+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 517,
+  "new_items_this_run": 504,
   "items": [
+    {
+      "id": "2ae3553f2c8f4cc7",
+      "source": "BBC News Türkçe",
+      "title": "Fransa'da eylemler sonrası sokağa çıkma yasakları",
+      "summary": "Fransa Başbakanı Sébastien Lecornu, hafta sonu yaşanan protestolar ve yağma olaylarıyla ilgili olağanüstü kabine toplantısı düzenledi. Başbakan, toplantının ardından yaptığı açıklamada, ülkenin bazı bölgelerinde belediye başkanlarına kısmi sokağa çıkma yasağı uygulama yetkisi verildiğini duyurdu.",
+      "link": "https://www.bbc.com/turkce/articles/cqgm02rx8ng3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19T21:03:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:57.697459+00:00"
+    },
+    {
+      "id": "8dd6f3f9789a8cb1",
+      "source": "Akşam",
+      "title": "Bireysel hataların kurbanıyım ben...",
+      "summary": "",
+      "link": "https://www.aksam.com.tr/yazarlar/bireysel-hatalarin-kurbaniyim-ben/haber-1707550",
+      "published": "2026-10-19T21:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:36.744718+00:00"
+    },
+    {
+      "id": "52910e5abdf69127",
+      "source": "Aydınlık",
+      "title": "Zeynel Emre'den Öztrak'ın iddialarına yanıt: Suni gündemlerle meşgul etmeye çalışıyorlar",
+      "summary": "Yeni Parti Sözcüsü Zeynel Emre, MYK toplantısının ardından yaptığı açıklamada Faik Öztrak&#039;ın grup kasasına ilişkin iddialarını değerlendirdi. Emre, milletvekillerinin grup giderleri için yaptığı kesintilerin iade edildiğini söyledi.",
+      "link": "https://www.aydinlik.com.tr/haber/zeynel-emreden-faik-oztrakin-iddialarina-yanit-595281",
+      "published": "2026-10-19T21:02:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857227+00:00"
+    },
+    {
+      "id": "6e6718f8f0fd2e79",
+      "source": "Milliyet",
+      "title": "Bodrum açıklarında Yunanistan tarafından geri itilen 36 kaçak göçmen kurtarıldı",
+      "summary": "Sahil Güvenlik Komutanlığı ekipleri, 18 Ekim saat 01.15’te Bodrum açıklarında can salları içerisinde kaçak göçmen olduğu bilgisini aldı. Harekete geçen ekipler Yunanistan unsurlarınca Türk karasularına geri itilen iki can salı içerisinde bulunan aralarında 1’i çocuk 36 kaçak göçmeni kurtardı. Kıyıya çıkarılan kaçak göçmenler İl Göç İdaresi Müdürlüğü’ne teslim edildi. Görüntüler Türkiye'den! Vahşi ",
+      "link": "https://www.milliyet.com.tr/gundem/bodrum-aciklarinda-yunanistan-tarafindan-geri-itilen-36-kacak-gocmen-kurtarildi-7683285",
+      "published": "2026-10-19T21:01:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:35.622256+00:00"
+    },
+    {
+      "id": "31212ec59e345162",
+      "source": "Cumhuriyet",
+      "title": "T.C. PATNOS 1. ASLİYE HUKUK MAHKEMESİ",
+      "summary": "T.C. PATNOS 1. ASLİYE HUKUK MAHKEMESİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-patnos-1-asliye-hukuk-mahkemesi-2547708",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:29.889723+00:00"
+    },
+    {
+      "id": "86965496d5bf1bfe",
+      "source": "Cumhuriyet",
+      "title": "T.C. TEKMAN ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
+      "summary": "T.C. TEKMAN ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-tekman-asliye-hukuk-mahkemesi-hakimligi-2547709",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:29.889737+00:00"
+    },
+    {
+      "id": "7190e14bb485a8f1",
+      "source": "Cumhuriyet",
+      "title": "T.C. YUNAK SULH HUKUK MAHKEMESİ",
+      "summary": "T.C. YUNAK SULH HUKUK MAHKEMESİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-yunak-sulh-hukuk-mahkemesi-2547710",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:29.889748+00:00"
+    },
+    {
+      "id": "81c6b852f7d6fdcc",
+      "source": "Cumhuriyet",
+      "title": "T.C. ARAKLI 2. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
+      "summary": "T.C. ARAKLI 2. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ",
+      "link": "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-arakli-2-asliye-hukuk-mahkemesi-hakimligi-2547711",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:29.889760+00:00"
+    },
+    {
+      "id": "2ddbed1d0e073db7",
+      "source": "Yeniçağ",
+      "title": "Zorlu PSM'den trajik bir hikaye; 'Satıcının ölümü'",
+      "summary": "Oğuz KUZEY yazdı: Zorlu PSM&#039;den trajik bir hikaye; &#039;Satıcının ölümü&#039;",
+      "link": "https://www.yenicaggazetesi.com/zorlu-psmden-trajik-bir-hikaye-saticinin-olumu-1083314h.htm",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:40.854692+00:00"
+    },
+    {
+      "id": "b41a0d5144784be5",
+      "source": "Yeniçağ",
+      "title": "İmamoğlu’nun manifestosu: “Devriniz bitmiştir”",
+      "summary": "Arslan BULUT yazdı: İmamoğlu’nun manifestosu: “Devriniz bitmiştir”",
+      "link": "https://www.yenicaggazetesi.com/imamoglunun-manifestosu-devriniz-bitmistir-1083315h.htm",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:40.854704+00:00"
+    },
+    {
+      "id": "7f379736640f1690",
+      "source": "Yeniçağ",
+      "title": "Gençler neye itiraz ediyor?",
+      "summary": "Dr. Fatma ÇELİK yazdı: Gençler neye itiraz ediyor?",
+      "link": "https://www.yenicaggazetesi.com/gencler-neye-itiraz-ediyor-1083317h.htm",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:40.854716+00:00"
+    },
+    {
+      "id": "62a78ef95b0580a2",
+      "source": "Yeniçağ",
+      "title": "Dijital konforun ince buzunda yürüyoruz",
+      "summary": "Kağan KAYA yazdı: Dijital Konforun İnce Buzunda Yürüyoruz",
+      "link": "https://www.yenicaggazetesi.com/dijital-konforun-ince-buzunda-yuruyoruz-1083319h.htm",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:40.854728+00:00"
+    },
+    {
+      "id": "4c249067eb78244a",
+      "source": "Yeniçağ",
+      "title": "Sele karşı Japon modeli",
+      "summary": "Nuri KAYIŞ yazdı: Sele karşı Japon modeli",
+      "link": "https://www.yenicaggazetesi.com/sele-karsi-japon-modeli-1083322h.htm",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:40.854738+00:00"
+    },
+    {
+      "id": "73b480bdd0ca6a7b",
+      "source": "Yeniçağ",
+      "title": "Krizin ortasında Türkiye’ye umut veren yatırım: Kapadokya’da güzel şeyler de oluyor",
+      "summary": "Krizin ortasında Türkiye’ye umut veren yatırım: Kapadokya’da güzel şeyler de oluyor!",
+      "link": "https://www.yenicaggazetesi.com/krizin-ortasinda-turkiyeye-umut-veren-yatirim-kapadokyada-guzel-seyler-de-oluyor-1083324h.htm",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:40.854751+00:00"
+    },
+    {
+      "id": "4cb04f86d35b2e11",
+      "source": "Aydınlık",
+      "title": "Dünya Savaşı’ndan bugüne vatan savunmasında neler değişti",
+      "summary": "Dünyanın dengesi kaymaktadır. Tek kutuplu dünya çökmektedir ve yerine çok kutuplu dünya oluşmaktadır. Türkiye’nin tutumu ise bu çöküş ve oluş sürecini ya geciktirecek ya da hızlandıracaktır. Tarihin doğru tarafında duralım, savaşta ABD ve İsrail cephesine düşmeyelim",
+      "link": "https://www.aydinlik.com.tr/haber/dunya-savasindan-bugune-vatan-savunmasinda-neler-degisti-595250",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857251+00:00"
+    },
+    {
+      "id": "c5dfeec62669a2e6",
+      "source": "Aydınlık",
+      "title": "‘Var yılı’nda Edremit Körfezi’nden zeytinyağı çağrısı: Üreticiye prim desteği verin Türkiye tüketsin",
+      "summary": "Zeytinde ‘var yılı’. Üretimde yüzde 55 artış bekleniyor ama sektör kaygılı. Destekler kaldırıldı, defalarca ihracat yasaklandı, pazar kaybedildi. ABD ve AB, Türk zeytinyağına engel koydu. Bu arada Türkiye’ye giren ithal zeytinyağı, üreticiyi daha da kaygılandırdı.",
+      "link": "https://www.aydinlik.com.tr/haber/var-yilinda-edremit-korfezinden-zeytinyagi-cagrisi-ureticiye-prim-destegi-verin-turkiye-tuketsin-595251",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857273+00:00"
+    },
+    {
+      "id": "4e56e306da885536",
+      "source": "Aydınlık",
+      "title": "Hataylı üreticiler pazar çağrısı yaptı",
+      "summary": "Hatay’ın Altınözü ilçesindeki 10. Zeytin, Zeytinyağı ve Gastronomi Festivali’nde konuşan üreticiler, girdi maliyetlerine karşın fiyatların düştüğünü belirterek pazar sorununu gündeme getirdi. Üretici Mehmet Dağlı, zeytinyağının kilosunun üç yılda 250 liradan 170 liraya düştüğünü söyledi.",
+      "link": "https://www.aydinlik.com.tr/haber/hatayli-ureticiler-pazar-cagrisi-yapti-595252",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857292+00:00"
+    },
+    {
+      "id": "17750a0641622cfd",
+      "source": "Aydınlık",
+      "title": "Gübrenin ekonomik kullanımı",
+      "summary": "Kaynakçada künyesi verilen eser, danışmanlığını yaptığım bir doktora tezidir.",
+      "link": "https://www.aydinlik.com.tr/koseyazisi/gubrenin-ekonomik-kullanimi-595253",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857305+00:00"
+    },
+    {
+      "id": "8d19b0a677e9e462",
+      "source": "Aydınlık",
+      "title": "Akçul santraldeki süreci anlattı: Özelleştirme Soma’yı çıkmaza sürükledi",
+      "summary": "Maden-İş Genel Başkanı Akçul, Soma Termik Santrali’nin özelleştirme sonrası yaşadığı sorunları anlattı. Santralin TKİ’ye devrini olumlu değerlendiren Akçul, üretimin artırılmasının kömür üreticileri ve işçilerin alacakları açısından önem taşıdığını vurguladı",
+      "link": "https://www.aydinlik.com.tr/haber/akcul-santraldeki-sureci-anlatti-ozellestirme-somayi-cikmaza-surukledi-595254",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857324+00:00"
+    },
+    {
+      "id": "13070c650d126d7e",
+      "source": "Aydınlık",
+      "title": "Perinçek’ten ‘vurgun sistemi’ açıklaması: ‘Türkiye bu vurgun sisteminden kurtulacak’",
+      "summary": "Vatan Partisi Genel Başkanı Dr. Doğu Perinçek, ziyaret ettiği Malkara ve Köyleri Yardımlaşma, Dayanışma ve Kültür Derneği’nde 1980’de 24 Ocak kararlarıyla kurulan düzenin iflas ettiğini söyledi. Perinçek, “Kaçınılmaz olarak Türkiye bu vurgun sisteminden kurtulacak.” dedi.",
+      "link": "https://www.aydinlik.com.tr/haber/perincekten-vurgun-sistemi-aciklamasi-turkiye-bu-vurgun-sisteminden-kurtulacak-595255",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857343+00:00"
+    },
+    {
+      "id": "5c3d264c7542acb9",
+      "source": "Aydınlık",
+      "title": "Savaşan Yemen’in kadınlarıyla aynı cephede",
+      "summary": "Cumhuriyet Kadınları Derneği (CKD), Yemen Cumhuriyeti’nin devlet kurumlarında üst düzey görev yapan kadın temsilcilerle çevrim içi görüştü.",
+      "link": "https://www.aydinlik.com.tr/haber/savasan-yemenin-kadinlariyla-ayni-cephede-595256",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857357+00:00"
+    },
+    {
+      "id": "33bfada971e758d2",
+      "source": "Aydınlık",
+      "title": "Bursa’dan ‘Büyük Çözüm’ mesajı: ‘Sistemin yakasına yapışalım’",
+      "summary": "Vatan Partisi Bursa İl Başkanlığı, 17. Büyük Kurultay öncesinde ‘Büyük Çözüme Doğru’ kahvaltısı düzenledi. Genel Sekreter Özgür Bursalı, fon vurgununun 40 yıllık sistemin ürünü olduğunu kaydetti ve TBMM’ye Mekke İttifakı’nı reddetme çağrısı yaptı",
+      "link": "https://www.aydinlik.com.tr/haber/bursadan-buyuk-cozum-mesaji-sistemin-yakasina-yapisalim-595257",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857375+00:00"
+    },
+    {
+      "id": "844e081ab42971b3",
+      "source": "Aydınlık",
+      "title": "İzmir’den TBMM’ye ‘Mekke İttifakı’ uyarısı",
+      "summary": "Vatan Partisi İzmir İl Başkanı Emekli Hava Kurmay Albay İhsan Sefa, Konak’taki basın açıklamasında Türkiye, Suudi Arabistan ve Pakistan arasındaki Mekke Ortak Savunma Anlaşması’nın TBMM’de onaylanmaması çağrısı yaptı. Sefa, Yemen’e asker göndermenin İsrail’in yanında olmak olduğunu söyledi.",
+      "link": "https://www.aydinlik.com.tr/haber/izmirden-tbmmye-mekke-ittifaki-uyarisi-595258",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857393+00:00"
+    },
+    {
+      "id": "b214f532c15208bf",
+      "source": "Aydınlık",
+      "title": "Kablodan önce silahla geldiler",
+      "summary": "Yunanistan, Türkiye’nin karşı çıktığı deniz altı elektrik kablosu projesini yeniden başlatmaya hazırlanıyor. Araştırma gemisinden önce Fransa, İtalya, Yunanistan ve GKRY, kablo güzergâhında tatbikat yapacaklarını duyurdu. Yunan basını bu hamleyi ‘caydırıcılık mesajı’ olarak niteledi",
+      "link": "https://www.aydinlik.com.tr/haber/kablodan-once-silahla-geldiler-595260",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857412+00:00"
+    },
+    {
+      "id": "65a165b28431b206",
+      "source": "Aydınlık",
+      "title": "Bükreş, Türkiye’nin komutanlık modeline itiraz etti: NATO mektubuna Sofya’dan destek",
+      "summary": "Romanya Savunma Bakanı Radu Miruta, Karadeniz’deki NATO komutanlığı için gönderilecek ortak mektubu Bulgaristan’ın imzalamayı kabul ettiğini açıkladı. Bükreş, 2028’e kadar Türkiye’de bulunacak karargâhın ardından Romanya’ya taşınmasını ve yönetimin dönüşümlü üstlenilmesini istiyor.",
+      "link": "https://www.aydinlik.com.tr/haber/bukres-turkiyenin-komutanlik-modeline-itiraz-etti-nato-mektubuna-sofyadan-destek-595261",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857430+00:00"
+    },
+    {
+      "id": "34689e5516bf65b7",
+      "source": "Aydınlık",
+      "title": "Kremlin’den Ankara’ya: Rus ressamın gözünden Millî Mücadele",
+      "summary": "Sovyet ressam Yevgeni Lansere’nin 1922 yılında Anadolu’da hazırladığı çizimler, bir asır sonra yeniden Ankara’da sergileniyor.",
+      "link": "https://www.aydinlik.com.tr/haber/kremlinden-ankaraya-rus-ressamin-gozunden-milli-mucadele-595262",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857444+00:00"
+    },
+    {
+      "id": "254d23047a57a2fa",
+      "source": "Aydınlık",
+      "title": "Ustam ve atölyem; mavi kart ve acılı menemen",
+      "summary": "1980’de İstanbul Devlet Güzel Sanatlar Akademisi’ne girdiğimde, Süleyman hocanın Grafik Bölümü’nde kurduğu özgün baskı atölyesi, ilk atölyem oldu. O zamanlar Osman Hamdi Bey Salonu’nu geçer geçmez, sol baştaki küçük odadaydı bu atölye.",
+      "link": "https://www.aydinlik.com.tr/koseyazisi/ustam-ve-atolyem-mavi-kart-ve-acili-menemen-595263",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857461+00:00"
+    },
+    {
+      "id": "646c67bc423e1ad1",
+      "source": "Aydınlık",
+      "title": "Kanarya’nın telafi sınavı",
+      "summary": "UEFA Şampiyonlar Ligi’nde Roma karşısında beraberlikle yetinen, Aston Villa deplasmanında ise ağır bir yenilgi alan Fenerbahçe, Slavia Prag karşısında çıkış arıyor. Sarı-lacivertliler, taraftarı önünde kazanarak Avrupa’daki kötü gidişata son vermeyi ve moral depolamayı hedefliyor",
+      "link": "https://www.aydinlik.com.tr/haber/kanaryanin-telafi-sinavi-595264",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857478+00:00"
+    },
+    {
+      "id": "66d150be14560e9e",
+      "source": "Aydınlık",
+      "title": "Çin sporunun reçetesi: Gençler",
+      "summary": "Aichi-NAGOYA Asya Oyunları kısa süre önce sona erdi. Çin, 12. kez üst üste altın madalya sıralamasında birinciliği elde ederek 169 altın, 89 gümüş ve 83 bronz madalyayla yurt dışındaki bir Asya Oyunları’nda en iyi derecesini yakaladı.",
+      "link": "https://www.aydinlik.com.tr/koseyazisi/cin-sporunun-recetesi-gencler-595265",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857495+00:00"
+    },
+    {
+      "id": "bc8ab7ab7ded3cbd",
+      "source": "Aydınlık",
+      "title": "Tabela tacirleri",
+      "summary": "Tabela tacirleri",
+      "link": "https://www.aydinlik.com.tr/koseyazisi/tabela-tacirleri-595275",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857505+00:00"
+    },
+    {
+      "id": "e5bddc50ce0d7867",
+      "source": "Aydınlık",
+      "title": "Sayın Enerji Bakanı'na sorular",
+      "summary": "Sayın Enerji Bakanı&#039;na sorular",
+      "link": "https://www.aydinlik.com.tr/koseyazisi/sayin-enerji-bakanina-sorular-595280",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:41.857516+00:00"
+    },
+    {
+      "id": "26cad68245ddf02c",
+      "source": "Ekonomim",
+      "title": "Hazine ve Maliye Bakanlığı'nda yeni atama",
+      "summary": "Hazine ve Maliye Bakanlığı Bakan Yardımcılığına Kutluhan Taşkın, Gelir İdaresi Başkanlığına (GİB) ise Şinasi Candan atandı. Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü ile Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurulu (KGK) Başkanı İbrahim Ömer Gönül görevden alındı.",
+      "link": "https://www.ekonomim.com/ekonomi/hazine-ve-maliye-bakanligina-yeni-atama-haberi-925735",
+      "published": "2026-10-19T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:50.235261+00:00"
+    },
     {
       "id": "10cf33517c91fb6b",
       "source": "Karar",
@@ -558,6 +910,17 @@
       "fetched_at": "2026-10-19T21:01:06.284167+00:00"
     },
     {
+      "id": "740c514a983c451b",
+      "source": "Bloomberg HT",
+      "title": "SPK'dan Tera Yatırım ve Peker Gayrimenkul Yatırım ortaklığına ilişkin karar",
+      "summary": "Sermaye Piyasası Kurulu (SPK), Peker GYO'nun yönetim kontrolünü devralan Tera Yatırım Holding'in zorunlu pay alım teklifi yükümlülüğünü yerine getirmemesi nedeniyle holding ve ilişkili kuruluşların oy haklarının dondurulduğunu açıkladı.",
+      "link": "https://www.bloomberght.com/spk-dan-tera-yatirim-ve-peker-gayrimenkul-yatirim-ortakligina-iliskin-karar-3791846",
+      "published": "2026-10-19T20:56:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:49.468248+00:00"
+    },
+    {
       "id": "1fb144f0f4d24cf2",
       "source": "Star",
       "title": "1. Lig'de 11. hafta sona erdi! İşte sonuçlar ve puan durumu...",
@@ -710,6 +1073,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-19T20:50:43.628017+00:00"
+    },
+    {
+      "id": "db8b8da0e632bf77",
+      "source": "Bloomberg HT",
+      "title": "Trump: Fransa'daki protestolar okullarla değil, göçle ilgili",
+      "summary": "ABD Başkanı Donald Trump, Fransa'daki protestoların öğrenci hareketlerinden değil, göçmenlikten kaynaklandığını savundu. Fransa Cumhurbaşkanı Emmanuel Macron'u sınır güvenliği konusunda daha önce uyardığını belirten Trump, ülkenin göç politikalarını eleştirerek Fransa'nın eski haline dönmesinin çok zor olduğunu öne sürdü.",
+      "link": "https://www.bloomberght.com/trump-fransa-daki-protestolar-okullarla-degil-gocle-ilgili-3791845",
+      "published": "2026-10-19T20:46:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:49.468270+00:00"
     },
     {
       "id": "937bfd9382449d10",
@@ -1007,6 +1381,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-19T20:30:51.302030+00:00"
+    },
+    {
+      "id": "30a62bd3d0e5cad1",
+      "source": "Habertürk",
+      "title": "Türkiye turnesine çıktılar",
+      "summary": "Demet Sağıroğlu ve Barbaros, Türkiye turnesi kapsamında Ankara, İstanbul ve İzmir'de sahne alacak. İkili, sevilen şarkıları ve farklı müzik türlerinden oluşan repertuvarlarıyla müzikseverlerle buluşacak",
+      "link": "https://www.haberturk.com/magazin/demet-sagiroglu-ve-barbaros-turkiye-turnesinde-3920914",
+      "published": "2026-10-19T20:29:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:26.330769+00:00"
     },
     {
       "id": "215ef619a400702f",
@@ -2129,6 +2514,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-19T19:45:45.687949+00:00"
+    },
+    {
+      "id": "d1d38793a3e802d9",
+      "source": "Türkiye Gazetesi",
+      "title": "Hedefinde Zelenskiy var: Müzakereleri başkasına devretsin",
+      "summary": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Vladimir Zelenskiy’yi Rusya ile anlaşmaya yanaşmamakla suçlayarak, “Belki de Zelenskiy’nin müzakereleri başka birine devretmesinin zamanı gelmiştir” dedi. Putin ile görüşmelerin sürdüğünü belirten Trump, Rusya’nın İran’a sınırlı destek vermesini de “olumlu” olarak değerlendirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/trumptan-iran-ve-ukrayna-mesaji-putinle-muzakere-halindeyiz-1823823",
+      "published": "2026-10-19T19:41:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:32.764484+00:00"
     },
     {
       "id": "58a432511019aad4",
@@ -4738,6 +5134,17 @@
       "fetched_at": "2026-10-19T17:45:51.719718+00:00"
     },
     {
+      "id": "94a7ab802b99bce6",
+      "source": "Milliyet",
+      "title": "Fransa'yı saran yağma ve şiddet dalgası! Hükümet düğmeye bastı; sokağa çıkma yasağı ilan edildi",
+      "summary": "Fransa'da 17 Ekim'deki protestoların ardından yaşanan yağma ve şiddet olayları üzerine ülkenin kuzey kentlerinde sokağa çıkma yasağı ilan edildi. Kuzeydeki Lille şehri ile çevresindeki Douai, Wattignies ve Denain kentlerinde bugünden itibaren iki gün süreyle 20.00-06.00 saatlerinde arasında sokağa çıkma yasağı uygulanacak. İlginizi Çekebilir \"PARİS'İN TAMAMINDA SOKAĞA ÇIKMA YASAĞI UYGULANMASI SÖZ ",
+      "link": "https://www.milliyet.com.tr/dunya/fransayi-saran-yagma-ve-siddet-dalgasi-hukumet-dugmeye-basti-sokaga-cikma-yasagi-ilan-edildi-7683226",
+      "published": "2026-10-19T17:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T21:05:35.622226+00:00"
+    },
+    {
       "id": "de7ed0bb10f60c7f",
       "source": "Cumhuriyet",
       "title": "İstanbul’un kültür sanat takvimi hareketleniyor: Uluslararası oyunlar, konserler ve prömiyerler başlıyor",
@@ -5099,413 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-19T17:25:41.985499+00:00"
-    },
-    {
-      "id": "fa46e04c922bd461",
-      "source": "Yeniçağ",
-      "title": "Buğra Kavuncu Ağıralioğlu'nun sözlerine yanıt verdi: 'Bir kavrama sıkıntısı olduğunun göstergesidir'",
-      "summary": "İYİ Parti Sözcüsü Buğra Kavuncu, Anahtar Parti lideri Yavuz Ağıralioğlu&#039;nun açıklamalarına yanıt verdi. Kavuncu, İYİ Parti Genel Başkanı&#039;nın üniversite öğrencileriyle yaptığı sohbetin tamamı izlenmeden yorum yapılmasını eleştirerek, &quot;Bir kavrama sıkıntısı olduğunun göstergesidir&quot; dedi.",
-      "link": "https://www.yenicaggazetesi.com/bugra-kavuncu-agiralioglunun-sozlerine-yanit-verdi-bir-kavrama-sikintisi-oldugunun-gostergesidir-1083306h.htm",
-      "published": "2026-10-19T17:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:31:00.097005+00:00"
-    },
-    {
-      "id": "6ce5360510ee6583",
-      "source": "CNBC-e",
-      "title": "Fransa'da sokağa çıkma yasağı: 4 kentte gece kısıtlaması",
-      "summary": "Fransa'da protestoların ardından yaşanan yağma, kundaklama ve şiddet olayları üzerine Lille ve çevresindeki üç kentte iki gün süreyle sokağa çıkma yasağı ilan edildi. Kısıtlama, 20.00 ile 06.00 saatleri arasında uygulanacak.",
-      "link": "https://www.cnbce.com/haberler/fransada-sokaga-cikma-yasagi-4-kentte-gece-kisitlamasi-h39805",
-      "published": "2026-10-19T17:23:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:53.184105+00:00"
-    },
-    {
-      "id": "b473c4c181cb373e",
-      "source": "Bloomberg HT",
-      "title": "Trump'tan kadın sağlığı araştırmalarını güçlendirecek kararname",
-      "summary": "ABD Başkanı Donald Trump, eşi Melania Trump'ın öncülüğünde kadın sağlığına yönelik federal araştırmaların güçlendirilmesini amaçlayan Başkanlık Kararnamesi'ni imzaladı.",
-      "link": "https://www.bloomberght.com/trump-tan-kadin-sagligi-arastirmalarini-guclendirecek-kararname-3791839",
-      "published": "2026-10-19T17:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:40:53.000571+00:00"
-    },
-    {
-      "id": "dcbe5888dc603bcd",
-      "source": "Ekonomim",
-      "title": "Tanju Özcan'dan marketler savunması: İrtikap yapmak istesek yazılı teklif vermezdik",
-      "summary": "Bolu Belediyesi&#039;ne yönelik soruşturma kapsamında yargılanan ve görevinden uzaklaştırılan Belediye Başkanı Tanju Özcan, davanın üçüncü duruşmasında cumhuriyet savcısının esas hakkındaki mütalaasına karşı savunma yaptı.",
-      "link": "https://www.ekonomim.com/gundem/tanju-ozcandan-marketler-savunmasi-irtikap-yapmak-istesek-yazili-teklif-vermezdik-haberi-925693",
-      "published": "2026-10-19T17:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:31:11.505995+00:00"
-    },
-    {
-      "id": "1e20b84910af93fe",
-      "source": "Star",
-      "title": "Osman Zeki Korkmaz: Bu ligde her puanın bir önemi var",
-      "summary": "Ankara Keçiörengücü Teknik Direktörü Osman Zeki Korkmaz, Fatih Karagümrük maçının ardından açıklamalarda bulundu.",
-      "link": "https://www.star.com.tr/spor/osman-zeki-korkmaz-bu-ligde-her-puanin-bir-onemi-var-haber-2047660/",
-      "published": "2026-10-19T17:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:39.821707+00:00"
-    },
-    {
-      "id": "6f29c1bbb6f3573c",
-      "source": "Habertürk",
-      "title": "\"Hülya Hanım'ı çok severim\"",
-      "summary": "Hülya Avşar'ın yürüyüşüyle ilgili yaptığı yorumla gündem olan Erkan Petekkaya, kendisine yöneltilen eleştirilere yanıt verdi. Avşar'ı çok sevdiğini ve sözlerinin espri amaçlı olduğunu belirten oyuncu, yaşananlara tepki gösterdi.",
-      "link": "https://www.haberturk.com/magazin/foto/erkan-petekkaya-dan-hulya-avsar-aciklamasi-3920923",
-      "published": "2026-10-19T17:22:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:30:47.060354+00:00"
-    },
-    {
-      "id": "7d0a358ef072c618",
-      "source": "Milliyet",
-      "title": "Görüntüler Türkiye'den! Vahşi doğa belgesellerini aratmadı: İşte kurtlarla yaban keçilerinin amansız mücadelesi",
-      "summary": "Aydınlık Kanyonu’nda tekne turu yapan Seyhan Çelikten ve arkadaşları, kurtlarla yaban keçileri arasında yaşanan kovalamacayı cep telefonu kamerasıyla kaydetti. KURTLAR AV PEŞİNDE Görüntülerde, kayalık alandaki yaban keçisi sürüsünden ayrılan daha küçük ve güçsüz keçileri kovalayan 3 kurt yer aldı. NEHRE DÜŞTÜ Fırat Nehri boyunca devam eden kovalamaca sırasında kurtların zaman zaman nehre düştüğü, ",
-      "link": "https://www.milliyet.com.tr/gundem/goruntuler-turkiyeden-vahsi-doga-belgesellerini-aratmadi-iste-kurtlarla-yaban-kecilerinin-amansiz-mucadelesi-7683230",
-      "published": "2026-10-19T17:22:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:37.648670+00:00"
-    },
-    {
-      "id": "bd6e1e4250be3380",
-      "source": "Cumhuriyet",
-      "title": "Başkentlerde sanat rüzgârı: Uluslararası film festivalleri, dev konserler ve opera prömiyerleri bir arada",
-      "summary": "Dünyanın farklı şehirlerinde sinemadan müziğe, tiyatrodan opera ve baleye uzanan geniş bir yelpazede sanatseverlerle buluşan Roma ve El Gouna film festivalleri, Amsterdam Dance Event, Broadway ile West End sahnelerindeki dev yapımlar ve Metropolitan Opera prömiyerleri haftanın küresel kültür-sanat ajansına damga vuruyor.",
-      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/baskentlerde-sanat-ruzgari-uluslararasi-film-festivalleri-dev-konserler-ve-opera-promiyerleri-bir-arada-2548328",
-      "published": "2026-10-19T17:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:31.724622+00:00"
-    },
-    {
-      "id": "8c817946df17e665",
-      "source": "DonanımHaber",
-      "title": "Samsung Galaxy S27 serisi beklenenden erken tanıtılabilir",
-      "summary": "Galaxy S26 serisini şubat ayında tanıtan Samsung, Galaxy S27 ailesiyle takvim değişikliğine gidebilir. Güvenilir bir sızıntı kaynağı, yeni telefonlar için Ocak 2027'yi işaret ediyor.",
-      "link": "https://www.donanimhaber.com/samsung-galaxy-s27-serisi-beklenenden-erken-tanitilabilir--211821",
-      "published": "2026-10-19T17:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:58.060629+00:00"
-    },
-    {
-      "id": "396032eab3da8d81",
-      "source": "Karar",
-      "title": "Pahalı somonun alternatifi: Hamsi omega-3 gücüyle şaşırtıyor!",
-      "summary": "Sağlıklı bir yaşam için düzenli balık tüketimi büyük önem taşıyor. Yapılan araştırmalara göre omega-3 zengini somona daha uygun bir alternatif arayanların tercihi hamsi olmalı.",
-      "link": "https://www.karar.com/saglik-haberleri/pahali-somonun-alternatifi-hamsi-omega-3-gucuyle-sasirtiyor-2079451",
-      "published": "2026-10-19T17:21:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:40.923153+00:00"
-    },
-    {
-      "id": "8c627af26729cfc2",
-      "source": "Aydınlık",
-      "title": "Fransa'daki eylemlerin ardından sokağa çıkma yasağı! Lille de listedi",
-      "summary": "Fransa’da yağma ve şiddet olaylarının ardından kuzeydeki Lille şehri ile çevresindeki Douai, Wattignies ve Denain kentlerinde iki gün süreyle 20.00-06.00 saatlerinde arasında sokağa çıkma yasağı ilan edildi.",
-      "link": "https://www.aydinlik.com.tr/haber/fransadaki-eylemlerin-ardindan-sokaga-cikma-yasagi-lille-de-listedi-595266",
-      "published": "2026-10-19T17:21:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:31:01.190533+00:00"
-    },
-    {
-      "id": "d23b3cf111ef978d",
-      "source": "Cumhuriyet",
-      "title": "YENİ Partili Emre'den 'Sülün Osman' benzetmesi: 'Bu işin merkezi AK Parti Genel Merkezi'",
-      "summary": "YENİ Parti Sözcüsü Zeynel Emre, borsadaki fon krizine ilişkin, “Bu soygun, günümüzün Sülün Osman vakasıdır. Fonlar da boğaz köprüsüdür. Bu vurgunun maliyeti her geçen gün artmaktadır. Çünkü sürekli borsa kaybetmektedir. İki yıldır bize yönelik tüm suçlamaların bizatihi faillerinin kendi oldukları ortaya çıkmıştır. Bu bedeli bu ülkenin gariban emekçisi ödedi ve ödemeye devam ediyor. Biz buna izin v",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-emre-den-sulun-osman-benzetmesi-bu-isin-merkezi-ak-parti-genel-merkezi-2548327",
-      "published": "2026-10-19T17:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:31.724675+00:00"
-    },
-    {
-      "id": "d6d9b3459047d92e",
-      "source": "Serbestiyet",
-      "title": "Azerbaycan çıldırdı: Rıdvan Kaya ve Fatih Tezcan dahil 7 kişi hakkında uluslararası yakalama girişimi",
-      "summary": "Azerbaycan makamları, aralarında Özgür-Der Genel Başkanı Rıdvan Kaya, yazar Abdullah İmamoğlu ve Fatih Tezcan’ın da bulunduğu yedi kişi hakkında uluslararası yakalama girişiminde bulundu Azerbaycan çıldırdı: Rıdvan Kaya ve Fatih Tezcan dahil 7 kişi hakkında uluslararası yakalama girişimi yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/featured/azerbaycan-cildirdi-ridvan-kaya-ve-fatih-tezcan-dahil-7-kisi-hakkinda-uluslararasi-yakalama-girisimi-251822/",
-      "published": "2026-10-19T17:20:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:20:58.994575+00:00"
-    },
-    {
-      "id": "eaffd4e9387e4049",
-      "source": "BBC News Türkçe",
-      "title": "Fransa'da sokağa çıkma yasakları",
-      "summary": "Fransa Başbakanı Sébastien Lecornu, belediye başkanlarına \"gerekli gördükleri yerlerde\" sokağa çıkma yasağı uygulama yetkisi verdiğini açıkladı.",
-      "link": "https://www.bbc.com/turkce/articles/cqm26kmrx4vro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19T17:20:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:21:16.220677+00:00"
-    },
-    {
-      "id": "646446dded1719fe",
-      "source": "Bir Gün",
-      "title": "Adana'da dükkanda silahlı saldırı: Kasada oturan 16 yaşındaki çocuk başından vuruldu",
-      "summary": "Adana'nın Seyhan ilçesinde bir dükkana gelen motosikletli saldırgan, kasada oturan 16 yaşındaki N.M.'yi tabancayla başından vurarak ağır yaraladı. Hastaneye kaldırılan çocuğun hayati tehlikesi devam ederken polis kaçan şüphelileri arıyor.",
-      "link": "https://www.birgun.net/haber/adana-da-dukkanda-silahli-saldiri-kasada-oturan-16-yasindaki-cocuk-basindan-vuruldu-741296",
-      "published": "2026-10-19T17:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:30:53.462032+00:00"
-    },
-    {
-      "id": "c6800d609f225bcf",
-      "source": "Yeni Akit",
-      "title": "Üreme çetesine operasyonun detayları ortaya çıktı: Türk milletinin soy bağını hedef aldılar",
-      "summary": "İstanbul Anadolu Cumhuriyet Başsavcılığının Terör ve Örgütlü Suçlar Soruşturma Bürosunca, Türk milletinin soy bağını hedef alan Türkiye, KKTC, Arnavutluk ve Gürcistan ile bağlantılı yasa dışı üreme hücresine düzenlenen operasyonun detayları ortaya çıktı. Örgüt lideri kadının ilk olarak donörlük yaptığı ve işlemin yollarını ayrıntılı öğrenip kendi organizasyonunu kurarak çete lideri olduğu, genç kı",
-      "link": "https://www.yeniakit.com.tr/haber/ureme-cetesine-operasyonun-detaylari-ortaya-cikti-turk-milletinin-soy-bagini-hedef-aldilar-2029091.html",
-      "published": "2026-10-19T17:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:20:51.179186+00:00"
-    },
-    {
-      "id": "942b728ba92e698f",
-      "source": "Türkiye Gazetesi",
-      "title": "MAÇ ERTELENECEK Mİ?",
-      "summary": "Galatasaray'ın, Şampiyonlar Ligi'nin üçüncü haftasında Fransa temsilcisi Lille ile oynayacağı deplasman maçı öncesinde güvenlik gerekçesiyle UEFA'ya resmi başvuruda bulunacağı belirtildi. Sokağa çıkma yasağı ilan edilen Fransa'da İçişleri Bakanı Laurent Nunez, maçların ertelenme ihtimaline ilişkin konuştu.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/galatasaray-lille-mucadelesi-oncesi-uefaya-gidiyor-mac-ertelenecek-mi-1823811",
-      "published": "2026-10-19T17:17:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:20:46.103200+00:00"
-    },
-    {
-      "id": "63db7ae52ec9a1e9",
-      "source": "Akşam",
-      "title": "Fenerbahçe, Devler Ligi'ne hazır",
-      "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Çekya temsilcisi Slavia Prag ile karşılaşacak Fenerbahçe, karşılaşmaya hazır.",
-      "link": "https://www.aksam.com.tr/spor/fenerbahce-devler-ligine-hazir/haber-1707518",
-      "published": "2026-10-19T17:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:20:49.505822+00:00"
-    },
-    {
-      "id": "b38a130bb0220ff4",
-      "source": "Habertürk",
-      "title": "Aliya İzzetbegoviç’i andı",
-      "summary": "Cumhurbaşkanı Erdoğan, Bosna-Hersek’in ilk Cumhurbaşkanı Aliya İzzetbegoviç’i, vefatının 23’üncü yılında yayımladığı mesajla andı",
-      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-aliya-izzetbegovici-andi-3920924",
-      "published": "2026-10-19T17:15:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:27.924460+00:00"
-    },
-    {
-      "id": "4e0688dbc9fc16c4",
-      "source": "Cumhuriyet",
-      "title": "Yurttaşlara çağrı yaptılar: YENİ Parti'den Halk TV önünde miting kararı",
-      "summary": "YENİ Parti Sözcüsü Zeynel Emre \"MYK’da aldığımız karar gereğince çarşamba günü, 19.30’da tüm İstanbulluları, Halk TV önüne bekliyoruz. Orada Halk TV ile dayanışma mitingi yapacağız\" dedi.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/yurttaslara-cagri-yaptilar-yeni-parti-den-halk-tv-onunde-miting-karari-2548326",
-      "published": "2026-10-19T17:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:15:36.027166+00:00"
-    },
-    {
-      "id": "6508ec649210664e",
-      "source": "Star",
-      "title": "Thomas Reis'tan derbide 6 değişiklik",
-      "summary": "Trendyol Süper Lig'de 8. haftanın kapanış maçında Beşiktaş'ı konuk eden Trabzonspor, UEFA Konferans Ligi'nde KuPS Kuopion maçının ilk 11'ine göre 6 farklı oyuncuyla sahaya çıktı.",
-      "link": "https://www.star.com.tr/spor/thomas-reistan-derbide-6-degisiklik-haber-2047659/",
-      "published": "2026-10-19T17:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:15:42.418494+00:00"
-    },
-    {
-      "id": "c1bd977a1e0dbb8a",
-      "source": "Aydınlık",
-      "title": "Niğde'de iki çırağı darbettiği öne sürülen berber serbest",
-      "summary": "Niğde&#039;de 17 Ekim&#039;de yaşanan olayda 15 yaşındaki Y.E.D. ile çırak arkadaşı, iş yeri sahibi tarafından dövülüp tuvalete kilitlenerek temizlik yapmaya zorlandıklarını öne sürdü. Gözaltına alınan berber adli kontrolle serbest bırakıldı.",
-      "link": "https://www.aydinlik.com.tr/haber/nigdede-ciraklara-darp-iddiasi-berber-serbest-595247",
-      "published": "2026-10-19T17:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:15:59.942738+00:00"
-    },
-    {
-      "id": "3d7eea06e532f8b9",
-      "source": "Habertürk",
-      "title": "F.Bahçe, Slavia Prag maçına hazır!",
-      "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında yarın Çekya ekibi Slavia Prag'ı konuk edecek Fenerbahçe, hazırlıklarını tamamladı.",
-      "link": "https://www.haberturk.com/spor/fenerbahce-slavia-prag-macina-hazir-3920919",
-      "published": "2026-10-19T17:14:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:27.924528+00:00"
-    },
-    {
-      "id": "d9aae6f7468fdf90",
-      "source": "Evrensel",
-      "title": "Antalya Büyükşehir Belediyesi iştiraki ANSET'e yönelik soruşturmanın iddianamesi kabul edildi",
-      "summary": "Antalya Büyükşehir Belediyesinin iştiraki ANSET'e yönelik soruşturma kapsamında aralarında Muhittin Böcek ve eski genel sekreter Cansel Çevikkol Tuncer'in de bulunduğu 55 kişi hakkında dava açıldı.",
-      "link": "https://www.evrensel.net/haber/6005681/antalya-buyuksehir-belediyesi-istiraki-ansete-yonelik-sorusturmanin-iddianamesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-19T17:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:35.118977+00:00"
-    },
-    {
-      "id": "ecf56cb0fc05fa39",
-      "source": "Ekonomim",
-      "title": "İran Cumhurbaşkanı Pezeşkiyan, Rusya Dışişleri Bakanı Lavrov ile görüştü",
-      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, temaslarda bulunmak üzere Tahran’a gelen Rusya Dışişleri Bakanı Sergey Lavrov ile bir araya geldi.",
-      "link": "https://www.ekonomim.com/dunya/iran-cumhurbaskani-pezeskiyan-rusya-disisleri-bakani-lavrov-ile-gorustu-haberi-925692",
-      "published": "2026-10-19T17:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:25:52.178771+00:00"
-    },
-    {
-      "id": "99e93fd81fab0eed",
-      "source": "Akşam",
-      "title": "Rant ve rüşvet çetesine yeni darbe: Böcek ve ekibinin \"ANSET\" vurgunu patladı",
-      "summary": "Antalya Büyükşehir Belediyesinin iştiraki ANSET'e yönelik soruşturma kapsamında aralarında Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Muhittin Böcek ve eski genel sekreter Cansel Çevikkol Tuncer'in de bulunduğu 55 sanık hakkında dava açıldı.",
-      "link": "https://www.aksam.com.tr/guncel/rant-ve-rusvet-cetesine-yeni-darbe-bocek-ve-ekibinin-anset-vurgunu-patladi/haber-1707517",
-      "published": "2026-10-19T17:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:15:41.024352+00:00"
-    },
-    {
-      "id": "76cfd882a9d22076",
-      "source": "Cumhuriyet",
-      "title": "Katlanabilir ekranlı iPhone Duo'nun batarya kapasitesi açıklandı",
-      "summary": "Apple'ın ilk katlanabilir ekranlı telefonu olan iPhone Duo için batarya kapasiteleri duyuruldu.",
-      "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/katlanabilir-ekranli-iphone-duo-nun-batarya-kapasitesi-aciklandi-2548325",
-      "published": "2026-10-19T17:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:15:36.027196+00:00"
-    },
-    {
-      "id": "4b3604bfafc894dd",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Antalya Büyükşehir Belediyesi iştiraki ANSET'e yönelik soruşturmanın iddianamesi kabul edildi",
-      "summary": "Antalya Büyükşehir Belediyesinin iştiraki ANSET’e yönelik soruşturmada aralarında Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Muhittin Böcek ve eski genel sekreter Cansel Çevikkol Tuncer’in de bulunduğu 55 sanık hakkında dava açıldı.",
-      "link": "https://www.aa.com.tr/tr/gundem/antalya-buyuksehir-belediyesi-istiraki-ansete-yonelik-sorusturmanin-iddianamesi-kabul-edildi/4093784",
-      "published": "2026-10-19T17:09:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:15:35.487616+00:00"
-    },
-    {
-      "id": "8ad83fd2433c3dbf",
-      "source": "Cumhuriyet",
-      "title": "İş yerine silahlı saldırı: 16 yaşındaki çocuk başından vuruldu!",
-      "summary": "Adana’da kimya ürünleri satan bir iş yerine düzenlenen silahlı saldırıda, kasada oturan 16 yaşındaki çocuk başından vurularak ağır yaralandı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/is-yerine-silahli-saldiri-16-yasindaki-cocuk-basindan-vuruldu-2548324",
-      "published": "2026-10-19T17:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:15:36.027222+00:00"
-    },
-    {
-      "id": "22c2ad88d786c759",
-      "source": "Star",
-      "title": "Riyad-İslamabad hattında askeri ittifak pekişiyor: Pakistan ordusundan Suudi Arabistan'a savunma garantisi",
-      "summary": "Pakistan ordusu, Yemen'deki Husilerin saldırıları karşısında Suudi Arabistan'ı savunmak için \"gereken her türlü desteği sağladığını ve sağlamaya devam edeceğini\" bildirdi.",
-      "link": "https://www.star.com.tr/dunya/riyad-islamabad-hattinda-askeri-ittifak-pekisiyor-pakistan-ordusundan-suudi-arabistana-sav-haber-2047658/",
-      "published": "2026-10-19T17:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:10:46.141264+00:00"
-    },
-    {
-      "id": "15226ff64111c536",
-      "source": "Aydınlık",
-      "title": "TMSF, Tera Yatırım Teknoloji Holding'e kayyum olarak atandı",
-      "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), Tera Yatırım Teknoloji Holding&#039;e kayyum olarak atandı.",
-      "link": "https://www.aydinlik.com.tr/haber/tmsf-tera-yatirim-teknoloji-holdinge-kayyum-olarak-atandi-595249",
-      "published": "2026-10-19T17:08:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:10:48.959485+00:00"
-    },
-    {
-      "id": "0918587357a406af",
-      "source": "Yeni Şafak",
-      "title": "Tera Yatırım Teknoloji Holding'e TMSF kayyum olarak atandı: Yönetim kurulu yeniden oluşturuldu",
-      "summary": "Tasarruf Mevduatı Sigorta Fonu (TMSF), İstanbul 5. Sulh Ceza Hakimliğinin 14 Ekim 2026 tarihli kararıyla Tera Yatırım Teknoloji Holding’e kayyum olarak atandı. Kararın ardından şirketin yönetim kurulu yeniden oluşturulurken, yönetim kurulu başkanlığına Enis Güçlü Şirin getirildi. Şirket, gerekli çalışmalara titizlikle ve ivedilikle başlandığını duyurdu.",
-      "link": "https://www.yenisafak.com/gundem/tera-yatirim-teknoloji-holdinge-tmsf-kayyum-olarak-atandi-yonetim-kurulu-yeniden-olusturuldu-4865624",
-      "published": "2026-10-19T17:06:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:10:45.699744+00:00"
-    },
-    {
-      "id": "2e95f7801ac39b2c",
-      "source": "Habertürk",
-      "title": "\"Avrupa yanlış hesaplamalarının bedelini ödüyor\"",
-      "summary": "İran Dışişleri Bakanı Abbas Erakçi, Rusya Dışişleri Bakanı Sergey Lavrov ile birlikte düzenlediği ortak basın toplantısında, \"Avrupa gerçeklerle yüzleşmeli; Avrupa da tıpkı ABD gibi yanlış hesaplamalarının bedelini ödüyor.\" dedi. Erakçi ile Lavrov, Tahran’da ortak basın toplantısı düzenledi.",
-      "link": "https://www.haberturk.com/dunya/iran-disisleri-bakani-fransadaki-gosteriler-avrupa-yanlis-hesaplamalarinin-bedelini-oduyor-3920922",
-      "published": "2026-10-19T17:06:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:15:32.262052+00:00"
-    },
-    {
-      "id": "a54986593e85ca4a",
-      "source": "Karar",
-      "title": "Aliyev yönetiminden başörtüsü yasağını protesto eden Türk aktivistler ve akademisyenler için yakalama kararı",
-      "summary": "Azerbaycan'da başörtülü öğrenci ve öğretmenlerin okullardan uzaklaştırılmasıyla başlayan kriz derinleşti. Türkiye'den Binali Yıldırım başta olmak üzere gerilimi düşürmeye yönelik mesajlar gelirken Azerbaycan Başsavcılığı, aralarında Özgür-Der Genel Başkanı Rıdvan Kaya ve ilahiyatçı Abdullah İmamoğlu'nun da bulunduğu isimler hakkında uluslararası yakalama kararı çıkardı. Bakü yönetimi, kararların u",
-      "link": "https://www.karar.com/guncel-haberler/aliyev-yonetiminden-basortusu-yasagini-protesto-eden-turk-aktivistler-2079450",
-      "published": "2026-10-19T17:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:10:47.028167+00:00"
-    },
-    {
-      "id": "7c2cc05b990d037f",
-      "source": "Karar",
-      "title": "BM, Batı Şeria'da zeytin hasadı yapan Filistinli çiftçiler için uyardı",
-      "summary": "Birleşmiş Milletler uzmanları, işgal altındaki Batı Şeria'da yıllık zeytin hasadının başlamasıyla birlikte Filistinli çiftçilerin İsrailli yerleşimcilerin saldırılarına, arazi tahribatına ve erişim kısıtlamalarına maruz kaldığını bildirdi. Açıklamada, çiftçilerin korunması ve topraklarına güvenli biçimde erişebilmelerinin sağlanması gerektiği vurgulandı. Uzmanlar ayrıca uluslararası topluma, İsrai",
-      "link": "https://www.karar.com/dunya-haberleri/bm-bati-seriada-zeytin-hasadi-yapan-filistinli-ciftciler-icin-uyardi-2079449",
-      "published": "2026-10-19T17:05:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:10:47.028221+00:00"
-    },
-    {
-      "id": "d655715a0d35421c",
-      "source": "Yeniçağ",
-      "title": "Ahmet Özer: Esenyurt'un ihtiyacı seçilmiş belediye başkanının göreve iade edilmesidir",
-      "summary": "Ahmet Özer, kendisi yerine Esenyurt Belediye Başkanlığı&#039;na kayyum olarak atanan Can Aksoy&#039;un görevden alınması sonrası açıklama yaptı. Özer, &quot;Esenyurt&#039;un ihtiyacı seçilmiş belediye başkanının göreve iade edilmesidir&quot; dedi.",
-      "link": "https://www.yenicaggazetesi.com/ahmet-ozer-esenyurtun-ihtiyaci-secilmis-belediye-baskaninin-goreve-iade-edilmesidir-1083305h.htm",
-      "published": "2026-10-19T17:05:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:05:39.517509+00:00"
-    },
-    {
-      "id": "87eecc51430affed",
-      "source": "Bir Gün",
-      "title": "Merkez Bankası ekim ayı faiz oranı ne zaman açıklanacak?",
-      "summary": "Merkez Bankası ekim ayı faiz kararı ne zaman, saat kaçta açıklanacak? TCMB faiz indirimi yapacak mı, ekonomistlerin beklentisi ne yönde? Yanıtlar haberimizde.",
-      "link": "https://www.birgun.net/haber/merkez-bankasi-ekim-ayi-faiz-orani-ne-zaman-aciklanacak-741251",
-      "published": "2026-10-19T17:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T17:10:41.934088+00:00"
     }
   ]
 }

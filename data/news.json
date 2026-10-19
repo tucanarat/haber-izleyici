@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-19T03:20:53.777257+00:00",
+  "last_updated": "2026-10-19T03:25:51.271255+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 482,
+  "new_items_this_run": 481,
   "items": [
+    {
+      "id": "b9f3b264cf4af0ff",
+      "source": "Habertürk",
+      "title": "Hürmüz'de bir tanker mayına çarptı",
+      "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nın güneyinden izinsiz bir şekilde geçmeye çalışan bir petrol tankerinin deniz mayınına çarptığını duyurarak, \"Meydana gelen patlamanın ardından geminin makine dairesinde yangın çıkmıştır\" açıklamasında bulundu",
+      "link": "https://www.haberturk.com/dunya/hurmuz-de-bir-tanker-mayina-carpti-3920698",
+      "published": "2026-10-19T03:21:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T03:25:26.749761+00:00"
+    },
     {
       "id": "f53e390cbacc773f",
       "source": "OdaTV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-18T19:10:36.765112+00:00"
-    },
-    {
-      "id": "297b3f09e3c337db",
-      "source": "Cumhuriyet",
-      "title": "Beşiktaş maçı öncesi... Trabzonspor Başkanı Ertuğrul Doğan'dan hakem açıklaması!",
-      "summary": "Trabzonspor Kulübü Başkanı Ertuğrul Doğan, Süper Lig'in 8. haftasında pazartesi günü kendi sahalarında oynayacakları Beşiktaş maçına dair görüşlerini aktardı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/besiktas-maci-oncesi-trabzonspor-baskani-ertugrul-dogan-dan-hakem-aciklamasi-2547994",
-      "published": "2026-10-18T19:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-18T19:10:33.846242+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-19T02:25:54.973769+00:00",
+  "last_updated": "2026-10-19T02:31:09.955168+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 486,
+  "new_items_this_run": 487,
   "items": [
+    {
+      "id": "0bf8952746481637",
+      "source": "Milliyet",
+      "title": "Kadıköy'de 3 katlı ahşap köşk yanarak küle döndü",
+      "summary": "Merdivenköy Mahallesi Çavuş Kuşu Sokak'taki 3 katlı ahşap köşkte henüz belirlenemeyen nedenle yangın çıktı. İhbar üzerine olay yerine itfaiye, sağlık ve polis ekipleri sevk edildi. Boş olduğu öğrenilen köşk, kısa sürede alevlere teslim olurken, itfaiye ekiplerinin müdahalesiyle yangın, çevredeki binalara sirayet etmeden söndürüldü. Yangın sırasında köşkte çökmeler meydana gelirken bina tamamen kul",
+      "link": "https://www.milliyet.com.tr/gundem/kadikoyde-3-katli-ahsap-kosk-yanarak-kule-dondu-7682606",
+      "published": "2026-10-19T02:27:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T02:30:49.830042+00:00"
+    },
     {
       "id": "1025409c3473eb39",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-18T18:50:33.293988+00:00"
-    },
-    {
-      "id": "9240fe50ca65ea23",
-      "source": "Yeniçağ",
-      "title": "Macron ulusa seslendi, protestocuları tehdit etti",
-      "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, ulusa sesleniş konuşmasında, &quot;Yağmacılar verdikleri zararın bedelini ödeyecek ve cumhuriyeti yıkmaya çalışanlar hesap verecek&quot; dedi.",
-      "link": "https://www.yenicaggazetesi.com/macron-ulusa-seslendi-protestoculari-tehdit-etti-1082994h.htm",
-      "published": "2026-10-18T18:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-18T18:50:39.570778+00:00"
     }
   ]
 }

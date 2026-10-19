@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-19T02:35:53.088437+00:00",
+  "last_updated": "2026-10-19T02:40:58.345270+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 486,
+  "new_items_this_run": 487,
   "items": [
+    {
+      "id": "0e0346ffc203663c",
+      "source": "Türkiye Gazetesi",
+      "title": "YOĞUN BİR HAFTA BEKLİYOR",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, bu hafta parti çalışmaları, Meclis mesaisi ve diplomatik temaslarla yoğun bir gündem yürütecek. Erdoğan, yarın AK Parti Merkez Karar ve Yönetim Kurulu’nu (MKYK) toplayacak. Burada kurmaylarıyla fon krizi ve “Terörsüz Türkiye” başta olmak üzere güncel meseleler hakkında önemli kararlar alacak. Kurmaylar, sahadan elde ettikleri verileri toplantıda paylaşacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/mkyk-grup-toplantisi-kanada-basbakani-cumhurbaskani-erdogani-yogun-bir-hafta-bekliyor-1823646",
+      "published": "2026-10-19T02:34:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-19T02:40:38.046725+00:00"
+    },
     {
       "id": "0bf8952746481637",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-18T18:50:37.628938+00:00"
-    },
-    {
-      "id": "fa203a37a38471c0",
-      "source": "Cumhuriyet",
-      "title": "Soruşturma başlatıldı: 30 yaşındaki kadın, balkondan düşüp hayatını kaybetti",
-      "summary": "Batman’da balkonda halı silkelerken dengesini kaybedip 8’inci kattan düşen Esra Işık (30), kaldırıldığı hastanede hayatını kaybetti. Olayla ilgili soruşturma başlatıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/sorusturma-baslatildi-30-yasindaki-kadin-balkondan-dusup-hayatini-kaybetti-2547990",
-      "published": "2026-10-18T18:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-18T18:50:33.293988+00:00"
     }
   ]
 }

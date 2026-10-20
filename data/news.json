@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-20T00:41:09.281476+00:00",
+  "last_updated": "2026-10-20T00:46:11.689988+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 495,
+  "new_items_this_run": 496,
   "items": [
+    {
+      "id": "cafe039c0cd339a7",
+      "source": "Türkiye Gazetesi",
+      "title": "Altı aylık Osman Alp’e nadir ameliyat",
+      "summary": "Akciğer damarlarındaki yüksek basınca bağlı kalp yetmezliği gelişen altı aylık Osman Alp Ordu, Ankara Bilkent Şehir Hastanesinde geçirdiği ameliyatla sağlığına kavuştu.",
+      "link": "https://www.turkiyegazetesi.com.tr/saglik/literaturdeki-ucuncu-vaka-alti-aylik-osman-alpe-nadir-ameliyat-1823860",
+      "published": "2026-10-20T00:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-20T00:45:39.563547+00:00"
+    },
+    {
+      "id": "0b90cec9ae4c1f4f",
+      "source": "OdaTV",
+      "title": "Elazığ'da sel nedeniyle yayla yolu yarıldı",
+      "summary": "Elazığ’da etkili olan aşırı yağış, sel felaketine neden oldu. Yağışın ardından meydana gelen sel nedeniyle yayla yolu yarılarak hasar gördü.",
+      "link": "https://www.odatv.com/guncel/elazigda-sel-nedeniyle-yayla-yolu-yarildi-120167429",
+      "published": "2026-10-20T00:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-20T00:45:55.233365+00:00"
+    },
     {
       "id": "6681ac65fce53573",
       "source": "Türkiye Gazetesi",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-19T19:30:53.581890+00:00"
-    },
-    {
-      "id": "03a10d5fd03362db",
-      "source": "Habertürk",
-      "title": "\"Önemli bir galibiyet aldık\"",
-      "summary": "Trendyol Süper Lig'in 8. hafta maçında Trabzonspor sahasında Beşiktaş'ı 2-0 mağlup etti. Bordo-mavililerde Stefan Savic, galibiyetin ardından açıklamalarda bulundu.",
-      "link": "https://www.haberturk.com/spor/trabzonspor-besiktas-maci-sonrasi-stefan-savic-onemli-bir-galibiyet-aldik-3920946",
-      "published": "2026-10-19T19:27:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T19:35:27.922268+00:00"
-    },
-    {
-      "id": "bf1ec6ff7409beb5",
-      "source": "Habertürk",
-      "title": "\"Eşime ve çocuğuma gol sözü vermiştim\"",
-      "summary": "Trabzonspor forması giyen Ozan Tufan, 1 gol kaydettiği Beşiktaş mücadelesinin ardından açıklamalarda bulundu",
-      "link": "https://www.haberturk.com/spor/ozan-tufan-esime-ve-cocuguma-gol-sozu-vermistim-3920945",
-      "published": "2026-10-19T19:27:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T19:35:27.922306+00:00"
     }
   ]
 }

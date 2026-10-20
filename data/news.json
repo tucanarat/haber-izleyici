@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-20T03:31:15.742873+00:00",
+  "last_updated": "2026-10-20T03:35:56.294529+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 483,
+  "new_items_this_run": 482,
   "items": [
+    {
+      "id": "03c9076685179723",
+      "source": "Euronews Türkçe",
+      "title": "Fransa'da isyanların zararı ikiye katlandı: Binlerce tahrip edilen dükkanın faturasını kim ödeyecek",
+      "summary": "Hafta sonu en az 3.000 Fransız mağazası hedef alındı. Sigortacılar devrede, ancak kayıp ciro kapsam dışı kalabilir. İsyan faturasını kim ödeyecek?",
+      "link": "https://tr.euronews.com/2026/10/20/fransada-isyanlarin-zarari-ikiye-katlandi-binlerce-tahrip-edilen-dukkanin-faturasini-kim-o",
+      "published": "2026-10-20T03:34:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-20T03:35:56.293867+00:00"
+    },
     {
       "id": "667964a0c899a9da",
       "source": "OdaTV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-19T20:25:26.422335+00:00"
-    },
-    {
-      "id": "58970c50838fa2da",
-      "source": "Habertürk",
-      "title": "\"Bu sene iyi bir başarı yakalayacağız\"",
-      "summary": "Trabzonspor'un Arnavut yıldızı Ernest Muçi, Süper Lig'in 8. haftasında Beşiktaş'ı 2-0 yendikleri maçın ardından açıklamalarda bulundu. Bu sezon iyi işler yapacaklarına inandığını söyleyen Muçi, \"Şimdi önümüzde Konferans Ligi var, buna odaklanmamız gerekiyor. Her maç bizim için ayrı bir fırsat. Bu sene iyi bir başarı yakalayacak bir takımımız olduğuna inanıyorum.\" dedi.",
-      "link": "https://www.haberturk.com/spor/ernest-muci-bu-sene-iyi-bir-basari-yakalayacagiz-3920954",
-      "published": "2026-10-19T20:12:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-19T20:20:34.605435+00:00"
     }
   ]
 }

@@ -1,12 +1,155 @@
 {
-  "last_updated": "2026-10-21T18:55:46.917541+00:00",
+  "last_updated": "2026-10-21T19:01:22.842421+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 537,
+  "new_items_this_run": 515,
   "items": [
+    {
+      "id": "e9f2b131aa81b8c6",
+      "source": "Yeni Şafak",
+      "title": "Nevşehir’de refüje çarpan araç takla attı: Bir kişi öldü iki kişi yaralandı",
+      "summary": "Nevşehir’in Hacıbektaş ilçesinde refüje çarptıktan sonra karşı şeride geçerek takla atan hafif ticari araçtaki bir kişi hayatını kaybetti, iki kişi yaralandı.",
+      "link": "https://www.yenisafak.com/galeri/gundem/nevsehirde-refuje-carpan-arac-takla-atti-bir-kisi-oldu-iki-kisi-yaralandi-4866253",
+      "published": "2026-10-21T19:00:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:00:59.953834+00:00"
+    },
+    {
+      "id": "db30ef7739efb80c",
+      "source": "DonanımHaber",
+      "title": "Yapay zeka, akrep zehrine karşı 318 bin protein tasarladı: 17'si testleri geçti",
+      "summary": "Anthropic'in yapay zeka modeli Claude, 64 saatte 318 bin protein tasarladı. Laboratuvarda test edilen 211 adaydan 17'si akrep zehrini hedeflemede başarılı oldu.",
+      "link": "https://www.donanimhaber.com/yapay-zeka-akrep-zehrine-karsi-318-bin-protein-tasarladi--211908",
+      "published": "2026-10-21T19:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:01:20.211790+00:00"
+    },
+    {
+      "id": "15ed5fbdf1a31769",
+      "source": "Akşam",
+      "title": "MAÇ SONUCU: Como: 4 - Manchester United: 1",
+      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında İtalyan ekibi Como, konuk ettiği İngiltere temsilcisi Como'yu 4-1 yendi.",
+      "link": "https://www.aksam.com.tr/spor/mac-sonucu-como-4-manchester-united-1/haber-1708142",
+      "published": "2026-10-21T18:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:00:59.259460+00:00"
+    },
+    {
+      "id": "133fcf9b56c1402c",
+      "source": "Yeniçağ",
+      "title": "Asensio: ‘Yakında her zamankinden daha güçlü döneceğim’",
+      "summary": "Fenerbahçe&#039;nin İspanyol yıldızı Marco Asensio, geçirdiği diz ameliyatının ardından açıklamalarda bulundu. Şampiyonluk hedefi için sağlığını riske atarak sahalara erken döndüğünü belirten Asensio, yaklaşık 3 aylık tedavi sürecinin ardından daha güçlü döneceğinin sözünü verdi.",
+      "link": "https://www.yenicaggazetesi.com/asensio-yakinda-her-zamankinden-daha-guclu-donecegim-1084041h.htm",
+      "published": "2026-10-21T18:57:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:01:02.536625+00:00"
+    },
+    {
+      "id": "f90cb025dedaf631",
+      "source": "Yeni Şafak",
+      "title": "Muğla’da FETÖ hükümlüsü yakalandı: Altı yıl üç ay hapis cezası vardı",
+      "summary": "Muğla’da, FETÖ'ye üye olma suçundan hakkında altı yıl üç ay kesinleşmiş hapis cezası bulunan şahıs yakalandı. Emniyet ekiplerince yürütülen çalışmalar sonucunda yakalanan hükümlü, işlemlerinin ardından cezaevine teslim edildi.",
+      "link": "https://www.yenisafak.com/gundem/muglada-feto-hukumlusu-yakalandi-alti-yil-uc-ay-hapis-cezasi-vardi-4866252",
+      "published": "2026-10-21T18:57:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:00:59.953860+00:00"
+    },
+    {
+      "id": "7c76b3426985520d",
+      "source": "Star",
+      "title": "Manchester United, Como deplasmanında dağıldı!",
+      "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Como, sahasında Manchester United'ı 4-1 mağlup etti.",
+      "link": "https://www.star.com.tr/spor/manchester-united-como-deplasmaninda-dagildi-haber-2048207/",
+      "published": "2026-10-21T18:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:01:00.534982+00:00"
+    },
+    {
+      "id": "3a0f96d6fe4acf57",
+      "source": "Star",
+      "title": "Sarıyer Belediyesi Özgür Özel'i yalanladı: İmar işlemlerini belediyemiz hazırladı, İBB onayladı",
+      "summary": "Sarıyer Belediyesi, Yeni Parti Genel Başkanı Özgür Özel'in İstanbul Ayazağa'daki projeye ilişkin iddialarıyla ilgili açıklama yaptı. Belediyenin resmi hesabından yapılan açıklamada, \"Proje alanına ait imar durumu, inşaat istikameti vb. imar işlemleri Sarıyer Belediyemizce hazırlanmış, Belediye tarafından yıkım ruhsatları düzenlenmiştir\" denildi.",
+      "link": "https://www.star.com.tr/politika/sariyer-belediyesi-ozgur-ozeli-yalanladi-imar-islemlerini-belediyemiz-hazirladi-ibb-onayladi-haber-2048206/",
+      "published": "2026-10-21T18:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:01:00.535011+00:00"
+    },
+    {
+      "id": "4d50ac9f91c03ecb",
+      "source": "Türkiye Gazetesi",
+      "title": "Avrupa'da siber alarm! Çok sayıda site devre dışı",
+      "summary": "PHP yazılım dilinde tespit edilen iki güvenlik açığı, Avrupa'da çok sayıda internet sitesinin tedbir amacıyla kapatılmasına yol açtı. Belçika, Hollanda, Fransa, Almanya ve Finlandiya'da kamu kurumlarının siteleri devre dışı bırakılırken, yetkililer henüz doğrulanmış bir siber saldırı olmadığını bildirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/teknoloji/avrupada-siber-guvenlik-alarmi-cok-sayida-site-devre-disi-1824334",
+      "published": "2026-10-21T18:56:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:00:55.414381+00:00"
+    },
+    {
+      "id": "51e9e10cea7cf508",
+      "source": "Karar",
+      "title": "Milyonları korkutan parfüm iddiasının aslı ortaya çıktı",
+      "summary": "Sosyal medyada yayılan boyna parfüm sıkmanın tiroid bezine zarar verdiği savına tıp dünyasından net yanıt geldi. Prof. Dr. Muhammed Keskin, boyun derisi ile tiroid arasında doğrudan emilim ilişkisi bulunmadığını belirterek bu iddiaları çürüttü.",
+      "link": "https://www.karar.com/hayat-haberleri/parfum-tiroide-zarar-verir-mi-parfum-sikmak-tiroid-yapar-mi-sosyal-2079896",
+      "published": "2026-10-21T18:56:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:01:01.795895+00:00"
+    },
+    {
+      "id": "ca08b90f804194c8",
+      "source": "Yeni Yaşam",
+      "title": "Gewer’de şüpheli kadın ölümü",
+      "summary": "Colemêrg&#8217;in Gewer ilçesinde 20 yaşındaki B.S. evinde şüpheli bir şekilde yaşamını yitirmiş halde bulundu Culemêrg’in Gever (Yüksekova) ilçesine bağlı Alekanan (Adaklı) köyünde yaşayan 20 yaşındaki B.S. iddiaya göre evinde hareketsiz bir şekilde bulundu. Durumun bildirilmesi üzerine olay yerine sağlık ekipleri sevk edildi. Sağlık ekiplerinin ilk müdahalesinin ardından Gewer Devlet Hastanesine",
+      "link": "https://yeniyasamgazetesi9.com/gewerde-supheli-kadin-olumu/",
+      "published": "2026-10-21T18:55:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:01:10.895562+00:00"
+    },
+    {
+      "id": "816d70058f171187",
+      "source": "Yeni Yaşam",
+      "title": "Zonguldak’ta bina çöktü: Bir kişi hayatını kaybetti",
+      "summary": "Zonguldak&#8217;ta çöken binanın enkazında kalan 1 kişi hayatını kaybetti, 1 kişi kurtarıldı Zonguldak&#8217;ın Merkez Meşrutiyet Mahallesi Sütliyen Sokak&#8217;taki 3 katlı bina henüz belirlenemeyen nedenle çöktü. İhbar üzerine olay yerine, AFAD, itfaiye, polis, sağlık ve UMKE ekipleri sevk edildi. Ekipler, bir kişiyi enkazdan kurtardı. Diğer kişinin kurtarılması için çalışmalar sürüyor. Zongulda",
+      "link": "https://yeniyasamgazetesi9.com/zonguldakta-bina-coktu-bir-kisi-enkaz-altinda/",
+      "published": "2026-10-21T18:55:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:01:10.895595+00:00"
+    },
+    {
+      "id": "9859229bc0d5aeb0",
+      "source": "Milliyet",
+      "title": "Fransa'da telefon operatörleri de çöktü! Orange'ın mobil ağında kesinti",
+      "summary": "Fransa'da telefon operatörü Orange'ın mobil ağında kesinti yaşandığı bildirildi. Orange'ın, sosyal medya hesabından yapılan açıklamada, \"Şu anda Orange mobil ağında kesintiler yaşıyor olabilirsiniz. Ekiplerimiz, şebekeyi en kısa sürede yeniden işler hale getirmek için tam kadro çalışıyor.\" ifadelerine yer verildi. Açıklamada, internet erişiminin sürdürülebilmesi için Wi-Fi bağlantısının kullanılma",
+      "link": "https://www.milliyet.com.tr/dunya/fransada-telefon-operatorleri-de-coktu-orangein-mobil-aginda-kesinti-7684789",
+      "published": "2026-10-21T18:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:00:58.224936+00:00"
+    },
+    {
+      "id": "62e399ee6230fb82",
+      "source": "Habertürk",
+      "title": "Anne adayları bir arada",
+      "summary": "Şimdilerde anne olmak için gün sayan Gökçe Bahadır ve Merve Dizdar, Emir Ersoy'un 49'uncu yaş günü kutlamasında bir araya geldi. Oyuncular, eşleriyle birlikte objektiflere poz verdi",
+      "link": "https://www.haberturk.com/magazin/foto/gokce-bahadir-ve-merve-dizdar-bir-araya-geldi-3921542",
+      "published": "2026-10-21T18:53:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:00:50.153882+00:00"
+    },
     {
       "id": "3bf5d434b1448ae5",
       "source": "Yeniçağ",
@@ -5363,149 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T15:40:46.228683+00:00"
-    },
-    {
-      "id": "d0ada350aa0c9a0d",
-      "source": "Diken",
-      "title": "Galatasaray ve Lille'in 11'leri belli oldu",
-      "summary": "Galatasaray ve Lille'in 11'leri belli oldu 21.10.2026 Diken UEFA Şampiyonlar Ligi'nde Galatasaray ve Lille'in 11'leri belli oldu. The post Galatasaray ve Lille'in 11'leri belli oldu appeared first on #site_linkat 21.10.2026 .",
-      "link": "https://www.diken.com.tr/galatasaray-ve-lillein-11leri-belli-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=galatasaray-ve-lillein-11leri-belli-oldu",
-      "published": "2026-10-21T15:37:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:40:51.001395+00:00"
-    },
-    {
-      "id": "69bb64a0a4da0736",
-      "source": "Cumhuriyet",
-      "title": "Eski Trabzonsporlu futbolcu Giorgi Nemsadze hayatını kaybetti",
-      "summary": "Süper Lig ekibi Trabzonspor'da 1996-1997 sezonunda forma giyen Gürcü futbolcu Giorgi Nemsadze'nin yaşamını yitirdiği öğrenildi.",
-      "link": "https://www.cumhuriyet.com.tr/spor/eski-trabzonsporlu-futbolcu-giorgi-nemsadze-hayatini-kaybetti-2549006",
-      "published": "2026-10-21T15:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:40:39.201534+00:00"
-    },
-    {
-      "id": "236277b7458152f8",
-      "source": "Yeni Şafak",
-      "title": "Milli Eğitim Bakanı Tekin CHP Genel Merkezi’nde: Kılıçdaroğlu ile bir araya geldi",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, CHP Genel Başkanı Kemal Kılıçdaroğlu ile görüşmek üzere CHP Genel Merkezi’ni ziyaret etti. Bakan Tekin’i, CHP Eğitim Politikalarından Sorumlu Genel Başkan Yardımcısı Yıldırım Kaya karşıladı.",
-      "link": "https://www.yenisafak.com/gundem/milli-egitim-bakani-tekin-chp-genel-merkezinde-kilicdaroglu-ile-bir-araya-geldi-4866224",
-      "published": "2026-10-21T15:35:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:40:45.783117+00:00"
-    },
-    {
-      "id": "e96ecd7168802c67",
-      "source": "OdaTV",
-      "title": "Odatv gündeme getirmişti: Kamera krizi sonrası belediyeden açıklama",
-      "summary": "Odatv’nin kamuoyunun gündemine taşıdığı YENİ Parti Samsun İl Başkanlığı ön seçimindeki &quot;kamera skandalı&quot; iddiaları üzerine Atakum Belediye Başkanlığı bir kamuoyu duyurusu yayımladı. Belediye seçim sırasında oy gizliliğinin ihlal edildiği yönündeki iddiaları yalanladı.",
-      "link": "https://www.odatv.com/guncel/odatv-gundeme-getirmisti-kamera-krizi-sonrasi-samsun-atakum-belediyesinden-aciklama-120167696",
-      "published": "2026-10-21T15:35:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:40:50.059630+00:00"
-    },
-    {
-      "id": "5396a9657df56dc1",
-      "source": "Evrensel",
-      "title": "İlk özel gazeteden dijital çağa: Türkiye'de haber okuma alışkanlığı nasıl değişti?",
-      "summary": "Osmanlı'da sınırlı okunan gazetelerden milyonlarca insanın haberleri telefon ekranlarından takip ettiği günümüze kadar uzanan süreçte, haberin üretimi kadar tüketimi de değişti. Haberin aracı değişti; ancak güvenilir bilgiye duyulan ihtiyaç değişmedi",
-      "link": "https://www.evrensel.net/haber/6006017/ilk-ozel-gazeteden-dijital-caga-turkiyede-haber-okuma-aliskanligi-nasil-degisti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-21T15:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:20:40.588166+00:00"
-    },
-    {
-      "id": "c40d3c8ac953f462",
-      "source": "Cumhuriyet",
-      "title": "İstanbul Barosu bir kez daha beraat etti: İstinaf savcılığın itirazını reddetti",
-      "summary": "İstanbul Barosu Başkanı İbrahim Ö. Kaboğlu ve Yönetim Kurulu üyeleri hakkında verilen beraat kararı, istinaf incelemesinden de geçti. İstanbul Bölge Adliye Mahkemesi 3. Ceza Dairesi, başsavcılığın istinaf başvurusunu esastan reddetti.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/istanbul-barosu-bir-kez-daha-beraat-etti-istinaf-savciligin-itirazini-reddetti-2549005",
-      "published": "2026-10-21T15:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:40:39.201565+00:00"
-    },
-    {
-      "id": "30404d328e603188",
-      "source": "Yeni Akit",
-      "title": "Cumhurbaşkanı Erdoğan, Aliyev ile görüştü",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev ile bir telefon görüşmesi gerçekleştirdi. İşte görüşmenin detayları...",
-      "link": "https://www.yeniakit.com.tr/haber/cumhurbaskani-erdogan-aliyev-ile-gorustu-2029453.html",
-      "published": "2026-10-21T15:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:40:46.739447+00:00"
-    },
-    {
-      "id": "e1be315eee0d2c18",
-      "source": "Yeniçağ",
-      "title": "Esenler'de diriliş şairi Sezai Karakoç'a vefa",
-      "summary": "Esenler Belediyesi tarafından iki bin yirmi altı iki bin yirmi yedi kültür sanat sezonuna adı verilen usta şair ve düşünür Sezai Karakoç, düzenlenen Sezai Karakoç Konuşmaları paneliyle anıldı.",
-      "link": "https://www.yenicaggazetesi.com/esenlerde-dirilis-sairi-sezai-karakoca-vefa-1084009h.htm",
-      "published": "2026-10-21T15:34:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:35:46.344564+00:00"
-    },
-    {
-      "id": "8fec0bcad829c554",
-      "source": "Milliyet",
-      "title": "CHP Sözcüsü Sarı: Libya-Türkiye deniz yetki alanlarının belirlenmesine ilişkin muhtırayı destekliyoruz",
-      "summary": "CHP Merkez Yönetim Kurulu (MYK) Toplantısı, Genel Başkan Kemal Kılıçdaroğlu başkanlığında parti genel merkezinde toplandı.MYK gündemine ilişkin basın toplantısı düzenleyen Sarı, Türkiye ile Libya arasında imzalanan deniz yetki alanlarının belirlenmesine ilişkin mutabakat muhtırası hakkında şunları kaydetti: İlginizi Çekebilir \"Bizce önemlidir. Türkiye'nin menfaatlerini koruyan bir anlaşmadır. Bu a",
-      "link": "https://www.milliyet.com.tr/gundem/chp-sozcusu-sari-libya-turkiye-deniz-yetki-alanlarinin-belirlenmesine-iliskin-muhtirayi-destekliyoruz-7684718",
-      "published": "2026-10-21T15:34:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:35:38.621962+00:00"
-    },
-    {
-      "id": "55dca7848e07011f",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Cumhurbaşkanı Erdoğan, Azerbaycan Cumhurbaşkanı Aliyev ile telefonda görüştü",
-      "summary": "Cumhurbaşkanı Erdoğan, Azerbaycan Cumhurbaşkanı Aliyev ile telefonda görüştü. Görüşmede, Türkiye-Azerbaycan ikili ilişkileri ile bölgesel ve küresel gelişmeler ele alındı.",
-      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycan-cumhurbaskani-aliyev-ile-telefonda-gorustu/4096205",
-      "published": "2026-10-21T15:34:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:40:38.413283+00:00"
-    },
-    {
-      "id": "a5d30017b411d7a2",
-      "source": "Bir Gün",
-      "title": "Erdoğan ile Aliyev telefonda görüştü: \"Kardeşik hukuku\" vurgulandı, Erdoğan Aliyev'i Ankara'ya davet etti",
-      "summary": "Okullardaki kıyafet yönetmeliği nedeniyle AKP'li isimlerin ve benzer siyasi çizgideki bazı kişilerin Azerbaycan'a yönelik açıklamaları iki ülke arasında kriz boyutuna varan bir soruna neden olurken AKP Genel Başkanı ve Cumhurbaşkanı Erdoğan ile Azerbaycan Cumhurbaşkanı Aliyev, sürpriz bir görüşme gerçekleştirdi. Görüşmede \"Kardeşik hukuku\" vurgulandı, Erdoğan Aliyev'i Ankara'ya davet etti. Azerbay",
-      "link": "https://www.birgun.net/haber/erdogan-ile-aliyev-telefonda-gorustu-kardesik-hukuku-vurgulandi-erdogan-aliyev-i-ankara-ya-davet-etti-741759",
-      "published": "2026-10-21T15:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:30:53.976096+00:00"
-    },
-    {
-      "id": "f804145e3bcb189a",
-      "source": "Star",
-      "title": "CANLI: Lille - Galatasaray",
-      "summary": "Temsilcimiz Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında deplasmanda Fransa ekibi Lille ile karşı karşıya geliyor. Maçın canlı anlatımı ve istatistiklerini star.com.tr adresinden takip edebilirsiniz.",
-      "link": "https://www.star.com.tr/spor/canli-lille-galatasaray-haber-2048170/",
-      "published": "2026-10-21T15:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:35:42.523455+00:00"
-    },
-    {
-      "id": "a85bbb2310224d72",
-      "source": "BBC News Türkçe",
-      "title": "Azerbaycan 31 Türk vatandaşını istenmeyen kişi ilan etti, Erdoğan Aliyev ile görüştü",
-      "summary": "Azerbaycan hükümeti 31 Türk vatandaşını, ülkedeki okullarda başörtüsünün yasaklanması sonucu doğuran yönetmelik değişikliğine yönelik açıklamaları ve paylaşımları sonrası “istenmeyen kişi” ilan etti.",
-      "link": "https://www.bbc.com/turkce/articles/cqly0zjd1l87o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21T15:33:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T15:36:07.542847+00:00"
     }
   ]
 }

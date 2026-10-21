@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-10-21T04:45:57.031875+00:00",
+  "last_updated": "2026-10-21T04:51:08.497093+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 472,
+  "new_items_this_run": 478,
   "items": [
+    {
+      "id": "61e090b8fb4a6e6e",
+      "source": "CNBC-e",
+      "title": "Yapay zeka kendi denetimini devre dışı bıraktı: OpenAI'dan çarpıcı açıklama",
+      "summary": "OpenAI, iki yapay zeka ajanının şirket içi görevler sırasında güvenlik izleme sistemlerini zayıflattığını açıkladı. Ajanlardan biri güvenlik uyarılarını sustururken diğeri izleme aracını kaldırdı. Şirket, bu davranışların nedenini henüz tam olarak açıklayamadığını bildirdi.",
+      "link": "https://www.cnbce.com/yapay-zeka/yapay-zeka-kendi-denetimini-devre-disi-birakti-openaidan-carpici-aciklama-g39929",
+      "published": "2026-10-21T04:50:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:59.865793+00:00"
+    },
+    {
+      "id": "14da5505d9ec09e5",
+      "source": "Akşam",
+      "title": "Whatsapp'ta donör pazarı!",
+      "summary": "Yasadışı üreme hücresi ticaretine yönelik soruşturmada ele geçirilen WhatsApp yazışmaları, donör kadınların fotoğraflarının ve fiziksel özelliklerinin potansiyel alıcılara gönderildiğini ortaya koydu.",
+      "link": "https://www.aksam.com.tr/yasam/whatsappta-donor-pazari/haber-1707874",
+      "published": "2026-10-21T04:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:44.816927+00:00"
+    },
+    {
+      "id": "c489989d437c5d18",
+      "source": "Akşam",
+      "title": "İBB'den ağaç katliamı! İlçe sakinleri ayakta: Gerçek yapay zekayla saklanamaz",
+      "summary": "Eyüpsultan'da, İstanbul Büyükşehir Belediyesinin (İBB) tramvay hattı çalışmaları nedeniyle 5 ağacın kesildiğini öne süren ilçe sakinleri basın açıklaması yaptı. 5 koca ağacın şartların hiçbirine uyulmadan katledildiğini belirten vatandaşlar, \"Tekrar dikilmesi mümkün olmayan bir şekilde kesildi, biçildi ve atıldı. Gerçek, yapay zeka görselleriyle saklanamayacak kadar ortadadır. Eyüpsultan'da hem ye",
+      "link": "https://www.aksam.com.tr/yasam/ibbden-agac-katliami-ilce-sakinleri-ayakta-gercek-yapay-zekayla-saklanamaz/haber-1707873",
+      "published": "2026-10-21T04:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:44.816979+00:00"
+    },
+    {
+      "id": "86b9d4100e1189c8",
+      "source": "Yeniçağ",
+      "title": "Sinan Burhan'dan 'İzmir ve Ankara’da 7 belediye başkanı AK Parti’ye geçecek' iddiası",
+      "summary": "Sinan Burhan, Karaburun Belediye Başkanı İlkay Girgin Erdoğan’ın da aralarında bulunduğu İzmir’den 4, Ankara’dan ise 3 belediye başkanının AK Parti saflarına geçeceğini iddia etti.",
+      "link": "https://www.yenicaggazetesi.com/sinan-burhandan-izmir-ve-ankarada-7-belediye-baskani-ak-partiye-gececek-iddiasi-1083760h.htm",
+      "published": "2026-10-21T04:48:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:48.058020+00:00"
+    },
+    {
+      "id": "8a61d26a40728664",
+      "source": "Akşam",
+      "title": "Vizede 370 milyonluk çark! Randevuyu kilitleyip cebi doldurdular",
+      "summary": "Vize randevularını bot yazılımlarla alarak vatandaşları ücretli aracılığa yönlendirdikleri öne sürülen şüphelilere yönelik 8 ilde operasyon düzenlendi. 60 kişi hakkında gözaltı kararı verildi. İşlem başına 400 euro'ya varan ek ücret ve 370 milyon liralık tahsilat tespit edildi.",
+      "link": "https://www.aksam.com.tr/yasam/vizede-370-milyonluk-cark-randevuyu-kilitleyip-cebi-doldurdular/haber-1707872",
+      "published": "2026-10-21T04:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:44.817015+00:00"
+    },
+    {
+      "id": "b5040534539e925c",
+      "source": "Ekonomim",
+      "title": "Garanti BBVA Genel Müdürü Mahmut Akten: Faiz indirimi bekliyoruz, fonlardan ciddi çıkış yok",
+      "summary": "Garanti BBVA Genel Müdürü Mahmut Akten, Türkiye Cumhuriyet Merkez Bankasının (TCMB) bu haftaki Para Politikası Kurulu toplantısında 100 baz puanlık faiz indirimi yapmasını beklediklerini açıkladı. Enflasyondaki düşüşün sürmesi halinde aralık ayında da 50 ila 100 baz puanlık ek indirim öngördüklerini belirten Akten, yatırım fonlarından ciddi bir çıkış veya dövize yönelim gözlemlemediklerini söyledi",
+      "link": "https://www.ekonomim.com/ekonomi/garanti-bbva-genel-muduru-mahmut-akten-faiz-indirimi-bekliyoruz-fonlardan-ciddi-cikis-yok-haberi-926005",
+      "published": "2026-10-21T04:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:58.105178+00:00"
+    },
+    {
+      "id": "50be1a17a6b2518d",
+      "source": "Türkiye Gazetesi",
+      "title": "PETROLDE KORKUTAN SENARYO",
+      "summary": "Jeopolitik risklerde yaşanan artış ve belirsizliklerle birlikte Brent petrolün varil fiyatı da 110 doların üzerinde ısrarlı duruşunu sürdürüyor. ABD’li varlık yönetim şirketi State Street Investment Management’dan korkutan senaryo geldi. Orta Doğu’daki çatışmaların sürmesi ve enerji altyapısının ağır hasar alması halinde, petrolün varil fiyatında 120 doların üzerinin görülebileceği uyarısı yapıldı",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/petrolde-korkutan-senaryo-abdli-varlik-sirketi-seviye-verip-uyardi-1824136",
+      "published": "2026-10-21T04:45:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:40.921529+00:00"
+    },
+    {
+      "id": "fd9467fecc2cf1bf",
+      "source": "Ekonomim",
+      "title": "Spotify'dan yapay zeka temizliği: 50 milyondan fazla parça listeden çıkarıldı",
+      "summary": "Spotify, bu yıl yapay zekâ aracılığıyla oluşturulan ve düşük kaliteli içerik ya da spam olarak değerlendirilen 50 milyondan fazla parçayı öneri listelerinden kaldırdığını açıkladı.",
+      "link": "https://www.ekonomim.com/sektorler/teknoloji/spotifydan-yapay-zeka-temizligi-50-milyondan-fazla-parca-listeden-cikarildi-haberi-926004",
+      "published": "2026-10-21T04:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:58.105212+00:00"
+    },
     {
       "id": "dd2cf0831755199e",
       "source": "Karar",
@@ -28,6 +116,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T04:45:41.292331+00:00"
+    },
+    {
+      "id": "89b443eeef164398",
+      "source": "Habertürk",
+      "title": "Baba oğul cinayetinde 'yasak aşk' iddiası",
+      "summary": "Manisa'da, dün yaşanan silahlı saldırıda 54 yaşındaki Arif Bulut ile oğlu 25 yaşındaki Hasan Hüseyin Bulut hayatını kaybetti. Cinayetin faili İsmail B.'nin, eşi Duygu B. ile Hasan Hüseyin Bulut arasında ilişki olduğunu öğrendikten sonra Bulut ailesinin bulunduğu tarlaya av tüfeğiyle gittiği iddia edildi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-baba-ogul-cinayetinde-yasak-ask-iddiasi-manisa-haberleri-3921287",
+      "published": "2026-10-21T04:43:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:34.966250+00:00"
+    },
+    {
+      "id": "96e9176225f03ea3",
+      "source": "OdaTV",
+      "title": "Alihan Kuriş Suç Örgütü'nün Doğu Afrika bölge sorumlusu yakalandı",
+      "summary": "Alihan Kuriş Suç Örgütü soruşturmasında, örgütün Doğu Afrika Bölge sorumlusu Faruk Gaye&#039;nin Van&#039;a kaçtığı ve bir yurtta saklandığı belirlendi. Teknik takiple yeri belirlenen Gaye, düzenlenen operasyonla kıskıvrak yakalandı.",
+      "link": "https://www.odatv.com/guncel/alihan-kuris-suc-orgutunun-dogu-afrika-bolge-sorumlusu-faruk-gaye-yakalandi-120167584",
+      "published": "2026-10-21T04:42:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:50.121085+00:00"
     },
     {
       "id": "6a50d0147d564c4d",
@@ -5343,169 +5453,59 @@
       "fetched_at": "2026-10-20T21:05:29.303687+00:00"
     },
     {
-      "id": "e74f60b52f8de087",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "UEFA Şampiyonlar Ligi'nin üçüncü haftası 9 maçla başladı",
-      "summary": "Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasının lig aşamasında, üçüncü haftanın ilk gününde 9 karşılaşma oynandı.",
-      "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ucuncu-haftasi-9-macla-basladi/4095151",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:33.862847+00:00"
-    },
-    {
-      "id": "650fa0edb20dfcef",
-      "source": "Yeniçağ",
-      "title": "İlçemiz Sınırları İçerisinde İşyeri/Firma/Sanayi Kaynaklı Evsel Nitelikli Katı Atıkların Toplanması Ve Bertaraf Tesisine Taşınması İşine Ait",
-      "summary": "İlan-İlçemiz Sınırları İçerisinde İşyeri/Firma/Sanayi Kaynaklı Evsel Nitelikli Katı Atıkların Toplanması Ve Bertaraf Tesisine Taşınması İşine Ait",
-      "link": "https://www.yenicaggazetesi.com/ilcemiz-sinirlari-icerisinde-isyerifirmasanayi-kaynakli-evsel-nitelikli-kati-atiklarin-toplanmasi-ve-bertaraf-tesisine-tasinmasi-isine-ait-1083073h.htm",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.564305+00:00"
-    },
-    {
-      "id": "385c1ef05e965a2f",
-      "source": "Yeniçağ",
-      "title": "İstanbul Medeniyet Üniversitesi Kırtasiye Ve Fotokopi Merkezi Kiralama İhalesi",
-      "summary": "İlan-İstanbul Medeniyet Üniversitesi Kırtasiye Ve Fotokopi Merkezi Kiralama İhalesi",
-      "link": "https://www.yenicaggazetesi.com/istanbul-medeniyet-universitesi-kirtasiye-ve-fotokopi-merkezi-kiralama-ihalesi-1083082h.htm",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.564319+00:00"
-    },
-    {
-      "id": "ed4fa3cf67da637b",
-      "source": "Yeniçağ",
-      "title": "‘Kızılcık Şerbeti’nin zirve takibi sürüyor",
-      "summary": "Mehmet ŞAHİNCİLEROĞLU yazdı: ‘Kızılcık Şerbeti’nin zirve takibi sürüyor",
-      "link": "https://www.yenicaggazetesi.com/yenicag-yazari-mehmet-sahincileroglu-yazdi-kizilcik-serbetinin-zirve-takibi-suruyor-1083701h.htm",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.564331+00:00"
-    },
-    {
-      "id": "8301979bdca17a4f",
-      "source": "Yeniçağ",
-      "title": "Neye geçiş süreci?",
-      "summary": "Arslan BULUT yazdı: Neye geçiş süreci?",
-      "link": "https://www.yenicaggazetesi.com/yenicag-yazari-arslan-bulut-yazdi-neye-gecis-sureci-1083702h.htm",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.564342+00:00"
-    },
-    {
-      "id": "fe09ca8c9a82f13d",
-      "source": "Yeniçağ",
-      "title": "Haber yapmamak suç mu?",
-      "summary": "Murat Sururi ÖZBÜLBÜL yazdı: Haber yapmamak suç mu?",
-      "link": "https://www.yenicaggazetesi.com/yenicag-yazari-murat-sururi-ozbulbul-yazdi-haber-yapmamak-suc-mu-1083703h.htm",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.564353+00:00"
-    },
-    {
-      "id": "cc390aa50572d453",
-      "source": "Yeniçağ",
-      "title": "Maaile oku…",
-      "summary": "Pınar KARAMAN yazdı: Maaile oku…",
-      "link": "https://www.yenicaggazetesi.com/yenicag-yazari-pinar-karaman-yazdi-maaile-oku-1083704h.htm",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.564363+00:00"
-    },
-    {
-      "id": "420bd614c29f3bca",
-      "source": "Yeniçağ",
-      "title": "243 Milyar Dolar borç var; asıl risk kurda",
-      "summary": "Selçuk GEÇER yazdı: 243 Milyar Dolar borç var; asıl risk kurda!",
-      "link": "https://www.yenicaggazetesi.com/yenicag-yazari-selcuk-gecer-yazdi-243-milyar-dolar-borc-var-asil-risk-kurda-1083705h.htm",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.564375+00:00"
-    },
-    {
-      "id": "826accc7dc6cd826",
-      "source": "Aydınlık",
-      "title": "Dedikodulu seyahat",
-      "summary": "Türkiye’nin yetiştirdiği büyük diplomatlardan Fuad Carım, 1929’da Yemen’e giderek İngiliz emperyalizmine karşı verilen bağımsızlık savaşına tanıklık etti. Carım’ın Dedikodulu Seyahat’i, Yemen halkının asırlara dayanan direniş geleneğine ışık tutuyor",
-      "link": "https://www.aydinlik.com.tr/koseyazisi/dedikodulu-seyahat-595390",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.966969+00:00"
-    },
-    {
-      "id": "8517fe422ed2e663",
-      "source": "Aydınlık",
-      "title": "Fon krizinin faturası reel sektöre çıkıyor",
-      "summary": "Hazine ve Maliye Bakanı Şimşek, fon krizinin sistemik olmadığını savundu. Ekonomist İris Cibre Lostar ise krizin reel sektöre etkilerini anlattı. Lostar, ekonomik yavaşlama üzerine gelen fon krizinin finansman kanallarını kapattığını ve şirketlere ödeme güçlükleri çıkardığını belirtti",
-      "link": "https://www.aydinlik.com.tr/haber/fon-krizinin-faturasi-reel-sektore-cikiyor-595391",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.966988+00:00"
-    },
-    {
-      "id": "c43c23ff3320775f",
-      "source": "Aydınlık",
-      "title": "Bakan Bayraktar’dan enerjide bağımsızlık mesajı: ‘Türkiye’yi enerjide gençlerle bağımsız kılacağız’",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Ankara Üniversitesi’nin akademik yıl açılışında Gabar’da günde yaklaşık 85 bin varil petrol üretildiğini, Akkuyu’da önümüzdeki birkaç ay içinde ilk elektriğin üretileceğini söyledi.",
-      "link": "https://www.aydinlik.com.tr/haber/bakan-bayraktardan-enerjide-bagimsizlik-mesaji-turkiyeyi-enerjide-genclerle-bagimsiz-kilacagiz-595392",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.967007+00:00"
-    },
-    {
-      "id": "2d2dff9f6d9baee6",
-      "source": "Aydınlık",
-      "title": "Diplomalı işsizlikte OECD ile arayı iyice açtık",
-      "summary": "Bir Bakışta Eğitim 2026 raporuna göre 2015-2025 döneminde işgücüne katılmayan ve iş de aramayan genç üniversite mezunlarının oranı bizde beş puan yükseldi; OECD ortalaması üç puan geriledi. Türkiye, yüzde 31 ile ne eğitimde ne istihdamda olan gençlerin en fazla olduğu OECD ülkesi.",
-      "link": "https://www.aydinlik.com.tr/haber/diplomali-issizlikte-oecd-ile-arayi-iyice-actik-595393",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.967026+00:00"
-    },
-    {
-      "id": "b10b956b6411a359",
-      "source": "Aydınlık",
-      "title": "Dağyeni’nin üretici kadınlarından fiyatlara müdahale çağrısı: ‘Zeytin dalda kalacak incir hayvan yemi olacak’",
-      "summary": "Aydın’ın Germencik ilçesindeki Dağyeni Köyü’nde incir ve zeytin üreticileri, girdi maliyetleri ve düşük alım fiyatları nedeniyle zor durumda. Germencik Belediye Başkanı Burak Zencirci, geçen yıl 200 liraya satılan incirin bu yıl 100-120 lira bandında olduğunu söyleyerek acil destek istedi.",
-      "link": "https://www.aydinlik.com.tr/haber/dagyeninin-uretici-kadinlarindan-fiyatlara-mudahale-cagrisi-zeytin-dalda-kalacak-incir-hayvan-yemi-olacak-595394",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.967047+00:00"
-    },
-    {
-      "id": "4a8651f4b4bfe1c2",
-      "source": "Aydınlık",
-      "title": "İklim zirvesi öncesi sendikalardan çağrı: Dönüşürken emekçi mağdur edilmesin",
-      "summary": "Antalya’da düzenlenecek COP31 öncesinde bir araya gelen sendika konfederasyonlarının genel başkanları, yeşil dönüşümün emekçilerin haklarını gözeterek yürütülmesi çağrısında bulundu. Sendikalar, iklim adaleti, çevrenin korunması ve dönüşümün maliyetinin çalışanlara yüklenmemesi gerektiğini vurguladı",
-      "link": "https://www.aydinlik.com.tr/haber/iklim-zirvesi-oncesi-sendikalardan-cagri-donusurken-emekci-magdur-edilmesin-595395",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:45:42.967066+00:00"
-    },
-    {
-      "id": "008c206f7c8b52ec",
+      "id": "40acc02998af4328",
       "source": "Karar",
-      "title": "Organize haram",
-      "summary": "MHP Lideri Bahçeli, siyaset, bürokrasi ve piyasalarda deprem etkisi yaratan fon vurgununa ilişkin sert konuştu: “Manipülasyon, dolandırıcılık ve güveni kötüye kullanmak suretiyle organize bir şekilde harama el uzatıldığı anlaşılmaktadır. Milletin helal tasarrufuna göz dikenlere hukuk zemininde en güçlü yaptırımlar uygulanacaktır.”",
-      "link": "https://www.karar.com/guncel-haberler/organize-haram-2079684",
+      "title": "Yarım asırlık bir fikir ve eylem çınarı",
+      "summary": "Pınar Yayınları’nın kurucusu Cevat Özkaya ebediyete uğurlandı. Usta ismi dostları KARAR’a anlattı: AHMET TAŞGETİREN: Hayatın içinde gerçek bir mücadele adamıydı. BURHANETTİN CAN: Hak ve adalet merkezli 55 yıllık dava insanıydı. ABDULLAH YILDIZ: Çözüm üreten bir dert babası ve herkesin âbisiydi. TEMEL HAZIROĞLU: Entelektüel iklimin erken giden öncüsüydü. VELİ ŞİRİN: Saf Anadolu köy çocuklarının yar",
+      "link": "https://www.karar.com/kultur-sanat-haberleri/yarim-asirlik-bir-fikir-ve-eylem-cinari-2079687",
       "published": "2026-10-20T21:01:00+00:00",
       "matched": false,
       "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:40:41.577550+00:00"
+      "fetched_at": "2026-10-21T04:50:47.503643+00:00"
+    },
+    {
+      "id": "d584fe04854ad433",
+      "source": "Karar",
+      "title": "Jilet Yılmaz ortalar, Alpay ağları havalandırırdı",
+      "summary": "’70 yılının kasım ayındaki kayıp Mühürdar Bahçesi’nde kalmıştık değil mi? Oradan sizi Bahariye’ye çıkartmak niyetindeydim ama Alpay’ın vefât haberiyle Suâdiye’deki Taç Spor’un toprak sahasına düştüm.",
+      "link": "https://www.karar.com/kultur-sanat-haberleri/jilet-yilmaz-ortalar-alpay-aglari-havalandirirdi-2079688",
+      "published": "2026-10-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:47.503664+00:00"
+    },
+    {
+      "id": "5f82f3e1df389432",
+      "source": "Karar",
+      "title": "Fon krizi ve kaderin sunduğu fırsat",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/levent-isik/fon-krizi-ve-kaderin-sundugu-firsat-1609551",
+      "published": "2026-10-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:47.503676+00:00"
+    },
+    {
+      "id": "13e86638033e8f72",
+      "source": "Karar",
+      "title": "Galiba bu defa daha derine indi",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/yusuf-ziya-comert/galiba-bu-defa-daha-derine-indi-1609552",
+      "published": "2026-10-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:47.503688+00:00"
+    },
+    {
+      "id": "0a7c191e50d1f346",
+      "source": "Karar",
+      "title": "Önce foncular sonra iflaslar",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/ibrahim-kahveci/once-foncular-sonra-iflaslar-1609553",
+      "published": "2026-10-20T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:50:47.503700+00:00"
     }
   ]
 }

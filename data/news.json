@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-21T02:25:50.020187+00:00",
+  "last_updated": "2026-10-21T02:31:16.146453+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 466,
+  "new_items_this_run": 467,
   "items": [
+    {
+      "id": "f00a6dc74185c846",
+      "source": "Türkiye Gazetesi",
+      "title": "YENİ BAŞKANLARA UYUM EĞİTİMİ",
+      "summary": "Uyum süreci kapsamında partinin çalışma sistemi, teşkilat yapısı ve yerel yönetim politikaları anlatılıyor. Bakanlıklarla gerçekleştirilen odak toplantılarında ise belediyelerin ihtiyaçları ve hizmet planlamaları üzerinde duruluyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/ak-partinin-yonetim-anlayisi-anlatiliyor-yeni-baskanlar-icin-uyum-egitimi-1824129",
+      "published": "2026-10-21T02:25:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T02:30:50.651879+00:00"
+    },
     {
       "id": "b7b43e15df8e5bbc",
       "source": "Yeni Akit",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-20T20:30:44.758814+00:00"
-    },
-    {
-      "id": "aefb9b83f9db287f",
-      "source": "Bir Gün",
-      "title": "Özgür Özel'den Halk TV önünde eylem çağrısı",
-      "summary": "YENİ Parti Lideri Özgür Özel tüm yurttaşları Halk TV önünde düzenlenecek eyleme çağırdı. Özel \"Tüm İstanbulluları özgür basına sahip çıkmaya davet ediyorum\" dedi.",
-      "link": "https://www.birgun.net/haber/ozgur-ozel-den-halk-tv-onunde-eylem-cagrisi-741546",
-      "published": "2026-10-20T20:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T21:30:50.183063+00:00"
     }
   ]
 }

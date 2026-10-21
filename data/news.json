@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-10-21T19:40:59.964973+00:00",
+  "last_updated": "2026-10-21T19:46:12.363028+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 517,
+  "new_items_this_run": 518,
   "items": [
+    {
+      "id": "ac01ffa1fe3ac8d6",
+      "source": "Karar",
+      "title": "Terminatör filmi gerçek oldu: Çin'in insansı robotu tek yumrukta araba kapısını çökertti",
+      "summary": "Çinli robotik devi Unitree, güvenlik ve arama-kurtarma görevleri için geliştirdiği yeni insansı robotu \"H2-X Kung Fu Legend Guardian\"ı tanıttı. Yumruklarıyla otomobil kapılarını çökerten, 4 metreden atlayan ve araba kaldıran robotun standart modelinin fiyatı 29 bin doları aşıyor.",
+      "link": "https://www.karar.com/guncel-haberler/terminator-filmi-gercek-oldu-cinin-insansi-robotu-tek-yumrukta-araba-2079903",
+      "published": "2026-10-21T19:45:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:45:53.448738+00:00"
+    },
+    {
+      "id": "c7f21628d60f600a",
+      "source": "Star",
+      "title": "Hakemler dosyası soruşturması: Ferdi Karadoruk hakkında 8 yıla kadar hapis istemi",
+      "summary": "İstanbul'da \"Hakemler dosyası\" olarak bilinen soruşturma kapsamında tutuklanan Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği (TFFHGD) İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis istemiyle iddianame düzenlendi.",
+      "link": "https://www.star.com.tr/guncel/hakemler-dosyasi-sorusturmasi-ferdi-karadoruk-hakkinda-8-yila-kadar-hapis-istemi-haber-2048217/",
+      "published": "2026-10-21T19:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:45:52.192458+00:00"
+    },
+    {
+      "id": "433840c77b0b9b3f",
+      "source": "Karar",
+      "title": "Kendi işini kuracaklara 2,5 milyon TL destek: 3 yıl geri ödeme yok",
+      "summary": "Kendi işletmesini kurmak veya mevcut kapasitesini artırmak isteyen girişimciler için beklenen finansman kapısı aralandı. KOSGEB, mezuniyet şartı aramadan sunduğu 2,5 milyon TL üst limitli Girişimci Destek Programı ile 36 ay geri ödemesiz can suyu sağlıyor. Başvurular 12-31 Ekim 2026 tarihleri arasında kabul ediliyor.",
+      "link": "https://www.karar.com/guncel-haberler/kosgeb-25-milyon-tl-destegi-kimlere-verilir-kosgeb-36-ay-geri-odemesiz-2079902",
+      "published": "2026-10-21T19:44:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:45:53.448773+00:00"
+    },
+    {
+      "id": "7df86a3be8226728",
+      "source": "DonanımHaber",
+      "title": "Nvidia'nın AI planları büyüyor: Groq 3D DRAM'e geçiyor",
+      "summary": "Nvidia bünyesindeki Groq, yeni nesil yapay zeka çiplerinde bellek teknolojisini değiştirmeye hazırlanıyor. Şirketin daha yüksek kapasite için 3D yığınlanmış DRAM kullanacağı ortaya çıktı.",
+      "link": "https://www.donanimhaber.com/nvidia-nin-ai-planlari-buyuyor-groq-3d-dram-e-geciyor--211910",
+      "published": "2026-10-21T19:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:46:09.638306+00:00"
+    },
+    {
+      "id": "97767a3e3373ccff",
+      "source": "Türkiye Gazetesi",
+      "title": "Küçük Mercedes G-Serisi için geri sayım",
+      "summary": "Mercedes-Benz CEO’su Ola Källenius, “Baby G” olarak anılan küçük G-Serisi’nin beklenenden kısa süre içinde geleceğini açıkladı. G-Serisi’nin köşeli tasarımını daha kompakt boyutlara taşıyacak model, elektrikli ve içten yanmalı seçeneklerle farklı bir müşteri kitlesine ulaşmayı hedefliyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/t-otomobil/kucuk-mercedes-g-serisi-icin-geri-sayim-beklenenden-erken-gelecek-1824342",
+      "published": "2026-10-21T19:42:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:45:48.315845+00:00"
+    },
+    {
+      "id": "34ab554d78b5f5fe",
+      "source": "Star",
+      "title": "Türk dünyasını yakından ilgilendiriyor! Özbekistan: Tarihi bir hata düzeltildi",
+      "summary": "Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Latin alfabesine dayalı Özbek alfabesinin Türk dünyasında kullanılan alfabelerle uyumunun artırılmasını öngören kanunu imzaladı. Konuya ilişkin konuşan Özbekistan Cumhurbaşkanlığı İdaresi Başkanı Mirziyoyeva, \"Nihayet, uzun yıllardır süregelen tarihi bir hata düzeltildi. Bugün Cumhurbaşkanımız, Latin alfabesine dayalı Özbek alfabesinin iyileştirilmesine ",
+      "link": "https://www.star.com.tr/dunya/turk-dunyasini-yakindan-ilgilendiriyor-ozbekistan-tarihi-bir-hata-duzeltildi-haber-2048216/",
+      "published": "2026-10-21T19:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:45:52.192495+00:00"
+    },
     {
       "id": "06d1e37b1d493ee9",
       "source": "CNBC-e",
@@ -17,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T19:40:51.754214+00:00"
+    },
+    {
+      "id": "b6caaba3970908e0",
+      "source": "Cumhuriyet",
+      "title": "Victor Osimhen'den Lille maçı açıklaması: 'Bu stadyumu çok seviyorum'",
+      "summary": "Galatasaray'ın Nijeryalı golcüsü Victor Osimhen ile Uruguaylı orta saha oyuncusu Lucas Torreira, UEFA Şampiyonlar Ligi'nde 4-2 kazandıkları Lille maçının ardından açıklamalarda bulundu.",
+      "link": "https://www.cumhuriyet.com.tr/spor/victor-osimhen-den-lille-maci-sozleri-bu-stadyumu-cok-seviyorum-2549051",
+      "published": "2026-10-21T19:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:45:44.737883+00:00"
     },
     {
       "id": "d66133857080e4f2",
@@ -39,6 +116,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T19:40:40.131702+00:00"
+    },
+    {
+      "id": "c1df9effa8af5adf",
+      "source": "Ekonomim",
+      "title": "Lazika, yeşil çay kapasitesini üç katına çıkaracak yatırıma start verdi",
+      "summary": "Rize’de 37 kilogram yeşil çay üretimiyle yola çıkan Lazika, 100 milyon TL’lik yatırımla yeni tesis kuruyor. Şirket, kapasitesini üç katına çıkararak yıllık 300 ton yaş çay işlemeyi, ihracatını ise üç yıl içinde milyon dolar seviyesine taşımayı hedefliyor.",
+      "link": "https://www.ekonomim.com/sehirler/lazika-yesil-cay-kapasitesini-uc-katina-cikaracak-yatirima-start-verdi-haberi-926228",
+      "published": "2026-10-21T19:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:46:01.780834+00:00"
+    },
+    {
+      "id": "08d75be26948bea1",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Arnavutluk'ta öğrencilerin eğitim koşullarının iyileştirilmesi talebiyle düzenlediği protestolar sürüyor",
+      "summary": "Arnavutluk'un başkenti Tiran'da, üniversite öğrencilerinin eğitim koşullarının iyileştirilmesi talebiyle yaptığı gösteriler devam ediyor.",
+      "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiyle-duzenledigi-protestolar-suruyor/4096448",
+      "published": "2026-10-21T19:37:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:45:44.219113+00:00"
     },
     {
       "id": "a04562dbcd71dd25",
@@ -72,6 +171,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T19:40:39.703329+00:00"
+    },
+    {
+      "id": "284ff3812ec51155",
+      "source": "Bloomberg HT",
+      "title": "Meta'ya kullanıcı gizliliği ihlali nedeniyle 25 milyar dolar ceza",
+      "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, kullanıcıları gizlilik ve içerik denetimi politikaları konusunda yanılttığı gerekçesiyle Meta'nın 25 milyar dolar para cezası ödemesine hükmetti. Cambridge Analytica veri skandalıyla bağlantılı davada verilen karar, şirkete yönelik bugüne kadarki en yüksek para cezası oldu.",
+      "link": "https://www.bloomberght.com/meta-ya-kullanici-gizliligi-ihlali-nedeniyle-25-milyar-dolar-ceza-3792143",
+      "published": "2026-10-21T19:35:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:46:01.648697+00:00"
     },
     {
       "id": "57f2ec2aa72ba67a",
@@ -303,6 +413,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T19:30:54.765401+00:00"
+    },
+    {
+      "id": "853d13cc3e51cb4b",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "AA foto muhabiri Coşkun, Rusya'daki uluslararası fotoğraf yarışmasında \"Jüri Özel Ödülü\"nü aldı",
+      "summary": "Anadolu Ajansı (AA) foto muhabiri Şebnem Coşkun, 12. Uluslararası Andrey Stenin Basın Fotoğrafçılığı Yarışması'nda \"Jüri Özel Ödülü\"ne layık görüldü.",
+      "link": "https://www.aa.com.tr/tr/kurumsal-haberler/aa-foto-muhabiri-coskun-rusyadaki-uluslararasi-fotograf-yarismasinda-juri-ozel-odulunu-aldi/4096433",
+      "published": "2026-10-21T19:26:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:45:44.219087+00:00"
     },
     {
       "id": "f3376bf992f66e9b",
@@ -5385,127 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T17:50:39.641601+00:00"
-    },
-    {
-      "id": "1fb5ff3971cb5230",
-      "source": "Evrensel",
-      "title": "UEFA Şampiyonlar Ligi'nin üçüncü hafta maçı: Lille-Galatasaray maçının ilk yarı sonucu 2-2",
-      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Galatasaray'ın 1'inci dakikada Yunus ve 44'üncü dakikada Batrakov'un attığı gollere Lille Diaoune'nun 4'üncü ve 41'inci dakikada attığı gollerle cevap verdi. İlk yarı 2-2 berabere bitti.",
-      "link": "https://www.evrensel.net/haber/6006014/uefa-sampiyonlar-ligi-nin-ucuncu-hafta-maci-lille-galatasaray-macinin-ilk-yari-sonucu-2-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-21T16:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:35:34.411341+00:00"
-    },
-    {
-      "id": "d0d712ce12d5a692",
-      "source": "Evrensel",
-      "title": "UEFA Şampiyonlar Ligi'nin üçüncü hafta maçı: Lille Galatasaray, karşısında beraberliği sağladı 1-1",
-      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Lille ile deplasmanda karşılaşan Galatasaray 1'inci dakikada Yunus'un attığı golle 1-0 öne geçti.'Lille bu gole 7'inci dakikada attığı golle cevap vererek 1-1 eşitliği sağladı",
-      "link": "https://www.evrensel.net/haber/6006014/uefa-sampiyonlar-ligi-nin-ucuncu-hafta-maci-lille-galatasaray-karsisinda-beraberligi-sagladi-1-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-21T16:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:05:30.660063+00:00"
-    },
-    {
-      "id": "0104aeb73cf8b3df",
-      "source": "Evrensel",
-      "title": "UEFA Şampiyonlar Ligi'nin üçüncü hafta maçı: Lille-Galatasaray maçının ilk 11'leri belli oldu",
-      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Galatasaray deplasmanda Lille takımına konuk olacak. Maçın ilk 11'leri belli oldu",
-      "link": "https://www.evrensel.net/haber/6006014/uefa-sampiyonlar-liginin-ucuncu-hafta-maci-lille-galatasaray-macinin-ilk-11leri-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-21T16:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:20:40.588086+00:00"
-    },
-    {
-      "id": "4fcaf34f2a11744b",
-      "source": "Finans Gündem",
-      "title": "Gürlek: Manipülatif işlemlerle ilgili 404 kişiye işlem yapıldı",
-      "summary": "Adalet Bakanı Akın Gürlek, sermaye piyasalarındaki manipülatif işlemlere ilişkin soruşturmalar kapsamında 88 şüphelinin tutuklandığını, 26 şüphelinin gözaltına alındığını, 195 kişi hakkında adli kontrol tedbiri uygulandığını bildirdi",
-      "link": "https://www.finansingundemi.com/haber/gurlek-manipulatif-islemlerle-ilgili-404-kisiye-islem-yapildi/1912230",
-      "published": "2026-10-21T16:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:05:52.702081+00:00"
-    },
-    {
-      "id": "d0b45d9f107335de",
-      "source": "Türkiye Gazetesi",
-      "title": "Montella alacağından feragat etti, kulüpten teşekkür geldi",
-      "summary": "Nesine 2. Lig takımlarından Adana Demirspor'da görev yaptığı dönemden kalan 330 bin avro alacağından feragat eden A Milli Futbol Takımı'nın eski teknik direktörü Vincenzo Montella'nın imzaladığı uzlaşma metni kulübe teslim edildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/montella-alacagindan-feragat-etti-kulupten-tesekkur-geldi-1824308",
-      "published": "2026-10-21T16:01:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:05:34.341487+00:00"
-    },
-    {
-      "id": "c12fd398107e2064",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Zonguldak'ta çöken binada 1 kişi kurtarıldı, 1 kişi öldü",
-      "summary": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi, 1 kişi hayatını kaybetti.",
-      "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binada-1-kisi-kurtarildi-1-kisi-oldu/4096254",
-      "published": "2026-10-21T16:01:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:40:36.539549+00:00"
-    },
-    {
-      "id": "a869f88827f515b8",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Zonguldak'ta çöken binada 1 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı",
-      "summary": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı.",
-      "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binada-1-kisi-kurtarildi-1-kisi-icin-arama-calismasi-baslatildi/4096254",
-      "published": "2026-10-21T16:01:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:05:31.152565+00:00"
-    },
-    {
-      "id": "ea8a18e1a4ae648e",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Adalet Bakanı Gürlek'ten sermaye piyasalarındaki manipülatif işlemlere ilişkin açıklama",
-      "summary": "Bakan Gürlek, sermaye piyasalarındaki manipülatif işlemlere dair soruşturmalarda 404 kişi hakkında adli işlem yapıldığını, 88 şüphelinin tutuklandığını, 26 şüphelinin gözaltına alındığını ve 195 kişi için adli kontrol tedbiri uygulandığını bildirdi.",
-      "link": "https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlekten-sermaye-piyasalarindaki-manipulatif-islemlere-iliskin-aciklama/4096253",
-      "published": "2026-10-21T16:01:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:10:35.127001+00:00"
-    },
-    {
-      "id": "1c1524c0b0f736eb",
-      "source": "Ekonomim",
-      "title": "Bakan Tekin, Kılıçdaroğlu'nu ziyaret nedenini açıkladı",
-      "summary": "Milli Eğitim Bakanı Yusuf Tekin, CHP Genel Başkanı Kemal Kılıçdaroğlu&#039;nu ziyaretine ilişkin, &quot;18 Kasım günü kızımın nikahı var. Ben Genel başkanımızı nikaha davet etmek için geldim&quot; dedi.",
-      "link": "https://www.ekonomim.com/gundem/bakan-tekin-kilicdaroglunu-ziyaret-nedenini-acikladi-haberi-926201",
-      "published": "2026-10-21T16:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:15:50.098844+00:00"
-    },
-    {
-      "id": "f910c9a9c7b70f2b",
-      "source": "Akşam",
-      "title": "Megakent kilitlendi: İstanbul'da trafik yoğunluğu yüzde 83'e ulaştı",
-      "summary": "İstanbul'da akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu oluştu.",
-      "link": "https://www.aksam.com.tr/yasam/megakent-kilitlendi-istanbulda-trafik-yogunlugu-yuzde-83e-ulasti/haber-1708115",
-      "published": "2026-10-21T16:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:01:01.237290+00:00"
-    },
-    {
-      "id": "c1c182314c1ce880",
-      "source": "Euronews Türkçe",
-      "title": "Qatar in Motion | Made in Qatar: Küresel hedefli yerel markalar",
-      "summary": "Qatar in Motion'un bu bölümünde yerel yeteneğin ekonomik çeşitlenmeyi nasıl hızlandırdığını inceliyoruz; inovasyon ve girişimler dünyaya açılıyor.",
-      "link": "https://tr.euronews.com/2026/10/21/qatar-in-motion-made-in-qatar-kuresel-hedefli-yerel-markalar",
-      "published": "2026-10-21T16:00:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:06:00.757494+00:00"
     }
   ]
 }

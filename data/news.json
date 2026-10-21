@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-21T02:31:16.146453+00:00",
+  "last_updated": "2026-10-21T02:35:50.784103+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 467,
+  "new_items_this_run": 469,
   "items": [
+    {
+      "id": "f1c5bade657f0d53",
+      "source": "Türkiye Gazetesi",
+      "title": "Evet, kara para akladık",
+      "summary": "Sarıgül ailesine yönelik soruşturma kapsamında tutuklanan gazeteci Murat Ağırel’in İstanbul Emniyet Müdürlüğünde verdiği ifade, iddiaların içeriğini de gün yüzüne çıkardı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/sarigul-dosyasinda-itiraf-evet-kara-para-akladik-1824130",
+      "published": "2026-10-21T02:30:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T02:35:31.981441+00:00"
+    },
+    {
+      "id": "c6aad18f1cbb8eab",
+      "source": "Türkiye Gazetesi",
+      "title": "Yeni başkanlar için uyum eğitimi",
+      "summary": "Uyum süreci kapsamında partinin çalışma sistemi, teşkilat yapısı ve yerel yönetim politikaları anlatılıyor. Bakanlıklarla gerçekleştirilen odak toplantılarında ise belediyelerin ihtiyaçları ve hizmet planlamaları üzerinde duruluyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/ak-partinin-yonetim-anlayisi-anlatiliyor-yeni-baskanlar-icin-uyum-egitimi-1824129",
+      "published": "2026-10-21T02:25:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T02:35:31.981479+00:00"
+    },
     {
       "id": "f00a6dc74185c846",
       "source": "Türkiye Gazetesi",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-20T20:30:48.713325+00:00"
-    },
-    {
-      "id": "5509b853eba8c17e",
-      "source": "Independent Türkçe",
-      "title": "Fransa'daki eylemlerde 149 kişi tutuklandı",
-      "summary": "Fransa Adalet Bakanı Gerald Darmanin, hafta sonu düzenlenen sarı yeleklilerin eylemleri sırasında şiddet olaylarının yaşandığı kuzeydeki Lille kentini ziyaret etti. Fransa'da Sarı Yelekliler eyleminin ardından Marsilya'da da kısmi sokağa çıkma yasağı uygulanacak Darmanin, ziyareti kapsamında Lille Adli Mahkemesinde basına yaptığı açıklamada, sarı yeleklilerin eylemleri kapsamındaki şiddet olayları",
-      "link": "https://www.indyturk.com/node/784105/fransadaki-eylemlerde-149-ki%C5%9Fi-tutukland%C4%B1",
-      "published": "2026-10-20T20:25:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T20:30:58.590601+00:00"
-    },
-    {
-      "id": "50653063727a5f89",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Süper Lig'den 10 kulüp PFDK'ye sevk edildi",
-      "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 10 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
-      "link": "https://www.aa.com.tr/tr/spor/super-ligden-10-kulup-pfdkye-sevk-edildi/4095118",
-      "published": "2026-10-20T20:25:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T20:30:44.758814+00:00"
     }
   ]
 }

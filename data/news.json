@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-10-21T19:46:12.363028+00:00",
+  "last_updated": "2026-10-21T19:51:13.674189+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 518,
+  "new_items_this_run": 474,
   "items": [
+    {
+      "id": "2ca5a120aaa8d39f",
+      "source": "Aydınlık",
+      "title": "Emekli polis memuru mezarlıkta ölü bulundu",
+      "summary": "Zonguldak’ın Kozlu ilçesinde bir mezarlıkta emekli polis memuru B.P.’nin cansız bedeni bulundu. Olayla ilgili inceleme başlatılırken, emekli polisin evinden ayrılmadan önce bir mektup bıraktığı öne sürüldü.",
+      "link": "https://www.aydinlik.com.tr/haber/emekli-polis-memuru-mezarlikta-olu-bulundu-595590",
+      "published": "2026-10-21T19:50:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:50:53.416182+00:00"
+    },
+    {
+      "id": "bb3e4f0f624073cd",
+      "source": "Akşam",
+      "title": "UEFA'dan Halil Umut Meler'e Avrupa Ligi'nde görev",
+      "summary": "UEFA Avrupa Ligi'nde yarın oynanacak Hoffenheim-Lyon maçında FIFA kokartlı hakem Halil Umut Meler görevlendirildi.",
+      "link": "https://www.aksam.com.tr/spor/uefadan-halil-umut-melere-avrupa-liginde-gorev/haber-1708153",
+      "published": "2026-10-21T19:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:50:46.627911+00:00"
+    },
+    {
+      "id": "99e70085be255fb2",
+      "source": "Ekonomim",
+      "title": "Seçkin Kurt’tan yeni dönem mesajı “KOBİ’lerin sesi olacağız”",
+      "summary": "Üyelerin desteğini alarak güven tazeleyen Artvin Ticaret ve Sanayi Odası Başkanı Seçkin Kurt, gösterilen güvene yeni dönemde de hizmet ve projelerle karşılık vereceklerini kaydederek, “Nerede bir KOBİ’mizin sorunu varsa, nerede bir arkadaşımızın derdi ve tasası varsa onun sesi olacağız” dedi.",
+      "link": "https://www.ekonomim.com/sehirler/seckin-kurttan-yeni-donem-mesaji-kobilerin-sesi-olacagiz-haberi-926230",
+      "published": "2026-10-21T19:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:51:03.105112+00:00"
+    },
+    {
+      "id": "c79dfd1448a8875c",
+      "source": "Türkiye Gazetesi",
+      "title": "\"SİNİR BOZUCU\"",
+      "summary": "Fenerbahçe'de yaklaşık 3 ay takımdan uzak kalması beklenen Marco Asensio, sakatlık sürecine ilişkin olarak açıklamada bulundu. Yıldız futbolcu, tedavi sürecine odaklandığını belirterek sahalara daha güçlü dönmek için çalışacağını söyledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcede-marco-asensio-icini-doktu-sinir-bozucu-1824343",
+      "published": "2026-10-21T19:46:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:50:41.804689+00:00"
+    },
+    {
+      "id": "be5d0d9087128b12",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "UEFA'dan Halil Umut Meler'e görev",
+      "summary": "FIFA kokartlı hakem Halil Umut Meler, UEFA Avrupa Ligi'nde yarın oynanacak Hoffenheim-Lyon maçında görev yapacak.",
+      "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4096457",
+      "published": "2026-10-21T19:45:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:50:38.743673+00:00"
+    },
     {
       "id": "ac01ffa1fe3ac8d6",
       "source": "Karar",
@@ -17,6 +72,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T19:45:53.448738+00:00"
+    },
+    {
+      "id": "74cfb666d6f36d02",
+      "source": "Ekonomim",
+      "title": "ABD’den İran’a yeni yaptırım dalgası",
+      "summary": "ABD, İran’ın denizcilik faaliyetlerine destek verdikleri gerekçesiyle bir hukuk bürosunu, gemicilik acentelerini ve yük gemilerini yaptırım listesine alırken, İran bağlantılı finansal ilişkiler için de soruşturma başlattı.",
+      "link": "https://www.ekonomim.com/dunya/abdden-irana-yeni-yaptirim-dalgasi-haberi-926229",
+      "published": "2026-10-21T19:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:51:03.105154+00:00"
     },
     {
       "id": "c7f21628d60f600a",
@@ -41,6 +107,17 @@
       "fetched_at": "2026-10-21T19:45:53.448773+00:00"
     },
     {
+      "id": "6cd675a626254be0",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Dünya çapında PHP kaynaklı güvenlik açığının giderilmesi için çok sayıda internet sitesi erişime kapatıldı",
+      "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen askıya alındı.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/dunya-capinda-php-kaynakli-guvenlik-aciginin-giderilmesi-icin-cok-sayida-internet-sitesi-erisime-kapatildi/4096454",
+      "published": "2026-10-21T19:43:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:50:38.743715+00:00"
+    },
+    {
       "id": "7df86a3be8226728",
       "source": "DonanımHaber",
       "title": "Nvidia'nın AI planları büyüyor: Groq 3D DRAM'e geçiyor",
@@ -61,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T19:45:48.315845+00:00"
+    },
+    {
+      "id": "f4934d90789fcede",
+      "source": "Finans Gündem",
+      "title": "Zonguldak'ta iki katlı bina çöktü: 1 kişi hayatını kaybetti",
+      "summary": "Zonguldak'ın merkez ilçesinde çöken iki katlı binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi hayatını kaybetti.",
+      "link": "https://www.finansingundemi.com/haber/zonguldakta-iki-katli-bina-coktu-1-kisi-hayatini-kaybetti/1912249",
+      "published": "2026-10-21T19:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T19:51:05.299869+00:00"
     },
     {
       "id": "34ab554d78b5f5fe",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T16:05:39.885213+00:00"
-    },
-    {
-      "id": "a782652a475f1415",
-      "source": "Aydınlık",
-      "title": "WWF raporu: Enerji dönüşümü hızlanıyor ancak yeterli değil",
-      "summary": "WWF&#039;nin 2026 Yaşayan Gezegen Raporu, dünyada güneş enerjisinin kurulu gücünün her 3 yılda ikiye katlandığını bildirdi. Raporda enerji dönüşümünün hızlandığı, ancak ilerlemenin henüz yeterli olmadığı vurgulandı.",
-      "link": "https://www.aydinlik.com.tr/haber/wwf-raporu-enerji-donusumundeki-ilerlemeyi-degerlendirdi-595554",
-      "published": "2026-10-21T16:03:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:05:42.660494+00:00"
-    },
-    {
-      "id": "d365b601e0d544a8",
-      "source": "Diken",
-      "title": "İstanbul'da trafik yoğunluğu yüzde 81",
-      "summary": "İstanbul'da trafik yoğunluğu yüzde 81 21.10.2026 Diken İstanbul'da akşam saatlerinde ana arter ve bağlantı yollarında trafik yoğunluğu oluştu. The post İstanbul'da trafik yoğunluğu yüzde 81 appeared first on #site_linkat 21.10.2026 .",
-      "link": "https://www.diken.com.tr/istanbulda-trafik-yogunlugu-yuzde-81-4/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-trafik-yogunlugu-yuzde-81-4",
-      "published": "2026-10-21T16:03:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:05:44.451770+00:00"
-    },
-    {
-      "id": "8f36f7f07d360f52",
-      "source": "Milliyet",
-      "title": "Zonguldak'ta bina çöktü! 1 kişi kurtarıldı, 1 kişi aranıyor",
-      "summary": "Merkez Meşrutiyet Mahallesi Sütliyen Sokak'taki 3 katlı bina henüz belirlenemeyen nedenle çöktü. İhbar üzerine olay yerine, AFAD, itfaiye, polis, sağlık ve UMKE ekipleri sevk edildi. BİR KİŞİ KURTARILDI Ekipler, bir kişiyi enkazdan kurtardı. Diğer kişinin kurtarılması için çalışmalar sürüyor. VALİ HACIBEKTAŞOĞLU'DAN AÇIKLAMA Zonguldak Valisi Osman Hacıbektaşoğlu, enkaz altında kalan 1 kişinin kurt",
-      "link": "https://www.milliyet.com.tr/gundem/son-dakika-zonguldakta-bina-coktu-enkaz-altinda-kalanlar-var-7684723",
-      "published": "2026-10-21T16:03:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:05:37.300889+00:00"
-    },
-    {
-      "id": "2a9d41d4dc50f946",
-      "source": "Yeniçağ",
-      "title": "Akın Gürlek duyurdu: Fon soruşturmasında 88 kişi tutuklandı",
-      "summary": "Adalet Bakanı Akın Gürlek, sosyal medya hesabından sermaye piyasalarındaki manipülatif işlemlere ilişkin soruşturmalarda bugüne kadar 404 kişi hakkında adli işlem yapıldığını, 88 şüphelinin tutuklandığını açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/akin-gurlek-duyurdu-fon-sorusturmasinda-88-kisi-tutuklandi-1084018h.htm",
-      "published": "2026-10-21T16:03:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:05:41.455926+00:00"
-    },
-    {
-      "id": "2e605977119e0d1c",
-      "source": "Habertürk",
-      "title": "Çin, ABD'nin Küba kararına karşı",
-      "summary": "Çin, Küba lideri Raul Castro hakkında ABD'de yakalama kararı çıkarılmasına karşı olduğunu bildirdi",
-      "link": "https://www.haberturk.com/dunya/cin-abd-nin-kuba-kararina-karsi-3921513",
-      "published": "2026-10-21T16:03:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:10:31.983110+00:00"
-    },
-    {
-      "id": "5da64d76ca0e5b69",
-      "source": "Evrensel",
-      "title": "Şampiyonlar Ligi'nde 3. hafta: Galatasaray, Lille'i deplasmanda 4-2 yendi",
-      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Galatasaray, Lille'i deplasmanda Yunus Akgün, Batrakov, Torreira ve Osimhen'in golleriyle 4-2 yendi.",
-      "link": "https://www.evrensel.net/haber/6006014/sampiyonlar-ligi-nde-3-hafta-galatasaray-lille-i-deplasmanda-4-2-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-21T16:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T18:55:29.067861+00:00"
-    },
-    {
-      "id": "68f0efa906573d0e",
-      "source": "Evrensel",
-      "title": "UEFA Şampiyonlar Ligi'nin üçüncü hafta maçı: Galatasaray, Lille karşısında 4-2 öne geçti",
-      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Galatasaray, Lille karşısında Yunus, Batrakov, Torreira ve Osimhen'in attığı gollerle 4-2 öne geçti. Lille'in gollerini Diaoune attı.",
-      "link": "https://www.evrensel.net/haber/6006014/uefa-sampiyonlar-ligi-nin-ucuncu-hafta-maci-galatasaray-lille-karsisinda-4-2-one-gecti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-21T16:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T18:10:37.883924+00:00"
-    },
-    {
-      "id": "2bf1e7222461f4ce",
-      "source": "Evrensel",
-      "title": "UEFA Şampiyonlar Ligi'nin üçüncü hafta maçı: Lille Galatasaray maçının ilk yarısı 2-2 beraberlikle bitti",
-      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Galatasaray'ın 1'inci dakikada Yunus ve 44'üncü dakikada Batrakov'un attığı gollere Lille Diaoune'nun 4'üncü ve 41'inci dakikada attığı gollerle cevap verdi. İlk yarı 2-2 berabere bitti.",
-      "link": "https://www.evrensel.net/haber/6006014/uefa-sampiyonlar-ligi-nin-ucuncu-hafta-maci-lille-galatasaray-macinin-ilk-yarisi-2-2-beraberlikle-bitti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-21T16:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:50:39.641601+00:00"
     }
   ]
 }

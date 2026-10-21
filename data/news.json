@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-10-21T20:36:10.043334+00:00",
+  "last_updated": "2026-10-21T20:41:12.435833+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 516,
+  "new_items_this_run": 514,
   "items": [
+    {
+      "id": "74b8adf9e076f171",
+      "source": "Akşam",
+      "title": "SGB'den kritik PHP uyarısı: \"Türkiye geneli güvenlik taraması başlatıldı\"",
+      "summary": "Siber Güvenlik Başkanlığı, dünya genelinde internet sitelerindeki kritik güvenlik açığına yönelik ulusal ölçekte uyarı yayımladı ve önleyici güvenlik çalışmalarını devreye aldı.",
+      "link": "https://www.aksam.com.tr/guncel/sgbden-kritik-php-uyarisi-turkiye-geneli-guvenlik-taramasi-baslatildi/haber-1708156",
+      "published": "2026-10-21T20:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:46.954861+00:00"
+    },
+    {
+      "id": "7f3447e2b8639cd9",
+      "source": "Cumhuriyet",
+      "title": "PHP kaynaklı kritik güvenlik açığı: Avrupa'da devlet, okul ve hastanelerin internet siteleri erişime kapatıldı",
+      "summary": "Avrupa'da birçok devlet, okul ve hastane web sitesi, internetin büyük bir bölümünü çalıştıran PHP programlama dilindeki iki kritik güvenlik açığından korunmak için çevrimdışı hale getirildi. Öte yandan, Siber Güvenlik Başkanlığı, dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısında tespit edilen kritik güvenlik zafiyetlerine yönelik ulusal d",
+      "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/php-kaynakli-kritik-guvenlik-acigi-avrupa-da-devlet-okul-ve-hastanelerin-internet-siteleri-erisime-kapatildi-2549080",
+      "published": "2026-10-21T20:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:39.866346+00:00"
+    },
+    {
+      "id": "0a56e7b9a02a82b6",
+      "source": "Star",
+      "title": "Rusya-Ukrayna savaşı! ABD Başkanı Trump: Çözüme hiç olmadığı kadar yakınız",
+      "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını vurguladı.",
+      "link": "https://www.star.com.tr/dunya/rusya-ukrayna-savasi-abd-baskani-trump-cozume-hic-olmadigi-kadar-yakiniz-haber-2048225/",
+      "published": "2026-10-21T20:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:48.570253+00:00"
+    },
+    {
+      "id": "657f76f31fb8a31e",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Axios: İsrail, pazartesi İran sınırına yakın noktalarda uçuş gerçekleştirdi",
+      "summary": "İsrail'e ait savaş uçaklarının 19 Ekim Pazartesi günü İran sınırına yakın noktalarda uçuş gerçekleştirerek \"güç gösterisinde\" bulunduğu iddia edildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/axios-israil-pazartesi-iran-sinirina-yakin-noktalarda-ucus-gerceklestirdi/4096495",
+      "published": "2026-10-21T20:35:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:39.350145+00:00"
+    },
+    {
+      "id": "f1901b04270b8106",
+      "source": "Türkiye Gazetesi",
+      "title": "UEFA'dan Halil Umut Meler'e görev",
+      "summary": "FIFA kokartlı hakem Halil Umut Meler, UEFA Avrupa Ligi'nde yarın oynanacak Hoffenheim-Lyon maçında görev yapacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/uefadan-halil-umut-melere-gorev-1824356",
+      "published": "2026-10-21T20:35:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:42.453722+00:00"
+    },
     {
       "id": "4d5ef13f7200c030",
       "source": "Yeni Akit",
@@ -39,6 +94,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:35:45.956014+00:00"
+    },
+    {
+      "id": "198ed0590cf0bd60",
+      "source": "Ekonomim",
+      "title": "Ordu’da tarımda iki yeni hamle: Lisanslı depo ve tropikal meyve",
+      "summary": "Ordu’da tarımsal üretimi çeşitlendirmek, üreticinin gelirini artırmak ve bölge ekonomisine katma değer kazandırmak amacıyla iki önemli çalışma yürütülüyor. Fındık ticaretini modern depolama altyapısıyla güçlendirecek 651,5 milyon TL’lik lisanslı depo projesinde kesin başvuru süreci tamamlanırken, Gülyalı’da kurulan deneme serasında 20 çeşit tropikal meyve yetiştiriliyor",
+      "link": "https://www.ekonomim.com/sehirler/orduda-tarimda-iki-yeni-hamle-lisansli-depo-ve-tropikal-meyve-haberi-926245",
+      "published": "2026-10-21T20:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:41:02.146090+00:00"
     },
     {
       "id": "3022a5330cc36c39",
@@ -96,6 +162,17 @@
       "fetched_at": "2026-10-21T20:35:53.454763+00:00"
     },
     {
+      "id": "b850febb0e751119",
+      "source": "Evrensel",
+      "title": "Asensio'dan sakatlığıyla ilgili açıklama: Yaşadığım ağrılar oynamama izin vermediği için ameliyata karar verdik",
+      "summary": "Fenerbahçe'nin İspanyol futbolcusu Marco Asensio, sakatlığıyla ilgili yaptığı açıklamada; \"Son üç haftadır yaşadığım ağrılar oynamama izin vermediği için durmaya ve tıbbi müdahaleye başvurmaya karar verdik\" dedi.",
+      "link": "https://www.evrensel.net/haber/6006042/asensiodan-sakatligiyla-ilgili-aciklama-yasadigim-agrilar-oynamama-izin-vermedigi-icin-ameliyata-karar-verdik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-21T20:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:43.484285+00:00"
+    },
+    {
       "id": "d2d75a270ed7e7d0",
       "source": "Ekonomim",
       "title": "Çağlar Ambalaj’dan üretim vurgusu: “Sanayisiz başarmak mümkün değil",
@@ -116,6 +193,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:30:54.711911+00:00"
+    },
+    {
+      "id": "73e915b8117fa351",
+      "source": "Türkiye Gazetesi",
+      "title": "GÜVENLİK AÇIĞI TESPİT EDİLDİ",
+      "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, PHP altyapısındaki “PHP2Shell” adlı kritik güvenlik açıklarına karşı ulusal çapta tarama başlattı. Kamu kurumları ve kritik altyapılar başta olmak üzere tüm kuruluşlara acil tedbir çağrısı yapılarak güvenlik güncellemelerinin gecikmeden uygulanması istendi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-1824353",
+      "published": "2026-10-21T20:27:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:42.453770+00:00"
     },
     {
       "id": "83a12b0fb1fc272d",
@@ -206,6 +294,17 @@
       "fetched_at": "2026-10-21T20:25:32.662635+00:00"
     },
     {
+      "id": "573e2372efc76590",
+      "source": "Sabah",
+      "title": "Siber Güvenlik Başkanlığından ulusal çapta güvenlik uyarısı! İşte alınması gereken önlemler",
+      "summary": "Siber Güvenlik Başkanlığı ulusal çapta güvenlik uyarısında bulundu. Kritik güvenlik zafiyetlerine yönelik ulusal düzeyde önleyici tedbirler devreye alındı. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/siber-guvenlik-baskanligindan-ulusal-capta-guvenlik-uyarisi-iste-alinma-gereken-onlemler-7685777",
+      "published": "2026-10-21T20:23:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:46.457956+00:00"
+    },
+    {
       "id": "97346596d6e5a972",
       "source": "Euronews Türkçe",
       "title": "Mustafa Sarıgül'ün oğlu Emir Sarıgül'ün tutuklanmasına karar verildi",
@@ -226,6 +325,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:25:32.662677+00:00"
+    },
+    {
+      "id": "634156524ef9d06b",
+      "source": "Evrensel",
+      "title": "Trump: Rusya-Ukrayna Savaşı'nda çözüme hiç olmadığı kadar yakınız",
+      "summary": "ABD Başkanı Donald Trump, Rusya-Ukrayna müzakerelerinde sonuca ulaşmaya \"daha önce hiç olmadığı kadar yakın\" olduklarını söyledi.",
+      "link": "https://www.evrensel.net/haber/6006041/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakiniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-21T20:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:43.484321+00:00"
+    },
+    {
+      "id": "a6dc861932a781d1",
+      "source": "Evrensel",
+      "title": "Dünya çapında PHP kaynaklı güvenlik açığının giderilmesi için çok sayıda internet sitesi erişime kapatıldı",
+      "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen askıya alındı.",
+      "link": "https://www.evrensel.net/haber/6006040/dunya-capinda-php-kaynakli-guvenlik-aciginin-giderilmesi-icin-cok-sayida-internet-sitesi-erisime-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-21T20:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:43.484358+00:00"
     },
     {
       "id": "77d9550c38c3cb58",
@@ -1293,6 +1414,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T19:45:52.192495+00:00"
+    },
+    {
+      "id": "558c0d27f0cf505a",
+      "source": "Sözcü",
+      "title": "Azerbaycan ile Türkiye arasında iplerin gerildiği günlerde Erdoğan ile Aliyev görüştü",
+      "summary": "Azerbaycan ile Türkiye arasında iplerin gerildiği günlerde Erdoğan ile Aliyev görüştü",
+      "link": "https://www.sozcu.com.tr/erdogan-aliyev-gorusmesi-21-ekim-2026-p371428",
+      "published": "2026-10-21T19:41:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:40:42.987116+00:00"
     },
     {
       "id": "06d1e37b1d493ee9",
@@ -5374,138 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T17:05:24.836390+00:00"
-    },
-    {
-      "id": "fb5eac3175475a15",
-      "source": "Akşam",
-      "title": "Gaziantep FK'de olağanüstü genel kurul kararı",
-      "summary": "Süper Lig ekiplerinden Gaziantep FK'de olağanüstü seçimli genel kurul kararı alındı.",
-      "link": "https://www.aksam.com.tr/spor/gaziantep-fkde-olaganustu-genel-kurul-karari/haber-1708123",
-      "published": "2026-10-21T16:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:01:03.419110+00:00"
-    },
-    {
-      "id": "515f1b97b3a91ad2",
-      "source": "Ekonomim",
-      "title": "Avrupa borsaları günü yükselişle kapattı",
-      "summary": "Avrupa borsaları haftanın üçüncü işlem gününü yükselişle kapandı.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/avrupa-borsalari-gunu-yukselisle-kapatti-haberi-926206",
-      "published": "2026-10-21T16:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:01:16.259323+00:00"
-    },
-    {
-      "id": "33343a238bd4f6d7",
-      "source": "Yeni Yaşam",
-      "title": "Zonguldak’ta bina çöktü: Bir kişi enkaz altında",
-      "summary": "Zonguldak&#8217;ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı Zonguldak&#8217;ın Merkez Meşrutiyet Mahallesi Sütliyen Sokak&#8217;taki 3 katlı bina henüz belirlenemeyen nedenle çöktü. İhbar üzerine olay yerine, AFAD, itfaiye, polis, sağlık ve UMKE ekipleri sevk edildi. Ekipler, bir kişiyi enkazdan kurtardı. Diğer kişinin kurtarılması için çalışmalar sür",
-      "link": "https://yeniyasamgazetesi9.com/zonguldakta-bina-coktu-bir-kisi-enkaz-altinda/",
-      "published": "2026-10-21T16:53:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:55:42.176447+00:00"
-    },
-    {
-      "id": "de43b571455875aa",
-      "source": "Akşam",
-      "title": "Galatasaray, UEFA Gençlik Ligi'nde Lille'e diş geçiremedi",
-      "summary": "UEFA Gençlik Ligi'nde Galatasaray, deplasmanda Lille ile karşı karşıya geldi. Mücadeleyi Fransız ekibi, 3-1 kazandı.",
-      "link": "https://www.aksam.com.tr/spor/galatasaray-uefa-genclik-liginde-lillee-dis-geciremedi/haber-1708122",
-      "published": "2026-10-21T16:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:55:32.020607+00:00"
-    },
-    {
-      "id": "8b56a43dc3265127",
-      "source": "Ekonomim",
-      "title": "Bombaların anası-babası gerginliğinde İran'dan son nokta: Nükleer faaliyetlerimizi durduramaz",
-      "summary": "ABD Başkanı Trump&#039;ın &quot;Bombaların anası büyük bir bomba ama nükleer değil&quot; sözleri üzerine İran Devrim Muhafızları ise &quot;Bombaların Babası&quot; adını verdikleri yeni bir silahı tanıtmaya hazırlandıklarını duyurarak yanıt vermişti. Son açıklama yine İran&#039;dan geldi: Trump&#039;ın bahsettiği bombaların anası nükleer faaliyetlerimizi durduramaz...",
-      "link": "https://www.ekonomim.com/dunya/bombalarin-anasi-babasi-gerginliginde-irandan-son-nokta-nukleer-faaliyetlerimizi-durduramaz-haberi-926205",
-      "published": "2026-10-21T16:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:55:43.078692+00:00"
-    },
-    {
-      "id": "9dbf6ec0b359d213",
-      "source": "Yeniçağ",
-      "title": "Hakkı Öznur: Başbuğ Türkeş’e bomba ile suikast yapmak istediler ellerinde patladı",
-      "summary": "Araştırmacı Yazar Hakkı Öznur, Suriye’de yakalanan Mihrac Ural’ın Muhaberat ve Cemil Esad ile karanlık bağlarını, THKP-C Acilciler’in MHP ile Ülkücü harekete yönelik kanlı eylemlerini ve PKK iş birliğini detaylarıyla açıkladı.",
-      "link": "https://www.yenicaggazetesi.com/hakki-oznur-basbug-turkese-bomba-ile-suikast-yapmak-istediler-ellerinde-patladi-1084026h.htm",
-      "published": "2026-10-21T16:52:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:55:33.899138+00:00"
-    },
-    {
-      "id": "2ca4e5dbd831fff0",
-      "source": "Yeniçağ",
-      "title": "İstanbulspor'un yeni teknik direktörü Özer Hurmacı oldu",
-      "summary": "Trendyol 1. Lig&#039;de kötü günler geçiren İstanbulspor&#039;un yeni teknik direktörü futbolculuk döneminde Fenerbahçe ve Trabzonspor formaları giyen eski milli oyuncu Özer Hurmacı oldu.",
-      "link": "https://www.yenicaggazetesi.com/istanbulsporun-yeni-teknik-direktoru-ozer-hurmaci-oldu-1084025h.htm",
-      "published": "2026-10-21T16:52:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:55:33.899182+00:00"
-    },
-    {
-      "id": "4d4045bb20edc744",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırılarında 2 Filistinli yaralandı",
-      "summary": "Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın kuzeyindeki Nablus kentinde düzenlediği iki ayrı saldırıda 2 Filistinli yaralandı.",
-      "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirilarinda-2-filistinli-yaralandi/4096302",
-      "published": "2026-10-21T16:52:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:00:55.936551+00:00"
-    },
-    {
-      "id": "09f1c465e83582f0",
-      "source": "Türkiye Gazetesi",
-      "title": "İŞTE YENİ MAAŞ HESAPLARI",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/2027-asgari-ucret-icin-hesaplar-basladi-38-bin-tl-detayi-1824314",
-      "published": "2026-10-21T16:51:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:00:58.911666+00:00"
-    },
-    {
-      "id": "29e9cd360d8e5d6a",
-      "source": "Akşam",
-      "title": "Pierre Sage: Beşiktaş'ın hücum kalitesinin farkındayız",
-      "summary": "İngiliz temsilcisi Crystal Palace'ta teknik direktör Pierre Sage, UEFA Avrupa Ligi'nde Beşiktaş ile karşılaşacakları maç öncesinde açıklamalarda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/pierre-sage-besiktasin-hucum-kalitesinin-farkindayiz/haber-1708121",
-      "published": "2026-10-21T16:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:55:32.020634+00:00"
-    },
-    {
-      "id": "faebcfa21a626171",
-      "source": "Star",
-      "title": "Pierre Sage: Beşiktaş'ın hücum kalitesinin farkındayız",
-      "summary": "Crystal Palace Teknik Direktörü Pierre Sage, Beşiktaş maçı öncesinde açıklamalarda bulundu.",
-      "link": "https://www.star.com.tr/spor/pierre-sage-besiktasin-hucum-kalitesinin-farkindayiz-haber-2048187/",
-      "published": "2026-10-21T16:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T16:55:32.893466+00:00"
-    },
-    {
-      "id": "5a9b8bf9e6781308",
-      "source": "OdaTV",
-      "title": "Halk TV'nin önünde miting: Özgür Özel A Haber'e sert çıktı",
-      "summary": "YENİ Parti Genel Başkanı Özgür Özel, Halk TV’ye atanan kayyımı protesto etmek amacıyla düzenlenen mitingde basın özgürlüğüne vurgu yaparak muhalif basının ve ekran emekçilerinin yanında olduklarını belirtti.",
-      "link": "https://www.odatv.com/guncel/halk-tvnin-onunde-miting-ozgur-ozel-a-habere-sert-cikti-120167703",
-      "published": "2026-10-21T16:50:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:45:47.482987+00:00"
     }
   ]
 }

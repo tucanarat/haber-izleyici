@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-10-21T20:51:10.593322+00:00",
+  "last_updated": "2026-10-21T20:55:53.773571+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 519,
+  "new_items_this_run": 512,
   "items": [
+    {
+      "id": "15fbe20fb553aaa3",
+      "source": "Karar",
+      "title": "AMD, FSR 4.1 teknolojisini Xbox konsollarına ve el konsollarına getiriyor",
+      "summary": "AMD, FSR 4.1 teknolojisini Xbox Series S ve Series X'e getiriyor. Yeni teknoloji, özellikle donanımı daha sınırlı olan Series S'te oyun performansını ve görüntü kalitesini artırabilir.",
+      "link": "https://www.karar.com/teknoloji-haberleri/amd-fsr-4-1-teknolojisini-xbox-konsollarina-ve-el-konsollarina-2079914",
+      "published": "2026-10-21T20:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:37.735030+00:00"
+    },
+    {
+      "id": "ec647e679efe392d",
+      "source": "Türkiye Gazetesi",
+      "title": "Arda Güler sahneye çıktı, Real Madrid 3'te 3 yaptı",
+      "summary": "Milli futbolcumuz Arda Güler'in gol attığı maçta Real Madrid, Şampiyonlar Ligi'nde karşılaştığı Leipzig'i 4-1 mağlup ederek 3'te 3 yaptı. Devler Ligi'nde toplamda üçüncü golünü atan Arda Güler, bu sezon 3 gol ve 5 asistlik katkıda bulundu.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/arda-guler-sahneye-cikti-real-madrid-3te-3-yapti-1824364",
+      "published": "2026-10-21T20:51:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:32.009611+00:00"
+    },
+    {
+      "id": "2745bcfa7d61a990",
+      "source": "Yeni Şafak",
+      "title": "Kilis'te kayıp kız çocuğu bulundu",
+      "summary": "Kilis'in Elbeyli ilçesinde kaybolan E.C.U. (6) adlı kız çocuğu, jandarma ekiplerinin çalışması sonucu bulundu.",
+      "link": "https://www.yenisafak.com/gundem/kiliste-kayip-kiz-cocugu-bulundu-4866271",
+      "published": "2026-10-21T20:51:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:36.457038+00:00"
+    },
+    {
+      "id": "7292d9e2625a7afb",
+      "source": "Cumhuriyet",
+      "title": "MasterChef dokunulmazlığı kim kazandı? 21 Ekim 2026 MasterChef eleme adayı kim oldu?",
+      "summary": "MasterChef Türkiye’de 21 Ekim 2026 Çarşamba akşamı yayınlanacak bölümde haftanın ikinci dokunulmazlık oyunu için heyecan yaşanıyor. Mavi ve kırmızı takım, eleme potasına girmemek için mücadele ederken bireysel dokunulmazlığı kazanan isim ve günün eleme adayları merak ediliyor.",
+      "link": "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-dokunulmazligi-kim-kazandi-21-ekim-2026-masterchef-eleme-adayi-kim-oldu-2549085",
+      "published": "2026-10-21T20:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:29.874791+00:00"
+    },
     {
       "id": "65053d6a843987f3",
       "source": "DonanımHaber",
@@ -28,6 +72,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:50:49.486514+00:00"
+    },
+    {
+      "id": "5bb418c2a7f9524b",
+      "source": "Cumhuriyet",
+      "title": "Sokak ortasında erkek vahşeti! Eşine tavuk satan kasabı bıçaklayarak öldürdü",
+      "summary": "İstanbul Bayrampaşa’da bir şahıs, boşanma aşamasındaki eşinin restoranına toptan et ve tavuk satan kasabı sokak ortasında bıçaklayarak öldürdü. Olayın ardından yaralı halde kaçan ve hastanede yakalanan şüphelinin kasabı daha önce de \"Eşime mal vermeyeceksin\" diye tehdit ettiği ortaya çıktı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/sokak-ortasinda-erkek-vahseti-esine-tavuk-satan-kasabi-bicaklayarak-oldurdu-2549083",
+      "published": "2026-10-21T20:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:29.874837+00:00"
+    },
+    {
+      "id": "e8a51038e21db814",
+      "source": "Ekonomim",
+      "title": "Karadeniz kültürünü markalaştırdı, rotayı İstanbul’a çevirdi",
+      "summary": "Rize’de hediyelik eşya üretimiyle başlayan Yerim Oni, cafe-shop, e-ticaret ve yeni içecek markası Oşvi ile faaliyet alanını genişletti. 75 satış noktasına ulaşan marka, İstiklal Caddesi’ndeki yeni mağazasıyla İstanbul’daki varlığını güçlendirmeye hazırlanıyor.",
+      "link": "https://www.ekonomim.com/sehirler/karadeniz-kulturunu-markalastirdi-rotayi-istanbula-cevirdi-haberi-926256",
+      "published": "2026-10-21T20:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:47.083177+00:00"
     },
     {
       "id": "69306a2c37ffe282",
@@ -206,6 +272,17 @@
       "fetched_at": "2026-10-21T20:46:08.344721+00:00"
     },
     {
+      "id": "9c3be3553416e042",
+      "source": "Evrensel",
+      "title": "Axios: İsrail savaş uçakları, İran sınırına yakın noktalara kadar uçarak güç gösterisi yaptı",
+      "summary": "İsrail'e ait savaş uçaklarının 19 Ekim Pazartesi günü İran sınırına yakın noktalarda uçuş gerçekleştirerek \"güç gösterisinde\" bulunduğu iddia edildi.",
+      "link": "https://www.evrensel.net/haber/6006045/axios-israil-savas-ucaklari-iran-sinirina-yakin-noktalara-kadar-ucarak-guc-gosterisi-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-21T20:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:33.144147+00:00"
+    },
+    {
       "id": "55570735541f0d8b",
       "source": "Finans Gündem",
       "title": "Fon teklifinde yeni düzenleme: Bloke işlemler tasfiyeye dahil edildi",
@@ -248,6 +325,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:45:34.369316+00:00"
+    },
+    {
+      "id": "865b23640f958c5e",
+      "source": "Evrensel",
+      "title": "BM Özel Raportörü Betancur: \"Dünyada 82 milyondan fazla kişi, ülke içinde yerinden edildi",
+      "summary": "BM Ülke İçinde Yerinden Edilmiş Kişilerin İnsan Haklarına İlişkin Özel Raportörü Paula Gaviria Betancur, dünya genelinde çatışma, şiddet ve afetler nedeniyle 82 milyondan fazla kişinin ülke içinde yerinden edildiğini belirtti.",
+      "link": "https://www.evrensel.net/haber/6006044/bm-ozel-raportoru-betancur-dunyada-82-milyondan-fazla-kisi-ulke-icinde-yerinden-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-21T20:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:33.144191+00:00"
     },
     {
       "id": "74b8adf9e076f171",
@@ -380,6 +468,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:35:45.956014+00:00"
+    },
+    {
+      "id": "95fae67f3f828237",
+      "source": "Evrensel",
+      "title": "Epstein'in avukatı ve muhasebecisine \"mirastan pay alamasınlar\" davası",
+      "summary": "ABD'nin New Mexico Eyaleti Başsavcısı Raul Torrez, reşit olmayan kız çocuklarına yönelik fuhuş ağı kurduğu iddiasıyla yargılandığı sırada hapishanede ölü bulunan Jeffrey Epstein'in avukatı ve muhasebecisine karşı \"miras\" davası açtı.",
+      "link": "https://www.evrensel.net/haber/6006043/epsteinin-avukati-ve-muhasebecisine-mirastan-pay-alamasinlar-davasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-21T20:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T20:55:33.144225+00:00"
     },
     {
       "id": "198ed0590cf0bd60",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T17:36:00.464545+00:00"
-    },
-    {
-      "id": "df9e8cc4079ed517",
-      "source": "Akşam",
-      "title": "Wilfried Singo, 7 maç sonra kadroda",
-      "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında Galatasaray, deplasmanda Lille'in konuğu oldu. Mücadelede sarı kırmızılılarda Wilfried Singo, 7 maç sonra kadroda yerini aldı.",
-      "link": "https://www.aksam.com.tr/spor/wilfried-singo-7-mac-sonra-kadroda/haber-1708126",
-      "published": "2026-10-21T17:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:15:42.308141+00:00"
-    },
-    {
-      "id": "3c855ba8a364d5fa",
-      "source": "OdaTV",
-      "title": "Harun Tekin'den albüm sürprizi",
-      "summary": "Mor ve Ötesi solisti Harun Tekin, 3&#039;ü Türkçe 3&#039;ü İngilizce şarkıdan oluşan yeni solo mini albümünün 4 Kasım&#039;da çıkacağını duyurdu.",
-      "link": "https://www.odatv.com/kultur-sanat/harun-tekinden-album-surprizi-120167705",
-      "published": "2026-10-21T17:12:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:15:47.525922+00:00"
-    },
-    {
-      "id": "c66837eeec96bfcc",
-      "source": "DonanımHaber",
-      "title": "Halka arz olacak Anthropic’in ilk 6 aydaki zararı 80 milyar doları aştı",
-      "summary": "Anthropic’in 2026’nın ilk yarısındaki net zararı 80,7 milyar dolara ulaştı. Zararda 72 milyar dolarlık muhasebe gideri etkili olurken şirket, kasım ayında halka arz edilmeye hazırlanıyor.",
-      "link": "https://www.donanimhaber.com/anthropic-in-ilk-6-aydaki-zarari-80-milyar-dolari-asti--211906",
-      "published": "2026-10-21T17:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:16:13.823013+00:00"
-    },
-    {
-      "id": "24ccb35b36407465",
-      "source": "OdaTV",
-      "title": "Önce MSCI şimdi de JP Morgan: Piyasalarda neler oluyor",
-      "summary": "JP Morgan Menkul Değerler AŞ, Türkiye&#039;de faaliyet izninin iptal edilmesi talebiyle Sermaye Piyasası Kurulu&#039;na (SPK) başvuruda bulunacağını açıkladı.",
-      "link": "https://www.odatv.com/ekonomi/jp-morgan-spkya-basvurdu-120167704",
-      "published": "2026-10-21T17:11:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:15:47.525942+00:00"
-    },
-    {
-      "id": "53af4e683c4f14eb",
-      "source": "Habertürk",
-      "title": "Zonguldak'ta bina çöktü: 1 ölü",
-      "summary": "Zonguldak'ın merkez ilçesine bağlı Meşrutiyet Mahallesi'nde 3 katlı bina henüz bilinmeyen bir nedenle çöktü. Enkaz altında kalan 2 kişiden Kenan Akçaharman yaralı halde kurtarılırken, Türkan Özhan'ın (74) cansız bedeni çıkarıldı.",
-      "link": "https://www.haberturk.com/gundem/son-dakika-zonguldak-ta-3-katli-bina-coktu-3921514",
-      "published": "2026-10-21T17:11:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:20:32.808721+00:00"
-    },
-    {
-      "id": "625ade4248a7808a",
-      "source": "Milliyet",
-      "title": "Bahçe temizliği faciayla bitti! Yaktığı ateşin içine düşüp öldü",
-      "summary": "Olay, saat 16.00 sıralarında Çömlekçi Mahallesi'ndeki bir evin bahçesinde meydana geldi. BASTONU KIRILINCA ATEŞE DÜŞTÜ Bahçesinde temizlik ateşi yakan Mehmet Ertok, iddiaya göre kullandığı bastonun kırılması üzerine dengesini kaybederek ateşin içine düştü. Çevredekilerin ihbarı üzerine olay yerine sağlık ve jandarma ekipleri sevk edildi. Adrese gelen sağlık ekiplerince yapılan kontrolde Ertok'un h",
-      "link": "https://www.milliyet.com.tr/gundem/bahce-temizligi-faciayla-bitti-yaktigi-atesin-icine-dusup-oldu-7684752",
-      "published": "2026-10-21T17:10:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:15:41.312033+00:00"
-    },
-    {
-      "id": "f8735e62c0a3a8db",
-      "source": "Diken",
-      "title": "Avrupa'da öğrenci protestoları: Eşitlik vaadinden geleceksizliğe",
-      "summary": "Avrupa'da öğrenci protestoları: Eşitlik vaadinden geleceksizliğe 21.10.2026 Diken Bugünün protestoları, eşit eğitim hakkı üzerinden eşitlik ve adalet taleplerini somutlaştırarak genç kuşakların siyasetle kurduğu ilişkiyi zaman içinde dönüştürebilir; gelecekteki siyasal tartışmalara, örgütlenme biçimlerine ve toplumsal muhalefetin birikimine katkıda bulunabilir. The post Avrupa'da öğrenci protestol",
-      "link": "https://www.diken.com.tr/avrupada-ogrenci-protestolari-esitlik-vaadinden-geleceksizlige/?utm_source=rss&utm_medium=rss&utm_campaign=avrupada-ogrenci-protestolari-esitlik-vaadinden-geleceksizlige",
-      "published": "2026-10-21T17:10:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:10:49.518930+00:00"
-    },
-    {
-      "id": "56d1cff61953e6b7",
-      "source": "Cumhuriyet",
-      "title": "Venüs Retrosu bitti mi? 2026 Venüs Retrosu ne zaman bitecek?",
-      "summary": "2026 Venüs retrosunun ne zaman sona ereceği, astrolojiyle ilgilenenlerin araştırdığı konular arasında yer alıyor. Peki, Venüs Retrosu bitti mi? 2026 Venüs Retrosu ne zaman bitecek?",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/venus-retrosu-bitti-mi-2026-venus-retrosu-ne-zaman-bitecek-2549022",
-      "published": "2026-10-21T17:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:15:36.909307+00:00"
-    },
-    {
-      "id": "3a8899d18e4f48fa",
-      "source": "Yeni Şafak",
-      "title": "Özgür Özel'den bir 'sokak' çağrısı daha: Evde oturma günü değil",
-      "summary": "Yeni Parti Genel Başkanı Özgür Özel, kayyum atanan Halk TV önünde yaptığı konuşmada, vatandaşı bir kez daha 'sokağa inmeye' çağırdı. Özel, \"Gün evde oturma günü değildir\" diyen Özel, \"Gün, cep telefonundan paylaşım yapma günü değildir; meydanlara çıkma, sokaklara akma mücadeleyi yükseltme günüdür\" ifadelerini kullandı.",
-      "link": "https://www.yenisafak.com/video/gundem/ozgur-ozelden-bir-sokak-cagrisi-daha-evde-oturma-gunu-degil-4866235",
-      "published": "2026-10-21T17:08:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T17:10:44.216928+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-21T21:46:05.881311+00:00",
+  "last_updated": "2026-10-21T21:51:05.539488+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 513,
+  "new_items_this_run": 512,
   "items": [
+    {
+      "id": "2420d9f4cca219aa",
+      "source": "Cumhuriyet",
+      "title": "Club Brugge kendi sahasında Lens'a geçit vermedi!",
+      "summary": "Club Brugge, UEFA Şampiyonlar Ligi'nin 3. haftasında kendi sahasında ağırladığı Lens'ı 3-0 mağlup etti.",
+      "link": "https://www.cumhuriyet.com.tr/spor/club-brugge-kendi-sahasinda-lens-a-gecit-vermedi-2549111",
+      "published": "2026-10-21T21:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T21:50:37.130259+00:00"
+    },
     {
       "id": "49b1cc94d436034c",
       "source": "Anadolu Ajansı (Güncel)",
@@ -2021,6 +2032,17 @@
       "fetched_at": "2026-10-21T21:01:14.519329+00:00"
     },
     {
+      "id": "9d8e9e1eb4a85d7e",
+      "source": "Hürriyet",
+      "title": "Siber Güvenlik Başkanlığı’ndan ulusal çapta siber güvenlik uyarısı",
+      "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısındaki kritik güvenlik zafiyetlerine karşı ulusal düzeyde önleyici güvenlik çalışmalarını devreye aldı.",
+      "link": "https://www.hurriyet.com.tr/gundem/siber-guvenlik-baskanligindan-ulusal-capta-siber-guvenlik-uyarisi-43350368",
+      "published": "2026-10-21T20:52:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T21:50:41.200209+00:00"
+    },
+    {
       "id": "51b4517520087b77",
       "source": "Bir Gün",
       "title": "Altın Portakal’da çevre dostu sinemaya iki ödül",
@@ -2767,6 +2789,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:25:32.662635+00:00"
+    },
+    {
+      "id": "bb49ad2d924b0cc6",
+      "source": "Sabah",
+      "title": "Siber Güvenlik Başkanlığından ulusal çapta güvenlik uyarısı! İşte alınması gereken önlemler",
+      "summary": "Siber Güvenlik Başkanlığı ulusal çapta güvenlik uyarısında bulundu. Kritik güvenlik zafiyetlerine yönelik ulusal düzeyde önleyici tedbirler devreye alındı. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/10/21/siber-guvenlik-baskanligindan-ulusal-capta-guvenlik-uyarisi-iste-alinmasi-gereken-onlemler",
+      "published": "2026-10-21T20:23:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T21:50:42.951398+00:00"
     },
     {
       "id": "573e2372efc76590",
@@ -4694,6 +4727,17 @@
       "fetched_at": "2026-10-21T19:31:05.188352+00:00"
     },
     {
+      "id": "57f02c44f623c7a3",
+      "source": "Milliyet",
+      "title": "Sitenin içine daldı! Binaya giren yaban domuzuna polis ekiplerinden operasyon",
+      "summary": "Olay, saat 18.00 sıralarında Göllü Bağları Mahallesi Meridyenpark Sitesi’nde meydana geldi. Site içerisinde görülen yaban domuzu, sakinler arasında paniğe neden oldu. İhbar üzerine bölgeye polis, itfaiye ve Doğa Koruma ve Milli Parklar ekipleri sevk edildi. Çevrede güvenlik önlemleri alındı. ETKİSİZ HALE GETİRİLDİ Binanın içerisinde kalan yaban domuzu, polis ekiplerinin silahla müdahalesi sonucu e",
+      "link": "https://www.milliyet.com.tr/gundem/sitenin-icine-daldi-binaya-giren-yaban-domuzuna-polis-ekiplerinden-operasyon-7684781",
+      "published": "2026-10-21T19:10:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T21:50:42.628955+00:00"
+    },
+    {
       "id": "c473169711d9d649",
       "source": "Yeni Şafak",
       "title": "Muhalefete 'siyasi omurgasızlık' tepkisi: Erdoğan eleştirileri kabul etti, muhalefet yanlışın nöbetini tutuyor",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T18:50:34.032540+00:00"
-    },
-    {
-      "id": "8aeaf53e6d0353b4",
-      "source": "Türkiye Gazetesi",
-      "title": "42 yaşındaki takıntılı adam genç kızı öldürdü",
-      "summary": "Adana’da ailesiyle piknik yapan 22 yaşındaki Sevda Dinler, mesire alanında tüfekli saldırıya uğradı. Genç kız hayatını kaybederken, daha önce kendisini rahatsız ettiği gerekçesiyle şikâyetçi olduğu ve hakkında uzaklaştırma kararı aldırdığı öne sürülen 42 yaşındaki şüpheli gözaltına alındı.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/adanada-piknik-alaninda-dehset-42-yasindaki-takintili-adam-22-yasindaki-kizi-oldurdu-1824333",
-      "published": "2026-10-21T18:40:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T18:45:38.348680+00:00"
-    },
-    {
-      "id": "2c0c49ab88b5a143",
-      "source": "OdaTV",
-      "title": "Adalet Bakanı açıkladı: 351 kişinin mal varlıklarına tedbir konuldu",
-      "summary": "Adalet Bakanı Akın Gürlek, 351 gerçek kişi ile 102 tüzel kişinin mal varlıklarına yönelik tedbir kararları alındığını bildirdi.",
-      "link": "https://www.odatv.com/guncel/adalet-bakani-akin-gurlek-acikladi-351-kisinin-mal-varliklarina-tedbir-konuldu-120167709",
-      "published": "2026-10-21T18:40:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T18:45:45.037305+00:00"
-    },
-    {
-      "id": "20cf7d9429575abd",
-      "source": "Star",
-      "title": "PHP yazılım dilinde güvenlik açığı! Avrupa'da internet siteleri devre dışı kaldı",
-      "summary": "Dünya genelinde yaygın kullanım alanına sahip PHP yazılım dilinde ortaya çıkan güvenlik açığı nedeniyle Avrupa'da kamuya ait birçok internet sitesi devre dışı kaldı.",
-      "link": "https://www.star.com.tr/dunya/php-lim-dilinde-guvenlik-acigi-avrupada-internet-siteleri-devre-disi-kaldi-haber-2048204/",
-      "published": "2026-10-21T18:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T18:40:38.364381+00:00"
-    },
-    {
-      "id": "49b086319d484ba5",
-      "source": "Habertürk",
-      "title": "Beşiktaş deplasmanda kazandı!",
-      "summary": "Beşiktaş BOA, FIBA Kadınlar Avrupa Kupası B Grubu'ndaki ilk maçında Çekya'nın DSK Basketball Brandys ekibini deplasmanda 83-48 mağlup etti.",
-      "link": "https://www.haberturk.com/spor/dsk-basketball-brandys-48-besiktas-boa-83-mac-sonucu-3921540",
-      "published": "2026-10-21T18:39:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T18:50:34.032582+00:00"
     }
   ]
 }

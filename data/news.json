@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-10-21T22:01:21.025202+00:00",
+  "last_updated": "2026-10-21T22:05:52.825294+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 499,
+  "new_items_this_run": 515,
   "items": [
+    {
+      "id": "2031bfe5416b63f8",
+      "source": "Yeniçağ",
+      "title": "Rutkay Aziz ve Doğa Rutkay’ı yasa boğan kayıp: Dr. Enver Ural Rutkay hayatını kaybetti",
+      "summary": "Usta oyuncu Rutkay Aziz’in ağabeyi Dr. Enver Ural Rutkay hayatını kaybetti. Acı haberi yeğeni Doğa Rutkay Kamal duyururken, Ankara’da düzenlenen cenaze töreninin ardından son yolculuğuna uğurlandı.",
+      "link": "https://www.yenicaggazetesi.com/rutkay-aziz-ve-doga-rutkayi-yasa-bogan-kayip-dr-enver-ural-rutkay-hayatini-kaybetti-1084059h.htm",
+      "published": "2026-10-21T22:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T22:05:38.498069+00:00"
+    },
+    {
+      "id": "a09d5ed85f362c07",
+      "source": "Karar",
+      "title": "Test edilen 20 yapay zeka modeli, tarafsız komutta sol görüşe meyletti",
+      "summary": "Yapay zeka sohbet botları, bağımsız duruş sergilemek yerine kullanıcının siyasi görüşlerine göre tavır alarak dalkavukluk yapıyor. Kullanıcı profiline dair herhangi bir siyasi bilginin girilmediği tarafsız senaryoda, incelenen 21 modelden 20'si sol eğilimli şeklinde sınıflandırılan yanıtlar üretti. Araştırma, algoritmaların kişiye özel yankı odaları kurarak toplumsal kutuplaşmayı tırmandırma riski",
+      "link": "https://www.karar.com/teknoloji-haberleri/yapay-zeka-kutuplastiriyor-mu-yapay-zeka-algoritmalari-taraf-mi-2079920",
+      "published": "2026-10-21T22:01:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T22:05:38.061639+00:00"
+    },
+    {
+      "id": "5b7854f20c87d25b",
+      "source": "Türkiye Gazetesi",
+      "title": "Hakan Çalhanoğlu, Arda Turan'ı üzdü",
+      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftası, oynanan 9 maçla tamamlandı. Hakan Çalhanoğlu'nun formasını giydiği Inter, Arda Turan'ın çalıştırdığı Shakhtar Donetsk'i 1-0 mağlup etti.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/hakan-calhanoglu-arda-turani-uzdu-1824383",
+      "published": "2026-10-21T22:00:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T22:05:33.754530+00:00"
+    },
+    {
+      "id": "5b7854f20c87d25b",
+      "source": "Türkiye Gazetesi",
+      "title": "Hakan Çalhanoğlu, Arda Turan'ı üzdü",
+      "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftası, oynanan 9 maçla tamamlandı. Hakan Çalhanoğlu'nun formasını giydiği Inter, Arda Turan'ın çalıştırdığı Shakhtar Donetsk'i 1-0 mağlup etti.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/hakan-calhanoglu-arda-turani-uzdu-1824383",
+      "published": "2026-10-21T22:00:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T22:05:33.754564+00:00"
+    },
+    {
+      "id": "1e0f6e3dbf7e66be",
+      "source": "BBC News Türkçe",
+      "title": "Macron, Netanyahu ve Trump'ı Fransa'daki eylemleri istismar etmekle suçladı",
+      "summary": "Fransa cumhurbaşkanının bu yorumu, önümüzdeki haftalarda seçimlerle karşı karşıya olan Binyamin Netanyahu ve Donald Trump'a yönelik açık bir eleştiri niteliğinde.",
+      "link": "https://www.bbc.com/turkce/articles/cwx287g6e702o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21T21:58:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T22:05:52.392035+00:00"
+    },
     {
       "id": "68e42f3ef6f4a914",
       "source": "Star",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T19:05:47.930458+00:00"
-    },
-    {
-      "id": "3bdfa49156d0c85e",
-      "source": "Bloomberg HT",
-      "title": "Waymo, Las Vegas Havalimanı'nda yolcu taşıma hizmetine başlıyor",
-      "summary": "Waymo, Las Vegas'taki Harry Reid Uluslararası Havalimanı'na yolcu taşıyacağını duyurdu. Şirket hâlihazırda Phoenix Sky Harbor, Nashville Uluslararası, San Antonio Uluslararası, San Francisco Uluslararası ve San José Uluslararası havalimanlarında da yolcu taşıma hizmeti sunuyor. Amazon'a ait Zoox, Las Vegas Havalimanı'nda hâlihazırda hizmet veriyor.",
-      "link": "https://www.bloomberght.com/waymo-las-vegas-havalimani-nda-yolcu-tasima-hizmetine-basliyor-3792138",
-      "published": "2026-10-21T18:53:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T19:10:57.423962+00:00"
-    },
-    {
-      "id": "62e399ee6230fb82",
-      "source": "Habertürk",
-      "title": "Anne adayları bir arada",
-      "summary": "Şimdilerde anne olmak için gün sayan Gökçe Bahadır ve Merve Dizdar, Emir Ersoy'un 49'uncu yaş günü kutlamasında bir araya geldi. Oyuncular, eşleriyle birlikte objektiflere poz verdi",
-      "link": "https://www.haberturk.com/magazin/foto/gokce-bahadir-ve-merve-dizdar-bir-araya-geldi-3921542",
-      "published": "2026-10-21T18:53:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T19:00:50.153882+00:00"
-    },
-    {
-      "id": "3bf5d434b1448ae5",
-      "source": "Yeniçağ",
-      "title": "Bit pazarından 30 dolara aldığı çizim başyapıt çıktı: Değeri 50 milyon doları aşabilir",
-      "summary": "ABD’de bir bit pazarından 30 dolara alınan çizimin, Albrecht Dürer’e ait olduğu doğrulandı. Yaklaşık 10 milyon dolar değer biçilen eserin fiyatının 50 milyon doları aşabileceği belirtiliyor.",
-      "link": "https://www.yenicaggazetesi.com/bit-pazarindan-30-dolara-aldigi-cizim-basyapit-cikti-degeri-50-milyon-dolari-asabilir-1084040h.htm",
-      "published": "2026-10-21T18:53:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T18:55:32.951072+00:00"
-    },
-    {
-      "id": "0df0434c43485d53",
-      "source": "Yeniçağ",
-      "title": "Kağıthane'de 3 katlı binada yangın: Ekipler müdahale ediyor",
-      "summary": "İstanbul Kağıthane&#039;de 3 katlı bir binada henüz belirlenemeyen nedenle yangın çıktı. Bölgeye çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi.",
-      "link": "https://www.yenicaggazetesi.com/kagithanede-3-katli-binada-yangin-ekipler-mudahale-ediyor-1084039h.htm",
-      "published": "2026-10-21T18:52:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T18:55:32.951111+00:00"
-    },
-    {
-      "id": "2110d390380c3c58",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütmeyi planlıyor",
-      "summary": "JPMorgan İstanbul Şubesi'nin yakın zamanda Türkiye'deki bankacılık faaliyetlerini büyütme kararı aldığı ve bu yöndeki çalışmaların ilgili yasal otoritelerle koordineli şekilde sürdürüldüğü bildirildi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutmeyi-planliyor/4096399",
-      "published": "2026-10-21T18:52:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T19:15:52.894637+00:00"
     }
   ]
 }

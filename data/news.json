@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-10-21T04:51:08.497093+00:00",
+  "last_updated": "2026-10-21T04:55:52.524026+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 478,
+  "new_items_this_run": 483,
   "items": [
+    {
+      "id": "a2799b26a17363e1",
+      "source": "Akşam",
+      "title": "Markette müşteriye hırsız muamelesi! İnceleme başlatıldı",
+      "summary": "Ankara Sincan'da bir zincir markette, müşterilerin poşet ve çantalarının bantlandığı iddiası büyük tepki çekti. Sincan Belediyesi, vatandaşın onurunu zedeleyen bu uygulamaya karşı cezai ve idari işlem başlattı.",
+      "link": "https://www.aksam.com.tr/yasam/markette-musteriye-hirsiz-muamelesi-inceleme-baslatildi/haber-1707876",
+      "published": "2026-10-21T04:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:34.941691+00:00"
+    },
+    {
+      "id": "d7712682b2c86e49",
+      "source": "Star",
+      "title": "Fransa'da ortalık toz duman! Yağma malları ikinci elde satılıyor",
+      "summary": "Fransa'da hayat pahalılığı ve kamu hizmetlerine yönelik tepkilerle başlayan eylemler, lüks mağazaların yağmalanmasına dönüştü. Yağmalanan Rolex ve Sephora gibi lüks ürünler, ikinci el satış platformlarına düştü; sokaklarda da satılmaya başlandı.",
+      "link": "https://www.star.com.tr/dunya/fransada-ortalik-toz-duman-yagma-mallari-ikinci-elde-satiliyor-haber-2047983/",
+      "published": "2026-10-21T04:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:35.841538+00:00"
+    },
+    {
+      "id": "942d244b2203effc",
+      "source": "Sözcü",
+      "title": "Altında sert düşüş!",
+      "summary": "Altında sert düşüş!",
+      "link": "https://www.sozcu.com.tr/altinda-sert-dusus-p371181",
+      "published": "2026-10-21T04:52:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:30.711750+00:00"
+    },
+    {
+      "id": "2c6db2c2dbea696e",
+      "source": "Karar",
+      "title": "Trump yönetimi açıkladı: 300 binden fazla vize iptal edildi",
+      "summary": "ABD Dışişleri Bakanlığı yetkilisi Mora Namdar, Donald Trump yönetiminin göreve gelmesinden bu yana 300 binden fazla vizeyi iptal ettiğini ve vize iptal süreçlerinin devam edeceğini açıkladı.",
+      "link": "https://www.karar.com/dunya-haberleri/trump-yonetimi-acikladi-300-binden-fazla-vize-iptal-edildi-2079718",
+      "published": "2026-10-21T04:52:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:36.519708+00:00"
+    },
+    {
+      "id": "5ddc141a180bbe40",
+      "source": "Akşam",
+      "title": "Sigortadan kurgu kaza vurgunu",
+      "summary": "Adana'da kurgu trafik kazalarıyla sigorta şirketlerinden haksız tazminat alan suç örgütüne yönelik geniş çaplı operasyon düzenlendi. 76 olayda sahtecilik tespit edilirken, 88 şüpheli hakkında işlem başlatıldı ve 77 kişi gözaltına alındı.",
+      "link": "https://www.aksam.com.tr/yasam/sigortadan-kurgu-kaza-vurgunu/haber-1707875",
+      "published": "2026-10-21T04:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:34.941727+00:00"
+    },
+    {
+      "id": "8fb6fa21b248c5af",
+      "source": "Ekonomim",
+      "title": "İran’dan net mesaj: Uranyumun tek bir gramı bile ülkeden çıkarılmayacak",
+      "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, zenginleştirilmiş uranyumun hiçbir miktarının ülke dışına çıkarılmayacağını belirtti. ABD güven artırıcı adımlar atana kadar müzakerelerin başlamayacağını vurgulayan Rızai, görüşme sürecinin İran’ın tüm taleplerinin eksiksiz karşılanması şartına bağlı olduğunu ifade etti.",
+      "link": "https://www.ekonomim.com/dunya/irandan-net-mesaj-uranyumun-tek-bir-grami-bile-ulkeden-cikarilmayacak-haberi-926006",
+      "published": "2026-10-21T04:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:45.192346+00:00"
+    },
     {
       "id": "61e090b8fb4a6e6e",
       "source": "CNBC-e",
@@ -39,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T04:50:44.816979+00:00"
+    },
+    {
+      "id": "781cfa4e0712893c",
+      "source": "Euronews Türkçe",
+      "title": "‘Sleepmaxxing’den artan sıcaklıklara: İyi bir gece uykusu giderek zorlaşıyor",
+      "summary": "İklim değişikliği, sağlık hizmetlerine eşitsiz erişim ve 'her an çevrimiçi' çalışma kültürü, iyi sağlık için hayati olan uykuyu Avrupa genelinde baltalıyor.",
+      "link": "https://tr.euronews.com/2026/10/21/sleepmaxxingden-artan-sicakliklara-iyi-bir-gece-uykusu-giderek-zorlasiyor",
+      "published": "2026-10-21T04:48:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:52.522893+00:00"
     },
     {
       "id": "86b9d4100e1189c8",
@@ -94,6 +171,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T04:50:58.105212+00:00"
+    },
+    {
+      "id": "e69908b5be15d863",
+      "source": "Bloomberg HT",
+      "title": "Morgan Stanley: Akaryakıt piyasasındaki sıkışıklık 2027 ortasına kadar sürebilir",
+      "summary": "Morgan Stanley, mevcut savaş kaynaklı arz kesintileri hafiflese bile küresel petrol ürünleri piyasasındaki sıkışıklığın 2027 ortasına kadar devam edebileceğini öngördü.",
+      "link": "https://www.bloomberght.com/morgan-stanley-akaryakit-piyasasindaki-sikisiklik-2027-ortasina-kadar-surebilir-3792040",
+      "published": "2026-10-21T04:44:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:44.525030+00:00"
     },
     {
       "id": "dd2cf0831755199e",
@@ -173,6 +261,17 @@
       "fetched_at": "2026-10-21T04:40:38.551483+00:00"
     },
     {
+      "id": "0c0829d920f2b772",
+      "source": "Bloomberg HT",
+      "title": "Altın, yükselen petrol fiyatlarıyla geriledi",
+      "summary": "Altın, yükselen petrol fiyatlarının enflasyon endişelerini artırması ve yatırımcıların gelecek haftaki ABD Merkez Bankası (Fed) toplantısına odaklanmasıyla çarşamba günü üst üste dördüncü seansta düşüş kaydetti.",
+      "link": "https://www.bloomberght.com/altin-yukselen-petrol-fiyatlariyla-geriledi-3792039",
+      "published": "2026-10-21T04:39:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:44.525066+00:00"
+    },
+    {
       "id": "49515ecec44d6a42",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Arap Koalisyonu: Suudi Arabistan'ın Medine ve doğu bölgesinde 5 İHA saldırısı önlendi",
@@ -182,6 +281,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T04:45:33.862526+00:00"
+    },
+    {
+      "id": "cc2fda726a257643",
+      "source": "Euronews Türkçe",
+      "title": "SpaceX kâra geçerken Musk, Tesla ile birleşmeye destek verdi",
+      "summary": "Elon Musk, SpaceX ile Tesla’nın olası birleşmesine destek verdiğinin sinyalini verdi; SpaceX gelirlerinde keskin artış ve halka açılmasından bu yana ilk çeyrek kârını açıkladı.",
+      "link": "https://tr.euronews.com/2026/10/21/spacex-kara-gecerken-musk-tesla-ile-birlesmeye-destek-verdi",
+      "published": "2026-10-21T04:38:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:52.522927+00:00"
     },
     {
       "id": "b0798c63ea3a8c6b",
@@ -248,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T04:35:36.354682+00:00"
+    },
+    {
+      "id": "e79509d1edcae3cf",
+      "source": "Diken",
+      "title": "Osman Kavala 3 bin 277 gündür hapiste",
+      "summary": "Osman Kavala 3 bin 277 gündür hapiste 21.10.2026 Diken Sivil toplum ve insan hakları aktivisti Osman Kavala 21 Ekim 2026 itibarıyla 3 bin 277 gündür hapiste. The post Osman Kavala 3 bin 277 gündür hapiste appeared first on #site_linkat 21.10.2026 .",
+      "link": "https://www.diken.com.tr/osman-kavala-3-bin-277-gundur-hapiste/?utm_source=rss&utm_medium=rss&utm_campaign=osman-kavala-3-bin-277-gundur-hapiste",
+      "published": "2026-10-21T04:32:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:39.426553+00:00"
     },
     {
       "id": "76c3bd8821bb6372",
@@ -2208,6 +2329,17 @@
       "fetched_at": "2026-10-21T01:01:00.613421+00:00"
     },
     {
+      "id": "b22b9d8164648b35",
+      "source": "Hürriyet",
+      "title": "SPK, 3 aracı kurumun faaliyetlerini durdurdu",
+      "summary": "SERMAYE Piyasası Kurulu (SPK), Alnus Yatırım, Bulls Yatırım ve Pusula Yatırım Menkul Değerler AŞ’nin sermaye piyasası faaliyetlerini 21 Ekim 2026 saat 00.01 itibarıyla geçici olarak durdurma kararı aldı.",
+      "link": "https://www.hurriyet.com.tr/gundem/spk-3-araci-kurumun-faaliyetlerini-durdurdu-43349173",
+      "published": "2026-10-21T00:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:31.924719+00:00"
+    },
+    {
       "id": "b03537eabdf5c6a6",
       "source": "OdaTV",
       "title": "Devrildikten sonra yanan tankerin sürücüsü hayatını kaybetti",
@@ -2591,6 +2723,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-20T23:40:47.519427+00:00"
+    },
+    {
+      "id": "d4bd40d55a6d5c11",
+      "source": "Türkiye Gazetesi",
+      "title": "ÖĞRETMENİN HAKKI KORUNACAK",
+      "summary": "MEB, 26 Ekim’de başlayacak ortak sınav sistemiyle ilgili eleştirilere cevap verdi. Pilot uygulamanın 11 ilde 1.999 okulda yapıldığını açıklayan Bakanlık, öğretmenlerin soru hazırlama ve puanlama yetkisinin devam edeceğini bildirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/mebden-ortak-sinav-sistemi-aciklamasi-ogretmenin-soz-hakki-korunacak-1824114",
+      "published": "2026-10-20T23:35:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-21T04:55:30.434544+00:00"
     },
     {
       "id": "413a7a513a3c7bad",
@@ -5363,149 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-20T21:10:47.996403+00:00"
-    },
-    {
-      "id": "c29c754af9103a0f",
-      "source": "Sabah",
-      "title": "DİDİM MİLLİ EMLAK MÜDÜRLÜĞÜNDEN TAŞINMAZ SATIŞ İLANI",
-      "summary": "DİDİM MİLLİ EMLAK MÜDÜRLÜĞÜNDEN TAŞINMAZ SATIŞ İLANI Sıra No İli / İlçesi Mahallesi Ada Parsel Yüzölçümü (mamp;sup2;) Hazine Hissesi Cinsi İmar... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/resmi-ilan/2026/10/21/didim-milli-emlak-mudurlugunden-tasinmaz-satis-ilani",
-      "published": "2026-10-20T21:05:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:20:42.639066+00:00"
-    },
-    {
-      "id": "6ec0b733881022b4",
-      "source": "Bianet",
-      "title": "AKP’nin hali, hanehalkı tüketim harcamaları ve bizler: bir şey yapmalı hey!",
-      "summary": "\"Yineleme pahasına bir defa daha paylaşmak istiyorum: sosyalist ve sosyal demokrat partiler, siyasi yapılar başta olmak üzere muhalefetteki partiler, demokratik kitle örgütleri, sendikalar ile kadın, gençlik ve ekoloji hareketleri vb. hep birlikte Bir şey yapmalı hey Bir şey yapmalı hey\"",
-      "link": "https://bianet.org/yazi/akpnin-hali-hanehalki-tuketim-harcamalari-ve-bizler-bir-sey-yapmali-hey-324638",
-      "published": "2026-10-20T21:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T21:05:46.570447+00:00"
-    },
-    {
-      "id": "3fdf84255347eca5",
-      "source": "Milliyet",
-      "title": "Fergani Uzay'ın 6'ncı milli uydusu 'FRG-100D4' uzaya çıktı",
-      "summary": "Baykar Yönetim Kurulu Başkanı ve Teknoloji Lideri Selçuk Bayraktar tarafından kurulan Fergani Uzay Teknolojileri'nin, milli mühendislik kabiliyetiyle geliştirdiği 6'ncı deneme uydusu olan FRG-100D4’ü, 20 Ekim 2026 günü Türkiye saati ile (TSİ) 14.04’de ABD’nin Cape Canaveral Uzay Kuvvetleri Üssü’nden uzaya gönderdi. SpaceX’in Bandwagon-5 görevi kapsamında fırlatılan uydu, fırlatmadan yaklaşık 63 da",
-      "link": "https://www.milliyet.com.tr/gundem/fergani-uzayin-6nci-milli-uydusu-frg-100d4-uzaya-cikti-7684073",
-      "published": "2026-10-20T21:04:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T21:05:38.812965+00:00"
-    },
-    {
-      "id": "8ecf7ae08a2768df",
-      "source": "Karar",
-      "title": "İşveren maliyeti 54 Bin Lirayı aşacak! Yüzdelik zamma göre 2027 net ve brüt asgari ücret tablosu sızdı",
-      "summary": "2027 yılı bütçe teklifinde asgari ücret vergi istisnası için ayrılan kaynağın yüzde 33,7 oranında artırılması, asgari ücret zammı beklentilerini yeniden şekillendirdi.",
-      "link": "https://www.karar.com/ekonomi-haberleri/isveren-maliyeti-54-bin-lirayi-asacak-yuzdelik-zamma-gore-2027-net-ve-2079697",
-      "published": "2026-10-20T21:03:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T21:05:41.949646+00:00"
-    },
-    {
-      "id": "8b82108204571005",
-      "source": "Ekonomim",
-      "title": "BİM’DE KAPIŞ KAPIŞ GİDECEK DEV İNDİRİMLER BAŞLIYOR! SAKIN KAÇIRMAYIN! (BİM 27 EKİM-2 KASIM)",
-      "summary": "BİM, 27 Ekim-2 Kasım tarihleri arasında geçerli aktüel kataloğuyla gıda, deterjan ve kişisel bakımda dev indirim dönemini başlattı! Merakla beklenen fırsatlar belli oldu. 27 Ekim-2 Kasım tarihleri arasında Torku dana kavurma 999 TL, kaşar peyniri 439 TL fiyatıyla öne çıkıyor. Temizlikte Solo Plus tuvalet kağıdı 359 TL, ABC 10 kg toz deterjan ise 379 TL&#039;den raflarda olacak. Ayrıca Nivea Micell",
-      "link": "https://www.ekonomim.com/foto-galeri/aktuel/bimde-kapis-kapis-gidecek-dev-indirimler-basliyor-sakin-kacirmayin-bim-27-ekim-2-kasim-galeri-925984",
-      "published": "2026-10-20T21:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T21:20:57.614280+00:00"
-    },
-    {
-      "id": "291c84c6ab1027ff",
-      "source": "Sabah",
-      "title": "Avrupa’da korku özgürlüğü rafa kaldırdı",
-      "summary": "Fransa’da gençlerin hareketliliğini ve toplanmalarını kısıtlayan önlemler devreye alındı. İtalya’da ise çocuk eylemcilerin önüne geçilmesi için bazı bölgelerde 14 yaşın altındakilerin bir araya gelmesi... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/dunya/avrupada-korku-ozgurlugu-rafa-kaldirdi-7684998",
-      "published": "2026-10-20T21:02:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:05:35.362242+00:00"
-    },
-    {
-      "id": "735e08dc03cf0792",
-      "source": "Aydınlık",
-      "title": "Sarıyer açıklarında karaya oturan BANDA tankeri yüzdürüldü",
-      "summary": "15 Ekim&#039;de Kısırkaya açıklarında karaya oturan Liberya bayraklı BANDA isimli ham petrol tankeri, yürütülen çalışmaların ardından bulunduğu yerden kurtarılarak yüzdürüldü.",
-      "link": "https://www.aydinlik.com.tr/haber/sariyerde-karaya-oturan-banda-tankeri-kurtarildi-595436",
-      "published": "2026-10-20T21:01:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T21:05:43.794963+00:00"
-    },
-    {
-      "id": "9cdef91ad2cdc79a",
-      "source": "Habertürk",
-      "title": "Süper Loto sonuçları açıklandı",
-      "summary": "Haftanın ikinci gününde Süper Loto sonuçları sorgulanıyor. Büyük ikramiyenin kendisine çıkmasını isteyen şans oyunu severler 20 Ekim 2026 Süper Loto çekiliş sonucu kazandıran numaralara odaklandı. Süper Loto çekiliş sonuçları millipiyangoonline ekranı üzerinden yayınlanıyor. Peki, 20 Ekim Süper Loto sonuçları kazandıran numaralar neler? İşte, Milli Piyango Süper Loto çekiliş sonuçları bilet sorgul",
-      "link": "https://www.haberturk.com/bilgi/foto/super-loto-sonuclari-ne-zaman-aciklanacak-20-ekim-milli-piyango-super-loto-cekilis-sonuclari-bilet-sorgulama-ekrani-3921197",
-      "published": "2026-10-20T21:01:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-20T21:05:29.303687+00:00"
-    },
-    {
-      "id": "40acc02998af4328",
-      "source": "Karar",
-      "title": "Yarım asırlık bir fikir ve eylem çınarı",
-      "summary": "Pınar Yayınları’nın kurucusu Cevat Özkaya ebediyete uğurlandı. Usta ismi dostları KARAR’a anlattı: AHMET TAŞGETİREN: Hayatın içinde gerçek bir mücadele adamıydı. BURHANETTİN CAN: Hak ve adalet merkezli 55 yıllık dava insanıydı. ABDULLAH YILDIZ: Çözüm üreten bir dert babası ve herkesin âbisiydi. TEMEL HAZIROĞLU: Entelektüel iklimin erken giden öncüsüydü. VELİ ŞİRİN: Saf Anadolu köy çocuklarının yar",
-      "link": "https://www.karar.com/kultur-sanat-haberleri/yarim-asirlik-bir-fikir-ve-eylem-cinari-2079687",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:50:47.503643+00:00"
-    },
-    {
-      "id": "d584fe04854ad433",
-      "source": "Karar",
-      "title": "Jilet Yılmaz ortalar, Alpay ağları havalandırırdı",
-      "summary": "’70 yılının kasım ayındaki kayıp Mühürdar Bahçesi’nde kalmıştık değil mi? Oradan sizi Bahariye’ye çıkartmak niyetindeydim ama Alpay’ın vefât haberiyle Suâdiye’deki Taç Spor’un toprak sahasına düştüm.",
-      "link": "https://www.karar.com/kultur-sanat-haberleri/jilet-yilmaz-ortalar-alpay-aglari-havalandirirdi-2079688",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:50:47.503664+00:00"
-    },
-    {
-      "id": "5f82f3e1df389432",
-      "source": "Karar",
-      "title": "Fon krizi ve kaderin sunduğu fırsat",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/levent-isik/fon-krizi-ve-kaderin-sundugu-firsat-1609551",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:50:47.503676+00:00"
-    },
-    {
-      "id": "13e86638033e8f72",
-      "source": "Karar",
-      "title": "Galiba bu defa daha derine indi",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/yusuf-ziya-comert/galiba-bu-defa-daha-derine-indi-1609552",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:50:47.503688+00:00"
-    },
-    {
-      "id": "0a7c191e50d1f346",
-      "source": "Karar",
-      "title": "Önce foncular sonra iflaslar",
-      "summary": "",
-      "link": "https://www.karar.com/yazarlar/ibrahim-kahveci/once-foncular-sonra-iflaslar-1609553",
-      "published": "2026-10-20T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T04:50:47.503700+00:00"
     }
   ]
 }

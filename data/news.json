@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-10-22T00:36:08.518475+00:00",
+  "last_updated": "2026-10-22T00:40:55.761279+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 505,
+  "new_items_this_run": 516,
   "items": [
+    {
+      "id": "3b5817afdc6e8705",
+      "source": "OdaTV",
+      "title": "Amasya'da polisten domuza operasyon",
+      "summary": "Amasya&#039;da bir sitedeki binanın içine giren yaban domuzu, polis ekiplerince silahla vurularak etkisiz hale getirildi.",
+      "link": "https://www.odatv.com/guncel/amasyada-polisten-domuza-operasyon-120167730",
+      "published": "2026-10-22T00:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T00:40:42.134679+00:00"
+    },
+    {
+      "id": "0596b912796901c2",
+      "source": "Habertürk",
+      "title": "Polise ateş açtı, bacağından vurularak yakalandı",
+      "summary": "İstanbul Zeytinburnu'nda ihbar üzerine adrese giden polis ekiplerine, şüphelilerden biri silahla ateş açtı. Ekiplerin açılan ateşe karşılık vermesi üzerine bacağından vurulan şüpheli hastaneye kaldırılırken, evdeki diğer şüpheli ise gözaltına alındı",
+      "link": "https://www.haberturk.com/gundem/zeytinburnu-nda-polise-ates-acan-supheli-vurularak-yakalandi-3921579",
+      "published": "2026-10-22T00:29:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T00:40:32.614928+00:00"
+    },
+    {
+      "id": "f3529bd7f9746974",
+      "source": "Finans Gündem",
+      "title": "Suudi Arabistan’da havalimanına saldırı: 1 ölü, 8 yaralı",
+      "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi (GACA), Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını bildirdi.",
+      "link": "https://www.finansingundemi.com/haber/suudi-arabistanda-havalimanina-saldiri-1-olu-8-yarali/1912273",
+      "published": "2026-10-22T00:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T00:40:48.832212+00:00"
+    },
     {
       "id": "1ed11802cdd4404a",
       "source": "Anadolu Ajansı (Güncel)",
@@ -41,6 +74,17 @@
       "fetched_at": "2026-10-22T00:20:42.114697+00:00"
     },
     {
+      "id": "9b7051bee8dd0cf7",
+      "source": "Bir Gün",
+      "title": "Fon düzenlemesi TBMM Genel Kurulu'nda: İlk beş madde kabul edildi",
+      "summary": "TBMM Genel Kurulu'nda tasfiyesine karar verilen yatırım fonlarına ilişkin kanun teklifinin ilk 5 maddesi kabul edildi. Düzenlemeye göre yatırımcılara 1 milyon liraya kadar ara ödeme yapılabilecek, kaynakların yetersiz kalması halinde küçük yatırımcılara öncelik verilebilecek. Fonlardan hukuka aykırı çıkarılan değerlerin tahsili için TMSF devreye girecek.",
+      "link": "https://www.birgun.net/haber/fon-duzenlemesi-tbmm-genel-kurulu-nda-ilk-bes-madde-kabul-edildi-741811",
+      "published": "2026-10-22T00:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T00:40:36.917845+00:00"
+    },
+    {
       "id": "66d5d7b8b844e061",
       "source": "OdaTV",
       "title": "Rumlarda sığınak krizi",
@@ -61,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T00:15:38.967057+00:00"
+    },
+    {
+      "id": "8f7a7cfa37969f56",
+      "source": "Bir Gün",
+      "title": "Fransa'da siber güvenlik alarmı: Valiliklerin internet siteleri erişime kapatıldı",
+      "summary": "Fransa'da PHP programlama dilinde tespit edilen kritik güvenlik açıkları nedeniyle valiliklerin internet siteleri tedbir amaçlı erişime kapatıldı. İçişleri Bakanlığı, güvenlik güncellemeleri tamamlanana kadar valiliklerin duyuru ve acil durum mesajlarının sosyal medya üzerinden paylaşılacağını açıkladı.",
+      "link": "https://www.birgun.net/haber/fransa-da-siber-guvenlik-alarmi-valiliklerin-internet-siteleri-erisime-kapatildi-741810",
+      "published": "2026-10-22T00:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T00:40:36.917889+00:00"
     },
     {
       "id": "775ed7ff2993590e",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:01:08.830598+00:00"
-    },
-    {
-      "id": "ead882d5ba455055",
-      "source": "Ekonomim",
-      "title": "Samsunlu yatırımcı taşı kâğıda dönüştürecek",
-      "summary": "Samsun’un zengin taş rezervleri, Kefeli Ambalaj’ın 30 milyon dolarlık yatırımıyla yüksek katma değerli kâğıda dönüşecek. TÜBİTAK’tan onay alan proje kapsamında kurulacak tesiste yıllık 300 bin ton üretim yapılması, Türkiye’nin kâğıt ithalatının azaltılması ve Samsun’dan dünya pazarlarına ihracat gerçekleştirilmesi hedefleniyor.",
-      "link": "https://www.ekonomim.com/sehirler/samsunlu-yatirimci-tasi-kagida-donusturecek-haberi-926233",
-      "published": "2026-10-21T20:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:05:51.860768+00:00"
-    },
-    {
-      "id": "b60c0d6e4f823919",
-      "source": "Ekonomim",
-      "title": "Emir Sarıgül neden tutuklandı, suçu ne? Emir Sarıgül ne iş yapıyor, evli mi, annesi kim, kaç yaşında?",
-      "summary": "YENİ Parti Milletvekili Mustafa Sarıgül’ün oğlu iş insanı Emir Sarıgül&#039;ün tutuklama istemiyle hakimliğe sevk edildi. Soruşturmada yaşanan gelişmelerin ardından vatandaşlar &quot;Emir Sarıgül suçu ne? Emir Sarıgül ne iş yapıyor, evli mi, annesi kim, nereli, kaç yaşında?&quot; sorularının yanıtı araştırmaya başladı.",
-      "link": "https://www.ekonomim.com/gundem/emir-sarigul-sucu-ne-emir-sarigul-ne-is-yapiyor-evli-mi-annesi-kim-nereli-kac-yasinda-haberi-926215",
-      "published": "2026-10-21T20:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:01:10.395716+00:00"
-    },
-    {
-      "id": "8b564697ae0d04db",
-      "source": "Sözcü",
-      "title": "Mustafa Sarıgül'ün oğlu Emir Sarıgül tutuklandı",
-      "summary": "Mustafa Sarıgül'ün oğlu Emir Sarıgül tutuklandı",
-      "link": "https://www.sozcu.com.tr/emir-sarigul-hakkinda-karar-p371456",
-      "published": "2026-10-21T19:59:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:00:54.889087+00:00"
-    },
-    {
-      "id": "074d3574b42c2a2d",
-      "source": "Cumhuriyet",
-      "title": "Acı severlerin vazgeçilmezi: Atom meze tarifi",
-      "summary": "Yoğurdun ferahlatıcı lezzetiyle acı biberin eşsiz aromasını buluşturan atom meze, özellikle kebap ve et yemeklerinin yanında sıkça tercih ediliyor. Peki, evde lokanta usulü atom meze nasıl yapılır? İşte kıvamı, lezzeti ve püf noktalarıyla pratik atom meze tarifi…",
-      "link": "https://www.cumhuriyet.com.tr/gurme/aci-severlerin-vazgecilmezi-atom-meze-tarifi-2549062",
-      "published": "2026-10-21T19:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:00:52.191329+00:00"
-    },
-    {
-      "id": "907c669388cad448",
-      "source": "Diken",
-      "title": "Telegraph: Bazı Türk savcılar, Almanya'ya sığınmak isteyenlere 'siyasi zulüm' kaydı üretiyor",
-      "summary": "Telegraph: Bazı Türk savcılar, Almanya'ya sığınmak isteyenlere 'siyasi zulüm' kaydı üretiyor 21.10.2026 Diken İngiliz gazetesi The Telegraph’a göre Türkiye’deki bazı savcılar Almanya’dan sığınma talep eden Türkiye vatandaşlarına sahte 'siyasi zulüm' delilleri üretiyor. The post Telegraph: Bazı Türk savcılar, Almanya'ya sığınmak isteyenlere 'siyasi zulüm' kaydı üretiyor appeared first on #site_link",
-      "link": "https://www.diken.com.tr/telegraph-bazi-turk-savcilar-almanyaya-siginmak-isteyenlere-siyasi-zulum-kaydi-uretiyor/?utm_source=rss&utm_medium=rss&utm_campaign=telegraph-bazi-turk-savcilar-almanyaya-siginmak-isteyenlere-siyasi-zulum-kaydi-uretiyor",
-      "published": "2026-10-21T19:58:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:01:04.818171+00:00"
     }
   ]
 }

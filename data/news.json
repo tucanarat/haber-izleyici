@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-10-22T21:16:10.922173+00:00",
+  "last_updated": "2026-10-22T21:21:03.641771+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 466,
+  "new_items_this_run": 483,
   "items": [
+    {
+      "id": "db563f6158dc9e52",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Bournemouth 3-0 Milan",
+      "summary": "UEFA Avrupa Ligi'nin 3. haftasında Milan, Bournemouth deplasmanına konuk oldu. Mücadeleyi ev sahibi ekip 3-0 kazandı.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-bournemouth-3-0-milan-haber-2048477/",
+      "published": "2026-10-22T21:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:43.935237+00:00"
+    },
+    {
+      "id": "43761225b37c0168",
+      "source": "Cumhuriyet",
+      "title": "ABD Başkanı Trump'tan LeBron James'e 'milli marş' tepkisi: Özür bekliyor",
+      "summary": "ABD Başkanı Donald Trump, Amerikan milli marşı okunurken marşı dinlemeyip \"saygısızlık\" yaptığını belirttiği ünlü NBA oyuncusu LeBron James'in Amerikan halkından özür dilemesi gerektiğini belirtti.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/abd-baskani-trump-tan-lebron-james-e-milli-mars-tepkisi-ozur-bekliyor-2549420",
+      "published": "2026-10-22T21:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:35.615412+00:00"
+    },
+    {
+      "id": "8fad71ff6f86aaf0",
+      "source": "Akşam",
+      "title": "Endonezya'yı zehirli duman kapladı: Solunum yolu vakaları 333 bini aştı",
+      "summary": "Endonezya'da aylardır süren orman yangınları nedeniyle 333 binden fazla akut solunum yolu enfeksiyonu vakası kayıtlara geçti.",
+      "link": "https://www.aksam.com.tr/dunya/endonezyayi-zehirli-duman-kapladi-solunum-yolu-vakalari-333-bini-asti/haber-1708484",
+      "published": "2026-10-22T21:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:42.715830+00:00"
+    },
+    {
+      "id": "688009d3efd85a5c",
+      "source": "Star",
+      "title": "Wilfred Ndidi, ilk golünü kaydetti",
+      "summary": "Beşiktaş'ın Nijeryalı orta saha oyuncusu Wilfred Ndidi, Crystal Palace karşısında attığı golle bu sezon ilk kez ağları havalandırdı.",
+      "link": "https://www.star.com.tr/spor/wilfred-ndidi-ilk-golunu-kaydetti-haber-2048476/",
+      "published": "2026-10-22T21:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:43.935257+00:00"
+    },
+    {
+      "id": "fe415c53b31574b8",
+      "source": "Aydınlık",
+      "title": "Hasan Basri Yalçın: Barış ve huzur Diyarbakır'a kazandırıyor",
+      "summary": "Dicle Üniversitesi’nin 2026-2027 Akademik Yıl Açılış Töreni’nde ilk dersi veren AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın, barış ve huzurun Diyarbakır’a katkısına dikkat çekti. Yalçın, Terörsüz Türkiye sürecinin tarihi bir fırsat olduğunu söyledi.",
+      "link": "https://www.aydinlik.com.tr/haber/yalcindan-diyarbakirda-baris-ve-huzur-vurgusu-595746",
+      "published": "2026-10-22T21:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:46.388347+00:00"
+    },
+    {
+      "id": "730c1915cf1bfdfd",
+      "source": "Sözcü",
+      "title": "Son dakika...Fon soruşturmasında 11 tutuklama, 4 ev hapsi",
+      "summary": "Son dakika...Fon soruşturmasında 11 tutuklama, 4 ev hapsi",
+      "link": "https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-11-tutuklama-4-ev-hapsi-p371851",
+      "published": "2026-10-22T21:14:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:38.831029+00:00"
+    },
     {
       "id": "3c0080ab9b9a1717",
       "source": "Habertürk",
@@ -239,6 +305,39 @@
       "fetched_at": "2026-10-22T21:10:51.604085+00:00"
     },
     {
+      "id": "472ce5314dfd2c28",
+      "source": "Türkiye Gazetesi",
+      "title": "Andre Onana maç sonrası trafik kazası geçirdi",
+      "summary": "Trabzonspor'un Kamerunlu yıldızı Andre Onana, Konferans Ligi'ndeki Hearts maçının ardından evine giderken trafik kazası geçirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/andre-onana-trafik-kazasi-gecirdi-1824592",
+      "published": "2026-10-22T21:06:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:38.440699+00:00"
+    },
+    {
+      "id": "472ce5314dfd2c28",
+      "source": "Türkiye Gazetesi",
+      "title": "Andre Onana maç sonrası trafik kazası geçirdi",
+      "summary": "Trabzonspor'un Kamerunlu yıldızı Andre Onana, Konferans Ligi'ndeki Hearts maçının ardından evine giderken trafik kazası geçirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/andre-onana-trafik-kazasi-gecirdi-1824592",
+      "published": "2026-10-22T21:06:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:38.440712+00:00"
+    },
+    {
+      "id": "fd7b1cab8ef24ad0",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Trump'ın, Musk'ı arayarak Ukrayna'daki Starlink hizmetiyle ilgili kısıtlamaları kaldırmasını istediği savunuldu",
+      "summary": "ABD Başkanı Donald Trump'ın, SpaceX CEO'su Elon Musk'ı arayarak, \"Ukrayna'da askeri düzeydeki Starlink projesine getirdiği sınırlamaları kaldırmasını istediği\" iddia edildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/trumpin-muski-arayarak-ukraynadaki-starlink-hizmetiyle-ilgili-kisitlamalari-kaldirmasini-istedigi-savunuldu/4097858",
+      "published": "2026-10-22T21:04:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:35.033797+00:00"
+    },
+    {
       "id": "5c2eb71f7dbe6b2f",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "ABD Başkanı Trump'tan LeBron James'e \"milli marş\" tepkisi",
@@ -259,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T21:10:54.920622+00:00"
+    },
+    {
+      "id": "84828e8bff1a1ba8",
+      "source": "Finans Gündem",
+      "title": "Beşiktaş ile Crystal Palace yenişemedi: 2-2",
+      "summary": "UEFA Avrupa Ligi'nde Beşiktaş, sahasında Crystal Palace ile 2-2 berabere kaldı.",
+      "link": "https://www.finansingundemi.com/haber/besiktas-ile-crystal-palace-yenisemedi-2-2/1912399",
+      "published": "2026-10-22T21:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:56.738958+00:00"
     },
     {
       "id": "f6e03653515439d0",
@@ -1458,6 +1568,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T21:10:52.215950+00:00"
+    },
+    {
+      "id": "83ba59541073d23c",
+      "source": "Bianet",
+      "title": "Arnavutluk: Öğrenci isyanı dinmiyor; akademisyenler boykotta, Başbakan Rama'nın istifası isteniyor",
+      "summary": "Rama'nın 13 yıllık iktidarına karşı öğrenci protestoları 10. gününe girdi. Süresiz boykot başlatan akademisyenler, geçici hükümet kurulmasını istedi. Yolsuzluk, işsizlik, ve polis şiddetine karşı harekete emekli polisler de destek açıkladı. 24 Ekim'de ülke çapında eylem hazırlıkları sürüyor.",
+      "link": "https://bianet.org/haber/arnavutluk-ogrenci-isyani-dinmiyor-akademisyenler-boykotta-basbakan-rama-nin-istifasi-isteniyor-324717",
+      "published": "2026-10-22T20:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:48.764095+00:00"
     },
     {
       "id": "c571342c77113095",
@@ -3097,6 +3218,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T19:30:59.153439+00:00"
+    },
+    {
+      "id": "6dfb51ce6e754ed3",
+      "source": "Habertürk",
+      "title": "Fon soruşturmasında 11 tutuklama talebi",
+      "summary": "Fon soruşturması kapsamında gözaltına alınan 15 şüpheliden 11’i tutuklama, 4'ü ise ev hapsi talebiyle mahkemeye sevk edildi.",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-11-tutuklama-talebi-3921838",
+      "published": "2026-10-22T19:27:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:20:32.074732+00:00"
     },
     {
       "id": "b2b83c4d355d7f06",
@@ -5374,138 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T18:10:58.017067+00:00"
-    },
-    {
-      "id": "3dbc8187428671f9",
-      "source": "Euronews Türkçe",
-      "title": "Yandex saldırılarının bilançosu: Rusya'nın yapay zeka hedefleri de tehlikede",
-      "summary": "Ukrayna'nın Rusya'daki veri merkezlerine düzenlediği İHA saldırıları, ülkenin dijital hizmetlerinde ciddi aksamalara yol açtı. Uzmanlar, Rusya'nın yapay zeka geliştirme hedeflerinin sekteye uğrayabileceğini belirtiyor.",
-      "link": "https://tr.euronews.com/2026/10/22/yandex-saldirilarinin-bilancosu-rusyanin-yapay-zeka-hedefleri-de-tehlikede",
-      "published": "2026-10-22T18:00:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:10:58.017090+00:00"
-    },
-    {
-      "id": "e7fe947f517b0c76",
-      "source": "Star",
-      "title": "Lionel Messi'den Barcelona sözleri! \"Her günün tadını çıkarıyorduk\"",
-      "summary": "Barcelona'nın unutulmaz efsanelerinden Lionel Messi, Katalan ekibinde geçirdiği günlere dair yaptığı açıklamada, \"Her günün tadını çıkarıyorduk\" dedi.",
-      "link": "https://www.star.com.tr/spor/lionel-messiden-barcelona-sozleri-her-gunun-tadini-cikariyorduk-haber-2048441/",
-      "published": "2026-10-22T18:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:01:06.765257+00:00"
-    },
-    {
-      "id": "7d014914a3da2034",
-      "source": "ShiftDelete.Net",
-      "title": "Windows 11 Saç Baş Yolduruyor: Microsoft Güncelleme Yayınladı Hata Çözülmedi",
-      "summary": "Microsoft, Windows 11 Always On VPN bağlantı sorunu için yayınladığı güncellemenin başarısız olduğunu kabul etti. BT yöneticileri için geçici çözüm.",
-      "link": "https://shiftdelete.net/windows-11-always-on-vpn-baglanti-sorunu-cozumu-basarisiz",
-      "published": "2026-10-22T18:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:01:24.478967+00:00"
-    },
-    {
-      "id": "83c5aa9d6a80884a",
-      "source": "Finans Gündem",
-      "title": "Fon soruşturmasında 11 kişi hakkında tutuklama talebi",
-      "summary": "Fon soruşturması kapsamında gözaltına alınan 15 kişiden 11'i tutuklama talebiyle, 4'ü ise ev hapsi şeklinde adli kontrol talebiyle Sulh Ceza Hakimliği'ne sevk edildi.",
-      "link": "https://www.finansingundemi.com/haber/fon-sorusturmasinda-11-kisi-hakkinda-tutuklama-talebi/1912383",
-      "published": "2026-10-22T17:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:05:51.558403+00:00"
-    },
-    {
-      "id": "eb9e1fcb72f51d49",
-      "source": "Türkiye Gazetesi",
-      "title": "ALTINDA SERT DÜŞÜŞ!",
-      "summary": "Petrolün 112,50 dolara kadar yükselmesi, küresel enflasyon endişelerinin artması ve faizlerin daha uzun süre yüksek kalabileceği beklentisi altında sert düşüşü tetikledi. TSİ 20:30 itibarıyla 4.040 dolara kadar gerileyen ons altın, 3 Ağustos’tan bu yana en düşük seviyesini gördü. ABD Nasdaq endeksinde yüzde 2,5’i aşan düşüş de “nakde geçme eğilimini” güçlendirerek altını baskıladı. Spot piyasada g",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/altinda-sert-dusus-ons-11-haftanin-dibinde-1824555",
-      "published": "2026-10-22T17:58:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:01:01.540872+00:00"
-    },
-    {
-      "id": "4a44cef9681c58c4",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İstanbul merkezli yasa dışı \"üreme hücresi\" ticareti operasyonunda yakalanan 8 zanlı tutuklandı",
-      "summary": "İstanbul merkezli 14 ilde düzenlenen yasa dışı \"üreme hücresi\" ticaretine yönelik operasyonda gözaltına alınan 44 şüpheliden 8'inin tutuklandığı, 36'sı hakkında adli kontrol kararı verildiği bildirildi.",
-      "link": "https://www.aa.com.tr/tr/gundem/istanbul-merkezli-yasa-disi-ureme-hucresi-ticareti-operasyonunda-yakalanan-8-zanli-tutuklandi/4097736",
-      "published": "2026-10-22T17:58:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:00:59.030133+00:00"
-    },
-    {
-      "id": "9ded27fbbdeb15af",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Trabzonspor'dan Reis ile \"5'te 5\"",
-      "summary": "UEFA Konferans Ligi'nin 2. haftasında Hearts karşısında 2-0 galip gelen bordo-mavililer, Alman teknik adam yönetiminde 5 resmi karşılaşmasını da kazandı.",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspordan-reis-ile-5te-5/4097734",
-      "published": "2026-10-22T17:56:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T19:10:38.425649+00:00"
-    },
-    {
-      "id": "26637514a510fd82",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Trabzonspor, İskoç ekibi Hearts'ı mağlup etti",
-      "summary": "Trabzonspor, UEFA Konferans Ligi'nin 2. haftasında İskoç ekibi Hearts'ı 2-0 mağlup etti.",
-      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-iskoc-ekibi-heartsi-maglup-etti/4097734",
-      "published": "2026-10-22T17:56:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:45:40.309231+00:00"
-    },
-    {
-      "id": "75e21a3b4089f79e",
-      "source": "Milliyet",
-      "title": "Fransa'da eylemlere karşı Louvre ve bazı müzeler kapatılacak!",
-      "summary": "Yerel basında yer alan haberlere göre, toplumsal huzursuzluğun ve protestoların arttığı Fransa'da hükümet hafta sonu planlanan eylemlere karşı yeni önlemler aldı. Fransa Kültür Bakanlığı 24 Ekim'de valiliklerin eylem yasağına rağmen birçok kentte sokağa inmesi beklenen Sarı Yelekliler'e karşı başkentteki başlıca müzelerin kapatılmasına karar verdi. \"Ziyaretçilerin ve çalışanların güvenliği ve eser",
-      "link": "https://www.milliyet.com.tr/dunya/fransada-eylemlere-karsi-louvre-ve-bazi-muzeler-kapatilacak-7685618",
-      "published": "2026-10-22T17:56:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:01:04.611036+00:00"
-    },
-    {
-      "id": "5dc726a0a84d61c4",
-      "source": "Yeni Şafak",
-      "title": "Fon soruşturmasında 11 tutuklama",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında gözaltına alınan 15 şüpheliden 11'i tutuklandı, 4 şüpheli hakkında ise ev hapsi kararı verildi.",
-      "link": "https://www.yenisafak.com/gundem/fon-sorusturmasinda-11-tutuklama-4866560",
-      "published": "2026-10-22T17:56:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T21:15:47.941093+00:00"
-    },
-    {
-      "id": "65ff6d4d7d628f62",
-      "source": "Yeni Şafak",
-      "title": "Fon soruşturmasında 11 kişiye tutuklama talebi",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında gözaltına alınan 15 kişinin adliyedeki işlemleri tamamlandı. Şüphelilerden 11'i tutuklama, 4'ü ise ev hapsi talebiyle mahkemeye sevk edildi.",
-      "link": "https://www.yenisafak.com/gundem/fon-sorusturmasinda-11-kisiye-tutuklama-talebi-4866560",
-      "published": "2026-10-22T17:56:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:01:06.252473+00:00"
-    },
-    {
-      "id": "829c63e454db8040",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Arap ülkeleri ile bazı kurumlar, Husilerin Suudi Arabistan'daki havalimanına yönelik saldırısını kınadı",
-      "summary": "Katar, Birleşik Arap Emirlikleri (BAE), Kuveyt, Bahreyn, Ürdün, Yemen ile Ezher Kurumu ve Arap İçişleri Bakanları Konseyi, İran destekli Husilerin Suudi Arabistan'ın Dammam kentindeki Kral Fahd Uluslararası Havalimanı'na yönelik saldırısını kınadı.",
-      "link": "https://www.aa.com.tr/tr/dunya/arap-ulkeleri-ile-bazi-kurumlar-husilerin-suudi-arabistandaki-havalimanina-yonelik-saldirisini-kinadi/4097732",
-      "published": "2026-10-22T17:55:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:15:34.822549+00:00"
     }
   ]
 }

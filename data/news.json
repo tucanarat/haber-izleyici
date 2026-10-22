@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-22T03:55:49.287534+00:00",
+  "last_updated": "2026-10-22T04:01:12.191780+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 514,
+  "new_items_this_run": 513,
   "items": [
+    {
+      "id": "2e7ca975ea834e04",
+      "source": "Star",
+      "title": "Tuzla Organize Sanayi Bölgesi'nde fabrika yangını",
+      "summary": "Tuzla Organize Sanayi Bölgesi'ndeki bir ayakkabı fabrikasında çıkan yangına itfaiye ekipleri tarafından müdahale ediliyor.",
+      "link": "https://www.star.com.tr/guncel/tuzla-organize-sanayi-bolgesinde-fabrika-yangini-haber-2048241/",
+      "published": "2026-10-22T03:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T04:00:58.326430+00:00"
+    },
+    {
+      "id": "03f439e43a753d26",
+      "source": "OdaTV",
+      "title": "İş yerine silahlı saldırı: 15 yaşındaki çocuk vuruldu",
+      "summary": "Adana&#039;da ailesine ait iş yerinde kasada oturan 15 yaşındaki Nurmuhammed Musaoğlu&#039;nu tabancayla başından vurarak ağır yaralayan 17 yaşındaki şüpheli A.E. yakalandı.",
+      "link": "https://www.odatv.com/guncel/adanada-is-yerine-silahli-saldiri-15-yasindaki-nurmuhammed-musaoglu-vuruldu-120167733",
+      "published": "2026-10-22T03:56:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T04:01:00.614451+00:00"
+    },
     {
       "id": "f80d304cde51d01d",
       "source": "Türkiye Gazetesi",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T02:20:30.232920+00:00"
-    },
-    {
-      "id": "65053d6a843987f3",
-      "source": "DonanımHaber",
-      "title": "PHP krizi büyüyor: FBI kurumları uyardı",
-      "summary": "Günümüzde sayısız devlet kurumunun PHP altyapısı üzerinde hizmetlerini sunması büyük bir krizi de beraberinde getirdi. PHP kodlarındaki açık bütün interneti etkisi altına aldı.",
-      "link": "https://www.donanimhaber.com/internet-dunyasi-diken-ustunde--211936",
-      "published": "2026-10-21T20:50:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:51:06.373732+00:00"
-    },
-    {
-      "id": "749a5d27cdbd48cd",
-      "source": "OdaTV",
-      "title": "Akıl almaz olay: Eşine tavuk satan kasabı öldürdü",
-      "summary": "İstanbul Bayrampaşa’da bir şahıs, boşanma aşamasındaki eşinin restoranına toptan et ve tavuk satan kasabı sokak ortasında bıçaklayarak öldürdü.",
-      "link": "https://www.odatv.com/guncel/bayrampasada-esine-tavuk-satan-kasabi-oldurdu-120167717",
-      "published": "2026-10-21T20:49:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:50:49.486514+00:00"
     }
   ]
 }

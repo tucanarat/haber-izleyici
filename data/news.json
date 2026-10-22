@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-10-22T21:35:55.298698+00:00",
+  "last_updated": "2026-10-22T21:41:05.531255+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 485,
+  "new_items_this_run": 458,
   "items": [
+    {
+      "id": "a88761545518de82",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Monaco 3-0 Freiburg",
+      "summary": "UEFA Konferans Ligi'nin 2. haftasında Monaco ile Freiburg karşı karşıya geldi. Mücadeleyi ev sahibi ekip 3-0 kazandı.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-monaco-3-0-freiburg-haber-2048480/",
+      "published": "2026-10-22T21:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:45.787196+00:00"
+    },
+    {
+      "id": "10287ec24efa4e8c",
+      "source": "Yeniçağ",
+      "title": "Beşiktaş'ta Fabio Miretti Crystal Palace maçında sakatlandı",
+      "summary": "Beşiktaş&#039;ın İtalyan orta saha oyuncusu Fabio Miretti, Crystal Palace karşılaşmasının 39. dakikasında omzundan sakatlanarak oyuna devam edemedi. 23 yaşındaki futbolcunun yerine Salih Özcan dahil oldu.",
+      "link": "https://www.yenicaggazetesi.com/besiktasta-fabio-miretti-crystal-palace-macinda-sakatlandi-1084325h.htm",
+      "published": "2026-10-22T21:39:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:46.942071+00:00"
+    },
+    {
+      "id": "7b59d94dde37cb40",
+      "source": "Yeniçağ",
+      "title": "Çukurova Belediye Başkanı tutuklandı",
+      "summary": "Çukurova Belediyesi&#039;ne yönelik &quot;ihale ve doğrudan teminlerde yolsuzluk&quot; iddiasıyla yürütülen soruşturma kapsamında Belediye Başkanı Emrah Kozay tutuklandı.",
+      "link": "https://www.yenicaggazetesi.com/cukurova-belediye-baskani-tutuklandi-1084326h.htm",
+      "published": "2026-10-22T21:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:46.942109+00:00"
+    },
+    {
+      "id": "0e681de1eb158f36",
+      "source": "CNBC-e",
+      "title": "Putin’den Ukrayna'ya mesajı: Barışa hazırız! Ateşkes değil, kalıcı anlaşma istiyoruz",
+      "summary": "Rusya Devlet Başkanı Vladimir Putin, Ukrayna ile barış anlaşmasına hazır olduklarını söyledi. Zelenski’nin toprak kaybını kabul etmeye hazır olduğu yönündeki açıklamasını reddeden Putin, Rusya’nın kontrolündeki bölgelerin Ukrayna toprağı olmadığını savundu.",
+      "link": "https://www.cnbce.com/haberler/putinden-ukraynaya-mesaji-barisa-haziriz-ateskes-degil-kalici-anlasma-istiyoruz-h40112",
+      "published": "2026-10-22T21:37:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:57.593417+00:00"
+    },
+    {
+      "id": "85aa6e376cd5d811",
+      "source": "Cumhuriyet",
+      "title": "Junior Olaitan'dan galibiyet açıklaması: 'Beşiktaş'ta oynamanın ne demek olduğunu gösterdik'",
+      "summary": "Beşiktaş'ın Beninli futbolcusu Junior Olaitan, 2-2 berabere kaldıkları Crystal Palace maçının ardından görüşlerini aktardı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/junior-olaitan-dan-galibiyet-aciklamasi-besiktas-ta-oynamanin-ne-demek-oldugunu-gosterdik-2549429",
+      "published": "2026-10-22T21:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:39.766238+00:00"
+    },
+    {
+      "id": "6ac8f01124d256a8",
+      "source": "Habertürk",
+      "title": "Trump'tan İran açıklaması: Belki biraz daha ileri gidebiliriz",
+      "summary": "ABD Başkanı Donald Trump, İran'a birçok açıdan ciddi zarar verdiklerini savunarak, \"Belki biraz daha ileri gidebiliriz.\" dedi.",
+      "link": "https://www.haberturk.com/dunya/trump-tan-iran-aciklamasi-belki-biraz-daha-ileri-gidebiliriz-3921878",
+      "published": "2026-10-22T21:36:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:36.094717+00:00"
+    },
+    {
+      "id": "71b13e13a4ce092c",
+      "source": "Yeni Şafak",
+      "title": "Eyüpsultan'da kolonlardan gelen ses korkuttu, vatandaşlar apar topar tahliye edildi: Beş katlı bina boşaltıldı",
+      "summary": "İstanbul Eyüpsultan’da beş katlı binanın kolonlarından ses gelmesi üzerine vatandaşlar tahliye edildi. Çalışma sonrası zabıta ekipleri tedbir amaçlı binayı mühürledi.",
+      "link": "https://www.yenisafak.com/galeri/gundem/eyupsultanda-kolonlardan-gelen-ses-korkuttu-vatandaslar-apar-topar-tahliye-edildi-bes-katli-bina-bosaltildi-4866606",
+      "published": "2026-10-22T21:35:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:45.393872+00:00"
+    },
+    {
+      "id": "8fedba7fd20364cd",
+      "source": "Habertürk",
+      "title": "Zemini çöken binada 40 kişi tahliye edildi",
+      "summary": "Mersin’in Yenişehir ilçesinde 3 katlı bir binanın zemininde meydana gelen çökme nedeniyle 40 kişi tedbir amaçlı tahliye edildi. Yoğun yağışların ardından yaşandığı belirtilen olay sonrası bina sakinleri belediyeye ait misafirhaneye yerleştirildi.",
+      "link": "https://www.haberturk.com/gundem/zemini-coken-binada-40-kisi-tahliye-edildi-3921869",
+      "published": "2026-10-22T21:33:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:36.094763+00:00"
+    },
     {
       "id": "7714ec1f765e60b7",
       "source": "Akşam",
@@ -28,6 +116,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T21:35:35.382462+00:00"
+    },
+    {
+      "id": "3b65efde99bd8fa8",
+      "source": "Habertürk",
+      "title": "Beşiktaş'ta kale düştü!",
+      "summary": "UEFA Avrupa Ligi'nin 2. haftasında İngiliz ekibi Crystal Palace'ı evinde konuk eden Beşiktaş, zorlu mücadeleden 2-2'lik beraberlikle ayrıldı. Bu sezon ilk kez evinde puan kaybı yaşayan siyah-beyazlılar, sezon başında kalesinde gol görmezken şimdi ise kalesini gole kapatmakta zorlanıyor.",
+      "link": "https://www.haberturk.com/spor/foto/crystal-palace-ile-berabere-kalan-besiktas-ta-kale-dustu-3921874",
+      "published": "2026-10-22T21:32:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:36.094798+00:00"
     },
     {
       "id": "9cdbadc9958e7a27",
@@ -107,6 +206,17 @@
       "fetched_at": "2026-10-22T21:31:01.928580+00:00"
     },
     {
+      "id": "b79d8538952320cd",
+      "source": "Habertürk",
+      "title": "\"Kırmızı karttan sonra 1 puana razı olduk\"",
+      "summary": "Beşiktaş'ın oyuncularından Junior Olaitan, UEFA Avrupa Ligi'nin 3. haftasında 2-2 berabere kaldıkları Crystal Palace maçının ardından açıklamalarda bulundu. 77. dakikada Ümit Akdağ'ın gördüğü kırmızı kartla 10 kişi kaldıktan sonra beraberliğe razı olduklarını belirten Olaitan, \"Crystal Palace iyi bir takım. Onlara karşı mücadele ettik. Kırmızı karttan sonra 1 puana razı olduk diyebilirim. İyi bir ",
+      "link": "https://www.haberturk.com/spor/junior-olaitan-kirmizi-karttan-sonra-1-puana-razi-olduk-3921876",
+      "published": "2026-10-22T21:29:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:36.094890+00:00"
+    },
+    {
       "id": "6d0ebb42797437d8",
       "source": "Yeniçağ",
       "title": "Uşak Belediyesi soruşturması: Eski CHP'li il başkanı dahil 6 tahliye",
@@ -116,6 +226,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T21:31:00.613028+00:00"
+    },
+    {
+      "id": "396ea1c00f3e404b",
+      "source": "Habertürk",
+      "title": "Cuma namazı saat kaçta?",
+      "summary": "Cuma namazı saati İstanbul, Ankara, İzmir başta olmak üzere 81 il için araştırılmaya başladı. Namaz vaktini kaçırmak istemeyen Müslümanlar ezan saatlerini Diyanet namaz vakitleri listesinden öğreniyor. Öğle ezanı vaktinde eda edilecek namaz cemaatle birlikte kılınacak. Peki, 23 Ekim bugün Cuma namazı saat kaçta okunacak?",
+      "link": "https://www.haberturk.com/bilgi/foto/il-il-cuma-namazi-saati-23-ekim-2026-diyanet-ile-istanbul-ankara-izmir-de-cuma-namazi-saat-kacta-kilinacak-3921875",
+      "published": "2026-10-22T21:29:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:36.094925+00:00"
     },
     {
       "id": "49b8c735a9d7292b",
@@ -171,6 +292,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T21:25:43.274643+00:00"
+    },
+    {
+      "id": "4501d6a1fe82c80e",
+      "source": "Habertürk",
+      "title": "Manisa'da 225 bin sentetik uyuşturucu hap ele geçirildi",
+      "summary": "Manisa'da durdurulan otomobilde 225 bin 960 sentetik uyuşturucu hap ele geçirildi, gözaltına alınan 2 şüpheli tutuklandı",
+      "link": "https://www.haberturk.com/gundem/manisa-da-225-bin-sentetik-uyusturucu-hap-ele-gecirildi-3921873",
+      "published": "2026-10-22T21:25:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T21:40:36.094951+00:00"
     },
     {
       "id": "12444f5523be155a",
@@ -5374,138 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T20:05:28.502123+00:00"
-    },
-    {
-      "id": "ac1c99653185e6e5",
-      "source": "Milliyet",
-      "title": "Macron duyurdu: Fransa'da yağma ve şiddet olaylarının ardından 'yasaklama' kararı!",
-      "summary": "Fransa Cumhurbaşkanı Macron, Elysee Sarayı'nda Güvenlik Konseyi toplantısı öncesi basına açıklamalarda bulundu. Macron, \"Gelecek gün ve haftalarda sendikal örgütler tarafından talep edilmeyen eylemler yasaklanacak.\" ifadelerini kullandı. \"Meşru\" örgütlerin düzenlemediği eylemlere ilişkin Macron, \"Yapabildiğimiz her yerde engelleyeceğiz.\" dedi. Öte yandan sendikalar tarafından organize edilen göste",
-      "link": "https://www.milliyet.com.tr/dunya/macron-duyurdu-fransada-yagma-ve-siddet-olaylarinin-ardindan-yasaklama-karari-7685627",
-      "published": "2026-10-22T18:25:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:30:56.310746+00:00"
-    },
-    {
-      "id": "b4ad593e2b5672d4",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "BM: Yemen’deki çatışmalarda ağustos başından bu yana 66 sivil öldü, 196 kişi yaralandı",
-      "summary": "Birleşmiş Milletler (BM), Yemen'de devam eden çatışmalarda sivillerin ağır bedeller ödediğini belirterek, ağustos başından bu yana yarısından fazlası çocuk 66 sivilin öldüğünü ve 196 kişinin de yaralandığını açıkladı.",
-      "link": "https://www.aa.com.tr/tr/dunya/bm-yemen-deki-catismalarda-agustos-basindan-bu-yana-66-sivil-oldu-196-kisi-yaralandi/4097760",
-      "published": "2026-10-22T18:24:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T19:15:39.742988+00:00"
-    },
-    {
-      "id": "846d686583fbc2b9",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Rusya: İsrail'e yönelik tepkilerin nedeni kendi yönetiminin politikaları",
-      "summary": "Rusya Dışişleri Bakanlığı, dünyada İsrail'e yönelik tutumun \"yalnızca ülke yönetiminin izlediği politikalar doğrultusunda şekillendiğini\" bildirdi.",
-      "link": "https://www.aa.com.tr/tr/dunya/rusya-israile-yonelik-tepkilerin-nedeni-kendi-yonetiminin-politikalari/4097759",
-      "published": "2026-10-22T18:24:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T19:01:00.021325+00:00"
-    },
-    {
-      "id": "994ad9b5f867980c",
-      "source": "Akşam",
-      "title": "Amerikan kamuoyunda İsrail erimesi: AIPAC pes etti, lobi taktik değiştirdi",
-      "summary": "ABD kamuoyunda İsrail'e desteğin giderek erimesinin ardından 3 Kasım'da düzenlenecek ara seçimlerden önce taktik değiştiren İsrail yanlısı lobi grubu Amerikan-İsrail Halkla İlişkiler Komitesi (AIPAC), bundan sonra seçimlerde adaylara doğrudan destek vermeyi ve belli orandaki bağışları sonlandıracağını açıkladı.",
-      "link": "https://www.aksam.com.tr/dunya/amerikan-kamuoyunda-israil-erimesi-aipac-pes-etti-lobi-taktik-degistirdi/haber-1708461",
-      "published": "2026-10-22T18:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:25:36.901749+00:00"
-    },
-    {
-      "id": "b46b4ef053719608",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Nobel ödüllü Prof. Dr. Aziz Sancar Diyarbakır'da beyin kanseriyle ilgili çalışmasını anlattı",
-      "summary": "Nobel ödüllü Türk akademisyen Prof. Dr. Aziz Sancar, \"Biz farelerde tedavi konusunda önemli ilerleme yaptık fakat bu insanlarda çalışır mı, çalışmaz mı bilmiyorum. Bunu bilmek için daha çok çalışmalar yapmak lazım.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/gundem/nobel-odullu-prof-dr-aziz-sancar-diyarbakirda-beyin-kanseriyle-ilgili-calismasini-anlatti/4097757",
-      "published": "2026-10-22T18:23:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:55:28.761083+00:00"
-    },
-    {
-      "id": "67232632bb3c5386",
-      "source": "Star",
-      "title": "Tim Jabol Folcarelli, 174 gün sonra ilk 11'de kendine yer buldu",
-      "summary": "UEFA Konferans Ligi'nin ikinci haftasında sahasında İskoçya'nın Hearts takımını konuk eden Trabzonspor'da Tim Jabol Folcarelli, 174 gün sonra ilk 11'de kendine yer buldu",
-      "link": "https://www.star.com.tr/spor/tim-jabol-folcarelli-174-gun-sonra-ilk-11de-kendine-yer-buldu-haber-2048447/",
-      "published": "2026-10-22T18:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:25:37.890984+00:00"
-    },
-    {
-      "id": "01357c26f7f610cc",
-      "source": "Sözcü",
-      "title": "Merkez Bankası'ndan gelen karar borsayı vurdu",
-      "summary": "Merkez Bankası'ndan gelen karar borsayı vurdu",
-      "link": "https://www.sozcu.com.tr/merkez-bankasi-ndan-gelen-karar-borsayi-vurdu-p371813",
-      "published": "2026-10-22T18:22:43+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:25:33.648553+00:00"
-    },
-    {
-      "id": "dbf3edc0fed92119",
-      "source": "Yeniçağ",
-      "title": "Yakışıklı Mısırcı'nın 6,5 milyon TL'lik reklam anlaşması yaptığı iddia edildi",
-      "summary": "Karaköy&#039;de mısır ve kestane satarken çekilen bir videoyla tanınan Alper Temel&#039;in, bir markanın reklam filmi için 6,5 milyon TL&#039;lik anlaşmaya imza attığı öne sürüldü. “Yakışıklı Mısırcı” olarak tanınan Temel&#039;in ünü Çin&#039;e kadar ulaştı.",
-      "link": "https://www.yenicaggazetesi.com/yakisikli-misircinin-65-milyon-tllik-reklam-anlasmasi-yaptigi-iddia-edildi-1084306h.htm",
-      "published": "2026-10-22T18:22:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:25:39.155624+00:00"
-    },
-    {
-      "id": "bc3fcb8e6a6a4567",
-      "source": "Yeni Şafak",
-      "title": "Dücane Cündioğlu’nun algısı metnin hakikatine çarptı: İbrahim Paşalı'nın yazısı bağlamından nasıl koparıldı?",
-      "summary": "Son dönemde kulvar değiştirerek seküler mahallenin popüler isimlerinden biri haline gelen Dücane Cündioğlu, dün akşamki canlı yayınında, isim vermeden Halk TV'ye kayyum olarak görevlendirilen İbrahim Paşalı'yı hedef aldı. Paşalı'nın geçmişte kendisinin 'kulvar değiştirişini' eleştirdiği ve 'Ara Sokakların Tarihi' kitabına gönderme yaptığı, 'Cündioğlu'nu Ara Sokaklara Geri Çağırmalı' başlıklı yazıs",
-      "link": "https://www.yenisafak.com/gundem/ducane-cundioglunun-algisi-metnin-hakikatine-carpti-ibrahim-pasalinin-yazisi-baglamindan-nasil-koparildi-4866565",
-      "published": "2026-10-22T18:22:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:25:37.550857+00:00"
-    },
-    {
-      "id": "e10627e184151c02",
-      "source": "Star",
-      "title": "Yemen'de ağustos başından bu yana 66 sivil çatışmalarda öldü",
-      "summary": "Birleşmiş Milletler (BM), Yemen'de devam eden çatışmalarda sivillerin ağır bedeller ödediğini belirterek, ağustos başından bu yana yarısından fazlası çocuk 66 sivilin öldüğünü ve 196 kişinin de yaralandığını açıkladı.",
-      "link": "https://www.star.com.tr/dunya/yemende-agustos-basindan-bu-yana-66-sivil-catismalarda-oldu-haber-2048446/",
-      "published": "2026-10-22T18:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:25:37.891021+00:00"
-    },
-    {
-      "id": "4067cd340aebc2b4",
-      "source": "Evrensel",
-      "title": "Fon vurgunu yasası eleştirilerle kabul edildi | Yeni Partili Konuralp: “Asıl skandal, fon vurgununu önleyebilecek olanların müdahale etmemesi”",
-      "summary": "TBMM'de görüşülen fon vurgunu ile ilgili yasa tasarısı eleştirilerle kabul edildi. Yeni Parti'li Konuralp, denetim ve müdahale sorumluluğunu vurgulayarak, \"Asıl skandal, birilerinin ne yaptığı değil, bunu önleyebilecek olanların yapmadığıdır\" dedi.",
-      "link": "https://www.evrensel.net/haber/6006196/fon-vurgunu-yasasi-elestirilerle-kabul-edildi-yeni-partili-konuralp-asil-skandal-fon-vurgununu-onleyebilecek-olanlarin-mudahale-etmemesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-22T18:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:25:33.855213+00:00"
-    },
-    {
-      "id": "d23da6621ce34310",
-      "source": "Star",
-      "title": "Kanada ve Türkiye arasında kritik temas! Bakan Bayraktar: Gündemimizin merkezinde nükleer enerji vardı",
-      "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Kanada Başbakanı Mark Carney'in tarihi Ankara ziyaretinde, enerjide iş birliğinin ana gündem başlıklarından biri olduğunu bildirdi. Bayraktar, \"Gündemimizin merkezinde, Türkiye'nin uzun vadeli enerji arz güvenliğinde stratejik bir yere sahip olan nükleer enerji vardı. Kanada'nın CANDU reaktör teknolojisinin ülkemizde uygulanabilirliğinin değerl",
-      "link": "https://www.star.com.tr/ekonomi/kanada-ve-turkiye-arasinda-kritik-temas-bakan-bayraktar-gundemimizin-merkezinde-nukleer-enerji-vardi-haber-2048445/",
-      "published": "2026-10-22T18:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T18:20:47.386700+00:00"
     }
   ]
 }

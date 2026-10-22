@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-10-22T13:46:06.214081+00:00",
+  "last_updated": "2026-10-22T13:51:06.804347+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 539,
+  "new_items_this_run": 547,
   "items": [
+    {
+      "id": "61d75292307061e7",
+      "source": "Akşam",
+      "title": "Geleceğe Ayrılan Pay",
+      "summary": "34 yıldır bireylerin ev, araç ve iş yeri sahibi olma hedeflerine ortak olan Fuzul Tasarruf Finansman AŞ; büyüme yolculuğunu yalnızca finansal göstergelerle sınırlamayıp çalışan gelişimine, sanata ve spora ayırdığı kaynaklarla kalıcı bir toplumsal değere dönüştürüyor.",
+      "link": "https://www.aksam.com.tr/guncel/gelecege-ayrilan-pay/haber-1708406",
+      "published": "2026-10-22T13:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:44.375378+00:00"
+    },
+    {
+      "id": "9ec49199f04b9fd5",
+      "source": "Webrazzi",
+      "title": "HUBrica 3. dönem Demo Day'inde sunum yapan 10 girişim",
+      "summary": "Halkbank'ın İTÜ ARI Teknokent iş birliğiyle hayata geçirdiği HUBrica Hızlandırma Programı'nın 3. dönemi sona erdi. İstanbul Finans Merkezi'ndeki Halkbank Kuleleri'nde gerçekleştirilen Demo Day'de, pro...",
+      "link": "https://webrazzi.com/2026/10/22/hubrica-3-donem-demo-day-inde-sunum-yapan-10-girisim/",
+      "published": "2026-10-22T13:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:59.880228+00:00"
+    },
+    {
+      "id": "01d41344e15b0deb",
+      "source": "CNBC-e",
+      "title": "Katar, ABD'den 24 yıl boyunca LNG alacak: Yıllık miktar 4 milyon ton",
+      "summary": "Katar Enerji, ABD'li Cheniere Energy ile 2031-2054 döneminde yılda 4 milyon tona kadar sıvılaştırılmış doğal gaz (LNG) satın almak üzere iki uzun vadeli anlaşma imzaladı.",
+      "link": "https://www.cnbce.com/enerji/katar-abdden-24-yil-boyunca-lng-alacak-yillik-miktar-4-milyon-ton-h40084",
+      "published": "2026-10-22T13:49:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:58.550436+00:00"
+    },
+    {
+      "id": "4fd76e829a6c3bd3",
+      "source": "Yeniçağ",
+      "title": "Karadeniz'de palamut istilası iddiası: Diğer canlılara yaşam alanı bırakmıyor",
+      "summary": "Karadeniz&#039;de palamut bolluğu fiyatları 30 TL&#039;ye kadar düşürdü. Samsun Bölgesi Su Ürünleri Kooperatifleri Birliği Başkanı Atıf Malkoç, palamutların diğer deniz canlılarını tükettiğini savunarak avcılığın artırılması ve balıkların uygun fiyatlarla halka ulaştırılması çağrısında bulundu.",
+      "link": "https://www.yenicaggazetesi.com/karadenizde-palamut-istilasi-iddiasi-diger-canlilara-yasam-alani-birakmiyor-1084242h.htm",
+      "published": "2026-10-22T13:49:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:47.656078+00:00"
+    },
+    {
+      "id": "7958b61f136c7322",
+      "source": "Karar",
+      "title": "Yeniden Refah’tan Ömer Çelik’e 'Azerbaycan' tepkisi: Sizi dinlerken biz utandık",
+      "summary": "Yeniden Refah Partisi Genel Başkan Yardımcısı Muhammed Fatih Müjdeci, Azerbaycan’daki inanç hürriyeti kısıtlamalarına ve iktidarın tutumuna tepki gösterdi. AK Parti Sözcüsü Ömer Çelik’in, ‘Cenap Prezident Sayın Aliyev’ açıklamalarını eleştiren Müjdeci, \"Sizi dinlerken ben utandım, AK Parti’ye oy veren mütedeyyin kesim size bu cümleleri kullanmanız için mi oy verdi?\" dedi.",
+      "link": "https://www.karar.com/guncel-haberler/yeniden-refahtan-omer-celike-azerbaycan-tepkisi-sizi-dinlerken-biz-2080056",
+      "published": "2026-10-22T13:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:46.945019+00:00"
+    },
+    {
+      "id": "011d4aa8bc739c3f",
+      "source": "Türkiye Gazetesi",
+      "title": "Orman yangınından etkilenen alana 1 milyondan fazla fidan dikilecek",
+      "summary": "Kahramanmaraş'ta geçen yıl yanan orman sahasını yeniden yeşillendirme çalışmalarında sona yaklaşıldı. Bölgedeki zemin hazırlıklarının yüzde 90'ını tamamlayan ekipler, kızılçam ve meyve türlerinden oluşan 1 milyondan fazla fidanı toprakla buluşturmaya hazırlanıyor. Elektrik hattından kaynaklandığı belirlenen yangınla ilgili hukuki sürecin devam ettiği ve yaklaşık 600 milyon liralık tazminat bedeli ",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/kahramanmarasta-orman-yanginindan-etkilenen-alana-1-milyondan-fazla-fidan-dikilecek-1824512",
+      "published": "2026-10-22T13:48:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:41.073634+00:00"
+    },
+    {
+      "id": "257f3b7d57a8cfdd",
+      "source": "Cumhuriyet",
+      "title": "Tanju Özcan'dan 'kedi metaforu' açıklaması",
+      "summary": "Bolu Belediye Başkanı Tanju Özcan, mahkemedeki savunmasında kullandığı “kedi” benzetmesine ilişkin sosyal medyadan açıklama yaptı. Sözlerinin yanlış anlaşıldığını savunan Özcan, “Benden beklenen, kedi gibi olmam dedim” ifadelerini kullanarak kendisine yönelik yorumlara tepki gösterdi.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/tanju-ozcan-dan-kedi-metaforu-aciklamasi-2549323",
+      "published": "2026-10-22T13:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:39.887533+00:00"
+    },
+    {
+      "id": "37e99556b0a19d16",
+      "source": "Star",
+      "title": "Okul çıkışı başıboş köpek dehşeti! 2. sınıf öğrencisine 15 dikiş atıldı",
+      "summary": "Şanlıurfa'nın Viranşehir ilçesinde okul çıkışı sokak köpeklerinin saldırısına uğrayan ilkokul öğrencisi yaralandı. Hastaneye kaldırılan çocuğun başına 15 dikiş atıldı.",
+      "link": "https://www.star.com.tr/yasam/okul-cikisi-basibos-kopek-dehseti-2-sinif-ogrencisine-15-dikis-atildi-haber-2048389/",
+      "published": "2026-10-22T13:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:45.668685+00:00"
+    },
+    {
+      "id": "beb5c52379f2d31a",
+      "source": "Yeni Şafak",
+      "title": "Mekke Anlaşması Salı günü Dışişleri Komisyonu’nda görüşülecek",
+      "summary": "TBMM Dışişleri Komisyonu Başkanı Fuat Oktay, Mekke Anlaşması'nın gelecek hafta salı günü Meclis Dışişleri Komisyonu’nda görüşüleceğini bildirdi.",
+      "link": "https://www.yenisafak.com/gundem/mekke-anlasmasi-sali-gunu-disisleri-komisyonunda-gorusulecek-4866513",
+      "published": "2026-10-22T13:47:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:45.257793+00:00"
+    },
+    {
+      "id": "3e09eabcb659ef57",
+      "source": "CNBC-e",
+      "title": "Meta hisselerinde sert düşüş: Beklentileri aşan bilanço satışları engelleyemedi",
+      "summary": "Meta Platforms hisseleri, üçüncü çeyrekte gelir ve kârın piyasa beklentilerini aşmasına rağmen yüzde 5,4 geriledi. Şirketin hisseleri, 30 Temmuz'dan bu yana en sert gün içi düşüşünü yaşadı.",
+      "link": "https://www.cnbce.com/haberler/meta-hisselerinde-sert-dusus-beklentileri-asan-bilanco-satislari-engelleyemedi-h40083",
+      "published": "2026-10-22T13:47:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:58.550463+00:00"
+    },
+    {
+      "id": "e9cf91222802f7e5",
+      "source": "Akşam",
+      "title": "Yeşilçam'ın 4 Yapraklı Yonca'sı... Bakın Altın Portakal ödülünü ilk hangi filmleriyle aldılar!",
+      "summary": "Türk sinemasının önemli oyuncularından Hülya Koçyiğit, Türkan Şoray, Filiz Akın ve Fatma Girik, Yeşilçam'ın dört yapraklı yoncası olarak hafızalara kazındılar. Peki bu isimler, Altın Portakal'daki ilk En İyi Kadın Oyuncu ödüllerini hangi filmleriyle kazandılar? İşte sinema tarihine geçen o yapımlar…",
+      "link": "https://www.aksam.com.tr/sinema/yesilcamin-4-yaprakli-yoncasi-bakin-altin-portakal-odulunu-ilk-hangi-filmleriyle-aldilar/haber-1708405",
+      "published": "2026-10-22T13:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:44.375410+00:00"
+    },
+    {
+      "id": "fc84e5007d593aef",
+      "source": "Star",
+      "title": "Mekke Anlaşması gelecek hafta komisyonda görüşülecek",
+      "summary": "TBMM Dışişleri Komisyonu Başkanı Fuat Oktay, Mekke Anlaşması'nın gelecek hafta salı günü komisyonda görüşüleceğini açıkladı",
+      "link": "https://www.star.com.tr/guncel/mekke-anlasmasi-gelecek-hafta-komisyonda-gorusulecek-haber-2048388/",
+      "published": "2026-10-22T13:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:45.668706+00:00"
+    },
+    {
+      "id": "fe676961cb4ef783",
+      "source": "Yeniçağ",
+      "title": "Sivasspor, Ümraniyespor maçı hazırlıklarını sürdürdü",
+      "summary": "Ekenler Beton Sivasspor, Trendyol 1. Lig’in 12. haftasında Eminevim Ümraniyespor ile oynayacağı deplasman maçı için hazırlıklarını sürdürüyor.",
+      "link": "https://www.yenicaggazetesi.com/sivasspor-umraniyespor-maci-hazirliklarini-surdurdu-1084240h.htm",
+      "published": "2026-10-22T13:46:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:47.656102+00:00"
+    },
+    {
+      "id": "a21864eedec5486e",
+      "source": "Karar",
+      "title": "90 ülkeye ihracat yapıyordu: Ev ve mutfak eşyası devi konkordato ilan etti",
+      "summary": "Türkiye’de mutfak ve ev eşyalarını 90’dan fazla ülkeye ihraç eden Qlux Ideas AŞ için mahkeme bir yıllık kesin mühlet kararı verdi. Mayıs 2026’da başlayan konkordato sürecinde şirketin mali yapısının yeniden düzenlenmesi hedeflenirken, komiser heyeti ve mevcut tedbirler görevini sürdürecek.",
+      "link": "https://www.karar.com/ekonomi-haberleri/90-ulkeye-ihracat-yapiyordu-ev-ve-mutfak-esyasi-devi-konkordato-ilan-2080055",
+      "published": "2026-10-22T13:45:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:46.945047+00:00"
+    },
     {
       "id": "69e9be5cb768e7a7",
       "source": "Cumhuriyet",
@@ -50,6 +204,50 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T13:45:47.206928+00:00"
+    },
+    {
+      "id": "e9d1544c52e36f1f",
+      "source": "Habertürk",
+      "title": "T.C. Hatay 12. Asliye Ceza Mahkemesi",
+      "summary": "T.C. Hatay 12. Asliye Ceza Mahkemesi",
+      "link": "https://www.haberturk.com/resmi-ilanlar/tc-hatay-12-asliye-ceza-mahkemesi-3921439",
+      "published": "2026-10-22T13:43:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:34.841452+00:00"
+    },
+    {
+      "id": "cb2abe1e506dd24c",
+      "source": "Habertürk",
+      "title": "Fuat Oktay'dan Mekke Anlaşması açıklaması",
+      "summary": "TBMM Dışişleri Komisyonu Başkanı Fuat Oktay, Mekke Anlaşması’nın gelecek hafta salı günü komisyonda görüşüleceğini açıkladı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fuat-oktay-dan-mekke-anlasmasi-aciklamasi-3921778",
+      "published": "2026-10-22T13:43:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:34.841486+00:00"
+    },
+    {
+      "id": "4211143c62c77d26",
+      "source": "Habertürk",
+      "title": "Öğretmenler yetiştirecek, gençler dönüştürecek",
+      "summary": "MEB ve Akbank iş birliğiyle başlatılan program kapsamında 1.080 öğretmene ileri dönüşüm eğitimi verilecek. Öğretmenlerin edindikleri bilgi ve becerileri öğrencilere aktarmasıyla meslek liselerinde sürdürülebilir üretim uygulamaları yaygınlaştırılacak",
+      "link": "https://www.haberturk.com/ekonomi/meb-ve-akbanktan-meslek-liselerinde-ileri-donusum-hamlesi-3921776",
+      "published": "2026-10-22T13:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:34.841507+00:00"
+    },
+    {
+      "id": "fa1aac5ca1bb2822",
+      "source": "Akşam",
+      "title": "TBMM'de mesai başlıyor: Mekke İttifakı için takvim netleşti",
+      "summary": "TBMM Dışişleri Komisyonu Başkanı Fuat Oktay, Mekke Ortak Savunma Anlaşması'nın gelecek hafta salı günü komisyonda görüşüleceğini bildirdi.",
+      "link": "https://www.aksam.com.tr/siyaset/tbmmde-mesai-basliyor-mekke-ittifaki-icin-takvim-netlesti/haber-1708403",
+      "published": "2026-10-22T13:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:44.375441+00:00"
     },
     {
       "id": "f0db519acc7aa3c9",
@@ -107,6 +305,17 @@
       "fetched_at": "2026-10-22T13:45:47.206966+00:00"
     },
     {
+      "id": "6a48bb5755076dd4",
+      "source": "Habertürk",
+      "title": "Can Yayınları Yayın Yönetmeni Cem Akaş'ın oğlunu elektronik sigara mı öldürdü?",
+      "summary": "Can Yayınları Genel Yayın Yönetmeni, yazar Cem Akaş'ın oğlu 19 yaşındaki Can Akaş kalp yetmezliği nedeniyle yaşamını yitirdi. Akaş'ın ölümünde elektronik sigarayı sorumlu tutan Baba Akaş, \"Elektronik sigara ya da sıvı sigara denen mereti daha ciddiye almış olsaydım şu anda hayattaydı\" dedi. Yapılan bu açıklama, elektronik sigaranın olası zararlarına yeniden dikkat çekti. Uzmanlar, \"fare zehri gibi",
+      "link": "https://www.haberturk.com/saglik/can-yayinlari-yayin-yonetmeni-cem-akas-in-oglu-can-akas-i-elektronik-sigara-mi-oldurdu-elektronik-3921742",
+      "published": "2026-10-22T13:42:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:34.841540+00:00"
+    },
+    {
       "id": "91a6cf89a5844ee8",
       "source": "Diken",
       "title": "Okul saldırıları: MEB, Meta'ya dava hazırlığında",
@@ -116,6 +325,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T13:45:49.318762+00:00"
+    },
+    {
+      "id": "62c88615c11394ef",
+      "source": "Habertürk",
+      "title": "TAV'ın kârı yüzde 130 yükseldi",
+      "summary": "TAV Havalimanları 2026’nın ilk dokuz ayına dair finansal ve operasyonel sonuçlarını açıkladı. Şirket işlettiği havalimanlarında dış hatlarda 59 milyon, iç hatlarda 30 milyon yolcu ağırladı. Firmanın net kârı 9 ayda geçen yılın aynı dönemine göre yüzde 130 artarak 173.4 milyon Euro'ya ulaştı",
+      "link": "https://www.haberturk.com/ekonomi/tav-in-kri-yuzde-130-yukseldi-3921777",
+      "published": "2026-10-22T13:41:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:34.841563+00:00"
     },
     {
       "id": "cd3ee9e0f8459798",
@@ -138,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T13:45:44.698155+00:00"
+    },
+    {
+      "id": "4de1517dc93b3c33",
+      "source": "Habertürk",
+      "title": "Beşiktaş'ta hedef Avrupa'da 3'te 3!",
+      "summary": "UEFA Avrupa Ligi'ne ikide ikiyle başlayan temsilcimiz Beşiktaş, seriyi 3 maça çıkarmak için Dolmabahçe'de sahaya çıkıyor. İngiliz temsilcisi Crystal Palace'ı misafir edecek Kara Kartal, İngiliz ekibini de yenerek üst sıralardaki yerini sağlamlaştırmak istiyor. Beşiktaş bu sezon Avrupa'da eleme turları dahil organizasyonda oynadığı 8 maçın 7'sini kazandı. Söz konusu süreçte 15 kez gol sevinci yaşay",
+      "link": "https://www.haberturk.com/spor/besiktas-ta-hedef-avrupa-da-3-te-3-besiktas-crystal-palace-muhtemel-11-ler-3921609",
+      "published": "2026-10-22T13:40:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:34.841591+00:00"
     },
     {
       "id": "3b35acee32d8627b",
@@ -204,6 +435,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T13:40:51.471278+00:00"
+    },
+    {
+      "id": "145a4faf72201570",
+      "source": "Habertürk",
+      "title": "Avrupa'da fırtına gecesi!",
+      "summary": "Temsilcimiz Trabzonspor, UEFA Konferans Ligi'nde bu akşam sahasında Hearts ile karşılaşacak. Bordo-mavili ekip, Konferans Ligi'ndeki ilk maçında Finlandiya'nın KuPS Kuopio takımını deplasmanda 4-2 mağlup etmişti. İşte Trabzonspor - Hearts mücadelesine dair tüm detaylar ve muhtemel 11'ler...",
+      "link": "https://www.haberturk.com/spor/avrupa-da-firtina-gecesi-trabzonspor-hearts-maci-saat-kacta-hangi-kanalda-trabzonspor-hearts-maci-muhtemel-11-ler-3921620",
+      "published": "2026-10-22T13:37:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:34.841647+00:00"
     },
     {
       "id": "a010d3c764ebe9c1",
@@ -292,6 +534,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T13:40:47.843001+00:00"
+    },
+    {
+      "id": "ecda5f71e6477ae9",
+      "source": "Bloomberg HT",
+      "title": "Aramco'da saldırı alarmı: Genel merkez boşaltıldı, evden çalışmaya geçiliyor",
+      "summary": "Bloomberg'in haberine göre, Suudi Aramco, Dhahran'daki genel merkezini tahliye etti ve personelden evden çalışması istendi.",
+      "link": "https://www.bloomberght.com/aramco-da-saldiri-alarmi-genel-merkez-bosaltildi-evden-calismaya-geciliyor-3792266",
+      "published": "2026-10-22T13:35:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T13:50:56.535628+00:00"
     },
     {
       "id": "38351e83316947b5",
@@ -5253,259 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T12:01:01.390304+00:00"
-    },
-    {
-      "id": "45caa409308e3444",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İletişim Başkanlığından 7. Fon Koordinasyon Kurulu Toplantısı'na ilişkin açıklama",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Sürecin başından bu yana, tasfiye sürecinde olan fonların sayısı 131'den 47'ye düşmüş, 55 bin 755 hesaba toplam 49,7 milyar lira tutarında ayni ve nakdi tasfiye ödemesi yapılmıştır.\" açıklamasında bulundu.",
-      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-7-fon-koordinasyon-kurulu-toplantisina-iliskin-aciklama/4097167",
-      "published": "2026-10-22T11:58:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:05:30.302683+00:00"
-    },
-    {
-      "id": "3dd66dc440c73067",
-      "source": "Yeni Akit",
-      "title": "Lütfi Arıboğan hakkında sıcak gelişme: İddianame hazırlandı",
-      "summary": "Eski TFF Başkan Vekili Lütfi Arıboğan hakkında terör örgütüne yardım etme suçundan iddianame düzenlendi. Arıboğan hakkında istenen ceza belli oldu",
-      "link": "https://www.yeniakit.com.tr/haber/lutfi-aribogan-hakkinda-sicak-gelisme-2029613.html",
-      "published": "2026-10-22T11:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T13:10:43.030050+00:00"
-    },
-    {
-      "id": "e531fefe45f90257",
-      "source": "Evrensel",
-      "title": "Reddettiği erkek tarafından öldürülen Sevda Dinler toprağa verildi",
-      "summary": "Adana'nın Kozan ilçesinde reddettiği G.F. tarafından av tüfeğiyle vurularak katledilen 22 yaşındaki Sevda Dinler, toprağa verildi.",
-      "link": "https://www.evrensel.net/haber/6006137/reddettigi-erkek-tarafindan-oldurulen-sevda-dinler-topraga-verildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-22T11:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:10:38.373460+00:00"
-    },
-    {
-      "id": "552cfba175b0cdbc",
-      "source": "Star",
-      "title": "Büyükçekmece'deki saldırının faili Bağcılar'da ölü bulundu",
-      "summary": "Büyükçekmece'de bir kişinin hayatını kaybettiği, iki kişinin yaralandığı silahlı olayın şüphelisi, Bağcılar'da bir otomobilde silahla vurulmuş halde ölü bulundu.",
-      "link": "https://www.star.com.tr/yasam/buyukcekmecedeki-saldirinin-faili-bagcilarda-olu-bulundu-haber-2048361/",
-      "published": "2026-10-22T11:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:01:02.560290+00:00"
-    },
-    {
-      "id": "2550ce9c6e68ad80",
-      "source": "Yeni Akit",
-      "title": "Lütfi Arıboğan hakkında sıcak gelişme",
-      "summary": "Eski TFF Başkan Vekili Lütfi Arıboğan hakkında terör örgütüne yardım etme suçundan iddianame düzenlendi.",
-      "link": "https://www.yeniakit.com.tr/haber/lutfi-aribogan-hakkinda-sicak-gelisme-2029613.html",
-      "published": "2026-10-22T11:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:01:02.969016+00:00"
-    },
-    {
-      "id": "855f51345562a71b",
-      "source": "Evrensel",
-      "title": "Harita kayyımlarla turuncuya boyandı: 31 Mart’ta hangi parti kazanmıştı, bugün kim yönetiyor?",
-      "summary": "31 Mart 2024 yerel seçimlerinde seçmenin tercihleriyle oluşan siyasi harita, aradan geçen 2,5 yılda değişti. Büyükşehir belediyeleri ile il merkezlerindeki belediyeler esas alındığında, 81 ilin 37’sinde belediyeyi yöneten parti değişti.",
-      "link": "https://www.evrensel.net/haber/6006141/harita-kayyimlarla-turuncuya-boyandi-31-mart-ta-hangi-parti-kazanmisti-bugun-kim-yonetiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-22T11:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:25:29.593696+00:00"
-    },
-    {
-      "id": "2fc833f3e065f340",
-      "source": "Yeniçağ",
-      "title": "İstanbul’da Tarihi Kuyumcu Han, Şehir Araştırmaları Merkezi oldu, Mansur Yavaş açılışa katıldı",
-      "summary": "İstanbul Beyoğlu’ndaki tarihi Kuyumcu Han’ın restorasyonu tamamlandı. Yapı, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş’ın da katıldığı törenle Şehir Araştırmaları Merkezi olarak hizmete açıldı.",
-      "link": "https://www.yenicaggazetesi.com/istanbulda-tarihi-kuyumcu-han-sehir-arastirmalari-merkezi-oldu-mansur-yavas-acilisa-katildi-1084194h.htm",
-      "published": "2026-10-22T11:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:15:41.297710+00:00"
-    },
-    {
-      "id": "a1e15626749a96b3",
-      "source": "Akşam",
-      "title": "Kraliyet sofrasında dikkat çeken an: Kral Charles hadisi Arapça okudu",
-      "summary": "İngiltere Kralı 3. Charles, Windsor Kalesi'nde Umman Sultanı Heysem bin Tarık onuruna verilen akşam yemeğinde, Hazreti Muhammed'in Ummanlılarla ilgili hadisini Arapça okudu.",
-      "link": "https://www.aksam.com.tr/dunya/kraliyet-sofrasinda-dikkat-ceken-an-kral-charles-hadisi-arapca-okudu/haber-1708350",
-      "published": "2026-10-22T11:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:01:01.869639+00:00"
-    },
-    {
-      "id": "f0d4fac0b9ba0832",
-      "source": "Habertürk",
-      "title": "Fon Kurulu 7. toplantısını yaptı",
-      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında toplanan 7'nci Fon Koordinasyon Kurulu'nun ardından yapılan açıklamada, \"Hedef Portföy Yönetim Şirketi A.Ş.’nin kurucusu olduğu fonların tasfiye işlemleri ile ilgili olarak; 31 fonun 18’inin tasfiye işlemleri 21.10.2026 itibarıyla tamamlanmıştır. Bu kapsamda, toplam 10.008 adet hesaba 8,9 milyar TL ödenmiştir. Söz konusu grubun kalan 13 fonunun ",
-      "link": "https://www.haberturk.com/ekonomi/son-dakika-fon-kurulu-7-toplantisini-yapti-3921730",
-      "published": "2026-10-22T11:56:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:00:56.083321+00:00"
-    },
-    {
-      "id": "6bd3ebff58a50d94",
-      "source": "Cumhuriyet",
-      "title": "Türkiye Haber-İş’ten Türk Telekom’a çağrı: İşten çıkarmalar durdurulsun!",
-      "summary": "Türk Telekom’da yaşanan işten çıkarmalara ilişkin açıklama yapan Türkiye Haber-İş, kuruma “İşçi kıyımına son verin! İşçinin ekmeğiyle oynamaktan vazgeçin” çağrısında bulundu.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/turkiye-haber-is-ten-turk-telekom-a-cagri-isten-cikarmalar-durdurulsun-2549275",
-      "published": "2026-10-22T11:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:00:58.108332+00:00"
-    },
-    {
-      "id": "0ca8d7a90775a86a",
-      "source": "Ekonomim",
-      "title": "Hayat Kimya, Commercial International Bank ile yatırım finansman anlaşması imzaladı",
-      "summary": "Hızlı tüketim ürünleri sektörünün global oyuncularından Hayat Kimya, Mısır’ın en büyük özel bankalarından Commercial International Bank (CIB) ile 40 milyon Euro&#039;luk yatırım finansman anlaşması imzaladı. Mısır’da 800 milyon dolar yatırımı olan şirket, sağlanan bu finansmanı global büyüme stratejisi doğrultusunda kullanacak. Hayat Kimya Finanstan Sorumlu Başkan Yardımcısı Hüseyin Okur, bu iş bi",
-      "link": "https://www.ekonomim.com/sirketler/hayat-kimya-commercial-international-bank-ile-yatirim-finansman-anlasmasi-imzaladi-haberi-926434",
-      "published": "2026-10-22T11:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:01:10.409908+00:00"
-    },
-    {
-      "id": "9fc3622795cf3ed0",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Pentagon, 850 adet F-35 üretimi konusunda Lockheed Martin ile çerçeve anlaşmaya vardı",
-      "summary": "ABD Savunma Bakanlığının (Pentagon), Lockheed Martin şirketiyle 10 yılda en az 850 adet \"F-35 Lightning II\" model savaş uçağı üretimini içeren çerçeve anlaşma imzaladığı bildirildi.",
-      "link": "https://www.aa.com.tr/tr/dunya/pentagon-850-adet-f-35-uretimi-konusunda-lockheed-martin-ile-cerceve-anlasmaya-vardi/4097164",
-      "published": "2026-10-22T11:55:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:05:30.302732+00:00"
-    },
-    {
-      "id": "79c4458fe0c73233",
-      "source": "Diken",
-      "title": "Merkez Bankası rezervleri 2,4 milyar dolar azaldı",
-      "summary": "Merkez Bankası rezervleri 2,4 milyar dolar azaldı 22.10.2026 Diken Merkez Bankası (MB) rezervleri, 16 Ekim haftasında bir önceki haftaya göre 2 milyar 478 milyon dolar azalarak 169 milyar 97 milyon dolar oldu. The post Merkez Bankası rezervleri 2,4 milyar dolar azaldı appeared first on #site_linkat 22.10.2026 .",
-      "link": "https://www.diken.com.tr/merkez-bankasi-rezervleri-24-milyar-dolar-azaldi/?utm_source=rss&utm_medium=rss&utm_campaign=merkez-bankasi-rezervleri-24-milyar-dolar-azaldi",
-      "published": "2026-10-22T11:55:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T11:55:39.025283+00:00"
-    },
-    {
-      "id": "ca4c4a47840dbd83",
-      "source": "Ekonomim",
-      "title": "Eski TFF Başkan Vekili Lütfi Arıboğan'ın 5 yıla kadar hapsi isteniyor",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından FETÖ’nün ’futbolda şike’ soruşturmasında kumpas kurduğu iddialarına yönelik yürütülen soruşturma kapsamında eski TFF Başkan Vekili Lütfi Arıboğan hakkında &quot;silahlı terör örgütüne bilerek ve isteyerek yardım etme&quot; suçundan 2 yıldan 5 yıla kadar hapis cezası talebiyle iddianame hazırlandı.",
-      "link": "https://www.ekonomim.com/gundem/eski-tff-baskan-vekili-lutfi-ariboganin-5-yila-kadar-hapsi-isteniyor-haberi-926433",
-      "published": "2026-10-22T11:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:31:12.238401+00:00"
-    },
-    {
-      "id": "68f3d9c49650e55c",
-      "source": "Yeniçağ",
-      "title": "Ekonomistler 9 ay sonra gelen faiz indirimini değerlendirdi: Beklenti üstü bir indirim mümkün",
-      "summary": "Merkez Bankası ekim ayında politika faizini yüzde 36 olarak açıkladı. Ekonomistler gelen değerlendirmeler dikkat çekti.",
-      "link": "https://www.yenicaggazetesi.com/ekonomistler-9-ay-sonra-gelen-faiz-indirimini-degerlendirdi-beklenti-ustu-bir-indirim-mumkun-1084192h.htm",
-      "published": "2026-10-22T11:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:15:41.297740+00:00"
-    },
-    {
-      "id": "0789e596b493dcca",
-      "source": "Ekonomim",
-      "title": "Eski TFF Başkan Vekili Lütfi Arıboğan'a 'silahlı terör örgütüne bilerek ve isteyerek yardım etme' suçundan iddianame",
-      "summary": "Eski TFF Başkan Vekili Lütfi Arıboğan hakkında &quot;silahlı terör örgütüne bilerek ve isteyerek yardım etme&quot; suçundan iddianame düzenlendi. Hazırlanan iddianame 25. Ağır Ceza Mahkemesi tarafından kabul edildi.",
-      "link": "https://www.ekonomim.com/gundem/eski-tff-baskan-vekili-lutfi-aribogana-silahli-teror-orgutune-bilerek-ve-isteyerek-yardim-etme-sucundan-iddianame-haberi-926433",
-      "published": "2026-10-22T11:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:01:10.409957+00:00"
-    },
-    {
-      "id": "feb80d4ad784f0c7",
-      "source": "Star",
-      "title": "Yunanistan basketbolunda şike ve rüşvet skandalı",
-      "summary": "Yunanistan Basketbol Federasyonu Başkanı Vangelis Liolios ve Avrupa Ligi hakemi Vasiliki Tsaroucha'nın da aralarında bulunduğu 6 kişinin şike ve rüşvet suçlamalarıyla gözaltına alınması, ülke basketbolunu derinden sarstı.",
-      "link": "https://www.star.com.tr/spor/yunanistan-basketbolunda-sike-ve-rusvet-skandali-haber-2048360/",
-      "published": "2026-10-22T11:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T11:55:34.569001+00:00"
-    },
-    {
-      "id": "9bbcf8a09e15bb7f",
-      "source": "Yeni Şafak",
-      "title": "Futbolda şike soruşturmasında yeni gelişme: Eski TFF Başkanı Lütfi Arıboğan hakkında iddianame hazırlandı",
-      "summary": "Eski TFF Başkan Vekili Lütfi Arıboğan hakkında \"silahlı terör örgütüne bilerek ve isteyerek yardım etme\" suçundan iddianame düzenlendi. Hazırlanan iddianame 25. Ağır Ceza Mahkemesi tarafından kabul edildi.",
-      "link": "https://www.yenisafak.com/gundem/futbolda-sike-sorusturmasinda-yeni-gelisme-eski-tff-baskani-lutfi-aribogan-hakkinda-iddianame-hazirlandi-4866476",
-      "published": "2026-10-22T11:54:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:15:39.708115+00:00"
-    },
-    {
-      "id": "b2c42282848f72fa",
-      "source": "Yeni Şafak",
-      "title": "Futbolda şike soruşturmasına ilişkin iddianame hazırlandı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığınca futbolda şike soruşturmasına ilişkin iddianame hazırlandı.",
-      "link": "https://www.yenisafak.com/gundem/futbolda-sike-sorusturmasina-iliskin-iddianame-hazirlandi-4866476",
-      "published": "2026-10-22T11:54:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T11:55:34.143242+00:00"
-    },
-    {
-      "id": "009703b05aa29560",
-      "source": "Akşam",
-      "title": "Bankacılık sektörünün kredi hacmi yükseldi",
-      "summary": "Bankacılık sektörünün toplam kredi hacmi, 16 Ekim itibarıyla 28,7 trilyon liraya çıktı.",
-      "link": "https://www.aksam.com.tr/ekonomi/bankacilik-sektorunun-kredi-hacmi-yukseldi/haber-1708349",
-      "published": "2026-10-22T11:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T11:55:33.432930+00:00"
-    },
-    {
-      "id": "9c9e6ba9b13df4e6",
-      "source": "Akşam",
-      "title": "Sevda Erginci evlenince hayatını tepeden tırnağa değiştirdi! Sil baştan başladı...",
-      "summary": "Sevda Erginci, Efe Saydut ile evlenmesinin ardından İzmir'e yerleşti. İstanbul'dan taşınan Sevda Erginci, İzmir'de daha sakin bir hayat sürdürdüğünü söyledi.",
-      "link": "https://www.aksam.com.tr/venus/sevda-erginci-evlenince-hayatini-tepeden-tirnaga-degistirdi-sil-bastan-basladi/haber-1708348",
-      "published": "2026-10-22T11:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T11:55:33.432949+00:00"
-    },
-    {
-      "id": "b1e9e7e520dca68d",
-      "source": "Bloomberg HT",
-      "title": "Para piyasası fonlarında yatay seyir",
-      "summary": "Merkez Bankası'nın yayımladığı haftalık Para ve Banka İstatistikleri'ne göre fon soruşturmasının ardından üç hafta üst üste çıkış yaşanan para piyasası fonlarında 16 Ekim haftasında yatay seyir izlendi.",
-      "link": "https://www.bloomberght.com/para-piyasasi-fonlarinda-yatay-seyir-3792239",
-      "published": "2026-10-22T11:53:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:10:51.313128+00:00"
-    },
-    {
-      "id": "d95760c67b4862af",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "AP'de, Karadeniz'de deniz operasyonu çağrısı içeren karar tasarısı kabul edildi",
-      "summary": "Avrupa Parlamentosu (AP), Karadeniz'de sivil ticari gemilere yönelik saldırıların ardından Avrupa Birliği'ne (AB) bölgede bir deniz operasyonu düzenlenmesi seçeneğini değerlendirme çağrısı yapan karar tasarısını kabul etti.",
-      "link": "https://www.aa.com.tr/tr/dunya/apde-karadenizde-deniz-operasyonu-cagrisi-iceren-karar-tasarisi-kabul-edildi/4097163",
-      "published": "2026-10-22T11:53:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T12:00:57.752019+00:00"
     }
   ]
 }

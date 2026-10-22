@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-22T03:45:53.112877+00:00",
+  "last_updated": "2026-10-22T03:51:05.870955+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 513,
+  "new_items_this_run": 515,
   "items": [
     {
       "id": "8b564697ae0d04db",
@@ -3847,6 +3847,17 @@
       "fetched_at": "2026-10-21T21:15:58.891008+00:00"
     },
     {
+      "id": "505acb2c612318aa",
+      "source": "Sözcü",
+      "title": "Siber alarm büyüyor! Türkiye'den ulusal çapta uyarı",
+      "summary": "Siber alarm büyüyor! Türkiye'den ulusal çapta uyarı",
+      "link": "https://www.sozcu.com.tr/siber-alarm-buyuyor-p371489",
+      "published": "2026-10-21T21:11:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T03:50:39.923421+00:00"
+    },
+    {
       "id": "39a1d185ec5a0d7d",
       "source": "Habertürk",
       "title": "'Back to The Future Musical' geliyor",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T20:55:47.083177+00:00"
-    },
-    {
-      "id": "69306a2c37ffe282",
-      "source": "Star",
-      "title": "MAÇ SONUCU: DSK Basketball Brandys: 48 - Beşiktaş BOA: 83",
-      "summary": "FIBA Kadınlar Avrupa Kupası B Grubu'nda Beşiktaş BOA, konuk olduğu DSK Basketball Brandys'i 83-48 yendi.",
-      "link": "https://www.star.com.tr/spor/mac-sonucu-dsk-basketball-brandys-48-besiktas-boa-83-haber-2048227/",
-      "published": "2026-10-21T20:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:50:43.938203+00:00"
     }
   ]
 }

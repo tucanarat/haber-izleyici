@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-22T02:31:05.041997+00:00",
+  "last_updated": "2026-10-22T02:35:56.424655+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 510,
+  "new_items_this_run": 513,
   "items": [
+    {
+      "id": "e5cf945f5d087c5f",
+      "source": "Türkiye Gazetesi",
+      "title": "İKİNCİ HAMLE BEDİR İTTİFAKI",
+      "summary": "Doha’da atılan imzalarla Türkiye, Katar, Pakistan ve Endonezya savunma sanayisinde iş birliğini geliştirmek için güçlerini birleştirdi. Dört ülke, üretim kabiliyetlerini bir araya getirerek savunma teknolojilerinde ortak projeler geliştirmeyi hedefliyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/savunma-sanayisinde-yeni-ittifak-imzalar-atildi-mekkeden-sonra-bedir-hamlesi-1824394",
+      "published": "2026-10-22T02:31:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T02:35:31.662848+00:00"
+    },
     {
       "id": "873bc703b566b410",
       "source": "Türkiye Gazetesi",
@@ -347,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T02:15:47.539363+00:00"
+    },
+    {
+      "id": "d05b223fe30ca8a8",
+      "source": "Bir Gün",
+      "title": "Dünya genelinde siber güvenlik alarmı: Türkiye'de acil tarama başlatıldı",
+      "summary": "Dünya genelinde yaygın olarak kullanılan PHP yazılım altyapısında tespit edilen kritik güvenlik açıkları nedeniyle birçok ülkede kamu kurumlarının internet siteleri geçici olarak erişime kapatıldı. Türkiye'de de Siber Güvenlik Başkanlığı ulusal ölçekte güvenlik taraması başlatırken, kamu ve özel sektör kuruluşlarına acil güvenlik uyarıları gönderildi.",
+      "link": "https://www.birgun.net/haber/dunya-genelinde-siber-guvenlik-alarmi-turkiye-de-acil-tarama-baslatildi-741814",
+      "published": "2026-10-22T01:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T02:35:32.544045+00:00"
     },
     {
       "id": "181af8fa7a877a97",
@@ -919,6 +941,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T01:20:45.413861+00:00"
+    },
+    {
+      "id": "25aa1843cfadeb56",
+      "source": "Bir Gün",
+      "title": "NYT'den İran'a yeni saldırı iddiası: ABD ve İsrail 'somut planlar' hazırlıyor",
+      "summary": "ABD ve İsrail'in, kasım ayında yapılacak ABD ara seçimlerinin ardından İran'a yönelik yeni saldırılar planladığı öne sürüldü. The New York Times'ın haberine göre, ABD Başkanı Donald Trump'ın bu ay da saldırı emri verebileceği belirtilirken, iki ülkenin ekim ayı başında saldırı düzenlemeye çok yaklaştığı ancak Trump'ın son anda operasyonu ertelediği iddia edildi.",
+      "link": "https://www.birgun.net/haber/nyt-den-iran-a-yeni-saldiri-iddiasi-abd-ve-israil-somut-planlar-hazirliyor-741813",
+      "published": "2026-10-22T00:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T02:35:32.544081+00:00"
     },
     {
       "id": "3b5817afdc6e8705",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-21T21:20:36.243492+00:00"
-    },
-    {
-      "id": "23e7e6c3d6b5030a",
-      "source": "DonanımHaber",
-      "title": "PHP krizi interneti vurdu: Dünya çapında web siteleri kapatılıyor",
-      "summary": "PHP’de keşfedilen iki kritik güvenlik açığı dünya genelinde alarm verdi. Yapay zeka ile bulunan açıklar nedeniyle bazı kamu kurumları ve internet siteleri geçici olarak erişime kapatıldı.",
-      "link": "https://www.donanimhaber.com/php-krizi-interneti-vurdu-dunya-capinda-web-siteleri-kapatiliyor--211935",
-      "published": "2026-10-21T20:42:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:46:08.344721+00:00"
-    },
-    {
-      "id": "9c3be3553416e042",
-      "source": "Evrensel",
-      "title": "Axios: İsrail savaş uçakları, İran sınırına yakın noktalara kadar uçarak güç gösterisi yaptı",
-      "summary": "İsrail'e ait savaş uçaklarının 19 Ekim Pazartesi günü İran sınırına yakın noktalarda uçuş gerçekleştirerek \"güç gösterisinde\" bulunduğu iddia edildi.",
-      "link": "https://www.evrensel.net/haber/6006045/axios-israil-savas-ucaklari-iran-sinirina-yakin-noktalara-kadar-ucarak-guc-gosterisi-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-21T20:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:55:33.144147+00:00"
-    },
-    {
-      "id": "55570735541f0d8b",
-      "source": "Finans Gündem",
-      "title": "Fon teklifinde yeni düzenleme: Bloke işlemler tasfiyeye dahil edildi",
-      "summary": "AK Parti'nin yatırım fonlarının tasfiyesine ilişkin kanun teklifinin 3. maddesi için verdiği önerge kabul edildi. Düzenlemeyle birlikte bloke edilen işlemler de tasfiye kapsamına alındı.",
-      "link": "https://www.finansingundemi.com/haber/fon-teklifinde-yeni-duzenleme-bloke-islemler-tasfiyeye-dahil-edildi/1912254",
-      "published": "2026-10-21T20:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-21T20:51:01.255277+00:00"
     }
   ]
 }

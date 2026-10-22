@@ -1,12 +1,188 @@
 {
-  "last_updated": "2026-10-22T08:50:54.142409+00:00",
+  "last_updated": "2026-10-22T08:55:58.853813+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 524,
+  "new_items_this_run": 523,
   "items": [
+    {
+      "id": "98e1bd61b66e9987",
+      "source": "Akşam",
+      "title": "Sarıyer'de vatandaş İSKİ'ye isyan etti: Kokudan camları açamıyoruz",
+      "summary": "Sarıyer'de belediyeye ait araziye dökülen atıkların neden olduğu koku ve gürültü, mahalleliyi isyan ettirdi. İSKİ'ye tepki gösteren vatandaşlar, “Camları açamıyoruz” diyerek çözüm isterken, çöplüğe dönen alan havadan görüntülendi.",
+      "link": "https://www.aksam.com.tr/guncel/sariyerde-vatandas-iskiye-isyan-etti-kokudan-camlari-acamiyoruz/haber-1708285",
+      "published": "2026-10-22T08:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:35.771193+00:00"
+    },
+    {
+      "id": "89fbe455aca9fbd9",
+      "source": "Cumhuriyet",
+      "title": "Mahfi Eğilmez’den sanayi uyarısı: 'Tehlike çanları çalıyor'",
+      "summary": "Mahfi Eğilmez, sanayi üretimindeki gerileme ile yatırım ve finansmana erişimdeki sorunlara dikkat çekti. Eğilmez, dezenflasyon programının sanayiyi olumsuz etkilediğini belirterek kısa vadede güçlü bir toparlanma beklemediğini söyledi.",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/mahfi-egilmez-den-sanayi-uyarisi-tehlike-canlari-caliyor-2549205",
+      "published": "2026-10-22T08:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:29.656066+00:00"
+    },
+    {
+      "id": "9d7b2837b424a66e",
+      "source": "Akşam",
+      "title": "Kaderi derbiye bağlı! Fenerbahçe'de İsmail Kartal için son şans",
+      "summary": "Fenerbahçe'de teknik direktör İsmail Kartal için tehlike çanları çalmaya başladı. Son olarak Slavia Prag beraberliğiyle hayal kırıklığına neden olan İsmail Kartal'ın kaderi derbiye bağlı. İşte detaylar...",
+      "link": "https://www.aksam.com.tr/spor/kaderi-derbiye-bagli-fenerbahcede-ismail-kartal-icin-son-sans/haber-1708284",
+      "published": "2026-10-22T08:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:35.771228+00:00"
+    },
+    {
+      "id": "7c5b230e098f57d5",
+      "source": "Yeniçağ",
+      "title": "Mustafa Sarıgül'ün koruması gözaltına alındı",
+      "summary": "Sarıgül ailesine yönelik soruşturma kapsamında YENİ Parti Erzincan Milletvekili Mustafa Sarıgül&#039;ün koruması Ö.D., gözaltına alındı.",
+      "link": "https://www.yenicaggazetesi.com/mustafa-sarigulun-korumasi-gozaltina-alindi-1084129h.htm",
+      "published": "2026-10-22T08:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:38.682243+00:00"
+    },
+    {
+      "id": "ad676410cea1e249",
+      "source": "Türkiye Gazetesi",
+      "title": "Alperen şov: Sezona double-double'la başladı",
+      "summary": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, milli basketbolcu Alperen Şengün'ün \"double-double\" yaptığı karşılaşmada Dallas Mavericks'i 128-110 yendi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/houston-rockets-galibiyetle-basladi-alperen-sengun-double-double-yapti-1824449",
+      "published": "2026-10-22T08:52:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:32.196371+00:00"
+    },
+    {
+      "id": "3503441b2c4bc9ea",
+      "source": "Karar",
+      "title": "Sivas dağlarından gelen şifa tezgahta: Kilosu 100 TL’den satılıyor!",
+      "summary": "Sivas dağlarından gelen şifa tezgahta yerini aldı. Sivas’ın yüksek kesimlerinde yetişen karamuk meyvesi kilosu 100 TL’den satılıyor.",
+      "link": "https://www.karar.com/guncel-haberler/sivas-daglarindan-gelen-sifa-tezgahta-kilosu-100-tlden-satiliyor-2079985",
+      "published": "2026-10-22T08:52:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:38.033290+00:00"
+    },
+    {
+      "id": "1679bc89067e25d8",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "PHP, sunucuları tehdit eden iki kritik güvenlik açığını gidermek için güncelleme yayımladı",
+      "summary": "İnternet sitelerinin geliştirilmesinde yaygın olarak kullanılan PHP programlama dilinde, sunucuların kontrolünün ele geçirilmesine neden olabilecek iki kritik güvenlik açığını gidermek üzere güncelleme yayımlandığı duyuruldu.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/php-sunuculari-tehdit-eden-iki-kritik-guvenlik-acigini-gidermek-icin-guncelleme-yayimladi/4096863",
+      "published": "2026-10-22T08:52:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:29.262221+00:00"
+    },
+    {
+      "id": "269d1d206dec8e3f",
+      "source": "Cumhuriyet",
+      "title": "Hindistan'da dini festival yarıda kaldı: Fil ortalığı birbirine kattı",
+      "summary": "Hindistan'da düzenlenen dini festival sırasında 650 kilogram ağırlığındaki gümüş tören tahtını taşıyan filin kontrolden çıkması korku dolu anlara neden oldu. Araçlara ve çevredeki yapılara zarar veren filin sırtındaki kutsal taht yere düşerken, çevredeki insanlar panikle kaçıştı. Yetkililer, filin sakinleştirici verilerek kontrol altına alındığını açıkladı.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/hindistan-da-dini-festival-yarida-kaldi-fil-ortaligi-birbirine-katti-2549206",
+      "published": "2026-10-22T08:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:29.656112+00:00"
+    },
+    {
+      "id": "cfe36718127b948e",
+      "source": "Türkiye Gazetesi",
+      "title": "4. ana piste 1 ayda 284 ton yakıt tasarrufu!",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Havalimanı’nda 18 Eylül’de hizmete açılan 4. ana piste toplam bin 738 kalkış gerçekleştirildiğini açıkladı. Bakan Uraloğlu “Yeni pistten gerçekleştirilen 1.738 kalkışın 1.475’inde standart aletli kalkış rotaları kullanıldı, 22 bin 453 deniz mili rota kısalması sağlandı. Uçuşlarda yaklaşık 284 ton yakıt tasarrufu ve 897 ton karbondioksit emi",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/istanbul-havalimaninda-4-ana-piste-1-ayda-284-ton-yakit-tasarrufu-bin-738-kalkis-gerc-1824448",
+      "published": "2026-10-22T08:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:32.196420+00:00"
+    },
+    {
+      "id": "191b6417db775b4c",
+      "source": "Ekonomim",
+      "title": "Memur alımı için onlarca kurum düğmeye bastı! Cumhurbaşkanlığı paylaştı. İşte son başvuru tarihleri",
+      "summary": "Devlet kadrolarında görev almak isteyen adaylar adına yeni memur alımı ilanları yayımlandı. Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı tarafından paylaşılan duyurularda, farklı kurumların personel alımı süreçleri ve son başvuru tarihleri belli oldu.",
+      "link": "https://www.ekonomim.com/foto-galeri/aktuel/memur-alimi-icin-onlarca-kurum-dugmeye-basti-cumhurbaskanligi-paylasti-iste-son-basvuru-tarihleri-galeri-926375",
+      "published": "2026-10-22T08:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:49.908834+00:00"
+    },
+    {
+      "id": "64a40c5379ae3bc7",
+      "source": "Yeniçağ",
+      "title": "Prof. Dr. Kemal Aydın Ordu’ya geliyor: Sağlıklı yaşlanma ve sağlık turizmi gündemde",
+      "summary": "Gerontolog Prof. Dr. Kemal Aydın, Ordu’ya geliyor. Ziyarette, kenti uluslararası sağlık turizmi ve uzun yaşam merkezi hâline getirebilecek projeler masaya yatırılacak.",
+      "link": "https://www.yenicaggazetesi.com/prof-dr-kemal-aydin-orduya-geliyor-saglikli-yaslanma-ve-saglik-turizmi-gundemde-1084128h.htm",
+      "published": "2026-10-22T08:51:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:38.682307+00:00"
+    },
+    {
+      "id": "ed01a37210ac6cd2",
+      "source": "Diken",
+      "title": "Sarıgül'ün koruması da gözaltına alındı",
+      "summary": "Sarıgül'ün koruması da gözaltına alındı 22.10.2026 Diken YENİ Parti Erzincan milletvekili Mustafa Sarıgül'ün koruması Ömer D., ailesiyle ilgili kara para aklama soruşturmasında gözaltına alındı. The post Sarıgül'ün koruması da gözaltına alındı appeared first on #site_linkat 22.10.2026 .",
+      "link": "https://www.diken.com.tr/sarigulun-korumasi-da-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=sarigulun-korumasi-da-gozaltina-alindi",
+      "published": "2026-10-22T08:51:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:41.939043+00:00"
+    },
+    {
+      "id": "8688ecce3217c629",
+      "source": "Yeni Şafak",
+      "title": "Türkiye ve Özbekistan’dan çocuklar için dijital dünyaya karşı ortak adım",
+      "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Özbekistan’da gerçekleştirdiği görüşmede çocukları dijital dünyanın olumsuz etkilerinden korumaya yönelik önleyici ve destekleyici mekanizmaları ele aldı.",
+      "link": "https://www.yenisafak.com/gundem/turkiye-ve-ozbekistandan-cocuklar-icin-dijital-dunyaya-karsi-ortak-adim-4866415",
+      "published": "2026-10-22T08:51:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:36.572450+00:00"
+    },
+    {
+      "id": "0035f67ca21f388a",
+      "source": "Yeni Yaşam",
+      "title": "İnternet dünyasında siber güvenlik alarmı",
+      "summary": "PHP programlama dilinde 10 yıldır fark edilmeyen dev güvenlik açığı yapay zeka tarafından tespit edildi, küresel çapta siber güvenlik alarmı verildi İnternet sitelerinin altyapısını oluşturan PHP programlama dilinde 10 yılı aşkın süredir fark edilmeyen ciddi bir güvenlik açığı yapay zeka tarafından tespit edildi. Saldırganların kimlik doğrulamasına gerek duymadan web sunucularının kontrolünü ele g",
+      "link": "https://yeniyasamgazetesi9.com/internet-dunyasinda-siber-guvenlik-alarmi/",
+      "published": "2026-10-22T08:51:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:47.453496+00:00"
+    },
+    {
+      "id": "911852a1fb181510",
+      "source": "OdaTV",
+      "title": "Menzil'de kriz büyüyor: Semerkand- Serhendi ayrışması... '500 milyonluk' binaya tahliye: 'Ümmetin malı baba mirası değil'",
+      "summary": "Menzil tarikatında kardeşler arasındaki miras tartışması sürüyor. Saki Elhüseyni’ye bağlı Serhendi Vakfı’nın Antalya’da kullandığı 500 milyon TL değerindeki binaya tahliye kararı verildi. Tarikat üyeleri, &quot;Ümmetin malı baba mirası değil&quot; sözleriyle Semerkand Vakfı yönetimine tepki gösterdi.",
+      "link": "https://www.odatv.com/guncel/menzilde-kriz-buyuyor-semerkand-serhendi-ayrismasi-500-milyonluk-binaya-tahliye-ummetin-mali-baba-mirasi-degil-120167788",
+      "published": "2026-10-22T08:50:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:40.459734+00:00"
+    },
+    {
+      "id": "6dd98fc3593a797c",
+      "source": "OdaTV",
+      "title": "İYİ Parti'den AKP'ye çağrı... 'Meşruiyet' uyarısı",
+      "summary": "İYİ Parti Genel Başkan Yardımcısı Hakan Şeref Olgun, parti değiştirmelere tepki göstererek iktidara erken seçim çağrısı yaptı. Olgun, transfer sürecinin yeni iktidarın meşruiyet sorunu yaşamasına sebep olabileceğini söyledi.",
+      "link": "https://www.odatv.com/siyaset/iyi-partiden-akpye-cagri-mesruiyet-uyarisi-120167787",
+      "published": "2026-10-22T08:50:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:40.459771+00:00"
+    },
     {
       "id": "3fc8af144c409d0b",
       "source": "LOG",
@@ -74,6 +250,39 @@
       "fetched_at": "2026-10-22T08:50:39.735240+00:00"
     },
     {
+      "id": "488f3f8909d744ca",
+      "source": "Türkiye Gazetesi",
+      "title": "Dünyada PHP alarmı! Siber Güvenlik Başkanlığı devrede",
+      "summary": "Siber Güvenlik Başkanlığı, dünya genelinde kullanılan PHP altyapısında tespit edilen kritik güvenlik açıklarına ilişkin önleyici çalışmalarını sürdürüyor. e-Devlet Kapısı başta olmak üzere kamu dijital hizmetleri kesintisiz şekilde sunulmaya devam ederken, kurum ve kuruluşların sistem güvenliğini güçlendirmeye yönelik tedbirler koordinasyon içerisinde yürütülüyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/siber-guvenlik-baskanligi-php-sunucularinda-tespit-edilen-kritik-guvenlik-aciklarina-1824447",
+      "published": "2026-10-22T08:49:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:32.196458+00:00"
+    },
+    {
+      "id": "beb9eafba5b45b35",
+      "source": "Ekonomim",
+      "title": "İlaç geliştirmede yapay zeka dönemi laboratuvarları harekete geçirdi",
+      "summary": "Yapay zeka, ilaç keşfi ve geliştirme süreçlerini hızlandırırken deneysel verilere olan ihtiyacı da artırıyor. Bernstein analistlerinin değerlendirmelerine göre bazı araştırmalarda veri talebi 10 ila 100 kat yükselirken, gelişmiş laboratuvar teknolojilerine yönelik beklentiler güçleniyor.",
+      "link": "https://www.ekonomim.com/dunya/ilac-gelistirmede-yapay-zeka-donemi-laboratuvarlari-harekete-gecirdi-haberi-926371",
+      "published": "2026-10-22T08:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:49.908880+00:00"
+    },
+    {
+      "id": "c7b0e4c6e44b2849",
+      "source": "Ekonomim",
+      "title": "Dünyanın en büyük varlık fonu üçüncü çeyreği kayıpla kapattı",
+      "summary": "Norveç&#039;in 2,3 trilyon dolarlık devlet varlık fonu, yılın üçüncü çeyreğinde yüzde 0,5 değer kaybetti. Hisse senetlerinden elde edilen sınırlı getiri, sabit getirili yatırımlardaki yüzde 3,5&#039;lik zararı karşılamaya yetmedi. Fonun portföyünde dünyanın önde gelen teknoloji şirketleri de bulunuyor.",
+      "link": "https://www.ekonomim.com/sirketler/dunyanin-en-buyuk-varlik-fonu-ucuncu-ceyregi-kayipla-kapatti-haberi-926372",
+      "published": "2026-10-22T08:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:49.908921+00:00"
+    },
+    {
       "id": "447f36419d3ad91d",
       "source": "Star",
       "title": "CHP'li belediyenin arazisi çöplüğe döndü! Sarıyer'de vatandaş isyanı: Camları açamıyoruz",
@@ -94,6 +303,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T08:50:44.943526+00:00"
+    },
+    {
+      "id": "6d020855e10380b3",
+      "source": "Ekonomim",
+      "title": "Mahfi Eğilmez yazdı: IMF, Türkiye’nin fiilî döviz kuru rejimini 'sürünen kur' olarak sınıflandırıyor",
+      "summary": "Ekonomist Mahfi Eğilmez yeni yazısında IMF’nin Türkiye’nin resmî kur rejimini serbest dalgalı, fiilî döviz kuru düzenlemesini ise “sürünen kur benzeri” olarak sınıflandırdığına dikkat çekti. Eğilmez’in değerlendirmesi, kur politikasındaki resmî tanımla uygulamadaki işleyiş arasındaki farkı gündeme taşıdı",
+      "link": "https://www.ekonomim.com/ekonomi/mahfi-egilmez-yazdi-imf-turkiyenin-fiili-doviz-kuru-rejimini-surunen-kur-olarak-siniflandiriyor-haberi-926374",
+      "published": "2026-10-22T08:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:49.908962+00:00"
     },
     {
       "id": "7a28f1b54aa2446e",
@@ -173,6 +393,17 @@
       "fetched_at": "2026-10-22T08:50:39.735279+00:00"
     },
     {
+      "id": "91d0c78245d35835",
+      "source": "Habertürk",
+      "title": "Dünyayı alarma geçiren 'PHP2Shell' açığı nedir?",
+      "summary": "PHP. Çoğunuz adını daha önce duymamış olabilirsiniz. Ancak dünya genelinde milyonlarca internet sitesinin arkasında yer alan bu programlama dili, bugün pek çok ülkede internet sitelerinin geçici olarak kapatılmasına neden oldu, ülkeleri alarma geçirdi. Dünya genelindeki internet sitelerinin büyük bölümünde kullanılan PHP programlama dilinde, yapay zeka desteğiyle iki kritik güvenlik açığı tespit e",
+      "link": "https://www.haberturk.com/ekonomi/dunyayi-alarma-geciren-php2shell-acigi-nedir-ve-ne-kadar-kritik-3921654",
+      "published": "2026-10-22T08:45:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:26.398537+00:00"
+    },
+    {
       "id": "19d4e51c66f4c6dd",
       "source": "Yeni Yaşam",
       "title": "Yaşamını yitiren asker için verilen tazminat PKK’lilerin ailesinden istendi",
@@ -250,6 +481,17 @@
       "fetched_at": "2026-10-22T08:45:41.091767+00:00"
     },
     {
+      "id": "0f9b25608addbc2a",
+      "source": "Habertürk",
+      "title": "Leyla konağı terk etti!",
+      "summary": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in 7'nci bölümünde; Mirza ile Leyla'nın yeniden yakınlaşması, Vuslat ve Destan’ın oyunlarıyla gölgelendi. Sosyal medyada da çok konuşulan bölümde, #SevdanBirAteş etiketi 4 saat 30 dakika, Mirza 4 saat 40 dakika, Hüma ise 2 saat 5 dakika TT listesinde kaldı",
+      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-te-leyla-huma-yi-alip-konagi-terk-etti-3921656",
+      "published": "2026-10-22T08:44:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:26.398571+00:00"
+    },
+    {
       "id": "460fc01d6fb9e547",
       "source": "Türkiye Gazetesi",
       "title": "“ÜMRANİYE GİBİ OLACAĞIZ”",
@@ -259,6 +501,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T08:50:36.318188+00:00"
+    },
+    {
+      "id": "07c0babc0c18403c",
+      "source": "Habertürk",
+      "title": "Önce motosiklet sonra cansız beden bulundu!",
+      "summary": "Muğla'nın Marmaris ilçesinde bu sabah önce yol kenarındaki kanalda bir motosiklet, ardından bir erkek cesedi bulundu. Olayla ilgili soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/gundem/once-motosiklet-sonra-cansiz-beden-bulundu-3921662",
+      "published": "2026-10-22T08:44:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:26.398608+00:00"
+    },
+    {
+      "id": "2b7fe9844347b6a4",
+      "source": "Habertürk",
+      "title": "\"Bununla evlenecek misin?\"",
+      "summary": "Itır Esen ile Engin Aykanat'ın düğününde sahne alan Serdar Ortaç, Çağatay Ulusoy'un sevgilisi Aslıhan Malbora'ya, \"Bununla evlenecek misin?\" diye sordu. Malbora, Ortaç'ın beklenmedik sorusu karşısında şaşkınlığını gizleyemedi",
+      "link": "https://www.haberturk.com/magazin/serdar-ortac-tan-aslihan-malbora-ya-bununla-evlenecek-misin-3921549",
+      "published": "2026-10-22T08:44:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:26.398637+00:00"
     },
     {
       "id": "623e84abc384cb32",
@@ -349,6 +613,17 @@
       "fetched_at": "2026-10-22T08:45:55.750037+00:00"
     },
     {
+      "id": "2f1caa1cd90bcffb",
+      "source": "Yeniçağ",
+      "title": "Amazon'un yöneticisi Laura Dambon, istismara uğradığını iddia etti",
+      "summary": "Amazon&#039;da yönetici pozisyonunda bulunan Laura Dambon, iş seyahati sırasında bir üst düzey yönetici tarafından cinsel istismara uğradığını iddia ederek dava açtı.",
+      "link": "https://www.yenicaggazetesi.com/amazonun-yoneticisi-laura-dambon-istismara-ugradigini-iddia-etti-1084126h.htm",
+      "published": "2026-10-22T08:43:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:38.682382+00:00"
+    },
+    {
       "id": "dd9233cf177ec5a0",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "Ukrayna Devlet Başkanı Zelenskiy, ülkesinin 12 bölgesine saldırılar düzenlendiğini belirtti",
@@ -369,6 +644,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T08:45:52.340264+00:00"
+    },
+    {
+      "id": "acb949e998773892",
+      "source": "Akşam",
+      "title": "Küresel güvenlik açığına karşı önlem: Siber Güvenlik Başkanlığı devrede",
+      "summary": "Siber Güvenlik Başkanlığı'ndan yapılan açıklamada, \"Dünya genelinde kullanılan PHP altyapısında tespit edilen güvenlik açıklarına ilişkin önleyici çalışmalar sürüyor. E-Devlet başta olmak üzere kamu dijital hizmetleri kesintisiz şekilde sunulmaya devam ediyor.\" denildi.",
+      "link": "https://www.aksam.com.tr/teknoloji/siber-guvenlik-baskanligi-onleyici-calismalar-suruyor/haber-1708280",
+      "published": "2026-10-22T08:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:35.771376+00:00"
     },
     {
       "id": "fb9ca4f9fafb36ca",
@@ -578,6 +864,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T08:40:39.027593+00:00"
+    },
+    {
+      "id": "403d53e8285a9e9a",
+      "source": "Evrensel",
+      "title": "Kastamonu’da kasten orman yakan kişiye 8 yıl 4 ay hapis cezası",
+      "summary": "Kastamonu'da kasten orman yaktığı gerekçesiyle yargılanan sanığa, 8 yıl 4 ay hapis cezası verildi.",
+      "link": "https://www.evrensel.net/haber/6006094/kastamonuda-kasten-orman-yakan-kisiye-8-yil-4-ay-hapis-cezasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-22T08:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:32.560328+00:00"
+    },
+    {
+      "id": "fb2424e57b40568d",
+      "source": "Evrensel",
+      "title": "\"Türkiye Yüzyılı\" sloganının mimarı: Ertan Aydın kimdir?",
+      "summary": "Eski AKP Ankara Milletvekili Ertan Aydın, İstanbul'da yürütülen fon soruşturması kapsamında gözaltına alındı. Erdoğan'ın başbakanlığı döneminde siyasi danışmanlık yapan Aydın, 2015'te AKP'den milletvekili seçildi.",
+      "link": "https://www.evrensel.net/haber/6006095/turkiye-yuzyili-sloganinin-mimari-ertan-aydin-kimdir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-22T08:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:32.560365+00:00"
     },
     {
       "id": "0c529f20ba121333",
@@ -833,6 +1141,17 @@
       "fetched_at": "2026-10-22T08:40:55.039838+00:00"
     },
     {
+      "id": "781bf5e78df0676b",
+      "source": "Yeniçağ",
+      "title": "BilimFest Trabzon, 23 Ekim'de başlıyor",
+      "summary": "Trabzon Büyükşehir Belediyesi Özdemir Bayraktar Bilim Merkezi koordinasyonunda düzenlenen BilimFest Trabzon yarın kapılarını açıyor.",
+      "link": "https://www.yenicaggazetesi.com/bilimfest-trabzon-23-ekimde-basliyor-1084119h.htm",
+      "published": "2026-10-22T08:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:38.682533+00:00"
+    },
+    {
       "id": "84ac8429ad12aa4c",
       "source": "Ekonomim",
       "title": "İGA İstanbul Havalimanı’na dijital iletişim alanında iki Altın Pusula ödülü",
@@ -930,6 +1249,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T08:50:36.318329+00:00"
+    },
+    {
+      "id": "ec0b42cd3b775e75",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Troya'da 160 yılı aşkın kazı tarihinde ilk müzik aleti bulundu",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Troya kazılarında yaklaşık 2 bin 800 yıllık kemik flüt ile 4 bin 500 yıllık insan biçimli bir idol başının gün ışığına çıkarıldığını duyurdu.",
+      "link": "https://www.aa.com.tr/tr/kultur/troyada-160-yili-askin-kazi-tarihinde-ilk-muzik-aleti-bulundu/4096826",
+      "published": "2026-10-22T08:32:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:29.262282+00:00"
     },
     {
       "id": "ba2b984805ede764",
@@ -2261,6 +2591,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T08:25:26.204555+00:00"
+    },
+    {
+      "id": "a38a4c31018cb5b8",
+      "source": "Yeniçağ",
+      "title": "2026 Mustafa V. Koç Spor Ödülü sahiplerini buldu",
+      "summary": "10’uncusu düzenlenen Mustafa V. Koç Spor Ödülü’nde milli güreşçi Nesrin Baş, yüzücü Umut Ünlü ve Türkiye Voleybol Federasyonu Başkanı Mehmet Akif Üstündağ ödül kazandı.",
+      "link": "https://www.yenicaggazetesi.com/2026-mustafa-v-koc-spor-odulu-sahiplerini-buldu-1084114h.htm",
+      "published": "2026-10-22T08:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-22T08:55:38.682681+00:00"
     },
     {
       "id": "b3becb38e61e9d24",
@@ -5165,347 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T07:25:30.907569+00:00"
-    },
-    {
-      "id": "76098ed4abcaf04e",
-      "source": "OdaTV",
-      "title": "Yapay et ve süt üretimine yüksek enerji ve düşük verim engeli",
-      "summary": "Bir araştırmada laboratuvarda üretilen et ve süt proteinlerinin yüksek enerji tüketimi, düşük verim ve endüstriyel ölçekteki üretim zorluklarına dikkat çekildi. Uzmanlar, halk sağlığı güvenliği için zorunlu klinik çalışmaların ve ek kontrollerin yapılması gerektiğini vurguladı.",
-      "link": "https://www.odatv.com/gastroda/laboratuvar-eti-ve-sutu-surdurulebilir-mi-120167764",
-      "published": "2026-10-22T07:21:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:31:00.450780+00:00"
-    },
-    {
-      "id": "2eba49509126d812",
-      "source": "Yeni Şafak",
-      "title": "Kurumlardan 'Çocuğum hasta' diyerek para topluyordu: Eşinin üzerine kayıtlı 2 araç çıktı",
-      "summary": "Bilecik’te bir bankaya girerek elindeki bir dergiyi \"Çocuğum hasta\" diyerek satmak isteyen şahsı zabıta yakalarken, yapılan araştırmada yanındaki eşinin üzerine kayıtlı 2 araç çıktı.",
-      "link": "https://www.yenisafak.com/gundem/kurumlardan-cocugum-hasta-diyerek-para-topluyordu-esinin-uzerine-kayitli-2-arac-cikti-4866375",
-      "published": "2026-10-22T07:21:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:25:35.779698+00:00"
-    },
-    {
-      "id": "8cd9e4ac62113e5c",
-      "source": "Karar",
-      "title": "Troya'da 160 yıllık kazı tarihinde bir ilk: 2 bin 800 yıllık müzik aleti bulundu",
-      "summary": "Çanakkale'deki Troya Antik Kenti'nde yürütülen kazılarda, 160 yılı aşkın araştırma tarihinde ilk kez bir müzik aleti gün yüzüne çıkarıldı. Yaklaşık 2 bin 800 yıllık kemik flüt, antik kentteki müzik kültürünün doğrudan arkeolojik kanıtı olarak kayıtlara geçti. Kazılarda ayrıca Troya II kent kapısı yakınında 4 bin 500 yıllık insan biçimli bir idol başı bulundu. İki keşif, Troya'nın farklı dönemlerde",
-      "link": "https://www.karar.com/sehir-haberleri/troyada-160-yillik-kazi-tarihinde-bir-ilk-2-bin-800-yillik-muzik-aleti-2079958",
-      "published": "2026-10-22T07:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:25:37.455033+00:00"
-    },
-    {
-      "id": "7214767164e6b509",
-      "source": "Türkiye Gazetesi",
-      "title": "142 yıllık çınar! Bir ilçenin simgesi oldu, idamlar için kullanılmış",
-      "summary": "Tokat'ın Pazar ilçesinde 1884 yılında dikilen ve 2010 yılında anıt ağaç olarak tescillenen çınar, ilçenin simgesi haline geldi. Adres tariflerinde de önemli bir yer tutan çınarın, geçmişte idamlar için kullanıldığı iddia ediliyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/yasam/tokatta-142-yillik-cinar-bir-ilcenin-simgesi-oldu-idamlar-icin-kullanilmis-1824425",
-      "published": "2026-10-22T07:20:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:25:30.907594+00:00"
-    },
-    {
-      "id": "38973d4ae631fa3c",
-      "source": "Euronews Türkçe",
-      "title": "Sırbistan'da protestocular seçim öncesi Belgrad sokaklarında",
-      "summary": "Çarşamba günü Sırbistan’ın dört bir yanından Belgrad’a gelen öğrenciler tezahüratlar, müzik ve sallanan bayraklarla karşılandı. Hafta sonu yapılacak ani parlamento seçimleri öncesindeki son mitingten önce binlerce kişi toplandı.",
-      "link": "https://tr.euronews.com/video/2026/10/22/sirbistanda-ogrenci-protestocular-secim-oncesi-belgradi-doldurdu",
-      "published": "2026-10-22T07:20:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:31:21.068026+00:00"
-    },
-    {
-      "id": "a0125651859cd16e",
-      "source": "Diken",
-      "title": "PHP nedir? Neden küresel 'siber güvenlik endişesi' yarattı?",
-      "summary": "PHP nedir? Neden küresel 'siber güvenlik endişesi' yarattı? 22.10.2026 Diken Dünya genelinde PHP kaynaklı güvenlik açığının giderilmesi için çok sayıda internet sitesi erişime kapatıldı. Türkiye'de de ilgili kurumlara acil güvenlik bildirimi iletildi. The post PHP nedir? Neden küresel 'siber güvenlik endişesi' yarattı? appeared first on #site_linkat 22.10.2026 .",
-      "link": "https://www.diken.com.tr/php-nedir-neden-kuresel-siber-guvenlik-endisesi-yaratti/?utm_source=rss&utm_medium=rss&utm_campaign=php-nedir-neden-kuresel-siber-guvenlik-endisesi-yaratti",
-      "published": "2026-10-22T07:20:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:49.636610+00:00"
-    },
-    {
-      "id": "50b465d332d17313",
-      "source": "Bir Gün",
-      "title": "Gram altın ve çeyrek altın ne kadar oldu?",
-      "summary": "Gram altın, saat 09.30 itibarıyla önceki kapanışa göre yüzde 0,9 azalışla 6 bin 543 liradan işlem görüyor. Aynı dakikalar itibarıyla çeyrek altın 10 bin 728 liradan satılıyor.",
-      "link": "https://www.birgun.net/haber/gram-altin-ve-ceyrek-altin-ne-kadar-oldu-741835",
-      "published": "2026-10-22T07:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T08:10:37.791680+00:00"
-    },
-    {
-      "id": "1c6f64a03905daf5",
-      "source": "Evrensel",
-      "title": "Galatasaray'ın Şampiyonlar Ligi geliri belli oldu: Lille galibiyeti kasayı doldurdu",
-      "summary": "Şampiyonlar Ligi'nde Lille'i deplasmanda 4-2 mağlup eden Galatasaray, ilk galibiyetini elde etti. Sarı-kırmızılıların katılım payı ve galibiyet priminden kazandığı toplam tutar 20,72 milyon euroya ulaştı.",
-      "link": "https://www.evrensel.net/haber/6006081/galatasarayin-sampiyonlar-ligi-geliri-belli-oldu-lille-galibiyeti-kasayi-doldurdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-22T07:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:35:30.591598+00:00"
-    },
-    {
-      "id": "d89ce4856e461c2e",
-      "source": "Yeni Akit",
-      "title": "Fon yasa teklifinde ilk 5 madde kabul edildi! Ara ödeme yapılabilecek",
-      "summary": "TBMM Genel Kurulu'nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin birinci bölümünde yer alan 5 madde kabul edildi. Kabul edilen önergeye göre, tasfiyeye konu fonlara ilişkin olarak 17 Eylül 2026 tarihi ve öncesinde TEFAS'a iletilmiş olmakla birlikte, ilgili fonun temerrüdü ve/veya katılma payı fiyatının açıklanmaması nedenleriyle gerçekleştirilemeyen talimatlar bakımı",
-      "link": "https://www.yeniakit.com.tr/haber/fon-yasa-teklifinde-ilk-5-madde-kabul-edildi-ara-odeme-yapilabilecek-2029553.html",
-      "published": "2026-10-22T07:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:25:36.543981+00:00"
-    },
-    {
-      "id": "7aacfbb6b2ffe5e7",
-      "source": "Akşam",
-      "title": "Fenerbahçe Tarfin, Yunanistan deplasmanında",
-      "summary": "EuroLeague'in 7. haftasında Fenerbahçe Tarfin, yarın deplasmanda Olympiakos ile karşılaşacak.",
-      "link": "https://www.aksam.com.tr/spor/fenerbahce-tarfin-yunanistan-deplasmaninda/haber-1708239",
-      "published": "2026-10-22T07:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:44.369390+00:00"
-    },
-    {
-      "id": "31bab5111c8fdd80",
-      "source": "Habertürk",
-      "title": "Yine en çok o konuşuldu",
-      "summary": "Sıra dışı kıyafet tercihleriyle kırmızı halının en dikkat çeken erkek oyuncularından biri olan Alexander Skarsgard, yeni filmi 'Wicker'ın galasında yine cesur davrandı",
-      "link": "https://www.haberturk.com/magazin/foto/unlu-oyuncu-alexander-skarsgard-in-etekli-kirmizi-hali-stili-3921616",
-      "published": "2026-10-22T07:19:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:25:25.740285+00:00"
-    },
-    {
-      "id": "321888e2a8f236b2",
-      "source": "Akşam",
-      "title": "İstanbul Havalimanı'na bir ödül daha: Londra'daki rakibini geride bıraktı",
-      "summary": "İstanbul Havalimanı, küresel havacılık veri ve analiz kuruluşu OAG'nin \"Megahubs 2026\" raporuna göre \"dünyanın en bağlantılı havalimanı\" seçilmesi dolayısıyla ödüle layık görüldü.",
-      "link": "https://www.aksam.com.tr/dunya/istanbul-havalimanina-bir-odul-daha-londradaki-rakibini-geride-birakti/haber-1708238",
-      "published": "2026-10-22T07:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:44.369428+00:00"
-    },
-    {
-      "id": "20fc0de395d56d1c",
-      "source": "Akşam",
-      "title": "Sinem Ünsal'dan Uzak Şehir hayranlarını şaşırtan sözler: 'Ters köşe yapmayı seviyor'",
-      "summary": "Sinem Ünsal üç sezon boyunca Ozan Akbaba ile başrolü paylaştıkları Uzak Şehir dizisi için, seyircisini şaşırtacak bir açıklamada bulundu. Ünsal, \"Her bölümün senaryosu geldiğinde heyecanlanıyoruz. Yazarımız da ters köşe yapmayı seviyor\" ifadelerini kullandı.",
-      "link": "https://www.aksam.com.tr/venus/sinem-unsaldan-uzak-sehir-hayranlarini-sasirtan-sozler-ters-kose-yapmayi-seviyor/haber-1708237",
-      "published": "2026-10-22T07:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:44.369464+00:00"
-    },
-    {
-      "id": "2126fd8a3d19fb58",
-      "source": "Star",
-      "title": "Fenerbahçe Tarfin, Olympiakos deplasmanında",
-      "summary": "EuroLeague'in 7. haftasında Fenerbahçe Tarfin yarın deplasmanda Yunan ekibi Olympiakos ile karşılaşacak.",
-      "link": "https://www.star.com.tr/spor/fenerbahce-tarfin-olympiakos-deplasmaninda-haber-2048282/",
-      "published": "2026-10-22T07:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:45.588154+00:00"
-    },
-    {
-      "id": "d0d638d562a0a04c",
-      "source": "Cumhuriyet",
-      "title": "Halef: Köklerin Çağrısı dizisinin yeni bölümü ne zaman? Halef: Köklerin Çağrısı dizisinin son bölümünde ne oldu?",
-      "summary": "Halef: Köklerin Çağrısı dizisinin 40. bölümünün ne zaman yayımlanacağı merak ediliyor. Peki, Halef: Köklerin Çağrısı dizisinin yeni bölümü ne zaman? Halef: Köklerin Çağrısı dizisinin son bölümünde ne oldu?",
-      "link": "https://www.cumhuriyet.com.tr/tv-rehberi/halef-koklerin-cagrisi-dizisinin-yeni-bolumu-ne-zaman-halef-koklerin-cagrisi-dizisinin-son-bolumunde-ne-oldu-2549168",
-      "published": "2026-10-22T07:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:38.316505+00:00"
-    },
-    {
-      "id": "1297ea39b77fff94",
-      "source": "Star",
-      "title": "Dünyanın zirvesi İstanbul Havalimanı! Küresel bağlantıda birincilik ödülle taçlandı",
-      "summary": "İstanbul Havalimanı, OAG'nin \"Megahubs 2026\" raporunda dünyanın en bağlantılı havalimanı seçilmesinin ardından ödüle layık görüldü.",
-      "link": "https://www.star.com.tr/ekonomi/dunyanin-zirvesi-istanbul-havalimanikuresel-baglantida-birincilik-odulle-taclandi-haber-2048281/",
-      "published": "2026-10-22T07:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:45.588188+00:00"
-    },
-    {
-      "id": "82cb02329d3e5105",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Esra Albayrak: Yapay zeka çağının apaçık sayılan kabullerini sorgulamak zorundayız",
-      "summary": "NUN Eğitim ve Kültür Vakfı Yönetim Kurulu Başkanı Dr. Esra Albayrak, \"Yapay zeka çağının apaçık sayılan kabullerini sorgulamak ve insanın en çok da lehine kararlar almak cesaretini göstermek zorundayız.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/gundem/esra-albayrak-yapay-zeka-caginin-apacik-sayilan-kabullerini-sorgulamak-zorundayiz/4096716",
-      "published": "2026-10-22T07:17:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:55:29.537029+00:00"
-    },
-    {
-      "id": "e728a076c04469aa",
-      "source": "Yeniçağ",
-      "title": "15 yıllık gazetecilere yeşil pasaport teklifi TBMM'ye sunuldu",
-      "summary": "Yeni Parti Milletvekili Mahmut Tanal tarafından TBMM’ye sunulan kanun teklifiyle, en az 15 yıl mesleki kıdeme sahip gazetecilere vizesiz seyahat imkânı tanınması istendi.",
-      "link": "https://www.yenicaggazetesi.com/15-yillik-gazetecilere-yesil-pasaport-teklifi-tbmmye-sunuldu-1084096h.htm",
-      "published": "2026-10-22T07:17:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:35:36.951327+00:00"
-    },
-    {
-      "id": "8148339368480c30",
-      "source": "Yeniçağ",
-      "title": "Tunceli'de sürüler halinde dolaşan yılkı atları karlı arazide görüntülendi",
-      "summary": "Tunceli&#039;de doğal yaşam alanlarında sürüler halinde yaşayan yılkı atları, 3 bin 300 rakımlı Munzur Dağları’nda karlanan arazide görüntülendi.",
-      "link": "https://www.yenicaggazetesi.com/tuncelide-suruler-halinde-dolasan-yilki-atlari-karli-arazide-goruntulendi-1084095h.htm",
-      "published": "2026-10-22T07:16:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:47.039673+00:00"
-    },
-    {
-      "id": "ea5c2c858029cbb2",
-      "source": "Bir Gün",
-      "title": "Şampiyonlar Ligi'nde gecenin sonuçları",
-      "summary": "Şampiyonlar Ligi, dün oynanan 9 mücadeleyle sürdü. Fransa'da Lille ile karşılaşan Galatasaray, rakibini 4-2'lik skorla mağlup etti.",
-      "link": "https://www.birgun.net/haber/sampiyonlar-ligi-nde-gecenin-sonuclari-741834",
-      "published": "2026-10-22T07:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T08:10:37.791702+00:00"
-    },
-    {
-      "id": "7b7ad5efc8e0410e",
-      "source": "Cumhuriyet",
-      "title": "Zonguldak'ta çöken binada 1 can kaybı: Çevresindeki 7 bina tahliye edildi!",
-      "summary": "Zonguldak'ta Türkan Özhan’ın (74) hayatını kaybettiği, kardeşi Kenan Akçaharman’ın (68) ise yaralandığı çöken 3 katlı binanın çevresinde bulunan 7 binada 13 dairede yaşayan 30 kişi tahliye edildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/zonguldak-ta-coken-binada-1-can-kaybi-cevresindeki-7-bina-tahliye-edildi-2549166",
-      "published": "2026-10-22T07:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:38.316544+00:00"
-    },
-    {
-      "id": "a1d9da523cf5bf1e",
-      "source": "Cumhuriyet",
-      "title": "3 telefondan yalnızca biri açılabildi: Erol Köse'nin ölümünde savcılık kararını verdi!",
-      "summary": "İstanbul Sarıyer'de 40 katlı bir binanın 16'ncı katından düşerek hayatını kaybeden yapımcı Erol Köse'nin ölümüne ilişkin soruşturma tamamlandı. Savcılık, üçüncü kişilerin sorumluluğuna ilişkin herhangi bir suç unsuruna rastlanmadığı gerekçesiyle takipsizlik kararı verdi. Köse'nin üzerinden çıkan 3 cep telefonuna ilişkin incelemenin ayrıntıları da kararda yer aldı.",
-      "link": "https://www.cumhuriyet.com.tr/yasam/3-telefondan-yalnizca-biri-acilabildi-erol-kose-nin-olumunde-savcilik-kararini-verdi-2549167",
-      "published": "2026-10-22T07:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:38.316584+00:00"
-    },
-    {
-      "id": "67f59d769e95430a",
-      "source": "Akşam",
-      "title": "Zeynep Sönmez, Japonya Açık'a veda etti",
-      "summary": "Japonya Açık Kadınlar Tenis Turnuvası'nın 2. tur mücadelesinde Ann Li'ye 2-0 yenilen Zeynep Sönmez, turnuvaya veda etti.",
-      "link": "https://www.aksam.com.tr/spor/zeynep-sonmez-japonya-acika-veda-etti/haber-1708236",
-      "published": "2026-10-22T07:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:44.369489+00:00"
-    },
-    {
-      "id": "581ae52ccaeae6b8",
-      "source": "Ekonomim",
-      "title": "Demokrat partililerden seçim güvenliği hamlesi: Trump yönetiminin baskılarına dava",
-      "summary": "ABD&#039;de yaklaşan Kongre ara seçimleri öncesinde Demokrat Partili yetkililer ve çeşitli gruplar, eyalet yönetimlerine vatandaşlık statüsünden şüphe duyulan kişileri seçmen kütüklerinden silmeleri konusunda hukuka aykırı direktifler veren ve uymayanları tehdit eden ABD Başkanı Donald Trump ile Adalet Bakanlığı hakkında resmi dava başlattı.",
-      "link": "https://www.ekonomim.com/dunya/demokrat-partililerden-secim-guvenligi-hamlesi-trump-yonetiminin-baskilarina-dava-haberi-926342",
-      "published": "2026-10-22T07:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:56.452895+00:00"
-    },
-    {
-      "id": "e4a89bcf19865c2c",
-      "source": "Yeniçağ",
-      "title": "Tümer Metin'den İsmail Kartal iddiası: 1-0 yenilse bile gider",
-      "summary": "Trendyol Süper Lig’in 9. haftasında 26 Ekim Pazartesi günü karşı karşıya gelecek olan Galatasaray ve Fenerbahçe derbisi öncesi futbol kamuoyunun heyecanı tırmanırken, ünlü futbol yorumcusu Tümer Metin’den gündem yaratacak açıklamalar geldi.",
-      "link": "https://www.yenicaggazetesi.com/tumer-metinden-ismail-kartal-iddiasi-1-0-yenilse-bile-gider-1084094h.htm",
-      "published": "2026-10-22T07:15:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:15:46.298347+00:00"
-    },
-    {
-      "id": "430bd3178f54daf1",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Olympiakos'a konuk olacak",
-      "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 7. haftasında yarın Yunanistan'ın Olympiakos ekibiyle deplasmanda karşılaşacak.",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-basketbol-avrupa-liginde-yarin-olympiakosa-konuk-olacak/4096714",
-      "published": "2026-10-22T07:15:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T08:15:34.350782+00:00"
-    },
-    {
-      "id": "5da5c715a29660bc",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İstanbul Havalimanı'na \"dünyanın en bağlantılı havalimanı\" ödülü",
-      "summary": "İstanbul Havalimanı, küresel havacılık veri ve analiz kuruluşu OAG'nin \"Megahubs 2026\" raporuna göre \"dünyanın en bağlantılı havalimanı\" seçilmesi dolayısıyla ödüle layık görüldü.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimanina-dunyanin-en-baglantili-havalimani-odulu-/4096713",
-      "published": "2026-10-22T07:15:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:38.024284+00:00"
-    },
-    {
-      "id": "f4c593a486c066fc",
-      "source": "LOG",
-      "title": "Meta’ya Cambridge Analytica skandalıyla bağlantılı davada 25 milyar dolar ceza",
-      "summary": "New Mexico, 2018&#8217;de ortaya çıkan Cambridge Analytica skandalıyla bağlantılı dava kapsamında Meta&#8217;ya 25 milyar dolar ceza verdi. Karara itiraz edeceklerini açıklayan şirketin hukuk işlerinden sorumlu yöneticisi C.J. Mahoney, mahkeme kararıyla Başsavcılığın tutumunun New Mexico&#8217;da iş yapmayı neredeyse imkansız hale getirdiğini söyledi. Davanın internette söylenebilecekler için yeni",
-      "link": "https://www.log.com.tr/metaya-cambridge-analytica-skandaliyla-baglantili-davada-25-milyar-dolar-ceza/",
-      "published": "2026-10-22T07:15:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:16:03.689216+00:00"
-    },
-    {
-      "id": "83b1949f2950405f",
-      "source": "OdaTV",
-      "title": "Fon soruşturmasında eski AKP'li vekil Ertan Aydın gözaltına alındı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı&#039;nın fon soruşturmasında aranan 5 kişinin yakalanmasıyla gözaltı sayısı 31&#039;e yükseldi. Yakalananlar arasında eski AKP Milletvekili, dönemin başbakanları Erdoğan ve Ahmet Davutoğlu&#039;nun eski danışmanı Ertan Aydın da yer aldı.",
-      "link": "https://www.odatv.com/ekonomi/fon-sorusturmasinda-eski-akpli-vekil-ertan-aydin-gozaltina-alindi-diger-4-kisi-kim-120167763",
-      "published": "2026-10-22T07:15:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T08:35:44.672570+00:00"
-    },
-    {
-      "id": "91561e39d3f8624d",
-      "source": "OdaTV",
-      "title": "Fon soruşturmasında eski AKP'li vekil Ertan Aydın gözaltına alındı",
-      "summary": "Fon soruşturmasında eski AKP Milletvekili ve eski Başbakan Ahmet Davutoğlu&#039;nun danışmanı Ertan Aydın gözaltına alındı.",
-      "link": "https://www.odatv.com/ekonomi/fon-sorusturmasinda-eski-basbakan-danismani-ertan-aydin-gozaltina-alindi-120167763",
-      "published": "2026-10-22T07:15:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:35:38.700261+00:00"
-    },
-    {
-      "id": "bec99447ffa0d6b9",
-      "source": "OdaTV",
-      "title": "Fon soruşturmasında eski Başbakan Danışmanı Ertan Aydın gözaltına alındı",
-      "summary": "Fon soruşturmasında eski AKP Milletvekili ve eski Başbakan Ahmet Davutoğlu&#039;nun danışmanı Ertan Aydın gözaltına alındı.",
-      "link": "https://www.odatv.com/ekonomi/fon-sorusturmasinda-eski-basbakan-danismani-ertan-aydin-gozaltina-alindi-120167763",
-      "published": "2026-10-22T07:15:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T07:20:48.771856+00:00"
     }
   ]
 }

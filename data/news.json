@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-10-23T15:31:33.035613+00:00",
+  "last_updated": "2026-10-23T15:35:56.664953+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 478,
+  "new_items_this_run": 476,
   "items": [
+    {
+      "id": "31fd209d8825fb71",
+      "source": "CNBC-e",
+      "title": "Melania Trump devreye girdi! Rusya ve Ukrayna arasında özel ateşkes",
+      "summary": "Beyaz Saray, ABD Başkanı Donald Trump'ın eşi Melania Trump'ın girişimleriyle Rusya ve Ukrayna arasında Herson bölgesindeki Oleşki kenti için özel ateşkes anlaşmasına varıldığını duyurdu. İnsani yardım ve sivillerin tahliyesini kapsayan ateşkesin 29 Ekim'de yürürlüğe gireceği belirtildi.",
+      "link": "https://www.cnbce.com/dunya/melania-trump-devreye-girdi-rusya-ve-ukrayna-arasinda-ozel-ateskes-h40181",
+      "published": "2026-10-23T15:34:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:49.372818+00:00"
+    },
+    {
+      "id": "cf2b4bb5e1f9cba0",
+      "source": "Akşam",
+      "title": "Bakan Çiftçi'den maden ocağında hayatını kaybedenlere taziye mesajı",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, Zonguldak'taki maden ocağında meydana gelen grizu patlaması sonucu hayatını kaybedenlere Allah'tan rahmet, yaralılara şifa diledi.",
+      "link": "https://www.aksam.com.tr/guncel/bakan-ciftciden-maden-ocaginda-hayatini-kaybedenlere-taziye-mesaji/haber-1708650",
+      "published": "2026-10-23T15:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:38.163177+00:00"
+    },
+    {
+      "id": "4357f739aa9eb702",
+      "source": "Milliyet",
+      "title": "Cumhurbaşkanı Erdoğan, Üsküdar ve Ataşehir Belediye Başkan Vekilleri'ni kabul etti",
+      "summary": "AK Parti İstanbul İl Başkanı Abdullah Özdemir, sosyal medya hesabından yaptığı paylaşımda, \"Genel Başkanımız, Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın kabullerinde, Üsküdar Belediye Başkan Vekilimiz Muhammed Emin Sarıoğlu, Ataşehir Belediye Başkan Vekilimiz Serdar Orhan, Üsküdar İlçe Başkanımız Taha Sarıcaoğlu ve Ataşehir İlçe Başkanımız Burak Çifçi ile birlikte yer aldık. Nazik kabulleri ve",
+      "link": "https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogan-uskudar-ve-atasehir-belediye-baskan-vekillerini-kabul-etti-7686310",
+      "published": "2026-10-23T15:33:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:36.899286+00:00"
+    },
+    {
+      "id": "5db6d29e2cac052d",
+      "source": "Star",
+      "title": "Türkiye Diyanet Vakfı fon iddialarını yalanladı: Söz konusu değildir",
+      "summary": "Türkiye Diyanet Vakfı (TDV), fon yatırımlarından zarar edildiği ve bu nedenle yöneticilerin görevden alındığı iddialarının gerçeği yansıtmadığını bildirdi.",
+      "link": "https://www.star.com.tr/guncel/turkiye-diyanet-vakfi-fon-iddialarini-yalanladi-soz-konusu-degildir-haber-2048636/",
+      "published": "2026-10-23T15:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:39.319743+00:00"
+    },
+    {
+      "id": "f5f90b09a831af82",
+      "source": "Karar",
+      "title": "PUBG: Board Royale kutu oyunu, dünya lansmanı öncesinde Almanya’da tanıtıldı",
+      "summary": "NODWIN Gaming, KRAFTON ve Arvis Games, PUBG: Board Royale’i dünyanın önde gelen masa ve kutu oyunları fuarı SPIEL Essen 2026'ya getirdi. Oyunculara, 2027’de yapılacak dünya lansmanı öncesinde fiziksel prototipi ilk kez deneyimleme fırsatı sunuldu.",
+      "link": "https://www.karar.com/guncel-haberler/pubg-board-royale-kutu-oyunu-dunya-lansmani-oncesinde-almanyada-2080264",
+      "published": "2026-10-23T15:31:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:40.121153+00:00"
+    },
+    {
+      "id": "a7330fe2e43045c1",
+      "source": "Cumhuriyet",
+      "title": "Oyuncu Levent Üzümcü’nün ev hapsinde 100. gün: 'Hakkımda ne iddianame ne şikâyet var'",
+      "summary": "İzmir Şehir Tiyatroları Eski Genel Sanat Yönetmeni ve oyuncu Levent Üzümcü, ev hapsi şeklindeki adli kontrol tedbirinin 100. gününe girdiğini duyurdu. Hakkında henüz iddianame hazırlanmadığını belirten Üzümcü, “Kim bilir ben hangi suçun cezasını çekiyorum” dedi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/oyuncu-levent-uzumcu-nun-ev-hapsinde-100-gun-hakkimda-ne-iddianame-ne-sikayet-var-2549639",
+      "published": "2026-10-23T15:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:33.415889+00:00"
+    },
+    {
+      "id": "cbea2458db58d8f3",
+      "source": "Türkiye Gazetesi",
+      "title": "Cumhurbaşkanı Erdoğan, Sarıoğlu ve Orhan'ı kabul etti",
+      "summary": "Cumhurbaşkanı Sayın Recep Tayyip Erdoğan, Üsküdar Belediye Başkan Vekili Muhammed Emin Sarıoğlu ve Ataşehir Belediye Başkan Vekili Serdar Orhan'ı kabul etti. Görüşmeye ilişkin açıklama, AK Parti İstanbul İl Başkanı Abdullah Özdemir'den geldi.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/cumhurbaskani-erdogandan-uskudar-ve-atasehirin-baskan-vekillerine-kabul-1824750",
+      "published": "2026-10-23T15:30:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:34.648964+00:00"
+    },
     {
       "id": "1c7828e6be1064fc",
       "source": "Karar",
@@ -107,6 +184,17 @@
       "fetched_at": "2026-10-23T15:30:50.318596+00:00"
     },
     {
+      "id": "dbeff5c22d891bdd",
+      "source": "Bloomberg HT",
+      "title": "Japonya'da siber güvenlik alarmı",
+      "summary": "Japonya Başbakanı Takaiçi Sanae, kişisel verileri hedef alan siber saldırıların ardından kamu kurumlarında güvenlik önlemlerinin artırılacağını açıkladı.",
+      "link": "https://www.bloomberght.com/japonya-da-siber-guvenlik-alarmi-3792438",
+      "published": "2026-10-23T15:23:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:47.464880+00:00"
+    },
+    {
       "id": "c8ac6488cbb237b8",
       "source": "Türkiye Gazetesi",
       "title": "HEPSİ O ENKAZDAN ÇIKTI!",
@@ -149,6 +237,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T15:30:50.318624+00:00"
+    },
+    {
+      "id": "dfbecd7d702e58ca",
+      "source": "Sabah",
+      "title": "Sosyal medyada 1 Kasım alarmı! DMM'den 'Yaş doğrulaması' dolandırıcılığı uyarısı: Sadece e-devlet'ten yapılacak",
+      "summary": "Sosyal medya platformlarında 1 Kasım itibarıyla başlayacak olan yeni yaş doğrulaması dönemini fırsat bilen siber dolandırıcılar harekete geçti. İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM),... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/10/23/sosyal-medyada-1-kasim-alarmi-dmmden-yas-dogrulamasi-dolandiriciligi-uyarisi-sadece-e-devletten-yapilacak",
+      "published": "2026-10-23T15:22:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T15:35:37.343415+00:00"
     },
     {
       "id": "cb9c1a6e861c74e9",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T13:20:34.508208+00:00"
-    },
-    {
-      "id": "1ffff91a6be7715e",
-      "source": "Evrensel",
-      "title": "Ürdün'de kilisedeki cenaze törenine silahlı saldırı: En az 7 kişi hayatını kaybetti",
-      "summary": "Ürdün'ün güneyindeki Kerek bölgesinde bir kilisede düzenlenen cenaze törenine silahlı saldırı gerçekleştirildi. Saldırıda en az 7 kişi yaşamını yitirirken, 10 kişi yaralandı.",
-      "link": "https://www.evrensel.net/haber/6006313/urdunde-kilisedeki-cenaze-torenine-silahli-saldiri-en-az-7-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-23T13:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:20:40.883342+00:00"
-    },
-    {
-      "id": "69136374d9d9c527",
-      "source": "Cumhuriyet",
-      "title": "Türkiye'nin kartlı ödeme bilançosu ortaya çıktı: Bir ayda 3 trilyon TL'ye dayandı!",
-      "summary": "BKM, Eylül 2026 dönemine ilişkin kartlı ödeme verilerini açıkladı. Kredi kartı, banka kartı ve ön ödemeli kartlarla yapılan harcamalarda yıllık bazda artış kaydedilirken, internetten ve temassız yapılan ödemelerdeki yükseliş de dikkat çekti. Açıklanan veriler, Türkiye'de kartlı ödemelerin ulaştığı büyüklüğü ortaya koydu.",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-nin-kartli-odeme-bilancosu-ortaya-cikti-bir-ayda-3-trilyon-tl-ye-dayandi-2549595",
-      "published": "2026-10-23T13:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:10:36.827551+00:00"
-    },
-    {
-      "id": "baf04ebdbe4234e9",
-      "source": "OdaTV",
-      "title": "Adı Fenerbahçe ile anıldı: Teknik direktörden açıklama",
-      "summary": "Napoli sonrası geleceği merak edilen Antonio Conte, teknik direktörlük kariyerine ne zaman döneceğine karar vermek için zamana ihtiyacı olduğunu açıkladı. Fenerbahçe ve Manchester United ile anılan deneyimli çalıştırıcı, hakkındaki iddiaların asılsız olduğunu belirtti.",
-      "link": "https://www.odatv.com/spor/adi-fenerbahce-ile-anildi-teknik-direktor-conteden-aciklama-120167986",
-      "published": "2026-10-23T13:06:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:10:45.616968+00:00"
-    },
-    {
-      "id": "871c8019c1ac246e",
-      "source": "DW Türkçe",
-      "title": "Türk yolcu uçağında ölümcül pilot hatası: Son anda fark edildi",
-      "summary": "Pegasus'a ait bir yolcu uçağı Frankfurt Havalimanı'nda olası bir faciadan döndü. Uçağın pilotları birdenbire izin verilenin aksi yönde kalkışa geçti. Hava kontrolün durumu zamanında fark etmesiyle tehlike atlatıldı.",
-      "link": "https://www.dw.com/tr/türk-yolcu-uçağında-ölümcül-pilot-hatası-son-anda-fark-edildi/a-79743987?maca=tur-rss-tur-all-1495-rdf",
-      "published": "2026-10-23T13:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:21:06.319819+00:00"
-    },
-    {
-      "id": "2aec7022a29b1389",
-      "source": "Hürriyet",
-      "title": "2 yıla kadar hapsi isteniyor: İmamoğlu'nun 'makam aracı' davasında duruşma görülüyor",
-      "summary": "Ekrem İmamoğlu'nun Beylikdüzü Belediye Başkanlığı döneminde kendi şirketine ait aracı başkanlık makam aracı olarak kullandığı ve masraflarını belediyeye karşılattığı iddiasıyla yargılandığı davanın 2’nci duruşması görülüyor.",
-      "link": "https://www.hurriyet.com.tr/gundem/2-yila-kadar-hapsi-isteniyor-imamoglunun-yargilandigi-makam-araci-davasinda-43352515",
-      "published": "2026-10-23T13:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:40:37.514877+00:00"
-    },
-    {
-      "id": "6643834c67409f02",
-      "source": "Evrensel",
-      "title": "Yerine kayyım atanan Dersim Belediyesi Eş Başkanı Cevdet Konak beraat etti",
-      "summary": "Yerine kayyım atanan Dersim Belediye Eş Başkanı Cevdet Konak, “örgüt propagandası yapmak” suçlamasıyla yargılandığı davada beraat etti. Mahkeme, suçun yasal unsurlarının oluşmadığına hükmetti.",
-      "link": "https://www.evrensel.net/haber/6006312/yerine-kayyim-atanan-dersim-belediyesi-es-baskani-cevdet-konak-beraat-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-23T13:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:20:40.883380+00:00"
-    },
-    {
-      "id": "6f4bd387ec001f5e",
-      "source": "Akşam",
-      "title": "Rafael Leao'dan dikkat çeken paylaşım",
-      "summary": "Galatasaray'da forma giyen Portekizli yıldız oyuncu Rafael Leao, sosyal medya hesabından dikkat çeken bir paylaşımda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/rafael-leaodan-dikkat-ceken-paylasim/haber-1708627",
-      "published": "2026-10-23T13:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:05:35.534899+00:00"
-    },
-    {
-      "id": "0afe5b92cbcfa6f8",
-      "source": "Yeniçağ",
-      "title": "Gaziantep FK, Süper Lig’in 9. haftasında Erzurumspor FK'yı konuk edecek",
-      "summary": "Gaziantep FK, Trendyol Süper Lig’in 9. haftasında yarın sahasında Erzurumspor FK ile karşı karşıya gelecek. Gaziantep Büyükşehir Stadı’nda oynanacak mücadele saat 16.00’da başlayacak. Karşılaşmada hakem Melek Dakan görev yapacak.",
-      "link": "https://www.yenicaggazetesi.com/gaziantep-fk-super-ligin-9-haftasinda-erzurumspor-fkyi-konuk-edecek-1084484h.htm",
-      "published": "2026-10-23T13:04:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:05:37.798091+00:00"
-    },
-    {
-      "id": "4426a5dea242f869",
-      "source": "Habertürk",
-      "title": "\"İstanbul'u terk etmedim\"",
-      "summary": "Daha önce kedi ve köpekleriyle birlikte bahçeli, geniş ve doğayla iç içe bir eve taşındıklarını açıklayan Begüm Kütük, sözlerinin yanlış anlaşıldığını ifade ederek İstanbul'u terk etmediğini şehre yakın bir yere yerleştiğini söyledi",
-      "link": "https://www.haberturk.com/begum-kutuk-istanbul-u-terk-etmedim-3922047-magazin",
-      "published": "2026-10-23T13:03:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:20:34.508240+00:00"
     }
   ]
 }

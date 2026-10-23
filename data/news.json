@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-23T00:11:02.827799+00:00",
+  "last_updated": "2026-10-23T00:16:08.323732+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 449,
+  "new_items_this_run": 475,
   "items": [
+    {
+      "id": "2f3cb0792e1850d1",
+      "source": "OdaTV",
+      "title": "Başörtüsü nedeniyle hakimi reddeden avukat yargılandığı davadan beraat etti",
+      "summary": "Davada hakimin başörtülü olması nedeniyle &#039;reddihakim&#039; talebinde bulunan sanık avukat Alperen Demirdiş, &#039;görevi kötüye kullanma&#039; ve &#039;halkın bir kesiminin benimsediği dini değerleri alenen aşağılama&#039; suçlarından yargılandığı davada beraat etti.",
+      "link": "https://www.odatv.com/guncel/basortusu-nedeniyle-hakimi-reddeden-avukat-yargilandigi-davadan-beraat-etti-120167883",
+      "published": "2026-10-23T00:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T00:15:54.046452+00:00"
+    },
     {
       "id": "b8a7b4a505621a24",
       "source": "Türkiye Gazetesi",
@@ -28,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T00:10:39.586086+00:00"
+    },
+    {
+      "id": "ae6e0db5cb32b01a",
+      "source": "Finans Gündem",
+      "title": "Beşiktaş'ta Italiano'dan Avrupa mesajı: Namağlup olmamız önemli",
+      "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, “Bir puan aldık ama çok önemli bir puan olduğunu söyleyebilirim. Burada önemli olan şey, hala Avrupa’da namağlup olmamız. Özellikle böylesine zor bir grupta namağlubuz” dedi.",
+      "link": "https://www.finansingundemi.com/haber/besiktasta-italianodan-avrupa-mesaji-namaglup-olmamiz-onemli/1912411",
+      "published": "2026-10-23T00:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T00:16:01.604064+00:00"
     },
     {
       "id": "b205e0926b7f124a",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T19:55:33.369747+00:00"
-    },
-    {
-      "id": "eeb75e61b6b40e57",
-      "source": "Finans Gündem",
-      "title": "SPK’dan 48 kişi hakkında suç duyurusu kararı",
-      "summary": "SPK, Altınkılıç Gıda ve Süt Sanayi Ticaret ile Anel Elektrik Proje Taahhüt ve Ticaret hakkında yapılan inceleme sonucunda suç duyurusu, işlem yasağı ve lisans iptali kararı verdi.",
-      "link": "https://www.finansingundemi.com/haber/spkdan-48-kisi-hakkinda-suc-duyurusu-karari/1912390",
-      "published": "2026-10-22T19:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T19:50:49.205663+00:00"
-    },
-    {
-      "id": "dc880a6485f586f2",
-      "source": "Cumhuriyet",
-      "title": "Nefes kesen maçta Beşiktaş'ı devirdi: EuroLeague'deki Türk derbisinde kazanan Anadolu Efes",
-      "summary": "EuroLeague 7. hafta maçında Anadolu Efes, Beşiktaş'ı 89-80 mağlup etti.",
-      "link": "https://www.cumhuriyet.com.tr/spor/nefes-kesen-macta-besiktas-i-devirdi-euroleague-deki-turk-derbisinde-kazanan-anadolu-efes-2549391",
-      "published": "2026-10-22T19:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T19:45:53.319691+00:00"
     }
   ]
 }

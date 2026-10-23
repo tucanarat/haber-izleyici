@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-23T22:40:54.853404+00:00",
+  "last_updated": "2026-10-23T22:46:12.440005+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 447,
+  "new_items_this_run": 446,
   "items": [
+    {
+      "id": "4c874413c91d78de",
+      "source": "Akşam",
+      "title": "Ipswich Town ile Nottingham Forest, puanları paylaştı",
+      "summary": "İngiltere Premier Lig'in 8. haftasında Ipswich Town, sahasında Nottingham Forest'ı konuk etti. Mücadele, 1-1'lik beraberlikle noktalandı.",
+      "link": "https://www.aksam.com.tr/spor/ipswich-town-ile-nottingham-forest-puanlari-paylasti/haber-1708709",
+      "published": "2026-10-23T22:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T22:45:50.810790+00:00"
+    },
     {
       "id": "990dde23f9f73ac3",
       "source": "Star",
@@ -39,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T22:40:42.648855+00:00"
+    },
+    {
+      "id": "3dcdb9119a0a9939",
+      "source": "Habertürk",
+      "title": "1400 kilometre uzaktan ameliyat",
+      "summary": "Muş Devlet Hastanesi’nde tedavi gören 43 yaşındaki Aynur Karaca , 1400 kilometre uzaklıktaki İstanbul’dan telecerrahi yöntemiyle ameliyat edildi",
+      "link": "https://www.haberturk.com/saglik/1400-kilometre-uzaktan-ameliyat-3922158",
+      "published": "2026-10-23T22:38:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T22:45:38.313083+00:00"
     },
     {
       "id": "60111a23f136b25c",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T17:55:47.954637+00:00"
-    },
-    {
-      "id": "08269a53851f4b12",
-      "source": "Bloomberg HT",
-      "title": "Trump: Ukrayna'nın internet sorunu çözülmezse Musk ile görüşeceğim",
-      "summary": "ABD Başkanı Donald Trump, Ukrayna ordusunun Starshield uydu internet hizmetine erişiminde yaşanan sorunun çözüldüğünü duyduğunu, ancak devam etmesi halinde SpaceX CEO'su Elon Musk ile görüşeceğini açıkladı.",
-      "link": "https://www.bloomberght.com/trump-ukrayna-nin-internet-sorunu-cozulmezse-musk-ile-gorusecegim-3792446",
-      "published": "2026-10-23T17:48:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T18:01:13.883737+00:00"
-    },
-    {
-      "id": "33e9a163ec3b5a2c",
-      "source": "Akşam",
-      "title": "Doğu Akdeniz'de kirli ittifak! İsrail'den füze, Yunanistan'dan atış",
-      "summary": "Yunanistan ve İsrail deniz kuvvetleri, Girit'in kuzey açıklarında SPIKE NLOS ve ER tipi güdümlü füzelerle ortak atış tatbikatı gerçekleştirdi. Tatbikatta hedef olarak kullanılan hizmet dışı bir Yunan fırkateyni batırıldı.",
-      "link": "https://www.aksam.com.tr/dunya/dogu-akdenizde-kirli-ittifak-israilden-fuze-yunanistandan-atis/haber-1708673",
-      "published": "2026-10-23T17:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T17:50:45.820981+00:00"
     }
   ]
 }

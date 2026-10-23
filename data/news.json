@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-10-23T16:21:04.584680+00:00",
+  "last_updated": "2026-10-23T16:25:54.782059+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 482,
+  "new_items_this_run": 474,
   "items": [
+    {
+      "id": "fea2974d5b89d987",
+      "source": "CNBC-e",
+      "title": "Trump’tan Müslüman senatör adayına sert saldırı: “Şiddet yanlısı bir cihatçı”",
+      "summary": "ABD Başkanı Donald Trump, Michigan’da Demokratların Senato adayı Abdul El-Sayed’i “acımasız, şiddet yanlısı bir cihatçı” olarak nitelendirdi. El-Sayed’in Müslüman kimliğini de gündeme getiren Trump, adayın Kongre’de yer almaması gerektiğini savundu.",
+      "link": "https://www.cnbce.com/haberler/trumptan-musluman-senator-adayina-sert-saldiri-siddet-yanlisi-bir-cihatci-h40184",
+      "published": "2026-10-23T16:24:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:46.811970+00:00"
+    },
+    {
+      "id": "be39fe10590185ed",
+      "source": "Milliyet",
+      "title": "Bakan Yumaklı Kastamonu'da DSİ kampüsünü açtı: 29 milyar TL'lik Andıraz Barajı ihalesi yıl sonuna kadar yapılacak",
+      "summary": "Yumaklı, Devlet Su İşleri (DSİ) Kastamonu Bölge Müdürlüğü Hizmet Binaları ve Tesisleri açılış töreninde yaptığı konuşmada, Kastamonu, Bartın, Zonguldak ve Karabük illerine hizmet verecek, suyun geleceğini planlayacak ve yeni yatırımlara yön verecek güçlü bir merkezi hizmet birimini hizmete aldıklarını​​​​​​​ söyledi. Suyun hayatın kendisi, tarımın, üretimin, sanayinin ve şehirlerin geleceği olduğu",
+      "link": "https://www.milliyet.com.tr/gundem/bakan-yumakli-kastamonuda-dsi-kampusunu-acti-29-milyar-tllik-andiraz-baraji-ihalesi-yil-sonuna-kadar-yapilacak-7686331",
+      "published": "2026-10-23T16:24:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:33.607873+00:00"
+    },
+    {
+      "id": "e479967284ae6489",
+      "source": "Akşam",
+      "title": "Atina'nın çaresiz çırpınışları: Türkiye'nin \"Mavi Vatan\" hamlesi dengeleri sarstı",
+      "summary": "Yunan basını, Atina yönetiminin Mısır'la deniz yetki alanlarını belirlemeye yönelik yeni bir müzakere sürecini başlatacağını iddia etti.",
+      "link": "https://www.aksam.com.tr/dunya/atinanin-caresiz-cirpinislari-turkiyenin-mavi-vatan-hamlesi-dengeleri-sarsti/haber-1708660",
+      "published": "2026-10-23T16:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:34.378713+00:00"
+    },
+    {
+      "id": "695525b717a4a714",
+      "source": "Yeni Akit",
+      "title": "Çanakkale’de yol çöktü, kamyon devrildi: 1 ölü, 1 yaralı",
+      "summary": "Çanakkale’nin Bayramiç ilçesinde seyir halindeki kamyonun, yolda meydana gelen çökme nedeniyle devrilmesi sonucu 1 kişi yaşamını yitirdi, 1 kişi yaralandı.",
+      "link": "https://www.yeniakit.com.tr/haber/canakkalede-yol-coktu-kamyon-devrildi-1-olu-1-yarali-2029873.html",
+      "published": "2026-10-23T16:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:36.096552+00:00"
+    },
+    {
+      "id": "030ded37b02d4aed",
+      "source": "DonanımHaber",
+      "title": "Getir araştırdı: Market alışverişi yılda 4 günümüzü alıyor",
+      "summary": "Getir ve Veri Enstitüsü araştırmasına göre market alışverişi için yılda 96 saat (4 gün) harcıyoruz. Ulaşım maliyeti ise yaklaşık 13 bin TL'ye ulaşıyor. İşte çarpıcı araştırmanın sonuçları...",
+      "link": "https://www.donanimhaber.com/getir-arastirdi-market-alisverisi-yilda-4-gunumuzu-aliyor--212021",
+      "published": "2026-10-23T16:22:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:52.345735+00:00"
+    },
+    {
+      "id": "cf87808974090f53",
+      "source": "Yeni Akit",
+      "title": "Borsada 8 milyar TL’lik ‘bıyıklı yabancı’ bilmecesi! Merrill Lynch’in arkasındaki Türk kim?",
+      "summary": "Borsa İstanbul’daki fon soruşturmasının yankıları sürerken Fatih Altaylı’nın aktardığı dikkat çekici bir mesaj yeni bir tartışmanın fitilini ateşledi. Yurt dışında yaşayan eski bir borsacının Altaylı’ya gönderdiği mesajda, Merrill Lynch üzerinden işlem yaptığı belirtilen yatırımcının gerçekte bir Türk olduğu öne sürüldü. Altaylı, “Eğer bu söylenenler doğru ise şimdi ortada 8 milyar TL’lik bir soru",
+      "link": "https://www.yeniakit.com.tr/haber/borsada-8-milyar-tllik-biyikli-yabanci-bilmecesi-merrill-lynchin-arkasindaki-turk-kim-2029872.html",
+      "published": "2026-10-23T16:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:36.096589+00:00"
+    },
+    {
+      "id": "dde66cd8e6489dd2",
+      "source": "Türkiye Gazetesi",
+      "title": "453 vaka, 51 ölüm! Komşuda Batı Nil virüsü alarmı",
+      "summary": "Yunanistan’da Batı Nil virüsü nedeniyle yıl başından bu yana hayatını kaybedenlerin sayısı 51’e yükseldi. 22 Ekim’e kadar 453 vakanın tespit edildiği ülkede, son bir haftada 2 kişi öldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/453-vaka-51-olum-yunanistanda-bati-nil-virusu-alarmi-1824755",
+      "published": "2026-10-23T16:21:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:30.812111+00:00"
+    },
     {
       "id": "fab3c784a67715ca",
       "source": "CNBC-e",
@@ -94,6 +171,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T16:15:38.766813+00:00"
+    },
+    {
+      "id": "37c415a4f22f6f0b",
+      "source": "Habertürk",
+      "title": "Zonguldak'ta maden ocağında patlama! 3 madenci can verdi",
+      "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde, özel bir maden ocağında grizu patlaması meydana geldi. Zonguldak Valisi Osman Hacıbektaşoğlu; patlamada 2 maden işçisinin hayatını kaybettiğini, 1 işçinin göçük altında kaldığını ve 2 işçinin de entübe edildiğini söyledi. Madende göçük altında kalan işçinin de cansız bedenine ulaşıldı. Valilik tarafından yapılan açıklamada patlamanın metan gazı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-zonguldak-ta-maden-ocaginda-patlama-3921958",
+      "published": "2026-10-23T16:14:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:25.906077+00:00"
     },
     {
       "id": "edb8c5ca113d4c3f",
@@ -303,6 +391,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T16:05:45.302802+00:00"
+    },
+    {
+      "id": "9fe8a3bc87b58771",
+      "source": "Aydınlık",
+      "title": "AYM Başkanı Özkaya: 'AYM kararları herkesi bağlar'",
+      "summary": "Anayasa Mahkemesi Başkanı Kadir Özkaya, &quot;Anayasa Mahkemesinin kararları, Anayasa&#039;nın 153. maddesinin amir hükmü gereğince yasama, yürütme ve yargı organlarına, idari makamları, gerçek ve tüzel kişiler yani istisnasız herkesi ve her kurumu bağlar.&quot; dedi.",
+      "link": "https://www.aydinlik.com.tr/haber/aym-baskani-ozkaya-aym-kararlari-herkesi-baglar-595845",
+      "published": "2026-10-23T16:01:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T16:25:37.908110+00:00"
     },
     {
       "id": "adc94a18da978f86",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T14:15:41.323377+00:00"
-    },
-    {
-      "id": "b24fa5738b4c8580",
-      "source": "Cumhuriyet",
-      "title": "Son dakika... Devlet Bahçeli açıkladı: MHP'nin Olağan Kurultay tarihi belli oldu",
-      "summary": "Son dakika haberi... MHP lideri Devlet Bahçeli, \"MYK-MDK ve Milletvekilleri Ortak Toplantısı” sonrası açıklamasında \"Partimizin 15. Olağan Büyük Kurultayı’nın 7 Şubat 2027 Pazar günü gerçekleştirilmesi kararlaştırılmıştır\" dedi.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-devlet-bahceli-acikladi-mhp-nin-olagan-kurultay-tarihi-belli-oldu-2549606",
-      "published": "2026-10-23T13:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:40:34.321864+00:00"
-    },
-    {
-      "id": "977c5f2989da961a",
-      "source": "Bir Gün",
-      "title": "MHP’li Karakaya’dan fon krizi yorumu: 1 yıldır görebiliyordum; gerekli uyarıları yapmıştık",
-      "summary": "Fon krizinin yaşanmasında ihmalin de etkili olduğunu ifade eden MHP’li Mevlüt Karakaya, süreci 1 yıl öncesinden öngörebildiğini söyledi. Karakaya, gerekli uyarıları yaptıklarını belirtti.",
-      "link": "https://www.birgun.net/haber/mhpli-karakayadan-fon-krizi-yorumu-1-yildir-gorebiliyordum-gerekli-uyarilari-yapmistik-742117",
-      "published": "2026-10-23T13:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T14:15:41.323396+00:00"
-    },
-    {
-      "id": "1892d6f99aa64160",
-      "source": "Yeniçağ",
-      "title": "Ürdün'de kiliseye silahlı saldırı: Cenaze töreninde 7 kişi öldü",
-      "summary": "Ürdün&#039;ün Karak kentine bağlı Hmood kasabasında bir kilisede düzenlenen cenaze töreni sırasında gerçekleştirilen silahlı saldırıda en az 7 kişi yaşamını yitirdi.",
-      "link": "https://www.yenicaggazetesi.com/urdunde-kiliseye-silahli-saldiri-cenaze-toreninde-7-kisi-oldu-1084502h.htm",
-      "published": "2026-10-23T13:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:50:43.104685+00:00"
-    },
-    {
-      "id": "3497c70a4c2e081b",
-      "source": "Ekonomim",
-      "title": "Fransa-BAE hattında F5 mutabakatı: Rafale'de ortak geliştirme dönemi",
-      "summary": "Fransa ile Birleşik Arap Emirlikleri (BAE), Rafale F5 savaş uçağının geliştirilmesine yönelik hükümetler arası anlaşma imzaladı. Mutabakat, Dassault Aviation&#039;ın yeni nesil Rafale programında BAE&#039;yi alıcı konumundan ortak geliştirici konumuna taşıyor.",
-      "link": "https://www.ekonomim.com/sektorler/savunma-sanayi/fransa-bae-hattinda-f5-mutabakati-rafalede-ortak-gelistirme-donemi-s1-haberi-926669",
-      "published": "2026-10-23T13:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:50:50.995626+00:00"
-    },
-    {
-      "id": "7ea94b2c030bf934",
-      "source": "Star",
-      "title": "Devlet Bahçeli duyurdu! MHP'nin kurultay tarihi belli oldu",
-      "summary": "MHP Lideri Bahçeli, \"Partimizin 15. Olağan Büyük Kurultayı 7 Şubat 2027 Pazar günü yapılacak.\" dedi.",
-      "link": "https://www.star.com.tr/politika/mhp-lideri-bahceli-partimizin-15-olagan-buyuk-kurultayi-7-subat-2027-pazar-gunu-yapilacak-haber-2048615/",
-      "published": "2026-10-23T13:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:40:39.338883+00:00"
-    },
-    {
-      "id": "efd173d3a59d875b",
-      "source": "Habertürk",
-      "title": "Tam dehşet! Aracı alev aldı, cesedi uçurumda bulundu!",
-      "summary": "Antalya'da yol kenarındaki toprak alana çarpıp alev alan otomobilin sürücüsü Ramazan Deveci'nin cansız bedeni, kaza yerine yaklaşık 30 metre uzaklıkta bulundu. Deveci'nin cesedinde yanıklar olduğu belirtildi",
-      "link": "https://www.haberturk.com/gundem/tam-dehset-araci-alev-aldi-cesedi-ucurumda-bulundu-3922064",
-      "published": "2026-10-23T13:35:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:40:32.537138+00:00"
-    },
-    {
-      "id": "89031bef9349ddb1",
-      "source": "OdaTV",
-      "title": "Eğer yaşıyorsa şu an 30 yaşında... Genç Furkan'dan 10 yıldır haber yok: Soruşturması yeniden başlatıldı",
-      "summary": "Mersin&#039;de 10 yıl önce evinin önünde darbedildikten sonra kaçırıldığı belirlenen ve kendisinden bir daha haber alınamayan 20 yaşındaki Furkan Coşkun&#039;a ilişkin yeniden soruşturma başlatıldı.",
-      "link": "https://www.odatv.com/guncel/eger-yasiyorsa-su-an-30-yasinda-furkan-coskundan-10-yildir-haber-yok-sorusturmasi-yeniden-baslatildi-120167992",
-      "published": "2026-10-23T13:35:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:40:41.489473+00:00"
-    },
-    {
-      "id": "5cb638a8e6f0d8f3",
-      "source": "Yeniçağ",
-      "title": "Kılıçdaroğlu 'yardım edin'' demişti: YENİ Partililer Hürü teyzeyi kaçırdı iddiası",
-      "summary": "Osmaniye’de 87 yaşındaki Hürü Tilki’ye Kılıçdaroğlu’nun talimatıyla yardım eli uzatılmasının ardından çarpıcı bir iddia ortaya atıldı. YENİ Partili yöneticilerin, CHP’nin ulaşmaya çalıştığı Hürü Teyze’yi 5 saat boyunca götürüp telefonunu kapatarak iletişimi engellediği öne sürüldü.",
-      "link": "https://www.yenicaggazetesi.com/kilicdaroglu-yardim-edin-demisti-yeni-partililer-huru-teyzeyi-kacirdi-iddiasi-1084501h.htm",
-      "published": "2026-10-23T13:35:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:35:40.216922+00:00"
-    },
-    {
-      "id": "ec77939c24f69094",
-      "source": "Habertürk",
-      "title": "İstanbul Modern'e anlamlı bağış",
-      "summary": "İstanbul Modern’in 22 Kasım'da sona erecek olan “Semiha Berksoy: Tüm Renklerin Aryası” sergisi kapsamında sanatçının kızı, tiyatro sanatçısı Zeliha Berksoy’un da katılımıyla gerçekleştirilen özel turda Berksoy’un özgün çarşaf resimleri serisinden 1998 tarihli “Ariadne auf Naxos (Otoportre)” adlı yapıtın İstanbul Modern Koleksiyonu’na bağışlanacağı açıklandı",
-      "link": "https://www.haberturk.com/kultur-sanat/istanbul-modern-e-anlamli-bagis-3922065",
-      "published": "2026-10-23T13:35:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T13:40:32.537182+00:00"
     }
   ]
 }

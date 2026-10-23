@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-23T02:50:58.166659+00:00",
+  "last_updated": "2026-10-23T02:55:57.235105+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 455,
+  "new_items_this_run": 482,
   "items": [
+    {
+      "id": "1fc1021aee524af4",
+      "source": "Habertürk",
+      "title": "Eskişehir'de tefecilik operasyonu: 4 gözaltı",
+      "summary": "Eskişehir'de jandarma ekiplerince düzenlenen tefecilik operasyonunda 4 kişi gözaltına alındı",
+      "link": "https://www.haberturk.com/gundem/eskisehir-de-tefecilik-operasyonu-4-gozalti-3921892",
+      "published": "2026-10-23T02:45:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T02:55:27.263306+00:00"
+    },
     {
       "id": "8216729c3ae99020",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T20:30:56.141226+00:00"
-    },
-    {
-      "id": "87edd63d59e9d3ef",
-      "source": "Karar",
-      "title": "Akıllı ekran sahiplerinin dikkatine: Yazılım güncellemesi bittiğinde dijital platformlar çalışacak mı?",
-      "summary": "Evlerdeki ekranların ömrünü belirleyen yazılım desteğinde dev markalar kıyasıya yarışa girdi. Samsung 7, LG 5 ve Hisense 8 yıla varan sistem güncellemeleri sunarken; Sony ve TCL tarafında süreç ürün bazında değişiyor. Üreticilerin farklılaşan politikaları, eskiyen cihazlarda harici medya oynatıcıları zorunlu kılıyor.",
-      "link": "https://www.karar.com/teknoloji-haberleri/akilli-televizyonlar-kac-yil-guncelleme-aliyor-televizyon-2080104",
-      "published": "2026-10-22T20:29:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T20:30:57.430303+00:00"
     }
   ]
 }

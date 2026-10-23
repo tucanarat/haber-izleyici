@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T02:55:57.235105+00:00",
+  "last_updated": "2026-10-23T03:01:25.812668+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 482,
   "items": [
+    {
+      "id": "50888e9c0618eb89",
+      "source": "Türkiye Gazetesi",
+      "title": "SİBER SALDIRI ALARMI",
+      "summary": "İnternet yazılım dili PHP’de yıllardır var olan açık, yapay zekâ tarafından ortaya çıkarıldı. Keşif küresel bir siber güvenlik alarmına yol açtı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/internet-altyapisinda-son-10-yilin-en-buyuk-krizi-kabusun-adi-php-1824615",
+      "published": "2026-10-23T02:57:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T03:01:00.887518+00:00"
+    },
     {
       "id": "1fc1021aee524af4",
       "source": "Habertürk",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T20:35:37.704314+00:00"
-    },
-    {
-      "id": "6cf2af1aaf995ff4",
-      "source": "Star",
-      "title": "Beşiktaş taraftarından Crystal Palace maçı öncesi görsel şölen",
-      "summary": "Beşiktaş taraftarı, Crystal Palace maçı öncesinde Tüpraş Stadı'nda koreografi ve pankartlarla görsel şölene imza attı.",
-      "link": "https://www.star.com.tr/spor/besiktas-taraftarindan-crystal-palace-maci-oncesi-gorsel-solen-haber-2048467/",
-      "published": "2026-10-22T20:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T20:30:56.141226+00:00"
     }
   ]
 }

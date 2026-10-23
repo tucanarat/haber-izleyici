@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-23T23:01:29.661578+00:00",
+  "last_updated": "2026-10-23T23:05:59.429235+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 454,
+  "new_items_this_run": 450,
   "items": [
+    {
+      "id": "3b2ca61318d29602",
+      "source": "Türkiye Gazetesi",
+      "title": "SGK'DAN YENİ DÜZENLEME",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/sgkdan-yeni-duzenleme-tutanaklar-prim-gunune-donusecek-1824796",
+      "published": "2026-10-23T23:01:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T23:05:35.368048+00:00"
+    },
     {
       "id": "4eb13220be17a499",
       "source": "Türkiye Gazetesi",
@@ -2162,6 +2173,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T20:55:32.098829+00:00"
+    },
+    {
+      "id": "38fbad38416e3c52",
+      "source": "BBC News Türkçe",
+      "title": "Trump: İran'a yeni bir askeri operasyon olabilir",
+      "summary": "ABD Başkanı Donald Trump, Washington'un İran'a karşı yeni bir askeri harekat düzenleyebileceğini söyledi.",
+      "link": "https://www.bbc.com/turkce/articles/cm3el0p0j8yjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23T20:53:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T23:05:57.989993+00:00"
     },
     {
       "id": "68211b1d11195dc8",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T18:05:31.972565+00:00"
-    },
-    {
-      "id": "4e123df35458928c",
-      "source": "Ekonomim",
-      "title": "Altın, borsa, fonlarda kaybeden kaybedene... Sınırlı kazandıranlar ise sayılı kaldı",
-      "summary": "Altın, borsa, fon yatırımcılarının bu hafta yüzü gülmedi. Belirgin kayıpların yaşandığı hafta da sadece euro ve dolar kazandırsa da, düşük oranda gelir sağlandı.",
-      "link": "https://www.ekonomim.com/foto-galeri/ekonomi/altin-borsa-fonlarda-kaybeden-kaybedene-sinirli-kazandiranlar-ise-sayili-kaldi-galeri-926702",
-      "published": "2026-10-23T17:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T18:01:14.849787+00:00"
-    },
-    {
-      "id": "5db417568baea0fc",
-      "source": "Cumhuriyet",
-      "title": "Kimseye muhtaç olmayanlar: Kendi başının çaresine bakan, bağımsızlığına düşkün 5 burç",
-      "summary": "Hayatın yükünü başkalarına yıkmayan, kendi ayakları üzerinde dimdik duran ve özgürlüğünden asla taviz vermeyen o en bağımsız 5 burç...",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/kimseye-muhtac-olmayanlar-kendi-basinin-caresine-bakan-bagimsizligina-duskun-5-burc-2549665",
-      "published": "2026-10-23T17:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T18:00:59.537790+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-23T22:50:57.417821+00:00",
+  "last_updated": "2026-10-23T22:55:45.322776+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 446,
+  "new_items_this_run": 447,
   "items": [
+    {
+      "id": "61cd7573ecd5c57b",
+      "source": "OdaTV",
+      "title": "Fenerbahçe son şampiyonu devirdi",
+      "summary": "EuroLeague&#039;deki temsilcilerimizden Fenerbahçe Tarfin, 7. hafta maçında konuk olduğu son şampiyon Yunan ekibi Olympiakos&#039;u deplasmanda 64-61 mağlup etti.",
+      "link": "https://www.odatv.com/spor/olympiakos-61-fenerbahce-tarfin-64-mac-sonucu-120168031",
+      "published": "2026-10-23T22:47:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T22:55:34.260175+00:00"
+    },
     {
       "id": "5f41fe313ffdaf18",
       "source": "Milliyet",
@@ -413,6 +424,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T22:11:01.873761+00:00"
+    },
+    {
+      "id": "6d6394826cce40ff",
+      "source": "Evrensel",
+      "title": "İsrail ordusu, Batı Şeria'nın El Halil şehrine \"geniş çaplı askeri operasyon\" başlattı",
+      "summary": "El Halil'de dün 2 İsrail askerinin öldüğü olaylar sonrasında, İsrail ordusu 20 askeri araçla bölgeye yönelik baskın ve saldırılar başlattı",
+      "link": "https://www.evrensel.net/haber/6006384/israil-ordusu-bati-seria-nin-el-halil-sehrine-genis-capli-askeri-operasyon-baslatti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-23T22:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T22:55:29.749648+00:00"
     },
     {
       "id": "37d58f530379ccfc",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T17:55:37.597284+00:00"
-    },
-    {
-      "id": "c9aac1d36002e1b2",
-      "source": "CNBC-e",
-      "title": "Borsa İstanbul’da 8 şirketten KAP açıklaması: Milyarlık anlaşmalar ve yeni yatırımlar",
-      "summary": "Borsa İstanbul’da 23 Ekim’de yeni iş ilişkisi, yatırım ve finansman açıklamaları öne çıktı. ASELSAN 442,5 milyon dolarlık ihracat sözleşmesi imzalarken Netaş 6,33 milyon dolarlık iki sözleşme yaptı. Baydöner, İşbir Sentetik ve diğer şirketlerden de dikkat çeken açıklamalar geldi.",
-      "link": "https://www.cnbce.com/borsa/borsa-istanbulda-8-sirketten-kap-aciklamasi-milyarlik-anlasmalar-ve-yeni-yatirimlar-g40187",
-      "published": "2026-10-23T17:49:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T17:50:56.921047+00:00"
-    },
-    {
-      "id": "cf95b7db46b73c2f",
-      "source": "Milliyet",
-      "title": "Elazığ'da pes dedirten görüntüler! Sürücülerin kornalarına aldırış etmedi: Yola harç döke döke ilerledi",
-      "summary": "Elazığ'ın Akçakiraz mevkiinde bir beton mikserinin oluk kısmından yola harç döküldü. Arkasındaki araç sürücülerinin korna çalarak yaptığı ikazlara rağmen ilerlemeye devam eden beton mikseri, bir süre yola harç dökerek seyrini sürdürdü. O anlar, arkadaki araçta bulunan bir vatandaş tarafından cep telefonu kamerasıyla kayda alındı. Zonguldak'ta maden ocağında patlama! Ölü ve yaralılar var",
-      "link": "https://www.milliyet.com.tr/gundem/elazigda-pes-dedirten-goruntuler-suruculerin-kornalarina-aldiris-etmedi-yola-harc-doke-doke-ilerledi-7686348",
-      "published": "2026-10-23T17:48:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T17:50:44.819327+00:00"
     }
   ]
 }

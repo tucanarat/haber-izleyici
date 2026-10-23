@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-23T03:31:19.073492+00:00",
+  "last_updated": "2026-10-23T03:35:58.993358+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 486,
+  "new_items_this_run": 483,
   "items": [
     {
       "id": "56133d7e1a7c2719",
@@ -41,6 +41,17 @@
       "fetched_at": "2026-10-23T03:30:48.873988+00:00"
     },
     {
+      "id": "6f63da2c50d003ea",
+      "source": "Bloomberg HT",
+      "title": "Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
+      "summary": "ABD Başkanı Donald Trump, ülkenin savunma kabiliyetini güçlendirmek ve yurt içi petrol üretim, rafinasyon ve lojistik kapasitesini artırmak amacıyla Savunma Üretim Yasası'nı devreye soktu.",
+      "link": "https://www.bloomberght.com/trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasi-ni-devreye-aldi-3792330",
+      "published": "2026-10-23T03:21:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T03:35:47.181557+00:00"
+    },
+    {
       "id": "4f5bd9f2d08c2f97",
       "source": "Habertürk",
       "title": "Yine yağış geliyor! Hafta sonu hava nasıl olacak?",
@@ -50,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T03:30:46.297239+00:00"
+    },
+    {
+      "id": "1f7ad9c99416cb84",
+      "source": "Bloomberg HT",
+      "title": "Trump, İran'la ilgili \"daha ileri gidebileceklerini\" belirtti",
+      "summary": "ABD Başkanı Donald Trump, İran'a birçok açıdan ciddi zarar verdiklerini savunarak, \"Belki biraz daha ileri gidebiliriz.\" dedi.",
+      "link": "https://www.bloomberght.com/trump-iran-la-ilgili-daha-ileri-gidebileceklerini-belirtti-3792329",
+      "published": "2026-10-23T03:18:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T03:35:47.181582+00:00"
     },
     {
       "id": "5c7ec9a81f25d1e0",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T20:45:55.567868+00:00"
-    },
-    {
-      "id": "d38df08495377f96",
-      "source": "Star",
-      "title": "MAÇ SONUCU: Kangoeroes Basket Mechelen 50-77 Galatasaray Çağdaş Faktoring",
-      "summary": "FIBA Kadınlar Avrupa Ligi B Grubu ikinci hafta müsabakasında Galatasaray Çağdaş Faktoring, deplasmanda Belçika'nın Kangoeroes Basket Mechelen takımını 77-50 yendi.",
-      "link": "https://www.star.com.tr/spor/mac-sonucu-kangoeroes-basket-mechelen-50-77-galatasaray-cagdas-faktoring-haber-2048469/",
-      "published": "2026-10-22T20:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T20:40:44.968970+00:00"
-    },
-    {
-      "id": "3f0734f4bd1658a2",
-      "source": "Habertürk",
-      "title": "G.Saray Çağdaş Faktoring siftah yaptı!",
-      "summary": "Euroleague B Grubu ikinci hafta müsabakasında Galatasaray Çağdaş Faktoring, deplasmanda Belçika'nın Kangoeroes Basket Mechelen takımını 77-50 yendi.",
-      "link": "https://www.haberturk.com/spor/kangoeroes-basket-mechelen-50-galatasaray-cagdas-faktoring-77-mac-sonucu-3921866",
-      "published": "2026-10-22T20:39:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T20:45:30.575148+00:00"
     }
   ]
 }

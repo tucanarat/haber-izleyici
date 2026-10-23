@@ -1,12 +1,78 @@
 {
-  "last_updated": "2026-10-23T05:11:00.899311+00:00",
+  "last_updated": "2026-10-23T05:16:05.310518+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 501,
+  "new_items_this_run": 506,
   "items": [
+    {
+      "id": "3b76f8888e6a1207",
+      "source": "Akşam",
+      "title": "İbrahim Çeçen Üniversitesi Öğretim Görevlisi alacak!",
+      "summary": "İbrahim Çeçen Üniversitesi Rektörlüğünden Öğretim Görevlisi Alım ilanı yayınlandı...",
+      "link": "https://www.aksam.com.tr/ekonomi/ibrahim-cecen-universitesi-ogretim-gorevlisi-alacak/haber-1708529",
+      "published": "2026-10-23T05:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:45.392623+00:00"
+    },
+    {
+      "id": "f76df151af70516c",
+      "source": "Akşam",
+      "title": "Ankara Altındağ'da mahkemeden satılık 31.384 m² tarla!",
+      "summary": "Ankara Altındağ'da 31.384 m² tarla mahkemeden satışa sunuluyor...",
+      "link": "https://www.aksam.com.tr/ekonomi/ankara-altindagda-mahkemeden-satilik-31384-m2-tarla/haber-1708528",
+      "published": "2026-10-23T05:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:45.392646+00:00"
+    },
+    {
+      "id": "26d2db76e5493afb",
+      "source": "Akşam",
+      "title": "Buse Terim ile sevgilisi Yalın konserinde! Romantik anları paylaştı",
+      "summary": "Buse Terim ile sevgilisi Batu Son, Yalın konserini dinlemeye gitti. Romantik anlar yaşayan çiftten Buse Terim, o anları takipçileri ile paylaştı.",
+      "link": "https://www.aksam.com.tr/venus/buse-terim-ile-sevgilisi-yalin-konserinde-romantik-anlari-paylasti/haber-1708527",
+      "published": "2026-10-23T05:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:45.392668+00:00"
+    },
+    {
+      "id": "5bc5a733053a244c",
+      "source": "Star",
+      "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan dezenformasyon girişimine tepki",
+      "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"11 Aralık 2025'te bir finans zirvesinde yaptığım konuşmanın, cımbızlanarak ve bağlamından koparılarak nasıl bir dezenformasyon haline getirildiği dürüst ve samimi olmayan yaklaşıma bir örnektir.\" dedi.",
+      "link": "https://www.star.com.tr/guncel/cumhurbaskani-yardimcisi-yilmazdan-dezenformasyon-girisimine-tepki-haber-2048503/",
+      "published": "2026-10-23T05:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:46.651138+00:00"
+    },
+    {
+      "id": "f083ed6e35b2e10b",
+      "source": "Akşam",
+      "title": "Kayseri Talas'ta mahkemeden satılık 1.833 m² bahçe içindeki yapı!",
+      "summary": "Kayseri Talas'ta 1.833 m² bahçe içindeki yapıyla mahkemeden satışa sunuluyor...",
+      "link": "https://www.aksam.com.tr/ekonomi/kayseri-talasta-mahkemeden-satilik-1833-m2-bahce-icindeki-yapi/haber-1708526",
+      "published": "2026-10-23T05:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:45.392686+00:00"
+    },
+    {
+      "id": "97241f2e90f2ff3a",
+      "source": "Star",
+      "title": "İngiltere'de Beşiktaş gündemi! \"Palace beraberliğe boyun eğdi\"",
+      "summary": "UEFA Avrupa Ligi'nde Beşiktaş, sahasında Crystal Palace ile 2-2 berabere kaldı. İngiliz basını, maçın son düdüğüyle birlikte Beşiktaş-Crystal Palace müsabakasına geniş bir yer ayırdı.",
+      "link": "https://www.star.com.tr/spor/ingilterede-besiktas-gundemi-palace-beraberlige-boyun-egdi-haber-2048502/",
+      "published": "2026-10-23T05:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:46.651165+00:00"
+    },
     {
       "id": "e993248202d64d33",
       "source": "OdaTV",
@@ -30,6 +96,17 @@
       "fetched_at": "2026-10-23T05:11:00.898137+00:00"
     },
     {
+      "id": "9581cda90cbb3107",
+      "source": "Milliyet",
+      "title": "SON DAKİKA HABERLER: Yunanistan'da 'Bedir' yankısı! 4 ülkeye işaret ettiler: 'Türk dolunayı yükseliyor'",
+      "summary": "HABER MERKEZİ / Türk savunma sanayii, diplomatik gücünü sahadaki üretim yeteneğiyle birleştirip, dost ve müttefik ülkelerle çok taraflı dev iş birliklerine imza atmaya devam ediyor. Son olarak Katar'ın başkenti Doha'da Katar, Endonezya, Pakistan ve Türkiye arasında çok taraflı 'Bedir' Mutabakat Zaptı imzalandı . Mutabakat, askeri üretim alanında iş birliğini teşvik etmeyi, dört ülkenin askeri kabi",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-yunanistanda-bedir-yankisi-4-ulkeye-isaret-ettiler-turk-dolunayi-yukseliyor-7685840",
+      "published": "2026-10-23T05:09:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:44.786348+00:00"
+    },
+    {
       "id": "0eb2f4913b1b4191",
       "source": "CNBC-e",
       "title": "Petrolde 5 ayın zirvesi: Çift taraflı saldırılar arz endişelerini artırdı",
@@ -50,6 +127,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T05:10:47.551806+00:00"
+    },
+    {
+      "id": "2243858b776b5b5d",
+      "source": "Finans Gündem",
+      "title": "Uluslararası bankalar yıl sonu TCMB faiz tahmininde birleşti!",
+      "summary": "TCMB’nin faiz indirimine gitmesinin ardından uluslararası bankalar 2026 sonu için yüzde 35 tahmininde birleşti. 2027 beklentileri ayrışırken TL mevduat getirilerinde düşüş öngörüldü.",
+      "link": "https://www.finansingundemi.com/haber/uluslararasi-bankalar-yil-sonu-tcmb-faiz-tahmininde-birlesti/1912418",
+      "published": "2026-10-23T05:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:58.233464+00:00"
     },
     {
       "id": "2ad81199a2b494c8",
@@ -402,6 +490,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T05:05:24.039910+00:00"
+    },
+    {
+      "id": "f24c96936767d8b8",
+      "source": "Akşam",
+      "title": "Can'ı elektronik sigara mı öldürdü? Ünlü yayıncının en acı günü",
+      "summary": "Can Yayınları Genel Yayın Yönetmeni Cem Akaş ve fotoğraf sanatçısı Esra Özdoğan'ın 19 yaşındaki oğulları Can Akaş, kalp yetmezliği nedeniyle hayatını kaybetti. Oğlunun ölümüne elektronik sigaranın yol açtığını belirten Cem Akaş aileleri uyarırken, Prof. Dr. Muhammed Emin Akkoyunlu bu ürünlerin akciğerde ani hasara ve çoklu organ yetmezliğine yol açtığını bildirdi. Avukat Selman Yaray ise ölümün ka",
+      "link": "https://www.aksam.com.tr/yasam/cani-elektronik-sigara-mi-oldurdu-unlu-yayincinin-en-aci-gunu/haber-1708522",
+      "published": "2026-10-23T04:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-23T05:15:45.392781+00:00"
     },
     {
       "id": "05f0f6356c39f4dc",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-22T21:40:57.593417+00:00"
-    },
-    {
-      "id": "85aa6e376cd5d811",
-      "source": "Cumhuriyet",
-      "title": "Junior Olaitan'dan galibiyet açıklaması: 'Beşiktaş'ta oynamanın ne demek olduğunu gösterdik'",
-      "summary": "Beşiktaş'ın Beninli futbolcusu Junior Olaitan, 2-2 berabere kaldıkları Crystal Palace maçının ardından görüşlerini aktardı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/junior-olaitan-dan-galibiyet-aciklamasi-besiktas-ta-oynamanin-ne-demek-oldugunu-gosterdik-2549429",
-      "published": "2026-10-22T21:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T21:40:39.766238+00:00"
-    },
-    {
-      "id": "6ac8f01124d256a8",
-      "source": "Habertürk",
-      "title": "Trump'tan İran açıklaması: Belki biraz daha ileri gidebiliriz",
-      "summary": "ABD Başkanı Donald Trump, İran'a birçok açıdan ciddi zarar verdiklerini savunarak, \"Belki biraz daha ileri gidebiliriz.\" dedi.",
-      "link": "https://www.haberturk.com/dunya/trump-tan-iran-aciklamasi-belki-biraz-daha-ileri-gidebiliriz-3921878",
-      "published": "2026-10-22T21:36:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T21:40:36.094717+00:00"
-    },
-    {
-      "id": "71b13e13a4ce092c",
-      "source": "Yeni Şafak",
-      "title": "Eyüpsultan'da kolonlardan gelen ses korkuttu, vatandaşlar apar topar tahliye edildi: Beş katlı bina boşaltıldı",
-      "summary": "İstanbul Eyüpsultan’da beş katlı binanın kolonlarından ses gelmesi üzerine vatandaşlar tahliye edildi. Çalışma sonrası zabıta ekipleri tedbir amaçlı binayı mühürledi.",
-      "link": "https://www.yenisafak.com/galeri/gundem/eyupsultanda-kolonlardan-gelen-ses-korkuttu-vatandaslar-apar-topar-tahliye-edildi-bes-katli-bina-bosaltildi-4866606",
-      "published": "2026-10-22T21:35:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T21:40:45.393872+00:00"
-    },
-    {
-      "id": "67050489330018e7",
-      "source": "Evrensel",
-      "title": "Mersin'de zemin katında çökme meydana gelen bina tahliye edildi",
-      "summary": "Mersin'in merkez Yenişehir ilçesinde zemin çökmesi yaşanan 3 katlı bina, güvenlik nedeniyle tahliye edildi.",
-      "link": "https://www.evrensel.net/haber/6006212/mersin-de-zemin-katinda-cokme-meydana-gelen-bina-tahliye-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-22T21:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T21:45:37.180863+00:00"
-    },
-    {
-      "id": "e5e4d24f1cdaf72c",
-      "source": "Bloomberg HT",
-      "title": "Fon soruşturmasında 11 şüpheli tutuklandı",
-      "summary": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere yönelik fon soruşturmaları kapsamında gözaltına alınan 31 şüpheliden 11'i tutuklandı, 4'ü hakkında adli kontrol kararı verildi.",
-      "link": "https://www.bloomberght.com/fon-sorusturmasinda-11-supheli-tutuklandi-3792327",
-      "published": "2026-10-22T21:34:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T21:50:58.513740+00:00"
-    },
-    {
-      "id": "f07e402c14dfbe19",
-      "source": "Bianet",
-      "title": "Yunanistan: Öğrenciler ve öğretmenler 50 kentte eğitim ve barınma hakkı için sokakta",
-      "summary": "Çarşamba günü öğretmenler ve öğrenciler yaklaşık 50 kentte eğitim ve geçim koşullarını protesto etti. Atina'daki gösteriye en az 10–12 bin kişi katıldı. Protestocular, eğitime bütçe, öğretmen açıklarının kapatılması, öğrenci yurtlarının ucuzlatılması ve ücret artışı istedi.",
-      "link": "https://bianet.org/haber/yunanistan-ogrenciler-ve-ogretmenler-50-kentte-egitim-ve-barinma-hakki-icin-sokakta-324718",
-      "published": "2026-10-22T21:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T22:25:38.520086+00:00"
-    },
-    {
-      "id": "a55c5e0445202187",
-      "source": "Sabah",
-      "title": "Yeni dünya için tarihi adım",
-      "summary": "Cumhurbaşkanı Erdoğan ile Kanada Başbakanı Carney, iki ülke arasında yeni dönemin başladığını duyurdu. Erdoğan, “Kanada ile ilişkilerimizi stratejik ortaklık düzeyine yükseltme kararı aldık. Ticaret hacmimizi... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/gundem/2026/10/23/yeni-dunya-icin-tarihi-adim",
-      "published": "2026-10-22T21:33:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T04:10:42.450629+00:00"
-    },
-    {
-      "id": "8fedba7fd20364cd",
-      "source": "Habertürk",
-      "title": "Zemini çöken binada 40 kişi tahliye edildi",
-      "summary": "Mersin’in Yenişehir ilçesinde 3 katlı bir binanın zemininde meydana gelen çökme nedeniyle 40 kişi tedbir amaçlı tahliye edildi. Yoğun yağışların ardından yaşandığı belirtilen olay sonrası bina sakinleri belediyeye ait misafirhaneye yerleştirildi.",
-      "link": "https://www.haberturk.com/gundem/zemini-coken-binada-40-kisi-tahliye-edildi-3921869",
-      "published": "2026-10-22T21:33:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T21:40:36.094763+00:00"
-    },
-    {
-      "id": "7714ec1f765e60b7",
-      "source": "Akşam",
-      "title": "Trump'tan yeni savaş sinyali: \"İran konusunda daha ileri gidebiliriz\"",
-      "summary": "ABD Başkanı Donald Trump, İran'a birçok açıdan ciddi zarar verdiklerini savunarak, \"Belki biraz daha ileri gidebiliriz.\" dedi.",
-      "link": "https://www.aksam.com.tr/dunya/trumptan-yeni-savas-sinyali-iran-konusunda-daha-ileri-gidebiliriz/haber-1708488",
-      "published": "2026-10-22T21:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-22T21:35:35.382428+00:00"
     }
   ]
 }

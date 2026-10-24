@@ -1,12 +1,122 @@
 {
-  "last_updated": "2026-10-24T16:55:52.309971+00:00",
+  "last_updated": "2026-10-24T17:01:26.212471+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 487,
+  "new_items_this_run": 489,
   "items": [
+    {
+      "id": "2e1566dc57a38ba2",
+      "source": "OdaTV",
+      "title": "Fon soruşturmasında eski vekil Ertan Aydın'a tutuklama talebi",
+      "summary": "Fon soruşturması kapsamında gözaltına alınan eski milletvekili Ertan Aydın, tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
+      "link": "https://www.odatv.com/guncel/fon-sorusturmasinda-eski-vekil-ertan-aydina-tutuklama-talebi-120168147",
+      "published": "2026-10-24T17:00:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:15.081334+00:00"
+    },
+    {
+      "id": "74f793fda0249957",
+      "source": "ShiftDelete.Net",
+      "title": "Yeni PHP Güvenlik Açığı için Henüz Yama Bulunmuyor",
+      "summary": "PHP'de keşfedilen yeni CVE-2026-115560 güvenlik açığı uzaktan kod çalıştırma riski taşıyor. Henüz yaması olmayan açık için geçici önlemler neler?",
+      "link": "https://shiftdelete.net/php-yeni-guvenlik-acigi-cve-2026-115560",
+      "published": "2026-10-24T17:00:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:23.995917+00:00"
+    },
+    {
+      "id": "a1fc6e2977572c0f",
+      "source": "Star",
+      "title": "Avrupa'da bir Türk imzası... Ne yaptın sen Arda Güler!",
+      "summary": "Real Madrid formasıyla gösterdiği performansla İspanya'da adından söz ettiren milli yıldız Arda Güler, Avrupa futbolunun dev isimlerini geride bıraktı. Genç oyuncu, hücum organizasyonlarındaki etkisi ve ortaya koyduğu istatistiklerle Avrupa'nın beş büyük liginde zirveye yerleşti. İşte detaylar...",
+      "link": "https://www.star.com.tr/spor/avrupada-bir-turk-imzasi-ne-yaptin-sen-arda-guler-haber-2048874/",
+      "published": "2026-10-24T17:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:13.373829+00:00"
+    },
+    {
+      "id": "9da4a5da44576fce",
+      "source": "DonanımHaber",
+      "title": "WhatsApp, Instagram Reels paylaşımı için yeni kısayol ekliyor",
+      "summary": "WhatsApp, Android beta sürümünde Instagram Reels paylaşımını kolaylaştıran yeni bir kısayol sunuyor. Hesap Merkezi bağlantısıyla çalışan özellik, video paylaşım sürecini daha pratik hale getiriyor.",
+      "link": "https://www.donanimhaber.com/whatsapp-instagram-reels-paylasimi-icin-yeni-kisayol-ekliyor--212045",
+      "published": "2026-10-24T17:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:24.718243+00:00"
+    },
+    {
+      "id": "31082b926dd099d5",
+      "source": "Star",
+      "title": "Bursa ve İstanbul'da uyuşturucu operasyonu! 22 şüpheliden 17'si tutuklandı",
+      "summary": "Bursa ve İstanbul'da, suç örgütü kurmak ve örgüt kapsamında uyuşturucu madde ticareti yapmak suçlarına yönelik operasyonda gözaltına alınan 22 şüpheliden 17'si tutuklandı.",
+      "link": "https://www.star.com.tr/guncel/bursa-ve-istanbulda-uyusturucu-operasyonu-22-supheliden-17si-tutuklandi-haber-2048873/",
+      "published": "2026-10-24T16:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:13.373864+00:00"
+    },
+    {
+      "id": "2b7b91be9a166956",
+      "source": "Cumhuriyet",
+      "title": "Eski Başbakan danışmanı Ertan Aydın tutuklama talebiyle hakimliğe sevk edildi",
+      "summary": "Fon soruşturması kapsamında gözaltına alınan eski milletvekili ve eski Başbakan danışmanı Ertan Aydın, tutuklama istemiyle sulh ceza hakimliğine sevk edildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/eski-basbakan-danismani-ertan-aydin-tutuklama-talebiyle-hakimlige-sevk-edildi-2549896",
+      "published": "2026-10-24T16:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:08.368464+00:00"
+    },
+    {
+      "id": "2677b589ca114180",
+      "source": "Star",
+      "title": "Bakan Fidan, Katarlı mevkidaşı ile görüştü",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani ile Körfez'deki güvenlik durumu ve devam eden müzakere süreçlerini telefonda görüştü.",
+      "link": "https://www.star.com.tr/guncel/bakan-fidan-katarli-mevkidasi-ile-gorustu-haber-2048872/",
+      "published": "2026-10-24T16:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:13.373893+00:00"
+    },
+    {
+      "id": "3818614cc58fae5f",
+      "source": "Ekonomim",
+      "title": "Güllü cinayetinde gerekçeli karar açıklandı: İki neden öne çıktı",
+      "summary": "Güllü adıyla ün yapan şarkıcı Gül Tut&#039;un Yalova’nın Çınarcık ilçesinde pencereden düşerek hayatını kaybetmesine ilişkin davada, cinayetle suçlanan kızı Tuğyan Ülkem Gülter’e verilen ağırlaştırılmış müebbet hapis cezasının gerekçesi açıklandı.",
+      "link": "https://www.ekonomim.com/gundem/gullu-cinayetinde-gerekceli-karar-aciklandi-iki-neden-one-cikti-haberi-926845",
+      "published": "2026-10-24T16:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:19.521793+00:00"
+    },
+    {
+      "id": "fd7ba61d74d1be3b",
+      "source": "Türkiye Gazetesi",
+      "title": "İŞTE ÖNE ÇIKAN DELİLLER",
+      "summary": "Şarkıcı Güllü'nün ölümüne ilişkin davada, kızı Tuğyan Ülkem Gülter'e verilen ağırlaştırılmış müebbet hapis cezasının gerekçesi açıklandı. Mahkeme, tanık Sultan Nur Ulu'nun duruşmadaki ifadesi ve kriminal inceleme raporunu değerlendirerek Gülter'in annesini kasten öldürdüğü sonucuna vardı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/gullu-davasinda-dikkat-ceken-ayrinti-tasarlama-neden-kabul-edilmedi-1824956",
+      "published": "2026-10-24T16:56:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:10.282020+00:00"
+    },
+    {
+      "id": "956bfbdfcdf4bf11",
+      "source": "Yeni Akit",
+      "title": "Bingöl kanaat önderini kaybetti: Prof. Dr. Abdülaziz Beki vefat etti",
+      "summary": "Bingöl Üniversitesi eski rektör yardımcısı ve İlahiyat Fakültesi eski dekanı Prof. Dr. Abdülaziz Beki, İstanbul’da tedavi gördüğü hastanede hayatını kaybetti; Beki’nin cenazesi, 25 Ekim Pazar günü memleketi Bingöl’ün Gözer köyünde toprağa verilecek.",
+      "link": "https://www.yeniakit.com.tr/haber/bingol-kanaat-onderini-kaybetti-prof-dr-abdulaziz-beki-vefat-etti-2030035.html",
+      "published": "2026-10-24T16:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:13.744170+00:00"
+    },
     {
       "id": "3bee777720166dfd",
       "source": "Akşam",
@@ -50,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T16:55:30.417116+00:00"
+    },
+    {
+      "id": "b99c874a90aec561",
+      "source": "Habertürk",
+      "title": "\"Çok özel ve güzel bir galibiyet aldık\"",
+      "summary": "Erzurumspor FK Teknik Direktörü Serkan Özbalta, deplasmanda 3-1 kazandıkları Gaziantep FK maçının ardından, \"Çok özel ve güzel bir galibiyet aldık\" dedi.",
+      "link": "https://www.haberturk.com/spor/serkan-ozbalta-cok-ozel-ve-guzel-bir-galibiyet-aldik-3922317",
+      "published": "2026-10-24T16:51:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:06.174833+00:00"
     },
     {
       "id": "6f248d5cfb23d895",
@@ -382,6 +503,17 @@
       "fetched_at": "2026-10-24T16:31:34.933720+00:00"
     },
     {
+      "id": "3280384ed937f35c",
+      "source": "BBC News Türkçe",
+      "title": "Atina'nın Batı Trakya'daki müftülüklere yaptığı atamalara Ankara'dan tepki",
+      "summary": "Türk Dışişleri Bakanlığı, Yunanistan makamlarına bir çağrı yaparak, Batı Trakya'daki Türk azınlığın seçtiği müftülerin tanınmasını istedi. Gelişme Yunanistan hükümetinin Gümülcine ve İskeçe müftülüklerine beş yıl için yaptığı atamalar sonrası geldi.",
+      "link": "https://www.bbc.com/turkce/articles/cje36w30vwd7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24T16:28:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:26.043763+00:00"
+    },
+    {
       "id": "b39b7ea1201c32cf",
       "source": "BBC News Türkçe",
       "title": "Atina'nın Batı Trakya'daki üç müftülüğe yaptığı atamalara Ankara'dan tepki",
@@ -457,6 +589,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T16:35:46.562109+00:00"
+    },
+    {
+      "id": "2d7f54bf6b451565",
+      "source": "Habertürk",
+      "title": "Şarkıcı Nev'den acı haber",
+      "summary": "Nev olarak tanınan şarkıcı Nevzat Doğansoy, tedavi gördüğü hastanede 57 yaşında hayatını kaybetti. Doğansoy'un 25 Ekim Pazar günü İstanbul'da son yolculuğuna uğurlanacağı duyuruldu",
+      "link": "https://www.haberturk.com/magazin/son-dakika-sarkici-nev-den-aci-haber-3922270",
+      "published": "2026-10-24T16:22:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:01:06.174965+00:00"
     },
     {
       "id": "6f0099ac9a4dfff5",
@@ -5363,149 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T13:25:28.405146+00:00"
-    },
-    {
-      "id": "4142ddd0824fe23e",
-      "source": "Finans Gündem",
-      "title": "Erdoğan'dan kültürel miras vurgusu! 5 yeni müze açıldı",
-      "summary": "Cumhurbaşkanı Erdoğan’ın katılımıyla Darphane-i Amire Külliyesi’nde 7 yıl süren restorasyonun ardından 5 yeni müze açıldı. Topkapı Sarayı envanterindeki 10 bin 500 eser, 17 bin metrekarelik alanda ziyaretçilerle buluşmaya başladı.",
-      "link": "https://www.finansingundemi.com/haber/erdogandan-kulturel-miras-vurgusu-5-yeni-muze-acildi/1912563",
-      "published": "2026-10-24T13:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:31:08.266395+00:00"
-    },
-    {
-      "id": "a44eb4306323cc2a",
-      "source": "Aydınlık",
-      "title": "Kasımpaşa’ya üç puanı Benedyczak getirdi: Eyüpspor deplasmanında tek golle kazandı",
-      "summary": "Süper Lig’in 9. haftasında Kasımpaşa, deplasmanda Eyüpspor’u 1-0 mağlup etti. Konuk ekibin golünü 37. dakikada Benedyczak kaydetti. Uzatma dakikalarında Gianniotis’in kurtarışı, Kasımpaşa’nın üstünlüğünü korumasını sağladı.",
-      "link": "https://www.aydinlik.com.tr/haber/kasimpasaya-uc-puani-benedyczak-getirdi-eyupspor-deplasmaninda-tek-golle-kazandi-595975",
-      "published": "2026-10-24T13:15:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:20:46.348388+00:00"
-    },
-    {
-      "id": "f80f228172f7aa16",
-      "source": "OdaTV",
-      "title": "2000'li yıllara şarkılarıyla damga vurdu: Nev hayatını kaybetti",
-      "summary": "Geçen ay karaciğer rahatsızlığı sebebiyle hastaneye kaldırılan ve dün ikinci kez entübe edilen şarkıcı Nev, tedavi gördüğü hastanede hayatını kaybetti.",
-      "link": "https://www.odatv.com/guncel/nev-hayatini-kaybetti-nev-kimdir-120168128",
-      "published": "2026-10-24T13:15:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:35:44.993234+00:00"
-    },
-    {
-      "id": "08e904e9b8ed18ab",
-      "source": "OdaTV",
-      "title": "Nev hayatını kaybetti",
-      "summary": "Geçen ay karaciğer rahatsızlığı sebebiyle hastaneye kaldırılan şarkıcı Nev, tedavi gördüğü hastanede hayatını kaybetti.",
-      "link": "https://www.odatv.com/guncel/nev-hayatini-kaybetti-120168128",
-      "published": "2026-10-24T13:15:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:20:47.213054+00:00"
-    },
-    {
-      "id": "66b52ba0109f7f80",
-      "source": "Aydınlık",
-      "title": "Tekirdağ’da 1813 tarihli mezar taşı kitabesi müzeye teslim edildi",
-      "summary": "Tekirdağ Bağcılık Araştırma Enstitüsü arazisinde bulunan ve Şah-ı Huban Hanım’a ait olduğu değerlendirilen 1813 tarihli mezar taşı kitabesi, koruma ve inceleme amacıyla Tekirdağ Müze Müdürlüğü’ne verildi.",
-      "link": "https://www.aydinlik.com.tr/haber/tekirdagda-1813-tarihli-kitabe-muzeye-teslim-edildi-595973",
-      "published": "2026-10-24T13:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:20:46.348430+00:00"
-    },
-    {
-      "id": "05e08e3f82e42a85",
-      "source": "Ekonomim",
-      "title": "Şarkıcı Nev hayatını kaybetti",
-      "summary": "&quot;Nev&quot; ismiyle tanınan şarkıcı Nevzat Doğansoy, 57 yaşında hayatını kaybetti. Doğansoy, bir süredir karaciğer rahatsızlığı nedeniyle hastanede tedavi görüyordu.",
-      "link": "https://www.ekonomim.com/gundem/sarkici-nev-hayatini-kaybetti-haberi-926825",
-      "published": "2026-10-24T13:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:20:53.680611+00:00"
-    },
-    {
-      "id": "58009c1a6293d2de",
-      "source": "Yeni Akit",
-      "title": "Kılıçdaroğlu bu kez çuvaldızı kendine batırdı: Krallar gibi oturduk halkın sofrasına gitmedik",
-      "summary": "Gaziantep'te üye katılım törenine katılan CHP Genel Başkanı Kemal Kılıçdaroğlu, oy kayıplarına ilişkin çarpıcı bir özeleştiride bulundu. Yıllarca fakirin derdini dinlemediklerini itiraf eden Kılıçdaroğlu, \"Yerimizde krallar gibi oturup oy istedik; gitmedik, halkın sofrasına oturmadık, hata bizde\" şeklinde konuştu.",
-      "link": "https://www.yeniakit.com.tr/haber/kilicdaroglu-bu-kez-cuvaldizi-kendine-batirdi-krallar-gibi-oturduk-halkin-sofrasina-gitmedik-2030009.html",
-      "published": "2026-10-24T13:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:15:47.740527+00:00"
-    },
-    {
-      "id": "285fc25d9376a376",
-      "source": "Sabah",
-      "title": "SON DAKİKA… Şarkıcı Nev hayatını kaybetti",
-      "summary": "SON DAKİKA… \"Zor\", \"Sen Gibi\" ve \"Mühürlü Kaderim\" gibi dillerden düşmeyen şarkılarıyla 2000’li yıllara damga vuran ve Nev adıyla bilinen şarkıcı Nevzat Doğansoy, tedavi gördüğü hastanede hayatını kaybetti.... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/son-dakika-sarkici-nev-hayatini-kaybetti-7687452",
-      "published": "2026-10-24T13:14:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:40:44.277575+00:00"
-    },
-    {
-      "id": "45558890ed3f26c0",
-      "source": "OdaTV",
-      "title": "Yeşilçam filmlerindeki gibi kaçmak istediler: Çarşaf koptu, 3. kattan düştüler... İki genç kız ağır yaralandı",
-      "summary": "Küçükçekmece’de yurttan kaçarak babasının evine giden 16 yaşındaki iki kız, odanın kapısı kilitlenince çarşafla pencereden inmeye çalıştı. Çarşafın kopmasıyla yere düşen genç kızlardan birinin hayati tehlikesi bulunuyor. Baba gözaltına alındı.",
-      "link": "https://www.odatv.com/diger-haberler/carsaf-koptu-3-kattan-dustuler-iki-genc-kiz-agir-yaralandi-120168127",
-      "published": "2026-10-24T13:14:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:25:45.704159+00:00"
-    },
-    {
-      "id": "c425daade2e866f3",
-      "source": "Yeni Şafak",
-      "title": "TIR sürücüsünün manevrası katliama yol açıyordu: Kafa kafaya çarpışmaktan son anda kurtuldular",
-      "summary": "Karabük-Yenice kara yolunda hatalı sollama yapan bir tır, içerisinde 24 işçinin bulunduğu servis minibüsüyle kafa kafaya gelerek faciaya davetiye çıkardı. Servis sürücüsünün dikkati ve yaptığı hayat kurtaran manevra sayesinde olası bir katliam önlenirken, yaşanan dehşet anları araç içi kamerasına saniye saniye yansıdı.",
-      "link": "https://www.yenisafak.com/video/gundem/tir-surucusunun-manevrasi-katliama-yol-aciyordu-kafa-kafaya-carpismaktan-son-anda-kurtuldular-4866964",
-      "published": "2026-10-24T13:14:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:15:46.925060+00:00"
-    },
-    {
-      "id": "e45ff72935086f5c",
-      "source": "Kısa Dalga",
-      "title": "İstanbul Barosu Genel Kurulu başladı: Yeni baro yönetimi yarın seçilecek",
-      "summary": "İstanbul Barosu’nun 24-25 Ekim'de düzenlediği 128. Olağan Genel Kurulu, Haliç Kongre Merkezi’nde başladı. İstanbul Barosu Başkanı İbrahim Kaboğlu, açılış konuşmasında baro yönetimi hakkında yürütülen yargı süreçlerine, avukatların mesleki güvencelerine ve hukuk sistemine ilişkin eleştirilerini dile getirdi. Mevcut Baro Başkanı İbrahim Kaboğlu’nun yeniden aday olmasıyla öne çıktığı seçimlerde, Ümit",
-      "link": "https://kisadalga.net/haber/gundem/istanbul-barosu-genel-kurulu-basladi-yeni-baro-yonetimi-yarin-secilecek-141163",
-      "published": "2026-10-24T13:13:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:15:52.336937+00:00"
-    },
-    {
-      "id": "05d803b819235bc8",
-      "source": "Bir Gün",
-      "title": "Şarkıcı Nev, hayatını kaybetti",
-      "summary": "\"Nev\" ismiyle tanınan şarkıcı Nevzat Doğansoy, 57 yaşında hayatını kaybetti. Doğansoy, bir süredir karaciğer rahatsızlığı nedeniyle hastanede tedavi görüyordu.",
-      "link": "https://www.birgun.net/haber/sarkici-nev-hayatini-kaybetti-742293",
-      "published": "2026-10-24T13:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T14:20:41.278985+00:00"
-    },
-    {
-      "id": "9aeb57593f2513ed",
-      "source": "Akşam",
-      "title": "3 milyarlık fon karında geri vites: Sütşurup'lar başsavcılığa başvurdu",
-      "summary": "Fon soruşturmasında dikkat çeken bir gelişme yaşandı. Tera fonlarından yaklaşık 3 milyar lira kâr elde ettikleri belirtilen Melis Sütşurup Sandal ve babası Cihan Sütşurup, kazançlarını iade etmek için savcılığa başvurdu. Haklarında yakalama kararı bulunan ve yurt dışında oldukları belirtilen baba ile kızın avukatları, \"Fondan kazandığımız parayı iade etmek istiyoruz\" talebini iletti. Türkiye'ye dö",
-      "link": "https://www.aksam.com.tr/guncel/3-milyarlik-fon-karinda-geri-vites-sutsuruplar-bassavciliga-basvurdu/haber-1708836",
-      "published": "2026-10-24T13:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:15:46.045921+00:00"
     }
   ]
 }

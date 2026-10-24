@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-24T04:05:58.695543+00:00",
+  "last_updated": "2026-10-24T04:10:58.557471+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 479,
+  "new_items_this_run": 467,
   "items": [
+    {
+      "id": "a55e8ac9d2ddbccf",
+      "source": "Akşam",
+      "title": "İstanbullular dikkat! Bugün bazı yollar trafiğe kapatıldı",
+      "summary": "Cumhuriyet Bayramı tören provası nedeniyle İstanbul'da bazı cadde ve yollar trafiğe kapatıldı.",
+      "link": "https://www.aksam.com.tr/guncel/istanbullular-dikkat-bugun-bazi-yollar-trafige-kapatildi/haber-1708711",
+      "published": "2026-10-24T04:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T04:10:38.920186+00:00"
+    },
     {
       "id": "341c6ff7ab361a59",
       "source": "Akşam",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T04:05:37.043540+00:00"
+    },
+    {
+      "id": "aecd48fad9685d23",
+      "source": "Ekonomim",
+      "title": "İstanbul'da bazı cadde ve yollar trafiğe kapatıldı",
+      "summary": "Cumhuriyet Bayramı tören provası nedeniyle İstanbul&#039;da bazı cadde ve yollar trafiğe kapatıldı.",
+      "link": "https://www.ekonomim.com/gundem/istanbulda-bazi-yollar-trafige-kapatildi-haberi-926727",
+      "published": "2026-10-24T04:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T04:10:49.303819+00:00"
     },
     {
       "id": "70fe036878b9ef3f",
@@ -3891,6 +3913,17 @@
       "fetched_at": "2026-10-23T20:55:25.329810+00:00"
     },
     {
+      "id": "5c33edc026658d50",
+      "source": "Sabah",
+      "title": "Barış için İstanbul umudu",
+      "summary": "İstanbul’da bölgemizin ve Avrupa ülkelerinin dışişleri bakanlarını bir araya getiren zirvede konuşan Bakan Fidan: Kimse savaş istemiyor. Diyaloğun tek çözüm yolu olduğu konusunda fikir birliğine varı... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/gundem/2026/10/24/baris-icin-istanbul-umudu",
+      "published": "2026-10-23T20:49:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T04:10:38.549424+00:00"
+    },
+    {
       "id": "1cef3ac96f4ebcaf",
       "source": "Yeni Akit",
       "title": "Sarı taksi lobisinin milyarlık rant çarkına yargı tokadı! TAG kazandı, Taksi Odası Başkanı \"Hukuk garabetidir\" dedi",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T19:25:41.413454+00:00"
-    },
-    {
-      "id": "d6bd4f51bf82ceec",
-      "source": "Türkiye Gazetesi",
-      "title": "Berkan Kutlu yine attı, Kocaelispor Alanya'da kazand...",
-      "summary": "Kocaliespor, Süper Lig'in dokuzuncu haftasında karşılaştığı Alanyaspor'u 2-1 mağlup ederek ligde beşinci galibiyetini aldı. Takımının ilk golünü atan ve dört gole ulaşan Berkan Kutlu, Kocaelispor formasıyla kariyer sezonunu yaşıyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/berkan-kutlu-yine-atti-kocaelispor-alanyada-kazandi-1824771",
-      "published": "2026-10-23T19:17:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T19:25:35.457628+00:00"
-    },
-    {
-      "id": "60d5c7deb9777dec",
-      "source": "Türkiye Gazetesi",
-      "title": "Berkan Kutlu yine attı, Kocaelispor Alanya'da kazandı",
-      "summary": "Kocaliespor, Süper Lig'in dokuzuncu haftasında karşılaştığı Alanyaspor'u 2-1 mağlup ederek ligde beşinci galibiyetini aldı. Takımının ilk golünü atan ve dört gole ulaşan Berkan Kutlu, Kocaelispor formasıyla kariyer sezonunu yaşıyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/berkan-kutlu-yine-atti-kocaelispor-alanyada-kazandi-1824771",
-      "published": "2026-10-23T19:17:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T19:20:40.496982+00:00"
-    },
-    {
-      "id": "60d5c7deb9777dec",
-      "source": "Türkiye Gazetesi",
-      "title": "Berkan Kutlu yine attı, Kocaelispor Alanya'da kazandı",
-      "summary": "Kocaliespor, Süper Lig'in dokuzuncu haftasında karşılaştığı Alanyaspor'u 2-1 mağlup ederek ligde beşinci galibiyetini aldı. Takımının ilk golünü atan ve dört gole ulaşan Berkan Kutlu, Kocaelispor formasıyla kariyer sezonunu yaşıyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/berkan-kutlu-yine-atti-kocaelispor-alanyada-kazandi-1824771",
-      "published": "2026-10-23T19:17:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T19:20:40.497018+00:00"
     }
   ]
 }

@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-10-24T21:16:03.161984+00:00",
+  "last_updated": "2026-10-24T21:21:00.680695+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 485,
+  "new_items_this_run": 486,
   "items": [
+    {
+      "id": "6746dac9882d72d0",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Atletico Madrid 1-0 Deportivo",
+      "summary": "İspanya LaLiga'nın 10. haftasında Atletico Madrid, Metropolitano Stadyumu'nda oynanan mücadelede Deportivo'yu 1-0 mağlup etti.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-atletico-madrid-1-0-deportivo-haber-2048919/",
+      "published": "2026-10-24T21:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:43.485018+00:00"
+    },
+    {
+      "id": "6971c7cd97857e6c",
+      "source": "Star",
+      "title": "Hürmüz krizinde Tahran'dan net cevap: İddialar yalan, şartlarımız var",
+      "summary": "İran, ABD'ye Hürmüz Boğazı'nın açılmasına dair yeni bir teklif sunduğu iddialarını yalanladı. Tahran, boğazın açılması için önceden sunduğu 7 şartın uygulanması gerektiğinin altını çizdi.",
+      "link": "https://www.star.com.tr/dunya/hurmuz-krizinde-tahrandan-net-cevap-iddialar-yalan-sartlarimiz-var-haber-2048918/",
+      "published": "2026-10-24T21:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:43.485048+00:00"
+    },
+    {
+      "id": "072e8acedfe3e24e",
+      "source": "Milliyet",
+      "title": "Ankara'da askeri araç kazası: Albay Sayit Gökgöz şehit oldu! 2 askerimiz yaralandı",
+      "summary": "Milli Savunma Bakanlığı, Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz'ün şehit olduğunu, 2 personelin yaralandığını bildirdi. Bakanlıktan yapılan açıklamada, şunlar kaydedildi: \"Ankara'da meydana gelen askeri araç kazasında silah arkadaşımız Albay Sayit Gökgöz, 24 Ekim 2026 tarihinde şehit olmuş, 2 personelimiz de yaralanmıştır. Yaralılarımızın tedavisi hastanede devam etmekted",
+      "link": "https://www.milliyet.com.tr/gundem/ankarada-askeri-arac-kazasi-albay-sayit-gokgoz-sehit-oldu-2-askerimiz-yaralandi-7686845",
+      "published": "2026-10-24T21:16:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:41.738452+00:00"
+    },
+    {
+      "id": "a886e2d7015d3588",
+      "source": "Türkiye Gazetesi",
+      "title": "Askeri araç kaza yaptı! 1 asker şehit, 2 asker yaral...",
+      "summary": "Ankara'da askeri araç kaza yaptı. Milli Savunma Bakanlığı'ndan gelen açıklamada Albay Sayit Gökgöz’ün şehit olduğu, 2 askerin de yaralandığı yer aldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/ankarada-askeri-arac-kaza-yapti-albay-sayit-gokgoz-sehit-oldu-1825002",
+      "published": "2026-10-24T21:16:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:39.210141+00:00"
+    },
+    {
+      "id": "4e87cee4d8929926",
+      "source": "Cumhuriyet",
+      "title": "Balıkesir açıklarında tekne battı: 8 kişi kurtarıldı, kayıp doktor aranıyor",
+      "summary": "Balıkesir’in Ayvalık ilçesi Kız Adası açıklarında, ‘Elif’im’ adlı özel tekne, alt kısmından su alarak battı. İhbar üzerine bölgeye intikal eden Sahil Güvenlik Komutanlığı ekipleri, tekneden 8 kişiyi sağ olarak kurtarırken, denizde kaybolan doktor için arama çalışması başlattı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/balikesir-aciklarinda-tekne-batti-8-kisi-kurtarildi-kayip-doktor-araniyor-2549950",
+      "published": "2026-10-24T21:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:37.499347+00:00"
+    },
     {
       "id": "2b0cb5ec52aab2d6",
       "source": "Kısa Dalga",
@@ -105,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T21:10:43.114832+00:00"
+    },
+    {
+      "id": "96e1fb43db4a25f2",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İtalya'da protestolarda polisle göstericiler arasında arbede yaşandı",
+      "summary": "İtalya'nın başkenti Roma'da protesto yürüyüşüne katılan göstericiler, başbakanlık istikametinde yürümek isteyince güvenlik güçleriyle karşı karşıya geldi.",
+      "link": "https://www.aa.com.tr/tr/dunya/italyada-protestolarda-polisle-gostericiler-arasinda-arbede-yasandi/4099891",
+      "published": "2026-10-24T21:08:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:37.090541+00:00"
     },
     {
       "id": "0fdc03b3c96d3ce5",
@@ -789,6 +855,28 @@
       "fetched_at": "2026-10-24T20:55:34.780495+00:00"
     },
     {
+      "id": "3d463707ab38d65f",
+      "source": "Bir Gün",
+      "title": "Bakan Çiftçi'den yeni nesil suç örgütü açıklaması: \"Üniformasız teröristler\"",
+      "summary": "Bakan Çiftçi, \"2026 yılının ilk 9 ayı itibarıyla 625 yeni nesil suç örgütü veya organize suç örgütüne yönelik 1741 operasyon gerçekleştirdik. Bunun neticesinde de 8 bin 170 kişi tutuklanmış oldu\" bilgisini verdi.",
+      "link": "https://www.birgun.net/haber/bakan-ciftci-den-yeni-nesil-suc-orgutu-aciklamasi-uniformasiz-teroristler-742326",
+      "published": "2026-10-24T20:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:39.871344+00:00"
+    },
+    {
+      "id": "e9a4ee47b4f33905",
+      "source": "Bir Gün",
+      "title": "Sağlık Bakanı Memişoğlu: “13 ile 17 yaş arasındaki nüfusun yüzde 30’u sigara kullanıyor”",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, Türkiye’de 13 ile 17 yaş arasındaki nüfusun yüzde 30’unun sigara kullandığını belirterek, “Dramatik bir sorunla karşı karşıyayız” dedi.",
+      "link": "https://www.birgun.net/haber/saglik-bakani-memisoglu-13-ile-17-yas-arasindaki-nufusun-yuzde-30u-sigara-kullaniyor-742325",
+      "published": "2026-10-24T20:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:39.871375+00:00"
+    },
+    {
       "id": "bcd0795196f237ee",
       "source": "Star",
       "title": "Türkiye-KKTC doğal gaz hattı için NAVTEX yayımlandı",
@@ -820,6 +908,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T20:50:44.304821+00:00"
+    },
+    {
+      "id": "941d56bfbd32b756",
+      "source": "Bir Gün",
+      "title": "Ümraniye'de bir erkek trafikte tartıştığı kadının aracını yumrukladı",
+      "summary": "İstanbul Ümraniye'de trafikte çıkan tartışmada aracından inen bir erkek, kadın sürücünün otomobilinin camını yumrukladı, hakaretler yağdırdı.",
+      "link": "https://www.birgun.net/haber/umraniye-de-bir-erkek-trafikte-tartistigi-kadinin-aracini-yumrukladi-742327",
+      "published": "2026-10-24T20:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:39.871397+00:00"
     },
     {
       "id": "00852b38ce89112f",
@@ -952,6 +1051,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T20:35:34.461326+00:00"
+    },
+    {
+      "id": "33d01f371a224c9a",
+      "source": "Bir Gün",
+      "title": "Hitler'in Kartal Yuvası yandı",
+      "summary": "Adolf Hitler'in sığınak ve çay evi olarak kullandığı \"Kartal Yuvası\" olarak bilinen Kehlsteinhaus adlı dağ evinde yangın çıktığı bildirildi.",
+      "link": "https://www.birgun.net/haber/hitler-in-kartal-yuvasi-yandi-742324",
+      "published": "2026-10-24T20:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:39.871416+00:00"
     },
     {
       "id": "e6e06227eec1eb21",
@@ -1139,6 +1249,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T20:25:40.480431+00:00"
+    },
+    {
+      "id": "8f261766ac7aaf80",
+      "source": "Bir Gün",
+      "title": "YENİ Parti İstanbul İl Kongresi tamamlandı: Özgür Çelik yeniden il başkanı, Ekrem İmamoğlu kurultay delegesi oldu",
+      "summary": "YENİ Parti'nin YSK denetimindeki 1. Olağan İstanbul İl Kongresi tamamlandı. Tek aday olarak ön seçime giren Özgür Çelik il başkanı seçilirken, tutuklu cumhurbaşkanı adayı Ekrem İmamoğlu ile eşi Dilek Kaya İmamoğlu kurultay delegesi oldu.",
+      "link": "https://www.birgun.net/haber/yeni-parti-istanbul-il-kongresi-tamamlandi-ozgur-celik-yeniden-il-baskani-ekrem-imamoglu-kurultay-delegesi-oldu-742323",
+      "published": "2026-10-24T20:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:39.871442+00:00"
     },
     {
       "id": "4a5dfa14c75bf440",
@@ -2525,6 +2646,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T18:40:34.505640+00:00"
+    },
+    {
+      "id": "0346261261341965",
+      "source": "Bir Gün",
+      "title": "Arnavutluk'ta halk sokakta: Hem muhalefet liderinin hem de iktidar liderinin hapsi istendi",
+      "summary": "Arnavutluk'un başkentinde muhalefet ve öğrenciler yürüdü, çevik kuvvet kalabalık protestoculara tazyikli suyla saldırdı. Öte yandan, Başbakan Edi Rama önceki günlerde olduğu gibi diyalog çağrısını yinelerken, göstericiler çağrıyı reddediyor.",
+      "link": "https://www.birgun.net/haber/arnavutluk-ta-halk-sokakta-hem-muhalefet-liderinin-hem-de-iktidar-liderinin-hapsi-istendi-742319",
+      "published": "2026-10-24T18:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T21:20:39.871531+00:00"
     },
     {
       "id": "e0e58248a5da304e",
@@ -5374,138 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T15:45:59.302292+00:00"
-    },
-    {
-      "id": "70da9a63195e7f7f",
-      "source": "Akşam",
-      "title": "STK'larda İnsani Diplomasi Çalıştayı Gerçekleştirildi",
-      "summary": "Fatih Sultan Mehmet Vakıf Üniversitesi ev sahipliğinde düzenlenen “STK'larda İnsani Diplomasi Çalıştayı”nda, insani krizlere karşı sivil toplum kuruluşlarının rolü, kamu kurumlarıyla iş birliği ve insani diplomasi faaliyetlerinin sürdürülebilirliği ele alındı. FSM Vakıf Üniversitesi Rektörü Prof. Dr. Nevzat Şimşek, insani diplomasinin başarısının faaliyetlerin sayısıyla değil, insanların hayatında",
-      "link": "https://www.aksam.com.tr/guncel/stklarda-insani-diplomasi-calistayi-gerceklestirildi/haber-1708863",
-      "published": "2026-10-24T15:41:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:45:48.935526+00:00"
-    },
-    {
-      "id": "122e8b928433bf5f",
-      "source": "Yeni Akit",
-      "title": "Trump’ın Netanyahu kararına kendi ekibinden itiraz! “Tanıdığı bir şeytan”",
-      "summary": "ABD Başkanı Donald Trump’ın işgal rejiminde yapılacak seçimler öncesinde Binyamin Netanyahu’ya açık destek vermesi Washington’da görüş ayrılığına yol açtı. ABD basınına göre Trump’ın yakın danışmanlarının büyük bölümü seçimlere müdahil olunmasına karşı çıkarken, danışmanlardan birinin Netanyahu için kullandığı “Tanıdığı bir şeytan” ifadesi dikkat çekti.",
-      "link": "https://www.yeniakit.com.tr/haber/trumpin-netanyahu-kararina-kendi-ekibinden-itiraz-tanidigi-bir-seytan-2030026.html",
-      "published": "2026-10-24T15:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:45:51.037152+00:00"
-    },
-    {
-      "id": "04d99acf48abcde9",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İçişleri Bakanı Çiftçi'den KPSS tedbirlerine ilişkin açıklama",
-      "summary": "İçişleri Bakanı Mustafa Çiftçi, Kamu Personel Seçme Sınavı (KPSS Ortaöğretim) kapsamında 32 bin 601 emniyet, 3 bin 143 jandarma personelinin sınav güvenliği için görev yapacağını bildirdi.",
-      "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kpss-tedbirlerine-iliskin-aciklama/4099705",
-      "published": "2026-10-24T15:39:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:45:43.102812+00:00"
-    },
-    {
-      "id": "ff0d877620df99c5",
-      "source": "Akşam",
-      "title": "3 kişi hayatını kaybetmişti... Zonguldak'taki maden faciasında 3 kişi tutuklandı",
-      "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde 3 kişinin hayatını kaybettiği, 5 kişinin yaralandığı özel maden ocağındaki grizu patlamasına ilişkin gözaltına alınan işletme müdürü, iş sağlığı güvenliği uzmanı ve maden mühendisi çıkarıldıkları nöbetçi mahkeme tarafından tutuklandı.",
-      "link": "https://www.aksam.com.tr/guncel/3-kisi-hayatini-kaybetmisti-zonguldaktaki-maden-faciasinda-3-kisi-tutuklandi/haber-1708862",
-      "published": "2026-10-24T15:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:50:41.660022+00:00"
-    },
-    {
-      "id": "909a508320e312a2",
-      "source": "Independent Türkçe",
-      "title": "Yavuz Ağıralioğlu’ndan fon krizi çağrısı: Bütün listeyi yayınlayın",
-      "summary": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, sosyal medya hesabından fon krizine ilişkin değerlendirmelerde bulundu. Hükûmetin tutumunu eleştiren Ağıralioğlu, borsaya girmemesi gereken şirketlere izin verenlerin ve bu kararlara itiraz eden bürokratların açıklanmasını istedi. Ağıralioğlu, şunları kaydetti: Bu bir fon krizi değil. Bu bir fon rezaletidir. Hükûmet yönetirken bu meseleyi sanki kendil",
-      "link": "https://www.indyturk.com/node/784286/siyaset/yavuz-a%C4%9F%C4%B1ralio%C4%9Flu%E2%80%99ndan-fon-krizi-%C3%A7a%C4%9Fr%C4%B1s%C4%B1-b%C3%BCt%C3%BCn-listeyi-yay%C4%B1nlay%C4%B1n",
-      "published": "2026-10-24T15:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:45:58.209883+00:00"
-    },
-    {
-      "id": "315f4e8a13ac3342",
-      "source": "Akşam",
-      "title": "Zonguldak'ta maden ocağındaki patlamaya ilişkin 3 kişi tutuklandı",
-      "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde 3 kişinin hayatını kaybettiği, 5 kişinin yaralandığı özel maden ocağındaki grizu patlamasına ilişkin gözaltına alınan işletme müdürü, iş sağlığı güvenliği uzmanı ve maden mühendisi çıkarıldıkları nöbetçi mahkeme tarafından tutuklandı.",
-      "link": "https://www.aksam.com.tr/guncel/zonguldakta-maden-ocagindaki-patlamaya-iliskin-3-kisi-tutuklandi/haber-1708862",
-      "published": "2026-10-24T15:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:40:44.127482+00:00"
-    },
-    {
-      "id": "bda90a9c3fabc1b9",
-      "source": "Yeni Şafak",
-      "title": "Topkapı Sarayı'nda Cumhurbaşkanı Erdoğan'a anlamlı hediye: Üzerinde Necm Suresi ayeti bulunan sancak takdim edildi",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Topkapı Sarayı Darphane-i Amire Müzeleri Açılış Töreni'ne katıldı. Beş yeni müzenin kültür hayatına kazandırıldığı törenin sonunda Cumhurbaşkanı Erdoğan’a, üzerinde Necm Suresi’nin 39. ayet-i kerimesinin yer aldığı özel bir sancak hediye edildi.",
-      "link": "https://www.yenisafak.com/video/gundem/topkapi-sarayinda-cumhurbaskani-erdogana-anlamli-hediye-uzerinde-necm-suresi-ayeti-bulunan-sancak-takdim-edildi-4866980",
-      "published": "2026-10-24T15:38:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:40:44.855609+00:00"
-    },
-    {
-      "id": "b7e1db877a03d158",
-      "source": "Karar",
-      "title": "'Fon mağduruyum' diyen AK Partili Zeybekci'den yeni açıklama: 6 kamu kurumunda ihmal, bazılarında suistimal var",
-      "summary": "Fon skandalında kendisinin de mağdur olduğunu açıklayan AK Parti Genel Başkan Yardımcısı Nihat Zeybekci, bu kez kamu kurumlarının sorumluluğuna dikkat çekti. Denizli'de konuşan Zeybekci, “Bu fon meselesi maalesef yaklaşık olarak 6 kamu kurumunun ihmaliyle ilgili. Kamu görevlilerinin ihmali, bazılarının üst derecede ihmali var. Maalesef bazı kamu kurumlarının yönetiminde de hem ihmal hem suistimal ",
-      "link": "https://www.karar.com/guncel-haberler/fon-magduruyum-diyen-ak-partili-zeybekciden-yeni-aciklama-6-kamu-2080404",
-      "published": "2026-10-24T15:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:40:45.861988+00:00"
-    },
-    {
-      "id": "ca633fd4d4dcac40",
-      "source": "Yeni Yaşam",
-      "title": "Tahliye olduktan sonra GGM’ye gönderilen Ziynet Sağlam serbest bırakıldı",
-      "summary": "Erzincan Kadın Kapalı Cezaevi’nden tahliye olduktan sonra geri gönderme merkezine götürülen Ziynet Sağlam, serbest bırakıldı Erzincan Kadın Kapalı Cezaevi’nde tutulan ve daha önce tahliyeleri ertelenen tutsaklar Zeynep Topçu ile Ziynet Sağlam dün tahliye edildi. Tahliye olan Ziynet Sağlam Türkiye vatandaşı olmasına rağmen kayıtlarda Türkiye vatandaşı olmadığı yönündeki bilgiler nedeniyle jandarma ",
-      "link": "https://yeniyasamgazetesi9.com/tahliye-olduktan-sonra-ggmye-gonderilen-ziynet-saglam-serbest-birakildi/",
-      "published": "2026-10-24T15:37:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:40:52.545201+00:00"
-    },
-    {
-      "id": "417bdf756402a758",
-      "source": "Yeni Akit",
-      "title": "Kuş sütü de ister misiniz komünistler? Meydanda halkçı boğazda rakı balıkçı",
-      "summary": "Meydanlarda ve mitinglerde her fırsatta \"işçi hakları\" ve \"yoksulluk\" gibi söylemlerle halkçı maskesi takan Türkiye İşçi Partisi (TİP) Genel Başkanı Erkan Baş ve TİP Sözcüsü Sera Kadıgil, Kur'an-ı Kerim'e ve İslam'a yönelik hakaretleri sebebiyle tutuklanan ve sonrasında tahliye edilen sözde komedyen Deniz Göktaş ile İstanbul Boğazı'na nazır mekanda rakı balık sofrası kurdu.",
-      "link": "https://www.yeniakit.com.tr/haber/kus-sutu-de-ister-misiniz-komunistler-meydanda-halkci-bogazda-balikci-2030024.html",
-      "published": "2026-10-24T15:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T16:40:46.064675+00:00"
-    },
-    {
-      "id": "9dc90b99f54e2375",
-      "source": "Yeni Akit",
-      "title": "Uşak'ta kaybolan yaşlı kadından iyi haber: Alzheimer hastası Fadime Tosun sağ salim bulundu",
-      "summary": "Uşak’ın Banaz ilçesinde kaybolan 79 yaşındaki Alzheimer hastası Fadime Tosun, ekiplerin çalışmaları sonucunda sağ salim bulundu.",
-      "link": "https://www.yeniakit.com.tr/haber/usakta-kaybolan-yasli-kadindan-iyi-haber-alzheimer-hastasi-fadime-tosun-sag-salim-bulundu-2030025.html",
-      "published": "2026-10-24T15:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:40:45.544720+00:00"
-    },
-    {
-      "id": "5ba89348796799c8",
-      "source": "Yeni Akit",
-      "title": "Kuş sütü de ister misiniz komünistler? Meydanda halkçı boğazda balıkçı",
-      "summary": "Meydanlarda ve mitinglerde her fırsatta \"işçi hakları\" ve \"yoksulluk\" gibi söylemlerle halkçı maskesi takan Türkiye İşçi Partisi (TİP) Genel Başkanı Erkan Baş ve TİP Sözcüsü Sera Kadıgil, Kur'an-ı Kerim'e ve İslam'a yönelik hakaretleri sebebiyle tutuklanan ve sonrasında tahliye edilen sözde komedyen Deniz Göktaş ile İstanbul Boğazı'na nazır mekanda rakı balık sofrası kurdu.",
-      "link": "https://www.yeniakit.com.tr/haber/kus-sutu-de-ister-misiniz-komunistler-meydanda-halkci-bogazda-balikci-2030024.html",
-      "published": "2026-10-24T15:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T15:40:45.544764+00:00"
     }
   ]
 }

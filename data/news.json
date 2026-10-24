@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-24T00:51:06.961826+00:00",
+  "last_updated": "2026-10-24T00:55:55.402461+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 456,
+  "new_items_this_run": 457,
   "items": [
+    {
+      "id": "18877db85afc59a2",
+      "source": "Habertürk",
+      "title": "Milas Belediye Başkanı Fevzi Topuz tutuklandı",
+      "summary": "Muğla Cumhuriyet Başsavcılığı'nca Milas Belediyesi'ne yönelik yürütülen soruşturma kapsamında gözaltına alınan Belediye Başkanı Fevzi Topuz ve oğlu Doruk Topuz'un da aralarında bulunduğu 18 şüpheli tutuklandı",
+      "link": "https://www.haberturk.com/gundem/milas-belediye-baskani-fevzi-topuz-tutuklandi-3922161",
+      "published": "2026-10-24T00:44:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T00:55:25.647440+00:00"
+    },
     {
       "id": "32ddf574c3862bb1",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-23T19:35:49.541599+00:00"
-    },
-    {
-      "id": "9566c89ef42cb219",
-      "source": "Akşam",
-      "title": "Galatasaray ve Beşiktaş transferde karşı karşıya!",
-      "summary": "Süper Lig'in iki devi Beşiktaş ve Galatasaray, transferde bir kez daha karşı karşıya geldi. İki ezeli rakip, orta saha hamlesi için harekete geçti.",
-      "link": "https://www.aksam.com.tr/spor/galatasaray-ve-besiktas-transferde-karsi-karsiya/haber-1708678",
-      "published": "2026-10-23T18:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-23T18:25:38.337391+00:00"
     }
   ]
 }

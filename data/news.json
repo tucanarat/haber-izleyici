@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-10-24T17:46:06.331420+00:00",
+  "last_updated": "2026-10-24T17:51:02.421463+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 484,
+  "new_items_this_run": 486,
   "items": [
+    {
+      "id": "5be1e7f95c829aa7",
+      "source": "Yeni Şafak",
+      "title": "Bir nehir, üç şehir: Tekneye binen üç şehir değiştiriyor, manzara görenleri büyülüyor",
+      "summary": "Samsun, Ordu ve Tokat illerine sınır olarak birbirinden ayıran Yeşilırmak'ın güzelliği, görüntülendi.",
+      "link": "https://www.yenisafak.com/galeri/gundem/yesilirmak-samsun-ordu-ve-tokati-birbirinden-ayiriyor-4866994",
+      "published": "2026-10-24T17:49:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:50:42.484613+00:00"
+    },
+    {
+      "id": "576a5903d898efe3",
+      "source": "CNBC-e",
+      "title": "Cephedeki internet krizi çözüldü: Zelenski, Starlink’in eski hızına döndüğünü açıkladı",
+      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, ordunun kullandığı Starlink ve Starshield internet hizmetlerinin kısıtlamalar öncesindeki hızına döndüğünü açıkladı. Zelenski, bağlantı sorununun çözülmesinin cephedeki operasyonlar ve hava savunması açısından önemli olduğunu belirtti.",
+      "link": "https://www.cnbce.com/haberler/cephedeki-internet-krizi-cozuldu-zelenski-starlinkin-eski-hizina-dondugunu-acikladi-h40223",
+      "published": "2026-10-24T17:49:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:50:54.383312+00:00"
+    },
+    {
+      "id": "852d24bed8109fbd",
+      "source": "Cumhuriyet",
+      "title": "Akdeniz açıklarında deprem",
+      "summary": "Akdeniz açıklarında 3,5 büyüklüğünde deprem meydana geldi. Kandilli Rasathanesi, depremin derinliğini 23,1 kilometre olarak açıkladı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/akdeniz-aciklarinda-deprem-2549900",
+      "published": "2026-10-24T17:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:50:35.649787+00:00"
+    },
+    {
+      "id": "739ae2a579477391",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Şarkıcı Güllü'nün ölümüne ilişkin kızına verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı",
+      "summary": "Yalova'da \"Güllü\" adıyla tanınan şarkıcı Gül Tut'un ölümüne ilişkin davada, kızı Tuğyan Ülkem Gülter'e verilen ağırlaştırılmış müebbet hapis cezasının gerekçeli kararı açıklandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/sarkici-gullunun-olumune-iliskin-kizina-verilen-agirlastirilmis-muebbet-hapis-cezasinin-gerekceli-karari-aciklandi/4099795",
+      "published": "2026-10-24T17:44:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:50:35.328477+00:00"
+    },
     {
       "id": "73941dba50ae12bd",
       "source": "Yeni Yaşam",
@@ -61,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T17:40:52.709365+00:00"
+    },
+    {
+      "id": "fbb012d3ba9e8682",
+      "source": "Bloomberg HT",
+      "title": "İran Cumhurbaşkanı Pezeşkiyan, 27 Ekim'de Rusya'ya gidecek",
+      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Gaz İhraç Eden Ülkeler Forumu Zirvesi'ne (GECF) katılmak üzere Rusya'ya gidecek.",
+      "link": "https://www.bloomberght.com/iran-cumhurbaskani-pezeskiyan-27-ekim-de-rusyaya-gidecek-3792465",
+      "published": "2026-10-24T17:38:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:50:52.244988+00:00"
     },
     {
       "id": "4b53cdca6b87d157",
@@ -1601,6 +1656,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T16:10:35.202990+00:00"
+    },
+    {
+      "id": "0e16df8672f1dde2",
+      "source": "Evrensel",
+      "title": "Samsunspor-Amedspor: 1-2",
+      "summary": "Süper Lig'in 9. haftasında, sezona istediği başlangıcı yapamayan Samsunspor, ligin flaş ekibi Amedspor'u ağırladı. İlk yarı Samsunspor'un üstünlüğüyle sona erdi. İkinci yarıda Amedspor öne geçti.",
+      "link": "https://www.evrensel.net/haber/6006486/samsunspor-amedspor-1-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-24T16:03:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-24T17:50:38.792411+00:00"
     },
     {
       "id": "b67f7307ca578aa6",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T13:45:41.264183+00:00"
-    },
-    {
-      "id": "afc64fb4b26644d0",
-      "source": "Evrensel",
-      "title": "Hayatını kaybeden şarkıcı Nev kimdir?",
-      "summary": "Nev olarak bilinen şarkıcı Nevzat Doğansoy, tedavi gördüğü hastanede 57 yaşında hayatını kaybetti.",
-      "link": "https://www.evrensel.net/haber/6006461/hayatini-kaybeden-sarkici-nev-kimdir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-24T13:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:50:43.839024+00:00"
-    },
-    {
-      "id": "776eecfb5eef69b3",
-      "source": "Star",
-      "title": "Fenerbahçe Tarfin evinde farklı kazandı",
-      "summary": "Fenerbahçe Tarfin, Halkbank Kadınlar Basketbol Süper Ligi'nin 5. haftasında sahasında konuk ettiği Turgutlu Belediyespor'u 84-57 yendi.",
-      "link": "https://www.star.com.tr/spor/fenerbahce-tarfin-evinde-farkli-kazandi-haber-2048840/",
-      "published": "2026-10-24T13:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:40:45.604983+00:00"
-    },
-    {
-      "id": "ea42666850f34acd",
-      "source": "Milliyet",
-      "title": "Mardin'den acı haber! Otomobil sulama kanalına düştü: 4’ü çocuk, 6 ölü",
-      "summary": "Kaza, öğleden sonra Nusaybin ilçesi Cizre yolu üzerindeki kırsal Tepealtı Mahallesi mevkisinde meydana geldi. Sürücüsünün ismi henüz öğrenilemeyen 47 ADZ 606 plakalı otomobil, kontrolden çıkarak yol kenarında bulunan su kanalına uçtu. İhbar üzerine kaza yerine çok sayıda sağlık, itfaiye ve jandarma ekibi sevk edildi. Olay yerine ulaşan ekiplerin yaptığı kontrolde, araçta sıkışan Zana Öztürk (5), M",
-      "link": "https://www.milliyet.com.tr/gundem/mardinden-aci-haber-otomobil-sulama-kanalina-dustu-4u-cocuk-6-olu-7686727",
-      "published": "2026-10-24T13:37:40+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:40:43.984043+00:00"
-    },
-    {
-      "id": "9aa9973e852a76b1",
-      "source": "Milliyet",
-      "title": "Fransa'da büyük protesto başladı! 70 bin polis konuşlandı: 'Bugün uzun bir gün olacak'",
-      "summary": "Fransa'da ülke genelinde yeni protesto dalgası başladı. Fransa İçişleri Bakanı Laurent Nunez yaptığı açıklamada, gösteriler sırasında yerel saatle 13.00'e kadar 136 olay kaydedildiğini, 135 kişinin gözaltına alındığını belirtti. Bakan Nunez, gösterilere şu ana kadar 35 bin kişinin katıldığını aktardı. Fransız televizyon kanalı BFM TV'nin haberine göre Paris, Lille, Strasbourg, Mulhouse, Grenoble, ",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-fransada-buyuk-protesto-basladi-70-bin-polis-konuslandi-bugun-uzun-bir-gun-olacak-7686690",
-      "published": "2026-10-24T13:37:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:40:43.983547+00:00"
-    },
-    {
-      "id": "b53e6f2c2fb01785",
-      "source": "Akşam",
-      "title": "Fenerbahçe Tarfin sahasında farklı kazandı",
-      "summary": "Fenerbahçe Tarfin, Halkbank Kadınlar Basketbol Süper Ligi'nin 5. haftasında sahasında Turgutlu Belediyespor'u 84-57 yendi.",
-      "link": "https://www.aksam.com.tr/spor/fenerbahce-tarfin-sahasinda-farkli-kazandi/haber-1708839",
-      "published": "2026-10-24T13:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:40:44.577115+00:00"
-    },
-    {
-      "id": "311a1ac1c85dcd1e",
-      "source": "Ekonomim",
-      "title": "Para bulmak zorlaştı: ATM'ler için şikayet yağıyor",
-      "summary": "Türkiye&#039;de ATM sayısı 56 bin 814&#039;e ulaşırken nakit yetersizliği, teknik arızalar ve para sıkışması gibi sorunlar vatandaşların tepkisini çekiyor. Haftada 1500&#039;ü aşkın şikâyete konu olan aksaklıklar, özellikle maaş günlerinde ve alternatif ATM sayısının sınırlı olduğu yerleşimlerde nakde erişimi zorlaştırıyor.",
-      "link": "https://www.ekonomim.com/ekonomi/para-bulmak-zorlasti-atmler-icin-sikayet-yagiyor-haberi-926826",
-      "published": "2026-10-24T13:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T13:45:51.682753+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-25T00:35:55.491686+00:00",
+  "last_updated": "2026-10-25T00:40:58.619143+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 487,
+  "new_items_this_run": 488,
   "items": [
+    {
+      "id": "c5216b8a84fdef6f",
+      "source": "Habertürk",
+      "title": "İsrail'de ordu alarmda",
+      "summary": "İsrail ordusunun, 27 Ekim'de yapılacak seçime 3 gün kala, İran veya Lübnan'dan füze fırlatılması dahil olası güvenlik gelişmelerine karşı alarm seviyesini en üst düzeye çıkardığı ve çeşitli bölgelere on binlerce asker konuşlandırdığı bildirildi",
+      "link": "https://www.haberturk.com/dunya/israil-de-ordu-alarmda-3922351",
+      "published": "2026-10-25T00:35:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T00:40:32.285365+00:00"
+    },
     {
       "id": "5eacf4c16c538f47",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T17:23:31.157679+00:00"
-    },
-    {
-      "id": "97059409cb567cc1",
-      "source": "Star",
-      "title": "‘Dünya Beşten Büyüktür' vurgusu! AK Parti Sözcüsü Çelik: Küresel düzen için mücadeleye devam edeceğiz",
-      "summary": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, 24 Ekim Birleşmiş Milletler Günü ve Birleşmiş Milletler Teşkilatının 81. kuruluş yıl dönümünü kutladı.",
-      "link": "https://www.star.com.tr/guncel/dunya-besten-buyuktur-vurgusu-ak-parti-sozcusu-celik-kuresel-duzen-icin-mucadeleye-devam-edecegiz-haber-2048877/",
-      "published": "2026-10-24T17:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T17:23:37.465408+00:00"
     }
   ]
 }

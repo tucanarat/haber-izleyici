@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T18:41:02.638530+00:00",
+  "last_updated": "2026-10-25T18:46:01.895806+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,50 @@
   "total_items": 500,
   "new_items_this_run": 480,
   "items": [
+    {
+      "id": "e0eef11c0bc65d21",
+      "source": "Akşam",
+      "title": "Tırın çarptığı elektrikli otomobil alev aldı",
+      "summary": "Aydın'ın Efeler ilçesinde tır ile çarpışan elektrikli otomobil alev alırken, itfaiye ekipleri özel yangın battaniyesiyle alevlere müdahale etti.",
+      "link": "https://www.aksam.com.tr/guncel/tirin-carptigi-elektrikli-otomobil-alev-aldi/haber-1709112",
+      "published": "2026-10-25T18:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:45:42.950740+00:00"
+    },
+    {
+      "id": "88f1bc4ab4fade51",
+      "source": "Yeni Şafak",
+      "title": "Bingöl'de otomobil ile çarpışan motosikletin sürücüsü ağır yaralandı",
+      "summary": "Bingöl'ün Karlıova ilçesinde otomobil ile motosikletin çarpıştığı kazada 3 kişi yaralandı. Yaralılardan motosiklet sürücüsü Y.N.’nin hayati tehlikesinin bulunduğu öğrenildi.",
+      "link": "https://www.yenisafak.com/gundem/bingolde-otomobil-ile-carpisan-motosikletin-surucusu-agir-yaralandi-4867199",
+      "published": "2026-10-25T18:42:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:45:43.128679+00:00"
+    },
+    {
+      "id": "f1ebadde60ede419",
+      "source": "Akşam",
+      "title": "İsrail'in en karanlık sırları internete saçıldı! 150 GB'lık güvenlik verisi sızdırıldı",
+      "summary": "İran bağlantılı \"Hanzala (Handala)\" adlı hacker grubunun, İsrail hükümeti ve ordusuna ait gizli kayıtların tutulduğu Etype sistemini hacklediği ve 150 gigabaytlık gizli veriyi kamuya açık şekilde paylaştığı belirtildi.",
+      "link": "https://www.aksam.com.tr/dunya/israilin-en-karanlik-sirlari-internete-sacildi-150-gblik-guvenlik-verisi-sizdirildi/haber-1709111",
+      "published": "2026-10-25T18:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:45:42.950779+00:00"
+    },
+    {
+      "id": "f89df956bf7bce77",
+      "source": "Cumhuriyet",
+      "title": "Göztepe, Çorum FK'nin serisine son verdi!",
+      "summary": "Göztepe, Süper Lig'in 9. haftasında kendi sahasında ağırladığı Çorum FK'yi 2-0 mağlup etti.",
+      "link": "https://www.cumhuriyet.com.tr/spor/goztepe-corum-fk-nin-serisine-son-verdi-2550156",
+      "published": "2026-10-25T18:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:45:37.199339+00:00"
+    },
     {
       "id": "90118d8e84ae1fd5",
       "source": "CNBC-e",
@@ -1909,6 +1953,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T16:35:39.821562+00:00"
+    },
+    {
+      "id": "7011c388ef7b0060",
+      "source": "Evrensel",
+      "title": "Zonguldak'taki maden ocağındaki patlamaya yakalanan firari işletme müdürü tutuklandı",
+      "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde meydana gelen ve 3 işçinin yaşamını yitirdiği maden ocağının işletme müdürü tutuklandı.",
+      "link": "https://www.evrensel.net/haber/6006588/zonguldaktaki-maden-ocagindaki-patlamaya-yakalanan-firari-isletme-muduru-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-25T16:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:45:40.024050+00:00"
     },
     {
       "id": "14eb7480e0982ddb",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T14:01:10.286919+00:00"
-    },
-    {
-      "id": "7db99fb7de13c39c",
-      "source": "Evrensel",
-      "title": "Smart Solar işçileri Karşıyaka’da yürüdü: “İşimize dönene kadar mücadele edeceğiz”",
-      "summary": "İzmir Aliağa'daki Smart Solar fabrikasında sendikal hakları ve toplu iş sözleşmesi için direnen işçiler, mücadelenin 20'nci gününde Karşıyaka'da yürüdü. Tam 84 işçinin işten atıldığı fabrikada işçiler, 'Smart işçisini bölemeyeceksiniz' diye seslendi.",
-      "link": "https://www.evrensel.net/haber/6006571/smart-solar-iscileri-karsiyaka-da-yurudu-isimize-donene-kadar-mucadele-edecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-25T13:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T16:45:35.267086+00:00"
-    },
-    {
-      "id": "6adcd8696c542c5e",
-      "source": "Evrensel",
-      "title": "Smart Solar işçileri Karşıyaka’da yürüdü: “İşimize dönene kadar mücadele edeceğiz”",
-      "summary": "İzmir Aliağa'daki Smart Solar fabrikasında sendikal hakları ve toplu iş sözleşmesi için direnen işçiler, mücadelenin 20'nci gününde Karşıyaka'da yürüdü. Tam 84 işçinin işten atıldığı fabrikada işçiler, 'Smart işçisini bölemeyeceksiniz' diye seslendi.",
-      "link": "https://www.evrensel.net/haber/6006571/smart-solar-iscileri-karsiyakada-yurudu-isimize-donene-kadar-mucadele-edecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-25T13:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T14:15:36.399228+00:00"
-    },
-    {
-      "id": "abc8c7ebcd7cf4d2",
-      "source": "OdaTV",
-      "title": "Murat Ülker'den Singapur analizi: Kıbrıs'ta bunu yapabiliriz... Türk iş dünyasına eleştiri",
-      "summary": "İş insanı Murat Ülker, Singapur&#039;un küçük bir ada ülkesinden küresel ticaret ve finans merkezine dönüşmesini kaleme aldı. Ülkenin coğrafi dezavantajlarını ekonomik fırsata çevirdiğine dikkat çeken Ülker, &quot;Bizim KKTC&#039;de de bunu yapabiliriz&quot; ifadelerini kullandı.",
-      "link": "https://www.odatv.com/ekonomi/murat-ulker-yazdi-singapur-modeli-kktcde-de-uygulanabilir-120168231",
-      "published": "2026-10-25T13:49:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T14:30:54.644503+00:00"
-    },
-    {
-      "id": "4bb0315e1dd121db",
-      "source": "Habertürk",
-      "title": "Inter uzatmada attığı gollerle kazandı!",
-      "summary": "İtalya Serie A'nın 8. haftasında Inter, evinde ağırladığı Fiorentina'yı uzatma dakikalarında bulduğu gollerle 2-1 mağlup etti. Milli futbolcu Hakan Çalhanoğlu karşılaşmada 78 dakika sahada kaldı.",
-      "link": "https://www.haberturk.com/spor/inter-fiorentina-mac-sonucu-ozeti-ve-golleri-italya-serie-a-3922451",
-      "published": "2026-10-25T13:49:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:55:25.428875+00:00"
-    },
-    {
-      "id": "0857c211fc5e8711",
-      "source": "Star",
-      "title": "Çelik Kubbe'nin gücü yeni yetenek kazandı! SİPER havada ikinci hedefe yöneldi",
-      "summary": "Türkiye'nin katmanlı hava savunma sistemi Çelik Kubbe'nin uzun menzilli gücünü oluşturan SİPER Ürün-2, atış testinde yeni kabiliyetini başarıyla sergiledi. Uçuş sırasında hedef değiştirme yeteneğini ilk kez başarıyla kullanan milli füze, yöneldiği ikinci hedefi imha ederek değişen tehditlere karşı operasyonel esnekliğini ortaya koydu.",
-      "link": "https://www.star.com.tr/savunma/celik-kubbenin-gucu-yeni-yetenek-kazandi-milli-fuze-yeni-hedefi-tam-isabetle-vurdu-haber-2049046/",
-      "published": "2026-10-25T13:49:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:50:46.938126+00:00"
     }
   ]
 }

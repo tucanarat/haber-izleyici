@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T23:46:08.570150+00:00",
+  "last_updated": "2026-10-25T23:51:00.113484+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 476,
   "items": [
+    {
+      "id": "a8d92c7d23e06b95",
+      "source": "BBC News Türkçe",
+      "title": "Brezilya'da Lula ile Bolsonaro'nun başa baş yarıştığı seçimlerde oy sayımı başladı",
+      "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında tercih yaptı.",
+      "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-25T23:47:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T23:50:59.347254+00:00"
+    },
     {
       "id": "1ba735c3e10b169b",
       "source": "Anadolu Ajansı (Güncel)",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T17:40:43.613270+00:00"
-    },
-    {
-      "id": "dfd7dc668d1dafe2",
-      "source": "Evrensel",
-      "title": "İçişleri Bakanlığı'ndan sel ve su baskını uyarısı",
-      "summary": "İçişleri Bakanlığı, yarın birçok il için sel ve su baskınlarına karşı uyarıda bulundu.",
-      "link": "https://www.evrensel.net/haber/6006591/icisleri-bakanligindan-sel-ve-su-baskini-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-25T17:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T19:45:39.051792+00:00"
     }
   ]
 }

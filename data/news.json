@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-25T17:51:10.333319+00:00",
+  "last_updated": "2026-10-25T17:56:06.961069+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 469,
+  "new_items_this_run": 470,
   "items": [
+    {
+      "id": "e85f286c95d77108",
+      "source": "Star",
+      "title": "Aydın'da tır ile çarpışan elektrikli otomobil alev aldı",
+      "summary": "Aydın'ın Efeler ilçesinde bir tır ile çarpışan elektrikli otomobil alev alırken, itfaiye ekipleri özel yangın battaniyesiyle müdahale etti. Kazada araç sürücüsü hafif şekilde yaralandı.",
+      "link": "https://www.star.com.tr/guncel/aydinda-tir-ile-carpisan-elektrikli-otomobil-alev-aldi-haber-2049082/",
+      "published": "2026-10-25T17:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T17:55:37.521234+00:00"
+    },
     {
       "id": "54004582c6acf0d2",
       "source": "Euronews Türkçe",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T17:51:10.332161+00:00"
+    },
+    {
+      "id": "3a2b19070235bc03",
+      "source": "OdaTV",
+      "title": "Bakan Gürlek'ten fon açıklaması",
+      "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmalarındaki gönüllü iadelerin hukuki sorumluluğu kaldırmayacağını ve önceliklerinin bu tutarları gerçek hak sahiplerine ulaştırmak olduğunu vurguladı.",
+      "link": "https://www.odatv.com/guncel/adalet-bakani-akin-gurlekten-fon-aciklamasi-120168250",
+      "published": "2026-10-25T17:46:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T17:55:42.325210+00:00"
     },
     {
       "id": "ba306ee5a6c23099",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T13:40:50.299387+00:00"
-    },
-    {
-      "id": "77494af5429ba5a2",
-      "source": "Aydınlık",
-      "title": "İstanbul Boğazı’nda lüfer bollaştı, balıkçılar Arnavutköy açıklarına yöneldi",
-      "summary": "İstanbul Boğazı’nda 3 gündür bol miktarda yakalanan lüfer için Arnavutköy açıklarında teknelerden olta atılıyor. Marmara’daki şehirlerde lüferin tanesi 300-400 TL fiyatla satışa sunuluyor.",
-      "link": "https://www.aydinlik.com.tr/haber/istanbul-bogazinda-lufer-bollugu-tanesi-300-400-tl-596113",
-      "published": "2026-10-25T13:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:20:47.820805+00:00"
-    },
-    {
-      "id": "d3bfad6eeb913289",
-      "source": "Evrensel",
-      "title": "Amedspor dayanışma geceleri İstanbul'dan başlıyor: Rojda ve Mikail Aslan katılacak",
-      "summary": "Süper Lig’in lideri Amedspor, dayanışma gecelerinin ilkini 6 Kasım Cuma günü İstanbul Ortaköy’de düzenliyor. Özel organizasyona sevilen sanatçılar Rojda ve Mikail Aslan da katılacak.",
-      "link": "https://www.evrensel.net/haber/6006570/amedspor-dayanisma-geceleri-istanbuldan-basliyor-rojda-ve-mikail-aslan-katilacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-25T13:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:45:43.430088+00:00"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-25T19:31:05.947146+00:00",
+  "last_updated": "2026-10-25T19:35:55.132600+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 480,
+  "new_items_this_run": 481,
   "items": [
+    {
+      "id": "9eb692594b65cbee",
+      "source": "Akşam",
+      "title": "Stanimir Stoilov: Oyuna giren oyuncularımın dinamizminden memnun değilim",
+      "summary": "Süper Lig'in 9. haftasında Göztepe, sahasında karşılaştığı Çorum FK'yı 2-0 mağlup etti. Maçın ardından Göztepe Teknik Direktörü Stanimir Stoilov, açıklamalarda bulundu.",
+      "link": "https://www.aksam.com.tr/spor/stanimir-stoilov-oyuna-giren-oyuncularimin-dinamizminden-memnun-degilim/haber-1709120",
+      "published": "2026-10-25T19:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T19:35:37.010747+00:00"
+    },
+    {
+      "id": "23d118dba5a443e9",
+      "source": "Habertürk",
+      "title": "F.Bahçe Medicana, Eczacıbaşı'nı devirdi!",
+      "summary": "Voleybol Sultanlar Ligi 5’inci hafta maçında Fenerbahçe Medicana, sahasında ağırladığı Eczacıbaşı Peron’u 3-1 mağlup etti.",
+      "link": "https://www.haberturk.com/spor/fenerbahce-medicana-3-eczacibasi-peron-1-mac-sonucu-3922487",
+      "published": "2026-10-25T19:30:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T19:35:28.740146+00:00"
+    },
     {
       "id": "a420f06d10a31169",
       "source": "Aydınlık",
@@ -28,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T19:31:04.527635+00:00"
+    },
+    {
+      "id": "0451853abaf5d667",
+      "source": "OdaTV",
+      "title": "Amasra'da kaya parçaları karavanların bulunduğu alana düştü",
+      "summary": "Bartın&#039;ın Amasra ilçesinde kaya parçaları, karavanların bulunduğu yola düştü. 13 karavan, ekiplerin müdahalesi ile güvenli bölgeye alındı.",
+      "link": "https://www.odatv.com/guncel/amasrada-kaya-parcalari-karavanlarin-bulundugu-alana-dustu-120168256",
+      "published": "2026-10-25T19:28:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T19:35:39.997015+00:00"
     },
     {
       "id": "bd71d2a879f0ee57",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T14:30:49.430273+00:00"
-    },
-    {
-      "id": "05fa4f30c8611690",
-      "source": "Türkiye Gazetesi",
-      "title": "Felaketi yaşayan aile sokakta kaldı: Her şeyimiz gitti, mahvolduk",
-      "summary": "Samsun’da elektrik panosundan çıkan yangın, bir aileyi kış günü evsiz bıraktı. 5 çocuk babası Şaban İnan kiracı olarak kaldıkları evin yanmasıyla mağdur olduklarını belirtti. İnan “Hiçbir eşyamız kalmadı. Kalacak yerimiz yok, elde avuçta bir şeyimiz yok mahvolduk” dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/felaketi-yasayan-aile-sokakta-kaldi-her-seyimiz-gitti-mahvolduk-1825101",
-      "published": "2026-10-25T14:12:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T14:15:36.041309+00:00"
-    },
-    {
-      "id": "993703c2a3a0c50d",
-      "source": "Aydınlık",
-      "title": "Osmangazi’de Cumhuriyet coşkusu Uludağ’a taşındı",
-      "summary": "Osmangazi Belediyesi, Türkiye Cumhuriyeti’nin kuruluşunun 103’üncü yıl dönümü etkinlikleri kapsamında Uludağ’da &#039;Doğanın İçinde Cumhuriyetin İzinde&#039; yürüyüşü düzenledi. Türk bayrakları ve Atatürk posterleriyle yürüyüşe katılan vatandaşlar doğanın eşsiz manzarası eşliğinde Cumhuriyet coşkusunu yaşadı",
-      "link": "https://www.aydinlik.com.tr/haber/osmangazide-cumhuriyet-coskusu-uludaga-tasindi-596122",
-      "published": "2026-10-25T14:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T14:45:46.987085+00:00"
-    },
-    {
-      "id": "048d4d7240009826",
-      "source": "Cumhuriyet",
-      "title": "Merzifon’da altyapı yatırımında sona doğru: Üstyapı çalışmaları başladı",
-      "summary": "Merzifon Belediye Başkanı Alp Kargı, kent tarihinin en büyük altyapı yatırımında yüzde 75-80 seviyesine ulaşıldığını açıkladı. Yol yenileme çalışmalarının başladığını belirten Kargı, Cumhuriyet Caddesi’ndeki asfaltlamayı 29 Ekim’e kadar tamamlamayı hedeflediklerini söyledi.",
-      "link": "https://www.cumhuriyet.com.tr/yerel-gundem/merzifon-da-altyapi-yatiriminda-sona-dogru-ustyapi-calismalari-basladi-2550106",
-      "published": "2026-10-25T14:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T14:15:34.410966+00:00"
     }
   ]
 }

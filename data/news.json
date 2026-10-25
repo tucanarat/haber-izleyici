@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T23:15:58.496827+00:00",
+  "last_updated": "2026-10-25T23:21:07.218422+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 476,
   "items": [
+    {
+      "id": "ea424852de186571",
+      "source": "Karar",
+      "title": "'Sadece hatırını sordum' savunması işe yaramadı: Bir günde 45 mesajın cezası hapis oldu",
+      "summary": "Akrabasının, \"Beni rahatsız etme\" uyarısına aldırış etmeyip aynı gün içinde peş peşe 45 kısa mesaj gönderen sanık hakkında açılan davada emsal niteliğinde nihai karar çıktı. Davada yerel mahkemenin verdiği 2 ay 15 günlük hapis cezasını istinafın bozmasına karşın devreye giren yüksek yargı, eylemi kişilerin huzur ve sükununu bozma suçu sayarak cezayı kesinleştirdi.",
+      "link": "https://www.karar.com/guncel-haberler/surekli-mesaj-atmak-suc-mu-telefonda-rahatsiz-etmenin-cezasi-ne-kadar-2080574",
+      "published": "2026-10-25T23:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T23:20:41.034381+00:00"
+    },
     {
       "id": "fa9c0782bcdacfac",
       "source": "Türkiye Gazetesi",
@@ -5475,6 +5486,17 @@
       "fetched_at": "2026-10-25T17:35:31.524173+00:00"
     },
     {
+      "id": "25ded3f2cb1d4e78",
+      "source": "DonanımHaber",
+      "title": "İnternetin yüzde 70'ine güç veren PHP, sadece 1 çalışanla ayakta kalıyor",
+      "summary": "İnternet sitelerinin yüzde 70'inin arkasında bulunan PHP, ciddi kaynak sıkıntısı yaşıyor. Dilin güvenliğini ve gelişimini destekleyen ekipte yalnızca bir tam zamanlı çalışan bulunuyor.",
+      "link": "https://www.donanimhaber.com/php-nin-arkasindaki-ekipte-yalnizca-1-tam-zamanli-calisan-var--212060",
+      "published": "2026-10-25T17:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T23:21:04.578978+00:00"
+    },
+    {
       "id": "90ef8feb776c8596",
       "source": "Evrensel",
       "title": "ABD'nin Riyad Büyükelçiliği'nden personellere ülkeyi terk etme talimatı",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T19:45:39.051816+00:00"
-    },
-    {
-      "id": "70475af43b775a97",
-      "source": "Aydınlık",
-      "title": "Rıza Kayaalp çeyrek finalde yenildi, repesaj hakkı elde edemedi",
-      "summary": "Astana&#039;da düzenlenen 2026 Dünya Güreş Şampiyonası&#039;nda Rıza Kayaalp, çeyrek finalde Matti Elias Kuosmanen&#039;e 5-3 yenildi. Kuosmanen&#039;in finale çıkamamasıyla repesaj şansını kaybeden milli sporcu, organizasyonu madalyasız tamamladı.",
-      "link": "https://www.aydinlik.com.tr/haber/riza-kayaalp-2026-dunya-gures-sampiyonasinda-elendi-596149",
-      "published": "2026-10-25T17:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T17:35:36.869441+00:00"
-    },
-    {
-      "id": "6686604cd1c123ef",
-      "source": "Yeni Akit",
-      "title": "Maden faciasında ihmal zincirine yargı cezası! Ankara’da yakalanan işletme müdürü de tutuklandı",
-      "summary": "Zonguldak’ın Kilimli ilçesine bağlı Gelik beldesinde özel bir maden ocağında meydana gelen ve 3 madencimizin hayatını kaybettiği, 5 işçimizin de yaralandığı grizu patlamasına ilişkin yürütülen soruşturmada sıcak bir gelişme yaşandı. Firari olarak aranırken Ankara’da emniyet güçlerince yakalanan işletme müdürü Mustafa K., çıkarıldığı mahkemece tutuklanarak demir parmaklıklar arkasına gönderildi.",
-      "link": "https://www.yeniakit.com.tr/haber/maden-faciasinda-ihmal-zincirine-yargi-cezasi-ankarada-yakalanan-isletme-muduru-de-tutuklandi-2030150.html",
-      "published": "2026-10-25T17:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T17:30:59.276314+00:00"
     }
   ]
 }

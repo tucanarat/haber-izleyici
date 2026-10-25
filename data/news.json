@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-10-25T18:35:57.146029+00:00",
+  "last_updated": "2026-10-25T18:41:02.638530+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 482,
+  "new_items_this_run": 480,
   "items": [
+    {
+      "id": "90118d8e84ae1fd5",
+      "source": "CNBC-e",
+      "title": "Kanser tedavisinde yeni dönem mi? Yapay zeka yüz fotoğraflarını analiz ediyor",
+      "summary": "ABD'li araştırmacılar, yalnızca yüz fotoğrafını analiz ederek kanser hastalarının hayatta kalma olasılığına ilişkin tahminler yapabilen bir yapay zeka aracı geliştirdi.",
+      "link": "https://www.cnbce.com/yapay-zeka/kanser-tedavisinde-yeni-donem-mi-yapay-zeka-yuz-fotograflarini-analiz-ediyor-g40262",
+      "published": "2026-10-25T18:37:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:40:55.453489+00:00"
+    },
+    {
+      "id": "6b9beecd7f6e21e2",
+      "source": "Aydınlık",
+      "title": "Nemrut Kalderası’nda sonbahar yoğunluğu",
+      "summary": "Bitlis’in Tatvan, Güroymak ve Ahlat ilçelerinin sınırlarında yer alan Nemrut Kalderası, sonbaharın renkleriyle ziyaretçilerin ilgi odağı oldu. Sarı, turuncu ve altın sarısına bürünen ağaçları görmek isteyen yüzlerce araç bölgeye akın ederken, kaldera girişinde uzun kuyruklar oluştu.",
+      "link": "https://www.aydinlik.com.tr/haber/nemrut-kalderasinda-sonbahar-yogunlugu-596155",
+      "published": "2026-10-25T18:37:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:40:46.885337+00:00"
+    },
+    {
+      "id": "29b35be099e474e1",
+      "source": "Karar",
+      "title": "Dinlenmek bile fayda etmiyorsa dikkat: Geçmeyen yorgunluğun ardında bambaşka nedenler yatıyor",
+      "summary": "Modern yaşamın getirdiği yoğun tempo yetişkinleri tüketirken, geniş çaplı bilimsel taramalar her 10 kişiden 7'sinin kronik bitkinlikle mücadele ettiğini gösteriyor. Uzmanlar dinlenmeyle geçmeyen bu halsizliğin altta yatan sağlık sorunlarıyla tetiklendiğine dikkat çekerken, doğru beslenme alışkanlıkları ve yaşam tarzı değişiklikleri tükenmişlik hissini hafifletmede kritik rol oynuyor.",
+      "link": "https://www.karar.com/saglik-haberleri/surekli-yorgunluk-neden-olur-yorgunluk-neden-gecmez-gecmeyen-2080549",
+      "published": "2026-10-25T18:36:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:40:45.753378+00:00"
+    },
+    {
+      "id": "8690d38f2faacee0",
+      "source": "OdaTV",
+      "title": "Gazeteci Kayhan Ayhan'ın acı günü",
+      "summary": "Gazeteci Kayhan Ayhan, uzun süredir sağlık sorunlarıyla mücadele eden annesi Gülsüm Ayhan&#039;ın hayatını kaybettiğini duyurdu.",
+      "link": "https://www.odatv.com/guncel/gazeteci-kayhan-ayhanin-annesi-hayatini-kaybetti-120168252",
+      "published": "2026-10-25T18:34:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:40:47.491052+00:00"
+    },
+    {
+      "id": "829315b21d03c8bb",
+      "source": "Türkiye Gazetesi",
+      "title": "Szymanski duble yaptı, Rennes liderliği aldı",
+      "summary": "Sebastian Szymanski'nin harika bir gole imza attığı maçta Rennes, konuk ettiği Strasbourg'u 3-0 mağlup ederek maç fazlasıyla liderliğe yükseldi. Polonyalı orta saha oyuncusu Szymanski, Fransız ekibiyle tüm kulvarlarda çıktığı 26 maçta 4 gol ve 4 asistlik performans sergiledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/szymanski-duble-yapti-rennes-liderligi-aldi-1825133",
+      "published": "2026-10-25T18:34:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:40:40.263119+00:00"
+    },
     {
       "id": "20f5423c46e3633b",
       "source": "Yeni Yaşam",
@@ -72,6 +127,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T18:35:40.471728+00:00"
+    },
+    {
+      "id": "3075d6d1c19365cb",
+      "source": "Habertürk",
+      "title": "Maden ocağındaki faciada yeni gelişme",
+      "summary": "Zonguldak'ın Kilimli ilçesine bağlı Gelik beldesinde 3 kişinin hayatını kaybettiği, 5 kişinin yaralandığı özel maden ocağındaki grizu patlamasına ilişkin gözaltına alınan firari işletme müdürü tutuklandı.",
+      "link": "https://www.haberturk.com/gundem/zonguldak-ta-maden-ocagindaki-patlamaya-iliskin-yakalanan-firari-isletme-muduru-tutuklandi-3922480",
+      "published": "2026-10-25T18:29:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T18:40:35.183203+00:00"
     },
     {
       "id": "ffa70a6345630382",
@@ -5440,72 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T13:50:46.938126+00:00"
-    },
-    {
-      "id": "fcfc1d1d86143af2",
-      "source": "Cumhuriyet",
-      "title": "2026 Ekim FED faiz kararı ne zaman, saat kaçta açıklanacak? FED faiz kararı ne olacak, faizler düşecek mi?",
-      "summary": "ABD Merkez Bankası Fed’in Ekim 2026 faiz kararı, küresel piyasalar tarafından yakından takip ediliyor. Peki, 2026 Ekim FED faiz kararı ne zaman, saat kaçta açıklanacak? FED faiz kararı ne olacak, faizler düşecek mi?",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/2026-ekim-fed-faiz-karari-ne-zaman-saat-kacta-aciklanacak-fed-faiz-karari-ne-olacak-faizler-dusecek-mi-2550098",
-      "published": "2026-10-25T13:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:50:40.463981+00:00"
-    },
-    {
-      "id": "dcbc19fc4df130fa",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Türk Yıldızları Fethiye’de gösteri uçuşu yaptı",
-      "summary": "Muğla'nın Fethiye ilçesinde düzenlenen 26. Uluslararası Ölüdeniz Hava Oyunları Festivali kapsamında, Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları, gösteri uçuşu gerçekleştirdi.",
-      "link": "https://www.aa.com.tr/tr/gundem/turk-yildizlari-fethiye-de-gosteri-ucusu-yapti/4100284",
-      "published": "2026-10-25T13:47:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T14:55:28.539185+00:00"
-    },
-    {
-      "id": "5ea4ac7eda51ef1b",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İsrail'in kuşattığı Batı Şeria'nın El Halil kentinde binlerce Filistinli evlerini terk etmeye zorlanıyor",
-      "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde yaklaşık 2 bin 200 Filistinliyi evlerinden zorla çıkarıp konut ve iş yerlerini yıktı, giriş ve çıkışları kapatarak günlük yaşamı felce uğrattı.",
-      "link": "https://www.aa.com.tr/tr/dunya/israilin-kusattigi-bati-serianin-el-halil-kentinde-binlerce-filistinli-evlerini-terk-etmeye-zorlaniyor/4100282",
-      "published": "2026-10-25T13:46:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:55:27.916413+00:00"
-    },
-    {
-      "id": "1be422c5d3f0dbac",
-      "source": "Akşam",
-      "title": "Inter'den 7 dakikada inanılmaz geri dönüş!",
-      "summary": "İtalya Serie A'nın 8. haftasında Inter, 1-0 geriye düştüğü maçta Fiorentina'yı son dakikalarda bulduğu gollerle 2-1 mağlup etti.",
-      "link": "https://www.aksam.com.tr/spor/interden-7-dakikada-inanilmaz-geri-donus/haber-1709076",
-      "published": "2026-10-25T13:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:50:45.923860+00:00"
-    },
-    {
-      "id": "f517d05aba28db50",
-      "source": "Akşam",
-      "title": "Türkiye'nin çelik kalkanı güçleniyor: SİPER kritik testi geçti",
-      "summary": "Türkiye'nin uzun menzilli hava ve füze savunma sistemi SİPER Ürün-2, uçuş sırasında hedef değiştirme kabiliyetini ilk kez başarıyla sergiledi. Ateşlendikten sonra havadayken yönlendirildiği yeni hedefi imha eden sistem, Çelik Kubbe'nin değişken tehditlere karşı reaksiyon gücünü artırdı.",
-      "link": "https://www.aksam.com.tr/trend/turkiyenin-celik-kalkani-gucleniyor-siper-kritik-testi-gecti/haber-1709075",
-      "published": "2026-10-25T13:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:50:45.923908+00:00"
-    },
-    {
-      "id": "bf4a40b6426df3a5",
-      "source": "Yeni Şafak",
-      "title": "Bahçeli'den Türk dünyası mesajı: Kadim bağlarımız geleceğin gücü olacak",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, 'Kazakistan Cumhuriyet Günü' nedeniyle yayımladığı mesajda, \"Yaşasın Türk halklarının kardeşliği, yaşasın Türk dünyasının kardeşliği' diyerek kendilerine selam ve muhabbetlerimi iletiyorum. Cumhuriyet Günü'nüz kutlu, devletiniz ebed müddet olsun\" dedi.",
-      "link": "https://www.yenisafak.com/gundem/bahceliden-turk-dunyasi-mesaji-kadim-baglarimiz-gelecegin-gucu-olacak-4867161",
-      "published": "2026-10-25T13:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:50:46.629834+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-25T01:05:56.620875+00:00",
+  "last_updated": "2026-10-25T01:11:11.921904+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 512,
+  "new_items_this_run": 495,
   "items": [
+    {
+      "id": "377e997677f26e73",
+      "source": "Habertürk",
+      "title": "Ardan Zentürk hakkında soruşturma başlatıldı",
+      "summary": "Ardan Zentürk hakkında sanal medya paylaşımlarındaki ifadeleri nedeniyle 'Cumhurbaşkanına hakaret' suçundan resen soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/gundem/ardan-zenturk-hakkinda-sorusturma-baslatildi-3922353",
+      "published": "2026-10-25T01:06:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T01:10:33.785867+00:00"
+    },
     {
       "id": "5fffdc5b38efe301",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T17:55:49.154012+00:00"
-    },
-    {
-      "id": "852d24bed8109fbd",
-      "source": "Cumhuriyet",
-      "title": "Akdeniz açıklarında deprem",
-      "summary": "Akdeniz açıklarında 3,5 büyüklüğünde deprem meydana geldi. Kandilli Rasathanesi, depremin derinliğini 23,1 kilometre olarak açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/akdeniz-aciklarinda-deprem-2549900",
-      "published": "2026-10-24T17:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T17:50:35.649787+00:00"
     }
   ]
 }

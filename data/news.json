@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-25T04:05:52.862829+00:00",
+  "last_updated": "2026-10-25T04:10:54.004106+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 501,
+  "new_items_this_run": 485,
   "items": [
+    {
+      "id": "8743c18447e2fbba",
+      "source": "OdaTV",
+      "title": "Ne maç var ne konser: Hayalet stadyumlar... Akıllara Karşıyaka geldi",
+      "summary": "Dünyanın farklı ülkelerinde terk edilen, yarım kalan ve harabeye dönen stadyumlar yeniden gündemde. Türkiye’de durum ne? Karşıyaka’nın 11 yıldır yapılmayı bekleyen stadı akıllara geldi.",
+      "link": "https://www.odatv.com/spor/ne-mac-var-ne-konser-hayalet-stadyumlar-akillara-karsiyaka-geldi-120168113",
+      "published": "2026-10-25T04:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T04:10:42.107279+00:00"
+    },
     {
       "id": "4c122b132f1e4829",
       "source": "Milliyet",
@@ -127,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T04:01:01.151399+00:00"
+    },
+    {
+      "id": "f92d6db8b5a84091",
+      "source": "Türkiye Gazetesi",
+      "title": "\"BİR TOKAT DAHA YEDİK\"",
+      "summary": "Doğu Akdeniz'de dengeleri etkileyen Türkiye-Libya deniz yetki anlaşması Atina'da hesapları bozdu. Yunan medyası “Türkiye'den bir tokat daha yedik” diye yazarken Uluslararası Hukuk Profesörü Liakouras “Hazırlıksız yakalandık” dedi.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/yunanda-husran-turkiyeden-bir-tokat-daha-yedik-itirafi-1825014",
+      "published": "2026-10-25T03:59:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T04:10:36.823142+00:00"
     },
     {
       "id": "fd2c1b5d7105be51",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-24T18:50:42.711225+00:00"
-    },
-    {
-      "id": "a9dc2984ecb72c82",
-      "source": "CNBC-e",
-      "title": "Nihat Zeybekci'den fon soruşturması çıkışı: İhmal ve suistimal var",
-      "summary": "AK Parti Genel Başkan Yardımcısı Nihat Zeybekci, fon soruşturmalarına ilişkin açıklamasında yaklaşık 6 kamu kurumunun ihmali bulunduğunu belirterek, bazı kurumların yönetiminde suistimal de yaşandığını söyledi. Zeybekci, hukuki sürecin işlemesi gerektiğini vurguladı.",
-      "link": "https://www.cnbce.com/haberler/nihat-zeybekciden-fon-sorusturmasi-cikisi-ihmal-ve-suistimal-var-h40226",
-      "published": "2026-10-24T18:46:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T18:51:15.738097+00:00"
-    },
-    {
-      "id": "5f2a5600b6e04829",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "New York Belediye Başkanı Mamdani, erken oy kullanmanın başladığı New York'ta oyunu kullandı",
-      "summary": "ABD'de 3 Kasım'da yapılacak Kongre ara seçimleri yaklaşırken erken oy kullanma işlemlerinin başladığı New York'ta, Belediye Başkanı Zohran Mamdani oyunu kullandı.",
-      "link": "https://www.aa.com.tr/tr/dunya/new-york-belediye-baskani-mamdani-erken-oy-kullanmanin-basladigi-new-yorkta-oyunu-kullandi/4099820",
-      "published": "2026-10-24T18:44:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-24T19:10:37.168855+00:00"
     }
   ]
 }

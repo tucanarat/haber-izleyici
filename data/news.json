@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-10-25T16:26:00.605720+00:00",
+  "last_updated": "2026-10-25T16:31:20.349703+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 454,
+  "new_items_this_run": 457,
   "items": [
+    {
+      "id": "f57935245ee9dc64",
+      "source": "DonanımHaber",
+      "title": "NASA, Ay'a dönüş planını güncelledi: Tarihi yarışta yeni perde",
+      "summary": "NASA, Artemis programında Ay'a dönüş planını güncelledi. 2027'de iki Ay iniş aracıyla kenetlenme testleri yapılacak, 2028'de ise astronotların Ay yüzeyine indirilmesi hedeflenecek.",
+      "link": "https://www.donanimhaber.com/nasa-ay-a-donus-planini-guncelledi-tarihi-yarista-yeni-perde--212069",
+      "published": "2026-10-25T16:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:31:16.735231+00:00"
+    },
+    {
+      "id": "1b8ce61eeb980b32",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Liverpool 2-0 Brighton",
+      "summary": "İngiltere Premier Lig'in 8. haftasında Liverpool, Anfield'da oynanan mücadelede Brighton'ı 2-0 mağlup etti. Brighton'da Ferdi Kadıoğlu, 4. dakikada sakatlandı ve 6. dakikada yerini Costinha'ya bıraktı.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-liverpool-2-0-brighton-haber-2049071/",
+      "published": "2026-10-25T16:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:30:57.948948+00:00"
+    },
+    {
+      "id": "08852bedd0b3dab5",
+      "source": "Cumhuriyet",
+      "title": "43 yaşındaki mübaşir evinde ölü bulundu",
+      "summary": "Şanlıurfa Adliyesinde görevli mübaşir evinde ölü bulundu. Olayla ilgili soruşturma sürüyor.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/43-yasindaki-mubasir-evinde-olu-bulundu-2550133",
+      "published": "2026-10-25T16:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:30:49.267804+00:00"
+    },
+    {
+      "id": "9ac8143728d9ca94",
+      "source": "Star",
+      "title": "Suudi Arabistan'dan yerlilik çabası: Askeri harcamalarda oran arttı",
+      "summary": "Suudi Arabistan Askeri Sanayiler Otorite Kurumu, askeri harcamalarda yerlileştirme oranının 2025'te yüzde 27,3'e ulaştığını açıkladı. Ülke, 2030'a kadar bu oranı yüzde 50'nin üzerine çıkarmayı hedefliyor.",
+      "link": "https://www.star.com.tr/dunya/suudi-arabistandan-yerlilik-cabasi-askeri-harcamalarda-oran-artti-haber-2049070/",
+      "published": "2026-10-25T16:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:30:57.948970+00:00"
+    },
+    {
+      "id": "39ff44d2919f50b2",
+      "source": "Habertürk",
+      "title": "Ferdi'li Brighton, Liverpool'a diş geçiremedi!",
+      "summary": "İngiltere Premier Ligi'nin 8. haftasında Ferdi Kadıoğlu'nun formasını giydiği Brighton & Hove Albion, deplasmanda Liverpool'a 2-0 mağlup oldu. İlk yarıda Florian Wirtz ile Pascal Gross'un (kk) gollerine engel olamayan ve 4 maçlık galibiyet serisini biten Brighton & Hove Albion, haftayı 16 puanla tamamladı. Ligde üst üste 2. kez kazanan Liverpool ise puanını 15'e yükseltti.",
+      "link": "https://www.haberturk.com/spor/liverpool-brighton-hove-albion-mac-sonucu-iste-liverpool-brighton-hove-albion-maci-ozeti-ve-golleri-ingiltere-premier-ligi-3922469",
+      "published": "2026-10-25T16:24:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:30:45.944136+00:00"
+    },
     {
       "id": "78cc543566ebbc8b",
       "source": "Milliyet",
@@ -17,6 +72,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T16:25:36.893796+00:00"
+    },
+    {
+      "id": "81e1a77072677be9",
+      "source": "Independent Türkçe",
+      "title": "İstanbul Barosu seçimlerini resmi olmayan sonuçlara göre Ümit Kocasakal kazandı",
+      "summary": "İstanbul Barosu’nun 128. Olağan Genel Kurulu kapsamında gerçekleştirilen başkanlık seçiminde, resmi olmayan sonuçlara göre Cumhuriyetçi Güç Birliği Grubu’nun adayı Prof. Dr. Ümit Kocasakal başkan seçildi. Haliç Kongre Merkezi’nde düzenlenen ve 9 adayın yarıştığı seçimde oy verme işlemi saat 17.00’de sona erdi. Resmi olmayan sonuçlara göre Ümit Kocasakal 9 bin 686 oy alırken, Değişim İçin Avukatlar",
+      "link": "https://www.indyturk.com/node/784317/haber/i%CC%87stanbul-barosu-se%C3%A7imlerini-resmi-olmayan-sonu%C3%A7lara-g%C3%B6re-%C3%BCmit-kocasakal-kazand%C4%B1",
+      "published": "2026-10-25T16:23:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:31:07.702522+00:00"
     },
     {
       "id": "cc1c7fd46fa705d4",
@@ -83,6 +149,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T16:20:45.023495+00:00"
+    },
+    {
+      "id": "6da900f16b015aa0",
+      "source": "Bir Gün",
+      "title": "Türkiye'de basına yönelik baskılar Köln'de protesto edildi",
+      "summary": "Türkiye'de basına yönelik baskılarda Almanya'nın Köln kentinde protesto edildi. Açıklamada, “İktidarı eleştirmek suç değildir. İktidarın görevi eleştiriyi cezalandırmak değil, hesap vermektir” denildi.",
+      "link": "https://www.birgun.net/haber/turkiye-de-basina-yonelik-baskilar-koln-de-protesto-edildi-742454",
+      "published": "2026-10-25T16:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:30:53.675396+00:00"
     },
     {
       "id": "819b9e1d6f62b2e8",
@@ -336,6 +413,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T16:15:38.170219+00:00"
+    },
+    {
+      "id": "df4597b0e565c271",
+      "source": "Bir Gün",
+      "title": "Tutuklu il başkanı İlksen Özalper, YENİ Parti Manisa İl Başkanlığına yeniden seçildi",
+      "summary": "Tutuklu İl Başkanı İlksen Özalper, YENİ Parti Manisa 1. Olağan İl Kongresi'nde geçerli 470 oyun tamamını alarak yeniden il başkanı seçildi.",
+      "link": "https://www.birgun.net/haber/tutuklu-il-baskani-ilksen-ozalper-yeni-parti-manisa-il-baskanligina-yeniden-secildi-742453",
+      "published": "2026-10-25T16:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:30:53.675419+00:00"
     },
     {
       "id": "2253beafd5d49b2d",
@@ -1073,6 +1161,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T15:25:32.450944+00:00"
+    },
+    {
+      "id": "024ef779bf6c0625",
+      "source": "Bir Gün",
+      "title": "Azerbaycan talep etmişti: Cumhurbaşkanı Başdanışmanı Oktay Saral görevden görevden alındı",
+      "summary": "Ülkedeki okullarda öğrencilere başörtüsü yasağı tartışmalarının ardından Azerbaycan'a yönelik sözleri nedeniyle Bakü'nün görevden alınmasını talep ettiği iddia edilen Cumhurbaşkanı Başdanışmanı Oktay Saral'ın görevden alındığı bildirildi.",
+      "link": "https://www.birgun.net/haber/azerbaycan-talep-etmisti-cumhurbaskani-basdanismani-oktay-saral-gorevden-gorevden-alindi-742452",
+      "published": "2026-10-25T15:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T16:30:53.675437+00:00"
     },
     {
       "id": "9089b05101753c4f",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T12:35:51.365704+00:00"
-    },
-    {
-      "id": "59a752e82edad070",
-      "source": "Habertürk",
-      "title": "Baba ocağında iki yeni eser açtı",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, baba ocağı Antalya’nın İbradı ilçesinde iki yeni eserin açılışını gerçekleştirdi. Ersoy ailesi tarafından yaptırılan İbradı Gençlik Merkezi gençlerin hizmetine sunulurken, Ormana Kültür Merkezi de 500 kişilik salonu ve kütüphanesiyle kapılarını açtı. Gençlik ve Spor Bakanı Osman Aşkın Bak’ın da katıldığı açılışlarda konuşan Ersoy, “Bu açılışlar memleketim",
-      "link": "https://www.haberturk.com/kultur-sanat/kultur-bakan-ersoy-baba-ocaginda-iki-yeni-eser-acti-3922438",
-      "published": "2026-10-25T12:34:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T12:40:34.308035+00:00"
-    },
-    {
-      "id": "ce5608b385980f60",
-      "source": "Bianet",
-      "title": "Fon soruşturmasında eski AKP milletvekili Ertan Aydın hakkında yakalama kararı",
-      "summary": "İstanbul'daki fon soruşturmasında, ev hapsi verilen eski AKP milletvekili Ertan Aydın hakkında savcılığın itirazı üzerine yakalama kararı çıkarıldı.",
-      "link": "https://bianet.org/haber/fon-sorusturmasinda-eski-akp-milletvekili-ertan-aydin-hakkinda-yakalama-karari-324774",
-      "published": "2026-10-25T12:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T12:45:46.038823+00:00"
-    },
-    {
-      "id": "cc3039b4f97b7824",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 26 Ekim Pazartesi Aslan Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 26 Ekim Pazartesi Aslan Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/aslan-burcu/gunluk-burc-yorumlari-26-ekim-pazartesi-aslan-burcu-yorumu-2550072",
-      "published": "2026-10-25T12:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T12:40:38.032968+00:00"
-    },
-    {
-      "id": "369ac25d8ff71fef",
-      "source": "Ekonomim",
-      "title": "Körfez ülkeleri resesyona hazırlanıyor!",
-      "summary": "ABD ve İsrail&#039;in İran&#039;a yönelik saldırılarıyla başlayan savaş, Körfez ekonomilerinde resesyon riskini artırdı. Petrol ve doğal gaz ihracatı, turizm, havacılık ve deniz taşımacılığı savaşın etkileriyle karşı karşıya kalırken Suudi Arabistan, Birleşik Arap Emirlikleri ve Katar başta olmak üzere Körfez ülkeleri, ekonomilerini çeşitlendirme çalışmalarını hızlandırıyor. Bölge ülkeleri, ekonom",
-      "link": "https://www.ekonomim.com/kuresel-ekonomi/korfez-ulkeleri-resesyona-hazirlaniyor-haberi-926939",
-      "published": "2026-10-25T12:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T12:40:55.548598+00:00"
-    },
-    {
-      "id": "87fc2e64223b2474",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 26 Ekim Pazartesi Yengeç Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 26 Ekim Pazartesi Yengeç Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/yengec-burcu/gunluk-burc-yorumlari-26-ekim-pazartesi-yengec-burcu-yorumu-2550071",
-      "published": "2026-10-25T12:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T12:40:38.032998+00:00"
-    },
-    {
-      "id": "8b11b612870a92d3",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 26 Ekim Pazartesi İkizler Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 26 Ekim Pazartesi İkizler Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/ikizler-burcu/gunluk-burc-yorumlari-26-ekim-pazartesi-ikizler-burcu-yorumu-2550070",
-      "published": "2026-10-25T12:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T12:35:32.391411+00:00"
-    },
-    {
-      "id": "6257e23941566f2c",
-      "source": "Akşam",
-      "title": "Anadolu Efes, Körfez Basket karşısında rahat kazandı",
-      "summary": "Anadolu Efes, Türkiye Sigorta Basketbol Süper Ligi'nin 5. haftasında sahasında ağırladığı Biotekno Körfez Basket'i 93-77 mağlup etti.",
-      "link": "https://www.aksam.com.tr/spor/anadolu-efes-korfez-basket-karsisinda-rahat-kazandi/haber-1709062",
-      "published": "2026-10-25T12:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T12:35:36.250394+00:00"
-    },
-    {
-      "id": "f746a0772158ac9b",
-      "source": "Habertürk",
-      "title": "Pendikspor 90+6'da puanı kaptı",
-      "summary": "Trendyol 1. Lig'in 12. haftasında Orfa Yapı Pendikspor sahasında Metro Holding Kayserispor'u ağırladı. Mücadele iki takımın karşılıklı golleriyle 2-2 eşitlikle sona erdi.",
-      "link": "https://www.haberturk.com/spor/pendikspor-2-kayserispor-2-mac-sonucu-3922439",
-      "published": "2026-10-25T12:32:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T12:40:34.308071+00:00"
-    },
-    {
-      "id": "0b877784848d1f8c",
-      "source": "Bir Gün",
-      "title": "Fransa'da dün gerçekleşen eylemlerde 1314 kişi gözaltına alındı",
-      "summary": "Fransa'da dün (24 Ekim 2026) gerçekleşen eylemlerde 1314 kişinin gözaltına alındığı bildirildi. Boyun eğmeyen Fransa Milletvekili ise bazı bölgelerde faşistlerin eylemcilere saldırmak için sokağa indiğini belirtti.",
-      "link": "https://www.birgun.net/haber/fransa-da-dun-gerceklesen-eylemlerde-1314-kisi-gozaltina-alindi-742436",
-      "published": "2026-10-25T12:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T13:20:42.997348+00:00"
     }
   ]
 }

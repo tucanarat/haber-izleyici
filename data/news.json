@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-25T22:11:02.889794+00:00",
+  "last_updated": "2026-10-25T22:16:13.184588+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 466,
+  "new_items_this_run": 451,
   "items": [
+    {
+      "id": "00bc4b16bd24ae1a",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Formula 1 ABD Grand Prix'sini Kimi Antonelli kazandı",
+      "summary": "Formula 1 Dünya Şampiyonası'nda sezonun 18. yarışı ABD Grand Prix'sini, Mercedes takımından İtalyan pilot Kimi Antonelli kazandı.",
+      "link": "https://www.aa.com.tr/tr/spor/formula-1-abd-grand-prixsini-kimi-antonelli-kazandi/4100514",
+      "published": "2026-10-25T22:13:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T22:15:43.139465+00:00"
+    },
     {
       "id": "3be24d5908e7728f",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T16:40:35.770399+00:00"
-    },
-    {
-      "id": "825760a71bd9293d",
-      "source": "Cumhuriyet",
-      "title": "Hull City'nin hasreti 6 maça çıktı!",
-      "summary": "Hull City, İngiltere Premier Lig'in 8. haftasında kendi sahasında ağırladığı Brentford ile 1-1 berabere kaldı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/hull-city-nin-hasreti-6-maca-cikti-2550136",
-      "published": "2026-10-25T16:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T16:40:35.770424+00:00"
     }
   ]
 }

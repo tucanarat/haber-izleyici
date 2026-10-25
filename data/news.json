@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-25T22:21:08.133211+00:00",
+  "last_updated": "2026-10-25T22:25:50.363527+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 471,
+  "new_items_this_run": 466,
   "items": [
+    {
+      "id": "bb372e107f59a754",
+      "source": "Star",
+      "title": "Türkiye'de ilk kez görüldü... Antalya'da merak uyandıran keşif",
+      "summary": "Antalya'nın Manavgat ilçesindeki Ulualan bölgesinde görülen çayırkoşarı, Türkiye'de kaydedilen kuş türü sayısını 506'ya yükseltti. Normalde Kuzey Amerika ve Alaska'da yaşayan tür, ilk kez ülkemizde kayıt altına alındı.",
+      "link": "https://www.star.com.tr/guncel/turkiyede-ilk-kez-goruldu-antalyada-merak-uyandiran-kesif-haber-2049115/",
+      "published": "2026-10-25T22:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T22:25:36.909297+00:00"
+    },
+    {
+      "id": "d39084235a03b027",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Freiburg 1-3 Bayern Münih",
+      "summary": "Almanya 1. Bundesliga'nın 7. haftasında Freiburg ile Bayern Münih karşı karşıya geldi. Europa-Park Stadyumu'nda oynanan mücadeleyi konuk ekip 3-1'lik skorla kazandı.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-freiburg-1-3-bayern-munih-haber-2049114/",
+      "published": "2026-10-25T22:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T22:25:36.909332+00:00"
+    },
     {
       "id": "19ac12bfad46e0bb",
       "source": "Karar",
@@ -83,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T22:20:49.154476+00:00"
+    },
+    {
+      "id": "2a9cb692e025cfd1",
+      "source": "OdaTV",
+      "title": "CIA çalışanı belgeleri gazeteci sevgilisine sızdırdı",
+      "summary": "ABD’de CIA’ye hizmet veren bir şirketin çalışanı, gizli istihbarat raporlarını gazeteci sevgilisine sızdırdığı iddiasıyla gözaltına alındı. İsrail’e ilişkin hassas bilgilerin de yer aldığı raporlara görev alanı dışında eriştiği öne sürülen şüpheli, 10 yıla kadar hapis cezasıyla karşı karşıya.",
+      "link": "https://www.odatv.com/guncel/cia-ajani-belgeleri-gazeteci-sevgilisine-sizdirdi-120168267",
+      "published": "2026-10-25T22:14:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-25T22:25:38.533863+00:00"
     },
     {
       "id": "ccfc5ea7f5769ca1",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T17:01:04.913425+00:00"
-    },
-    {
-      "id": "c989d9f3622f8f28",
-      "source": "Hürriyet",
-      "title": "Galatasaray-Fenerbahçe derbilerinde ev sahibi avantajı var mı? Rakamlar dikkat çekiyor...",
-      "summary": "Galatasaray-Fenerbahçe derbisi öncesi RAMS Park ve Kadıköy’de oynanan karşılaşmaların istatistikleri dikkat çekiyor. Peki, derbilerde ev sahibi olmak gerçekten avantaj sağlıyor mu?",
-      "link": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-derbilerinde-ev-sahibi-avantaji-var-mi-rakamlar-dikkat-cekiyor-43354697",
-      "published": "2026-10-25T16:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T17:20:43.060969+00:00"
-    },
-    {
-      "id": "f3d2bb50a5576fbb",
-      "source": "Türkiye Gazetesi",
-      "title": "ManU'da çöküş sürüyor: Evinde yenildi, 3 puanı unuttu",
-      "summary": "Son Şampiyonlar Ligi mücadelesinde Como'dan 4 yiyen Manchester United, Premier Lig'de konuk ettiği Bournemouth'a 3-0 mağlup oldu ve ligdeki galibiyet hasreti 6 maça çıktı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/manchester-united-cokus-suruyor-evinde-farkli-kaybetti-galibiyeti-unuttu-1825120",
-      "published": "2026-10-25T16:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T16:50:37.382968+00:00"
-    },
-    {
-      "id": "859d991d9a51e8fe",
-      "source": "Ekonomim",
-      "title": "ABD'de seçim dengeleri değişiyor: F-35 ve KAAN dosyaları nasıl etkilenecek?",
-      "summary": "ABD&#039;de 3 Kasım&#039;da yapılacak ara seçimler öncesinde Demokratların Kongre&#039;de çoğunluğu ele geçirme ihtimali güçlenirken, olası bir değişimin Türkiye&#039;nin F-35 programına dönüşünü ve KAAN savaş uçağı için ABD&#039;den motor tedarikini zorlaştırabileceği belirtildi.",
-      "link": "https://www.ekonomim.com/dunya/abdde-secim-dengeleri-degisiyor-f-35-ve-kaan-dosyalari-nasil-etkilenecek-haberi-926959",
-      "published": "2026-10-25T16:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T16:50:51.333768+00:00"
     }
   ]
 }

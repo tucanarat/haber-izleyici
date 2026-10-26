@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-26T00:21:20.286936+00:00",
+  "last_updated": "2026-10-26T00:25:51.697560+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 476,
+  "new_items_this_run": 475,
   "items": [
+    {
+      "id": "bea9a70b89f29821",
+      "source": "BBC News Türkçe",
+      "title": "Brezilya'da başa baş yarış: Lula yeniden devlet başkanı seçildi",
+      "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Ülkenin Yüksek Seçim Kurulu, görevdeki Lula da Silva'nın yeniden devlet başkanı seçildiğini ilan etti.",
+      "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T00:22:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T00:25:51.195303+00:00"
+    },
     {
       "id": "40a7d4605a8d33e5",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T17:45:58.427500+00:00"
-    },
-    {
-      "id": "5f3c9dcd2b5a3e2a",
-      "source": "Star",
-      "title": "MAÇ SONUCU: Monaco 1-1 Lille",
-      "summary": "Fransa Ligue 1'in 8. hafta maçında Monaco ile Lille, Louis Stadyumu'nda oynanan mücadelede 1-1 berabere kaldı.",
-      "link": "https://www.star.com.tr/spor/mac-sonucu-monaco-1-1-lille-haber-2049080/",
-      "published": "2026-10-25T17:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T17:45:47.067775+00:00"
     }
   ]
 }

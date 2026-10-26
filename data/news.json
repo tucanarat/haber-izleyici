@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-26T00:46:03.868273+00:00",
+  "last_updated": "2026-10-26T00:51:04.324622+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 476,
+  "new_items_this_run": 478,
   "items": [
+    {
+      "id": "e8c3166b4e09d2cd",
+      "source": "Karar",
+      "title": "Tüm hisseleri satın alan turizmci Murat Doğan, KRT TV'nin yeni patronu oldu",
+      "summary": "Medya dünyasında hareketli saatler yaşanırken televizyon kanalı KRT TV, bir kez daha el değiştirdi. Kaytan Ailesi, kanaldaki bütün hisselerini turizm sektöründe faaliyet gösteren Çorumlu iş insanı Murat Doğan'a devrederek resmi süreci tamamladı. Satış kararı Ticaret Sicil Gazetesi kayıtlarına geçerken, kurum personeline yönelik resmi bilgilendirme bugün yapılacak.",
+      "link": "https://www.karar.com/hayat-haberleri/krt-tvnin-yeni-sahibi-murat-dogan-kimdir-krt-tv-kime-satildi-corumlu-2080577",
+      "published": "2026-10-26T00:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T00:50:46.757448+00:00"
+    },
+    {
+      "id": "87bc2d3eeb62e6cd",
+      "source": "OdaTV",
+      "title": "Düzce’de otomobil alev topuna döndü",
+      "summary": "Düzce’de istop eden aracını yeniden çalıştırmak isteyen sürücünün aracı alev alev yandı. Otomobil kullanılamaz hale geldi.",
+      "link": "https://www.odatv.com/guncel/duzcede-otomobil-alev-topuna-dondu-120168272",
+      "published": "2026-10-26T00:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T00:50:48.878858+00:00"
+    },
     {
       "id": "8b9686b258cb374b",
       "source": "Milliyet",
@@ -1216,6 +1238,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T21:55:36.195979+00:00"
+    },
+    {
+      "id": "e115b9cd5ddaeeeb",
+      "source": "OdaTV",
+      "title": "Bulgaristan'da seçim ikinci tura kaldı",
+      "summary": "Bulgaristan&#039;da yapılan cumhurbaşkanı seçiminde, sandık çıkış anketlerine göre mevcut Cumhurbaşkanı İliyana Yotova ilk sırada yer alırken, seçimin ikinci tura kalması bekleniyor.",
+      "link": "https://www.odatv.com/guncel/bulgaristanda-secim-ikinci-tura-kaldi-120168265",
+      "published": "2026-10-25T21:53:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T00:50:48.879044+00:00"
     },
     {
       "id": "1d6e49651a320d97",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T21:21:00.562299+00:00"
-    },
-    {
-      "id": "54004582c6acf0d2",
-      "source": "Euronews Türkçe",
-      "title": "Brezilya'da başkanlık seçimi: Uzun kuyruklar, nehir yolculukları",
-      "summary": "Brezilyalılar, Lula ile Flávio Bolsonaro arasında seçim yapmak için pazar günü sandığa gitti. Amazon’daki kano gezilerinden Rio’daki uzun kuyruklara, Brasília’daki Lula bebeğine kadar seçmenler başkanlık seçiminin ikinci turuna yoğun ilgi gösterdi.",
-      "link": "https://tr.euronews.com/video/2026/10/25/brezilyada-baskanlik-secimi-uzun-kuyruklar-nehir-yolculuklari",
-      "published": "2026-10-25T17:50:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T17:51:10.332161+00:00"
-    },
-    {
-      "id": "3a2b19070235bc03",
-      "source": "OdaTV",
-      "title": "Bakan Gürlek'ten fon açıklaması",
-      "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmalarındaki gönüllü iadelerin hukuki sorumluluğu kaldırmayacağını ve önceliklerinin bu tutarları gerçek hak sahiplerine ulaştırmak olduğunu vurguladı.",
-      "link": "https://www.odatv.com/guncel/adalet-bakani-akin-gurlekten-fon-aciklamasi-120168250",
-      "published": "2026-10-25T17:46:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T17:55:42.325210+00:00"
-    },
-    {
-      "id": "ba306ee5a6c23099",
-      "source": "Türkiye Gazetesi",
-      "title": "Maden faciasında firari müdür de tutuklandı",
-      "summary": "Zonguldak’ta 3 işçinin hayatını kaybettiği, 5 kişinin yaralandığı grizu patlamasında firari işletme müdürü de tutuklandı. Ankara’da yakalanan şüphelinin tutuklanmasıyla soruşturmada tutuklu sayısı 4’e yükseldi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/zonguldakta-3-iscinin-oldugu-maden-faciasinda-firari-mudur-de-tutuklandi-1825127",
-      "published": "2026-10-25T17:46:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T17:50:41.850227+00:00"
     }
   ]
 }

@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-10-26T19:25:59.087312+00:00",
+  "last_updated": "2026-10-26T19:31:23.774772+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 505,
+  "new_items_this_run": 506,
   "items": [
+    {
+      "id": "874f60360b3c3ff1",
+      "source": "Star",
+      "title": "Sergen Yalçın, Galatasaray-Fenerbahçe derbisini tribünden izledi",
+      "summary": "Hafta içinde A Milli Futbol Takımı Teknik Direktörlüğü görevine başlayan Sergen Yalçın, Galatasaray-Fenerbahçe derbisini RAMS Park'ta takip etti.",
+      "link": "https://www.star.com.tr/spor/sergen-yalcin-galatasaray-fenerbahce-derbisini-tribunden-izledi-haber-2049306/",
+      "published": "2026-10-26T19:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:58.798194+00:00"
+    },
+    {
+      "id": "51c55d022aad6741",
+      "source": "DonanımHaber",
+      "title": "ASUS'tan yılın beklenen oyununa özel 4700 dolarlık Mini PC",
+      "summary": "ASUS, Phantom Blade Zero oyununun 29 Ekim'de PC ve PS5 konsollara çıkışından önce, oyuna özel ROG x Phantom Blade Zero Mini PC modelini Çin'de satışa sundu. İşte özellikleri:",
+      "link": "https://www.donanimhaber.com/asus-rog-nuc-16-phantom-blade-zero-edition-mini-pc-satista--212109",
+      "published": "2026-10-26T19:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:31:21.564702+00:00"
+    },
+    {
+      "id": "1df41c209e3e21fb",
+      "source": "CNBC-e",
+      "title": "QNB Finansal Kiralama'nın 9 aylık kârı yüzde 34 arttı",
+      "summary": "QNB Finansal Kiralama (QNBFK), 2026 yılının ilk dokuz ayında net kârını geçen yılın aynı dönemine göre yüzde 34,3 artırarak 1,76 milyar TL'ye yükseltti. Şirketin toplam varlıkları 71,7 milyar TL'ye ulaşırken, net faaliyet kârında da yüzde 35,4 artış kaydedildi.",
+      "link": "https://www.cnbce.com/sirket-bilancolari/qnb-finansal-kiralamanin-9-aylik-kari-yuzde-34-artti-h40373",
+      "published": "2026-10-26T19:27:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:31:07.292128+00:00"
+    },
+    {
+      "id": "bcd3087466f3575b",
+      "source": "Akşam",
+      "title": "Şarkıcı Nev'in vasiyeti yerine getirildi!",
+      "summary": "Şarkıcı Nev, karaciğer yetmezliği nedeniyle tedavi gördüğü hastanede vefat etmişti. Nev'in vasiyeti, yerine getirildi. Şarkıcının, 2024 yılında vefat eden annesinin kabrinin yanına defnedildiği öğrenildi.",
+      "link": "https://www.aksam.com.tr/venus/sarkici-nevin-vasiyeti-yerine-getirildi/haber-1709397",
+      "published": "2026-10-26T19:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:58.340085+00:00"
+    },
+    {
+      "id": "d17e17226c8f27bb",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
+      "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu/4101732",
+      "published": "2026-10-26T19:25:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:53.132310+00:00"
+    },
+    {
+      "id": "a9dc1158a4dd0b40",
+      "source": "Cumhuriyet",
+      "title": "Sergen Yalçın, derbiyi tribünden takip etti",
+      "summary": "A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın, Süper Lig'de oynanan Galatasaray-Fenerbahçe derbisini tribünden takip etti.",
+      "link": "https://www.cumhuriyet.com.tr/spor/sergen-yalcin-derbiyi-tribunden-takip-etti-2550490",
+      "published": "2026-10-26T19:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:53.527513+00:00"
+    },
+    {
+      "id": "4227eb0102943309",
+      "source": "Finans Gündem",
+      "title": "Kallas: Rusya-Ukrayna savaşında yakın zamanda barış umudu düşük",
+      "summary": "AB Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kallas, Rusya-Ukrayna Savaşı’nı sona erdirmeye yönelik yeni bir diplomatik girişim bulunduğunu ancak yakın zamanda barış sağlanması konusunda umutlu olmadığını söyledi.",
+      "link": "https://www.finansingundemi.com/haber/kallas-rusya-ukrayna-savasinda-yakin-zamanda-baris-umudu-dusuk/1912758",
+      "published": "2026-10-26T19:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:31:07.923225+00:00"
+    },
     {
       "id": "06b4c47794d31a00",
       "source": "DonanımHaber",
@@ -19,6 +96,28 @@
       "fetched_at": "2026-10-26T19:25:56.975801+00:00"
     },
     {
+      "id": "185960416daa3aab",
+      "source": "Habertürk",
+      "title": "Sergen Yalçın'dan derbiye yakın takip",
+      "summary": "A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın, Galatasaray-Fenerbahçe derbisini stadyumdan izledi.",
+      "link": "https://www.haberturk.com/spor/sergen-yalcin-galatasaray-fenerbahce-derbisini-tribunden-izledi-3922760",
+      "published": "2026-10-26T19:24:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:50.656870+00:00"
+    },
+    {
+      "id": "d3deec2ee1c39c64",
+      "source": "Cumhuriyet",
+      "title": "Dünya sahnelerinde yoğun hafta: Tokyo’dan Leipzig’e Uluslararası Film Festivalleri, opera prömiyerleri ve dev konserler başlıyor",
+      "summary": "Dünyanın dört bir yanında sinemadan müziğe, opera ve baleden sergilere uzanan geniş bir yelpazede sanatseverlerle buluşacak küresel kültür-sanat ajandasında; Tokyo, Leipzig, Ji.hlava ve Valladolid film festivalleri, Bob Dylan, Oasis ve Joe Bonamassa konserleri ile New York MoMA’daki kapsamlı Brancusi sergisi haftanın öne çıkan etkinlikleri arasında yer alıyor...",
+      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/dunya-sahnelerinde-yogun-hafta-tokyo-dan-leipzig-e-uluslararasi-film-festivalleri-opera-promiyerleri-ve-dev-konserler-basliyor-2550489",
+      "published": "2026-10-26T19:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:53.527562+00:00"
+    },
+    {
       "id": "683efe2d1a98d750",
       "source": "Euronews Türkçe",
       "title": "Fon soruşturması: Eski SPK Daire Başkanı Erman Çete tutuklandı",
@@ -28,6 +127,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T19:25:59.086161+00:00"
+    },
+    {
+      "id": "6648c66a6240ac19",
+      "source": "Türkiye Gazetesi",
+      "title": "\"BENİ ÇOK MUTLU ETTİ\"",
+      "summary": "Trendyol Süper Lig'in dozuncu haftasında konuk ettiği İstanbul Başakşehir'i 2-0 yenen Beşiktaş'ta Teknik Direktör Vincenzo Italiano, önemli isimleri olmadan da kazandıkları için mutlu olduğunu söyledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/besiktasta-italianonun-yuzunu-gulduren-detay-1825339",
+      "published": "2026-10-26T19:23:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:55.555241+00:00"
+    },
+    {
+      "id": "5daf7577ca7e603b",
+      "source": "Türkiye Gazetesi",
+      "title": "Beşiktaş'ta Italiano'nun yüzünü güldüren detay",
+      "summary": "Trendyol Süper Lig'in dozuncu haftasında konuk ettiği İstanbul Başakşehir'i 2-0 yenen Beşiktaş'ta Teknik Direktör Vincenzo Italiano, önemli isimleri olmadan da kazandıkları için mutlu olduğunu söyledi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/besiktasta-italianonun-yuzunu-gulduren-detay-1825339",
+      "published": "2026-10-26T19:23:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:55.555276+00:00"
     },
     {
       "id": "b9a7c90c3c7e5c32",
@@ -61,6 +182,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T19:25:37.482372+00:00"
+    },
+    {
+      "id": "788bb95831689a9c",
+      "source": "Ekonomim",
+      "title": "MasterChef’te kor ateşte pişen testi kebabı görsel şölen sundu | Testi kebabı nasıl yapılır?",
+      "summary": "MasterChef Türkiye’nin son bölümünde mavi kaptanlık heyecanı ikonik bir Anadolu yemeğiyle zirveye taşındı. Şeflerin yarışmacılardan toprak kaplar içerisinde lokum gibi pişmiş geleneksel bir testi kebabı istemesi, mutfakta heyecan dolu anlara sahne oldu. Hamur kapağın altında kendi buharıyla demlenen etlerin kokusu tüm stüdyoyu sararken, sunum anında tepsilere vurularak kırılan testiler ekran başın",
+      "link": "https://www.ekonomim.com/foto-galeri/yasam/masterchefte-kor-ateste-pisen-testi-kebabi-gorsel-solen-sundu-testi-kebabi-nasil-yapilir-s1-galeri-927165",
+      "published": "2026-10-26T19:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:31:06.481787+00:00"
     },
     {
       "id": "e1d90e17268b77d0",
@@ -193,6 +325,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T19:25:29.457892+00:00"
+    },
+    {
+      "id": "9e9e8e3ec0a36b4d",
+      "source": "Evrensel",
+      "title": "AKP'den transfer haberi: Sırada bir büyükşehir var",
+      "summary": "AKP Genel Başkan Yardımcısı Hasan Basri Yalçın, partiye yeni katılımların olacağını söyleyerek \"Sırada bir büyükşehir var\" dedi.",
+      "link": "https://www.evrensel.net/haber/6006727/akp-den-transfer-haberi-sirada-bir-buyuksehir-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-26T19:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:55.930498+00:00"
     },
     {
       "id": "2cf0c5716bacee88",
@@ -501,6 +644,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T19:01:05.083269+00:00"
+    },
+    {
+      "id": "80bfe34e56588f41",
+      "source": "Hürriyet",
+      "title": "Galatasaray-Fenerbahçe derbisinin ilk dakikasında gerginlik!",
+      "summary": "Galatasaray ile Fenerbahçe arasında oynanan derbinin ilk dakikasında Lukaku ile Abdülkerim Bardakçı arasında gerginlik çıktı.",
+      "link": "https://www.hurriyet.com.tr/sporarena/galatasaray-fenerbahce-derbisinin-ilk-dakikasinda-gerginlik-43355943",
+      "published": "2026-10-26T18:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:56.762678+00:00"
     },
     {
       "id": "b9d98a8627aa1dc1",
@@ -2085,6 +2239,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T17:45:56.063386+00:00"
+    },
+    {
+      "id": "756ea58d2916be6e",
+      "source": "Evrensel",
+      "title": "Galatasaray-Fenerbahçe derbisinde ilk yarı sona erdi: 2-0",
+      "summary": "Süper Lig’in 9’uncu haftasında Galatasaray, Fenerbahçe'yi ağırlıyor.",
+      "link": "https://www.evrensel.net/haber/6006718/galatasaray-fenerbahce-derbisinde-ilk-yari-sona-erdi-2-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-26T17:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T19:30:55.930692+00:00"
     },
     {
       "id": "5730053cccc05ea5",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T15:55:38.544664+00:00"
-    },
-    {
-      "id": "ca6b9f022d526c1a",
-      "source": "Sabah",
-      "title": "TBMM Başkanı Kurtulmuş: \"Terörsüz bir bölgeyi inşa edeceğiz\"",
-      "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, Batman'da düzenlenen programda sivil toplum kuruluşlarının temsilcileriyle bir araya geldi. Burada önemli açıklamalarda bulunan Numan Kurtulmuş,... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/gundem/2026/10/26/tbmm-baskani-kurtulmus-terorsuz-bir-bolgeyi-insallah-insa-edecegiz",
-      "published": "2026-10-26T15:46:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T16:01:09.192089+00:00"
-    },
-    {
-      "id": "673d74295ccf391f",
-      "source": "Milliyet",
-      "title": "Siber devriyeden sıkı takip! Suç unsuru içeren 407 internet sitesine erişim engellendi",
-      "summary": "Jandarmanın siber devriye çalışmaları kapsamında yasa dışı bahis, dolandırıcılık ve müstehcenlik gibi suç unsurlarını içerdiği tespit edilen 407 internet sitesine erişim engellendi. Edinilen bilgiye göre, suçla mücadele kapsamında internet ortamında 7 gün 24 saat esasına göre siber devriye faaliyetleri devam ediyor. Bu kapsamda, 19-26 Ekim tarihleri arasında yapılan siber devriye ve açık kaynak ar",
-      "link": "https://www.milliyet.com.tr/gundem/siber-devriyeden-siki-takip-suc-unsuru-iceren-407-internet-sitesine-erisim-engellendi-7688067",
-      "published": "2026-10-26T15:46:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:50:43.487713+00:00"
-    },
-    {
-      "id": "1eb7dbbddc45b300",
-      "source": "Karar",
-      "title": "Apsiyon, apartman ve site yönetiminde yapay zekâ dönemini başlattı!",
-      "summary": "Apsiyon'un lansmanı, İstanbul'da site yönetimleri, profesyonel yönetim firmaları ve sektör profesyonellerini bir araya getirdi. Yoğun ilgi toplayan etkinlikte, apartman ve site yönetiminde yapay zekâ destekli yeni bir dönemin başladığı duyurulurken, ADA'nın dokuz farklı çözümü interaktif sunumlarla tanıtıldı. Çağrı merkezinden WhatsApp’a, toplantı notlarından veri analizine uzanan dokuz yapay zekâ",
-      "link": "https://www.karar.com/teknoloji-haberleri/apsiyon-apartman-ve-site-yonetiminde-yapay-zeka-donemini-baslatti-2080750",
-      "published": "2026-10-26T15:45:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:50:45.525994+00:00"
-    },
-    {
-      "id": "a9ac22f99d8ef927",
-      "source": "Karar",
-      "title": "29 Ekim 2026 İzmir Konserleri: Hangi ilçede kim sahne alacak? (Ücretsiz Etkinlik Takvimi)",
-      "summary": "29 Ekim Cumhuriyet Bayramı İzmir konserleri ve etkinlik takvimi belli oldu! 2026 Bornova, Bayraklı, Karşıyaka ve diğer tüm ilçelerdeki ücretsiz konser programı.",
-      "link": "https://www.karar.com/guncel-haberler/29-ekim-2026-izmir-konserleri-hangi-ilcede-kim-sahne-alacak-ucretsiz-2080749",
-      "published": "2026-10-26T15:45:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:50:45.526034+00:00"
-    },
-    {
-      "id": "11762f4b533d4235",
-      "source": "Habertürk",
-      "title": "Bayrampaşa'da yol çöktü!",
-      "summary": "Bayrampaşa'da iddiaya göre yol, çalışma sırasında çöktü. İhbar üzerine olay yerine polis, sağlık, itfaiye ve AFAD ekipleri sev edildi. Göçük altında mahsur kalan kişilerin olduğu öğrenildi.",
-      "link": "https://www.haberturk.com/gundem/son-dakika-bayrampasa-da-yol-coktu-3922709",
-      "published": "2026-10-26T15:45:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:55:38.544737+00:00"
-    },
-    {
-      "id": "ec45b5f4fab688d0",
-      "source": "Akşam",
-      "title": "Vincenzo Italiano: Tüm oyuncularıma güveniyorum",
-      "summary": "Beşiktaş Teknik Direktörü Vincenzo Italiano, Başakşehir maçı öncesinde açıklamalarda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/vincenzo-italiano-tum-oyuncularima-guveniyorum/haber-1709357",
-      "published": "2026-10-26T15:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:45:45.006101+00:00"
-    },
-    {
-      "id": "9cb48d60ee6b0655",
-      "source": "Sabah",
-      "title": "Bulgaristan'ı ayağa kaldıran olay: Eski milletvekili tek kurşunla infaz edildi! \"Öldürmeye değil anlaşmaya gittik\"",
-      "summary": "Avrupa Parlamentosu eski milletvekili, Bulgaristan Tekvando Federasyonu Başkanı Slavcho Penchev Binev, önceki gün Sofya'daki evinde uğradığı silahlı saldırı sonucu hayatını kaybetti. Saldırıyla ilgili... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/bulgaristani-ayaga-kaldiran-olay-eski-milletvekili-tek-kursunla-infaz-edildi-oldurmeye-degil-anlasmaya-gittik-7688768",
-      "published": "2026-10-26T15:44:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T17:01:33.890092+00:00"
-    },
-    {
-      "id": "662522c2453f543b",
-      "source": "Habertürk",
-      "title": "Borsa günü yükselişle tamamladı",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, yüzde 0,31 değer kazanarak 11.151,96 puana yükseldi.",
-      "link": "https://www.haberturk.com/ekonomi/borsa-gunu-yukselisle-tamamladi-3922706",
-      "published": "2026-10-26T15:44:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:55:38.544759+00:00"
-    },
-    {
-      "id": "254fbe3459512c99",
-      "source": "CNBC-e",
-      "title": "12 saat yetti! Birkaç aylık şirket yapay zeka devinin sistemlerine sızdı",
-      "summary": "Eski DOGE çalışanlarının kurduğu Cathedral’in yapay zekâ ajanlarının, Anthropic’in iç sistemlerine 12 saatten kısa sürede erişim sağladığı bildirildi. Şirket, satış, insan kaynakları ve bilgi teknolojileri sistemlerinin sınırlı bölümlerine erişildiğini doğruladı.",
-      "link": "https://www.cnbce.com/yapay-zeka/12-saat-yetti-birkac-aylik-sirket-yapay-zeka-devinin-sistemlerine-sizdi-h40358",
-      "published": "2026-10-26T15:44:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:45:55.057006+00:00"
-    },
-    {
-      "id": "1f703eafc3758baa",
-      "source": "Akşam",
-      "title": "Borsa günü yükselişle tamamladı: BİST 100 endeksi 34,97 puan arttı",
-      "summary": "Borsa İstanbul'da BIST 100 endeksi, yüzde 0,31 değer kazanarak 11.151,96 puana yükseldi.",
-      "link": "https://www.aksam.com.tr/ekonomi/borsa-gunu-yukselisle-tamamladi-bist-100-endeksi-3497-puan-artti/haber-1709356",
-      "published": "2026-10-26T15:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:45:45.006129+00:00"
-    },
-    {
-      "id": "b8b8b829b1a39700",
-      "source": "BBC News Türkçe",
-      "title": "Mekke İttifakı'nın Tahran'daki toplantısı sona erdi",
-      "summary": "Suudi Arabistan, Türkiye ve Pakistan'dan üst düzey yetkililer, bölgesel güvenlik konularını görüşmek üzere bugün Tahran'da İranlı yetkililerle biraraya geliyor.",
-      "link": "https://www.bbc.com/turkce/articles/c3x2w09gn4lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26T15:42:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:46:01.177113+00:00"
-    },
-    {
-      "id": "eeb5d3a7e66c7e20",
-      "source": "Yeni Yaşam",
-      "title": "Türkiye’de madencilik: Projeler kamudan gizleniyor",
-      "summary": "Yaşamda Toplum programında, DEM Parti Ekoloji Komisyonu Eşsözcüsü Melis Tantan ile Türkiye ve Kürdistan&#8217;daki eko-politiği ve halkın maden projelerine karşı mücadelesini konuştuk Yaşamda Toplum programında DEM Parti Ekoloji Komisyonu Eşsözcüsü Melis Tantan ile Erzoxlî&#8217;de GES projesinden, Antalya&#8217;da gerçekleşecek COP31 (2026 Birleşmiş Milletler İklim Değişikliği Konferansı)&#8217;n",
-      "link": "https://yeniyasamgazetesi9.com/turkiyede-madencilik-projeler-kamudan-gizleniyor/",
-      "published": "2026-10-26T15:42:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:45:53.115916+00:00"
-    },
-    {
-      "id": "7f3a399a3ea1527e",
-      "source": "Türkiye Gazetesi",
-      "title": "Filenin Sultanları'nın Dünya Kupası'ndaki rakipleri!",
-      "summary": "A Milli Kadın Voleybol Takımı'nın, ABD ve Kanada'nın ev sahipliğinde düzenlenecek 2027 FIVB Dünya Kupası'nda grup aşamasındaki rakipleri belli oldu.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/filenin-sultanlarinin-dunya-kupasindaki-rakipleri-belli-oldu-1825319",
-      "published": "2026-10-26T15:42:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:45:41.859270+00:00"
-    },
-    {
-      "id": "7f3a399a3ea1527e",
-      "source": "Türkiye Gazetesi",
-      "title": "Filenin Sultanları'nın Dünya Kupası'ndaki rakipleri!",
-      "summary": "A Milli Kadın Voleybol Takımı'nın, ABD ve Kanada'nın ev sahipliğinde düzenlenecek 2027 FIVB Dünya Kupası'nda grup aşamasındaki rakipleri belli oldu.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/filenin-sultanlarinin-dunya-kupasindaki-rakipleri-belli-oldu-1825319",
-      "published": "2026-10-26T15:42:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T15:45:41.859297+00:00"
-    },
-    {
-      "id": "5401942f1ca83bd5",
-      "source": "Evrensel",
-      "title": "Mısır Parlamentosu, Sisi'ye Suudi Arabistan'ı savunmak için askeri destek yetkisi verdi",
-      "summary": "Mısır Temsilciler Meclisi, Cumhurbaşkanı Sisi'ye, Suudi Arabistan'ı savunmak için askeri destek yetkisi verdi. Karar Meclisin üçte iki çoğunluğuyla kabul edildi.",
-      "link": "https://www.evrensel.net/haber/6006709/misir-parlamentosu-sisiye-suudi-arabistani-savunmak-icin-askeri-destek-yetkisi-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-26T15:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T18:15:44.506511+00:00"
     }
   ]
 }

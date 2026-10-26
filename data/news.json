@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-26T23:05:49.060669+00:00",
+  "last_updated": "2026-10-26T23:10:58.790064+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 469,
+  "new_items_this_run": 442,
   "items": [
+    {
+      "id": "882b4314f5a963b1",
+      "source": "Karar",
+      "title": "Belediye hizmetleri memnuniyetinde İstanbul ve Ankara ilk sırada",
+      "summary": "Yerel yönetimlerin hizmet karnesini belirleyen kamuoyu araştırmasında, büyükşehir belediye başkanlarının halk nezdindeki memnuniyet oranları netleşti. 5 büyük kentin öne çıktığı tabloda İstanbul ilk basamakta yer alırken, Ankara ikinci sırada halk desteğini korudu. Antalya, Aydın ve Manisa ise listenin zirve yarışını tamamlayan diğer kentler oldu.",
+      "link": "https://www.karar.com/guncel-haberler/en-basarili-belediye-baskani-kim-en-yuksek-belediye-memnuniyeti-hangi-2080791",
+      "published": "2026-10-26T23:07:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T23:10:44.878281+00:00"
+    },
     {
       "id": "67e3a5c1c63ca6a5",
       "source": "Türkiye Gazetesi",
@@ -50,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T23:05:37.038327+00:00"
+    },
+    {
+      "id": "e5d09d4fcf4bdf83",
+      "source": "Habertürk",
+      "title": "Antalya'da hortum felaketi: 4 ölü, 1 yaralı!",
+      "summary": "Antalya'da etkili olan şiddetli hortum nedeniyle inşaat alanında bulunan iki konteyner parçalandı. Konteynerlerden savrulan 4 işçi hayatını kaybetti, 1 işçi yaralandı",
+      "link": "https://www.haberturk.com/gundem/antalya-da-hortum-felaketi-4-isci-olu-1-isci-yaralandi-3922799",
+      "published": "2026-10-26T23:01:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T23:10:36.579215+00:00"
     },
     {
       "id": "7689fa7fa42b2019",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T19:15:34.752764+00:00"
-    },
-    {
-      "id": "3ef51fc5f347f6d5",
-      "source": "Star",
-      "title": "Vincenzo Italiano: Maçı gol yemeden tamamladığımız için ekstra mutluyum",
-      "summary": "Trendyol Süper Lig'in 9. haftasında İstanbul Başakşehir'i 2-0 mağlup ederek puanını 18'e yükselten Beşiktaş'ta teknik direktör Vincenzo Italiano, \"Maçı gol yemeden tamamladığımız için ekstra mutluyum\" dedi.",
-      "link": "https://www.star.com.tr/spor/vincenzo-italiano-maci-gol-yemeden-tamamladigimiz-icin-ekstra-mutluyum-haber-2049300/",
-      "published": "2026-10-26T19:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T19:05:40.230713+00:00"
-    },
-    {
-      "id": "007da669fe0a2db0",
-      "source": "Türkiye Gazetesi",
-      "title": "Star Trek'in yıldızı Walter Koenig hayatını kaybetti",
-      "summary": "'Star Trek' dizisinde Pavel Chekov karakterini canlandıran ABD'li oyuncu Walter Koenig, 90 yaşında hayatını kaybetti.",
-      "link": "https://www.turkiyegazetesi.com.tr/magazin/star-trekin-yildizi-walter-koenig-hayatini-kaybetti-1825337",
-      "published": "2026-10-26T19:03:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T19:05:36.044688+00:00"
     }
   ]
 }

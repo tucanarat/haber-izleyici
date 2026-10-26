@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-26T00:51:04.324622+00:00",
+  "last_updated": "2026-10-26T00:55:57.102828+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 478,
+  "new_items_this_run": 476,
   "items": [
+    {
+      "id": "08c150365214498e",
+      "source": "Yeni Şafak",
+      "title": "Brezilya’da seçimin ikinci turunu Lula da Silva kazandı",
+      "summary": "Brezilya'da devlet başkanlığı seçiminin ikinci turunu resmi olmayan sonuçlara göre Luiz Inacio Lula da Silva kazandı.",
+      "link": "https://www.yenisafak.com/gundem/brezilyada-secimin-ikinci-turunu-lula-da-silva-kazandi-4867272",
+      "published": "2026-10-26T00:52:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T00:55:38.792697+00:00"
+    },
     {
       "id": "e8c3166b4e09d2cd",
       "source": "Karar",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-25T18:05:30.995824+00:00"
-    },
-    {
-      "id": "8eb3e95109ef718a",
-      "source": "Euronews Türkçe",
-      "title": "Brezilya'da kader seçimi: Uzun kuyruklar ve nehir yolculukları",
-      "summary": "Pazar günü Brezilyalılar, Lula ile Flávio Bolsonaro arasında seçim yapmak için sandığa gitti. Amazon’da kano yolculukları, Rio’da uzun kuyruklar ve Brasília’da Lula bebeğiyle seçmenler başkanlık ikinci turu için oy kullandı.",
-      "link": "https://tr.euronews.com/video/2026/10/25/brezilyada-kader-secimi-uzun-kuyruklar-ve-nehir-yolculuklari",
-      "published": "2026-10-25T17:50:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-25T21:21:00.562299+00:00"
     }
   ]
 }

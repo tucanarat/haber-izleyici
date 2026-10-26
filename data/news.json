@@ -1,12 +1,177 @@
 {
-  "last_updated": "2026-10-26T09:46:02.245934+00:00",
+  "last_updated": "2026-10-26T09:51:00.902309+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 441,
+  "new_items_this_run": 454,
   "items": [
+    {
+      "id": "5c62b34aea8ea21a",
+      "source": "Star",
+      "title": "Pierre Sage geleceği hakkında konuştu",
+      "summary": "Crystal Palace Teknik Direktörü Pierre Sage, Newcastle United maçının ardından geleceği hakkında açıklamalarda bulundu.",
+      "link": "https://www.star.com.tr/spor/pierre-sage-gelecegi-hakkinda-konustu-haber-2049190/",
+      "published": "2026-10-26T09:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:42.572701+00:00"
+    },
+    {
+      "id": "3ed3eaab4d8a281c",
+      "source": "Star",
+      "title": "Fon soruşturması: Nusret Altınbaş adliyeye sevk edildi",
+      "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan Altınbaş Holding'in sahibi şüpheli Nusret Altınbaş adliyeye sevk edildi.",
+      "link": "https://www.star.com.tr/guncel/fon-sorusturmasi-nusret-altinbas-adliyeye-sevk-edildi-haber-2049189/",
+      "published": "2026-10-26T09:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:42.572722+00:00"
+    },
+    {
+      "id": "6695e304219a16c5",
+      "source": "Karar",
+      "title": "Sosyal medyada yasa dışı bahis denetimi: 214 hesaba erişim engeli",
+      "summary": "Afyonkarahisar’da yasa dışı bahis faaliyetlerine yönelik yürütülen siber denetimlerde 214 sosyal medya hesabı tespit edildi. İl Emniyet Müdürlüğü, incelemelerin ardından yasa dışı bahisle bağlantılı olduğu değerlendirilen hesaplara ilgili mevzuat kapsamında erişim engeli getirildiğini açıkladı.",
+      "link": "https://www.karar.com/sehir-haberleri/sosyal-medyada-yasa-disi-bahis-denetimi-214-hesaba-erisim-engeli-2080661",
+      "published": "2026-10-26T09:48:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:43.591216+00:00"
+    },
+    {
+      "id": "acdcae0825e29e4a",
+      "source": "Milliyet",
+      "title": "Trabzon Yeni Havalimanı'nda şantiye çalışmaları başladı",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Trabzon Yeni Havalimanı Projesi'nde yürütülen çalışmalara ilişkin açıklamalarda bulundu. Türkiye'nin deniz üzerine inşa edilecek üçüncü havalimanının Trabzon'da hayata geçirileceğini belirten Bakan Uraloğlu, yeni havalimanının altyapı kapsamında şantiye kurulum çalışmalarına başlandığını açıkladı. Trabzon'un artan yolcu ve yük trafiğini karşılamak a",
+      "link": "https://www.milliyet.com.tr/ekonomi/trabzon-yeni-havalimaninda-santiye-calismalari-basladi-7687798",
+      "published": "2026-10-26T09:48:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:40.704580+00:00"
+    },
+    {
+      "id": "fe468453f7ad6e3e",
+      "source": "Cumhuriyet",
+      "title": "Sincar'da PKK'nin uzantısı askeri noktaları devretti",
+      "summary": "Irak güvenlik güçleri, terör örgütü PKK'nin Sincar'daki uzantısı olan \"Şengal Direniş Birlikleri\" (YBŞ) adlı yapıdan bazı askeri noktaları devraldı.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/sincar-da-pkk-nin-uzantisi-askeri-noktalari-devretti-2550315",
+      "published": "2026-10-26T09:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:36.554689+00:00"
+    },
+    {
+      "id": "b0a990d441f46c29",
+      "source": "Akşam",
+      "title": "Fon soruşturması... Nusret Altınbaş adliyeye sevk edildi",
+      "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan Altınbaş Holding'in sahibi şüpheli Nusret Altınbaş adliyeye sevk edildi.",
+      "link": "https://www.aksam.com.tr/guncel/fon-sorusturmasi-nusret-altinbas-adliyeye-sevk-edildi/haber-1709260",
+      "published": "2026-10-26T09:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:41.491987+00:00"
+    },
+    {
+      "id": "58d58771654d65ab",
+      "source": "Türkiye Gazetesi",
+      "title": "Tavşanlı Höyük kazılarında tarihi keşif! 4 bin yıllık",
+      "summary": "Kütahya'daki Tavşanlı Höyük kazılarında tarihi bir keşfe daha imza atıldı. Kazılarda yaklaşık 4 bin yıllık pati izleri bulundu. Çalışmalara ilişkin açıklamalarda bulunan Kültür ve Turizm Bakanı Mehmet Nuri Ersoy \"Batı Anadolu'nun en büyük Tunç Çağı kentlerinden Tavşanlı Höyük'te yalnızca yapıları ve eserleri değil, yaşamın böylesine küçük ve beklenmedik izlerini de ortaya çıkarıyoruz\" dedi.",
+      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/tavsanli-hoyuk-kazilarinda-tarihi-kesif-4-bin-yillik-pati-izleri-bulundu-1825247",
+      "published": "2026-10-26T09:47:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:38.605913+00:00"
+    },
+    {
+      "id": "58d58771654d65ab",
+      "source": "Türkiye Gazetesi",
+      "title": "Tavşanlı Höyük kazılarında tarihi keşif! 4 bin yıllık",
+      "summary": "Kütahya'daki Tavşanlı Höyük kazılarında tarihi bir keşfe daha imza atıldı. Kazılarda yaklaşık 4 bin yıllık pati izleri bulundu. Çalışmalara ilişkin açıklamalarda bulunan Kültür ve Turizm Bakanı Mehmet Nuri Ersoy \"Batı Anadolu'nun en büyük Tunç Çağı kentlerinden Tavşanlı Höyük'te yalnızca yapıları ve eserleri değil, yaşamın böylesine küçük ve beklenmedik izlerini de ortaya çıkarıyoruz\" dedi.",
+      "link": "https://www.turkiyegazetesi.com.tr/kultur-sanat/tavsanli-hoyuk-kazilarinda-tarihi-kesif-4-bin-yillik-pati-izleri-bulundu-1825247",
+      "published": "2026-10-26T09:47:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:38.605950+00:00"
+    },
+    {
+      "id": "628026db9a23a5c0",
+      "source": "Cumhuriyet",
+      "title": "Geçmeyen bacak ve ayak ağrısına dikkat: Stres kırığı olabilir",
+      "summary": "Kemiklerin aşırı yüklenme ve tekrarlayan zorlanmalar nedeniyle zarar görmesi, stres kırığına yol açabiliyor. Ortopedi ve Travmatoloji Uzmanı Op. Dr. Harun Kütahya, özellikle spor yapan kişilerde görülen ve kas ağrısıyla karıştırılabilen bu rahatsızlığın erken teşhis edilmesinin önemine dikkat çekti.",
+      "link": "https://www.cumhuriyet.com.tr/saglik/gecmeyen-bacak-ve-ayak-agrisina-dikkat-stres-kirigi-olabilir-2550314",
+      "published": "2026-10-26T09:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:36.554716+00:00"
+    },
+    {
+      "id": "e1a9d4755af03a01",
+      "source": "Akşam",
+      "title": "Bakan Kacır otomotiv sektörünü işaret etti: Türk sanayisinin yüz akı olmaya devam ediyor",
+      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Gerek ana sanayide gerekse tedarik zincirinde oluşturduğu katma değer, sağladığı nitelikli istihdam ve ulaştığı ihracat hacmiyle otomotiv sektörümüz, Türk sanayisinin yüz akı olmaya devam ediyor.\" dedi.",
+      "link": "https://www.aksam.com.tr/guncel/bakan-kacir-otomotiv-sektorunu-isaret-etti-turk-sanayisinin-yuz-aki-olmaya-devam-ediyor/haber-1709259",
+      "published": "2026-10-26T09:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:41.492015+00:00"
+    },
+    {
+      "id": "38e713445fc2d784",
+      "source": "Karar",
+      "title": "Kütahya Tavşanlı Höyük’te 4 bin yıllık sürpriz: Yıkılan evin duvarından pati izi çıktı",
+      "summary": "Batı Anadolu’nun en büyük Tunç Çağı kentlerinden biri olan Kütahya’daki Tavşanlı Höyük kazılarında, yaklaşık 4 bin yıllık köpek pati izleri gün yüzüne çıkarıldı. Güneşte kurumaya bırakılan yaş kerpicin üzerinden geçen bir köpeğin bıraktığı bu izler, binlerce yıl önce yangın geçirerek yıkılan bir evin duvar molozları arasında bozulmadan günümüze ulaştı.",
+      "link": "https://www.karar.com/kultur-sanat-haberleri/kutahya-tavsanli-hoyukte-4-bin-yillik-surpriz-yikilan-evin-2080660",
+      "published": "2026-10-26T09:46:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:43.591248+00:00"
+    },
+    {
+      "id": "c7c3a04b3d23c306",
+      "source": "Karar",
+      "title": "Uzmanlar uyardı: Yalnızlık demans ve depresyon riskini artırabilir",
+      "summary": "Uzmanlar, ileri yaşta sosyal izolasyonun demans, depresyon ve çeşitli fiziksel sağlık sorunlarıyla ilişkili olabileceğine dikkat çekiyor. Yaşlı bireylerde unutkanlık, uyku bozuklukları, sürekli yorgunluk ve sosyal ilişkilerden uzaklaşma gibi belirtilerin yaşlılığın doğal sonucu olarak görülmemesi ve gerektiğinde uzman desteği alınması öneriliyor.",
+      "link": "https://www.karar.com/saglik-haberleri/uzmanlar-uyardi-yalnizlik-demans-ve-depresyon-riskini-artirabilir-2080659",
+      "published": "2026-10-26T09:46:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:43.591271+00:00"
+    },
+    {
+      "id": "842d5c93b8b01245",
+      "source": "Türkiye Gazetesi",
+      "title": "Faciaya ramak kala! Dev kruvaziyer yük gemisiyle böyle çarpıştı",
+      "summary": "Almanya’nın Bremerhaven kentinde, Kanarya Adalarına gitmek üzere şiddetli fırtınada limandan ayrılmaya çalışan bir kruvaziyer gemisi, iskelede beklemekte olan konteyner gemisine çarptı. 2 bin 428 yolcu ile 922 mürettebatın ölümden döndüğü o anlar kameralara yansıdı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/almanyada-faciaya-ramak-kala-dev-kruvaziyer-yuk-gemisine-carpti-korkunc-anlar-kamerad-1825246",
+      "published": "2026-10-26T09:46:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:38.605971+00:00"
+    },
+    {
+      "id": "f163c95ca12e8b27",
+      "source": "Türkiye Gazetesi",
+      "title": "Almanya'da faciaya ramak kala! Dev kruvaziyer yük gemisine çarptı, korkunç anlar kamerada",
+      "summary": "Almanya’nın Bremerhaven kentinde, Kanarya Adalarına gitmek üzere şiddetli fırtınada limandan ayrılmaya çalışan bir kruvaziyer gemisi, iskelede beklemekte olan konteyner gemisine çarptı. 2 bin 428 yolcu ile 922 mürettebatın ölümden döndüğü o anlar kameralara yansıdı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/almanyada-faciaya-ramak-kala-dev-kruvaziyer-yuk-gemisine-carpti-korkunc-anlar-kamerad-1825246",
+      "published": "2026-10-26T09:46:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:38.605989+00:00"
+    },
+    {
+      "id": "04f941d1d7e9641b",
+      "source": "Karar",
+      "title": "Otobüs kazalarını önlemek için dron ve kamera destekli denetim önerisi",
+      "summary": "Türkiye Otobüsçüler Federasyonu Genel Başkanı Birol Özcan, şehirler arası yolcu taşımacılığında yaşanan kural ihlallerinin önüne geçilmesi için denetimlerin artırılması ve kurallara uymayan sürücülere ağırlaştırılmış cezalar uygulanması gerektiğini belirtti.",
+      "link": "https://www.karar.com/guncel-haberler/otobus-kazalarini-onlemek-icin-dron-ve-kamera-destekli-denetim-onerisi-2080658",
+      "published": "2026-10-26T09:45:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:43.591289+00:00"
+    },
     {
       "id": "04c8cf95ae1642b4",
       "source": "Euronews Türkçe",
@@ -30,6 +195,50 @@
       "fetched_at": "2026-10-26T09:45:49.048661+00:00"
     },
     {
+      "id": "1db3cfefc3ce5ad3",
+      "source": "Habertürk",
+      "title": "Süper Lig'de Karadeniz derbisi!",
+      "summary": "Trabzonspor, Süper Lig'in 9. haftasında bu akşam deplasmanda Çaykur Rizespor ile karşılaşacak. Süper Lig'de Galatasaray'ı sahasında 4-0, deplasmanda Samsunspor'u 3-0, Beşiktaş'ı da evinde 2-0 mağlup eden Trabzonspor, Alman teknik adam yönetiminde üst üste dördüncü lig maçından da galibiyetle ayrılmanın planlarını yapıyor.",
+      "link": "https://www.haberturk.com/spor/super-lig-de-karadeniz-derbisi-caykur-rizespor-trabzonspor-3922615",
+      "published": "2026-10-26T09:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:34.133356+00:00"
+    },
+    {
+      "id": "1874475f1b0d449a",
+      "source": "Türkiye Gazetesi",
+      "title": "Suriye Cumhurbaşkanı Şara'dan Osmanlı ayarı! Haritalar değişti",
+      "summary": "Suriye'de Şara yönetimiyle birlikte ders kitaplarında Türkiye ve Osmanlı Devleti'ne yönelik yaklaşım değişti. Esad döneminde kullanılan \"Osmanlı işgali\" ve \"Türklerin zulmü\" gibi ifadeler yeni müfredattan çıkarıldı. Hatay'ın Türkiye sınırları içinde gösterildiği haritalar da değişimin önemli ayrıntıları arasında yer aldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/suriye-cumhurbaskani-saradan-osmanli-ayari-suriyedeki-ders-kitaplarinda-turk-karsiti-1825245",
+      "published": "2026-10-26T09:44:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:38.606009+00:00"
+    },
+    {
+      "id": "2e22c95d2e949c4d",
+      "source": "Türkiye Gazetesi",
+      "title": "Deprem vurdu, yerinden kopardı! Osman Bektaş’tan kritik uyarı",
+      "summary": "Karadeniz Bölgesi’ndeki heyelan riskine karşı uyaran Prof. Dr. Osman Bektaş, Rize ve Artvin’deki riske dikkat çekti. Bektaş “Deprem vurdu, yağmura gerek kalmadı. Megannewtonluk kuvvetler kayaları yerinden kopardı” dedi. Dev kayaların Arhavi sahilinde kitleler halinde inen dev kayaların tektonik şok etkisiyle göçtüğünü ifade eden Bektaş “Deprem kayıtları, jeolojik haritalar, InSAR ve GNSS verileri ",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/deprem-vurdu-yerinden-kopardi-karadenizde-tehlike-gecmedi-osman-bektastan-kritik-uyar-1825244",
+      "published": "2026-10-26T09:44:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:38.606032+00:00"
+    },
+    {
+      "id": "2e22c95d2e949c4d",
+      "source": "Türkiye Gazetesi",
+      "title": "Deprem vurdu, yerinden kopardı! Osman Bektaş’tan kritik uyarı",
+      "summary": "Karadeniz Bölgesi’ndeki heyelan riskine karşı uyaran Prof. Dr. Osman Bektaş, Rize ve Artvin’deki riske dikkat çekti. Bektaş “Deprem vurdu, yağmura gerek kalmadı. Megannewtonluk kuvvetler kayaları yerinden kopardı” dedi. Dev kayaların Arhavi sahilinde kitleler halinde inen dev kayaların tektonik şok etkisiyle göçtüğünü ifade eden Bektaş “Deprem kayıtları, jeolojik haritalar, InSAR ve GNSS verileri ",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/deprem-vurdu-yerinden-kopardi-karadenizde-tehlike-gecmedi-osman-bektastan-kritik-uyar-1825244",
+      "published": "2026-10-26T09:44:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:38.606051+00:00"
+    },
+    {
       "id": "f1f6d6f35e0983b0",
       "source": "Akşam",
       "title": "Tavşanlı Höyük kazılarında şaşırtan pati izleri",
@@ -39,6 +248,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T09:45:47.582565+00:00"
+    },
+    {
+      "id": "45c1a6c930759d12",
+      "source": "Türkiye Gazetesi",
+      "title": "Edirne'de otomobil ile motosikletin çarpıştığı anlar güvenlik kamerasına böyle yansıdı",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem-videolari/edirnede-otomobil-ile-motosikletin-carpistigi-anlar-guvenlik-kamerasina-boyle-yansidi-1825243",
+      "published": "2026-10-26T09:43:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:38.606064+00:00"
     },
     {
       "id": "824aca923cf6735d",
@@ -85,6 +305,17 @@
       "fetched_at": "2026-10-26T09:45:38.937066+00:00"
     },
     {
+      "id": "f6e5b9fe266937e2",
+      "source": "Ekonomim",
+      "title": "WSJ: Trump, BM Genel Sekreterliği için Viktor Orbán’ı istiyor",
+      "summary": "ABD Başkanı Donald Trump yönetiminin, BM Genel Sekreterliği için Macaristan&#039;ın eski Başbakanı Viktor Orbán&#039;la temasa geçtiği öne sürüldü. Washington&#039;ın, Rusya ve Çin&#039;in de desteğini alarak Orbán&#039;ı ortak aday haline getirmeyi hedeflediği iddia edilirken, olası adaylığın önündeki belirsizlikler sürüyor.",
+      "link": "https://www.ekonomim.com/dunya/wsj-trump-bm-genel-sekreterligi-icin-viktor-orbani-istiyor-haberi-927088",
+      "published": "2026-10-26T09:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:51.813706+00:00"
+    },
+    {
       "id": "280c00b932931c94",
       "source": "Akşam",
       "title": "Doğu Ekspresi'nin alternatifi... Van Gölü Ekspresi'ne binmeden önce bilmeniz gerekenler!",
@@ -127,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T09:46:02.244731+00:00"
+    },
+    {
+      "id": "6b719a6313345abf",
+      "source": "Habertürk",
+      "title": "4 bin yıllık pati izi bulundu",
+      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Kütahya’daki Tavşanlı Höyük kazılarında yaklaşık 4.000 yıllık köpek pati izlerinin bulunduğunu duyurdu. İzlerin, Tunç Çağı’nda yangın geçirerek yıkılan bir yapının molozunda bulunan kerpiç üzerinde korunduğunu belirten Ersoy, “Üzerindeki pati izleri, dört bin yıl önceki gündelik hayatın küçük bir anını korudu” dedi",
+      "link": "https://www.haberturk.com/yasam/4-bin-yillik-pati-izi-bulundu-3922614",
+      "published": "2026-10-26T09:40:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:34.133389+00:00"
     },
     {
       "id": "242b01b4ddc72442",
@@ -206,6 +448,17 @@
       "fetched_at": "2026-10-26T09:40:54.564844+00:00"
     },
     {
+      "id": "1e99cce81bc45fca",
+      "source": "Habertürk",
+      "title": "ABD basını: Trump 4 gün içinde İran'a saldırabilir",
+      "summary": "Orta Doğu’daki ABD güçlerinin, Başkan Donald Trump’tan emir almalarının ardından 96 saat içinde İran’a karşı yeni ve potansiyel büyük saldırılar başlatmaya hazır olduğu iddia edildi.",
+      "link": "https://www.haberturk.com/dunya/cnn-int-trump-in-karar-vermesi-halinde-abd-gucleri-96-saat-icinde-iran-a-buyuk-saldirilar-baslatabilir-3922612",
+      "published": "2026-10-26T09:38:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:34.133408+00:00"
+    },
+    {
       "id": "c4dd73940d9d9df5",
       "source": "Yeni Yaşam",
       "title": "DEDAŞ, 6 gündür Dêrgul’e elektrik vermiyor",
@@ -237,6 +490,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T09:40:38.589262+00:00"
+    },
+    {
+      "id": "e63b95a9074dad7e",
+      "source": "Habertürk",
+      "title": "\"2 milyondan fazla dosyada uzlaşıldı\"",
+      "summary": "Adalet Bakanı Akın Gürlek, alternatif çözüm yöntemleri sayesinde asliye ceza ve çocuk mahkemelerine ilk kez açılan kamu davalarında yüzde 33 azalma sağlandığını açıkladı. 2017’den bu yana 2 milyondan fazla dosyada uzlaşma sağlandığını belirten Bakan Gürlek, \"Alternatif çözüm yolları adaletten vazgeçmek veya cezasızlık değil, uyuşmazlığı en hızlı ve etkili şekilde çözmektir\" dedi",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-adalet-bakani-akin-gurlek-2017-den-bu-yana-2-milyondan-fazla-dosyada-magdur-ile-supheli-uzlasti-3922608",
+      "published": "2026-10-26T09:37:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:34.133430+00:00"
     },
     {
       "id": "784d4b8d9558221d",
@@ -844,6 +1108,17 @@
       "fetched_at": "2026-10-26T09:30:48.541133+00:00"
     },
     {
+      "id": "9abdb85177d71425",
+      "source": "BBC News Türkçe",
+      "title": "Cumhurbaşkanı Başdanışmanı Saral istifa etti: 'İnandığım değerlerden geri adım anlamına gelmiyor'",
+      "summary": "Cumhurbaşkanı Başdanışmanı Oktay Saral, görevinden istifa ettiğini açıkladı. Saral, sosyal medya hesabından yaptığı paylaşımda, \"2016 yılından bu yana büyük bir onur, şeref ve sorumlulukla yürüttüğüm Cumhurbaşkanımız Sayın Recep Tayyip Erdoğan'ın Başdanışmanlığı görevinden istifamı sunmuş bulunuyorum\" dedi.",
+      "link": "https://www.bbc.com/turkce/articles/c9zrd444vl5jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26T09:19:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:51:00.315252+00:00"
+    },
+    {
       "id": "2cab71c241149440",
       "source": "BBC News Türkçe",
       "title": "Cumhurbaşkanı Başdanışmanı Saral istifa etti: 'İnandığım değerlerden geri atmak anlamına gelmiyor'",
@@ -1139,6 +1414,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T09:15:59.010609+00:00"
+    },
+    {
+      "id": "2b2f6a1a5786cf9d",
+      "source": "Finans Gündem",
+      "title": "Mal varlığı aklama soruşturmasında 13 şüpheli adliyeye sevk edildi",
+      "summary": "Murat Ağırel, Ömer ve Emir Sarıgül'ün de aralarında bulunduğu 'Suçtan kaynaklanan mal varlığı değerlerini aklama' suçu kapsamında yürütülen soruşturmada 13 şüpheli daha adliyeye sevk edildi.",
+      "link": "https://www.finansingundemi.com/haber/mal-varligi-aklama-sorusturmasinda-13-supheli-adliyeye-sevk-edildi/1912699",
+      "published": "2026-10-26T09:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:53.407134+00:00"
     },
     {
       "id": "dec29326214ddbb7",
@@ -4485,6 +4771,17 @@
       "fetched_at": "2026-10-26T08:15:42.967520+00:00"
     },
     {
+      "id": "4a4281cf6fdf7ad5",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Milli para tenisçi Ahmet Kaplan, kortlarda dünya \"yıldızlarıyla\"",
+      "summary": "Grand slam finali oynayan ilk Türk tenisçi Ahmet Kaplan, \"Jannik Sinner ve Carlos Alcaraz gibi yıldız tenisçilerle organizasyonlarda bir araya geliyorum. Yeni insanlar, yeni ülkeler ve farklı deneyimler kazandım.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/spor/milli-para-tenisci-ahmet-kaplan-kortlarda-dunya-yildizlariyla/4100822",
+      "published": "2026-10-26T08:12:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:36.327181+00:00"
+    },
+    {
       "id": "6fd5becd70c21264",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "e-Ticaret siteleri kışlık alışverişlerle hareketlendi",
@@ -5090,6 +5387,17 @@
       "fetched_at": "2026-10-26T08:05:35.285823+00:00"
     },
     {
+      "id": "9c7ef0b4838c6683",
+      "source": "Milliyet",
+      "title": "Şişli'de gizemli ölüm: Çatıdaki son fotoğrafı ortaya çıktı",
+      "summary": "Olay, dün saat 09.15 sıralarında Ergenekon Mahallesi’nde meydana geldi. İddiaya göre, kaldığı binanın 6’ncı katındaki balkondan yan binanın çatısına geçen Aisulu Bekmakhanova, çatının orta kısmına doğru ilerledi. Bastığı çatı panelinin kırılması sonucu apartman boşluğuna düşen Bekmakhanova, -2’nci kat seviyesine düştü. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Sağlık ekipleri",
+      "link": "https://www.milliyet.com.tr/gundem/sislide-gizemli-olum-catidaki-son-fotografi-ortaya-cikti-7687702",
+      "published": "2026-10-26T08:03:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-26T09:50:40.704161+00:00"
+    },
+    {
       "id": "06ace13042e62bda",
       "source": "ShiftDelete.Net",
       "title": "E-Tahsilat Nedir?",
@@ -5198,314 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T08:30:56.269094+00:00"
-    },
-    {
-      "id": "817fce5a483f4222",
-      "source": "Türkiye Gazetesi",
-      "title": "FATURADA YENİ DÖNEM!",
-      "summary": "Fatura kesimlerinde yeni döneme geçiş için dikkat çeken bir adım atılıyor. Yaklaşık 7 milyon abonenin sayacı 2027 sonuna kadar uzaktan okuma kapsamına alınacak. Yeni sisteme ilişkin konuşan EPDK Başkanı Mustafa Yılmaz, \"2027 yılı sonuna kadar, yaklaşık 2,7 milyon adet Akıllı Sayaç PRO modelinin tesis edilmesi planlanmaktadır\" ifadelerini kullandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/7-milyon-aboneyi-kapsayacak-sayaclar-icin-epdkdan-yeni-donem-1825215",
-      "published": "2026-10-26T08:01:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:30:56.269125+00:00"
-    },
-    {
-      "id": "428d0e544a57fd8e",
-      "source": "Türkiye Gazetesi",
-      "title": "7 milyon aboneyi kapsayacak! Sayaçlar için yeni karar",
-      "summary": "Fatura kesimlerinde yeni döneme geçiş için dikkat çeken bir adım atılıyor. Yaklaşık 7 milyon abonenin sayacı 2027 sonuna kadar uzaktan okuma kapsamına alınacak. EPDK Başkanı Mustafa Yılmaz, \"2027 yılı sonuna kadar, yaklaşık 2,7 milyon adet Akıllı Sayaç PRO modelinin tesis edilmesi planlanmaktadır\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/7-milyon-aboneyi-kapsayacak-sayaclar-icin-epdkdan-yeni-karar-1825215",
-      "published": "2026-10-26T08:01:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:05:31.921948+00:00"
-    },
-    {
-      "id": "33cc6a5754ae8401",
-      "source": "Cumhuriyet",
-      "title": "Dağılmayan nohut, yumuşacık et: İşte lezzetli etli nohut tarifi",
-      "summary": "Türk mutfağının sevilen lezzetlerinden etli nohut yemeği, yumuşacık etleri ve kıvamlı sosuyla sofraların vazgeçilmezleri arasında yer alıyor. Peki, lokum gibi pişen etli nohut yemeği nasıl yapılır, hangi malzemeler kullanılır? İşte tam kıvamında etli nohut tarifi ve yapım aşamaları.",
-      "link": "https://www.cumhuriyet.com.tr/gurme/dagilmayan-nohut-yumusacik-et-iste-lezzetli-etli-nohut-tarifi-2550272",
-      "published": "2026-10-26T08:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:05:30.900463+00:00"
-    },
-    {
-      "id": "41c4d4e998c35528",
-      "source": "Habertürk",
-      "title": "214 sosyal medya hesabına erişim engeli",
-      "summary": "Afyonkarahisar’da yasa dışı bahisle bağlantılı olduğu değerlendirilen 214 sosyal medya hesabına erişim engeli getirildi",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-afyonkarahisarda-yasa-disi-bahisle-baglantili-214-sosyal-medya-hesabina-erisim-engeli-3922579",
-      "published": "2026-10-26T08:00:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:05:28.196707+00:00"
-    },
-    {
-      "id": "fff1d12e8095f095",
-      "source": "Habertürk",
-      "title": "Aracından inen sürücü hayatının şokunu yaşadı",
-      "summary": "Adana’da, kimliği belirsiz bir kişi, trafikte önünü keserek durdurduğu hafif ticari aracın önce üzerine çıktı. Kendisine müdahale etmek isteyen sürücünün aracından inmesini fırsat bilen şüpheli, daha sonra direksiyon başına geçerek aracı çaldı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-o-anlar-kamerada-mudahale-ederken-aracini-caldirdi-adana-haberleri-3922572",
-      "published": "2026-10-26T08:00:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:05:28.196753+00:00"
-    },
-    {
-      "id": "54eba0c02dfb3d8f",
-      "source": "Karar",
-      "title": "Engin Altan Düzyatan'ın acı günü! 87 yaşında hayatını kaybeden babası Mevlan Düzyatan son yolculuğuna uğurlandı",
-      "summary": "Ekranların sevilen oyuncusu Engin Altan Düzyatan, 87 yaşında vefat eden babası Mevlan Düzyatan'ın kaybıyla sarsıldı. Acı haberi sosyal medya hesabından duygusal bir mesajla paylaşan ünlü oyuncuyu, İzmir'de düzenlenen cenaze töreninde sanat dünyasından dostları yalnız bırakmadı.",
-      "link": "https://www.karar.com/hayat-haberleri/engin-altan-duzyatanin-aci-gunu-87-yasinda-hayatini-kaybeden-babasi-2080628",
-      "published": "2026-10-26T08:00:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:03.077463+00:00"
-    },
-    {
-      "id": "bf15f0feb96b935f",
-      "source": "Bir Gün",
-      "title": "Milyonları ilgilendiriyor: EPDK'den abone sayaçları hakkında karar",
-      "summary": "EPDK Başkanı Mustafa Yılmaz, 2027 sonuna kadar yaklaşık 2,7 milyon akıllı sayacın kurulmasının planlandığını açıkladı. Dönüşümle iki yılda 7 milyon abonenin sayacının Akıllı Sayaç PRO modeliyle kurulacağını açıkladı. Çalışmalarla iki yıl içinde 7 milyon abonenin tüketim verileri uzaktan okunabilecek.",
-      "link": "https://www.birgun.net/haber/milyonlari-ilgilendiriyor-epdk-den-abone-sayaclari-hakkinda-karar-742526",
-      "published": "2026-10-26T08:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T09:01:10.927667+00:00"
-    },
-    {
-      "id": "294e7892679f0a0e",
-      "source": "Akşam",
-      "title": "Türk donanmasına otonom kalkan: Görevini başarıyla tamamladı",
-      "summary": "STM'nin milli insansız sistemleri, TURNAs-2026 Tatbikatı'nda kabiliyetlerini sergiledi. NETA 300 sualtındaki mayın tehditlerini otonom olarak tespit ederken BOYGA hedefini tam isabetle vurdu, TUNGA-X düşman İHA'sını etkisiz hale getirdi.",
-      "link": "https://www.aksam.com.tr/teknoloji/turk-donanmasina-otonom-kalkan-gorevini-basariyla-tamamladi/haber-1709222",
-      "published": "2026-10-26T08:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:02.031600+00:00"
-    },
-    {
-      "id": "e7b83268d9f281b6",
-      "source": "Star",
-      "title": "Lula da Silva yeniden başkan seçildi! Brezilya'da iktidarını dördüncü döneme taşıdı",
-      "summary": "Brezilya Devlet Başkanı Luiz Inacio Lula da Silva, yeniden göreve seçilerek iktidarını dördüncü döneme taşıdı.",
-      "link": "https://www.star.com.tr/dunya/lula-da-silva-yeniden-baskan-secildibrezilyada-iktidarini-dorduncu-doneme-tasidi-haber-2049162/",
-      "published": "2026-10-26T08:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:02.482580+00:00"
-    },
-    {
-      "id": "b21f0ec498a243a6",
-      "source": "Webrazzi",
-      "title": "Webrazzi Fintech 2026'nın erken kayıt indirimli biletleri için son 2 gün!",
-      "summary": "Türkiye'nin lider fintech konferansı Webrazzi Fintech, 9 Aralık 2026’da, Wyndham Grand İstanbul Levent'te gerçekleşecek. Webrazzi'nin 20. yılında düzenlenecek konferans, finans sektörünü yeniden şekil...",
-      "link": "https://webrazzi.com/2026/10/26/webrazzi-fintech-2026nin-erken-kayit-indirimli-biletleri-icin-son-2-gun/",
-      "published": "2026-10-26T08:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:11.996702+00:00"
-    },
-    {
-      "id": "214c9f268a54a03d",
-      "source": "DonanımHaber",
-      "title": "Chery, insansı robotu Mobo'yu tanıttı: Küresel ön sipariş süreci başladı",
-      "summary": "Chery, Çin’de düzenlediği global lansman etkinliğinde ev yaşamına yönelik geliştirdiği ilk insansı robotu Mobo’yu tanıtarak dünya prömiyerini gerçekleştirdi ve küresel ön sipariş sürecini başlattı.",
-      "link": "https://www.donanimhaber.com/chery-insansi-robotu-mobo-yu-tanitti--212077",
-      "published": "2026-10-26T08:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:15.273916+00:00"
-    },
-    {
-      "id": "ecd43458a2cc831a",
-      "source": "Akşam",
-      "title": "10.000 mAh bataryasıyla vivo Y600 tanıtıldı! İşte fiyatı ve çıkış tarihi",
-      "summary": "Akıllı telefon pazarında batarya kapasitesini ön plana çıkaran modeller arasına vivo Y600 de katıldı. Çin'de tanıtılan cihaz, 10.000 mAh kapasiteli bataryası, AMOLED ekranı ve MediaTek işlemcisiyle öne çıkıyor. Guinness Dünya Rekorları kapsamında gerçekleştirilen testte de uzun süreli canlı yayın performansıyla kayda geçti. İşte detaylar…",
-      "link": "https://www.aksam.com.tr/teknoloji/10000-mah-bataryasiyla-vivo-y600-tanitildi-iste-fiyati-ve-cikis-tarihi/haber-1709221",
-      "published": "2026-10-26T07:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:02.031644+00:00"
-    },
-    {
-      "id": "88071811060671d1",
-      "source": "OdaTV",
-      "title": "Thirty Seconds to Mars İstanbul'a geliyor",
-      "summary": "Jared Leto ve Shannon Leto kardeşlerin grubu Thirty Seconds to Mars, 1 Haziran 2027&#039;de İstanbul&#039;da sahne alacak. Ataköy Marina Arena&#039;da düzenlenecek konserin biletleri 29 Ekim&#039;de satışa çıkacak.",
-      "link": "https://www.odatv.com/kultur-sanat/thirty-seconds-to-mars-istanbula-geliyor-konser-ne-zaman-ve-nerede-120168307",
-      "published": "2026-10-26T07:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:04.684080+00:00"
-    },
-    {
-      "id": "986cec4f73c8f371",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "\"6. Korkut Ata Türk Dünyası Film Festivali\", 3-7 Kasım'da İstanbul'da düzenlenecek",
-      "summary": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\", doğduğu şehir İstanbul'a dönüyor.",
-      "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-3-7-kasimda-istanbulda-duzenlenecek/4100790",
-      "published": "2026-10-26T07:58:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:05:30.680182+00:00"
-    },
-    {
-      "id": "43af483b571fdbf9",
-      "source": "OdaTV",
-      "title": "Ebru Eroğlu'nun babasını işten çıkaran kurum ortaya çıktı",
-      "summary": "Kara Harp Okulu mezuniyet töreninin ardından Türk Silahlı Kuvvetleri&#039;nden (TSK) ihraç edilen teğmen Ebru Eroğlu&#039;nun gazi babası Cemil Eroğlu, 35 yıldır görev yaptığı iş yerinden çıkarıldı. Baba Eroğlu&#039;nu işten çıkaran kurumun Türkiye Turing ve Otomobil Kurumu olduğu öne sürüldü.",
-      "link": "https://www.odatv.com/guncel/ebru-eroglunun-babasi-cemil-eroglunu-isten-cikaran-kurum-ortaya-cikti-120168312",
-      "published": "2026-10-26T07:58:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:15:48.060627+00:00"
-    },
-    {
-      "id": "7320b9c7fb86b6b9",
-      "source": "OdaTV",
-      "title": "Ebru Eroğlu'nun babasını işten çıkan kurum ortaya çıktı",
-      "summary": "Kara Harp Okulu mezuniyet töreninin ardından Türk Silahlı Kuvvetleri&#039;nden (TSK) ihraç edilen teğmen Ebru Eroğlu&#039;nun gazi babası Cemil Eroğlu, 35 yıldır görev yaptığı iş yerinden çıkarıldı. Baba Eroğlu&#039;nu işten çıkaran kurumun Türkiye Turing ve Otomobil Kurumu olduğu öne sürüldü.",
-      "link": "https://www.odatv.com/guncel/ebru-eroglunun-babasi-cemil-eroglunu-isten-cikan-kurum-ortaya-cikti-120168312",
-      "published": "2026-10-26T07:58:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:04.684120+00:00"
-    },
-    {
-      "id": "7f7300eddf1c5368",
-      "source": "Karar",
-      "title": "Real Madrid’in El Clasico zaferinde Arda Güler detayı: İspanyol basınından övgü",
-      "summary": "Real Madrid’in Barcelona’yı deplasmanda 2-1 mağlup ettiği El Clasico’da ilk 11’de sahaya çıkan Arda Güler, performansıyla İspanyol basınında geniş yer buldu. Milli futbolcunun savunma arkasına gönderdiği paslarla Mbappe ve Diomande’ye hazırladığı pozisyonlar, presi ve top kazanımları öne çıkarıldı. Marca, Arda’nın ilk yarıdaki oyununa 9 puan verirken, İspanyol gazeteleri genç futbolcunun Real Madr",
-      "link": "https://www.karar.com/spor-haberleri/real-madridin-el-clasico-zaferinde-arda-guler-detayi-ispanyol-basinindan-2080627",
-      "published": "2026-10-26T07:58:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:03.077518+00:00"
-    },
-    {
-      "id": "0a77ae3758d526b3",
-      "source": "Sabah",
-      "title": "SON DAKİKA! Şişli'deki sır ölümde çarpıcı detay: Genç kadının son fotoğrafı ortaya çıktı! Ev arkadaşı ve sevgilisi gözaltında",
-      "summary": "İstanbul Şişli'de yan binanın çatısına geçerek metrelerce yüksekten apartman boşluğuna düşen 26 yaşındaki Aisulu Bekmakhanova'nın şüpheli ölümünde sır perdesi aralanıyor. Genç kadının düşmeden dakikalar... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/son-dakika-sislideki-sir-olumde-carpici-detay-genc-kadinin-son-fotografi-ortaya-cikti-ev-arkadasi-ve-sevgilisi-gozaltinda-7688537",
-      "published": "2026-10-26T07:58:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:35:36.266588+00:00"
-    },
-    {
-      "id": "8d13e0f99551512a",
-      "source": "Serbestiyet",
-      "title": "Trump, Nobel Barış Ödülü’nü alamadığı Norveç’e“Bok çukuru” dedi: “Norveç’ten kimseyi ABD’ye istemiyorum”",
-      "summary": "Trump, Nobel Barış Ödülü’nün kendisine verilmemesine kızgınlığını Norveç’e küfrederek gösterdi. Michigan’daki seçim mitinginde “Norveç aslında bir bok çukuruna dönüştü” diyen Trump, “Nobel Ödülü’nü alamadım. Bu yüzden Norveç’ten kimseyi istemiyorum” ifadelerini kullandı. Trump, Nobel Barış Ödülü’nü alamadığı Norveç’e“Bok çukuru” dedi: &#8220;Norveç’ten kimseyi ABD’ye istemiyorum” yazısı ilk önce S",
-      "link": "https://serbestiyet.com/dis-haber/trump-nobel-baris-odulunu-alamadigi-norvecebok-cukuru-dedi-norvecten-kimseyi-abdye-istemiyorum-252251/",
-      "published": "2026-10-26T07:58:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:08.133271+00:00"
-    },
-    {
-      "id": "5f421611a70340c7",
-      "source": "Hürriyet",
-      "title": "ABD üslerine büyük çaplı savaşa hazırlık talimatı",
-      "summary": "Geniş çaplı bir savaş olasılığına hazırlık yapılmasına karar veren ABD Savunma Bakanlığı (Pentagon), ana karadaki askeri üslerinde yeni tedbirler alınacağını duyurdu. Üslere en az 90 gün dış destek olmadan çalışmalarını sürdürebilecek şekilde hazırlanmaları talimatı verildi.",
-      "link": "https://www.hurriyet.com.tr/dunya/abd-uslerine-buyuk-capli-savasa-hazirlik-talimati-43355096",
-      "published": "2026-10-26T07:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:35:35.097856+00:00"
-    },
-    {
-      "id": "ed397c2586beb857",
-      "source": "Cumhuriyet",
-      "title": "1'i ağır 3 kişi yaralanmıştı: Burdur’daki kavgada eski muhtar tutuklandı",
-      "summary": "Burdur’un Yeşilova ilçesinde çıkan silahlı kavgada 1'i ağır 3 kişi yaralanırken olayda bir kişiyi tüfekle vuran eski muhtar çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/1-i-agir-3-kisi-yaralanmisti-burdur-daki-kavgada-eski-muhtar-tutuklandi-2550271",
-      "published": "2026-10-26T07:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:00:58.979948+00:00"
-    },
-    {
-      "id": "895049b9f7e98200",
-      "source": "Yeni Akit",
-      "title": "Atina, Türk azınlığın haklarını gasp edemez",
-      "summary": "ABD ve soykırımcı İsrail’i arkasına alarak adaları silahlandıran, konu ülkemiz olduğunda uluslararası hiçbir anlaşmaya uymayan Avrupa’nın şımarık çocuğu Yunanistan’ın skandal okul kapatma ve müftü kararına tepkiler dinmiyor.",
-      "link": "https://www.yeniakit.com.tr/haber/atina-turk-azinligin-haklarini-gasp-edemez-2030209.html",
-      "published": "2026-10-26T07:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:02.803843+00:00"
-    },
-    {
-      "id": "6ad050e9ecbce75b",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Brezilya'da Lula da Silva dördüncü kez devlet başkanı seçildi",
-      "summary": "Brezilya Devlet Başkanı Luiz Inacio Lula da Silva, yeniden göreve seçilerek iktidarını dördüncü döneme taşıdı.",
-      "link": "https://www.aa.com.tr/tr/dunya/brezilyada-lula-da-silva-dorduncu-kez-devlet-baskani-secildi/4100789",
-      "published": "2026-10-26T07:57:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:10:37.689985+00:00"
-    },
-    {
-      "id": "981403512a5e39f2",
-      "source": "OdaTV",
-      "title": "Güven Kıraç sessiz sedasız evlendi",
-      "summary": "Ünlü oyuncu Güven Kıraç, dört yıldır birlikte olduğu Merve Topugil ile sade bir törenle evlendi. Daha önce ihanet iddialarıyla gündeme gelen çiftin nikahına yalnızca yakın çevrelerinden az sayıda kişinin katıldığı öğrenildi.",
-      "link": "https://www.odatv.com/magazin/guven-kirac-yeniden-nikah-masasinda-dort-yillik-sevgilisiyle-evlendi-120168311",
-      "published": "2026-10-26T07:57:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:05:37.563435+00:00"
-    },
-    {
-      "id": "b8e6380600f64a44",
-      "source": "Aydınlık",
-      "title": "Türkiye Sigorta, Özer’in sözleşmesini feshetti",
-      "summary": "Türkiye Sigorta, sermaye piyasası soruşturmasında tutuklanan Genel Müdür Yardımcısı Gürol Sami Özer’in iş sözleşmesini feshetti. Karar, Kamuyu Aydınlatma Platformu üzerinden duyuruldu.",
-      "link": "https://www.aydinlik.com.tr/haber/turkiye-sigorta-ozerin-sozlesmesini-feshetti-596202",
-      "published": "2026-10-26T07:57:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:04.222490+00:00"
-    },
-    {
-      "id": "1f6733716a92cb18",
-      "source": "Karar",
-      "title": "Otokratlar sandıkta kaybediyor: Orban ve Vuçiç'in ardından Brezilya'da da demokrasi kazandı",
-      "summary": "Brezilya’da Lula da Silva, Trump ve Netanyahu’nun desteklediği Flávio Bolsonaro’yu mağlup etti. Macaristan ve Sırbistan’daki iktidar değişimlerinin ardından gelen sonuçta, ilk turu geride bitiren Lula ikinci turda oylarını 10,4 milyon artırdı ve zaferini “Demokrasi her zaman, faşizm bir daha asla” sözleriyle kutladı. 3 Kasım ara seçimleri öncesinde ise Trump, ulusal anket ortalamalarında Demokratl",
-      "link": "https://www.karar.com/dunya-haberleri/trumpin-ekibi-sandikta-kaybetmeye-devam-ediyor-orban-ve-vucicten-sonra-2080625",
-      "published": "2026-10-26T07:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:25:38.706478+00:00"
-    },
-    {
-      "id": "d63b8e1af2ddff86",
-      "source": "Star",
-      "title": "Fenerbahçe Tarfin, İspanya deplasmanında",
-      "summary": "EuroLeague'in 8. hafta maçında Fenerbahçe Tarfin yarın İspanyol ekibi Valencia Basket ile karşılaşacak.",
-      "link": "https://www.star.com.tr/spor/fenerbahce-tarfin-ispanya-deplasmaninda-haber-2049161/",
-      "published": "2026-10-26T07:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:02.482610+00:00"
-    },
-    {
-      "id": "a74fb4f4bf0c08a1",
-      "source": "Karar",
-      "title": "Trump'ın ekibi sandıkta kaybetmeye devam ediyor: Orban ve Vuçiç'ten sonra Bolsonaro da gitti, gözler Netanyahu'da",
-      "summary": "Trump’a yakın liderlerin seçim yenilgilerine bir yenisi eklendi. Macaristan’da Orban’ın 16 yıllık iktidarı nisan ayında sona ererken, Sırbistan’da Vuçiç’in yönetimi öğrenci hareketinin zaferiyle devrildi. Brezilya’da ise Trump yönetiminden destek alan Bolsonaro, Filistin’e desteğiyle bilinen solcu lider Lula da Silva karşısında kaybetti. Art arda gelen yenilgilerin ardından gözler, Trump’ın güçlü ",
-      "link": "https://www.karar.com/dunya-haberleri/trumpin-ekibi-sandikta-kaybetmeye-devam-ediyor-orban-ve-vucicten-sonra-2080625",
-      "published": "2026-10-26T07:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T08:01:03.077566+00:00"
     }
   ]
 }

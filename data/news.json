@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T22:16:00.203890+00:00",
+  "last_updated": "2026-10-27T22:20:59.302409+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 469,
   "items": [
+    {
+      "id": "9313bb0d54943f31",
+      "source": "BBC News Türkçe",
+      "title": "İsrail'de sandık çıkış anketleri: Eisenkot bloğu önde, partiler meclis çoğunluğunu sağlayamıyor",
+      "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu gösteriyor.",
+      "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T22:19:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:20:58.591719+00:00"
+    },
+    {
+      "id": "b671ac660931567b",
+      "source": "Cumhuriyet",
+      "title": "İsmail Kartal toplantı sonrası trafik kazası geçirdi",
+      "summary": "Fenerbahçe ile yollarını ayıran teknik direktör İsmail Kartal'ın toplantının ardından aracıyla kaza yaptığı öğrenildi.",
+      "link": "https://www.cumhuriyet.com.tr/spor/ismail-kartal-toplanti-sonrasi-trafik-kazasi-gecirdi-2550912",
+      "published": "2026-10-27T22:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:20:38.147157+00:00"
+    },
     {
       "id": "c6fef611110f6575",
       "source": "Star",
@@ -919,6 +941,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T21:25:37.962047+00:00"
+    },
+    {
+      "id": "010c552ba71b6ff3",
+      "source": "Bir Gün",
+      "title": "Trump: Venezuela ile ilişkilerimiz harika, belki 51. eyaletimiz haline gelir",
+      "summary": "ABD Başkanı Donald Trump, Venezuela ile \"harika\" bir ilişkiye sahip olduklarını ve bu ülkeden ciddi miktarda petrol aldıklarını belirterek, bir gün Venezuela'nın \"ABD'nin 51. eyaleti olabileceğini\" savundu.",
+      "link": "https://www.birgun.net/haber/trump-venezuela-ile-iliskilerimiz-harika-belki-51-eyaletimiz-haline-gelir-742948",
+      "published": "2026-10-27T21:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:20:40.481114+00:00"
     },
     {
       "id": "09fb24c148f8209c",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T17:45:54.276417+00:00"
-    },
-    {
-      "id": "a9a263ef39e5dbb8",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Fenerbahçe, teknik direktör İsmail Kartal ile yollarını ayırdı",
-      "summary": "",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktor-ismail-kartal-ile-yollarini-ayirdi/4102941",
-      "published": "2026-10-27T17:45:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T17:50:37.241578+00:00"
-    },
-    {
-      "id": "a9be5d447a5377ef",
-      "source": "Bir Gün",
-      "title": "Fenerbahçe'de İsmail Kartal dönemi sona erdi",
-      "summary": "Fenerbahçe, Teknik Direktör İsmail Kartal'ın görevinden ayrılma kararı aldığını duyurdu.",
-      "link": "https://www.birgun.net/haber/fenerbahce-de-ismail-kartal-donemi-sona-erdi-742908",
-      "published": "2026-10-27T17:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:20:46.219203+00:00"
-    },
-    {
-      "id": "65526690e1c1a380",
-      "source": "Cumhuriyet",
-      "title": "Son Dakika: Fenerbahçe'de 4. İsmail Kartal dönemi sona erdi!",
-      "summary": "Son dakika haberi... Süper Lig ekibi Fenerbahçe, teknik direktör İsmail Kartal ile yolların ayrıldığını duyurdu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/son-dakika-fenerbahce-de-ismail-kartal-donemi-sona-erdi-2550833",
-      "published": "2026-10-27T17:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T17:55:31.929309+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-27T00:51:06.828809+00:00",
+  "last_updated": "2026-10-27T00:55:50.448716+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 470,
+  "new_items_this_run": 469,
   "items": [
+    {
+      "id": "d74415984f351a9c",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Altın Top ödülünü İngiliz futbolcu Harry Kane kazandı",
+      "summary": "Bayern Münih ve İngiltere Milli Takımı'nın yıldız golcüsü Harry Kane, 2025-26 sezonunun en iyi futbolcusuna verilen Ballon d'Or (Altın Top) ödülünü kariyerinde ilk kez kazandı.",
+      "link": "https://www.aa.com.tr/tr/spor/altin-top-odulunu-ingiliz-futbolcu-harry-kane-kazandi/4101865",
+      "published": "2026-10-27T00:52:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T00:55:32.053038+00:00"
+    },
     {
       "id": "c2150bc7c9c56844",
       "source": "BBC News Türkçe",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T19:40:48.528907+00:00"
-    },
-    {
-      "id": "262fec1702882ee6",
-      "source": "Ekonomim",
-      "title": "Microsoft işten ayrılmak isteyene para verecek: Dört ülkedeki çalışanları kapsıyor",
-      "summary": "Microsoft, ABD, Kanada, Hindistan ve Birleşik Krallık&#039;taki çalışanları için gönüllü işten ayrılma programı başlattı.",
-      "link": "https://www.ekonomim.com/sirketler/microsoft-isten-ayrilmak-isteyene-para-verecek-dort-ulkedeki-calisanlari-kapsiyor-haberi-927169",
-      "published": "2026-10-26T19:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T19:41:01.073874+00:00"
     }
   ]
 }

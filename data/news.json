@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T22:50:57.682801+00:00",
+  "last_updated": "2026-10-27T22:55:56.208825+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 465,
   "items": [
+    {
+      "id": "97d0024634103b09",
+      "source": "Milliyet",
+      "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+      "summary": "Kalyoncu Kulluğu Mahallesi Kömürcü Zeynel Sokak'ta bulunan 5 katlı metruk bina çöktü. İhbar üzerine olay yerine polis, sağlık ve itfaiye ekipleri sevk edildi. Kocaeli'de kolon ve kirişlerinden ses gelen bina tedbiren boşaltıldı",
+      "link": "https://www.milliyet.com.tr/gundem/beyoglunda-5-katli-metruk-bina-coktu-7689019",
+      "published": "2026-10-27T22:50:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:55:36.892513+00:00"
+    },
+    {
+      "id": "dcb6344b004d48c1",
+      "source": "Habertürk",
+      "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
+      "summary": "İstanbul Beyoğlu'nda 5 katlı metruk bina çöktü. Olay yerine çok sayıda ekip sevk edildi",
+      "link": "https://www.haberturk.com/gundem/beyoglu-nda-5-katli-metruk-bina-coktu-3923086",
+      "published": "2026-10-27T22:49:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:55:27.718262+00:00"
+    },
     {
       "id": "8ca66ec1c73ffc6d",
       "source": "Akşam",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T18:05:53.049138+00:00"
-    },
-    {
-      "id": "9f358489f26c02b6",
-      "source": "Aydınlık",
-      "title": "İskenderun'da telefoncu ve bankaya giren şüpheli tutuklandı",
-      "summary": "Hatay&#039;ın İskenderun ilçesinde M.S., beze sardığı kaldırım taşıyla telefoncu ve banka şubesinin camını kırdı. Telefon dükkânından 12 cep telefonu ve dizüstü bilgisayar çalan şüpheli, kamera görüntülerinden tespit edilerek tutuklandı.",
-      "link": "https://www.aydinlik.com.tr/haber/iskenderunda-hirsizlik-yapan-supheli-tutuklandi-596432",
-      "published": "2026-10-27T18:01:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:05:39.575357+00:00"
-    },
-    {
-      "id": "bf1a524576a44503",
-      "source": "Akşam",
-      "title": "Efeler Ligi'nde Galatasaray, Sungurlu Belediyespor'u mağlup etti",
-      "summary": "Voleybol SMS Grup Efeler Ligi'nin üçüncü haftasında Galatasaray Madeş Mobilya, deplasmanda Sungurlu Belediyespor'u 3-1 yendi.",
-      "link": "https://www.aksam.com.tr/spor/efeler-liginde-galatasaray-sungurlu-belediyesporu-maglup-etti/haber-1709715",
-      "published": "2026-10-27T18:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:01:19.282192+00:00"
     }
   ]
 }

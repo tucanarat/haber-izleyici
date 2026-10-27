@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-10-27T05:01:19.255366+00:00",
+  "last_updated": "2026-10-27T05:05:56.411246+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 498,
+  "new_items_this_run": 496,
   "items": [
+    {
+      "id": "42bc778ae58daa8d",
+      "source": "CNBC-e",
+      "title": "Platinde deprem etkisi: Gümüş, paladyum yükselirken o dibi gördü",
+      "summary": "Değerli metaller piyasasında gümüş ve paladyum fiyatları hafif yükselirken platin yüzde 1,1 düşüşle ons başına 1.533,65 dolara geriledi. Platin, Kasım 2025'ten bu yana en düşük seviyesini gördü.",
+      "link": "https://www.cnbce.com/emtia/platinde-deprem-etkisi-gumus-paladyum-yukselirken-o-dibi-gordu-h40388",
+      "published": "2026-10-27T05:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T05:05:47.914528+00:00"
+    },
+    {
+      "id": "388f26e897f73ee3",
+      "source": "Ekonomim",
+      "title": "Yanıltıcı reklamlara 8 ayda 17 milyon TL ceza kesildi",
+      "summary": "Ticaret Bakanlığı, tüketicileri yanıltan indirim kampanyalarına yönelik denetimlerini sıkılaştırdı. Yılın sekiz ayında kurallara aykırı reklamlar nedeniyle 96 firmaya 17 milyon lirayı aşan idari para cezası kesildi. Ticaret Bakanı Ömer Bolat, yeni düzenlemeyle indirim uygulanmadan önceki fiyatların açık ve şeffaf biçimde belirtilmesinin zorunlu hale geldiğini ifade etti.",
+      "link": "https://www.ekonomim.com/ekonomi/yaniltici-reklamlara-8-ayda-17-milyon-tl-ceza-kesildi-haberi-927208",
+      "published": "2026-10-27T05:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T05:05:46.746638+00:00"
+    },
+    {
+      "id": "18bb3fa7c11de447",
+      "source": "Ekonomim",
+      "title": "Altın 4.000 dolara tutunmaya çalışıyor! Fed kararı fiyatları nasıl etkileyecek?",
+      "summary": "Altın fiyatları, petrol piyasasındaki hareketlilik ve ABD-İran hattındaki diplomatik temasların etkisiyle yön arayışını sürdürüyor. Üç aydan uzun sürenin en düşük seviyesini gören ons altın, yeniden 4.000 doların üzerine çıktı. Piyasalarda gözler Fed’in faiz kararına ve yılın geri kalanındaki para politikası adımlarına çevrildi.",
+      "link": "https://www.ekonomim.com/finans/haberler/altin/altin-4000-dolara-tutunmaya-calisiyor-fed-karari-fiyatlari-nasil-etkileyecek-haberi-927209",
+      "published": "2026-10-27T05:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T05:05:46.746663+00:00"
+    },
     {
       "id": "49f997e24fdd0a3b",
       "source": "ShiftDelete.Net",
@@ -28,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T05:01:04.420386+00:00"
+    },
+    {
+      "id": "1b7a8062697f37ae",
+      "source": "Finans Gündem",
+      "title": "Bakırköy Belediyesi'ne operasyon: Çok sayıda gözaltı!",
+      "summary": "Bakırköy Belediyesi’ndeki ihale ve ruhsat işlemlerinde usulsüzlük iddiaları kapsamında 68 şüpheli hakkında gözaltı kararı verildi. Operasyonda, 5 başkan yardımcısı ve 2 meclis üyesinin de aralarında bulunduğu 37 kişi gözaltına alındı.",
+      "link": "https://www.finansingundemi.com/haber/bakirkoy-belediyesine-operasyon-cok-sayida-gozalti/1912785",
+      "published": "2026-10-27T05:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T05:05:48.750706+00:00"
     },
     {
       "id": "8100f95967b9057f",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T21:11:16.512651+00:00"
-    },
-    {
-      "id": "546e5073503a065c",
-      "source": "Akşam",
-      "title": "Uğurcan Çakır: İç saha baskısını rakibe gösterdik",
-      "summary": "Galatasaray'ın milli file bekçisi Uğurcan Çakır, 2-1'lik Fenerbahçe galibiyetinin ardından açıklamalarda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/ugurcan-cakir-ic-saha-baskisini-rakibe-gosterdik/haber-1709411",
-      "published": "2026-10-26T21:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T21:15:58.011783+00:00"
-    },
-    {
-      "id": "55973e9eeb1593ff",
-      "source": "Habertürk",
-      "title": "Ünlülerin derbi sevinci",
-      "summary": "Galatasaray, ezeli rakibi Fenerbahçe'yi kendi evinde 2-1 mağlup etti. Dev derbinin ardından ünlü isimler de sosyal medya hesaplarından sevinçlerini paylaştı",
-      "link": "https://www.haberturk.com/magazin/foto/unlulerin-derbi-sevinci-3922768",
-      "published": "2026-10-26T21:10:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T21:15:34.106592+00:00"
-    },
-    {
-      "id": "76b1f51d92a5b1d6",
-      "source": "Diken",
-      "title": "Süper Lig'de puan durumu ve gelecek haftanın programı",
-      "summary": "Süper Lig'de puan durumu ve gelecek haftanın programı 27.10.2026 Diken Trendyol Süper Lig'de dokuzuncu hafta tamamlandı. The post Süper Lig'de puan durumu ve gelecek haftanın programı appeared first on #site_linkat 27.10.2026 .",
-      "link": "https://www.diken.com.tr/super-ligde-puan-durumu-ve-gelecek-haftanin-programi-5/?utm_source=rss&utm_medium=rss&utm_campaign=super-ligde-puan-durumu-ve-gelecek-haftanin-programi-5",
-      "published": "2026-10-26T21:10:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T21:11:04.286535+00:00"
-    },
-    {
-      "id": "e6503a9a05de44fd",
-      "source": "ShiftDelete.Net",
-      "title": "Apple, iOS 27.2 Güncellemesini Yayınladı: İşte Yeni Özellikler",
-      "summary": "Apple, iOS 27.2 güncellemesini yayınladı. Siri AI yenilikleri, iPhone Duo için Apple Pencil desteği ve Apple Music arayüzündeki değişiklikleri keşfedin.",
-      "link": "https://shiftdelete.net/apple-ios-27-2-guncellemesini-yayinladi-iste-yeni-ozellikler",
-      "published": "2026-10-26T21:10:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T03:01:26.406027+00:00"
     }
   ]
 }

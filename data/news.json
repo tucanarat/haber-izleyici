@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-27T01:21:10.758267+00:00",
+  "last_updated": "2026-10-27T01:25:55.426309+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 473,
+  "new_items_this_run": 474,
   "items": [
+    {
+      "id": "c579ac33160c2be3",
+      "source": "BBC News Türkçe",
+      "title": "Anthropic halka arz ediliyor: 'İnsanlık için varoluşsal risk' uyarısı",
+      "summary": "Popüler sohbet robotu Claude'un üreticisi Anthropic, ABD'de planlanan dev halka arzına ilişkin ayrıntıları açıklarken yapay zekanın \"insanlık için felaket niteliğinde veya varoluşsal riskler oluşturabileceği\" uyarısında bulundu.",
+      "link": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T01:23:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T01:25:54.790449+00:00"
+    },
     {
       "id": "5226568e3f09f9b4",
       "source": "Cumhuriyet",
@@ -567,6 +578,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T00:50:49.893512+00:00"
+    },
+    {
+      "id": "de2fafc5c4184357",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 balistik füze imha edildi",
+      "summary": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füzenin hava savunma sistemleri tarafından imha edildiği bildirildi.",
+      "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-balistik-fuze-imha-edildi/4101863",
+      "published": "2026-10-27T00:37:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T01:25:33.027219+00:00"
     },
     {
       "id": "10b917327a158547",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T20:10:45.616861+00:00"
-    },
-    {
-      "id": "a3a672f7ec6b27d7",
-      "source": "Yeni Şafak",
-      "title": "Bir tavsiye hayatını değiştirdi: Marketini kapatıp yeğeninin tavsiyesiyle deneme amaçlı ekti, sonucu herkesi şaşırttı",
-      "summary": "Hakkari'nin Yüksekova ilçesinde öğretmen yeğeninin tavsiyesi üzerine iki yıl önce esnaflığı bırakan Kerim Erişmiş, aldığı safran soğanı desteğiyle başladığı üreticilikte ekim alanını 200 metrekareden iki dönüme çıkardı.",
-      "link": "https://www.yenisafak.com/galeri/ekonomi/yuksekovada-safran-uretimi-buyuyor-200-metrekareden-2-donume-cikti-4867475",
-      "published": "2026-10-26T20:05:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T20:10:45.024663+00:00"
-    },
-    {
-      "id": "94299d5b9d7574bb",
-      "source": "Akşam",
-      "title": "Galatasaray penaltı bekledi! İşte o pozisyon...",
-      "summary": "Süper Lig'in 9. haftasında Galatasaray, evinde Fenerbahçe ile karşı karşıya geldi. Sarı kırmızılılar, maçın ikinci yarısında yaşanan bir pozisyonun ardından penaltı bekledi.",
-      "link": "https://www.aksam.com.tr/spor/galatasaray-penalti-bekledi-iste-o-pozisyon/haber-1709402",
-      "published": "2026-10-26T20:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T20:05:45.624057+00:00"
     }
   ]
 }

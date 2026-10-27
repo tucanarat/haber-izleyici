@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-27T23:25:57.477418+00:00",
+  "last_updated": "2026-10-27T23:31:12.492212+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 460,
+  "new_items_this_run": 456,
   "items": [
+    {
+      "id": "c580fa2b8ccd7368",
+      "source": "OdaTV",
+      "title": "İTO'da Şekib Avdagiç’in listesi kazandı",
+      "summary": "İTO Başkanı Şekib Avdagiç, &quot;80 komitenin 67’sini kazandık. 270 meclis üyesinin 229’unu aldık&quot; dedi.",
+      "link": "https://www.odatv.com/ekonomi/itoda-sekib-avdagicin-listesi-kazandi-120168560",
+      "published": "2026-10-27T23:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T23:30:59.784289+00:00"
+    },
     {
       "id": "9d243ece6f34d41e",
       "source": "Türkiye Gazetesi",
@@ -182,6 +193,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T23:15:41.099702+00:00"
+    },
+    {
+      "id": "0d2d913083d158f8",
+      "source": "Finans Gündem",
+      "title": "Mevduat faizinde 3 puanlık düşüş: Oranlar yüzde 40’ın altına indi",
+      "summary": "Ticari kredi faizleri yüzde 40’ın altına gerileyerek bazı şirketler için yüzde 38-39 seviyelerine indi.",
+      "link": "https://www.finansingundemi.com/haber/mevduat-faizinde-3-puanlik-dusus-oranlar-yuzde-40in-altina-indi/1912910",
+      "published": "2026-10-27T23:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T23:31:07.714911+00:00"
     },
     {
       "id": "d310f62881c79b68",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T18:20:50.462669+00:00"
-    },
-    {
-      "id": "a26b03534dbfcd1c",
-      "source": "Cumhuriyet",
-      "title": "İsmail Kartal'ın ayrılığının ardından... Fenerbahçe'de takımın başında yer alacak isim belli oldu!",
-      "summary": "Süper Lig ekibi Fenerbahçe'de 4. İsmail Kartal dönemi sona erdi. Ligin gelecek haftasında kendi sahasında Göztepe'yi konuk edecek Fenerbahçe'de takımın başında kimin yer alacağı belli oldu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/ismail-kartal-in-ayriliginin-ardindan-fenerbahce-de-takimin-basinda-yer-alacak-isim-belli-oldu-2550841",
-      "published": "2026-10-27T18:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:15:42.144845+00:00"
-    },
-    {
-      "id": "1cbbe190f5c3a4fa",
-      "source": "Aydınlık",
-      "title": "Karabük ve Bartın’da 48 silah ele geçirildi: 2 tutuklama",
-      "summary": "Karabük ve Bartın’da 23 adrese yönelik aramalarda 48 silah, 2 bin 500 fişek ve silah parçaları bulundu. Gözaltına alınan 8 şüpheliden 2’si tutuklandı.",
-      "link": "https://www.aydinlik.com.tr/haber/karabuk-ve-bartinda-kacak-silah-operasyonu-596433",
-      "published": "2026-10-27T18:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:15:49.894104+00:00"
     }
   ]
 }

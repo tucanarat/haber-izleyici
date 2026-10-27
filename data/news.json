@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-10-27T20:05:59.770459+00:00",
+  "last_updated": "2026-10-27T20:11:07.472137+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 453,
+  "new_items_this_run": 455,
   "items": [
+    {
+      "id": "d3e96420918fcdd1",
+      "source": "Yeni Şafak",
+      "title": "İki araç kafa kafaya çarpıştı: Beş yaralı",
+      "summary": "Düzce’nin Akçakoca ilçesinde hafif ticari araç ile otomobilin kafa kafaya çarpıştığı kazada 5 kişi yaralandı. Çarpışmanın ardından araçlarda sıkışan sürücü ve yolcular itfaiye ekiplerince çıkarılarak sağlık görevlilerine teslim edildi. Yaralılar, Düzce ve Akçakoca’daki hastanelere kaldırıldı.",
+      "link": "https://www.yenisafak.com/gundem/iki-arac-kafa-kafaya-carpisti-bes-yarali-4867760",
+      "published": "2026-10-27T20:09:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:46.738040+00:00"
+    },
+    {
+      "id": "761f0f8e23cfd618",
+      "source": "Star",
+      "title": "Suriye Cumhurbaşkanı Şara: Hayatım boyunca hiçbir sivil ya da silahsız insana saldırmadım",
+      "summary": "Suriye Cumhurbaşkanı Ahmed Şara, Irak'a ABD müdahalesinden yaklaşık bir hafta ila 10 gün önce gittiğini belirterek, \"Hayatım boyunca hiçbir sivil ya da silahsız insana saldırmadığımı açıkça ifade etmek isterim.\" dedi.",
+      "link": "https://www.star.com.tr/dunya/suriye-cumhurbaskani-sara-hayatim-boyunca-hicbir-sivil-ya-da-silahsiz-insana-saldirmadim-haber-2049563/",
+      "published": "2026-10-27T20:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:47.047839+00:00"
+    },
+    {
+      "id": "d24233fb58e74b5d",
+      "source": "Karar",
+      "title": "Bolu Belediyesi soruşturmasında 3 kişi tutuklandı",
+      "summary": "Bolu Belediyesine yönelik rüşvet ve ihaleye fesat soruşturmasında, Belediye Başkan Yardımcısı Rasim Özdemir’in de aralarında bulunduğu 3 kişi tutuklandı, 1 kişi adli kontrolle serbest bırakıldı.",
+      "link": "https://www.karar.com/guncel-haberler/bolu-belediyesi-sorusturmasinda-3-kisi-tutuklandi-2080977",
+      "published": "2026-10-27T20:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:49.645481+00:00"
+    },
+    {
+      "id": "1f369a1658931333",
+      "source": "Habertürk",
+      "title": "'Dijital egemenlik siber güvenliğin parçası'",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, Cumhurbaşkanı Erdoğan başkanlığında gerçekleştirilen Siber Güvenlik Kurulu toplantısında küresel siber tehditlerin, yapay zekanın oluşturduğu yeni risklerin ve dijital platformlardaki algoritmik yönlendirme faaliyetlerinin ele alındığını açıkladı",
+      "link": "https://www.haberturk.com/gundem/cumhurbaskani-erdogan-baskanligindaki-toplantida-dijital-tehditler-ve-guvenlik-degerlendirildi-3923073",
+      "published": "2026-10-27T20:05:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:35.467352+00:00"
+    },
     {
       "id": "68923eb5b6202152",
       "source": "Yeni Yaşam",
@@ -17,6 +61,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T20:05:49.730335+00:00"
+    },
+    {
+      "id": "45983ad8f59d38f2",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İçişleri Bakanı Çiftçi'den \"Anadolu Ajansı Haber Ödülleri\"ne ilişkin paylaşım",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Milli Mücadele yıllarından bugüne milletimizin sesini dünyaya duyuran Anadolu Ajansının, bugün de mazlum coğrafyaların sesi olan çalışmalarını takdirle takip ediyoruz.\" ifadesini kullandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-anadolu-ajansi-haber-odullerine-iliskin-paylasim/4103055",
+      "published": "2026-10-27T20:05:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:38.519722+00:00"
+    },
+    {
+      "id": "cfdacb969d96fcba",
+      "source": "Cumhuriyet",
+      "title": "Bahçeşehir Koleji, PAOK'u eli boş gönderdi!",
+      "summary": "Bahçeşehir Koleji, EuroCup'ın 5. haftasında kendi evinde ağırladığı PAOK'u 84-81 mağlup etti.",
+      "link": "https://www.cumhuriyet.com.tr/spor/bahcesehir-koleji-paok-u-eli-bos-gonderdi-2550861",
+      "published": "2026-10-27T20:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:39.018752+00:00"
+    },
+    {
+      "id": "a6ce28324abf4b3c",
+      "source": "Ekonomim",
+      "title": "İsrail'de sandıklar kapandı: Netanyahu'nun partisi birinci, rakibinin bloğu önde",
+      "summary": "İsrail&#039;de genel seçimlerin ardından açıklanan sandık çıkış anketleri, Gadi Eisenkot liderliğindeki bloğun Başbakan Binyamin Netanyahu&#039;nun iktidar bloğunu geride bıraktığını gösterdi. Ancak hiçbir blok hükümet kurmak için gereken çoğunluğa ulaşamadı.",
+      "link": "https://www.ekonomim.com/dunya/israilde-sandiklar-kapandi-netanyahunun-partisi-birinci-rakibinin-blogu-onde-haberi-927441",
+      "published": "2026-10-27T20:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:59.154940+00:00"
     },
     {
       "id": "38c7cef3fa8673c4",
@@ -61,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T20:05:44.308875+00:00"
+    },
+    {
+      "id": "c9fdb1e2d71f7d38",
+      "source": "Independent Türkçe",
+      "title": "Putin ve Pezeşkiyan Moskova’da bölgesel gelişmeleri görüştü",
+      "summary": "Rusya Devlet Başkanı Vladimir Putin ile İran Cumhurbaşkanı Mesud Pezeşkiyan, Moskova’da yaptıkları görüşmede bölgesel gelişmeleri ve ikili ilişkileri ele aldı. Pezeşkiyan, ABD’nin bölgedeki politikalarını eleştirerek, “ABD olmadan bütün sorunlarımızı, bölgesel meselelerimizi çözebilecek kapasitedeyiz” dedi. Kremlin’den yapılan açıklamaya göre görüşmede, bölgedeki gelişmeler ve iki ülke arasındaki ",
+      "link": "https://www.indyturk.com/node/784403/d%C3%BCnya/putin-ve-peze%C5%9Fkiyan-moskova%E2%80%99da-b%C3%B6lgesel-geli%C5%9Fmeleri-g%C3%B6r%C3%BC%C5%9Ft%C3%BC",
+      "published": "2026-10-27T20:01:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:55.874237+00:00"
     },
     {
       "id": "087490e3fa685cb6",
@@ -963,6 +1051,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T19:15:40.879770+00:00"
+    },
+    {
+      "id": "d86b5eb8b0a8d531",
+      "source": "Bianet",
+      "title": "Suudi güvenliği için üçlü askerî ittifak: Mekke Anlaşması komisyondan geçti",
+      "summary": "Türkiye, Pakistan ve Suudi Arabistan arasındaki Mekke Ortak Savunma Anlaşması'nın onaylanması teklifi TBMM Dışişleri Komisyonu'nda kabul edildi. Anlaşmaya göre, birine yapılan saldırı hepsine yapılmış sayılacak. 10 yıllık bağlılık getiren ittifakın temelinde, uzmanlara göre, Riyad'ın güvenlik ihtiyacı, Ankara ve İslamabad'ın ekonomik ve stratejik beklentileri bulunuyor.",
+      "link": "https://bianet.org/haber/suudi-guvenligi-icin-uclu-askeri-ittifak-mekke-anlasmasi-komisyondan-gecti-324846",
+      "published": "2026-10-27T19:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:52.656771+00:00"
     },
     {
       "id": "8a5d8298ad6ab8e4",
@@ -3253,6 +3352,17 @@
       "fetched_at": "2026-10-27T17:31:01.360839+00:00"
     },
     {
+      "id": "223be859094828dc",
+      "source": "OdaTV",
+      "title": "Siber Güvenlik Kurulu toplandı: Dijital Egemenlik planı hazırlandı",
+      "summary": "Siber Güvenlik Kurulu, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında toplandı. Toplantıda, Dijital Egemenlik Stratejisi kurula sunuldu.",
+      "link": "https://www.odatv.com/guncel/siber-guvenlik-kurulu-toplandi-dijital-egemenlik-plani-hazirlandi-120168547",
+      "published": "2026-10-27T17:27:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T20:10:51.714389+00:00"
+    },
+    {
       "id": "e4e8413659c12e61",
       "source": "OdaTV",
       "title": "Siber Güvenlik Kurulu toplantı: Dijital Egemenlik planı hazırlandı",
@@ -5396,116 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T16:05:57.962490+00:00"
-    },
-    {
-      "id": "2e95d4c68680d3c6",
-      "source": "Euronews Türkçe",
-      "title": "Oxfam: Süper zenginler iklim krizini körüklüyor, felaketlerden de kâr ediyor",
-      "summary": "Oxfam, en zengin yüzde 1'lik kesimin emisyonlarının 1990'dan bu yana küresel ısınmanın yaklaşık yüzde 20'sinden sorumlu olduğunu hesaplıyor. Rapora göre bu grubun yalnızca bir yılda yol açtığı emisyonlar, gelecek yüzyılda yaklaşık 1,9 milyon ek sıcaklığa bağlı ölümle sonuçlanabilir.",
-      "link": "https://tr.euronews.com/2026/10/27/super-zenginlerin-yatirimlari-iklim-krizini-korukluyor-felaketten-kar-ediyor",
-      "published": "2026-10-27T16:02:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:01:40.103066+00:00"
-    },
-    {
-      "id": "31bf1f8827189564",
-      "source": "Euronews Türkçe",
-      "title": "Süper zenginlerin yatırımları iklim krizini körüklüyor, felaketten kâr ediyor",
-      "summary": "İklim taahhütleri yetersiz kalıyor; Oxfam, süper zenginlerin felaketlerden nasıl kazanç sağladığını ortaya koyuyor.",
-      "link": "https://tr.euronews.com/2026/10/27/super-zenginlerin-yatirimlari-iklim-krizini-korukluyor-felaketten-kar-ediyor",
-      "published": "2026-10-27T16:02:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:10:59.908346+00:00"
-    },
-    {
-      "id": "341a8096bab6d630",
-      "source": "Habertürk",
-      "title": "ABD ile Arktik'te olası işbirliğine yeşil ışık yaktı",
-      "summary": "Rusya Devlet Başkanı Vladimir Putin, Arktik bölgesindeki enerji projelerinde ABD'li şirketlerle ortak çalışma olasılığını değerlendirdiklerini söyledi.",
-      "link": "https://www.haberturk.com/dunya/putin-abd-ile-arktik-te-olasi-isbirligine-yesil-isik-yakti-3923028",
-      "published": "2026-10-27T16:02:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:10:37.905542+00:00"
-    },
-    {
-      "id": "6b2e712d7e94fa10",
-      "source": "Aydınlık",
-      "title": "Kalite güvencesini tamamlayan 30 üniversite TYÇ logosu kullanacak",
-      "summary": "Mesleki Yeterlilik Kurumu, ilgili programlarında kalite güvencesi süreçlerini tamamlayan 30 üniversiteye Türkiye Yeterlilikler Çerçevesi logosu kullanım hakkı verdi. Bakan Vedat Işıkhan, 162 üniversitedeki ilgili programların yeterliliklerinin çerçeveye yerleştirildiğini söyledi.",
-      "link": "https://www.aydinlik.com.tr/haber/30-universiteye-tyc-logosu-kullanim-hakki-596406",
-      "published": "2026-10-27T16:01:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:05:49.093191+00:00"
-    },
-    {
-      "id": "7583812489f7c976",
-      "source": "CNBC-e",
-      "title": "ABD'de tüketici güveni yükselişe geçti",
-      "summary": "ABD'de Conference Board Tüketici Güven Endeksi, ekimde 7,5 puan artarak 91,7'ye çıktı. 81,2 seviyesindeki piyasa beklentilerini aşan endekse rağmen tüketicilerin enflasyon ve artan maliyetlere ilişkin endişeleri sürdü.",
-      "link": "https://www.cnbce.com/veriler/abdde-tuketici-guveni-yukselise-gecti-h40459",
-      "published": "2026-10-27T16:01:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:05:59.314511+00:00"
-    },
-    {
-      "id": "e1abc036ac328d38",
-      "source": "Independent Türkçe",
-      "title": "Bahçeli’den Türkiye-Azerbaycan gerilimine ilişkin açıklama: Hiçbir ihtilaf kalıcı ayrılığa dönüşmemeli",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, Türkiye ile Azerbaycan arasında yaşanan gerilime ilişkin yaptığı açıklamada, iki ülke arasındaki kardeşlik bağlarının tarihi derinliğine dikkat çekerek, “Hiçbir anlaşmazlığın büyütülmesine, hiçbir ihtilafın kalıcı ayrılığa dönüştürülmesine, hiçbir nifak tohumunun aramıza ekilmesine fırsat verilmemelidir” dedi. MHP Genel Başkanı Devlet Bahçeli, Cumhuriyetin 103’ünc",
-      "link": "https://www.indyturk.com/node/784399/haber/bah%C3%A7eli%E2%80%99den-t%C3%BCrkiye-azerbaycan-gerilimine-ili%C5%9Fkin-a%C3%A7%C4%B1klama-hi%C3%A7bir-ihtilaf-kal%C4%B1c%C4%B1",
-      "published": "2026-10-27T16:01:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:05:55.199249+00:00"
-    },
-    {
-      "id": "d9210e3180588f6b",
-      "source": "Habertürk",
-      "title": "65 yaş üstü emeklilere daha fazla zam yapılabilir",
-      "summary": "AK Parti Kaynakları: 65 yaş üstüne daha fazla zam yapılabilir",
-      "link": "https://www.haberturk.com/ekonomi/son-dakika-65-yas-ustu-emeklilere-daha-fazla-zam-yapilabilir-3923031",
-      "published": "2026-10-27T16:01:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:10:37.905582+00:00"
-    },
-    {
-      "id": "6188dba951c3cf04",
-      "source": "Akşam",
-      "title": "Fenerbahçe'de sıcak saatler... İsmail Kartal ayrılıyor mu?",
-      "summary": "Süper Lig'in 9. haftasında Fenerbahçe, deplasmanda Galatasaray'a 2-1 mağlup oldu. Derbinin ardından teknik direktör İsmail Kartal'ın geleceği tartışma konusu oldu. TRT Spor'un haberine göre; sarı-lacivertlilerde İsmail Kartal'ın geleceğiyle ilgili Başkan Aziz Yıldırım ve Yönetim Kurulu Üyeleri arasındaki görüşme sona erdi. Deneyimli teknik adamla yolların ayrılması gündemde. İşte detaylar...",
-      "link": "https://www.aksam.com.tr/spor/fenerbahcede-sicak-saatler-ismail-kartal-ayriliyor-mu/haber-1709692",
-      "published": "2026-10-27T16:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:05:40.623942+00:00"
-    },
-    {
-      "id": "f4d6eebae5ea74a1",
-      "source": "Star",
-      "title": "Fenerbahçe'de kritik toplantı sona erdi! İsmail Kartal göreve devam edecek mi?",
-      "summary": "Fenerbahçe'de Teknik Direktör İsmail Kartal'ın geleceğine ilişkin Başkan Aziz Yıldırım ve yönetim kurulu üyeleri arasındaki görüşme sona erdi. Deneyimli teknik adamla yolların ayrılması gündemdeyken, yönetimin bu akşam yapacağı resmi açıklamayla kararını duyurması bekleniyor.",
-      "link": "https://www.star.com.tr/spor/fenerbahcede-kritik-toplanti-sona-erdi-ismail-kartal-goreve-devam-edecek-mi-haber-2049530/",
-      "published": "2026-10-27T16:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:05:41.619284+00:00"
-    },
-    {
-      "id": "08f428f1db885d9f",
-      "source": "Akşam",
-      "title": "Fenerbahçe'de sıcak saatler... İsmail Kartal istifa edebilir!",
-      "summary": "Süper Lig'in 9. haftasında Fenerbahçe, deplasmanda Galatasaray'a 2-1 mağlup oldu. Derbinin ardından teknik direktör İsmail Kartal'ın geleceği tartışma konusu oldu. TRT Spor'un haberine göre; sarı-lacivertlilerde İsmail Kartal'ın geleceğiyle ilgili Başkan Aziz Yıldırım ve Yönetim Kurulu Üyeleri arasındaki görüşme sona erdi. Deneyimli teknik adamla yolların ayrılması gündemde. İşte detaylar...",
-      "link": "https://www.aksam.com.tr/spor/fenerbahcede-sicak-saatler-ismail-kartal-istifa-edebilir/haber-1709692",
-      "published": "2026-10-27T16:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T16:01:05.856220+00:00"
     }
   ]
 }

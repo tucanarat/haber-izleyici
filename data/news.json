@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T22:35:53.055482+00:00",
+  "last_updated": "2026-10-27T22:41:02.224615+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,39 @@
   "total_items": 500,
   "new_items_this_run": 466,
   "items": [
+    {
+      "id": "27621f300fdbea8a",
+      "source": "Akşam",
+      "title": "Arsenal'e büyük şok! Fleetwood'a kupada elendiler",
+      "summary": "Arsenal, İngiltere Lig Kupası son 16 turunda 1-0 geriye düştüğü maçta Gyökeres ile eşitliği sağladı ancak penaltı atışlarında Fleetwood'a 5-3 mağlup olarak elendi.",
+      "link": "https://www.aksam.com.tr/spor/arsenale-buyuk-sok-fleetwooda-kupada-elendiler/haber-1709752",
+      "published": "2026-10-27T22:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:40:45.668674+00:00"
+    },
+    {
+      "id": "bd228420a6b17502",
+      "source": "Evrensel",
+      "title": "İranlı yönetmen Cafer Penahi'ye 5 yıl 1 ay hapis kararı",
+      "summary": "İranlı yönetmen Cafer Penahi'ye yeni bir davada 5 yıl 1 ay hapis cezası verildi.",
+      "link": "https://www.evrensel.net/haber/6006898/iranli-yonetmen-cafer-penahiye-5-yil-1-ay-hapis-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-27T22:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:40:42.571321+00:00"
+    },
+    {
+      "id": "068d0f17bef9c863",
+      "source": "Star",
+      "title": "Arsenal'e Lig Kupası'nda büyük süpriz! Fleetwood penaltılarla turladı",
+      "summary": "Arsenal, İngiltere Lig Kupası son 16 turunda normal süresi 1-1 biten maçta Fleetwood'a penaltılarda 5-3 mağlup olarak turnuvaya veda etti.",
+      "link": "https://www.star.com.tr/spor/arsenale-lig-kupasinda-buyuk-supriz-fleetwood-penaltilarla-turladi-haber-2049574/",
+      "published": "2026-10-27T22:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:40:46.726609+00:00"
+    },
     {
       "id": "6c2d2574693fbc77",
       "source": "Akşam",
@@ -94,6 +127,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T22:30:45.945013+00:00"
+    },
+    {
+      "id": "86386cc991b44945",
+      "source": "Evrensel",
+      "title": "İsrail ordusunun Gazze'ye düzenlediği saldırılarda 4 Filistinli hayatını kaybetti",
+      "summary": "İsrail ordusunun Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 4 Filistinli hayatını kaybetti, 5 kişi yaralandı.",
+      "link": "https://www.evrensel.net/haber/6006897/israil-ordusunun-gazzeye-duzenledigi-saldirilarda-4-filistinli-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-27T22:22:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:40:42.571340+00:00"
     },
     {
       "id": "a928f71a3f1047cf",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T18:05:46.003290+00:00"
-    },
-    {
-      "id": "b41522c55a91e144",
-      "source": "Sabah",
-      "title": "Dışişleri Bakanlığından \"Yunanistan\" iddialarına sert tepki: \"Meşru menfaatlerimizi korumaya devam edeceğiz\"",
-      "summary": "Dışişleri Bakanlığı, Türkiye'nin Ege ve Doğu Akdeniz politikasıyla ilgili gündeme getirilen iddialara ilişkin yazılı açıklamada bulundu. Bir siyasi parti genel başkanının açıklamalarına işaret edilen açıklamada,... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/gundem/2026/10/27/disisleri-bakanligindan-yunanistan-iddialarina-sert-tepki-mesru-menfaatlerimizi-korumaya-devam-edecegiz",
-      "published": "2026-10-27T17:56:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:20:48.614118+00:00"
-    },
-    {
-      "id": "97b10e962bffed00",
-      "source": "CNBC-e",
-      "title": "SPK’dan borsada 3 hisseye yönelik işlem incelemesi! Çok sayıda kişiye yasak",
-      "summary": "SPK, PASEU, SELEC ve MANAS pay piyasalarındaki işlemler nedeniyle çok sayıda kişi hakkında suç duyurusunda bulunulmasına ve 2 yıl işlem yasağı uygulanmasına karar verdi. Tera Yatırım’ın tüm faaliyet izinleri de iptal edildi.",
-      "link": "https://www.cnbce.com/borsa/spkdan-borsada-3-hisseye-yonelik-islem-incelemesi-cok-sayida-kisiye-yasak-h40468",
-      "published": "2026-10-27T17:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:01:31.442084+00:00"
-    },
-    {
-      "id": "7301c02647011598",
-      "source": "BBC News Türkçe",
-      "title": "Fenerbahçe'de İsmail Kartal dönemi sona erdi",
-      "summary": "Fenerbahçe, futbol takımının teknik direktörü olarak Haziran ayında göreve başlayan İsmail Kartal ile yolların ayrıldığını duyurdu.",
-      "link": "https://www.bbc.com/turkce/articles/c3vgxjqk8rzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T17:54:47+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:01:39.787615+00:00"
-    },
-    {
-      "id": "d248f2a371c0f7de",
-      "source": "Ekonomim",
-      "title": "Günün en çok kazandıran ve kaybettiren hisseleri belli oldu",
-      "summary": "Borsanın yatay seyirle kapandığı günde yatırımcısına en çok kazandıran ve kaybettiren hisseler belli oldu.",
-      "link": "https://www.ekonomim.com/foto-galeri/ekonomi/gunun-en-cok-kazandiran-ve-kaybettiren-hisseler-belli-oldu-galeri-927417",
-      "published": "2026-10-27T17:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:31:05.883296+00:00"
     }
   ]
 }

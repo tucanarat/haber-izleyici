@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-27T00:46:05.733224+00:00",
+  "last_updated": "2026-10-27T00:51:06.828809+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 474,
+  "new_items_this_run": 470,
   "items": [
+    {
+      "id": "c2150bc7c9c56844",
+      "source": "BBC News Türkçe",
+      "title": "İsrail'de kritik seçim: Başbakan adayları Türkiye'ye nasıl bakıyor?",
+      "summary": "İsrail'de 7 Ekim saldırıları sonrası ilk genel seçim bugün yapılacak. Başbakan Binyamin Netanyahu ve en büyük rakibi Gadi Eisenkot, anketlerde başa baş görnüyor. Peki Netanyahu, Eisenkot ve diğer liderler Türkiye'yle ilişkilere nasıl bakıyor ?",
+      "link": "https://www.bbc.com/turkce/articles/cm5yn5j93q4vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27T00:46:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T00:51:06.521041+00:00"
+    },
     {
       "id": "9771ee1c4603c76a",
       "source": "BBC News Türkçe",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T00:46:05.412280+00:00"
+    },
+    {
+      "id": "e9238ebd5ddcfd83",
+      "source": "OdaTV",
+      "title": "Siverek’te otomobil ağaca ok gibi saplandı: 3 yaralı",
+      "summary": "Şanlıurfa’nın Siverek ilçesinde kontrolden çıkan otomobilin refüjdeki ağaca çarpması sonucu meydana gelen kazada 3 kişi yaralandı. Çarpmanın etkisiyle otomobil ikiye bölündü.",
+      "link": "https://www.odatv.com/guncel/siverekte-otomobil-agaca-ok-gibi-saplandi-3-yarali-120168423",
+      "published": "2026-10-27T00:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T00:50:49.893512+00:00"
     },
     {
       "id": "10b917327a158547",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T19:41:01.073874+00:00"
-    },
-    {
-      "id": "b75cb979eca8b343",
-      "source": "Karar",
-      "title": "Kadıoğlu’ndan İstanbul'da okullar için tatil uyarısı: Ertelenen ders telafi edilir ama yitirilen canların telafisi olmaz",
-      "summary": "Geçtiğimiz hafta yaşanan sel felaketinde 8 kişinin hayatını kaybettiği ve milyarlarca liralık maddi hasarın oluştuğu İstanbul’da, yarın sabah saatlerinde beklenen kuvvetli yağış öncesi Afet Yönetimi Uzmanı Prof. Dr. Mikdat Kadıoğlu’ndan kritik bir uyarı geldi. Yağışın en yoğun şekilde 03.00 ile 12.00 saatleri arasında düşeceğini belirten Kadıoğlu, okullar ve üniversiteler için henüz bir karar alın",
-      "link": "https://www.karar.com/guncel-haberler/kadioglundan-istanbulda-okullar-icin-tatil-uyarisi-ertelenen-ders-2080771",
-      "published": "2026-10-26T19:36:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T19:40:50.634306+00:00"
-    },
-    {
-      "id": "9ced6b0a8bf8120c",
-      "source": "Star",
-      "title": "Kayseri'de dev operasyon için düğmeye basıldı! 108 noktada birden aranan şahıslar kıskıvrak yakalandı",
-      "summary": "Kayseri'de polis ekipleri, yaptıkları uygulamada aranan 23 şüpheliyi gözaltına aldı.",
-      "link": "https://www.star.com.tr/guncel/kayseride-dev-operasyon-icin-dugmeye-basildi-108-noktada-birden-aranan-sahislar-kiskivrak-yakalandi-haber-2049307/",
-      "published": "2026-10-26T19:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T19:40:49.828745+00:00"
     }
   ]
 }

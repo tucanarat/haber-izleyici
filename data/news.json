@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-27T22:05:54.501276+00:00",
+  "last_updated": "2026-10-27T22:11:02.474503+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 469,
+  "new_items_this_run": 445,
   "items": [
+    {
+      "id": "b0b024fd9f22b366",
+      "source": "Cumhuriyet",
+      "title": "Fenerbahçe Tarfin, Valencia deplasmanında kayıp!",
+      "summary": "Fenerbahçe Tarfin, EuroLeague'in 8. haftasında deplasmanda karşılaştığı Valencia Basket'e 86-78 mağlup oldu.",
+      "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-valencia-deplasmaninda-kayip-2550911",
+      "published": "2026-10-27T22:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:10:39.587474+00:00"
+    },
     {
       "id": "32c560ce53323c50",
       "source": "Ekonomim",
@@ -19,6 +30,17 @@
       "fetched_at": "2026-10-27T22:05:47.063509+00:00"
     },
     {
+      "id": "4037348df90d8592",
+      "source": "Habertürk",
+      "title": "Yaşlı çifti ölümlü kaza ayırdı",
+      "summary": "Ankara Çubuk'ta TIR'a arkadan çarpan otomobilin sürücüsü yaralanırken yanında bulunan 76 yaşındaki eşi hayatını kaybetti",
+      "link": "https://www.haberturk.com/gundem/ankara-da-yasli-cifti-olumlu-kaza-ayirdi-3923081",
+      "published": "2026-10-27T22:01:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:10:37.214783+00:00"
+    },
+    {
       "id": "850235546f090371",
       "source": "Akşam",
       "title": "Fenerbahçe Tarfin'e Valencia Basket engeli",
@@ -28,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T22:01:02.825856+00:00"
+    },
+    {
+      "id": "0f097f5bcd2e769b",
+      "source": "Evrensel",
+      "title": "EuroLeague 8’inci haftası: Valencia Basket’e 86 – 78 yenilen Fenerbahçe ikinci mağlubiyetini aldı",
+      "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 8. haftasında Fenerbahçe, deplasmanda İspanyol ekibi Valencia Basket'e 86-78 mağlup oldu. Fenerbahçe organizasyondaki 2. yenilgisini yaşadı.",
+      "link": "https://www.evrensel.net/haber/6006895/euroleague-8-inci-haftasi-valencia-basket-e-86-78-yenilen-fenerbahce-ikinci-maglubiyetini-aldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-27T21:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:10:42.555688+00:00"
     },
     {
       "id": "90de9a7f3c514d0a",
@@ -85,6 +118,17 @@
       "fetched_at": "2026-10-27T22:01:15.405735+00:00"
     },
     {
+      "id": "fb1282cf50a02456",
+      "source": "Türkiye Gazetesi",
+      "title": "7 katlı binada panik! 14 daire tedbiren boşaltıldı",
+      "summary": "Kocaeli'nin Karamürsel ilçesinde kolon ve kirişlerinden ses geldiği bildirilen 7 katlı apartman tedbir amacıyla boşaltıldı. Binadaki 14 dairede yaşayan 33 kişi tahliye edilirken, kalacak yeri olmayan bir aile öğretmenevine yerleştirilecek.",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/kocaelide-7-katli-binada-panik-14-daire-tedbiren-bosaltildi-1825600",
+      "published": "2026-10-27T21:56:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:10:42.114477+00:00"
+    },
+    {
       "id": "756b273b0e23c059",
       "source": "BBC News Türkçe",
       "title": "ABD, Brezilya'da seçimi kaybeden ve pasaportuna el konulan Bolsonaro'ya vize vereceğini açıkladı",
@@ -127,6 +171,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T21:55:38.393920+00:00"
+    },
+    {
+      "id": "95c0e3814eafb06e",
+      "source": "Evrensel",
+      "title": "Karamürsel'de kolonlarından çatırdayan 8 katlı bina boşaltıldı",
+      "summary": "Karamürsel 4 Temmuz Mahallesi Amiral Caddesi üzerinde bulunan 8 katlı Cansever Apartmanı, binada oluşan çatlaklar ve duyulan çatırtılar nedeniyle boşaltıldı.",
+      "link": "https://www.evrensel.net/haber/6006894/karamursel-de-kolonlarindan-catirdayan-8-katli-bina-bosaltildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-27T21:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T22:10:42.555723+00:00"
     },
     {
       "id": "c5561df7dc7a8299",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T17:45:49.324744+00:00"
-    },
-    {
-      "id": "a62b9e5f6903564d",
-      "source": "Habertürk",
-      "title": "Cumhurbaşkanı Erdoğan, Macron ile görüştü",
-      "summary": "Cumhurbaşkanı Erdoğan, Fransa Cumhurbaşkanı Emmanuel Macron ile telefonda görüştü. Görüşmede, ikili ilişkiler ile Birleşmiş Milletler'in yeni Genel Sekreteri'ni belirleme süreci ele alındı",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-macron-ile-gorustu-3923048",
-      "published": "2026-10-27T17:44:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T21:45:34.261401+00:00"
-    },
-    {
-      "id": "5f72a1cc7370c8cb",
-      "source": "DonanımHaber",
-      "title": "Hırvatistan'da jeotermal enerjiyle turizmi buluşturan termal tesis açıldı",
-      "summary": "Hırvatistan'da açılan Wellovar, enerjisini jeotermal kaynaklar ve güneş panelleriyle karşılayacak şekilde tasarlandı. Tesisin yılda 250 bin ziyaretçi çekmesi bekleniyor.",
-      "link": "https://www.donanimhaber.com/hirvatistan-jeotermal-enerjiyle-calisan-dev-termal-tesisini-acti--212169",
-      "published": "2026-10-27T17:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T17:46:06.607095+00:00"
-    },
-    {
-      "id": "0b54829b622b373e",
-      "source": "Bloomberg HT",
-      "title": "UAEA'dan İran'ın zenginleştirilmiş uranyum stoklarına ilişkin açıklama",
-      "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, İran'ın daha önce beyan ettiği 440 kilogram yüksek oranda zenginleştirilmiş uranyumun mevcut durumunun doğrulanabilmesi için nükleer tesislere erişim sağlanması gerektiğini belirtti.",
-      "link": "https://www.bloomberght.com/uaea-dan-iran-in-zenginlestirilmis-uranyum-stoklarina-iliskin-aciklama-3792700",
-      "published": "2026-10-27T17:43:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T17:55:42.493565+00:00"
-    },
-    {
-      "id": "1585b4f9856d0adc",
-      "source": "Euronews Türkçe",
-      "title": "İsrail'de halk sandık başında: Rekor düzeyde katılım",
-      "summary": "Hiçbir partinin tek başına hükümet kurmak için gereken çoğunluğa ulaşmasının beklenmediği seçimlerin ardından haftalar sürebilecek koalisyon görüşmeleri gündeme gelebilir.",
-      "link": "https://tr.euronews.com/2026/10/27/israilde-halk-sandik-basinda-rekor-duzeyde-katilim",
-      "published": "2026-10-27T17:42:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T17:46:11.482464+00:00"
-    },
-    {
-      "id": "e6144bb9e9ed26f4",
-      "source": "Euronews Türkçe",
-      "title": "Norveç: Başarılı siber saldırıların sayısı son 6 ayda üçe katlandı",
-      "summary": "Ülkenin Ulusal Güvenlik Otoritesi, yapay zeka teknolojisinin hızla gelişmesinin Norveçli şirketler ve kurumlar için ciddi bir risk oluşturduğunu açıkladı.",
-      "link": "https://tr.euronews.com/2026/10/27/norvec-basarili-siber-saldirilarin-sayisi-son-6-ayda-uce-katlandi",
-      "published": "2026-10-27T17:42:08+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T17:46:11.482497+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-27T02:06:00.641758+00:00",
+  "last_updated": "2026-10-27T02:11:08.168412+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 473,
+  "new_items_this_run": 455,
   "items": [
+    {
+      "id": "9567d26ce1a3bc2c",
+      "source": "Milliyet",
+      "title": "Suudi Arabistan'da 'Husi' alarmı! Erken uyarı sistemi devreye alındı",
+      "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin Harc vilayeti ile doğu bölgesi için erken uyarı sisteminin devreye alındığını duyurdu. Sivil Savunma Müdürlüğünün ABD merkezli X şirketinin sosyal medya platformundaki hesabından konuya ilişkin yazılı açıklama yapıldı, ayrıca cep telefonlarına saldırı uyarısı gönderildi. Açıklamada, doğu bölgesinde ve başkent Riyad'ın güneydoğusundaki Harc vilayetin",
+      "link": "https://www.milliyet.com.tr/dunya/suudi-arabistanda-husi-alarmi-erken-uyari-sistemi-devreye-alindi-7688302",
+      "published": "2026-10-27T02:09:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T02:10:47.757255+00:00"
+    },
     {
       "id": "0a9eeb1add650c92",
       "source": "Türkiye Gazetesi",
@@ -1832,6 +1843,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T22:40:46.463775+00:00"
+    },
+    {
+      "id": "f28ef67faaecaf25",
+      "source": "Habertürk",
+      "title": "Ürdün'den Kerek'teki saldırıya misilleme",
+      "summary": "Ürdün ordusunun Kerek'teki kilise saldırısına misilleme kapsamında Suriye'nin güneyindeki \"terör örgütü\" hedeflerine yönelik hava harekatı düzenlediği bildirildi. Suriye hükümeti ise hava saldırıları öncesinde bu ülke ile koordinasyon sağlanmadığını bildirdi.",
+      "link": "https://www.haberturk.com/dunya/urdun-den-kerek-teki-saldiriya-misilleme-3922765",
+      "published": "2026-10-26T22:37:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-27T02:10:40.640510+00:00"
     },
     {
       "id": "8f73fc4e0f657f91",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-26T20:25:57.210397+00:00"
-    },
-    {
-      "id": "82b42b693f279714",
-      "source": "Serbestiyet",
-      "title": "Fon skandalında Eski SPK Daire Başkanı Erman Çete tutuklandı",
-      "summary": "Fon skandalı kapsamında gözaltına alınan eski Sermaye Piyasası Kurulu (SPK) Daire Başkanı Erman Çete tutuklandı. Fon skandalında Eski SPK Daire Başkanı Erman Çete tutuklandı yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/featured/fon-skandalinda-eski-spk-daire-baskani-erman-cete-tutuklandi-252283/",
-      "published": "2026-10-26T20:20:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T20:26:04.228755+00:00"
-    },
-    {
-      "id": "c3d71ac0d3888885",
-      "source": "Serbestiyet",
-      "title": "Fon skandalında Eski SPK Daire Başkanı Erman Çete tutuklandı",
-      "summary": "Fon skandalı kapsamında gözaltına alınan eski Sermaye Piyasası Kurulu (SPK) Daire Başkanı Erman Çete tutuklandı. Fon skandalında Eski SPK Daire Başkanı Erman Çete tutuklandı yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/uncategorized/fon-skandalinda-eski-spk-daire-baskani-erman-cete-tutuklandi-252283/",
-      "published": "2026-10-26T20:20:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-26T20:20:58.279525+00:00"
     }
   ]
 }

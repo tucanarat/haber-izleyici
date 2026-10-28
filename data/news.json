@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-10-28T23:35:51.313202+00:00",
+  "last_updated": "2026-10-28T23:41:04.041526+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 462,
+  "new_items_this_run": 465,
   "items": [
+    {
+      "id": "2b93f47ddc135fa0",
+      "source": "Türkiye Gazetesi",
+      "title": "YKS, KPSS ve AGS tarihleri belli oldu",
+      "summary": "ÖSYM, 2027 sınav takvimini açıkladı. YKS 19-20 Haziran’da yapılacak, başvurular 4 Şubat’ta başlayacak. KPSS ve MEB-AGS’nin de tarihleri belli oldu.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/sinav-takvimi-aciklandi-yks-kpss-ve-ags-tarihleri-belli-oldu-1825805",
+      "published": "2026-10-28T23:35:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T23:40:40.910175+00:00"
+    },
+    {
+      "id": "4c60b8bf8766acaa",
+      "source": "Türkiye Gazetesi",
+      "title": "Devamsızlığa karşı yeni adım atılıyor",
+      "summary": "MEB, devamsızlığı azaltmak ve eğitimden kopma riski taşıyan öğrencileri okula kazandırmak için yeni bir takip mekanizması oluşturacak. 2027 programında okul öncesi eğitime erişimin artırılması ve öğrenciler arasındaki başarı farklarının azaltılması da hedefleniyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/devamsizliga-karsi-yeni-adim-atiliyor-riskli-ogrenciler-takibe-alinacak-1825803",
+      "published": "2026-10-28T23:35:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T23:40:40.910206+00:00"
+    },
+    {
+      "id": "4c60b8bf8766acaa",
+      "source": "Türkiye Gazetesi",
+      "title": "Devamsızlığa karşı yeni adım atılıyor",
+      "summary": "MEB, devamsızlığı azaltmak ve eğitimden kopma riski taşıyan öğrencileri okula kazandırmak için yeni bir takip mekanizması oluşturacak. 2027 programında okul öncesi eğitime erişimin artırılması ve öğrenciler arasındaki başarı farklarının azaltılması da hedefleniyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/devamsizliga-karsi-yeni-adim-atiliyor-riskli-ogrenciler-takibe-alinacak-1825803",
+      "published": "2026-10-28T23:35:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T23:40:40.910230+00:00"
+    },
     {
       "id": "d891665e940ba805",
       "source": "OdaTV",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T18:50:41.321505+00:00"
-    },
-    {
-      "id": "599178ed67fc82d4",
-      "source": "Cumhuriyet",
-      "title": "Taraftarlar kararını verdi: Tarihin en iyi Ballon d'Or'u belli oldu!",
-      "summary": "Portekizli Futbolcu Cristiano Ronaldo, Ballon d'Or'un 70. yılı kapsamında düzenlenen \"Ballon d'Or of All Time\" (BOAT) oylamasında birinci sırada çıkan isim oldu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/taraftarlar-kararini-verdi-tarihin-en-iyi-ballon-d-or-u-belli-oldu-2551192",
-      "published": "2026-10-28T18:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T18:45:38.640798+00:00"
-    },
-    {
-      "id": "5998477513992d16",
-      "source": "Aydınlık",
-      "title": "Mustafa Sarıgül hakkındaki cinsel saldırı ve istismar soruşturması: 10 kişi hakkında gözaltı kararı",
-      "summary": "Mustafa Sarıgül hakkındaki cinsel saldırı ve istismar iddialarına ilişkin soruşturmada 10 kişi hakkında gözaltı kararı verildi. Karar kapsamındaki kişiler arasında bir berber ile geçmişte istismara uğradıkları öne sürülen iki kardeşin de bulunduğu bildirildi.",
-      "link": "https://www.aydinlik.com.tr/haber/mustafa-sarigul-hakkindaki-cinsel-saldiri-ve-istismar-sorusturmasi-10-kisi-hakkinda-gozalti-karari-596577",
-      "published": "2026-10-28T18:43:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T18:50:48.203389+00:00"
-    },
-    {
-      "id": "f51676841ebc0753",
-      "source": "Evrensel",
-      "title": "Bursa'da 2 gündür haber alınamayan kişiyi arama çalışmaları sürüyor",
-      "summary": "Bursa'nın İnegöl ilçesinde 2 gündür kendisinden haber alınamayan Emrah Gedik'i bulmak için yürütülen arama çalışmaları, arama kurtarma ekiplerince sürüyor.",
-      "link": "https://www.evrensel.net/haber/6007038/bursada-2-gundur-haber-alinamayan-kisiyi-arama-calismalari-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-28T18:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T19:01:04.066311+00:00"
     }
   ]
 }

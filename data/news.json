@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T00:35:50.193069+00:00",
+  "last_updated": "2026-10-28T00:40:58.110394+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,28 @@
   "total_items": 500,
   "new_items_this_run": 457,
   "items": [
+    {
+      "id": "20582b91b67433cf",
+      "source": "OdaTV",
+      "title": "Ateşkesi Melania Trump duyurdu",
+      "summary": "ABD Başkanı Donald Trump&#039;ın eşi Melania Trump, Ukrayna ile Rusya arasındaki ateşkesin Oleshky kentinin ötesine genişletildiğini duyurdu.",
+      "link": "https://www.odatv.com/guncel/ateskesi-melania-trump-duyurdu-120168564",
+      "published": "2026-10-28T00:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T00:40:46.012326+00:00"
+    },
+    {
+      "id": "0e5268e57091c8f5",
+      "source": "Habertürk",
+      "title": "Suriye ile Ürdün arasındaki sınır kapısı yeniden açılıyor",
+      "summary": "Suriye, ülkenin güneyindeki Nasib Sınır Kapısı'nın sabah saatlerinde yeniden açılacağını duyurdu",
+      "link": "https://www.haberturk.com/dunya/suriye-ile-urdun-arasindaki-sinir-kapisi-yeniden-aciliyor-3923087",
+      "published": "2026-10-28T00:32:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T00:40:35.175146+00:00"
+    },
     {
       "id": "3daa5359f19fa985",
       "source": "Karar",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T18:35:44.312500+00:00"
-    },
-    {
-      "id": "a87e6a6dd9bd183c",
-      "source": "Bloomberg HT",
-      "title": "Fon soruşturmasında 4 şüpheli hakimliğe sevk edildi",
-      "summary": "Sermaye piyasalarına yönelik yürütülen fon soruşturmasında gözaltına alınan 4 şüpheliden 2'si tutuklama talebiyle hakimliğe sevk edildi.",
-      "link": "https://www.bloomberght.com/fon-sorusturmasinda-4-supheli-hakimlige-sevk-edildi-3792703",
-      "published": "2026-10-27T18:33:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:45:55.115322+00:00"
-    },
-    {
-      "id": "ee1953f4f154747b",
-      "source": "Habertürk",
-      "title": "İsrail'deki seçimlere yoğun katılım",
-      "summary": "İsrail'de yapılan ve yüksek katılımlı geçen genel seçimlerde, sandıkların kapanmasına 4 saat kala oy kullananların oranı yüzde 66,7’ye ulaştı.",
-      "link": "https://www.haberturk.com/dunya/israil-deki-secimlere-yogun-katilim-3923056",
-      "published": "2026-10-27T18:32:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T18:40:34.627590+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-28T01:31:09.395412+00:00",
+  "last_updated": "2026-10-28T01:35:55.956474+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 466,
+  "new_items_this_run": 467,
   "items": [
+    {
+      "id": "f388293736ac4ee4",
+      "source": "BBC News Türkçe",
+      "title": "İsrail seçimleri: Partiler meclis çoğunluğunu sağlayamıyor",
+      "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu gösteriyor.",
+      "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T01:31:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T01:35:55.089364+00:00"
+    },
     {
       "id": "dc536ab5fd06cb36",
       "source": "BBC News Türkçe",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T19:15:46.615761+00:00"
-    },
-    {
-      "id": "218c7556e220814e",
-      "source": "Cumhuriyet",
-      "title": "22 yaşındaki genç kadın çatı katında ölü bulundu",
-      "summary": "Niğde’de 22 yaşındaki genç kadın bir binanın çatı katında ölü halde bulundu. Olayla ilgili başlatılan inceleme sürüyor.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/22-yasindaki-genc-kadin-cati-katinda-olu-bulundu-2550853",
-      "published": "2026-10-27T19:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T19:10:41.209846+00:00"
     }
   ]
 }

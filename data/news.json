@@ -1,12 +1,199 @@
 {
-  "last_updated": "2026-10-28T14:11:04.763781+00:00",
+  "last_updated": "2026-10-28T14:16:00.384014+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 499,
+  "new_items_this_run": 478,
   "items": [
+    {
+      "id": "726862776d6f26e9",
+      "source": "Akşam",
+      "title": "Süper Lig'de Ayari derbisi! Galatasaray ve Fenerbahçe karşı karşıya",
+      "summary": "Fenerbahçe ve Galatasaray'ın Brighton forması giyen İsveçli orta saha Yasin Ayari'yi transfer listesine aldığı iddia edildi. 23 yaşındaki futbolcuyla Avrupa'nın dev kulüplerinin de ilgilendiği öne sürüldü.",
+      "link": "https://www.aksam.com.tr/spor/super-ligde-ayari-derbisi-galatasaray-ve-fenerbahce-karsi-karsiya/haber-1710018",
+      "published": "2026-10-28T14:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:44.803425+00:00"
+    },
+    {
+      "id": "0f3fbd647aa68827",
+      "source": "Aydınlık",
+      "title": "Muğla'da sağanak: Yolları su bastı, deniz kahverengiye döndü",
+      "summary": "Bodrum, Marmaris ve Dalaman&#039;da etkili olan sağanak yolları ve tarım arazilerini su altında bıraktı; Bodrum&#039;da 4 ev ve iş yerini su bastı. Marmaris kıyılarında deniz çamurlu sular nedeniyle kahverengiye döndü.",
+      "link": "https://www.aydinlik.com.tr/haber/muglada-saganak-bodrum-marmaris-ve-dalamanda-etkili-596537",
+      "published": "2026-10-28T14:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:47.060112+00:00"
+    },
+    {
+      "id": "9e6d7ad0497faaa3",
+      "source": "Yeni Şafak",
+      "title": "İzmir’de zıplayan Yahudiler görüntülendi: Nasıl bir model olduklarını anlayamadık",
+      "summary": "İzmir’in Konak ilçesinde bir grup Yahudi, Gürçeşme Musevi Mezarlığı çevresinde zıplarken görüntülendi. O anları kayda alan bir vatandaş, “Nasıl bir model olduklarını anlayamadık valla” ifadelerini kullandı. Görüntüler daha sonra sosyal medyada paylaşıldı.",
+      "link": "https://www.yenisafak.com/video/gundem/izmirde-ziplayan-yahudiler-goruntulendi-nasil-bir-model-olduklarini-anlayamadik-4868020",
+      "published": "2026-10-28T14:14:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:45.414152+00:00"
+    },
+    {
+      "id": "b51a8e27f4ab9a76",
+      "source": "Milliyet",
+      "title": "Son dakika... Cumhurbaşkanı Erdoğan’dan İspanya’daki tren kazası sonrası geçmiş olsun mesajı",
+      "summary": "Cumhurbaşkanı Erdoğan, kazadan etkilenenlere geçmiş olsun dileklerini iletirken, hayatını kaybedenlerin yakınlarının acısını paylaştığını belirtti. Cumhurbaşkanı Erdoğan, mesajında şu ifadeleri kullandı; \"Dost İspanya’da bu sabah meydana gelen tren kazasından etkilenenlere geçmiş olsun dileklerimi iletiyorum. Kazada yakınlarını kaybedenlerin acısını ülkem ve milletim adına yürekten paylaşıyor, İsp",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-ispanyadaki-tren-kazasi-sonrasi-gecmis-olsun-mesaji-7689560",
+      "published": "2026-10-28T14:14:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:44.190631+00:00"
+    },
+    {
+      "id": "c14ede2766e9ddc9",
+      "source": "Star",
+      "title": "Cumhurbaşkanı Erdoğan'dan İspanya'daki tren kazası için taziye mesajı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İspanya'da meydana gelen tren kazasının ardından taziye mesajı yayımladı. Erdoğan, kazadan etkilenenlere geçmiş olsun dileklerini ileterek hayatını kaybedenlerin yakınlarına başsağlığı dileğinde bulundu.",
+      "link": "https://www.star.com.tr/guncel/cumhurbaskani-erdogandan-ispanyadaki-tren-kazasi-icin-taziye-mesaji-haber-2049742/",
+      "published": "2026-10-28T14:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:45.763158+00:00"
+    },
+    {
+      "id": "80bfb02c33969749",
+      "source": "Karar",
+      "title": "MLSA, X hesabına getirilen erişim engelini AYM’ye taşıdı",
+      "summary": "Medya ve Hukuk Çalışmaları Derneği (MLSA), kurumsal X hesabına getirilen erişim engeline karşı Anayasa Mahkemesi’ne (AYM) bireysel başvuruda bulundu. Başvuruda, kararın somut gerekçeler içermediği ve hesabın tamamını kapsayan kısıtlamanın ifade, basın ve örgütlenme özgürlükleri ile kamuoyunun bilgiye erişim hakkını ihlal ettiği belirtildi.",
+      "link": "https://www.karar.com/guncel-haberler/mlsa-x-hesabina-getirilen-erisim-engelini-aymye-tasidi-2081127",
+      "published": "2026-10-28T14:13:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:46.386353+00:00"
+    },
+    {
+      "id": "bece8414e2fb747a",
+      "source": "Akşam",
+      "title": "İsrail ateşkesi yine dinlemedi! Lübnan'ın güneyine topçu saldırısı",
+      "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere topçu saldırılarını sürdürdü.",
+      "link": "https://www.aksam.com.tr/dunya/israil-ateskesi-yine-dinlemedi-lubnanin-guneyine-topcu-saldirisi/haber-1710017",
+      "published": "2026-10-28T14:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:44.803455+00:00"
+    },
+    {
+      "id": "8b12fc3b28f8bf9b",
+      "source": "Karar",
+      "title": "Fenerbahçe, Göztepe maçına Dirk Kuyt yönetiminde hazırlandı",
+      "summary": "İsmail Kartal ile yollarını ayıran Fenerbahçe, Cumartesi akşamı oynanacak olan Göztepe karşılaşmasına Dirk Kuyt yönetiminde hazırlandı.",
+      "link": "https://www.karar.com/spor-haberleri/fenerbahce-goztepe-macina-dirk-kuyt-yonetiminde-hazirlandi-2081126",
+      "published": "2026-10-28T14:12:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:46.386386+00:00"
+    },
+    {
+      "id": "c42f2be5c4f2b7ec",
+      "source": "Karar",
+      "title": "Halk TV Yönetim Kurulu Başkanı Mahiroğlu kayyum sürecini anlattı: Bugünlerin uzak olmadığını biliyordum",
+      "summary": "Halk TV Yönetim Kurulu Başkanı Cafer Mahiroğlu, hakkında çıkarılan yakalama kararı ve Halk TV’ye kayyum atanmasına ilişkin yeni bir açıklama yaptı. Sürecin işaretlerini daha önceden gördüğünü savunan Mahiroğlu, buna rağmen mal varlığını elden çıkarmadığını belirterek, “Varsa da bir hatam, adil bir yargı önünde hesabını seve seve veririm” dedi.",
+      "link": "https://www.karar.com/guncel-haberler/halk-tv-yonetim-kurulu-baskani-mahiroglu-kayyum-surecini-anlatti-2081125",
+      "published": "2026-10-28T14:12:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:46.386428+00:00"
+    },
+    {
+      "id": "1200d98f88ce8e1b",
+      "source": "LOG",
+      "title": "Manyetik anahtarlı Razer Reclusa Mini 65% tanıtıldı",
+      "summary": "Hall Effect manyetik anahtarlar üzerine kurulan Razer Reclusa Mini 65%, adından da anlaşılacağı üzere yüzde 65 düzeninde bir klavye ve Rapid Trigger ile 0,1-4,0 mm arasında ayarlanabilen tetikleme noktası gibi önemli özelliklerle geliyor. Anahtarları rahatlıkla değiştirilebilen oyun odaklı yeni klavye, Razer HyperSpeed Wireless, Bluetooth ve kablolu olmak üzere üç bağlantı seçeneği sunuyor. Razer ",
+      "link": "https://www.log.com.tr/manyetik-anahtarli-razer-reclusa-mini-65-tanitildi/",
+      "published": "2026-10-28T14:12:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:56.596777+00:00"
+    },
+    {
+      "id": "6f3bf9224b59033d",
+      "source": "Akşam",
+      "title": "Başkan Erdoğan'dan İspanya'daki tren kazasında hayatını kaybedenler için taziye mesajı",
+      "summary": "Başkan Erdoğan, İspanya'daki tren kazasında hayatını kaybedenler için taziye mesajı yayımladı.",
+      "link": "https://www.aksam.com.tr/guncel/baskan-erdogandan-ispanyadaki-tren-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji/haber-1710016",
+      "published": "2026-10-28T14:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:44.803481+00:00"
+    },
+    {
+      "id": "ad8b817e0c4fbf6a",
+      "source": "Star",
+      "title": "Geçmeyen öksürüğün sebebi boğaz reflüsü olabilir! İşte dikkat etmeniz gereken 3 belirti",
+      "summary": "Haftalardır devam eden öksürüğün nedeni her zaman soğuk algınlığı olmayabilir. Mide içeriğinin boğaza kadar yükselmesiyle ortaya çıkan boğaz reflüsü, özellikle kuru öksürük, boğazda gıcık ve ses kısıklığı gibi belirtilerle kendini gösterebiliyor.",
+      "link": "https://www.star.com.tr/ekstra/gecmeyen-oksurugun-sebebi-bogaz-reflusu-olabilir-iste-dikkat-etmeniz-gereken-3-belirti-haber-2049741/",
+      "published": "2026-10-28T14:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:45.763196+00:00"
+    },
+    {
+      "id": "20be9d6578276793",
+      "source": "Bianet",
+      "title": "Yusuf Tekin istifa\" pankartı nedeniyle tutuklanan iki öğrenci tahliye edildi",
+      "summary": "",
+      "link": "https://bianet.org/haber/yusuf-tekin-istifa-pankarti-nedeniyle-tutuklanan-iki-ogrenci-tahliye-edildi-324885",
+      "published": "2026-10-28T14:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:48.737212+00:00"
+    },
+    {
+      "id": "439f271bbaadca33",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Dünya Bankası, emtia fiyatlarının 2026'da yüzde 23 artmasını bekliyor",
+      "summary": "Dünya Bankası, küresel şokların artmasıyla emtia fiyatlarının 2026'da yüzde 23,1 yükselmesinin beklendiğini bildirdi.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-emtia-fiyatlarinin-2026da-yuzde-23-artmasini-bekliyor/4103965",
+      "published": "2026-10-28T14:11:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:39.339780+00:00"
+    },
+    {
+      "id": "19ac2d2791b6a7ba",
+      "source": "Diken",
+      "title": "İsrail seçimleri: Netanyahu'nun bloğu önde, Arap partileri belirleyici olacak",
+      "summary": "İsrail seçimleri: Netanyahu'nun bloğu önde, Arap partileri belirleyici olacak 28.10.2026 Diken İsrail'de Türkiye saatiyle (TSİ) 17:00 itibarıyla parlamento seçimi oylarının yüzde 86'sı sayıldı. The post İsrail seçimleri: Netanyahu'nun bloğu önde, Arap partileri belirleyici olacak appeared first on #site_linkat 28.10.2026 .",
+      "link": "https://www.diken.com.tr/israil-secimleri-netanyahunun-blogu-onde-arap-partileri-belirleyici-olacak/?utm_source=rss&utm_medium=rss&utm_campaign=israil-secimleri-netanyahunun-blogu-onde-arap-partileri-belirleyici-olacak",
+      "published": "2026-10-28T14:11:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:48.182150+00:00"
+    },
+    {
+      "id": "5942d3c78b63c5d9",
+      "source": "Yeni Yaşam",
+      "title": "Amed için kuvvetli sağanak uyarısı",
+      "summary": "Amed Büyükşehir Belediyesi, beş ilçe için kuvvetli sağanak uyarısı yaptı Amed Büyükşehir Belediyesi Çermûg, Şankuş, Erxenî, Hênê ve Pîran ilçelerinde yer yer çok kuvvetli sağanak yağış beklendiğini duyurdu. Belediye açıklamasında, “Meteoroloji Müdürlüğü’nde alınan bilgilere göre; 28 ve 29 Ekim tarihleri arasında yağış miktarının 12 saatte metrekareye 51–75 kilogram arasında olacağı tahmin ediliyor",
+      "link": "https://yeniyasamgazetesi9.com/amed-icin-kuvvetli-saganak-uyarisi/",
+      "published": "2026-10-28T14:11:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:52.562072+00:00"
+    },
+    {
+      "id": "d209543137a74f81",
+      "source": "Türkiye Gazetesi",
+      "title": "FİLM GİBİ OPERASYON!",
+      "summary": "İstanbul Pendik'te sağanak nedeniyle motosikletlerin kullanımı yasaklanınca yemek siparişini otomobille götürmeye çalışan kurye uğradığı silahlı saldırıda ağır yaralandı. Saldırganların kuryenin otomobilini, haraç istedikleri iş insanı E.Ş.'nin otomobili zannedip yaylım ateşine tuttukları öğrenildi. Şüphelilere yönelik düzenlenen ve film sahnelerini aratmayan operasyonda 15 kişi gözaltına alındı. ",
+      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/is-adami-zannedip-kuryeyi-vurdular-pendikte-filmleri-aratmayan-operasyonla-yakalandil-1825746",
+      "published": "2026-10-28T14:10:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:40.866350+00:00"
+    },
     {
       "id": "1058dee65054b786",
       "source": "Akşam",
@@ -831,6 +1018,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T13:55:41.589728+00:00"
+    },
+    {
+      "id": "ce517c2d7084fd13",
+      "source": "Finans Gündem",
+      "title": "İsrail'de Arap partileri koalisyon senaryolarını kilitledi",
+      "summary": "İsrail'de oyların %84.5'i sayıldı. Netanyahu'nun bloğu da Eisenkot liderliğindeki muhalefet de yeterli 61 sandalyeye ulaşamıyor. İki blog kendi aralarında koalisyona gitmemeleri halinde Arap partileriyle iş birliği yapmak zorunda. Ya da erken seçim...",
+      "link": "https://www.finansingundemi.com/haber/israilde-arap-partileri-koalisyon-senaryolarini-kilitledi/1912983",
+      "published": "2026-10-28T13:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:55.567346+00:00"
     },
     {
       "id": "9ff6ea0e0ddb129a",
@@ -2206,6 +2404,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T13:10:44.331180+00:00"
+    },
+    {
+      "id": "ec8ea7ebe63fa9a1",
+      "source": "Habertürk",
+      "title": "Muratpaşa Kaymakamı hayatını kaybetti",
+      "summary": "Antalya'nın Muratpaşa ilçesi Kaymakamı İhsan Kara, geçirdiği kalp krizi sonucu yaşamını yitirdi",
+      "link": "https://www.haberturk.com/gundem/muratpasa-kaymakami-ihsan-kara-hayatini-kaybetti-3923188",
+      "published": "2026-10-28T13:09:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T14:15:36.785504+00:00"
     },
     {
       "id": "27f8ceff3af24566",
@@ -5297,215 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T12:10:40.771643+00:00"
-    },
-    {
-      "id": "933a9be01756d2cd",
-      "source": "Ekonomim",
-      "title": "Tiroit nodülü saptanması tek başına kanser anlamına gelmez",
-      "summary": "Boyunda şişlik, yutma güçlüğü ve ses değişikliği gibi şikayetlerle kendini gösteren tiroit nodülleri hastalarda ilk etapta&quot;Kanser miyim?&quot; endişesi yaratıyor. Endokrinoloji Uzmanı Prof. Dr. Şefika Burçak Polat, her nodülün ameliyat gerektirmediğine dikkat çekerek hayati uyarılarda bulundu.",
-      "link": "https://www.ekonomim.com/saglik/tiroit-nodulu-saptanmasi-tek-basina-kanser-anlamina-gelmez-haberi-927622",
-      "published": "2026-10-28T12:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:16:00.944885+00:00"
-    },
-    {
-      "id": "9108ac7b74790f00",
-      "source": "Finans Gündem",
-      "title": "DenizBank'tan 29 Ekim Cumhuriyet Bayramı reklam filmi",
-      "summary": "DenizBank, 29 Ekim Cumhuriyet Bayramı için hazırladığı reklam filmini “Yolumuz Açık Olsun. Cumhuriyetimiz Kutlu Olsun!” mesajıyla yayımladı.",
-      "link": "https://www.finansingundemi.com/haber/denizbanktan-29-ekim-cumhuriyet-bayrami-reklam-filmi/1912975",
-      "published": "2026-10-28T12:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:11:00.131479+00:00"
-    },
-    {
-      "id": "7e8a76cf55fa3db9",
-      "source": "Yeni Yaşam",
-      "title": "Meclis’te bütçe görüşmeleri: Mekke Antlaşması yürürlüğe girdi, İzleme Komisyonu neden hala kurulmadı?",
-      "summary": "Meclis Plan ve Bütçe Komisyonu’nda konuşan DEM Parti Amed Milletvekili Ceylan Akça Cupolo, Mekke Anlaşması 75 günde uygulamaya girerken, Meclis İzleme Komisyonu&#8217;nun hala kurulmamasını eleştirdi Meclis Plan ve Bütçe Komisyonu’nda 2027 yılı bütçe görüşmeleri, barış süreci ve Mekke Savunma Anlaşması üzerinden yapılan eleştirilerle devam etti. Meclis Başkanı Numan Kurtulmuş, Meclis Başkanlığının",
-      "link": "https://yeniyasamgazetesi9.com/mecliste-butce-gorusmeleri-2nci-gununde/",
-      "published": "2026-10-28T12:05:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:10:55.665014+00:00"
-    },
-    {
-      "id": "06dc93c3ca0b25d6",
-      "source": "Akşam",
-      "title": "Dev geminin dünya turu kabusa döndü! Yolcular mahsur kaldı",
-      "summary": "Belfast'tan 3,5 yıllık dünya turu hedefiyle yola çıkan lüks yolcu gemisi Villa Vie Odyssey, küresel krizle birlikte artan yakıt maliyetleri nedeniyle faaliyetlerini askıya alırken, gemideki yolcular Kamboçya'da mahsur kaldı.",
-      "link": "https://www.aksam.com.tr/dunya/dev-geminin-dunya-turu-kabusa-dondu-yolcular-mahsur-kaldi/haber-1709955",
-      "published": "2026-10-28T12:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:39.365557+00:00"
-    },
-    {
-      "id": "0ffe5976cdc1dd0d",
-      "source": "Akşam",
-      "title": "Bulgaristan açıklarındaki gemiye İDA'lı saldırı",
-      "summary": "Bulgaristan'ın Karadeniz kıyıları açıklarında seyreden Liberya bayraklı konteyner gemisinin 3 insansız deniz aracıyla (İDA) düzenlenen saldırıda hedef alındığı bildirildi.",
-      "link": "https://www.aksam.com.tr/dunya/bulgaristan-aciklarindaki-gemiye-idali-saldiri/haber-1709954",
-      "published": "2026-10-28T12:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:39.365579+00:00"
-    },
-    {
-      "id": "1aee155212c4c7f0",
-      "source": "Independent Türkçe",
-      "title": "Norveç ve Finlandiya'nın Rusya teması ne anlama geliyor?",
-      "summary": "Finlandiya Cumhurbaşkanı Alexander Stubb ve Norveç Başbakanı Jonas Gahr Store'un Rusya Devlet Başkanı Vladimir Putin'le telefonda görüşmesi, Brüksel'in Kremlin'le temas kurma politikasına yönelik tartışmaları tekrar gündeme taşıdı. Stubb ve Store, 27 Ekim'de Putin'i arayarak Ukrayna savaşını sonlandırması çağrısında bulundu. Norveç hükümetine göre 20 dakika sürmesi planlanan görüşme 90 dakika deva",
-      "link": "https://www.indyturk.com/node/784448/d%C3%BCnya/norve%C3%A7-ve-finlandiyan%C4%B1n-rusya-temas%C4%B1-ne-anlama-geliyor",
-      "published": "2026-10-28T12:04:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:31:07.667942+00:00"
-    },
-    {
-      "id": "a62ecd1c9d2e68ff",
-      "source": "Milliyet",
-      "title": "Kendisini öğretmen olarak tanıttı, dubleks evinin çatısında yakalandı!",
-      "summary": "Asayiş Şube Müdürlüğü ve Aranan Şahıslar Büro Amirliği ekipleri tarafından cezaları kesinleşen firari hükümlüleri yakalamak için çalışma başlatıldı. Bu kapsamda, 17 Şubat 2025'ten bu yana aranan Selda Ş.’in Ataşehir’de yaşadığı belirlendi. Aranan Şahıslar Büro Amirliği ekipleri yaptıkları çalışmada Selda Ş.’nin oturduğu evi tespit ederken, çevresinde kendisini öğretmen olarak tanıttığını da belirl",
-      "link": "https://www.milliyet.com.tr/gundem/kendisini-ogretmen-olarak-tanitti-dubleks-evinin-catisinda-yakalandi-7689427",
-      "published": "2026-10-28T12:03:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:38.623002+00:00"
-    },
-    {
-      "id": "3c37022b51b25b38",
-      "source": "Star",
-      "title": "Yakıt krizi dünya turunu vurdu! Yüzlerce yolcu Asya'da mahsur kaldı",
-      "summary": "Kuzey İrlanda'nın başkenti Belfast'tan dünya turu için yola çıkan Villa Vie Odyssey adlı lüks yolcu gemisi, yakıt maliyetlerindeki olağanüstü artış nedeniyle faaliyetlerini askıya alırken, yolcular Kamboçya'da mahsur kaldı.",
-      "link": "https://www.star.com.tr/dunya/yakit-krizi-dunya-turunu-vurdu-yuzlerce-yolcu-asyada-mahsur-kaldi-haber-2049707/",
-      "published": "2026-10-28T12:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:40.130937+00:00"
-    },
-    {
-      "id": "6ca231f8b0804b51",
-      "source": "Karar",
-      "title": "Aziz Yıldırım'ın çarptığı araba satışa çıkarıldı",
-      "summary": "Fenerbahçe Başkanı Aziz Yıldırım'ın dün akşam Samandıra Can Bartu Tesisleri çıkışında karıştığı trafik kazasındaki araç, satışa sunuldu.",
-      "link": "https://www.karar.com/spor-haberleri/aziz-yildirimin-carptigi-araba-satisa-cikarildi-2081097",
-      "published": "2026-10-28T12:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:41.164370+00:00"
-    },
-    {
-      "id": "af08906e4e15430e",
-      "source": "Habertürk",
-      "title": "AKO'dan “Güvenli Yol, Güçlü Kadın” projesi",
-      "summary": "AKO Grup, bünyesinde yer alan Türkiye’nin lider lastik markası Petlas ile kadınların yoldaki güvenliğini ve teknik becerilerini artıran “Güvenli Yol, Güçlü Kadın” projesini sürdürüyor. Kadın sürücülere araç bakımı, lastik değişimi ve yol güvenliği gibi kritik konularda pratik yetkinlik kazandıran proje, İstanbul ve Kırşehir’in ardından 22 Ekim’de Ankara’da Yenimahalle Belediyesi iş birliğiyle kadı",
-      "link": "https://www.haberturk.com/ekonomi/ako-grup-ve-petlastan-kadinlarin-yoldaki-ozguvenini-artiran-proje-3923193",
-      "published": "2026-10-28T12:02:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:10:35.258528+00:00"
-    },
-    {
-      "id": "83e44de15c766c59",
-      "source": "Aydınlık",
-      "title": "Sivas'ta baba, özel gereksinimli oğlunu okula ulaştırmak için ırmağı aşıyor",
-      "summary": "Sivas&#039;ın Kangal ilçesindeki Kavak köyünde yaşayan Servet Türkyılmaz, köprü yıkıldığı için 9 yaşındaki oğlu Mustafa Kemal&#039;i her gün sırtında ırmaktan geçirerek okul servisine ulaştırıyor. Aile, köprünün yeniden yapılmasını bekliyor.",
-      "link": "https://www.aydinlik.com.tr/haber/sivasta-baba-oglunu-okula-ulastirmak-icin-irmagi-geciyor-596521",
-      "published": "2026-10-28T12:02:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:42.510640+00:00"
-    },
-    {
-      "id": "5b1510e1237085d0",
-      "source": "Evrensel",
-      "title": "MLSA, X hesabına getirilen erişim engelini AYM'ye taşıdı: Hak ihlali kararı verilmesini istedi",
-      "summary": "MLSA, kurumsal X hesabına getirilen erişim engeline karşı AYM'ye başvurdu. Kararın somut gerekçelere dayanmadığını belirten dernek, ifade, basın ve örgütlenme özgürlüklerinin ihlal edildiğinin tespit edilmesini istedi.",
-      "link": "https://www.evrensel.net/haber/6006975/mlsa-x-hesabina-getirilen-erisim-engelini-aymye-tasidi-hak-ihlali-karari-verilmesini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-28T12:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:36.552726+00:00"
-    },
-    {
-      "id": "976630a5d7b54c5c",
-      "source": "Akşam",
-      "title": "\"Ölü Arının İğnesi\" filmi dünya prömiyerini yaptı!",
-      "summary": "Bu yıl 63'üncüsü düzenlenen Uluslararası Antalya Altın Portakal Film Festivali kapsamında Ulusal Uzun Metraj Film Yarışması'nda yer alan \"Ölü Arının İğnesi\" filminin dünya prömiyeri gerçekleştirildi.",
-      "link": "https://www.aksam.com.tr/sinema/olu-arinin-ignesi-filmi-dunya-promiyerini-yapti/haber-1709953",
-      "published": "2026-10-28T12:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:39.365597+00:00"
-    },
-    {
-      "id": "9f6ed336278056b6",
-      "source": "OdaTV",
-      "title": "Salah 'ikizi' ile buluştu",
-      "summary": "Trabzonspor&#039;un yıldız futbolcusu Muhammed Salah&#039;a benzerliğiyle TikTok&#039;ta viral olan Mısırlı Mo Fares, dünyaca ünlü futbolcuyla ilk kez buluştu.",
-      "link": "https://www.odatv.com/spor/muhammed-salah-ikizi-ile-bulustu-120168649",
-      "published": "2026-10-28T12:01:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:10:49.968480+00:00"
-    },
-    {
-      "id": "827b4f5e31993513",
-      "source": "Cumhuriyet",
-      "title": "Cildinizin ışıltısı tabağınızda saklı olabilir: Sağlıklı ve canlı bir cilt için tüketmeniz gereken 10 besin",
-      "summary": "Canlı ve aydınlık bir cilt için dış bakımın yanı sıra doğru beslenmek de önem taşıyor. Vitamin ve mineral bakımından zengin besinler, cilt sağlığını desteklemeye yardımcı olabilir.",
-      "link": "https://www.cumhuriyet.com.tr/yasam/cildinizin-isiltisi-tabaginizda-sakli-olabilir-saglikli-ve-canli-bir-cilt-icin-tuketmeniz-gereken-10-besin-2551057",
-      "published": "2026-10-28T12:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:33.929522+00:00"
-    },
-    {
-      "id": "ec7499196c5ee881",
-      "source": "ShiftDelete.Net",
-      "title": "PSN Hesaplarında Yeni Tehlike: Parola Değişimi Yetersiz Kalıyor",
-      "summary": "PSN hesaplarında parola değiştirilse bile passkey anahtarlarının aktif kalması ciddi bir güvenlik riski yaratıyor. İşte korunmak için yapmanız gerekenler.",
-      "link": "https://shiftdelete.net/psn-hesaplarinda-yeni-tehlike-parola-degisimi-yetersiz-kaliyor",
-      "published": "2026-10-28T12:00:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:01:28.963079+00:00"
-    },
-    {
-      "id": "85786ba29d9e91cd",
-      "source": "Türkiye Gazetesi",
-      "title": "HAYALİNİ GELİR KAPISI YAPTI!",
-      "summary": "Samsun'da yaşayan Burak ve Ebru Şahinkaya çifti, 50 kazla başladıkları kaz üreticiliğini 4 yılda genişleterek bugün 600 kaza ulaştı. Belediyenin de desteğiyle kooperatif kuracaklarını belirten Burak Şahinkaya “Damızlık işletme, kuluçhane ve kesimhane kurma projemiz var. Şu an için yavru satışı yapıyoruz. Hedefimiz, kazı et haline dönüştürmek” dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/cocukluk-hayalini-gelir-kapisi-yapti-50-kaz-ile-basladi-simdi-ciftligi-var-2027de-koo-1825716",
-      "published": "2026-10-28T12:00:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:35.876084+00:00"
-    },
-    {
-      "id": "e7a67b83fdd4c313",
-      "source": "Habertürk",
-      "title": "İsrail basını iddia etti: Trump Netanyahu'ya baskı uygulayacak",
-      "summary": "İsrail basınında yer alan habere göre, ülkede rekor katılım gerçekleşen seçimin ardından ABD Başkanı Trump'ın Netanyahu'yu muhalefetle ulusal birlik hükümeti kurmaya zorlayacağı iddia edildi",
-      "link": "https://www.haberturk.com/dunya/israil-basini-trump-netanyahu-yu-muhalefetle-ulusal-birlik-hukumeti-kurmaya-zorlayacak-3923187",
-      "published": "2026-10-28T12:00:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:10:35.258546+00:00"
-    },
-    {
-      "id": "1953eb0a3545efcc",
-      "source": "Webrazzi",
-      "title": "AIOps: Tech ekibinin 20 yıllık kıdemli mimarı",
-      "summary": "Yapay zekâ döneminde DevOps kavramı da değişiyor. Yazılımı geliştirenlerle onu güvenilir biçimde çalıştıran ekiplerin ortak sorumluluk almasına dayanan bu yaklaşım, şimdi yapay zekâ ajanlarıyla yeni b...",
-      "link": "https://webrazzi.com/2026/10/28/aiops-tech-ekibinin-20-yillik-kidemli-mimari/",
-      "published": "2026-10-28T12:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:01:24.276385+00:00"
     }
   ]
 }

@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-28T22:36:04.745417+00:00",
+  "last_updated": "2026-10-28T22:41:10.494333+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 469,
+  "new_items_this_run": 479,
   "items": [
+    {
+      "id": "f09c8fbd130fbd71",
+      "source": "Akşam",
+      "title": "Simeone Osimhen'i istiyor",
+      "summary": "Atletico Madrid Teknik Direktörü Diego Simeone, kırmızı-beyazlı yönetime, dünya çapında üst düzey yeni bir hücum referansını kadroya katma konusundaki acil ihtiyacını iletti. Simeone, bu doğrultuda aday olarak Osimhen'i gösterdi.",
+      "link": "https://www.aksam.com.tr/spor/simeone-osimheni-istiyor/haber-1710100",
+      "published": "2026-10-28T22:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T22:40:50.606623+00:00"
+    },
+    {
+      "id": "290a464f3b6f2bf6",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İçişleri Bakanı Çiftçi'den kuvvetli sağanak uyarısı",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Vatandaşlarımızdan, Meteoroloji Genel Müdürlüğümüzün ve AFAD'ımızın uyarılarına hassasiyetle riayet etmelerini, can ve mal güvenliklerini riske atabilecek durumlardan uzak durmalarını istirham ediyorum.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kuvvetli-saganak-uyarisi/4104421",
+      "published": "2026-10-28T22:37:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T22:40:43.514229+00:00"
+    },
     {
       "id": "00138e9045fe7dc4",
       "source": "Akşam",
@@ -17,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T22:35:33.891822+00:00"
+    },
+    {
+      "id": "f93fe1a366e113c6",
+      "source": "Habertürk",
+      "title": "Beşiktaş Olympiakos maç sonucu",
+      "summary": "EuroLeague 8. hafta maçında Beşiktaş, Olympiakos'u konuk etti. Beşiktaş Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 8. haftasında konuk ettiği Yunanistan temsilcisi Olympiakos'a 81-73 yenildi.",
+      "link": "https://www.haberturk.com/bilgi/foto/besiktas-olympiakos-mac-sonucu-besiktas-olympiakos-maci-kac-kac-bitti-3923252",
+      "published": "2026-10-28T22:34:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T22:40:40.321102+00:00"
     },
     {
       "id": "16d7c2bf84f10539",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T18:20:44.315007+00:00"
-    },
-    {
-      "id": "bfd52344fbd7b32e",
-      "source": "Evrensel",
-      "title": "Almanya'da öğrenciler bütçe kesintilerini protesto etti, hafta sonu eylemlerine çağrı yaptı",
-      "summary": "Almanya'nın Berlin ve Hamburg illerinde üniversite öğrencileri bütçe kesintilerini protesto etmek ve hafta sonu düzenlenmesi planlanan gösterilere dikkati çekmek amacıyla üniversite binalarının önünde eylem yaptı; bazı binaları işgal etti.",
-      "link": "https://www.evrensel.net/haber/6007035/almanya-da-ogrenciler-butce-kesintilerini-protesto-etti-hafta-sonu-eylemlerine-cagri-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-28T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T18:30:53.698816+00:00"
-    },
-    {
-      "id": "a8515a6acde01813",
-      "source": "Cumhuriyet",
-      "title": "Fed faiz kararını açıkladı",
-      "summary": "Fed, ekim ayı faiz kararında politika faizini beklentiler doğrultusunda yüzde 3,75-4 aralığında sabit tuttu. Karar, 10’a karşı 2 oyla alındı.",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/fed-faiz-kararini-acikladi-2551188",
-      "published": "2026-10-28T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T18:15:41.561235+00:00"
-    },
-    {
-      "id": "451b92d6df54afa2",
-      "source": "Aydınlık",
-      "title": "FED faiz kararı belli oldu! Sabit bırakıldı",
-      "summary": "FED faiz kararını açıkladı. ABD Merkez Bankası, faizi beklentiler dahilinde 3,75-4,00 aralığında sabit bıraktı.",
-      "link": "https://www.aydinlik.com.tr/haber/fed-faiz-karari-belli-oldu-sabit-birakildi-596575",
-      "published": "2026-10-28T18:09:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T18:10:52.586124+00:00"
     }
   ]
 }

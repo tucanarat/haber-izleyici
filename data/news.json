@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-28T03:41:08.082287+00:00",
+  "last_updated": "2026-10-28T03:46:00.699959+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 447,
+  "new_items_this_run": 446,
   "items": [
+    {
+      "id": "bb53dbf59eaa9414",
+      "source": "Habertürk",
+      "title": "Yol kenarında cansız beden bulundu",
+      "summary": "Ankara Polatlı'da yol kenarında cansız beden bulundu. Olayla ilgili soruşturma başlatıldı",
+      "link": "https://www.haberturk.com/gundem/polatli-da-yol-kenarinda-cansiz-beden-bulundu-3923088",
+      "published": "2026-10-28T03:36:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T03:45:34.908932+00:00"
+    },
     {
       "id": "748bebaaed9f65ee",
       "source": "OdaTV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T19:35:48.213032+00:00"
-    },
-    {
-      "id": "17585472a8704e7d",
-      "source": "DonanımHaber",
-      "title": "Dune 3'ten son fragman geldi: Üçlemenin epik finali 18 Aralık'ta vizyona girecek",
-      "summary": "Denis Villeneuve'ün Dune üçlemesini tamamlayacak olan Dune: Part Three'nin son fragmanı yayınlandı. Bu destansı üçlemeye epik bir final vadeden Dune 3, 18 Aralık'ta vizyona girecek.",
-      "link": "https://www.donanimhaber.com/dune-3-ten-son-fragman-geldi-uclemeye-epik-bir-final--212172",
-      "published": "2026-10-27T19:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T19:35:56.252547+00:00"
     }
   ]
 }

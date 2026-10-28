@@ -1,12 +1,254 @@
 {
-  "last_updated": "2026-10-28T12:55:56.952987+00:00",
+  "last_updated": "2026-10-28T13:01:35.933993+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 493,
+  "new_items_this_run": 500,
   "items": [
+    {
+      "id": "443c0ce1ccd6c28c",
+      "source": "BBC News Türkçe",
+      "title": "Brezilya'da seçimi kaybeden Flavio Bolsonaro ABD'ye gidiyor",
+      "summary": "Brezilya'da cumhurbaşkanlığı seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro ve ailesini ABD'ye taşıdığı düşünülen uçağın çarşamba sabahı Miami'ye varması bekleniyor.",
+      "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T13:00:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:34.977636+00:00"
+    },
+    {
+      "id": "4ebdbce942391a5c",
+      "source": "Cumhuriyet",
+      "title": "Gönüllerin efendisi: Sevdikleri için her şeyi göze alan, en romantik ve duygusal 5 burç",
+      "summary": "Aşkı ve ilişkileri hayatının merkezine koyan, sevdiklerinin mutluluğu için kendi konforundan kolayca vazgeçebilen bazı hassas ruhlar vardır. Karşısındaki insanı mutlu etmek için adeta şiir gibi yaşayan o romantik kalpler...",
+      "link": "https://www.cumhuriyet.com.tr/astroloji/gonullerin-efendisi-sevdikleri-icin-her-seyi-goze-alan-en-romantik-ve-duygusal-5-burc-2551098",
+      "published": "2026-10-28T13:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:09.317083+00:00"
+    },
+    {
+      "id": "6298ae03c226f4c7",
+      "source": "Akşam",
+      "title": "Müebbetle aranıyordu: Gayrimenkul çetesinin elebaşı yakalandı",
+      "summary": "İstanbul'da yaşlı ve yalnız yaşayan kişilerin değerli gayrimenkullerini tehdit, şantaj ve sahte belgelerle ele geçiren suç örgütünün elebaşı Ç.A., Şişli'de yakalandı. Müebbet ve 10 yıl hapis cezasıyla aranan hükümlünün örgütü, mağdurların kaçırılması ve ölümüyle sonuçlanan olaylarla gündeme gelmişti.",
+      "link": "https://www.aksam.com.tr/guncel/muebbetle-araniyordu-gayrimenkul-cetesinin-elebasi-yakalandi/haber-1709989",
+      "published": "2026-10-28T13:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:14.711009+00:00"
+    },
+    {
+      "id": "5cb457ba925c53b5",
+      "source": "Akşam",
+      "title": "Susuz Yaz dizisi ne zaman başlayacak? Susuz Yaz konusu ve oyuncu kadrosu!",
+      "summary": "Kanal D'de yayınlanacak Ay Yapım imzalı Susuz Yaz dizisi, ilk tanıtımının ardından gündeme geldi. Necati Cumalı'nın aynı adlı eserinden uyarlanan yapımın yayın tarihi, konusu ve oyuncu kadrosu merak ediliyor. Senaryosunu Sema Ergenekon'un kaleme aldığı dizinin yönetmenliğini Yusuf Pirhasan ve Mehmet Can Bindal üstleniyor. Peki, Susuz Yaz dizisi ne zaman başlayacak? İşte detaylar…",
+      "link": "https://www.aksam.com.tr/trend/susuz-yaz-dizisi-ne-zaman-baslayacak-susuz-yaz-konusu-ve-oyuncu-kadrosu/haber-1709988",
+      "published": "2026-10-28T13:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:14.711045+00:00"
+    },
+    {
+      "id": "728d80f5107b9e37",
+      "source": "Yeni Şafak",
+      "title": "İstanbul'da 3 mahallede alarm: 6 yapı için tahliye süreci başlatıldı",
+      "summary": "İstanbul Kadıköy'de yıkılma riski taşıyan 6 yapı için acil tahliye süreci başlatıldı. Üç mahallede bulunan ve can güvenliğini tehdit ettiği belirlenen yapılar için tebligat kararı beklenmeden harekete geçildi.",
+      "link": "https://www.yenisafak.com/gundem/istanbulda-3-mahallede-alarm-6-yapi-icin-tahliye-sureci-baslatildi-4867986",
+      "published": "2026-10-28T13:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:15.637116+00:00"
+    },
+    {
+      "id": "cdb01dfd1cbc6bf3",
+      "source": "Star",
+      "title": "Cumhurbaşkanı Erdoğan'ın 29 Ekim programı belli oldu",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında çeşitli programlara katılacak.",
+      "link": "https://www.star.com.tr/guncel/cumhurbaskani-erdoganin-29-ekim-programi-belli-oldu-haber-2049721/",
+      "published": "2026-10-28T13:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:15.942372+00:00"
+    },
+    {
+      "id": "339af504b8b46782",
+      "source": "Yeni Akit",
+      "title": "Başkan Erdoğan'ın 29 Ekim programı çok yoğun",
+      "summary": "Başkan Recep Tayyip Erdoğan'ın 29 Ekim programı belli oldu. Erdoğan yarın 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında çeşitli programlara katılacak.",
+      "link": "https://www.yeniakit.com.tr/haber/baskan-erdoganin-29-ekim-programi-cok-yogun-2030647.html",
+      "published": "2026-10-28T13:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:16.483912+00:00"
+    },
+    {
+      "id": "1ad14467b47c6fde",
+      "source": "Webrazzi",
+      "title": "Guidewire, yapay zeka girişimi Hyperexponential'ı 1,7 milyar dolara satın alıyor",
+      "summary": "Sigorta teknolojileri şirketi Guidewire, sigorta şirketlerinin riskleri değerlendirmesine ve fiyat belirlemesine yardımcı olan Hyperexponential'ı 1,7 milyar dolara satın alıyor. Guidewire, satın almay...",
+      "link": "https://webrazzi.com/2026/10/28/guidewire-yapay-zeka-girisimi-hyperexponentiali-17-milyar-dolara-satin-aliyor/",
+      "published": "2026-10-28T13:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:29.925609+00:00"
+    },
+    {
+      "id": "e02fc916f80e4a2f",
+      "source": "Diken",
+      "title": "Tarım bakanlığı: Üç bal taklit veya tağşiş",
+      "summary": "Tarım bakanlığı: Üç bal taklit veya tağşiş 28.10.2026 Diken Tarım ve Orman Bakanlığı üç bal markasının taklit-tağşiş ürün olduğunu duyurdu. The post Tarım bakanlığı: Üç bal taklit veya tağşiş appeared first on #site_linkat 28.10.2026 .",
+      "link": "https://www.diken.com.tr/tarim-bakanligi-uc-bal-taklit-veya-tagsis-5/?utm_source=rss&utm_medium=rss&utm_campaign=tarim-bakanligi-uc-bal-taklit-veya-tagsis-5",
+      "published": "2026-10-28T12:59:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:19.447118+00:00"
+    },
+    {
+      "id": "3fa7dd5faa06e0b2",
+      "source": "Karar",
+      "title": "Türkiye’den genç buz hokeyciler, son Avrupa şampiyonunu mağlup etti",
+      "summary": "Farklı kulüplerden bir araya gelen genç sporcular, Avrupa’nın güçlü buz hokeyi takımlarına karşı mücadele etti. Türkiye’yi temsil eden POBE Hockey’in 10 oyuncusu 20 gol kaydederken, 3 golün sahibi 11 yaşındaki sporcu Mateo İnce’nin performansı da dikkat çekti.",
+      "link": "https://www.karar.com/spor-haberleri/turkiyeden-genc-buz-hokeyciler-son-avrupa-sampiyonunu-maglup-etti-2081109",
+      "published": "2026-10-28T12:59:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:16.915307+00:00"
+    },
+    {
+      "id": "ed230a9125f5cf7c",
+      "source": "Cumhuriyet",
+      "title": "İsrail'de Netanyahu için tehlike çanları: 61 sandalye hesabı çıkmaza girdi",
+      "summary": "İsrail'de genel seçimlerin ardından oy sayımı sürerken Başbakan Binyamin Netanyahu'nun liderliğindeki blok, hükümet kurmak için gerekli çoğunluğun altında kaldı. Sandıkların yüzde 85,6'sının sayıldığı kısmi sonuçlara göre Netanyahu yanlısı blok 53, muhalefet bloku 48, Arap partileri ise 19 milletvekilliği kazanıyor.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/israil-de-netanyahu-icin-tehlike-canlari-61-sandalye-hesabi-cikmaza-girdi-2551099",
+      "published": "2026-10-28T12:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:09.317116+00:00"
+    },
+    {
+      "id": "90148ab0ca182307",
+      "source": "Cumhuriyet",
+      "title": "İspanya'daki tren faciasının ardından Özgür Özel'den Pedro Sánchez'e taziye mesajı",
+      "summary": "YENİ Parti Genel Başkanı Özgür Özel, İspanya'da çok sayıda kişinin yaşamını yitirdiği tren kazasının ardından Başbakan Pedro Sánchez'e taziye mesajı gönderdi. Özel, İspanya halkıyla dayanışma içinde olduklarını belirterek, \"Yaraların sarılması için her türlü desteğe hazır bulunduğumuzu bilmenizi isterim\" ifadelerini kullandı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/ispanya-daki-tren-faciasinin-ardindan-ozgur-ozel-den-pedro-sanchez-e-taziye-mesaji-2551100",
+      "published": "2026-10-28T12:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:09.317155+00:00"
+    },
+    {
+      "id": "cb2fe5d71de99fa4",
+      "source": "Star",
+      "title": "Bakırköy'de maaile vurgun: Başkanın babası ve dayısı da gözaltına alındı",
+      "summary": "Bakırköy Cumhuriyet Başsavcılığı'nca, Bakırköy Belediyesine yönelik, yürütülen ihale usulsüzlüğü soruşturmasında, gözaltına alınan isimler ortaya çıktı. Bir kısım şüpheliler arasında yer alan, Bakırköy Belediye Başkanı Ayşegül Ovalıoğlu'nun dayısı Metin Soğuksu, 'irtikap', suçundan, Ovalıoğlu'nun babası Mustafa Özdemir ise, 'ihaleye fesat karıştırma' ile 'irtikap' suçlarından gözaltına alındığı or",
+      "link": "https://www.star.com.tr/guncel/bakirkoyde-maaile-vurgun-baskanin-babasi-ve-dayisi-da-gozaltina-alindi-haber-2049720/",
+      "published": "2026-10-28T12:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:15.942408+00:00"
+    },
+    {
+      "id": "accd2026bba47323",
+      "source": "Yeni Akit",
+      "title": "Erdoğan tüm planları yıktı: Acilen anti-Türkiye ittifakı kurulmalı",
+      "summary": "İsrail ordusundan emekli Yarbay Amit Yagur, Maariv gazetesindeki analizinde Türkiye’nin Doğu Akdeniz’deki kararlı hamleleriyle Washington, Tel Aviv ve Yeni Delhi hattının tüm küresel planlarını tamamen altüst ettiğini itiraf etti. Erdoğan liderliğindeki Türkiye’nin Mavi Vatan doktriniyle Batı hegemonyasını kilitlediğini belirten siyonist komutan, acilen kapsamlı bir anti-Türkiye ittifakı kurulması",
+      "link": "https://www.yeniakit.com.tr/haber/erdogan-tum-planlari-yikti-acilen-anti-turkiye-ittifaki-kurulmali-2030646.html",
+      "published": "2026-10-28T12:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:16.483946+00:00"
+    },
+    {
+      "id": "5941043aba92f261",
+      "source": "Cumhuriyet",
+      "title": "LÖSEV anneleri Cumhuriyet Bayramı’nı birlikte kutladı: Kanserle savaşan Cumhuriyet kadınları!",
+      "summary": "LÖSEV, Cumhuriyet’in 103. yılını, lösemi ve kanser ile savaşan evlatları için mücadeleden vazgeçmeyen annelerle kutladı. LÖSANTE Hastanesi’nde düzenlenen özel program, duygu dolu anlara sahne oldu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/losev-anneleri-cumhuriyet-bayrami-ni-birlikte-kutladi-kanserle-savasan-cumhuriyet-kadinlari-2551097",
+      "published": "2026-10-28T12:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:09.317177+00:00"
+    },
+    {
+      "id": "4ab132045a18c906",
+      "source": "DonanımHaber",
+      "title": "Tiggo 7’nin daha maceracı kardeşi tanıtıldı: İşte yeni Chery Tiggo X7",
+      "summary": "Chery Tiggo X7, hibrit motorları ve dört tekerlekten çekiş seçeneğiyle geliyor. Yeni SUV, 700 mm sudan geçiş kapasitesi ve altı arazi moduyla aile kullanımını doğa yolculuklarıyla birleştiriyor.",
+      "link": "https://www.donanimhaber.com/chery-den-yeni-suv-ailesi-ilk-model-tiggo-x7-oldu--212210",
+      "published": "2026-10-28T12:58:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:32.266698+00:00"
+    },
+    {
+      "id": "105472428e944652",
+      "source": "Karar",
+      "title": "Cem Akaş ve oğlu Can Akaş neden öldü? Elektronik sigara uyarısı sonrası Edebiyat dünyasını yıkan vefat!",
+      "summary": "Can Yayınları Genel Yayın Yönetmeni ve ünlü yazar Cem Akaş kanser nedeniyle hayatını kaybetti. Akaş'ın vefatı, henüz 19 yaşında elektronik sigaraya bağlı kalp yetmezliği sonucu vefat eden oğlu Can Akaş'ın ölümünden sadece günler sonra gerçekleşti. Edebiyat dünyasını yasa boğan baba-oğulun art arda ölümü ve elektronik sigara uyarısının detayları haberimizde.",
+      "link": "https://www.karar.com/guncel-haberler/cem-akas-ve-oglu-can-akas-neden-oldu-elektronik-sigara-uyarisi-sonrasi-2081108",
+      "published": "2026-10-28T12:57:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:16.915348+00:00"
+    },
+    {
+      "id": "9239afb57b3e9056",
+      "source": "Cumhuriyet",
+      "title": "Ahmet Ümit: 'Gerçek dünya, polisiye romanlardaki cinayetlerden çok daha acımasız'",
+      "summary": "Samsun Kitap Fuarı’nda okurlarıyla buluşan yazar Ahmet Ümit, gerçek hayatın kurgudan daha karanlık olduğunu belirterek “İnsanlar birbirlerini düşünceleri, inançları, ideolojileri ve ırkları farklı diye öldürmeye devam ediyor” dedi. Ümit, romanlarını okurlarıyla dostlarıyla konuşur gibi yazdığını söyledi.",
+      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/ahmet-umit-gercek-dunya-polisiye-romanlardaki-cinayetlerden-cok-daha-acimasiz-2551096",
+      "published": "2026-10-28T12:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:09.317202+00:00"
+    },
+    {
+      "id": "f3e2a82a1c769450",
+      "source": "Ekonomim",
+      "title": "Cumhurbaşkanı Erdoğan'ın 29 Ekim programı belli oldu",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında çeşitli programlara katılacak.",
+      "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdoganin-29-ekim-programi-belli-oldu-haberi-927633",
+      "published": "2026-10-28T12:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:26.882791+00:00"
+    },
+    {
+      "id": "fd721c1a07c78432",
+      "source": "Aydınlık",
+      "title": "Seramik sektörünün dev buluşması UNICERA İstanbul için geri sayım başladı",
+      "summary": "Seramik, banyo ve mutfak sektörlerinin uluslararası buluşma noktası UNICERA İstanbul, 2-6 Kasım 2026 tarihlerinde İstanbul Fuar Merkezi’nde 37’nci kez kapılarını açacak.",
+      "link": "https://www.aydinlik.com.tr/haber/seramik-sektorunun-dev-bulusmasi-unicera-istanbul-icin-geri-sayim-basladi-596529",
+      "published": "2026-10-28T12:56:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:18.231506+00:00"
+    },
+    {
+      "id": "4366cd6d698f89e5",
+      "source": "Cumhuriyet",
+      "title": "29 Ekim Kadınları Derneği’nden ‘Halkçı Cumhuriyet’ vurgusu: İnşa etmek sorumluluğundayız",
+      "summary": "29 Ekim Kadınları Derneği Cumhuriyetin 103. yıldönümüne ilişkin yayımladığı mesajda “halkçı cumhuriyet” vurgusu yaptı. Dernek Başkanı Şenal Sarıhan, “Sorunları aşmanın yolu, eşitliği ve birliği sağlamakla olanaklıdır. Vatanımızda başı dik ve refah içinde yaşamamız, ürettiğimiz tüm değerleri kardeşçe bölüşmemiz için bilime dayanan halkçı bir cumhuriyeti inşa etmek sorumluluğundayız”",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/29-ekim-kadinlari-dernegi-nden-halkci-cumhuriyet-vurgusu-insa-etmek-sorumlulugundayiz-2551095",
+      "published": "2026-10-28T12:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:09.317229+00:00"
+    },
+    {
+      "id": "f82f7a0f4e4bba6d",
+      "source": "Aydınlık",
+      "title": "Yemen Ordusu ilerliyor: Suudi Savunma Bakanlığı ve Aden hedef alındı",
+      "summary": "Savunma Bakanlığı dışında Suudi haavalimanları, petrol rafinerileri ve kukla hükümetin başkenti Aden, Yemen&#039;in hedefindeydi. Yemen Ordusu, Suudilerin vekillerinin Babülmendep&#039;in güneyinden başlattığı saldırıyı da püskürttü.",
+      "link": "https://www.aydinlik.com.tr/haber/husiler-ilerliyor-suudi-savunma-bakanligi-ve-aden-hedef-alindi-596528",
+      "published": "2026-10-28T12:56:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:18.231538+00:00"
+    },
     {
       "id": "4d8bdf04418d705a",
       "source": "ShiftDelete.Net",
@@ -17,6 +259,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T12:55:53.075466+00:00"
+    },
+    {
+      "id": "abb5bbac9f702c8e",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Antalya'da hortum nedeniyle parçalanan iki konteynerdeki 4 kişinin ölümüne ilişkin 2 zanlı tutuklandı",
+      "summary": "Antalya'nın Kepez ilçesinde hortum nedeniyle iki konteynerin parçalanması sonucu 4 kişinin hayatını kaybettiği, 1 kişinin yaralandığı olaya ilişkin gözaltına alınan 4 şüpheliden 2'si tutuklandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/antalyada-hortum-nedeniyle-parcalanan-iki-konteynerdeki-4-kisinin-olumune-iliskin-2-zanli-tutuklandi/4103843",
+      "published": "2026-10-28T12:55:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:08.973325+00:00"
+    },
+    {
+      "id": "01479b093133d88d",
+      "source": "Cumhuriyet",
+      "title": "Evindeki saksıya ektiği tohum hayatını değiştirdi! Gramı 900 TL'ye satılıyor...",
+      "summary": "Adana'nın Kozan ilçesinde bir saksıda başlayan safran üretimini 20 yılda iki dönümlük araziye taşıyan üretici, bu sene de hasada başladı",
+      "link": "https://www.cumhuriyet.com.tr/yasam/evindeki-saksiya-ektigi-tohum-hayatini-degistirdi-grami-900-tl-ye-satiliyor-2551094",
+      "published": "2026-10-28T12:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:09.317247+00:00"
+    },
+    {
+      "id": "a163128872ac6289",
+      "source": "Euronews Türkçe",
+      "title": "Altın Palmiye’li İranlı yönetmen Cafer Penahi, yeni kararla 5 yıl hapisle karşı karşıya",
+      "summary": "Son karar, Aralık 2025’te rejime karşı propaganda faaliyetleri yürüttüğü gerekçesiyle verilen, bir yıl hapis ve iki yıl yurt dışı çıkış yasağı içeren mahkûmiyetin ardından geldi.",
+      "link": "https://tr.euronews.com/2026/10/28/altin-palmiyeli-iranli-yonetmen-cafer-penahi-yeni-kararla-5-yil-hapisle-karsi-karsiya",
+      "published": "2026-10-28T12:54:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:35.933007+00:00"
     },
     {
       "id": "f6f4c9e94a30c077",
@@ -94,6 +369,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T12:55:39.737465+00:00"
+    },
+    {
+      "id": "312ac253a041ac00",
+      "source": "Habertürk",
+      "title": "\"Arabamızı iadesi etsin\"",
+      "summary": "Ünlü şarkıcı Sibel Can, yıllar önce aldığı lüks araç nedeniyle dolandırıldığını öne sürmüş, otomotiv firmasıyla davalık olmuştu. Firma sahibi Mehmet Çelik ise ilk kez Show Haber'e konuşarak, Sibel Can'ın aracı kendilerine teslim etmesi gerektiğini söyledi",
+      "link": "https://www.haberturk.com/magazin/sibel-can-a-cagri-arabamizi-iadesi-etsin-3923213",
+      "published": "2026-10-28T12:52:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:06.258835+00:00"
+    },
+    {
+      "id": "727866be530290a0",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Cumhurbaşkanı Erdoğan'ın 29 Ekim programı belli oldu",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, yarın 29 Ekim Cumhuriyet Bayramı ve Türk Devletleri Teşkilatı (TDT) 13. Devlet ve Hükümet Başkanları Zirvesi kapsamında çeşitli programlara katılacak.",
+      "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdoganin-29-ekim-programi-belli-oldu/4103838",
+      "published": "2026-10-28T12:52:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:08.973386+00:00"
+    },
+    {
+      "id": "462621cdc45fef0f",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail muhalefetinde Arap partileriyle koalisyon konusunda görüş ayrılığı yaşanıyor",
+      "summary": "İsrail’de dün yapılan milletvekili seçimlerinin ardından oy sayımı devam ederken muhalefet partileri arasında Arap milletvekillerinin desteğiyle hükümet kurulması konusunda anlaşmazlık yaşanıyor.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-muhalefetinde-arap-partileriyle-koalisyon-konusunda-gorus-ayriligi-yasaniyor/4103836",
+      "published": "2026-10-28T12:52:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:08.973409+00:00"
     },
     {
       "id": "08ae0736b2832b84",
@@ -226,6 +534,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T12:55:29.301907+00:00"
+    },
+    {
+      "id": "2d13562207a2a6b2",
+      "source": "Türkiye Gazetesi",
+      "title": "\"HÜKMEN\" TURLADI",
+      "summary": "TFF 3'üncü Lig 1'inci Grup takımlarından Karabük İdmanyurdu, Ziraat Türkiye Kupası 3'üncü Eleme Turu'nda rakibi İskenderunspor'un karşılaşmaya çıkmaması nedeniyle hükmen 3-0 galip ilan edilerek bir üst tura tura yükseldi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/turkiye-kupasinda-bir-garip-mac-rakibi-sahaya-cikmadi-hukmen-kazandi-1825727",
+      "published": "2026-10-28T12:49:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:10.915198+00:00"
     },
     {
       "id": "42f847eaf21efb55",
@@ -446,6 +765,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T12:51:10.091542+00:00"
+    },
+    {
+      "id": "f48ea3ae0bdb2d16",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Türkiye Maarif Vakfına bağlı Tiran New York Üniversitesinde yeni akademik yıl açılış töreni düzenlendi",
+      "summary": "Türkiye Maarif Vakfına (TMV) bağlı Tiran New York Üniversitesinde (UNYT) yeni akademik yıl açılış töreni yapıldı.",
+      "link": "https://www.aa.com.tr/tr/dunya/turkiye-maarif-vakfina-bagli-tiran-new-york-universitesinde-yeni-akademik-yil-acilis-toreni-duzenlendi/4103828",
+      "published": "2026-10-28T12:45:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:08.973365+00:00"
     },
     {
       "id": "e7dad305f93e8b5f",
@@ -798,6 +1128,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T12:40:39.347869+00:00"
+    },
+    {
+      "id": "440e41962e1f2a3c",
+      "source": "Sabah",
+      "title": "MEB'den yapay zeka destekli 'Yeni EBA'",
+      "summary": "Milli Eğitim Bakanlığı (MEB) tarafından geliştirilen ve eğitimde dijital dönüşümü yeni bir aşamaya taşımayı amaçlayan yapay zeka destekli, kişiselleştirilmiş ve veriye dayalı Yeni Eğitim Bilişim Ağı (Yeni... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/egitim/mebden-yapay-zeka-destekli-yeni-eba-7690188",
+      "published": "2026-10-28T12:37:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:14.491585+00:00"
     },
     {
       "id": "053922307cf94037",
@@ -1845,6 +2186,17 @@
       "fetched_at": "2026-10-28T12:15:49.551119+00:00"
     },
     {
+      "id": "513d90cb4bb92608",
+      "source": "Euronews Türkçe",
+      "title": "Ryanair'dan bagaj teslim süresinde değişiklik: Yolcuların en az 60 dakika önce işlem yapması gerekecek",
+      "summary": "Avrupa'nın en büyük havayolu şirketi Ryanair, yolcuların havalimanlarındaki güvenlik ve pasaport kontrollerinden geçmelerine daha fazla zaman tanımak amacıyla bagaj teslim kurallarında değişikliğe gitti.",
+      "link": "https://tr.euronews.com/2026/10/28/ryanair-bagaj-teslim-suresini-one-cekiyor-ucustan-en-az-60-dakika-once",
+      "published": "2026-10-28T12:14:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:35.933085+00:00"
+    },
+    {
       "id": "def28f43844536fa",
       "source": "Euronews Türkçe",
       "title": "Ryanair bagaj teslim süresini öne çekiyor: Uçuştan en az 60 dakika önce",
@@ -1953,6 +2305,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T12:20:51.047426+00:00"
+    },
+    {
+      "id": "adf77183026daf93",
+      "source": "Euronews Türkçe",
+      "title": "Agatha Christie’nin polisiye mirası Londra’da bir sergide yeniden keşfediliyor",
+      "summary": "Hercule Poirot’nun yaratıcısı Agatha Christie’nin yaşamını ve eserlerini mercek altına alan sergi, nadir el yazmaları, kişisel daktilosu ve 1920’lerden bir Orient Express vagonuyla ziyaretçileri polisiye edebiyatın Altın Çağı’na götürüyor.",
+      "link": "https://tr.euronews.com/2026/10/28/british-library-agatha-christienin-gizemli-dunyasini-kesfe-aciyor-siz-ne-kadar-biliyorsunu",
+      "published": "2026-10-28T12:10:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T13:01:35.933106+00:00"
     },
     {
       "id": "5a692c5ea2a6b775",
@@ -5143,369 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T11:05:39.960476+00:00"
-    },
-    {
-      "id": "40a9ea486a46e162",
-      "source": "ShiftDelete.Net",
-      "title": "Nintendo Switch 2 Oyunu Mario Kart World iPhone’da Çalıştı",
-      "summary": "Nintendo Switch 2'nin kırılmasının ardından Mario Kart World oyunu macOS ve iPhone 18 Pro cihazlarında çalıştırıldı. İşte emülasyon dünyasındaki son gelişmeler.",
-      "link": "https://shiftdelete.net/nintendo-switch-2-oyunu-mario-kart-world-iphoneda-calisti",
-      "published": "2026-10-28T11:03:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:55.807461+00:00"
-    },
-    {
-      "id": "e0f01489e3083e0e",
-      "source": "Yeni Yaşam",
-      "title": "Mansur Yavaş ile Murat Kurum görüştü",
-      "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş ile Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum görüştü Ankara Büyükşehir Belediye Başkanı Mansur Yavaş Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ile bakanlıkta görüştü. Murat Kurum, görüşmeyi sanal medya hesabından duyurdu. Murat Kurum, şunları söyledi: “Ankara Büyükşehir Belediye Başkanı Sayın Mansur Yavaş’ı Bakanlığım",
-      "link": "https://yeniyasamgazetesi9.com/mansur-yavas-ile-murat-kurum-gorustu/",
-      "published": "2026-10-28T11:03:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:49.678536+00:00"
-    },
-    {
-      "id": "bb92e6971bab2ff9",
-      "source": "Aydınlık",
-      "title": "Bakan Kurum, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş’ı kabul etti",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş ile bakanlıkta bir araya geldi. Görüşmeye ilişkin açıklama yapan Kurum, Ankara için ortak akıl doğrultusunda çalışmayı sürdüreceklerini belirtti.",
-      "link": "https://www.aydinlik.com.tr/haber/bakan-kurum-ankara-buyuksehir-belediye-baskani-mansur-yavasi-kabul-etti-596516",
-      "published": "2026-10-28T11:03:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:44.396374+00:00"
-    },
-    {
-      "id": "54d395f12edab8af",
-      "source": "Türkiye Gazetesi",
-      "title": "Drapinski'den Başakşehir sözleri: Korkmuyoruz",
-      "summary": "Süper Lig'de üst üste 7 maçtır mağlup olan Samsunspor'da Polonyalı stoper Igor Drapinski, 1 Kasım Pazar günü deplasmanda karşılaşacakları Başakşehir'in iyi bir takım olduğunu ancak kimseden korkmadıklarını söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/igor-drapinskiden-basaksehir-maci-sozleri-kimseden-korkmuyoruz-1825705",
-      "published": "2026-10-28T11:03:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:10:43.312580+00:00"
-    },
-    {
-      "id": "0566af5d98ee327c",
-      "source": "Bir Gün",
-      "title": "Meteoroloji'den iki bölge için uyarı",
-      "summary": "Meteoroloji Genel Müdürlüğü, Marmara Bölgesi ile Doğu Akdeniz'deki bazı iller için kuvvetli ve şiddetli yağış uyarısında bulundu.",
-      "link": "https://www.birgun.net/haber/meteoroloji-den-iki-bolge-icin-uyari-743098",
-      "published": "2026-10-28T11:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:50:42.685926+00:00"
-    },
-    {
-      "id": "32e20e8a47d795b5",
-      "source": "Habertürk",
-      "title": "Vakalar arttı: Ateş ve artan öksürüğe dikkat!",
-      "summary": "İç Hastalıkları Uzmanı Doç. Dr. Attila Önmez, \"Ateşin yeniden yükselmesi, öksürüğün giderek şiddetlenmesi ve nefes darlığının eşlik etmesi durumunda hastaların vakit kaybetmeden değerlendirilmesi gerekiyor\" dedi",
-      "link": "https://www.haberturk.com/saglik/vakalar-artti-ates-ve-artan-oksuruge-dikkat-haberler-3923140",
-      "published": "2026-10-28T11:02:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:10:38.396130+00:00"
-    },
-    {
-      "id": "5989452d6f7e3d68",
-      "source": "Milliyet",
-      "title": "Brezilya seçimlerinde mağlup oldu, ülkeyi terk etti: Seyahat yasağı bulunan Bolsonaro, Ekvador'da!",
-      "summary": "Seçimlerdeki mağlubiyetinin ardından Brezilya Yüksek Mahkemesinin koyduğu seyahat yasağına rağmen ülkeden ayrıldığı iddia edilen Bolsonaro'ya ilişkin Arjantin'den açıklama geldi. Arjantin Ulusal Göç Direktörlüğünün sosyal medya hesabından yapılan açıklamada, \"Flavio Nantes Bolsonaro, Fernanda Antunes Figueira Bolsonaro, Carolina Figueira Bolsonaro ve Luiza Figueira Bolsonaro adlı kişiler, 27 Ekim ",
-      "link": "https://www.milliyet.com.tr/dunya/son-dakika-brezilya-secimlerinde-maglup-oldu-ulkeyi-terk-etti-seyahat-yasagi-bulunan-bolsonaro-ekvadorda-7689345",
-      "published": "2026-10-28T11:02:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:40:42.459006+00:00"
-    },
-    {
-      "id": "ad686dbd2cd8306d",
-      "source": "Yeni Akit",
-      "title": "En son Cemil Tugay ziyaret etmişti! Bakan Murat Kurum, Mansur Yavaş’ı kabul etti",
-      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Ankara Büyükşehir Belediye Başkanı Mansur Yavaş’ı bakanlıkta kabul etti. Bakan Kurum daha önce de İzmir Büyükşehir Belediye Başkanı Cemil Tugay’ı kabul etmişti. Tugay, ziyaretten sonra da AK Parti’ye geçmişti.",
-      "link": "https://www.yeniakit.com.tr/haber/en-son-cemil-tugay-ziyaret-etmisti-bakan-murat-kurum-mansur-yavasi-kabul-etti-2030629.html",
-      "published": "2026-10-28T11:02:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:42.460690+00:00"
-    },
-    {
-      "id": "b09acae7c5a1d367",
-      "source": "Aydınlık",
-      "title": "Yusuf Tekin tanıttı: Yeni EBA yapay zekâ destekli araçlarla yenilendi",
-      "summary": "Milli Eğitim Bakanlığının yapay zekâ destekli Yeni EBA platformu, Ankara&#039;daki programda tanıtıldı. Platformda kişiselleştirilmiş öğrenme, akademik gelişim takibi ve ölçme-değerlendirme araçlarının yer alması hedefleniyor.",
-      "link": "https://www.aydinlik.com.tr/haber/yeni-eba-tanitildi-yapay-zeka-destekli-ozellikler-596513",
-      "published": "2026-10-28T11:01:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:44.396401+00:00"
-    },
-    {
-      "id": "c9be9fa2c96b62d1",
-      "source": "Independent Türkçe",
-      "title": "Fenomen tavsiyesiyle başlayan cilt bakımı dermatoloji kliniğinde bitebiliyor",
-      "summary": "Bir serum, ardından tonik, peeling, retinol, C vitamini, AHA veya BHA... Sosyal medyada birkaç dakikalık videolara sığdırılan cilt bakım rutinleri bazen 8-10 farklı üründen oluşuyor. Ürünü öneren kişinin pürüzsüz görünen cildi ve \"Bende çok işe yaradı\" demesi de binlerce kişinin aynı ürünü denemesi için yeterli olabiliyor. Ancak bir kişinin cildine iyi gelen ürün, başka birinin cildinde aynı sonuc",
-      "link": "https://www.indyturk.com/node/784441/sa%C4%9Flik/fenomen-tavsiyesiyle-ba%C5%9Flayan-cilt-bak%C4%B1m%C4%B1-dermatoloji-klini%C4%9Finde-bitebiliyor",
-      "published": "2026-10-28T11:01:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:35:45.834626+00:00"
-    },
-    {
-      "id": "5f462c4fea801fd2",
-      "source": "ShiftDelete.Net",
-      "title": "iPhone 18e Özellikleri Ortaya Çıktı",
-      "summary": "Apple'ın merakla beklenen iPhone 18e modeli hakkında ilk teknik detaylar sızdı. 2027 başında çıkması beklenen telefonun özellikleri ve stratejik önemi hakkında detaylı bilgiler.",
-      "link": "https://shiftdelete.net/iphone-18e-ozellikleri-ortaya-cikti",
-      "published": "2026-10-28T11:01:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:55.807483+00:00"
-    },
-    {
-      "id": "698eb86f6d976c45",
-      "source": "Habertürk",
-      "title": "Sibel Can'a çağrı: Arabamızı iadesi etsin",
-      "summary": "Ünlü şarkıcı Sibel Can, yıllar önce aldığı lüks araç nedeniyle dolandırıldığını öne sürmüş, otomotiv firmasıyla davalık olmuştu. Firma sahibi Mehmet Çelik ise ilk kez Show Haber'e konuşarak, Sibel Can'ın aracı kendilerine teslim etmesi gerektiğini söyledi",
-      "link": "https://www.haberturk.com/magazin/sibel-can-a-cagri-arabamizi-iadesi-etsin-3923131",
-      "published": "2026-10-28T11:01:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:10:38.396168+00:00"
-    },
-    {
-      "id": "ec4cfe1142ad2cfd",
-      "source": "Ekonomim",
-      "title": "Neapco/Erdem “Eskişehir’e 35 milyon avroluk yatırım yaptık”",
-      "summary": "Otomotiv güç aktarma sistemleri alanında faaliyet gösteren Neapco Türkiye, katma değeri yüksek üretim hedefi doğrultusunda 35 milyon avroluk yatırımla kurduğu Eskişehir fabrikasının açılışını gerçekleştirdi. 120 kişilik istihdam sağlayan ve yıllık kapasitesini 1,5 milyon adede yükselten şirket, odağına yeni projeler ve iş birliklerini aldı.",
-      "link": "https://www.ekonomim.com/sehirler/neapcoerdem-eskisehire-35-milyon-avroluk-yatirim-yaptik-haberi-927597",
-      "published": "2026-10-28T11:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:11:14.892342+00:00"
-    },
-    {
-      "id": "2e61f2814a02ec72",
-      "source": "Star",
-      "title": "İstanbul'da pazar yeri kana bulandı: Biri çocuk 6 yaralı",
-      "summary": "İstanbul Sancaktepe'de pazar yerinde çıkan bıçaklı kavgada biri çocuk 6 kişi yaralandı. Yaralılardan birinin hayati tehlikesinin bulunduğu belirtilirken, kaçan şüphelinin yakalanması için çalışma başlatıldı.",
-      "link": "https://www.star.com.tr/yasam/istanbulda-pazar-yeri-kana-bulandi-biri-cocuk-6-yarali-haber-2049692/",
-      "published": "2026-10-28T11:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:41.931723+00:00"
-    },
-    {
-      "id": "0c29776389fd8fb7",
-      "source": "Akşam",
-      "title": "Türk Telekom COP31'in dijital omurgasını örüyor",
-      "summary": "Türkiye başkanlığında kasımda düzenlenecek Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) \"Master Partner\" olarak üst düzey sponsorluk kategorisinde yer alacak Türk Telekom, \"Küresel Dijital Dönüşüm ve Teknoloji\" destekçisi olarak da zirvenin dijital ihtiyaçlarını uçtan uca çözümlerle karşılayacak.",
-      "link": "https://www.aksam.com.tr/guncel/turk-telekom-cop31in-dijital-omurgasini-oruyor/haber-1709937",
-      "published": "2026-10-28T11:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:01:09.240182+00:00"
-    },
-    {
-      "id": "c42d41f528517dea",
-      "source": "Habertürk",
-      "title": "YENİ Parti'den Sarıgül açıklaması",
-      "summary": "YENİ Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Zeynel Emre, partinin 1. Olağan Kurultayı'nın 14-15 Kasım'da Ankara Arena Spor Salonu'nda yapılacağını açıkladı. Emre, Mustafa Sarıgül'ün ise iddialar açıklığa kavuşana kadar YENİ Parti'yle ilişkisinin bulunmadığını belirtti",
-      "link": "https://www.haberturk.com/gundem/yeni-parti-den-mustafa-sarigul-aciklamasi-3923138",
-      "published": "2026-10-28T11:00:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:32.344437+00:00"
-    },
-    {
-      "id": "9c21f42aaa4dbea7",
-      "source": "Yeni Yaşam",
-      "title": "Maden ocakları Keldani köyünün doğasını ve kalıntılarını yok etti: 10 yılda köyde ağaç kalmadı",
-      "summary": "Şirnex&#8217;in Silopiya ilçesine bağlı Cûdî Dağı eteklerindeki Süryani-Keldani yerleşimi Herbol köyü, 10 yıl içinde açılan maden ocakları nedeniyle doğal yapısını ve köy kalıntılarını kaybetti. Bölgede neredeyse tek bir ağacın dahi bırakılmadığı görüldü Şirnex’in (Şırnak) Silopiya (Silopi) ilçesine bağlı ve Cûdî Dağı eteklerinde bulunan, tarihi bir Süryani yerleşimi olan Herbol Köyü, sermayenin d",
-      "link": "https://yeniyasamgazetesi9.com/maden-ocaklari-keldani-koyun-dogal-yapisini-ve-kalintilarini-yok-etti-10-yilda-koyde-agac-kalmadi/",
-      "published": "2026-10-28T11:00:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:15:57.502663+00:00"
-    },
-    {
-      "id": "9ed4bc9d8121d5f8",
-      "source": "Yeni Yaşam",
-      "title": "Maden ocakları Keldani köyün doğal yapısını ve kalıntılarını yok etti: 10 yılda köyde ağaç kalmadı",
-      "summary": "Şirnex&#8217;in Silopiya ilçesine bağlı Cûdî Dağı eteklerindeki Süryani-Keldani yerleşimi Herbol köyü, 10 yıl içinde açılan maden ocakları nedeniyle doğal yapısını ve köy kalıntılarını kaybetti. Bölgede neredeyse tek bir ağacın dahi bırakılmadığı görüldü Şirnex’in (Şırnak) Silopiya (Silopi) ilçesine bağlı ve Cûdî Dağı eteklerinde bulunan, tarihi bir Süryani yerleşimi olan Herbol Köyü, sermayenin d",
-      "link": "https://yeniyasamgazetesi9.com/maden-ocaklari-keldani-koyun-dogal-yapisini-ve-kalintilarini-yok-etti-10-yilda-koyde-agac-kalmadi/",
-      "published": "2026-10-28T11:00:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:01:18.319720+00:00"
-    },
-    {
-      "id": "c11b7efa91ecb142",
-      "source": "Evrensel",
-      "title": "Yargıtay “İki Gözüm Ahmet” filmiyle ilgili kararı bozdu: Dava yeniden görülecek",
-      "summary": "Ahmet Kaya'nın ailesinin onayı olmadan çekilen “İki Gözüm Ahmet” filmiyle ilgili Yargıtay, gösterimin durdurulması talebini reddeden kararı bozdu. Kararda özel hayata saygı hakkı vurgulanırken, dava yeniden görülecek.",
-      "link": "https://www.evrensel.net/haber/6006968/yargitay-iki-gozum-ahmet-filmiyle-ilgili-karari-bozdu-dava-yeniden-gorulecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-28T11:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:35:33.740449+00:00"
-    },
-    {
-      "id": "73b601f6e7acd37a",
-      "source": "Evrensel",
-      "title": "Altın Portakal’da farklı coğrafyalardan savaş ve yaşam öyküleri: Bir kedi maması, bir anneanne, bir çocuk",
-      "summary": "“Kökler, Işık ve Kamera!” seçkisi, savaş ve işgal koşullarında üretilen filmleri izleyiciyle buluşturuyor. İran’dan Filistin’e, Ukrayna’dan Lübnan’a uzanan seçki, çatışmaların aileler, çocuklar ve gündelik yaşam üzerindeki etkilerine odaklanıyor.",
-      "link": "https://www.evrensel.net/haber/6006966/altin-portakalda-farkli-cografyalardan-savas-ve-yasam-oykuleri-bir-kedi-mamasi-bir-anneanne-bir-cocuk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-28T11:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:35:33.740467+00:00"
-    },
-    {
-      "id": "14f38185ac9e70d0",
-      "source": "Webrazzi",
-      "title": "Yapay zeka için bulut bilişim altyapısı geliştiren General Compute, 100 milyon dolar yatırım aldı",
-      "summary": "Yapay zeka teknolojisi için bulut bilişim altyapısı geliştiren General Compute, 100 milyon dolar yatırım aldı. Şirketin 100 milyon dolarlık A serisi yatırım turuna Blackbird Ventures ve Abstract Ventu...",
-      "link": "https://webrazzi.com/2026/10/28/yapay-zeka-icin-bulut-bilisim-altyapisi-gelistiren-general-compute-100-milyon-dolar-yatirim-aldi/",
-      "published": "2026-10-28T11:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:01:22.927397+00:00"
-    },
-    {
-      "id": "bcfa64eeb8236358",
-      "source": "Habertürk",
-      "title": "İsrail seçimlerinde net kazanan yok",
-      "summary": "İsrail'in en uzun süre görev yapan başbakanı Netanyahu'nun geleceğini belirleyecek seçimlerde sandık çıkış anketleri net bir kazanan olmadığını gösterdi. Son 50 yılın en yüksek katılımıyla gerçekleşen seçimde İsrailli Arap partilerinin hükümet kurma sürecinde belirleyici olması bekleniyor",
-      "link": "https://www.haberturk.com/dunya/israil-in-en-uzun-sure-gorev-yapan-basbakani-netanyahu-nun-gelecegini-belirleyecek-secimlerde-sandik-cikis-anketleri-net-bir-kazanan-olmadigini-gosterdi-son-50-yilin-en-yuksek-katilimiyla",
-      "published": "2026-10-28T10:59:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:32.344470+00:00"
-    },
-    {
-      "id": "8fd0799dd110eace",
-      "source": "Yeni Şafak",
-      "title": "İzmir’de tır ile kamyonet çarpıştı: 1 ölü 1 yaralı",
-      "summary": "İzmir’in Ödemiş ilçesinde tır ile kamyonetin çarpışması sonucu meydana gelen kazada 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
-      "link": "https://www.yenisafak.com/gundem/izmirde-tir-ile-kamyonet-carpisti-1-olu-1-yarali-4867951",
-      "published": "2026-10-28T10:59:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:01:10.157877+00:00"
-    },
-    {
-      "id": "1ff2e130006bfd65",
-      "source": "Habertürk",
-      "title": "Önce oğul sonra baba... Cem Akaş hayatını kaybetti",
-      "summary": "Can Yayınları Genel Yayın Yönetmeni, yazar, editör ve çevirmen Cem Akaş hayatını kaybetti. Akaş'ın acı haberi, Can Yayınları'nın sosyal medya hesabından duyuruldu. Akaş ile fotoğraf sanatçısı Esra Özdoğan'ın oğlu Can Akaş 19 Ekim'de yaşamını yitirmişti. Oğlunun ölümünün ardından konuşan Cem Akaş, elektronik sigaranın olası zararlarına dikkat çekerek ailelere uyarıda bulunmuştu. Oğullarının acısıyl",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-once-ogul-sonra-baba-cem-akas-hayatini-kaybetti-3923133",
-      "published": "2026-10-28T10:59:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:32.344500+00:00"
-    },
-    {
-      "id": "c620e4f99609f838",
-      "source": "ShiftDelete.Net",
-      "title": "Huawei Enjoy 100 Pro Modelini HarmonyOS 7 ile Tanıttı",
-      "summary": "Huawei, 6.100mAh bataryalı ve HarmonyOS 7 işletim sistemine sahip yeni akıllı telefonu Enjoy 100 Pro'yu tanıttı. İşte tüm teknik detaylar ve fiyat bilgisi.",
-      "link": "https://shiftdelete.net/huawei-enjoy-100-pro-modelini-harmonyos-7-ile-tanitti",
-      "published": "2026-10-28T10:59:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:01:24.311015+00:00"
-    },
-    {
-      "id": "06b3b932071c0cc2",
-      "source": "Habertürk",
-      "title": "Derbinin PFDK sevkleri açıklandı!",
-      "summary": "Profesyonel Futbol Disiplin Kurulu (PFDK), olaylı Galatasaray-Fenerbahçe derbisi sonrası disiplin sevklerini açıkladı. Karşılaşma sonrası kavga eden ve kırmızı kart gören Abdülkerim Bardakcı ile Archie Brown, \"saldırı\" gerekçesiyle 44. maddeden PFDK'ya sevk edildi.",
-      "link": "https://www.haberturk.com/spor/galatasaray-fenerbahce-derbisinin-disiplin-sevkleri-aciklandi-abdulkerim-bardakci-ve-archie-brown-pfdk-da-3923110",
-      "published": "2026-10-28T10:59:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:32.344519+00:00"
-    },
-    {
-      "id": "dce9ddb0b08c1f21",
-      "source": "Bir Gün",
-      "title": "Saat verildi: 12 il için kuvvetli yağış uyarısı",
-      "summary": "Meteoroloji Genel Müdürlüğü, Marmara Bölgesi ve Doğu Akdeniz’deki 12 il için şiddetli sağanak uyarısı yaptı. Yağışların bazı bölgelerde cuma gününe kadar sürmesi beklenirken sel, su baskını, heyelan ve ulaşımda aksamalara karşı dikkatli olunması istendi.",
-      "link": "https://www.birgun.net/haber/saat-verildi-12-il-icin-kuvvetli-yagis-uyarisi-743094",
-      "published": "2026-10-28T10:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:50:42.685957+00:00"
-    },
-    {
-      "id": "be28399b515799f7",
-      "source": "Türkiye Gazetesi",
-      "title": "TAKVİM AÇIKLANDI",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, Fon Koordinasyon Kurulunun 8'inci toplantısının ardından yatırım fonlarının tasfiye sürecine ilişkin son verileri açıkladı. Bugüne kadar 71 bin 899 hesaba toplam 68 milyar TL tutarında ayni ve nakdi ödeme yapılırken, tasfiye sürecindeki fon sayısı 131'den 38'e geriledi. Olağanüstü tasfiye kapsamındaki fonlarda ilk ara ödemelerin ise 30 Ekim Cuma günü başlaması",
-      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/fon-tasfiyesinde-68-milyar-tl-odeme-yapildi-yeni-odemeler-icin-30-ekim-tarihi-aciklan-1825704",
-      "published": "2026-10-28T10:58:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:35.876294+00:00"
-    },
-    {
-      "id": "be28399b515799f7",
-      "source": "Türkiye Gazetesi",
-      "title": "TAKVİM AÇIKLANDI",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, Fon Koordinasyon Kurulunun 8'inci toplantısının ardından yatırım fonlarının tasfiye sürecine ilişkin son verileri açıkladı. Bugüne kadar 71 bin 899 hesaba toplam 68 milyar TL tutarında ayni ve nakdi ödeme yapılırken, tasfiye sürecindeki fon sayısı 131'den 38'e geriledi. Olağanüstü tasfiye kapsamındaki fonlarda ilk ara ödemelerin ise 30 Ekim Cuma günü başlaması",
-      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/fon-tasfiyesinde-68-milyar-tl-odeme-yapildi-yeni-odemeler-icin-30-ekim-tarihi-aciklan-1825704",
-      "published": "2026-10-28T10:58:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T12:05:35.876339+00:00"
-    },
-    {
-      "id": "5b9618bbf44e17df",
-      "source": "Türkiye Gazetesi",
-      "title": "TAKVİM AÇIKLANDI",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, Fon Koordinasyon Kurulunun 8'inci toplantısının ardından yatırım fonlarının tasfiye sürecine ilişkin son verileri açıkladı. Bugüne kadar 71 bin 899 hesaba toplam 68 milyar TL tutarında ayni ve nakdi ödeme yapılırken, tasfiye sürecindeki fon sayısı 131'den 38'e geriledi. Olağanüstü tasfiye kapsamındaki fonlarda ilk ara ödemelerin ise 30 Ekim Cuma günü başlaması",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/fon-tasfiyesinde-68-milyar-tl-odeme-yapildi-yeni-odemeler-icin-30-ekim-tarihi-aciklan-1825704",
-      "published": "2026-10-28T10:58:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:01:05.330943+00:00"
-    },
-    {
-      "id": "b7985f5e81759731",
-      "source": "Ekonomim",
-      "title": "Evlilik kredisinden daha fazla genç yararlanabilecek",
-      "summary": "Evlenecek gençlere yönelik faizsiz kredi desteğinde 2027 yılında yeni düzenlemeler yapılması planlanıyor. Düşük ve orta gelir grubundaki gençlerin destekten daha fazla yararlanabilmesi için projenin uygulama koşulları iyileştirilecek. Ağustos 2026 itibarıyla 102 bin 327 çifte faizsiz kredi verildi.",
-      "link": "https://www.ekonomim.com/foto-galeri/gundem/evlilik-kredisinden-daha-fazla-genc-yararlanabilecek-galeri-927598",
-      "published": "2026-10-28T10:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:11:14.892381+00:00"
-    },
-    {
-      "id": "6f05a9dfb4b53c02",
-      "source": "Finans Gündem",
-      "title": "Sabancı’dan Cumhuriyet’in 103. yılında anlamlı mesaj: “29 Ekim senede bir gün, Cumhuriyet her gün”",
-      "summary": "Sabancı Holding, Cumhuriyet’in 103. yılını “29 Ekim senede bir gün, Cumhuriyet her gün” mesajıyla kutluyor. Yeni reklam filmi, Cumhuriyet’in değerlerinin çalışarak, üreterek ve Atatürk’ün izinde ilerleyerek her gün yaşatıldığını hatırlatıyor.",
-      "link": "https://www.finansingundemi.com/haber/sabancidan-cumhuriyetin-103-yilinda-anlamli-mesaj-29-ekim-senede-bir-gun-cumhuriyet-her-gun/1912966",
-      "published": "2026-10-28T10:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:05:53.619788+00:00"
-    },
-    {
-      "id": "34ac2c9923360cdd",
-      "source": "Milliyet",
-      "title": "Kadıköy'de 3 bina için acil tahliye kararı! Ev sahipleriyle ekipler arasında gerginlik",
-      "summary": "Kadıköy Zühtüpaşa Mahallesi Şefikbey Sokak’ta bulunan 3 binanın kolonlarında ve iç kısımlarında oluşan çatlaklar nedeniyle kentsel dönüşüm kapsamında yıkım kararı alındı. Tahliye için gelen belediye ekiplerine ek süre talebinde bulunan binada yaşayan kişiler ile ekipler arasında gerginlik yaşandı. Binadaki kişiler kendilerine resmi tebligat yapılmadığını iddia etti. 'SİZ ÇIKTIKTAN SONRA TEBLİGAT G",
-      "link": "https://www.milliyet.com.tr/gundem/kadikoyde-3-bina-icin-acil-tahliye-karari-ev-sahipleriyle-ekipler-arasinda-gerginlik-7689376",
-      "published": "2026-10-28T10:57:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T11:01:08.482294+00:00"
     }
   ]
 }

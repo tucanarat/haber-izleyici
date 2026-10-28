@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-28T22:31:28.532529+00:00",
+  "last_updated": "2026-10-28T22:36:04.745417+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 470,
+  "new_items_this_run": 469,
   "items": [
+    {
+      "id": "00138e9045fe7dc4",
+      "source": "Akşam",
+      "title": "İngiliz devlerinden Batrakov kapışması",
+      "summary": "Sezon başında Lokomotiv'den 25 milyon euro bonservis bedeli ödenerek transfer edilen 21 yaşındaki 10 numarayı Liverpool ve Arsenal yakın takibe aldı.",
+      "link": "https://www.aksam.com.tr/spor/ingiliz-devlerinden-batrakov-kapismasi/haber-1710099",
+      "published": "2026-10-28T22:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T22:35:33.891822+00:00"
+    },
     {
       "id": "16d7c2bf84f10539",
       "source": "Akşam",
@@ -28,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T22:30:58.000507+00:00"
+    },
+    {
+      "id": "7ce51afe14f21884",
+      "source": "Habertürk",
+      "title": "Bugün bankalar açık mı?",
+      "summary": "Banka çalışma saatleri 29 Ekim Cumhuriyet Bayramı dolasıyla araştırılıyor. Bu sene hafta içine denk gelen 29 Ekim Cumhuriyet Bayramı’nda pek çok kurum kapalı oluyor. Kendi hesapları arasında transfer yapacaklar veya ödemesi olan banka kullanıcılarını yakından ilgilendiren EFT ve havale gönderimide belli oldu. Peki, bugün bankalar açık mı? 29 Ekim Cumhuriyet Bayramı’nda bankalar çalışıyor mu, EFT v",
+      "link": "https://www.haberturk.com/bilgi/foto/bugun-bankalar-acik-mi-29-ekim-cumhuriyet-bayraminda-bankalar-calisiyor-mu-eft-ve-havale-yapilir-mi-3923324",
+      "published": "2026-10-28T22:26:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T22:35:26.499782+00:00"
     },
     {
       "id": "e7dc75b6caab4866",
@@ -127,6 +149,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T22:20:46.037903+00:00"
+    },
+    {
+      "id": "ded6778da21c5d9d",
+      "source": "Ekonomim",
+      "title": "Siyasette 29 Ekim mesajları: Özel, Bahçeli, Kılıçdaroğlu ne dedi?",
+      "summary": "Cumhuriyet&#039;in ilanının 103. yıl dönümü dolayısıyla siyasi parti genel başkanlarından kutlama mesajları geldi.",
+      "link": "https://www.ekonomim.com/gundem/siyasette-29-ekim-mesajlari-ozel-bahceli-kilicdaroglu-ne-dedi-haberi-927718",
+      "published": "2026-10-28T22:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T22:35:43.866729+00:00"
     },
     {
       "id": "e42f96b4f3ed91a2",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T18:10:52.586124+00:00"
-    },
-    {
-      "id": "6498fa6288fa873d",
-      "source": "Akşam",
-      "title": "Başkan Erdoğan, Kazakistan Cumhurbaşkanı Tokayev onuruna yemek verdi",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev onuruna resmi akşam yemeği verdi.",
-      "link": "https://www.aksam.com.tr/guncel/baskan-erdogan-kazakistan-cumhurbaskani-tokayev-onuruna-yemek-verdi/haber-1710064",
-      "published": "2026-10-28T18:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T18:10:48.881504+00:00"
-    },
-    {
-      "id": "7b1f675b161c0d1a",
-      "source": "Karar",
-      "title": "İstanbul'da bazı yollar trafiğe kapatılacak",
-      "summary": "İstanbul'da, 29 Ekim Cumhuriyet Bayramı programları kapsamında yarın Üsküdar, Kadıköy ve Ataşehir'de bazı yollar trafiğe kapatılacak.",
-      "link": "https://www.karar.com/guncel-haberler/istanbulda-bazi-yollar-trafige-kapatilacak-8-2081150",
-      "published": "2026-10-28T18:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T18:10:51.004393+00:00"
-    },
-    {
-      "id": "0dfa5c4feb085d8d",
-      "source": "Yeni Şafak",
-      "title": "29 Ekim’de İstanbul’un üç ilçesinde trafik düzenlemesi: Yollar kapanacak",
-      "summary": "İstanbul’da Cumhuriyet Bayramı kutlamaları nedeniyle yarın Üsküdar, Kadıköy ve Ataşehir’de bazı yollar araç trafiğine kapatılacak. Kapanmaların saatleri ilçelere ve güzergâhlara göre değişirken sürücüler için alternatif yollar da belirlendi.",
-      "link": "https://www.yenisafak.com/gundem/29-ekimde-istanbulun-uc-ilcesinde-trafik-duzenlemesi-yollar-kapanacak-4868044",
-      "published": "2026-10-28T18:06:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T18:10:49.752614+00:00"
     }
   ]
 }

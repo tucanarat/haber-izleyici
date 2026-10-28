@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-28T01:20:57.995133+00:00",
+  "last_updated": "2026-10-28T01:25:47.512368+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 466,
+  "new_items_this_run": 467,
   "items": [
+    {
+      "id": "dc536ab5fd06cb36",
+      "source": "BBC News Türkçe",
+      "title": "Brezilya'da seçimi kaybeden sağcı lider Bolsonaro ABD'ye gitti",
+      "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. ABD'den gelen vize onayının ardından Bolsonaro'nun ABD'ye gittiği doğrulandı.",
+      "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-28T01:23:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-28T01:25:47.173723+00:00"
+    },
     {
       "id": "9419f3772646811a",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-27T19:10:41.209846+00:00"
-    },
-    {
-      "id": "6bea8e750477e025",
-      "source": "Star",
-      "title": "Üzerinden çıkan not dikkat çekti! Bursa'da sahilde erkek cesedi bulundu",
-      "summary": "Bursa'nın Mudanya ilçesinde sahilde erkek cesedi bulundu. Olay yerindeki incelemeler sırasında şahsın üzerine bantlı halde \"Ölümümden kimse sorumlu değildir\" yazılı not bulunduğu öğrenildi.",
-      "link": "https://www.star.com.tr/guncel/uzerinden-cikan-not-dikkat-cekti-bursada-sahilde-erkek-cesedi-bulundu-haber-2049556/",
-      "published": "2026-10-27T19:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-27T19:10:47.603663+00:00"
     }
   ]
 }

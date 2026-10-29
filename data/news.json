@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-29T03:06:05.051110+00:00",
+  "last_updated": "2026-10-29T03:11:03.563226+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 472,
+  "new_items_this_run": 473,
   "items": [
+    {
+      "id": "12dbea6f12cedc22",
+      "source": "Habertürk",
+      "title": "Hafif ticari araç şarampole devrildi: 2 ölü, 2 yaralı",
+      "summary": "Erzurum Oltu'da sürücüsünün kontrolünden çıkan hafif ticari araç şarampole devrildi. Feci kazada 2 kişi hayatını kaybetti, 2 kişi ağır yaralandı",
+      "link": "https://www.haberturk.com/gundem/erzurum-da-hafif-ticari-arac-devrildi-2-olu-2-yarali-3923332",
+      "published": "2026-10-29T03:02:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T03:10:37.540026+00:00"
+    },
     {
       "id": "caa48eec5a487a7f",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T19:40:48.694822+00:00"
-    },
-    {
-      "id": "8340d7059888b0e0",
-      "source": "Star",
-      "title": "İdlib kırsalında silahlı saldırı! 2 asker hayatını kaybetti",
-      "summary": "Suriye'nin kuzeybatısındaki İdlib ilinde düzenlenen silahlı saldırıda Suriye ordusu mensubu 2 askerin yaşamını yitirdiği bildirildi.",
-      "link": "https://www.star.com.tr/dunya/idlib-kirsalinda-silahli-saldiri-2-asker-hayatini-kaybetti-haber-2049795/",
-      "published": "2026-10-28T19:35:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T19:35:38.990078+00:00"
     }
   ]
 }

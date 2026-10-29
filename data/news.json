@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-29T01:11:14.429756+00:00",
+  "last_updated": "2026-10-29T01:15:55.495870+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 478,
+  "new_items_this_run": 477,
   "items": [
+    {
+      "id": "5205f395dd638a48",
+      "source": "Sözcü",
+      "title": "Cumhuriyet Bayramı kutlu olsun",
+      "summary": "Cumhuriyet Bayramı kutlu olsun",
+      "link": "https://www.sozcu.com.tr/cumhuriyet-bayrami-kutlu-olsun-p373778",
+      "published": "2026-10-29T01:11:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T01:15:39.483526+00:00"
+    },
     {
       "id": "d706be543a630d10",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T19:30:50.006110+00:00"
-    },
-    {
-      "id": "1d2ec5cb827d1920",
-      "source": "Finans Gündem",
-      "title": "İstanbul'da 3 ilçede bazı yollar trafiğe kapatılacak",
-      "summary": "İstanbul'da, 29 Ekim Cumhuriyet Bayramı programları kapsamında yarın Üsküdar, Kadıköy ve Ataşehir'de bazı yollar trafiğe kapatılacak.",
-      "link": "https://www.finansingundemi.com/haber/istanbulda-3-ilcede-bazi-yollar-trafige-kapatilacak/1913011",
-      "published": "2026-10-28T19:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T19:21:08.978464+00:00"
     }
   ]
 }

@@ -1,12 +1,144 @@
 {
-  "last_updated": "2026-10-29T14:06:13.654904+00:00",
+  "last_updated": "2026-10-29T14:11:24.498959+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 475,
+  "new_items_this_run": 479,
   "items": [
+    {
+      "id": "152e9c4932a672f6",
+      "source": "BBC News Türkçe",
+      "title": "Hakkında ev hapsi kararı verilen Sinem Dedetaş tahliye oldu",
+      "summary": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş hakkında tahliye ve ev hapsi kararı verildi. Dedetaş 31 Temmuz'dan bu yana tutuklu bulunuyordu.",
+      "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29T14:10:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:11:23.713912+00:00"
+    },
+    {
+      "id": "3d7df47b51f2df85",
+      "source": "Akşam",
+      "title": "Su dolu çukura düşen 7 yaşındaki çocuk hayatını kaybetti",
+      "summary": "Adıyaman'ın Besni ilçesinde aşırı yağışlar nedeniyle suyla dolan inşaat alanındaki asansör çukuruna düşen 7 yaşındaki çocuk hayatını kaybetti.",
+      "link": "https://www.aksam.com.tr/guncel/su-dolu-cukura-dusen-7-yasindaki-cocuk-hayatini-kaybetti/haber-1710253",
+      "published": "2026-10-29T14:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:51.085857+00:00"
+    },
+    {
+      "id": "91c1bc6cac253143",
+      "source": "Star",
+      "title": "Gemi faciasından acı haber! Cesedin kimliği belirlendi",
+      "summary": "Marmara Denizi'nde batan Tuğberk İmamoğlu isimli gemide yürütülen arama kurtarma çalışmalarında bulunan cesedin kimliği belli oldu. 2'inci Kaptan Rahmi Temel'e ait olduğu belirlenen cenaze, ailesi tarafından Adli Tıp Kurumundan teslim alındı.",
+      "link": "https://www.star.com.tr/yasam/gemi-faciasindan-aci--cesedin-kimligi-belirlendi-haber-2049949/",
+      "published": "2026-10-29T14:08:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:52.439133+00:00"
+    },
+    {
+      "id": "e5b72809eda91938",
+      "source": "Cumhuriyet",
+      "title": "Düzce'de 29 Ekim fener alayı yürüyüşü iptal edildi",
+      "summary": "Düzce’de 29 Ekim Cumhuriyet Bayramı’nın 103. yıl dönümü kapsamında bu akşam yapılması planlanan fener alayı yürüyüşü iptal edildi. Düzce Gençlik ve Spor İl Müdürlüğü, saat 19.00’da başlaması öngörülen etkinliğin hava muhalefeti nedeniyle gerçekleştirilemeyeceğini duyurdu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/duzce-de-29-ekim-fener-alayi-yuruyusu-iptal-edildi-2551492",
+      "published": "2026-10-29T14:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:44.113902+00:00"
+    },
+    {
+      "id": "0b12059c89289599",
+      "source": "Cumhuriyet",
+      "title": "Konyaspor maçı kamp kadrosunu duyurdu: Galatasaray'dan Barış Alper Yılmaz kararı",
+      "summary": "Galatasaray, Konyaspor ile deplasmanda oynayacağı maçın kamp kadrosunu açıkladı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/konyaspor-maci-kamp-kadrosunu-duyurdu-galatasaray-dan-baris-alper-yilmaz-karari-2551491",
+      "published": "2026-10-29T14:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:44.113933+00:00"
+    },
+    {
+      "id": "75c80a8bbedd3123",
+      "source": "Cumhuriyet",
+      "title": "Çanakkale’de 31 kaçak göçmen yakalandı",
+      "summary": "Çanakkale’nin Ezine ilçesinde sahil güvenlik ve polis ekipleri tarafından 31 kaçak göçmen yakalandı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/canakkale-de-31-kacak-gocmen-yakalandi-2551493",
+      "published": "2026-10-29T14:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:44.113956+00:00"
+    },
+    {
+      "id": "4115596381ff7684",
+      "source": "Habertürk",
+      "title": "Batan gemide acı haber: 2'nci kaptan bulundu",
+      "summary": "Marmara Denizi’nde 2 Eylül’de batan Tuğberk İmamoğlu isimli gemide kayıp mürettebata yönelik arama kurtarma çalışmalarında bulunan cansız bedenin, 2’nci Kaptan Rahmi Temel’e ait olduğu belirlendi. Kazadan bu yana kayıp olan diğer mürettebatı arama çalışmaları sürüyor",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-marmara-denizi-nde-batan-tugberk-imamoglu-gemisinde-2-inci-kaptan-rahmi-temel-in-cansiz-bedeni-bulundu-3923532",
+      "published": "2026-10-29T14:06:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:40.080331+00:00"
+    },
+    {
+      "id": "adcfd22afef5385a",
+      "source": "Habertürk",
+      "title": "Peribacalarındaki çöküğün sebebi ne?",
+      "summary": "Peribacalarında meydana gelen göçüğün ardından gözler bölgedeki kaya yapılarına çevrildi. Habertürk'e konuşan Jeoloji Mühendisi Dr. Ramazan Demirtaş, meydana gelen çöküğün olası nedenlerini değerlendirerek aşırı yağışların, kaya çatlaklarının ve sıcaklık değişimlerinin bu süreçteki etkisini anlattı",
+      "link": "https://www.haberturk.com/gundem/jeoloji-muhendisi-ramazan-demirtas-peribacalarindaki-cokugun-edenlerini-haberturk-e-anlatti-3923524",
+      "published": "2026-10-29T14:05:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:40.080381+00:00"
+    },
+    {
+      "id": "86d7da527bd72fe0",
+      "source": "Habertürk",
+      "title": "Tıbbi yardımla hayatını kaybetti",
+      "summary": "İleri evre kanser teşhisi alan 95 yaşındaki oyuncu Barbara Barrie, tıbbi yardımla yaşamını yitirdi",
+      "link": "https://www.haberturk.com/magazin/95-yasindaki-oyuncu-barbara-barrie-tibbi-yardimla-hayatini-kaybetti-3923523",
+      "published": "2026-10-29T14:05:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:40.080406+00:00"
+    },
+    {
+      "id": "163947ac2ba68a70",
+      "source": "Milliyet",
+      "title": "Bakan Gürlek'ten Kapadokya'da peribacasının çökmesiyle ilgili açıklama",
+      "summary": "Gürlek, NSosyal hesabından yaptığı açıklamada, şunları ifade etti: \"Nevşehir'imizin merkez ilçesine bağlı Göreme beldesinde meydana gelen peribacası çökmesine ilişkin Nevşehir Cumhuriyet Başsavcılığımızca ivedilikle soruşturma başlatılmış, 1 Cumhuriyet başsavcıvekilimiz ve 2 Cumhuriyet savcımız görevlendirilmiştir. İlk belirlemelere göre olayda 2 kişi hayatını kaybetmiş, 5 kişi yaralanmıştır. Enka",
+      "link": "https://www.milliyet.com.tr/gundem/bakan-gurlekten-kapadokyada-peribacasinin-cokmesiyle-ilgili-aciklama-7690315",
+      "published": "2026-10-29T14:05:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:50.349557+00:00"
+    },
+    {
+      "id": "a672bddfd70e8e0b",
+      "source": "Cumhuriyet",
+      "title": "Engelli oğlunu her gün sırtında dereyi geçiriyordu: Kaymakamlık harekete geçti!",
+      "summary": "Sivas'ta engelli oğlunu okula gönderebilmek için her gün sırtında dereyi geçiren babanın yardım çağrısı karşılık buldu. Kangal Kaymakamlığı, yol iyileştirme çalışmalarının başladığını ve öğrencinin bundan sonra okul servisiyle doğrudan evinden alınacağını duyurdu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/engelli-oglunu-her-gun-sirtinda-dereyi-geciriyordu-kaymakamlik-harekete-gecti-2551490",
+      "published": "2026-10-29T14:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:44.113989+00:00"
+    },
+    {
+      "id": "7a88a25d3b503f43",
+      "source": "Kısa Dalga",
+      "title": "Bir dakikada bugün ne oldu?",
+      "summary": "Gün biterken, günün öne çıkan manşetlerini bir araya getirdik.",
+      "link": "https://kisadalga.net/kisadalgatv/detay/bir-dakikada-bugun-ne-oldu-741-141272",
+      "published": "2026-10-29T14:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:56.247211+00:00"
+    },
     {
       "id": "c96f726fe90bbddd",
       "source": "Akşam",
@@ -74,6 +206,17 @@
       "fetched_at": "2026-10-29T14:05:43.778008+00:00"
     },
     {
+      "id": "302d97454c96201c",
+      "source": "Finans Gündem",
+      "title": "ECB faizleri sabit tuttu, enerji şokuna dikkat çekti",
+      "summary": "Avrupa Merkez Bankası (ECB) faizleri sabit tuttu. Mevduat faizi yüzde 2.50'de kalırken banka, enerji şokunun enflasyonu yükseltip büyümeyi yavaşlatabileceği uyarısında bulundu.",
+      "link": "https://www.finansingundemi.com/haber/ecb-faizleri-sabit-tuttu-enerji-sokuna-dikkat-cekti/1913081",
+      "published": "2026-10-29T14:02:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:11:04.741414+00:00"
+    },
+    {
       "id": "7978f6eac3e49de8",
       "source": "Akşam",
       "title": "Pakistan'dan 29 Ekim Cumhuriyet Bayramı mesajı! Başbakan Şerif: Emsalsiz bir kardeşlik bağına sahibiz",
@@ -96,6 +239,17 @@
       "fetched_at": "2026-10-29T14:05:42.155840+00:00"
     },
     {
+      "id": "53fd84443e7eb0b8",
+      "source": "OdaTV",
+      "title": "Sayıştay'ın 2025 belediyeler raporunda usulsüzlük yığını... Üç büyükşehir ve çok sayıda ilçe mercek altında",
+      "summary": "Sayıştay Başkanlığı, belediyelerin 2025 yılı hesap ve işlemlerine ilişkin düzenlilik denetim raporlarını kamuoyuna açıkladı. İstanbul, Ankara ve İzmir büyükşehir belediyelerinin yanı sıra iktidar ve muhalefet yönetimindeki çok sayıda ilçe belediyesindeki usulsüzlük ortaya çıktı.",
+      "link": "https://www.odatv.com/guncel/sayistayin-2025-belediyeler-raporunda-usulsuzluk-kasirgasi-uc-buyuksehir-ve-cok-sayida-ilce-mercek-altinda-120168819",
+      "published": "2026-10-29T14:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:55.207417+00:00"
+    },
+    {
       "id": "dfdfa94ce806e635",
       "source": "Star",
       "title": "TÜİK ile Kuzey Makedonya arasında mutabakat zaptı",
@@ -116,6 +270,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-29T14:01:30.203246+00:00"
+    },
+    {
+      "id": "ac5ee18779bc2c40",
+      "source": "Türkiye Gazetesi",
+      "title": "KKTC'den Mahmud Abbas'a uyarı: Rum liderle yaptığınız açıklamayı not ettik",
+      "summary": "Filistin Devlet Başkanı Mahmud Abbas'ın Güney Kıbrıs Rum Yönetimi'ne (GKRY) yapacağı ziyarete Kuzey Kıbrıs Türk Cumhuriyeti'nden (KKTC) sert tepki geldi. Abbas'ın Rum lider Nikos Hristodulidis ile Kıbrıs meselesini görüşecek olmasına karşı çıkan KKTC, Filistin yönetimine Kıbrıs Türk halkının haklarını gözetme çağrısı yaptı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/kktcden-mahmud-abbasa-uyari-rum-liderle-yaptiginiz-aciklamayi-not-ettik-1825927",
+      "published": "2026-10-29T13:58:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T14:10:46.537414+00:00"
     },
     {
       "id": "cbc4d061e24c370e",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-29T11:55:33.639184+00:00"
-    },
-    {
-      "id": "3e97a5005b99de6c",
-      "source": "Habertürk",
-      "title": "Vergi işlemlerinde yapay zeka dönemi",
-      "summary": "Gelir İdaresi Başkanlığı, 7/24 hizmet verecek yapay zeka destekli Dijital Mükellef Temsilcisi Projesi’ni hayata geçirecek. Yeni sistemle vergi hizmetlerinde dijitalleşme hızlandırılacak",
-      "link": "https://www.haberturk.com/ekonomi/gibden-yapay-zekali-mukellef-temsilcisi-3923493",
-      "published": "2026-10-29T11:48:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:55:27.733407+00:00"
-    },
-    {
-      "id": "ef07e7fa1c9d1c0a",
-      "source": "Star",
-      "title": "Gökyüzünde Türk imzası! SOLOTÜRK'ün gösterisine binlerce kişi akın etti",
-      "summary": "Türk Hava Kuvvetlerinin gösteri ekibi SOLOTÜRK, 29 Ekim Cumhuriyet Bayramı ve Türkiye Cumhuriyeti'nin 103. kuruluş yıl dönümü dolayısıyla Eskişehir'de gösteri uçuşu gerçekleştirdi.",
-      "link": "https://www.star.com.tr/guncel/gokyuzunde-turk-imzasi-soloturkun-gosterisine-binlerce-kisi-akin-etti-haber-2049918/",
-      "published": "2026-10-29T11:48:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:50:47.080581+00:00"
-    },
-    {
-      "id": "97785f709d514bf1",
-      "source": "Serbestiyet",
-      "title": "Fon soruşturmasında yeni iddialar: 150 milletvekili, 180 yargı mensubu ile 30 vali ve kaymakamın adı geçiyor",
-      "summary": "Fon vurgununa ilişkin iddialar kamuoyunda tartışılmaya devam ediyor. Yeni Parti lideri Özgür Özel'in yaklaşık 60 AK Partili milletvekili veya yakınının fonlarda bulunduğunu öne sürmesinin ardından, farklı partilerden isimlerle birlikte bu sayının 150'ye ulaştığı iddia edildi. Ayrıca 180 yargı mensubu ile 30 vali ve kaymakamın adının da açıklanmayan listelerde bulunduğu ileri sürüldü. Fon soruşturm",
-      "link": "https://serbestiyet.com/haberler/fon-sorusturmasinda-yeni-iddialar-150-milletvekili-180-yargi-mensubu-ile-30-vali-ve-kaymakamin-adi-geciyor-252457/",
-      "published": "2026-10-29T11:47:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:50:51.209849+00:00"
-    },
-    {
-      "id": "8503a64f103ea149",
-      "source": "Star",
-      "title": "Taylan Antalyalı: Umarım bu hafta Kocaelispor maçıyla bir çıkış yakalarız",
-      "summary": "Trendyol Süper Lig'in 10. haftasında Kocaelispor ile karşılaşacak Çaykur Rizespor'un kaptanı Taylan Antalyalı, maçı kazanarak çıkışa geçmek istediklerini söyledi.",
-      "link": "https://www.star.com.tr/spor/taylan-antalyali-umarim-bu-hafta-kocaelispor-maciyla-bir-cikis-yakalariz-haber-2049917/",
-      "published": "2026-10-29T11:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:50:47.080607+00:00"
-    },
-    {
-      "id": "c597ddcb1056d1c3",
-      "source": "Habertürk",
-      "title": "Nexus Trio ENKA Sanat'ta",
-      "summary": "ENKA Sanat, 3 Kasım Salı akşamı keman sanatçısı Hande Küden, piyanist Birsen Ulucan ve viyolonsel sanatçısı Çağ Erçağ’ı, Nexus Trio çatısı altında aynı sahnede buluşturuyor. Berlin Philharmonie’deki prömiyerinin ardından Türkiye’deki ilk konserini ENKA Oditoryumu’nda verecek olan topluluk, oda müziğinin seçkin örneklerini müzikseverlerle buluşturmaya hazırlanıyor",
-      "link": "https://www.haberturk.com/kultur-sanat/nexus-trio-enka-sanat-ta-3923492",
-      "published": "2026-10-29T11:46:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:55:27.733430+00:00"
-    },
-    {
-      "id": "cd28ac6fe88cef05",
-      "source": "Türkiye Gazetesi",
-      "title": "Toprak kayması gün yüzüne çıkardı: Metrelerce yükseklikte",
-      "summary": "Ankara'da toprak kaymasının ardından temeli ortaya çıkan bir binanın estetikten uzak görüntüsü dikkat çekiyor. Mamak ilçesinde bulunan ve beton temeli metrelerce uzayan binanın çevresin güçlendirme çalışmaları yapıldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/toprak-kaymasi-gun-yuzune-cikardi-ankaradaki-estetikten-uzak-binanin-temeli-metrelerc-1825903",
-      "published": "2026-10-29T11:46:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:50:43.411466+00:00"
-    },
-    {
-      "id": "d169990c0aac1895",
-      "source": "Akşam",
-      "title": "Boyları 1.90'ı aşıyor! İşte Türk televizyonlarının uzun boylu yıldızları",
-      "summary": "Türk televizyon ve sinema dünyasının tanınan erkek oyuncuları, boylarıyla da gündeme geliyor. Kenan İmirzalıoğlu, Onur Tuna, Engin Akyürek ve Furkan Palalı'nın da aralarında bulunduğu, boyları 1.90 ve üzerine ulaşan isimler merak konusu oldu.",
-      "link": "https://www.aksam.com.tr/venus/boylari-190i-asiyor-iste-turk-televizyonlarinin-uzun-boylu-yildizlari/haber-1710216",
-      "published": "2026-10-29T11:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:50:46.426144+00:00"
-    },
-    {
-      "id": "6aafa9a7f7c65cd6",
-      "source": "Karar",
-      "title": "Ailesinde kalp hastalığı olanlar dikkat: \"Yılda iki kez kontrol şart!\"",
-      "summary": "Kalp ve damar hastalıklarında erken tanının önemine dikkat çeken uzmanlar, ailesinde tıkanıklık öyküsü bulunan kişilerin yılda en az iki kez kontrolden geçmesi gerektiğini vurguladı. Yürüme mesafesinde kısalma veya nefes darlığı gibi belirtilerin sigaraya bağlanıp ötelenmemesi gerektiği uyarısında bulunuldu.",
-      "link": "https://www.karar.com/saglik-haberleri/ailesinde-kalp-hastaligi-olanlar-dikkat-yilda-iki-kez-kontrol-sart-2081277",
-      "published": "2026-10-29T11:45:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:45:44.834492+00:00"
-    },
-    {
-      "id": "d9d3f46e348db647",
-      "source": "Türkiye Gazetesi",
-      "title": "Hatay'da kuyumcudan 100 bin TL'lik altın yüzük çalan hırsızlar yakalandı! O anlar kamerada",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem-videolari/hatayda-kuyumcudan-100-bin-tllik-altin-yuzuk-calan-hirsizlar-yakalandi-o-anlar-kamera-1825901",
-      "published": "2026-10-29T11:44:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:50:43.411497+00:00"
-    },
-    {
-      "id": "e0527c2a8d3cadb7",
-      "source": "OdaTV",
-      "title": "Elon Musk’tan dikkat çeken para açıklaması: Süper yapay zekâ bolluğunda birikim anlamsız olacak",
-      "summary": "Elon Musk, süper yapay zekânın yaratacağı bolluk döneminde uzak gelecek için para biriktirmenin anlamsız hale gelebileceğini savundu.",
-      "link": "https://www.odatv.com/dunya/elon-musktan-dikkat-ceken-para-aciklamasi-super-yapay-zeka-bollugunda-birikim-anlamsiz-olacak-120168802",
-      "published": "2026-10-29T11:43:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:50:48.403159+00:00"
-    },
-    {
-      "id": "c4d0aec64599a197",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Güney Kore'de eski devlet başkanı Yoon'un temyiz duruşmasında idamı talep edildi",
-      "summary": "Güney Kore'de özel yetkili savcılar, \"ayaklanmaya liderlik etmekten\" suçlu bulunan ve müebbet hapse çarptırılan eski Devlet Başkanı Yoon Suk Yeol'a idam cezası verilmesini talep etti.",
-      "link": "https://www.aa.com.tr/tr/dunya/guney-korede-eski-devlet-baskani-yoonun-temyiz-durusmasinda-idami-talep-edildi-/4104897",
-      "published": "2026-10-29T11:43:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T12:05:36.223912+00:00"
-    },
-    {
-      "id": "2d58daca18d388dd",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Eski ABD Başkanı Obama, Trump'ın \"kimsenin istemediği, gereksiz bir savaşı başlattığını\" söyledi",
-      "summary": "Eski ABD Başkanı Barack Obama, ABD Başkanı Donald Trump'ın \"kimsenin istemediği gereksiz bir savaş başlattığını\" belirtti.",
-      "link": "https://www.aa.com.tr/tr/dunya/eski-abd-baskani-obama-trumpin-kimsenin-istemedigi-gereksiz-bir-savasi-baslattigini-soyledi/4104895",
-      "published": "2026-10-29T11:43:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T12:05:36.223970+00:00"
-    },
-    {
-      "id": "3e72aa043a7e7c20",
-      "source": "Bir Gün",
-      "title": "Can Yayınları Genel Yayın Yönetmeni Cem Akaş son yolculuğuna uğurlandı",
-      "summary": "Dün gün yaşamını yitiren Can Yayınları Genel Yayın Yönetmeni Cem Akaş, son yolcuğuna uğurlandı. Akaş, 19 Ekim’de yaşamını yitiren oğlunun mezarının bulunduğu Ümraniye Hekimbaşı Mezarlığı’nda defnedilecek.",
-      "link": "https://www.birgun.net/haber/can-yayinlari-genel-yayin-yonetmeni-cem-akas-son-yolculuguna-ugurlandi-743326",
-      "published": "2026-10-29T11:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T12:01:07.511202+00:00"
-    },
-    {
-      "id": "8fb73565030b5ba1",
-      "source": "Cumhuriyet",
-      "title": "Kamufle oldular... Belediye otobüsünde 'bando' sürprizi: Yolcuların şaşkınlığı kameraya yansıdı",
-      "summary": "Düzce Belediyesi'nin Türk bayraklarıyla süslediği belediye otobüsünde montlarıyla kamufle olan bando takımı, bir anda Cumhuriyet marşları çalmaya başladı. Yolcuların şaşkınlığı kameralara yansıdı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/kamufle-oldular-belediye-otobusunde-bando-surprizi-yolcularin-saskinligi-kameraya-yansidi-2551421",
-      "published": "2026-10-29T11:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:45:39.056816+00:00"
-    },
-    {
-      "id": "d0eb4586a1f9b30e",
-      "source": "Yeni Şafak",
-      "title": "İstanbul'daki kaçak sigara operasyonunda 120 bin dolu makaron ele geçirildi",
-      "summary": "İstanbul'da Çekmeköy İlçe Emniyet Müdürlüğüne bağlı ekipler, kaçakçılık suçunun önlenmesi ve zanlıların yakalanmasına yönelik çalışma yürüttü. Nişantepe Mahallesi'ndeki bir ikamette kaçak sigara üretildiğini tespit eden ekipler, adrese operasyon düzenledi. Operasyonda 3 şüpheli yakalandı. Adreste yapılan aramada 305 kilogram kıyılmış tütün, 900 paket bandrolsüz sigara, 120 bin dolu makaron, 96 bin",
-      "link": "https://www.yenisafak.com/video/gundem/istanbuldaki-kacak-sigara-operasyonunda-120-bin-dolu-makaron-ele-gecirildi-4868215",
-      "published": "2026-10-29T11:42:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T11:45:43.843342+00:00"
     }
   ]
 }

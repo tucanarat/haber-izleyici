@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-29T02:05:59.429857+00:00",
+  "last_updated": "2026-10-29T02:11:03.840110+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 472,
+  "new_items_this_run": 471,
   "items": [
+    {
+      "id": "95dcf32871fcc12e",
+      "source": "Sözcü",
+      "title": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+      "summary": "İstanbul'da 3 ilçede yollar trafiğe kapatılacak",
+      "link": "https://www.sozcu.com.tr/istanbul-da-3-ilcede-yollar-trafige-kapatilacak-p373711",
+      "published": "2026-10-29T02:09:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T02:10:43.370447+00:00"
+    },
     {
       "id": "8ee4ba7999070cfe",
       "source": "Aydınlık",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T19:40:37.483502+00:00"
-    },
-    {
-      "id": "0624330c07e6c394",
-      "source": "Yeni Şafak",
-      "title": "Ankara’da 29 Ekim’de bazı yollar trafiğe kapatılacak",
-      "summary": "Ankara’da Cumhuriyet’in 103’üncü kuruluş yıl dönümü kutlamaları kapsamında düzenlenecek Fener Alayı Yürüyüşü nedeniyle bazı yollar araç trafiğine kapatılacak.",
-      "link": "https://www.yenisafak.com/gundem/ankarada-hangi-yollar-trafige-kapali-29-ekim-ankara-trafige-kapatilacak-yollar-ve-alternatif-rotalar-4868054",
-      "published": "2026-10-28T19:33:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T19:35:38.693847+00:00"
     }
   ]
 }

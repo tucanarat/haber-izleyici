@@ -1,12 +1,56 @@
 {
-  "last_updated": "2026-10-29T04:51:09.540153+00:00",
+  "last_updated": "2026-10-29T04:56:00.779688+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 482,
+  "new_items_this_run": 487,
   "items": [
+    {
+      "id": "cc332093c5995f9b",
+      "source": "Akşam",
+      "title": "Ay yolculuğumuz 2027'de başlıyor",
+      "summary": "Türkiye, uzay havasındaki değişimlerin etkilerini izlemek ve modellemek üzere gelecek yıl Uzay Havası Uygulama Merkezi'nin kurulmasına yönelik hazırlıklara başlayacak.",
+      "link": "https://www.aksam.com.tr/teknoloji/ay-yolculugumuz-2027de-basliyor/haber-1710121",
+      "published": "2026-10-29T04:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:39.771324+00:00"
+    },
+    {
+      "id": "a18be55505e064b3",
+      "source": "Sabah",
+      "title": "İstanbul'da Cumhuriyet Bayramı kutlamaları dolayısıyla bazı yollar trafiğe kapatıldı",
+      "summary": "İstanbul'da 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü kutlamaları dolayısıyla bazı yollar trafiğe kapatıldı. Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/istanbulda-cumhuriyet-bayrami-kutlamalari-dolayisiyla-bazi-yollar-trafige-kapatildi-7690663",
+      "published": "2026-10-29T04:50:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:39.291705+00:00"
+    },
+    {
+      "id": "1299c5134f94f62a",
+      "source": "Akşam",
+      "title": "İstanbullu sürücüler dikkat! Bugün bu yollar kapalı",
+      "summary": "İstanbul'da Cumhuriyet Bayramı'nın 103. yıl dönümü kutlamaları ve tören geçişi dolayısıyla Vatan Caddesi başta olmak üzere bağlantılı tüm cadde ve sokaklar trafiğe kapatılırken, polis ekiplerinin geniş güvenlik önlemi aldığı bölgede sürücüler Valilik tarafından açıklanan alternatif rotalara yönlendiriliyor.",
+      "link": "https://www.aksam.com.tr/yasam/istanbullu-suruculer-dikkat-bugun-bu-yollar-kapali/haber-1710120",
+      "published": "2026-10-29T04:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:39.771365+00:00"
+    },
+    {
+      "id": "69c9b6615d03840d",
+      "source": "Ekonomim",
+      "title": "Fitch: ABD'deki mali baskılar, ara seçim sonucundan bağımsız olarak sürecek",
+      "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, ABD&#039;de 3 Kasım&#039;da yapılacak ara seçimlerin ardından Kongre&#039;deki dağılımın bütçe ve borç limiti konusunda anlaşmazlık riskini artırabileceğini ancak mali baskıların seçim sonucundan bağımsız olarak süreceğini bildirdi.",
+      "link": "https://www.ekonomim.com/kuresel-ekonomi/fitch-abddeki-mali-baskilar-ara-secim-sonucundan-bagimsiz-olarak-surecek-haberi-927728",
+      "published": "2026-10-29T04:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:51.851898+00:00"
+    },
     {
       "id": "9511d0eb596d227a",
       "source": "Akşam",
@@ -30,6 +74,17 @@
       "fetched_at": "2026-10-29T04:50:43.635980+00:00"
     },
     {
+      "id": "f6c3d5a1a27a822f",
+      "source": "Habertürk",
+      "title": "952 milyon liralık avans ödemesi hesaplara yatırıldı",
+      "summary": "Tarım ve Orman Bakanlığınca, toplam 952 milyon lira büyüklüğündeki 5'inci avans ödemeleri pancar üreticisi çiftçilerin hesaplarına aktarıldı",
+      "link": "https://www.haberturk.com/ekonomi/bakan-yumakli-5-inci-avans-odemeleri-pancar-ciftcilerinin-hesaplarina-yatirildi-3923344",
+      "published": "2026-10-29T04:46:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:29.267250+00:00"
+    },
+    {
       "id": "bf944dac5f54db4b",
       "source": "OdaTV",
       "title": "Gençler sosyal medyadan bıktı",
@@ -50,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-29T04:50:54.164738+00:00"
+    },
+    {
+      "id": "7ef70149acdcd660",
+      "source": "Habertürk",
+      "title": "Bazı yollar trafiğe kapatıldı",
+      "summary": "29 Ekim Cumhuriyet Bayramı kutlamaları kapsamında İstanbul'da bazı yollar trafiğe kapatıldı. 29 Ekim Cumhuriyet Bayramı töreninin gerçekleştireleceği Fatih ilçesinde sabah 07.00 itibarıyla Adnan Menderes Bulvarı (Vatan Caddesi) ve bu caddeye bağlanan tüm sokaklar trafiğe kapatıldı.",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-istanbul-da-cumhuriyet-bayrami-kutlamalari-dolayisiyla-bazi-yollar-trafige-kapatildi-3923343",
+      "published": "2026-10-29T04:44:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:29.267295+00:00"
     },
     {
       "id": "f7ce5bcc12446d00",
@@ -94,6 +160,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-29T04:45:55.433177+00:00"
+    },
+    {
+      "id": "19cbd516c501de5e",
+      "source": "Habertürk",
+      "title": "\"Kazakistan'la ticaret hedefimiz 15 milyar dolar\"",
+      "summary": "Ticaret Bakanı Ömer Bolat, Kazakistan ile öncelikli hedefin, 15 milyar dolarlık ikili ticaret hacmi hedefine en kısa sürede ulaşmak olduğuna dikkati çekerek, \"Bu ortak hedef doğrultusunda kararlılıkla çalışmaya devam edeceğiz\" dedi",
+      "link": "https://www.haberturk.com/ekonomi/bakan-bolat-kazakistan-la-ticaret-hedefimiz-15-milyar-dolar-3923342",
+      "published": "2026-10-29T04:40:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:29.267327+00:00"
+    },
+    {
+      "id": "fbd42fe43ab75d51",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İstanbul'da Cumhuriyet Bayramı kutlamaları dolayısıyla bazı yollar trafiğe kapatıldı",
+      "summary": "İstanbul'da 29 Ekim Cumhuriyet Bayramı'nın 103. yıl dönümü kutlamaları dolayısıyla bazı yollar trafiğe kapatıldı.",
+      "link": "https://www.aa.com.tr/tr/gundem/istanbulda-cumhuriyet-bayrami-kutlamalari-dolayisiyla-bazi-yollar-trafige-kapatildi/4104452",
+      "published": "2026-10-29T04:40:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:31.802537+00:00"
+    },
+    {
+      "id": "e26dae6281308889",
+      "source": "Habertürk",
+      "title": "26 sarı, 4 turuncu uyarı! Şiddetli yağışlarla sel tehlikesi",
+      "summary": "Meteoroloji'den yapılan son hava durumu tahminlerine göre; Türkiye'nin tamamı sağanak yağışların etkisi altında. 26 il için sarı, 4 il için de turuncu kodlu uyarı verilirken; Marmara, Akdeniz ve Güneydoğu Anadolu Bölgesi'nde şiddetli yağışlar sel tehlikesini de beraberinde getiriyor.",
+      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-26-sari-4-turuncu-uyari-siddetli-yagislarla-sel-tehlikesi-29-ekim-hava-durumu-3923341",
+      "published": "2026-10-29T04:39:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-29T04:55:29.267361+00:00"
     },
     {
       "id": "b0dc19f7648e15ab",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-28T20:41:03.147570+00:00"
-    },
-    {
-      "id": "236c4b2ca6cf0c91",
-      "source": "Evrensel",
-      "title": "Türkiye Kupası 3. eleme turu: Bugün oynanan 20 maçla devam edildi",
-      "summary": "Futbolda Türkiye Kupası 3. eleme turunda bugün 20 maç yapıldı. Fethiyespor-Eyüpspor müsabakası, yoğun yağışla ertelenirken Karabük İdmanyurduspor-Ekinciler İskenderunspor maçına ise deplasman takımı çıkmadı",
-      "link": "https://www.evrensel.net/haber/6007052/turkiye-kupasi-3-eleme-turu-bugun-oynanan-20-macla-devam-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-28T20:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T21:01:01.831927+00:00"
-    },
-    {
-      "id": "4574c1e223f2844a",
-      "source": "Diken",
-      "title": "Netanyahu, Arap partilerini 'seçimi çalmak'la suçladı",
-      "summary": "Netanyahu, Arap partilerini 'seçimi çalmak'la suçladı 28.10.2026 Diken İsrail Başbakanı Binyamin Netanyahu'nun liderliğini yaptığı Likud Partisi, seçimlerde rekor düzeyde vekil çıkaran Arap partilerinin 'seçimi çaldığını' iddia etti. İsrail polisiyse iddiayı kanıtlar bir bulguya rastlamadığını bildirdi. The post Netanyahu, Arap partilerini 'seçimi çalmak'la suçladı appeared first on #site_linkat 2",
-      "link": "https://www.diken.com.tr/netanyahu-arap-partilerini-secimi-calmakla-sucladi/?utm_source=rss&utm_medium=rss&utm_campaign=netanyahu-arap-partilerini-secimi-calmakla-sucladi",
-      "published": "2026-10-28T20:37:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T20:40:54.438364+00:00"
-    },
-    {
-      "id": "eb8c3ef1c30575ba",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Fitch: Yapay zeka ve piyasa oynaklığına ilişkin riskler 2027'ye girerken artıyor",
-      "summary": "Fitch Ratings, yapay zeka yatırımlarına yönelik riskler, Orta Doğu kaynaklı jeopolitik gerilimlerin enerji fiyatlarını yüksek tutması ve finansman koşullarının sıkılaşmasının, yeni yıla girerken küresel risk ortamını ağırlaştırdığını bildirdi.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/fitch-yapay-zeka-ve-piyasa-oynakligina-iliskin-riskler-2027ye-girerken-artiyor/4104387",
-      "published": "2026-10-28T20:37:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T20:40:39.990081+00:00"
-    },
-    {
-      "id": "b16200d5eed2a4fc",
-      "source": "Aydınlık",
-      "title": "Cristiano Ronaldo, Messi'yi geride bıraktı! Tarihin en iyi Ballon d'Or sezonu seçildi",
-      "summary": "Cristiano Ronaldo, Ballon d&#039;Or&#039;un 70. yılı kapsamında düzenlenen B.O.A.T. taraftar oylamasını kazandı. Portekizli yıldızın Manchester United formasıyla geçirdiği 2008 sezonu, Lionel Messi&#039;nin 2012 yılındaki performansını geride bırakarak zirveye yerleşti.",
-      "link": "https://www.aydinlik.com.tr/haber/cristiano-ronaldo-messiyi-geride-birakti-tarihin-en-iyi-ballon-dor-sezonu-secildi-596590",
-      "published": "2026-10-28T20:37:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T20:40:52.490160+00:00"
-    },
-    {
-      "id": "9498c1bbf7cff6d1",
-      "source": "Finans Gündem",
-      "title": "Fed'in faiz kararı sonrasında New York borsası pozitif kapandı",
-      "summary": "New York borsası, Fed'in politika faizini sabit bırakmasının ardından günü yükselişle tamamladı.",
-      "link": "https://www.finansingundemi.com/haber/fedin-faiz-karari-sonrasinda-new-york-borsasi-pozitif-kapandi/1913018",
-      "published": "2026-10-28T20:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T20:41:04.112785+00:00"
-    },
-    {
-      "id": "4a3ef8ffc53d9e4f",
-      "source": "Milliyet",
-      "title": "Aydın'da sel sularına kapılan araçtan can pazarı! Sürücü ve yolcu kurtarıldı",
-      "summary": "Olay, saat 17.00 sıralarında Çavdar ve Mersinbelen mahalleleri arasında kalan Sarıçay Deresi'nde meydana geldi. Bölgede etkili olan kuvvetli yağışın ardından deredeki su seviyesi aniden yükseldi. Köprü bulunmayan noktadan aracıyla karşıya geçmeye çalışan Barış G.’nin kullandığı 09 TM 225 plakalı otomobil, debisi artan sel sularına kapılarak mahsur kaldı. İhbar üzerine adrese jandarma ve sağlık eki",
-      "link": "https://www.milliyet.com.tr/gundem/aydinda-sel-sularina-kapilan-aractan-can-pazari-surucu-ve-yolcu-kurtarildi-7689664",
-      "published": "2026-10-28T20:36:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T20:40:47.435268+00:00"
-    },
-    {
-      "id": "50da91b1e415fdb1",
-      "source": "Bir Gün",
-      "title": "Sarıgül soruşturması: Berberi dahil 10 kişiye gözaltı kararı",
-      "summary": "İstanbul Cumhuriyet Başsavcılığı'nın Sarıgül Ailesi'ne karşı yürüttüğü kara para soruşturmasında 10 kişinin daha gözaltına alınmasına karar verildi.",
-      "link": "https://www.birgun.net/haber/sarigul-sorusturmasi-berberi-dahil-10-kisiye-gozalti-karari-743220",
-      "published": "2026-10-28T20:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T21:05:41.104412+00:00"
-    },
-    {
-      "id": "588a0e7a975e4e76",
-      "source": "Star",
-      "title": "TCG Anadolu'dan kanatlandı! Bayraktar TB3'ten Sonoboy atışı",
-      "summary": "BAYKAR'ın yerli ve milli imkanlarla geliştirdiği Bayraktar TB3 Silahlı İnsansız Hava Aracı (SİHA) TCG Anadolu'dan havalanarak Baykar SAS POD ile gerçekleştirdiği sonoboy atış testlerini başarıyla tamamladı.",
-      "link": "https://www.star.com.tr/savunma/tcg-anadoludan-kanatlandi-bayraktar-tb3ten-sonoboy-atisi-haber-2049803/",
-      "published": "2026-10-28T20:36:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T20:40:49.479596+00:00"
-    },
-    {
-      "id": "0fd570cda63ec18b",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Belçika'daki Mouvement Reformateur Partisi heyeti, AA'yı ziyaret etti",
-      "summary": "Belçika'daki Mouvement Reformateur (MR) Genel Başkanı Georges-Louis Bouchez ve heyeti, Anadolu Ajansı (AA) Genel Müdürlüğünü ziyaret etti.",
-      "link": "https://www.aa.com.tr/tr/kurumsal-haberler/belcikadaki-mouvement-reformateur-partisi-heyeti-aayi-ziyaret-etti/4104386",
-      "published": "2026-10-28T20:35:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-28T20:40:39.990113+00:00"
     }
   ]
 }

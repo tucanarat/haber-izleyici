@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-30T03:25:58.688398+00:00",
+  "last_updated": "2026-10-30T03:31:22.370938+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 454,
+  "new_items_this_run": 452,
   "items": [
+    {
+      "id": "01f4d950e8d982ce",
+      "source": "OdaTV",
+      "title": "Kayseri'de bir garip kaza: Otomobil, kayalıklardan dükkanların üzerine uçtu",
+      "summary": "Kayseri&#039;de kontrolden çıkan otomobil, yaklaşık 50 metre yükseklikteki kayalıklardan dükkanların üzerine uçtu. Ters dönen otomobilde sıkışan sürücü A.D. itfaiye ekiplerince kurtarılarak hastaneye kaldırılırken, dükkanlarda maddi hasar meydana geldi.",
+      "link": "https://www.odatv.com/guncel/kayseride-bir-garip-kaza-otomobil-kayaliklardan-dukkanlarin-uzerine-uctu-120168865",
+      "published": "2026-10-30T03:30:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T03:31:12.335489+00:00"
+    },
     {
       "id": "79409c0747a3cd72",
       "source": "Milliyet",
@@ -30,6 +41,17 @@
       "fetched_at": "2026-10-30T03:20:41.196278+00:00"
     },
     {
+      "id": "0ea938fa69f8660a",
+      "source": "Bloomberg HT",
+      "title": "Intel'in kârı üçüncü çeyrekte geriledi",
+      "summary": "ABD'li çip üreticisi Intel'in net karı, yılın üçüncü çeyreğinde yıllık bazda yüzde 18 azalış gösterdi.",
+      "link": "https://www.bloomberght.com/intel-in-kri-ucuncu-ceyrekte-geriledi-3792816",
+      "published": "2026-10-30T03:17:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T03:31:16.275389+00:00"
+    },
+    {
       "id": "8246131d8f15f29d",
       "source": "Habertürk",
       "title": "A101 29 Ekim aktüel ürünler kataloğu",
@@ -39,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-30T03:25:30.068785+00:00"
+    },
+    {
+      "id": "96eb9c3c8a41b18d",
+      "source": "Finans Gündem",
+      "title": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda bir gemide yangın çıktı",
+      "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda Umman açıklarında seyreden bir gemide yangın çıktığını duyurdu.",
+      "link": "https://www.finansingundemi.com/haber/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti/1913125",
+      "published": "2026-10-30T03:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T03:31:18.292587+00:00"
     },
     {
       "id": "f4a6b1fef5b9613d",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-29T19:31:16.137582+00:00"
-    },
-    {
-      "id": "95b5a111beec711f",
-      "source": "Aydınlık",
-      "title": "Nevzat Aydın'ı 'Çocuğunu öldürürüz' diye tehdit etmişlerdi! 4 şüpheli gözaltında",
-      "summary": "İş insanı Nevzat Aydın’ı, oğlunun Trabzonspor-Beşiktaş maçında seremoniye çıkması için 100 milyon lira ödediği yönündeki haberlerin ardından, Aydın&#039;ı arayarak 1 milyon avro isteyen ve çocuğunu öldürmekle tehdit eden şüphelilere yönelik operasyon düzenlendi. Operasyonda 4 şüpheli gözaltına alındı.",
-      "link": "https://www.aydinlik.com.tr/haber/nevzat-aydini-cocugunu-oldururuz-diye-tehdit-etmislerdi-4-supheli-gozaltinda-596736",
-      "published": "2026-10-29T19:28:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T19:35:39.418554+00:00"
-    },
-    {
-      "id": "f3e4d1ef5e2d0262",
-      "source": "Akşam",
-      "title": "Beceriksizlik ve Şiilik üzerinden…",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/beceriksizlik-ve-siilik-uzerinden/haber-1710297",
-      "published": "2026-10-29T19:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T21:01:06.205458+00:00"
-    },
-    {
-      "id": "f9d846ab90f1c141",
-      "source": "Star",
-      "title": "\"Küresel sahnede etkileyici güç\" hatırlatması: Dost ülkeden Türkçe mesaj",
-      "summary": "Pakistan Başbakanı Şahbaz Şerif, İslamabad'daki 29 Ekim resepsiyonunda Cumhurbaşkanı Erdoğan liderliğindeki Türkiye'nin ekonomi, savunma ve diplomaside küresel ölçekte ulaştığı etkileyici güce dikkat çekti. İki ülke arasındaki sarsılmaz stratejik ortaklığı ve Mekke Anlaşması'nın önemini vurgulayan Şerif, salondakilere Türkçe seslenerek tarihi kardeşlik bağlarını \"İki ruh, tek kalp\" sözleriyle özet",
-      "link": "https://www.star.com.tr/dunya/kuresel-sahnede-etkileyici-guc-hatirlatmasi-dost-ulkeden-turkce-mesaj-haber-2049988/",
-      "published": "2026-10-29T19:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T19:31:02.504703+00:00"
     }
   ]
 }

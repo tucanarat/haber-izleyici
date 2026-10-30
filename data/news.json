@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-30T03:35:56.307711+00:00",
+  "last_updated": "2026-10-30T03:41:04.319834+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 456,
+  "new_items_this_run": 455,
   "items": [
+    {
+      "id": "497695b9a074fb9d",
+      "source": "Türkiye Gazetesi",
+      "title": "2026 KPSS ön lisans sonuçları açıklandı",
+      "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM), 2026 KPSS ön lisans sınav sonuçlarını açıkladı. 4 Ekim'de gerçekleştirilen sınavın sonuçları, 30 Ekim Cuma günü saat 06.15 itibarıyla erişime açıldı. Adaylar, T.C. kimlik numaraları ve şifreleriyle ÖSYM'nin sonuç sorgulama ekranından puanlarını öğrenebilecek.",
+      "link": "https://www.turkiyegazetesi.com.tr/egitim/2026-kpss-on-lisans-sonuclari-aciklandi-osym-sonuc-sorgulama-ekrani-erisime-acildi-1825998",
+      "published": "2026-10-30T03:37:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T03:40:40.488874+00:00"
+    },
+    {
+      "id": "528f138739386428",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda bir gemide yangın çıktı",
+      "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda Umman açıklarında seyreden bir gemide yangın çıktığını duyurdu.",
+      "link": "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti/4105557",
+      "published": "2026-10-30T03:37:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T03:40:37.545283+00:00"
+    },
     {
       "id": "267903f892607d77",
       "source": "Sözcü",
@@ -17,6 +39,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-30T03:35:35.184698+00:00"
+    },
+    {
+      "id": "3bf0d6866d8410df",
+      "source": "Bloomberg HT",
+      "title": "Japonya Merkez Bankası faizi sabit tuttu, artırım sinyali verdi",
+      "summary": "Japonya Merkez Bankası (BOJ), 2013'te yüzde 2 enflasyon hedefini benimsemesinden bu yana ilk kez fiyat artışlarının genel olarak hedefle uyumlu olduğunu açıkladı.",
+      "link": "https://www.bloomberght.com/japonya-merkez-bankasi-faizi-sabit-tuttu-artirim-sinyali-verdi-3792818",
+      "published": "2026-10-30T03:32:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T03:40:54.606746+00:00"
+    },
+    {
+      "id": "5c05d68de796b986",
+      "source": "Habertürk",
+      "title": "Yıldırım düşen tütün deposunda yangın",
+      "summary": "Mersin'de tütün depolanan antrepoda yıldırım düşmesi sonucu çıkan yangın kontrol altına alındı",
+      "link": "https://www.haberturk.com/gundem/mersin-de-yildirim-dusen-tutun-deposunda-yangin-cikti-3923605",
+      "published": "2026-10-30T03:31:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T03:40:34.616148+00:00"
     },
     {
       "id": "0cbe93f291caf405",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-29T19:40:44.717427+00:00"
-    },
-    {
-      "id": "ce1c7cd90540f471",
-      "source": "DonanımHaber",
-      "title": "Samsung, Çin'e özel katlanabilir W27 modelini tanıttı: İşte özellikleri ve fiyatı",
-      "summary": "Samsung, Çin pazarına özel yeni katlanabilir telefonu W27’yi tanıttı. Galaxy Z Fold 8 Ultra'yı temel alan model, altın detaylı tasarımı ve uydu bağlantısı desteğiyle öne çıkıyor.",
-      "link": "https://www.donanimhaber.com/samsung-cin-e-ozel-katlanabilir-w27-modelini-tanitti--212242",
-      "published": "2026-10-29T19:34:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T19:35:54.789829+00:00"
-    },
-    {
-      "id": "63d6c1e56e632379",
-      "source": "Akşam",
-      "title": "Doğu Akdeniz'de Libya'dan sonra Mısır",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/dogu-akdenizde-libyadan-sonra-misir/haber-1710299",
-      "published": "2026-10-29T19:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T21:01:06.205427+00:00"
-    },
-    {
-      "id": "c9bdd2ab75996743",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İstanbul'da düzenlenecek 2027 UEFA Konferans Ligi finalinin hazırlıkları sürüyor",
-      "summary": "Türkiye Futbol Federasyonu (TFF), İstanbul'da oynanacak 2027 UEFA Konferans Ligi finalinin hazırlıklarının sürdüğünü duyurdu.",
-      "link": "https://www.aa.com.tr/tr/spor/istanbulda-duzenlenecek-2027-uefa-konferans-ligi-finalinin-hazirliklari-suruyor/4105430",
-      "published": "2026-10-29T19:31:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T19:35:30.186269+00:00"
-    },
-    {
-      "id": "e340426c3168e07c",
-      "source": "Karar",
-      "title": "Nevzat Aydın'a haraç tehdidinde operasyon: 4 gözaltı",
-      "summary": "İş insanı Nevzat Aydın'ın, kendisini \"Çirkinler\" suç örgütü üyesi olarak tanıtan bir kişi tarafından çocuğunun öldürülmesiyle tehdit edilerek 1 milyon euro haraç istendiği iddiasına ilişkin soruşturmada yeni gelişme yaşandı. Bakırköy Cumhuriyet Başsavcılığının talimatıyla düzenlenen operasyonda 4 şüpheli gözaltına alındı. Bulgaristan plakalı bir araçta yapılan aramada Uzi ve Utaş marka iki otomati",
-      "link": "https://www.karar.com/guncel-haberler/nevzat-aydina-harac-tehdidinde-operasyon-4-gozalti-2081335",
-      "published": "2026-10-29T19:31:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T19:35:38.723907+00:00"
     }
   ]
 }

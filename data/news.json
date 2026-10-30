@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-10-30T22:35:56.882486+00:00",
+  "last_updated": "2026-10-30T22:40:59.029437+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 461,
+  "new_items_this_run": 464,
   "items": [
+    {
+      "id": "ce9f0b6eb77b9c99",
+      "source": "Akşam",
+      "title": "Ayrılığa yer yok",
+      "summary": "Başkan Erdoğan, “Türk dünyasının aile fotoğrafında ayrılığa, ihtilafa yer yoktur. Hepimiz biriz, ezelden ebede kadar kardeşiz” dedi.",
+      "link": "https://www.aksam.com.tr/guncel/ayriliga-yer-yok/haber-1710578",
+      "published": "2026-10-30T22:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T22:40:44.028104+00:00"
+    },
+    {
+      "id": "70a9ba7bbb986de0",
+      "source": "OdaTV",
+      "title": "Tahkim'den Abdülkerim Bardakcı kararı",
+      "summary": "Türkiye Futbol Federasyonu (TFF) Tahkim Kurulu, Galatasaraylı futbolcu Abdülkerim Bardakcı&#039;nın 2 maç men cezasını onadı.",
+      "link": "https://www.odatv.com/spor/tahkimden-abdulkerim-bardakci-karari-120168989",
+      "published": "2026-10-30T22:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T22:40:46.803486+00:00"
+    },
     {
       "id": "e657f5799a14cfdb",
       "source": "Akşam",
@@ -28,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-30T22:35:37.694923+00:00"
+    },
+    {
+      "id": "3f651b2df54b2fed",
+      "source": "Habertürk",
+      "title": "İletişim Başkanlığı'ndan TDT Zirvesi'ne özel görseller",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı koordinasyonunda, Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi kapsamında, Türk dünyasının ortak tarihini, kültürel bağlarını ve dayanışma ruhunu vurgulamak amacıyla İstanbul ve Ankara'da özel bir görsel iletişim çalışması gerçekleştirildi",
+      "link": "https://www.haberturk.com/gundem/iletisim-baskanligi-ndan-tdt-zirvesi-ne-ozel-gorseller-3923856",
+      "published": "2026-10-30T22:31:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T22:40:36.678876+00:00"
     },
     {
       "id": "fc642b3ac821c981",
@@ -765,6 +798,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-30T21:35:49.096177+00:00"
+    },
+    {
+      "id": "ab2f67b4e5d2b622",
+      "source": "Bir Gün",
+      "title": "Tahkim Kurulu'ndan karar: Abdülkerim Bardakcı'nın cezası onandı",
+      "summary": "Türkiye Futbol Federasyonu Tahkim Kurulu, Galatasaraylı futbolcu Abdülkerim Bardakcı’nın 2 resmi müsabakadan men ve 67 bin TL para cezasını onayladı.",
+      "link": "https://www.birgun.net/haber/tahkim-kurulu-ndan-karar-abdulkerim-bardakci-nin-cezasi-onandi-743610",
+      "published": "2026-10-30T21:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T22:40:42.107527+00:00"
     },
     {
       "id": "a3a16b810f1a1dcc",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-30T18:01:07.776806+00:00"
-    },
-    {
-      "id": "c3bdba64e53fe3d1",
-      "source": "Star",
-      "title": "Fenerbahçe, Göztepe maçına hazır",
-      "summary": "Fenerbahçe, Trendyol Süper Lig'in 10. haftasında yarın sahasında Göztepe ile oynayacağı maçın hazırlıklarını akşam saatlerinde yaptığı antrenmanla tamamladı.",
-      "link": "https://www.star.com.tr/spor/fenerbahce-goztepe-macina-hazir-haber-2050188/",
-      "published": "2026-10-30T18:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:01:08.986940+00:00"
-    },
-    {
-      "id": "30de2f551d5515a3",
-      "source": "Habertürk",
-      "title": "Arda Turan'lı Shakhtar, 2. yarıda açıldı!",
-      "summary": "Ukrayna Premier Ligi'nin 11. haftasında Arda Turan'ın çalıştırdığı Shakhtar Donetsk, evinde Obolon Kiev'i 2-0 mağlup etti. 2. yarıda Alisson'un kaydettiği gollerle kazanan Arda Turan'ın öğrencileri, puanını 28'e çıkardı ve maç fazlasıyla zirveye tırmandı. Obolon Kiev ise 7 puanda kaldı.",
-      "link": "https://www.haberturk.com/spor/shakhtar-donetsk-obolon-kiev-mac-sonucu-iste-shakhtar-donetsk-obolon-kiev-maci-ozeti-ve-golleri-ukrayna-premier-ligi-3923816",
-      "published": "2026-10-30T17:59:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:15:34.305495+00:00"
-    },
-    {
-      "id": "d13bc24aef6d03e2",
-      "source": "Hürriyet",
-      "title": "Osimhen'den büyük fedakarlık! Avrupa'da daha iyisi sadece Harry Kane!",
-      "summary": "Galatasaray'ın golcüsü Victor Osimhen durdurulamıyor. Dün ikinci kez baba olan ijeryalı yıldız, özel uçakla Konya'ya gelerek maçta ilk 11'de sahaya çıktı ve golünü atarak Avrupa'nın yıldız golcüleri arasında kendine yer buldu.",
-      "link": "https://www.hurriyet.com.tr/sporarena/osimhenden-buyuk-fedakarlik-avrupada-daha-iyisi-sadece-harry-kane-43361023",
-      "published": "2026-10-30T17:59:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:35:37.547986+00:00"
-    },
-    {
-      "id": "779ad4643ca86484",
-      "source": "Finans Gündem",
-      "title": "G20 toplantısında 'aile fotoğrafı' krizi",
-      "summary": "ABD'nin Atlanta kentinde gerçekleştirilen ve Dışişleri Bakanı Hakan Fidan'ın da katıldığı G20 Dışişleri Bakanları Toplantısı, Rusya ile bazı Avrupa ülkeleri arasındaki anlaşmazlıklar nedeniyle aile fotoğrafı çekimi yapılmadan başladı",
-      "link": "https://www.finansingundemi.com/haber/g20-toplantisinda-aile-fotografi-krizi/1913216",
-      "published": "2026-10-30T17:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:05:52.125018+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T22:46:00.560528+00:00",
+  "last_updated": "2026-10-30T22:51:09.825801+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,50 @@
   "total_items": 500,
   "new_items_this_run": 463,
   "items": [
+    {
+      "id": "3ecb599b65d726f5",
+      "source": "Akşam",
+      "title": "PSG'den ligde 5 gollü zafer!",
+      "summary": "Fransa Ligue 1'in 9. haftasında Le Havre ile Paris Saint-Germain karşı karşıya geldi. Müsabaka Paris Saint-Germain'in 5-1'lik galibiyetiyle sonuçlandı.",
+      "link": "https://www.aksam.com.tr/spor/psgden-ligde-5-gollu-zafer/haber-1710579",
+      "published": "2026-10-30T22:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T22:50:50.253475+00:00"
+    },
+    {
+      "id": "7bd97ae69cf47378",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Türkiye, AGİT Genel Sekreteri Feridun Sinirlioğlu'nun BM Genel Sekreterliği adaylığı için resmi başvurusunu yaptı",
+      "summary": "Türkiye, Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri Feridun Sinirlioğlu'nun Birleşmiş Milletler (BM) Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
+      "link": "https://www.aa.com.tr/tr/dunya/turkiye-agit-genel-sekreteri-feridun-sinirlioglunun-bm-genel-sekreterligi-adayligi-icin-resmi-basvurusunu-yapti/4106991",
+      "published": "2026-10-30T22:45:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T22:50:42.586869+00:00"
+    },
+    {
+      "id": "efb440b1756d7dcf",
+      "source": "Karar",
+      "title": "Çakma Japon kuruluş fon vurguncularına nasıl bol keseden not dağıttı?",
+      "summary": "",
+      "link": "https://www.karar.com/yazarlar/yildiray-ogur/cakma-japon-kurulus-fon-vurguncularina-nasil-bol-keseden-not-1609683",
+      "published": "2026-10-30T22:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T22:50:52.420358+00:00"
+    },
+    {
+      "id": "fa65e9184883fe2b",
+      "source": "BBC News Türkçe",
+      "title": "Polonya'da siyasi gerginlik: Anayasa Mahkemesi'ne polis konuşlandırıldı",
+      "summary": "Polonya'da hükümet ile Anayasa Mahkemesi başkanı ve yardımcısı arasında tırmanan gerilim üzerine, mahkeme binasına çevik kuvvet polisleri konuşlandırıldı. Başbakan Donald Tusk hükümeti ile ana muhalefetteki sağcı Hukuk ve Adalet Partisi (PiS) liderleri arasında Anayasa Mahkemesi üzerinden bir gerilim yaşanıyor. Gerilimin sebebi PiS hükümeti döneminde atanan Anayasa Mahkemesi üyeleri.",
+      "link": "https://www.bbc.com/turkce/articles/cm0e025gw751o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T22:43:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T22:51:08.957621+00:00"
+    },
     {
       "id": "c7b2443f5d095d0a",
       "source": "BBC News Türkçe",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-30T18:05:54.609482+00:00"
-    },
-    {
-      "id": "77227ff6bc31b9b3",
-      "source": "Ekonomim",
-      "title": "Hazinenin 2027 Finansman Programı yayımlandı: 7,9 trilyon liralık borç servisi planlanıyor",
-      "summary": "Hazine ve Maliye Bakanlığı, 2027 yılına ilişkin Hazine Finansman Programı&#039;nı yayımladı. Programa göre, gelecek yıl 3 trilyon 948,5 milyar lirası anapara, 3 trilyon 973,3 milyar lirası faiz olmak üzere toplam 7 trilyon 921,9 milyar liralık borç servisi gerçekleştirilmesi öngörülüyor.",
-      "link": "https://www.ekonomim.com/ekonomi/hazinenin-2027-finansman-programi-yayimlandi-79-trilyon-liralik-borc-servisi-planlaniyor-haberi-928120",
-      "published": "2026-10-30T18:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:10:55.877920+00:00"
-    },
-    {
-      "id": "a8086740b5460d0d",
-      "source": "Akşam",
-      "title": "Okan Buruk'tan Konya deplasmanında ilk 11'e 4 hamle...",
-      "summary": "Süper Lig'in 10. haftasında Galatasaray, deplasmanda Konyaspor ile karşı karşıya geldi. Teknik direktör Okan Buruk, son maça göre ilk 11'de 4 değişiklik yaptı.",
-      "link": "https://www.aksam.com.tr/spor/okan-buruktan-konya-deplasmaninda-ilk-11e-4-hamle/haber-1710534",
-      "published": "2026-10-30T18:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:05:42.035823+00:00"
-    },
-    {
-      "id": "248b2dbc5bc855a2",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "İletişim Başkanlığından Türk Devletleri Teşkilatı 13. Zirvesi'ne özel görsel iletişim çalışması",
-      "summary": "Cumhurbaşkanlığı İletişim Başkanlığı koordinasyonunda, Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi kapsamında İstanbul ve Ankara'da özel bir görsel iletişim çalışması gerçekleştirildi.",
-      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-turk-devletleri-teskilati-13-zirvesine-ozel-gorsel-iletisim-calismasi/4106853",
-      "published": "2026-10-30T18:03:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T19:10:36.347942+00:00"
-    },
-    {
-      "id": "808f55603652f842",
-      "source": "Bir Gün",
-      "title": "30 ilde 'Daltonlar' soruşturması: 76 şüpheliye tutuklama talebi",
-      "summary": "İstanbul merkezli 30 ilde 'Daltonlar' grubuna yönelik operasyonda gözaltına alınan 90 şüpheliden 76'sı tutuklama, 14'ü ise adli kontrol talebiyle hakimliğe sevk edildi. Şüphelilerin 34'ünün suça sürüklenen çocuk olduğu öğrenildi.",
-      "link": "https://www.birgun.net/haber/30-ilde-daltonlar-sorusturmasi-76-supheliye-tutuklama-talebi-743564",
-      "published": "2026-10-30T18:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:40:41.807255+00:00"
     }
   ]
 }

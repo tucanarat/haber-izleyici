@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-30T02:31:18.091896+00:00",
+  "last_updated": "2026-10-30T02:35:54.318621+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 450,
+  "new_items_this_run": 451,
   "items": [
+    {
+      "id": "c3e455c333d63536",
+      "source": "Türkiye Gazetesi",
+      "title": "“Terörsüz Türkiye” açıklaması: Bu süreçten yüz akımızla çıkacağız",
+      "summary": "“Cumhuriyetimizin birinci yüzyılının en önemli sorunu olarak ortaya çıkan sorun, artık tamamıyla Türkiye’nin gündeminden kalkacak ve huzurun, barışın hep birlikte sonuçlarını elde edeceğiz.”",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/kurtulmustan-terorsuz-turkiye-aciklamasi-bu-surecten-yuz-akimizla-cikacagiz-1825991",
+      "published": "2026-10-30T02:30:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-30T02:35:32.684352+00:00"
+    },
     {
       "id": "ac377fe6cf5d374d",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-29T19:20:55.205099+00:00"
-    },
-    {
-      "id": "e0ce7b1d3bc8dfa1",
-      "source": "Milliyet",
-      "title": "Bosna Hersek'te askeri helikopter kazası! Ölü ve yaralılar var",
-      "summary": "Yetkililerden alınan bilgiye göre, kazada 4 kişi yaşamını yitirdi, yaralanan 11 kişinin hastanelerdeki tedavisi sürüyor. EUFOR'dan yapılan açıklamada, Brcko bölgesinde rutin bir operasyon sırasında hava araçlarından birinin düştüğü belirtildi. TAMAMEN PARÇALANDI Kaza yerine Brcko polisi, itfaiye ve acil sağlık ekipleri sevk edildi. Bölge güvenlik altına alınırken, yerel basında yayımlanan görüntül",
-      "link": "https://www.milliyet.com.tr/dunya/bosna-hersekte-askeri-helikopter-kazasi-olu-ve-yaralilar-var-7690392",
-      "published": "2026-10-29T19:16:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-29T22:01:04.898856+00:00"
     }
   ]
 }

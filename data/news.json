@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-31T00:40:57.177075+00:00",
+  "last_updated": "2026-10-31T00:46:04.089175+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 473,
+  "new_items_this_run": 475,
   "items": [
+    {
+      "id": "dc6cb32333bba480",
+      "source": "BBC News Türkçe",
+      "title": "'Gazze ya da hiç': İsrail'e destek, ABD ara seçimlerinde gerilim noktası haline geldi",
+      "summary": "Michigan, ABD'de 3 Kasım'da yapılacak ara seçimlerde yarışın en çekişmeli geçmesi beklenen yerlerden biri. ABD'nin İsrail'e verdiği desteğe dair endişeler Gazze tartışmasının her iki tarafındaki Michiganlı seçmenlerin oy tercihlerini şekillendiriyor.",
+      "link": "https://www.bbc.com/turkce/articles/cqvg0zd84rd1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31T00:43:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T00:46:03.515070+00:00"
+    },
     {
       "id": "fac26d01ead8cb2e",
       "source": "Türkiye Gazetesi",
@@ -28,6 +39,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T00:40:40.693508+00:00"
+    },
+    {
+      "id": "1a25d99381097f78",
+      "source": "Habertürk",
+      "title": "Tur otobüsü TIR ile çarpıştı: 10 yaralı",
+      "summary": "Edirne'de yabancı turistleri taşıyan tur otobüsüyle TIR'ın çarpışması sonucu meydana gelen trafik kazasında Bulgaristan uyruklu 10 kişi yaralandı",
+      "link": "https://www.haberturk.com/gundem/edirne-de-tur-otobusu-tir-ile-carpisti-10-yarali-3923859",
+      "published": "2026-10-31T00:35:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T00:45:34.922866+00:00"
     },
     {
       "id": "78e51d196c7bfae3",
@@ -4419,6 +4441,17 @@
       "fetched_at": "2026-10-30T19:31:01.821395+00:00"
     },
     {
+      "id": "da1104cfb6f3c42b",
+      "source": "BBC News Türkçe",
+      "title": "Ankara-Bakü geriliminde ekonominin rolü nasıl tartışılıyor?",
+      "summary": "2026 yılının Ekim ayında Bakü ile Ankara arasında tırmanan gerginlik, Netanyahu'nun Birleşmiş Milletler'deki (BM) konuşması sırasında Azerbaycan'ın salondan çıkmaması ve okullarda başörtüsü meselesi ile başladı. Ancak Azerbaycan'da hükümet yanlısı Day.az internet sitesinde yayımlanan bir makale, bu siyasi ve kültürel anlaşmazlığın altında daha temel bir sorunun yatabileceğini öne sürdü.",
+      "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30T19:27:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T00:46:03.515263+00:00"
+    },
+    {
       "id": "0cba4d3869c75f44",
       "source": "BBC News Türkçe",
       "title": "Ankara-Bakü geriliminde ekonominin yeri nedir?",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-30T18:35:56.444119+00:00"
-    },
-    {
-      "id": "ff0d0c77895ed008",
-      "source": "Milliyet",
-      "title": "Mersin'de 19 yıllık 'mumya ceset' cinayeti aydınlatıldı! İşte vahşetin ardındaki sır",
-      "summary": "Mersin İl Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Cinayet Büro Amirliği ekipleri, 2007 yılında işlenen cinayetin aydınlatılması için kapsamlı bir çalışma yürüttü. İlginizi Çekebilir Mersin Cumhuriyet Başsavcılığının talimatları doğrultusunda dosyayı yeniden ele alan ekipler, olayın tüm yönlerini araştırarak, şüphelilerin kimliklerini tespit etti. Yapılan çalışmalar sonucunda cinayetin namus saikiy",
-      "link": "https://www.milliyet.com.tr/gundem/mersinde-19-yillik-mumya-ceset-cinayeti-aydinlatildi-iste-vahsetin-ardindaki-sir-7691073",
-      "published": "2026-10-30T18:33:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:35:38.808387+00:00"
-    },
-    {
-      "id": "59f13f3b2c5badc0",
-      "source": "Habertürk",
-      "title": "İran'dan talebini yineledi",
-      "summary": "ABD Başkanı Donald Trump, İran'la savaşın \"yakında\" sona ereceğini, İran'ın nükleer silah edinmeyeceği konusunda garanti vermesini istediklerini söyledi.",
-      "link": "https://www.haberturk.com/dunya/donald-trump-iran-dan-talebini-yineledi-3923822",
-      "published": "2026-10-30T18:32:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:40:36.059896+00:00"
-    },
-    {
-      "id": "04fba478d185b8c5",
-      "source": "Bloomberg HT",
-      "title": "AWS'nin hedefi 1 trilyon dolarlık iş kolu olabilmek",
-      "summary": "Amazon CEO'su Andy Jassy, AWS'nin 1 trilyon dolarlık bir iş koluna dönüşebileceğini ancak önce büyük yatırımlar yapması gerektiğini açıkladı.",
-      "link": "https://www.bloomberght.com/aws-nin-hedefi-1-trilyon-dolarlik-is-kolu-olabilmek-3792971",
-      "published": "2026-10-30T18:31:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T18:45:53.341502+00:00"
     }
   ]
 }

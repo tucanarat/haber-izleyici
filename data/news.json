@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-31T23:31:10.686982+00:00",
+  "last_updated": "2026-10-31T23:35:59.455090+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 492,
+  "new_items_this_run": 490,
   "items": [
     {
       "id": "897a572b525df53f",
@@ -5486,6 +5486,17 @@
       "fetched_at": "2026-10-31T17:45:48.314012+00:00"
     },
     {
+      "id": "0a9f8fbc168c8a10",
+      "source": "Cumhuriyet",
+      "title": "Bakanlıktan 3 il için şiddetli yağış uyarısı",
+      "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Muğla, İzmir ve Aydın için kuvvetli yağış uyarısında bulundu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/bakanliktan-3-il-icin-siddetli-yagis-uyarisi-2552058",
+      "published": "2026-10-31T17:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T23:35:38.046220+00:00"
+    },
+    {
       "id": "4c7c6f05539fcdec",
       "source": "Bir Gün",
       "title": "Bakanlıktan 3 il için şiddetli yağış uyarısı",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T18:30:50.989055+00:00"
-    },
-    {
-      "id": "82e8cbd01b08ffea",
-      "source": "Cumhuriyet",
-      "title": "Fenerbahçeli taraftarlardan Kerem Aktürkoğlu'na tepki",
-      "summary": "Fenerbahçeli taraftarlar, Göztepe maçında kaçırdığı bir pozisyon sonrası Kerem Aktürkoğlu'nu protesto etti. Tepkiler sonrası milli futbolcunun da tribünlerle tartıştığı yayına yansıdı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/fenerbahceli-taraftarlardan-kerem-akturkoglu-na-tepki-2552057",
-      "published": "2026-10-31T17:44:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T17:45:37.503261+00:00"
     }
   ]
 }

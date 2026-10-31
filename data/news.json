@@ -1,12 +1,67 @@
 {
-  "last_updated": "2026-10-31T15:41:04.717491+00:00",
+  "last_updated": "2026-10-31T15:45:57.641477+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 469,
+  "new_items_this_run": 470,
   "items": [
+    {
+      "id": "5ba1bf2f21144ce9",
+      "source": "Akşam",
+      "title": "Dirk Kuyt: Taraftarımızın oyuncularımızı desteklemelerine ihtiyacımız var",
+      "summary": "Süper Lig'in 10. haftasında Fenerbahçe, sahasında Göztepe ile karşı karşıya gelirken müsabaka öncesinde sarı lacivertlilerin antrenörü Dirk Kuyt, açıklamalarda bulundu.",
+      "link": "https://www.aksam.com.tr/spor/dirk-kuyt-taraftarimizin-oyuncularimizi-desteklemelerine-ihtiyacimiz-var/haber-1710746",
+      "published": "2026-10-31T15:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:44.130898+00:00"
+    },
+    {
+      "id": "a61ab7e3b35cfbc4",
+      "source": "Aydınlık",
+      "title": "Kılıçaroğlu'ndan 'siyasi ahlak kanunu' çıkışı: \"Bizim vazgeçilmezimizdir\"",
+      "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu, &quot;Siyasi ahlak kanunu bizim vazgeçilmezimizdir. Siyaset kirlilikten arınmadığı sürece Türkiye huzur bulamaz.&quot; dedi.",
+      "link": "https://www.aydinlik.com.tr/haber/kilicaroglundan-siyasi-ahlak-kanunu-cikisi-bizim-vazgecilmezimizdir-596936",
+      "published": "2026-10-31T15:42:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:46.189489+00:00"
+    },
+    {
+      "id": "f5f0663ea50c697b",
+      "source": "Yeni Şafak",
+      "title": "Sağlık Bakanı Memişoğlu, gençlere seslendi: Fikrinizi söyleyin, korkmayın, icat çıkartın!",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, gençlere yenilikçi fikirler geliştirme çağrısında bulunarak \"İcat çıkartma başımıza\" anlayışının geride kaldığını söyledi. Memişoğlu, \"Bilginiz, fikriniz varsa gelin beraber üretelim, fikrinizi söyleyin, korkmayın, icat çıkartın\" dedi.",
+      "link": "https://www.yenisafak.com/gundem/saglik-bakani-memisoglu-genclere-seslendi-fikrinizi-soyleyin-korkmayin-icat-cikartin-4868697",
+      "published": "2026-10-31T15:41:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:44.668188+00:00"
+    },
+    {
+      "id": "f973ecc3d4f7f279",
+      "source": "OdaTV",
+      "title": "Muğla yine 'AKP'ye geçecek' denildi... Açtık sorduk... Sadece ve tek yanıt Odatv'ye",
+      "summary": "AKP, ilk iktidara gelişinin 24. yıl dönümünü kutlamaya hazırlanırken, gözler 3 Kasım 2026&#039;ya çevrildi. Özellikle Muğla Büyükşehir Belediye Başkanı Ahmet Aras’ın adı yine kulislerin merkezinde. Odatv Aras&#039;a &quot;AKP&#039;ye geçecek&quot; iddialarını sordu.",
+      "link": "https://www.odatv.com/ozel/mugla-yine-akpye-gececek-denildi-actik-ahmet-arasa-sorduk-sadece-ve-tek-yanit-odatvye-120169112",
+      "published": "2026-10-31T15:41:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:46.443176+00:00"
+    },
+    {
+      "id": "68b9f9c8c3025d95",
+      "source": "Ekonomim",
+      "title": "Yüzlerce konut ve villa yapmıştı: 40 yıllık inşaat devi konkordato istedi",
+      "summary": "Yüzlerce konut ve villa projesine imza atan 40 yıllık Özdemir İnşaat ve Yatırım markasının sahibi Özdemir Turizm ve Ticaret AŞ, mali sıkıntılar nedeniyle konkordato başvurusunda bulundu.",
+      "link": "https://www.ekonomim.com/ekonomi/yuzlerce-konut-ve-villa-yapmisti-40-yillik-insaat-devi-konkordato-istedi-haberi-928281",
+      "published": "2026-10-31T15:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:51.296120+00:00"
+    },
     {
       "id": "616c0183a23f1e04",
       "source": "Bir Gün",
@@ -17,6 +72,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T15:40:41.482610+00:00"
+    },
+    {
+      "id": "a26617e5a4169627",
+      "source": "Habertürk",
+      "title": "Gece evden çıktı, Boğaz'da ölü bulundu",
+      "summary": "İstanbul Kağıthane'de gece saatlerinde evinden ayrılan ve kızının kayıp başvurusunda bulunduğu 80 yaşındaki Mustafa Doyan'ın cansız bedeni, saatler sonra İstanbul Boğazı'nda bulundu",
+      "link": "https://www.haberturk.com/gundem/kagithane-de-kaybolan-80-yasindaki-mustafa-doyan-in-cansiz-bedeni-yenikoy-de-bulundu-3923975",
+      "published": "2026-10-31T15:39:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:37.336448+00:00"
+    },
+    {
+      "id": "0040216ac61e3f55",
+      "source": "Türkiye Gazetesi",
+      "title": "Bursaspor, Bandırmaspor'u farklı geçti",
+      "summary": "Trendyol 1. Lig'in 13. haftasında Bursaspor, sahasında karşılaştığı Bandırmaspor'u 3-0 mağlup ederek liderliğini sürdürdü.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/bursaspor-bandirmasporu-farkli-gecti-1826338",
+      "published": "2026-10-31T15:39:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:41.734370+00:00"
+    },
+    {
+      "id": "37e80127daaef41f",
+      "source": "Habertürk",
+      "title": "İstanbul'da 44 bin paket kayısı ile 4 ton çiğköfte dağıtıldı",
+      "summary": "İstanbul'da düzenlenen 8. Geleneksel Malatya Tanıtım Günleri etkinliğinde 44 bin paket kayısı ile 4 ton çiğköfte dağıtımı yapıldı",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-44-bin-paket-kayisi-ile-4-ton-cigkofte-dagitildi-3923974",
+      "published": "2026-10-31T15:37:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:37.336493+00:00"
     },
     {
       "id": "046ffedbbe59c87b",
@@ -1249,6 +1337,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T14:50:51.480118+00:00"
+    },
+    {
+      "id": "12ca4c045719bb66",
+      "source": "Ekonomim",
+      "title": "Miçotakis'in haritasına Türk büyükelçiden tek cümlelik yanıt!",
+      "summary": "Yunanistan Başbakanı Kiryakos Miçotakis, Türkiye ile Libya arasında 2019&#039;da imzalanan deniz yetki alanları mutabakatını BM Güvenlik Konseyi&#039;nde eleştirdi ve bölgeyi gösteren bir harita sundu. Türkiye&#039;nin BM Daimi Temsilcisi Ahmet Yıldız ise haritaların hukuki karar niteliği taşımadığını belirterek, &quot;Bu Konsey bir deniz sınırlandırma mahkemesi değildir&quot; yanıtını verdi.",
+      "link": "https://www.ekonomim.com/dunya/micotakisin-haritasina-turk-buyukelciden-tek-cumlelik-yanit-haberi-928274",
+      "published": "2026-10-31T14:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T15:45:51.296346+00:00"
     },
     {
       "id": "c41cc4e536b09f20",
@@ -5407,105 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T12:40:40.496468+00:00"
-    },
-    {
-      "id": "218cffa97ede6f8f",
-      "source": "Cumhuriyet",
-      "title": "Çorum FK, Erzurumspor karşısında 3 puanı üç golle aldı",
-      "summary": "Süper Lig'de Çorum FK, Erzurumspor'u deplasmanda 3-1 mağlup etti. Erzurumspor'un ligdeki 4 maçlık yenilmezlik serisi sona erdi.",
-      "link": "https://www.cumhuriyet.com.tr/spor/corum-fk-erzurumspor-karsisinda-3-puani-uc-golle-aldi-2551983",
-      "published": "2026-10-31T12:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T12:40:40.496501+00:00"
-    },
-    {
-      "id": "d0f1c785a875974c",
-      "source": "Habertürk",
-      "title": "Suriye'den 'Mekke Anlaşması' açıklaması",
-      "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani, ülkesinin Mekke Ortak Savunma Anlaşması'na katılımını değerlendirmek üzere görüşmelerin sürdüğünü belirterek, Türkiye ile olan ilişkilerin siyasi, ekonomik ve askeri alanlarda üst düzeyde seyrettiğini belirtti.",
-      "link": "https://www.haberturk.com/dunya/suriye-disisleri-bakani-mekke-ortak-savunma-anlasmasi-na-katilim-icin-gorusmelerin-surdugunu-soyledi-3923934",
-      "published": "2026-10-31T12:32:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T12:45:34.565576+00:00"
-    },
-    {
-      "id": "e98ba10c68ddcd5e",
-      "source": "Akşam",
-      "title": "Mardin'de 3 araç birbirine girdi: 5 yaralı",
-      "summary": "Mardin'in Nusaybin ilçesinde 3 aracın karıştığı zincirleme trafik kazasında 5 kişi yaralandı.",
-      "link": "https://www.aksam.com.tr/guncel/mardinde-3-arac-birbirine-girdi-5-yarali/haber-1710710",
-      "published": "2026-10-31T12:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T12:35:35.080508+00:00"
-    },
-    {
-      "id": "dfda2516e25480c4",
-      "source": "Evrensel",
-      "title": "Bedelli askerlik için BES birikimlerinden para çekilebilecek",
-      "summary": "Cumhurbaşkanlığı 2027 Yılı Programı’nda yer alan düzenlemeye göre, Bireysel Emeklilik Sistemi (BES) katılımcılarının bedelli askerlik ve hac harcamaları için birikimlerinin bir bölümünü sistemden ayrılmadan çekebilmesi hedefleniyor.",
-      "link": "https://www.evrensel.net/haber/6007436/bedelli-askerlik-icin-bes-birikimlerinden-para-cekilebilecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-31T12:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T12:35:32.951119+00:00"
-    },
-    {
-      "id": "0c4f0f1248e979b5",
-      "source": "Habertürk",
-      "title": "Yargıtay'dan milyonları ilgilendiren karar! Düğün sonrası araç hayali kuranlar dikkat!",
-      "summary": "Düğünde takılan altınlarla araba alma hayali kuranlara kötü haber Yargıtay 2. Hukuk Dairesi'nden geldi. Araç alımı için kadının bozdurulan bileziklerinin, \"kendi rızası ile verdi\" iddiasıyla geri iade edilmemesini yasaya aykırı bulan Yüksek Mahkeme, ziynetleri alan eşin, geri verilmemek üzere bağışlandığını ispatlayamaması halinde bileziklerin iadesine hükmetti",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberi-yargitay-dan-milyonlari-ilgilendiren-karar-dugun-sonrasi-arac-hayali-kuranlar-dikkat-3923881",
-      "published": "2026-10-31T12:30:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T14:20:36.306734+00:00"
-    },
-    {
-      "id": "952ad4a7b72b08b7",
-      "source": "ShiftDelete.Net",
-      "title": "Sosyal Medyada e-Devlet Yaş Doğrulama Başlıyor: 1 Kasım’da Neler Değişiyor?",
-      "summary": "Sosyal medyada e-Devlet yaş doğrulama dönemi 1 Kasım 2026&#8217;da başlıyor. Bu tarihten sonra yeni açılacak sosyal medya hesaplarında yaş doğrulaması zorunlu hale geliyor, mevcut hesaplar için ise 31 Mart 2027&#8217;ye kadar süre tanınıyor. Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, uygulamaya ilişkin resmi açıklamasında doğrulamanın yalnızca e-Devlet üzerinden yapılacağını ve kişisel bilgilerin",
-      "link": "https://shiftdelete.net/e-devlet-yas-dogrulama",
-      "published": "2026-10-31T12:30:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T12:31:05.855587+00:00"
-    },
-    {
-      "id": "a05da2b81058df69",
-      "source": "Yeni Şafak",
-      "title": "Karabük'te coşkulu merasim: 150 öğrenci hafızlık icazetini aldı",
-      "summary": "Karabük İl Müftülüğü tarafından düzenlenen icazet merasiminde, hafızlık eğitimlerini başarıyla tamamlayan 64'ü erkek, 86'sı kız olmak üzere toplam 150 öğrenci icazet belgelerini aldı. Yenimahalle Kapalı Spor Salonu'nda yoğun katılımla gerçekleşen törende kız hafızların cübbelerindeki Türk ve Filistin bayrağı motifleri dikkat çekerken, Diyanet İşleri Başkan Yardımcısı Dr. Hafız Osman Şahin ahlaki d",
-      "link": "https://www.yenisafak.com/video/gundem/karabukte-coskulu-merasim-150-ogrenci-hafizlik-icazetini-aldi-4868663",
-      "published": "2026-10-31T12:30:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T12:35:35.282922+00:00"
-    },
-    {
-      "id": "20e88d7dfc068a78",
-      "source": "Bir Gün",
-      "title": "Çorum FK, Erzurum deplasmanında üç golle kazandı",
-      "summary": "Süper Lig’in 10. haftasında Çorum FK, deplasmanda Erzurumspor FK’yi 3-1 mağlup etti. Konuk ekipte Jesus Ramirez iki gol atarken diğer gol Çağlar Söyüncü’den geldi.",
-      "link": "https://www.birgun.net/haber/corum-fk-erzurum-deplasmaninda-uc-golle-kazandi-743695",
-      "published": "2026-10-31T12:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T13:30:54.513863+00:00"
-    },
-    {
-      "id": "d3abb6a95fdee0c4",
-      "source": "Aydınlık",
-      "title": "Aydın’daki tatbikatta afet ekipleri arama kurtarma ve müdahale çalışması yaptı",
-      "summary": "İzmir Bölge Düzeyi Tatbikatı kapsamında Aydın’da saha ve masa başı çalışmaları yapıldı. AFAD koordinasyonundaki uygulamalarda ekipler arama kurtarma, sağlık müdahalesi ve kurumlar arası koordinasyon süreçlerini canlandırdı.",
-      "link": "https://www.aydinlik.com.tr/haber/aydinda-afet-tatbikati-ekipler-sahada-hazirlandi-596917",
-      "published": "2026-10-31T12:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T12:35:37.482806+00:00"
     }
   ]
 }

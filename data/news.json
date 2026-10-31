@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-10-31T16:46:02.263920+00:00",
+  "last_updated": "2026-10-31T16:51:05.221975+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 490,
+  "new_items_this_run": 462,
   "items": [
+    {
+      "id": "1bc5d68bcf83717e",
+      "source": "Star",
+      "title": "Meteorolojiden 3 il için şiddetli yağış uyarısı",
+      "summary": "Meteoroloji Genel Müdürlüğü, İzmir, Aydın ve Muğla için şiddetli yağış uyarısında bulundu.",
+      "link": "https://www.star.com.tr/guncel/meteorolojiden-3-il-icin-siddetli-yagis-uyarisi-haber-2050373/",
+      "published": "2026-10-31T16:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T16:50:46.596935+00:00"
+    },
     {
       "id": "d1e2a3829116d31f",
       "source": "BBC News Türkçe",
@@ -17,6 +28,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T16:46:01.579158+00:00"
+    },
+    {
+      "id": "0e16c14b6a553bb3",
+      "source": "Türkiye Gazetesi",
+      "title": "Macron Trump'ı aradı, hiç beklemediği biriyle konuştu",
+      "summary": "Macron arasında geçen ilginç bir telefon görüşmesi gündem oldu. Amerikalı şarkıcı Kid Rock, Trump'ın golf oynadıkları sırada Macron'dan gelen telefonu kendisine uzattığını, ardından golf arabasına binerek uzaklaştığını anlattı. Şarkıcının anlattıkları karşısında televizyon sunucusu Bill Maher kahkahalara boğuldu.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/macron-trumpi-aradi-hic-beklemedigi-biriyle-konustu-golf-sahasinda-ilginc-anlar-1826348",
+      "published": "2026-10-31T16:45:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T16:50:41.520247+00:00"
     },
     {
       "id": "6251692ea8b57330",
@@ -52,6 +74,17 @@
       "fetched_at": "2026-10-31T16:45:46.045477+00:00"
     },
     {
+      "id": "164d446176c9afcb",
+      "source": "Habertürk",
+      "title": "Özgür Özel: Yeni Parti'yi siz kurdunuz",
+      "summary": "Balıkesir'in Ayvalık ilçesinde vatandaşlarla buluşan Özgür Özel, zeytin üreticilerinin sorunlarına değinerek iktidara geldiklerinde çiftçinin zararını karşılayacaklarını söyledi. Özel, \"Yeni Parti'yi siz kurdunuz. Adını sokakta siz koydunuz. Bütçesini siz oluşturdunuz\" dedi",
+      "link": "https://www.haberturk.com/gundem/ozgur-ozel-balikesir-de-vatandaslara-seslenerek-iktidar-hedefini-ve-vaatlerini-anlatti-3923985",
+      "published": "2026-10-31T16:42:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T16:50:34.966314+00:00"
+    },
+    {
       "id": "5bcc7f0650deb7e2",
       "source": "Sözcü",
       "title": "Fuhuş pazarlığı kameralara yansıdı! Telaffuz edilen rakamlar dudak uçuklattı",
@@ -74,6 +107,28 @@
       "fetched_at": "2026-10-31T16:45:40.202616+00:00"
     },
     {
+      "id": "18e12c526bcde0e9",
+      "source": "Habertürk",
+      "title": "\"Bizim için fırsat maçıydı\"",
+      "summary": "Çaykur Rizespor Teknik Sorumlusu Fevzi Korkmaz, 0-0 berabere biten Kocaelispor maçından sonra, \"Puan alamadığımız 3 haftalık periyodu sonlandırmak istiyorduk. Kocaelispor deplasmanında 1 puan değerli. Ama 3 puan alacak pozisyonlar da yakaladık\" dedi.",
+      "link": "https://www.haberturk.com/spor/fevzi-korkmaz-bizim-icin-firsat-maciydi-3923984",
+      "published": "2026-10-31T16:40:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T16:50:34.966339+00:00"
+    },
+    {
+      "id": "37f2ca9e03573291",
+      "source": "Habertürk",
+      "title": "Heyecan sürüyor!",
+      "summary": "Fenerbahçe, Süper Lig'in 10. haftasında sahasında Göztepe'yi ağırlıyor... Ligde son olarak derbide Galatasaray'a mağlup olan sarı-lacivertliler, teknik direktör İsmail Kartal ile yollarını ayırdı ve bu mücadelede Dirk Kuyt takımın başında yer alıyor... Fenerbahçe, Göztepe karşısında galip gelerek moral bulmayı hedefliyor. İşte Fenerbahçe - Göztepe mücadelesinde dair tüm detaylar...",
+      "link": "https://www.haberturk.com/spor/fenerbahce-goztepe-maci-canli-anlatim-fenerbahce-goztepe-super-lig-maci-kac-kac-mac-skoru-ve-onemli-3923869",
+      "published": "2026-10-31T16:40:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T16:50:34.966278+00:00"
+    },
+    {
       "id": "f37f5e5860da699d",
       "source": "Cumhuriyet",
       "title": "Google, aktif cihazlarda hangi Android sürümünün kullanıldığını açıkladı",
@@ -83,6 +138,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T16:40:40.556840+00:00"
+    },
+    {
+      "id": "3a1a11f0ec6af5b1",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "ABD'nin Moskova Büyükelçiliğinden Tsaritsıno Müze ve Park Alanı'na yönelik saldırı tehdidi uyarısı",
+      "summary": "ABD'nin Moskova Büyükelçiliği, Rusya'nın başkenti Moskova'daki Tsaritsıno Müze ve Park Alanı'na çok sayıda kişinin hayatını kaybedebileceği bir saldırı düzenlenebileceği uyarısında bulundu.",
+      "link": "https://www.aa.com.tr/tr/dunya/abdnin-moskova-buyukelciliginden-tsaritsino-muze-ve-park-alanina-yonelik-saldiri-tehdidi-uyarisi/4107539",
+      "published": "2026-10-31T16:38:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T16:50:38.409962+00:00"
     },
     {
       "id": "c17b7cc3eeeff77a",
@@ -2217,6 +2283,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T15:01:04.913437+00:00"
+    },
+    {
+      "id": "fdc7c2b3c131d5aa",
+      "source": "Türkiye Gazetesi",
+      "title": "KADIKÖY'DE GOL SESİ",
+      "summary": "İsmail Kartal ile yollarını ayırdıktan sonra takımı geçici süreliğine Dirk Kuyt'a emanet eden Fenerbahçe, Süper Lig'in 10. haftasında Göztepe'yi konuk ediyor. Ligde son olarak derbide Galatasaray'a mağlup olan sarı lacivertliler, haftaya zirvenin 6 puan gerisinde girdi. Göztepe ise bu sezon ligin ilk 9 haftasında 3 galibiyet, 3 beraberlik, 3 de mağlubiyet alarak 12 puan topladı. Müsabakanın önemli",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcenin-goztepe-maci-11i-belli-oldu-greenwood-kadroda-yok-1826330",
+      "published": "2026-10-31T14:57:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T16:50:41.520661+00:00"
     },
     {
       "id": "5477080d464a7df4",
@@ -5429,83 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T13:20:39.609056+00:00"
-    },
-    {
-      "id": "d7e1ace7a9632c14",
-      "source": "Cumhuriyet",
-      "title": "Azerbaycan'dan Feridun Sinirlioğlu açıklaması: 'Memnuniyetle karşılıyoruz'",
-      "summary": "Azerbaycan, Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri Feridun Sinirlioğlu'nun Birleşmiş Milletler (BM) Genel Sekreterliği görevine aday gösterilmesini memnuniyetle karşıladı.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/azerbaycan-dan-feridun-sinirlioglu-aciklamasi-memnuniyetle-karsiliyoruz-2551992",
-      "published": "2026-10-31T13:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T13:15:37.185399+00:00"
-    },
-    {
-      "id": "fa13d44e2446546a",
-      "source": "Star",
-      "title": "Dolmabahçe'de kritik görüşme! Cumhurbaşkanı Erdoğan, Zelenski'yi kabul etti",
-      "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Cumhurbaşkanı Recep Tayyip Erdoğan'ın davetine icabetle Türkiye'ye çalışma ziyareti gerçekleştiriyor. Cumhurbaşkanı Erdoğan'ın Zelenski'yi Dolmabahçe'de kabul ettiği görüşmede, Türkiye-Ukrayna ilişkileri, Rusya-Ukrayna Savaşı ve Karadeniz'deki güvenlik durumu ele alınacak.",
-      "link": "https://www.star.com.tr/guncel/dolmabahcede-kritik-gorusme-cumhurbaskani-erdogan-zelenskiyi-kabul-etti-haber-2050326/",
-      "published": "2026-10-31T13:14:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T13:15:43.911841+00:00"
-    },
-    {
-      "id": "0eec0ff4c9a6f19a",
-      "source": "Independent Türkçe",
-      "title": "Teknoloji devlerinin hissedarlara nakit ödemeleri 15 yılın dibinde",
-      "summary": "Microsoft, Alphabet, Amazon, Meta ve Oracle'ın 2026'nın ilk 9 ayında elde ettiği nakit miktarı rekor kırarken, hissedarlara aktarılan pay son 15 yılın en düşük seviyesine geriledi. ABD'nin en büyük beş teknoloji şirketinin sözkonusu dönemde elde ettiği nakit yüzde 29 artarak 542,9 milyar dolarla rekor kırdı. Ancak yapay zeka altyapısına yapılan dev yatırımlar nedeniyle sermaye harcamaları 556,9 mi",
-      "link": "https://www.indyturk.com/node/784581/ekonomi%CC%87/teknoloji-devlerinin-hissedarlara-nakit-%C3%B6demeleri-15-y%C4%B1l%C4%B1n-dibinde",
-      "published": "2026-10-31T13:13:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T13:50:53.152938+00:00"
-    },
-    {
-      "id": "b2692ad7bfac42b4",
-      "source": "Bir Gün",
-      "title": "6 gündür kayıp: Bursa'da Emrah Gedik için arama çalışmaları sürüyor",
-      "summary": "Bursa’nın İnegöl ilçesinde 6 gündür kendisinden haber alınamayan 33 yaşındaki Emrah Gedik’i bulmak için başlatılan arama çalışmaları sürüyor. 550 güvenlik kamerasının incelendiği çalışmalarda özel eğitimli köpekler ve dronlar kullanılırken, ekipler dere çevresinde yoğunlaştı.",
-      "link": "https://www.birgun.net/haber/6-gundur-kayip-bursa-da-emrah-gedik-icin-arama-calismalari-suruyor-743702",
-      "published": "2026-10-31T13:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T13:30:54.513637+00:00"
-    },
-    {
-      "id": "3522034444a9d448",
-      "source": "Euronews Türkçe",
-      "title": "Arcana Borealis: Finlandiya Ulusal Galerisi'nde Kuzeyli kadınlar ve ezoterizm",
-      "summary": "Ruh ve madde arasındaki ilişki, ölümden sonraki yaşam ve ruhlar âleminin varlığına dair sorular, Ateneum Sanat Müzesi, Fin Ulusal Galerisi’ndeki 'Arcana Borealis – Kuzeyli Kadınlar ve Ezoterizm' sergisinin ana temalarıdır.",
-      "link": "https://tr.euronews.com/2026/10/31/arcana-borealis-finlandiya-ulusal-galerisinde-kuzeyli-kadinlar-ve-ezoterizm",
-      "published": "2026-10-31T13:12:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T13:16:01.750816+00:00"
-    },
-    {
-      "id": "db9b8941564d10bb",
-      "source": "Bir Gün",
-      "title": "Kampanyalar güncellendi: Sıfır faizli krediler açıklandı",
-      "summary": "Birçok banka \"Hoş geldin kampanyası\" yaparak sıfır faizli ya da düşük oranda faizli ihtiyaç kredisi veriyor.",
-      "link": "https://www.birgun.net/haber/kampanyalar-guncellendi-sifir-faizli-krediler-aciklandi-743703",
-      "published": "2026-10-31T13:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T13:30:54.513670+00:00"
-    },
-    {
-      "id": "45bbefbcba6e860d",
-      "source": "Akşam",
-      "title": "İstanbul'da kritik görüşme: Başkan Erdoğan, Zelenski ile bir araya geldi",
-      "summary": "Başkan Erdoğan, Ukrayna Devlet Başkanı Zelenski ile Dolmabahçe Çalışma Ofisi'nde bir araya geldi.",
-      "link": "https://www.aksam.com.tr/guncel/istanbulda-kritik-gorusme-baskan-erdogan-zelenski-ile-bir-araya-geldi/haber-1710722",
-      "published": "2026-10-31T13:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T13:25:37.345500+00:00"
     }
   ]
 }

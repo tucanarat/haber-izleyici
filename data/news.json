@@ -1,12 +1,133 @@
 {
-  "last_updated": "2026-10-31T06:31:17.892620+00:00",
+  "last_updated": "2026-10-31T06:36:00.297733+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 514,
+  "new_items_this_run": 515,
   "items": [
+    {
+      "id": "bbc1e1558234c989",
+      "source": "Milliyet",
+      "title": "Küçük Yusuf’un büyük yüreği! Herkes kaçtı o engelli arkadaşına koştu",
+      "summary": "Kahta ilçesindeki Bölükyayla İlkokulunda öğrenciler 29 Ekim Cumhuriyet Bayramı kutlamaları için okul bahçesinde prova yaptıkları sırada aniden sağanak yağmur bastırdı. Öğrenciler, provayı yarıda bırakarak okul binasına doğru koşmaya başladı. Bu sırada 3. sınıf öğrencisi Yusuf Orman, tekerlekli sandalyedeki arkadaşı Elif Güngör’ün yağmur altında kaldığını ve engelli rampasından çıkmakta güçlük çekt",
+      "link": "https://www.milliyet.com.tr/gundem/kucuk-yusufun-buyuk-yuregi-herkes-kacti-o-engelli-arkadasina-kostu-7691294",
+      "published": "2026-10-31T06:33:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:39.289770+00:00"
+    },
+    {
+      "id": "97aefa0ed054d06a",
+      "source": "Akşam",
+      "title": "Ankara'da kanlı gece: Tartışma çifte cinayetle bitti",
+      "summary": "Ankara'nın Mamak ilçesinde bir baba, iddiaya göre çıkan tartışmanın ardından 19 yaşındaki hamile kızını ve kızının birlikte yaşadığı 53 yaşındaki erkek arkadaşını silahla öldürdü. Kaçan şüphelinin yakalanması için çalışma başlatıldı.",
+      "link": "https://www.aksam.com.tr/yasam/ankarada-kanli-gece-tartisma-cifte-cinayetle-bitti/haber-1710622",
+      "published": "2026-10-31T06:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:40.055207+00:00"
+    },
+    {
+      "id": "574751c2731c4c57",
+      "source": "Star",
+      "title": "Evde çıkan kavgada kan aktı! Baba hamile kızını ve arkadaşını öldürdü",
+      "summary": "Ankara'nın Mamak ilçesinde bir kişi, hamile kızını ve kızının beraber yaşadığı erkek arkadaşını öldürdü.",
+      "link": "https://www.star.com.tr/yasam/evde-cikan-kavgada-kan-akti-baba-hamile-kizini-ve-arkadasini-oldurdu-haber-2050258/",
+      "published": "2026-10-31T06:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:41.621307+00:00"
+    },
+    {
+      "id": "f5bc3092565b4eb2",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Ticaret Bakanlığı Türk markalarının küresel rekabet gücünü artıracak yeni destekleri uygulamaya aldı",
+      "summary": "Ticaret Bakanlığı, ihracatçıların değişen ihtiyaçları ve küresel ticaretin dinamikleri doğrultusunda Marka ve Turquality Desteğine İlişkin Genelge'de kapsamlı değişiklikler yaparak yeni destek unsurlarını uygulamaya aldı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-turk-markalarinin-kuresel-rekabet-gucunu-artiracak-yeni-destekleri-uygulamaya-aldi/4107047",
+      "published": "2026-10-31T06:32:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:33.277410+00:00"
+    },
+    {
+      "id": "3f9a21ca8c0ead8d",
+      "source": "Aydınlık",
+      "title": "19 yıllık ‘mumya’ cinayetinde yeni gelişme! 6 gözaltı",
+      "summary": "Mersin&#039;de 19 yıl önce üzerindeki beton kırılınca bir buzdolabında cansız bedeni bulunan Bahaddin Sefer cinayetiyle ilgili yürütülen faili meçhul dosyası yeniden açıldı. 32 kişinin ifadesinin ardından 6 ilde düzenlenen eş zamanlı operasyonla olayla bağlantılı 6 şüpheli gözaltına alındı.",
+      "link": "https://www.aydinlik.com.tr/haber/19-yillik-mumya-cinayetinde-yeni-gelisme-6-gozalti-596881",
+      "published": "2026-10-31T06:31:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:44.143922+00:00"
+    },
+    {
+      "id": "873c670046ac8267",
+      "source": "Türkiye Gazetesi",
+      "title": "'ABSÜRT RAKAMLAR OLABİLİR'",
+      "summary": "Devre arasında kadrosunu güçlendirmek isteyen Fenerbahçe, Bursaspor formasıyla 12 maçta 16 gol atan Kelechi Iheanacho'yu gündemine aldı. Bursaspor Başkanı Enes Çelik'in Nijeryalı golcü için astronomik tekliflere kapıyı açık bırakması transfer iddialarını güçlendirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahceden-iheanacho-operasyonu-bursaspordan-net-aciklama-1826227",
+      "published": "2026-10-31T06:31:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:36.106660+00:00"
+    },
+    {
+      "id": "766ffb040181172a",
+      "source": "Cumhuriyet",
+      "title": "Akaryakıta dev zam: Benzine, mazota ne kadar zam gelecek? 31 Ekim Akaryakıt fiyatları ne kadar? Güncel yakıt fiyatları kaç TL?",
+      "summary": "Küresel piyasalardaki dalgalanma, döviz kurundaki oynaklık ve art arda gelen ÖTV zamları, akaryakıt fiyatlarını etkilemeye devam ediyor. Peki, Akaryakıt fiyatları ne kadar? Güncel yakıt fiyatları kaç TL?",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/akaryakita-dev-zam-benzine-mazota-ne-kadar-zam-gelecek-31-ekim-akaryakit-fiyatlari-ne-kadar-guncel-yakit-fiyatlari-kac-tl-2551883",
+      "published": "2026-10-31T06:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:33.707666+00:00"
+    },
+    {
+      "id": "c5bba618d1756e0c",
+      "source": "Akşam",
+      "title": "Türkiye'den tarihi adım! BM için resmi başvuru yapıldı",
+      "summary": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi başvurusunu yaptı.",
+      "link": "https://www.aksam.com.tr/guncel/turkiyeden-tarihi-adim-bm-icin-resmi-basvuru-yapildi/haber-1710621",
+      "published": "2026-10-31T06:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:40.055236+00:00"
+    },
+    {
+      "id": "15612de0b7236da9",
+      "source": "Türkiye Gazetesi",
+      "title": "ALTIN NEDEN DÜŞTÜ?",
+      "summary": "Ons altın ekim ayını yüzde 6,87 değer kaybı ile 3.875 dolardan tamamladı. Böylece fiyatlar son bir yılın en düşük seviyesine geriledi. Petrolün yükselmesiyle öne çıkan enflasyon endişeleri, ABD Merkez Bankasından faiz artışı beklentileri, güçlü gelen ABD ekonomik verilerinin faiz indirimi alanını kısıtlaması ve teknoloji hisselerinde yaşanan satış dalgası piyasalarda risk iştahını düşürdü; altında",
+      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/dort-cepheden-buyuk-baski-altin-neden-dustu-1826226",
+      "published": "2026-10-31T06:30:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:36.106698+00:00"
+    },
+    {
+      "id": "058c8bcf78c437d6",
+      "source": "Türkiye Gazetesi",
+      "title": "Altın neden düştü?",
+      "summary": "Ons altın ekim ayını yüzde 6,87 değer kaybı ile 3.875 dolardan tamamladı. Böylece fiyatlar son bir yılın en düşük seviyesine geriledi. Petrolün yükselmesiyle öne çıkan enflasyon endişeleri, ABD Merkez Bankasından faiz artışı beklentileri, güçlü gelen ABD ekonomik verilerinin faiz indirimi alanını kısıtlaması ve teknoloji hisselerinde yaşanan satış dalgası piyasalarda risk iştahını düşürdü; altında",
+      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/dort-cepheden-buyuk-baski-altin-neden-dustu-1826226",
+      "published": "2026-10-31T06:30:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:36.106727+00:00"
+    },
+    {
+      "id": "9826d7df698b27de",
+      "source": "Türkiye Gazetesi",
+      "title": "Altın neden düştü? Dört cepheden büyük baskı",
+      "summary": "Ons altın ekim ayını yüzde 6,87 değer kaybı ile 3.875 dolardan tamamladı. Böylece fiyatlar son bir yılın en düşük seviyesine geriledi. Petrolün yükselmesiyle öne çıkan enflasyon endişeleri, ABD Merkez Bankasından faiz artışı beklentileri, güçlü gelen ABD ekonomik verilerinin faiz indirimi alanını kısıtlaması ve teknoloji hisselerinde yaşanan satış dalgası piyasalarda risk iştahını düşürdü; altında",
+      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/dort-cepheden-buyuk-baski-altin-neden-dustu-1826226",
+      "published": "2026-10-31T06:30:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:36.106755+00:00"
+    },
     {
       "id": "841187606920c763",
       "source": "Akşam",
@@ -30,6 +151,17 @@
       "fetched_at": "2026-10-31T06:31:15.546793+00:00"
     },
     {
+      "id": "55dddacc6b5ba84c",
+      "source": "Evrensel",
+      "title": "19 gündür kayıp olan Selman Alkan'ın ailesi: Arama çalışmaları devam etsin",
+      "summary": "İstanbul Sultangazi’de “Güvenlik soruşturması” gerekçesiyle işten atılan ve 19 gündür haber alınamayan Selman Alkan’ı arama çalışmaları sonlandırıldı. Aile, çalışmaların devam etmesi çağrısı yaptı.",
+      "link": "https://www.evrensel.net/haber/6007386/19-gundur-kayip-olan-selman-alkanin-ailesi-arama-calismalari-devam-etsin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-31T06:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:36.664118+00:00"
+    },
+    {
       "id": "807319aeb6a01a2e",
       "source": "Euronews Türkçe",
       "title": "Carney: Kanada, Haziran 2027'ye kadar AB'nin ilk 'ortak üyesi' olmayı hedefliyor",
@@ -39,6 +171,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T06:31:17.891377+00:00"
+    },
+    {
+      "id": "4d2b10272c79554e",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kasımpaşa, Süper Lig'de yarın Beşiktaş'ı konuk edecek",
+      "summary": "Kasımpaşa, Trendyol Süper Lig'in 10. haftasında yarın Beşiktaş'ı ağırlayacak.",
+      "link": "https://www.aa.com.tr/tr/spor/kasimpasa-super-ligde-yarin-besiktasi-konuk-edecek/4107042",
+      "published": "2026-10-31T06:28:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:33.277433+00:00"
     },
     {
       "id": "cb74c7485cd9f59d",
@@ -116,6 +259,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T06:30:48.536204+00:00"
+    },
+    {
+      "id": "4638726fee1d0010",
+      "source": "Finans Gündem",
+      "title": "Ekim yağmurla bitiyor, kasım yağışla başlıyor",
+      "summary": "Ekim ayının son günleriyle birlikte yurt genelinde yağışlı hava etkisini artırıyor. Meteoroloji birçok bölgede sağanak ve gök gürültülü sağanak yağış beklendiğini duyururken, Ordu ve Giresun için sarı kodlu uyarı yayımladı.",
+      "link": "https://www.finansingundemi.com/haber/ekim-yagmurla-bitiyor-kasim-yagisla-basliyor/1913254",
+      "published": "2026-10-31T06:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:54.099812+00:00"
     },
     {
       "id": "6ae2df86fe238e4d",
@@ -226,6 +380,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T06:25:39.150592+00:00"
+    },
+    {
+      "id": "e44164a5c8d2c025",
+      "source": "Evrensel",
+      "title": "2 ilde yol ve doğal gaz projeleri için acele kamulaştırma kararları",
+      "summary": "Trabzon ve Konya'da yol çalışması ve doğal gaz dağıtım tesisi için acele kamulaştırma kararları Resmi Gazete'de yayımlandı.",
+      "link": "https://www.evrensel.net/haber/6007385/2-ilde-yol-ve-dogal-gaz-projeleri-icin-acele-kamulastirma-kararlari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-10-31T06:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-10-31T06:35:36.664143+00:00"
     },
     {
       "id": "6c6e8b6b18a9e5a1",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-30T21:50:49.286129+00:00"
-    },
-    {
-      "id": "c23a0c33d627b381",
-      "source": "Yeni Şafak",
-      "title": "Maltepe ve Kartal’da uyuşturucu operasyonu: İki şüpheli tutuklandı",
-      "summary": "Maltepe ve Kartal’da uyuşturucu madde ticaretine yönelik düzenlenen operasyonlarda, polisin 'dur' ihtarına uymayarak kaçan şüpheli kovalamaca sonucu yakalanırken, uyuşturucu deposu olarak kullanılan adrese de baskın yapıldı. Operasyonlarda toplam 2 kilo 545 gram uyuşturucu madde ve 172 bin 150 lira ele geçirildi. Gözaltına alınan 2 şüpheli, çıkarıldıkları mahkemece tutuklandı.",
-      "link": "https://www.yenisafak.com/gundem/maltepe-ve-kartalda-uyusturucu-operasyonu-iki-supheli-tutuklandi-4868524",
-      "published": "2026-10-30T21:49:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:50:48.893881+00:00"
-    },
-    {
-      "id": "3b0bddfddd9a4526",
-      "source": "Sabah",
-      "title": "Efsanevi kuş ‘Semrük’ rekora uçtu",
-      "summary": "Bursa Nilüfer Borsa İstanbul Fen Lisesi bünyesinde kurulan Aurora Roket Takımı, TEKNOFEST 2026 Roket Yarışması'nda Türkiye şampiyonu oldu. Genç mucitler, Türk mitolojisindeki çift başlı efsanevi gök kuşundan... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/efsanevi-kus-semruk-rekora-uctu-7691865",
-      "published": "2026-10-30T21:48:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T04:55:38.626147+00:00"
-    },
-    {
-      "id": "305ce1108aa33ec5",
-      "source": "Sözcü",
-      "title": "Merkezefendi Belediyesi'ne operasyon… Başkan Şeniz Doğan ve eşinin de aralarında olduğu 6 kişi tutuklandı",
-      "summary": "Merkezefendi Belediyesi'ne operasyon… Başkan Şeniz Doğan ve eşinin de aralarında olduğu 6 kişi tutuklandı",
-      "link": "https://www.sozcu.com.tr/merkezefendi-belediye-baskani-seniz-dogan-hakkinda-karar-p374462",
-      "published": "2026-10-30T21:47:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:50:44.738210+00:00"
-    },
-    {
-      "id": "03097c5a8c8e1915",
-      "source": "Ekonomim",
-      "title": "Altında yüzde 25 yükseliş için tarih verdi! Dev kuruluştan çakılma sonrası altın açıklaması",
-      "summary": "Altın fiyatları spotta ocak ayında gördüğü 5.595 dolarlık tarihi zirvenin ardından yüzde 30&#039;a yakın değer kaybederek 3.900 dolar seviyelerine geriledi. Sert düşüşün ardından The Gold &amp; Silver Club (GSC), ons altının 2027&#039;nin ilk çeyreğinde 4.900-5.000 dolar aralığına yükselebileceğini öngörerek mevcut seviyelerden yüzde 25&#039;i aşan kazanç potansiyeline dikkat çekti",
-      "link": "https://www.ekonomim.com/foto-galeri/ekonomi/altinda-yuzde-25-yukselis-icin-tarih-verdi-dev-kurulustan-cakilma-sonrasi-altin-aciklamasi-galeri-928143",
-      "published": "2026-10-30T21:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:50:59.761095+00:00"
-    },
-    {
-      "id": "05d5b7551bfbde96",
-      "source": "Türkiye Gazetesi",
-      "title": "Beşiktaş, Bologna'yı son topta devirdi!",
-      "summary": "Avrupa Ligi'nin 9. haftasında Beşiktaş, deplasmanda Virtus Bologna'yı son saniye basketiyle 103-101 mağlup etti.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/besiktas-bolognayi-son-topta-devirdi-1826206",
-      "published": "2026-10-30T21:45:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:50:44.367037+00:00"
-    },
-    {
-      "id": "99838beaf930c9bd",
-      "source": "OdaTV",
-      "title": "Özgür Özel'den ev hapsindeki Sinem Dedetaş'a ziyaret",
-      "summary": "YENİ Parti Genel Başkanı Özgür Özel, Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan ve 90 gün tutuklu kaldıktan sonra ev hapsi şeklindeki adli kontrol tedbiriyle tahliye edilen Sinem Dedetaş’ı evinde ziyaret etti.",
-      "link": "https://www.odatv.com/guncel/ozgur-ozelden-ev-hapsindeki-sinem-dedetasa-ziyaret-120168987",
-      "published": "2026-10-30T21:45:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:50:51.936493+00:00"
-    },
-    {
-      "id": "69d2617892166691",
-      "source": "Habertürk",
-      "title": "Metrobüs hattında korkutan yangın",
-      "summary": "İstanbul Avcılar'da metrobüs yolundaki alt geçitte elektrik hattında yangın çıktı. Alevler itfaiye ekipleri tarafından söndürüldü",
-      "link": "https://www.haberturk.com/gundem/avcilar-metrobus-hattinda-korkutan-yangin-3923852",
-      "published": "2026-10-30T21:44:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:55:28.770381+00:00"
-    },
-    {
-      "id": "6af1fbc415077c6c",
-      "source": "Yeni Şafak",
-      "title": "Kadıköy’de bir kadın Atatürk heykeliyle sohbet edip elini öptü",
-      "summary": "İstanbul'un Kadıköy ilçesinde bir kadın, Atatürk heykelinin karşısına geçerek konuşmaya başladı. Heykele hitap eden kadın, ardından heykelin elini öptü. Kadıköylü kadının o anları kameraya yansıdı.",
-      "link": "https://www.yenisafak.com/video/gundem/kadikoyde-bir-kadin-ataturk-heykeliyle-sohbet-edip-elini-optu-4868523",
-      "published": "2026-10-30T21:44:20+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:45:44.071683+00:00"
-    },
-    {
-      "id": "f9c01f9906d0abd0",
-      "source": "Akşam",
-      "title": "Bakan Fidan, Alman mevkidaşı Wadephul ile bir araya geldi",
-      "summary": "Dışişleri Bakanı Hakan Fidan, ABD'nin Atlanta kentinde gerçekleştirilen G20 Dışişleri Bakanları Toplantısı kapsamında Almanya Dışişleri Bakanı Johann Wadephul ile görüştü.",
-      "link": "https://www.aksam.com.tr/guncel/bakan-fidan-alman-mevkidasi-wadephul-ile-bir-araya-geldi/haber-1710561",
-      "published": "2026-10-30T21:42:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:45:43.583020+00:00"
-    },
-    {
-      "id": "cc5a954580c93fb2",
-      "source": "Evrensel",
-      "title": "EuroLeague'de 9. hafta: Beşiktaş, Virtus Bologna'yı son nefeste devirdi",
-      "summary": "EuroLeague'de 9. hafta maçında Beşiktaş, Virtus Bologna'yı deplasmanda nefes kesen maçın son anlarında Conor Morgan'ın basketiyle 103-101 mağlup etti.",
-      "link": "https://www.evrensel.net/haber/6007371/euroleaguede-9-hafta-besiktas-virtus-bolognayi-son-nefeste-devirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-10-30T21:40:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T22:05:39.748923+00:00"
-    },
-    {
-      "id": "718e4e6ab087a7e4",
-      "source": "Türkiye Gazetesi",
-      "title": "Obradovic'ten Anadolu Efes'e övgü, takımına uyarı",
-      "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 9. haftasında ağırladığı Yunanistan ekibi Panathinaikos AKTOR'u 83-68 yenen Anadolu Efes'te Başantrenör Pablo Laso, müthiş bir performans ortaya koyduklarını söyledi. EuroLeague seviyesinde bir performans sergileyemediklerini ifade eden Obradovic ise Anadolu Efes'in galibiyeti hak ettiğini belirtti.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/obradovicten-anadolu-efese-ovgu-takimina-uyari-1826204",
-      "published": "2026-10-30T21:39:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:45:40.186436+00:00"
-    },
-    {
-      "id": "07b20926439af99d",
-      "source": "Bloomberg HT",
-      "title": "Monako, kara para aklamayla mücadelede FATF'ın gri listesinden çıkarıldı",
-      "summary": "Mali Eylem Görev Gücü (FATF), kara para aklamayla mücadelede kaydedilen ilerlemenin ardından Monako'yu Haziran 2024'ten bu yana bulunduğu gri listeden çıkardı.",
-      "link": "https://www.bloomberght.com/monako-kara-para-aklamayla-mucadelede-fatf-in-gri-listesinden-cikarildi-3792978",
-      "published": "2026-10-30T21:38:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:50:58.900330+00:00"
-    },
-    {
-      "id": "31d7727f4fdb9a4a",
-      "source": "Akşam",
-      "title": "Hz. Muhammed ve Kâbe'yi hedef aldılar! Alçak paylaşıma tepkiler çığ gibi büyüdü",
-      "summary": "Boğaziçi Üniversitesi'nde bir grup öğrencinin İslam'a hakaret içeren paylaşımlarına, üniversitenin İslam Araştırmaları Kulübü (BİSAK) sert tepki gösterdi.",
-      "link": "https://www.aksam.com.tr/guncel/hz-muhammed-ve-kabeyi-hedef-aldilar-alcak-paylasima-tepkiler-cig-gibi-buyudu/haber-1710560",
-      "published": "2026-10-30T21:38:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:40:44.642426+00:00"
-    },
-    {
-      "id": "1d117c771a047a94",
-      "source": "Habertürk",
-      "title": "Bakan Fidan'dan diplomasi trafiği",
-      "summary": "Dışişleri Bakanı Hakan Fidan, Atlanta'da G20 Dışişleri Bakanları Toplantısı marjında ABD Dışişleri Bakanı Marco Rubio ile görüştü. Bakan Fidan ayrıca, Almanya Dışişleri Bakanı Johann Wadephul ile bir araya geldi.",
-      "link": "https://www.haberturk.com/dunya/bakan-fidan-abd-li-mevkidasi-ile-gorustu-3923846",
-      "published": "2026-10-30T21:37:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:50:38.461588+00:00"
-    },
-    {
-      "id": "263d1af39c74efb2",
-      "source": "Cumhuriyet",
-      "title": "Merkezefendi Belediyesi'ne operasyon… Başkan Şeniz Doğan ve eşinin de aralarında olduğu 6 kişi tutuklandı",
-      "summary": "Denizli'de Merkezefendi Belediyesi'ne yönelik soruşturma kapsamında Belediye Başkanı Şeniz Doğan, eşi Mehmet Ali Doğan ve 4 kişi tutuklandı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/merkezefendi-belediye-baskani-seniz-dogan-ve-esi-tutuklandi-2551858",
-      "published": "2026-10-30T21:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-30T21:45:37.893042+00:00"
     }
   ]
 }

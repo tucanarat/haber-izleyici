@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-01T22:11:07.328307+00:00",
+  "last_updated": "2026-11-01T22:16:04.689004+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 501,
+  "new_items_this_run": 502,
   "items": [
+    {
+      "id": "192a2ef7b0f27f02",
+      "source": "Star",
+      "title": "ABD'de 9 kişiyi taşıyan uçakta korkunç kaza! Füze gibi yere çakıldı",
+      "summary": "ABD basınında yer alan haberlere göre, yetkililer Palm Beach bölgesindeki Greenacres yakınlarında Learjet 60 tipi özel jetin yerleşim alanına düştüğünü belirtti.",
+      "link": "https://www.star.com.tr/dunya/abdde-9-kisiyi-tasiyan-ucakta-korkunc-kaza-fuze-gibi-yere-cakildi-haber-2050591/",
+      "published": "2026-11-01T22:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T22:15:45.816207+00:00"
+    },
     {
       "id": "35183a69dd8fcbf3",
       "source": "Akşam",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T17:25:30.350202+00:00"
-    },
-    {
-      "id": "f879da55cdb1526e",
-      "source": "Akşam",
-      "title": "Lider Lazio, Cagliari karşısında hata yapmadı",
-      "summary": "İtalya Serie A'nın 10. haftasında Lazio, sahasında Cagliari'yi ağırladı. Maç, Lazio'nun 2-1'lik galibiyetiyle sona erdi.",
-      "link": "https://www.aksam.com.tr/spor/lider-lazio-cagliari-karsisinda-hata-yapmadi/haber-1710982",
-      "published": "2026-11-01T17:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:20:43.798358+00:00"
     }
   ]
 }

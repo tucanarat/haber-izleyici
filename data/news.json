@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T02:51:01.083372+00:00",
+  "last_updated": "2026-11-01T02:55:59.628435+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 494,
   "items": [
+    {
+      "id": "b5f817ad708563bd",
+      "source": "Habertürk",
+      "title": "İstanbul'da bu yollar kapalı",
+      "summary": "İstanbul Maratonu nedeniyle 15 Temmuz Şehitler Köprüsü ve bağlantı yolları ile Avrasya Tüneli, Galata Köprüsü ve parkur üzerindeki çok sayıda cadde ve sokak araç trafiğine kapatıldı. Sürücüler alternatif güzergahlara yönlendirildi",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-bu-yollar-kapali-3924036",
+      "published": "2026-11-01T02:40:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T02:55:30.539273+00:00"
+    },
     {
       "id": "227b65944a96373f",
       "source": "Bir Gün",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T19:01:05.472908+00:00"
-    },
-    {
-      "id": "9a2d1d5616fbadf0",
-      "source": "Milliyet",
-      "title": "Zelenskiy: Ukrayna, Türkiye'de liderler düzeyinde üçlü toplantıları destekliyor",
-      "summary": "Zelenskiy, Cumhurbaşkanı Recep Tayyip Erdoğan'la Cumhurbaşkanlığı Dolmabahçe Ofisi'nde düzenlenen ortak basın toplantısının ardından Ukrayna medyasına değerlendirmelerde bulundu. Cumhurbaşkanı Erdoğan'la gerçekleştirdiği ikili görüşmede, farklı konuların yanı sıra Rusya-Ukrayna Savaşı'nın sona erdirilmesine yönelik diplomatik çalışmaları da ele aldıklarını kaydeden Zelenskiy, savaşın sona erdirilm",
-      "link": "https://www.milliyet.com.tr/dunya/zelenskiy-ukrayna-turkiyede-liderler-duzeyinde-uclu-toplantilari-destekliyor-7691660",
-      "published": "2026-10-31T18:57:33+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T19:01:03.400271+00:00"
     }
   ]
 }

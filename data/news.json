@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-01T00:16:07.102489+00:00",
+  "last_updated": "2026-11-01T00:20:58.470599+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 492,
+  "new_items_this_run": 493,
   "items": [
+    {
+      "id": "df4366b52a75c562",
+      "source": "Habertürk",
+      "title": "4 kente kuvvetli sağanak uyarısı",
+      "summary": "İçişleri Bakanlığı, 1 Kasım Pazar günü Muğla ve Antalya’nın bazı ilçeleri ile İzmir ve Aydın’ın batı kesimlerinde yerel olarak kuvvetli sağanak beklendiğini bildirdi. Muğla’nın Ula, Ortaca, Marmaris, Dalaman ve Köyceğiz ilçelerinde yağışların akşam saatlerinden sonra yer yer şiddetli olacağı tahmin ediliyor",
+      "link": "https://www.haberturk.com/gundem/4-kente-kuvvetli-saganak-uyarisi-3924033",
+      "published": "2026-11-01T00:06:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T00:20:37.988633+00:00"
+    },
     {
       "id": "c0f58b69e159faca",
       "source": "Türkiye Gazetesi",
@@ -743,6 +754,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T22:30:56.501181+00:00"
+    },
+    {
+      "id": "d3d56c10316d2bd4",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Filistin asıllı milletvekili Tıybi, Eisenkot liderliğindeki hükümeti destekleyeceklerini duyurdu",
+      "summary": "İsrail vatandaşı Filistinli milletvekili Ahmed Tıybi, genel seçimde 11 sandalye elde etmeyi başaran Ortak Liste'nin, Gadi Eisenkot liderliğinde kurulacak bir koalisyon hükümetine dışarıdan destek vermeye hazır olduğunu duyurdu.",
+      "link": "https://www.aa.com.tr/tr/dunya/filistin-asilli-milletvekili-tiybi-eisenkot-liderligindeki-hukumeti-destekleyeceklerini-duyurdu/4107687",
+      "published": "2026-10-31T22:28:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T00:20:40.638095+00:00"
     },
     {
       "id": "68d4958a05ed4644",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T18:01:01.770468+00:00"
-    },
-    {
-      "id": "4da0b099ca1aa577",
-      "source": "Bir Gün",
-      "title": "AKP'li Savcı Sayan'dan BDDK Başkanı Kavcıoğlu'na yanıt: \"Mahkemeyle korkutmak yerine sorularıma cevap verin\"",
-      "summary": "AKP'li Sayan sosyal medya üzerinden Kavcıoğlu'na yanıt verdi. Sayan, Kavcıoğlu'na şu soruları yöneltti: \"9 Eylül 2026 tarihinde saat 14.00’te BDDK binasında hangi heyetler ile görüştünüz? Heyet görüşmesinin ardından Emre Tezmen ve Serdar Turhan’la neler konuştunuz, neyi planladınız?\"",
-      "link": "https://www.birgun.net/haber/akp-li-savci-sayan-dan-bddk-baskani-kavcioglu-na-yanit-mahkemeyle-korkutmak-yerine-sorularima-cevap-verin-743729",
-      "published": "2026-10-31T17:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T18:30:50.989019+00:00"
-    },
-    {
-      "id": "85525a4b5f36211f",
-      "source": "Independent Türkçe",
-      "title": "Fon soruşturması Borsa İstanbul'a uzandı: Genel müdür Korkmaz Enes Ergun gözaltında",
-      "summary": "Borsa İstanbul AŞ Genel Müdürü Korkmaz Enes Ergun, sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" iddiasıyla gözaltına alındı. İstanbul Cumhuriyet Başsavcılığınca, sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması devam ediyor. Borsa İstanbul AŞ Genel Müdürü ",
-      "link": "https://www.indyturk.com/node/784589/haber/fon-soru%C5%9Fturmas%C4%B1-borsa-i%CC%87stanbula-uzand%C4%B1-genel-m%C3%BCd%C3%BCr-korkmaz-enes-ergun-g%C3%B6zalt%C4%B1nda",
-      "published": "2026-10-31T17:53:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T17:55:40.084774+00:00"
     }
   ]
 }

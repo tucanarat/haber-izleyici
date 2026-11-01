@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T00:01:20.446094+00:00",
+  "last_updated": "2026-11-01T00:05:54.749477+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 493,
   "items": [
+    {
+      "id": "e479988aa0a61029",
+      "source": "Aydınlık",
+      "title": "Ankara’da Gazze’deki kriz ve yetim çocuklar için dayanışma programı",
+      "summary": "İHH İnsani Yardım Vakfı Ankara Şubesi, Gazze’deki insani krize dikkat çekmek ve yetim çocuklarla dayanışmayı güçlendirmek amacıyla Ankara’da program düzenledi. Etkinlikte vakfın yardım çalışmaları anlatıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/ankarada-gazze-ve-yetimler-icin-dayanisma-programi-596985",
+      "published": "2026-11-01T00:01:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T00:05:41.128575+00:00"
+    },
     {
       "id": "f09f5dca4b5dde56",
       "source": "Türkiye Gazetesi",
@@ -39,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T00:01:04.612490+00:00"
+    },
+    {
+      "id": "619406e743e99f97",
+      "source": "Habertürk",
+      "title": "Muhalefet, Netanyahu'ya karşı harekete geçecek",
+      "summary": "İsrail'de 27 Ekim'de yapılan parlamento seçimlerinde muhalefetin en güçlü ismi olarak çıkan Yashar Partisi lideri Gadi Eisenkot, İsrail Meclisi'nde Arap partileri de dahil elde ettikleri milletvekili çoğunluğunu Başbakan Binyamin Netanyahu liderliğindeki mevcut hükümete karşı derhal kullanacaklarını belirtti",
+      "link": "https://www.haberturk.com/dunya/muhalefet-netanyahu-ya-karsi-harekete-gececek-3924032",
+      "published": "2026-10-31T23:56:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T00:05:29.384535+00:00"
     },
     {
       "id": "ddf8871708bd7419",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T18:15:41.957366+00:00"
-    },
-    {
-      "id": "51e601c9e79b9a08",
-      "source": "Türkiye Gazetesi",
-      "title": "Kadıköy'de 'yönetim istifa' tezahüratları",
-      "summary": "Trendyol Süper Lig'in 10. haftasında 1-0 öne geçtiği Göztepe karşısında 2-1 geriye düşen Fenerbahçe'de tribünler, yönetimi istifaya çağırdı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/kadikoyde-yonetim-istifa-tezahuratlari-1826357",
-      "published": "2026-10-31T17:52:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T18:15:41.957388+00:00"
-    },
-    {
-      "id": "155ff34f08d57244",
-      "source": "Habertürk",
-      "title": "Borsa İstanbul Genel Müdürü gözaltında",
-      "summary": "Borsa İstanbul A.Ş. Genel Müdürü Korkmaz Enes Ergun, fon soruşturması kapsamına alındı. Ergun \"Suç işlemek amacıyla kurulan örgüte üye olmak ve rüşvet\" suçlarından gözaltına alındı",
-      "link": "https://www.haberturk.com/gundem/son-dakika-borsa-istanbul-genel-muduru-gozaltinda-3923990",
-      "published": "2026-10-31T17:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T23:05:31.737237+00:00"
     }
   ]
 }

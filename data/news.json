@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-11-01T20:05:51.661226+00:00",
+  "last_updated": "2026-11-01T20:11:05.506818+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 532,
+  "new_items_this_run": 530,
   "items": [
+    {
+      "id": "553ab9c2e4757c5e",
+      "source": "Star",
+      "title": "\"Daltonlar\" çetesinin planı deşifre oldu! 5 şüpheli yakalandı",
+      "summary": "Kamuoyunda \"Daltonlar\" olarak bilinen silahlı suç örgütüne yönelik yürütülen soruşturma kapsamında, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik silahlı eylem hazırlığında oldukları değerlendirilen 5 şüpheli yakalandı.",
+      "link": "https://www.star.com.tr/guncel/daltonlar-cetesinin-plani-desifre-oldu-5-supheli-yakalandi-haber-2050580/",
+      "published": "2026-11-01T20:10:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T20:10:47.079619+00:00"
+    },
+    {
+      "id": "374a66c4fe2cca8c",
+      "source": "Milliyet",
+      "title": "Son dakika.... ABD'nin Florida kentinde özel jet şehrin ortasına düştü",
+      "summary": "ABD'nin Florida eyaletinde 10 kişiye kadar yolcu taşıyabilen Learjet 60 (N722BD) uçağı düştü.",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-abdnin-florida-kentinde-ozel-jet-sehrin-ortasina-dustu-7692234",
+      "published": "2026-11-01T20:06:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T20:10:45.384391+00:00"
+    },
+    {
+      "id": "7d331fc308f8d044",
+      "source": "CNBC-e",
+      "title": "Anthropic'ten yapay zekaya oyun freni: Claude artık yeniden oluşturamayacak",
+      "summary": "Anthropic’in Claude Code aracına, yapay zekânın mevcut video oyunlarını yeniden oluşturmasını engelleyen yeni bir talimat eklediği ortaya çıktı. XDA Developers’ın incelemesine göre kısıtlama, özellikle Opus 5.5 modelinde aktif.",
+      "link": "https://www.cnbce.com/yapay-zeka/anthropicten-yapay-zekaya-oyun-freni-claude-artik-yeniden-olusturamayacak-h40752",
+      "published": "2026-11-01T20:06:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T20:10:58.088780+00:00"
+    },
     {
       "id": "aa831d10d16607c0",
       "source": "Sözcü",
@@ -19,6 +52,28 @@
       "fetched_at": "2026-11-01T20:05:33.597758+00:00"
     },
     {
+      "id": "3d6cf4a380908989",
+      "source": "Habertürk",
+      "title": "İstanbul'da güvenlik toplantısı yapıldı",
+      "summary": "İçişleri Bakanı Mustafa Çiftçi, bu yıl İstanbul'da yeni nesil suç örgütlerine yönelik 190 operasyon gerçekleştirildiğini, 2 bin 67 şüphelinin yakalandığını, 1545 şüphelinin tutuklandığını bildirdi.",
+      "link": "https://www.haberturk.com/gundem/istanbul-da-guvenlik-toplantisi-yapildi-3924177",
+      "published": "2026-11-01T20:04:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T20:10:36.333800+00:00"
+    },
+    {
+      "id": "2f2e7aad70e18912",
+      "source": "Türkiye Gazetesi",
+      "title": "Fenerbahçe tribün liderine saldırı hazırlığı! 5 gözaltı var",
+      "summary": "Kamuoyunda 'Daltonlar' olarak bilinen silahlı suç örgütüne yönelik soruşturmada, Fenerbahçe tribün lideri Cem Gölbaşı'na yönelik silahlı saldırı hazırlığında oldukları değerlendirilen 5 şüpheli yakalandı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/fenerbahce-tribun-liderine-saldiri-hazirligi-daltonlar-sorusturmasinda-5-gozalti-1826544",
+      "published": "2026-11-01T20:03:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T20:10:42.153497+00:00"
+    },
+    {
       "id": "e13fc30788b01813",
       "source": "Yeni Şafak",
       "title": "Yeni haftada yurt genelinde sağanak etkili olacak",
@@ -28,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T20:05:37.468215+00:00"
+    },
+    {
+      "id": "41a7eb9fdf042127",
+      "source": "Milliyet",
+      "title": "Kentte define arama projesi için izin süreçleri tamamlandı! Bulan yarısını alacak",
+      "summary": "Giresun'un Alucra ilçesine bağlı Yeşilyurt köyünde 49,99 metrekarelik alanda define arama projesi için ÇED süreci tamamlandı. Fazlı V. tarafından yürütülmesi planlanan proje, Yeşilyurt köyü 220 ada 7 parselde gerçekleştirilecek. Çalışmalar, en yakın müzeden görevlendirilecek iki uzman ile Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ve İçişleri Bakanlığını temsilen görevlendirilecek birer yere",
+      "link": "https://www.milliyet.com.tr/gundem/kentte-define-arama-projesi-icin-izin-surecleri-tamamlandi-bulan-yarisini-alacak-7692231",
+      "published": "2026-11-01T20:02:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T20:10:45.384919+00:00"
     },
     {
       "id": "887b79adcdf711c1",
@@ -182,6 +248,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T19:55:36.133265+00:00"
+    },
+    {
+      "id": "1fc0ced5d9c551ad",
+      "source": "Evrensel",
+      "title": "Dünya Gazetesi'nin ortağı Umut Güner'e ev hapsi kararı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığının yürüttüğü fon soruşturması kapsamında gözaltına alınan Dünya Gazetesi'nin ortağı Umut Güner, ev hapsi ve yurt dışına çıkış yasağı tedbirleriyle serbest bırakıldı.",
+      "link": "https://www.evrensel.net/haber/6007594/dunya-gazetesinin-ortagi-umut-gunere-ev-hapsi-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-01T19:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T20:10:42.561433+00:00"
     },
     {
       "id": "7a310a1e4bf290c4",
@@ -5429,83 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T15:20:37.167500+00:00"
-    },
-    {
-      "id": "92a226657f64839d",
-      "source": "ShiftDelete.Net",
-      "title": "Sodyum pil 1000 şarjda yüzde 90 kapasite korudu",
-      "summary": "Güney Koreli araştırmacılar, sodyum iyon pil teknolojisini daha güvenli hâle getirecek yeni bir elektrolit geliştirdi. Pil, 1000 şarj döngüsünün ardından kapasitesinin %90,4'ünü korudu.",
-      "link": "https://shiftdelete.net/sodyum-iyon-pil-elektrolit-1000-dongu",
-      "published": "2026-11-01T15:08:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T15:10:57.553638+00:00"
-    },
-    {
-      "id": "10a093cc06edeeab",
-      "source": "Cumhuriyet",
-      "title": "Atila Türeli kimdir? Yeni Borsa İstanbul Genel Müdürü Atila Türeli kaç yaşında, nereli?",
-      "summary": "Borsa İstanbul A.Ş. Genel Müdür Yardımcısı Atila Türeli, Yönetim Kurulu kararıyla Genel Müdürlük görevine vekaleten getirildi. Peki, Atila Türeli kimdir? Yeni Borsa İstanbul Genel Müdürü Atila Türeli kaç yaşında, nereli?",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/atila-tureli-kimdir-yeni-borsa-istanbul-genel-muduru-atila-tureli-kac-yasinda-nereli-2552255",
-      "published": "2026-11-01T15:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T15:10:38.556646+00:00"
-    },
-    {
-      "id": "fbbf3209cea8400e",
-      "source": "Habertürk",
-      "title": "Kasımpaşa Beşiktaş maçı hangi kanalda?",
-      "summary": "Trendyol Süper Lig'in 10. haftasında oynanacak Kasımpaşa Beşiktaş maçı canlı yayında izleyiciyle buluşacak. Reşat Onur Coşkunses’in karşılaşmayı yöneteceği Kasımpaşa Beşiktaş maçını canlı yayında takip etmek isteyenler ‘'Kasımpaşa Beşiktaş maçı canlı nasıl ve nereden izlenir?'' sorusuna yanıt arıyor. Siyah-beyazlılar, Kasımpaşa'yı mağlup ederek zirve yarışında haftayı kayıpsız geçen lider Galatasa",
-      "link": "https://www.haberturk.com/bilgi/foto/kasimpasa-besiktas-maci-canli-izle-kasimpasa-besiktas-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-yayinlanacak-3924137",
-      "published": "2026-11-01T15:06:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T15:15:36.507702+00:00"
-    },
-    {
-      "id": "8b458d24acced5a1",
-      "source": "Cumhuriyet",
-      "title": "Beşiktaş üç puanı son anlarda kaybetti: Kasımpaşa 2-2 Beşiktaş",
-      "summary": "Beşiktaş, Süper Lig'in 10. haftasında deplasmanda karşılaştığı Kasımpaşa ile 2-2 berabere kaldı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/besiktas-uc-puani-son-anlarda-kaybetti-kasimpasa-2-2-besiktas-2552247",
-      "published": "2026-11-01T15:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T18:00:59.851847+00:00"
-    },
-    {
-      "id": "3e908723e70453ed",
-      "source": "Cumhuriyet",
-      "title": "CANLI ANLATIM: Kasımpaşa 2-2 Beşiktaş | Süper Lig 10. Hafta Mücadelesi",
-      "summary": "Beşiktaş, Süper Lig'in 10. haftasında deplasmanda Kasımpaşa ile karşılaşıyor. Zorlu mücadeleye dair tüm ayrıntılar anbean Cumhuriyet.com.tr'de...",
-      "link": "https://www.cumhuriyet.com.tr/spor/canli-anlatim-kasimpasa-besiktas-super-lig-10-hafta-mucadelesi-2552247",
-      "published": "2026-11-01T15:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:55:30.207543+00:00"
-    },
-    {
-      "id": "262a104989eec347",
-      "source": "Cumhuriyet",
-      "title": "CANLI ANLATIM: Kasımpaşa 1-2 Beşiktaş | Süper Lig 10. Hafta Mücadelesi",
-      "summary": "Beşiktaş, Süper Lig'in 10. haftasında deplasmanda Kasımpaşa ile karşılaşıyor. Zorlu mücadeleye dair tüm ayrıntılar anbean Cumhuriyet.com.tr'de...",
-      "link": "https://www.cumhuriyet.com.tr/spor/canli-anlatim-kasimpasa-besiktas-super-lig-10-hafta-mucadelesi-2552247",
-      "published": "2026-11-01T15:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:25:30.350628+00:00"
-    },
-    {
-      "id": "ee63f2e5a895df6d",
-      "source": "Cumhuriyet",
-      "title": "CANLI ANLATIM: Kasımpaşa 0-2 Beşiktaş | Süper Lig 10. Hafta Mücadelesi",
-      "summary": "Beşiktaş, Süper Lig'in 10. haftasında deplasmanda Kasımpaşa ile karşılaşıyor. Zorlu mücadeleye dair tüm ayrıntılar anbean Cumhuriyet.com.tr'de...",
-      "link": "https://www.cumhuriyet.com.tr/spor/canli-anlatim-kasimpasa-besiktas-super-lig-10-hafta-mucadelesi-2552247",
-      "published": "2026-11-01T15:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:15:38.476927+00:00"
     }
   ]
 }

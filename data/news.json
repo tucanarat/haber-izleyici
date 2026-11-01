@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-01T22:46:00.220543+00:00",
+  "last_updated": "2026-11-01T22:51:01.443594+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 494,
+  "new_items_this_run": 505,
   "items": [
+    {
+      "id": "4e1a6405a8cee91f",
+      "source": "Akşam",
+      "title": "Tarihi zafer! Şampiyon Kimi Antonelli",
+      "summary": "Mercedes'in İtalyan pilotu Kimi Antonelli, 2026 Formula 1 Dünya Şampiyonası'nda şampiyonluğunu garantiledi.",
+      "link": "https://www.aksam.com.tr/spor/tarihi-zafer-sampiyon-kimi-antonelli/haber-1711036",
+      "published": "2026-11-01T22:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T22:50:42.196415+00:00"
+    },
     {
       "id": "35f7d7bc7076b47b",
       "source": "Habertürk",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T17:55:39.342692+00:00"
-    },
-    {
-      "id": "bd5491dd6d6908e1",
-      "source": "OdaTV",
-      "title": "İran ve ABD müzakereleri için 'Türkiye' mesajı",
-      "summary": "İran Meclisi Güvenlik Komisyonu üyesi Ahmed Behşayeş Erdestani, İran ile ABD arasında Katar veya Türkiye’de doğrudan müzakerenin ihtimal dahilinde olduğunu söyledi.",
-      "link": "https://www.odatv.com/guncel/iran-ve-abd-muzakereleri-icin-turkiye-mesaji-120169216",
-      "published": "2026-11-01T17:37:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:45:49.489359+00:00"
     }
   ]
 }

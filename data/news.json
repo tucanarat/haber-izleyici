@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-11-01T21:31:13.165760+00:00",
+  "last_updated": "2026-11-01T21:36:02.424618+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 502,
+  "new_items_this_run": 503,
   "items": [
+    {
+      "id": "01cad0d24cc9f472",
+      "source": "Akşam",
+      "title": "Bir kahraman çıkıyor",
+      "summary": "",
+      "link": "https://www.aksam.com.tr/yazarlar/bir-kahraman-cikiyor/haber-1711026",
+      "published": "2026-11-01T21:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T21:35:41.703868+00:00"
+    },
+    {
+      "id": "82a5f73adb68b799",
+      "source": "Yeni Şafak",
+      "title": "Beşiktaş’ta fren yerine gaza basan alkollü sürücünün aracıyla bahçeye düştüğü anlar kamerada",
+      "summary": "İstanbul Beşiktaş’ta alkollü olduğu iddia edilen sürücünün kullandığı otomobil, önce yol kenarındaki direğe çarptı. Panikle fren yerine gaza basan sürücünün kullandığı otomobil, geri giderek yaklaşık 3 metre derinliğindeki bahçeye düştü. Ayakta tedavi edilen sürücüye 'Alkollü olarak araç kullanmak' maddesinden 25 bin lira para cezası kesilirken, ehliyetine 6 ay el konuldu. Kazanın güvenlik kameras",
+      "link": "https://www.yenisafak.com/video/gundem/besiktasta-fren-yerine-gaza-basan-alkollu-surucunun-araciyla-bahceye-dustugu-anlar-kamerada-4868969",
+      "published": "2026-11-01T21:34:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T21:35:42.262282+00:00"
+    },
+    {
+      "id": "65c27880b14ffe74",
+      "source": "Sözcü",
+      "title": "AKP'li Savcı Sayan 'gitti' dedi! Takasbank Genel Müdürü'ne yurt dışı yasağı",
+      "summary": "AKP'li Savcı Sayan 'gitti' dedi! Takasbank Genel Müdürü'ne yurt dışı yasağı",
+      "link": "https://www.sozcu.com.tr/yunus-arinci-istifa-mi-etti-p374969",
+      "published": "2026-11-01T21:34:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T21:35:37.062238+00:00"
+    },
+    {
+      "id": "e292951db3bab753",
+      "source": "CNBC-e",
+      "title": "Xiaomi'den elektrikli otomobilde güçlü sıçrama: Teslimatlar 50 bin barajını aştı",
+      "summary": "Xiaomi Auto, ekim ayında 50 binin üzerinde araç teslim ederek 2026'nın en yüksek aylık satış hacmine ulaştı. Şirket, iki ay üst üste yaşanan yıllık düşüşün ardından yeniden büyümeye dönerken, yeni SUV serisi Sky Nomad'ın siparişleri de dikkat çekti.",
+      "link": "https://www.cnbce.com/otomotiv/xiaomiden-elektrikli-otomobilde-guclu-sicrama-teslimatlar-50-bin-barajini-asti-h40755",
+      "published": "2026-11-01T21:33:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T21:35:55.541111+00:00"
+    },
+    {
+      "id": "54d60b2f38b89de8",
+      "source": "Akşam",
+      "title": "Italiano kendi elleriyle hediye etti",
+      "summary": "",
+      "link": "https://www.aksam.com.tr/yazarlar/italiano-kendi-elleriyle-hediye-etti/haber-1711025",
+      "published": "2026-11-01T21:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T21:35:41.703893+00:00"
+    },
+    {
+      "id": "e8fe5fe38b22faea",
+      "source": "Akşam",
+      "title": "Resmi Gazete'de yayımlandı: Cumhurbaşkanlığına Cevdet Yılmaz vekalet edecek",
+      "summary": "Başkan Recep Tayyip Erdoğan'ın Güney Kore'ye ziyareti dolayısıyla Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz vekalet edecek.",
+      "link": "https://www.aksam.com.tr/guncel/resmi-gazetede-yayimlandi-cumhurbaskanligina-cevdet-yilmaz-vekalet-edecek/haber-1711024",
+      "published": "2026-11-01T21:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T21:35:41.703923+00:00"
+    },
+    {
+      "id": "2f6b576a011a44d1",
+      "source": "Cumhuriyet",
+      "title": "Kötü kokunun altından 5 günlük kadın cesedi çıktı!",
+      "summary": "Kayseri’nin Melikgazi ilçesinde bir binadaki kötü kokunun altından 5 gün önce hayatını kaybeden kadının cesedi çıktı. Olayla ilgili soruşturma başlatıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/kotu-kokunun-altindan-5-gunluk-kadin-cesedi-cikti-2552360",
+      "published": "2026-11-01T21:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T21:35:34.154932+00:00"
+    },
+    {
+      "id": "fd682028ed6420f2",
+      "source": "Aydınlık",
+      "title": "Trabzon’da uluslararası öğrenciler Mini Dünya Kupası için sahada",
+      "summary": "Karadeniz Teknik Üniversitesinde eğitim gören öğrencilerin 16 takımla katıldığı Mini Dünya Kupası, Karadeniz Uluslararası Öğrenci Derneği ve İçişleri Bakanlığının desteğiyle Trabzon’da düzenleniyor.",
+      "link": "https://www.aydinlik.com.tr/haber/trabzonda-mini-dunya-kupasi-16-ulkenin-takimi-yarisiyor-597124",
+      "published": "2026-11-01T21:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T21:35:45.327140+00:00"
+    },
     {
       "id": "c0c8ecc94f77e0c7",
       "source": "Akşam",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T18:15:40.598456+00:00"
-    },
-    {
-      "id": "15022e07c7d3a988",
-      "source": "Cumhuriyet",
-      "title": "Ali Babacan'dan 'fon soruşturmasına' ilişkin çağrı: 'Yöneticilerin tamamını derhal görevden alın'",
-      "summary": "DEVA Partisi Genel Başkanı Ali Babacan, Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun'un gözaltına alınmasının ardından \"Finansal piyasalarla ilgili kararlar değil 45 gün, değil 1 gün, 1 dakika dahi geciktirilmez. İlgili kurumlardaki yöneticilerin tamamını derhal görevden alın\" çağrısını yaptı.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/ali-babacan-dan-fon-sorusturmasina-iliskin-cagri-yoneticilerin-tamamini-derhal-gorevden-alin-2552272",
-      "published": "2026-11-01T16:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:00:57.337300+00:00"
-    },
-    {
-      "id": "2966e58161d8792f",
-      "source": "Yeni Şafak",
-      "title": "Bolu Dağı Viyadükleri'nde zincirleme kaza",
-      "summary": "Anadolu Otoyolu’nun Bolu Dağı viyadükleri mevkisinde, İstanbul istikametinde seyreden ve sürücülerinin isimleri henüz öğrenilemeyen 34 ZY 0066 ve 34 EFM 423 plakalı otomobiller ile 34 PFS 667 plakalı cip çarpıştı. Kazayı görenlerin ihbarı üzerine olay yerine sağlık, jandarma ve Karayolları ekipleri sevk edildi. Kazada yaralanan 2 kişi, sağlık ekiplerinin ilk müdahalesinin ardından Bolu Abant İzzet",
-      "link": "https://www.yenisafak.com/video/gundem/bolu-dagi-viyaduklerinde-zincirleme-kaza-4868913",
-      "published": "2026-11-01T16:57:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:01:04.066149+00:00"
-    },
-    {
-      "id": "4ad649abbde07004",
-      "source": "Evrensel",
-      "title": "Enes Ünal gol attı, Getafe Sevilla'yı 3-1 mağlup etti",
-      "summary": "LaLiga'da Getafe, Sevilla karşısında ilk yarıyı 1-0 geride kapattı. Enes Ünal'ın 68. dakikadaki golüyle eşitliği sağlayan ev sahibi ekip, mücadeleyi 3-1 kazandı.",
-      "link": "https://www.evrensel.net/haber/6007586/enes-unal-gol-atti-getafe-sevillayi-3-1-maglup-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-01T16:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:10:42.016797+00:00"
-    },
-    {
-      "id": "1966c96f82d42fbf",
-      "source": "Star",
-      "title": "Mimar Sinan'ın Şam'daki tarihi eseri ihya edildi: Süleymaniye Külliyesi'nde 15 yıl sonra ilk namaz",
-      "summary": "Suriye'nin başkenti Şam'daki Mimar Sinan eseri Süleymaniye Külliyesi, savaş döneminde aksayan restorasyonun tamamlanmasının ardından 15 yıl sonra yeniden ibadete açıldı. Külliyede kılınan ilk öğle namazına büyük ilgi gösterildi.",
-      "link": "https://www.star.com.tr/dunya/mimar-sinanin-samdaki-tarihi-eseri-ihya-edildi-suleymaniye-kulliyesinde-15-yil-sonra-ilk-namaz-haber-2050553/",
-      "published": "2026-11-01T16:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:01:04.414973+00:00"
-    },
-    {
-      "id": "0034a283d05d0fc9",
-      "source": "Ekonomim",
-      "title": "Karaköy'de İETT binasında korkutan yangın",
-      "summary": "İstanbul Karaköy&#039;de bulunan İETT İşletmeleri Genel Müdürlüğü binasının elektrik hattında çıktığı belirtilen yangın paniğe neden odlu.",
-      "link": "https://www.ekonomim.com/gundem/karakoyde-iett-binasinda-korkutan-yangin-haberi-928404",
-      "published": "2026-11-01T16:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T17:01:15.001057+00:00"
-    },
-    {
-      "id": "5f18eede53ee5731",
-      "source": "CNBC-e",
-      "title": "Galatasaray yönetiminde peş peşe istifa: İki isim görevini bıraktı",
-      "summary": "Galatasaray'da 27 Ekim'deki yönetim kurulu toplantısında yaşanan tartışmanın ardından iki yönetici istifa etti. Sportif AŞ Başkan Vekili Abdullah Kavukcu ile İkinci Başkan Metin Öztürk, yönetim kurulu ve bağlı şirketlerdeki görevlerinden ayrıldıklarını açıkladı.",
-      "link": "https://www.cnbce.com/spor-ekonomisi/galatasaray-yonetiminde-pes-pese-istifa-iki-isim-gorevini-birakti-h40746",
-      "published": "2026-11-01T16:55:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T16:55:49.017397+00:00"
-    },
-    {
-      "id": "76b9af041ea1e016",
-      "source": "Türkiye Gazetesi",
-      "title": "Şanlıurfa'da acı kaza! Genç öğretmen feci şekilde ca...",
-      "summary": "Şanlıurfa'nın Karaköprü ilçesinde seyir halindeki motosikletin bariyere çarpması sonucu öğretmen Ali Fırat Dilsiz hayatını kaybetti. 29 yaşındaki öğretmenin ölümü, yakınlarını ve eğitim camiasını üzüntüye boğdu.",
-      "link": "https://www.turkiyegazetesi.com.tr/3-sayfa/sanliurfada-aci-kaza-29-yasindaki-ogretmen-feci-sekilde-can-verdi-1826519",
-      "published": "2026-11-01T16:52:41+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T16:55:32.920985+00:00"
-    },
-    {
-      "id": "6abf472482512677",
-      "source": "OdaTV",
-      "title": "820 yıllık çivisiz camide hedef UNESCO",
-      "summary": "Samsun&#039;un Çarşamba ilçesinde 1206 yılında ahşap yığma tekniğiyle, çivi kullanılmadan inşa edilen Göğceli Camii, restorasyon çalışmalarıyla özgün yapısına kavuşturuluyor.",
-      "link": "https://www.odatv.com/guncel/820-yillik-civisiz-camide-hedef-unesco-120169207",
-      "published": "2026-11-01T16:51:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T16:55:40.078215+00:00"
     }
   ]
 }

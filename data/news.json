@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-01T03:01:23.710117+00:00",
+  "last_updated": "2026-11-01T03:06:03.193330+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 493,
+  "new_items_this_run": 494,
   "items": [
+    {
+      "id": "7da33c97e6bf0818",
+      "source": "Aydınlık",
+      "title": "İstanbul Maratonu güzergâhındaki yollar araç trafiğine kapatıldı",
+      "summary": "İstanbul Maratonu kapsamında 15 Temmuz Şehitler Köprüsü, Avrasya Tüneli, Galata Köprüsü ve parkur çevresindeki çok sayıda yol araç trafiğine kapatıldı. Sürücüler alternatif güzergâhlara yönlendirildi.",
+      "link": "https://www.aydinlik.com.tr/haber/istanbul-maratonu-nedeniyle-kapanan-yollar-ve-alternatifler-596989",
+      "published": "2026-11-01T03:01:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T03:05:46.969485+00:00"
+    },
     {
       "id": "b5f817ad708563bd",
       "source": "Habertürk",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T19:10:37.040252+00:00"
-    },
-    {
-      "id": "28c5b7bb481af2be",
-      "source": "Yeni Akit",
-      "title": "Zelenski, Bartholomeos ile görüştü",
-      "summary": "Ukrayna lideri Volodimir Zelenskiy, Fener Rum Patrikhanesi'ni ziyaret etti. Zelenskiy burada Fener Rum Patriği Bartholomeos ile görüştü.",
-      "link": "https://www.yeniakit.com.tr/haber/zelenski-bartholomeos-ile-gorustu-2031172.html",
-      "published": "2026-10-31T18:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T19:01:05.472908+00:00"
     }
   ]
 }

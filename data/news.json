@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-01T03:16:07.315507+00:00",
+  "last_updated": "2026-11-01T03:21:10.178601+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 495,
+  "new_items_this_run": 496,
   "items": [
+    {
+      "id": "924d5b518ac5f5d2",
+      "source": "Türkiye Gazetesi",
+      "title": "Bağcılar'da inşaat alanı çevresindeki 4 bina tahliye edildi",
+      "summary": "İstanbul Bağcılar'da inşaat alanındaki çalışma esnasında bitişiğindeki binalarda çatlaklar oluşan 4 apartman tedbir amaçlı tahliye edildi. Tahliye edilen binalardan birinin zemininde kayma olduğu görüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/bagcilarda-insaat-alani-cevresindeki-4-bina-tahliye-edildi-1826414",
+      "published": "2026-11-01T03:15:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T03:20:45.433695+00:00"
+    },
     {
       "id": "4d488bcb16dd6b2f",
       "source": "Habertürk",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-10-31T19:01:15.816456+00:00"
-    },
-    {
-      "id": "060d039b4635762d",
-      "source": "Ekonomim",
-      "title": "Uçak biletini aldıktan sonra fiyatı düşerse ne olacak? Yeni sistem devreye girdi",
-      "summary": "ABD&#039;de geliştirilen yeni sistemler, uçak bileti fiyatlarının sonradan düşmesi halinde belirli koşullarda aradaki farkın geri alınmasına imkân tanırken, Türkiye&#039;de de yolcuların fiyat farkını hangi durumlarda geri alabileceği gündeme geldi.",
-      "link": "https://www.ekonomim.com/havacilik/ucak-biletini-aldiktan-sonra-fiyati-duserse-ne-olacak-yeni-sistem-devreye-girdi-haberi-928296",
-      "published": "2026-10-31T19:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-10-31T19:01:13.244539+00:00"
     }
   ]
 }

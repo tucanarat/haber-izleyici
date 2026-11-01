@@ -1,12 +1,89 @@
 {
-  "last_updated": "2026-11-01T18:31:12.251009+00:00",
+  "last_updated": "2026-11-01T18:35:57.921433+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 483,
+  "new_items_this_run": 486,
   "items": [
+    {
+      "id": "bcf36802e18cde02",
+      "source": "Serbestiyet",
+      "title": "Muhteşemsin Amedspor!",
+      "summary": "Amedspor' un Eyüpspor karşısındaki 5-1'lik skoru muhteşemdi ama asıl muhteşemlik, takımın geçirdiği kimlik değişimindeydi: Amedspor artık savunarak ayakta kalan değil, hücum ederek oyuna hükmetmek isteyen bir takım. Muhteşemsin Amedspor! yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
+      "link": "https://serbestiyet.com/gunun-yazilari/muhtesemsin-amedspor-252656/",
+      "published": "2026-11-01T18:33:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:47.508424+00:00"
+    },
+    {
+      "id": "522da51d55ba633e",
+      "source": "Star",
+      "title": "Tahran'dan müzakere açıklaması! Masanın adresi Türkiye mi olacak?",
+      "summary": "İran Meclisi Güvenlik Komisyonu üyesi Ahmed Behşayeş Erdestani, İran ile ABD arasında Katar veya Türkiye'de doğrudan müzakerenin ihtimal dahilinde olduğunu söyledi. Erdestani ayrıca NPT'den ayrılma tartışmalarına da değindi.",
+      "link": "https://www.star.com.tr/dunya/tahrandan-muzakere-aciklamasi-masanin-adresi-turkiye-mi-olacak-haber-2050566/",
+      "published": "2026-11-01T18:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:41.181643+00:00"
+    },
+    {
+      "id": "4acdd5d6fe9e9c6b",
+      "source": "Yeni Şafak",
+      "title": "Kendi iş yerini ateşe verdi: Polis ekiplerine yukarıdan bobin ve tahta attı",
+      "summary": "Eyüpsultan'da sahibi olduğu iplik atölyesini ateşe veren Mehmet S.(35), olay yerine müdahale etmek için gelen polis ekiplerinin üzerine atölyede bulunan iplik bobin ve tahta attı. Yangın itfaiye tarafından söndürülürken, şüpheli gözaltına alındı.",
+      "link": "https://www.yenisafak.com/galeri/gundem/istanbul-eyupsultanda-iplik-atolyesinde-yangin-is-yeri-sahibi-gozaltina-alindi-4868926",
+      "published": "2026-11-01T18:32:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:40.760441+00:00"
+    },
+    {
+      "id": "ab60c58d0da61ac1",
+      "source": "Türkiye Gazetesi",
+      "title": "Gonca Vuslateri’den yıllar sonra gelen Gülse Birsel itirafı: İlk kez anlattı",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/magazin/gonca-vuslateriden-yillar-sonra-gelen-gulse-birsel-itirafi-ilk-kez-anlatti-1826531",
+      "published": "2026-11-01T18:31:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:35.357670+00:00"
+    },
+    {
+      "id": "e182ba41a00f0daa",
+      "source": "Türkiye Gazetesi",
+      "title": "Gonca Vuslateri’den yıllar sonra gelen itiraf",
+      "summary": "",
+      "link": "https://www.turkiyegazetesi.com.tr/magazin/gonca-vuslateriden-yillar-sonra-gelen-gulse-birsel-itirafi-ilk-kez-anlatti-1826531",
+      "published": "2026-11-01T18:31:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:35.357706+00:00"
+    },
+    {
+      "id": "f2aefa952a612845",
+      "source": "Star",
+      "title": "MAÇ SONUCU: Galatasaray Daikin 0-3 Fenerbahçe Medicana",
+      "summary": "Vodafone Sultanlar Ligi'nin 6. haftasında Fenerbahçe Medicana, deplasmanda Galatasaray Daikin'i 3-0 yendi.",
+      "link": "https://www.star.com.tr/spor/mac-sonucu-galatasaray-daikin-0-3-fenerbahce-medicana-haber-2050565/",
+      "published": "2026-11-01T18:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:41.181676+00:00"
+    },
+    {
+      "id": "b9b84b1cb984fe05",
+      "source": "Aydınlık",
+      "title": "Eyüpsultan’da çatıyı ateşe veren şüpheli gözaltına alındı",
+      "summary": "Eyüpsultan Defterdar Mahallesi’ndeki iplik atölyesinin çatısında yangın çıkaran ve çevreye bobinlerle çeşitli eşyalar atan Mehmet S. gözaltına alındı. Şüphelinin binadan çıkarıldığı sırada ona saldıran bir kişi de gözaltına alındı.",
+      "link": "https://www.aydinlik.com.tr/haber/eyupsultanda-yangin-cikarip-esya-firlatan-supheli-gozaltinda-597112",
+      "published": "2026-11-01T18:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:43.096572+00:00"
+    },
     {
       "id": "e346a4da3e01626c",
       "source": "Akşam",
@@ -28,6 +105,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T18:30:55.995435+00:00"
+    },
+    {
+      "id": "0ea12881afb5be1b",
+      "source": "Ekonomim",
+      "title": "Bulgaristan'da cumhurbaşkanı seçimi: Yotova önde gidiyor",
+      "summary": "Bulgaristan&#039;da yapılan cumhurbaşkanı seçiminde, sandık çıkış anketlerine göre İliyana Yotova ilk sırada yer alıyor.",
+      "link": "https://www.ekonomim.com/dunya/bulgaristanda-cumhurbaskani-secimi-yotova-onde-gidiyor-haberi-928411",
+      "published": "2026-11-01T18:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:51.381633+00:00"
+    },
+    {
+      "id": "805f702ebae4c4ff",
+      "source": "ShiftDelete.Net",
+      "title": "Samsung Galaxy S27 Ultra: Çıkış Tarihi, Özellikler ve Beklenen Fiyat",
+      "summary": "Samsung Galaxy S27 Ultra'nın Ocak 2027'de tanıtılması bekleniyor. Çıkış tarihi, işlemci, kamera, batarya iddiaları ve Galaxy S26 Ultra'nın güncel Türkiye fiyatlarıyla beklenen fiyatı tek rehberde topladık.",
+      "link": "https://shiftdelete.net/samsung-galaxy-s27-ultra",
+      "published": "2026-11-01T18:24:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:54.870431+00:00"
     },
     {
       "id": "6763ce61fa8312de",
@@ -61,6 +160,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T18:25:36.036945+00:00"
+    },
+    {
+      "id": "3fb6170c2a1e6ebd",
+      "source": "Finans Gündem",
+      "title": "Cumhurbaşkanı Erdoğan Güney Kore'ye hareket etti!",
+      "summary": "Güney Kore Devlet Başkanı Lee Jae Myung'un daveti üzerine bu ülkeye gidecek olan Cumhurbaşkanı Erdoğan, Seul'e hareket etmek üzere yola çıktı.",
+      "link": "https://www.finansingundemi.com/haber/cumhurbaskani-erdogan-guney-koreye-hareket-etti/1913370",
+      "published": "2026-11-01T18:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:53.510196+00:00"
     },
     {
       "id": "70b8a0a54cbb6b52",
@@ -1480,6 +1590,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T17:00:57.337272+00:00"
+    },
+    {
+      "id": "445436e3075da382",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Beşiktaş'ın deplasman fobisi Kasımpaşa'da devam etti",
+      "summary": "Trendyol Süper Lig'in 10. haftasında Kasımpaşa'ya konuk olan Beşiktaş, rakibiyle 2-2 berabere kaldı.",
+      "link": "https://www.aa.com.tr/tr/spor/besiktasin-deplasman-fobisi-kasimpasada-devam-etti/4108160",
+      "published": "2026-11-01T16:58:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-01T18:35:32.880630+00:00"
     },
     {
       "id": "5e8abaaeb30af70e",
@@ -5385,127 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T14:45:43.589921+00:00"
-    },
-    {
-      "id": "2f75e1fb3ac23af2",
-      "source": "Evrensel",
-      "title": "Erdoğan, Ehmedê Xanî’nin ödülünü Avesta’nın sahibi Abdullah Keskin’e verecek",
-      "summary": "2026 Kültür ve Sanat Büyük Ödülleri kapsamında Ehmedê Xanî’ye verilen Vefa Ödülü’nü, Avesta Yayınları’nın sahibi Abdullah Keskin’in alacağı açıklandı.",
-      "link": "https://www.evrensel.net/haber/6007570/erdogan-ehmed-xannin-odulunu-avestanin-sahibi-abdullah-keskine-verecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-01T14:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:35:32.929255+00:00"
-    },
-    {
-      "id": "049ae75afc879ef3",
-      "source": "OdaTV",
-      "title": "Bülent Uygun'dan Dirk Kuyt çıkışı: Balkondan sallandırmazsam hoca değilim",
-      "summary": "Fenerbahçe&#039;nin Göztepe karşısında aldığı 2-1’lik mağlubiyetin ardından konuşan Bülent Uygun, Dirk Kuyt&#039;ın açıklamalarına sert tepki gösterdi. İsmail Kartal&#039;a yönelik sözleri eleştiren Uygun, sarı-lacivertlilerin oyununu ve kadro planlamasını da hedef aldı.",
-      "link": "https://www.odatv.com/spor/bulent-uygundan-dirk-kuyt-cikisi-balkondan-sallandirmazsam-hoca-degilim-120169191",
-      "published": "2026-11-01T14:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:10:47.348682+00:00"
-    },
-    {
-      "id": "6ebb9853fa4501b7",
-      "source": "Milliyet",
-      "title": "Motosikletliye önce sıkıştırdı, sonra çarptı! Sollama tartışması faciaya dönüşüyordu",
-      "summary": "Valibaba Mahallesi Ankara Caddesi'nde seyreden otomobilin sürücüsü sollama gerekçesiyle tartıştığı motosikletliyi sıkıştırmaya başladı. Bu duruma tepki gösteren motosikletli otomobile doğru tekme attı. Bunun üzerine sürücü aracıyla seyir halindeki motosiklete çarptı.Motosiklet bir anda devrilirken sürücüsü de yere düşüp bir süre sürüklendi. Otomobilin sürücüsü, olayın ardından aracını yolun sağına",
-      "link": "https://www.milliyet.com.tr/gundem/motosikletliye-once-sikistirdi-sonra-carpti-sollama-tartismasi-faciaya-donusuyordu-7692147",
-      "published": "2026-11-01T14:07:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:10:43.453549+00:00"
-    },
-    {
-      "id": "677167d67439d5ed",
-      "source": "Cumhuriyet",
-      "title": "Asgari ücret zammı ne zaman açıklanacak? 2027 Asgari ücret zam senaryoları",
-      "summary": "Milyonlarca çalışanın merakla beklediği 2027 asgari ücret zammı için gözler yıl sonunda yapılacak Asgari Ücret Tespit Komisyonu toplantılarına çevrildi. Peki, Asgari ücret zammı ne zaman açıklanacak? 2027 Asgari ücret zam senaryoları",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucret-zammi-ne-zaman-aciklanacak-2027-asgari-ucret-zam-senaryolari-2552238",
-      "published": "2026-11-01T14:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:10:38.533712+00:00"
-    },
-    {
-      "id": "1b5116b5f377bd1a",
-      "source": "Star",
-      "title": "Facianın eşiğinden dönüldü! Gaz patlamasında 3 kişi yaralandı",
-      "summary": "Sivas'ın Suşehri ilçesinde ocaktan sızan gazın neden olduğu patlamada 3 kişi yaralandı.",
-      "link": "https://www.star.com.tr/yasam/facianin-esiginden-donuldu-gaz-patlamasinda-3-kisi-yaralandi-haber-2050521/",
-      "published": "2026-11-01T14:07:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:10:45.031508+00:00"
-    },
-    {
-      "id": "aee354662c3359db",
-      "source": "Akşam",
-      "title": "2 Kasım 2026 burç yorumları: Akrepler kariyerde önde, Yaylara sürpriz var",
-      "summary": "2 Kasım 2026 burç yorumları yayınlandı! Ay'ın Aslan burcundaki seyri ve Mars kavuşumu haftaya damgasını vuruyor. Aslanlar liderlik rolünü üstlenirken, Akrepler kariyerde öne çıkıyor, Yengeçler ise finansal kararlarda temkinli olmak zorunda. İşte 2 Kasım Pazartesi burç yorumlarının tüm detayları...",
-      "link": "https://www.aksam.com.tr/mor-papatya/2-kasim-2026-burc-yorumlari-akrepler-kariyerde-onde-yaylara-surpriz-var/haber-1710947",
-      "published": "2026-11-01T14:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:05:42.851011+00:00"
-    },
-    {
-      "id": "656b0b752cbc934c",
-      "source": "Star",
-      "title": "Sivasspor Teknik Direktörü Çağdaş Çavuş: Bu takımı ayağa kaldıracağız",
-      "summary": "Sivasspor Teknik Direktörü Çağdaş Çavuş, Boluspor maçının ardından yaptığı açıklamada, \"Umut ediyorum yarın toplandıktan sonra tekrardan bu takımı ayağa kaldırarak devam edeceğiz\" dedi.",
-      "link": "https://www.star.com.tr/spor/sivasspor-teknik-direktoru-cagdas-cavus-bu-takimi-ayaga-kaldiracagiz-haber-2050520/",
-      "published": "2026-11-01T14:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:05:43.398939+00:00"
-    },
-    {
-      "id": "18c04eb2879c41ab",
-      "source": "Bloomberg HT",
-      "title": "ABD'deki Kongre ara seçimleri yaklaşırken anketlerdeki tablo netleşiyor",
-      "summary": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimleri yaklaşırken, anketlerin ortaya koyduğu tablo da netleşmeye başladı.",
-      "link": "https://www.bloomberght.com/abd-deki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor-3793001",
-      "published": "2026-11-01T14:03:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:15:54.464378+00:00"
-    },
-    {
-      "id": "a6f7b6bd5f6b9cff",
-      "source": "Bir Gün",
-      "title": "Cumhurbaşkanlığı seçimi anketi: 1'inci turda oy oranları ne oldu?",
-      "summary": "Türkiye'nin Veri Haritası ekim ayı raporunda \"Cumhurbaşkanlığı seçimi 1. tur oy tercihleri\" anketinin sonuçları paylaşıldı. AKP'li Cumhurbaşkanı Recep Tayyip Erdoğan'ın %39,8, tutuklu İBB Başkanı Ekrem İmamoğlu'nun ise %36,6 oranında olduğu görüldü.",
-      "link": "https://www.birgun.net/haber/cumhurbaskanligi-secimi-anketi-1-inci-turda-oy-oranlari-ne-oldu-743875",
-      "published": "2026-11-01T14:03:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:30:51.800959+00:00"
-    },
-    {
-      "id": "2cd79b2fbeb6fa05",
-      "source": "Diken",
-      "title": "Yatakta kedi veya köpekle uyuyanlara temizlik önerileri",
-      "summary": "Yatakta kedi veya köpekle uyuyanlara temizlik önerileri 01.11.2026 Diken Kedi ve köpeğiyle birlikte yatakta uyuyanlara ortalığın biraz daha tüyden arındırılmasına yardımcı uzman tavsiyeleri... The post Yatakta kedi veya köpekle uyuyanlara temizlik önerileri appeared first on #site_linkat 01.11.2026 .",
-      "link": "https://www.diken.com.tr/yatakta-kedi-veya-kopekle-uyuyanlara-temizlik-onerileri/?utm_source=rss&utm_medium=rss&utm_campaign=yatakta-kedi-veya-kopekle-uyuyanlara-temizlik-onerileri",
-      "published": "2026-11-01T14:02:38+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T15:15:49.975742+00:00"
-    },
-    {
-      "id": "e36afbcf2c2598cc",
-      "source": "OdaTV",
-      "title": "Tutuklu Adalar Belediye Başkanı Akpolat'tan nezarethanede 15 kilometrelik maraton",
-      "summary": "Tutuklu Adalar Belediye Başkanı Ali Ercan Akpolat, İstanbul Maratonu&#039;nda ÇYDD&#039;nin eğitim mücadelesine destek için koşacağı 15 kilometreyi bu yıl cezaevi avlusunda tamamlayacağını duyurdu.",
-      "link": "https://www.odatv.com/guncel/tutuklu-adalar-belediye-baskani-akpolattan-nezarethanede-15-kilometrelik-maraton-120169190",
-      "published": "2026-11-01T14:02:19+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T14:05:46.035074+00:00"
     }
   ]
 }

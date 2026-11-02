@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-02T23:51:00.250498+00:00",
+  "last_updated": "2026-11-02T23:56:13.780359+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 479,
+  "new_items_this_run": 456,
   "items": [
+    {
+      "id": "72205b64db192d51",
+      "source": "OdaTV",
+      "title": "Adana'da 300 taksiciden korsan taksi protestosu",
+      "summary": "Adana&#039;da araçlarıyla konvoy oluşturan 300 taksici, korsan taksiciliğe tepki gösterdi.",
+      "link": "https://www.odatv.com/guncel/adanada-300-taksiciden-korsan-taksi-protestosu-120169410",
+      "published": "2026-11-02T23:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T23:55:43.211122+00:00"
+    },
     {
       "id": "9bb41e338c7ed178",
       "source": "Karar",
@@ -182,6 +193,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T23:20:42.360898+00:00"
+    },
+    {
+      "id": "baafdced950a5742",
+      "source": "Ekonomim",
+      "title": "Eski Borsa İstanbul Genel Müdürü Ergun’a tutuklama talebi",
+      "summary": "Sermaye piyasalarındaki işlemlere ilişkin yürütülen soruşturma kapsamında gözaltına alınan eski Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun tutuklanması talebiyle sulh ceza hakimliğine sevk edildi.",
+      "link": "https://www.ekonomim.com/gundem/fon-sorusturmasi-borsa-istanbul-genel-muduru-korkmaz-enes-erguna-tutuklama-talebi-haberi-928687",
+      "published": "2026-11-02T23:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T23:55:50.698664+00:00"
     },
     {
       "id": "b45baf623a27ef69",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T19:10:43.330411+00:00"
-    },
-    {
-      "id": "3fb59423530083d9",
-      "source": "Star",
-      "title": "Başkent'te gol yağmuru! Gençlerbirliği'nden Alanyaspor'a 5 gol",
-      "summary": "Trendyol Süper Lig'in 10. haftasında Gençlerbirliği, sahasında konuk ettiği Corendon Alanyaspor'u 5-0 mağlup etti.",
-      "link": "https://www.star.com.tr/spor/baskentte-gol-yagmuru-genclerbirliginden-alanyaspora-5-gol-haber-2050763/",
-      "published": "2026-11-02T19:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T19:05:54.373234+00:00"
-    },
-    {
-      "id": "d6a65028186080dd",
-      "source": "Bloomberg HT",
-      "title": "Meta, tahvil ihracıyla en az 20 milyar dolar toplamayı hedefliyor",
-      "summary": "Meta, yapay zeka yatırımlarını finanse etmek amacıyla dolar ve euro cinsinden gerçekleştirmeyi değerlendirdiği tahvil ihracıyla en az 20 milyar dolar kaynak toplamayı hedefliyor.",
-      "link": "https://www.bloomberght.com/meta-tahvil-ihraciyla-en-az-20-milyar-dolar-toplamayi-hedefliyor-3793127",
-      "published": "2026-11-02T19:02:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T19:11:02.921179+00:00"
     }
   ]
 }

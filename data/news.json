@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-02T00:16:11.523604+00:00",
+  "last_updated": "2026-11-02T00:21:05.778622+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 517,
+  "new_items_this_run": 516,
   "items": [
+    {
+      "id": "f6281260ddbc71b0",
+      "source": "BBC News Türkçe",
+      "title": "Bir zamanlar gökyüzüne hükmeden, insan avlayan dev kartallar",
+      "summary": "Dinozorların sonunu getiren asteroit çarptıktan sonra, dev kuşlar onlarca milyon yıl boyunca en üst düzey yırtıcılar haline geldi ve insanlar da avları arasındaydı.",
+      "link": "https://www.bbc.com/turkce/articles/c679p4qlr359o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T00:18:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T00:21:05.055539+00:00"
+    },
     {
       "id": "ae81910e072755aa",
       "source": "OdaTV",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T18:20:36.521182+00:00"
-    },
-    {
-      "id": "9e10ec5aacc282a6",
-      "source": "Türkiye Gazetesi",
-      "title": "Yanal'ın çıkışına Anderson Talisca'dan olay cevap",
-      "summary": "Fenerbahçe'de sezon başında beklenmedik bir şekilde takımdan gönderilen Anderson Talisca, Ersun Yanal'ın yaptığı ayrılık eleştirisine cevap verdi. Aziz Yıldırım ile Acun Ilıcalı arasındaki gerilime dikkat çeken Brezilyalı futbolcunun bu paylaşımı sosyal medyada gündem oldu.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/yanalin-niye-gonderdiniz-cikisina-taliscadan-olay-cevap-acun-ilicali-vurgusu-yapti-1826528",
-      "published": "2026-11-01T18:13:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T18:15:43.389826+00:00"
     }
   ]
 }

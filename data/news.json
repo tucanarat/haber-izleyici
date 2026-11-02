@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-02T02:55:57.659553+00:00",
+  "last_updated": "2026-11-02T03:01:38.046978+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 510,
+  "new_items_this_run": 509,
   "items": [
+    {
+      "id": "0d8c5ee51dbb8ab2",
+      "source": "Bloomberg HT",
+      "title": "Resmi Gazete'de bugün (02.11.2026)",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikler, tebliğler ve kararlar...",
+      "link": "https://www.bloomberght.com/resmi-gazete-de-bugun-02112026-3793004",
+      "published": "2026-11-02T02:49:05+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T03:01:28.796791+00:00"
+    },
     {
       "id": "0bef3ac1a45893dd",
       "source": "Bir Gün",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T19:05:35.354950+00:00"
-    },
-    {
-      "id": "e9d7ee8788411033",
-      "source": "Türkiye Gazetesi",
-      "title": "Belözoğlu isyan etti: \"Hakem faciasıyla 2 puanımız\"",
-      "summary": "Kasımpaşa Teknik Direktörü Emre Belözoğlu, Süper Lig'de Beşiktaş ile berabere kaldıkları maçın ardından hakem Reşat Onur Coşkunses'i sert sözlerle eleştirdi. Hakemin çok kötü bir yönetim sergilediğini belirten Belözoğlu, \"Hakem çok ama çok kötü maç yönetti. Sınıfta kaldı. Bir takımın hakkı bu kadar yenmez. Amedspor maçından sonra hakem faciasıyla 2 puanımız daha gitti.\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/emre-belozoglu-isyan-etti-hakem-faciasiyla-2-puanimiz-1826534",
-      "published": "2026-11-01T18:58:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T19:01:00.335004+00:00"
     }
   ]
 }

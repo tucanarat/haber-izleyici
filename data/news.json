@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T00:26:03.855519+00:00",
+  "last_updated": "2026-11-02T00:31:17.981360+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 515,
   "items": [
+    {
+      "id": "aa4974ef4f408450",
+      "source": "Habertürk",
+      "title": "Hürmüz Boğazı’ndan geçen gemiye saldırı",
+      "summary": "Birleşik Krallık Deniz Ticareti Operasyonları Ajansı (UKMTO), Hürmüz Boğazı’nda seyreden bir geminin şüpheli bir saldırıya uğradığını açıkladı. Daha sonra İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'ndan izinsiz geçmeye çalışan 2 petrol tankerinin deniz mayınlarına çarparak infilak ettiğini açıkladı.",
+      "link": "https://www.haberturk.com/dunya/hurmuz-bogazindan-gecen-gemiye-saldiri-3924192",
+      "published": "2026-11-02T00:22:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T00:30:49.025262+00:00"
+    },
     {
       "id": "f6281260ddbc71b0",
       "source": "BBC News Türkçe",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T18:20:33.997287+00:00"
-    },
-    {
-      "id": "7bf9752907f2584a",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Güney Kore Devlet Başkanı Lee'den Cumhurbaşkanı Erdoğan'ın ziyaretine ilişkin paylaşım",
-      "summary": "Güney Kore Devlet Başkanı Lee Jae Myung, Cumhurbaşkanı Recep Tayyip Erdoğan'ı başkent Seul'de ağırlayacak olmaktan büyük memnuniyet duyduğunu bildirdi.",
-      "link": "https://www.aa.com.tr/tr/gundem/guney-kore-devlet-baskani-leeden-cumhurbaskani-erdoganin-ziyaretine-iliskin-paylasim/4108179",
-      "published": "2026-11-01T18:13:51+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T18:20:36.521182+00:00"
     }
   ]
 }

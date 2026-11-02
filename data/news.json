@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-02T01:05:55.368441+00:00",
+  "last_updated": "2026-11-02T01:11:16.018443+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 514,
+  "new_items_this_run": 521,
   "items": [
+    {
+      "id": "7f1174809419b305",
+      "source": "Milliyet",
+      "title": "İzmir'de toprak kayması! 3 bina tedbir amaçlı tahliye edildi",
+      "summary": "Olay, Alpaslan Mahallesi 1620/5 Sokak'ta temeli kazılan bir inşaat alanında meydana geldi. İnşaat alında toprak kayması yaşanırken, ihbar üzerine adrese Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), itfaiye ve polis ekipleri sevk edildi. Çevre güvenliğini sağlayan ekiplerin yaptığı inceleme sonucu yakında bulunan ve 2’şer kattan oluşan 3 binada oturanların tedbir amaçlı evlerini boşaltmaları yönü",
+      "link": "https://www.milliyet.com.tr/gundem/izmirde-toprak-kaymasi-3-bina-tedbir-amacli-tahliye-edildi-7692364",
+      "published": "2026-11-02T01:06:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T01:11:01.117292+00:00"
+    },
     {
       "id": "7e206006b2df0c27",
       "source": "Cumhuriyet",
@@ -4705,6 +4716,17 @@
       "fetched_at": "2026-11-01T19:40:43.688592+00:00"
     },
     {
+      "id": "9f309aed22d46d8b",
+      "source": "Habertürk",
+      "title": "Cumhurbaşkanı Erdoğan Güney Kore'ye gitti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'un davetine icabetle \"TUR\" uçağıyla Seul'e hareket etti.",
+      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-guney-kore-ye-gitti-3924165",
+      "published": "2026-11-01T19:16:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T01:10:53.734267+00:00"
+    },
+    {
       "id": "5a5035b677132060",
       "source": "Türkiye Gazetesi",
       "title": "Fon soruşturmasında Umut Güner'e adli kontrol",
@@ -5321,6 +5343,17 @@
       "fetched_at": "2026-11-01T18:55:44.119791+00:00"
     },
     {
+      "id": "679b726b33a49f25",
+      "source": "Habertürk",
+      "title": "Deplasman değil dertlasman!",
+      "summary": "Beşiktaş bu sezon deplasmanda sergilediği performansla taraftarına hayal kırıklığı yaşatmaya devam ediyor... Son olarak Kasımpaşa'ya karşı 2-0'ı koruyamayan ve sahadan 2-2'lik beraberlikle ayrılan siyah-beyazlılar, Süper Lig'deki 5 dış saha maçının sadece 1'ini kazanabildi.",
+      "link": "https://www.haberturk.com/spor/foto/besiktas-in-deplasman-kabusu-suruyor-3924163",
+      "published": "2026-11-01T18:52:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T01:10:53.734332+00:00"
+    },
+    {
       "id": "8a8222b49dd6d52b",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "UKMTO: Hürmüz Boğazı'nda bir gemiye bilinmeyen cisim isabet etti",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T18:45:46.705497+00:00"
-    },
-    {
-      "id": "d6b27e263fa82391",
-      "source": "Evrensel",
-      "title": "Fenerbahçe'den ayrılan Talisca, Acun Ilıcalı'yı işaret etti",
-      "summary": "Fenerbahçe'de 1,5 sezon forma giydikten sonra Al-Jazira'ya transfer olan Anderson Talisca, Ersun Yanal'ın ayrılığına yönelik eleştirisine yanıt verdi. Talisca, yorumunda Acun Ilıcalı'yı işaret etti.",
-      "link": "https://www.evrensel.net/haber/6007591/fenerbahceden-ayrilan-talisca-acun-ilicaliyi-isaret-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-01T18:45:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T18:55:47.358676+00:00"
-    },
-    {
-      "id": "71014a45aac59988",
-      "source": "Türkiye Gazetesi",
-      "title": "\"SAHAYA ÇIKMAK İSTEMİYORLAR\"",
-      "summary": "Fenerbahçe'nin eski yöneticisi Hakan Safi, sarı lacivertli takımın kötü gidişatına ilişkin açıklamalar yaptı. Camiaya birlik ve beraberlik çağrısında bulunan Safi, gelecek sezon yapılacak seçime de dikkat çekerek eleştirilerin doğal olduğunu ancak istifa çağrıları ve kötü tezahüratların kulübe zarar verdiğini söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/hakan-safiden-aziz-yildirim-ve-futbolculara-destek-cagrisi-sahaya-cikmak-istemiyorlar-1826532",
-      "published": "2026-11-01T18:44:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T18:50:43.677565+00:00"
-    },
-    {
-      "id": "bb63a2914246975e",
-      "source": "Cumhuriyet",
-      "title": "Giresun’da define aranacak: Bulunursa yüzde 50’si arayıcının olacak",
-      "summary": "Giresun’da define arama projesi için ÇED süreci tamamlandı. Gerekli izinlerin alınmasının ardından yapılması planlanan kazıda definenin değerinin yüzde 50’si bulan kişiye verilecek.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/giresun-da-define-aranacak-bulunursa-yuzde-50-si-arayicinin-olacak-2552291",
-      "published": "2026-11-01T18:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T18:45:38.426363+00:00"
     }
   ]
 }

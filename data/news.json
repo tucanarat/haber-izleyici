@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-02T01:16:03.582806+00:00",
+  "last_updated": "2026-11-02T01:21:01.853614+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 519,
+  "new_items_this_run": 520,
   "items": [
+    {
+      "id": "2bf47990498f12e6",
+      "source": "Yeni Şafak",
+      "title": "Made in Europe Avrupa'nın sonu olur",
+      "summary": "Yeni Şafak Gazetesi'nin 2 Kasım 2026 tarihli sayısına hoş geldiniz. Gündem, spor ve ekonomi sayfalarımızda bugünün öne çıkan haberlerini keşfedin.",
+      "link": "https://www.yenisafak.com/galeri/gundem/made-in-europe-avrupanin-sonu-olur-4869002",
+      "published": "2026-11-02T01:16:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T01:20:48.548216+00:00"
+    },
     {
       "id": "7f1174809419b305",
       "source": "Milliyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T19:05:42.772228+00:00"
-    },
-    {
-      "id": "89c514af52832919",
-      "source": "OdaTV",
-      "title": "ABD'de Cadılar Bayramına saldırı: 6 kişi öldü",
-      "summary": "ABD&#039;de Cadılar Bayramı sırasında farklı kentlerin eğlence bölgelerinde meydana gelen silahlı saldırılarda en az 6 kişi hayatını kaybetti, onlarca kişi yaralandı.",
-      "link": "https://www.odatv.com/guncel/abdde-cadilar-bayramina-saldiri-6-kisi-oldu-120169218",
-      "published": "2026-11-01T18:45:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T18:45:46.705497+00:00"
     }
   ]
 }

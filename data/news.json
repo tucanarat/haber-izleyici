@@ -1,12 +1,287 @@
 {
-  "last_updated": "2026-11-02T08:26:03.021431+00:00",
+  "last_updated": "2026-11-02T08:31:08.526132+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 468,
+  "new_items_this_run": 472,
   "items": [
+    {
+      "id": "c1e8dcfbeacbc5db",
+      "source": "Akşam",
+      "title": "Beşiktaş'ta metrobüs arızası",
+      "summary": "Beşiktaş'ta, arızalanan aracın yolu kapaması nedeniyle metrobüs seferlerinde aksamalar yaşandı.",
+      "link": "https://www.aksam.com.tr/guncel/besiktasta-metrobus-arizasi/haber-1711116",
+      "published": "2026-11-02T08:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:55.820844+00:00"
+    },
+    {
+      "id": "1e9b2f050214b8c2",
+      "source": "Akşam",
+      "title": "Aksaray'da eski eş vahşeti! Kendini ihbar etti",
+      "summary": "Aksaray'da 5 yıl önce boşandığı eşini bıçaklayarak öldüren şahıs, olayın ardından babasının evine giderek polisi arayıp kendini ihbar etti.",
+      "link": "https://www.aksam.com.tr/yasam/aksarayda-eski-es-vahseti-kendini-ihbar-etti/haber-1711115",
+      "published": "2026-11-02T08:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:55.820877+00:00"
+    },
+    {
+      "id": "0bb1a39b1b223605",
+      "source": "Star",
+      "title": "Büşra bebekten 53 gündür haber yok",
+      "summary": "Sivas'ta kaybolan 11 aylık Büşra bebeği bulmak için jandarma ve AFAD ekiplerinin çalışmaları sürüyor. Aradan geçen 53 güne rağmen bebeğe ilişkin herhangi bir iz bulunamadı.",
+      "link": "https://www.star.com.tr/yasam/busra-bebekten-53-gundur--yok-haber-2050652/",
+      "published": "2026-11-02T08:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:56.661281+00:00"
+    },
+    {
+      "id": "4a8b878ecc13bf82",
+      "source": "Webrazzi",
+      "title": "OpenAI, yeni yatırım turundaki hedefini 20 milyar dolara düşürdü",
+      "summary": "OpenAI'ın devam eden yatırım turunda beklentilerini aşağı yönlü revize ettiği ortaya çıktı. Financial Times'ın konuya yakın kaynaklara dayandırdığı bilgilere göre şirket, daha önce 30 milyar dolar ola...",
+      "link": "https://webrazzi.com/2026/11/02/openai-yeni-yatirim-turundaki-hedefini-20-milyar-dolara-dusurdu/",
+      "published": "2026-11-02T08:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:05.454547+00:00"
+    },
+    {
+      "id": "a743dcd2072811ab",
+      "source": "ShiftDelete.Net",
+      "title": "Galaxy S25 FE için yeni güncelleme geliyor",
+      "summary": "Samsung, Galaxy S25 FE güncellemesini 2 Kasım'da Güney Kore'de dağıtmaya başlıyor. Paketin güvenlik yamasını içermesi bekleniyor, ayrıntılar ise henüz paylaşılmadı.",
+      "link": "https://shiftdelete.net/galaxy-s25-fe-guncellemesi-guney-kore",
+      "published": "2026-11-02T08:29:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:06.084782+00:00"
+    },
+    {
+      "id": "e9a07e9f9383bf6c",
+      "source": "Yeni Şafak",
+      "title": "Kimsesizlerin kimsesi olmaya niyet ettiler",
+      "summary": "Kocaeli’de Necip Fazıl Kısakürek Anadolu İmam Hatip Lisesi Değerler Kulübü rehberliğinde başlatılan \"Kimsesizlerin Kimsesi Olmaya Niyet Ettik\" projesi, bu dünyadan sessizce göç eden kimsesiz vatandaşların son yolculuklarında dualarla uğurlanmasını sağlıyor. Milli Eğitim Bakanlığı’nın Türkiye Yüzyılı Maarif Modeli çerçevesinde yer alan \"Erdem-Değer-Eylem\" ilkesi doğrultusunda hayata geçirilen anlam",
+      "link": "https://www.yenisafak.com/video/gundem/kimsesizlerin-kimsesi-olmaya-niyet-ettiler-4869061",
+      "published": "2026-11-02T08:29:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:56.348008+00:00"
+    },
+    {
+      "id": "8e6b677201fedea3",
+      "source": "Star",
+      "title": "Havaalanı fiyaskosu bardağı taşırdı: Devletimiz başa çıkamazsa Türkiye'ye geçeceğiz",
+      "summary": "Yunanistan'da Sakız Ulusal Havaalanı'nın 4 ay süreyle kapatılacak olması ada sakinlerini isyan ettirdi. Kapatma kararının adadaki sağlık hizmetlerini felç edeceğine dikkat çeken sendikaya bağlı sağlık çalışanları \"Eğer Yunan devleti başa çıkamazsa, İzmir'e geçip orada vakalara bakmayı kabul edeceğiz\" açıklamasında bulundu.",
+      "link": "https://www.star.com.tr/dunya/havaalani-fiyaskosu-bardagi-tasirdi-devletimiz-basa-cikamazsa-turkiyeye-gececegiz-haber-2050651/",
+      "published": "2026-11-02T08:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:56.661326+00:00"
+    },
+    {
+      "id": "d48201a4ada35e1e",
+      "source": "Diken",
+      "title": "LPG'ye 9 lira zam bekleniyor: 50 lirayı aşacak",
+      "summary": "LPG'ye 9 lira zam bekleniyor: 50 lirayı aşacak 02.11.2026 Diken LPG'ye (otogaz) bu gece yarısı 9 lira zam bekleniyor. The post LPG'ye 9 lira zam bekleniyor: 50 lirayı aşacak appeared first on #site_linkat 02.11.2026 .",
+      "link": "https://www.diken.com.tr/lpgye-9-lira-zam-bekleniyor-50-lirayi-asacak/?utm_source=rss&utm_medium=rss&utm_campaign=lpgye-9-lira-zam-bekleniyor-50-lirayi-asacak",
+      "published": "2026-11-02T08:28:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:58.995229+00:00"
+    },
+    {
+      "id": "c2ded16563c4b49e",
+      "source": "LOG",
+      "title": "Rekabet Kurumu, Google hakkında aramadaki yapay zeka özetleri ve yapay zeka modu üzerinden soruşturma açtı",
+      "summary": "Rekabet Kurumu, Google hakkında Türkiye&#8217;de de çalışan &#8220;Arama&#8221; merkezli yapay zeka özetleri ve yapay zeka modu üzerinden soruşturma açtı. Bu konuda X üzerinden yapılan remi paylaşımda, &#8220;Google&#8217;da güncel gelişmeleri araştıran kullanıcılar, artık haber sitelerine girmeden de yapay zeka özetlerinden bilgi alabiliyor. Bu durumun haber sitelerinin ziyaretçi trafiğini ve gel",
+      "link": "https://www.log.com.tr/rekabet-kurumu-google-hakkinda-aramadaki-yapay-zeka-ozetleri-ve-yapay-zeka-modu-uzerinden-sorusturma-acti/",
+      "published": "2026-11-02T08:28:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:05.763415+00:00"
+    },
+    {
+      "id": "0d3ea066a4cc59b9",
+      "source": "Cumhuriyet",
+      "title": "Almanya'da sokaklar karıştı, mağazalar yağmalandı: 100'den fazla polis yaralandı, 54 gözaltı",
+      "summary": "Almanya'da Z kuşağının eğitim koşulları ve hayat pahalılığına karşı düzenlediği kitlesel protestoların ardından Frankfurt'ta şiddet olayları yaşandı. Mağazaların yağmalandığı, polisle çatışmaların çıktığı kentte çok sayıda kişi gözaltına alınırken Alman hükümetinden ağır ceza açıklaması geldi.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/almanya-da-sokaklar-karisti-magazalar-yagmalandi-100-den-fazla-polis-yaralandi-54-gozalti-2552438",
+      "published": "2026-11-02T08:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:51.060859+00:00"
+    },
+    {
+      "id": "51770d90cbc4b575",
+      "source": "Star",
+      "title": "Trabzonspor, sahasında kayıp vermiyor",
+      "summary": "Trendyol Süper Lig'de 22 puanla 3. sırada yer alan Trabzonspor, ilk 10 haftalık periyotta özellikle iç sahada başarılı bir grafik ortaya koydu.",
+      "link": "https://www.star.com.tr/spor/trabzonspor-sahasinda-kayip-vermiyor-haber-2050650/",
+      "published": "2026-11-02T08:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:56.661352+00:00"
+    },
+    {
+      "id": "eb1a0321bd137441",
+      "source": "Karar",
+      "title": "Elektrik faturasında 250 kWh sınırına dikkat!: Evdeki hangi cihaz ne kadar elektrik tüketiyor?",
+      "summary": "Elektrikte devlet desteği kapsamını belirleyen yıllık tüketim limiti 2027'de 3 bin kWh'ye düşürülüyor. Aylık ortalama 250 kWh'lik sınırın aşılması halinde ikili anlaşması bulunmayan aboneler daha yüksek tarifeyle karşılaşabilecek.",
+      "link": "https://www.karar.com/ekonomi-haberleri/elektrik-faturasinda-250-kwh-siniri-evdeki-hangi-cihaz-ne-kadar-2081872",
+      "published": "2026-11-02T08:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:57.191720+00:00"
+    },
+    {
+      "id": "4ce60a1706bf4989",
+      "source": "Türkiye Gazetesi",
+      "title": "15 AYDA 81 ELEKTRİK KESİNTİSİ!",
+      "summary": "Kütahya'da mahallesinde 15 ayda 81 kez elektrik kesintisi yaşanan, 77 saat elektriksiz kalan bir vatandaş sorunu konuyu Kamu Denetçiliği Kurumu’na (KDK) taşıdı. KDK’nın görüşmeleri sonrasında şebekede bakım ve yenileme çalışmaları yapıldı, sorun çözüldü.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/15-ayda-81-elektrik-kesintisi-77-saat-karanliga-gomulen-mahalleye-cozumu-kdk-buldu-1826633",
+      "published": "2026-11-02T08:27:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:53.015826+00:00"
+    },
+    {
+      "id": "ce36311e9f26de36",
+      "source": "Akşam",
+      "title": "Trabzonspor sahasında kayıp vermiyor",
+      "summary": "Trendyol Süper Lig'de 22 puanla 3. sırada yer alan Trabzonspor, ilk 10 haftalık periyotta özellikle iç sahada başarılı bir grafik ortaya koydu.",
+      "link": "https://www.aksam.com.tr/spor/trabzonspor-sahasinda-kayip-vermiyor/haber-1711114",
+      "published": "2026-11-02T08:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:55.820904+00:00"
+    },
+    {
+      "id": "72a16087c75e6949",
+      "source": "Akşam",
+      "title": "Mardin'de öğrenci servisi yoldan çıktı: 3 öğrenci yaralı",
+      "summary": "Mardin'in Dargeçit ilçesinde öğrenci servisinin yoldan çıkması sonucu 3 öğrenci yaralandı.",
+      "link": "https://www.aksam.com.tr/guncel/mardinde-ogrenci-servisi-yoldan-cikti-3-ogrenci-yarali/haber-1711113",
+      "published": "2026-11-02T08:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:55.820928+00:00"
+    },
+    {
+      "id": "7e344b8f924ab0e7",
+      "source": "Yeni Akit",
+      "title": "Sarıgül ailesine yönelik soruşturma derinleşiyor! Kara para aklamada 10 şüpheli adliyede",
+      "summary": "Sarıgül ailesine yönelik \"kara para aklama\" iddiasıyla yürütülen soruşturma kapsamında gözaltına alınan 10 şüpheli bu sabah adliyeye sevk edildi.",
+      "link": "https://www.yeniakit.com.tr/haber/sarigul-ailesine-yonelik-sorusturma-derinlesiyor-kara-para-aklamada-10-supheli-adliyede-2031399.html",
+      "published": "2026-11-02T08:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:56.950631+00:00"
+    },
+    {
+      "id": "975204286b4812c3",
+      "source": "Aydınlık",
+      "title": "Volkswagen'in Türkiye planında Çin formülü! Otomobiller parçalar halinde gelebilir",
+      "summary": "Volkswagen&#039;in Türkiye&#039;de üretim planına ilişkin yeni ayrıntılar ortaya çıktı. Alman basınına göre Çin&#039;de geliştirilen otomobillerin parçalar halinde Türkiye&#039;ye getirilerek monte edilmesi gündemde. Ancak yatırımın kapsamı ve üretilecek modeller henüz kesinleşmedi.",
+      "link": "https://www.aydinlik.com.tr/haber/volkswagenin-turkiye-planinda-cin-formulu-otomobiller-parcalar-halinde-gelebilir-597157",
+      "published": "2026-11-02T08:26:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:58.246045+00:00"
+    },
+    {
+      "id": "3d9ed56f506b1ea8",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Enerji şirketi bp, Castrol'deki yüzde 65'lik hissesini 6 milyar dolara sattı",
+      "summary": "Enerji şirketi bp, Castrol'deki yüzde 65'lik hissesini 6 milyar dolar karşılığında ABD merkezli özel sermaye şirketi Stonepeak'e sattı.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/enerji-sirketi-bp-castroldeki-yuzde-65lik-hissesini-6-milyar-dolara-satti/4108449",
+      "published": "2026-11-02T08:26:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:50.740642+00:00"
+    },
+    {
+      "id": "d598d565e302b94e",
+      "source": "Cumhuriyet",
+      "title": "Şile Belediyesi davasında 6'ncı duruşma başladı: 53 kişi hakim karşısında",
+      "summary": "Şile Belediyesi'ne yönelik yürütülen soruşturma kapsamında, görevinden uzaklaştırılan Belediye Başkanı Özgür Kabadayı ve sanatçı Haluk Levent'in kardeşi Berkant Acil'in de aralarında bulunduğu 53 kişinin yargılandığı davanın 6'ncı duruşması başladı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/sile-belediyesi-davasinda-6-nci-durusma-basladi-53-kisi-hakim-karsisinda-2552437",
+      "published": "2026-11-02T08:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:51.060901+00:00"
+    },
+    {
+      "id": "a40fa61f24fd6ab6",
+      "source": "Yeni Akit",
+      "title": "Rekabet Kurumu'ndan Google kararı! Yapay zekâ özetlerine \"adil paylaşım\" tedbiri",
+      "summary": "Google arama sonuçlarındaki yapay zekâ özetlerinin haber sitelerinde trafik ve gelir kaybına yol açacağı endişesi üzerine Rekabet Kurumu harekete geçti. İşte detaylar...",
+      "link": "https://www.yeniakit.com.tr/haber/rekabet-kurumundan-google-karari-yapay-zeka-ozetlerine-adil-paylasim-tedbiri-2031398.html",
+      "published": "2026-11-02T08:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:56.950667+00:00"
+    },
+    {
+      "id": "6978b7721c782ced",
+      "source": "Cumhuriyet",
+      "title": "Kamyon çarptığı ev enkaza dönmüştü: Acı haber geldi",
+      "summary": "Bursa'da sürücüsünün kontrolünden çıkan kamyonun enkaza çevirdiği evde 1 kişinin cansız bedenine ulaşıldı. Kamyon sürücüsü hastanede tedavi altına alındı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/kamyon-carptigi-ev-enkaza-donmustu-aci-haber-geldi-2552436",
+      "published": "2026-11-02T08:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:51.060929+00:00"
+    },
+    {
+      "id": "bf00db722bca917e",
+      "source": "Ekonomim",
+      "title": "bp, Castrol'deki yüzde 65'lik hissesini sattı",
+      "summary": "Enerji şirketi bp, Castrol&#039;deki yüzde 65&#039;lik hissesini 6 milyar dolar karşılığında ABD merkezli özel sermaye şirketi Stonepeak&#039;e sattı.",
+      "link": "https://www.ekonomim.com/sirketler/bp-castroldeki-yuzde-65lik-hissesini-satti-haberi-928521",
+      "published": "2026-11-02T08:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:03.724364+00:00"
+    },
+    {
+      "id": "7fbccb0251ad51ab",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Kalkınma programları kırsal bölgelerde istihdam artışına katkı sağlıyor",
+      "summary": "Kırsalda yürütülen kalkınma programları, bu bölgelere yatırım yapılmasını sağlayarak istihdam artışını desteklerken, yaşam kalitesinin artırılmasına ve nüfusun kırsalda tutundurulmasına katkıda bulunuyor.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/kalkinma-programlari-kirsal-bolgelerde-istihdam-artisina-katki-sagliyor/4108448",
+      "published": "2026-11-02T08:24:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:50.740742+00:00"
+    },
+    {
+      "id": "38e5ef0a9c086d2b",
+      "source": "OdaTV",
+      "title": "Erkan Baş duyurdu: Türkiye İşçi Partisi kapı kapı dolaşacak",
+      "summary": "Türkiye İşçi Partisi (TİP) Genel Başkanı Erkan Baş, partisinin Türkiye genelinde başlattığı ev ziyaretleriyle vatandaşlarla doğrudan buluştuğunu açıkladı.",
+      "link": "https://www.odatv.com/siyaset/erkan-bas-duyurdu-turkiye-isci-partisi-kapi-kapi-dolasacak-120169290",
+      "published": "2026-11-02T08:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:58.631552+00:00"
+    },
+    {
+      "id": "95381e7b988c2178",
+      "source": "OdaTV",
+      "title": "Formula 1'de tarihi rekor: Antonelli 20 yaşında dünya şampiyonu... Vettel'i geride bıraktı",
+      "summary": "Mercedes pilotu Andrea Kimi Antonelli, Meksika Grand Prix&#039;sini üçüncü sırada tamamlayarak 20 yaşında Formula 1 dünya şampiyonu oldu. Sebastian Vettel&#039;in 16 yıllık rekorunu kıran İtalyan pilot, ülkesine 73 yıl sonra ilk şampiyonluğu getirdi.",
+      "link": "https://www.odatv.com/spor/andrea-kimi-antonelli-formula-1in-en-genc-dunya-sampiyonu-oldu-120169291",
+      "published": "2026-11-02T08:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:58.631592+00:00"
+    },
     {
       "id": "8159b7e98a21937b",
       "source": "Anadolu Ajansı (Güncel)",
@@ -19,6 +294,17 @@
       "fetched_at": "2026-11-02T08:25:36.396664+00:00"
     },
     {
+      "id": "cc9f3e696771ca85",
+      "source": "Ekonomim",
+      "title": "Özbekistan’dan Bursa’ya yatırım ve ticaret iş birliği çağrısı",
+      "summary": "Özbekistan’a bağlı Karakalpakistan Özerk Cumhuriyeti heyeti, BTSO’da Bursa iş dünyasıyla bir araya geldi. Tekstil, makine, otomotiv yan sanayi ve gıda sektörlerinde iş birliği fırsatlarının ele alındığı görüşmede, Özbekistan’da son 7 yılda 2 bin 200 Türk firmasının kurulduğu açıklandı. BTSO Yönetim Kurulu Başkan Yardımcısı Osman Güler, “Özbekistan, ortak tarihimiz ve kültürümüzün yanı sıra büyüyen",
+      "link": "https://www.ekonomim.com/sehirler/ozbekistandan-bursaya-yatirim-ve-ticaret-is-birligi-cagrisi-haberi-928519",
+      "published": "2026-11-02T08:23:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:03.724427+00:00"
+    },
+    {
       "id": "0afd16bbc98344f3",
       "source": "Akşam",
       "title": "Türkiye Turcorn sayısını 13'e yükseltmeyi hedefliyor",
@@ -28,6 +314,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T08:25:42.990842+00:00"
+    },
+    {
+      "id": "dba4ccc819606117",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Beşiktaş'tan deplasmanda son 5 sezonun en kötü başlangıcı",
+      "summary": "Siyah-beyazlı takım, 2026-2027 sezonunda dış sahada oynadığı ilk 5 maçta 4 puan topladı ve son 5 sezonun en düşük puanlı performansını sergiledi.",
+      "link": "https://www.aa.com.tr/tr/spor/besiktastan-deplasmanda-son-5-sezonun-en-kotu-baslangici/4108444",
+      "published": "2026-11-02T08:22:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:50.740795+00:00"
+    },
+    {
+      "id": "9af3f9ab312368a9",
+      "source": "OdaTV",
+      "title": "Bayat pizzayı yeniden ısıtmanın en iyi yolu",
+      "summary": "Washington Post yemek yayıncıları Tim Carman ve Becky Krystal, buzdolabından çıkan bayat pizzaları yeniden canlandırmak için en popüler 5 yöntemi kör tadım testiyle kıyasladı. İşte en kötüden en iyiye ısıtma yolları.",
+      "link": "https://www.odatv.com/gastroda/bayat-pizza-nasil-isitilir-120169289",
+      "published": "2026-11-02T08:22:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:58.631622+00:00"
     },
     {
       "id": "d6bb67162d0d27fd",
@@ -127,6 +435,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T08:25:39.079485+00:00"
+    },
+    {
+      "id": "eabfb8ea83d56759",
+      "source": "Evrensel",
+      "title": "İran'dan ABD'ye: Top sizin sahanızda",
+      "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD'ye arabulucular üzerinden ilettikleri 7 şarttan oluşan planın açık ve makul olduğunu belirtti. Bekayi, \"Top ABD'nin sahasında\" dedi.",
+      "link": "https://www.evrensel.net/haber/6007625/irandan-abdye-top-sizin-sahanizda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-02T08:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:53.426528+00:00"
+    },
+    {
+      "id": "d4e4b114e41869bd",
+      "source": "OdaTV",
+      "title": "İstanbul'da hesaplar sil baştan... DEM'den kent uzlaşısı hamlesi",
+      "summary": "DEM Parti &quot;Kent Uzlaşısı&quot; kapsamında CHP listelerinden seçilen belediye meclis üyelerini kendi çatısı altına çağırdı. Grup kurmak için CHP’den istifalara başlayan YENİ Parti&#039;lilerin ayrılmasıyla İBB Meclisi&#039;ndeki dengeler altüst oldu. CHP’nin meclis çoğunluğunu kaybetme riski belirdi.",
+      "link": "https://www.odatv.com/guncel/istanbul-hesaplar-sil-bastan-dem-kent-uzlasisi-hamlesi-ibb-meclis-cogunlugu-imamoglu-120169286",
+      "published": "2026-11-02T08:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:58.631654+00:00"
     },
     {
       "id": "3df133c950126792",
@@ -426,6 +756,17 @@
       "fetched_at": "2026-11-02T08:20:44.051045+00:00"
     },
     {
+      "id": "e9cbf8a090dfc4a2",
+      "source": "Bloomberg HT",
+      "title": "Google yapay zeka hizmetlerine rekabet soruşturması",
+      "summary": "Rekabet Kurumu, Google yapay zeka hizmetlerine ilişkin soruşturma açılması kararı verdi.",
+      "link": "https://www.bloomberght.com/google-yapay-zeka-hizmetlerine-rekabet-sorusturmasi-3793049",
+      "published": "2026-11-02T08:15:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:03.069253+00:00"
+    },
+    {
       "id": "bb6a0e1c3bca3f5e",
       "source": "Anadolu Ajansı (Güncel)",
       "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda 4 Filistinli hayatını kaybetti",
@@ -457,6 +798,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T08:20:47.650203+00:00"
+    },
+    {
+      "id": "2a8811fffbce857e",
+      "source": "Bloomberg HT",
+      "title": "OpenAI ile BAE arasında kritik anlaşmalar",
+      "summary": "OpenAI, Birleşik Arap Emirlikleri'nde enerji şirketleri, yatırım firmaları ve devlet kurumlarında yapay zeka teknolojisini kullanıma sunmak için anlaşmalar imzaladı.",
+      "link": "https://www.bloomberght.com/openai-ile-bae-arasinda-kritik-anlasmalar-3793048",
+      "published": "2026-11-02T08:15:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:03.069286+00:00"
     },
     {
       "id": "2b331174b9b7250e",
@@ -514,6 +866,17 @@
       "fetched_at": "2026-11-02T08:20:37.851716+00:00"
     },
     {
+      "id": "aeaf6e7f630daacf",
+      "source": "Evrensel",
+      "title": "Gazeteci Dilek Şen duyurdu: İzBB, 1989 Bulgaristan göçmenlerinin evlerini yıkıma hazırlıyor",
+      "summary": "İzmir Buca’da 1989’da Bulgaristan’dan göç eden aileler, yıllardır yaşadıkları evlerden tahliye edilmek isteniyor. Aileler, yıkım kararına karşı hukuk mücadelesi veriyor.",
+      "link": "https://www.evrensel.net/haber/6007624/gazeteci-dilek-sen-duyurdu-izbb-1989-bulgaristan-gocmenlerinin-evlerini-yikima-hazirliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-02T08:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:53.426569+00:00"
+    },
+    {
       "id": "0b0a73bb0fb77f6c",
       "source": "CNBC-e",
       "title": "Rus gazı Avrupa'ya geri mi dönüyor? ABD'nin masadaki planı ortaya çıktı",
@@ -534,6 +897,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T08:20:35.313237+00:00"
+    },
+    {
+      "id": "1956c99a91937825",
+      "source": "Evrensel",
+      "title": "10 katlı binada iş kazası: İki işçi bağlantısı kopan iskelede mahsur kaldı",
+      "summary": "Kepez'de 10 katlı bir sitenin dış cephe boyasını yapan 2 işçi, iskele bağlantısının kopması sonucu en üst katta mahsur kaldı. İşçiler, itfaiye ekiplerinin merdivenli araçla müdahalesiyle kurtarıldı.",
+      "link": "https://www.evrensel.net/haber/6007623/10-katli-binada-is-kazasi-iki-isci-baglantisi-kopan-iskelede-mahsur-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-02T08:13:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:53.426602+00:00"
     },
     {
       "id": "35d5cf7d20ac5554",
@@ -569,6 +943,17 @@
       "fetched_at": "2026-11-02T08:15:46.157147+00:00"
     },
     {
+      "id": "77c2c3b6b6a7e89b",
+      "source": "Ekonomim",
+      "title": "Hindistan fabrika faaliyetlerinde ekim görünümü: İç pazar soğurken ihracat canlandı",
+      "summary": "Hindistan&#039;da ekim ayı öncü HSBC İmalat Satın Alma Yöneticileri Endeksi (PMI), imalat sektöründe genişlemenin hız kestiğini gösterdi. Endeks, eylül ayındaki 55,1 seviyesinden 54,7&#039;ye gerileyerek 54,9 olan piyasa beklentisinin altında gerçekleşti. Buna karşın endeksin eşik değer olan 50 seviyesinin üzerinde kalması, fabrika faaliyetlerinin ekim ayında da büyüme bölgesinde kaldığını teyit e",
+      "link": "https://www.ekonomim.com/kuresel-ekonomi/hindistan-fabrika-faaliyetlerinde-ekim-gorunumu-ic-pazar-sogurken-ihracat-canlandi-haberi-928520",
+      "published": "2026-11-02T08:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:03.724576+00:00"
+    },
+    {
       "id": "a97b5f83d6e99984",
       "source": "Akşam",
       "title": "Trafikte yeni dönem başlıyor! Kazaların ağır sonuçları azaltılacak",
@@ -589,6 +974,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T08:15:38.666753+00:00"
+    },
+    {
+      "id": "422ecabf152e42c2",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Brexit referandumunun 10. yılında İngiltere'nin AB'ye dönüşü yeniden gündemde",
+      "summary": "İngiltere'nin Avrupa Birliği'nden (AB) ayrılma kararı aldığı referandumun 10. yılında Başbakan Andy Burnham'ın ilişkilerin geleceğine yönelik açıklamaları yeniden üyelik tartışmasını canlandırdı.",
+      "link": "https://www.aa.com.tr/tr/dosya-haber/brexit-referandumunun-10-yilinda-ingilterenin-abye-donusu-yeniden-gundemde/4108427",
+      "published": "2026-11-02T08:10:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:50.740769+00:00"
+    },
+    {
+      "id": "0593d0417ddae487",
+      "source": "Bloomberg HT",
+      "title": "Belçika'da bütçenin siyaset krizi doğuracağı iddiası",
+      "summary": "Belçika'da federal hükümetin bütçe konusunda uzlaşmaya varamaması üzerine Başbakan Bart De Wever'in istifasını sunabileceği ve hükümetin dağılabileceği öne sürüldü.",
+      "link": "https://www.bloomberght.com/belcika-da-butcenin-siyaset-krizi-doguracagi-iddiasi-3793045",
+      "published": "2026-11-02T08:10:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:31:03.069316+00:00"
     },
     {
       "id": "b26f5fca4da8b9a8",
@@ -622,6 +1029,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T08:25:36.396721+00:00"
+    },
+    {
+      "id": "72bca5dce0728b48",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Fransız işgalinden kurtulan okul köklü mirasını geleceğe taşıyor",
+      "summary": "Fransız kuvvetlerinin 1918'deki işgali sırasında kapatılan ve kentin düşman işgalinden kurtarılmasıyla 3 yıl sonra yeniden hizmete açılan okul, tarihi taş binasında öğrencileri ağırlamayı sürdürüyor.",
+      "link": "https://www.aa.com.tr/tr/kultur/fransiz-isgalinden-kurtulan-okul-koklu-mirasini-gelecege-tasiyor/4108424",
+      "published": "2026-11-02T08:09:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:50.740679+00:00"
     },
     {
       "id": "352323fa5dd208c4",
@@ -820,6 +1238,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T08:10:45.549053+00:00"
+    },
+    {
+      "id": "6b638ecdbbf974a6",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "AK Parti Genel Başkanvekili Elitaş, AK Parti iktidarının 24 yılını değerlendirdi",
+      "summary": "AK Parti Genel Başkanvekili Mustafa Elitaş, \"2026'da artık Türkiye'nin liderliği, önce bölgesel daha sonra küresel aktör oluşunun adım adım izlediği yol, milletin partisi AK Parti'nin ve milletin temsilcisi Recep Tayyip Erdoğan'ın eseridir.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-elitas-ak-parti-iktidarinin-24-yilini-degerlendirdi/4108417",
+      "published": "2026-11-02T08:05:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:50.740713+00:00"
     },
     {
       "id": "bd19a38f228afd7e",
@@ -1271,6 +1700,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T08:01:08.462963+00:00"
+    },
+    {
+      "id": "af4461c11b290177",
+      "source": "Evrensel",
+      "title": "Şampiyonlar Ligi: Galatasaray-Stuttgart maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "Galatasaray, Şampiyonlar Ligi 4. haftasında Stuttgart'ı konuk ediyor. RAMS Park'ta oynanacak kritik maç yarın yapılacak.",
+      "link": "https://www.evrensel.net/haber/6007622/sampiyonlar-ligi-galatasaray-stuttgart-maci-ne-zaman-saat-kacta-hangi-kanalda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-02T07:57:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T08:30:53.426687+00:00"
     },
     {
       "id": "c50313078e0d576b",
@@ -5066,446 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T07:00:58.317050+00:00"
-    },
-    {
-      "id": "fb687dabf95f435b",
-      "source": "Cumhuriyet",
-      "title": "AKOM tarih verdi: İstanbul'da önce sağanak, ardından soğuk hava!",
-      "summary": "İstanbul Büyükşehir Belediyesi Afet İşleri ve Risk Yönetimi Dairesi Başkanlığı (AKOM), İstanbul için haftalık hava tahmin raporunu yayımladı. Kentte hafta boyunca aralıklarla sağanak yağış beklenirken, sıcaklıkların perşembe gününden itibaren hızla düşerek mevsim normallerinin altına gerileyeceği bildirildi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/akom-tarih-verdi-istanbul-da-once-saganak-ardindan-soguk-hava-2552396",
-      "published": "2026-11-02T06:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:00:58.317094+00:00"
-    },
-    {
-      "id": "0252cb1b9ce2f6dc",
-      "source": "Akşam",
-      "title": "Yargıtay'dan çalışan anneler için emsal karar! Doğum izni ayrımcılığına tazminat yolu",
-      "summary": "Milyonlarca çalışan anneyi yakından ilgilendiren bir karara imza atan Yargıtay, kadın işçinin doğum izni sonrası uzmanlığı dışında bir işte çalışmaya zorlanmasının ayrımcılık tazminatını gerektirdiğine hükmetti. Hem çalışıp hem çocuk yetiştiren annelerin yüzünü güldüren emsal kararla birlikte doğum izninden dönen kadın işçilere yönelik düşük zam, biriminin rızası dışında değiştirilmesi uygulaması ",
-      "link": "https://www.aksam.com.tr/guncel/yargitaydan-calisan-anneler-icin-emsal-karar-dogum-izni-ayrimciligina-tazminat-yolu/haber-1711077",
-      "published": "2026-11-02T06:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:01:01.307710+00:00"
-    },
-    {
-      "id": "4d09336c081bc891",
-      "source": "LOG",
-      "title": "ABD merkezli teknoloji girişimi Kalder’in kurucusu Gökçe Güven, 25 ay hapis cezasına çarptırıldı",
-      "summary": "ABD merkezli teknoloji girişimi Kalder&#8217;in kurucusu ve eski CEO&#8217;su Gökçe Güven, 25 ay federal hapis cezasına çarptırıldı. Forbes Dergisi&#8217;nin &#8220;30 altı 30&#8221; listesinde de yer alan 27 yaşındaki Güven, şirketin gelirlerini şişirerek yatırımcıları kandırmak, bu yolla 7 milyon dolar toplamak ve sahte belge düzenlemekle suçlanıyordu. Hakkındaki suçlamalar nedeniyle ABD&#8217;d",
-      "link": "https://www.log.com.tr/abd-merkezli-teknoloji-girisimi-kalderin-kurucusu-gokce-guven-25-ay-hapis-cezasina-carptirildi/",
-      "published": "2026-11-02T06:56:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:01:11.716664+00:00"
-    },
-    {
-      "id": "f6a58630678b7f5c",
-      "source": "Karar",
-      "title": "Tarihi geçmiş kanser ilaçlarını yeniden sattılar: 650 milyon liralık vurgun, 22 gözaltı",
-      "summary": "Bakan Gürlek, son kullanma tarihi geçmiş kanser ilaçlarının ambalajları değiştirilerek yeniden piyasaya sürülmesine yönelik İstanbul merkezli 11 ilde operasyon düzenlendiğini açıkladı. Operasyonda 22 şüpheli gözaltına alınırken, şüpheli kişi ve şirketlerin toplam işlem hacminin 650 milyon liraya ulaştığı bildirildi.",
-      "link": "https://www.karar.com/guncel-haberler/tarihi-gecmis-kanser-ilaclarini-yeniden-sattilar-650-milyon-liralik-2081841",
-      "published": "2026-11-02T06:56:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:01:02.820659+00:00"
-    },
-    {
-      "id": "fde0addc8639391b",
-      "source": "Habertürk",
-      "title": "MEB, öğrencilerin beceri düzeylerini okul tabanlı izlemeyle belirleyecek",
-      "summary": "MEB, ortaokul ve liselerde Türkçe, matematik ve fen bilimleri alanlarında çoktan seçmeli ve açık uçlu soruların yer aldığı \"okul tabanlı izleme\" uygulamasıyla öğrencilerin öğrenme çıktılarını ve beceri düzeylerini belirleyecek",
-      "link": "https://www.haberturk.com/gundem/meb-ogrencilerin-beceri-duzeylerini-okul-tabanli-izlemeyle-belirleyecek-haberler-3924229",
-      "published": "2026-11-02T06:56:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:10:38.021983+00:00"
-    },
-    {
-      "id": "9e882f75a625fbfc",
-      "source": "Ekonomim",
-      "title": "İstanbul'da ekim ayında fiyatı en çok artan ve azalan ürünler belli oldu",
-      "summary": "İstanbul&#039;da ekim ayında fiyatı en çok artan ürün salatalık, en çok düşen ise limon oldu. Ekim ayında endeksteki 336 ana ürünün 231’inde fiyat artışı görülürken, 29 ürünün fiyatı bir önceki aya göre geriledi.",
-      "link": "https://www.ekonomim.com/ekonomi/istanbulda-ekim-ayinda-fiyati-en-cok-artan-ve-azalan-urunler-belli-oldu-haberi-928490",
-      "published": "2026-11-02T06:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:05:57.091068+00:00"
-    },
-    {
-      "id": "13ffc1893ca5ef73",
-      "source": "Cumhuriyet",
-      "title": "Mustafa Reşit Galip",
-      "summary": "KONUK YAZAR | Atatürk Araştırmacısı Ahmet Gürel, Cumhuriyet Ege için yazdı...",
-      "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/mustafa-resit-galip-2552393",
-      "published": "2026-11-02T06:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:00:58.317117+00:00"
-    },
-    {
-      "id": "48b0a33e2024a825",
-      "source": "Cumhuriyet",
-      "title": "TBMM'de bu hafta: 'Mekke Anlaşması' Genel Kurul'a gelecek",
-      "summary": "TBMM Genel Kurulu’nda bu hafta Türk Kızılay Kanunu Teklifi’nin görüşmelerine devam edilmesi ve Mekke Anlaşması’na ilişkin kanun teklifinin gündeme alınması bekleniyor. Plan ve Bütçe Komisyonu’nda ise Hazine ve Maliye Bakanlığı dahil beş bakanlığın bütçesi görüşülecek.",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/tbmm-de-bu-hafta-mekke-anlasmasi-genel-kurul-a-gelecek-2552394",
-      "published": "2026-11-02T06:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:00:58.317150+00:00"
-    },
-    {
-      "id": "1c91c42ed1e6013c",
-      "source": "Ekonomim",
-      "title": "Asya borsaları Japonya hariç pozitif seyrediyor",
-      "summary": "Asya borsaları, petrol fiyatlarındaki geri çekilme ve teknoloji şirketlerinin hisselerindeki yükselişlerin etkisiyle Japonya hariç pozitif seyrediyor.",
-      "link": "https://www.ekonomim.com/finans/haberler/borsa/asya-borsalari-japonya-haric-pozitif-seyrediyor-haberi-928487",
-      "published": "2026-11-02T06:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:01:09.390112+00:00"
-    },
-    {
-      "id": "9b7efb1cd2c5e8b4",
-      "source": "Aydınlık",
-      "title": "WSJ: Washington, Rus gazını Ukrayna üzerinden Avrupa'ya yeniden taşımak ve Kuzey Akım'ı canlandırmak istiyor",
-      "summary": "Wall Street Journal&#039;a göre ABD, Rus doğal gazının Ukrayna üzerinden Avrupa&#039;ya yeniden sevk edilmesi için girişimde bulunuyor. Washington&#039;ın Amerikan aracı şirketi üzerinden satış ve Kuzey Akım&#039;ın yeniden devreye alınması seçeneklerini de değerlendirdiği öne sürüldü.",
-      "link": "https://www.aydinlik.com.tr/haber/wsj-washington-rus-gazini-ukrayna-uzerinden-avrupaya-yeniden-tasimak-ve-kuzey-akimi-canlandirmak-istiyor-597138",
-      "published": "2026-11-02T06:55:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:01:03.876641+00:00"
-    },
-    {
-      "id": "174d4c1dbfaa01a8",
-      "source": "CNBC-e",
-      "title": "İstanbul'da fiyatı en çok artan ve azalan ürünler: Ekim ayı tablosu belli oldu",
-      "summary": "İTO verilerine göre, ekimde İstanbul'da perakende fiyatı en çok artan ürün yüzde 50,71 ile salatalık, en çok düşen ürün ise yüzde 26,21 ile limon oldu. İncelenen 336 ana ürünün 231'inde fiyat artışı, 29'unda düşüş kaydedildi.",
-      "link": "https://www.cnbce.com/haberler/istanbulda-fiyati-en-cok-artan-ve-azalan-urunler-ekim-ayi-tablosu-belli-oldu-h40774",
-      "published": "2026-11-02T06:55:23+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:55.434934+00:00"
-    },
-    {
-      "id": "c322b8571ba6f029",
-      "source": "Independent Türkçe",
-      "title": "İsrail, Türkiye'yi iki cepheye çekiyor",
-      "summary": "İsrail , Suriye’de Türkiye ile karşı karşıya gelmekten kaçınmıyor. Son iki yılda ise ikinci bir cephe açmak için sessiz ama sistemli bir çalışma yürütüyor. Bu cephenin sahası Ege ve Doğu Akdeniz, aracı ise Yunan kamuoyu. Yunan televizyonlarında (ERT, SKAI, Mega) ve Kathimerini, Proto Thema, Ta Nea gibi yayın organlarında İsrailli diplomatların, istihbarat ve savunma bürokrasisinden gelen analistle",
-      "link": "https://www.indyturk.com/node/784637/t%C3%BCrki%CC%87yeden-sesler/i%CC%87srail-t%C3%BCrkiyeyi-iki-cepheye-%C3%A7ekiyor",
-      "published": "2026-11-02T06:55:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:05:54.582959+00:00"
-    },
-    {
-      "id": "89c52e69d366a1bf",
-      "source": "Bir Gün",
-      "title": "Bulgaristan'daki cumhurbaşkanı seçimini mevcut Cumhurbaşkanı Yotova kazandı",
-      "summary": "Resmi olmayan sonuçlara göre Bulgaristan'daki cumhurbaşkanlığı seçimlerini mevcut Cumhurbaşkanı İliyana Yotova ve cumhurbaşkanı yardımcısı adayı Kiril Valchev kazandı.",
-      "link": "https://www.birgun.net/haber/bulgaristan-daki-cumhurbaskani-secimini-mevcut-cumhurbaskani-yotova-kazandi-743947",
-      "published": "2026-11-02T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T08:01:03.051420+00:00"
-    },
-    {
-      "id": "9060bc6e7693ffad",
-      "source": "Evrensel",
-      "title": "İstanbul'da barajların doluluk oranında son durum",
-      "summary": "İstanbul'da son günlerde etkili olan yağışların ardından İSKİ güncel baraj doluluk oranlarını paylaştı. Kent genelindeki ortalama doluluk oranı yüzde 53.71 olarak kayıtlara geçerken, barajlar arasındaki doluluk oranlarındaki farklar dikkat çekti.",
-      "link": "https://www.evrensel.net/haber/6007611/istanbulda-barajlarin-doluluk-oraninda-son-durum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-02T06:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:15:44.472840+00:00"
-    },
-    {
-      "id": "c7269e93795630ee",
-      "source": "Yeni Şafak",
-      "title": "AK Parti'nin siyasi yolculuğu 'Kuruluşunun 25. İktidara Gelişinin 24. Yılında AK Parti' panelinde ele alınacak",
-      "summary": "AK Parti'nin kuruluşunun 25'inci, iktidara gelişinin 24'üncü yılı dolayısıyla panel düzenlenecek.Moderatörlüğünü Genel Başkan Yardımcısı Hüseyin Yayman'ın yapacağı panele, Genel Başkanvekilleri Efkan Ala ve Mustafa Elitaş ile Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Teşkilat Başkanı Ahmet Büyükgümüş ile Hazine ve Maliye Bakanı Mehmet Şimşek konuşmacı olarak katılacak.",
-      "link": "https://www.yenisafak.com/gundem/ak-partinin-siyasi-yolculugu-kurulusunun-25-iktidara-gelisinin-24-yilinda-ak-parti-panelinde-ele-alinacak-4869031",
-      "published": "2026-11-02T06:54:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:43.347226+00:00"
-    },
-    {
-      "id": "11d7ed99cfd56bc5",
-      "source": "Bir Gün",
-      "title": "Premier Lig'de Arsenal haftayı lider kapattı",
-      "summary": "Premier Lig’in 9. haftasında Liverpool’u deplasmanda 1-0 yenen Arsenal, Manchester City’nin Brighton’a kaybetmesiyle liderliğe yükseldi. Londra ekibi, en yakın rakibinin üç puan önüne geçti.",
-      "link": "https://www.birgun.net/haber/premier-lig-de-arsenal-haftayi-lider-kapatti-743950",
-      "published": "2026-11-02T06:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T08:01:03.051477+00:00"
-    },
-    {
-      "id": "23256a2e0b9ec3c1",
-      "source": "Bir Gün",
-      "title": "The trail of the scandal ends in the same place",
-      "summary": "It has been approximately two months since the fund scandal—described as the heist of the century—came to light. Whilst no investigation has been carried out that would convince the public, the questions awaiting answers remain as pressing as ever",
-      "link": "https://www.birgun.net/haber/the-trail-of-the-scandal-ends-in-the-same-place-743948",
-      "published": "2026-11-02T06:54:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:00:59.610060+00:00"
-    },
-    {
-      "id": "60f11b7929ef5400",
-      "source": "Karar",
-      "title": "Brent petrol yüzde 6,6 düşüşle 110 doların altına geriledi",
-      "summary": "Brent petrolün varil fiyatı, ABD ile İran arasında diplomatik temasların yeniden başlayabileceğine yönelik beklentilerin etkisiyle yüzde 6,6 düşerek 109,92 dolara geriledi. ABD Başkanı Donald Trump’ın İran ile görüşmelere öncelik verdiğine ilişkin açıklamaları fiyatlar üzerinde aşağı yönlü baskı oluştururken, OPEC+ ülkelerinin üretimi artırmama kararı düşüşü sınırladı.",
-      "link": "https://www.karar.com/ekonomi-haberleri/brent-petrol-yuzde-66-dususle-110-dolarin-altina-geriledi-2081840",
-      "published": "2026-11-02T06:53:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:44.313158+00:00"
-    },
-    {
-      "id": "5f234d781f334832",
-      "source": "Evrensel",
-      "title": "Fenerbahçe’nin yeni teknik direktörü: Sergio Conceiçao iddiası",
-      "summary": "Fenerbahçe’nin teknik direktörlük görevi için Sergio Conceição isminde mutabakata vardığı ve Portekizli teknik adamı İstanbul’a davet ettiği iddia edildi.",
-      "link": "https://www.evrensel.net/haber/6007610/fenerbahce-nin-yeni-teknik-direktoru-sergio-conceicao-iddiasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-02T06:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:00:59.417834+00:00"
-    },
-    {
-      "id": "30c97cc5a95e1171",
-      "source": "Bianet",
-      "title": "16. Suç ve Ceza Film Festivali’nde kadın yönetmenler ve kadın hakları öne çıkıyor",
-      "summary": "Festival, 26 Kasım’da başlayacak. 36 ülkeden 35 uzun ve kısa metrajlı filmin gösterileceği festivalde kadın yönetmenlerin yapıtları, kadın hakları mücadelesi ve İstanbul Sözleşmesi’nin geleceği öne çıkacak.",
-      "link": "https://bianet.org/haber/16-suc-ve-ceza-film-festivalinde-kadin-yonetmenler-ve-kadin-haklari-one-cikiyor-324996",
-      "published": "2026-11-02T06:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:01:04.970251+00:00"
-    },
-    {
-      "id": "529bd60e7dc6f9b8",
-      "source": "Akşam",
-      "title": "İstanbul'da zehir sevkiyatına darbe: Kamyonette 336 kilo ele geçirildi",
-      "summary": "İstanbul'da düzenlenen operasyonda bir kamyonette 336 kilo 550 gram uyuşturucu ele geçirildi, sürücü gözaltına alındı.",
-      "link": "https://www.aksam.com.tr/guncel/istanbulda-zehir-sevkiyatina-darbe-kamyonette-336-kilo-ele-gecirildi/haber-1711076",
-      "published": "2026-11-02T06:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:42.481679+00:00"
-    },
-    {
-      "id": "e3bf45c719617bdc",
-      "source": "Star",
-      "title": "İran'dan savaşın büyüyeceği uyarısı: Yeni çatışma Avrupa'ya yayılabilir",
-      "summary": "İranlı milletvekili ve eski Dışişleri Bakanı Menuçehr Muttaki, İran'a karşı başlatılacak yeni bir savaşın Avrupa'ya da yayılabileceği uyarısında bulundu.",
-      "link": "https://www.star.com.tr/dunya/irandan-savasin-buyuyecegi-uyarisi-yeni-catisma-avrupaya-yayilabilir-haber-2050621/",
-      "published": "2026-11-02T06:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:43.612506+00:00"
-    },
-    {
-      "id": "8b8cf5a18b350c67",
-      "source": "Türkiye Gazetesi",
-      "title": "Kasım fiyatları açıklandı: Clio, Boreal ve Duster’a zam var mı?",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/t-otomobil/renault-kasim-fiyatlarini-acikladi-clio-boreal-ve-dustera-zam-var-mi-1826607",
-      "published": "2026-11-02T06:52:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:15:43.819014+00:00"
-    },
-    {
-      "id": "241e88d9f06fbfd6",
-      "source": "Türkiye Gazetesi",
-      "title": "Renault kasım fiyatlarını açıkladı: Clio, Boreal ve Duster’a zam var mı?",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/t-otomobil/renault-kasim-fiyatlarini-acikladi-clio-boreal-ve-dustera-zam-var-mi-1826607",
-      "published": "2026-11-02T06:52:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:37.878046+00:00"
-    },
-    {
-      "id": "5abe475e42cc4d21",
-      "source": "Karar",
-      "title": "Niğde'de elma hasadı görsel şölene dönüştü: Dündarlı bahçeleri doğal fotoğraf stüdyosu oldu!",
-      "summary": "Türkiye'nin en önemli elma üretim merkezlerinden Niğde'nin Dündarlı beldesinde sonbahar bereketi yaşanıyor. Meyve suyu fabrikalarına gönderilmek üzere toplanan rengarenk elmalar döküldükleri bahçelerde kartpostallık manzaralar oluştururken, 7'den 70'e ailelerin omuz omuza verdiği hummalı hasat mesaisi fotoğraf sanatçılarının akınına uğradı.",
-      "link": "https://www.karar.com/sehir-haberleri/nigdede-elma-hasadi-gorsel-solene-donustu-dundarli-bahceleri-dogal-2081839",
-      "published": "2026-11-02T06:52:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:44.313193+00:00"
-    },
-    {
-      "id": "895160eea3728d97",
-      "source": "CNBC-e",
-      "title": "Nissan Kasım fiyatlarını açıkladı: Bir modelde 432 bin TL indirim",
-      "summary": "Nissan, Kasım 2026 sıfır araç fiyat listesini yayımladı. Qashqai ve Juke modellerinin bazı versiyonlarında indirim yapılırken, bir modelin kampanyalı fiyatı Ekim ayına göre 432 bin 300 TL geriledi. X-Trail'de ise fiyatlar sabit kaldı. İşte güncel fiyatlar ve kampanyalar...",
-      "link": "https://www.cnbce.com/otomotiv/nissan-kasim-fiyatlarini-acikladi-bir-modelde-432-bin-tl-indirim-g40773",
-      "published": "2026-11-02T06:52:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:55.434965+00:00"
-    },
-    {
-      "id": "a5befc46fa5f16bb",
-      "source": "Cumhuriyet",
-      "title": "Cadılar Bayramı'nı hedef alan Sinan Akçıl'ın yıllar önceki kostümlü pozları ortaya çıktı",
-      "summary": "Cadılar Bayramı kutlamalarına yönelik eleştirileriyle adından söz ettiren şarkıcı Sinan Akçıl'ın, yıllar önce sevgilisiyle birlikte Miami'deki bir Halloween partisine katıldığı ortaya çıktı. Ünlü şarkıcının geçmişte giydiği kostümlü fotoğrafları sosyal medyada yeniden dolaşıma girdi.",
-      "link": "https://www.cumhuriyet.com.tr/magazin/cadilar-bayrami-ni-hedef-alan-sinan-akcil-in-yillar-onceki-kostumlu-pozlari-ortaya-cikti-2552392",
-      "published": "2026-11-02T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:35.218030+00:00"
-    },
-    {
-      "id": "df2611e2a1cb8713",
-      "source": "Akşam",
-      "title": "Samsunspor yenilgi rekorunu 8 maça çıkardı",
-      "summary": "Trendyol Süper Lig ekiplerinden Samsunspor, ligde üst üste aldığı 8 mağlubiyetle kulüp tarihinin en uzun yenilgi serisi rekorunu kırdı.",
-      "link": "https://www.aksam.com.tr/spor/samsunspor-yenilgi-rekorunu-8-maca-cikardi/haber-1711075",
-      "published": "2026-11-02T06:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:42.481704+00:00"
-    },
-    {
-      "id": "e7f234201f07a55d",
-      "source": "Habertürk",
-      "title": "25 yıllık siyasi yolculuk ele alınacak",
-      "summary": "AK Parti’nin kuruluşunun 25’inci, iktidara gelişinin 24’üncü yılı dolayısıyla 3 Kasım Salı günü partinin genel merkezinde panel düzenlenecek. Hüseyin Yayman’ın moderatörlüğünü üstleneceği panele, AK Parti Genel Başkanvekilleri Efkan Ala ve Mustafa Elitaş ile Ömer Çelik, Ahmet Büyükgümüş ve Hazine ve Maliye Bakanı Mehmet Şimşek konuşmacı olarak katılacak. Panelde, partinin siyasi geçmişi, iktidar d",
-      "link": "https://www.haberturk.com/gundem/son-dakika-haberler-ak-parti-nin-siyasi-yolculugu-kurulusunun-25-iktidara-gelisinin-24-yilinda-ak-parti-panelinde-ele-alinacak-3924227",
-      "published": "2026-11-02T06:51:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:00:55.961043+00:00"
-    },
-    {
-      "id": "b456428f08ffe574",
-      "source": "Milliyet",
-      "title": "Demokratları korkutan olay: ABD'li Senatör Murphy inme geçirdi!",
-      "summary": "Murphy'nin özel kalemi Allison Herwitt, yaptığı yazılı açıklamada, 53 yaşındaki senatörün 31 Ekim'de kolunda uyuşukluk hissettiğini, daha sonra hastaneye kaldırıldığını belirtti. Herwitt, hastanede yapılan tetkikler sonucu Murphy'nin inme geçirdiğinin tespit edildiğini ve tedavi altına alınan senatörün bilincinin açık olduğunu bildirdi. İRAN SALDIRILARINA KARŞIYDI Murphy, İran'a yönelik olası sald",
-      "link": "https://www.milliyet.com.tr/dunya/demokratlari-korkutan-olay-abdli-senator-murphy-inme-gecirdi-7692421",
-      "published": "2026-11-02T06:51:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:41.998599+00:00"
-    },
-    {
-      "id": "5c4c352ce1d5bc26",
-      "source": "Yeni Şafak",
-      "title": "Giresun’da15 günlük dev kazı başlıyor: Definenin yüzde 50'si bulan kişiye verilecek",
-      "summary": "Giresun’da define aramak amacıyla hazırlanan proje için ÇED süreci tamamlandı. Gerekli izinlerin alınmasıyla başlayacak kazıda bulunacak hazinenin değerinin yarısı, defineyi bulan kişiye verilecek.",
-      "link": "https://www.yenisafak.com/gundem/giresunda15-gunluk-dev-kazi-basliyor-definenin-yuzde-50si-bulan-kisiye-verilecek-4869030",
-      "published": "2026-11-02T06:51:05+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:43.347267+00:00"
-    },
-    {
-      "id": "18f1ae97babe122e",
-      "source": "Cumhuriyet",
-      "title": "Bulgaristan'da seçim sonuçları açıklandı: Yotova zaferini ilan etti!",
-      "summary": "Bulgaristan'daki cumhurbaşkanlığı seçimlerinde mevcut Cumhurbaşkanı İliyana Yotova ve cumhurbaşkanı yardımcısı adayı Kiril Valchev, zaferlerini ilan etti.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/bulgaristan-da-secim-sonuclari-aciklandi-yotova-zaferini-ilan-etti-2552389",
-      "published": "2026-11-02T06:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:35.218055+00:00"
-    },
-    {
-      "id": "c3997f56dba1a3a5",
-      "source": "Cumhuriyet",
-      "title": "Otogarda durduruldu, çantasından 3 tabanca çıktı",
-      "summary": "İzmir’in Bornova ilçesindeki otobüs terminalinde şüphe üzerine durdurulan S.B.’nin sırt çantasında ruhsatsız 3 tabanca bulundu. Gözaltına alınan şüpheli hakkında adli işlem başlatıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/otogarda-durduruldu-cantasindan-3-tabanca-cikti-2552390",
-      "published": "2026-11-02T06:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:35.218076+00:00"
-    },
-    {
-      "id": "975f719bc7e526a3",
-      "source": "Cumhuriyet",
-      "title": "Kısa sürede İstanbul'da olması bekleniyor: Fenerbahçe yeni teknik direktörünü buldu",
-      "summary": "Fenerbahçe yönetiminin, teknik direktörlük için Sergio Conceiçao isminde mutabakata vardığı iddia edildi. Portekizli teknik adamın kısa sürede İstanbul'da olması bekleniyor.",
-      "link": "https://www.cumhuriyet.com.tr/spor/kisa-surede-istanbul-da-olmasi-bekleniyor-fenerbahce-yeni-teknik-direktorunu-buldu-2552391",
-      "published": "2026-11-02T06:51:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:35.218096+00:00"
-    },
-    {
-      "id": "82dda4605ac37daf",
-      "source": "Habertürk",
-      "title": "\"Herkes yapay zekayla şarkıcı oluyor\"",
-      "summary": "Funda Arar, yapay zeka ile üretilen şarkılara değinen ve canlı performansın önemini altını çizerek çizerek \"Herkes yapay zekayla şarkıcı, söz yazarı, besteci oldu. Ama sıra sahneye gelince iş değişir. Canlı performans, er meydanıdır\" ifadelerini kullandı",
-      "link": "https://www.haberturk.com/magazin/funda-arar-herkes-yapay-zeka-ile-sarkici-oluyor-3924224",
-      "published": "2026-11-02T06:50:35+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:00:55.961079+00:00"
-    },
-    {
-      "id": "c2b857f45fde5dae",
-      "source": "Sözcü",
-      "title": "DEM Parti'den Kent Uzlaşısı açıklaması",
-      "summary": "DEM Parti'den Kent Uzlaşısı açıklaması",
-      "link": "https://www.sozcu.com.tr/dem-parti-den-kent-uzlasisi-aciklamasi-p375096",
-      "published": "2026-11-02T06:50:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:38.105991+00:00"
-    },
-    {
-      "id": "903f954062058515",
-      "source": "OdaTV",
-      "title": "Kanser hastalarının hayatıyla oynayan vicdansızlara darbe... 650 milyon TL'lik sahte ilaç vurgununa 11 ilde eş zamanlı operasyon",
-      "summary": "Son kullanma tarihi geçmiş kanser ilaçlarının ambalaj ve kutularını değiştirerek hem yurt içinde hem de yurt dışında piyasaya süren vicdansız şebekeye dev operasyon düzenlendi. Soruşturma kapsamında, 3’ü kamu görevlisi toplam 24 şüpheli ve 650 milyon TL’lik şüpheli işlem hacmi tespit edildi.",
-      "link": "https://www.odatv.com/guncel/kanser-hastalarinin-hayatiyla-oynayan-vicdansizlara-darbe-650-milyon-tllik-sahte-ilac-vurgununa-11-ilde-es-zamanli-operasyon-120169268",
-      "published": "2026-11-02T06:50:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:46.005830+00:00"
-    },
-    {
-      "id": "f0174d0ec72bf323",
-      "source": "Ekonomim",
-      "title": "İş Bankası'ndan yurt dışında tahvil ve bono ihracı için yetkilendirme",
-      "summary": "Türkiye İş Bankası, yurt dışında 6 milyar dolara kadar tahvil veya bono, 3 milyar dolara kadar yeşil, sürdürülebilir ve sosyal tahvil ile finansman bonosu, 500 milyon euroya kadar ise ipotek teminatlı menkul kıymet ihracı için Genel Müdürlüğü yetkilendirdi.",
-      "link": "https://www.ekonomim.com/sirketler/is-bankasindan-yurt-disinda-tahvil-ve-bono-ihraci-icin-yetkilendirme-haberi-928485",
-      "published": "2026-11-02T06:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T07:01:09.390153+00:00"
-    },
-    {
-      "id": "77e6f247584198d9",
-      "source": "Ekonomim",
-      "title": "İş Bankası'ndan 3 milyar dolara kadar borçlanma aracı ihracı kararı",
-      "summary": "Türkiye İş Bankası, yurt dışında 3 milyar dolara kadar yeşil, sürdürülebilir ve sosyal tahvil ile finansman bonosu ihracı için Genel Müdürlüğü yetkilendirdi.",
-      "link": "https://www.ekonomim.com/sirketler/is-bankasindan-3-milyar-dolara-kadar-borclanma-araci-ihraci-karari-haberi-928485",
-      "published": "2026-11-02T06:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:54.165465+00:00"
-    },
-    {
-      "id": "f3a373e843429f36",
-      "source": "Finans Gündem",
-      "title": "Otomotiv sektöründe işte şirketlerin en önemli sorunu",
-      "summary": "OSS, \"2026 Yılı Üçüncü Çeyrek Sektörel Değerlendirme Anketi\"nin sonuçlarını paylaştı. Üyelerin yüzde 80,9'u nakit akışında yaşanan problemleri sektörün en önemli sorunları arasında gösterdi.",
-      "link": "https://www.finansingundemi.com/haber/otomotiv-sektorunde-iste-sirketlerin-en-onemli-sorunu/1913404",
-      "published": "2026-11-02T06:50:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T06:55:56.351328+00:00"
     }
   ]
 }

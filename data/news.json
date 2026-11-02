@@ -1,12 +1,34 @@
 {
-  "last_updated": "2026-11-02T00:01:27.012548+00:00",
+  "last_updated": "2026-11-02T00:06:00.893143+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 517,
+  "new_items_this_run": 518,
   "items": [
+    {
+      "id": "a5b319f08e2ae192",
+      "source": "Aydınlık",
+      "title": "İzmir Bayraklı’da toprak kayması: 3 bina boşaltıldı",
+      "summary": "Bayraklı’da temel kazısı yapılan inşaat alanında yaşanan toprak kaymasının ardından, güvenlik gerekçesiyle yakındaki üç binada yaşayan 14 kişi tahliye edildi. Kalacak yeri olmayanlar için misafirhane işlemleri başlatıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/izmir-bayraklida-toprak-kaymasi-3-bina-tahliye-edildi-597126",
+      "published": "2026-11-02T00:00:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T00:05:44.983502+00:00"
+    },
+    {
+      "id": "6e2c7ef9d9984e02",
+      "source": "BBC News Türkçe",
+      "title": "ABD ara seçimleri: Kim, nasıl kazanabilir ya da kaybedebilir?",
+      "summary": "Trump'ın başkanlığının son iki yılını belirleyecek olan seçim öncesinde, önemli anketlere, yarışlara ve meselelere derinlemesine bir analiz.",
+      "link": "https://www.bbc.com/turkce/articles/cj5ynrx0dgego?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T00:00:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T00:06:00.143678+00:00"
+    },
     {
       "id": "58c7f1e1e6aa737a",
       "source": "Yeni Akit",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-01T18:15:43.389867+00:00"
-    },
-    {
-      "id": "3b6af39733bb6bc4",
-      "source": "Cumhuriyet",
-      "title": "Bodrum FK'ye puanı Vincent Aboubakar getirdi!",
-      "summary": "Bodrum FK, TFF 1. Lig'in 13. haftasında kendi sahasında ağırladığı Ümraniyespor ile 1-1 berabere kaldı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/bodrum-fk-ye-puani-vincent-aboubakar-getirdi-2552283",
-      "published": "2026-11-01T18:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T18:15:40.993352+00:00"
-    },
-    {
-      "id": "a2870844ceb2c3ed",
-      "source": "Bir Gün",
-      "title": "Beşiktaş, deplasmanda yine kayıp",
-      "summary": "Beşiktaş, Süper Lig’in 10. haftasında Kasımpaşa karşısında 2-0 öne geçtiği maçtan 2-2 beraberlikle ayrıldı. Siyah-beyazlılar, bu sezon beşinci deplasman maçında dördüncü kez puan kaybetti.",
-      "link": "https://www.birgun.net/haber/besiktas-deplasmanda-yine-kayip-743891",
-      "published": "2026-11-01T18:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T19:45:40.012385+00:00"
     }
   ]
 }

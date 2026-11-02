@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-02T03:31:16.338049+00:00",
+  "last_updated": "2026-11-02T03:35:50.056963+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 507,
+  "new_items_this_run": 504,
   "items": [
+    {
+      "id": "84f686c015357a40",
+      "source": "OdaTV",
+      "title": "Afette zayi olan malların vergi hesabı",
+      "summary": "Yusuf İleri yazdı...",
+      "link": "https://www.odatv.com/yazarlar/yusuf-ileri/afette-zayi-olan-mallarin-vergi-hesabi-120169228",
+      "published": "2026-11-02T03:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-02T03:35:39.580789+00:00"
+    },
     {
       "id": "a96c10eadaffc354",
       "source": "Türkiye Gazetesi",
@@ -5486,26 +5497,15 @@
       "fetched_at": "2026-11-01T19:05:35.354886+00:00"
     },
     {
-      "id": "fc75177edf144a43",
-      "source": "Yeni Şafak",
-      "title": "Kütahya'da kamyonet ile hafif ticari aracın çarpıştığı kazada bir kişi öldü, üç kişi yaralandı",
-      "summary": "Kütahya'nın Altıntaş ilçesinde kamyonet ile hafif ticari aracın çarpışması sonucu bir kişi öldü, üç kişi yaralandı.",
-      "link": "https://www.yenisafak.com/gundem/kutahyada-kamyonet-ile-hafif-ticari-aracin-carpistigi-kazada-bir-kisi-oldu-uc-kisi-yaralandi-4868938",
+      "id": "4001fa90487b9b38",
+      "source": "DonanımHaber",
+      "title": "YouTube'da yeni sorun: Videolar tam ekrandan çıkıyor, ses kesiliyor!",
+      "summary": "Android ve iPhone kullanıcıları, YouTube mobil uygulamasında tam ekran izledikleri videoların mini oynatıcıya geçtiğini ve oynatma sırasında sesin kesildiğini bildirmeye başladı. İşte ayrıntılar:",
+      "link": "https://www.donanimhaber.com/youtube-sorunu-videolar-tam-ekrandan-cikiyor-ses-kesiliyor--212336",
       "published": "2026-11-01T19:00:00+00:00",
       "matched": false,
       "matched_keywords": [],
-      "fetched_at": "2026-11-01T19:55:37.208159+00:00"
-    },
-    {
-      "id": "4f29262cc49978cb",
-      "source": "Akşam",
-      "title": "Emre Belözoğlu'ndan Fenerbahçe açıklaması! \"Gönlümde yeri ayrı\"",
-      "summary": "Kasımpaşa Teknik Direktörü Emre Belözoğlu, Beşiktaş ile 2-2 berabere kaldıkları maçın ardından açıklamalarda bulundu.",
-      "link": "https://www.aksam.com.tr/spor/emre-belozoglundan-fenerbahce-aciklamasi-gonlumde-yeri-ayri/haber-1711003",
-      "published": "2026-11-01T19:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-01T19:10:48.251967+00:00"
+      "fetched_at": "2026-11-02T03:35:47.798000+00:00"
     }
   ]
 }

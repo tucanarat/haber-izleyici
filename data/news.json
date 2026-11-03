@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-03T01:16:05.767572+00:00",
+  "last_updated": "2026-11-03T01:21:09.208154+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 476,
+  "new_items_this_run": 475,
   "items": [
+    {
+      "id": "5f5d3b0c79c703a3",
+      "source": "BBC News Türkçe",
+      "title": "TÜİK ekim ayı enflasyon verilerini açıklayacak",
+      "summary": "Türkiye İstatistik Kurumu (TÜİK) bugün ekim ayı enflasyon verilerini açıklayacak",
+      "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T01:15:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T01:21:08.493569+00:00"
+    },
     {
       "id": "cb9212539b002448",
       "source": "Finans Gündem",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T21:40:46.567704+00:00"
-    },
-    {
-      "id": "0fa10ca8ea752a1b",
-      "source": "Cumhuriyet",
-      "title": "Altaylı '300 milyon liralık' borsa iddiasını yazdı: Ahmet Şık, Akın Gürlek'in avukatına işaret etti",
-      "summary": "Gazeteci Altaylı, bugünkü yazısında bir iş insanının, TFF üyeliğiyle de bilinen bir hukukçu tarafından Tera Yatırım üzerinden yapılması önerilen bir borsa işlemine dahil edilmek istendiğini yazdı. TİP milletvekili Ahmet Şık ise yaptığı paylaşımda, Bakan Gürlek'in avukatı Abdullah Adır'a işaret etti. İşte ayrıntılar...",
-      "link": "https://www.cumhuriyet.com.tr/siyaset/altayli-300-milyon-liralik-borsa-iddiasini-yazdi-ahmet-sik-akin-gurlek-in-avukatina-isaret-etti-2552652",
-      "published": "2026-11-02T19:34:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T19:40:46.004378+00:00"
     }
   ]
 }

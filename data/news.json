@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-11-03T16:25:59.120677+00:00",
+  "last_updated": "2026-11-03T16:31:17.718512+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 494,
+  "new_items_this_run": 490,
   "items": [
+    {
+      "id": "37cf897cb864026c",
+      "source": "Yeni Şafak",
+      "title": "Hafif ticari araç nehre yuvarlandı: Üç kişi yaralandı",
+      "summary": "Kahramanmaraş'ta sürücüsünün direksiyon hakimiyetini kaybettiği hafif ticari araç yoldan çıkarak Ceyhan Nehri’ne yuvarlandı.",
+      "link": "https://www.yenisafak.com/gundem/hafif-ticari-arac-nehre-yuvarlandi-uc-kisi-yaralandi-4869492",
+      "published": "2026-11-03T16:28:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T16:31:01.396960+00:00"
+    },
+    {
+      "id": "f745cc2fc2b1e64b",
+      "source": "Ekonomim",
+      "title": "Otomotivde \"rüya bitti, kabus başladı\" uyarısı: Kapanmalar yaşanabilir",
+      "summary": "Türkiye otomotiv pazarında ekim ayında satışlar yüzde 30,4 gerilerken, otomotiv gazetecisi Emre Özpeynirci sektördeki daralmanın daha ağır sonuçlar doğurabileceği uyarısında bulundu.",
+      "link": "https://www.ekonomim.com/sektorler/otomotiv/otomotivde-ruya-bitti-kabus-basladi-uyarisi-kapanmalar-yasanabilir-haberi-928916",
+      "published": "2026-11-03T16:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T16:31:11.333492+00:00"
+    },
+    {
+      "id": "0b498ceef14d0f5f",
+      "source": "Yeni Şafak",
+      "title": "Konya'da ezber bozan manzara: Yöresel kıyafetli kadınlar tüfekleriyle attıklarını tek seferde 12'den vuruyorlar",
+      "summary": "Konya'nın Beyşehir ilçesine bağlı yaklaşık bir asırlık av tüfeği üretim geleneğine sahip Huğlu Mahallesi'nde kadınlar, yöresel şalvarlı kıyafetleriyle poligona inerek trap atışı yapıyor. \"Kadınlar silah mı atar\" tabusunu yıkarak sayıları yüzleri bulan kadınlar, kendi aralarında ödüllü yarışmalar düzenleyip bölgedeki silah fabrikalarında da istihdam ediliyor.",
+      "link": "https://www.yenisafak.com/video/gundem/konyada-ezber-bozan-manzara-yoresel-kiyafetli-kadinlar-tufekleriyle-attiklarini-tek-seferde-12den-vuruyorlar-4869491",
+      "published": "2026-11-03T16:26:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T16:31:01.396986+00:00"
+    },
     {
       "id": "e63395cfd9e4d4cd",
       "source": "Karar",
@@ -17,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T16:25:40.974408+00:00"
+    },
+    {
+      "id": "7a8aac66840f2212",
+      "source": "Cumhuriyet",
+      "title": "19 yıllık ’mumya ceset’ cinayetinde 3 tutuklama",
+      "summary": "Mersin Cumhuriyet Başsavcılığı tarafından yeniden açılan soruşturma çerçevesinde 19 yıl önce bir evin avlusunda, etrafı tuğlalarla örülüp üzeri betonla kapatılmış dondurucunun içerisinde bulunan ’mumya ceset’ olarak bilinen cinayetle ilgili gözaltına alınan şüphelilerden 3’ü tutuklandı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/19-yillik-mumya-ceset-cinayetinde-3-tutuklama-2552994",
+      "published": "2026-11-03T16:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T16:30:54.186061+00:00"
     },
     {
       "id": "a455397d73586bc8",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T13:55:43.504179+00:00"
-    },
-    {
-      "id": "ad9c447f151bb766",
-      "source": "Bir Gün",
-      "title": "Şarkıcı İlyas Yalçıntaş hakkında tahliye kararı",
-      "summary": "'Uyuşturucu veya uyarıcı madde ticareti yapma veya sağlama' suçundan yargılanan şarkıcı İlyas Yalçıntaş'ın tahliyesine karar verildi. Duruşma 15 Aralık’a ertelendi.",
-      "link": "https://www.birgun.net/haber/sarkici-ilyas-yalcintas-hakkinda-tahliye-karari-744325",
-      "published": "2026-11-03T13:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T14:15:44.454400+00:00"
-    },
-    {
-      "id": "3f7a6b1088aa4017",
-      "source": "Finans Gündem",
-      "title": "Barclays’ten TL analizi: Rezerv baskısı artabilir",
-      "summary": "Barclays, TL’nin aylık değer kaybının ekimde yüzde 1.8’e yükseldiğini belirterek daha fazla hızlanmanın dolarizasyonu ve rezerv baskısını artırabileceği uyarısında bulundu.",
-      "link": "https://www.finansingundemi.com/haber/barclaysten-tl-analizi-rezerv-baskisi-artabilir/1913598",
-      "published": "2026-11-03T13:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T14:01:27.906931+00:00"
-    },
-    {
-      "id": "71ac18f2250fe410",
-      "source": "Akşam",
-      "title": "SAVTEK Dergi Kasım sayısı çıktı",
-      "summary": "Savunma sanayii, teknoloji ve strateji alanında gündemi şekillendiren SAVTEK Dergi, Kasım sayısıyla okuyucularıyla buluşuyor. Savunma teknolojilerinden millî mühendislik başarılarına, tarihî muharebelerden küresel güvenlik dengelerine kadar geniş bir perspektif sunan SAVTEK; Türkiye'nin savunma kapasitesini, teknolojik yetkinliklerini ve geleceğin harp sahasını kapsamlı analizlerle ele alıyor.",
-      "link": "https://www.aksam.com.tr/teknoloji/savtek-dergi-kasim-sayisi-cikti/haber-1711547",
-      "published": "2026-11-03T13:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T13:55:42.519176+00:00"
-    },
-    {
-      "id": "cb70f419841e8f18",
-      "source": "Karar",
-      "title": "2,2 milyar euroluk dev satışa AB onayı: MediaMarkt'ın çatı şirketi Çinli JD.com'a devrediliyor",
-      "summary": "Avrupa Komisyonu, MediaMarkt ve Saturn'un çatı şirketi Ceconomy'nin Çinli e-ticaret devi JD.com tarafından 2,2 milyar euroya satın alınmasına onay verdi. Türkiye'de 89 mağazası bulunan perakende devinin devriyle birlikte JD.com, Avrupa'daki 11 ülkede binden fazla mağazaya erişim sağlayarak Amazon ve Alibaba ile rekabette dev bir adım attı.",
-      "link": "https://www.karar.com/ekonomi-haberleri/22-milyar-euroluk-dev-satisa-ab-onayi-mediamarktin-cati-sirketi-cinli-2082184",
-      "published": "2026-11-03T13:51:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T13:55:44.282520+00:00"
     }
   ]
 }

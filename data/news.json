@@ -1,12 +1,320 @@
 {
-  "last_updated": "2026-11-03T06:26:00.792627+00:00",
+  "last_updated": "2026-11-03T06:31:26.240649+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 480,
+  "new_items_this_run": 485,
   "items": [
+    {
+      "id": "1f8cfb7bebfd4457",
+      "source": "CNBC-e",
+      "title": "Borsa İstanbul CANLI: Kritik enflasyon gününde pyasalar nasıl hareket ediyor?",
+      "summary": "Borsa İstanbul'da kritik enflasyon günü! BIST 100, BIST 30, bankacılık ve sanayi endekslerinde son durum, Borsa İstanbul'da günün öne çıkan hisse senetleri, sektör endeksleri, BIST açılış ve kapanış verileri, borsada yükselen ve düşen hisseler ile piyasalardaki anlık gelişmeler canlı haberimizde.",
+      "link": "https://www.cnbce.com/borsa/borsa-istanbul-canli-kritik-enflasyon-gununde-pyasalar-nasil-hareket-ediyor-3-kasim-2026-h40878",
+      "published": "2026-11-03T06:31:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:16.674797+00:00"
+    },
+    {
+      "id": "bbfbd5da7b6b40af",
+      "source": "ShiftDelete.Net",
+      "title": "iPhone Duo sevkiyat gecikmesi ne zaman bitecek?",
+      "summary": "Apple COO'su Sabih Khan, mali yılın dördüncü çeyrek toplantısında iPhone Duo sevkiyat gecikmesi için net bir takvim vermedi. Bellek maliyetleri de gündemdeydi.",
+      "link": "https://shiftdelete.net/iphone-duo-sevkiyat-gecikmesi-ne-zaman-bitecek",
+      "published": "2026-11-03T06:29:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:19.829568+00:00"
+    },
+    {
+      "id": "370b25061ec53c14",
+      "source": "ShiftDelete.Net",
+      "title": "Quick Share ile otomatik yedekleme geliyor",
+      "summary": "Google, Android telefonlardaki fotoğraf ve videoları Windows PC'ye aktaran Quick Share otomatik yedekleme özelliğini kasım notlarında duyurdu. Özellik kademeli olarak yayılıyor.",
+      "link": "https://shiftdelete.net/quick-share-otomatik-yedekleme-android-windows",
+      "published": "2026-11-03T06:29:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:19.829602+00:00"
+    },
+    {
+      "id": "dee7579c0a916eca",
+      "source": "ShiftDelete.Net",
+      "title": "Apple 99 ülkede casus yazılım uyarısı gönderdi",
+      "summary": "Apple casus yazılım uyarısı bu kez 99 ülkedeki kullanıcılara gönderildi. Almanya'da milletvekilleri ve hükümet yetkililerinin hedef alınmış olabileceği iddiaları soruşturuluyor.",
+      "link": "https://shiftdelete.net/apple-casus-yazilim-uyarisi-99-ulke",
+      "published": "2026-11-03T06:29:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:19.829631+00:00"
+    },
+    {
+      "id": "aa56076faa95195e",
+      "source": "ShiftDelete.Net",
+      "title": "Apple yeni zam sorusuna net yanıt vermedi",
+      "summary": "Apple CEO'su John Ternus, bellek fiyatlarındaki artışın Aralık çeyreğinde hızlanacağını söyledi. Apple bellek maliyeti nedeniyle brüt kar marjında düşüş bekliyor.",
+      "link": "https://shiftdelete.net/apple-bellek-maliyeti-aralik-ceyregi-zam",
+      "published": "2026-11-03T06:29:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:19.829656+00:00"
+    },
+    {
+      "id": "1547632fb46806f1",
+      "source": "Cumhuriyet",
+      "title": "AKOM'dan İstanbul için yarın uyarısı: Hava bir anda değişecek",
+      "summary": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), 4 Kasım Çarşamba günü için dikkat çeken bir hava durumu uyarısı yayımladı. İstanbul'da yarın kuvvetli gök gürültülü sağanak yağış beklenirken, hava sıcaklıklarının da belirgin şekilde düşeceği tahmin ediliyor.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/akom-dan-istanbul-icin-yarin-uyarisi-hava-bir-anda-degisecek-2552708",
+      "published": "2026-11-03T06:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:54.659572+00:00"
+    },
+    {
+      "id": "7f0bc77ad03e32a1",
+      "source": "Akşam",
+      "title": "MİT ve emniyetten 10 ilde FETÖ kıskacı! 14 şüpheli yakalandı",
+      "summary": "Ankara Cumhuriyet Başsavcılığı koordinesinde, FETÖ/PDY silahlı terör örgütünün kamu mahrem yapılanmasına yönelik Ankara merkezli 10 ilde eş zamanlı operasyon düzenlendi. Milli İstihbarat Teşkilatı (MİT) ve Ankara İl Emniyet Müdürlüğü Terörle Mücadele Şube Müdürlüğünce yürütülen çalışmalar kapsamında, haklarında gözaltı kararı verilen 14 şüphelinin tamamı yakalanarak gözaltına alındı.",
+      "link": "https://www.aksam.com.tr/guncel/mit-ve-emniyetten-10-ilde-feto-kiskaci-14-supheli-yakalandi/haber-1711339",
+      "published": "2026-11-03T06:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.683449+00:00"
+    },
+    {
+      "id": "878efa96ecde55d5",
+      "source": "Diken",
+      "title": "Kozinoğlu soruşturması: Saç ve tırnaklarda yüksek oranda toksik madde tespit edildi",
+      "summary": "Kozinoğlu soruşturması: Saç ve tırnaklarda yüksek oranda toksik madde tespit edildi 03.11.2026 Diken Eski Milli İstihbarat Teşkilatı (MİT) görevlisi Kaşif Kozinoğlu hakkındaki soruşturmada otopsi ve laboratuvar ön raporu ortaya çıktı. The post Kozinoğlu soruşturması: Saç ve tırnaklarda yüksek oranda toksik madde tespit edildi appeared first on #site_linkat 03.11.2026 .",
+      "link": "https://www.diken.com.tr/kozinoglu-sorusturmasi-sac-ve-tirnaklarda-yuksek-oranda-toksik-madde-tespit-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=kozinoglu-sorusturmasi-sac-ve-tirnaklarda-yuksek-oranda-toksik-madde-tespit-edildi",
+      "published": "2026-11-03T06:28:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:06.914572+00:00"
+    },
+    {
+      "id": "ce3a00c65ac9bc1d",
+      "source": "Milliyet",
+      "title": "Eyalette 30 yıl sonra bir ilk: Salgın can aldı, sağlık politikaları sorgulanıyor",
+      "summary": "HABER MERKEZİ/ AFP’nin haberine göre, New York eyaletinde kızamığa yakalanan bir çocuk yaşamını yitirdi. Yetkililer tarafından Pazartesi günü yapılan açıklamaya göre bu durum, eyalette son 30 yılda kızamık kaynaklı kaydedilen ilk ölüm vakası oldu. İlçe ve eyalet sağlık yetkililerinden alınan bilgiye göre vaka, New York'un kuzey bölgesinde yer alan Lewis County'de meydana geldi. WASHINGTON'A ELEŞTİ",
+      "link": "https://www.milliyet.com.tr/dunya/eyalette-30-yil-sonra-bir-ilk-salgin-can-aldi-saglik-politikalari-sorgulaniyor-7693045",
+      "published": "2026-11-03T06:28:50+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.179236+00:00"
+    },
+    {
+      "id": "b8f0fa514ed778f3",
+      "source": "Milliyet",
+      "title": "ABD SEÇİMLERİ SON DURUM: Dünyanın gözü ABD ara seçimlerinde! Trump'ın zorlu sınavı: 'Kritik yarışta tarihi ihtimal'",
+      "summary": "HABER MERKEZİ / ABD'de milyonlarca seçmen, Başkan Donald Trump'ın görev süresinin kalan iki yılında Washington'daki siyasi dengeleri belirleyecek Kongre ara seçimleri için bugün sandık başına gidiyor. Temsilciler Meclisi ve Senato'daki çoğunluk mücadelesinde gözler kritik eyaletlere çevrilirken, Michigan'daki yarış ABD tarihinde bir ilke sahne olabilir. KONGRE'DE ÇOĞUNLUK YARIŞI KIZIŞTI Bugün gerç",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-dunyanin-gozu-abd-secimlerinde-trumpin-zorlu-sinavi-kritik-yarista-tarihi-ihtimal-7693042",
+      "published": "2026-11-03T06:28:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.179607+00:00"
+    },
+    {
+      "id": "04fa9c09a95055ed",
+      "source": "Serbestiyet",
+      "title": "ABD seçimleri erkeklik yarışına döndü",
+      "summary": "ABD’deki 3 Kasım ara seçimleri sürecinde Demokrat Parti bir yükseliş yakalamış gibi görünüyor. Eleştiri ise şu yönde: Demokrat Partili siyasetçilerin büyük bir kısmı, seçmenlere yeterince erkeksi gelmiyor. ABD seçimleri erkeklik yarışına döndü yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
+      "link": "https://serbestiyet.com/gunun-yazilari/abd-secimleri-erkeklik-yarisina-dondu-252736/",
+      "published": "2026-11-03T06:28:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:10.386446+00:00"
+    },
+    {
+      "id": "b42d75d04136db99",
+      "source": "Cumhuriyet",
+      "title": "Artış sürüyor: ENAG ekim ayı enflasyonunu açıkladı",
+      "summary": "ENAG, Ekim 2026 enflasyon verilerini açıkladı. Buna göre aylık enflasyon yüzde 2,68, yıllık enflasyon ise yüzde 45,12 oldu.",
+      "link": "https://www.cumhuriyet.com.tr/ekonomi/artis-suruyor-enag-ekim-ayi-enflasyonunu-acikladi-2552707",
+      "published": "2026-11-03T06:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:54.659605+00:00"
+    },
+    {
+      "id": "fcd10e52742eae07",
+      "source": "Akşam",
+      "title": "A Milli Erkek Hentbol Takımı'nın rakibi Avusturya",
+      "summary": "A Milli Erkek Hentbol Takımı, 2028 Avrupa Şampiyonası Elemeleri 2. Grup'taki ilk maçında yarın Avusturya ile karşı karşıya gelecek.",
+      "link": "https://www.aksam.com.tr/spor/a-milli-erkek-hentbol-takiminin-rakibi-avusturya/haber-1711338",
+      "published": "2026-11-03T06:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.683482+00:00"
+    },
+    {
+      "id": "da5855e1601ff87c",
+      "source": "Yeni Akit",
+      "title": "Rusya duyurdu: Türk uçakları peş peşe geri döndü",
+      "summary": "Rusya Federal Hava Taşımacılığı Ajansı, Türkiye'den kalkış yapan bazı uçakların geri dönmek zorunda kaldığını bildirdi.",
+      "link": "https://www.yeniakit.com.tr/haber/rusya-duyurdu-turk-ucaklari-pes-pese-geri-dondu-2031532.html",
+      "published": "2026-11-03T06:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:03.228128+00:00"
+    },
+    {
+      "id": "fa8bb6fc35fc3bbf",
+      "source": "Karar",
+      "title": "İş insanı Ahmet Nazif Zorlu’nun cenaze programı belli oldu",
+      "summary": "Zorlu Holding Yönetim Kurulu Başkanı ve Vestel’in sahibi Ahmet Nazif Zorlu’nun cenaze programı belli oldu. Kanser tedavisi gördüğü hastanede 82 yaşında hayatını kaybeden Zorlu, 4 Kasım Çarşamba günü İstanbul’da son yolculuğuna uğurlanacak. Zorlu’nun isteği doğrultusunda cenazeye çelenk gönderilmemesi, bunun yerine sivil toplum kuruluşlarına bağış yapılması istendi.",
+      "link": "https://www.karar.com/guncel-haberler/is-insani-ahmet-nazif-zorlunun-cenaze-programi-belli-oldu-2082053",
+      "published": "2026-11-03T06:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:04.180085+00:00"
+    },
+    {
+      "id": "b17f0177c4cf34f0",
+      "source": "Yeni Yaşam",
+      "title": "Av. Zîlan Esen: Cezasızlık şiddeti besliyor, zihniyet dönüşümü şart",
+      "summary": "Amed Barosu Kadın Hakları Merkezi Temsilcisi Avukat Zilan Esen, kadın katliamları ve cezasızlık politikalarına karşı zihniyet dönüşümünün ve toplumsal dayanışmanın şart olduğunu vurguladı. Amed Barosu Kadın Hakları Merkezi Temsilcisi Avukat Zilan Esen, kadın katliamlarının yapısal nedenlerini, devletin sorumluluğunu, Kürdistan’daki özgün koşulları ve kadınların ortak mücadele olanaklarını değerlen",
+      "link": "https://yeniyasamgazetesi10.com/av-zilan-esen-cezasizlik-siddeti-besliyor-zihniyet-donusumu-sart/",
+      "published": "2026-11-03T06:27:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:12.687233+00:00"
+    },
+    {
+      "id": "40a98a62ddac157d",
+      "source": "Yeni Şafak",
+      "title": "Arkadaşlık uygulamasıyla dolandırıcılık: Banka hesaplarını boşaltan 8 şüpheliye gözaltı",
+      "summary": "Ankara merkezli 3 ilde, arkadaşlık uygulaması üzerinden tanıştıkları kişilerin telefon şifrelerini öğrenip cep telefonlarını çaldıktan sonra banka hesaplarındaki paraları başka hesaplara aktardıkları belirlenen suç örgütüne yönelik düzenlenen operasyonda, 1'i örgüt yöneticisi 8 şüpheli gözaltına alındı.",
+      "link": "https://www.yenisafak.com/gundem/arkadaslik-uygulamasiyla-dolandiricilik-banka-hesaplarini-bosaltan-8-supheliye-gozalti-4869311",
+      "published": "2026-11-03T06:27:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:02.528351+00:00"
+    },
+    {
+      "id": "e0b1e081e6576918",
+      "source": "Akşam",
+      "title": "Koskoca pistte birbirlerine girdiler: Dünyanın zirvesinde helikopter faciası",
+      "summary": "Nepal'de Everest Dağı yakınlarındaki helikopter pistine aynı anda iniş yapmaya çalışan iki helikopterin çarpışması sonucu 1 turist hayatını kaybetti, 3 kişi yaralandı.",
+      "link": "https://www.aksam.com.tr/dunya/koskoca-pistte-birbirlerine-girdiler-dunyanin-zirvesinde-helikopter-faciasi/haber-1711337",
+      "published": "2026-11-03T06:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.683512+00:00"
+    },
+    {
+      "id": "7bc8914f54109b0a",
+      "source": "Star",
+      "title": "Otopsi raporu tamamlandı! Kozinoğlu'nun mezarından zehir çıktı",
+      "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun şüpheli ölümüne ilişkin yürütülen soruşturma kapsamında mezarından alınan örneklerin incelemesi tamamlandı. Kozinoğlu'nun saçında ve tırnağında toksik madde tespit edildi.",
+      "link": "https://www.star.com.tr/guncel/otopsi-raporu-tamamlandi-kozinoglunun-mezarindan-zehir-cikti-haber-2050807/",
+      "published": "2026-11-03T06:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:02.806417+00:00"
+    },
+    {
+      "id": "c22569e4744f592c",
+      "source": "Milliyet",
+      "title": "Annesi hemşire, kızı doktor! Denizli'de yürekleri ısıtan mesai",
+      "summary": "Merkezefendi İlçe Sağlık Müdürlüğü'ne bağlı Değirmenönü Aile Sağlığı Merkezi'nde Dr. Beyza Nur Süslüoğlu Kalpalı'nın göreve başlamasıyla birlikte anlamlı bir mesai birlikteliği hayata geçirildi. Anne ve kızın aynı sağlık merkezinde görev yapacak olması, mesai arkadaşları ve hastalar tarafından memnuniyetle karşılandı. İlginizi Çekebilir OMUZ OMUZA ÇALIŞACAK OLMANIN GURURUNU YAŞIYORLAR Meslek hayat",
+      "link": "https://www.milliyet.com.tr/gundem/annesi-hemsire-kizi-doktor-denizlide-yurekleri-isitan-mesai-7693066",
+      "published": "2026-11-03T06:26:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.180207+00:00"
+    },
+    {
+      "id": "55ac0f4ffeaa5ac5",
+      "source": "Cumhuriyet",
+      "title": "AVCI ile tespit edildiler... Telegram'daki yasa dışı bahis ağlarına 39 ilde operasyon",
+      "summary": "İstanbul merkezli 39 ilde, Telegram üzerinden yasa dışı bahis ve kumar faaliyetleri yürüttüğü belirlenen şüphelilere yönelik eş zamanlı operasyon düzenlendi. Yapay zekâ destekli AVCI programıyla tespit edilen 194 şüphelinin yakalanması için gerçekleştirilen operasyonlarda adreslerde arama ve el koyma işlemleri yapıldı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/avci-ile-tespit-edildiler-telegram-daki-yasa-disi-bahis-aglarina-39-ilde-operasyon-2552705",
+      "published": "2026-11-03T06:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:54.659642+00:00"
+    },
+    {
+      "id": "5fc3bc9a26bd1df4",
+      "source": "Cumhuriyet",
+      "title": "Son dakika... Kripto platformuna 5 ilde operasyon: 4,3 milyar TL’lik para trafiği mercek altında!",
+      "summary": "Son dakika haberi... İstanbul Cumhuriyet Başsavcılığı, Magician Of Meta Kripto Varlık Alım Satım Platformu A.Ş. hakkında yürütülen soruşturmada, şirket hesaplarına 2023’ten bu yana 4 milyar 301 milyon TL para girişi, 3 milyar 990 milyon TL ise para çıkışı tespit edildiğini açıkladı. Para hareketlerine ilişkin 19 şüpheli hakkında İstanbul merkezli 5 ilde eş zamanlı operasyon düzenlendi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kripto-platformuna-5-ilde-operasyon-4-3-milyar-tl-lik-para-trafigi-mercek-altinda-2552706",
+      "published": "2026-11-03T06:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:54.659682+00:00"
+    },
+    {
+      "id": "a0fda507dcbdea3b",
+      "source": "Akşam",
+      "title": "3 Kasım 2026 burç yorumları: Yanlış anlaşılmalara dikkat!",
+      "summary": "Aşk, sağlık ve iş konularında 3 Kasım 2026 burç yorumları araştırılıyor. Peki, astroloji kime, hangi mesajı veriyor? 3 Kasım Salı, ilişkilerde iletişimin, iş hayatında planlı hareket etmenin ve kişisel hedefleri yeniden değerlendirmenin öne çıktığı bir gün olarak yorumlanabilir. İşte 3 Kasım Salı burç yorumları…",
+      "link": "https://www.aksam.com.tr/mor-papatya/3-kasim-2026-burc-yorumlari-yanlis-anlasilmalara-dikkat/haber-1711336",
+      "published": "2026-11-03T06:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.683569+00:00"
+    },
+    {
+      "id": "34f4ecb5bbbe0d19",
+      "source": "OdaTV",
+      "title": "Fon soruşturmasında Ömer Ejder'den 700 milyonluk iade... 'Bilmeden oldu'",
+      "summary": "İstanbul Cumhuriyet Başsavcılığının fon manipülasyonu soruşturmasında TMSF&#039;ye yapılan para iadeleri 18,34 milyar liraya ulaştı. Para iadesi yapan Aura Sarraf&#039;ın kurucularından Ömer Ejder, &quot;Bilerek veya bilmeyerek bir şey yaptıysam TMSF&#039;ye ödeme yapmaya hazırım&quot; ifadelerini kullandığı öğrenildi.",
+      "link": "https://www.odatv.com/ekonomi/fon-sorusturmasinda-omer-ejderden-700-milyonluk-iade-bilmeden-oldu-120169430",
+      "published": "2026-11-03T06:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:06.326709+00:00"
+    },
+    {
+      "id": "272719d7d5045b4e",
+      "source": "CNBC-e",
+      "title": "Avrupa'nın kritik mineral arayışında yeni adres: Kazakistan ve Özbekistan",
+      "summary": "Avrupa ülkelerinin, kritik mineral tedarikini çeşitlendirmek için Orta Asya'ya yöneldiği belirtildi. Almanya'nın Kazakistan'da 500 milyon dolara ulaşabilecek lityum projesi gündemdeyken, Özbekistan ham madde ihracatı yerine katma değerli üretimi artırmayı hedeflediği aktarıldı.",
+      "link": "https://www.cnbce.com/haberler/avrupanin-kritik-mineral-arayisinda-yeni-adres-kazakistan-ve-ozbekistan-h40877",
+      "published": "2026-11-03T06:25:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:16.674838+00:00"
+    },
+    {
+      "id": "a6546dfa174a3dc1",
+      "source": "Milliyet",
+      "title": "Son dakika... Kaşif Kozinoğlu'nun ölümünde suikast şüphesi güçlendi",
+      "summary": "Ayrıntılar geliyor...",
+      "link": "https://www.milliyet.com.tr/gundem/son-dakika-kasif-kozinoglunun-olumunde-suikast-suphesi-guclendi-7693067",
+      "published": "2026-11-03T06:25:58+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.180228+00:00"
+    },
+    {
+      "id": "9be3aa77d66efbf7",
+      "source": "Cumhuriyet",
+      "title": "Şarkıcı Derya Uluğ ile Asil Gök'ün düğün tarihi belli oldu: Nikah masasına oturuyorlar",
+      "summary": "Uzun süredir aşk yaşayan şarkıcı Derya Uluğ ile müzisyen Asil Gök'ün düğün tarihi netleşti.",
+      "link": "https://www.cumhuriyet.com.tr/magazin/sarkici-derya-ulug-ile-asil-gok-un-dugun-tarihi-belli-oldu-nikah-masasina-oturuyorlar-2552704",
+      "published": "2026-11-03T06:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:54.659707+00:00"
+    },
+    {
+      "id": "b2a540b10bdd9052",
+      "source": "OdaTV",
+      "title": "39 ilde 151 şüpheli yakalandı: Yapay zeka destekli AVCI ile bahis ağına operasyon",
+      "summary": "İstanbul merkezli 39 ilde yasa dışı bahis faaliyetlerine yönelik düzenlenen operasyonlarda 151 şüpheli yakalandı. Mesajlaşma platformlarındaki bahis gruplarının tespitinde yapay zeka destekli AVCI projesinden yararlanıldı.",
+      "link": "https://www.odatv.com/guncel/istanbul-merkezli-39-ilde-yasa-disi-bahis-operasyonu-120169433",
+      "published": "2026-11-03T06:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:06.326746+00:00"
+    },
     {
       "id": "57f90b6d9e94b3c4",
       "source": "Karar",
@@ -52,6 +360,17 @@
       "fetched_at": "2026-11-03T06:25:42.364356+00:00"
     },
     {
+      "id": "d3f6a37c154e3a8f",
+      "source": "Türkiye Gazetesi",
+      "title": "Liderlerden Türkiye mesajı yağdı!",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın Güney Kore yolculuğu sırasında üç ülkeyle diplomasi trafiği yaşandı. Erdoğan'ın uçaktan gönderdiği selam ve tebrik mesajları Kazakistan, Gürcistan ve Azerbaycan'a ulaştı. Kazakistan Cumhurbaşkanı Kasım Cömert Tokayev ile Gürcistan Cumhurbaşkanı Mihail Kavelaşvili, Erdoğan'ın mesajlarını sosyal medya hesaplarından duyurarak Türkiye ile ilişkilerine ilişkin açık",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/cumhurbaskani-erdoganin-ucagi-hava-sahalarindan-gecti-liderlerden-turkiye-mesaji-yagd-1826813",
+      "published": "2026-11-03T06:23:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:57.138769+00:00"
+    },
+    {
       "id": "b5ab43ce651b9d69",
       "source": "Türkiye Gazetesi",
       "title": "Cumhurbaşkanı Erdoğan'ın uçağı hava sahalarından geçti, liderlerden Türkiye mesajı yağdı!",
@@ -61,6 +380,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T06:25:37.051778+00:00"
+    },
+    {
+      "id": "9ed1774b25e50f04",
+      "source": "Milliyet",
+      "title": "Sermaye piyasası işlemlerine ilişkin soruşturmada Korkmaz Enes Ergun tutuklandı",
+      "summary": "İstanbul Cumhuriyet Başsavcılığınca, sermaye piyasalarındaki işlemlere ilişkin yürütülen fon soruşturması sürüyor. Soruşturma kapsamında \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"rüşvet\" suçlarını işlediği iddiasıyla gözaltına alınarak İstanbul Adliyesi'ne sevk edilen eski Borsa İstanbul AŞ Genel Müdürü Ergun'un sulh ceza hakimliğindeki işlemleri tamamlandı. Hakimlik, Ergun'un tutuklanmas",
+      "link": "https://www.milliyet.com.tr/gundem/sermaye-piyasasi-islemlerine-iliskin-sorusturmada-korkmaz-enes-ergun-tutuklandi-7693063",
+      "published": "2026-11-03T06:23:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:01.180278+00:00"
+    },
+    {
+      "id": "b94ee50979f13155",
+      "source": "OdaTV",
+      "title": "Kadir Ezildi temizliğe geri dönüyor: Hangi kanalda yayınlanacak",
+      "summary": "Temizlik programlarıyla ünlenen Kadir Ezildi&#039;nin, eski formatına geri döneceği ortaya çıktı. Tv8&#039;de programa başlayacak Ezildi &quot;Özlediğiniz için kaldığımız yerden temizliğimize devam ediyoruz&quot; dedi.",
+      "link": "https://www.odatv.com/medya/kadir-ezildi-temizlige-geri-donuyor-hangi-kanalda-yayinlanacak-en-hamarat-benim-neden-kaldirildi-yerine-kim-getirildi-kadir-ezildi-tv8-yeni-program-120169434",
+      "published": "2026-11-03T06:23:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:06.326776+00:00"
     },
     {
       "id": "05addf3c29a1d60e",
@@ -160,6 +501,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T06:25:37.051876+00:00"
+    },
+    {
+      "id": "89b3a61b76e25d1b",
+      "source": "Ekonomim",
+      "title": "Avrupa Birliği kışa 2013'ten beri görülen en düşük gaz stok seviyeleriyle giriyor",
+      "summary": "Küresel doğal gaz arz güvenliğine yönelik riskler devam ederken Avrupa Birliği (AB), kış dönemine 2013&#039;ten beri görülen en düşük doğal gaz stok seviyeleriyle giriyor.",
+      "link": "https://www.ekonomim.com/sektorler/enerji/avrupa-birligi-kisa-2013ten-beri-gorulen-en-dusuk-gaz-stok-seviyeleriyle-giriyor-haberi-928729",
+      "published": "2026-11-03T06:21:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:31:14.617038+00:00"
     },
     {
       "id": "90a2cff9b28d5679",
@@ -292,6 +644,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T06:20:47.615610+00:00"
+    },
+    {
+      "id": "7d144e0764e95786",
+      "source": "Evrensel",
+      "title": "Denizli'de kayıp kadının cansız bedeni bulundu",
+      "summary": "Denizli'nin Acıpayam ilçesinde kayıp olarak aranan 55 yaşındaki Güldane Acar’ın cansız bedenine ulaşıldı.",
+      "link": "https://www.evrensel.net/haber/6007755/denizlide-kayip-kadinin-cansiz-bedeni-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-03T06:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:57.833979+00:00"
     },
     {
       "id": "01334d9189a5f83d",
@@ -1097,6 +1460,17 @@
       "fetched_at": "2026-11-03T06:10:40.449878+00:00"
     },
     {
+      "id": "3aad0a7e3ce812ad",
+      "source": "Evrensel",
+      "title": "Kaşif Kozinoğlu'nun ölümünde 15 yıl sonra zehirlenme şüphesi: Mezarından alınan örneklerde antimon bulundu",
+      "summary": "2011 yılında cezaevindeyken ölen eski MİT yöneticisi Kaşif Kozinoğlu'nun mezarından alınan örneklerde, toprakta bulunmayan antimon maddesi saç, tırnak, doku ve kemiklerde tespit edildi.",
+      "link": "https://www.evrensel.net/haber/6007754/kasif-kozinoglunun-olumunde-15-yil-sonra-zehirlenme-suphesi-mezarindan-alinan-orneklerde-antimon-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-03T06:04:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:57.834107+00:00"
+    },
+    {
       "id": "803e65deff381542",
       "source": "Ekonomim",
       "title": "Meta, yapay zeka yatırımlarını finanse etmek için 20 milyar dolar arıyor",
@@ -1381,6 +1755,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T05:55:38.736918+00:00"
+    },
+    {
+      "id": "f6324bb3dd3d544f",
+      "source": "Hürriyet",
+      "title": "Hem torbacılara hem sahte para şebekesine baskın: 46 kişi için düğmeye basıldı",
+      "summary": "Bakırköy Cumhuriyet Başsavcılığı'nın talimatıyla İstanbul'daki sokak satıcıları ile 3 ilde piyasaya sahte TL, dolar ve euro süren şüphelilere yönelik eş zamanlı operasyon düzenlendi. Narkotik polisi ve jandarma ekiplerinin çok sayıda adrese düzenlediği baskınlar sürüyor.",
+      "link": "https://www.hurriyet.com.tr/gundem/hem-torbacilara-hem-sahte-para-sebekesine-baskin-46-kisi-icin-dugmeye-basildi-43363919",
+      "published": "2026-11-03T05:54:43+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T06:30:59.843453+00:00"
     },
     {
       "id": "39228f03a8498630",
@@ -5121,391 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T03:46:08.126245+00:00"
-    },
-    {
-      "id": "7dc46bb9fcd4c235",
-      "source": "Bir Gün",
-      "title": "Ankara-Bakü hattındaki krizin yapısal dinamikleri üzerine",
-      "summary": "Ankara ve Bakü arasındaki “kardeşlik”, en çetin diplomatik krizlerinden birini yaşıyor. Krizin daha ne kadar tırmanacağı ve nasıl sona ereceği meçhul. Öte yandan, iki ülke arasında uzun zamandır halının altına süpürülen çelişkilerin bugün patlaması belki de rastlantı değil. Bilindiği gibi krizin görünür nedeni, Azerbaycan Bakanlar Kurulu’nun 21 Eylül 2026‘da devlet okullarındaki kılık-kıyafet kura",
-      "link": "https://www.birgun.net/makale/ankara-baku-hattindaki-krizin-yapisal-dinamikleri-uzerine-744148",
-      "published": "2026-11-03T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:40:44.396955+00:00"
-    },
-    {
-      "id": "fa87d6082d9f141d",
-      "source": "Bir Gün",
-      "title": "29 can kaybının sorumlusu kim?",
-      "summary": "Gayrettepe’deki gece kulübü faciasında üçüncü rapor da ihmallere işaret etti. Dava çözümden uzaklaşan bir girdaba dönüştü. Onlarca bilirkişi, 3 bilirkişi raporu, 16 duruşma, 22 sanık… Bu sayılar arasında adalet aranıyor.",
-      "link": "https://www.birgun.net/makale/29-can-kaybinin-sorumlusu-kim-744145",
-      "published": "2026-11-03T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:40:44.396988+00:00"
-    },
-    {
-      "id": "05b18b57955e8979",
-      "source": "Bir Gün",
-      "title": "Ülke sorunlarını kaç ille çözeriz?",
-      "summary": "Gündem belirlemek, saptırmak, gerçeği karartmak iktidar blokunun en temel mesailerinden biri oldu. Halk itirazını ortak bir mücadele zemininde birleştirmezsek, siyaset halkın gündemine dönmeyecektir.",
-      "link": "https://www.birgun.net/makale/ulke-sorunlarini-kac-ille-cozeriz-744142",
-      "published": "2026-11-03T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:40:44.397017+00:00"
-    },
-    {
-      "id": "7770c5c67ec26a1c",
-      "source": "Bir Gün",
-      "title": "Z kuşağı isyanı",
-      "summary": "Eğitimden barınmaya, ekonomik güvencesizlikten ekolojik kaygılara uzanan sorunlar, Z kuşağını sokağa çıkarıyor. Avrupa’da da yayılan gençlik isyanları, mevcut düzene itirazı büyütürken Türkiye’de gençlerin değişim mücadelesini hangi dinamiklerin şekillendireceği sorusunu gündeme getiriyor.",
-      "link": "https://www.birgun.net/makale/z-kusagi-isyani-744137",
-      "published": "2026-11-03T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:01:06.076833+00:00"
-    },
-    {
-      "id": "bc27d5e7cfb03671",
-      "source": "Bir Gün",
-      "title": "Raşit Hoca, hocam, arkadaşım…",
-      "summary": "Bir seriye dönüşen dünyanın seçimleri yazılarıma ABD ’deki ara seçimle, dünyanın seçimleri söz konusu olduğunda “ana seçim” de diyebileceğimiz bir seçimle devam etmek için bilgisayar başına oturdum. Kısacık bir mesaj gelip yüreğime saplandı: Raşit Hoca’yı kaybettik! Önümdeki seçim notları karardı, gözümün önündeki her şey silindi. Helga ile acı bir “ Offff !” çekerek “ Son günlerinde yeterince yan",
-      "link": "https://www.birgun.net/makale/rasit-hoca-hocam-arkadasim-744135",
-      "published": "2026-11-03T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:01:06.077071+00:00"
-    },
-    {
-      "id": "7be9f23a53633893",
-      "source": "OdaTV",
-      "title": "CIA’dan neoliberal tarihçiliğe... Devrimci mücadeleyi kişilik sorununa dönüştürmek: Sol'un tarihine ideolojik ameliyat",
-      "summary": "Soner Yalçın yazdı...",
-      "link": "https://www.odatv.com/yazarlar/soner-yalcin/devrimci-mucadeleyi-kisilik-sorununa-donusturmek-solun-tarihine-ideolojik-ameliyat-120169337",
-      "published": "2026-11-03T01:55:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:01:11.562174+00:00"
-    },
-    {
-      "id": "10fd5cec90750f18",
-      "source": "Bir Gün",
-      "title": "Fon skandalının ağır faturası: AKP'de oy kaybı başladı",
-      "summary": "Fon vurgununun ardından başlayan tasfiye süreci borsada 6,4 trilyon liralık değer kaybına yol açarken krizin siyasi etkileri de ortaya çıkıyor. İktidara yakın GENAR'ın araştırmasına göre AKP'nin oyları yüzde 3 geriledi. Cumhur İttifakı seçmeninin yaklaşık yüzde 20'sinin tercihi de krizden etkilenebilir.",
-      "link": "https://www.birgun.net/haber/fon-skandalinin-agir-faturasi-akp-de-oy-kaybi-basladi-744143",
-      "published": "2026-11-03T01:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:40:44.397307+00:00"
-    },
-    {
-      "id": "acf7cb38fb88d48b",
-      "source": "Bir Gün",
-      "title": "A101 işçileri hakları için sokakta: 11 ilde eş zamanlı eylem",
-      "summary": "Düşük ücretlere ve ağır çalışma koşullarına karşı örgütlenen A101 çalışanları, temel ihtiyaçlarının karşılanması talebiyle bugün 15 mağazanın önünde buluşacak. DİSK'e bağlı Sosyal-İş Sendikası, ücretsiz içme suyu, yeterli yemek ücreti ve oturarak çalışma hakkı için yürütülen mücadeleye destek çağrısı yaptı.",
-      "link": "https://www.birgun.net/haber/a101-iscileri-haklari-icin-sokakta-11-ilde-es-zamanli-eylem-744141",
-      "published": "2026-11-03T01:47:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:40:44.397342+00:00"
-    },
-    {
-      "id": "707a622f87540c89",
-      "source": "Bir Gün",
-      "title": "Yoksulluğa karşı ortak ses: İşçiler Kartal'da buluşacak",
-      "summary": "DİSK'e bağlı 11 sendikanın çağrısıyla 29 Kasım'da İstanbul'da düzenlenecek miting için hazırlıklar sürüyor. Siyasi partiler, sendikalar ve demokratik kitle örgütlerinin katıldığı toplantıda, ekonomik krize karşı mücadelenin toplumun farklı kesimlerine yayılması ve ortak bir itiraza dönüşmesi gerektiği vurgulandı.",
-      "link": "https://www.birgun.net/haber/yoksulluga-karsi-ortak-ses-isciler-kartal-da-bulusacak-744140",
-      "published": "2026-11-03T01:37:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:40:44.397374+00:00"
-    },
-    {
-      "id": "77e9a70afa003026",
-      "source": "Bir Gün",
-      "title": "Smart Solar işçileri geri adım atmıyor: Bakanlığa yetki başvurusu",
-      "summary": "İzmir Aliağa'daki Smart Solar fabrikasında 85 işçinin işten çıkarılması üzerine başlayan direniş 28'inci gününe ulaştı. Ankara'da Çalışma Bakanlığı'na resmi başvuruda bulunan Enerji Sen, işten çıkarmalara rağmen fabrikadaki sendikal çoğunluğun yüzde 70 olduğunu açıkladı.",
-      "link": "https://www.birgun.net/haber/smart-solar-iscileri-geri-adim-atmiyor-bakanliga-yetki-basvurusu-744139",
-      "published": "2026-11-03T01:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T02:40:44.397405+00:00"
-    },
-    {
-      "id": "351eedad52536139",
-      "source": "Finans Gündem",
-      "title": "Trump devreye giriyor! Rusya ve Ukrayna Abu Dabi'de masaya oturacak",
-      "summary": "ABD Başkanı Donald Trump'ın özel temsilcisi Steve Witkoff, ABD merkezli X şirketinin sosyal medya platformundaki hesabından konuya ilişkin açıklamada bulundu.",
-      "link": "https://www.finansingundemi.com/haber/trump-devreye-giriyor-rusya-ve-ukrayna-abu-dabide-masaya-oturacak/1913516",
-      "published": "2026-11-03T01:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:40:54.651750+00:00"
-    },
-    {
-      "id": "5f5d3b0c79c703a3",
-      "source": "BBC News Türkçe",
-      "title": "TÜİK ekim ayı enflasyon verilerini açıklayacak",
-      "summary": "Türkiye İstatistik Kurumu (TÜİK) bugün ekim ayı enflasyon verilerini açıklayacak",
-      "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T01:15:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:21:08.493569+00:00"
-    },
-    {
-      "id": "cb9212539b002448",
-      "source": "Finans Gündem",
-      "title": "Okan Buruk yönetimindeki Galatasaray Stuttgart'ı konuk edecek",
-      "summary": "Avrupa'da yoluna devam etmek isteyen Galatasaray, UEFA Şampiyonlar Ligi'nde Stuttgart'ı konuk edecek.",
-      "link": "https://www.finansingundemi.com/haber/okan-buruk-yonetimindeki-galatasaray-stuttgarti-konuk-edecek/1913514",
-      "published": "2026-11-03T01:05:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:15:59.148626+00:00"
-    },
-    {
-      "id": "29b956210ffbdbb6",
-      "source": "Bir Gün",
-      "title": "İmalatta çıkış yok: Üç ayda bin 373 işletme kapandı",
-      "summary": "Türkiye'de sanayi üretimindeki daralma ekim ayında da devam etti. İmalat PMI endeksi 47,3'e gerileyerek hazirandan bu yana en düşük seviyesini gördü. İncelenen 10 sektörden yalnızca birinde üretim artışı yaşanırken siparişlerdeki düşüş ve yüksek maliyetler işletmeler üzerindeki baskıyı artırdı.",
-      "link": "https://www.birgun.net/haber/imalatta-cikis-yok-uc-ayda-bin-373-isletme-kapandi-744138",
-      "published": "2026-11-03T01:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:40:42.764871+00:00"
-    },
-    {
-      "id": "02c46bc0d0928518",
-      "source": "Yeni Şafak",
-      "title": "Bu manyak nükleer savaş peşinde",
-      "summary": "Yeni Şafak Gazetesi'nin 3 Kasım 2026 tarihli sayısına hoş geldiniz. Gündem, spor ve ekonomi sayfalarımızda bugünün öne çıkan haberlerini keşfedin.",
-      "link": "https://www.yenisafak.com/galeri/gundem/bu-manyak-nukleer-savas-pesinde-4869283",
-      "published": "2026-11-03T01:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:01:09.144792+00:00"
-    },
-    {
-      "id": "02235e1992c2139b",
-      "source": "Cumhuriyet",
-      "title": "TBMM’de Sanayi ve Teknoloji Bakanlığı’nın bütçesi görüşüldü: Muhalefet ihracat verilerini eleştirdi",
-      "summary": "TBMM Plan ve Bütçe Komisyonu’nda Sanayi ve Teknoloji Bakanlığı’nın bütçesi görüşüldü. Muhalafet; ihracat verilerine ilişkin; “Bakanı dinlerken dedim ki: Eyvah, biz uçmuşuz, haberimiz yok, neredeyse Ay'a götürecek bakan bizi ring seferleriyle. 2023 yılında ihracat hedefimiz 500 milyar dolardı. Siz 2025’te 173 milyar dolarda kaldınız. Sayın bakan, gerçekleri de görün. İnsanlar tornasını, CNC tezgâhı",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/tbmm-de-sanayi-ve-teknoloji-bakanligi-nin-butcesi-gorusuldu-muhalefet-ihracat-verilerini-elestirdi-2552657",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581565+00:00"
-    },
-    {
-      "id": "e9ef0ee50f92a34b",
-      "source": "Cumhuriyet",
-      "title": "Eğitimciler eğitim bütçesi öncesinde Meclis’te toplandı: ‘Önce çocukların güvenliği sağlanacak!’",
-      "summary": "Milli eğitim bütçesi öncesi YENİ Parti Millî Eğitim, Kültür, Gençlik ve Spor Komisyonu üyeleri dün Meclis’te eğitimciler ile bir araya geldi. YENİ Parti İstanbul Milletvekili Suat Özçağdaş bütçeye ilişkin “Temizlik görevlisi bulamayanlar önce külliyeden, bakanlıktan temizlik görevlilerini okullara gönderecekler. Türkiye'de birinin güvenliği ve temizliği sağlanacaksa önce çocuklarınki sağlanacak” d",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/egitimciler-egitim-butcesi-oncesinde-meclis-te-toplandi-once-cocuklarin-guvenligi-saglanacak-2552658",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581593+00:00"
-    },
-    {
-      "id": "c8839b39fab57b2c",
-      "source": "Cumhuriyet",
-      "title": "YENİ Parti ‘Kuruluş’ temasıyla ilk kurultayına hazırlanıyor: ‘Kuruluş’ hazırlıkları...",
-      "summary": "YENİ Parti kurmayları, 14-15 Kasım’da yapacakları ilk kurultaya ilişkin “Kuruluş” temasıyla çalışmalarına devam ettiğini belirtti. Kurultayda parti yönetimine Yargıtay kararı nedeniyle CHP’de kalan ve CHP’deyken yönetimde yer alan isimlerden katılım olması bekleniyor. Kurmaylar, Sarıgül soruşturmasında Özgür Özel’in hedef alınmasıyla ilgili ise hem “dokunulmazlık” tartışmalarına dikkat çekiyor hem",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-kurulus-temasiyla-ilk-kurultayina-hazirlaniyor-kurulus-hazirliklari-2552659",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581617+00:00"
-    },
-    {
-      "id": "4e32753580b287e7",
-      "source": "Cumhuriyet",
-      "title": "Cumhurbaşkanı Erdoğan’ın ‘Ya idam edilirdi ya da istifa ederdik’ dediği teröristbaşı Öcalan için şimdi yeni konut tartışılıyor: İdamdan ‘villa’ya!",
-      "summary": "PKK terör örgütünün elebaşı Abdullah Öcalan’ın, İmralı’da kendisi için hazırlanan yeni yapıya geçtiği açıklanırken akıllara Cumhurbaşkanı Recep Tayyip Erdoğan ile MHP lideri Bahçeli’nin 2011’deki idam polemiği geldi. O gün başbakan olan Erdoğan, Öcalan için “Ya idam edilirdi ya da istifa ederdik, çekilirdik” demiş; Bahçeli ise “İmralı’ya gidip niye asamıyorsun?” diye karşılık vermişti.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/cumhurbaskani-erdogan-in-ya-idam-edilirdi-ya-da-istifa-ederdik-dedigi-teroristbasi-ocalan-icin-simdi-yeni-konut-tartisiliyor-idamdan-villa-ya-2552661",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581645+00:00"
-    },
-    {
-      "id": "695038eb6847a2c7",
-      "source": "Cumhuriyet",
-      "title": "Maden ve Petrol İşleri Genel Müdürlüğü’nün verileri dikkat çekti: Maden çoğaldı, denetimde hedef şaştı",
-      "summary": "Maden işletme ruhsat sayısında bu yıl hedefin üzerine çıkıldı. Sayı geçen yılı da katladı. Denetimi yapılan üretim izni ve ruhsatların, toplam işletme izinli ruhsatlara oranında ise hedefin altında kalındı. Geçen yılın da altına düşüldü. Yerli doğalgaz üretim miktarında ise hedef tutturulamadı. Bu yıl 4.9 milyar metreküplük hedefe karşın 3.2 milyar metreküp yerli doğalgaz üretimi gerçekleşecek.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/maden-ve-petrol-isleri-genel-mudurlugu-nun-verileri-dikkat-cekti-maden-cogaldi-denetimde-hedef-sasti-2552663",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581668+00:00"
-    },
-    {
-      "id": "a2d76a44f50c8c1e",
-      "source": "Cumhuriyet",
-      "title": "‘Orman bütünlüğünü bozar’ denerek durdurulan ocak projesi yeniden gündemde: Üç kat kazıyla döndüler",
-      "summary": "Milas’ın Çamlıbelen Mahallesi’nde Gülport Liman Hizmetleri Ticaret AŞ’nin mermer ocağı projesi için ÇED süreci yeniden başladı. Önceki başvurusu orman alanına ilişkin olumsuz görüş nedeniyle sonlandırılan proje kapsamında yaklaşık 22 hektarlık alanda 4 bin 257 ağacın kesilmesi, 22 yıl boyunca da milyonlarca ton pasa oluşması öngörülüyor.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/orman-butunlugunu-bozar-denerek-durdurulan-ocak-projesi-yeniden-gundemde-uc-kat-kaziyla-donduler-2552667",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581689+00:00"
-    },
-    {
-      "id": "894905ccbed9ee81",
-      "source": "Cumhuriyet",
-      "title": "AKP’ye geçebileceği konuşulan İBB Meclisi’nde DEM’den ‘grup kurma’ kararı: Koltuk belirsizliği",
-      "summary": "DEM Parti, kent uzlaşısı kapsamında farklı şehirlerde seçilen belediye meclis üyelerinin görevlerini parti çatısı altında sürdüreceğini açıkladı. Kararın ardından CHP listelerinden İBB Meclisi’ne giren 18 üyenin partiden ayrılarak DEM Parti grubu oluşturması beklenirken İstanbul’daki meclis aritmetiği yeniden tartışmaya açıldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/akp-ye-gecebilecegi-konusulan-ibb-meclisi-nde-dem-den-grup-kurma-karari-koltuk-belirsizligi-2552669",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581709+00:00"
-    },
-    {
-      "id": "12450109643d5696",
-      "source": "Cumhuriyet",
-      "title": "İstanbul Barosu’nda görevi Prof. Dr. Kaboğlu’ndan devralan Kocasakal’ın dönemi başladı: Kapsamlı çalıştay planları",
-      "summary": "İstanbul Barosu’nun 128. Olağan Genel Kurulu’nda başkan seçilen Prof. Dr. Ümit Kocasakal, düzenlenen törenle görevi Prof. Dr. İbrahim Kaboğlu’ndan devraldı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/istanbul-barosu-nda-gorevi-prof-dr-kaboglu-ndan-devralan-kocasakal-in-donemi-basladi-kapsamli-calistay-planlari-2552671",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581726+00:00"
-    },
-    {
-      "id": "8c98d633f5a40e44",
-      "source": "Cumhuriyet",
-      "title": "Kız öğrenci yurdu önünde taciz iddiası",
-      "summary": "İstanbul Sancaktepe’deki İyimaya Kız Öğrenci Yurdu’nda kalan öğrencilerin, yurt önüne gelen 6-7 kişilik bir grup tarafından sözlü tacize uğradığı ve uygunsuz hareketlere maruz kaldığı öne sürüldü.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/kiz-ogrenci-yurdu-onunde-taciz-iddiasi-2552672",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581740+00:00"
-    },
-    {
-      "id": "6f403ed05257589f",
-      "source": "Cumhuriyet",
-      "title": "Samsun Atakum’da “Cumhuriyetin İyileştirdiği Hayatlar” söyleşisi düzenlendi",
-      "summary": "Samsun’da Atakum Belediyesi ve Atakum Kent Konseyi işbirliğiyle düzenlenen söyleşide, Cumhuriyet döneminde sağlık sisteminin kurumsallaşması ve düşünce dünyasında yaşanan dönüşüm ele alındı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/samsun-atakum-da-cumhuriyetin-iyilestirdigi-hayatlar-soylesisi-duzenlendi-2552675",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581755+00:00"
-    },
-    {
-      "id": "f6cf0aa776c9140b",
-      "source": "Cumhuriyet",
-      "title": "Bilirkişi heyeti Ilgım Apartmanı duruşmasına 16 gün kala ek süre istedi: Deprem davası yine açmazda",
-      "summary": "6 Şubat depremlerinde yıkılan ve iddianameye göre 47 kişinin yaşamını yitirdiği Ilgım Apartmanı’na ilişkin davanın altıncı duruşması öncesinde bilirkişi heyeti ek süre talep etti.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/bilirkisi-heyeti-ilgim-apartmani-durusmasina-16-gun-kala-ek-sure-istedi-deprem-davasi-yine-acmazda-2552677",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581770+00:00"
-    },
-    {
-      "id": "ec9f3026a0abb28a",
-      "source": "Cumhuriyet",
-      "title": "Kamuda 5.4 milyon çalışanı ilgilendiren ücret sistemi değişikliğine sendikalardan tepki: Önce kayıplar giderilsin!",
-      "summary": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı’nda yer alan kamu personelinin ücret sistemini sadeleştirme hedefi, sendikaların tepkisini çekti.",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/kamuda-5-4-milyon-calisani-ilgilendiren-ucret-sistemi-degisikligine-sendikalardan-tepki-once-kayiplar-giderilsin-2552678",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581786+00:00"
-    },
-    {
-      "id": "3900ea548843c94e",
-      "source": "Cumhuriyet",
-      "title": "HDI Sigorta ve Veri Enstitüsü, tüketicinin sigortayla ilgili nabzını tuttu: Makul fiyat anlaşılır poliçe",
-      "summary": "HDI Sigorta ve Veri Enstitüsü’nün araştırmasına göre, sigortasız bireylerin yüzde 44’ü bütçe yetersizliği, yüzde 43’ü ise fiyatların yüksek olması nedeniyle sigorta yaptırmıyor.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/hdi-sigorta-ve-veri-enstitusu-tuketicinin-sigortayla-ilgili-nabzini-tuttu-makul-fiyat-anlasilir-police-2552679",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581801+00:00"
-    },
-    {
-      "id": "7dafef24f1a6553a",
-      "source": "Cumhuriyet",
-      "title": "Psikolojik dram ‘En Sevdiğim’ ile korku gerilim ‘Nöbet’ gösterime girdi: Geçmişin yaraları",
-      "summary": "Rodrigo Sorogoyen’in aile ilişkilerini, suçluluk duygusunu ve İspanya’nın sömürge geçmişini ele alan filmi “Çöl”, baba-kızın geçmişle hesaplaşmasını odağına alıyor. Marion Le Coroller’in ilk uzun metrajı “Nöbet” ise gençlerin çalışma hayatındaki performans baskısı ve tükenmişlik deneyimini beden korkusu türü üzerinden anlatıyor.",
-      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/psikolojik-dram-en-sevdigim-ile-korku-gerilim-nobet-gosterime-girdi-gecmisin-yaralari-2552685",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581820+00:00"
-    },
-    {
-      "id": "ba2296518d1b5d97",
-      "source": "Cumhuriyet",
-      "title": "Gıda güvenliğinde hata nerede? - Gülay Ertürk",
-      "summary": "Bir tüketici, satın aldığı sucuğun gerçekten dana etinden yapılıp yapılmadığını bilmiyorsa soframızdaki gıdaya ne kadar güvenebiliriz? Tarım ve Orman Bakanlığı’nın 27 Ekim 2026’da yayımladığı taklit ve tağşiş listesinde, dana sucuğu olarak satılan bir üründe domuz eti, bazı sucuk ürünlerinde ise tek tırnaklı hayvan eti tespit edilmesi, bu soruyu bir kez daha gündeme taşıdı. Mesele yalnızca etikett",
-      "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/gida-guvenliginde-hata-nerede-gulay-erturk-2552639",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581844+00:00"
-    },
-    {
-      "id": "b52dd52e89d22aed",
-      "source": "Cumhuriyet",
-      "title": "COP31 sürecinde su hakkı - Filiz Balta",
-      "summary": "Türkiye’nin ev sahipliğinde Antalya’da düzenlenecek COP31 İklim Zirvesi’ne yaklaşırken küresel hükümetler ve uluslararası aktörler; “yeşil finansman”, “emisyon pazarlıkları” ve “teknolojik uyum” başlıklarında resmi diplomatik hazırlıklarını sürdürüyor. Ancak resmi programın hemen yanı başında, sivil toplumun ve halkların sesini yükselteceği “Halkların İklim Zirvesi”nde çok temel bir gerçeğin altı ",
-      "link": "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/cop31-surecinde-su-hakki-filiz-balta-2552641",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581867+00:00"
-    },
-    {
-      "id": "808da3a9a0e246b9",
-      "source": "Cumhuriyet",
-      "title": "‘Cumhuriyet’, ‘milli demokratik devrim’dir (4)",
-      "summary": "Atatürk’e ve Cumhuriyete en büyük kötülükler ve bu kavramlara ilişkin en büyük saptırma ve yozlaştırmalar sadece İkinci Cumhuriyetçiler (Emperyalistlerin uzantıları liberaller, etnikçiler ve dinciler) tarafından değil, aynı zamanda Kenan Evren gibi Emperyalizmin ve Faşizmin ülkemizdeki temsilciliğini yapanlar, görünüşte ve sözde Atatürkçü olduklarını iddia edenler tarafından yapılmıştır.",
-      "link": "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/cumhuriyet-milli-demokratik-devrim-dir-4-2552642",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581885+00:00"
-    },
-    {
-      "id": "6fda8fdb83aee683",
-      "source": "Cumhuriyet",
-      "title": "AKP’nin kolektif aklı",
-      "summary": "Değerli okur(lar) bugün okuyacağınız yazıyı 16 Eylül 2001 günü Hürriyet Pazar’da “AK Parti’nin kolektif aklı” adıyla yayımlamıştım. Bir kez daha okutma gerekliliği gördüğüme göre, köprünün altından barajlar dolusu su akmasına karşın hiçbir şey değişmemiş. Eylemleri ve işlemleriyle kömür karasına dönüştüğü için artık “temennili” adıyla (AK Parti) değil, önüne bir “kara” sıfatı da ekleyerek “AKP” di",
-      "link": "https://www.cumhuriyet.com.tr/yazarlar/ozdemir-ince/akp-nin-kolektif-akli-2552645",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581907+00:00"
-    },
-    {
-      "id": "94362012fcd6d91a",
-      "source": "Cumhuriyet",
-      "title": "‘Acep nedendir?’",
-      "summary": "Cumhuriyetin 103. yaşını kutladığımız ve onun kurucu önderi Gazi Mustafa Kemal Atatürk’ü, vefatının 88. yılında anmaya hazırlandığımız bugünlerde; ilginç siyasal gelişmeler yaşanıyor. Bu ülkenin barışçı ve duyarlı yurttaşları olarak bizlerin de bütün bu gelişmeleri dikkatle izlememiz ve doğru değerlendirmemiz gerekiyor. ABD’de bugün yapılan ara seçimler de büyük önem taşıyor.",
-      "link": "https://www.cumhuriyet.com.tr/yazarlar/mehmet-sakir-ors/acep-nedendir-2552647",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581924+00:00"
-    },
-    {
-      "id": "cf26b495b287320b",
-      "source": "Cumhuriyet",
-      "title": "Bartın aydınlığı...",
-      "summary": "Son bir ayın hafta sonlarında Diyarbakır, Antalya, Denizli’den sonra önceki gün de Bartın’daydık. Böylece Güneydoğu, Akdeniz, Ege ve Karadeniz turunu tamamlamış olduk. Her şeyden önemlisi yurdumuzun her bölgesi bir başka güzel, her bölgesinin ötekiyle yarışan özellikleri var.",
-      "link": "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/bartin-aydinligi-2552648",
-      "published": "2026-11-03T01:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T01:05:32.581940+00:00"
     }
   ]
 }

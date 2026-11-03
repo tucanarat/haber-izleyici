@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-03T02:01:22.340963+00:00",
+  "last_updated": "2026-11-03T02:06:00.351890+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 472,
+  "new_items_this_run": 470,
   "items": [
+    {
+      "id": "08c4586560ffb966",
+      "source": "Aydınlık",
+      "title": "Cihan Sütşurup’tan para istendiği öne sürüldü: 2 şüpheli gözaltında",
+      "summary": "İstanbul’da “Şapkalılar” olarak bilinen suç örgütünün Cihan Sütşurup’tan para istediği öne sürüldü. Talebin reddedilmesinin ardından kız kardeşi Gönül Akan’a ait otomobil ateşe verildi; olayla ilgili 18 yaşından küçük 2 şüpheli gözaltına alındı.",
+      "link": "https://www.aydinlik.com.tr/haber/cihan-sutsuruptan-para-talebi-ve-otomobil-kundaklama-597265",
+      "published": "2026-11-03T02:01:20+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T02:05:44.794136+00:00"
+    },
     {
       "id": "7770c5c67ec26a1c",
       "source": "Bir Gün",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T19:55:47.841735+00:00"
-    },
-    {
-      "id": "675067290ff7ae19",
-      "source": "Türkiye Gazetesi",
-      "title": "Trump'tan İran açıklaması: Anlaşma gerçekleşebilir",
-      "summary": "ABD Başkanı Donald Trump, İran'la görüşmelerin sürdüğünü belirterek Tahran yönetiminin anlaşma yapmak için hiç olmadığı kadar istekli olduğunu öne sürdü. Savaşı yeniden başlatma konusunda acele etmediklerini söyleyen Trump, \"Öyle ya da böyle bir şeyler yapacağız\" dedi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/abd-baskani-trumptan-iran-aciklamasi-anlasma-gerceklesebilir-1826747",
-      "published": "2026-11-02T19:38:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T20:10:51.440550+00:00"
     }
   ]
 }

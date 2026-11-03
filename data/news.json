@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-03T02:21:00.166456+00:00",
+  "last_updated": "2026-11-03T02:26:00.362950+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 470,
+  "new_items_this_run": 471,
   "items": [
+    {
+      "id": "619d26be5025cdb0",
+      "source": "Habertürk",
+      "title": "Ticaret Bakanlığı'ndan yanıltıcı reklama 108 bin lira ceza",
+      "summary": "Ticaret Bakanlığı Reklam Kurulu, Antalya'da bir outlet alışveriş merkezindeki mağazada, yalnızca ayakkabı kategorisinde geçerli olan '2’inci ürüne yüzde 50 indirim' kampanyasının tüm ürünleri kapsadığı algısı oluşturulması nedeniyle 108 bin 370 TL idari para cezası uygulanmasına karar verdi",
+      "link": "https://www.haberturk.com/ekonomi/ticaret-bakanligi-ndan-yaniltici-reklama-108-bin-lira-ceza-3924455",
+      "published": "2026-11-03T02:19:55+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T02:25:30.459556+00:00"
+    },
     {
       "id": "2d5f263777ce066c",
       "source": "Aydınlık",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T19:45:42.252254+00:00"
-    },
-    {
-      "id": "8889bf2a53617e51",
-      "source": "Hürriyet",
-      "title": "ABD Başkanı Trump: İran’ın bir anlaşma gerçekleşebilir",
-      "summary": "ABD Başkanı Donald Trump, İran’ın bir anlaşma yapmak istediğin belirterek, \"Bu gerçekleşebilir\" dedi.",
-      "link": "https://www.hurriyet.com.tr/dunya/abd-baskani-trump-iranin-bir-anlasma-gerceklesebilir-43363794",
-      "published": "2026-11-02T19:40:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T20:15:43.699687+00:00"
     }
   ]
 }

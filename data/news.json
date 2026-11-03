@@ -1,12 +1,243 @@
 {
-  "last_updated": "2026-11-03T09:51:12.735359+00:00",
+  "last_updated": "2026-11-03T09:55:59.666770+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 487,
+  "new_items_this_run": 494,
   "items": [
+    {
+      "id": "8da69add6e8b3a75",
+      "source": "CNBC-e",
+      "title": "ING'den enflasyon değerlendirmesi: \"Faiz indirimi devam eder mi?\" sorusuna cevap verildi",
+      "summary": "ING Global, ekim ayında enflasyonun beklentilerin hafif üzerinde gerçekleşerek düşüş eğilimini sonlandırmasına rağmen yıl sonu tahminini korudu. Banka, Türkiye’de yıllık enflasyonun 2026 sonunda yüzde 30’un altında kalmasını ve TCMB’nin aralık ayında faiz indirimlerine devam etmesini bekliyor.",
+      "link": "https://www.cnbce.com/haberler/ingden-enflasyon-degerlendirmesi-faiz-indirimi-devam-eder-mi-sorusuna-cevap-verildi-h40919",
+      "published": "2026-11-03T09:55:22+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:54.147264+00:00"
+    },
+    {
+      "id": "2d9de4c995031262",
+      "source": "Teyit",
+      "title": "Devlet Bahçeli'nin tetris oynadığı görsel gerçek mi?",
+      "summary": "Alparslan Türkeş’le oturan Devlet Bahçeli’nin tetris oynadığı anları gösteren görselin gerçek olduğu iddia edildi.",
+      "link": "https://teyit.org/analiz/devlet-bahcelinin-tetris-oynadigi-gorsel-gercek-mi",
+      "published": "2026-11-03T09:55:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:58.702984+00:00"
+    },
+    {
+      "id": "0a162a055b86e540",
+      "source": "Akşam",
+      "title": "Suudi Arabistan duyurdu: Mekke-i Mükerreme bölgesinde İHA saldırısı önlendi",
+      "summary": "Suudi Arabistan öncülüğündeki koalisyon güçlerinin sözcüsü Tümgeneral Turki el-Maliki, Mekke-i Mükerreme bölgesi üzerinde bir insansız hava aracının (İHA) ele geçirilerek imha edildiğini duyurdu.",
+      "link": "https://www.aksam.com.tr/dunya/suudi-arabistan-duyurdu-mekke-i-mukerreme-bolgesinde-iha-saldirisi-onlendi/haber-1711449",
+      "published": "2026-11-03T09:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:42.026196+00:00"
+    },
+    {
+      "id": "5258c75366a0fea1",
+      "source": "Yeni Şafak",
+      "title": "Gördükleri rüya sonrası harekete geçtiler: Şehit ailelerinden örnek dayanışma",
+      "summary": "Çankırı’da Şehit Emrah Ersoy’un en büyük hayali olan ve ailesi için yaptırmak istediği evin inşaatında 3 şehit yakını gönüllü olarak çalışıyor. Örnek bir dayanışmaya imza atan şehit aileleri, inşaatta gün boyunca birlikte ter döküyor.",
+      "link": "https://www.yenisafak.com/galeri/gundem/gordukleri-ruya-sonrasi-harekete-gectiler-sehit-ailelerinden-ornek-dayanisma-4869393",
+      "published": "2026-11-03T09:54:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:42.695917+00:00"
+    },
+    {
+      "id": "9d0c2af217a0c5f6",
+      "source": "Cumhuriyet",
+      "title": "Karşıyaka’nın 114 yıllık hikâyesi ‘Hatıra Bahçesi’nde yaşayacak",
+      "summary": "Karşıyaka Spor Kulübü’nün 114 yıl önce bir zeytin ağacının altında filizlenen kuruluş ruhu, aynı noktada kurulan “Hatıra Bahçesi” ile gelecek kuşaklara taşınıyor. Kulübün köklü geçmişinin simgesi olarak asırlık bir zeytin ağacı dikilen bahçe, Karşıyaka Belediyesi tarafından törenle açıldı. Belediye Başkanı Yıldız Ünsal, “Diliyorum ki bu zeytin ağacı nice 114 yıllara tanıklık etsin; altında nice ço",
+      "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/karsiyaka-nin-114-yillik-hikayesi-hatira-bahcesi-nde-yasayacak-2552817",
+      "published": "2026-11-03T09:54:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:36.559197+00:00"
+    },
+    {
+      "id": "b8aaac0b00b6dcb2",
+      "source": "Akşam",
+      "title": "Fon Kurulu 9. kez toplandı: Yatırımcılara 97,3 milyar lira ödendi",
+      "summary": "İletişim Başkanlığı, olağan ve olağanüstü tasfiye süreçlerinde 30 Ekim itibarıyla 100 fonda 247 bin 839 yatırımcıya toplam 97,3 milyar lira ödeme yapıldığını açıkladı. Ara ödemelerin bu hafta da sürdürüleceği bildirildi.",
+      "link": "https://www.aksam.com.tr/guncel/fon-kurulu-9-kez-toplandi-yatirimcilara-973-milyar-lira-odendi/haber-1711448",
+      "published": "2026-11-03T09:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:42.026235+00:00"
+    },
+    {
+      "id": "86784980d729f45e",
+      "source": "Star",
+      "title": "Celtic-Beşiktaş maçına Alman hakem",
+      "summary": "UEFA Avrupa Ligi'nin 4. haftasında oynanacak Celtic-Beşiktaş karşılaşmasını Alman hakem Sascha Stegemann yönetecek.",
+      "link": "https://www.star.com.tr/spor/celtic-besiktas-macina-alman-hakem-haber-2050879/",
+      "published": "2026-11-03T09:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:43.180874+00:00"
+    },
+    {
+      "id": "6f1761b3fed1d70e",
+      "source": "Aydınlık",
+      "title": "Kaşif Kozinoğlu'nun saç ve tırnağında tespit edildi: Antimon nedir, insanı zehirler mi?",
+      "summary": "Kaşif Kozinoğlu&#039;nun ölümünden 15 yıl sonra yapılan incelemede saç, tırnak ve dokularında antimon tespit edildi. Peki, sanayide kullanılan bu madde insan vücuduna nasıl giriyor, hangi organları etkiliyor ve zehirlenmeye yol açabiliyor mu?",
+      "link": "https://www.aydinlik.com.tr/haber/kasif-kozinoglunun-sac-ve-tirnaginda-tespit-edildi-antimon-nedir-insani-zehirler-mi-597316",
+      "published": "2026-11-03T09:53:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:45.247681+00:00"
+    },
+    {
+      "id": "d343d2f8899fe9bd",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Trabzonspor-Freiburg maçını Estonyalı hakem Kristo Tohver yönetecek",
+      "summary": "Trabzonspor'un UEFA Konferans Ligi'nin 3. haftasında 5 Kasım Perşembe günü Almanya'nın Freiburg takımını konuk edeceği mücadelede Estonyalı hakem Kristo Tohver düdük çalacak.",
+      "link": "https://www.aa.com.tr/tr/spor/trabzonspor-freiburg-macini-estonyali-hakem-kristo-tohver-yonetecek/4109728",
+      "published": "2026-11-03T09:52:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:36.152142+00:00"
+    },
+    {
+      "id": "6b31ba4b58b93169",
+      "source": "Habertürk",
+      "title": "Celtic-Beşiktaş maçına Alman hakem!",
+      "summary": "UEFA Avrupa Ligi'ndeki temsilcimiz Beşiktaş'ın, 5 Kasım Perşembe akşamı deplasmanda Celtic ile oynayacağı karşılaşmayı Alman hakem Sascha Stegemann'ın yöneteceği açıklandı.",
+      "link": "https://www.haberturk.com/spor/celtic-besiktas-macini-hakem-sascha-stegemann-yonetecek-3924570",
+      "published": "2026-11-03T09:52:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:33.877170+00:00"
+    },
+    {
+      "id": "f5e3a75636c3b4c1",
+      "source": "Akşam",
+      "title": "7 ülkede süpermarket zincirleri hedef alındı! Belçika soruşturma başlattı",
+      "summary": "Belçika Federal Savcılığı, ülkedeki süpermarket ve mağazaların soğutma sistemlerini hedef alan siber saldırıya ilişkin soruşturma başlattığını teyit etti.",
+      "link": "https://www.aksam.com.tr/dunya/7-ulkede-supermarket-zincirleri-hedef-alindi-belcika-sorusturma-baslatti/haber-1711447",
+      "published": "2026-11-03T09:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:42.026263+00:00"
+    },
+    {
+      "id": "3bf4ca17611282d6",
+      "source": "Ekonomim",
+      "title": "Cumhurbaşkanı Erdoğan: \"Ahmet Nazif Zorlu'nun vefatından derin üzüntü duydum\"",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, &quot;Ülkemizin değerli iş insanlarından Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu&#039;nun vefatından derin üzüntü duydum&quot; dedi.",
+      "link": "https://www.ekonomim.com/gundem/cumhurbaskani-erdogan-ahmet-nazif-zorlunun-vefatindan-derin-uzuntu-duydum-haberi-928821",
+      "published": "2026-11-03T09:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:53.235783+00:00"
+    },
+    {
+      "id": "6f5d6de81ce0541f",
+      "source": "Habertürk",
+      "title": "Şampiyonlar Ligi'nde sahne Aslan'ın!",
+      "summary": "Temsilcimiz Galatasaray, Şampiyonlar Ligi'nin 4. haftasında bu akşam Almanya'nın Stuttgart takımını konuk edecek. Devler Ligi'ndeki ilk iki maçında Sporting Lizbon'a 3-1 ve Barcelona'ya da 4-1 mağlup olan sarı-kırmızılılar, üçüncü haftada ise Lille'i 4-2 yenerek, bu sezon organizasyondaki ilk galibiyetini elde etmişti. Şampiyonlar Ligi'ndeki ilk iki maçında Viking'i 3-1 ve Slovan Bratislava'yı da ",
+      "link": "https://www.haberturk.com/spor/sampiyonlar-ligi-nde-sahne-aslan-in-galatasaray-stuttgart-muhtemel-11-ler-3924492",
+      "published": "2026-11-03T09:51:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:33.877239+00:00"
+    },
+    {
+      "id": "6090475937e9b1de",
+      "source": "ShiftDelete.Net",
+      "title": "iPhone 18'in özellikleri ve zam iddiası sızdı",
+      "summary": "iPhone 18, 2027'nin ilk yarısında iPhone 18e ve iPhone Air 2 ile birlikte tanıtılabilir. Yeni sızıntı ekran, çip ve kamera detaylarını ve olası zammı gösteriyor.",
+      "link": "https://shiftdelete.net/iphone-18-ozellikleri-zam-iddiasi",
+      "published": "2026-11-03T09:51:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:56.141661+00:00"
+    },
+    {
+      "id": "f62fe733de1eaf64",
+      "source": "Independent Türkçe",
+      "title": "AKOM: Soğuk ve yağışlı hava İstanbul'da etkili olacak",
+      "summary": "18-20 derece civarında bahar değerlerinde seyreden sıcaklıkların azalarak 12-14 derece aralığına gerileyeceği öngörülüyor. İstanbul’un farklı bölgelerinde toplamda metrekareye 30-60 kilogram aralığında yağış düşebileceği tahmin ediliyor. Dün akşam saatlerinde gök gürültülü sağanak yağışın etkili olduğu İstanbul'da yarından itibaren yeni bir soğuk ve yağışlı hava akımının etkili olması bekleniyor. ",
+      "link": "https://www.indyturk.com/node/784692/haber/akom-so%C4%9Fuk-ve-ya%C4%9F%C4%B1%C5%9Fl%C4%B1-hava-i%CC%87stanbulda-etkili-olacak",
+      "published": "2026-11-03T09:51:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:50.285874+00:00"
+    },
+    {
+      "id": "2889104f79e8c48d",
+      "source": "Yeni Şafak",
+      "title": "İstanbul'un barajlarında dikkat çeken artış: 1 ayda yüzde 14 yükseldi",
+      "summary": "İstanbul'a su sağlayan barajlarda son haftalarda etkili olan yağışların ardından doluluk oranlarında yükseliş yaşandı. İstanbul Su ve Kanalizasyon İdaresi (İSKİ) verilerine göre, 3 Ekim'de yüzde 39,04 olarak ölçülen genel doluluk oranı, 2 Kasım itibarıyla yüzde 54,17'e yükseldi. Yaklaşık bir aylık dönemde yüzde 14,86'lık artış yaşanırken barajlardaki su seviyelerinin aynı oranda yükselmemesi dikka",
+      "link": "https://www.yenisafak.com/video/gundem/istanbulun-barajlarinda-dikkat-ceken-artis-1-ayda-yuzde-14-yukseldi-4869391",
+      "published": "2026-11-03T09:51:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:42.696003+00:00"
+    },
+    {
+      "id": "0f28b6c970714660",
+      "source": "Karar",
+      "title": "Bahçeli’den siyasette “arınma ve aklanma” çağrısı: “Milletin ferasetini hafife almasınlar”",
+      "summary": "MHP lideri Bahçeli, siyasette “arınma ve aklanma” çağrısı yaptı. Yolsuzluk ve siyasetin üzerindeki yüklerin geride bırakılması gerektiğini belirten Bahçeli, “Vatandaşlarımızın sabrını sınayanlar, yük almak yerine yük olmaya devam etmekte ısrar edenler, milletin irfanını da ferasetini de hafife almasın” dedi. Bahçeli, Avrupa Birliği’nin Türkiye’ye yönelik tutumunu da eleştirerek Türkiye-Libya mutab",
+      "link": "https://www.karar.com/guncel-haberler/bahceliden-siyasette-arinma-ve-aklanma-cagrisi-milletin-ferasetini-2082121",
+      "published": "2026-11-03T09:51:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:43.933487+00:00"
+    },
+    {
+      "id": "5434585cfa4429ed",
+      "source": "Ekonomim",
+      "title": "Celtic-Beşiktaş maçının hakemi belli oldu",
+      "summary": "UEFA Avrupa Ligi’nin 4. haftasında Beşiktaş’ın, deplasmanda İskoçya ekibi Celtic ile oynayacağı karşılaşmayı Almanya Futbol Federasyonu’ndan Sascha Stegemann yönetecek.",
+      "link": "https://www.ekonomim.com/spor/celtic-besiktas-macinin-hakemi-belli-oldu-haberi-928820",
+      "published": "2026-11-03T09:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:53.235820+00:00"
+    },
+    {
+      "id": "57fb92d1502f14ae",
+      "source": "Türkiye Gazetesi",
+      "title": "Trabzon'un rakibi Freiburg: Salah, 3'te 3 peşinde",
+      "summary": "UEFA Konferans Ligi'nde 5 Kasım Perşembe günü Freiburg'u konuk edecek Trabzonspor'da Muhammed Salah, hücumda en önemli isimlerden olacak. 34 yaşındaki Mısırlı yıldız, Alman ekibinin fileleri havalandırırsa Avrupa'da 3'te 3 yapacak.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/trabzonsporun-rakibi-freiburg-salah-avrupada-3te-3-pesinde-1826881",
+      "published": "2026-11-03T09:50:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:38.719891+00:00"
+    },
+    {
+      "id": "aa39a6ef972c3e02",
+      "source": "Milliyet",
+      "title": "Cumhurbaşkanı Erdoğan'dan Ahmet Nazif Zorlu için taziye mesajı",
+      "summary": "Erdoğan, NSosyal hesabından yaptığı paylaşımda, \"Ülkemizin değerli iş insanlarından Zorlu Holding Yönetim Kurulu Başkanı Ahmet Nazif Zorlu'nun vefatından derin üzüntü duydum. Ahmet Nazif Zorlu'ya Allah'tan rahmet niyaz ediyor, Zorlu ailesine sabrıcemil, iş dünyamıza başsağlığı diliyorum.\" ifadelerine yer verdi. İş insanı Ahmet Nazif Zorlu hayatını kaybetti",
+      "link": "https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogandan-ahmet-nazif-zorlu-icin-taziye-mesaji-7693312",
+      "published": "2026-11-03T09:50:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:41.366080+00:00"
+    },
+    {
+      "id": "89dc2d4e6b10041c",
+      "source": "Cumhuriyet",
+      "title": "Adana merkezli 3 ilde 2 suç örgütüne operasyon: 65 gözaltı",
+      "summary": "Adana merkezli 3 ilde 'Kurşunlar' ve 'Aylar' adlarıyla bilinen organize suç örgütlerine yönelik polisin düzenlediği operasyonda 65 şüpheli gözaltına alındı. Kurşunlar suç örgütünün, 19 Ekim’de haraç istedikleri temizlik ürünleri satan iş yeri sahibi Ercüment Musaoğlu'nun 15 yaşındaki oğlu Nurmuhammed Musaoğlu’nu başından silahla vuran grup olduğu bildirildi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/adana-merkezli-3-ilde-2-suc-orgutune-operasyon-65-gozalti-2552816",
+      "published": "2026-11-03T09:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:36.559242+00:00"
+    },
     {
       "id": "059d730fa7873b5e",
       "source": "ShiftDelete.Net",
@@ -28,6 +259,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T09:50:52.827722+00:00"
+    },
+    {
+      "id": "75a87126c8389f71",
+      "source": "Cumhuriyet",
+      "title": "Barcelona - Aston Villa maçı ne zaman, saat kaçta, hangi kanalda? Şifresiz mi?",
+      "summary": "Barcelona, UEFA Şampiyonlar Ligi'nin 4. hafta maçında sahasında Aston Villa ile karşı karşıya gelecek. Mücadele TSİ 23.00'te başlayacak.",
+      "link": "https://www.cumhuriyet.com.tr/spor/barcelona-aston-villa-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2552814",
+      "published": "2026-11-03T09:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:36.559270+00:00"
+    },
+    {
+      "id": "a0dca4e11621199b",
+      "source": "Cumhuriyet",
+      "title": "Sihirli mantar araştırmalarında dev kriz: Silosibinin depresyonu iyileştirdiği iddiası doğrulanamadı",
+      "summary": "Depresyon ve TSSB tedavisinde mucizevi bir ilaç olarak sunulan \"sihirli mantar\" etken maddesi silosibin hakkında tıp dünyasında büyük tartışma yaratacak bir araştırma yayımlandı.",
+      "link": "https://www.cumhuriyet.com.tr/yasam/sihirli-mantar-arastirmalarinda-dev-kriz-silosibinin-depresyonu-iyilestirdigi-iddiasi-dogrulanamadi-2552815",
+      "published": "2026-11-03T09:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:36.559298+00:00"
     },
     {
       "id": "fd1918048b2feb5a",
@@ -96,6 +349,17 @@
       "fetched_at": "2026-11-03T09:50:52.073470+00:00"
     },
     {
+      "id": "d6c7c6928335e0a0",
+      "source": "Habertürk",
+      "title": "Euroleague'de 10. hafta heyecanı başlıyor!",
+      "summary": "EuroLeague'de 10. haftanın perdesi yarın açılacak. Anadolu Efes, 5 Kasım Perşembe günü saat 20.15'te Fransız ekibi Paris Basketbol'u konuk edecek. Fenerbahçe Tarfin, 5 Kasım Perşembe günü saat 21.00'de İspanya'nın Baskonia ekibini ağırlayacak. Beşiktaş ise 6 Kasım Cuma günü saat 20.00'de Litvanya temsilcisi Zalgiris ile sahasında karşı karşıya gelecek.",
+      "link": "https://www.haberturk.com/spor/euroleague-de-10-hafta-heyecani-basliyor-3924568",
+      "published": "2026-11-03T09:47:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:33.877277+00:00"
+    },
+    {
       "id": "4f33157f2783194a",
       "source": "Akşam",
       "title": "Antalya Kültür Yolu Festivali'nde üçüncü gün sergilerle renklendi",
@@ -151,6 +415,17 @@
       "fetched_at": "2026-11-03T09:50:52.827768+00:00"
     },
     {
+      "id": "a7c4a6ea47d8837f",
+      "source": "Ekonomim",
+      "title": "ABD ara seçimleri Ankara-Washington ilişkilerini nasıl etkiler?",
+      "summary": "ABD&#039;de bugün gerçekleştirilecek ara seçimlerde Kongre&#039;nin iki kanadındaki sandalye dağılımı yeniden şekillenecek. Sonuçların, Trump yönetiminin kalan iki yıllık dış politika gündeminden Türkiye&#039;ye yönelik CAATSA yaptırımları ve F-35 programına dönüş sürecine kadar birçok başlıkta etkili olması bekleniyor.",
+      "link": "https://www.ekonomim.com/dunya/abd-ara-secimleri-ankara-washington-iliskilerini-nasil-etkiler-haberi-928819",
+      "published": "2026-11-03T09:46:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:53.235888+00:00"
+    },
+    {
       "id": "e8f475dfb0633b2a",
       "source": "Akşam",
       "title": "3 ilde 65 adrese \"zehir\" baskını! Onlarca gözaltı var",
@@ -182,6 +457,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T09:50:45.816580+00:00"
+    },
+    {
+      "id": "b629d4e600c1de8c",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "STM, milli savaş gemileri ve insansız deniz sistemlerini Avrupa'da sergiliyor",
+      "summary": "STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ, milli savaş gemileri ve insansız deniz sistemlerini Avrupa'da düzenlenen EURONAVAL 2026'da görücüye çıkardı.",
+      "link": "https://www.aa.com.tr/tr/bilim-teknoloji/stm-milli-savas-gemileri-ve-insansiz-deniz-sistemlerini-avrupada-sergiliyor/4109712",
+      "published": "2026-11-03T09:45:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:36.152175+00:00"
     },
     {
       "id": "04058261121ae3f8",
@@ -732,6 +1018,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T09:35:41.298888+00:00"
+    },
+    {
+      "id": "f73fcea39282a6e7",
+      "source": "DW Türkçe",
+      "title": "Amerikan ordusu, ABD kongre seçimlerinden hemen önce İran'ın Keşm Adası'nı vurdu",
+      "summary": "ABD Başkanı Trump, Kongre ara seçimlerinden önce İran'ı vurmayacaklarını söylemişti. Ancak Amerikan ordusu, seçimlere saatler kala Hürmüz Boğazı'ndaki İran hedeflerini vurdu. Saldırının savunma amaçlı olduğu bildirildi.",
+      "link": "https://www.dw.com/tr/amerikan-ordusu-abd-kongre-seçimlerinden-hemen-önce-iran-ın-keşm-adası-nı-vurdu/a-79836649?maca=tur-rss-tur-all-1495-rdf",
+      "published": "2026-11-03T09:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:59.547308+00:00"
     },
     {
       "id": "89a82d364cc63337",
@@ -1623,6 +1920,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T09:45:41.719262+00:00"
+    },
+    {
+      "id": "8d9e9124db617aa3",
+      "source": "Hürriyet",
+      "title": "Kaldırımda bekleyen kadına tokat attı: \"Kolum çarptı\" savunması tutmadı",
+      "summary": "Nevşehir'de dükkan önünde bekleyen tanımadığı 46 yaşındaki kadına tokat atarak kulağında işitme kaybına yol açan ve polisteki ifadesinde \"Kolum yanlışlıkla çarptı\" diyen 6 suç kayıtlı şüpheli, çıkarıldığı mahkemece tutuklandı. Saldırı anı güvenlik kamerasına yansıdı.",
+      "link": "https://www.hurriyet.com.tr/gundem/kaldirimda-bekleyen-kadina-tokat-atti-kolum-carpti-savunmasi-tutmadi-43364310",
+      "published": "2026-11-03T09:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:40.480141+00:00"
     },
     {
       "id": "7f7aee627baacee5",
@@ -2657,6 +2965,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T09:10:40.531749+00:00"
+    },
+    {
+      "id": "d84b51b0ee8298e6",
+      "source": "Independent Türkçe",
+      "title": "Hakiki öz benliğimizi nasıl ortaya çıkarabiliriz?",
+      "summary": "İslam topluluklarında var olan sorunlardan birisi ve en önemlisi, \"kendi hakiki öz benliğini bulamamak ve kendine yabancılaşmaktır\" (egzotizm.). Kendine yabancılık, toplumda kargaşa yaratır. Daha doğrusu insanı asıl varlığından koparıp kendine dönüşe engel olur. Nitekim Karl Marx gibi kimi düşünürler de bundan bahsetmişlerdir. Karl Marx, ideoloji karşıtı biri olarak bilinmesiyle birlikte, kendine ",
+      "link": "https://www.indyturk.com/node/784689/t%C3%BCrki%CC%87yeden-sesler/hakiki-%C3%B6z-benli%C4%9Fimizi-nas%C4%B1l-ortaya-%C3%A7%C4%B1karabiliriz",
+      "published": "2026-11-03T09:02:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T09:55:50.288430+00:00"
     },
     {
       "id": "d8252bf9051e7fcf",
@@ -5187,325 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T08:55:49.747904+00:00"
-    },
-    {
-      "id": "6c4661f2a4571ba4",
-      "source": "Bloomberg HT",
-      "title": "Bakanı Gürlek: Şu ana kadar 30 milyar lira gönüllü iade toplandı",
-      "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkini olarak, \"Fon soruşturmasında kapsamlı suç yapısı tespit edildi\" dedi.",
-      "link": "https://www.bloomberght.com/bakani-gurlek-ten-fon-aciklamasi-3793221",
-      "published": "2026-11-03T08:27:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:35:46.903114+00:00"
-    },
-    {
-      "id": "21bbaf272f0a458d",
-      "source": "Journo",
-      "title": "Çekya’da kamu yayıncılığı için dayanışma çağrısı",
-      "summary": "Çekya’da kamu televizyonu ve radyosunun finansmanını devlet bütçesine bağlayacak düzenlemeye karşı çıkan çalışanlara uluslararası destek geldi. Türkiye Gazeteciler Sendikası’nın da imzaladığı ortak açıklamada, kamu yayıncılarının siyasi baskıdan bağımsız kalması istendi. Çekya’da televizyon ve radyo için ödenen yayın ücretlerinin geleceği, halkın bağımsız habere erişimi üzerine bir mücadeleye dönü",
-      "link": "https://journo.com.tr/cekyada-kamu-yayinciligi-icin-dayanisma-cagrisi",
-      "published": "2026-11-03T08:27:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:31:10.407644+00:00"
-    },
-    {
-      "id": "9d1afaa9b5530055",
-      "source": "Euronews Türkçe",
-      "title": "Kral 3. Charles ve Kraliçe Camilla Antigua bağımsızlık töreninde sağanağa yakalandı",
-      "summary": "Kral III. Charles ve Kraliçe Camilla, Antigua ve Barbuda'nın Bağımsızlık Günü kutlamalarına Sir Vivian Richards Stadyumu'nda katılırken sağanak yağmura yakalandı.",
-      "link": "https://tr.euronews.com/video/2026/11/03/kral-3-charles-ve-kralice-camilla-antigua-bagimsizlik-toreninde-saganaga-yakalandi",
-      "published": "2026-11-03T08:27:18+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:35:53.722708+00:00"
-    },
-    {
-      "id": "d4f9a588923494ef",
-      "source": "Bir Gün",
-      "title": "Eczacıbaşı’nın madenine yargı engeli: Teknik hatalar ve çevresel riskler raporda!",
-      "summary": "TEMA Vakfı’nın açtığı dava sonucunda, Eskişehir’in Odunpazarı ilçesinde Eczacıbaşı’na bağlı Esan şirketinin işlettiği bentonit ocağının kapasite artışına ilişkin ÇED Olumlu kararı iptal edildi. Bilirkişi raporunda teknik hatalar ve çevresel riskler saptanırken, sahadaki pasa yığınlarının yağışla çöktüğü belirlendi. Eskişehir Doğa ve Yaşam Platformu avukatı Mert Yedek, kararın yaşam alanlarını koru",
-      "link": "https://www.birgun.net/haber/eczacibasinin-madenine-yargi-engeli-teknik-hatalar-ve-cevresel-riskler-raporda-744232",
-      "published": "2026-11-03T08:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T09:15:48.343780+00:00"
-    },
-    {
-      "id": "69a301104ac193ae",
-      "source": "Evrensel",
-      "title": "Himalayalarda dağ yürüyüşüne çıkan 8 kişi kayboldu",
-      "summary": "Himalaya bölgesinde 29 Ekim'de meydana gelen çığın ardından, dağ yürüyüşü yapan 8 kişiyle iletişimin koptuğu bildirildi.",
-      "link": "https://www.evrensel.net/haber/6007784/himalayalarda-dag-yuruyusune-cikan-8-kisi-kayboldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-03T08:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:45:43.309211+00:00"
-    },
-    {
-      "id": "4bf76a484e58e1f4",
-      "source": "Evrensel",
-      "title": "Yeni yılda vergi ve cezalara uygulanacak zam oranı yüzde 27,83 oldu",
-      "summary": "Yeni yılda vergi, harç ve cezalarda esas alınacak yeniden değerleme oranı yüzde 27,83 olarak belirlendi. MTV, trafik cezaları, pasaport harçları ve araç muayene ücretleri başta olmak üzere birçok kalemde artış yaşanacak.",
-      "link": "https://www.evrensel.net/haber/6007785/yeni-yilda-vergi-ve-cezalara-uygulanacak-zam-orani-yuzde-27-83-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-03T08:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:45:43.309242+00:00"
-    },
-    {
-      "id": "cfdcb8983f3cad4b",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Fiyatlamalar küresel merkez bankalarının yılı \"şahin\" adımlarla tamamlayacağına işaret ediyor",
-      "summary": "Politika faizlerini geçen ayki toplantılarında bekle-gör stratejisi izleyerek sabit tutan ABD, Avrupa ve Japonya merkez bankalarının, artan enflasyonist baskılar nedeniyle aralık ayında para politikalarını sıkılaştırması bekleniyor.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/fiyatlamalar-kuresel-merkez-bankalarinin-yili-sahin-adimlarla-tamamlayacagina-isaret-ediyor/4109504",
-      "published": "2026-11-03T08:26:39+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:45:40.158352+00:00"
-    },
-    {
-      "id": "5d3727da3667f659",
-      "source": "Independent Türkçe",
-      "title": "Mehmet Uçum'dan Erdoğan'ın yeniden adaylığı için 16 Nisan 2028 önerisi",
-      "summary": "Cumhurbaşkanı Başdanışmanı ve Cumhurbaşkanlığı Hukuk Politikaları Kurulu Başkanvekili Mehmet Uçum, Ahmet Hakan’ın CNN Türk’te sunduğu Tarafsız Bölge programında gündeme ilişkin değerlendirmelerde bulundu. Cumhurbaşkanlığı Hükümet Sistemi, yeni anayasa tartışmaları ve olası seçim takvimine ilişkin konuşan Uçum, Cumhurbaşkanı Recep Tayyip Erdoğan’ın bir kez daha aday olmasının Türkiye’nin lehine ola",
-      "link": "https://www.indyturk.com/node/784684/haber/mehmet-u%C3%A7umdan-erdo%C4%9Fan%C4%B1n-yeniden-adayl%C4%B1%C4%9F%C4%B1-i%C3%A7in-16-nisan-2028-%C3%B6nerisi",
-      "published": "2026-11-03T08:26:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:35:45.298682+00:00"
-    },
-    {
-      "id": "4f9eaffb2f52be1d",
-      "source": "Bianet",
-      "title": "Kamuoyu araştırmasına göre AKP yükseldi, Yeni Parti geriledi",
-      "summary": "Aylık olarak yapılan kamuoyu araştırmalarında Yeni Parti'nin gerilediği, AKP'nin ise yeniden oylarını yükselttiği görüldü. AKP birinci parti olarak yerini korurken CHP ve MHP küçüldü.",
-      "link": "https://bianet.org/haber/kamuoyu-arastirmasina-gore-akp-yukseldi-yeni-parti-geriledi-325031",
-      "published": "2026-11-03T08:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T09:05:47.708408+00:00"
-    },
-    {
-      "id": "3388538be77749d6",
-      "source": "Cumhuriyet",
-      "title": "Emeklinin gözü ocak zammında: Dört aylık enflasyon tablosu netleşti, işte masadaki rakamlar",
-      "summary": "Hayat pahalılığı ve eriyen alım gücü karşısında yaşam mücadelesi veren milyonlarca emekli ocak ayında yapılacak maaş zammına kilitlendi. TÜİK'in açıkladığı ekim ayı verileriyle birlikte SSK ve Bağ-Kur emeklisinin dört aylık zam oranı yüzde 8,28 olarak hesaplandı. İşte tüm ayrıntılar...",
-      "link": "https://www.cumhuriyet.com.tr/ekonomi/emeklinin-gozu-ocak-zamminda-dort-aylik-enflasyon-tablosu-netlesti-iste-masadaki-rakamlar-2552773",
-      "published": "2026-11-03T08:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:30:54.086516+00:00"
-    },
-    {
-      "id": "dd5cfd52b9c3981a",
-      "source": "Cumhuriyet",
-      "title": "Bugün hangi maçlar var, saat kaçta, hangi kanalda? 3 Kasım Salı günü maç programı...",
-      "summary": "3 Kasım Salı günü oynanacak maçlar belli oldu. Heyecan dolu karşılaşmalar salı günü oynanacak. İşte 3 Kasım maç programı...",
-      "link": "https://www.cumhuriyet.com.tr/spor/bugun-hangi-maclar-var-saat-kacta-hangi-kanalda-3-kasim-sali-gunu-mac-programi-2552777",
-      "published": "2026-11-03T08:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:30:54.086564+00:00"
-    },
-    {
-      "id": "9232f6bee198baaf",
-      "source": "ShiftDelete.Net",
-      "title": "Gök Taşı Nedir? Meteor ve Meteorit Farkı",
-      "summary": "Gök taşı, atmosferde tamamen yanmadan yere ulaşan uzay kayası. Meteor ve meteorit farkını, bir taşın gök taşı olup olmadığını anlama yollarını ve Türkiye'den izlenebilecek meteor yağmurlarını anlattık.",
-      "link": "https://shiftdelete.net/gok-tasi-nedir",
-      "published": "2026-11-03T08:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:31:16.149110+00:00"
-    },
-    {
-      "id": "dd232dc5a07a3677",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Bakan Gürlek: Fon soruşturmasında, karşımızdaki yapının kapsamlı bir suç yapılanması olduğu tespit edildi",
-      "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasına ilişkin, \"Karşımızdaki yapının basit bir borsa manipülasyonu ya da borsa vurgunu ile sınırlı olmadığı, kapsamlı bir suç yapılanması olduğu tespit edilmiştir.\" dedi.",
-      "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-fon-sorusturmasinda-karsimizdaki-yapinin-kapsamli-bir-suc-yapilanmasi-oldugu-tespit-edildi/4109500",
-      "published": "2026-11-03T08:25:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:35:33.407222+00:00"
-    },
-    {
-      "id": "b9a15af24e19d291",
-      "source": "Milliyet",
-      "title": "‘Çığır açan bir keşif’: 115 milyon yıllık bir dinozorun kemiğinde ilk kez bulundu!",
-      "summary": "HABER MERKEZİ/ Bilim dünyasını heyecanlandıran sıra dışı bir keşfe imza atıldı. Independence'ın haberine göre, uluslararası bir araştırma ekibi, 115 milyon yıllık dinozor kemiklerinde ilk kez kırmızı kan hücreleri tespit edildiğini bildirdi. Araştırmacılar, Aratasaurus adı verilen genç ve etçil bir dinozorun uzuv kemiklerini incelediklerinde, fosilleşmiş kırmızı kan hücrelerini andıran çok sayıda ",
-      "link": "https://www.milliyet.com.tr/dunya/cigir-acan-bir-kesif-115-milyon-yillik-bir-dinozorun-kemiginde-ilk-kez-bulundu-7693211",
-      "published": "2026-11-03T08:25:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:30:59.822415+00:00"
-    },
-    {
-      "id": "2bd7a241bf6deafa",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Türk devletlerinden uzayda \"Turan\" hedefi",
-      "summary": "Türk Devletleri Teşkilatı (TDT) uzay bilimi, teknolojisi ve inovasyon alanındaki küresel görünürlüğünü artırmak ve ortaklığını güçlendirmek amacıyla yeni projelere odaklanırken \"Türk Dünyası Uzay Günleri\" ile bağları güçlendirmeyi hedefliyor.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/turk-devletlerinden-uzayda-turan-hedefi/4109498",
-      "published": "2026-11-03T08:25:31+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:55:31.201410+00:00"
-    },
-    {
-      "id": "4b0264fccd025574",
-      "source": "Diken",
-      "title": "Akın Gürlek fon vurgununda 'üst düzey bürokrasi'yi işaret etti: Organize dolandırıcılık, suç yapılanması…",
-      "summary": "Akın Gürlek fon vurgununda 'üst düzey bürokrasi'yi işaret etti: Organize dolandırıcılık, suç yapılanması… 03.11.2026 Diken Adalet Bakanı Akın Gürlek, fon soruşturmasında 'kapsamlı suç yapısı' ve bürokrasi ile medya arasında işbirliği saptandığını söyledi. The post Akın Gürlek fon vurgununda 'üst düzey bürokrasi'yi işaret etti: Organize dolandırıcılık, suç yapılanması… appeared first on #site_linka",
-      "link": "https://www.diken.com.tr/akin-gurlek-fon-krizinde-ust-duzey-burokrasiyi-isaret-etti-organize-dolandiricilik-suc-yapilanmasi-medya/?utm_source=rss&utm_medium=rss&utm_campaign=akin-gurlek-fon-krizinde-ust-duzey-burokrasiyi-isaret-etti-organize-dolandiricilik-suc-yapilanmasi-medya",
-      "published": "2026-11-03T08:25:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T09:05:47.406980+00:00"
-    },
-    {
-      "id": "38b9c6863fd1f47c",
-      "source": "Diken",
-      "title": "Akın Gürlek fon krizinde üst düzey bürokrasiyi işaret etti: Organize dolandırıcılık, suç yapılanması, medya…",
-      "summary": "Akın Gürlek fon krizinde üst düzey bürokrasiyi işaret etti: Organize dolandırıcılık, suç yapılanması, medya… 03.11.2026 Diken Adalet Bakanı Akın Gürlek, fon soruşturmasında 'kapsamlı suç yapısı' saptandığını, bürokrasi ve medya arasında işbirliği olduğunu söyledi. The post Akın Gürlek fon krizinde üst düzey bürokrasiyi işaret etti: Organize dolandırıcılık, suç yapılanması, medya… appeared first on",
-      "link": "https://www.diken.com.tr/akin-gurlek-fon-krizinde-ust-duzey-burokrasiyi-isaret-etti-organize-dolandiricilik-suc-yapilanmasi-medya/?utm_source=rss&utm_medium=rss&utm_campaign=akin-gurlek-fon-krizinde-ust-duzey-burokrasiyi-isaret-etti-organize-dolandiricilik-suc-yapilanmasi-medya",
-      "published": "2026-11-03T08:25:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:55:44.426573+00:00"
-    },
-    {
-      "id": "db6c025d46640f0b",
-      "source": "Diken",
-      "title": "Fon soruşturmasından 'kapsamlı suç yapılanması' çıktı",
-      "summary": "Fon soruşturmasından 'kapsamlı suç yapılanması' çıktı 03.11.2026 Diken Adalet Bakanı Akın Gürlek fon soruşturmasıyla ilgili şunları dedi: &#8220;Soruşturmada kapsamlı, organize bir piyasa dolandırıcılığı ve suç yapısı tespit edilmiştir. Soruşturma her ne kadar piyasa aktörleri üzerinden başlamış olsa da geldiği noktada üst düzey finans bürokrasisini de kapsayan bir suç yapılanmasına şahit oluyoruz",
-      "link": "https://www.diken.com.tr/fon-sorusturmasindan-kapsamli-suc-yapilanmasi-cikti/?utm_source=rss&utm_medium=rss&utm_campaign=fon-sorusturmasindan-kapsamli-suc-yapilanmasi-cikti",
-      "published": "2026-11-03T08:25:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:25:43.855774+00:00"
-    },
-    {
-      "id": "4afe65db72b80796",
-      "source": "Bir Gün",
-      "title": "Galatasaray, Şampiyonlar Ligi’nde Legia Varşova deplasmanında",
-      "summary": "Galatasaray, Basketbol Şampiyonlar Ligi’nde yarın Legia Varşova’ya konuk olacak. Torwar Arena’daki karşılaşma TSİ 20.00’de başlayacak.",
-      "link": "https://www.birgun.net/haber/galatasaray-sampiyonlar-liginde-legia-varsova-deplasmaninda-744231",
-      "published": "2026-11-03T08:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T09:15:48.343801+00:00"
-    },
-    {
-      "id": "7d884fdc5f0a7c30",
-      "source": "Yeni Akit",
-      "title": "Kartoğlu: ABD İran’a nükleer bomba atmayı konuşuyor! ABD seçimleri ve kıyamet senaryosu...",
-      "summary": "“Dünyada nükleer silah kullanan 'tek devlet’ ABD. Hiroşima'yı 6 Ağustos, Nagazaki'yi 9 Ağustos 1945'te bombaladılar” hatırlatmasını yapan Akşam gazetesi Genel Yayın Yönetmeni Mustafa Kartoğlu; “Bunlar savaşı bitiren bombalar değildi, savaş bittikten sonra dünyayı 'yıldırma' bombalarıydı. ABD'nin nükleer silahı bir 'seçenek' haline getirmesi, gelecekte gücünü pekiştirecek 'korku' yaratma amaçlıydı”",
-      "link": "https://www.yeniakit.com.tr/haber/kartoglu-abd-irana-nukleer-bomba-atmayi-konusuyor-abd-secimleri-ve-kiyamet-senaryosu-2031550.html",
-      "published": "2026-11-03T08:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:31:01.827147+00:00"
-    },
-    {
-      "id": "703d0fdedb888daa",
-      "source": "Akşam",
-      "title": "Yeni trend başladı: Damacanalara örgü kılıf modelleri, tığ işinden çok pratik",
-      "summary": "Tığ işi örgü trendlerinde her geçen gün yeni bir şey öğreniyoruz. Örgüye meraklı olanlar evdeki damacanalara dahi kılıf örüyor. Bu örgü kılıf modelleri, renkli desenleri ve pratik yapımlarıyla dikkat çekiyor. Tığ işiyle hazırlanan damacana kılıfları, mutfaklarda ve yaşam alanlarında dekoratif bir görünüm oluşturuyor. Peki, damacana örgü kılıfı nasıl yapılır? Hangi ipler kullanılmalı? İşte evde kol",
-      "link": "https://www.aksam.com.tr/mor-papatya/yeni-trend-basladi-damacanalara-orgu-kilif-modelleri-tig-isinden-cok-pratik/haber-1711402",
-      "published": "2026-11-03T08:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:25:39.063885+00:00"
-    },
-    {
-      "id": "c2669fb7b4cce056",
-      "source": "Yeni Akit",
-      "title": "Adalet Bakanı Gürlek'ten fon soruşturması açıklaması: Kapsamlı suç yapısı tespit edildi",
-      "summary": "Adalet Bakanı Akın Gürlek, fon soruşturmasında kapsamlı suç yapısı tespit edildiğini açıklayarak devletin tüm kurumlarının teyakkuzda olduğunu açıkladı.",
-      "link": "https://www.yeniakit.com.tr/haber/adalet-bakani-gurlekten-fon-sorusturmasi-aciklamasi-kapsamli-suc-yapisi-tespit-edildi-2031549.html",
-      "published": "2026-11-03T08:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:25:40.741240+00:00"
-    },
-    {
-      "id": "4fd9af5d3a10f013",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Suudi Arabistan'da düzenlenecek 2027 Asya Kupası \"olağanüstü koşullar\" nedeniyle ertelendi",
-      "summary": "Suudi Arabistan'da gerçekleştirilecek 2027 AFC Asya Kupası, ev sahibi ülkeye yönelik saldırılar nedeniyle ertelendi.",
-      "link": "https://www.aa.com.tr/tr/spor/suudi-arabistanda-duzenlenecek-2027-asya-kupasi-olaganustu-kosullar-nedeniyle-ertelendi/4109496",
-      "published": "2026-11-03T08:24:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:35:33.407194+00:00"
-    },
-    {
-      "id": "b2306ab42e216c36",
-      "source": "Habertürk",
-      "title": "Cumhurbaşkanı Erdoğan Güney Kore'de",
-      "summary": "Cumhurbaşkanı Erdoğan Seul'de Güney Kore Devlet Başkanı Lee tarafından resmi törenle karşılandı. Resmi törenin ardından Cumhurbaşkanı Erdoğan'ın Güney Kore Devlet Başkanı Lee ile görüştü",
-      "link": "https://www.haberturk.com/dunya/cumhurbaskani-erdogan-guney-kore-de-3924496",
-      "published": "2026-11-03T08:24:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T09:20:36.401442+00:00"
-    },
-    {
-      "id": "91110d00d9621090",
-      "source": "OdaTV",
-      "title": "Timur ile Yıldırım'ın tarihi hesaplaşması tiyatro sahnesinde",
-      "summary": "Rafet Elçi&#039;nin &quot;Ahrar&quot; romanından uyarlanan &quot;Timur ve Yıldırım&quot; oyunu ikinci sezonunda seyirciyle buluşuyor. Yönetmen İsmail Güneş, iki hükümdarın mücadelesini anlatırken savaşın kazananını ve kaybedenini yeniden sorguladıklarını söyledi.",
-      "link": "https://www.odatv.com/kultur-sanat/timur-ile-yildirimin-tarihi-hesaplasmasi-tiyatro-sahnesinde-120169458",
-      "published": "2026-11-03T08:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:31:04.553116+00:00"
-    },
-    {
-      "id": "feb86f9e62d7fb14",
-      "source": "Star",
-      "title": "Atina'daki görüşmeyi kendileri sızdırdı! Yunan basını: Kalın, Miçotakis'e ültimatom verdi",
-      "summary": "Yunan basını, MİT Başkanı Kalın'ın Yunanistan Ulusal İstihbarat Teşkilatı Başkanı Demiris ile bir araya gelmek üzere gerçekleştirdiği Atina ziyaretinde Yunanistan Başbakanı Miçotakis'le görüştüğünü iddia etti. Görüşmenin perde arkasını yazan Yunan basını, Kalın'ın İsrail'in Yunanistan veya Kıbrıs üzerinden Türkiye'ye saldırması halinde askeri karşılık verileceği uyarısında bulunduğu ileri sürüldü.",
-      "link": "https://www.star.com.tr/dunya/atinadaki-gorusmeyi-kendileri-sizdirdi-yunan-basini-kalin-micotakise-ultimatom-verdi-haber-2050852/",
-      "published": "2026-11-03T08:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:25:40.218280+00:00"
-    },
-    {
-      "id": "e192941ad4a4293f",
-      "source": "Karar",
-      "title": "ABD'de ara seçimlerin gündemi ekonomi, İran savaşı ve sağlık hizmetleri",
-      "summary": "ABD'de 3 Kasım'da yapılacak Kongre ara seçimlerinde seçmenlerin öncelikleri ekonomi, hayat pahalılığı, akaryakıt fiyatları, İran savaşı ve sağlık hizmetleri oldu. Anketler, Trump'ın ekonomi yönetimine yönelik memnuniyetsizliğin de yüksek olduğunu ortaya koydu.",
-      "link": "https://www.karar.com/dunya-haberleri/abdde-ara-secimlerin-gundemi-ekonomi-iran-savasi-ve-saglik-hizmetleri-2082090",
-      "published": "2026-11-03T08:23:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:25:41.556404+00:00"
-    },
-    {
-      "id": "538ecabfe82151a0",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Filipinler'deki Mayon Yanardağı’nda son 24 saatte 13 volkanik deprem yaşandı",
-      "summary": "Filipinler'in başkenti Manila'nın 330 kilometre güneydoğusundaki Mayon Yanardağı'nda son 24 saatte 13 volkanik deprem yaşandığı bildirildi.",
-      "link": "https://www.aa.com.tr/tr/dunya/filipinlerdeki-mayon-yanardagi-nda-son-24-saatte-13-volkanik-deprem-yasandi/4109492",
-      "published": "2026-11-03T08:23:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:45:40.158442+00:00"
-    },
-    {
-      "id": "bcfd853f9d460b65",
-      "source": "OdaTV",
-      "title": "AKP İBB'nin peşinde... Belediye meclisinde meclis üyesine transfer teklifi: Büyük lokma ye, büyük söz etme",
-      "summary": "Bahçelievler Belediye Meclisi&#039;nin kasım ayı ilk oturumunda Belediye Başkanı Hakan Bahadır ile YENİ Partili İstanbul Büyükşehir Belediye Meclis Üyesi Eşref Eker arasında siyasi transfer diyaloğu dikkat çekti.",
-      "link": "https://www.odatv.com/siyaset/akp-ibbnin-pesinde-belediye-meclisinde-meclis-uyesine-transfer-teklifi-buyuk-lokma-ye-buyuk-soz-etme-120169462",
-      "published": "2026-11-03T08:23:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T08:50:44.328167+00:00"
     }
   ]
 }

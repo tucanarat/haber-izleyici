@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-03T03:47:57.603669+00:00",
+  "last_updated": "2026-11-03T03:53:06.089134+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 414,
+  "new_items_this_run": 418,
   "items": [
     {
       "id": "5b3975efee3fae14",
@@ -193,6 +193,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T03:20:45.926818+00:00"
+    },
+    {
+      "id": "bda129f323c1ca5a",
+      "source": "Bloomberg HT",
+      "title": "Apple'ın 3. çeyrek geliri yüzde 12 arttı",
+      "summary": "ABD'nin teknoloji devlerinden Apple'ın geliri Temmuz-Eylül döneminde yıllık bazda yaklaşık yüzde 12 artış gösterdi.",
+      "link": "https://www.bloomberght.com/apple-in-3-ceyrek-geliri-yuzde-12-artti-3793140",
+      "published": "2026-11-03T03:03:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T03:52:26.843372+00:00"
     },
     {
       "id": "ce0519b70a1f196f",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-02T21:20:52.673016+00:00"
-    },
-    {
-      "id": "c17d0c4da3037160",
-      "source": "Bianet",
-      "title": "Sur'da yıkımın 10. yılı: Evler yapılmadı, sahipleri muhatap bulamıyor",
-      "summary": "Diyarbakır'ın Sur ilçesinde 2015-2016 çatışmalarını izleyen yıkımların evlerinden ettiği aileler, on yıl sonra hâlâ geri dönemiyor. 60 ayda tamamlanması öngörülen restorasyon ihalelerini üstlenen şirketlerin bir bölümü işleri yarım bıraktı. Hak sahipleri teslim tarihini öğrenemiyor.",
-      "link": "https://bianet.org/haber/sur-da-yikimin-10-yili-evler-yapilmadi-sahipleri-muhatap-bulamiyor-325016",
-      "published": "2026-11-02T20:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-02T20:45:54.324596+00:00"
     }
   ]
 }

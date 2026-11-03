@@ -1,12 +1,100 @@
 {
-  "last_updated": "2026-11-03T21:36:07.387040+00:00",
+  "last_updated": "2026-11-03T21:41:18.404191+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 471,
+  "new_items_this_run": 474,
   "items": [
+    {
+      "id": "6b6d248967c7e9ea",
+      "source": "Yeni Şafak",
+      "title": "Samsun’da sokakta maymun paniği: İtfaiye yakaladı",
+      "summary": "Samsun'un İlkadım ilçesinde beş katlı dört binanın çatılarında gezen maymun yakalanıp, Samsun Doğa Koruma ve Milli Parklar Müdürlüğü’ne teslim edildi.",
+      "link": "https://www.yenisafak.com/gundem/samsunda-sokakta-maymun-panigi-itfaiye-yakaladi-4869568",
+      "published": "2026-11-03T21:40:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:41:00.244768+00:00"
+    },
+    {
+      "id": "99280c10e354db14",
+      "source": "Karar",
+      "title": "Melania Trump, Rusya ve Ukrayna temsilcilerini Beyaz Saray'da bir araya getirecek",
+      "summary": "First Lady Melania Trump'ın, Rusya ve Ukrayna temsilcilerini 5 Kasım'da Beyaz Saray'da bir araya getireceği ve Ukrayna'nın Herson bölgesindeki Oleşki kentinde ateşkes sağladığı bildirildi. First Lady Ofisi'nden yapılan açıklamada, Herson'un Oleşki kentinde sağlanan ateşkesin Melania Trump'ın 'bağımsız bir girişimi' olduğu belirtildi.",
+      "link": "https://www.karar.com/dunya-haberleri/melania-trump-rusya-ve-ukrayna-temsilcilerini-beyaz-sarayda-bir-araya-2082234",
+      "published": "2026-11-03T21:40:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:41:02.242190+00:00"
+    },
+    {
+      "id": "a1ad85836baeb2f4",
+      "source": "Star",
+      "title": "Şanlıurfa'da aile faciası: Cinnet geçiren genç anne ve ablasını katletti",
+      "summary": "Şanlıurfa'da cinnet getiren genç, anne ve ablasını silahla vurarak öldürdü, 11 yaşındaki kız kardeşini ise ağır yaraladı.",
+      "link": "https://www.star.com.tr/yasam/sanliurfada-aile-faciasi-cinnet-geciren-genc-anne-ve-ablasini-katletti-haber-2051022/",
+      "published": "2026-11-03T21:40:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:41:00.673122+00:00"
+    },
+    {
+      "id": "f5d172ead0ce4134",
+      "source": "Star",
+      "title": "Barış Alper Yılmaz: Tüm takım arkadaşlarımı kutluyorum",
+      "summary": "Galatasaray'ın milli futbolcusu Barış Alper Yılmaz, Stuttgart galibiyetinin ardından açıklamalarda bulundu.",
+      "link": "https://www.star.com.tr/spor/baris-alper-yilmaz-tum-takim-arkadaslarimi-kutluyorum-haber-2051021/",
+      "published": "2026-11-03T21:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:41:00.673143+00:00"
+    },
+    {
+      "id": "8cbf197f62a32aa2",
+      "source": "Cumhuriyet",
+      "title": "Avrupalı sendika ve derneklerden hayat pahalılığına karşı ortak eylem çağrısı",
+      "summary": "Yedi Avrupa ülkesinden sendika ve dernekler, artan hayat pahalılığına karşı 20-22 Kasım tarihlerinde kıta genelinde eş zamanlı eylemler düzenlenmesini istedi. Talepler arasında enerji, gıda ve barınma fiyatlarının düşürülmesi, ücretlerin artırılması ve barınma hakkının güvence altına alınması bulunuyor.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/avrupali-sendika-ve-derneklerden-hayat-pahaliligina-karsi-ortak-eylem-cagrisi-2553083",
+      "published": "2026-11-03T21:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:52.293349+00:00"
+    },
+    {
+      "id": "c702cb6d003c2fa7",
+      "source": "Star",
+      "title": "Fethiye'yi sağanak vurdu: Yollar göle döndü, evleri su bastı",
+      "summary": "Muğla'nın Fethiye ilçesinde etkili olan kuvvetli yağış, hayatı olumsuz etkiledi. Yağış nedeniyle sulama kanalları taşarken, tarım arazileri ile bazı ev ve seraları su bastı.",
+      "link": "https://www.star.com.tr/yasam/fethiyeyi-saganak-vurdu-yollar-gole-dondu-evleri-su-basti-haber-2051020/",
+      "published": "2026-11-03T21:37:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:41:00.673163+00:00"
+    },
+    {
+      "id": "1113d1c1387ab170",
+      "source": "Karar",
+      "title": "Kimlik kartı taşıma zorunluluğu bitecek: Dijital kimlik testleri başlıyor",
+      "summary": "Vatandaşların cüzdanlarında fiziksel kimlik ve diploma taşıma zorunluluğunu bitirecek ulusal dijital kimlik cüzdanı projesinde resmi takvim netleşti. Siber Güvenlik Başkanlığı ile İçişleri Bakanlığı ortaklığında yürütülen yerli sistemin ilk prototipi, pilot bir üniversitede test edilerek e-Devlet bütünleşecek yeni bir dijital dönemi başlatacak.",
+      "link": "https://www.karar.com/teknoloji-haberleri/dijital-kimlik-nedir-ne-zaman-cikacak-e-devlet-kimlik-cuzdani-nasil-2082233",
+      "published": "2026-11-03T21:36:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:41:02.242223+00:00"
+    },
+    {
+      "id": "7ebf56901484d013",
+      "source": "Cumhuriyet",
+      "title": "Sebastian Hoeness'ten mağlubiyet açıklaması: 'Olağanüstü atmosfere rağmen...'",
+      "summary": "Stuttgart Teknik Direktörü Sebastian Hoeness, UEFA Şampiyonlar Ligi'nde 2-0 kaybettikleri Galatasaray maçının ardından görüşlerini aktardı.",
+      "link": "https://www.cumhuriyet.com.tr/spor/sebastian-hoeness-ten-maglubiyet-aciklamasi-olaganustu-atmosfere-ragmen-2553082",
+      "published": "2026-11-03T21:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:52.293375+00:00"
+    },
     {
       "id": "e6b917ba9dc70d7e",
       "source": "Star",
@@ -28,6 +116,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T21:35:49.868287+00:00"
+    },
+    {
+      "id": "1328dd063329336d",
+      "source": "Habertürk",
+      "title": "TOFAŞ evinde hata yapmadı!",
+      "summary": "Eurocup'un altıncı haftasında TOFAŞ, sahasında Litvanya'nın Neptunas Klaipeda ekibini 94-79 mağlup etti.",
+      "link": "https://www.haberturk.com/spor/tofas-94-neptunas-klaipeda-79-mac-sonucu-3924743",
+      "published": "2026-11-03T21:32:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:49.780291+00:00"
     },
     {
       "id": "324f841aa3f8b210",
@@ -72,6 +171,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T21:31:05.942771+00:00"
+    },
+    {
+      "id": "2e6fc9f886d1aad8",
+      "source": "Evrensel",
+      "title": "ODTÜ'de hazırlık öğrencileri de, temizlik emekçileri de mağdur",
+      "summary": "ODTÜ’de hazırlık E binası tadilatta olduğu için öğrenciler havasız sınıflarda tozdan ve sesten ders dinleyemiyor. E binasındaki temizlik emekçileri de artan öğrenci sayısına rağmen personel sayısı artırılmadığı için ağır iş yükü altında.",
+      "link": "https://www.evrensel.net/haber/6007855/odtude-hazirlik-ogrencileri-de-temizlik-emekcileri-de-magdur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-03T21:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:54.626158+00:00"
     },
     {
       "id": "76cd8a57bfcf06ba",
@@ -160,6 +270,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T21:35:42.254062+00:00"
+    },
+    {
+      "id": "9f889c6a6a11cd78",
+      "source": "Evrensel",
+      "title": "Ücretler düzensiz, çalışma koşulları güvencesiz, mesailer uzun",
+      "summary": "Özel sanat kurumlarında çalışan konservatuvar mezunu öğretmenler, düşük saat ücretlerine, güvencesiz ve sigortasız çalıştırmaya tepkili. Saat ücretleri 500- 1500 TL arasında değişen öğretmenler, bu koşulların olağan hale getirilmesine itiraz ediyor.",
+      "link": "https://www.evrensel.net/haber/6007848/ucretler-duzensiz-calisma-kosullari-guvencesiz-mesailer-uzun?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-03T21:25:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:54.626184+00:00"
     },
     {
       "id": "37ad643b92e1a18d",
@@ -1218,6 +1339,28 @@
       "fetched_at": "2026-11-03T21:10:43.556666+00:00"
     },
     {
+      "id": "326fa30c8b264091",
+      "source": "Hürriyet",
+      "title": "KÜÇÜKÇEKMECE BELEDİYE BAŞKANLIĞI",
+      "summary": "&nbsp;",
+      "link": "https://www.hurriyet.com.tr/resmi-ilanlar/kucukcekmece-belediye-baskanligi-43364869",
+      "published": "2026-11-03T21:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:56.952538+00:00"
+    },
+    {
+      "id": "b670d101f2e71831",
+      "source": "Hürriyet",
+      "title": "ŞİLE SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU",
+      "summary": "&nbsp;",
+      "link": "https://www.hurriyet.com.tr/resmi-ilanlar/sile-sulh-hukuk-mahkemesi-satis-memurlugu-43364752",
+      "published": "2026-11-03T21:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:56.952772+00:00"
+    },
+    {
       "id": "6e14aecffa28a9e8",
       "source": "Star",
       "title": "ABD'de seçim maratonu başladı... Trump sandıktan istediği sonucu alacak mı?",
@@ -2252,6 +2395,17 @@
       "fetched_at": "2026-11-03T20:21:07.236663+00:00"
     },
     {
+      "id": "a96f7f47c9c0d5c6",
+      "source": "Diken",
+      "title": "Trump güvenoyu sınavında: 9 Soruda ABD ara seçimleri",
+      "summary": "Trump güvenoyu sınavında: 9 Soruda ABD ara seçimleri 03.11.2026 Diken ABD'de milyonlarca seçmen ülkedeki güç dengesini değiştirebilecek ara seçimler için bugün sandık başında. The post Trump güvenoyu sınavında: 9 Soruda ABD ara seçimleri appeared first on #site_linkat 03.11.2026 .",
+      "link": "https://www.diken.com.tr/trump-guvenoyu-sinavinda-9-soruda-abd-ara-secimleri/?utm_source=rss&utm_medium=rss&utm_campaign=trump-guvenoyu-sinavinda-9-soruda-abd-ara-secimleri",
+      "published": "2026-11-03T20:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:41:04.631613+00:00"
+    },
+    {
       "id": "856384f14a0e7a06",
       "source": "Cumhuriyet",
       "title": "ABD ara seçimleri 'uzaya' uzandı: NASA astronotları oy kullandı",
@@ -3110,6 +3264,17 @@
       "fetched_at": "2026-11-03T19:51:07.315293+00:00"
     },
     {
+      "id": "a619546cc8da43a1",
+      "source": "Hürriyet",
+      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye'nin ekim ayı ihracatı rekor kırdı",
+      "summary": "İSTANBUL'da düzenlenen 19'uncu Milli İrade Buluşması programında konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"Türkiye ihracatını arttırmaya devam ediyor. 25.9 milyar dolarla ekim ayları için tarihi bir rekor ihracat gerçekleştirmişiz. Yıllıklandırılmış dediğimiz ihracatı, bu ekimden bir önceki ekim ayına kadar götürdüğünüzde 1 yılda ne kadar olmuş diye baktığınızda 285,6 milyar dolara ulaşmışı",
+      "link": "https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiyenin-ekim-ayi-ihracati-rekor-kirdi-43365117",
+      "published": "2026-11-03T19:47:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:56.952565+00:00"
+    },
+    {
       "id": "5c15d08f6ac20e71",
       "source": "Türkiye Gazetesi",
       "title": "TFF'den A Millî Takım kadrosu açıklaması",
@@ -3922,6 +4087,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T21:05:32.467112+00:00"
+    },
+    {
+      "id": "75e0d3032baf330f",
+      "source": "Hürriyet",
+      "title": "Binance, uğradığı siber saldırının perde arkasını açıkladı",
+      "summary": "Kripto para borsası Binance, geçen hafta uğradığı siber saldırının çok aşamalı ve gelişmiş bir kampanya olduğunu, tek bir güvenlik ihlalinden veya basit bir kimlik avı girişiminden ibaret olmadığını bildirdi.",
+      "link": "https://www.hurriyet.com.tr/gundem/binance-ugradigi-siber-saldirinin-perde-arkasini-acikladi-43365103",
+      "published": "2026-11-03T19:14:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-03T21:40:56.952585+00:00"
     },
     {
       "id": "055fb7a14c61597b",
@@ -5330,182 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T18:15:59.455517+00:00"
-    },
-    {
-      "id": "f304f23c13bd1a11",
-      "source": "Cumhuriyet",
-      "title": "Daha tanıtılmayan iPhone 18'in özellikleri ve fiyatına yönelik iddialar",
-      "summary": "Apple, geçen eylül ayında yalnızca 18 Pro ve iPhone Duo modellerini tanıttı. İki iPhone 18 modeli ise ilerleyen döneme kaldı.",
-      "link": "https://www.cumhuriyet.com.tr/bilim-teknoloji/daha-tanitilmayan-iphone-18-in-ozellikleri-ve-fiyatina-yonelik-iddialar-2553016",
-      "published": "2026-11-03T18:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:15:52.851907+00:00"
-    },
-    {
-      "id": "7482d653f070078a",
-      "source": "Euronews Türkçe",
-      "title": "Bakan Ersoy: Ayasofya'nın yer altındaki tarihi tüneller ziyarete açılabilir",
-      "summary": "Ayasofya'da yürütülen restorasyon çalışmaları kapsamında yaklaşık 3 bin ton çamur ve moloz çıkarılırken, tarihî tüneller, su kanalları ve mahzenler gün yüzüne çıkarılıyor.",
-      "link": "https://tr.euronews.com/2026/11/03/bakan-ersoy-ayasofyanin-yer-altindaki-tarihi-tuneller-ziyarete-acilabilir",
-      "published": "2026-11-03T18:11:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:16:18.757490+00:00"
-    },
-    {
-      "id": "34b28315f74f8ab0",
-      "source": "OdaTV",
-      "title": "Yediler, içtiler, hesabı ödemeden gittiler: O anlar kamerada",
-      "summary": "Kocaeli&#039;nin İzmit ilçesinde restorana gelen 2 erkek ve 1 kadın, yemek yiyip çay içtikten sonra 2 bin 800 liralık hesabı ödemeden ayrıldı. İşletme yetkilisi şikayetçi olurken, yaşananlar güvenlik kamerasına da yansıdı.",
-      "link": "https://www.odatv.com/guncel/yediler-ictiler-hesabi-odemeden-gittiler-o-anlar-kamerada-120169560",
-      "published": "2026-11-03T18:11:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:16:04.097595+00:00"
-    },
-    {
-      "id": "83e9f144369dcfde",
-      "source": "Cumhuriyet",
-      "title": "Tutuklu gazeteci Fatih Ergin: ‘İki gece yerde yattım, yaptığım fon haberlerinin bedelini ödettiriyorlar’",
-      "summary": "28 Eylül’den bu yana tutuklu bulunan gazeteci Fatih Ergin, cezaevindeki koşulları ve tutuklanma sürecini anlattı. Koğuşta kapasitenin üzerinde tutuklu bulunduğunu, iki gece yerde yattığını söyleyen Ergin, tutuklanma gerekçesinin sosyal medya paylaşımındaki unvan hatası olmadığını savunarak, “Yaptığım fon haberlerinin bedelini ödettiriyorlar” dedi.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/tutuklu-gazeteci-fatih-ergin-iki-gece-yerde-yattim-yaptigim-fon-haberlerinin-bedelini-odettiriyorlar-2553015",
-      "published": "2026-11-03T18:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:15:52.851954+00:00"
-    },
-    {
-      "id": "53c992a897b62912",
-      "source": "Akşam",
-      "title": "Aleksey Batrakov devleşti! Şampiyonlar Ligi'nde şov yapıyor",
-      "summary": "UEFA Şampiyonlar Ligi'nde Stuttgart'ı konuk eden Galatasaray'da genç yıldız Aleksey Batrakov, golleriyle dikkat çekti. 15 dakikada attığı iki golle devleşen Rus futbolcu Devler Ligi'nde çıktığı 4 maçta 4 kez ağları havalandırdı.",
-      "link": "https://www.aksam.com.tr/spor/aleksey-batrakov-devlesti-sampiyonlar-liginde-sov-yapiyor/haber-1711603",
-      "published": "2026-11-03T18:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:16:00.073900+00:00"
-    },
-    {
-      "id": "bb625b74342f505f",
-      "source": "Yeni Yaşam",
-      "title": "DEM Parti yarın üç cezaevini ziyaret edecek",
-      "summary": "DEM Parti, HDP eski Eş Genel Başkanları ve diğer siyasi tutsaklar için cezaevlerini ziyaret edecek Halkların Eşitlik ve Demokrasi Partisi (DEM Parti), tutuklu bulunan HDP eski Eş Genel Başkanı Figen Yüksekdağ ve Selahattin Demirtaş ile diğer siyasi tutsaklar için yarın Kandıra, Edirne ve Sincan cezaevlerine ziyaret gerçekleştirecek. Ziyaretin Ardından cezaevleri önünde basın açıklamaları düzenlene",
-      "link": "https://yeniyasamgazetesi10.com/dem-parti-yarin-uc-cezaevini-ziyaret-edecek/",
-      "published": "2026-11-03T18:10:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:11:10.829687+00:00"
-    },
-    {
-      "id": "0e6b9fc1b806109f",
-      "source": "Hürriyet",
-      "title": "İlan sitesine 111 lira yazdı, 6 bin lira istedi! 1 milyon 83 bin 706 lira ceza yedi",
-      "summary": "Ticaret Bakanlığı, bir ilan sitesinde 111 lira fiyat yazıp satın almak isteyene 6 bin lira fiyat veren otomobil yedek parça satıcısına, 1 milyon 83 bin 706 lira idari para cezası verildiğini açıkladı.",
-      "link": "https://www.hurriyet.com.tr/gundem/ilan-sitesine-111-lira-yazdi-6-bin-lira-istedi-1-milyon-83-bin-706-lira-ceza-yedi-43365065",
-      "published": "2026-11-03T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:45:47.882023+00:00"
-    },
-    {
-      "id": "fdc3658a9b52d983",
-      "source": "Cumhuriyet",
-      "title": "Liverpoollu Cody Gakpo'dan Fenerbahçe maçı sözleri: 'Seviyorum böyle atmosferleri'",
-      "summary": "Liverpool'un Hollandalı futbolcusu Cody Gakpo, UEFA Şampiyonlar Ligi'nin 4. haftasında deplasmanda oynayacakları Fenerbahçe maçı öncesi düzenlenen basın toplantısında görüşlerini aktardı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/liverpoollu-cody-gakpo-dan-fenerbahce-maci-sozleri-seviyorum-boyle-atmosferleri-2553014",
-      "published": "2026-11-03T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:15:52.851986+00:00"
-    },
-    {
-      "id": "fd89780563158505",
-      "source": "Ekonomim",
-      "title": "Tasfiyedeki fonların BIST 30 hisseleri için satış kararı",
-      "summary": "Tasfiye sürecindeki yatırım fonlarının portföylerinde bulunan BIST 30 hisselerinin borsa dışında 20 eşit paket halinde satışına ilişkin esaslar belirlerken, alıcı fonlara 3 aylık satış kısıtlaması getirildi.",
-      "link": "https://www.ekonomim.com/ekonomi/tasfiyedeki-fonlarin-bist-30-hisseleri-icin-satis-karari-haberi-928928",
-      "published": "2026-11-03T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:16:11.917243+00:00"
-    },
-    {
-      "id": "b43e5bf65f8023a1",
-      "source": "Bir Gün",
-      "title": "Villarreal-PSG maçı saat kaçta, hangi kanalda? Şampiyonlar Ligi yayın bilgileri",
-      "summary": "Villarreal-PSG maçı ne zaman, saat kaçta başlayacak? UEFA Şampiyonlar Ligi karşılaşması hangi kanalda yayınlanacak? Maç şifresiz mi? Yanıtlar haberimizde.",
-      "link": "https://www.birgun.net/haber/villarreal-psg-maci-saat-kacta-hangi-kanalda-sampiyonlar-ligi-yayin-bilgileri-744268",
-      "published": "2026-11-03T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:10:56.843194+00:00"
-    },
-    {
-      "id": "0affadba47da3f90",
-      "source": "DonanımHaber",
-      "title": "Bilim-kurgu romanı Robokıyamet, Oscarlı yönetmen tarafından diziye dönüştürülüyor",
-      "summary": "Bir dönem Steven Spielberg tarafından büyük bütçeli bir filme dönüştürülmesi gündemde olan Robokıyamet (Robopocalypse), şimdi bir başka Oscar ödüllü yönetmen tarafından diziye uyarlanıyor.",
-      "link": "https://www.donanimhaber.com/bilim-kurgu-romani-robokiyamet-diziye-uyarlaniyor--212415",
-      "published": "2026-11-03T18:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:11:17.908796+00:00"
-    },
-    {
-      "id": "4ebafd171bf4903c",
-      "source": "Cumhuriyet",
-      "title": "111 lira yazıp 6 bin lira istediler: Satıcıya 1 milyon 83 bin 706 lira idari para cezası",
-      "summary": "Ticaret Bakanlığı, 111 lira fiyat yazıp satın almak isteyene 6 bin lira fiyat veren otomobil yedek parça satıcısına, 1 milyon 83 bin 706 lira idari para cezası verildiğini açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/111-lira-yazip-6-bin-lira-istediler-saticiya-1-milyon-83-bin-706-lira-idari-para-cezasi-2553013",
-      "published": "2026-11-03T18:09:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:15:52.852024+00:00"
-    },
-    {
-      "id": "8b5d7825b18bc519",
-      "source": "Euronews Türkçe",
-      "title": "'La bola negra', İspanya tarihinin en yüksek hasılatlı üçüncü yerli filmi oldu",
-      "summary": "Javier Calvo ve Javier Ambrossi'nin filmi 36,7 milyon avro hasılat yaptı ve yalnızca 'Ocho apellidos vascos' ile 'Lo imposible'nin gerisinde kaldı.",
-      "link": "https://tr.euronews.com/2026/11/03/la-bola-negra-ispanya-tarihinin-en-yuksek-hasilatli-ucuncu-yerli-filmi-oldu",
-      "published": "2026-11-03T18:06:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T18:16:18.757526+00:00"
-    },
-    {
-      "id": "ed7fedb7bab7d79c",
-      "source": "Türkiye Gazetesi",
-      "title": "SEÇİM GÜNÜ KRİZLERLE BAŞLADI!",
-      "summary": "ABD'de Kongre'nin geleceğini belirleyecek ara seçimlerde ilk sonuçlardan biri Pasifik Okyanusu'ndaki Guam'dan geldi. Demokrat Alicia Anne Garrido Limtiaco, Cumhuriyetçi rakibi James Craig Moylan'ı 662 oy farkla geride bıraktı. Minnesota'da erken oy kullanma rekoru kırılırken Florida'da Cumhuriyetçilerin katılım üstünlüğü geriledi. Bazı eyaletlerde sandık başında teknik arızalar ve usulsüzlük iddia",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/abd-secimlerinde-ilk-sonuc-geldi-trump-icin-geri-sayim-basliyor-1826982",
-      "published": "2026-11-03T18:05:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:40:51.605848+00:00"
-    },
-    {
-      "id": "22ff92b7e4c7b370",
-      "source": "Türkiye Gazetesi",
-      "title": "ABD seçimlerinde ilk sonuç geldi! Minnesota'da tarihi rekor",
-      "summary": "ABD'de Kongre'nin geleceğini belirleyecek ara seçimlerde ilk sonuçlardan biri Pasifik Okyanusu'ndaki Guam'dan geldi. Demokrat Alicia Anne Garrido Limtiaco, Cumhuriyetçi rakibi James Craig Moylan'ı 662 oy farkla geride bıraktı. Minnesota'da erken oy kullanma rekoru kırılırken Florida'da Cumhuriyetçilerin katılım üstünlüğü geriledi. Bazı eyaletlerde sandık başında teknik arızalar ve usulsüzlük iddia",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/abd-secimlerinde-ilk-sonuc-geldi-trump-icin-geri-sayim-basliyor-1826982",
-      "published": "2026-11-03T18:05:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:40:51.605886+00:00"
-    },
-    {
-      "id": "a239339cbad63874",
-      "source": "Türkiye Gazetesi",
-      "title": "FLORIDA'DAN TRUMP'A UYARI",
-      "summary": "ABD'de Kongre'nin geleceğini belirleyecek ara seçimlerde ilk sonuçlardan biri Pasifik Okyanusu'ndaki Guam'dan geldi. Demokrat aday Alicia Anne Garrido Limtiaco, görevdeki Cumhuriyetçi temsilci James Craig Moylan'ı 662 oy farkla geride bıraktı. Guam'daki sonuç Kongre çoğunluğunu değiştirmese de gözler, Başkan Donald Trump'ın partisinin Temsilciler Meclisi ve Senato'da yaşayabileceği kayıplara çevri",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/abd-secimlerinde-ilk-sonuc-geldi-trump-icin-geri-sayim-basliyor-1826982",
-      "published": "2026-11-03T18:05:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T19:55:42.691927+00:00"
     }
   ]
 }

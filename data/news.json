@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-04T01:11:07.341244+00:00",
+  "last_updated": "2026-11-04T01:16:07.294917+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 510,
+  "new_items_this_run": 505,
   "items": [
+    {
+      "id": "be87a23c77272232",
+      "source": "Euronews Türkçe",
+      "title": "Ara seçimi Demokratlar kazanırsa Trump azledilebilir mi?",
+      "summary": "ABD'de seçmenler, Kongre'nin iki kanadı olan Temsilciler Meclisi ve Senato'nun kontrolünü belirleyecek kritik ara seçimler için salı günü sandık başına gitti. Peki Demokratlar kazanırsa Trump'ı üçüncü kez azledebilirler mi?",
+      "link": "https://tr.euronews.com/2026/11/04/ara-secimi-demokratlar-kazanirsa-trump-azledilebilir-mi",
+      "published": "2026-11-04T01:15:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T01:16:07.293617+00:00"
+    },
     {
       "id": "ac2c6ef0a13e5b13",
       "source": "Diken",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T20:11:24.597366+00:00"
-    },
-    {
-      "id": "114672b39c31ea41",
-      "source": "OdaTV",
-      "title": "İstanbul'daki toprak kayması kamerada",
-      "summary": "Maltepe&#039;de gece saatlerinde etkili olan sağanak yağış sırasında bir inşaat alanında toprak kayması meydana geldi. Yıkılma anı güvenlik kamerasına yansırken, olay yeri havadan görüntülendi.",
-      "link": "https://www.odatv.com/guncel/istanbuldaki-toprak-kaymasi-kamerada-120169570",
-      "published": "2026-11-03T20:09:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:16:11.195707+00:00"
     }
   ]
 }

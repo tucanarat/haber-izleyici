@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-04T02:25:59.658234+00:00",
+  "last_updated": "2026-11-04T02:31:16.168809+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 507,
+  "new_items_this_run": 505,
   "items": [
+    {
+      "id": "1b7ca43f10e4c73a",
+      "source": "Euronews Türkçe",
+      "title": "ABD'de tarihin en pahalı ara seçimleri: 12 milyar dolar harcandı, milyarderler yarışa damga vurdu",
+      "summary": "ABD'de ara seçimler, yaklaşık 12 milyar dolarlık harcamayla ülke tarihinin en pahalı ara seçimleri olmaya hazırlanıyor. Elon Musk başta olmak üzere milyarderlerin bağışları rekor seviyelere ulaşırken, kaynağı açıklanmayan ve \"karanlık para\" diye adlandırılan bağışlar da tartışma yaratıyor.",
+      "link": "https://tr.euronews.com/2026/11/04/abdde-tarihin-en-pahali-ara-secimleri-12-milyar-dolar-harcandi-milyarderler-yarisa-damga-v",
+      "published": "2026-11-04T02:24:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T02:31:16.167594+00:00"
+    },
     {
       "id": "934b0712de4ac34f",
       "source": "Cumhuriyet",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T20:55:43.365681+00:00"
-    },
-    {
-      "id": "8966dc30cd42aa25",
-      "source": "Cumhuriyet",
-      "title": "Fenerbahçe Tarfin kendi evinde 2 sayı farkla kaybetti!",
-      "summary": "Fenerbahçe Tarfin, Kadınlar EuroLeague'in 4. haftasında kendi evinde ağırladığı Valencia Basket'e 73-71 mağlup oldu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-kendi-evinde-2-sayi-farkla-kaybetti-2553059",
-      "published": "2026-11-03T20:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:31:01.435039+00:00"
     }
   ]
 }

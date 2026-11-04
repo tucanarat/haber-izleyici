@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-04T01:35:52.650277+00:00",
+  "last_updated": "2026-11-04T01:41:04.690891+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 507,
+  "new_items_this_run": 508,
   "items": [
+    {
+      "id": "aa26cbef229c9939",
+      "source": "Akşam",
+      "title": "Riyad'da kırmızı alarm: Erken uyarı sistemi devreye girdi",
+      "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, başkent Riyad'da erken uyarı sisteminin tehlike alarmı verdiğini duyurdu. Yetkililer, tehlike geçene kadar güvenli alanlara geçilmesini istedi.",
+      "link": "https://www.aksam.com.tr/dunya/riyadda-kirmizi-alarm-erken-uyari-sistemi-devreye-girdi/haber-1711647",
+      "published": "2026-11-04T01:38:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T01:40:45.361890+00:00"
+    },
     {
       "id": "03440963f6693c23",
       "source": "Türkiye Gazetesi",
@@ -50,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T01:01:15.454908+00:00"
+    },
+    {
+      "id": "90eea450baf91eb3",
+      "source": "Yeni Şafak",
+      "title": "Kapsamlı bir suç yapılanması var",
+      "summary": "Yeni Şafak Gazetesi'nin 4 Kasım 2026 tarihli sayısına hoş geldiniz. Gündem, spor ve ekonomi sayfalarımızda bugünün öne çıkan haberlerini keşfedin.",
+      "link": "https://www.yenisafak.com/galeri/gundem/kapsamli-bir-suc-yapilanmasi-var-4869590",
+      "published": "2026-11-04T01:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T01:40:46.309231+00:00"
     },
     {
       "id": "c82c50010f2b449b",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T20:15:58.603232+00:00"
-    },
-    {
-      "id": "57119d285d61b38c",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 4 Filistinliyi yaraladı",
-      "summary": "İsrail askerleri de zeytine giden Filistinlilere göz yaşartıcı gaz bombaları atarak ve ateş açarak engel oldu.",
-      "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-4-filistinliyi-yaraladi/4110516",
-      "published": "2026-11-03T20:10:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:15:58.174776+00:00"
-    },
-    {
-      "id": "32e73f9dfbbaebfe",
-      "source": "Yeni Şafak",
-      "title": "Manisa’da hafif ticari araç ekskavatöre çarptı: Bir ölü iki yaralı",
-      "summary": "Manisa’nın Turgutlu ilçesinde hafif ticari aracın yol kenarında park halinde bulunan ekskavatöre çarpması sonucu meydana gelen kazada 67 yaşındaki vatandaş hayatını kaybetti, iki kişi yaralandı. Yaralılar çevredeki hastanelere kaldırılırken, ağır yaralanan Topalcık doktorların tüm müdahalelerine rağmen kurtarılamadı. Kazayla ilgili soruşturma başlatıldı.",
-      "link": "https://www.yenisafak.com/gundem/manisada-hafif-ticari-arac-ekskavatore-carpti-bir-olu-iki-yarali-4869534",
-      "published": "2026-11-03T20:10:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:16:05.321646+00:00"
     }
   ]
 }

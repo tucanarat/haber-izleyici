@@ -1,12 +1,45 @@
 {
-  "last_updated": "2026-11-04T02:36:00.388320+00:00",
+  "last_updated": "2026-11-04T02:41:06.810265+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 506,
+  "new_items_this_run": 507,
   "items": [
+    {
+      "id": "0badb653dc8c470a",
+      "source": "Euronews Türkçe",
+      "title": "ABD'de ilk seçim sonuçları Demokratların yükselişine işaret ediyor",
+      "summary": "ABD'de Kongre'nin kontrolünü belirleyecek ara seçimlerde ilk sonuçlar Türkiye saatiyle 05.00 civarında gelmeye başladı. Demokratlar, Kuzey Karolina'da Cumhuriyetçilerin elindeki bir Senato sandalyesini kazanırken Georgia'da da mevcut sandalyelerini korudu.",
+      "link": "https://tr.euronews.com/2026/11/04/abdde-ilk-secim-sonuclari-demokratlarin-yukselisine-isaret-ediyor",
+      "published": "2026-11-04T02:38:31+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T02:41:06.809105+00:00"
+    },
+    {
+      "id": "3405c6806d9d2ab1",
+      "source": "BBC News Türkçe",
+      "title": "ABD'de ara seçimler: İlk sonuçlar gelmeye başladı",
+      "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Sandıkların kapanmaya başladığı doğu ve orta kesim eyaletlerin bazılarından ilk sonuçlar gelmeye başladı.",
+      "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T02:37:48+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T02:41:06.428097+00:00"
+    },
+    {
+      "id": "42bfafba03616bb5",
+      "source": "Cumhuriyet",
+      "title": "ABD Senatosu'nda son durum: Demokratlar ve Cumhuriyetçiler arasında kıyasıya mücadele",
+      "summary": "ABD ara seçimlerinde Senato'daki güç mücadelesi sürüyor. NBC News'in Associated Press verilerine dayandırdığı sonuçlara göre an itibarıyla Demokratların hanesinde 45, Cumhuriyetçilerin hanesinde 35 sandalye bulunuyor.",
+      "link": "https://www.cumhuriyet.com.tr/dunya/abd-senatosu-nda-son-durum-demokratlar-ve-cumhuriyetciler-arasinda-kiyasiya-mucadele-2553101",
+      "published": "2026-11-04T02:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T02:40:43.469831+00:00"
+    },
     {
       "id": "810c589eb773f8fd",
       "source": "Türkiye Gazetesi",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T20:31:01.435020+00:00"
-    },
-    {
-      "id": "00e394a9dd03fbbe",
-      "source": "Habertürk",
-      "title": "ÇBK Mersin'den 30 sayı fark!",
-      "summary": "Eurocup D Grubu dördüncü maçında ÇİMSA ÇBK Mersin, deplasmanda Polonya temsilcisi Sleza Wroclaw'u 100-70 yendi.",
-      "link": "https://www.haberturk.com/spor/sleza-wroclaw-73-cimsa-cbk-mersin-100-mac-sonucu-3924734",
-      "published": "2026-11-03T20:28:14+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:40:46.406631+00:00"
-    },
-    {
-      "id": "bed0ab7479667483",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Fenerbahçe'de teknik direktörlük görevine Emre Belözoğlu getirildi",
-      "summary": "Fenerbahçe'de teknik direktörlük görevine Emre Belözoğlu getirildi.",
-      "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-teknik-direktorluk-gorevine-emre-belozoglu-getirildi/4110526",
-      "published": "2026-11-03T20:28:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:31:01.163979+00:00"
-    },
-    {
-      "id": "01ba2ce134291b61",
-      "source": "Akşam",
-      "title": "İran'dan Hürmüz Boğazı kararı: 4 ülkeye ait gemiler geçiş kısıtlamalarından muaf tutuldu",
-      "summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkan Yardımcısı Emir Hayat Mukaddem, Hürmüz Boğazı'nda Hindistan, Çin, Irak ve Katar'a ait gemilerin geçiş kısıtlamalarından muaf tutulduğunu söyledi.",
-      "link": "https://www.aksam.com.tr/dunya/irandan-hurmuz-bogazi-karari-4-ulkeye-ait-gemiler-gecis-kisitlamalarindan-muaf-tutuldu/haber-1711618",
-      "published": "2026-11-03T20:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:31:05.479872+00:00"
     }
   ]
 }

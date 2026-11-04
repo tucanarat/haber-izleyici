@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-04T03:25:56.053560+00:00",
+  "last_updated": "2026-11-04T03:31:27.041303+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 499,
+  "new_items_this_run": 470,
   "items": [
+    {
+      "id": "91ac7cba13cb6ee0",
+      "source": "BBC News Türkçe",
+      "title": "ABD'de ara seçimler: Demokratlar Temsilciler Meclisi'nde çoğunluğu sağlıyor",
+      "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. CBS News'un tahminine göre Demokratlar, ABD Temsilciler Meclisi'nde Cumhuriyetçilerin elinde olan çoğunluğu ele geçiriyor. Senato’da da kritik sandalyeler kazanan parti, çoğunluğu elde etmeye yaklaşıyor",
+      "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04T03:28:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T03:31:26.683854+00:00"
+    },
     {
       "id": "249a2d8ba358a81a",
       "source": "Anadolu Ajansı (Güncel)",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T20:55:43.365577+00:00"
-    },
-    {
-      "id": "7c25f66c845a1125",
-      "source": "Evrensel",
-      "title": "Fenerbahçe'de yeniden Emre Belözoğlu dönemi",
-      "summary": "Fenerbahçe, teknik direktörlük görevi için Kasımpaşa'yı çalıştıran eski kaptanı Emre Belözoğlu ile anlaştığını duyurdu.",
-      "link": "https://www.evrensel.net/haber/6007898/fenerbahcede-yeniden-emre-belozoglu-donemi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-03T20:46:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:55:43.365608+00:00"
     }
   ]
 }

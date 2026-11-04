@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-04T01:46:02.166159+00:00",
+  "last_updated": "2026-11-04T01:50:59.105264+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 508,
+  "new_items_this_run": 509,
   "items": [
+    {
+      "id": "f3fc63ba6f2ac75f",
+      "source": "Türkiye Gazetesi",
+      "title": "Samsun'da sokakta maymun alarmı",
+      "summary": "Samsun’un İlkadım ilçesinde sokakta görülen maymun, itfaiye ekiplerinin çalışması sonucu yakalanarak koruma altına alındı.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/samsunda-sokakta-maymun-alarmi-itfaiye-yakaladi-1827047",
+      "published": "2026-11-04T01:47:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-04T01:50:42.525562+00:00"
+    },
     {
       "id": "aa26cbef229c9939",
       "source": "Akşam",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-03T20:16:15.146493+00:00"
-    },
-    {
-      "id": "107e6e5d1d44ccfc",
-      "source": "Cumhuriyet",
-      "title": "Arda Turan'ın ekibi Shakhtar Donetsk, Sporting'e diş geçiremedi!",
-      "summary": "Arda Turan yönetimindeki Shakhtar Donetsk, UEFA Şampiyonlar Ligi'nin 4. haftasında karşılaştığı Sporting'e 1-0 mağlup oldu.",
-      "link": "https://www.cumhuriyet.com.tr/spor/arda-turan-in-ekibi-shakhtar-donetsk-sporting-e-dis-geciremedi-2553054",
-      "published": "2026-11-03T20:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-03T20:15:58.603232+00:00"
     }
   ]
 }

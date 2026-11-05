@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-05T03:46:08.409296+00:00",
+  "last_updated": "2026-11-05T03:51:06.580542+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 471,
+  "new_items_this_run": 478,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -50,6 +50,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-05T02:25:34.576983+00:00"
+    },
+    {
+      "id": "3b5154548b7bcc4a",
+      "source": "Akşam",
+      "title": "İslam'ın özü",
+      "summary": "",
+      "link": "https://www.aksam.com.tr/yazarlar/islamin-ozu/haber-1711976",
+      "published": "2026-11-05T03:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-05T03:50:50.303850+00:00"
+    },
+    {
+      "id": "48d67a0609b035aa",
+      "source": "OdaTV",
+      "title": "Emine Erdoğan Güney Koreli gençlerle buluştu... Kalpli mesaj verdi",
+      "summary": "Cumhurbaşkanı Erdoğan&#039;ın eşi Emine Erdoğan, Seul&#039;deki Yunus Emre Türk Kültür Merkezi&#039;nin açılışını yaptı. Türkçe öğrenen Koreli öğrencilerle buluşan Erdoğan, ülkeden dünyaya yayılan parmak kalp işaretiyle fotoğraf çektirdi.",
+      "link": "https://www.odatv.com/guncel/emine-erdogan-guney-koreli-genclerle-bulustu-kalpli-mesaj-verdi-120169757",
+      "published": "2026-11-05T03:43:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-05T03:50:53.521719+00:00"
     },
     {
       "id": "a1105da9bde9f5cf",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T20:35:43.972524+00:00"
-    },
-    {
-      "id": "b3f80a62fafebe8a",
-      "source": "Habertürk",
-      "title": "Pegasus'tan \"güvenlik açığı\" açıklaması",
-      "summary": "Pegasus Hava Yolları, şirket içi destek süreçlerinde kullanılan sistemlerde tespit edilen güvenlik açığının giderildiğini bildirdi",
-      "link": "https://www.haberturk.com/gundem/pegasus-tan-guvenlik-acigi-aciklamasi-3924993",
-      "published": "2026-11-04T20:24:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-04T20:35:29.588273+00:00"
-    },
-    {
-      "id": "cec7f792cd2d90d3",
-      "source": "Akşam",
-      "title": "Emaye tencere, teşekkür İngilizce!..",
-      "summary": "",
-      "link": "https://www.aksam.com.tr/yazarlar/emaye-tencere-tesekkur-ingilizce/haber-1711952",
-      "published": "2026-11-04T20:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-04T21:01:15.094663+00:00"
     }
   ]
 }

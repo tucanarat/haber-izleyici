@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-05T02:25:50.734625+00:00",
+  "last_updated": "2026-11-05T02:31:08.986336+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 467,
+  "new_items_this_run": 473,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -50,6 +50,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-05T02:25:34.576983+00:00"
+    },
+    {
+      "id": "2c1cbe19e81ba1b7",
+      "source": "Habertürk",
+      "title": "Adana'da 3,8 büyüklüğünde deprem",
+      "summary": "Adana'nın Kozan ilçesinde saat 03.41'de 3,8 büyüklüğünde deprem meydana geldi",
+      "link": "https://www.haberturk.com/gundem/adana-da-3-8-buyuklugunde-deprem-3925013",
+      "published": "2026-11-05T02:27:24+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-05T02:30:47.191636+00:00"
     },
     {
       "id": "5dad3630d139d967",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T20:11:05.018318+00:00"
-    },
-    {
-      "id": "1810cd29bf92f8a5",
-      "source": "Cumhuriyet",
-      "title": "Vedat Muriqi'ten galibiyet açıklaması: 'Fenerbahçe büyüklüğü budur'",
-      "summary": "Fenerbahçe'nin Kosovalı golcüsü Vedat Muriqi, 3-2 kazandıkları Liverpool maçının ardından görüşlerini aktardı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/vedat-muriqi-ten-galibiyet-aciklamasi-fenerbahce-buyuklugu-budur-2553404",
-      "published": "2026-11-04T20:06:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-04T20:10:42.528838+00:00"
     }
   ]
 }

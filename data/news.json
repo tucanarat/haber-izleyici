@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-05T01:05:54.674188+00:00",
+  "last_updated": "2026-11-05T01:11:11.971637+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 483,
+  "new_items_this_run": 474,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "043d92791dd3faa4",
+      "source": "Yeni Şafak",
+      "title": "Afyonkarahisar'da 4.1 büyüklüğünde deprem",
+      "summary": "Afyonkarahisar'ın Dinar ilçesinde saat 03.23'te 4,1 büyüklüğünde deprem meydana geldi.",
+      "link": "https://www.yenisafak.com/gundem/afyonkarahisarda-41-buyuklugunde-deprem-4869931",
+      "published": "2026-11-05T01:09:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-05T01:10:50.491842+00:00"
     },
     {
       "id": "abbd1818f7b63639",
@@ -4342,6 +4353,17 @@
       "fetched_at": "2026-11-04T20:35:31.916545+00:00"
     },
     {
+      "id": "fadff2c7042b5804",
+      "source": "Sözcü",
+      "title": "Fonların tasfiye sürecinde 55 bin 821 yatırımcıya ödeme yapıldı",
+      "summary": "Fonların tasfiye sürecinde 55 bin 821 yatırımcıya ödeme yapıldı",
+      "link": "https://www.sozcu.com.tr/fonlarin-tasfiye-surecinde-55-bin-821-yatirimciya-odeme-yapildi-p376094",
+      "published": "2026-11-04T20:32:17+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-05T01:10:45.452310+00:00"
+    },
+    {
       "id": "632b568538d5e980",
       "source": "Akşam",
       "title": "MAÇ SONUCU: AEK: 2 - Real Madrid: 3",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T20:35:33.508435+00:00"
-    },
-    {
-      "id": "02de8c1b8a3886c0",
-      "source": "BBC News Türkçe",
-      "title": "Fenerbahçe Liverpool'u yendi: 18 yıl sonra ilk Devler Ligi galibiyeti",
-      "summary": "Fenerbahçe, Şampiyonlar Ligi'ndeki dördüncü maçında İngiliz temsilcisi Liverpool'u Kadıköy'de 3-2 yendi.",
-      "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-04T19:42:57+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-04T19:46:15.845795+00:00"
-    },
-    {
-      "id": "dc80d39235acc2e0",
-      "source": "Türkiye Gazetesi",
-      "title": "Pegasus’ta güvenlik açığı alarmı!",
-      "summary": "Pegasus Hava Yolları, şirket içi sistemlerinde tespit edilen güvenlik açığının giderildiğini açıkladı. Şirket, yolcu bilgilerinin söz konusu sistemlerde yer almadığını ve uçuş operasyonlarının etkilenmediğini aktardı.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/pegasusta-guvenlik-acigi-alarmi-sirketten-aciklama-var-1827234",
-      "published": "2026-11-04T19:42:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-04T19:45:41.240508+00:00"
     }
   ]
 }

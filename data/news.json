@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-06T01:41:00.396003+00:00",
+  "last_updated": "2026-11-06T01:46:05.484056+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 501,
+  "new_items_this_run": 500,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "64211a3eda2384b0",
+      "source": "Milliyet",
+      "title": "AFAD duyurdu: Çanakkale Ayvacık açıklarında 3.9 büyüklüğünde deprem",
+      "summary": "Ege açıklarında 3.9 büyüklüğünde yaşanan sarsıntı saat 04.16 sıralarında gerçekleşti. AFAD depremin derinliğinin 9.25 kilometre olduğunu bildirdi. Depremin ayrıntıları şu şekilde: Büyüklük:3.9 (Ml) Yer:Ege Denizi - [55.36 km] Ayvacık (Çanakkale) Tarih:2026-11-06 Saat:04:16:31 TSİ Enlem:39.308 N Boylam:25.46233 E Derinlik:9.29 km Bakan Şimşek'ten emekli zammı açıklaması: Düzenleme tüm emeklilerimiz",
+      "link": "https://www.milliyet.com.tr/gundem/afad-duyurdu-canakkale-ayvacik-aciklarinda-3-9-buyuklugunde-deprem-7695400",
+      "published": "2026-11-06T01:42:30+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-06T01:45:46.918450+00:00"
     },
     {
       "id": "1ff79da61275a597",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-05T20:31:09.337442+00:00"
-    },
-    {
-      "id": "90288fcc61314c5e",
-      "source": "Cumhuriyet",
-      "title": "Hasan Al yazdı: Deneyim çok pahalı bir hazinedir",
-      "summary": "Hasan Al, UEFA Konferans Ligi'nin 3. haftasında Trabzonpor'un Freiburg'a 1-0 mağlup olduğu karşılaşmayı değerlendirdi.",
-      "link": "https://www.cumhuriyet.com.tr/spor/hasan-al-yazdi-deneyim-cok-pahali-bir-hazinedir-2553734",
-      "published": "2026-11-05T20:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-05T20:10:42.930279+00:00"
     }
   ]
 }

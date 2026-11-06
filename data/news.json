@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-06T01:35:56.336071+00:00",
+  "last_updated": "2026-11-06T01:41:00.396003+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 500,
+  "new_items_this_run": 501,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "1ff79da61275a597",
+      "source": "Türkiye Gazetesi",
+      "title": "Çanakkale açıklarında korkutan deprem",
+      "summary": "Ege Denizi son dakika bir depremle sallandı. Çanakkale'nin Ayvacık ilçesi açıklarında 3,9 büyüklüğünde bir deprem meydana geldi.",
+      "link": "https://www.turkiyegazetesi.com.tr/yasam/canakkale-aciklarinda-korkutan-deprem-iste-ilk-veriler-1827513",
+      "published": "2026-11-06T01:34:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-06T01:40:40.672480+00:00"
     },
     {
       "id": "faaff303316148da",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-05T20:10:42.930279+00:00"
-    },
-    {
-      "id": "df04487191644c30",
-      "source": "Akşam",
-      "title": "Enerji fiyatlarına müdahale yolda: G7 petrol stoklarını kullanıma açıyor",
-      "summary": "AB Komisyonu Başkanı Ursula von der Leyen, Uluslararası Enerji Ajansı Başkanı Fatih Birol ile Brüksel'de bir araya gelerek G7'nin uzlaştığı petrol stoklarının kullanıma sunulmasına yönelik adımları koordine ettiklerini açıkladı. İkili, enerji güvenliği ve COP31 sürecini de değerlendirdi.",
-      "link": "https://www.aksam.com.tr/dunya/enerji-fiyatlarina-mudahale-yolda-g7-petrol-stoklarini-kullanima-aciyor/haber-1712284",
-      "published": "2026-11-05T20:04:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-05T20:05:45.289740+00:00"
     }
   ]
 }

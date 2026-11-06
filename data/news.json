@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-06T00:25:50.087960+00:00",
+  "last_updated": "2026-11-06T00:31:20.448645+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 496,
+  "new_items_this_run": 469,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "e281e198f4c16d52",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İsrail ordusu ve Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da 4 Filistinliyi yaraladı",
+      "summary": "İsrail ordusu ve Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'da çiftçilere yönelik saldırılarında 4 Filistinli yaralandı, onlarca zeytin ağacı yakıldı.",
+      "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-4-filistinliyi-yaraladi/4113555",
+      "published": "2026-11-06T00:25:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-06T00:30:54.135928+00:00"
     },
     {
       "id": "23620d24b5a32eb2",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-05T19:45:53.652799+00:00"
-    },
-    {
-      "id": "48503dc1822f5f62",
-      "source": "ShiftDelete.Net",
-      "title": "Perplexity Teammates: İşinizi yapan yapay zeka",
-      "summary": "Perplexity Teammates, 5 Kasım'da Max abonelerine açıldı. Ajanlar komut beklemeden işleri takip ediyor, Slack'te mesaj atıyor. Peki işinizi ajana bırakır mısınız?",
-      "link": "https://shiftdelete.net/perplexity-teammates",
-      "published": "2026-11-05T19:44:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-05T19:46:08.255212+00:00"
     }
   ]
 }

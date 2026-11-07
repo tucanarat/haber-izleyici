@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-07T03:21:04.466378+00:00",
+  "last_updated": "2026-11-07T03:26:02.670308+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 454,
+  "new_items_this_run": 453,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -61,6 +61,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-07T02:31:05.674355+00:00"
+    },
+    {
+      "id": "3c35d6f4169efd04",
+      "source": "Bianet",
+      "title": "IKBY'de yönetim krizi: KYB hükümetten çekildi, paralel yönetimi gündeme getirdi",
+      "summary": "IKBY'de açık bir yönetim krizi patlak verdi. KDP, KYB ve müttefiklerinin boykotuna rağmen meclisi topladı ve başkanlık divanını seçti. KYB hükümetten çekildiklerini açıkladı. KDP'nin tek yanlı hükümet kurması halinde Süleymaniye'de paralel bir yönetim oluşturmakla tehdit etti.",
+      "link": "https://bianet.org/haber/ikby-de-yonetim-krizi-kyb-hukumetten-cekildi-paralel-yonetimi-gundeme-getirdi-325183",
+      "published": "2026-11-07T02:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-07T03:25:48.478437+00:00"
     },
     {
       "id": "3b77ef2990a8194c",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-06T19:25:41.958486+00:00"
-    },
-    {
-      "id": "641e9a02bf315e86",
-      "source": "Star",
-      "title": "MAÇ SONUCU: Antalyaspor 1-1 Bursaspor",
-      "summary": "Trendyol 1. Lig'in 14. haftasında Antalyaspor, sahasında karşılaştığı Bursaspor ile 1-1 berabere kaldı.",
-      "link": "https://www.star.com.tr/spor/mac-sonucu-antalyaspor-1-1-bursaspor-haber-2051729/",
-      "published": "2026-11-06T19:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-06T19:25:43.019392+00:00"
     }
   ]
 }

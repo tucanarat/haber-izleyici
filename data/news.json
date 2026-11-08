@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-08T22:41:01.134851+00:00",
+  "last_updated": "2026-11-08T22:46:04.424425+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 507,
+  "new_items_this_run": 506,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "ea74a0e52cea7d35",
+      "source": "Akşam",
+      "title": "Fenerbahçe Emre ile canlandı",
+      "summary": "İrfan Can ve Greenwood süper duble yaptı, Emre hoca Çorum'daki ilk sınavından yıldızlı 5 aldı. 12'de Greenwood perdeyi açtı, 21'de İrfan Can füzeyle 2-0 yaptı. 56'da Kahveci bu kez sağ ayağıyla yine uzaktan avladı. 63'te Greenwood da duble yaptı. Oğuz'un golüyle de şov tamamlandı.",
+      "link": "https://www.aksam.com.tr/spor/fenerbahce-emre-ile-canlandi/haber-1712999",
+      "published": "2026-11-08T22:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-08T22:45:48.339243+00:00"
+    },
+    {
+      "id": "be6bdc755ff6ff51",
+      "source": "Karar",
+      "title": "İnternette attığınız her adım yapay zeka modellerini eğitiyor",
+      "summary": "Dev teknoloji şirketleri, milyarlarca dolarlık yapay zeka modellerini geliştirmek için telifli kitaplardan kullanıcı sohbetlerine kadar uzanan devasa bir veri havuzunu işliyor. Bu sistemlerin arkasındaki devasa çark; Kenya'daki ucuz iş gücünden internet kullanıcılarının bedelsiz çözdüğü güvenlik testlerine kadar uzanan görünmeyen insan emeğiyle dönüyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/yapay-zeka-nasil-egitiliyor-yapay-zeka-egitiminde-kisisel-2083047",
+      "published": "2026-11-08T22:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-08T22:45:49.642436+00:00"
     },
     {
       "id": "fe6c5c38afc277de",
@@ -1139,6 +1161,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-08T21:30:56.191198+00:00"
+    },
+    {
+      "id": "6bf0771a00f2ceef",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor",
+      "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, toplam 247 kilometrelik akıllı ulaşım sistemi koridoru oluşturulmasına yönelik proje çalışmalarına devam ettiklerini bildirdi.",
+      "link": "https://www.aa.com.tr/tr/gundem/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor/4116352",
+      "published": "2026-11-08T21:14:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-08T22:45:38.865438+00:00"
     },
     {
       "id": "bb2586cfd0e6b1fc",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-08T17:55:39.767008+00:00"
-    },
-    {
-      "id": "e90580c81eb31d6c",
-      "source": "Karar",
-      "title": "Donanım dünyasını sarsan sızıntı: Nvidia RTX 5080 24GB modeli raflara geliyor",
-      "summary": "Ekran kartı pazarında dengeleri değiştirecek hamle için geri sayım başladı. Nvidia, 16 GB belleğe sahip RTX 5080 modelinin üretimini durdurarak 24 GB bellekli yeni sürümü beklenenden daha erken piyasaya sürecek. Aralık 2026 ile Ocak 2027 arasında raflara çıkması planlanan yeni grafik canavarı, pazarın zirvesine yerleşecek.",
-      "link": "https://www.karar.com/teknoloji-haberleri/rtx-5080-24gb-ne-zaman-cikacak-nvidia-yeni-ekran-karti-kac-gb-yeni-2083013",
-      "published": "2026-11-08T17:53:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-08T19:31:01.790598+00:00"
-    },
-    {
-      "id": "25d618c4e6b8526a",
-      "source": "Yeni Şafak",
-      "title": "Cumhurbaşkanı Erdoğan’dan Azerbaycan ziyaretine ilişkin paylaşım: Şimdi zaferi barışla taçlandırma zamanı",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan temaslarına ilişkin sanal medya hesabından paylaşımda bulundu. Cumhurbaşkanı Erdoğan yaptığı açıklamada \"Bundan 6 sene önce İlham kardeşimin dirayetli liderliğinde yekvücut olan Azerbaycan halkı, büyük bir kahramanlıkla Karabağ’ı yeniden hürriyetine kavuşturmuştur. Bu şanlı zafer, Azerbaycan’ın haklı davasının en güzel tezahürü, tüm Türk coğrafyasının",
-      "link": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-azerbaycan-ziyaretine-iliskin-paylasim-simdi-zaferi-barisla-taclandirma-zamani-4870800",
-      "published": "2026-11-08T17:52:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-08T17:55:38.825680+00:00"
-    },
-    {
-      "id": "fc3efb635764dd69",
-      "source": "Akşam",
-      "title": "MAÇ SONUCU: Galatasaray MCT Technic: 90 - Esenler Erokspor: 81",
-      "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 7. haftasında Galatasaray MCT Technic, sahasında karşılaştığı Esenler Erokspor'u 90-81 mağlup etti.",
-      "link": "https://www.aksam.com.tr/spor/mac-sonucu-galatasaray-mct-technic-90-esenler-erokspor-81/haber-1712956",
-      "published": "2026-11-08T17:52:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-08T17:55:38.471682+00:00"
     }
   ]
 }

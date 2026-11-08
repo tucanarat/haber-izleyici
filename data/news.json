@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-08T00:16:06.032694+00:00",
+  "last_updated": "2026-11-08T00:21:05.337593+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 502,
+  "new_items_this_run": 503,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "0a48998ee55bfb63",
+      "source": "Habertürk",
+      "title": "Üst geçidin ayağına saplandı: 2 ölü, 2 ağır yaralı",
+      "summary": "Gaziantep’te seyir halindeyken lastiği patlayan hafif ticari araç kontrolden çıkarak üst geçidin ayağına çarptı. Meydana gelen kazada 2 kişi hayatını kaybetti, 2 kişi ise ağır yaralandı",
+      "link": "https://www.haberturk.com/gundem/ust-gecidin-ayagina-saplandi-2-olu-2-agir-yarali-3925718",
+      "published": "2026-11-08T00:14:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-08T00:20:39.223652+00:00"
     },
     {
       "id": "2d7a1101c153478b",
@@ -996,6 +1007,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-07T21:45:42.839463+00:00"
+    },
+    {
+      "id": "839f68364b3e1880",
+      "source": "Bir Gün",
+      "title": "Şişli’de saatli bomba ihbarı: Oyuncak çıktı",
+      "summary": "Şişli'de çöp konteyneri kenarında dinamit şeklinde saatli bir cisim bulunduğu ihbarı üzerine olay yerine gelen bomba imha uzmanları cismi inceleyerek oyuncak olduğunu belirledi.",
+      "link": "https://www.birgun.net/haber/sislide-saatli-bomba-ihbari-oyuncak-cikti-745195",
+      "published": "2026-11-07T21:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-08T00:20:45.267365+00:00"
     },
     {
       "id": "d9841ca7510e45bf",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-07T18:15:36.974010+00:00"
-    },
-    {
-      "id": "4dca5da955ba27af",
-      "source": "Yeni Şafak",
-      "title": "Karabağ'da tarihi buluşma: Cumhurbaşkanı Erdoğan ile İlham Aliyev bir araya gelecek",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in daveti üzerine yarın Karabağ'ı ziyaret edecek.",
-      "link": "https://www.yenisafak.com/gundem/karabagda-tarihi-bulusma-cumhurbaskani-erdogan-ile-ilham-aliyev-bir-araya-gelecek-4870598",
-      "published": "2026-11-07T18:01:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-07T18:45:44.724217+00:00"
-    },
-    {
-      "id": "87e57701e2a492c5",
-      "source": "Yeni Şafak",
-      "title": "Cumhurbaşkanı Erdoğan yarın Karabağ'a gidecek",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in daveti üzerine yarın Karabağ'ı ziyaret edecek.",
-      "link": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-yarin-karabaga-gidecek-4870598",
-      "published": "2026-11-07T18:01:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-07T18:40:54.632181+00:00"
     }
   ]
 }

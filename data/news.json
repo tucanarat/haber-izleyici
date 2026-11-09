@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-09T15:16:01.458821+00:00",
+  "last_updated": "2026-11-09T15:21:12.018406+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 478,
+  "new_items_this_run": 473,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -19,6 +19,94 @@
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
     },
     {
+      "id": "f562f90b78d25532",
+      "source": "OdaTV",
+      "title": "Devlet Bahçeli'den 10 Kasım mesajı",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, Gazi Mustafa Kemal Atatürk&#039;ün ebediyete irtihalinin 88&#039;inci yıl dönümü dolayısıyla yayımladığı mesajda, Atatürk&#039;ü yaşatmanın yolunun eserine sahip çıkmak ve fikirlerini çağın gerçekleri doğrultusunda geliştirmek olduğunu vurguladı.",
+      "link": "https://www.odatv.com/guncel/devlet-bahceliden-10-kasim-mesaji-120170463",
+      "published": "2026-11-09T15:19:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:56.891319+00:00"
+    },
+    {
+      "id": "372a5c65dcbb0762",
+      "source": "OdaTV",
+      "title": "COP31’de İş Bankası imzası",
+      "summary": "İş Bankası, COP31’in ilk gününde iklim finansmanı, sürdürülebilir tarım ve yapay zekâ odaklı etkinliklerle öne çıktı. Zirvede iklim değişikliğine karşı finansman ve teknoloji temelli çözümler masaya yatırıldı.",
+      "link": "https://www.odatv.com/guncel/cop31de-is-bankasi-imzasi-120170462",
+      "published": "2026-11-09T15:18:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:56.891349+00:00"
+    },
+    {
+      "id": "4c70e708a5cb721f",
+      "source": "Yeni Akit",
+      "title": "10 işçi vefat etti! İzmir'deki fabrika patlamasında flaş gelişme",
+      "summary": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası'nda meydana gelen patlamada 10 işçi hayatını kaybetti, 15 işçi yaralandı. Menemen Cumhuriyet Başsavcılığınca başlatılan soruşturma kapsamında ise 5 kişi gözaltına alındı.",
+      "link": "https://www.yeniakit.com.tr/haber/10-isci-vefat-etti-izmirdeki-fabrika-patlamasinda-flas-gelisme-2032642.html",
+      "published": "2026-11-09T15:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:54.329344+00:00"
+    },
+    {
+      "id": "0dd92fca59eb250b",
+      "source": "Ekonomim",
+      "title": "Daikin Türkiye 11 yıllık liderliğini üç ödülle taçlandırdı",
+      "summary": "Daikin Türkiye, split klima ihracatında liderliği üst üste 11. kez elinde tutarken İSİB’in 2025 Yılı Başarılı İhracatçılar Ödül Töreni’nden üç ödülle döndü. “En Çok Split Klima İhracatı Yapan Firma” ödülünün yanı sıra “En Çok İhracat Yapan Firma” kategorisinde birincilik, “En Çok Klima Santrali, Rooftop, Fan-Coil ve Paket Tipi Klima İhracatı Yapan Firma” kategorisinde ise ikincilik elde eden şirke",
+      "link": "https://www.ekonomim.com/sirketler/daikin-turkiye-11-yillik-liderligini-uc-odulle-taclandirdi-haberi-930142",
+      "published": "2026-11-09T15:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:21:03.838330+00:00"
+    },
+    {
+      "id": "08a1ba38ddbe9690",
+      "source": "Cumhuriyet",
+      "title": "Devlet Bahçeli'den '10 Kasım' mesajı",
+      "summary": "MHP Genel Başkanı Devlet Bahçeli, Türkiye Cumhuriyeti'nin kurucusu Ulu Önder Mustafa Kemal Atatürk'ün ebediyete irtihalinin 88'inci yıl dönümüne ilişkin mesaj yayımladı.",
+      "link": "https://www.cumhuriyet.com.tr/siyaset/devlet-bahceli-den-10-kasim-mesaji-2554816",
+      "published": "2026-11-09T15:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:47.337783+00:00"
+    },
+    {
+      "id": "a0283e5dff97df79",
+      "source": "LOG",
+      "title": "Apple, Türkiye’ye uzun vadeli yatırım yapacağını duyurdu",
+      "summary": "Apple bugün yeni nesil içerik üreticilerini, yenilikçi girişimcileri ve üreticileri desteklemek ve Türkiye’nin uluslararası uygulama geliştirme alanında önde gelen merkezlerden biri haline gelmesine yardımcı olmak için Türkiye’ye uzun vadeli yatırım yapacağını açıkladı. Bu yatırım kapsamında beş yeni Apple Developer Academy ve bir Apple Developer Center açılacak. Bu programlar geliştiricilere, öğr",
+      "link": "https://www.log.com.tr/apple-turkiyeye-uzun-vadeli-yatirim-yapacagini-duyurdu/",
+      "published": "2026-11-09T15:16:09+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:21:07.599230+00:00"
+    },
+    {
+      "id": "e8a83cdb6ff8ff43",
+      "source": "Cumhuriyet",
+      "title": "İspanya La Liga'da ekim ayının en iyi teknik direktörü belli oldu!",
+      "summary": "Real Madrid Teknik Direktörü Jose Mourinho, İspanya 1. Futbol Ligi'nde (La Liga) ekim ayının en iyi teknik direktörü seçildi.",
+      "link": "https://www.cumhuriyet.com.tr/spor/ispanya-la-liga-da-ekim-ayinin-en-iyi-teknik-direktoru-belli-oldu-2554815",
+      "published": "2026-11-09T15:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:47.337811+00:00"
+    },
+    {
+      "id": "b15d39818692ec4f",
+      "source": "CNBC-e",
+      "title": "Togg Kasım 2026 kampanyalarını duyurdu: İşte Togg için sıfır faizli kredi fırsatları!",
+      "summary": "Togg, kasım ayında T10X ve T10F modelleri için güncel fiyatlarını ve finansman kampanyalarını duyurdu. Bireysel müşterilere 1,5 milyon TL'ye kadar sıfır faizli kredi seçenekleri sunulurken, uzun vadeli finansmanda aylık faiz oranı yüzde 2,95 olarak açıklandı.",
+      "link": "https://www.cnbce.com/otomotiv/togg-kasim-2026-kampanyalarini-duyurdu-iste-togg-icin-sifir-faizli-kredi-firsatlari-g41390",
+      "published": "2026-11-09T15:15:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:21:05.300236+00:00"
+    },
+    {
       "id": "55d4d923a23f4262",
       "source": "ShiftDelete.Net",
       "title": "iPhone 13 Özellikleri ve 2026'da Alınır Mı?",
@@ -28,6 +116,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T15:15:58.661963+00:00"
+    },
+    {
+      "id": "4d69d0c2578655a4",
+      "source": "Habertürk",
+      "title": "Koç Holding su taahhüdünü duyurdu",
+      "summary": "Koç Holding, Küresel İş Ortağı olduğu COP31 kapsamında düzenlediği “Kurumsal Eylemden Geniş Ölçekli Su Dayanıklılığına” başlıklı panelde su taahhüdünü duyurdu. 2025 baz yılına göre 2040’a kadar operasyonel tatlı su çekimini yüzde 85 azaltmayı hedefleyen Koç Holding, su kaynaklarının sürdürülebilirliği için öncü şirketleri bir araya getiren Water Resilience Coalition’a (WRC) katıldığını da açıkladı",
+      "link": "https://www.haberturk.com/ekonomi/koc-holding-su-taahhudunu-duyurdu-3926070",
+      "published": "2026-11-09T15:15:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:42.963796+00:00"
+    },
+    {
+      "id": "0ab9b862bb979ad5",
+      "source": "Aydınlık",
+      "title": "Denizli’de yenidoğanlara kalp hastalığı taraması yapılıyor",
+      "summary": "Kritik Doğuştan Kalp Hastalıkları Tarama Programı, 1 Eylül 2026’da Denizli’de uygulanmaya başladı. İlk iki ayda kent genelinde bin 131 yenidoğana nabız oksimetre yöntemiyle tarama yapıldı.",
+      "link": "https://www.aydinlik.com.tr/haber/denizlide-yenidogan-kalp-hastaligi-taramasi-basladi-598219",
+      "published": "2026-11-09T15:15:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:56.268637+00:00"
     },
     {
       "id": "7863e76510478add",
@@ -50,6 +160,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T15:15:48.036625+00:00"
+    },
+    {
+      "id": "23d9e75ac4d55291",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "SPK'den fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarı",
+      "summary": "Sermaye Piyasası Kurulu (SPK), fon yatırımcılarına yönelik dolandırıcılık amaçlı girişimlere ilişkin uyarıda bulundu.",
+      "link": "https://www.aa.com.tr/tr/ekonomi/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari/4117537",
+      "published": "2026-11-09T15:14:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:46.260520+00:00"
+    },
+    {
+      "id": "1a0bab75eb905070",
+      "source": "Habertürk",
+      "title": "Eylül Akarçeşme Yatgın ameliyat oldu",
+      "summary": "VakıfBank Spor Kulübü, milli voleybolcu Eylül Akarçeşme Yatgın'ın ameliyat edildiğini bildirdi.",
+      "link": "https://www.haberturk.com/spor/vakifbank-ta-eylul-akarcesme-yatgin-ameliyat-edildi-3926074",
+      "published": "2026-11-09T15:14:02+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:42.963828+00:00"
     },
     {
       "id": "73563d61f7dad41d",
@@ -83,6 +215,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T15:15:48.036662+00:00"
+    },
+    {
+      "id": "e8ff1dc958effff7",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Fransa'da işçi sendikalarından 17 Kasım'da genel grev çağrısı",
+      "summary": "Fransa'da Sarı Yeleklilerin yer yer sokağa çıktığı protestoların yanı sıra farklı şehirlerde öğrenci eylemleri haftalardır sürerken, ülkenin önde gelen sendikaları 17 Kasım'da genel grev ve eylem çağrısında bulundu.",
+      "link": "https://www.aa.com.tr/tr/dunya/fransada-isci-sendikalarindan-17-kasimda-genel-grev-cagrisi/4117533",
+      "published": "2026-11-09T15:12:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:46.260550+00:00"
     },
     {
       "id": "13af651877bdc22d",
@@ -173,6 +316,17 @@
       "fetched_at": "2026-11-09T15:10:52.444161+00:00"
     },
     {
+      "id": "d1e992affffba965",
+      "source": "Evrensel",
+      "title": "Bilecik'teki 5 aydır ücretlerini alamayan Döksan Fabrikası işçileri iş bıraktı",
+      "summary": "Bilecik'te yaklaşık 5 aydır ücretlerini alamayan Döksan Fabrikası işçileri iş bıraktı. Fabrika işçilerinden Sinan Elmas, \"Hakkımızı istemek için gittik ve arkadaşlara hakaret edildi, üzerlerine yüründü. Yani biz hakkımızı alamıyoruz\" dedi.",
+      "link": "https://www.evrensel.net/haber/6008708/bilecikteki-5-aydir-ucretlerini-alamayan-doksan-fabrikasi-iscileri-is-birakti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-09T15:07:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:48.851405+00:00"
+    },
+    {
       "id": "01afe455b606e5bd",
       "source": "Cumhuriyet",
       "title": "Öğrenci eylemleri sürerken... Fransa'da işçi sendikalarından 17 Kasım'da genel grev çağrısı",
@@ -226,6 +380,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T15:05:44.606833+00:00"
+    },
+    {
+      "id": "9556ddb6e075afb4",
+      "source": "Evrensel",
+      "title": "Apple Yönetim Kurulu Üyesi Tim Cook'tan Erdoğan'a ziyaret",
+      "summary": "Apple Yönetim Kurulu Üyesi Tim Cook, Türkiye ziyareti kapsamında Cumhurbaşkanı Recep Tayyip Erdoğan ile görüştü.",
+      "link": "https://www.evrensel.net/haber/6008707/apple-yonetim-kurulu-uyesi-tim-cooktan-erdogana-ziyaret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-09T15:05:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T15:20:48.851431+00:00"
     },
     {
       "id": "e18bcc57e313ecf5",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T13:01:33.021441+00:00"
-    },
-    {
-      "id": "e42b8c19275cb321",
-      "source": "ShiftDelete.Net",
-      "title": "Yeni telefonda 185 Hz ekran test ediliyor",
-      "summary": "Digital Chat Station, bir telefon üreticisinin 185 Hz ekran yenileme hızı sunan yeni bir model denediğini açıkladı. Cihazın bir Redmi telefon olabileceği ileri sürülüyor.",
-      "link": "https://shiftdelete.net/185-hz-ekran-yeni-telefon-test-ediliyor",
-      "published": "2026-11-09T13:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:34.517541+00:00"
-    },
-    {
-      "id": "b83cc282c11f987e",
-      "source": "DonanımHaber",
-      "title": "Renault’nun küçük SUV’si Avrupa’ya Dacia olarak gelebilir",
-      "summary": "Renault’nun Hindistan için geliştirdiği Bridger, Dacia markasıyla Avrupa’ya gelebilir. Dört metreden kısa SUV’nin elektrikli versiyonu, Dacia’nın ürün gamına katılması düşünülen modeller arasında.",
-      "link": "https://www.donanimhaber.com/renault-nun-kucuk-suv-si-avrupa-ya-dacia-olarak-gelebilir--212668",
-      "published": "2026-11-09T13:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:35.337847+00:00"
-    },
-    {
-      "id": "cba0b7adde2a9184",
-      "source": "LOG",
-      "title": "Türkiye’de de satılacak Xiaomi 18 Pro serisinin küresel lansman tarihi paylaşıldı",
-      "summary": "Bugün yapılan paylaşıma göre Xiaomi 18 Pro ve 18 Pro Max modellerinin küresel lansmanı 17 Kasım tarihinde gerçekleştirilecek. Türkiye fiyatları yüksek ihtimalle etkinlik kapsamında belli olacak telefonlar, Çin dışındaki pazarlara “siyah, mavi, beyaz ve bordo” renk seçenekleriyle götürülecek. İlk olarak Çin’de satışa sunulan cihazlardan 18 Pro, geçtiğimiz hafta İtalya merkezli bir satış kanalında 1",
-      "link": "https://www.log.com.tr/turkiyede-de-satilacak-xiaomi-18-pro-serisinin-kuresel-lansman-tarihi-paylasildi/",
-      "published": "2026-11-09T12:59:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:34.020189+00:00"
-    },
-    {
-      "id": "b2373d8c2286ca85",
-      "source": "Türkiye Gazetesi",
-      "title": "O YORUMA FENA PATLADI",
-      "summary": "Apple CEO'su Tim Cook'un İstanbul ziyareti sırasında röportaj yaptığı Buse Terim, sosyal medyada babası Fatih Terim üzerinden gelen eleştirilere sert çıkıştı.",
-      "link": "https://www.turkiyegazetesi.com.tr/magazin/applein-ceosuyla-roportaj-yapti-sosyal-medya-karisti-fatih-terimin-kizi-elestirisine-1828191",
-      "published": "2026-11-09T12:59:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:05:39.018161+00:00"
-    },
-    {
-      "id": "b6761832a2d16c40",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 10 Kasım Salı Yengeç Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 10 Kasım Salı Yengeç Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/yengec-burcu/gunluk-burc-yorumlari-10-kasim-sali-yengec-burcu-yorumu-2554768",
-      "published": "2026-11-09T12:59:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:10.793670+00:00"
-    },
-    {
-      "id": "b652cec881988fb2",
-      "source": "Kısa Dalga",
-      "title": "Bir dakikada bugün ne oldu?",
-      "summary": "Bugünün önemli gelişmelerini 10 başlıkta sizin için derledik...",
-      "link": "https://kisadalga.net/kisadalgatv/detay/bir-dakikada-bugun-ne-oldu-752-141519",
-      "published": "2026-11-09T12:58:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:23.461542+00:00"
-    },
-    {
-      "id": "081c2c8ad962814e",
-      "source": "Karar",
-      "title": "Uğurcan Çakır eski günlerinin uzağında",
-      "summary": "Galatasaray'ın deneyimli file bekçisi Uğurcan Çakır, bu sezon ortaya koyduğu performansla beklentilerin altında kaldı. Deneyimli file bekçisi, bu sezon Süper Lig'de görev alan 18 kaleci arası arasında kurtarış yüzdesi sıralamasında 15. sırada yer aldı.",
-      "link": "https://www.karar.com/spor-haberleri/ugurcan-cakir-eski-gunlerinin-uzaginda-1-2083192",
-      "published": "2026-11-09T12:58:17+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:19.957408+00:00"
-    },
-    {
-      "id": "8d4938a757471f7f",
-      "source": "Türkiye Gazetesi",
-      "title": "Olimpiyat şampiyonu, cumhurbaşkanlığına aday oldu!",
-      "summary": "Fransa'nın dünyaca ünlü judocusu ve beş kez Olimpiyat şampiyonu olan Teddy Riner, 2027 cumhurbaşkanlığı seçimlerinde aday olduğunu açıkladı. Siyaset geçmişi bulunmayan 37 yaşındaki sporcu, kendisini ne sağda ne de solda gördüğünü söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/olimpiyat-sampiyonu-riner-cumhurbaskanligina-aday-oldu-1828190",
-      "published": "2026-11-09T12:58:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:35:37.160571+00:00"
-    },
-    {
-      "id": "5dd1d8ba91424785",
-      "source": "Türkiye Gazetesi",
-      "title": "Olimpiyat şampiyonu Riner, cumhurbaşkanlığına aday oldu!",
-      "summary": "Fransa'nın dünyaca ünlü judocusu ve beş kez Olimpiyat şampiyonu olan Teddy Riner, 2027 cumhurbaşkanlığı seçimlerinde aday olduğunu açıkladı. Siyaset geçmişi bulunmayan 37 yaşındaki sporcu, kendisini ne sağda ne de solda gördüğünü söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/olimpiyat-sampiyonu-riner-cumhurbaskanligina-aday-oldu-1828190",
-      "published": "2026-11-09T12:58:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:15:43.393781+00:00"
-    },
-    {
-      "id": "27a84a03eefe17c1",
-      "source": "Türkiye Gazetesi",
-      "title": "Olimpiyat şampiyonu Riner, cumhurbaşkanlığına aday oldu!",
-      "summary": "Fransa'nın dünyaca ünlü judocusu ve beş kez Olimpiyat şampiyonu olan Teddy Riner, 2027 cumhurbaşkanlığı seçimlerinde aday olduğunu açıkladı. Siyaset geçmişi bulunmayan 37 yaşındaki sporcu, kendisini ne sağda ne de solda gördüğünü söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/dunyaca-unlu-olimpiyat-sampiyonu-cumhurbaskanligina-aday-oldu-1828190",
-      "published": "2026-11-09T12:58:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:10:43.781274+00:00"
-    },
-    {
-      "id": "c6876fc822e546f0",
-      "source": "Türkiye Gazetesi",
-      "title": "Dünyaca ünlü Olimpiyat şampiyonu Teddy Riner cumhurbaşkanlığına aday oldu!",
-      "summary": "Fransa'nın dünyaca ünlü judocusu ve beş kez Olimpiyat şampiyonu olan Teddy Riner, 2027 cumhurbaşkanlığı seçimlerinde aday olduğunu açıkladı. Siyaset geçmişi bulunmayan 37 yaşındaki sporcu, kendisini ne sağda ne de solda gördüğünü söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/dunyaca-unlu-olimpiyat-sampiyonu-cumhurbaskanligina-aday-oldu-1828190",
-      "published": "2026-11-09T12:58:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:05:39.018179+00:00"
-    },
-    {
-      "id": "9011347c3a0c8094",
-      "source": "Türkiye Gazetesi",
-      "title": "Dünyaca ünlü Olimpiyat şampiyonu cumhurbaşkanlığına aday oldu!",
-      "summary": "Fransa'nın dünyaca ünlü judocusu ve beş kez Olimpiyat şampiyonu olan Teddy Riner, 2027 cumhurbaşkanlığı seçimlerinde aday olduğunu açıkladı. Siyaset geçmişi bulunmayan 37 yaşındaki sporcu, kendisini ne sağda ne de solda gördüğünü söyledi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/dunyaca-unlu-olimpiyat-sampiyonu-cumhurbaskanligina-aday-oldu-1828190",
-      "published": "2026-11-09T12:58:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:13.029094+00:00"
-    },
-    {
-      "id": "227d12ab709de00b",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 10 Kasım Salı Boğa Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 10 Kasım Salı Boğa Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/boga-burcu/gunluk-burc-yorumlari-10-kasim-sali-boga-burcu-yorumu-2554764",
-      "published": "2026-11-09T12:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:10.793687+00:00"
-    },
-    {
-      "id": "ea0d8d1d794eab2a",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 10 Kasım Salı Kova Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 10 Kasım Salı Kova Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/kova-burcu/gunluk-burc-yorumlari-10-kasim-sali-kova-burcu-yorumu-2554765",
-      "published": "2026-11-09T12:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:10.793701+00:00"
-    },
-    {
-      "id": "25087483adc8571f",
-      "source": "Cumhuriyet",
-      "title": "Günlük Burç Yorumları: 10 Kasım Salı Balık Burcu Yorumu",
-      "summary": "Günlük Burç Yorumları: 10 Kasım Salı Balık Burcu Yorumu",
-      "link": "https://www.cumhuriyet.com.tr/astroloji/balik-burcu/gunluk-burc-yorumlari-10-kasim-sali-balik-burcu-yorumu-2554766",
-      "published": "2026-11-09T12:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T13:01:10.793716+00:00"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-09T12:31:40.362173+00:00",
+  "last_updated": "2026-11-09T12:36:05.030231+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 439,
+  "new_items_this_run": 462,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -19,6 +19,127 @@
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
     },
     {
+      "id": "e7fccf6a6ed51098",
+      "source": "Karar",
+      "title": "Son dakika! Adana'da korkutan deprem",
+      "summary": "Adana'da 4,6 büyüklüğünde bir deprem meydana geldi.",
+      "link": "https://www.karar.com/sehir-haberleri/son-dakika-adanada-korkutan-deprem-2-2083185",
+      "published": "2026-11-09T12:35:19+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:47.937177+00:00"
+    },
+    {
+      "id": "dfaab9980ec36811",
+      "source": "Akşam",
+      "title": "Avrupa'da uçaklara yönelik tehdit büyüyor! AB acil toplantı kararı aldı",
+      "summary": "Avrupa Birliği (AB) Komisyonu, Avrupa'da farklı uçuşlara yönelik bomba ihbarlarını görüşmek üzere 11 Kasım'da havacılık güvenliği uzmanlarıyla toplantı düzenleneceğini bildirdi.",
+      "link": "https://www.aksam.com.tr/dunya/avrupada-ucaklara-yonelik-tehdit-buyuyor-ab-acil-toplanti-karari-aldi/haber-1713138",
+      "published": "2026-11-09T12:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:44.948316+00:00"
+    },
+    {
+      "id": "a00a26524be8c939",
+      "source": "CNBC-e",
+      "title": "Tarih verildi: ECB'nin yeni başkanı Lagarde görevi bırakmadan belli olacak",
+      "summary": "Euro Grubu Başkanı Kiryakos Pierrakakis, Avrupa Merkez Bankası (ECB) başkanlığına ilişkin seçim sürecinin yıl sonuna kadar tamamlanmasının hedeflendiğini açıkladı. İspanya'nın Pablo Hernandez de Cos, Hollanda'nın ise Klaas Knot adaylığını sunduğu süreçte liderler düzeyinde siyasi uzlaşı aranacak.",
+      "link": "https://www.cnbce.com/haberler/tarih-verildi-ecbnin-yeni-baskani-lagarde-gorevi-birakmadan-belli-olacak-h41376",
+      "published": "2026-11-09T12:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:58.609349+00:00"
+    },
+    {
+      "id": "5a0cbc4b24a5fa17",
+      "source": "Star",
+      "title": "Arafta Sorular'da helal-haram çıkışı: Herkes kendisine göre bir İslam tasavvuru ortaya koymuş",
+      "summary": "24 TV'de Arafta Sorular programına konuk olan Prof. Dr. İsmail Hakkı Aydın, haram kazanç ve kul hakkına dikkat çekerek toplumda kişiye göre değişen din anlayışlarının tehlikeli sonuçlar doğurabileceğini söyledi. Aydın, \"Helale haram, harama helal demek küfürdür. Herkes kendisine göre bir İslam tasavvuru ortaya koymuş. 'Adem ettiğin bulur bu alemde, kendi bulmaz ise ceza, miras kalır evladına'. Ama",
+      "link": "https://www.star.com.tr/guncel/arafta-sorularda-helal-haram-cikisi-herkes-kendisine-gore-bir-islam-tasavvuru-ortaya-koymus-haber-2052270/",
+      "published": "2026-11-09T12:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:46.482796+00:00"
+    },
+    {
+      "id": "e7c4edb71064136a",
+      "source": "CNBC-e",
+      "title": "Zeytinyağı ucuzlayınca harekete geçtiler: 188 bin ton satışa sunulmayacak",
+      "summary": "Dünyanın en büyük zeytinyağı üreticisi İspanya, fiyatlardaki düşüşü durdurmak için tarihi bir karar aldı. Üretimin yüzde 12'sine denk gelen yaklaşık 188 bin ton zeytinyağı piyasadan çekilecek. Uygulama, Eylül 2027'ye kadar devam edecek.",
+      "link": "https://www.cnbce.com/tarim/zeytinyagi-ucuzlayinca-harekete-gectiler-188-bin-ton-satisa-sunulmayacak-h41375",
+      "published": "2026-11-09T12:33:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:58.609384+00:00"
+    },
+    {
+      "id": "90cea290624a403f",
+      "source": "Milliyet",
+      "title": "'Casusluk' davasında MİT raporu mahkemeye ulaştı! Hüseyin Gün'ün telefon rehberinde MI6, CIA ve MOSSAD bağlantıları",
+      "summary": "İstanbul 25. Ağır Ceza Mahkemesince, dava konusu olan bazı elektronik postaların göndericileri, \"ibb.gov.tr\" uzantılı sistemlere erişim sağlayan kullanıcı IP kayıtları ve güvenlik log kayıtlarının tespitine ilişkin MİT'ten istenen yazıda, sanık Hüseyin Gün'ün dijital verilerinde yer aldığı belirtilen ve ibb.gov.tr'ye ilişkin olduğu ileri sürülen mail adresleri ile domain kullanıcı adı ve şifreleri",
+      "link": "https://www.milliyet.com.tr/gundem/casusluk-davasinda-mit-raporu-mahkemeye-ulasti-huseyin-gunun-telefon-rehberinde-mi6-cia-ve-mossad-baglantilari-7697426",
+      "published": "2026-11-09T12:33:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:44.452666+00:00"
+    },
+    {
+      "id": "e334cec247218e2b",
+      "source": "Ekonomim",
+      "title": "Hazine iki ihaleyle 73,4 milyar lira borçlandı",
+      "summary": "Hazine, 2 ve 4 yıl vadeli devlet tahvillerinin yeniden ihracını gerçekleştirdiği iki ihalede toplam 73 milyar 399,7 milyon lira borçlanmaya gitti.",
+      "link": "https://www.ekonomim.com/ekonomi/hazine-iki-ihaleyle-734-milyar-lira-borclandi-haberi-930113",
+      "published": "2026-11-09T12:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:57.463105+00:00"
+    },
+    {
+      "id": "05b4f31bb52a0341",
+      "source": "Türkiye Gazetesi",
+      "title": "Galatasaray'dan ayrıldı, yıllar sonra davet aldı",
+      "summary": "Galatasaray'dan ayrıldıktan sonra Rapid Wien'e imza atan Yusuf Demir, bu sezon çıktığı 19 maçta 15 gollük skor katkısı sağladı. Performansıyla dikkatleri üzerine çeken genç futbolcu, 5 yıl aradan sonra Avusturya Milli Takımı'na döndü.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/galatasaraylilar-saskin-super-ligden-ayrildi-yillar-sonra-davet-aldi-1828185",
+      "published": "2026-11-09T12:32:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:40.048613+00:00"
+    },
+    {
+      "id": "aa8deec684e16d1d",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Paris'te eylem yapan liselilere polis müdahalesi",
+      "summary": "Fransa'nın başkenti Paris'te eylem yapan bir grup liseliye polis göz yaşartıcı gazla müdahale etti.",
+      "link": "https://www.aa.com.tr/tr/dunya/pariste-eylem-yapan-liselilere-polis-mudahalesi/4117319",
+      "published": "2026-11-09T12:31:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:35.723821+00:00"
+    },
+    {
+      "id": "408fda1a9d1a43ea",
+      "source": "Cumhuriyet",
+      "title": "90'lı yılların ünlü şarkıcısı Alihan TikTok'ta slime yayınlarıyla gündemde: Beklediği hediyeler gelmeyince tepki gösterdi",
+      "summary": "90'lı yıllarda çıkardığı albümlerle tanınan şarkıcı Alihan, TikTok'ta açtığı canlı yayında slime yapıp izleyicilerden sanal hediye talep etti. Beklediği hediyelerin gönderilmemesi üzerine kullanıcılara tepki gösteren sanatçının o anları sosyal medyada gündem oldu.",
+      "link": "https://www.cumhuriyet.com.tr/magazin/90-li-yillarin-unlu-sarkicisi-alihan-tiktok-ta-slime-yayinlariyla-gundemde-bekledigi-hediyeler-gelmeyince-tepki-gosterdi-2554750",
+      "published": "2026-11-09T12:31:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:36.518500+00:00"
+    },
+    {
+      "id": "45a18e7b3c9f328c",
+      "source": "Aydınlık",
+      "title": "SAP, yapay zekâ ve veri araçlarını genişletti",
+      "summary": "SAP, SAP TechEd’de geliştiricilere yapay zekâ ajanı oluşturma ve mevcut ajanları genişletme olanağı sunan yeniliklerini duyurdu. Şirket, veri bağlamı ile yönetişim araçlarını da geliştirdi.",
+      "link": "https://www.aydinlik.com.tr/haber/sap-yapay-zeka-ve-veri-cozumlerini-yeniledi-598202",
+      "published": "2026-11-09T12:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:49.528399+00:00"
+    },
+    {
       "id": "2655a17b4e9167e6",
       "source": "ShiftDelete.Net",
       "title": "GTA 6 ön yükleme saatleri belli oldu",
@@ -28,6 +149,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T12:31:36.991528+00:00"
+    },
+    {
+      "id": "fef4413ae33d5d5e",
+      "source": "Aydınlık",
+      "title": "MHP'li Feti Yıldız: 'Ortada büyük bir suç yapılanması var'",
+      "summary": "TBMM Plan ve Bütçe Komisyonunda konuşan MHP Genel Başkan Yardımcısı Feti Yıldız, fon vurgunu tartışmalarına ilişkin ortada örgütlü büyük bir suç yapılanması olduğunu söyledi. Yıldız, &quot;Çok sayıda suç var. Bu suçların örgütlü suçlar olduğu da açıktır&quot; dedi.",
+      "link": "https://www.aydinlik.com.tr/haber/mhpli-feti-yildiz-ortada-buyuk-bir-suc-yapilanmasi-var-598206",
+      "published": "2026-11-09T12:29:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:49.528441+00:00"
+    },
+    {
+      "id": "a9d60791c5e808a4",
+      "source": "Bianet",
+      "title": "Kadınlar Meclis’e seslendi: Nafaka hakkımızı daraltmayın",
+      "summary": "Açıklamada, Anayasa Mahkemesi’nin (AYM) haziran ayında yoksulluk nafakasına ilişkin düzenlemedeki “süresiz” ibaresini kaldırma kararının ardından nafaka hakkının yeniden tartışmaya açıldığı hatırlatıldı.",
+      "link": "https://bianet.org/haber/kadinlar-meclise-seslendi-nafaka-hakkimizi-daraltmayin-325235",
+      "published": "2026-11-09T12:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:51.077038+00:00"
     },
     {
       "id": "7987c2d393c0dac7",
@@ -118,6 +261,17 @@
       "fetched_at": "2026-11-09T12:31:00.194199+00:00"
     },
     {
+      "id": "80fa1d89796c9257",
+      "source": "Türkiye Gazetesi",
+      "title": "Yapay zekayla patron kılığına girdiler! Şirketlerden 129 milyon dolar çalındı",
+      "summary": "ABD'de yapay zekayla şirket yöneticilerinin seslerini ve görüntülerini taklit eden üç kişinin, çalışanları kandırarak 129 milyon dolardan fazla para çaldığı ortaya çıktı. Hastanelerden bankalara kadar çok sayıda kuruluşu hedef alan şüpheliler, milyonlarca doları farklı ülkelerdeki hesaplara aktardı. Çalınan paraların izini kaybettirmek için kripto para kullanıldı.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/yapay-zekayla-ceolarin-yerine-gectiler-129-milyon-dolarlik-vurgun-sirketleri-iflasin-1828184",
+      "published": "2026-11-09T12:26:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:40.048656+00:00"
+    },
+    {
       "id": "9dfab6eb34955406",
       "source": "Türkiye Gazetesi",
       "title": "Yapay zekayla CEO'ların yerine geçtiler! 129 milyon dolarlık vurgun yüzünden şirketler iflasın eşiğinde",
@@ -204,6 +358,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T12:25:40.631526+00:00"
+    },
+    {
+      "id": "549e52c6eee544fd",
+      "source": "Sabah",
+      "title": "İzmir’de korkutan patlama! Görgü tanıkları dehşeti böyle anlattı: 'Sanki yer kabuğu altımızdan kaydı'",
+      "summary": "İzmir Aliağa'daki HABAŞ demir çelik fabrikasında meydana gelen şiddetli patlama çevrede büyük paniğe neden oldu. Patlamada 6 kişi hayatını kaybetti, 2'si ağır 14 kişi de yaralandı. “Deprem oluyor sandık”,... Devamı için tıklayınız",
+      "link": "https://www.sabah.com.tr/yasam/izmirde-korkutan-patlama-gorgu-taniklari-dehseti-boyle-anlatti-sanki-yer-kabugu-altimizdan-kaydi-7698202",
+      "published": "2026-11-09T12:22:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:44.570013+00:00"
     },
     {
       "id": "a55326fccaa4200a",
@@ -347,6 +512,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T12:25:35.193108+00:00"
+    },
+    {
+      "id": "9e83c55d64790ee1",
+      "source": "Evrensel",
+      "title": "Veli Saçılık’ın omzunun kırılmasıyla ilgili soru önergesine 1,5 yıl sonra cevap verildi: Bakan Çiftçi “polis şiddeti yok” dedi",
+      "summary": "Gergerlioğlu’nun, Veli Saçılık’ın omuzunun kırılmasıyla ilgili Ankara Valiliği'nin AYM kararına rağmen failler hakkında soruşturma izni vermemesine dair soru önergesine Bakan Çiftçi tarafından 1,5 yıl sonra verilen cevapta “polis şiddeti yok” denildi.",
+      "link": "https://www.evrensel.net/haber/6008673/veli-sacilikin-omzunun-kirilmasiyla-ilgili-soru-onergesine-15-yil-sonra-cevap-verildi-bakan-ciftci-polis-siddeti-yok-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-09T12:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:41.054687+00:00"
+    },
+    {
+      "id": "0c2e69c6ea169d71",
+      "source": "Evrensel",
+      "title": "Apple Yönetim Kurulu Başkanı Tim Cook Türkiye'de",
+      "summary": "Apple Yönetim Kurulu Başkanı Tim Cook, İstanbul'daki ziyaretlerinin ardından Ankara'ya gitti. Anıtkabir'i ziyaret eden Cook, Fenerbahçe Kadın Voleybol Takımı kaptanı Eda Erdem'le de bir araya geldi.",
+      "link": "https://www.evrensel.net/haber/6008672/apple-yonetim-kurulu-baskani-tim-cook-turkiyede?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-09T12:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:41.054724+00:00"
     },
     {
       "id": "29514a6590e039b7",
@@ -822,6 +1009,17 @@
       "fetched_at": "2026-11-09T12:10:47.216267+00:00"
     },
     {
+      "id": "74e2fe8d094b2b89",
+      "source": "Ekonomim",
+      "title": "TCMB rezervleri 3 haftalık düşüşün ardından yükselişe geçti",
+      "summary": "TCMB verilerinden yaptığı hesaplamaya göre, toplam rezervlerin 6 Kasım haftasında 3,2 milyar dolar artarak 161,3 milyar dolara yükseldiği ve üç haftalık düşüş serisinin sona erdiği tahmin ediliyor.",
+      "link": "https://www.ekonomim.com/ekonomi/tcmb-rezervleri-3-haftalik-dususun-ardindan-yukselise-gecti-haberi-930112",
+      "published": "2026-11-09T12:09:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:57.463189+00:00"
+    },
+    {
       "id": "4112d4c4a358d4af",
       "source": "Cumhuriyet",
       "title": "Kartalkaya Aile Platformu üyeleri, Adalet Bakanlığı’na siyah çelenk bıraktı",
@@ -976,6 +1174,17 @@
       "fetched_at": "2026-11-09T12:05:46.736170+00:00"
     },
     {
+      "id": "59c739c4e14e9eb1",
+      "source": "Independent Türkçe",
+      "title": "İran, nükleer bomba seçeneğini yeniden gündeme getiriyor... Neden şimdi?",
+      "summary": "Cevad Laricani'nin İran'ın nükleer bomba üretme kapasitesine ilişkin açıklamaları, mevcut gerilim ortamında nükleer silah edinmenin ne ölçüde gerekli olduğu konusundaki tartışmaları yeniden alevlendirdi. İran Dini Lideri'nin danışmanı Laricani, 30 Ekim'de televizyonda yayımlanan açıklamalarında, \"Nükleer bomba üretmek İran için çocuk oyuncağı. İran bu alanda İsrail, Pakistan ve Hindistan'dan daha ",
+      "link": "https://www.indyturk.com/node/784982/d%C3%BCnyadan-sesler/i%CC%87ran-n%C3%BCkleer-bomba-se%C3%A7ene%C4%9Fini-yeniden-g%C3%BCndeme-getiriyor-neden-%C5%9Fimdi",
+      "published": "2026-11-09T12:04:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:54.436865+00:00"
+    },
+    {
       "id": "8568f7db04d32a0f",
       "source": "Independent Türkçe",
       "title": "İBB Davası'nda Çalık'tan tahliye talebi: Tek isteğim yaşam hakkımın korunması",
@@ -1031,6 +1240,17 @@
       "fetched_at": "2026-11-09T12:05:46.736201+00:00"
     },
     {
+      "id": "9a4294e232f3be8b",
+      "source": "Habertürk",
+      "title": "26 yaşındaki Mihriban'ı boğarak katletmişti! Şaşırtan savunma",
+      "summary": "İzmir'de, cesedi toprağa gömülü bulunan 26 yaşındaki Mihriban Yılmaz'ın öldürülmesine ilişkin 1'i tutuklu 5 sanığın yargılanmasına devam edildi. Tutuklu sanık Fatih İnan'ın, Mihriban Yılmaz'ın ziynet eşyaları ve telefonunu aldığı iddiasıyla 'hırsızlık' suçundan hazırlanan ek iddianame ana dosyayla birleştirildi. İnan, \"Niyetim elinden telefonu almak ve sadece susturmaktı. Bunun için hamle yaptım. ",
+      "link": "https://www.haberturk.com/gundem/son-dakika-izmir-haberleri-26-yasindaki-mihriban-yilmaz-i-bogarak-katletmisti-sasirtan-savunma-3925986",
+      "published": "2026-11-09T12:02:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:32.285575+00:00"
+    },
+    {
       "id": "7e660cc9a58a1cb2",
       "source": "Cumhuriyet",
       "title": "Çin toplam ne kadar altın aldı? 10 aylık bilanço belli oldu",
@@ -1073,6 +1293,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T12:01:29.425422+00:00"
+    },
+    {
+      "id": "09b12cd8446a1dd9",
+      "source": "Karar",
+      "title": "İstanbul'da 406 kilo 800 gram uyuşturucu ele geçirildi",
+      "summary": "İstanbul'un Esenyurt ve Silivri ilçelerinde düzenlenen uyuşturucu operasyonunda 406 kilogram 800 gram sentetik uyuşturucu ele geçirildi. Gözaltına alınan bir şüpheli adliyeye sevk edildi.",
+      "link": "https://www.karar.com/sehir-haberleri/istanbulda-406-kilo-800-gram-uyusturucu-ele-gecirildi-2083184",
+      "published": "2026-11-09T12:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:47.937486+00:00"
     },
     {
       "id": "afa6a2f6ab5159a3",
@@ -2910,6 +3141,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T11:20:52.221359+00:00"
+    },
+    {
+      "id": "eec787fd554caca1",
+      "source": "Aydınlık",
+      "title": "İran: 'Cehennemi üzerinize yağdırırız'",
+      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ile devam eden gerilime ilişkin yaptığı açıklamada, İran lideri Mücteba Hamaney&#039;in &quot;ne savaş ne barış&quot; şeklindeki mevcut durumun sona erdirilmesi yönünde talimat verdiğini bildirdi.",
+      "link": "https://www.aydinlik.com.tr/haber/iran-cehennemi-uzerinize-yagdiririz-598192",
+      "published": "2026-11-09T11:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T12:35:49.528653+00:00"
     },
     {
       "id": "02dce8787c9d5ce7",
@@ -5264,248 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T10:31:05.173871+00:00"
-    },
-    {
-      "id": "7722f0603e0687a5",
-      "source": "Independent Türkçe",
-      "title": "Erdoğan: Türkiye ve Azerbaycan arasında dayanışma, kader ortaklığı ve kardeşlik hukuku var",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetiyle gerçekleştirdiği Şuşa ziyaretinin ardından ülkeye dönüşte gazetecilere açıklamalarda bulundu. Erdoğan ile yapılan röportaj şu şekilde: Bir süredir çeşitli spekülasyonlar yapıldı. Fakat hep Azerbaycan'la Türkiye arasındaki iş birliğine yönelik iyi mesajlar verdiniz. Bugün de o mesajların en güçlüsünü Şuşa'dan bey",
-      "link": "https://www.indyturk.com/node/784974/haber/erdo%C4%9Fan-t%C3%BCrkiye-ve-azerbaycan-aras%C4%B1nda-dayan%C4%B1%C5%9Fma-kader-ortakl%C4%B1%C4%9F%C4%B1-ve-karde%C5%9Flik",
-      "published": "2026-11-09T10:21:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:31:03.005975+00:00"
-    },
-    {
-      "id": "0b613453ca6592cd",
-      "source": "Independent Türkçe",
-      "title": "YENİ Parti'de Parti Meclisi 150 üyeye çıkarıldı",
-      "summary": "YENİ Parti Genel Başkanı Özgür Özel başkanlığında toplanan Kurucular Kurulu'nda 80 üyeli Parti Meclisi'nin 150'ye çıkarılması onaylandı. Hafta sonu yapılacak 1'inci Olağan Kurultay’da belirlenecek 150 kişilik Parti Meclisi; yasama grubu, örgüt grubu ve politika geliştirme grubu olmak üzere üç gruptan oluşacak. YENİ Parti’nin Kurucular Kurulu ve PM toplantıları, bugün parti genel merkezinde Genel B",
-      "link": "https://www.indyturk.com/node/784973/siyaset/yeni%CC%87-partide-parti-meclisi-150-%C3%BCyeye-%C3%A7%C4%B1kar%C4%B1ld%C4%B1",
-      "published": "2026-11-09T10:21:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:25:52.706679+00:00"
-    },
-    {
-      "id": "6b5c1a13f341fd2a",
-      "source": "Bir Gün",
-      "title": "Pezeşkiyan, Mücteba Hamaney'in ABD talimatını duyurdu",
-      "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Mücteba Hamaney'in ABD ile yaşanan \"ne savaş ne barış\" durumuna son verilmesi talimatını verdiğini açıkladı. Pezeşkiyan, diyalog ve müzakereye açık olduklarını ancak teslim olmayacaklarını söyledi.",
-      "link": "https://www.birgun.net/haber/pezeskiyan-mucteba-hamaney-in-abd-talimatini-duyurdu-745436",
-      "published": "2026-11-09T10:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T11:15:44.536978+00:00"
-    },
-    {
-      "id": "f90225c2490a9bea",
-      "source": "Cumhuriyet",
-      "title": "Trump'tan seçim sonrası ilk röportaj: 2028 başkanlık seçimlerinde kimi destekleyeceğini açıkladı!",
-      "summary": "ABD Başkanı Donald Trump, Cumhuriyetçilerin ara seçim yenilgisinde nelerin etkili olduğunu açıkladı. Göçmen politikalarının aşırı sert olduğunu söyleyen Trump ayrıca 2028 başkanlık seçimlerinde hangi adayı destekleyeceğini açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/trump-tan-secim-sonrasi-ilk-roportaj-2028-baskanlik-secimlerinde-kimi-destekleyecegini-acikladi-2554711",
-      "published": "2026-11-09T10:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:25:34.675096+00:00"
-    },
-    {
-      "id": "d8aaee18d027f072",
-      "source": "Aydınlık",
-      "title": "Cumhurbaşkanı Yardımcısı Yılmaz: ‘Türkiye ve Çin ortak vizyona sahip’",
-      "summary": "Türkiye-Çin Yeşil Kalkınma İş Forumu&#039;nda konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, iki ülkenin enerji ve yeşil dönüşüm alanında ortak bir vizyona sahip olduğunu belirtti. Yılmaz, ticaret hacminin 53 milyar dolara ulaştığını belirterek ihracat dengesi hedefine dikkat çekti.",
-      "link": "https://www.aydinlik.com.tr/haber/cumhurbaskani-yardimcisi-yilmaz-turkiye-ve-cin-ortak-vizyona-sahip-598188",
-      "published": "2026-11-09T10:20:48+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:20:53.734558+00:00"
-    },
-    {
-      "id": "3cac9f671f3a1fed",
-      "source": "OdaTV",
-      "title": "Aziz başkan Fenerbahçe'nin gençlerini yalnız bırakmadı",
-      "summary": "Fenerbahçe&#039;nin eski başkanı Aziz Yıldırım, Çorum&#039;da oynanan U-19 karşılaşmasını tribünden takip etti. Yıldırım&#039;ın mücadeleyi tek başına izlediği anlar sosyal medyada gündem oldu.",
-      "link": "https://www.odatv.com/spor/aziz-baskan-fenerbahcenin-genclerini-yalniz-birakmadi-120170393",
-      "published": "2026-11-09T10:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:35:47.171225+00:00"
-    },
-    {
-      "id": "cd7b72a2c6cb9d3c",
-      "source": "Cumhuriyet",
-      "title": "Engelli oğlunu öldürdü, ‘terör örgütüne katıldı’ deyip kayıp başvurusu yaptı: 12 yıl sonra tutuklandı",
-      "summary": "Batman'da 2014’te zihinsel engelli oğlu Ekrem Bakar’ın (33) terör örgütüne katıldığını iddia ederek kayıp başvurusunda bulunan R.B.’nin, oğlunu maddi anlaşmazlık nedeniyle öldürdüğü ortaya çıktı. 12 yıl sonra gözaltına alınan R.B., çıkarıldığı mahkemece tutuklandı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/engelli-oglunu-oldurdu-teror-orgutune-katildi-deyip-kayip-basvurusu-yapti-12-yil-sonra-tutuklandi-2554710",
-      "published": "2026-11-09T10:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:25:34.675139+00:00"
-    },
-    {
-      "id": "92f1b50ebda22d96",
-      "source": "Karar",
-      "title": "Eski Apple CEO'su Tim Cook, Anıtkabir'i ziyaret etti: 'Benim için büyük bir onur'",
-      "summary": "Apple Yönetim Kurulu Başkanı Tim Cook, Türkiye temasları kapsamında Ankara'ya giderek Anıtkabir'i ziyaret etti. Sosyal medya hesabından paylaşımda bulunan Cook, 10 Kasım Atatürk'ü Anma Günü öncesinde Anıtkabir'de bulunmaktan onur duyduğunu ifade etti.",
-      "link": "https://www.karar.com/guncel-haberler/eski-apple-ceosu-tim-cook-anitkabiri-ziyaret-etti-benim-icin-buyuk-bir-2083151",
-      "published": "2026-11-09T10:19:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:20:52.579758+00:00"
-    },
-    {
-      "id": "c296d7101181aad7",
-      "source": "OdaTV",
-      "title": "Suzan Sabancı, dünyaca ünlü şarkıcı dostu Diana Ross ile buluştu",
-      "summary": "Dünyaca ünlü şarkıcı Diana Ross, İstanbul ziyaretinde 30 yıllık dostu Suzan Sabancı ile buluştu. Özel davette bir araya gelen ikili, hasret giderdi.",
-      "link": "https://www.odatv.com/magazin/suzan-sabanci-dunyaca-unlu-sarkici-dostu-diana-ross-ile-bulustu-120170414",
-      "published": "2026-11-09T10:18:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:20:54.265149+00:00"
-    },
-    {
-      "id": "3eead7fd662e1d7c",
-      "source": "OdaTV",
-      "title": "Vincenzo Italiano'ya 'kamyon şoförü' benzetmesi",
-      "summary": "Spor yorumcusu Emre Bol, İtalyan teknik direktör Vincenzo Italiano&#039;nun giyim tarzını hedef aldı. Italiano&#039;ya takım elbise ve kravat takması çağrısında bulunan Bol, “Abi kamyon şoförü gibisin ya” ifadelerini kullandı.",
-      "link": "https://www.odatv.com/spor/emre-boldan-vincenzo-italianoya-kamyon-soforu-benzetmesi-120170413",
-      "published": "2026-11-09T10:18:27+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:20:54.265177+00:00"
-    },
-    {
-      "id": "871bd09a3eb57a70",
-      "source": "Habertürk",
-      "title": "Geri manevra yaptı, yolcular isyan etti!",
-      "summary": "Manisa'da 11 kişinin hayatını kaybettiği otobüs faciasının ardından benzer bir tehlikeli hareket bu kez Bursa'da yaşandı. Bursa-Gebze seferini yapan yolcu otobüsünün şoförü, yanlış yöne girince otoyolda geri geri gitmeye başladı. Yolcuların \"Canımızı tehlikeye atıyorsun\" diyerek tepki göstermesine rağmen manevrasını sürdüren şoför, kendisini uyaran vatandaşlarla tartıştı. Şoförün \"İnsanız ya, kaçı",
-      "link": "https://www.haberturk.com/gundem/akillara-manisa-kazasi-geldi-yolcu-otobusu-otoyolda-geri-manevra-yapti-yolcular-isyan-etti-3925975",
-      "published": "2026-11-09T10:18:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:30:50.798206+00:00"
-    },
-    {
-      "id": "7fa8b77f0c844f91",
-      "source": "Akşam",
-      "title": "İzmir'de silahlı saldırıda 1 kişi hayatını kaybetti",
-      "summary": "İzmir'in Tire ilçesinde silahlı saldırıda 1 kişi hayatını kaybetti.",
-      "link": "https://www.aksam.com.tr/guncel/izmirde-silahli-saldirida-1-kisi-hayatini-kaybetti/haber-1713101",
-      "published": "2026-11-09T10:18:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:20:50.342550+00:00"
-    },
-    {
-      "id": "2c80272847ac558f",
-      "source": "Euronews Türkçe",
-      "title": "Nvidia hissesi, CEO Huang hakkındaki yabancı casusluk iddialarıyla geriledi",
-      "summary": "Nvidia'nın hisse fiyatı, piyasa açılışı öncesinde, yatırımcıların yöneticilerinden birinin yabancı istihbarat hedefi olduğu iddialarına dair gelişmeleri takip etmesiyle kırmızıdaydı.",
-      "link": "https://tr.euronews.com/2026/11/09/nvidia-hissesi-ceo-huang-hakkindaki-yabanci-casusluk-iddialariyla-geriledi",
-      "published": "2026-11-09T10:17:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:21:08.366569+00:00"
-    },
-    {
-      "id": "3053b9514872265a",
-      "source": "Habertürk",
-      "title": "Tim Cook Anıtkabir'i ziyaret etti",
-      "summary": "Apple Yönetim Kurulu İcra Başkanı Tim Cook Ankara'da Anıtkabir'i ziyaret etti",
-      "link": "https://www.haberturk.com/ekonomi/tim-cook-anitkabir-i-ziyaret-etti-3925988",
-      "published": "2026-11-09T10:17:09+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:25:31.019761+00:00"
-    },
-    {
-      "id": "f90b383fafb735d1",
-      "source": "Habertürk",
-      "title": "İzmir'de fabrikada şiddetli patlama!",
-      "summary": "İzmir Aliağa'da demir çelik fabrikasında patlama sonrası yangın çıktı. Bölgeye çok sayıda itfaiye ve sağlık ekibi sevk edildi",
-      "link": "https://www.haberturk.com/son-dakika-izmir-de-fabrikada-patlama-3925982",
-      "published": "2026-11-09T10:17:04+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:25:31.019788+00:00"
-    },
-    {
-      "id": "de9bd8d761a9aa95",
-      "source": "OdaTV",
-      "title": "Bagajı açan şaşkına dönüyor... Atatürk, Mevlana, Nasreddin Hoca: 350 bin liralık Türkiye müzesi",
-      "summary": "Osmaniye&#039;nin Kadirli ilçesinde Yusuf Demir ve dört arkadaşı, otomobilin bagajını Türkiye ve Atatürk temalı minyatür müzeye dönüştürdü. İki ayı aşkın sürede tamamlanan ve yaklaşık 350 bin liraya mal olan proje, otomobilin değerini geride bıraktı.",
-      "link": "https://www.odatv.com/guncel/bagaji-acan-saskina-donuyor-ataturk-mevlana-nasreddin-hoca-350-bin-liralik-turkiye-muzesi-120170412",
-      "published": "2026-11-09T10:16:50+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:40:48.516754+00:00"
-    },
-    {
-      "id": "6adb631083f61500",
-      "source": "Karar",
-      "title": "Kar kalınlığı 20 santimetre oldu Sarıkamış beyaz gelinlik giydi: Sezona geri sayım başladı!",
-      "summary": "Kar yağışının etkili olduğu Sarıkamış’ta kar kalınlığı 20 santimetreyi buldu. Bölge beyaz örtüyle kaplanırken kayak sezonu için de geri sayım başladı!",
-      "link": "https://www.karar.com/guncel-haberler/kar-kalinligi-20-santimetre-oldu-sarikamis-beyaz-gelinlik-giydi-sezona-2083150",
-      "published": "2026-11-09T10:16:37+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:20:52.579788+00:00"
-    },
-    {
-      "id": "8c7dd2a2290bf66c",
-      "source": "Kısa Dalga",
-      "title": "Akın Gürlek duyurdu: 73 dosyada 80 faili meçhul cinayet aydınlatıldı",
-      "summary": "Adalet Bakanı Akın Gürlek, 5 \"faili meçhul\" cinayetin yeniden ele alındığını, şüphelilerinin tutuklandığını veya gözaltına alındığını; bugüne kadar da 73 dosyada 80 cinayetin \"faili meçhul\" olmaktan çıkarıldığını bildirdi.",
-      "link": "https://kisadalga.net/haber/gundem/akin-gurlek-duyurdu-73-dosyada-80-faili-mechul-cinayet-aydinlatildi-141512",
-      "published": "2026-11-09T10:16:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:20:55.839541+00:00"
-    },
-    {
-      "id": "e27618a5337f3a89",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Türkiye-Mısır Dostluk Denizi-2026 Tatbikatı \"Seçkin Gözlemci Günü\" yapıldı",
-      "summary": "Milli Savunma Bakanlığı Deniz Kuvvetleri Komutanlığı ile Mısır Deniz Kuvvetleri Komutanlığınca düzenlenen “Dostluk Denizi-2026 (Bahr El Sadaka) Tatbikatı\"nın seçkin gözlemci günü safhası İskenderiye açıklarında gerçekleştirildi.",
-      "link": "https://www.aa.com.tr/tr/gundem/turkiye-misir-dostluk-denizi-2026-tatbikati-seckin-gozlemci-gunu-yapildi/4117008",
-      "published": "2026-11-09T10:16:10+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:40:40.059976+00:00"
-    },
-    {
-      "id": "4ee7d5fbe6887192",
-      "source": "Evrensel",
-      "title": "Özgür Özel'den Aliyev'e telefon: 'İlişkilerin geliştirilmesinde yapıcı katkıya hazırız'",
-      "summary": "Yeni Parti Genel Başkanı Özgür Özel, Karabağ Zaferi’nin 6'ncı yıl dönümü dolayısıyla Azerbaycan Cumhurbaşkanı İlham Aliyev ile telefonda görüştü.",
-      "link": "https://www.evrensel.net/haber/6008653/ozgur-ozelden-aliyeve-telefon-iliskilerin-gelistirilmesinde-yapici-katkiya-haziriz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-09T10:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:30:54.618615+00:00"
-    },
-    {
-      "id": "3d489d2daf8bbd03",
-      "source": "Finans Gündem",
-      "title": "Putin'den JTI'a yeni müdahale: 3 şirket daha devredildi",
-      "summary": "Putin, JTI'ın Rusya'daki üç şirketini daha geçici yönetime devretti. Kararla birlikte Japon tütün devinin ülkedeki satış ve ticari faaliyetleri üzerindeki kontrol genişledi.",
-      "link": "https://www.finansingundemi.com/haber/putinden-jtia-yeni-mudahale-3-sirket-daha-devredildi/1914179",
-      "published": "2026-11-09T10:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:21:02.774609+00:00"
-    },
-    {
-      "id": "5b9565819e57a755",
-      "source": "Akşam",
-      "title": "Milli ara ne zaman bitecek? 2026-2027 milli ara takvimi!",
-      "summary": "Milli maçlar nedeniyle liglere verilen aranın sona ereceği tarih futbolseverler tarafından araştırılıyor. A Milli Futbol Takımı'nın UEFA Uluslar Ligi karşılaşmalarının ardından kulüp maçları yeniden başlayacak. Peki, milli ara ne zaman bitecek? İşte detaylar...",
-      "link": "https://www.aksam.com.tr/trend/milli-ara-ne-zaman-bitecek-2026-2027-milli-ara-takvimi/haber-1713100",
-      "published": "2026-11-09T10:16:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T10:15:49.755436+00:00"
     }
   ]
 }

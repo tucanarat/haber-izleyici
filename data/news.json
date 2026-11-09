@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-09T22:41:08.464743+00:00",
+  "last_updated": "2026-11-09T22:46:07.240640+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 464,
+  "new_items_this_run": 466,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,39 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "0502078d17359de6",
+      "source": "Akşam",
+      "title": "Sane'de 2 seçenek",
+      "summary": "Alman basınında yer alan habere göre; Leroy Sane ara transfer döneminde Suudi Arabistan veya ABD MLS Ligi'ne gidecek. Sarı-Kırmızılı Yönetim de gelecek teklife göre karar verecek.",
+      "link": "https://www.aksam.com.tr/spor/sanede-2-secenek/haber-1713259",
+      "published": "2026-11-09T22:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T22:45:50.396936+00:00"
+    },
+    {
+      "id": "b88f2964b6bab341",
+      "source": "Star",
+      "title": "SpaceX'ten 24 milyar dolarlık yatırım: Doğal gaz santrali ve süper bilgisayar tesisi kurulacak",
+      "summary": "SpaceX, Texas'taki Starbase kentinde doğal gazla çalışan elektrik santrali ve süper bilgisayar tesisi kurmayı planlıyor. Projenin ilk aşamaları için tahmini yatırım tutarı 24 milyar dolar olarak açıklandı.",
+      "link": "https://www.star.com.tr/dunya/spacexten-24-milyar-dolarlik-yatirim-dogal-gaz-santrali-ve-super-bilgisayar-tesisi-kurulacak-haber-2052375/",
+      "published": "2026-11-09T22:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T22:45:51.324938+00:00"
+    },
+    {
+      "id": "c04b09e2c60bb67f",
+      "source": "Star",
+      "title": "Roma, Molina'yı Arjantin Milli Takımı'na göndermiyor",
+      "summary": "Roma, Arjantin Milli Takımı'nın kasım ayı kampına çağırdığı Nahuel Molina'yı kadroya göndermeme kararı aldı.",
+      "link": "https://www.star.com.tr/spor/roma-molinayi-arjantin-milli-takimina-gondermiyor-haber-2052374/",
+      "published": "2026-11-09T22:42:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T22:45:51.324963+00:00"
     },
     {
       "id": "22b70b3fdb96da32",
@@ -39,6 +72,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T22:40:50.687078+00:00"
+    },
+    {
+      "id": "02147a640c3ab943",
+      "source": "Habertürk",
+      "title": "Hamas'tan Barış Kurulu'na tepki",
+      "summary": "Hamas, Barış Kurulu'nun Gazze Şeridi'ndeki sel felaketinin nedenlerine ilişkin \"çarpıtılmış bir anlatı\" sunduğunu belirterek, konseyin ABD Başkanı Donald Trump'ın planının uygulanmasını engelleyen ve yardımların girişini kısıtlayan İsrail'in sorumluluğunu görmezden geldiğini bildirdi.",
+      "link": "https://www.haberturk.com/dunya/hamas-tan-baris-kurulu-na-tepki-3926137",
+      "published": "2026-11-09T22:36:16+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T22:45:41.982523+00:00"
     },
     {
       "id": "e20ab1ad57b65175",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-09T18:01:10.279207+00:00"
-    },
-    {
-      "id": "add303b078ce509a",
-      "source": "Evrensel",
-      "title": "Urfa'da cami inşaatındaki iskelenin çökmesi sonucu 3 işçi yaralandı",
-      "summary": "Urfa'nın Viranşehir ilçesinde cami inşaatında iskelenin çökmesi sonucu 3 işçi yaralandı.",
-      "link": "https://www.evrensel.net/haber/6008722/urfa-da-cami-insaatindaki-iskelenin-cokmesi-sonucu-3-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-09T17:56:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T18:05:42.355728+00:00"
-    },
-    {
-      "id": "7dc259f9e88de78e",
-      "source": "Yeni Yaşam",
-      "title": "Rojin Kabaiş’in ailesine yönelik saldırıya tepki: 2 yıldır kimleri koruyorsunuz?",
-      "summary": "Rojin İçin Adalet Komisyonu, Rojin Kabaiş’in amcası Ahmet Kabaiş’e yönelik saldırıya dair yaptığı basın açıklamasında Aileye yönelik tehditlere rağmen hiç bir önlemin alınmadığını belirterek etkin soruşturma talebinde bulundu Rojin İçin Adalet Komisyonu, 8 Kasım&#8217;da gerçekleşen Rojin Kabaiş’in amcası Ahmet Kabaiş’e yönelik saldırıya tepki gösterdi. Aileye yönelik tehdit mesajlarına ve evlerin",
-      "link": "https://yeniyasamgazetesi10.com/rojin-kabaisin-ailesine-yonelik-saldirilara-tepki-2-yildir-kimleri-koruyorsunuz/",
-      "published": "2026-11-09T17:55:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T18:01:19.799306+00:00"
-    },
-    {
-      "id": "1108799c62346a68",
-      "source": "Yeni Yaşam",
-      "title": "Rojin Kabaiş’in ailesine yönelik saldırılara tepki: 2 yıldır kimleri koruyorsunuz?",
-      "summary": "Rojin İçin Adalet Komisyonu, Rojin Kabaiş’in amcası Ahmet Kabaiş’e yönelik saldırıya dair yaptığı basın açıklamasında Aileye yönelik tehditlere rağmen hiç bir önlemin alınmadığını belirterek etkin soruşturma talebinde bulundu Rojin İçin Adalet Komisyonu, 8 Kasım&#8217;da gerçekleşen Rojin Kabaiş’in amcası Ahmet Kabaiş’e yönelik saldırıya tepki gösterdi. Aileye yönelik tehdit mesajlarına ve evlerin",
-      "link": "https://yeniyasamgazetesi10.com/rojin-kabaisin-ailesine-yonelik-saldirilara-tepki-2-yildir-kimleri-koruyorsunuz/",
-      "published": "2026-11-09T17:55:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T17:55:55.338289+00:00"
-    },
-    {
-      "id": "d9950ce4341e8d94",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Fransa Dışişleri Bakanı Barrot: (Marketlere) siber saldırının sorumluluğu İran Devrim Muhafızları'na ait",
-      "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, ekimde Fransa'da yüzlerce market zincirini hedef alan siber saldırının sorumlusunun İran Devrim Muhafızları Ordusu olduğunu söyledi.",
-      "link": "https://www.aa.com.tr/tr/dunya/fransa-disisleri-bakani-barrot-marketlere-siber-saldirinin-sorumlulugu-iran-devrim-muhafizlarina-ait/4117829",
-      "published": "2026-11-09T17:55:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-09T18:01:07.882362+00:00"
     }
   ]
 }

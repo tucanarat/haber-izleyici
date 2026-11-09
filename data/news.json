@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-09T02:36:09.225572+00:00",
+  "last_updated": "2026-11-09T02:41:06.902684+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 486,
+  "new_items_this_run": 496,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "5cf370137f726ffa",
+      "source": "Habertürk",
+      "title": "Şişli'de elektrik direğinde patlama ve yangın",
+      "summary": "İstanbul Şişli'de, elektrik direğinde meydana gelen patlama ve ardından çıkan yangın, vatandaşları korkuttu. Alevler, itfaiye ekiplerinin çalışmasıyla söndürüldü",
+      "link": "https://www.haberturk.com/gundem/sisli-de-elektrik-direginde-patlama-ve-yangin-3925877",
+      "published": "2026-11-09T02:31:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-09T02:40:39.332934+00:00"
     },
     {
       "id": "f514cf60fdd09a9a",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-08T19:30:52.708607+00:00"
-    },
-    {
-      "id": "b445b95e7bb0e667",
-      "source": "Akşam",
-      "title": "MAÇ SONUCU: Manchester United: 4 - Aston Villa: 4",
-      "summary": "Manchester United, Premier Lig'in 10. haftasında evinde oynadığı Aston Villa ile son dakikalarda attığı golle 4-4 berabere kaldı.",
-      "link": "https://www.aksam.com.tr/spor/mac-sonucu-manchester-united-4-aston-villa-4/haber-1712961",
-      "published": "2026-11-08T19:08:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-08T19:10:49.823049+00:00"
     }
   ]
 }

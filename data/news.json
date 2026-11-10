@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-10T17:31:15.409592+00:00",
+  "last_updated": "2026-11-10T17:35:59.830590+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 481,
+  "new_items_this_run": 483,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,72 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "2c226860392d6eaa",
+      "source": "DonanımHaber",
+      "title": "İlk kez bir robot uzayda kendi başına yapı inşa etti",
+      "summary": "Robotlar Dünya'dan sonra uzayda da devreye girmeye başladı. Caltech tarafından geliştirilen bir robot, Dünya yörüngesinde farklı parçaları birleştirerek otonom şekilde yapı inşa etmeyi başardı.",
+      "link": "https://www.donanimhaber.com/ilk-kez-bir-robot-uzayda-yapi-insa-etti--212715",
+      "published": "2026-11-10T17:35:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T17:35:56.555020+00:00"
+    },
+    {
+      "id": "0afdf3f692265be0",
+      "source": "Sözcü",
+      "title": "Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi",
+      "summary": "Fenerbahçe takım otobüsüne saldırı iddianamesi kabul edildi",
+      "link": "https://www.sozcu.com.tr/fenerbahce-takim-otobusune-saldiri-iddianamesi-kabul-edildi-p380031",
+      "published": "2026-11-10T17:34:40+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T17:35:38.036989+00:00"
+    },
+    {
+      "id": "a6633f4dc32c5da4",
+      "source": "Karar",
+      "title": "Yüksek RAM modası, arz krizi nedeniyle bitti: Kullanıcılar acı gerçeklerle yüzleşip 16 GB'a döndü",
+      "summary": "Kişisel bilgisayar pazarında yüksek kapasiteli bellek kullanımı uzun yıllar sonra ilk defa tersine döndü. CPU-Z veri tabanından derlenen yıllık analizlere göre, 32 GB ve 64 GB bellek kurulumları kan kaybederken, 16 GB konfigürasyonlar yüzde 12,9 artışla yeniden öne çıktı. Kullanıcıların donanım tercihlerindeki bu geri çekilme, sistem maliyetleri ve değişen tüketici alışkanlıklarını yansıtıyor.",
+      "link": "https://www.karar.com/teknoloji-haberleri/bilgisayara-kac-gb-ram-lazim-16-gb-bellek-yeterli-mi-oyun-icin-kac-2083453",
+      "published": "2026-11-10T17:34:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T17:35:42.894555+00:00"
+    },
+    {
+      "id": "afe8bdc38509fc4e",
+      "source": "Karar",
+      "title": "11 Kasım Çarşamba okul var mı? Yarın okullar tatil mi son dakika açıklama geldi mi?",
+      "summary": "Yurt genelinde etkili olmaya başlayan yoğun kar yağışı ve dondurucu soğuklar, milyonlarca öğrenci ve velinin \"Yarın okullar tatil mi?\" sorusunu araştırmasına neden oldu. 11 Kasım Çarşamba günü için Türkiye genelinde MEB kaynaklı ortak bir tatil kararı bulunmazken, Antalya'da düzenlenen uluslararası COP31 Liderler Zirvesi sebebiyle 7 ilçede okullar kapılarını kapatarak acil uzaktan eğitim modeline ",
+      "link": "https://www.karar.com/guncel-haberler/11-kasim-carsamba-okul-var-mi-yarin-okullar-tatil-mi-son-dakika-2083452",
+      "published": "2026-11-10T17:32:57+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T17:35:42.894604+00:00"
+    },
+    {
+      "id": "4985fb358f50e2e1",
+      "source": "Cumhuriyet",
+      "title": "4 ilde 'Şahan' operasyonu: Tutuklu sayısı 29’a yükseldi",
+      "summary": "Kastamonu merkezli 4 ilde uyuşturucu tacirlerine yönelik gerçekleştirilen \"Şahan\" operasyonunda tutuklu sayısı 29’a yükseldi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/4-ilde-sahan-operasyonu-tutuklu-sayisi-29-a-yukseldi-2555147",
+      "published": "2026-11-10T17:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T17:35:36.579369+00:00"
+    },
+    {
+      "id": "482e2dd35706fed5",
+      "source": "CNBC-e",
+      "title": "Tüm hisseler devredildi: İki kamu bankası TVF çatısı altında buluştu",
+      "summary": "Türkiye Varlık Fonu, Ziraat Katılım ve Halk Katılım bankalarının tüm hisselerini TVF Katılım Finans Yatırımları AŞ'ye devretti. İşlemlerin tamamlanmasıyla iki kamu sermayeli katılım bankası aynı çatı altında toplandı.",
+      "link": "https://www.cnbce.com/sirket-haberleri/tum-hisseler-devredildi-iki-kamu-bankasi-tvf-catisi-altinda-bulustu-h41502",
+      "published": "2026-11-10T17:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T17:35:53.064937+00:00"
     },
     {
       "id": "193e2e28181e19a0",
@@ -204,6 +270,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-10T17:20:49.314369+00:00"
+    },
+    {
+      "id": "2ac9eb9cb7417da5",
+      "source": "Bloomberg HT",
+      "title": "Apple TV'ye işaret dili çeviri özelliği geldi",
+      "summary": "Apple, yeni işaret dili çevirisi özelliği sayesinde Apple TV'deki içeriklerin işitme engelli izleyiciler için daha erişilebilir hale geleceğini açıkladı.",
+      "link": "https://www.bloomberght.com/apple-tv-ye-isaret-dili-ceviri-ozelligi-geldi-3794131",
+      "published": "2026-11-10T17:17:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T17:35:50.966974+00:00"
     },
     {
       "id": "5fb571582a02934b",
@@ -1656,6 +1733,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-10T16:31:05.790842+00:00"
+    },
+    {
+      "id": "d2ca7867b29baa61",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Başkentte çeşitli suçlardan aranan 181 hükümlü yakalandı",
+      "summary": "Ankara'da jandarma ekiplerince düzenlenen operasyonlarda çeşitli suçlardan aranan 181 hükümlü yakalandı.",
+      "link": "https://www.aa.com.tr/tr/gundem/baskentte-cesitli-suclardan-aranan-181-hukumlu-yakalandi/4119277",
+      "published": "2026-11-10T16:25:42+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T17:35:36.011873+00:00"
     },
     {
       "id": "36cd29196ab563d4",
@@ -5418,94 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-10T14:30:54.738609+00:00"
-    },
-    {
-      "id": "8df40426b3fa144c",
-      "source": "Cumhuriyet",
-      "title": "Land Rover'dan Çinli rakibine ağır suçlama: BYD ofislerine 'kopya araç' baskını",
-      "summary": "Jaguar Land Rover, yeni SUV modeli Ti 7'nin ikonik Defender modelini kopyaladığını iddia ederek Çinli otomotiv devi BYD'ye dava açtı. Mahkeme kararıyla BYD'nin Hollanda'daki ofislerine baskın düzenlenerek dijital kayıtlara el konuldu.",
-      "link": "https://www.cumhuriyet.com.tr/otomotiv/land-rover-dan-cinli-rakibine-agir-suclama-byd-ofislerine-kopya-arac-baskini-2555089",
-      "published": "2026-11-10T14:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T14:30:54.738646+00:00"
-    },
-    {
-      "id": "8aee1c1826360200",
-      "source": "Akşam",
-      "title": "Antalya'dan 196 ülkeye çağrı... Bakan Kurum: Artık söz bitti, uygulama zamanı",
-      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Antalya'daki zirvede “Artık söz bitti, artık uygulama zamanı” diyerek 196 ülkeye iklim taahhütlerini hayata geçirme çağrısı yaptı. Kurum, COP31'in eylem gündemi kapsamında 2035'e kadar yüzde 35 elektrifikasyon hedefi belirlediklerini açıkladı.",
-      "link": "https://www.aksam.com.tr/guncel/antalyadan-196-ulkeye-cagri-bakan-kurum-artik-soz-bitti-uygulama-zamani/haber-1713488",
-      "published": "2026-11-10T14:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T14:30:59.575347+00:00"
-    },
-    {
-      "id": "33545f01a9e972d2",
-      "source": "Bir Gün",
-      "title": "Fatih Terim, Devlet Bahçeli'yi ziyaret etti",
-      "summary": "MHP Genel Başkanı Devlet Bahçeli, Fatih Terim ile bir araya geldi.",
-      "link": "https://www.birgun.net/haber/fatih-terim-devlet-bahceli-yi-ziyaret-etti-745677",
-      "published": "2026-11-10T14:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T15:25:42.001081+00:00"
-    },
-    {
-      "id": "3300ce2953382e5d",
-      "source": "Bir Gün",
-      "title": "TÜGVA davasında yargılanan tutuklu Av. Fırat Durak: Darp edilen benim",
-      "summary": "TÜGVA Büyükada İskelesi’nden tahliyesi sırasında yaşanan olaylar nedeniyle hakkında dava açılan tutuklu Adalar Belediyesi Başkan Yardımcısı Fırat Durak ilk kez hâkim karşısına çıktı, \"Asıl yaralanan kişi benim, darp edildim, sırtımdan yaralandım\" dedi. Durak'ın olay yerinde keşif yapılması talebi mahkeme tarafından reddedilirken bir sonraki duruşma 17 Aralık'a ertelendi.",
-      "link": "https://www.birgun.net/haber/tugva-davasinda-yargilanan-tutuklu-av-firat-durak-darp-edilen-benim-745676",
-      "published": "2026-11-10T14:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T15:25:42.001117+00:00"
-    },
-    {
-      "id": "638f570d0444e4cc",
-      "source": "Cumhuriyet",
-      "title": "Almanya'da yapay zeka dönüşümü: 15 yılda 800 bin iş değişecek ama yeni istihdam yaratılacak",
-      "summary": "Almanya Federal İş Ajansı Başkanı Andrea Nahles, yapay zekanın önümüzdeki 15 yıl içinde ülkede yaklaşık 800 bin iş kaybına yol açacağını, ancak benzer sayıda yeni istihdam oluşturacağını belirtti. Nahles, demografik değişim ve nitelikli iş gücü açığına dikkati çekerek kimsenin bu dönüşümden muaf olmadığını vurguladı.",
-      "link": "https://www.cumhuriyet.com.tr/dunya/almanya-da-yapay-zeka-donusumu-15-yilda-800-bin-is-degisecek-ama-yeni-istihdam-yaratilacak-2555096",
-      "published": "2026-11-10T14:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T14:30:54.738683+00:00"
-    },
-    {
-      "id": "072941e391f4a6f7",
-      "source": "Star",
-      "title": "'Hayati derecede önemli' diyerek ilan etti! Bakan Kurum: Yüzde 25 ila 30 seviyesine düşürmüş olacağız",
-      "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Az olan finansmanı daha verimli, daha etkin kullanacak bir mekanizmayı hayata geçiriyoruz. Bu da hayati derecede önemli. Yani daha fazla emisyonu düşürebilmek adına bu iradeyi koyacak ve çalıştıracak bir mekanizmadan bahsediyoruz. Tüm bunları yaptığımızda 2035 yılına kadar bugün yaşadığımız emisyonları yüzde 25 ila 30 sev",
-      "link": "https://www.star.com.tr/guncel/hayati-derecede-onemli-diyerek-ilan-etti-bakan-kurum-yuzde-25-ila-30-seviyesine-dusurmus-olacagiz-haber-2052551/",
-      "published": "2026-11-10T14:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T14:31:00.468951+00:00"
-    },
-    {
-      "id": "c9a5ff2f8aa0661f",
-      "source": "Türkiye Gazetesi",
-      "title": "TEM'de alev alan odun yüklü kamyonu fark ettiler! Sürücüyü durdurup söndürdüler",
-      "summary": "",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem-videolari/temde-alev-alan-odun-yuklu-kamyonu-fark-ettiler-surucuyu-durdurup-sondurduler-1828440",
-      "published": "2026-11-10T14:26:21+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T14:30:56.818998+00:00"
-    },
-    {
-      "id": "4887a2a6cfeb1bdb",
-      "source": "Yeni Şafak",
-      "title": "Gaziantep'te boğazına şeker kaçan 20 aylık bebeği doktor kurtardı",
-      "summary": "Gaziantep Şehir Hastanesi'nde muayene sırası bekleyen 20 aylık Civan Aras'ın boğazına şeker kaçtı. Nefes almakta güçlük çeken bebeğe Kalp ve Damar Cerrahisi Uzmanı Dr. Müslüm Polat, Heimlich manevrasıyla müdahale etti. Bebeğin boğazındaki şeker çıkarılırken hayat kurtaran müdahale hastanenin güvenlik kameralarına yansıdı.",
-      "link": "https://www.yenisafak.com/video/gundem/gaziantepte-bogazina-seker-kacan-20-aylik-bebegi-doktor-kurtardi-4869173",
-      "published": "2026-11-10T14:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T14:50:54.552104+00:00"
     }
   ]
 }

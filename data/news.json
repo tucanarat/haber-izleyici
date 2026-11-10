@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-10T22:11:08.763465+00:00",
+  "last_updated": "2026-11-10T22:15:59.250331+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 464,
+  "new_items_this_run": 470,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -19,6 +19,28 @@
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
     },
     {
+      "id": "03e4856dc2abf4ba",
+      "source": "Ekonomim",
+      "title": "New York borsası günü düşüşle kapattı",
+      "summary": "New York borsası haftanın ikinci işlem gününü düşüşle tamamladı.",
+      "link": "https://www.ekonomim.com/finans/haberler/borsa/new-york-borsasi-gunu-dususle-kapatti-haberi-930467",
+      "published": "2026-11-10T22:11:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T22:15:54.431656+00:00"
+    },
+    {
+      "id": "33bee74264b12f2d",
+      "source": "OdaTV",
+      "title": "Lula açıkladı: Cumhurbaşkanı Erdoğan Brezilya'yı ziyaret edecek",
+      "summary": "Brezilya Devlet Başkanı Luiz Inacio Lula da Silva, Antalya&#039;da düzenlenen COP31 kapsamında Cumhurbaşkanı Recep Tayyip Erdoğan ile görüştü. Lula, Erdoğan&#039;ın Brezilya&#039;ya geniş katılımlı bir iş heyetiyle resmi ziyaret gerçekleştireceğini taahhüt ettiğini duyurdu.",
+      "link": "https://www.odatv.com/guncel/lula-acikladi-cumhurbaskani-erdogan-brezilyayi-ziyaret-edecek-120170653",
+      "published": "2026-11-10T22:09:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T22:15:49.395617+00:00"
+    },
+    {
       "id": "724cc19a2718391a",
       "source": "Akşam",
       "title": "Vicdansız mesai",
@@ -28,6 +50,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-10T22:10:50.024958+00:00"
+    },
+    {
+      "id": "46d7b5a317d98365",
+      "source": "Habertürk",
+      "title": "Eyüpsultan'da silahlı saldırı: 3 yaralı",
+      "summary": "İstanbul Eyüpsultan'da 3 kişiye kimliği belirsiz şüpheliler tarafından sokak ortasında silahla ateş edildi. Olayda yaralanan 3 kişi hastaneye kaldırıldı. Polis ekipleri şüphelileri yakalamak için çalışma başlattı",
+      "link": "https://www.haberturk.com/gundem/eyupsultan-da-silahli-saldiri-3-yarali-3926402",
+      "published": "2026-11-10T22:03:44+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T22:15:39.470147+00:00"
+    },
+    {
+      "id": "06018a950e44137b",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "İletişim Başkanı Duran, parlamenterler, düşünce kuruluşlarının temsilcileri, akademisyenler ve araştırmacılarla buluştu",
+      "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Türkiye'nin COP31 yaklaşımının temelinde diyalog, uzlaşı ve somut eylem bulunuyor.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-parlamenterler-dusunce-kuruluslarinin-temsilcileri-akademisyenler-ve-arastirmacilarla-bulustu/4119584",
+      "published": "2026-11-10T22:02:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T22:15:42.175345+00:00"
     },
     {
       "id": "337418b4cd815554",
@@ -1062,6 +1106,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-10T22:01:17.569296+00:00"
+    },
+    {
+      "id": "c7eb213bf07dbc10",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Avrupa üçüncüsü milli boksör, gözünü altın madalyaya dikti",
+      "summary": "Milli boksör Esmanur Lök, daha önce üçüncülük elde ettiği 23 Yaş Altı Avrupa Şampiyonası'nda bu kez altın madalya kazanmayı hedefliyor.",
+      "link": "https://www.aa.com.tr/tr/spor/avrupa-ucuncusu-milli-boksor-gozunu-altin-madalyaya-dikti/4119555",
+      "published": "2026-11-10T21:07:32+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-10T22:15:42.175309+00:00"
     },
     {
       "id": "4ea9e9458af93e1f",
@@ -5451,61 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-10T18:01:08.774164+00:00"
-    },
-    {
-      "id": "4218bccdee63a8dd",
-      "source": "Cumhuriyet",
-      "title": "Ümraniyespor'da yeniden Bülent Bölükbaşı dönemi!",
-      "summary": "TFF 1. Lig ekibi Ümraniyespor, teknik direktörlük görevine Bülent Bölükbaşı’nın getirildiğini açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/spor/umraniyespor-da-yeniden-bulent-bolukbasi-donemi-2555152",
-      "published": "2026-11-10T17:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T18:01:05.671046+00:00"
-    },
-    {
-      "id": "9f8bf1efebff9a02",
-      "source": "Cumhuriyet",
-      "title": "Kahve tutkunlarına özel lezzet: Latte pasta tarifi",
-      "summary": "Kahve ve tatlıyı bir araya getiren latte pasta, yumuşacık keki ve kahve aromalı kremasıyla farklı lezzetler denemek isteyenlerin favorisi olmaya aday. Evde kolayca hazırlanabilen bu pasta, özellikle kahve severler için enfes bir alternatif sunuyor. Peki, latte pasta nasıl yapılır, malzemeleri neler?",
-      "link": "https://www.cumhuriyet.com.tr/gurme/kahve-tutkunlarina-ozel-lezzet-latte-pasta-tarifi-2555153",
-      "published": "2026-11-10T17:58:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T18:01:05.671078+00:00"
-    },
-    {
-      "id": "9deedc0bde504d71",
-      "source": "Habertürk",
-      "title": "Mirza'dan ailesine: Hepiniz defolup gideceksiniz!",
-      "summary": "SHOW TV'nin sevilen dizisi 'Sevdan Bir Ateş'in yeni bölümüne ait bir ön izleme daha yayınlandı",
-      "link": "https://www.haberturk.com/magazin/sevdan-bir-ates-ten-yeni-on-izleme-3926088",
-      "published": "2026-11-10T17:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T18:05:34.506237+00:00"
-    },
-    {
-      "id": "cad07027365fec39",
-      "source": "Akşam",
-      "title": "Jandarmadan sanal alemde dev operasyon! 400 siteye erişim engeli getirildi",
-      "summary": "Ankara İl Jandarma Komutanlığının sanal devriye çalışmaları sonucunda yasa dışı bahis, dolandırıcılık ve müstehcen içerik barındıran 400 internet sitesine Siber Güvenlik Başkanlığı tarafından erişim engeli getirildi. Ayrıca nitelikli dolandırıcılık olaylarına karıştığı belirlenen 5 şüpheli hakkında adli işlem başlatıldı.",
-      "link": "https://www.aksam.com.tr/guncel/jandarmadan-sanal-alemde-dev-operasyon-400-siteye-erisim-engeli-getirildi/haber-1713526",
-      "published": "2026-11-10T17:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T18:01:12.622471+00:00"
-    },
-    {
-      "id": "05ea5dad43c8f53b",
-      "source": "DonanımHaber",
-      "title": "Googlebook bilgisayarlara ilk büyük güncelleme geldi",
-      "summary": "Google, Googlebook modelleri için yayınladığı ilk büyük güncellemeyle cihaz içi belleği optimize etti. Bazı modellerde 6 GB'a kadar RAM kullanımı azaltılırken yaklaşık 30 hata da giderildi.",
-      "link": "https://www.donanimhaber.com/googlebook-bilgisayarlara-ilk-buyuk-guncelleme-geldi--212711",
-      "published": "2026-11-10T17:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-10T18:01:26.283903+00:00"
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-12T20:40:57.866580+00:00",
+  "last_updated": "2026-11-12T20:45:58.501168+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 487,
+  "new_items_this_run": 489,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -19,6 +19,83 @@
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
     },
     {
+      "id": "fc7ddbfc7bf524b9",
+      "source": "CNBC-e",
+      "title": "21 şirket borsada kendi paylarını aldı: İşte hisse geri alım yapan şirketler",
+      "summary": "Borsa İstanbul'da şirketler pay piyasasında sağlıklı fiyat oluşumunu desteklemek ve yatırımcı güvenini korumak amacıyla geri alım hamlelerini sürdürüyor. Son duyurularla birlikte birçok şirket yeni program başlattı.",
+      "link": "https://www.cnbce.com/borsa/21-sirket-borsada-kendi-paylarini-aldi-iste-hisse-geri-alim-yapan-sirketler-g41692",
+      "published": "2026-11-12T20:44:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:54.086014+00:00"
+    },
+    {
+      "id": "328078650c649493",
+      "source": "DonanımHaber",
+      "title": "Eski OpenAI yöneticisinden yeni yapay zekâ: Thinking Machines, Inkling 2 Small'u tanıttı",
+      "summary": "Eski OpenAI CTO'su Mira Murati'nin şirketi Thinking Machines, 594 milyar parametreli yeni yapay zekâ modeli Inkling 2 Small'ı tanıttı. Performans testi sonuçları dikkat çekici.",
+      "link": "https://www.donanimhaber.com/thinking-machines-yeni-yapay-zekasi-inkling-2-small-u-tanitti--212840",
+      "published": "2026-11-12T20:44:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:56.421384+00:00"
+    },
+    {
+      "id": "2fad5419d10faadd",
+      "source": "Yeni Şafak",
+      "title": "Kesilen ağacın altında kalan orman işçisi öldü",
+      "summary": "Muğla'nın Menteşe ilçesinde kesim sırasında üzerine çam ağacı devrilen orman işçisi Serkan Boztepe (43), hayatını kaybetti.",
+      "link": "https://www.yenisafak.com/gundem/kesilen-agacin-altinda-kalan-orman-iscisi-oldu-4871945",
+      "published": "2026-11-12T20:42:45+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:46.123898+00:00"
+    },
+    {
+      "id": "64183f1a4ee5e93a",
+      "source": "Akşam",
+      "title": "SpaceX'ten 74 milyar dolarlık dev süper bilgisayar hamlesi",
+      "summary": "SpaceX, Texas'taki Starbase ve Arizona'nın Cochise County bölgesinde kurulacak iki süper bilgisayar tesisi için toplam 74 milyar doları aşan yatırım yapacağını açıkladı. Projelerin binlerce istihdam ve yeni enerji altyapısı sağlaması bekleniyor.",
+      "link": "https://www.aksam.com.tr/dunya/spacexten-74-milyar-dolarlik-dev-super-bilgisayar-hamlesi/haber-1714226",
+      "published": "2026-11-12T20:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:45.599465+00:00"
+    },
+    {
+      "id": "788e03782a0bd8a6",
+      "source": "Star",
+      "title": "De Ketelaere: Mükemmel bir maç çıkardık",
+      "summary": "Belçika'nın yıldızı Charles De Ketelaere, Türkiye karşısında aldıkları 2-1'lik galibiyetin ardından açıklamalarda bulundu.",
+      "link": "https://www.star.com.tr/spor/de-ketelaere-mukemmel-bir-mac-cikardik-haber-2053117/",
+      "published": "2026-11-12T20:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:46.479542+00:00"
+    },
+    {
+      "id": "5a2abe78dc0ffe37",
+      "source": "Ekonomim",
+      "title": "SpaceX süper bilgisayar tesisi kuracak: 74 milyar dolarlık plan",
+      "summary": "SpaceX, ABD&#039;nin Texas ve Arizona eyaletlerinde kurmayı planladığı iki süper bilgisayar tesisi için 74 milyar doları aşan yatırım yapacağını duyurdu.",
+      "link": "https://www.ekonomim.com/ekonomi/spacex-super-bilgisayar-tesisi-kuracak-74-milyar-dolarlik-plan-haberi-930940",
+      "published": "2026-11-12T20:41:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:53.389396+00:00"
+    },
+    {
+      "id": "d5cd500edc62dc94",
+      "source": "Milliyet",
+      "title": "Kaldırımda yürüyenlere ateş açtı ardından intihara kalkıştı: 1 ölü, 5 yaralı",
+      "summary": "Olay, saat 21.00 sıralarında Erdemli ilçesi Merkez Mahallesi D-400 karayolunda meydana geldi. Elindeki pompalı av tüfeğiyle kaldırımda yürüyenlerin arasına giren kimliği belirsiz kişi, iddiaya göre hedef gözetmeksizin etrafa ateş açmaya başladı. Saçmaların isabet ettiği 5 kişi vurulurken, şüpheli, daha sonra başına dayadığı silahı ateşleyerek intihar girişiminde bulundu. Çevredekilerin ihbarı üzer",
+      "link": "https://www.milliyet.com.tr/gundem/kaldirimda-yuruyenlere-ates-acti-ardindan-intihara-kalkisti-1-olu-5-yarali-7699746",
+      "published": "2026-11-12T20:40:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:45.118981+00:00"
+    },
+    {
       "id": "37f2a75885ccfb24",
       "source": "Star",
       "title": "Sergen Yalçın'dan Arda Güler açıklaması! \"Omuzlarında büyük bir yük olacak\"",
@@ -28,6 +105,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T20:40:45.345565+00:00"
+    },
+    {
+      "id": "5666d50fbbc3993f",
+      "source": "Habertürk",
+      "title": "G.Saray'da Samsunspor maçı hazırlığı!",
+      "summary": "Galatasaray, Trendyol Süper Lig’in 12'nci haftasında Samsunspor ile oynayacağı maçın hazırlıklarına bugün Kemerburgaz Metin Oktay Tesisleri’nde yaptığı antrenmanla başladı.",
+      "link": "https://www.haberturk.com/spor/galatasaray-samsunspor-macinin-hazirliklarina-basladi-3926972",
+      "published": "2026-11-12T20:39:51+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:37.564040+00:00"
     },
     {
       "id": "8aa91c4a11637417",
@@ -281,6 +369,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T20:31:05.139924+00:00"
+    },
+    {
+      "id": "ba59b1f9e3d584aa",
+      "source": "Milliyet",
+      "title": "SON DAKİKA HABERİ: Beyaz Saray yakınlarında silah sesleri: 5 kişi vuruldu!",
+      "summary": "Metropolitan Polis Departmanından yapılan açıklamada, Beyaz Saray'a yaklaşık 1,5 kilometre mesafede silahlı saldırı düzenlendi. Açıklamada Logan Circle semtinde düzenlenen saldırının ardından bölgede geniş güvenlik önlemlerinin alındığı belirtildi. Sosyal medyada paylaşılan görüntülerde, silah sesleri duyulurken olay yerinde çok sayıda polisin olduğu ve birçok yolun trafiğe kapatıldığı yer aldı. M",
+      "link": "https://www.milliyet.com.tr/dunya/son-dakika-beyaz-saray-yakinlarinda-silah-sesleri-5-kisi-vuruldu-7699601",
+      "published": "2026-11-12T20:26:14+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:45.118613+00:00"
     },
     {
       "id": "c08fd257d58ea88b",
@@ -899,6 +998,17 @@
       "fetched_at": "2026-11-12T20:01:03.191904+00:00"
     },
     {
+      "id": "6564be90b9e150e5",
+      "source": "Bianet",
+      "title": "DEM Parti: \"Barış sürecinin ikinci aşaması için siyasi ve hukuki adımlar atılmalı\"",
+      "summary": "DEM Parti, Parti Meclisi, 7595 sayılı yasanın gerekleri kapsamında Öcalan'ın statüsünün ve umut hakkının açıklığa kavuşturulmasını istedi. PM, kayyım uygulamalarına son verilmesi ve AYM ile AİHM kararlarının uygulanmasını demokratikleşmenin koşulları arasında saydı.",
+      "link": "https://bianet.org/haber/dem-parti-baris-surecinin-ikinci-asamasi-icin-siyasi-ve-hukuki-adimlar-atilmali-325388",
+      "published": "2026-11-12T19:55:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:48.993476+00:00"
+    },
+    {
       "id": "3000b2362c81cec3",
       "source": "Akşam",
       "title": "İran basını saldırıyı duyurdu: Sirik kenti hedef alındı",
@@ -1502,6 +1612,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T19:25:38.537277+00:00"
+    },
+    {
+      "id": "02d087c3f9b4c63b",
+      "source": "Euronews Türkçe",
+      "title": "Mercedes-Benz'in Almanya tesislerinde yeni yatırım durdu: kapanışlar gündemde",
+      "summary": "Stuttgartlı otomobil üreticisi Almanya’daki tesislerinde yeni yatırımları geçici olarak durduruyor. Olası fabrika kapanmaları çalışanlar, işçi konseyi ve IG Metall üzerindeki baskıyı artırıyor. Volkswagen ve Audi de büyük tasarruf programları açıkladı.",
+      "link": "https://tr.euronews.com/2026/11/12/mercedes-benzin-almanya-tesislerinde-yeni-yatirim-durdu-kapanislar-gundemde",
+      "published": "2026-11-12T19:22:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:58.500110+00:00"
     },
     {
       "id": "164699433b0d0537",
@@ -2208,6 +2329,17 @@
       "fetched_at": "2026-11-12T19:05:31.091798+00:00"
     },
     {
+      "id": "d2ee70b9211da470",
+      "source": "Habertürk",
+      "title": "Bugün oynanacak maçlar belli oldu!",
+      "summary": "12 Kasım 2026 maç programı belli oldu. Bugün futbol ve basketbolda birbirinden önemli karşılaşmalar sporseverlerle buluşacak. UEFA Uluslar Ligi’nde toplam 8 maç oynanacak. Günün merakla beklenen karşılaşması Türkiye-Belçika maçı olacak. EuroLeague'de ise 5 karşılaşma oynanacak. Peki bugün hangi maçlar var, kimin maçı var? Türkiye-Belçika maçı saat kaçta başlayacak ve hangi kanalda yayınlanacak? İş",
+      "link": "https://www.haberturk.com/bilgi/foto/gunun-mac-programi-12-kasim-2026-bugun-hangi-maclar-var-kimin-maci-var-turkiye-belcika-maci-saat-kacta-hangi-kanalda-3926704",
+      "published": "2026-11-12T18:50:12+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:37.564638+00:00"
+    },
+    {
       "id": "dcd61f27ce56b227",
       "source": "Habertürk",
       "title": "Reklamlarda dini ifadelere durdurma kararı",
@@ -2228,6 +2360,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T18:50:49.001123+00:00"
+    },
+    {
+      "id": "620dd9a184023642",
+      "source": "Habertürk",
+      "title": "Akaryakıta indirim geldi!",
+      "summary": "Son dakika akaryakıt indirimi, brent petrol fiyatlarının gerilemesinin ardından araştırılmaya başlandı. Kasım ayına zamla başlayan akaryakıt fiyatlarında, 6 Kasım'da benzine 5,99 TL, 7 Kasım'da ise motorine 5,40 TL indirim yapıldı. Benzine 12 Kasım Perşembe günü itibarıyla indirim gelirken şimdi gözler motorinde beklenen yeni indirime çevrildi. Peki, motorin ve benzin indirimi ne zaman, kaç TL old",
+      "link": "https://www.haberturk.com/bilgi/foto/arac-sahiplerini-sevindirecek-haber-akaryakit-fiyatlarina-cifte-indirim-yolda-motorin-ve-benzine-ne-zaman-indirim-gelecek-ne-kadar-3926467",
+      "published": "2026-11-12T18:49:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T20:45:37.564701+00:00"
     },
     {
       "id": "c4268ce862e094b0",
@@ -5363,149 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T16:35:36.971810+00:00"
-    },
-    {
-      "id": "6807bf116b09b108",
-      "source": "Habertürk",
-      "title": "Zorlu Holding’de Olgun Zorlu dönemi",
-      "summary": "Ahmet Nazif Zorlu’nun vefatının ardından Yönetim Kurulu Başkanlığına, Holding Başkan Vekili olarak görev yapan Olgun Zorlu seçildi. Olgun Zorlu, önümüzdeki dönemde yeni iş modellerini uygulamaya odaklanarak Grubun güçlü olduğu alanlarda rekabetçiliği artırmayı hedefleyeceklerini belirtti.",
-      "link": "https://www.haberturk.com/ekonomi/zorlu-holdingde-olgun-zorlu-donemi-3926922",
-      "published": "2026-11-12T16:33:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:40:41.101518+00:00"
-    },
-    {
-      "id": "ab62a71730acb353",
-      "source": "Bir Gün",
-      "title": "İBB Başkan Vekili Nuri Aslan: \"Hedefimiz birbirini tamamlayan bir ulaşım sistemi kurmak\"",
-      "summary": "İBB Başkanvekili Nuri Aslan COP31 zirvesinde \"Hedefimiz, İstanbulluların güvenilir, erişilebilir ve düşük karbonlu seçenekler arasında kolayca geçiş yapabildiği, birbirini tamamlayan bir ulaşım sistemi kurmak\" dedi.",
-      "link": "https://www.birgun.net/haber/ibb-baskan-vekili-nuri-aslan-hedefimiz-birbirini-tamamlayan-bir-ulasim-sistemi-kurmak-746084",
-      "published": "2026-11-12T16:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T17:10:44.718932+00:00"
-    },
-    {
-      "id": "4169252f6eebb6d0",
-      "source": "Ekonomim",
-      "title": "AK Partili Gül'den fon açıklaması: İsmi geçenlerin listesi açıklanmalı",
-      "summary": "AK Parti Grup Başkanvekili Abdulhamit Gül fon soruşturmasında adı geçenlerin listesinin kamuoyuna açıklanması gerektiğini belirterek, &quot;Kim yanlış yaptıysa onun hesabı sorulacaktır&quot; dedi.",
-      "link": "https://www.ekonomim.com/gundem/ak-partili-gulden-fon-aciklamasi-ismi-gecenlerin-listesi-aciklanmali-haberi-930910",
-      "published": "2026-11-12T16:33:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:41:01.927242+00:00"
-    },
-    {
-      "id": "eb4c39096a20907c",
-      "source": "Star",
-      "title": "Melissa Vargas, 3 yıl daha Fenerbahçe'de!",
-      "summary": "Fenerbahçe Medicana, milli voleybolcu Melissa Vargas'ın sözleşmesini 3 yıl uzattı. Yıldız oyuncu, 2029 yılına kadar sarı-lacivertli formayı giyecek.",
-      "link": "https://www.star.com.tr/spor/melissa-vargas-3-yil-daha-fenerbahcede-haber-2053071/",
-      "published": "2026-11-12T16:32:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:35:38.402116+00:00"
-    },
-    {
-      "id": "d34086b26cc34351",
-      "source": "Euronews Türkçe",
-      "title": "Nvidia: Jensen Huang'ın istifası sonrası şirketin ve yapay zeka sektörünün geleceği",
-      "summary": "Yapay zekâ çip devinin bekleyen bir lideri yok, Washington’da etkisini yitirebilir ve kurucusunun bizzat savunduğu Avrupa’daki büyük bahisleri var.",
-      "link": "https://tr.euronews.com/2026/11/12/nvidia-jensen-huangin-istifasi-sonrasi-sirketin-ve-yapay-zeka-sektorunun-gelecegi",
-      "published": "2026-11-12T16:31:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:51:07.158876+00:00"
-    },
-    {
-      "id": "9cd75987a5cf11f8",
-      "source": "Euronews Türkçe",
-      "title": "Nvidia'da Jensen Huang'ın istifası: yapay zeka devinde liderlik belirsizliği",
-      "summary": "Yapay zeka çip devinin sırada bekleyen bir lideri yok, Washington'da etkisini yitirebilir ve kurucusunun bizzat savunduğu büyük Avrupa yatırımları var",
-      "link": "https://tr.euronews.com/2026/11/12/nvidiada-jensen-huangin-istifasi-yapay-zeka-devinde-liderlik-belirsizligi",
-      "published": "2026-11-12T16:31:32+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:35:50.973175+00:00"
-    },
-    {
-      "id": "82d79506bf611ccb",
-      "source": "Akşam",
-      "title": "Sergen Yalçın: Sağ bekte Oğuz Aydın oynayacak",
-      "summary": "A Milli Takım Teknik Direktörü Sergen Yalçın, Belçika maçı öncesinde açıklamalarda bulundu. Sergen Yalçın, ilk 11 tercihine de değindi.",
-      "link": "https://www.aksam.com.tr/spor/sergen-yalcin-sag-bekte-oguz-aydin-oynayacak/haber-1714190",
-      "published": "2026-11-12T16:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:35:37.512312+00:00"
-    },
-    {
-      "id": "54fafd4f67f75e3a",
-      "source": "Türkiye Gazetesi",
-      "title": "\"YARDIMLARA DERHAL İZİN VERİN\"",
-      "summary": "Türkiye'nin de aralarında bulunduğu 53 ülke ve kuruluş, Gazze'ye insani yardımların önündeki engellerin kaldırılması ve İsrail'in saldırılarının soruşturulması için uluslararası topluma çağrıda bulundu.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/turkiyenin-de-aralarinda-oldugu-53-ulke-ve-kurulustan-israile-gazze-cagrisi-1828925",
-      "published": "2026-11-12T16:30:59+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T17:01:04.241605+00:00"
-    },
-    {
-      "id": "4d6824892f833788",
-      "source": "Independent Türkçe",
-      "title": "Malatya'da düşen askeri helikopterde bulunan 4 asker şehit oldu",
-      "summary": "Malatya'nın Yeşilyurt ilçesine bağlı Samanköy mevkisinde düşen S-70 tipi askeri helikopterde bulunan 4 asker şehit oldu. Milli Savunma Bakanlığından yapılan açıklamada, helikopterin henüz belirlenemeyen bir nedenle kaza kırıma uğradığı bildirildi. MSB'den şehit askerlere ilişkin açıklama Bakanlığın açıklamasında şu ifadelere yer verildi: \"S-70 tipi helikopterimizin henüz belirlenemeyen bir sebeple",
-      "link": "https://www.indyturk.com/node/785140/haber/malatyada-d%C3%BC%C5%9Fen-askeri-helikopterde-bulunan-4-asker-%C5%9Fehit-oldu",
-      "published": "2026-11-12T16:30:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T17:20:56.279338+00:00"
-    },
-    {
-      "id": "7228d6dbc707c8e4",
-      "source": "Habertürk",
-      "title": "Bedelli askerlik 28 gün kaldırılacak mı?",
-      "summary": "Bedelli askerlikte 28 günlük temel eğitim süresinin kaldırılacağı iddiası sosyal medyada yeniden gündeme geldi. Paylaşımların ardından bedelli askerlik yapacak yükümlüler, 28 gün temel eğitim uygulamasının sona erip ermeyeceğini araştırmaya başladı. Peki, bedelli askerlik 28 gün kaldırılacak mı? İşte DMM'nin açıklaması ve bedelli askerlikte son durum...",
-      "link": "https://www.haberturk.com/bilgi/foto/bedelli-askerlik-28-gun-kaldirilacak-mi-dmm-den-bedelli-askerlik-aciklamasi-3926494",
-      "published": "2026-11-12T16:30:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:40:41.101547+00:00"
-    },
-    {
-      "id": "7a47100dee86b5fa",
-      "source": "Independent Türkçe",
-      "title": "Malatya'da askeri helikopter düştü",
-      "summary": "Milli Savunma Bakanlığı (MSB), Malatya'da S-70 tipi askeri helikopterin henüz bilinmeyen bir nedenle kaza kırıma uğradığını açıkladı. Enkaza ulaşıldığı, bölgede arama-kurtarma çalışmalarının başlatıldığı bildirildi. Enkaza ulaşıldı, arama-kurtarma çalışmaları başlatıldı Bakanlığın açıklamasında, \"Bir S-70 tipi helikopterimiz Malatya'da henüz bilinmeyen nedenle kaza kırıma uğramıştır. Enkaza ulaşıl",
-      "link": "https://www.indyturk.com/node/785140/haber/malatyada-askeri-helikopter-d%C3%BC%C5%9Ft%C3%BC",
-      "published": "2026-11-12T16:30:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:35:43.534045+00:00"
-    },
-    {
-      "id": "d88f620b6eaef561",
-      "source": "Habertürk",
-      "title": "Üç aylar takvimi yayımlandı!",
-      "summary": "Üç aylar başlangıcı ve Recep ayının ilk günü, kasım ayının ortalarına gelinmesiyle birlikte araştırılmaya başlandı. Rahmet ve bereket iklimi olarak kabul edilen üç ayların başlangıç tarihi, Diyanet İşleri Başkanlığı tarafından yayımlanan 2026-2027 Dini Günler Takvimi ile belli oldu. Peki, Recep ayı ne zaman başlıyor, Regaip Kandili ayın kaçında, ilk kandil hangi güne denk geliyor? İşte 2026-2027 D",
-      "link": "https://www.haberturk.com/bilgi/foto/uc-aylar-takvi-mi-2026-2027-uc-aylar-ne-zaman-basliyor-recep-saban-ramazan-ayi-ilk-oruc-ve-kandil-tarihleri-belli-oldu-3926778",
-      "published": "2026-11-12T16:30:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T16:40:41.101581+00:00"
-    },
-    {
-      "id": "53423b2c47227177",
-      "source": "Bir Gün",
-      "title": "Uluslararası İzmir Tiyatro Festivali perdelerini adalet için açıyor",
-      "summary": "TAKSAV tarafından düzenlenen 14. Uluslararası İzmir Tiyatro Festivali, bu yıl “adalet” temasıyla sanatseverlerle buluşuyor. Festival kapsamında 28 oyun sahnelenecek, 3 atölye ve 1 söyleşi gerçekleştirilecek.",
-      "link": "https://www.birgun.net/haber/uluslararasi-izmir-tiyatro-festivali-perdelerini-adalet-icin-aciyor-746083",
-      "published": "2026-11-12T16:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T17:10:44.718947+00:00"
     }
   ]
 }

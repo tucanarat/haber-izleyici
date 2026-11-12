@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-12T16:51:07.159971+00:00",
+  "last_updated": "2026-11-12T16:55:56.536007+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 513,
+  "new_items_this_run": 510,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -17,6 +17,83 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-04T12:25:58.134959+00:00"
+    },
+    {
+      "id": "b4c491db3c0ea0b7",
+      "source": "CNBC-e",
+      "title": "Golda Gıda'dan temettü kararı: 2025 yılı kârı dağıtılmayacak",
+      "summary": "Golda Gıda Sanayi ve Ticaret A.Ş. (GOLDA), 2025 hesap dönemine ilişkin kâr dağıtım kararını açıkladı. Yönetim Kurulunun kârın dağıtılmaması yönündeki teklifi Genel Kurulda kabul edildi.",
+      "link": "https://www.cnbce.com/borsa/borsadaki-gida-sirketinden-temettu-karari-2025-yili-kari-dagitilmayacak-h41679",
+      "published": "2026-11-12T16:53:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:50.546151+00:00"
+    },
+    {
+      "id": "67d84196a124dbc3",
+      "source": "Türkiye Gazetesi",
+      "title": "Trabzonspor, yıldız ismin sözleşmesini feshetti",
+      "summary": "Trabzonspor, talimatlara aykırı davranışı nedeniyle Amerikalı gard Isaiah Canaan'ın sözleşmesinin feshedildiğini açıkladı.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/trabzonspor-yildiz-ismin-sozlesmesini-feshetti-1828927",
+      "published": "2026-11-12T16:52:11+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:35.108265+00:00"
+    },
+    {
+      "id": "5a3b48fed47ec32f",
+      "source": "Habertürk",
+      "title": "Malatya'da helikopter düştü: 4 asker şehit oldu",
+      "summary": "Malatya’nın Yeşilyurt ilçesi Samanköyü mevkiinde 18.45 sıralarında helikopter düştü. MSB'den yapılan açıklamada \"S-70 tipi helikopterimizin henüz belirlenemeyen bir sebeple Malatya'da kaza kırıma uğraması sonucu, helikopterde bulunan 4 kahraman silah arkadaşımız şehit olmuştur.\" denildi. Kazanın olduğu mevkiiye çok sayıda itfaiye, 112, AFAD ekibi sevkedilirken bölgede çıkan küçük çaplı yangın ekip",
+      "link": "https://www.haberturk.com/gundem/son-dakika-malatya-da-helikopter-dustu-3926921",
+      "published": "2026-11-12T16:52:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:30.752867+00:00"
+    },
+    {
+      "id": "2aad6cb2f463eb77",
+      "source": "Akşam",
+      "title": "Emine Erdoğan'dan COP31 mesajı: Sıfır Atık Müzesi açıldı",
+      "summary": "BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, COP31 kapsamında açılışı yapılan Sıfır Atık Müzesi'ne ilişkin sosyal medya paylaşımında bulundu.",
+      "link": "https://www.aksam.com.tr/guncel/emine-erdogandan-cop31-mesaji-sifir-atik-muzesi-acildi/haber-1714191",
+      "published": "2026-11-12T16:51:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:39.229568+00:00"
+    },
+    {
+      "id": "8c7f5ce5bb9aa50c",
+      "source": "Euronews Türkçe",
+      "title": "İngiltere'de antibiyotik dirençli enfeksiyonlar haftada 400'ü aştı: Kullanım azalsa da",
+      "summary": "Yeni veriler, ilaçlara dirençli kan dolaşımı enfeksiyonlarının 2019'dan beri yaklaşık %17 arttığını ve bunun Birleşik Krallık'ın antimikrobiyal dirençle mücadelesini zorlaştırdığını gösteriyor.",
+      "link": "https://tr.euronews.com/2026/11/12/ingilterede-antibiyotik-direncli-enfeksiyonlar-haftada-400u-asti-kullanim-azalsa-da",
+      "published": "2026-11-12T16:50:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:56.535019+00:00"
+    },
+    {
+      "id": "8e41bf79b10cf089",
+      "source": "Independent Türkçe",
+      "title": "Cumhurbaşkanı Erdoğan: İklim krizi küresel ölçekte kararlı adımlar atılmasını zorunlu kılıyor",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında düzenlenen COP31 İş Forumu'nda konuştu. İklim krizinin ulaştığı boyutların küresel ölçekte kararlı adımlar atılmasını gerektirdiğini belirten Erdoğan, gelişmiş ülkelerin iklim değişikliğiyle mücadelede daha fazla sorumluluk üstlenmesi gerektiğini söyledi. Erdoğan,",
+      "link": "https://www.indyturk.com/node/785141/haber/cumhurba%C5%9Fkan%C4%B1-erdo%C4%9Fan-i%CC%87klim-krizi-k%C3%BCresel-%C3%B6l%C3%A7ekte-kararl%C4%B1-ad%C4%B1mlar-at%C4%B1lmas%C4%B1n%C4%B1",
+      "published": "2026-11-12T16:49:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:47.125808+00:00"
+    },
+    {
+      "id": "c5b14d7ec2463c87",
+      "source": "Habertürk",
+      "title": "İzmir'de ilk 11'ler belli oldu!",
+      "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki 5. maçında İzmir'de Belçika'yı konuk ediyor... Vincenzo Montella'nın ayrılığının ardından göreve getirilen Sergen Yalçın, A Milli Takım'ın başındaki ilk maçına çıkıyor. Grupta oynadığı 4 karşılaşmayı da kaybeden ve henüz puan alamayan Türkiye, Belçika karşısında kötü gidişata son vermeyi hedefliyor. Kart cezaları sona eren Arda Güler ve Barış",
+      "link": "https://www.haberturk.com/spor/turkiye-belcika-maci-canli-anlatim-turkiye-belcika-uefa-uluslar-ligi-maci-kac-kac-mac-skoru-ve-3926713",
+      "published": "2026-11-12T16:49:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:30.752906+00:00"
     },
     {
       "id": "7de78889ab237344",
@@ -127,6 +204,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T16:46:06.304982+00:00"
+    },
+    {
+      "id": "78cc6bc9897fd0d9",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Emine Erdoğan, COP31 alanındaki Sıfır Atık Müzesi'ni açtı",
+      "summary": "Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında, Sıfır Atık Müzesi'nin açılışını yaptı.",
+      "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-cop31-alanindaki-sifir-atik-muzesini-acti/4123221",
+      "published": "2026-11-12T16:44:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:32.810516+00:00"
     },
     {
       "id": "edaa62db0d2bbc7a",
@@ -536,6 +624,17 @@
       "fetched_at": "2026-11-12T16:40:41.101802+00:00"
     },
     {
+      "id": "695153a20a52ddfc",
+      "source": "Diken",
+      "title": "Malatya'da helikopter düştü; MSB: Dört şehit var",
+      "summary": "Malatya'da helikopter düştü; MSB: Dört şehit var 12.11.2026 Diken Malatya'nın Yeşilyurt ilçesinde askeri helikopter düştü. Olay yerine çok sayıda itfaiye ve sağlık ekibi sevk edildi. The post Malatya'da helikopter düştü; MSB: Dört şehit var appeared first on #site_linkat 12.11.2026 .",
+      "link": "https://www.diken.com.tr/malatyada-askeri-helikopter-dustu-saglik-ekipleri-ve-itfaiye-sevk-edildi/?utm_source=rss&utm_medium=rss&utm_campaign=malatyada-askeri-helikopter-dustu-saglik-ekipleri-ve-itfaiye-sevk-edildi",
+      "published": "2026-11-12T16:25:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:43.732514+00:00"
+    },
+    {
       "id": "309714fe29f6faf0",
       "source": "Diken",
       "title": "Malatya'da askeri helikopter düştü: Sağlık ekipleri ve itfaiye sevk edildi",
@@ -567,6 +666,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T16:25:48.160205+00:00"
+    },
+    {
+      "id": "bc3c070540bacde6",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Malatya'da S-70 tipi helikopterin kaza kırıma uğraması sonucu 4 asker şehit oldu",
+      "summary": "Milli Savunma Bakanlığı (MSB) Malatya'da S-70 tipi helikopterin kaza kırıma uğradığını bildirerek, \"Helikopterde bulunan 4 kahraman silah arkadaşımız şehit olmuştur.\" açıklamasında bulundu.",
+      "link": "https://www.aa.com.tr/tr/gundem/malatyada-s-70-tipi-helikopterin-kaza-kirima-ugramasi-sonucu-4-asker-sehit-oldu/4123177",
+      "published": "2026-11-12T16:24:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:32.810568+00:00"
     },
     {
       "id": "c38553aa1a7067bc",
@@ -712,6 +822,17 @@
       "fetched_at": "2026-11-12T16:20:56.475210+00:00"
     },
     {
+      "id": "83f4ebcd52e18dc2",
+      "source": "Hürriyet",
+      "title": "Malatya’da helikopter düştü",
+      "summary": "Malatya’nın Yeşilyurt ilçesi Samanköyü mevkiinde helikopter düştü. Konuya ilişkin Milli Savunma Bakanlığı'ndan yapılan açıklama \"Bir adet S-70 tipi helikopterimiz Malatya’da henüz bilinmeyen bir nedenle kaza kırıma uğramıştır. Enkaza ulaşılmış, arama-kurtarma çalışmalarına derhal başlanmıştır.\" ifadelerine yer verildi.",
+      "link": "https://www.hurriyet.com.tr/gundem/malatyada-helikopter-dustu-43376177",
+      "published": "2026-11-12T16:19:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:37.242347+00:00"
+    },
+    {
       "id": "40322bd62ff9841b",
       "source": "Karar",
       "title": "Malatya'da helikopter düştü... MSB: 4 şehidimiz var",
@@ -754,6 +875,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T16:20:53.617923+00:00"
+    },
+    {
+      "id": "12d516807698996f",
+      "source": "Finans Gündem",
+      "title": "Malatya'da askeri helikopter düştü: 4 asker şehit oldu",
+      "summary": "Malatya’nın Yeşilyurt ilçesinde askeri helikopter düştü. Kazada 4 asker şehit oldu.",
+      "link": "https://www.finansingundemi.com/haber/malatyada-askeri-helikopter-dustu-4-asker-sehit-oldu/1914585",
+      "published": "2026-11-12T16:18:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:51.305758+00:00"
     },
     {
       "id": "4fa3d44ccf192f9c",
@@ -853,6 +985,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T16:21:05.912433+00:00"
+    },
+    {
+      "id": "a0ec225a8662c7b9",
+      "source": "Cumhuriyet",
+      "title": "Son dakika... Malatya’da helikopter düştü! 4 asker şehit oldu...",
+      "summary": "Malatya’nın Yeşilyurt ilçesinde helikopter düştü. Olay yerine çok sayıda itfaiye ve sağlık ekibi sevk edildi. Olayla ilgili açıklama yapan MSB, “Bir adet S-70 tipi helikopterimiz Malatya’da henüz bilinmeyen bir nedenle kaza kırıma uğramıştır” dedi. Malatya Büyükşehir Belediye Başkanı Sami Er \"4 şehidimiz var\" dedi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-malatya-da-helikopter-dustu-2555715",
+      "published": "2026-11-12T16:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:33.181039+00:00"
     },
     {
       "id": "22b36c623864cd53",
@@ -4441,6 +4584,17 @@
       "fetched_at": "2026-11-12T14:31:05.867910+00:00"
     },
     {
+      "id": "b885513e5965f738",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Sağlık Bakanım Memişoğlu: Türkiye'de koruyan, geliştiren ve üreten sağlık anlayışını hayata geçirdik",
+      "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Türkiye'de Cumhurbaşkanımızın liderliğinde 'Sağlıkta Türkiye Yüzyılı' diyerek koruyan, geliştiren ve üreten sağlık anlayışını hayata geçirdik.\" dedi.",
+      "link": "https://www.aa.com.tr/tr/gundem/saglik-bakanim-memisoglu-turkiyede-koruyan-gelistiren-ve-ureten-saglik-anlayisini-hayata-gecirdik/4122837",
+      "published": "2026-11-12T14:29:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:32.810490+00:00"
+    },
+    {
       "id": "60d8381b15cf26ae",
       "source": "Yeni Şafak",
       "title": "İstanbul’da lodos etkili oldu: Dalgalar kıyıya vurdu",
@@ -4494,6 +4648,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T14:31:08.098416+00:00"
+    },
+    {
+      "id": "0aa79da71afcf900",
+      "source": "Euronews Türkçe",
+      "title": "Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1 kişi öldü ve saldırgan intihar etti",
+      "summary": "ABD'nin başkenti Washington D.C.'de, Beyaz Saray'a yaklaşık 1,6 kilometre uzaklıktaki Logan Circle semtinde düzenlenen silahlı saldırıda beş kişi vuruldu. Polis, henüz yakalanamayan saldırganı ararken bölgedeki bazı okullar güvenlik gerekçesiyle kapatıldı.",
+      "link": "https://tr.euronews.com/2026/11/12/beyaz-saray-yakinlarinda-silahli-saldiri-5-kisi-vuruldu-saldirgan-araniyor",
+      "published": "2026-11-12T14:28:33+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-12T16:55:56.535215+00:00"
     },
     {
       "id": "b5f53f27c599b008",
@@ -5341,171 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T14:25:35.141828+00:00"
-    },
-    {
-      "id": "2c98ebafff2bc1bb",
-      "source": "Ekonomim",
-      "title": "ABD'nin ilk Müslüman senatörü Kur'an-ı Kerim üzerine yemin edecek",
-      "summary": "ABD&#039;de 3 Kasım&#039;da gerçekleştirilen ara seçimlerde Michigan eyaletinden senatör seçilerek ülke tarihine geçen Abdul El-Sayed, ocak ayında düzenlenecek yemin töreninde Kur&#039;an-ı Kerim kullanacağını açıkladı. Mısır kökenli Demokrat siyasetçi, Thomas Jefferson&#039;a ait olduğu belirtilen tarihi Kur&#039;an nüshasını tercih edebileceğini söyledi.",
-      "link": "https://www.ekonomim.com/dunya/abdnin-ilk-musluman-senatoru-kuran-i-kerim-uzerine-yemin-edecek-haberi-930888",
-      "published": "2026-11-12T14:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:20:58.550794+00:00"
-    },
-    {
-      "id": "28082b5f11c8ead2",
-      "source": "Star",
-      "title": "İran'da çatışma! PJAK mensubu teröristler öldürüldü",
-      "summary": "İran'ın Batı Azerbaycan eyaletine bağlı Serdeşt ilçesinin sınır bölgesinde, terör örgütü PJAK mensubu 2 kişinin öldürüldüğü ve beraberlerinde silah, teçhizat ve Starlink uydu cihazının ele geçirildiği bildirildi.",
-      "link": "https://www.star.com.tr/guncel/iranda-catisma-pjak-mensubu-teroristler-olduruldu-haber-2053036/",
-      "published": "2026-11-12T14:13:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:15:50.275439+00:00"
-    },
-    {
-      "id": "8f9646f2c5820407",
-      "source": "Yeni Yaşam",
-      "title": "İstanbul’da gözaltına alınanlar serbest: İki gazeteci için ev hapsi kararı",
-      "summary": "Üç gazetecinin de aralarında bulunduğu 16 kişi, adli kontrol şartıyla serbest bırakılırken 2 gazeteci hakkında ise ev hapsi kararı verildi İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında 9 Kasım’da Mücadele Birliği Gazetesi muhabirleri Serpil Ünal, Özlem Oral ve Önsöz Dergi Yönetim Kurulu üyesi Fatma Yıldırım aralarından bulunduğu 18 kişi gözaltına alındı. Gözaltına alı",
-      "link": "https://yeniyasamgazetesi10.com/istanbulda-gozaltina-alinanlar-serbest-iki-hazeteci-icin-ev-hapsi-karari/",
-      "published": "2026-11-12T14:12:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:35:49.962732+00:00"
-    },
-    {
-      "id": "6b75c821c3c2d5d3",
-      "source": "Yeni Yaşam",
-      "title": "İstanbul’da gözaltına alınanlar serbest: İki hazeteci için ev hapsi kararı",
-      "summary": "Üç gazetecinin de aralarında bulunduğu 16 kişi, adli kontrol şartıyla serbest bırakılırken 2 gazeteci hakkında ise ev hapsi kararı verildi İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında 9 Kasım’da Mücadele Birliği Gazetesi muhabirleri Serpil Ünal, Özlem Oral ve Önsöz Dergi Yönetim Kurulu üyesi Fatma Yıldırım aralarından bulunduğu 18 kişi gözaltına alındı. Gözaltına alı",
-      "link": "https://yeniyasamgazetesi10.com/istanbulda-gozaltina-alinanlar-serbest-iki-hazeteci-icin-ev-hapsi-karari/",
-      "published": "2026-11-12T14:12:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:15:58.544310+00:00"
-    },
-    {
-      "id": "cd6085a6d7962695",
-      "source": "Euronews Türkçe",
-      "title": "Havalimanına geç kalma endişesine çözüm: Flighty'den kişiselleştirilmiş yolculuk planı",
-      "summary": "Flighty, yolculuk süresini etkileyebilecek trafik yoğunluğunu ve resmi tatilleri takip ederek yola çıkmanız gereken zamandan 20 dakika önce bildirim gönderiyor.",
-      "link": "https://tr.euronews.com/2026/11/12/ucus-takip-uygulamasi-flighty-havaalanina-ne-zaman-cikmaniz-gerektigini-soyluyor",
-      "published": "2026-11-12T14:12:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T15:41:07.746164+00:00"
-    },
-    {
-      "id": "98330f4f515f9414",
-      "source": "Euronews Türkçe",
-      "title": "Uçuş takip uygulaması Flighty, havaalanına ne zaman çıkmanız gerektiğini söylüyor",
-      "summary": "Flighty, yolculuk sürelerinizi etkileyebilecek trafik koşullarını ve resmî tatilleri takip eder ve çıkmanız gerekmeden 20 dakika önce uyarı gönderir.",
-      "link": "https://tr.euronews.com/2026/11/12/ucus-takip-uygulamasi-flighty-havaalanina-ne-zaman-cikmaniz-gerektigini-soyluyor",
-      "published": "2026-11-12T14:12:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:21:03.424612+00:00"
-    },
-    {
-      "id": "41bfa5f8e00055df",
-      "source": "Euronews Türkçe",
-      "title": "Flighty uygulaması, havaalanına ne zaman çıkmanız gerektiğini hesaplıyor",
-      "summary": "Flighty, seyahat sürenizi etkileyebilecek trafik durumunu ve resmî tatilleri takip eder, çıkmanızdan 20 dakika önce uyarı gönderir.",
-      "link": "https://tr.euronews.com/2026/11/12/flighty-uygulamasi-havaalanina-ne-zaman-cikmaniz-gerektigini-hesapliyor",
-      "published": "2026-11-12T14:12:13+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:16:08.064886+00:00"
-    },
-    {
-      "id": "c7fe21024aeaf085",
-      "source": "Evrensel",
-      "title": "Nvidia CEO'su Jensen Huang istifa etti",
-      "summary": "ABD'li çip üreticisi Nvidia'nın 33 yıldır şirketin başında bulunan CEO'su Jensen Huang görevinden ayrıldı. Şirketin mali işler sorumlusu Colette Kress geçici CEO olarak atanırken, istifanın ardından Nvidia hisseleri yüzde 10'dan fazla değer kaybetti.",
-      "link": "https://www.evrensel.net/haber/6009208/nvidia-ceosu-jensen-huang-istifa-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-12T14:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:20:48.161999+00:00"
-    },
-    {
-      "id": "96f1119ed5324945",
-      "source": "Cumhuriyet",
-      "title": "Fernando Muslera'dan yeşil sahalara veda kararı",
-      "summary": "Galatasaray'ın efsane kalecisi Fernando Muslera yeşil sahalara veda ediyor. Muslera kasım ayı sonunda oynanacak Libertadores finaliyle profesyonel kariyerini noktalayacak.",
-      "link": "https://www.cumhuriyet.com.tr/spor/fernando-muslera-dan-yesil-sahalara-veda-karari-2555671",
-      "published": "2026-11-12T14:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:15:42.308410+00:00"
-    },
-    {
-      "id": "7bbe1e3b190602e1",
-      "source": "Star",
-      "title": "COP31 zirvesi! Bakan Bolat'tan 24 TV'ye özel açıklamalar",
-      "summary": "Ticaret Bakanı Ömer Bolat, COP31 gündemine ilişkin 24 TV'ye özel açıklamalarda bulundu.",
-      "link": "https://www.star.com.tr/guncel/cop31-zirvesi-bakan-bolattan-24-tvye-ozel-aciklamalar-haber-2053035/",
-      "published": "2026-11-12T14:12:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:15:50.275464+00:00"
-    },
-    {
-      "id": "2d35b88b62dee236",
-      "source": "Karar",
-      "title": "Günaydın'dan fon vurgununda 401 milyar liralık liste çıkışı: İsmi geçen 60 milletvekili ve 30 bakan kim?",
-      "summary": "YENİ Parti Grup Başkanvekili Günaydın, KARAR TV'de Taha Akyol ve Elif Çakır'ın sorularını cevapladı. Fon skandalında 450 bin yatırımcının 850 milyar lirasının kaybolduğunu savunan Günaydın, 1-16 Eylül tarihleri arasında 440 kişinin toplam 401 milyar lirayı sistemden çıkardığını öne sürdü. Bu kişiler arasında milletvekilleri, eski ve mevcut bakanlar ile yüksek yargı mensupları bulunduğunu iddia ede",
-      "link": "https://www.karar.com/guncel-haberler/gunaydindan-fon-vurgununda-401-milyar-liralik-liste-cikisi-ismi-gecen-2083825",
-      "published": "2026-11-12T14:11:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:15:51.097327+00:00"
-    },
-    {
-      "id": "c1f117cedef14341",
-      "source": "Akşam",
-      "title": "Beyaz Saray çevresinde silah sesleri! Güvenlik koridoru oluşturuldu",
-      "summary": "Beyaz Saray çevresinde silah sesleri duyuldu. ABD polisi silah sesi duyulan bölgede güvenlik koridoru oluşturdu.",
-      "link": "https://www.aksam.com.tr/dunya/beyaz-saray-cevresinde-silah-sesleri-guvenlik-koridoru-olusturuldu/haber-1714154",
-      "published": "2026-11-12T14:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:15:49.117222+00:00"
-    },
-    {
-      "id": "bf7217e94f9fed9d",
-      "source": "Akşam",
-      "title": "Bakan Bolat'tan 24 TV'de COP31 değerlendirmesi: Antalya'daki zirve tarihe geçti",
-      "summary": "Ticaret Bakanı Ömer Bolat, 24 TV yayınında COP31'in yanı sıra Türkiye'nin yeşil dönüşüm ve ticaret yol haritasına ilişkin değerlendirmelerde bulunarak, 2026-2030 dönemini kapsayan eylem programına, adil geçiş sürecine ve yeşil finansmanın önemine dikkati çekti. Bakan Bolat, Antalya'da yoğun katılımla devam eden COP31'in Türkiye için büyük bir başarı olduğunu belirterek, “COP tarihine süper standar",
-      "link": "https://www.aksam.com.tr/guncel/bakan-bolattan-24-tvde-cop31-degerlendirmesi-antalyadaki-zirve-tarihe-gecti/haber-1714153",
-      "published": "2026-11-12T14:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:15:49.117264+00:00"
-    },
-    {
-      "id": "0e155a88e615002a",
-      "source": "Karar",
-      "title": "Beyaz Saray yakınlarında silahlı saldırı paniği: 4 kişi vuruldu",
-      "summary": "Son dakika haberi...Beyaz Saray çevresinde çok sayıda silah sesi duyuldu. Olayda 4 kişinin vurulduğu bildirildi.",
-      "link": "https://www.karar.com/dunya-haberleri/beyaz-saray-yakinlarinda-silahli-saldiri-panigi-4-kisi-vuruldu-2083826",
-      "published": "2026-11-12T14:11:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:15:51.097364+00:00"
-    },
-    {
-      "id": "b4305eb596999ab3",
-      "source": "Akşam",
-      "title": "Zerenspor'da başantrenörlüğe Alper Hamurcu getirildi",
-      "summary": "Voleybol Vodafone Sultanlar Ligi ekiplerinden Zerenspor, başantrenörlüğe Alper Hamurcu'nun getirildiğini duyurdu.",
-      "link": "https://www.aksam.com.tr/spor/zerensporda-basantrenorluge-alper-hamurcu-getirildi/haber-1714152",
-      "published": "2026-11-12T14:10:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T14:10:49.113126+00:00"
     }
   ]
 }

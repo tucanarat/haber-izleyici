@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-13T01:11:04.372001+00:00",
+  "last_updated": "2026-11-13T01:16:09.655976+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 482,
+  "new_items_this_run": 483,
   "items": [
     {
       "id": "e7093a7956229f61",
@@ -514,6 +514,17 @@
       "fetched_at": "2026-11-13T00:45:47.824818+00:00"
     },
     {
+      "id": "67163fd8cd348a5d",
+      "source": "Bir Gün",
+      "title": "Microsoft'un üç hizmetinde erişim sorunu: Şirketten açıklama geldi",
+      "summary": "Microsoft'un Outlook, Teams ve Microsoft 365 hizmetlerinde birden fazla bölgede erişim sorunları yaşandı. Şirket, bazı sunucuların beklenmedik şekilde devre dışı kalmasının altyapı üzerindeki yükü artırdığını açıkladı. Sorunun giderilmesi için sunucuların yeniden başlatıldığı ve yapılandırma değişikliklerinin uygulandığı bildirildi.",
+      "link": "https://www.birgun.net/haber/microsoft-un-uc-hizmetinde-erisim-sorunu-sirketten-aciklama-geldi-746137",
+      "published": "2026-11-13T00:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-13T01:15:47.990927+00:00"
+    },
+    {
       "id": "728c5929727804b3",
       "source": "OdaTV",
       "title": "Fransa'da okul koridorlarında havai fişek patlattılar",
@@ -578,6 +589,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-13T00:30:54.120955+00:00"
+    },
+    {
+      "id": "cf9763de9a06dcdc",
+      "source": "Bir Gün",
+      "title": "Resmi Gazete'de yayımlandı: Diyaliz merkezlerinde yeni dönem",
+      "summary": "Resmi Gazete'de yayımlanan yönetmelikle diyaliz merkezlerinin cihaz kapasitesi 60'tan 80'e çıkarıldı. Kronik diyaliz tedavisine yeni başlayan hastaların en geç 3 ay içinde böbrek nakli konusunda bilgilendirilmesi ve organ nakli merkezine yönlendirilmesi zorunlu hale getirildi. Hastaların farklı sağlık kuruluşlarında muayene olabilmesine olanak tanınırken, tatil diyalizi dönemi de mayıs-kasım aylar",
+      "link": "https://www.birgun.net/haber/resmi-gazete-de-yayimlandi-diyaliz-merkezlerinde-yeni-donem-746136",
+      "published": "2026-11-13T00:12:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-13T01:15:47.990974+00:00"
     },
     {
       "id": "f4ea9ebec974b2bd",
@@ -5484,28 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-12T21:01:30.189183+00:00"
-    },
-    {
-      "id": "13977dadb477816a",
-      "source": "Star",
-      "title": "İran'dan dikkat çeken karar! Tatilde ısıtma sistemlerini kapatmayan kamu kurumlarının gazı kesildi",
-      "summary": "İran'ın başkenti Tahran'da, tatil gününde ısıtma sistemlerini kapatmadıkları belirlenen Eğitim Bakanlığı ve 5 kamu kurumunun doğal gazının kesildiği bildirildi.",
-      "link": "https://www.star.com.tr/dunya/irandan-dikkat-ceken-karar-tatilde-isitma-sistemlerini-kapatmayan-kamu-kurumlarinin-gazi-kesildi-haber-2053108/",
-      "published": "2026-11-12T19:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T20:01:03.917034+00:00"
-    },
-    {
-      "id": "434f93d2d93e6e6e",
-      "source": "Yeni Şafak",
-      "title": "Bolu'da kahraman muhtar: Canını hiçe sayarak içeri girdi, alevlerin arasına daldı",
-      "summary": "Bolu'da sobanın devrilmesi sonucu çıkan yangında evde mahsur kalan felçli vatandaş, mahalle muhtarının müdahalesiyle kurtarıldı.",
-      "link": "https://www.yenisafak.com/galeri/gundem/boluda-kahraman-muhtar-canini-hice-sayarak-iceri-girdi-alevlerin-arasina-daldi-4871928",
-      "published": "2026-11-12T19:56:55+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-12T20:01:03.580813+00:00"
     }
   ]
 }

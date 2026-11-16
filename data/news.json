@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-16T02:25:56.511615+00:00",
+  "last_updated": "2026-11-16T02:31:24.664464+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 503,
+  "new_items_this_run": 504,
   "items": [
+    {
+      "id": "d3d3db5f8d670b3c",
+      "source": "Türkiye Gazetesi",
+      "title": "TÜRK DİZİLERİ TARİH YAZIYOR!",
+      "summary": "Türkiye'nin eğitim, kültür, din ve televizyon yapımları üzerinden uluslararası etkisini artırdığını ifade eden Rum basını, \"Türk dizileri yalnızca eğlence amacı taşımıyor aynı zamanda tarihi de yeniden şekillendiriyor\" diye yazdı.",
+      "link": "https://www.turkiyegazetesi.com.tr/gundem/turk-dizileri-tarihi-yeniden-yaziyor-rum-basini-dunyada-firtina-gibi-esen-yapimlari-h-1829580",
+      "published": "2026-11-16T02:25:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T02:31:04.300794+00:00"
+    },
     {
       "id": "9d4a8f54bc6fc0cc",
       "source": "Türkiye Gazetesi",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-15T19:25:43.290886+00:00"
-    },
-    {
-      "id": "42e20c2cdd286125",
-      "source": "Milliyet",
-      "title": "İsrail'de kritik pazarlık! Eisenkot ve Netanyahu cephesi masaya oturdu",
-      "summary": "Yashar ve Likud partilerinden yapılan ortak açıklamada, toplantının sona erdiği ve taraflar arasında diyaloğun devam etmesi konusunda anlaşmaya varıldığı aktarıldı. İlginizi Çekebilir İsrail'in Yedioth Ahronoth gazetesinin haberine göre, bir saat 15 dakika kadar süren toplantıya muhalefet blokundaki eski Başbakan Naftali Bennett'in Birlikte Listesi temsilcileri de katıldı. Müzakerenin iktidar ve m",
-      "link": "https://www.milliyet.com.tr/dunya/israilde-kritik-pazarlik-eisenkot-ve-netanyahu-cephesi-masaya-oturdu-7701396",
-      "published": "2026-11-15T19:22:46+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T19:25:42.403946+00:00"
     }
   ]
 }

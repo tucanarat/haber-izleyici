@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T03:56:02.734185+00:00",
+  "last_updated": "2026-11-16T04:01:22.150830+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
@@ -7,6 +7,17 @@
   "total_items": 500,
   "new_items_this_run": 503,
   "items": [
+    {
+      "id": "e82f2e94a133f6ce",
+      "source": "Star",
+      "title": "Erzurum'da 3,6 büyüklüğünde deprem",
+      "summary": "Erzurum'un Pasinler ilçesinde 3,6 büyüklüğünde bir deprem meydana geldi.",
+      "link": "https://www.star.com.tr/guncel/erzurumda-36-buyuklugunde-deprem-haber-2053723/",
+      "published": "2026-11-16T03:59:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T04:01:06.837920+00:00"
+    },
     {
       "id": "0201ec2cf0dddee7",
       "source": "Yeni Akit",
@@ -19,6 +30,17 @@
       "fetched_at": "2026-11-16T03:55:45.709309+00:00"
     },
     {
+      "id": "b131cf567eabc8eb",
+      "source": "Yeni Akit",
+      "title": "Erzurum'da sabah saatlerinde deprem! AFAD son depremleri açıkladı",
+      "summary": "Erzurum'un Pasinler ilçesinde sabah saat 06.01'de 3,6 büyüklüğünde deprem meydana geldi. AFAD, sarsıntının yerin 7 kilometre derinliğinde kaydedildiğini açıkladı. Gece boyunca Balıkesir, Muğla, Adana ve birçok ilde de küçük ölçekli depremler yaşandı.",
+      "link": "https://www.yeniakit.com.tr/haber/erzurumda-deprem-korkuttu-2033857.html",
+      "published": "2026-11-16T03:52:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T04:01:07.285262+00:00"
+    },
+    {
       "id": "58c63552fc4e88d5",
       "source": "Milliyet",
       "title": "Gülistan Doku'da yeni iddia: ‘Aileye bilgi vermeyin’",
@@ -28,6 +50,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T03:55:42.983239+00:00"
+    },
+    {
+      "id": "bc0ed996e4a457f3",
+      "source": "OdaTV",
+      "title": "Antalya'dan dünyaya iklim mirası: 'COPArt' artık kalıcı",
+      "summary": "COP31 İklim Zirvesi kapsamında Antalya&#039;da ilk kez düzenlenen resmi sanat programı COPArt, Birleşmiş Milletler (BM) tarafından miras olarak kabul edildi. BM yönetimi, COPArt markasının gelecek organizasyonlarda da sürdürülmesine karar verdi.",
+      "link": "https://www.odatv.com/kultur-sanat/antalyadan-dunyaya-iklim-mirasi-copart-artik-kalici-120171372",
+      "published": "2026-11-16T03:49:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T04:01:09.401367+00:00"
+    },
+    {
+      "id": "9b97eb604c50bab2",
+      "source": "ShiftDelete.Net",
+      "title": "Qwen4-Max, görev maliyetini %62 azalttı",
+      "summary": "Önizleme 11 Kasım'da yalnızca Token Plan'daydı. API 16 Kasım 05:01'de genel kullanıma geçti ve liste fiyatı Qwen3.8-Max'in yüzde 25 altına indi.",
+      "link": "https://shiftdelete.net/qwen4-max",
+      "published": "2026-11-16T03:48:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T04:01:18.762338+00:00"
     },
     {
       "id": "5a1e0644982c34b8",
@@ -5462,50 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-15T19:40:46.043896+00:00"
-    },
-    {
-      "id": "a4123bcd08499eb9",
-      "source": "Habertürk",
-      "title": "Derbide kazanan Fenerbahçe!",
-      "summary": "Basketbol Süper Ligi'nin 8. haftasında Fenerbahçe Tarfin, sahasında ağırladığı Anadolu Efes'e karşı 16 sayı farktan döndü ve parkeden 77-75 galip ayrıldı.",
-      "link": "https://www.haberturk.com/spor/fenerbahce-tarfin-anadolu-efes-mac-sonucu-ozeti-ve-detaylari-basketbol-super-ligi-3927550",
-      "published": "2026-11-15T19:39:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T19:50:38.610807+00:00"
-    },
-    {
-      "id": "fa3a0d5b0e9120a0",
-      "source": "Cumhuriyet",
-      "title": "Basketbol derbisinde kazanan Fenerbahçe Tarfin!",
-      "summary": "Fenerbahçe Tarfin, Basketbol Süper Ligi'nin 8. haftasında kendi evinde ağırladığı Anadolu Efes'i 77-75 mağlup etti.",
-      "link": "https://www.cumhuriyet.com.tr/spor/basketbol-derbisinde-kazanan-fenerbahce-tarfin-2556435",
-      "published": "2026-11-15T19:39:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T19:40:40.026391+00:00"
-    },
-    {
-      "id": "abaad71dedef8880",
-      "source": "Milliyet",
-      "title": "Osmaniye'de 4 araç birbirine girdi! 7 kişi yaralı",
-      "summary": "Osmaniye’de TIR ile 3 otomobilin karıştığı zincirleme kazada 7 kişi yaralandı. Kaza, saat 15.30 sıralarında Düziçi ilçesi Tarsus-Adana-Gaziantep (TAG) Otoyolu’nda meydana geldi. Adana yönünde seyir halinde olan sürücülerinin isimleri öğrenilemeyen TIR ile 3 otomobil, peş peşe çarpıştı. İhbar üzerine kaza yerine sağlık ve jandarma ekipleri sevk edildi. Araçlarda yaralanan 7 kişi, ambulanslarla çevr",
-      "link": "https://www.milliyet.com.tr/gundem/osmaniyede-4-arac-birbirine-girdi-7-kisi-yarali-7701411",
-      "published": "2026-11-15T19:37:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T19:40:44.726696+00:00"
-    },
-    {
-      "id": "de7273f4d98b44bd",
-      "source": "Sabah",
-      "title": "İran: “ABD’nin şartlarımıza verdiği yanıtlar uygulanabilir değil”",
-      "summary": "İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, ABD ile ilgili açıklamalarda bulundu. Tahran yönetiminin \"Hürmüz Boğazı'nın açılmasına\" ilişkin hazırladığı planın uygulama süresini 7 günden 2 güne indirdiğini... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/dunya/iran-abdnin-sartlarimiza-verdigi-yanitlar-uygulanabilir-degil-7702425",
-      "published": "2026-11-15T19:37:03+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T20:10:46.584533+00:00"
     }
   ]
 }

@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-16T02:01:19.015876+00:00",
+  "last_updated": "2026-11-16T02:05:59.694417+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 518,
+  "new_items_this_run": 504,
   "items": [
+    {
+      "id": "0dcdd7356200c8d4",
+      "source": "Aydınlık",
+      "title": "Sultangazi'de otomobil kamyonet ve park halindeki araçlara çarptı",
+      "summary": "Sultangazi&#039;de saat 19.00 sıralarında hızla ilerleyen bir otomobil, önce hareket halindeki kamyonete, ardından park halindeki araçlara çarptı. Kazada otomobil sürücüsü hafif yaralanırken 6 araç hasar gördü.",
+      "link": "https://www.aydinlik.com.tr/haber/sultangazide-6-aracin-hasar-gordugu-kaza-kamerada-599112",
+      "published": "2026-11-16T02:00:49+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T02:05:44.301559+00:00"
+    },
     {
       "id": "b5e6f1ddc8abd98a",
       "source": "Bir Gün",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-15T19:25:39.735177+00:00"
-    },
-    {
-      "id": "8d65ae295d42a47a",
-      "source": "Türkiye Gazetesi",
-      "title": "Fenerbahçe, Anadolu Efes derbisinde geri döndü!",
-      "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Türkiye Sigorta Basketbol Süper Ligi 8. hafta maçında Anadolu Efes'i 77-75 mağlup ederek altıncı galibiyetini aldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahce-anadolu-efes-derbisinde-geri-dondu-1829532",
-      "published": "2026-11-15T19:20:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T19:25:39.735192+00:00"
     }
   ]
 }

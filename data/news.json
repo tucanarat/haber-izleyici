@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-16T02:11:08.762668+00:00",
+  "last_updated": "2026-11-16T02:16:11.912794+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 503,
+  "new_items_this_run": 504,
   "items": [
+    {
+      "id": "9d4a8f54bc6fc0cc",
+      "source": "Türkiye Gazetesi",
+      "title": "Dünyada bir ilk! Tek tuşla 51 drone'u düşürdü",
+      "summary": "ASELSAN, 51'inci kuruluş yıl dönümün- de geliştirdiği EJDERHA Yüksek Güçlü Elektromanyetik (HPEM) İHA Savunma Sistemi ile dikkat çeken bir başarıya imza attı.",
+      "link": "https://www.turkiyegazetesi.com.tr/teknoloji/aselsanin-yeni-silahi-ejderha-51-droneu-keklik-gibi-avladi-1829579",
+      "published": "2026-11-16T02:08:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T02:15:49.217393+00:00"
+    },
     {
       "id": "0dcdd7356200c8d4",
       "source": "Aydınlık",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-15T19:25:42.403946+00:00"
-    },
-    {
-      "id": "8d65ae295d42a47a",
-      "source": "Türkiye Gazetesi",
-      "title": "Fenerbahçe, Anadolu Efes derbisinde geri döndü!",
-      "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Türkiye Sigorta Basketbol Süper Ligi 8. hafta maçında Anadolu Efes'i 77-75 mağlup ederek altıncı galibiyetini aldı.",
-      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahce-anadolu-efes-derbisinde-geri-dondu-1829532",
-      "published": "2026-11-15T19:20:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T19:25:39.735177+00:00"
     }
   ]
 }

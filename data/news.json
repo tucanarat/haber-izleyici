@@ -1,12 +1,364 @@
 {
-  "last_updated": "2026-11-16T11:26:17.853333+00:00",
+  "last_updated": "2026-11-16T11:36:20.607227+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 442,
+  "new_items_this_run": 446,
   "items": [
+    {
+      "id": "166c3925c5b543f9",
+      "source": "İklim Haber",
+      "title": "Antalya Yapay Zeka Taahhüdü Başlatıldı: “İçi Boş Bir Dikkat Dağıtıcı ile Karşı Karşıyayız”",
+      "summary": "COP31’de bugün Antalya Yapay Zeka Taahhüdü başlatılırken, STK’lar taahhüdü veri merkezlerine adeta kırmızı halı seren politikaları düzeltmeye yönelik gerçek eylemlerden uzaklaştıran boş bir dikkat dağıtıcı olarak nitelendirdi. COP31&#8217;deki üst düzey bir etkinlikte Antalya Yapay Zekâ Taahhüdü resmi olarak başlatıldı. Taahhüt, ülkelerin, şirketlerin ve kuruluşların yapay zekâyı iklim çözümünün b",
+      "link": "https://www.iklimhaber.org/antalya-yapay-zeka-taahhudu-baslatildi-ici-bos-bir-dikkat-dagitici-ile-karsi-karsiyayiz/",
+      "published": "2026-11-16T11:36:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:36:19.659291+00:00"
+    },
+    {
+      "id": "1a7ae9d39e554589",
+      "source": "Karar",
+      "title": "Balıkesir Ayvalık'ta yolcu minibüsü denize düştü: Şoför hayatını kaybetti, 10 yolcu kurtarıldı",
+      "summary": "Balıkesir’in Ayvalık ilçesinde, sürücüsü Batuhan Yılmaz’ın direksiyon başında kalp krizi geçirmesi sonucu kontrolden çıkan yolcu minibüsü denize düştü. Ekiplerin ve vatandaşların müdahalesiyle araçtaki biri çocuk 10 yolcu sağ olarak kurtarılırken, minibüs şoförü hayatını kaybetti.",
+      "link": "https://www.karar.com/sehir-haberleri/balikesir-ayvalikta-yolcu-minibusu-denize-dustu-sofor-hayatini-kaybetti-2084412",
+      "published": "2026-11-16T11:35:10+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:43.133386+00:00"
+    },
+    {
+      "id": "a23a8b520f30baab",
+      "source": "Yeni Şafak",
+      "title": "İslahiye'de hayatını kaybeden Kıbrıs gazisi askeri törenle toprağa verildi",
+      "summary": "Gaziantep'in İslahiye ilçesinde yaşamını yitiren Kıbrıs gazisi Derviş Usluol (76), Sıdıka Tayyar Hatun Camisi'ndeki askeri törenin ardından İslahiye Asri Mezarlığı'nda son yolculuğuna uğurlandı.",
+      "link": "https://www.yenisafak.com/gundem/kibris-gazisi-dervis-usluol-son-yolculuguna-ugurlandi-4873046",
+      "published": "2026-11-16T11:34:56+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:40.434454+00:00"
+    },
+    {
+      "id": "13efb0b8cf9138ba",
+      "source": "ShiftDelete.Net",
+      "title": "Windows'ta lisans hatası için acil yama geldi",
+      "summary": "Microsoft, kasım güvenlik güncellemelerinin yol açtığı Windows lisans hatası için acil yamalar yayınladı. Sorun, SLMGR ile etkinleştirme yapan kurumları etkiliyor.",
+      "link": "https://shiftdelete.net/windows-lisans-hatasi-acil-guncelleme-slmgr",
+      "published": "2026-11-16T11:34:07+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:36:17.855569+00:00"
+    },
+    {
+      "id": "c0ad8b7add6ac0af",
+      "source": "Yeni Şafak",
+      "title": "Ayvalık'ta şoförü kalp krizi geçiren yolcu minibüsü denize uçtu: 1 ölü 10 yaralı",
+      "summary": "Balıkesir'in Ayvalık ilçesinde, şoförü direksiyon başında kalp krizi geçiren yolcu minibüsü denize uçtu. Yaralanan şoför ve yolcular minibüsten çıkarılarak hastaneye sevk edildi.",
+      "link": "https://www.yenisafak.com/gundem/ayvalikta-soforu-kalp-krizi-geciren-yolcu-minibusu-denize-uctu-1-olu-10-yarali-4873044",
+      "published": "2026-11-16T11:33:35+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:40.434477+00:00"
+    },
+    {
+      "id": "452fbea4e73a519f",
+      "source": "Yeni Şafak",
+      "title": "Bodrum'da göçmen organizasyonunun 10 şüphelisi adliyeye sevk edildi",
+      "summary": "Bodrum'da düzensiz göçmen geçişine yönelik soruşturmada gözaltına alınan 10 şüpheli adliyeye sevk edildi. Olayda lastik botta 32 düzensiz göçmen ile Mısır uyruklu tekne kaptanı yakalanmıştı.",
+      "link": "https://www.yenisafak.com/gundem/bodrumda-gocmen-kacakciligi-10-supheli-adliyede-4873042",
+      "published": "2026-11-16T11:33:15+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:40.434494+00:00"
+    },
+    {
+      "id": "fbb206650214613a",
+      "source": "OdaTV",
+      "title": "Türk dünyasının mirası uluslararası sahneye taşınıyor",
+      "summary": "Ankara’da bir araya gelen Türk dünyasının sanat üniversiteleri, ortak kültürel mirası uluslararası sahneye taşımak için iş birliği adımlarını değerlendirdi. Bakan Ersoy, müzik festivali ve Avrupa-ABD etkinlikleriyle kültürel bağların güçlendirileceğini vurguladı.",
+      "link": "https://www.odatv.com/kultur-sanat/turk-dunyasinin-mirasi-uluslararasi-sahneye-tasiniyor-120171472",
+      "published": "2026-11-16T11:32:53+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:50.251221+00:00"
+    },
+    {
+      "id": "4b7a3389e4ba15f2",
+      "source": "Aydınlık",
+      "title": "19 işçinin öldüğü HABAŞ faciasında bilirkişi ön raporu: Sensörler işlevsiz, bakım yetersiz",
+      "summary": "İzmir&#039;de 19 işçinin yaşamını yitirdiği HABAŞ patlamasının bilirkişi ön raporu ortaya çıktı. Raporda, su ile erimiş metalin temasının patlamaya yol açtığı belirtilirken bakım, sensör ve tahliye eksikliklerine dikkat çekildi. Su sızıntısının nedeni ise henüz belirlenemedi.",
+      "link": "https://www.aydinlik.com.tr/haber/habas-patlamasinda-bilirkisi-on-raporu-ortaya-cikti-19-iscinin-olumune-iliskin-bakim-ve-sensor-tespitleri-599186",
+      "published": "2026-11-16T11:32:37+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:43.657070+00:00"
+    },
+    {
+      "id": "5c985b307db7f9f9",
+      "source": "Cumhuriyet",
+      "title": "İçişleri Bakanlığı duyurdu: Şanlıurfa ve Hakkari’de 566 kilo 'uyuşturucu' ele geçirildi",
+      "summary": "İçişleri Bakanlığı, Şanlıurfa ve Hakkari’de jandarma ekiplerince düzenlenen uyuşturucu operasyonlarında toplam 566 kilogram uyuşturucu madde ele geçirildiğini açıkladı. Operasyonlarda 370 kilogram skunk, 177 kilogram esrar ve 19 kilogram metamfetamin bulundu.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-duyurdu-sanliurfa-ve-hakkari-de-566-kilo-uyusturucu-ele-gecirildi-2556594",
+      "published": "2026-11-16T11:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:32.118002+00:00"
+    },
+    {
+      "id": "4e955fe581ab38c8",
+      "source": "DonanımHaber",
+      "title": "Nvidia açıkladı: GeForce ekran kartlarını bırakacak mı?",
+      "summary": "Nvidia'nın yönetim kadrosundaki değişiklikler, GeForce ekran kartlarının geleceği hakkında soru işaretlerini artırmıştı. Şirketin GeForce temsilcisi Jacob Freeman ise kısa ve net yanıt verdi.",
+      "link": "https://www.donanimhaber.com/nvidia-acikladi-geforce-ekran-kartlarini-birakacak-mi--212963",
+      "published": "2026-11-16T11:32:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:36:18.681114+00:00"
+    },
+    {
+      "id": "5ee3719463a6e0c6",
+      "source": "Milliyet",
+      "title": "COP31 Başkanı Kurum'dan Türk dünyasına 35’e 35 elektrifikasyon taahhüdü daveti",
+      "summary": "Dünyanın en önemli iklim zirvesi olan COP31, Antalya’da 8. gününde devam ediyor. COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Türk Devletleri Teşkilatı Çevre ve İklimden Sorumlu Bakanları ile COP31 Üst Düzey Yuvarlak Masa Toplantısı’nda bir araya geldi. COP31 Başkanı Kurum, bakanlara COP31 Eylem Gündemi’nin öncelikleri hakkında bilgi verirken; toplantıda küresel elek",
+      "link": "https://www.milliyet.com.tr/ekonomi/cop31-baskani-kurumdan-turk-dunyasina-35e-35-elektrifikasyon-taahhudu-daveti-7701813",
+      "published": "2026-11-16T11:31:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:38.615021+00:00"
+    },
+    {
+      "id": "706941f4335c32ac",
+      "source": "Sözcü",
+      "title": "Tutuklu Ömer Sarıgül ek ifade için adliyeye getirildi",
+      "summary": "Tutuklu Ömer Sarıgül ek ifade için adliyeye getirildi",
+      "link": "https://www.sozcu.com.tr/tutuklu-omer-sarigul-ek-ifade-icin-adliyeye-getirildi-p381880",
+      "published": "2026-11-16T11:30:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:35.862960+00:00"
+    },
+    {
+      "id": "f3c07cbd4776ad3f",
+      "source": "Yeni Yaşam",
+      "title": "Adalet Bakanlığı önünde tahliyelerin engellenmesine tepki",
+      "summary": "Sincan Kadın Kapalı Cezaevi&#8217;nde yaşanan hak ihlalleri ve tahliye engellemelerine karşı Adalet Bakanlığı önünde basın açıklaması gerçekleşti Ankara Demokratik Kurumlar Platformu, Sincan Kadın Kapalı Cezaevi&#8217;nde İdare ve Gözlem Kurulu tarafından tahliyesi 5 kez engellenen Hicran Binici ve diğer hasta tutsaklar için Adalet Bakanlığı önünde açıklama yaptı Hicran Binici&#8217;nin tahliyesi ",
+      "link": "https://yeniyasamgazetesi10.com/adalet-bakanligi-onunde-tahliyelerin-engellenmesine-tepki-2/",
+      "published": "2026-11-16T11:30:26+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:55.189726+00:00"
+    },
+    {
+      "id": "a54e66e414c8426e",
+      "source": "Diken",
+      "title": "Uyarı: Kuş gribi nedeniyle yumurta ve tavuk kıtlığı olabilir",
+      "summary": "Uyarı: Kuş gribi nedeniyle yumurta ve tavuk kıtlığı olabilir 16.11.2026 Diken Norveç Gıda Güvenliği küreseldeki kuş gribi salgınının yumurta ve tavuk kıtlığına neden olabiliceğini öne sürdü. The post Uyarı: Kuş gribi nedeniyle yumurta ve tavuk kıtlığı olabilir appeared first on #site_linkat 16.11.2026 .",
+      "link": "https://www.diken.com.tr/uyari-kus-gribi-nedeniyle-yumurta-ve-tavuk-kitligi-olabilir/?utm_source=rss&utm_medium=rss&utm_campaign=uyari-kus-gribi-nedeniyle-yumurta-ve-tavuk-kitligi-olabilir",
+      "published": "2026-11-16T11:30:06+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:50.426765+00:00"
+    },
+    {
+      "id": "48a9b7eecb7afb57",
+      "source": "Teyit",
+      "title": "Ultrason muayenesi yapan kişinin üç kollu olduğunu gösteren video gerçek mi?",
+      "summary": "Ultrason muayenesi yapan üç kollu birini gösteren videonun gerçek olduğu iddia edildi.",
+      "link": "https://teyit.org/analiz/ultrason-muayenesi-yapan-kisinin-uc-kollu-oldugunu-gosteren-video-gercek-mi",
+      "published": "2026-11-16T11:30:03+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:36:19.918647+00:00"
+    },
+    {
+      "id": "59c3a19af78242f1",
+      "source": "Akşam",
+      "title": "Türkiye ile ilişkilerin geliştirilmesi çağrısı! \"En büyük dileğim\"",
+      "summary": "KKTC'nin 5. Cumhurbaşkanı Ersin Tatar, Ordu'da yaptığı açıklamada Türkiye ile güçlü bağlara dikkat çekerek, “Büyük Türkiye Cumhuriyeti bizim ana vatanımızdır.” dedi. Türkiye ile karşılıklı ilişkilerin geliştirilmesinin en büyük dileği ve temennisi olduğunu vurgulayan Tatar, “Aramızdaki muhabbeti, münasebetleri ve ilişkileri her zaman çok önemsedim ve önemsemeye devam ediyorum.” ifadelerini kulland",
+      "link": "https://www.aksam.com.tr/guncel/turkiye-ile-iliskilerin-gelistirilmesi-cagrisi-en-buyuk-dilegim/haber-1715042",
+      "published": "2026-11-16T11:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:39.550318+00:00"
+    },
+    {
+      "id": "a5c08fcccea76287",
+      "source": "Yeni Şafak",
+      "title": "Beykoz'da denize düşen görme engelli vatandaşın yardımına çevredekiler koştu",
+      "summary": "Beykoz Çubuklu sahilinde denize düşen görme engelli vatandaşı, çevredeki vatandaşlar denize atlayarak kurtardı. Sağlık ekiplerinin kontrol ettiği vatandaşın sağlık durumunun iyi olduğu öğrenildi.",
+      "link": "https://www.yenisafak.com/gundem/beykozda-gorme-engelli-vatandas-denize-dustu-4873040",
+      "published": "2026-11-16T11:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:40.434510+00:00"
+    },
+    {
+      "id": "1ceeca444f53abe0",
+      "source": "Aydınlık",
+      "title": "COP31’in ilk haftasında Mavi Bölge’ye 102 bin 610 kişi kaydoldu",
+      "summary": "Antalya’daki COP31’in ilk 7 gününde Mavi Bölge’ye 102 bin 610 kişi kayıt yaptırdı. Yeşil Bölge’yi ziyaret edenlerin sayısı ise 212 bine ulaştı.",
+      "link": "https://www.aydinlik.com.tr/haber/cop31-mavi-bolge-kayitlari-102-bin-610-kisiye-ulasti-599182",
+      "published": "2026-11-16T11:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:43.657092+00:00"
+    },
+    {
+      "id": "22e2f171d58a1cc4",
+      "source": "Karar",
+      "title": "Ağabeyi tahliye edilmişti: Ömer Sarıgül ek ifade için adliyeye getirildi",
+      "summary": "Sarıgül ailesine yönelik yürütülen kara para aklama soruşturması kapsamında tutuklu bulunan Ömer Sarıgül, ek ifade vermek üzere İstanbul Adalet Sarayı'na getirildi. Sarıgül'ün ağabeyi Emir Sarıgül de daha önce etkin pişmanlık hükümlerinden yararlanarak ek ifade vermesinin ardından ev hapsi şartıyla tahliye edilmişti.",
+      "link": "https://www.karar.com/guncel-haberler/agabeyi-tahliye-edilmisti-omer-sarigul-ek-ifade-icin-adliyeye-getirildi-2084411",
+      "published": "2026-11-16T11:29:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:43.133411+00:00"
+    },
+    {
+      "id": "e6b9c9e95de38258",
+      "source": "Cumhuriyet",
+      "title": "Marmara Denizi'nde müsilaj yeniden ortaya çıktı: 30 metre derinliğe ulaştı",
+      "summary": "Marmara Denizi'ndeki müsilaj sorunu yeniden gündeme geldi. Bursa'nın Gemlik Körfezi'nde yapılan dalışlarda, 5 ila 30 metre derinlikte müsilaj görüntülendi. Balıkçılar, deniz salyasının ağlarına ve teknelerin motorlarına zarar verdiğini belirterek avlanmakta güçlük çektiklerini söyledi.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/marmara-denizi-nde-musilaj-yeniden-ortaya-cikti-30-metre-derinlige-ulasti-2556593",
+      "published": "2026-11-16T11:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:32.118026+00:00"
+    },
+    {
+      "id": "fb71ea0bb232d831",
+      "source": "Evrensel",
+      "title": "AKOM'dan İstanbul'a fırtına uyarısı: Rüzgârın hızı 85 kilometreye ulaşacak",
+      "summary": "İstanbul Büyükşehir Belediyesi Afet Koordinasyon Merkezi (AKOM), kentte çarşamba gününden itibaren etkili olması beklenen fırtınaya karşı uyardı.",
+      "link": "https://www.evrensel.net/haber/6009735/akom-dan-istanbul-a-firtina-uyarisi-ruzgarin-hizi-85-kilometreye-ulasacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-16T11:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:36.013102+00:00"
+    },
+    {
+      "id": "8f7ff1cb97b66dd3",
+      "source": "Akşam",
+      "title": "Ziraat Bankası'ndan COP31'de 2 milyar dolarlık sürdürülebilirlik odaklı finansman",
+      "summary": "“Ziraat Bankası, COP31 kapsamında uluslararası finans kuruluşlarıyla gerçekleştirdiği yeni iş birlikleri ile 2 milyar dolar karşılığı sürdürülebilir kalkınma odaklı finansman anlaşmasına imza attı. KfW IPEX-Bank, JICA, SMBC ve Citibank ile gerçekleştirilen anlaşmaların yanı sıra 1,1 milyar dolarlık sürdürülebilirlik bağlantılı sendikasyon kredisiyle Banka, Türkiye ekonomisine nitelikli dış kaynak ",
+      "link": "https://www.aksam.com.tr/guncel/ziraat-bankasindan-cop31de-2-milyar-dolarlik-surdurulebilirlik-odakli-finansman/haber-1715041",
+      "published": "2026-11-16T11:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:39.550347+00:00"
+    },
+    {
+      "id": "8ad687ca9d423db0",
+      "source": "OdaTV",
+      "title": "Gérard Depardieu cinsel saldırı davasında geri adım attı: İtirazından vazgeçti",
+      "summary": "Fransız sinemasının ünlü oyuncusu Gérard Depardieu, iki kadına cinsel saldırıdan aldığı hapis cezasına yaptığı itirazı geri çekti. Hakkındaki mahkumiyet kesinleşen 77 yaşındaki oyuncu, mağdurlardan özür diledi.",
+      "link": "https://www.odatv.com/magazin/gerard-depardieu-cinsel-saldiri-mahkumiyetini-kabul-ederek-ozur-diledi-120171470",
+      "published": "2026-11-16T11:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:50.251245+00:00"
+    },
+    {
+      "id": "88bab154e65d4572",
+      "source": "Aydınlık",
+      "title": "Özlale’den AK Partili Karaaslan’a fon soruları: ‘Bu ilişkilerden haberdar mıydınız?’",
+      "summary": "Yeni Parti Milletvekili Ümit Özlale, fon soruşturmasına ilişkin hazırladıkları dosyaların ilkinde AK Partili Çiğdem Karaaslan&#039;ın yakınlarının ticari ilişkilerini gündeme taşıdı. Özlale, Londra ortaklıkları ile borsa kayıtlarının SPK ve MASAK tarafından ayrıntılı araştırılması gerektiğini belirtti.",
+      "link": "https://www.aydinlik.com.tr/haber/ozlaleden-ak-partili-karaaslana-fon-sorulari-bu-iliskilerden-haberdar-miydiniz-599185",
+      "published": "2026-11-16T11:28:52+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:43.657114+00:00"
+    },
+    {
+      "id": "575672a11c1c360d",
+      "source": "Cumhuriyet",
+      "title": "Sokak toplayıcıları geri dönüşüm sistemine dahil oluyor",
+      "summary": "Çevreci Atık Toplayıcıları Kooperatifi (ÇETOKoop) ile imzalanan işbirliği protokolünün ardından, bağımsız sıfır atık toplayıcılarına yönelik kapsamlı bir eğitim programı düzenlendi.",
+      "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/sokak-toplayicilari-geri-donusum-sistemine-dahil-oluyor-2556592",
+      "published": "2026-11-16T11:28:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:32.118041+00:00"
+    },
+    {
+      "id": "872579b90cf343b0",
+      "source": "OdaTV",
+      "title": "Riot Rose model oldu: Anne karnında Super Bowl’da, üç yaşında dergi kapağında",
+      "summary": "Rihanna’nın hamileliğini Super Bowl sahnesinde duyurduğu oğlu Riot Rose, üç yaşında moda dergisine kapak oldu. Şarkıcı, oğlunun fotoğraflarını “Super Bowl’dan süper modelliğe…” sözleriyle paylaştı.",
+      "link": "https://www.odatv.com/magazin/rihannanin-oglu-riot-rose-uc-yasinda-dergi-kapagi-oldu-120171469",
+      "published": "2026-11-16T11:27:08+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:50.251262+00:00"
+    },
+    {
+      "id": "3b8b0f9720b4cd41",
+      "source": "CNBC-e",
+      "title": "Türkiye–AB ekonomik ilişkilerinde yeni dönemin rotası İstanbul’da çizilecek",
+      "summary": "Koluman Holding ana sponsorluğunda 10–11 Aralık 2026’da Çırağan Sarayı’nda düzenlenecek 10. İstanbul Ekonomi Zirvesi, bakanları, diplomatları, uluslararası finans kuruluşlarını ve iş dünyasının liderlerini buluşturacak. Zirvenin programı ve 10’uncu yıl hedefleri basın toplantısında açıklandı.",
+      "link": "https://www.cnbce.com/sirket-haberleri/turkiye-ab-ekonomik-iliskilerinde-yeni-donemin-rotasi-istanbulda-cizilecek-h41918",
+      "published": "2026-11-16T11:27:01+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:57.597951+00:00"
+    },
+    {
+      "id": "8ba2cea02fd99c4b",
+      "source": "Star",
+      "title": "Ziraat Bankası'ndan COP31'de 2 milyar dolarlık sürdürülebilirlik odaklı finansman",
+      "summary": "\"Ziraat Bankası, COP31 kapsamında uluslararası finans kuruluşlarıyla gerçekleştirdiği yeni iş birlikleri ile 2 milyar dolar karşılığı sürdürülebilir kalkınma odaklı finansman anlaşmasına imza attı. KfW IPEX-Bank, JICA, SMBC ve Citibank ile gerçekleştirilen anlaşmaların yanı sıra 1,1 milyar dolarlık sürdürülebilirlik bağlantılı sendikasyon kredisiyle Banka, Türkiye ekonomisine nitelikli dış kaynak ",
+      "link": "https://www.star.com.tr/ekonomi/ziraat-bankasindan-cop31de-2-milyar-dolarlik-surdurulebilirlik-odakli-finansman-haber-2053813/",
+      "published": "2026-11-16T11:27:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:40.718446+00:00"
+    },
+    {
+      "id": "0d3c1706632c3fb3",
+      "source": "Anadolu Ajansı (Güncel)",
+      "title": "Yemen'de Husilerin Aden'e yaklaşması Taiz ve Babulmendeb cephelerindeki dengeleri değiştirdi",
+      "summary": "Yemen'de İran destekli Husilerin eylül ayından bu yana ülkenin batı kıyısı ve güneyindeki ilerleyişi, Taiz, Babulmendeb ve Aden çevresindeki cephelerde askeri dengeleri değiştirdi.",
+      "link": "https://www.aa.com.tr/tr/dunya/yemende-husilerin-adene-yaklasmasi-taiz-ve-babulmendeb-cephelerindeki-dengeleri-degistirdi/4126526",
+      "published": "2026-11-16T11:26:46+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:31.829638+00:00"
+    },
+    {
+      "id": "78b05961dc60cdc1",
+      "source": "Cumhuriyet",
+      "title": "Meteoroloji saat verdi: Marmara için 'kuvvetli yağış' uyarısı",
+      "summary": "Meteoroloji Genel Müdürlüğü (MGM) Marmara Bölgesi için bu gece yarısından itibaren kuvvetli yağış uyarısı yaptı.",
+      "link": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-saat-verdi-marmara-icin-kuvvetli-yagis-uyarisi-2556590",
+      "published": "2026-11-16T11:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:32.118055+00:00"
+    },
+    {
+      "id": "9343e4dc475ba330",
+      "source": "Cumhuriyet",
+      "title": "Selanik Film Festivali'nde ödüller verildi",
+      "summary": "67. Selanik Uluslararası Film Festivali'nde Theo Angelopoulos adına verilen büyük ödül Altın İskender'i (10 bin Euro) Jacqueline Lentzou'nun yönettiği A Day in the Life of Jo: Chapter Phaedra aldı.",
+      "link": "https://www.cumhuriyet.com.tr/kultur-sanat/selanik-film-festivali-nde-oduller-verildi-2556591",
+      "published": "2026-11-16T11:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:32.118071+00:00"
+    },
+    {
+      "id": "3f4c9c90c025ccac",
+      "source": "Ekonomim",
+      "title": "Karadeniz'de Somali bayraklı yük gemisi battı: 12 Türk mürettebat kayboldu",
+      "summary": "Bulgaristan açıklarında yaklaşık 3 bin ton buğday taşıyan Somali bayraklı yük gemisi battı. Gemide bulunan 12 Türk mürettebattan haber alınamazken, patlamanın nedeni araştırılıyor. Arama-kurtarma çalışmaları Bulgaristan, Romanya ve Türkiye ekiplerinin katılımıyla sürüyor.",
+      "link": "https://www.ekonomim.com/gundem/karadenizde-somali-bayrakli-yuk-gemisi-batti-12-turk-murettebat-kayboldu-haberi-931557",
+      "published": "2026-11-16T11:26:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:56.385219+00:00"
+    },
     {
       "id": "080b9491f48e0c04",
       "source": "DonanımHaber",
@@ -17,6 +369,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T11:26:14.616931+00:00"
+    },
+    {
+      "id": "c96a8eaf1abb985c",
+      "source": "Cumhuriyet",
+      "title": "Buca’da engeller sanatla aşılıyor",
+      "summary": "Buca Belediyesi’nin Şirinyer’de bulunan Özel Gereksinimli Bireyler Danışma ve Koordinasyon Merkezi bünyesinde hayata geçirdiği ahşap boyama kursu yoğun ilgi görüyor. Buca Belediye Başkan Vekili Hüseyin Benzer, “Herkesin eşit fırsatlara sahip olduğu engelsiz bir kent yaşamı inşa etmek için çalışıyoruz” diye konuştu.",
+      "link": "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/buca-da-engeller-sanatla-asiliyor-2556589",
+      "published": "2026-11-16T11:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:32.118088+00:00"
     },
     {
       "id": "368fbfdef8aadcad",
@@ -63,6 +426,17 @@
       "fetched_at": "2026-11-16T11:25:45.853318+00:00"
     },
     {
+      "id": "27f5009f48249c92",
+      "source": "Habertürk",
+      "title": "Ufuk Beydemir dua istedi",
+      "summary": "Geçtiğimiz aylarda baba olacağı müjdesini veren Beydemir, doğumun planlanandan erken başladığını açıkladı",
+      "link": "https://www.haberturk.com/magazin/ufuk-beydemir-dua-istedi-3927697",
+      "published": "2026-11-16T11:22:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:28.966948+00:00"
+    },
+    {
       "id": "57b2a62eaef143c4",
       "source": "Türkiye Gazetesi",
       "title": "Karadeniz'de yük gemisi battı! 12 Türk mürettebat kayıp",
@@ -107,6 +481,17 @@
       "fetched_at": "2026-11-16T11:25:53.049246+00:00"
     },
     {
+      "id": "e6102cd375c5c533",
+      "source": "Bloomberg HT",
+      "title": "Sabancı CEO'su Zaimler: Elektrifikasyon Türkiye için yeni bir büyüme modeli",
+      "summary": "Sabancı Holding CEO'su Kıvanç Zaimler \"Elektrifikasyon, Türkiye için ekonomik kalkınmayı destekleyen yeni bir büyüme modeli. Bu kapsamda elektrifikasyonun COP31'in ana çıktısı olarak öne çıkmasından büyük memnuniyet duyuyoruz\" dedi.",
+      "link": "https://www.bloomberght.com/sabanci-ceosu-zaimler-elektrifikasyon-turkiye-icin-yeni-bir-buyume-modeli-3794752",
+      "published": "2026-11-16T11:21:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:56.247673+00:00"
+    },
+    {
       "id": "bc7229214046e2a8",
       "source": "Cumhuriyet",
       "title": "Çatalca'da park halindeki otomobil yandı: 1 şüpheli gözaltına alındı",
@@ -116,6 +501,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T11:25:37.875344+00:00"
+    },
+    {
+      "id": "30fa0929ec233b3c",
+      "source": "Evrensel",
+      "title": "Seyhan Belediyesinde kamu emekçilerinin sosyal hakları kesildi: “Cebimize göz dikmeyin!”",
+      "summary": "Seyhan Belediyesi, memurların toplu sözleşmeyle elde ettiği kreş, ulaşım gibi sosyal hakları kasım ayında Sayıştay denetimini gerekçe göstererek kesti. TÜM BEL-SEN, üyeleri ile belediye önünde eylem yaparak haklarının iade edilmesini istedi.",
+      "link": "https://www.evrensel.net/haber/6009734/seyhan-belediyesinde-kamu-emekcilerinin-sosyal-haklari-kesildi-cebimize-goz-dikmeyin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-16T11:20:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:36.013124+00:00"
     },
     {
       "id": "e16f78060ed24219",
@@ -217,6 +613,17 @@
       "fetched_at": "2026-11-16T11:20:49.659237+00:00"
     },
     {
+      "id": "d30ff9b942955ec0",
+      "source": "Evrensel",
+      "title": "Ahmet Kaya’nın ölümünün üzerinden 26 yıl geçti: Şarkıları ve mücadelesi unutulmadı",
+      "summary": "Şarkılarında emekçilerin, ezilenlerin ve ötekileştirilenlerin hikâyelerine yer veren Ahmet Kaya, 43 yıllık yaşamına unutulmaz eserler sığdırdı. Sanatçı, ölümünün 26. yılında müziği ve mücadelesiyle hatırlanıyor.",
+      "link": "https://www.evrensel.net/haber/6009733/ahmet-kaya-nin-olumunun-uzerinden-26-yil-gecti-sarkilari-ve-mucadelesi-unutulmadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-16T11:17:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:36.013141+00:00"
+    },
+    {
       "id": "838aa382c92f5e05",
       "source": "Cumhuriyet",
       "title": "Cumhuriyet Çağlayan'dan bildiriyor... Büyükçekmece Belediyesi davasında ruhsat savunması: 'Belediye yönetiminden talimat gelmedi'",
@@ -259,6 +666,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T11:20:51.277433+00:00"
+    },
+    {
+      "id": "e1aaddb178f0555b",
+      "source": "Evrensel",
+      "title": "Ronaldinho, 11 yıl sonra futbol sahalarına döndü",
+      "summary": "Brezilyalı efsane futbolcu Ronaldinho, 46 yaşında İtalya Serie C ekiplerinden Ravenna'nın formasıyla sahalara döndü.",
+      "link": "https://www.evrensel.net/haber/6009731/ronaldinho-11-yil-sonra-futbol-sahalarina-dondu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-16T11:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:36.013153+00:00"
+    },
+    {
+      "id": "0435b6b9e9aaa657",
+      "source": "Evrensel",
+      "title": "Süper Lig'de 12'nci hafta Gençlerbirliği-Gaziantep maçıyla başlayacak",
+      "summary": "Süper Lig’de 12’nci hafta heyecanı 21 Kasım Cumartesi günü başlayacak. Galatasaray Samsunspor’u, Trabzonspor Eyüpspor’u ağırlarken Fenerbahçe Kocaelispor’a, Beşiktaş Konyaspor’a konuk olacak.",
+      "link": "https://www.evrensel.net/haber/6009732/super-lig-de-12-nci-hafta-genclerbirligi-gaziantep-maciyla-baslayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-16T11:16:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:36.013167+00:00"
     },
     {
       "id": "d01ff9d631bd9b02",
@@ -2472,6 +2901,17 @@
       "fetched_at": "2026-11-16T10:31:16.094103+00:00"
     },
     {
+      "id": "c3ff5c040b9a8887",
+      "source": "OdaTV",
+      "title": "YENİ Parti fon dosyasını açıkladı: Verdiği isimler... 139 sayfalık belge Odatv'de",
+      "summary": "YENİ Parti İzmir Milletvekili Ümit Özlale, &quot;fon&quot; krizine ilişkin partisinin hazırladığı sekiz dosyadan birini kamuoyuna açıkladı. Özlale&#039;nin sunumunu yaptığı 139 sayfalık dosya Odatv&#039;de.",
+      "link": "https://www.odatv.com/siyaset/yeni-parti-fon-dosyasini-acikladi-verdigi-isimler-120171458",
+      "published": "2026-11-16T10:25:41+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:50.251435+00:00"
+    },
+    {
       "id": "d39ce0d96e2f61b5",
       "source": "OdaTV",
       "title": "YENİ Parti fon dosyasını açıkladı: Verdiği isimler",
@@ -2789,6 +3229,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T10:25:31.929837+00:00"
+    },
+    {
+      "id": "2da34c19c64caf26",
+      "source": "Independent Türkçe",
+      "title": "Gazi rolü yaparak 80 bin dolardan fazla çalan adam tutuklandı",
+      "summary": "New York'ta bir adam, savcıların açıklamasına göre madalyalı ve çatışmada yaralanmış bir gazi gibi davranarak, çalıştığı gaziler derneğinden 80 bin dolardan fazla para çaldığı gerekçesiyle tutuklandı. fazla oku Bu bölüm, konuyla ilgili referans noktalarını içerir. (Related Nodes field) Suffolk County Bölge Savcısı Raymond A. Tierney'in geçen hafta yaptığı açıklamaya göre, Long Island'daki Hampton ",
+      "link": "https://www.indyturk.com/node/785281/ya%C5%9Fam/gazi-rol%C3%BC-yaparak-80-bin-dolardan-fazla-%C3%A7alan-adam-tutukland%C4%B1",
+      "published": "2026-11-16T10:17:23+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T11:35:54.495886+00:00"
     },
     {
       "id": "eef260b019316604",
@@ -5055,457 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T09:35:46.220149+00:00"
-    },
-    {
-      "id": "30bcca80126b9800",
-      "source": "Habertürk",
-      "title": "Mangal, faciayla bitti! Yaşlı kadın öldü!",
-      "summary": "Kilis'te mangaldan sızan karbonmonoksit gazı faciaya neden oldu. Olayda zehirlenen 72 yaşındaki Zekiye Karlı hayatını kaybederken, üvey oğlu M.D. ise hastanede tedaviye alındı",
-      "link": "https://www.haberturk.com/gundem/mangal-faciayla-bitti-yasli-kadin-oldu-3927667",
-      "published": "2026-11-16T09:29:34+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:40:38.006125+00:00"
-    },
-    {
-      "id": "67a96df2897a9511",
-      "source": "Habertürk",
-      "title": "İstanbul'un 1600 yıllık mirası Londra'da",
-      "summary": "Koç Holding'in desteğiyle Londra'da düzenlenecek sergi, İstanbul'un Bizans ve Osmanlı imparatorluklarına uzanan 1600 yıllık kültürel mirasını dünyaya tanıtacak. Fatih Sultan Mehmed'in ünlü portresinden Osman Hamdi Bey'in tablosuna, Topkapı Sarayı'ndan tarihi mozaiklere kadar 200'ü aşkın eser, 7 Kasım'dan itibaren sanatseverlerle buluşacak",
-      "link": "https://www.haberturk.com/kultur-sanat/koc-holding-in-destegiyle-istanbul-un-tarihi-eserleri-londra-da-sanatseverlerle-bulusacak-3924968",
-      "published": "2026-11-16T09:29:22+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:40:38.006171+00:00"
-    },
-    {
-      "id": "b4ecdbf68498dc93",
-      "source": "Bir Gün",
-      "title": "Vinicius Junior: \"Sözleşme süreci formumu etkilemiş olabilir\"",
-      "summary": "Real Madrid’de sezon başındaki performansıyla eleştirilen Vinicius Junior, yaz transfer döneminde birçok kulübün kendisiyle temasa geçtiğini ve bu durumun kafasını karıştırdığını söyledi.",
-      "link": "https://www.birgun.net/haber/vinicius-junior-sozlesme-sureci-formumu-etkilemis-olabilir-746719",
-      "published": "2026-11-16T09:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:39.369728+00:00"
-    },
-    {
-      "id": "090546afdb76aec0",
-      "source": "Star",
-      "title": "MEB'den eğitimde dijital karne hamlesi! e-Okul üzerinden kullanıma açıldı",
-      "summary": "Milli Eğitim Bakanlığınca (MEB) geliştirilen Ortak Yazılı Sınav Sistemi'nin (OYSS) \"Analiz ve Raporlama\" modülü öğretmen, öğrenci ve velilerin erişimine açıldı.",
-      "link": "https://www.star.com.tr/egitim/mebden-egitimde-dijital-karne-hamlesi-e-okul-uzerinden-kullanima-acildi-haber-2053794/",
-      "published": "2026-11-16T09:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:43.694954+00:00"
-    },
-    {
-      "id": "6b135b8f70155ce2",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Almanya'da Müslümanların tepkisini çeken afiş kampanyası durduruldu",
-      "summary": "Almanya'nın Bremen eyaletinde Anayasayı Koruma Teşkilatı'nın Müslümanları şüphe altında bıraktığı gerekçesiyle eleştirilen afiş kampanyası, İslami kuruluşların tepkileri üzerine erken sonlandırıldı.",
-      "link": "https://www.aa.com.tr/tr/dunya/almanyada-muslumanlarin-tepkisini-ceken-afis-kampanyasi-durduruldu/4126367",
-      "published": "2026-11-16T09:28:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:36.428285+00:00"
-    },
-    {
-      "id": "63d7ca5ef8c34345",
-      "source": "Serbestiyet",
-      "title": "MHP’nin “Yağmur Stratejisi”: Yürütmeye destek, Meclis’te “içeriden denetim”",
-      "summary": "Devlet Bahçeli’nin “Yürütmede Erdoğan, yasamada MHP” çıkışının ardından MHP kaynakları, “Yağmur Stratejisi” adını verdikleri planı tv100’e anlattı. “Üç Y” diye anılan formülde yürütme için “Destek var, ortaklık yok”, yasama için “Güçlü Meclis, içeriden denetim”, yargı için “Bağımsız ve güvenilir adalet” ifadeleri kullanıldı. MHP’nin “Yağmur Stratejisi”: Yürütmeye destek, Meclis’te “içeriden deneti",
-      "link": "https://serbestiyet.com/haberler/mhpnin-yagmur-stratejisi-yurutmeye-destek-mecliste-iceriden-denetim-253663/",
-      "published": "2026-11-16T09:28:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:50.096222+00:00"
-    },
-    {
-      "id": "8e45d92c9d16137f",
-      "source": "LOG",
-      "title": "9 milyon TL’lik Toyota GR Yaris için ilk teslimat Toprak Razgatlıoğlu’na yapıldı",
-      "summary": "Toyota Türkiye, GR Yaris modelinin resmi Türkiye fiyatlarını geçtiğimiz hafta Performance 4×4 280HP M/T özelinde 8.950.000 TL, Aero Performance 4×4 280HP M/T özelindeyse tam 10.190.000 TL olarak duyurmuştu. Daha sonra yapılan paylaşıma göreyse fiyatı çok konuşulan aracın Türkiye&#8217;de teslim edildiği ilk ismi MotoGP&#8217;de mücadele eden milli motosikletçimiz &#8220;Toprak Razgatlıoğlu&#8221; ",
-      "link": "https://www.log.com.tr/9-milyon-tllik-toyota-gr-yaris-icin-ilk-teslimat-toprak-razgatliogluna-yapildi/",
-      "published": "2026-11-16T09:28:42+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:55.339670+00:00"
-    },
-    {
-      "id": "8ad491ce4a56bd76",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Milli basketbolcu Ömer Faruk Yurtseven, NBA G League'de 42 sayı kaydetti",
-      "summary": "Amerikan Basketbol Ligi'nin alt organizasyonu G Lig'de (NBA G League) forma giyen milli oyuncu Ömer Faruk Yurtseven, takımı Rio Grande Valley Vipers'ın Texas Legends'ı 105-97 yendiği maçta 42 sayı attı.",
-      "link": "https://www.aa.com.tr/tr/spor/milli-basketbolcu-omer-faruk-yurtseven-nba-g-leaguede-42-sayi-kaydetti/4126363",
-      "published": "2026-11-16T09:28:16+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:36.428258+00:00"
-    },
-    {
-      "id": "6c5a984b6cde9afa",
-      "source": "Diken",
-      "title": "Avrupa Film Ödülleri: 'NAZA' üç dalda aday",
-      "summary": "Avrupa Film Ödülleri: 'NAZA' üç dalda aday 16.11.2026 Diken Avrupa Film Akademisi, 39'uncu Avrupa Film Ödülleri adaylarını açıkladı. İsrailli yönetmenlerin Gazze belgeseli 'NAZA' üç dalda ödüle aday. The post Avrupa Film Ödülleri: 'NAZA' üç dalda aday appeared first on #site_linkat 16.11.2026 .",
-      "link": "https://www.diken.com.tr/avrupa-film-odulleri-naza-uc-dalda-aday/?utm_source=rss&utm_medium=rss&utm_campaign=avrupa-film-odulleri-naza-uc-dalda-aday",
-      "published": "2026-11-16T09:28:06+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:46.869930+00:00"
-    },
-    {
-      "id": "7429de69bc328931",
-      "source": "Akşam",
-      "title": "UKXperience, COP31'de gençlerin iklim eylemine katılımını güçlendirdi",
-      "summary": "COP31 Türkiye Gönüllülük Programı kapsamında Türkiye genelinde yürüttüğü çalışmalarla dikkat çeken UKXperience, 26 üniversite ziyareti ve Gönüllülük TIR'ı aracılığıyla gençleri iklim eylemi ve gönüllülük kültürü etrafında bir araya getirdi. Türkiye'nin 81 ilinden gönüllülere ulaşan çalışmalarını Antalya'ya taşıyan şirket, COP31 sürecinde gençlerin uluslararası iklim gündemine katılımını destekliyo",
-      "link": "https://www.aksam.com.tr/guncel/ukxperience-cop31de-genclerin-iklim-eylemine-katilimini-guclendirdi/haber-1715006",
-      "published": "2026-11-16T09:28:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:42.397509+00:00"
-    },
-    {
-      "id": "9ac08fb83fdeedac",
-      "source": "CNBC-e",
-      "title": "Türkiye'ye iki LNG gemisi yola çıktı: İşte varış tarihleri",
-      "summary": "ABD ve Nijerya'daki terminallerden hareket eden LNG Sokoto ve Umm Heesh adlı sıvılaştırılmış doğal gaz gemilerinin 21 ve 22 Kasım'da Türkiye'deki terminallere ulaşması bekleniyor. Gemilerin toplam LNG taşıma kapasitesi 311 bin 300 metreküpe ulaşıyor.",
-      "link": "https://www.cnbce.com/haberler/turkiyeye-iki-lng-gemisi-yola-cikti-iste-varis-tarihleri-h41901",
-      "published": "2026-11-16T09:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:53.249084+00:00"
-    },
-    {
-      "id": "de09741ee2eeb3e3",
-      "source": "Serbestiyet",
-      "title": "Bir milletvekilini susturmanın yolları",
-      "summary": "Yakınlar üzerinden insanlara baskı kurulması ülkemizde yeni değil. Ancak bir milletvekilinin anayasal denetim görevini yerine getirmesini engellemek için yakınlarının özgürlüğünün baskı aracına dönüştürülmesi, sistematik hukuksuzluğun yeni ve çok daha tehlikeli bir aşamaya ulaştığını gösteriyor. Bir milletvekilini susturmanın yolları yazısı ilk önce Serbestiyet adresinde yayınlanmıştır.",
-      "link": "https://serbestiyet.com/gunun-yazilari/bir-milletvekilini-susturmanin-yollari-253660/",
-      "published": "2026-11-16T09:26:02+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:50.096105+00:00"
-    },
-    {
-      "id": "8aa444480b8e172d",
-      "source": "Evrensel",
-      "title": "Tarık Akan’ın yaşamından sahneye: “Anne Kafamda Bit Var”a ödül",
-      "summary": "Bakırköy Belediye Tiyatroları’nın Tarık Akan’ın aynı adlı kitabından sahneye uyarladığı “Anne Kafamda Bit Var”, 51. İsmet Küntay Tiyatro Ödülleri’nde İsmet Küntay Özel Ödülü’ne değer görüldü.",
-      "link": "https://www.evrensel.net/haber/6009699/tarik-akan-in-yasamindan-sahneye-anne-kafamda-bit-vara-odul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-16T09:26:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:39.000591+00:00"
-    },
-    {
-      "id": "4f828f64141ec567",
-      "source": "Cumhuriyet",
-      "title": "İşitme kaybının ilk belirtileri neler? Uzmanından kritik 48 saat uyarısı",
-      "summary": "İşitme kaybının çoğu zaman yavaş ilerlediği için başlangıçta fark edilmediğini belirten Uzman Odyolog Ahmet Özmen, konuşmaları anlamakta zorlanma, kulak çınlaması ve sesleri boğuk duymanın önemli belirtiler arasında yer aldığını söyledi. Ani işitme kaybında ilk 48 saatin kritik olduğunu vurgulayan Özmen, belirtilerin ortaya çıkması halinde zaman kaybetmeden sağlık kuruluşuna başvurulması gerektiği",
-      "link": "https://www.cumhuriyet.com.tr/saglik/isitme-kaybinin-ilk-belirtileri-neler-uzmanindan-kritik-48-saat-uyarisi-2556552",
-      "published": "2026-11-16T09:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:36.854390+00:00"
-    },
-    {
-      "id": "15243080be21b1b9",
-      "source": "Ekonomim",
-      "title": "Dev bankadan asgari ücret ve emekli maaşlarına ilişkin kritik Türkiye tahmini",
-      "summary": "Asgari ücret ve emekli maaşlarına yönelik düzenleme beklentileri sürerken, JPMorgan’ın temmuz ayında yayımladığı Türkiye raporundaki değerlendirmeler dikkat çekti.",
-      "link": "https://www.ekonomim.com/ekonomi/dev-bankadan-asgari-ucret-ve-emekli-maaslarina-iliskin-kritik-turkiye-tahmini-haberi-931530",
-      "published": "2026-11-16T09:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:51.976343+00:00"
-    },
-    {
-      "id": "e73ea9261e5bd281",
-      "source": "Star",
-      "title": "Aliağa FK, Erkan Sözeri'yle yeni sayfa açtı",
-      "summary": "Aliağa FK, Namet Ateş'le yollarını ayırarak takımın başına deneyimli çalıştırıcı Erkan Sözeri'yi getirdi.",
-      "link": "https://www.star.com.tr/spor/aliaga-fk-erkan-sozeriyle-yeni-sayfa-acti-haber-2053793/",
-      "published": "2026-11-16T09:25:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:38.505911+00:00"
-    },
-    {
-      "id": "5a204b50a223e1bf",
-      "source": "Euronews Türkçe",
-      "title": "2027 seyahati: Avrupa'ya ve Avrupa'dan yeni uçuş rotaları",
-      "summary": "2027'de Avrupa'ya ve Avrupa'dan birçok yeni uçuş rotası olacak; bunlar arasında Belize-Frankfurt arasında tarihi ilk hat ile Cenevre-Latin Amerika hattı da yer alacak.",
-      "link": "https://tr.euronews.com/2026/11/16/2027-seyahati-avrupaya-ve-avrupadan-yeni-ucus-rotalari",
-      "published": "2026-11-16T09:24:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T10:05:56.124570+00:00"
-    },
-    {
-      "id": "09afbc1a1c4fe5e0",
-      "source": "Euronews Türkçe",
-      "title": "2027 seyahatleri: Avrupa'ya gidiş gelişte açıklanan yeni uçuş rotaları",
-      "summary": "2027’de Avrupa’ya ve Avrupa’dan birçok yeni uçuş hattı açılacak; Belize–Frankfurt arasında ve Cenevre ile Latin Amerika arasında tarihi ilk bağlantılar kurulacak.",
-      "link": "https://tr.euronews.com/2026/11/16/2027-seyahatleri-avrupaya-gidis-geliste-aciklanan-yeni-ucus-rotalari",
-      "published": "2026-11-16T09:24:58+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:54.471484+00:00"
-    },
-    {
-      "id": "f88761770dbaf909",
-      "source": "Karar",
-      "title": "T24'ü yaşatmak için arsasını satışa çıkardı: \"Gazeteciden, gazetecilik için satılık kelepir arsa!\"",
-      "summary": "Erişim engeli nedeniyle reklam gelirleri büyük ölçüde kesilen T24'ün Genel Yayın Yönetmeni Doğan Akın, kurumun yayın hayatını sürdürebilmesi için Silivri'deki 540 metrekarelik arsasını satışa çıkardı. \"Gazeteciden, gazetecilik için satılık kelepir arsa!\" başlıklı yazısıyla kararını duyuran Akın, \"Şimdilik T24’ümüzün nefesi kesilmesin, ‘medarı maişet motoru’ biraz daha dönsün düşüncesiyle hayal ars",
-      "link": "https://www.karar.com/guncel-haberler/t24u-yasatmak-icin-arsasini-satisa-cikardi-gazeteciden-gazetecilik-icin-2084378",
-      "published": "2026-11-16T09:24:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:39.317234+00:00"
-    },
-    {
-      "id": "d33c85b6a68d661d",
-      "source": "Karar",
-      "title": "Ordu’ya fındıktan daha iyi gelir sağlıyor: 9.370 ton rekolteyle 375 milyon lira kazandırıyor!",
-      "summary": "Ordu’da fındıktan sonra en önemli gelir kaynağı olan kivide hasat heyecanı başladı. Bu sezon 9.370 ton rekolte beklenen ürün bölgeye 375 milyon lira kazandırıyor!",
-      "link": "https://www.karar.com/guncel-haberler/orduya-findiktan-daha-iyi-gelir-sagliyor-9-370-ton-rekolteyle-375-2084377",
-      "published": "2026-11-16T09:24:15+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:39.317258+00:00"
-    },
-    {
-      "id": "55700a701fdd6e77",
-      "source": "Bir Gün",
-      "title": "Dünyanın en hızlı bilgisayarına izinsiz erişim: Fugaku'nun faaliyetleri askıya alındı",
-      "summary": "Rikagaku Araştırma Enstitüsü, 2021'de dünyanın en hızlı bilgisayarı seçilen \"Fugaku\"ya izinsiz erişim sağlandığını bu sebeple , \"Fugaku\" faaliyetlerinin askıya alındığını duyurdu. Enstitü, kullanıcı verilerinin sızmış olabileceğinden endişe edildiğini açıkladı.",
-      "link": "https://www.birgun.net/haber/dunyanin-en-hizli-bilgisayarina-izinsiz-erisim-fugaku-nun-faaliyetleri-askiya-alindi-746718",
-      "published": "2026-11-16T09:24:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:39.369765+00:00"
-    },
-    {
-      "id": "86bc51bddde6485d",
-      "source": "Milliyet",
-      "title": "TBMM Başkanı Kurtulmuş, PAB Başkanı Dick ile görüştü",
-      "summary": "Kurtulmuş, görüşmede, 9 Ekim'de Tanzanya'da düzenlenen PAB 153'üncü Genel Kurulu'nda PAB Başkanlığı'na seçilmesi dolayısıyla mevkidaşı Dick'i tebrik ederek, bu dönemde PAB'ın uluslararası meseleler karşısında daha etkin, görünür ve sonuç odaklı bir rol üstlenmesini diledi. 'DİYALOĞUN GÜÇLENDİRİLMESİNE DAHA FAZLA İHTİYAÇ VAR' COP31 Parlamenter Toplantısı kapsamında yürütülen iş birliğinden duyduğu ",
-      "link": "https://www.milliyet.com.tr/gundem/tbmm-baskani-kurtulmus-pab-baskani-dick-ile-gorustu-7701759",
-      "published": "2026-11-16T09:23:44+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:36.805689+00:00"
-    },
-    {
-      "id": "d2185b94985e6e98",
-      "source": "Sabah",
-      "title": "İZBB Başkanı Cemil Tugay İzmirlilere verdiği sözü tuttu: İzmir’de içme suyuna yüzde 70’e yakın indirim geliyor",
-      "summary": "AK Partili İzmir Büyükşehir Belediye Başkanı Cemil Tugay İzmirlilere verdiği sözü tuttu. Yerel seçim öncesi meydanlarda İzmirlilere Türkiye’nin en ucuz içme suyunu kullanma sözü veren Tugay içme suyu tarifelerinde... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/izbb-baskani-cemil-tugay-izmirlilere-verdigi-sozu-tuttu-izmirde-icme-suyuna-yuzde-70e-yakin-indirim-geliyor-7702758",
-      "published": "2026-11-16T09:23:29+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T10:50:46.412035+00:00"
-    },
-    {
-      "id": "95248f17628e3f68",
-      "source": "Anadolu Ajansı (Güncel)",
-      "title": "Bakan Kacır, yeşil dönüşüm için 3 milyar liralık yeni destek çağrısını açıkladı",
-      "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye Yeşil Sanayi Projesi kapsamında 3 milyar liralık yeni bir destek çağrısı başlattıklarını belirtti.",
-      "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-yesil-donusum-icin-3-milyar-liralik-yeni-destek-cagrisini-acikladi/4126355",
-      "published": "2026-11-16T09:23:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:40:40.688427+00:00"
-    },
-    {
-      "id": "b998ad869241a2bc",
-      "source": "OdaTV",
-      "title": "'Fon intiharında' yetkisizlik kararı",
-      "summary": "&quot;Fon&quot; kriziyle anıldığı dönemde cansız bedeni bulunan Ali Emre Ballı&#039;nın &quot;intihar&quot; olarak değerlendirilen ölümüne dair soruşturma devam ediyor. Ballı&#039;nın dosyası, yetkisizlik kararıyla devredildi.",
-      "link": "https://www.odatv.com/gundem/fon-intiharinda-yetkisizlik-karari-120171437",
-      "published": "2026-11-16T09:23:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:46.675411+00:00"
-    },
-    {
-      "id": "1c9d74db80481cf2",
-      "source": "Milliyet",
-      "title": "12 ilde siber suç operasyonu! 167 şüpheli yakalandı, 32 kişi tutuklandı",
-      "summary": "Bakanlıktan yapılan açıklamaya göre, Emniyet Genel Müdürlüğü Siber Suçlarla Mücadele Daire Başkanlığı, Mali Suçları Araştırma Kurulu (MASAK) ve cumhuriyet başsavcılıklarının koordinasyonunda, 5 günde il emniyet müdürlüklerinin siber suçlarla mücadele şube müdürlüklerince çalışma yürütüldü. İsrail'den şok F-35 iddiası: ABD'de kapalı kapılar ardında 'Türkiye' hesabı! 'İki aşamalı plan' Bu kapsamda, ",
-      "link": "https://www.milliyet.com.tr/gundem/12-ilde-siber-suc-operasyonu-167-supheli-yakalandi-32-kisi-tutuklandi-7701758",
-      "published": "2026-11-16T09:22:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:36.805733+00:00"
-    },
-    {
-      "id": "f9f990e00fc4dfb9",
-      "source": "Yeni Şafak",
-      "title": "Kayseri'de oto tamircisi Kazım Karagöz, 7. üniversite diploması için gün sayıyor",
-      "summary": "Kayseri'de müşterilerine daha iyi hizmet verebilmek için eğitim alan 47 yaşındaki oto tamircisi Kazım Karagöz, 2002, 2011, 2014, 2018, 2020 ve 2023'te üniversitede 6 bölüm bitirdi. 2026'da yüksek lisansını tamamlayan, 20 yıl usta öğretici olarak görev yapan ve 4. sınıfta okuyan Karagöz, 7. diploması için gün sayıyor; tezinde 1 uygulamayı ele aldı.",
-      "link": "https://www.yenisafak.com/galeri/gundem/oto-tamircisi-kazim-karagoz-7-diplomasi-icin-gun-sayiyor-4872977",
-      "published": "2026-11-16T09:22:12+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:38.183125+00:00"
-    },
-    {
-      "id": "d0f772092807cb1b",
-      "source": "OdaTV",
-      "title": "Ünlülerin yeni merakı: Hacamat rüzgarı sanat dünyasına sıçradı",
-      "summary": "Futbolculardan oyunculara ve şarkıcılara kadar birçok tanınmış ismin tercih ettiği hacamat, bu kez sanat dünyasından bir isimle gündeme geldi. Daha önce Trabzonspor kalecisi Andre Onana&#039;nın hacamat görüntüleriyle konuşulan uygulamayı, dünyaca ünlü İsveçli şarkıcı Zara Larsson da yaptırdı.",
-      "link": "https://www.odatv.com/magazin/unlulerin-yeni-meraki-hacamat-ruzgari-sanat-dunyasina-sicradi-120171441",
-      "published": "2026-11-16T09:22:11+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T10:50:48.934261+00:00"
-    },
-    {
-      "id": "1e0452b02708395a",
-      "source": "Evrensel",
-      "title": "CHP ve Yeni Partili milletvekillerinden şehir hastaneleri eleştirisi: \"4 yılda 695 milyar lira ödenecek\"",
-      "summary": "TBMM Plan ve Bütçe Komisyonu'nda değerlendirmelerde bulunan Yeni Parti Bursa Milletvekili Kayıhan Pala, CHP Uşak Milletvekili Ali Karaoba ve CHP Karabük Milletvekili Cevdet Akay, şehir hastanelerine ayrılan kaynakları eleştirdi.",
-      "link": "https://www.evrensel.net/haber/6009700/chp-ve-yeni-partili-milletvekillerinden-sehir-hastaneleri-elestirisi-4-yilda-695-milyar-lira-odenecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-16T09:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:50:44.219816+00:00"
-    },
-    {
-      "id": "d0d1e3d43e53f813",
-      "source": "Evrensel",
-      "title": "İddia: Öcalan, gazeteciler, siyasiler ve akademisyenlerle görüştü",
-      "summary": "Nefes yazarı Nuray Babacan, Abdullah Öcalan'ın İmralı'da gazeteciler, siyasiler ve akademisyenlerle görüşmesi talebine dair, \"Bir iddiaya göre zaten kamuoyunun haberi olmadığı bazı ziyaretler yapılmış bile\" dedi.",
-      "link": "https://www.evrensel.net/haber/6009702/iddia-ocalan-gazeteciler-siyasiler-ve-akademisyenlerle-gorustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-16T09:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:50:44.219871+00:00"
-    },
-    {
-      "id": "750d2df9beb7165f",
-      "source": "Evrensel",
-      "title": "CHP ve YENİ Partili milletvekillerinden şehir hastaneleri eleştirisi: \"4 yılda 695 milyar lira ödenecek\"",
-      "summary": "TBMM Plan ve Bütçe Komisyonu'nda eğerlendirmelerde bulunan YENİ Parti Bursa Milletvekili Kayıhan Pala, CHP Uşak Milletvekili Ali Karaoba ve CHP Karabük Milletvekili Cevdet Akay, şehir hastanelerine ayrılan kaynakları eleştirdi.",
-      "link": "https://www.evrensel.net/haber/6009700/chp-ve-yeni-partili-milletvekillerinden-sehir-hastaneleri-elestirisi-4-yilda-695-milyar-lira-odenecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-16T09:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:39.000630+00:00"
-    },
-    {
-      "id": "b98e45b44827241d",
-      "source": "Evrensel",
-      "title": "TÜİK’in ekim ayı verileri: Trafiğe kaydı yapılan taşıt sayısı azaldı",
-      "summary": "Ekim ayında 130 bin 697 taşıtın trafiğe kaydı yapıldı. Kayıt sayısı bir önceki aya göre yüzde 18,8, geçen yılın aynı ayına göre yüzde 26,8 geriledi. Ocak-ekim dönemindeki düşüş ise yüzde 15,7 oldu.",
-      "link": "https://www.evrensel.net/haber/6009701/tuik-in-ekim-ayi-verileri-trafige-kaydi-yapilan-tasit-sayisi-azaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-16T09:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:39.000662+00:00"
-    },
-    {
-      "id": "a63ef2bdb34be6a3",
-      "source": "Cumhuriyet",
-      "title": "5 aydır maaş alamayan işçiler üretimi durdurdu: 'Patron zenginleşti, biz yoksullaştık'",
-      "summary": "Bilecik’te YK Holding bünyesindeki Döksan Fabrikası’nda çalışan işçiler, aylardır ücretlerini alamadıkları ve ağır çalışma koşullarına maruz kaldıkları gerekçesiyle iş bıraktı. Tehdit, işten çıkarma baskısı ve artan iş yüküne tepki gösteren işçiler, ücret ve diğer alacakları ödenene kadar üretime başlamayacaklarını açıkladı.",
-      "link": "https://www.cumhuriyet.com.tr/calisma-yasami/5-aydir-maas-alamayan-isciler-uretimi-durdurdu-patron-zenginlesti-biz-yoksullastik-2556551",
-      "published": "2026-11-16T09:22:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:32.658356+00:00"
-    },
-    {
-      "id": "a1366e0d3c92bf5e",
-      "source": "Karar",
-      "title": "Grup Laçin solisti Ali Abacı öldü mü, neden vefat etti? Ali Abacı kaç yaşındaydı, hastalığı neydi?",
-      "summary": "90’lı ve 2000’li yıllarda geleneksel ezgileri popüler tınılarla harmanlayarak milyonların sevgilisi haline gelen Grup Laçin’in eski solisti ve usta bağlama sanatçısı Ali Abacı, 60 yaşında yaşama gözlerini yumdu. Acı haberi grup arkadaşı Teoman Dalcı’nın paylaşımıyla öğrenen müzik camiası ve sevenleri büyük bir hüzne boğuldu.",
-      "link": "https://www.karar.com/guncel-haberler/grup-lacin-solisti-ali-abaci-oldu-mu-neden-vefat-etti-ali-abaci-kac-2084376",
-      "published": "2026-11-16T09:21:45+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:39.317282+00:00"
-    },
-    {
-      "id": "1b9ab72d3fdf16d1",
-      "source": "Milliyet",
-      "title": "COP31 4 bin gazetecinin yakın takibinde",
-      "summary": "Antalya EXPO alanında gerçekleştirilen konferans, dünyanın farklı ülkelerinden gazetecileri bir araya getirdi. Çevre, Şehircilik ve İklim Değişikliği Bakanlığı koordinasyonunda gerçekleştirilen konferans kapsamında, uluslararası medya kuruluşlarının haber üretim ve yayın ihtiyaçlarını karşılamak üzere Mavi Bölge'de kapsamlı bir medya merkezi kuruldu. Yaklaşık 5 bin gazeteciye hizmet verecek kapasi",
-      "link": "https://www.milliyet.com.tr/ekonomi/cop31-4-bin-gazetecinin-yakin-takibinde-7701747",
-      "published": "2026-11-16T09:21:25+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:36.806391+00:00"
-    },
-    {
-      "id": "16ca839f825b1f54",
-      "source": "Bir Gün",
-      "title": "19 işçinin yaşamını yitirdiği HABAŞ katliamında bilirkişi ön inceleme raporu ortaya çıktı",
-      "summary": "HABAŞ'ta 19 işçinin yaşamını yitirdiği katliama ilişkin hazırlanan bilirkişi ön raporu ortaya çıktı. Ön raporda, HABAŞ'taki patlamanın çelikhane bölümündeki ark ocağında (ergitme kazanı) meydana gelen su-ergimiş metal teması sonucu gerçekleştiği tespit edildi.",
-      "link": "https://www.birgun.net/haber/19-iscinin-yasamini-yitirdigi-habas-katliaminda-bilirkisi-on-inceleme-raporu-ortaya-cikti-746720",
-      "published": "2026-11-16T09:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:35:39.369799+00:00"
-    },
-    {
-      "id": "22d177ec95f55766",
-      "source": "Cumhuriyet",
-      "title": "İrem Derici'den esprili evlilik açıklaması: 'Paramız kalmadı!'",
-      "summary": "Kıbrıs'ta konser öncesi gazetecilerin sorularını yanıtlayan şarkıcı İrem Derici, nişanlısı Melih Kunukçu ile evlilik planlarına ilişkin ev tadilatı yüzünden bütçelerinin tükendiğini söyledi. Yaz boyunca kazandıklarını evine harcadığını belirten Derici, \"Kasa boş, kasa bomboş!\" dedi.",
-      "link": "https://www.cumhuriyet.com.tr/magazin/irem-derici-den-esprili-evlilik-aciklamasi-paramiz-kalmadi-2556550",
-      "published": "2026-11-16T09:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:32.658383+00:00"
-    },
-    {
-      "id": "e1b044f9ed26804a",
-      "source": "Habertürk",
-      "title": "Aslan'ın Oulai aşkı yeniden alevlendi!",
-      "summary": "Yaz transfer döneminde orta saha hattına Lesley Ugochukwu'yu dahil eden Galatasaray, genç oyuncudan beklenen verimi alamadı. Devre arasında orta saha rotasyonunu genç bir futbolcu ile güçlendirmek isteyen sarı-kırmızılılar, daha önce de transfer etmek için çaba sarf ettiği Christ Oulai için yeniden düğmeye bastı.",
-      "link": "https://www.haberturk.com/spor/lesley-ugochukwu-dan-bekledigini-alamayan-galatasaray-in-christ-oulai-harekati-yeniden-basladi-3927662",
-      "published": "2026-11-16T09:20:24+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:29.469922+00:00"
-    },
-    {
-      "id": "87a68722f28035b2",
-      "source": "Türkiye Gazetesi",
-      "title": "ASELSAN ile ROKETSAN'dan 1,3 milyar euroluk anlaşma",
-      "summary": "Türk savunma sanayisinin iki önemli şirketi ASELSAN ile ROKETSAN arasında 1,3 milyar euroluk yeni sözleşme imzalandı. Anlaşma, füze teknolojilerine yönelik kritik sistemlerin tedarikini kapsıyor.",
-      "link": "https://www.turkiyegazetesi.com.tr/ekonomi/aselsan-ile-roketsan-arasinda-13-milyar-euroluk-anlasma-1829657",
-      "published": "2026-11-16T09:20:07+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:25:33.614509+00:00"
-    },
-    {
-      "id": "a33cba4ddae5c3c6",
-      "source": "Akşam",
-      "title": "Doğu Akdeniz'de yeni denklem! Türkiye-Mısır yakınlaşması İsrail'i panikletti",
-      "summary": "İsrail basını, Türkiye ile Mısır arasında gelişen deniz kuvvetleri iş birliğini mercek altına aldı. Mako, iki ülkenin ortak savaş gemisi üretme ihtimaline dikkat çekerek bu yakınlaşmanın Doğu Akdeniz'deki dengelere etkisini ve İsrail açısından oluşturabileceği stratejik sonuçları gündeme taşıdı.",
-      "link": "https://www.aksam.com.tr/dunya/dogu-akdenizde-yeni-denklem-turkiye-misir-yakinlasmasi-israili-panikletti/haber-1715005",
-      "published": "2026-11-16T09:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:20:45.458402+00:00"
-    },
-    {
-      "id": "ad8ee4bc6c5f52dc",
-      "source": "DonanımHaber",
-      "title": "Amazon'un Starlink rakibi Leo'ya büyük darbe: 40 uydu birden kaybedildi",
-      "summary": "Amazon'un uydu internet projesi Leo için kritik öneme sahip fırlatma, beklenmedik bir arızayla sonuçlandı. Yaşananlar, Starlink ile rekabet planlarını daha da zorlaştırabilir.",
-      "link": "https://www.donanimhaber.com/starlink-rakibi-amazon-leo-daha-ilk-firlatmada-40-uydu-kaybetti--212954",
-      "published": "2026-11-16T09:20:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T09:21:00.944387+00:00"
     }
   ]
 }

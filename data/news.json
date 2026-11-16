@@ -1,12 +1,23 @@
 {
-  "last_updated": "2026-11-16T04:46:10.401016+00:00",
+  "last_updated": "2026-11-16T04:51:17.230853+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 504,
+  "new_items_this_run": 497,
   "items": [
+    {
+      "id": "c23b158b045812d1",
+      "source": "Karar",
+      "title": "Bursa’da 5 ev alevlere teslim oldu: 10 kişi dumandan etkilendi",
+      "summary": "Bursa’nın İnegöl ilçesine bağlı kırsal Turgutalp Mahallesi’nde akşam saatlerinde çıkan ve 5 evde hasara yol açan yangın, ekiplerin müdahalesiyle kontrol altına alındı. Can kaybının yaşanmadığı bölgede soğutma çalışmaları sürüyor.",
+      "link": "https://www.karar.com/sehir-haberleri/bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-2084309",
+      "published": "2026-11-16T04:49:29+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T04:51:01.762942+00:00"
+    },
     {
       "id": "38e291417d65d5fb",
       "source": "Akşam",
@@ -72,6 +83,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T04:45:54.242729+00:00"
+    },
+    {
+      "id": "762cc31b2f36d52f",
+      "source": "Habertürk",
+      "title": "Altın fiyatlarında negatif seyir",
+      "summary": "Altın fiyatları 16 Kasım 2026 Pazartesi günü yatırımcılar ve alım satım yapacak olan vatandaşlar tarafından merak ediliyor. Altın fiyatları haftanın ilk gününde negatif seyrediyor. Doların değer kazanması, tahvil faizlerindeki yükseliş ve Fed’in sıkı para politikasını sürdüreceğine yönelik beklentiler, altın üzerindeki satış baskısını güçlendiriyor. Gram altın güne 6.277 TL, ons altın ise 3.873 do",
+      "link": "https://www.haberturk.com/bilgi/foto/canli-altin-fi-yatlari-16-kasim-2026-altin-fiyatlarinda-negatif-seyir-bugun-cumhuriyet-altini-22-ayar-bilezik-tam-yarim-ceyrek-ve-gram-altin-ne-kadar-kac-tl-3927572",
+      "published": "2026-11-16T04:42:04+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T04:50:48.848839+00:00"
     },
     {
       "id": "f04a79bc0f98a41f",
@@ -5145,6 +5167,17 @@
       "fetched_at": "2026-11-15T21:05:40.335247+00:00"
     },
     {
+      "id": "94cbcce3c5194cf6",
+      "source": "Karar",
+      "title": "Altında dalgalanma kararsızlığı artırdı",
+      "summary": "Altın fiyatlarında yaşanan sert gerileme ve ardından gelen tepki alımları, elinde altın bulunduran vatandaşın kafasını karıştırdı. Gram altın 6 bin 280 lira, ons altın ise 3 bin 878 dolar seviyelerinde işlem görürken gözler yeni haftaya çevrildi. Uzmanlar, elinde altın bulunan vatandaşların panik satışından kaçınmasını, yeni alım yapacakların ise yatırımlarını zamana yaymasını önerdi.",
+      "link": "https://www.karar.com/ekonomi-haberleri/altinda-dalgalanma-kararsizligi-artirdi-2084281",
+      "published": "2026-11-15T21:01:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T04:51:01.763585+00:00"
+    },
+    {
       "id": "9cec4262421783b7",
       "source": "Cumhuriyet",
       "title": "İSTANBUL VALİLİĞİ YATIRIM İZLEME VE KOORDİNASYON BAŞKANLIĞI",
@@ -5473,39 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-15T21:01:13.383236+00:00"
-    },
-    {
-      "id": "348efddef74497ea",
-      "source": "Karar",
-      "title": "Liste bilmecesi",
-      "summary": "Hem muhalefetin hem de AK Parti yöneticilerinin “Açıklansın” dediği fon soyguncularının tam listesi için Cumhurbaşkanı Yardımcısı Yılmaz SPK bültenlerini adres gösterdi. Ancak orada ne Fatma Betül Sayan’ın ne de Taha Çakmak’ın adı var.",
-      "link": "https://www.karar.com/guncel-haberler/liste-bilmecesi-2084277",
-      "published": "2026-11-15T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T21:01:13.383266+00:00"
-    },
-    {
-      "id": "df1d8788de1ce94e",
-      "source": "Karar",
-      "title": "Karakoç’un İstanbul’u İkinci Yeni’den farklı",
-      "summary": "İBB’nin, merhum şairi vefatının beşinci yılında düzenlediği ‘Sezai Karakoç’un İstanbul’u’ programında konuşan Prof. Dr. Mehmet Can Doğan, İkinci Yeni şairlerinin şehre bakışını yorumladı. İstanbul’u İlhan Berk’te ‘bilgi laboratuvarı’, Turgut Uyar’da ‘mahalle’, Edip Cansever’de ‘mekan’, Cemal Süreya’da ‘kendini kattığı şehir’ ve Ece Ayhan’da ‘Bizans’ olarak niteleyen Doğan; Karakoç’un ise onlardan ",
-      "link": "https://www.karar.com/kultur-sanat-haberleri/karakocun-istanbulu-ikinci-yeniden-farkli-2084279",
-      "published": "2026-11-15T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T21:01:13.383303+00:00"
-    },
-    {
-      "id": "3db07bc00aa66fec",
-      "source": "Karar",
-      "title": "Vergi yükü cebe zarar",
-      "summary": "Vatandaşın günlük yaşamını sürdürebilmek için yaptığı harcamaların önemli bir bölümünü vergiler oluşturuyor. Gıdadan giyime, elektrikten akaryakıta, telefondan otomobile kadar pek çok ürün ve hizmette KDV uygulanırken, akaryakıt, otomobil, sigara ve alkollü içeceklerde ÖTV de devreye giriyor. KDV oranı yüzde 20’ye ulaşırken, ÖTV alınan ürünlerde tüketicinin yükü daha da artırıyor.",
-      "link": "https://www.karar.com/ekonomi-haberleri/vergi-yuku-cebe-zarar-2084280",
-      "published": "2026-11-15T21:01:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T21:01:13.383334+00:00"
     }
   ]
 }

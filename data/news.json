@@ -1,12 +1,166 @@
 {
-  "last_updated": "2026-11-16T06:46:03.468062+00:00",
+  "last_updated": "2026-11-16T06:51:03.610133+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 475,
+  "new_items_this_run": 472,
   "items": [
+    {
+      "id": "649db51e3b06e655",
+      "source": "Karar",
+      "title": "Ticaret Bakanlığı: Ekim ayında 42 ilin ihracatı arttı",
+      "summary": "Ticaret Bakanlığı, ekim ayında ihracatın geçen yılın aynı dönemine göre yüzde 8,1 artarak 25,9 milyar dolara ulaştığını açıkladı. Bu dönemde 42 ilin ihracatı yükselirken, en fazla ihracatı İstanbul gerçekleştirdi. Ocak-ekim döneminde ise ihracat yüzde 5,5 artışla 236,8 milyar dolara ulaşırken, 30 il 1 milyar doların üzerinde ihracat yaptı.",
+      "link": "https://www.karar.com/ekonomi-haberleri/ticaret-bakanligi-ekim-ayinda-42-ilin-ihracati-artti-2084327",
+      "published": "2026-11-16T06:50:36+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:48.342057+00:00"
+    },
+    {
+      "id": "d21d45113b128266",
+      "source": "Akşam",
+      "title": "Casusluk iddiaları Nvidia'yı karıştırdı! ABD'den şirket yönetimine müdahale çağrısı",
+      "summary": "ABD Hazine Bakanı Scott Bessent, eski üst yöneticisi (CEO) casusluk iddialarıyla gündeme gelen ABD'li çip üreticisi Nvidia'nın yeni yöneticisini firma dışından bulması gerektiğini belirtti.",
+      "link": "https://www.aksam.com.tr/dunya/casusluk-iddialari-nvidiayi-karistirdi-abdden-sirket-yonetimine-mudahale-cagrisi/haber-1714952",
+      "published": "2026-11-16T06:50:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:46.141659+00:00"
+    },
+    {
+      "id": "3ec56f36489180f1",
+      "source": "Star",
+      "title": "Adem Çak: Şampiyonluk yolunda ilerliyoruz",
+      "summary": "Erciyes 38 Futbol Spor Kulübü Teknik Direktörü Adem Çak, Kırşehirspor maçının ardından yaptığı açıklamasında, \"Şampiyonluk yolunda ilerliyoruz\" dedi.",
+      "link": "https://www.star.com.tr/spor/adem-cak-sampiyonluk-yolunda-ilerliyoruz-haber-2053753/",
+      "published": "2026-11-16T06:49:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:47.208265+00:00"
+    },
+    {
+      "id": "162caf50f6e89368",
+      "source": "CNBC-e",
+      "title": "Amazon'un 40 uydusunu taşıyan roket havada arızalandı",
+      "summary": "ABD'li ULA'nın Vulcan roketi, fırlatmadan yaklaşık 10 dakika sonra yaşanan teknik arıza nedeniyle Amazon'un Leo uydu internet ağı için taşıdığı 40 uyduyu yörüngeye yerleştiremedi.",
+      "link": "https://www.cnbce.com/sirket-haberleri/amazonun-40-uydusunu-tasiyan-roket-havada-arizalandi-h41887",
+      "published": "2026-11-16T06:48:54+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:57.270872+00:00"
+    },
+    {
+      "id": "83f2392a1ee8800f",
+      "source": "Milliyet",
+      "title": "Doktor Pelin Pınar'ın sır ölümü: Acılı babadan çarpıcı açıklamalar: Her şey açıklandığı gibi değil",
+      "summary": "İstanbul Gaziosmanpaşa'da Dr. Pelin Pınar, 8'inci kattaki evinin balkonundan düşerek hayatını kaybetti. Pınar'ın esrarengiz ölümünde tek şahit, 28 yaşındaki erkek arkadaşı olurken, Pelin’in babası ölümün intihar olduğuna inanmadığını ve kızının itildiğini iddia ederken, \"O gece olanlar oluyor, orada kısa sürede bir vukuat olmuş” dedi. Olay, Gaziosmanpaşa'da meydana geldi. İddiaya göre, Gaziosmanpa",
+      "link": "https://www.milliyet.com.tr/gundem/doktor-pelin-pinarin-sir-olumu-acili-babadan-carpici-aciklamalar-her-sey-aciklandigi-gibi-degil-7701601",
+      "published": "2026-11-16T06:48:39+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:45.490307+00:00"
+    },
+    {
+      "id": "525b5b9c1e1e51cd",
+      "source": "Türkiye Gazetesi",
+      "title": "Uluslar Ligi'nde A Ligi ağır geldi: Milli Takım bunu tarihte 5 kez yaşadı",
+      "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi’nde 6 maçta sıfır puanla son sırada kalarak B Ligi'ne düşmek üzere... Fransa yenilgisiyle tamamlanan grup aşaması, Türkiye’nin eleme gruplarında ve şampiyonalarda sıfır çektiği performansları yeniden gündeme getirdi.",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/uluslar-liginde-a-ligi-agir-geldi-milli-takim-bunu-tarihte-5-kez-yasadi-1829608",
+      "published": "2026-11-16T06:48:21+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:42.493965+00:00"
+    },
+    {
+      "id": "bee993c73acf6c42",
+      "source": "LOG",
+      "title": "Jensen Huang, Nvidia’ya CEO olarak dönmeyi planlıyor",
+      "summary": "Jensen Huang, geçtiğimiz hafta gündeme gelen büyük gelişmelerin ardından Nvidia CEO&#8217;luğundan istifa etmiş, Huang&#8217;ın yerine geçici CEO olarak atanan isim ise Colette Kress olmuştu. Yeni gelen bilgiler göre Huang, istifaya rağmen sıfırdan kurduğu şirketten henüz ayrılmak istemiyor. Financial Times (FT), Huang&#8217;a yakın isimlerin aralarında bazı üst düzey Silikon Vadisi yöneticilerini",
+      "link": "https://www.log.com.tr/jensen-huang-nvidiaya-ceo-olarak-donmeyi-planliyor/",
+      "published": "2026-11-16T06:48:13+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:59.229040+00:00"
+    },
+    {
+      "id": "968628cb954e7366",
+      "source": "Akşam",
+      "title": "Türkiye'nin ihracat haritası değişiyor! 30 il 1 milyar dolar barajını aştı",
+      "summary": "Ticaret Bakanlığı, ocak-ekim döneminde 30 ilin ihracatının 1 milyar doların üzerine çıktığını, 53 ilde de ihracat artışı kaydedildiğini bildirdi.",
+      "link": "https://www.aksam.com.tr/ekonomi/turkiyenin-ihracat-haritasi-degisiyor-30-il-1-milyar-dolar-barajini-asti/haber-1714951",
+      "published": "2026-11-16T06:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:46.141686+00:00"
+    },
+    {
+      "id": "48b46bdc6380025f",
+      "source": "Star",
+      "title": "Sahnede ülkesinin bayrağını açtı! Alama: İlerlemede Türkiye'yi örnek görüyoruz",
+      "summary": "Arap müziğinin ve Orta Doğu popunun önde gelen isimlerinden biri olan Lübnanlı şarkıcı ve besteci Ragheb Alama, İstanbul'da ilk kez müzikseverlerle buluştu. Türk halkına sevgisini dile getiren Alama, \"Türkiye büyük bir ülke. Biz Türkiye'yi ilerleme, gelişme ve üretim konusunda örnek gösteriyoruz\" dedi.",
+      "link": "https://www.star.com.tr/kultur-sanat/sahnede-ulkesinin-bayragini-acti-alama-ilerlemede-turkiyeyi-ornek-goruyoruz-haber-2053752/",
+      "published": "2026-11-16T06:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:47.208299+00:00"
+    },
+    {
+      "id": "6523fb1c8c5f50cd",
+      "source": "Karar",
+      "title": "Son dakika! Numan Kurtulmuş COP31Zirvesi'nde konuşuyor",
+      "summary": "TBMM Başkanı Numan Kurtulmuş, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, TBMM ile Parlamentolar Arası Birlik işbirliğinde gerçekleştirilen Parlamenter Toplantısı'nda açıklamalarda bulunuyor.",
+      "link": "https://www.karar.com/guncel-haberler/son-dakika-numan-kurtulmus-cop31zirvesinde-konusuyor-2084326",
+      "published": "2026-11-16T06:48:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:48.342088+00:00"
+    },
+    {
+      "id": "3e975c9a60e36d43",
+      "source": "CNBC-e",
+      "title": "Bitcoin'de grafikler alarm veriyor: Uzmanlardan korkutan dip tahmini",
+      "summary": "Hafta sonu 62 bin dolara kadar gerileyen Bitcoin'de toparlanma sinyallerine rağmen düşüş endişesi sürüyor. Teknik göstergelerin alarm verdiğine dikkat çeken uzmanlar, 60 bin doların kritik önem taşıdığını belirtirken, bu seviyenin kırılması halinde 38 bin dolara kadar düşüş riski gündeme gelebilir.",
+      "link": "https://www.cnbce.com/kripto/bitcoinde-grafikler-alarm-veriyor-uzmanlardan-korkutan-dip-tahmini-h41886",
+      "published": "2026-11-16T06:47:28+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:57.270905+00:00"
+    },
+    {
+      "id": "897ba5e83a8ac84f",
+      "source": "Akşam",
+      "title": "Hafta boyunca şemsiyeler kapanmayacak! Yağış bitmiyor, sıcaklıklar artıyor",
+      "summary": "Meteoroloji Genel Müdürlüğünün haftalık tahminine göre, Türkiye genelinde yağışlı hava hafta boyunca etkisini sürdürecek. Yurdun büyük bölümünde yağmur ve sağanak beklenirken, Doğu Karadeniz ile Doğu Anadolu'nun yüksek kesimlerinde kar yağışı görülecek. Hafta ortasından itibaren ise kuzey, iç ve batı bölgelerde hava sıcaklıklarının mevsim normallerinin üzerine çıkması bekleniyor. Özellikle Doğu Ak",
+      "link": "https://www.aksam.com.tr/yasam/hafta-boyunca-semsiyeler-kapanmayacak-yagis-bitmiyor-sicakliklar-artiyor/haber-1714950",
+      "published": "2026-11-16T06:47:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:46.141719+00:00"
+    },
+    {
+      "id": "77040ddd1a26ff9b",
+      "source": "Yeni Şafak",
+      "title": "Adanalı doktorlar fabrika kurdu: Günlük 60 tonluk üretim kapasitesine sahip",
+      "summary": "Adana'da 282 doktor üyesi bulunan Tabipler Tarım Kooperatifi, yaklaşık 2 bin 500 dönümden elde ettiği zeytinleri kendi fabrikasında yağa dönüştürüyor. Kooperatif Başkanı Doç. Dr. Ahmet Rıza Şahin, \"Akdeniz tipi beslenmeye katkı koymak istiyoruz\" dedi.",
+      "link": "https://www.yenisafak.com/gundem/doktor-kooperatifi-adanada-zeytinyagi-fabrikasi-kurdu-4872879",
+      "published": "2026-11-16T06:46:59+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:46.898031+00:00"
+    },
+    {
+      "id": "06d2ca510516c4c7",
+      "source": "Türkiye Gazetesi",
+      "title": "Destekçisinden Sanchez'e sürpriz hediye!",
+      "summary": "İspanya Başbakanı Pedro Sanchez'e seçim kampanyası sırasında kalçasında çiçek bulunan örgü bebek hediye edildi. İspanyolcada ‘tener una flor en el culo’ (kalçasında çiçek olmak) deyimine gönderme yapan hediyeyi gören Sanchez kahkahalara boğuldu. Deyim, Türkçede ‘çok şanslı olmak’ anlamına geliyor.",
+      "link": "https://www.turkiyegazetesi.com.tr/dunya/destekcisinden-sancheze-surpriz-hediye-kalcasindaki-cicegi-gorunce-kahkahalara-boguld-1829607",
+      "published": "2026-11-16T06:46:27+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:42.494009+00:00"
+    },
     {
       "id": "8211fd2d9211f802",
       "source": "Karar",
@@ -17,6 +171,28 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T06:45:49.405530+00:00"
+    },
+    {
+      "id": "977329ab48eb69fc",
+      "source": "Karar",
+      "title": "Fatma Betül Sayan Kaya'nın avukatının savunması ortaya çıktı: Binlerce kişi kazandı, 3-5 kişi dışında kimse iade etmedi",
+      "summary": "Fon soruşturmasında tutuklanan eski Bakan Fatma Betül Sayan Kaya'nın avukatı Oktay Süleyman Öztürk'ün mahkemedeki savunması ortaya çıktı. Kaya'nın kazancını gönüllü olarak iade ettiğini öne süren Öztürk, benzer kazançlar elde eden binlerce kişi bulunduğunu belirterek \"3-5 kişi hariç çoğu kişi parasını iade etmemiştir\" dedi. Avukat, müvekkilinin seçilerek \"kurban edilmesinin\" haksızlık olacağını sa",
+      "link": "https://www.karar.com/guncel-haberler/fatma-betul-sayan-kayanin-avukatinin-savunmasi-ortaya-cikti-binlerce-2084325",
+      "published": "2026-11-16T06:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:48.342124+00:00"
+    },
+    {
+      "id": "af7cd98a089ab9fc",
+      "source": "Finans Gündem",
+      "title": "Şok iddia: Dev teksil şirketi de Terazede",
+      "summary": "Türkiye'nin önde gelen tekstil üreticilerinden olan şirketin iddiaya göre 390 milyonluk fon yatırımı tasfiye halindeki Tera Portföy’de kaldı. Şirketin şu ana kadar yalnızca 250 bin lirasını geri alabildiği öne sürüldü.",
+      "link": "https://www.finansingundemi.com/haber/sok-iddia-dev-teksil-sirketi-de-terazede/1914876",
+      "published": "2026-11-16T06:45:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:58.011008+00:00"
     },
     {
       "id": "10ea759717c3a81d",
@@ -52,6 +228,17 @@
       "fetched_at": "2026-11-16T06:45:46.883899+00:00"
     },
     {
+      "id": "38487294f03549fd",
+      "source": "Habertürk",
+      "title": "Grup Laçin'in acı kaybı",
+      "summary": "\"Bekar Gezelim\" şarkısıyla hafızalara kazınan Grup Laçin'den üzücü haber geldi. Grubun solisti Ali Abacı hayata veda etti",
+      "link": "https://www.haberturk.com/magazin/grup-lacin-in-solisti-ali-abaci-hayatini-kaybetti-3927590",
+      "published": "2026-11-16T06:44:25+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:38.087216+00:00"
+    },
+    {
       "id": "4f7a255fdcc15a53",
       "source": "Akşam",
       "title": "Detayları yakalayan üstün zekalı sayılıyor! Resimdeki 5 gizli kelimeyi bulabilecek misiniz?",
@@ -74,6 +261,17 @@
       "fetched_at": "2026-11-16T06:45:49.405566+00:00"
     },
     {
+      "id": "f0fff91901f39ae1",
+      "source": "OdaTV",
+      "title": "Manevi kızından 'Fatma Girik'e vefasızlık' yanıtı: Kiraz köpek neden barınakta",
+      "summary": "&quot;Tüm servetim 17 kedi ve 5 köpek&quot; diyen Fatma Girik&#039;in &#039;Kiraz&#039; isimli köpeğinin, Antalya&#039;da barınakta olduğuna dair paylaşımlar yapıldı. Vefatı sonrası &quot;vefasızlık&quot; paylaşımları yapılırken, manevi kızı Ahu Turanlı yaptığı açıklamada köpeğin, Girik&#039;in yardımcısına ait olduğunu söyledi.",
+      "link": "https://www.odatv.com/guncel/manevi-kizindan-fatma-girike-vefasizlik-yaniti-kiraz-kopek-neden-barinakta-120171392",
+      "published": "2026-11-16T06:43:47+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:49.755627+00:00"
+    },
+    {
       "id": "d7ed4d82bba6ebd6",
       "source": "Milliyet",
       "title": "Bir ameliyatla hayatı değişti! Doktorlar peşine düştü: 'Herkesi kedi olarak görüyor'",
@@ -83,6 +281,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T06:45:46.883509+00:00"
+    },
+    {
+      "id": "b620e34c3a7eae5b",
+      "source": "Habertürk",
+      "title": "Piyasalar haftaya temkinli başladı",
+      "summary": "Küresel piyasalar, ABD'li çip devi Nvidia'daki yönetim çalkantıları ile teknoloji alanındaki gelişmelerin ekseninde yoğun gündemli haftaya karışık başlarken, gözler bugün ABD Merkez Bankası (Fed) Başkanı Kevin Warsh'un yapacağı konuşmaya çevrildi",
+      "link": "https://www.haberturk.com/ekonomi/kuresel-piyasalar-yogun-gundemli-haftaya-temkinli-basladi-3927598",
+      "published": "2026-11-16T06:43:18+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:38.087282+00:00"
     },
     {
       "id": "06d649e2193a0ece",
@@ -239,6 +448,17 @@
       "fetched_at": "2026-11-16T06:40:55.639369+00:00"
     },
     {
+      "id": "71b3d1a5756ccf34",
+      "source": "Finans Gündem",
+      "title": "NVIDIA'da Jensen Huang için 170 bin imza! Geri dönüş baskısı büyüyor",
+      "summary": "NVIDIA'nın eski CEO'su Huang'ın yeniden göreve gelmesi için başlatılan kampanyaya yaklaşık 170 bin kişinin destek verdi. Huang'ın müttefikleri Beyaz Saray'ın da desteğini ararken şirket yönetimi yeni CEO arayışını sürdürüyor.",
+      "link": "https://www.finansingundemi.com/haber/nvidiada-jensen-huang-icin-170-bin-imza-geri-donus-baskisi-buyuyor/1914875",
+      "published": "2026-11-16T06:39:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:58.011036+00:00"
+    },
+    {
       "id": "e750b9d42cdae876",
       "source": "Yeni Akit",
       "title": "Akit yazarı’ndan Erdoğan'a dikkat çeken çağrı: Gerektiğinde kızın Fatıma'nın da kolunu kes!",
@@ -259,6 +479,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T06:41:05.989582+00:00"
+    },
+    {
+      "id": "156de0487dbd4cc7",
+      "source": "Habertürk",
+      "title": "Hastane yolunda can verdiler!",
+      "summary": "Edirne'de meydana gelen feci kazada, fabrika servisiyle otomobil çarpıştı. Olayda hastaneye gitmek için otomobille yola çıkan İsmail Çiftçi ve eşi Münire Çiftçi, işçi servisiyle çarpışan araçta hayatını kaybetti. Kazada servisteki 5 işçi de yaralandı",
+      "link": "https://www.haberturk.com/gundem/son-dakika-fabrika-servisi-kaza-yapti-2-can-kaybi-3927586",
+      "published": "2026-11-16T06:38:38+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:38.087308+00:00"
     },
     {
       "id": "9dedf8b9c040c46b",
@@ -327,6 +558,17 @@
       "fetched_at": "2026-11-16T06:41:01.970174+00:00"
     },
     {
+      "id": "f38a9f2dab77eea1",
+      "source": "Bloomberg HT",
+      "title": "Goldman Sachs'tan petrolde \"oldukça büyük\" arz fazlası için uyarı",
+      "summary": "Goldman Sachs, gelecek yıl petrol piyasasının fiyatları aşağı çekecek \"oldukça büyük bir fazlalık\" ile karşı karşıya kalacağını belirtti.",
+      "link": "https://www.bloomberght.com/goldman-sachs-tan-petrolde-oldukca-buyuk-arz-fazlasi-icin-uyari-3794707",
+      "published": "2026-11-16T06:37:34+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:55.577703+00:00"
+    },
+    {
       "id": "c9ae09317a3d0b74",
       "source": "Yeni Şafak",
       "title": "Zeytine lüks dokunuş: Altınla kaplanıp yurt dışına gönderiliyor",
@@ -391,6 +633,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T06:41:01.114898+00:00"
+    },
+    {
+      "id": "196f5c41e2463c36",
+      "source": "Ekonomim",
+      "title": "Türkiye’nin dev kahve zinciri BAE merkezli şirkete satıldı: İstenen para belli oldu",
+      "summary": "Espressolab’ın yüzde 70 hissesinin MAIR Group’a devri için yaklaşık 105 milyon dolarlık bedel öngörülürken, işlemin yasal onaylar nedeniyle henüz tamamlanmadığı bildirildi.",
+      "link": "https://www.ekonomim.com/sirketler/turkiyenin-dev-kahve-zinciri-bae-merkezli-sirkete-satildi-istenen-para-belli-oldu-haberi-931487",
+      "published": "2026-11-16T06:36:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:56.407402+00:00"
     },
     {
       "id": "3935ae7998647176",
@@ -613,6 +866,17 @@
       "fetched_at": "2026-11-16T06:36:04.056193+00:00"
     },
     {
+      "id": "0d41a32872b717b5",
+      "source": "Evrensel",
+      "title": "Döviz kurlarında son durum: Dolar yükseldi, euro geriledi",
+      "summary": "İstanbul serbest piyasada dolar 50,3920 liradan, euro 55,5890 liradan işlem görmeye başladı. Cuma günkü kapanışa göre doların satış fiyatı artarken euronunki düştü.",
+      "link": "https://www.evrensel.net/haber/6009659/doviz-kurlarinda-son-durum-dolar-yukseldi-euro-geriledi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-16T06:33:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:43.064617+00:00"
+    },
+    {
       "id": "aba0bcb1a305f276",
       "source": "Cumhuriyet",
       "title": "Ekiplerden Bilecik'te 'uyuşturucu' operasyonu: 1 gözaltı",
@@ -811,6 +1075,17 @@
       "fetched_at": "2026-11-16T06:30:59.039789+00:00"
     },
     {
+      "id": "9d2e32570afe5f5c",
+      "source": "Evrensel",
+      "title": "Gülistan Doku soruşturmasında polisten itiraf gibi ifade: 'Aileye bilgi vermeyin' talimatı verilmişti",
+      "summary": "Doku soruşturması kapsamında gözaltına alınan polis İsmail Erzen, barajdaki arama çalışmalarının valilik tarafından koordine edildiğini ve su altından çıkarılan malzemeler hakkında aileye bilgi verilmemesi yönünde talimat aldıklarını söyledi.",
+      "link": "https://www.evrensel.net/haber/6009660/gulistan-doku-sorusturmasinda-polisten-itiraf-gibi-ifade-aileye-bilgi-vermeyin-talimati-verilmisti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-16T06:29:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:43.064647+00:00"
+    },
+    {
       "id": "54e0b59dbeadfd46",
       "source": "Star",
       "title": "Türk Telekom'un konuğu La Laguna Tenerife",
@@ -1007,6 +1282,17 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T06:31:14.116998+00:00"
+    },
+    {
+      "id": "576861c380b03385",
+      "source": "Evrensel",
+      "title": "Denizli’de jeotermal kaynak ruhsatları için ihale: 5 ilçede 6 saha satışa çıkarılıyor",
+      "summary": "Denizli’de 5 ilçede bulunan toplam 6 jeotermal kaynak ruhsat sahası ihaleye çıkarılıyor. Büyüklükleri 896,50 ile 4 bin 929,14 hektar arasında değişen sahalar için ihaleler 2 Aralık’ta yapılacak.",
+      "link": "https://www.evrensel.net/haber/6009658/denizli-de-jeotermal-kaynak-ruhsatlari-icin-ihale-5-ilcede-6-saha-satisa-cikariliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "published": "2026-11-16T06:24:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:43.064693+00:00"
     },
     {
       "id": "bcbf8c8d02c7790f",
@@ -4903,6 +5189,17 @@
       "fetched_at": "2026-11-16T04:05:42.695419+00:00"
     },
     {
+      "id": "a8a4c6d1aa94336f",
+      "source": "Hürriyet",
+      "title": "Anne karnında bile plastik var",
+      "summary": "Plastik artık sadece denizde, toprakta, sofrada değil. Anne karnında. Muratpaşa Belediyesi’nin Antalya’da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında hayata geçirdiği COP TOWN etkinlikleri kapsamında tanıtımı yapılan “Plastik Türkiye: Üretimden Sofraya Bir Kirlilik Haritası” kitabı, Türkiye’nin plastikle sınavını sayılarla gözler ö",
+      "link": "https://www.hurriyet.com.tr/gundem/anne-karninda-bile-plastik-var-43379555",
+      "published": "2026-11-16T04:00:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T06:50:44.448236+00:00"
+    },
+    {
       "id": "f0cf0d71f1271442",
       "source": "Hürriyet",
       "title": "Kral Charles, Elton John’un programına konuk oldu... Yaşlandık oramız buramız dökülüyor",
@@ -5209,303 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-16T04:15:42.177348+00:00"
-    },
-    {
-      "id": "0ea54733432c49ed",
-      "source": "Bir Gün",
-      "title": "Denizli’de otomobil traktöre çarptı: 2 ölü, 4 yaralı",
-      "summary": "Denizli’nin Honaz ilçesinde otomobilin çarptığı traktörün takla attığı kazada 2 kişi yaşamını yitirdi. Öte yandan yaralanan 4 kişinin hastanelerde tedavisi sürüyor.",
-      "link": "https://www.birgun.net/haber/denizlide-otomobil-traktore-carpti-2-olu-4-yarali-746631",
-      "published": "2026-11-16T03:31:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T04:25:34.072397+00:00"
-    },
-    {
-      "id": "a3c6bb7e573fd77e",
-      "source": "Türkiye Gazetesi",
-      "title": "Cevdet Yılmaz’dan fon açıklaması: İlk aşama haftaya bitiyor",
-      "summary": "Türkiye'ye büyük bir fatura çıkaran fon vurguncuları hesap verecekleri günü beklerken, mağduriyetler de kısa sürede telafi edildi. Ara ödemelerin yakın zamanda bitirileceğini açıklayan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz \"Manipülasyon ve istismar vakaları ile meşru yatırım faaliyetlerini ayırmayı esas aldık\" dedi. Ödemelerde bütçe ya da hazine kaynağı kullanılmadığına vurgu yapan Yılmaz \"Vatand",
-      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/cevdet-yilmazdan-fon-aciklamasi-ilk-asama-haftaya-bitiyor-33-4-milyar-geri-alindi-1829583",
-      "published": "2026-11-16T03:30:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:35:41.496885+00:00"
-    },
-    {
-      "id": "3515dfb4b0c63d3f",
-      "source": "Türkiye Gazetesi",
-      "title": "İLK AŞAMA HAFTAYA BİTİYOR!",
-      "summary": "Türkiye'ye büyük bir fatura çıkaran fon vurguncuları hesap verecekleri günü beklerken, mağduriyetler de kısa sürede telafi edildi. Ara ödemelerin yakın zamanda bitirileceğini açıklayan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz \"Manipülasyon ve istismar vakaları ile meşru yatırım faaliyetlerini ayırmayı esas aldık\" dedi. Ödemelerde bütçe ya da hazine kaynağı kullanılmadığına vurgu yapan Yılmaz \"Vatand",
-      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/cevdet-yilmazdan-fon-aciklamasi-ilk-asama-haftaya-bitiyor-33-4-milyar-geri-alindi-1829583",
-      "published": "2026-11-16T03:30:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:35:41.496936+00:00"
-    },
-    {
-      "id": "3515dfb4b0c63d3f",
-      "source": "Türkiye Gazetesi",
-      "title": "İLK AŞAMA HAFTAYA BİTİYOR!",
-      "summary": "Türkiye'ye büyük bir fatura çıkaran fon vurguncuları hesap verecekleri günü beklerken, mağduriyetler de kısa sürede telafi edildi. Ara ödemelerin yakın zamanda bitirileceğini açıklayan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz \"Manipülasyon ve istismar vakaları ile meşru yatırım faaliyetlerini ayırmayı esas aldık\" dedi. Ödemelerde bütçe ya da hazine kaynağı kullanılmadığına vurgu yapan Yılmaz \"Vatand",
-      "link": "https://www.turkiyegazetesi.com.tr/tasarruf-ortagim/cevdet-yilmazdan-fon-aciklamasi-ilk-asama-haftaya-bitiyor-33-4-milyar-geri-alindi-1829583",
-      "published": "2026-11-16T03:30:30+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:35:41.496977+00:00"
-    },
-    {
-      "id": "c41dc1b49834c515",
-      "source": "Bir Gün",
-      "title": "İsrail’de seçim müdahalesi iddiası: Tıybi’den Netanyahu’ya soruşturma çağrısı",
-      "summary": "İsrail'de Filistinlileri temsil eden Ortak Liste'nin bileşenlerinden Taal Partisi lideri Ahmed Tıybi, seçimlere müdahale şüphesiyle Başbakan Netanyahu ve ofisindeki yetkililer hakkında soruşturma açılmasını istedi.",
-      "link": "https://www.birgun.net/haber/israilde-secim-mudahalesi-iddiasi-tiybiden-netanyahuya-sorusturma-cagrisi-746630",
-      "published": "2026-11-16T03:27:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T04:25:34.072422+00:00"
-    },
-    {
-      "id": "033bb5baa798ff89",
-      "source": "Habertürk",
-      "title": "Erzurum'da deprem",
-      "summary": "Erzurum'un Pasinler ilçesinde 3,6 büyüklüğünde bir deprem meydana geldi",
-      "link": "https://www.haberturk.com/gundem/erzurum-da-deprem-3927568",
-      "published": "2026-11-16T03:26:01+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:35:36.741547+00:00"
-    },
-    {
-      "id": "af5b6e4a10d2bdb5",
-      "source": "Hürriyet",
-      "title": "‘Tinder Avcısı’na benzetildi... İsrail’de muhalefetin kapısı Netanyahu’ya kapalı",
-      "summary": "İsrail’de seçimin ardından hükümet kurma görüşmeleri devam ederken, Başbakan Binyamin Netanyahu’nun son günlerde sık sık tekrarladığı “ulusal birlik hükümeti” çağrısına muhalefetten sert tepki geldi.",
-      "link": "https://www.hurriyet.com.tr/dunya/tinder-avcisina-benzetildi-israilde-muhalefetin-kapisi-netanyahuya-kapali-43379561",
-      "published": "2026-11-16T03:23:52+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T04:05:38.961382+00:00"
-    },
-    {
-      "id": "07736977558984f4",
-      "source": "Yeni Akit",
-      "title": "ABD'den İran'a karşı dev askeri yığınak! Üçüncü uçak gemisi de Orta Doğu'ya ulaştı",
-      "summary": "ABD ile İran arasındaki gerilim sürerken Washington yönetimi Orta Doğu'daki askeri varlığını güçlendiriyor. Üçüncü ABD uçak gemisinin de bölgeye ulaşmasıyla CENTCOM'un sorumluluk alanındaki uçak gemisi taarruz grubu sayısı üçe yükseldi. Gemilerin tamamının bölgede kalması halinde ABD'nin askeri varlığı geçen nisandan bu yana en yüksek seviyesine ulaşacak.",
-      "link": "https://www.yeniakit.com.tr/haber/abdden-irana-karsi-dev-askeri-yiginak-ucuncu-ucak-gemisi-de-orta-doguya-ulasti-2033856.html",
-      "published": "2026-11-16T03:21:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:25:39.052170+00:00"
-    },
-    {
-      "id": "40df19d053b75c01",
-      "source": "Evrensel",
-      "title": "İsrail Güvenlik Kabinesi, İran'a yeni saldırı iddialarının gölgesinde toplandı",
-      "summary": "Geçici Başbakan Netanyahu'nun İran'a yeni bir saldırı arayışında olduğu öne sürülürken, kabine ekim başından bu yana ilk kez bir araya geldi.",
-      "link": "https://www.evrensel.net/haber/6009647/israil-guvenlik-kabinesi-iran-a-yeni-saldiri-iddialarinin-golgesinde-toplandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-16T03:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:46:14.235897+00:00"
-    },
-    {
-      "id": "2ae05a3394064058",
-      "source": "OdaTV",
-      "title": "Trump'ın iki kanadı budandı... Netanyahu'nun koltuğu sallandı: Acem tokadı",
-      "summary": "Satranç oynadıklarını sandılar, kader tavla çıkardı... Moskova petrolün fiyatını seyrederken Pekin sabrını korudu. Kimsenin hesaba katmadığı zarları ise tarih ve tabiat attı. Ahmet Kurtoğlu yazdı...",
-      "link": "https://www.odatv.com/ozel/trumpin-iki-kanadi-budandi-netanyahunun-koltugu-sallandi-acem-tokadi-120171082",
-      "published": "2026-11-16T03:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:20:50.951522+00:00"
-    },
-    {
-      "id": "ee340a2b0283269a",
-      "source": "OdaTV",
-      "title": "Konu: Elektronik tebligat... Kanun değişti sorun bitmedi",
-      "summary": "Yusuf İleri yazdı...",
-      "link": "https://www.odatv.com/yazarlar/yusuf-ileri/konu-elektronik-tebligat-kanun-degisti-sorun-bitmedi-120171346",
-      "published": "2026-11-16T03:15:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:20:50.951537+00:00"
-    },
-    {
-      "id": "558c6090c4dbb044",
-      "source": "Hürriyet",
-      "title": "Erzurum'da 3,6 büyüklüğünde deprem",
-      "summary": "Erzurum'un Pasinler ilçesinde 3,6 büyüklüğünde deprem meydana geldi",
-      "link": "https://www.hurriyet.com.tr/gundem/erzurumda-3-6-buyuklugunde-deprem-43379612",
-      "published": "2026-11-16T03:10:54+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T04:20:48.983154+00:00"
-    },
-    {
-      "id": "6ecc1cdfbeab6a3d",
-      "source": "Hürriyet",
-      "title": "Cevdet Yılmaz ve Mehmet Şimşek daha çok konuşmalı",
-      "summary": "Cevdet Yılmaz ve Mehmet Şimşek’in ayrı ayrı çıktıkları televizyon programlarını izledim geçen gün.",
-      "link": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/cevdet-yilmaz-ve-mehmet-simsek-daha-cok-konusmali-43379580",
-      "published": "2026-11-16T03:08:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T04:05:38.961347+00:00"
-    },
-    {
-      "id": "c71b91cbf23a24c0",
-      "source": "Evrensel",
-      "title": "Meksika uyuşturucu tarihinin karanlık ismi: Guadalajara Karteli'nin kurucusu Miguel Angel Felix Gallardo hayatını kaybetti",
-      "summary": "1980'lerde Meksika'dan ABD'ye uzanan uyuşturucu trafiğini yöneten Guadalajara Karteli'nin kurucusu Miguel Angel Felix Gallardo, tedavi gördüğü hastanede 80 yaşında yaşamını yitirdi.",
-      "link": "https://www.evrensel.net/haber/6009646/meksika-uyusturucu-tarihinin-karanlik-ismi-guadalajara-karteli-nin-kurucusu-miguel-angel-felix-gallardo-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-16T02:57:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:15:50.248734+00:00"
-    },
-    {
-      "id": "50c2556aabf0f498",
-      "source": "Türkiye Gazetesi",
-      "title": "Özel, şaibeli isimlere sahip çıktı!",
-      "summary": "Yeni Parti'nin \"Türkiye Yenileniyor\" sloganıyla gerçekleştirdiği 1. Olağan Kurultayı, Parti Meclisi (PM) ve Yüksek Disiplin Kurulu (YDK) üyelerinin belirlenmesiyle tamamlandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/ozel-saibeli-isimlere-sahip-cikti-tartismali-isimleri-yonetime-dahil-etti-1829582",
-      "published": "2026-11-16T02:47:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:35:41.497003+00:00"
-    },
-    {
-      "id": "9f52464f693d48c3",
-      "source": "Türkiye Gazetesi",
-      "title": "Özel, şaibeli isimlere sahip çıktı! Yönetime dâhil etti",
-      "summary": "Yeni Parti'nin \"Türkiye Yenileniyor\" sloganıyla gerçekleştirdiği 1. Olağan Kurultayı, Parti Meclisi (PM) ve Yüksek Disiplin Kurulu (YDK) üyelerinin belirlenmesiyle tamamlandı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/ozel-saibeli-isimlere-sahip-cikti-tartismali-isimleri-yonetime-dahil-etti-1829582",
-      "published": "2026-11-16T02:47:26+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T02:50:55.074023+00:00"
-    },
-    {
-      "id": "bffbc4cdeb6e9225",
-      "source": "Evrensel",
-      "title": "Denizli'de otomobilin çarptığı traktör takla attı: 2 ölü, 4 yaralı",
-      "summary": "Denizli'nin Honaz ilçesinde otomobilin traktörün römorkuna arkadan çarptığı kazada traktör sürücüsü Mehmet Yenitürk ile eşi Nurcan Yenitürk yaşamını yitirdi. Takla atan traktörde bulunan 4 kişi ise yaralandı.",
-      "link": "https://www.evrensel.net/haber/6009645/denizli-de-otomobilin-carptigi-traktor-takla-atti-2-olu-4-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "published": "2026-11-16T02:43:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:01:05.309755+00:00"
-    },
-    {
-      "id": "2c24ee892cac800a",
-      "source": "Türkiye Gazetesi",
-      "title": "70 şehit üç yıl sonra defnedildi!",
-      "summary": "Gazze'de enkaz altından üç yıl sonra çıkarılan ve aralarında kadınlar ile çocukların da bulunduğu 70 Filistinli şehidin naaşı, ailelerinin gözyaşları içerisinde toprağa verildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/70-sehit-uc-yil-sonra-defnedildi-orta-doguda-vicdan-olmus-1829581",
-      "published": "2026-11-16T02:37:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:35:41.497055+00:00"
-    },
-    {
-      "id": "631ec84d6db6ed05",
-      "source": "Türkiye Gazetesi",
-      "title": "ORTA DOĞU'DA VİCDAN ÖLMÜŞ",
-      "summary": "Gazze'de enkaz altından üç yıl sonra çıkarılan ve aralarında kadınlar ile çocukların da bulunduğu 70 Filistinli şehidin naaşı, ailelerinin gözyaşları içerisinde toprağa verildi.",
-      "link": "https://www.turkiyegazetesi.com.tr/dunya/70-sehit-uc-yil-sonra-defnedildi-orta-doguda-vicdan-olmus-1829581",
-      "published": "2026-11-16T02:37:53+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T02:40:48.589446+00:00"
-    },
-    {
-      "id": "0c98b99add8904b8",
-      "source": "Habertürk",
-      "title": "ABD'den Bahreyn'deki vatandaşlarına uyarı",
-      "summary": "ABD'nin Bahreyn Büyükelçiliği, İran ve İran destekli Husilerin bölgedeki muhtemel saldırı tehditlerine karşı ülkedeki vatandaşlarına \"yüksek düzeyde teyakkuzda olma\" çağrısında bulundu",
-      "link": "https://www.haberturk.com/dunya/abd-den-bahreyn-deki-vatandaslarina-uyari-3927567",
-      "published": "2026-11-16T02:29:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T02:40:45.228004+00:00"
-    },
-    {
-      "id": "bbff4f9031ab2e97",
-      "source": "Türkiye Gazetesi",
-      "title": "Türk dizileri tarihi yeniden yazıyor!",
-      "summary": "Türkiye'nin eğitim, kültür, din ve televizyon yapımları üzerinden uluslararası etkisini artırdığını ifade eden Rum basını, \"Türk dizileri yalnızca eğlence amacı taşımıyor aynı zamanda tarihi de yeniden şekillendiriyor\" diye yazdı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/turk-dizileri-tarihi-yeniden-yaziyor-rum-basini-dunyada-firtina-gibi-esen-yapimlari-h-1829580",
-      "published": "2026-11-16T02:25:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:35:41.497119+00:00"
-    },
-    {
-      "id": "d3d3db5f8d670b3c",
-      "source": "Türkiye Gazetesi",
-      "title": "TÜRK DİZİLERİ TARİH YAZIYOR!",
-      "summary": "Türkiye'nin eğitim, kültür, din ve televizyon yapımları üzerinden uluslararası etkisini artırdığını ifade eden Rum basını, \"Türk dizileri yalnızca eğlence amacı taşımıyor aynı zamanda tarihi de yeniden şekillendiriyor\" diye yazdı.",
-      "link": "https://www.turkiyegazetesi.com.tr/gundem/turk-dizileri-tarihi-yeniden-yaziyor-rum-basini-dunyada-firtina-gibi-esen-yapimlari-h-1829580",
-      "published": "2026-11-16T02:25:28+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T02:31:04.300794+00:00"
-    },
-    {
-      "id": "98a42e470e6c17bb",
-      "source": "Türkiye Gazetesi",
-      "title": "ASELSAN'ın yeni silahı! EJDERHA, 51 drone'u keklik gibi avladı",
-      "summary": "ASELSAN, 51'inci kuruluş yıl dönümün- de geliştirdiği EJDERHA Yüksek Güçlü Elektromanyetik (HPEM) İHA Savunma Sistemi ile dikkat çeken bir başarıya imza attı.",
-      "link": "https://www.turkiyegazetesi.com.tr/teknoloji/aselsanin-yeni-silahi-ejderha-51-droneu-keklik-gibi-avladi-1829579",
-      "published": "2026-11-16T02:08:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:35:41.497171+00:00"
-    },
-    {
-      "id": "9d4a8f54bc6fc0cc",
-      "source": "Türkiye Gazetesi",
-      "title": "Dünyada bir ilk! Tek tuşla 51 drone'u düşürdü",
-      "summary": "ASELSAN, 51'inci kuruluş yıl dönümün- de geliştirdiği EJDERHA Yüksek Güçlü Elektromanyetik (HPEM) İHA Savunma Sistemi ile dikkat çeken bir başarıya imza attı.",
-      "link": "https://www.turkiyegazetesi.com.tr/teknoloji/aselsanin-yeni-silahi-ejderha-51-droneu-keklik-gibi-avladi-1829579",
-      "published": "2026-11-16T02:08:36+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T02:15:49.217393+00:00"
-    },
-    {
-      "id": "bd29c26c0f93abdb",
-      "source": "Sabah",
-      "title": "İsrail casuslarına 20’şer yıl hapis talebi",
-      "summary": "Türkiye’de yaşayan ve siyonist İsrail’in vahşetine muhalif Filistinlileri takibe alarak haklarında bilgi toplayan casus Serkan Çiçek ile ona yasa dışı veri sağlayan avukat Tuğrulhan Dip’e 20’şer yıla kadar... Devamı için tıklayınız",
-      "link": "https://www.sabah.com.tr/yasam/israil-casuslarina-20ser-yil-hapis-talebi-7702596",
-      "published": "2026-11-16T02:05:56+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T04:05:40.457981+00:00"
-    },
-    {
-      "id": "0dcdd7356200c8d4",
-      "source": "Aydınlık",
-      "title": "Sultangazi'de otomobil kamyonet ve park halindeki araçlara çarptı",
-      "summary": "Sultangazi&#039;de saat 19.00 sıralarında hızla ilerleyen bir otomobil, önce hareket halindeki kamyonete, ardından park halindeki araçlara çarptı. Kazada otomobil sürücüsü hafif yaralanırken 6 araç hasar gördü.",
-      "link": "https://www.aydinlik.com.tr/haber/sultangazide-6-aracin-hasar-gordugu-kaza-kamerada-599112",
-      "published": "2026-11-16T02:00:49+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T02:05:44.301559+00:00"
-    },
-    {
-      "id": "d3688859cef75454",
-      "source": "Bir Gün",
-      "title": "BirGün muhabiri İsmail Arı 26 gündür tutuklu!",
-      "summary": "Eski RTÜK Başkanı Ebubekir Şahin'in şikâyeti üzerine ifade vermek üzere kendi iradesiyle gittiği Ankara Emniyet Müdürlüğü'nde gözaltına alınan muhabirimiz İsmail Arı, 21 Ekim günü çıkarıldığı hakimlikçe tutuklandı. Arı, kararın ardından, \"Hakim dinlemedi bile, avukatların sözünü kesti. Yatarı bile olmayan suçtan beni bir kez daha cezaevine gönderiyorlar\" dedi. 19 Kasım'da Ankara'da hakim karşısına",
-      "link": "https://www.birgun.net/haber/birgun-muhabiri-ismail-ari-26-gundur-tutuklu-741512",
-      "published": "2026-11-16T02:00:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-16T03:25:36.268122+00:00"
     }
   ]
 }

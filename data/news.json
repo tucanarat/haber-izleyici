@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-16T03:25:53.299391+00:00",
+  "last_updated": "2026-11-16T03:31:17.946302+00:00",
   "keyword_filter": [
     "örnek kelime 1",
     "örnek kelime 2"
   ],
   "total_items": 500,
-  "new_items_this_run": 503,
+  "new_items_this_run": 501,
   "items": [
     {
       "id": "07736977558984f4",
@@ -5475,6 +5475,17 @@
       "fetched_at": "2026-11-15T19:35:38.296421+00:00"
     },
     {
+      "id": "273056596d52c6ec",
+      "source": "DonanımHaber",
+      "title": "HBO, merakla beklenen Harry Potter dizisinden 1.5 dakikalık bir sahne paylaştı",
+      "summary": "Harry Potter bu kez de TV ekranlarına geliyor. HBO, bu yıl bitmeden izleyicilere sunacağı Harry Potter dizisinden 1.5 dakikalık bir sahne paylaştı. İşte Hogwarts'ın kapılarını yeniden açan o sahne.",
+      "link": "https://www.donanimhaber.com/hbo-harry-potter-dizisinden-1-5-dakikalik-bir-sahne-paylasti--212947",
+      "published": "2026-11-15T19:30:00+00:00",
+      "matched": false,
+      "matched_keywords": [],
+      "fetched_at": "2026-11-16T03:31:16.087914+00:00"
+    },
+    {
       "id": "397c973f62fad43c",
       "source": "Akşam",
       "title": "Adil geçişle emekçiyi korumak",
@@ -5495,17 +5506,6 @@
       "matched": false,
       "matched_keywords": [],
       "fetched_at": "2026-11-15T19:35:41.343138+00:00"
-    },
-    {
-      "id": "db7bd492aa177c06",
-      "source": "Cumhuriyet",
-      "title": "Feci kaza... 5 araç birbirine girdi: 11 yaralı",
-      "summary": "Tekirdağ’ın Çerkezköy ilçesinde 5 aracın karıştığı zincirleme trafik kazasında 11 kişi yaralandı.",
-      "link": "https://www.cumhuriyet.com.tr/turkiye/feci-kaza-5-arac-birbirine-girdi-11-yarali-2556432",
-      "published": "2026-11-15T19:30:00+00:00",
-      "matched": false,
-      "matched_keywords": [],
-      "fetched_at": "2026-11-15T19:31:02.772192+00:00"
     }
   ]
 }
